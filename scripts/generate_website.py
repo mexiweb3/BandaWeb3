@@ -62,9 +62,12 @@ class WebsiteGenerator:
         
         # Copy static files
         if self.static_dir.exists():
-            for file in self.static_dir.glob("*"):
-                if file.is_file():
-                    shutil.copy2(file, self.output_dir / "static" / file.name)
+            for item in self.static_dir.glob("**/*"):
+                if item.is_file():
+                    rel_path = item.relative_to(self.static_dir)
+                    dest = self.output_dir / "static" / rel_path
+                    dest.parent.mkdir(parents=True, exist_ok=True)
+                    shutil.copy2(item, dest)
         
         print(f"{Fore.GREEN}✓ Output directory ready: {self.output_dir}")
     
@@ -89,6 +92,19 @@ class WebsiteGenerator:
                 shutil.copy2(flyer_path, dest)
                 episode["flyer_url"] = f"../flyers/{flyer_path.name}"
                 print(f"{Fore.GREEN}✓ Copied flyer for episode {episode['number']}")
+            
+            # Copy multiple flyers
+            if episode.get("flyer_urls"):
+                updated_urls = []
+                for url in episode["flyer_urls"]:
+                    if os.path.exists(url):
+                        flyer_path = Path(url)
+                        dest = self.output_dir / "flyers" / flyer_path.name
+                        shutil.copy2(flyer_path, dest)
+                        updated_urls.append(f"../flyers/{flyer_path.name}")
+                        print(f"{Fore.GREEN}✓ Copied flyer {flyer_path.name} for episode {episode['number']}")
+                if updated_urls:
+                    episode["flyer_urls"] = updated_urls
     
     def generate_episode_page(self, episode: Dict, prev_episode: Dict = None, next_episode: Dict = None):
         """Generate individual episode page."""
@@ -183,6 +199,7 @@ class WebsiteGenerator:
     
     def generate_hosted_page(self, episodes: List[Dict], stats: Dict):
         """Generate page with all hosted spaces (numeric IDs)."""
+        import random
         template = self.env.get_template("hosted.html")
         
         # Filter hosted episodes (numeric IDs like 001, 072, etc.)
@@ -197,7 +214,8 @@ class WebsiteGenerator:
             ep_copy = ep.copy()
             f_url = None
             if ep.get("flyer_urls") and len(ep["flyer_urls"]) > 0:
-                f_url = ep["flyer_urls"][0]
+                # Select random flyer if multiple exist
+                f_url = random.choice(ep["flyer_urls"])
             elif ep.get("flyer_url"):
                 f_url = ep["flyer_url"]
             if f_url and f_url.startswith("../"):

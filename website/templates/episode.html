@@ -43,7 +43,7 @@
                             <line x1="8" y1="2" x2="8" y2="6"></line>
                             <line x1="3" y1="10" x2="21" y2="10"></line>
                         </svg>
-                        {{ episode.date }}
+                        {{ episode.date }}{% if episode.time %} - {{ episode.time }}{% endif %}
                     </span>
                     <span class="meta-item">
                         <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor">
@@ -74,27 +74,43 @@
             <!-- Flyer and Audio Player -->
             <div class="episode-content">
                 <div class="content-grid">
-                    <!-- Flyer -->
-                    {% if episode.flyer_url %}
+                    <!-- Flyer(s) -->
+                    {% if episode.flyer_urls and episode.flyer_urls|length > 0 %}
                     <div class="flyer-container">
-                        <img src="{{ episode.flyer_url }}" alt="Flyer Episode {{ episode.number }}" class="flyer-image">
+                        {% for flyer_url in episode.flyer_urls %}
+                        <img src="{{ flyer_url }}" alt="Episode {{ episode.number }} Flyer {{ loop.index }}"
+                            class="episode-flyer">
+                        {% endfor %}
+                    </div>
+                    {% elif episode.flyer_url %}
+                    <div class="flyer-container">
+                        <img src="{{ episode.flyer_url }}" alt="Episode {{ episode.number }} Flyer"
+                            class="episode-flyer">
                     </div>
                     {% endif %}
 
                     <!-- Audio Player -->
+                    {% if episode.audio_url %}
                     <div class="audio-player-container">
                         <h2>Escuchar episodio</h2>
-                        {% if episode.audio_url %}
                         <audio controls class="audio-player">
-                            <source src="{{ episode.audio_url }}" type="audio/mpeg">
+                            <source src="../audio/{{ episode.audio_url }}" type="audio/mpeg">
                             Tu navegador no soporta el elemento de audio.
                         </audio>
+                    </div>
+                    {% else %}
+                    <div class="audio-placeholder">
+                        <h2>Escuchar episodio</h2>
+                        {% if episode.space_url %}
+                        <a href="{{ episode.space_url }}" target="_blank" class="listen-button-link">
+                            <img src="../static/images/listen_button.png" alt="Escuchar en X Space"
+                                class="listen-button" style="width: 300px; height: auto;">
+                        </a>
                         {% else %}
-                        <div class="audio-placeholder">
-                            <p>Audio próximamente disponible</p>
-                        </div>
+                        <p>Audio próximamente disponible</p>
                         {% endif %}
                     </div>
+                    {% endif %}
                 </div>
 
                 <!-- Description -->

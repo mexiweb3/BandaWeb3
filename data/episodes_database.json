@@ -45,6 +45,34 @@
             "duration": "60 min"
         },
         {
+            "number": "059",
+            "title": "BandaWeb3 #059 Live desde Solana Accelerate en NYC",
+            "date": "2025-05-22",
+            "time": "12:00 PM CST",
+            "duration": "1h 15m",
+            "guests": [
+                "Nikita Bier",
+                "Anatoly Yakovenko",
+                "Pedro Miranda"
+            ],
+            "guest_links": {},
+            "space_url": "",
+            "description": "BandaWeb3 #059 Live desde Solana Accelerate en NYC. Les estaremos platicando sobre lo que está sucediendo en NYC en el marco de Solana Accelerate - Ship or die.",
+            "topics": [
+                "Solana Accelerate",
+                "NYC",
+                "Ship or die",
+                "Live Coverage"
+            ],
+            "status": "archived",
+            "transcript_available": false,
+            "content_generated": false,
+            "flyer_urls": [
+                "website/static/images/flyer_059.jpg"
+            ],
+            "listeners": "168"
+        },
+        {
             "number": "057",
             "title": "BandaWeb3 #057 @CryptoNotaz #WLFI",
             "date": "2025-05-15",
@@ -61,7 +89,9 @@
             "status": "archived",
             "transcript_available": false,
             "content_generated": false,
-            "flyer_urls": [],
+            "flyer_urls": [
+                "../static/images/flyer_057.jpg"
+            ],
             "listeners": "213"
         },
         {
@@ -99,18 +129,28 @@
             "date": "2025-05-08",
             "duration": "1h 22m",
             "guests": [
-                "btcnetworkmty"
+                "visionario_btc",
+                "kapitalex"
             ],
             "guest_links": {
-                "btcnetworkmty": "https://x.com/btcnetworkmty"
+                "visionario_btc": "https://x.com/visionario_btc",
+                "kapitalex": "https://x.com/kapitalex"
             },
-            "space_url": "",
-            "description": "BandaWeb3 #055 @btcnetworkmty",
-            "topics": [],
+            "space_url": "https://x.com/i/spaces/1mnGegVPapAxX?s=20",
+            "description": "BandaWeb3 #055 @btcnetworkmty. Invitados @visionario_btc @kapitalex. Adrián y José nos contarán sobre Bitcoin Network Monterrey y debatiremos sobre el límite de OP-RETURN en Bitcoin.",
+            "topics": [
+                "Bitcoin Network Monterrey",
+                "OP-RETURN",
+                "Bitcoin",
+                "KapitalEx"
+            ],
             "status": "archived",
             "transcript_available": false,
             "content_generated": false,
-            "flyer_urls": [],
+            "flyer_urls": [
+                "../static/images/flyer_055.jpg",
+                "../static/images/flyer_055_2.jpg"
+            ],
             "listeners": "100"
         },
         {
@@ -119,39 +159,37 @@
             "date": "2025-05-06",
             "duration": "1h 20m",
             "guests": [
-                "arbitrum"
+                "_nathcortez",
+                "ToryDomK",
+                "iRobZ23",
+                "garosan1",
+                "EmaCr1pto",
+                "arbitrum_esp"
             ],
             "guest_links": {
-                "arbitrum": "https://x.com/arbitrum"
+                "_nathcortez": "https://x.com/_nathcortez",
+                "ToryDomK": "https://x.com/ToryDomK",
+                "iRobZ23": "https://x.com/iRobZ23",
+                "garosan1": "https://x.com/garosan1",
+                "EmaCr1pto": "https://x.com/EmaCr1pto",
+                "arbitrum_esp": "https://x.com/arbitrum_esp"
             },
-            "space_url": "",
-            "description": "BandaWeb3 #054 Embajadores @arbitrum",
-            "topics": [],
+            "space_url": "https://x.com/i/spaces/1ypKdZLEpqdJW?s=20",
+            "description": "BandaWeb3 #054 Embajadores @arbitrum. Speakers: @_nathcortez @ToryDomK @iRobZ23 @garosan1 @EmaCr1pto @arbitrum_esp. Todo sobre la participación de las y los embajadores en el hackathon de @ETHCincoDeMayo en CDMX #CryptoDeMayo.",
+            "topics": [
+                "Arbitrum Ambassadors",
+                "ETH Cinco de Mayo",
+                "Hackathon",
+                "CDMX",
+                "Crypto de Mayo"
+            ],
             "status": "archived",
             "transcript_available": false,
             "content_generated": false,
-            "flyer_urls": [],
+            "flyer_urls": [
+                "../static/images/flyer_054.jpg"
+            ],
             "listeners": "104"
-        },
-        {
-            "number": "053",
-            "title": "BandaWeb3 #053 Omma Cash @icphub_mx",
-            "date": "2025-04-22",
-            "duration": "1h 10m",
-            "guests": [
-                "icphub_mx"
-            ],
-            "guest_links": {
-                "icphub_mx": "https://x.com/icphub_mx"
-            },
-            "space_url": "",
-            "description": "BandaWeb3 #053 Omma Cash @icphub_mx",
-            "topics": [],
-            "status": "archived",
-            "transcript_available": false,
-            "content_generated": false,
-            "flyer_urls": [],
-            "listeners": "90"
         },
         {
             "number": "052",
@@ -166,13 +204,21 @@
                 "gustavojfe": "https://x.com/gustavojfe",
                 "SwapidoBTC": "https://x.com/SwapidoBTC"
             },
-            "space_url": "",
-            "description": "BandaWeb3 #052 @gustavojfe @SwapidoBTC",
-            "topics": [],
+            "space_url": "https://x.com/i/spaces/1ynJOlzXQDExR?s=20",
+            "description": "BandaWeb3 #052 @gustavojfe de @SwapidoBTC. Con Swapido puedes pagar cuentas bancarias en México con Bitcoin en segundos. Ideal para vender tu crypto, remesas o para tus gastos diarios.",
+            "topics": [
+                "Swapido",
+                "Bitcoin",
+                "Pagos",
+                "Remesas",
+                "México"
+            ],
             "status": "archived",
             "transcript_available": false,
             "content_generated": false,
-            "flyer_urls": [],
+            "flyer_urls": [
+                "../static/images/flyer_052.jpg"
+            ],
             "listeners": "72"
         },
         {
@@ -181,18 +227,35 @@
             "date": "2025-04-15",
             "duration": "1h 15m",
             "guests": [
-                "ElevatHerVC"
+                "sandym_c",
+                "diana10ka",
+                "ccaromejia",
+                "justmariangel",
+                "Warmicircle"
             ],
             "guest_links": {
-                "ElevatHerVC": "https://x.com/ElevatHerVC"
+                "sandym_c": "https://x.com/sandym_c",
+                "diana10ka": "https://x.com/diana10ka",
+                "ccaromejia": "https://x.com/ccaromejia",
+                "justmariangel": "https://x.com/justmariangel",
+                "Warmicircle": "https://x.com/Warmicircle"
             },
-            "space_url": "",
-            "description": "BandaWeb3 #051 @ElevatHerVC",
-            "topics": [],
+            "space_url": "https://x.com/i/spaces/1vOxwXPOgpWKB?s=20",
+            "description": "BandaWeb3 #051 @ElevatHerVC. Invitadas: @sandym_c @diana10ka @ccaromejia @justmariangel @Warmicircle. ElevatHer 1 Mayo Dubai - Evento donde las fundadoras e inversoras conectan. @theblockdubai",
+            "topics": [
+                "ElevatHer VC",
+                "Women in Web3",
+                "Dubai",
+                "Founders",
+                "Investors",
+                "The Block Dubai"
+            ],
             "status": "archived",
             "transcript_available": false,
             "content_generated": false,
-            "flyer_urls": [],
+            "flyer_urls": [
+                "../static/images/flyer_051.jpg"
+            ],
             "listeners": "168"
         },
         {
@@ -208,13 +271,21 @@
                 "entigdd": "https://x.com/entigdd",
                 "LidoFinance": "https://x.com/LidoFinance"
             },
-            "space_url": "",
-            "description": "BandaWeb3 #050 @entigdd @LidoFinance",
-            "topics": [],
+            "space_url": "https://x.com/i/spaces/1DXxyqQNPPRxM?s=20",
+            "description": "BandaWeb3 #050 @entigdd. Enti es lider de community staking en @LidoFinance, líderes en staking liquido. Enti nos contará sobre home staking, programa para correr validadores en casa.",
+            "topics": [
+                "Lido Finance",
+                "Staking",
+                "Home Staking",
+                "Validators",
+                "Liquid Staking"
+            ],
             "status": "archived",
             "transcript_available": false,
             "content_generated": false,
-            "flyer_urls": [],
+            "flyer_urls": [
+                "../static/images/flyer_050.jpg"
+            ],
             "listeners": "48"
         },
         {
@@ -224,242 +295,413 @@
             "duration": "1h 12m",
             "guests": [
                 "sohobiit",
-                "happ3nxyz"
+                "happ3nxyz",
+                "VaraNetwork_ES",
+                "VaraNetwork"
             ],
             "guest_links": {
                 "sohobiit": "https://x.com/sohobiit",
-                "happ3nxyz": "https://x.com/happ3nxyz"
+                "happ3nxyz": "https://x.com/happ3nxyz",
+                "VaraNetwork_ES": "https://x.com/VaraNetwork_ES",
+                "VaraNetwork": "https://x.com/VaraNetwork"
             },
-            "space_url": "",
-            "description": "BandaWeb3 #049 @sohobiit @happ3nxyz",
-            "topics": [],
+            "space_url": "https://x.com/i/spaces/1OyKALqlNwWxb?s=20",
+            "description": "BandaWeb3 #049 @sohobiit. Nos platicarán de Ledger Leaders Week de @ForoBlockchain. Invitados especiales: @happ3nxyz @VaraNetwork_ES @VaraNetwork. Info: https://foroblockchain.com",
+            "topics": [
+                "Ledger Leaders Week",
+                "Foro Blockchain",
+                "Vara Network",
+                "Happ3n",
+                "Blockchain Events"
+            ],
             "status": "archived",
             "transcript_available": false,
             "content_generated": false,
-            "flyer_urls": [],
+            "flyer_urls": [
+                "../static/images/flyer_049.jpg"
+            ],
             "listeners": "109"
         },
         {
             "number": "048",
             "title": "BandaWeb3 #048 @ETHCincoDeMayo",
             "date": "2025-03-27",
+            "time": "12:00 PM CST",
             "duration": "1h 25m",
             "guests": [
-                "ETHCincoDeMayo"
+                "ETHCincoDeMayo",
+                "meximalist",
+                "CelicTorresz",
+                "holaNFT",
+                "erikvalle_",
+                "0xVato",
+                "ariutokintumi"
             ],
             "guest_links": {
-                "ETHCincoDeMayo": "https://x.com/ETHCincoDeMayo"
+                "ETHCincoDeMayo": "https://x.com/ETHCincoDeMayo",
+                "meximalist": "https://x.com/meximalist",
+                "CelicTorresz": "https://x.com/CelicTorresz",
+                "holaNFT": "https://x.com/holaNFT",
+                "erikvalle_": "https://x.com/erikvalle_",
+                "0xVato": "https://x.com/0xVato",
+                "ariutokintumi": "https://x.com/ariutokintumi"
             },
-            "space_url": "",
-            "description": "BandaWeb3 #048 @ETHCincoDeMayo",
-            "topics": [],
+            "space_url": "https://x.com/i/spaces/1YqKDZrVdrvJV?s=20",
+            "description": "BandaWeb3 #048 @ETHCincoDeMayo. Conversaciones con @meximalist sin guion y uno que otro anuncio. #CryptoDeMayo 📍 CDMX - 📅 1ro -4to Mayo 2025",
+            "topics": [
+                "CryptoDeMayo",
+                "CDMX"
+            ],
             "status": "archived",
             "transcript_available": false,
             "content_generated": false,
-            "flyer_urls": [],
+            "flyer_urls": [
+                "website/static/images/flyer_048.jpg",
+                "website/static/images/flyer_048_2.jpg"
+            ],
             "listeners": "84"
         },
         {
             "number": "047",
             "title": "BandaWeb3 #047 @con3joblanco",
             "date": "2025-03-25",
+            "time": "12:00 PM CST",
             "duration": "1h 36m",
             "guests": [
-                "con3joblanco"
+                "con3joblanco",
+                "meximalist",
+                "casaweb3"
             ],
             "guest_links": {
-                "con3joblanco": "https://x.com/con3joblanco"
+                "con3joblanco": "https://x.com/con3joblanco",
+                "meximalist": "https://x.com/meximalist",
+                "casaweb3": "https://x.com/casaweb3"
             },
             "space_url": "",
-            "description": "BandaWeb3 #047 @con3joblanco",
-            "topics": [],
+            "description": "BandaWeb3 #047 @con3joblanco. conversaciones con @meximalist sin guion y uno que otro anuncio. nos contará todo sobre su proyecto @casaweb3 y su proceso para construir comunidad",
+            "topics": [
+                "Casa Web3",
+                "Comunidad"
+            ],
             "status": "archived",
             "transcript_available": false,
             "content_generated": false,
-            "flyer_urls": [],
+            "flyer_urls": [
+                "website/static/images/flyer_047.jpg"
+            ],
             "listeners": "294"
         },
         {
-            "number": "046",
-            "title": "BandaWeb3 #046 @FerIAFoundation",
-            "date": "2025-03-20",
-            "duration": "1h 05m",
+            "number": "036",
+            "title": "BandaWeb3 #036 @CryptoNotaz @con3joblanco",
+            "date": "2025-01-28",
+            "time": "12:00 PM CST",
+            "duration": "1h 30m",
             "guests": [
-                "FerIAFoundation"
+                "CryptoNotaz",
+                "con3joblanco",
+                "meximalist"
             ],
             "guest_links": {
-                "FerIAFoundation": "https://x.com/FerIAFoundation"
+                "CryptoNotaz": "https://x.com/CryptoNotaz",
+                "con3joblanco": "https://x.com/con3joblanco",
+                "meximalist": "https://x.com/meximalist"
             },
-            "space_url": "",
-            "description": "BandaWeb3 #046 @FerIAFoundation",
-            "topics": [],
+            "space_url": "https://x.com/i/spaces/1mrGmMPYnYzGy?s=20",
+            "description": "BandaWeb3 #036 @CryptoNotaz @con3joblanco. Conversaciones con @meximalist - sin guion y uno que otro anuncio. Shitcoineo en solana, estrategias, recomendaciones, bankroll management, degen plays.",
+            "topics": [
+                "Solana",
+                "Shitcoins",
+                "Degen Plays",
+                "Bankroll Management"
+            ],
             "status": "archived",
             "transcript_available": false,
             "content_generated": false,
-            "flyer_urls": [],
-            "listeners": "105"
+            "flyer_urls": [
+                "website/static/images/flyer_036.jpg"
+            ],
+            "listeners": "85"
         },
         {
             "number": "045",
             "title": "BandaWeb3 #045 Stablecoins MXN USD",
             "date": "2025-03-18",
+            "time": "12:00 PM CST",
             "duration": "1h 24m",
             "guests": [],
             "guest_links": {},
-            "space_url": "",
+            "space_url": "https://x.com/i/spaces/1nAJEgjwpjnKL?s=20",
             "description": "BandaWeb3 #045 Stablecoins MXN USD",
-            "topics": [],
+            "topics": [
+                "Stablecoins",
+                "MXN",
+                "USD"
+            ],
             "status": "archived",
             "transcript_available": false,
             "content_generated": false,
-            "flyer_urls": [],
-            "listeners": "60"
+            "flyer_urls": [
+                "website/static/images/flyer_045.png"
+            ],
+            "listeners": "103"
         },
         {
             "number": "043",
-            "title": "BandaWeb3 #043 @rogservin @ampleprotocol",
+            "title": "BandaWeb3 #043 @rogservin @AmpleProtocol",
             "date": "2025-03-13",
+            "time": "12:00 PM CST",
             "duration": "1h 20m",
             "guests": [
                 "rogservin",
-                "ampleprotocol"
+                "AmpleProtocol"
             ],
             "guest_links": {
                 "rogservin": "https://x.com/rogservin",
-                "ampleprotocol": "https://x.com/ampleprotocol"
+                "AmpleProtocol": "https://x.com/AmpleProtocol"
             },
-            "space_url": "",
-            "description": "BandaWeb3 #043 @rogservin @ampleprotocol",
-            "topics": [],
+            "space_url": "https://x.com/i/spaces/1lPJqMPYebMJb?s=20",
+            "description": "BandaWeb3 #043 @rogservin @AmpleProtocol",
+            "topics": [
+                "ICP",
+                "Hub Mexico"
+            ],
             "status": "archived",
             "transcript_available": false,
             "content_generated": false,
-            "flyer_urls": [],
+            "flyer_urls": [
+                "website/static/images/flyer_043.jpg"
+            ],
             "listeners": "211"
         },
         {
             "number": "042",
             "title": "BandaWeb3 #042 PixHelp Ordinals @UNICEFColombia",
             "date": "2025-02-20",
+            "time": "12:00 PM CST",
             "duration": "1h 32m",
             "guests": [
-                "UNICEFColombia"
+                "Wenlopezn",
+                "YuZapata3SC",
+                "UNICEFColombia",
+                "Xverse_ES",
+                "trio_xyz",
+                "ActifStudio"
             ],
             "guest_links": {
-                "UNICEFColombia": "https://x.com/UNICEFColombia"
+                "Wenlopezn": "https://x.com/Wenlopezn",
+                "YuZapata3SC": "https://x.com/YuZapata3SC",
+                "UNICEFColombia": "https://x.com/UNICEFColombia",
+                "Xverse_ES": "https://x.com/Xverse_ES",
+                "trio_xyz": "https://x.com/trio_xyz",
+                "ActifStudio": "https://x.com/ActifStudio"
             },
             "space_url": "",
             "description": "BandaWeb3 #042 PixHelp Ordinals @UNICEFColombia",
-            "topics": [],
+            "topics": [
+                "PixHelp",
+                "Ordinals",
+                "UNICEFColombia"
+            ],
             "status": "archived",
             "transcript_available": false,
             "content_generated": false,
-            "flyer_urls": [],
-            "listeners": "138"
+            "flyer_urls": [
+                "website/static/images/flyer_042.jpg"
+            ],
+            "listeners": "80"
         },
         {
             "number": "041",
             "title": "BandaWeb3 #041 @jorgevayron",
             "date": "2025-02-18",
-            "duration": "1h 30m",
+            "time": "12:00 PM CST",
+            "duration": "1h 00m",
             "guests": [
-                "jorgevayron"
+                "jorgevayron",
+                "meximalist"
             ],
             "guest_links": {
-                "jorgevayron": "https://x.com/jorgevayron"
+                "jorgevayron": "https://x.com/jorgevayron",
+                "meximalist": "https://x.com/meximalist"
             },
-            "space_url": "",
-            "description": "BandaWeb3 #041 @jorgevayron",
-            "topics": [],
+            "description": "Todo sobre su historia en el ecosistema Web3, los agentes de IA y el rug del imbecil de Milei",
+            "topics": [
+                "Web3",
+                "IA",
+                "Milei"
+            ],
             "status": "archived",
             "transcript_available": false,
             "content_generated": false,
-            "flyer_urls": [],
-            "listeners": "104"
+            "flyer_urls": [
+                "website/static/images/flyer_041.jpg"
+            ],
+            "listeners": "95"
         },
         {
             "number": "040",
             "title": "BandaWeb3 #040 @ElioWIF",
             "date": "2025-02-13",
-            "duration": "1h 07m",
+            "time": "12:00 PM CST",
+            "duration": "1h 00m",
             "guests": [
-                "ElioWIF"
+                "ElioWIF",
+                "meximalist"
             ],
             "guest_links": {
-                "ElioWIF": "https://x.com/ElioWIF"
+                "ElioWIF": "https://x.com/ElioWIF",
+                "meximalist": "https://x.com/meximalist"
             },
-            "space_url": "",
-            "description": "BandaWeb3 #040 @ElioWIF",
-            "topics": [],
+            "space_url": "https://x.com/i/spaces/1jMKgkNYbjkKL?s=20",
+            "description": "I AM $WIF YOU | Angel Investor & Entrepreneur 💎🙌 Early Investor @Tesla @Airbnb @Coinbase $PEPE $SOL | All Tweets Are My Opinions NFA 👽",
+            "topics": [
+                "WIF",
+                "Angel Investor",
+                "Entrepreneur"
+            ],
             "status": "archived",
             "transcript_available": false,
             "content_generated": false,
-            "flyer_urls": [],
+            "flyer_urls": [
+                "website/static/images/flyer_040.jpg"
+            ],
             "listeners": "135"
         },
         {
             "number": "039",
-            "title": "BandaWeb3 #039 @ariutokintumi",
+            "title": "BandaWeb3 #039 @ariutokintumi de @ETHCincoDeMayo y @RollAMate",
             "date": "2025-02-11",
-            "duration": "1h 36m",
+            "time": "12:00 PM CST",
+            "duration": "1h 10m",
             "guests": [
-                "ariutokintumi"
+                "ariutokintumi",
+                "ETHCincoDeMayo",
+                "RollAMate",
+                "meximalist"
             ],
             "guest_links": {
-                "ariutokintumi": "https://x.com/ariutokintumi"
+                "ariutokintumi": "https://x.com/ariutokisumi",
+                "ETHCincoDeMayo": "https://x.com/ETHCincoDeMayo",
+                "RollAMate": "https://x.com/RollAMate",
+                "meximalist": "https://x.com/meximalist"
             },
-            "space_url": "",
-            "description": "BandaWeb3 #039 @ariutokintumi",
-            "topics": [],
+            "space_url": "https://x.com/i/spaces/1OdKrDPnRQlJX?s=20",
+            "description": "BandaWeb3 #039 @ariutokintumi de @ETHCincoDeMayo y @RollAMate. Conversaciones con @meximalist - sin guion y uno que otro anuncio. Nos contará sobre ETHCDM, Roll a Mate y Datamorpho.",
+            "topics": [
+                "ETHCDM",
+                "Roll a Mate",
+                "Datamorpho"
+            ],
             "status": "archived",
             "transcript_available": false,
             "content_generated": false,
-            "flyer_urls": [],
-            "listeners": "90"
+            "flyer_urls": [
+                "website/static/images/flyer_039.png"
+            ],
+            "listeners": "100"
         },
         {
             "number": "038",
-            "title": "BandaWeb3 #038 (Parte 2) @fservin de @HolaSati",
+            "title": "BandaWeb3 #038 @fservin de @HolaSati y @LosOrdinales",
             "date": "2025-02-04",
-            "duration": "1h 07m",
+            "time": "12:00 PM CST",
+            "duration": "1h 10m",
             "guests": [
                 "fservin",
-                "HolaSati"
+                "HolaSati",
+                "LosOrdinales",
+                "meximalist"
             ],
             "guest_links": {
                 "fservin": "https://x.com/fservin",
-                "HolaSati": "https://x.com/HolaSati"
+                "HolaSati": "https://x.com/HolaSati",
+                "LosOrdinales": "https://x.com/LosOrdinales",
+                "TimDraper": "https://x.com/TimDraper",
+                "meximalist": "https://x.com/meximalist"
             },
-            "space_url": "",
-            "description": "BandaWeb3 #038 (Parte 2) @fservin de @HolaSati",
-            "topics": [],
+            "space_url": "https://x.com/i/spaces/1vOxwrdjvMdJB?s=20",
+            "description": "BandaWeb3 #038 @fservin de @HolaSati y @LosOrdinales. Conversaciones con @meximalist - sin guion y uno que otro anuncio. Nos contará todo sobre Sati y su reciente participación en el demo day de BitcoinFi de @TimDraper y Boost VC.",
+            "topics": [
+                "Sati",
+                "BitcoinFi",
+                "Demo Day"
+            ],
             "status": "archived",
             "transcript_available": false,
             "content_generated": false,
-            "flyer_urls": [],
-            "listeners": "55"
+            "flyer_urls": [
+                "website/static/images/flyer_038.png"
+            ],
+            "listeners": "80"
         },
         {
-            "number": "036",
-            "title": "BandaWeb3 #036 @CryptoNotaz @con3joblanco",
-            "date": "2025-01-23",
-            "duration": "1h 48m",
+            "number": "037",
+            "title": "BandaWeb3 #037 @CryptoNotaz @con3joblanco",
+            "date": "2025-01-28",
+            "time": "12:00 PM CST",
+            "duration": "1h 30m",
             "guests": [
                 "CryptoNotaz",
-                "con3joblanco"
+                "con3joblanco",
+                "meximalist"
             ],
             "guest_links": {
                 "CryptoNotaz": "https://x.com/CryptoNotaz",
-                "con3joblanco": "https://x.com/con3joblanco"
+                "con3joblanco": "https://x.com/con3joblanco",
+                "meximalist": "https://x.com/meximalist"
             },
-            "space_url": "",
-            "description": "BandaWeb3 #036 @CryptoNotaz @con3joblanco",
-            "topics": [],
+            "space_url": "https://x.com/i/spaces/1mrGmMPYnYzGy?s=20",
+            "description": "BandaWeb3 #037 @CryptoNotaz @con3joblanco. Conversaciones con @meximalist - sin guion y uno que otro anuncio. Shitcoineo en solana, estrategias, recomendaciones, bankroll management, degen plays.",
+            "topics": [
+                "Solana",
+                "Shitcoins",
+                "Degen Plays",
+                "Bankroll Management"
+            ],
             "status": "archived",
             "transcript_available": false,
             "content_generated": false,
-            "flyer_urls": [],
-            "listeners": "53"
+            "flyer_urls": [
+                "website/static/images/flyer_037.jpg"
+            ],
+            "listeners": "85"
+        },
+        {
+            "number": "036",
+            "title": "BandaWeb3 #036 Embajadores @StellarOrg @StarMakerMex",
+            "date": "2025-01-23",
+            "time": "12:00 PM CST",
+            "duration": "1h 30m",
+            "guests": [
+                "Danielahenao_1",
+                "JCruz3464",
+                "StarMakerMex",
+                "meximalist"
+            ],
+            "guest_links": {
+                "Danielahenao_1": "https://x.com/Danielahenao_1",
+                "JCruz3464": "https://x.com/JCruz3464",
+                "StarMakerMex": "https://x.com/StarMakerMex",
+                "StellarOrg": "https://x.com/StellarOrg",
+                "TheBAFNetwork": "https://x.com/TheBAFNetwork",
+                "meximalist": "https://x.com/meximalist"
+            },
+            "space_url": "https://x.com/i/spaces/1nAJEppYzqlGL?s=20",
+            "description": "BandaWeb3 #036 Embajadores @StellarOrg @StarMakerMex. Invitadxs especiales: @Danielahenao_1 de @TheBAFNetwork y @JCruz3464 (Profe del TEC Tlaxiaco). Nos platicarán del programa de embajadores de Stellar y eventos próximos.",
+            "topics": [
+                "Stellar",
+                "StarMakerMex",
+                "Embajadores",
+                "Eventos"
+            ],
+            "status": "archived",
+            "transcript_available": false,
+            "content_generated": false,
+            "flyer_urls": [
+                "website/static/images/flyer_036.png"
+            ],
+            "listeners": "90"
         },
         {
             "number": "035",
@@ -854,12 +1096,7 @@
             "space_url": "https://x.com/i/spaces/1yNxabkXlPDKj?s=20",
             "audio_url": "",
             "flyer_urls": [
-                "../static/images/flyer_074.jpg",
-                "../static/images/flyer_074.png",
-                "../static/images/flyer_074_2.png",
-                "../static/images/flyer_074_3.png",
-                "../static/images/flyer_074_4.jpg",
-                "../static/images/flyer_074_5.jpg"
+                "website/static/images/flyer_074.jpg"
             ],
             "guests": [
                 "ariutokintumi",
@@ -1488,6 +1725,38 @@
             "listeners": "49"
         },
         {
+            "number": "053",
+            "title": "BandaWeb3 #053 Omma Cash",
+            "date": "2025-04-22",
+            "duration": "1 hours, 4 minutes, 54 seconds",
+            "guests": [
+                "isracts",
+                "sergioglez0625",
+                "vicl9403"
+            ],
+            "guest_links": {
+                "isracts": "https://x.com/isracts",
+                "sergioglez0625": "https://x.com/sergioglez0625",
+                "vicl9403": "https://x.com/vicl9403"
+            },
+            "space_url": "https://x.com/i/spaces/1ypKdZLEpqdJW?s=20",
+            "description": "BandaWeb3 #053 Omma Cash. Invitados: @isracts @sergioglez0625 @vicl9403. Sponsor: @icphub_MX. OmmaCash: Envía remesas de USA a México por WhatsApp en minutos, con bajo costo, usando blockchain.",
+            "topics": [
+                "Omma Cash",
+                "Remesas",
+                "WhatsApp",
+                "Blockchain",
+                "ICP Hub México"
+            ],
+            "status": "archived",
+            "transcript_available": false,
+            "content_generated": false,
+            "flyer_urls": [
+                "../static/images/flyer_053.jpg"
+            ],
+            "listeners": "49"
+        },
+        {
             "number": "1",
             "title": "BandaWeb3 - Verborrea #1 con mexi.wtf",
             "date": "2024-08-15",
@@ -1598,7 +1867,7 @@
             "transcript_available": false,
             "content_generated": false,
             "flyer_urls": [
-                "../static/images/flyer_067.jpg"
+                "website/static/images/flyer_067.png"
             ],
             "listeners": "27"
         },
@@ -1824,6 +2093,32 @@
                 "../static/images/flyer_060.jpg"
             ],
             "listeners": "197"
+        },
+        {
+            "number": "058",
+            "title": "BandaWeb3 #058 Pizza Party dApp Live Demo",
+            "date": "2025-05-20",
+            "duration": "",
+            "guests": [
+                "Mexi"
+            ],
+            "guest_links": {},
+            "space_url": "",
+            "description": "BandaWeb3 #058 Pizza Party dApp Live Demo. Mexi nos contará todo sobre el dApp que vibecodeo para tener activaciones en el Global Pizza Party con @Pizza_DAO en @base.",
+            "topics": [
+                "Pizza DAO",
+                "Global Pizza Party",
+                "dApp Demo",
+                "Base",
+                "Live Demo"
+            ],
+            "status": "archived",
+            "transcript_available": false,
+            "content_generated": false,
+            "flyer_urls": [
+                "../static/images/flyer_058.jpg"
+            ],
+            "listeners": ""
         },
         {
             "number": "20240125",

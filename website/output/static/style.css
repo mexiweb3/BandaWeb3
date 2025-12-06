@@ -119,7 +119,8 @@ body {
   margin-bottom: 2rem;
 }
 
-.search-input, .sort-select {
+.search-input,
+.sort-select {
   padding: 0.75rem 1rem;
   background: var(--bg-light);
   border: 1px solid var(--border);
@@ -135,7 +136,7 @@ body {
 /* Episodes Grid */
 .episodes-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  grid-template-columns: repeat(3, 1fr);
   gap: 2rem;
   margin-bottom: 4rem;
 }
@@ -160,7 +161,8 @@ body {
 
 .card-image {
   position: relative;
-  padding-top: 56.25%;
+  padding-top: 100%;
+  /* Square aspect ratio */
   background: linear-gradient(135deg, var(--primary), var(--secondary));
   overflow: hidden;
 }
@@ -171,7 +173,8 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: contain;
+  background: var(--bg-light);
 }
 
 .card-overlay {
@@ -321,11 +324,17 @@ body {
   margin-top: 1rem;
 }
 
-.episode-description, .episode-guests, .episode-topics, .episode-share {
+.episode-description,
+.episode-guests,
+.episode-topics,
+.episode-share {
   margin-bottom: 3rem;
 }
 
-.episode-description h2, .episode-guests h2, .episode-topics h2, .episode-share h2 {
+.episode-description h2,
+.episode-guests h2,
+.episode-topics h2,
+.episode-share h2 {
   margin-bottom: 1rem;
   color: var(--primary);
 }
@@ -420,15 +429,21 @@ body {
   .hero-title {
     font-size: 2rem;
   }
-  
+
   .content-grid {
     grid-template-columns: 1fr;
   }
-  
+
   .episodes-grid {
     grid-template-columns: 1fr;
   }
-  
+}
+
+@media (max-width: 1200px) {
+  .episodes-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
   .controls {
     flex-direction: column;
   }
@@ -436,258 +451,280 @@ body {
 
 /* New Episode Page Styles */
 .guest-link {
-    color: var(--primary-color);
-    text-decoration: none;
-    display: inline-flex;
-    align-items: center;
-    gap: 0.25rem;
+  color: var(--primary-color);
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
 }
 
 .guest-link:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 .icon-tiny {
-    width: 14px;
-    height: 14px;
+  width: 14px;
+  height: 14px;
 }
 
 .status-badge {
-    padding: 0.25rem 0.75rem;
-    border-radius: 1rem;
-    font-size: 0.875rem;
-    font-weight: 500;
+  padding: 0.25rem 0.75rem;
+  border-radius: 1rem;
+  font-size: 0.875rem;
+  font-weight: 500;
 }
 
 .status-badge.archived {
-    background-color: #f3f4f6;
-    color: #4b5563;
+  background-color: #f3f4f6;
+  color: #4b5563;
 }
 
 .status-badge.scheduled {
-    background-color: #ecfdf5;
-    color: #059669;
+  background-color: #ecfdf5;
+  color: #059669;
 }
 
 .episode-links {
-    margin: 2rem 0;
+  margin: 2rem 0;
 }
 
 .links-list {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1rem;
-    margin-top: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 1rem;
 }
 
 .btn-outline {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.5rem;
-    padding: 0.75rem 1.5rem;
-    border: 1px solid var(--border-color);
-    border-radius: 0.5rem;
-    color: var(--text-color);
-    text-decoration: none;
-    font-weight: 500;
-    transition: all 0.2s;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.5rem;
+  border: 1px solid var(--border-color);
+  border-radius: 0.5rem;
+  color: var(--text-color);
+  text-decoration: none;
+  font-weight: 500;
+  transition: all 0.2s;
 }
 
 .btn-outline:hover {
-    border-color: var(--primary-color);
-    color: var(--primary-color);
-    background-color: rgba(63, 81, 181, 0.05);
+  border-color: var(--primary-color);
+  color: var(--primary-color);
+  background-color: rgba(63, 81, 181, 0.05);
 }
 
 @media (prefers-color-scheme: dark) {
-    .status-badge.archived {
-        background-color: #374151;
-        color: #d1d5db;
-    }
-    
-    .status-badge.scheduled {
-        background-color: #064e3b;
-        color: #a7f3d0;
-    }
+  .status-badge.archived {
+    background-color: #374151;
+    color: #d1d5db;
+  }
+
+  .status-badge.scheduled {
+    background-color: #064e3b;
+    color: #a7f3d0;
+  }
 }
 
 /* Homepage Sections */
 .about-section {
-    padding: 4rem 0;
-    background-color: var(--bg-secondary);
+  padding: 4rem 0;
+  background-color: var(--bg-secondary);
 }
 
 .about-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 2rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
 }
 
 .about-card {
-    background: var(--bg-color);
-    padding: 2rem;
-    border-radius: 1rem;
-    border: 1px solid var(--border-color);
+  background: var(--bg-color);
+  padding: 2rem;
+  border-radius: 1rem;
+  border: 1px solid var(--border-color);
 }
 
 .about-card h2 {
-    color: var(--primary-color);
-    margin-bottom: 1rem;
+  color: var(--primary-color);
+  margin-bottom: 1rem;
 }
 
 .about-card p {
-    line-height: 1.6;
-    margin-bottom: 1rem;
-    color: var(--text-secondary);
+  line-height: 1.6;
+  margin-bottom: 1rem;
+  color: var(--text-secondary);
 }
 
 .social-links {
-    margin-top: 1.5rem;
+  margin-top: 1.5rem;
 }
 
 .social-link {
-    display: inline-block;
-    padding: 0.5rem 1rem;
-    background-color: var(--primary-color);
-    color: white;
-    text-decoration: none;
-    border-radius: 0.5rem;
-    font-weight: 500;
-    transition: all 0.2s;
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  background-color: var(--primary-color);
+  color: white;
+  text-decoration: none;
+  border-radius: 0.5rem;
+  font-weight: 500;
+  transition: all 0.2s;
 }
 
 .social-link:hover {
-    background-color: #4a5fc1;
-    transform: translateY(-2px);
+  background-color: #4a5fc1;
+  transform: translateY(-2px);
 }
 
 .latest-spaces {
-    padding: 4rem 0;
+  padding: 4rem 0;
 }
 
 .section-title {
-    font-size: 2rem;
-    margin-bottom: 2rem;
-    text-align: center;
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  text-align: center;
 }
 
 .view-all-section {
-    display: flex;
-    gap: 1rem;
-    justify-content: center;
-    margin-top: 3rem;
-    flex-wrap: wrap;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  margin-top: 3rem;
+  flex-wrap: wrap;
 }
 
 .btn {
-    padding: 1rem 2rem;
-    border-radius: 0.5rem;
-    text-decoration: none;
-    font-weight: 600;
-    transition: all 0.2s;
-    display: inline-block;
+  padding: 1rem 2rem;
+  border-radius: 0.5rem;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.2s;
+  display: inline-block;
 }
 
 .btn-primary {
-    background-color: var(--primary-color);
-    color: white;
+  background-color: var(--primary-color);
+  color: white;
 }
 
 .btn-primary:hover {
-    background-color: #4a5fc1;
-    transform: translateY(-2px);
+  background-color: #4a5fc1;
+  transform: translateY(-2px);
 }
 
 .btn-secondary {
-    background-color: transparent;
-    color: var(--primary-color);
-    border: 2px solid var(--primary-color);
+  background-color: transparent;
+  color: var(--primary-color);
+  border: 2px solid var(--primary-color);
 }
 
 .btn-secondary:hover {
-    background-color: var(--primary-color);
-    color: white;
+  background-color: var(--primary-color);
+  color: white;
 }
 
 .stats-section {
-    padding: 4rem 0;
-    background-color: var(--bg-secondary);
+  padding: 4rem 0;
+  background-color: var(--bg-secondary);
 }
 
 .stats-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 2rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 2rem;
 }
 
 .stat-card {
-    text-align: center;
-    padding: 2rem;
-    background: var(--bg-color);
-    border-radius: 1rem;
-    border: 1px solid var(--border-color);
+  text-align: center;
+  padding: 2rem;
+  background: var(--bg-color);
+  border-radius: 1rem;
+  border: 1px solid var(--border-color);
 }
 
 .stat-number {
-    display: block;
-    font-size: 3rem;
-    font-weight: 700;
-    color: var(--primary-color);
-    margin-bottom: 0.5rem;
+  display: block;
+  font-size: 3rem;
+  font-weight: 700;
+  color: var(--primary-color);
+  margin-bottom: 0.5rem;
 }
 
 .stat-label {
-    display: block;
-    color: var(--text-secondary);
-    font-size: 1rem;
+  display: block;
+  color: var(--text-secondary);
+  font-size: 1rem;
 }
 
 @media (prefers-color-scheme: dark) {
-    .about-section, .stats-section {
-        background-color: #1a1a1a;
-    }
+
+  .about-section,
+  .stats-section {
+    background-color: #1a1a1a;
+  }
 }
 
 /* Hosted/Co-hosted Pages - Square Grid Layout */
 .episodes-list .episodes-grid {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 1.5rem;
-    margin-bottom: 4rem;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.5rem;
+  margin-bottom: 4rem;
 }
 
 .episodes-list .card-image {
-    position: relative;
-    padding-top: 100%; /* Square aspect ratio */
-    background: linear-gradient(135deg, var(--primary), var(--secondary));
-    overflow: hidden;
+  position: relative;
+  padding-top: 100%;
+  /* Square aspect ratio */
+  background: linear-gradient(135deg, var(--primary), var(--secondary));
+  overflow: hidden;
 }
 
 .episodes-list .card-image img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: contain; /* Show full image without cropping */
-    background: var(--bg-light);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  /* Show full image without cropping */
+  background: var(--bg-light);
 }
 
 /* Responsive adjustments for hosted/co-hosted pages */
 @media (max-width: 1200px) {
-    .episodes-list .episodes-grid {
-        grid-template-columns: repeat(3, 1fr);
-    }
+  .episodes-list .episodes-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
 
 @media (max-width: 768px) {
-    .episodes-list .episodes-grid {
-        grid-template-columns: repeat(2, 1fr);
-    }
+  .episodes-list .episodes-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
 
 @media (max-width: 480px) {
-    .episodes-list .episodes-grid {
-        grid-template-columns: 1fr;
-    }
+  .episodes-list .episodes-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Listen Button */
+.listen-button-link {
+  display: inline-block;
+  margin-top: 20px;
+  transition: transform 0.2s;
+}
+
+.listen-button-link:hover {
+  transform: scale(1.02);
+}
+
+.listen-button {
+  width: auto;
+  max-width: 300px;
+  height: auto;
+  filter: drop-shadow(0 0 15px rgba(0, 255, 255, 0.3));
 }
