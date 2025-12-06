@@ -705,22 +705,37 @@
         },
         {
             "number": "035",
-            "title": "BandaWeb3 #035 Fiesta de @nounsdaoamigos en Decentraland",
+            "title": "BandaWeb3 #035 Fiesta de @NounsDAOAmigos en Decentraland",
             "date": "2025-01-21",
+            "time": "12:00 PM CST",
             "duration": "1h 23m",
             "guests": [
-                "nounsdaoamigos"
+                "Lunaticanto",
+                "leobunster",
+                "jgonzalezferrer",
+                "meximalist"
             ],
             "guest_links": {
-                "nounsdaoamigos": "https://x.com/nounsdaoamigos"
+                "Lunaticanto": "https://x.com/Lunaticanto",
+                "leobunster": "https://x.com/leobunster",
+                "jgonzalezferrer": "https://x.com/jgonzalezferrer",
+                "NounsDAOAmigos": "https://x.com/NounsDAOAmigos",
+                "meximalist": "https://x.com/meximalist"
             },
-            "space_url": "",
-            "description": "BandaWeb3 #035 Fiesta de @nounsdaoamigos en Decentraland",
-            "topics": [],
+            "space_url": "https://x.com/i/spaces/1MYxNMMYqWvJw?s=20",
+            "description": "BandaWeb3 #035 Fiesta de @NounsDAOAmigos en Decentraland. Conversaciones con @meximalist sin guion y uno que otro anuncio. Invitados especiales y organizadores de la fiesta: @Lunaticanto, @leobunster, @jgonzalezferrer.",
+            "topics": [
+                "NounsDAO",
+                "Decentraland",
+                "Metaverso",
+                "Eventos"
+            ],
             "status": "archived",
             "transcript_available": false,
             "content_generated": false,
-            "flyer_urls": [],
+            "flyer_urls": [
+                "website/static/images/flyer_035.jpg"
+            ],
             "listeners": "66"
         },
         {
