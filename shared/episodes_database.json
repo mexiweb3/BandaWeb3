@@ -1,0 +1,5845 @@
+{
+  "metadata": {
+    "podcast_name": "BandaWeb3",
+    "description": "Podcast sobre Web3, Blockchain y tecnología descentralizada en español",
+    "host": "BandaWeb3",
+    "language": "es",
+    "categories": [
+      "Technology",
+      "Web3",
+      "Blockchain",
+      "Cryptocurrency"
+    ],
+    "website": "https://bandaweb3.com",
+    "twitter": "@BandaWeb3",
+    "last_updated": "2024-12-05",
+    "total_episodes": 292
+  },
+  "episodes": [
+    {
+      "number": "074",
+      "title": "Hackathon @ETHGlobal - EVVM Hackathon Track: $20,000 USD",
+      "date": "2025-12-04",
+      "space_url": "https://x.com/i/spaces/1MnGnPewjVjxO?s=20",
+      "audio_url": "",
+      "flyer_urls": [
+        "flyer_074.jpg"
+      ],
+      "guests": [
+        "ariutokintumi",
+        "RollAMate"
+      ],
+      "duration": "60 min",
+      "description": "BandaWeb3 #074 Hackathon @ETHGlobal ¡HOY! Jueves 4 Dic - 12 pm. Invitado : @ariutokintumi de @RollAMate. EVVM Hackathon Track: $20,000 USD EVVM permite crear una blockchain dentro de otra blockchain.",
+      "topics": [
+        "ETHGlobal",
+        "Hackathon",
+        "EVVM",
+        "Blockchain"
+      ],
+      "status": "published",
+      "transcript_available": false,
+      "content_generated": false
+    },
+    {
+      "number": "073",
+      "title": "BandaWeb3 #073 Open 🎙️ @EFDevcon 🇦🇷",
+      "date": "2025-12-02",
+      "space_url": "https://x.com/i/spaces/1yNxabkXlPDKj?s=20",
+      "flyer_urls": [
+        "flyer_073.jpg"
+      ],
+      "guests": [
+        "Alex Soto",
+        "Germán (EVVM)"
+      ],
+      "duration": "90 min",
+      "description": "BandaWeb3 #073 Open 🎙️ @EFDevcon 🇦🇷. Después de 2 meses regreso con los episodios de BandaWeb3. Platicamos de Devconnect en Argentina, los side events, el hackathon de @ETHGlobal, las hacker houses y la comunidad argentina y latina.",
+      "topics": [
+        "ETHGlobal",
+        "EVVM",
+        "Hackathon",
+        "Argentina",
+        "Interoperabilidad"
+      ],
+      "status": "published",
+      "transcript_available": true,
+      "content_generated": true
+    },
+    {
+      "number": "072",
+      "title": "Episode 072 with @xenonnel",
+      "date": "2025-09-04",
+      "time": "12:00 PM CST",
+      "guests": [
+        "xenonnel"
+      ],
+      "guest_links": {
+        "xenonnel": "https://x.com/xenonnel"
+      },
+      "description": "Xenonnel y yo estaremos platicando de lo sucedido en la Stablecoin Conference y todos los side events. Mientras platicamos estaremos jugando en @yeet, el casino online que ha sobrepasado $500M USD en volúmen en 5 meses.",
+      "topics": [
+        "Stablecoin Conference",
+        "Yeet",
+        "Casino"
+      ],
+      "status": "scheduled",
+      "space_url": "",
+      "unlock_url": "",
+      "opensea_url": "",
+      "contract_url": "",
+      "flyer_urls": [
+        "flyer_072.jpg"
+      ],
+      "transcript_available": false,
+      "content_generated": false,
+      "duration": "60 min"
+    },
+    {
+      "number": "071",
+      "title": "BandaWeb3 #071 @Kalipssoh",
+      "date": "2025-08-21",
+      "duration": "1 hours, 4 minutes, 54 seconds",
+      "guests": [
+        "Kalipssoh"
+      ],
+      "guest_links": {
+        "Kalipssoh": "https://x.com/Kalipssoh"
+      },
+      "space_url": "",
+      "description": "BandaWeb3 #071 @Kalipssoh",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_071.jpg"
+      ],
+      "listeners": "49"
+    },
+    {
+      "number": "070",
+      "title": "BandaWeb3 #070 @0xDonPepe",
+      "date": "2025-08-14",
+      "duration": "1 hours, 10 minutes, 22 seconds",
+      "guests": [
+        "0xDonPepe"
+      ],
+      "guest_links": {
+        "0xDonPepe": "https://x.com/0xDonPepe"
+      },
+      "space_url": "",
+      "description": "BandaWeb3 #070 @0xDonPepe",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_070.jpg"
+      ],
+      "listeners": "79"
+    },
+    {
+      "number": "069",
+      "title": "BandaWeb3 #069 @ChihTechWeek",
+      "date": "2025-08-07",
+      "duration": "1 hours, 18 minutes, 24 seconds",
+      "guests": [
+        "Liz Durán",
+        "Diego Benítez"
+      ],
+      "guest_links": {
+        "Liz Durán": "https://x.com/liz_durang",
+        "Diego Benítez": "https://x.com/diegobc28"
+      },
+      "space_url": "https://x.com/i/spaces/1MYxNwlWdjbKw?s=20",
+      "description": "BandaWeb3 #069 @ChihTechWeek. Chihuahua Tech Week del 17 al 25 de Septiembre 2025. Nos acompaña @liz_durang de Ethereum México, @diegobc28 de Chihuahua Tech Week y otros organizadores. +100 proyectos, +50 speakers, +5 Eventos al día.",
+      "topics": [
+        "Chihuahua Tech Week",
+        "Ethereum Mexico"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_069.jpg"
+      ],
+      "listeners": "78"
+    },
+    {
+      "number": "068",
+      "title": "BandaWeb3 #068 AMA @donald_glonk",
+      "date": "2025-07-31",
+      "duration": "1h 25m",
+      "guests": [
+        "donald_glonk"
+      ],
+      "guest_links": {
+        "donald_glonk": "https://x.com/donald_glonk"
+      },
+      "space_url": "https://x.com/i/spaces/1YqKDZkyYWaJV?s=20",
+      "description": "BandaWeb3 #068 AMA @donald_glonk. El X-Space de este jueves es patrocinado por el equipo de desarrollo de la memecoin $GLONK lanzada hace 2 meses en @pumpdotfun. Mkt Cap: 1.7 M USD, ATH Mkt Cap: 2.1 M USD. Pasa a preguntarles lo que se te antoje.",
+      "topics": [
+        "Memecoin",
+        "$GLONK",
+        "pump.fun",
+        "AMA"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_068.jpg"
+      ],
+      "listeners": "52"
+    },
+    {
+      "number": "067",
+      "title": "BandaWeb3 #067 Monólogo I",
+      "date": "2025-07-29",
+      "duration": "1h 04m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1YqKDZkArVoJV?s=20",
+      "description": "BandaWeb3 #067 Monólogo I. Mañana regresan los X-Spaces de @BandaWeb3 con el 1er monólogo. Algunas cosas que contaré: accidentes, vacaciones, eventos próximos, Ethereum México 2025, stablecoins, DevConnect y algo de chismesito.",
+      "topics": [
+        "Monólogo",
+        "Ethereum México 2025",
+        "Stablecoins",
+        "DevConnect",
+        "Eventos"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_067.jpg"
+      ],
+      "listeners": "27"
+    },
+    {
+      "number": "066",
+      "title": "BandaWeb3 #066 @LaDAO_Club y @fruteroclub",
+      "date": "2025-06-19",
+      "duration": "1h 24m",
+      "guests": [
+        "troopdegen",
+        "SergioRoVar"
+      ],
+      "guest_links": {
+        "troopdegen": "https://x.com/troopdegen",
+        "SergioRoVar": "https://x.com/SergioRoVar"
+      },
+      "space_url": "https://x.com/i/spaces/1MnxnwERjmVKO?s=20",
+      "description": "BandaWeb3 #066 @LaDAO_Club y @fruteroclub. Ya empezó el hackathon con @mxnb_token, @arbitrum y @Bitso. Hay 23 ideas en la plataforma, las analizaremos a detalle.",
+      "topics": [
+        "LaDAO",
+        "Frutero Club",
+        "Hackathon",
+        "MXNB",
+        "Arbitrum",
+        "Bitso"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_066.jpg"
+      ],
+      "listeners": "86"
+    },
+    {
+      "number": "065",
+      "title": "BandaWeb3 #065 @BSmokes_ de @pistachiofi",
+      "date": "2025-06-17",
+      "duration": "1h 10m",
+      "guests": [
+        "BSmokes_"
+      ],
+      "guest_links": {
+        "BSmokes_": "https://x.com/BSmokes_"
+      },
+      "space_url": "https://x.com/i/spaces/1MYxNwdpAEbKw?s=20",
+      "description": "BandaWeb3 #065 @BSmokes_ de @PistachioFi. Brian es el fundador de @PistachioFi, una aplicación para que usar e invertir en cripto activos sea muy sencillo. Acaban de lanzar su App para iOS y próximamente para Android, es un proyecto acelerado por @odisealabs.",
+      "topics": [
+        "PistachioFi",
+        "Crypto Investing",
+        "iOS App",
+        "Odisea Labs"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_065.jpg"
+      ],
+      "listeners": "67"
+    },
+    {
+      "number": "064",
+      "title": "BandaWeb3 #064 @eliandecrypto",
+      "date": "2025-06-10",
+      "duration": "1 hours, 29 minutes, 33 seconds",
+      "guests": [
+        "eliandecrypto"
+      ],
+      "guest_links": {
+        "eliandecrypto": "https://x.com/eliandecrypto"
+      },
+      "space_url": "https://x.com/i/spaces/1lDxLzMOqlvGm?s=20",
+      "description": "BandaWeb3 #064 @eliandecrypto. Elian es un og del ecosistema, creador de contenido, co-host de @LosOrdinales, ex @bitso y mucho más. Nos contará sobre su experiencia en Bitcoin Las Vegas del mes pasado y del proyecto @ASICGenesis.",
+      "topics": [
+        "Los Ordinales",
+        "Bitso",
+        "Bitcoin Las Vegas",
+        "ASIC Genesis"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_064.jpg"
+      ],
+      "listeners": "68"
+    },
+    {
+      "number": "063",
+      "title": "BandaWeb3 #063 @ByLuaambriz",
+      "date": "2025-06-05",
+      "duration": "1h 43m",
+      "guests": [
+        "ByLuaambriz"
+      ],
+      "guest_links": {
+        "ByLuaambriz": "https://x.com/ByLuaambriz"
+      },
+      "space_url": "https://x.com/i/spaces/1gqGvjXwrqQGB?s=20",
+      "description": "BandaWeb3 #063 @ByLuaambriz. Lu Ambríz es una de mis artistas favorita, modelo, directora de arte de @unlocksummit_io, creadora de contenido y campañas de mktg. Nos platicará de su arte, su proceso y una nueva colección que está por lanzar en @solana.",
+      "topics": [
+        "Arte",
+        "Unlock Summit",
+        "Solana",
+        "NFT",
+        "Marketing"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_063.jpg"
+      ],
+      "listeners": "107"
+    },
+    {
+      "number": "062",
+      "title": "BandaWeb3 #062 @juvenwho de @SherryProtocol",
+      "date": "2025-06-03",
+      "duration": "1h 12m",
+      "guests": [
+        "juvenwho",
+        "SherryProtocol"
+      ],
+      "guest_links": {
+        "juvenwho": "https://x.com/juvenwho",
+        "SherryProtocol": "https://x.com/SherryProtocol"
+      },
+      "space_url": "https://x.com/i/spaces/1mrGmPRBaBLKy?s=20",
+      "description": "BandaWeb3 #062 @juvenwho de @SherryProtocol. Juvenal nos cuenta sobre Sherry, un protocolo para convertir cualquier publicación en un app Web3 interactiva. El 6 de junio empieza su Minithon: 10 días, 3 tracks, $8k USD en premios.",
+      "topics": [
+        "Sherry Protocol",
+        "Web3 Apps",
+        "Minithon",
+        "Interactive Apps"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_062.jpg"
+      ],
+      "listeners": "41"
+    },
+    {
+      "number": "061",
+      "title": "BandaWeb3 #061 Infofi @monitalan @EmaCr1pto",
+      "date": "2025-05-29",
+      "duration": "1h 27m",
+      "guests": [
+        "monitalan",
+        "EmaCr1pto"
+      ],
+      "guest_links": {
+        "monitalan": "https://x.com/monitalan",
+        "EmaCr1pto": "https://x.com/EmaCr1pto"
+      },
+      "space_url": "https://x.com/i/spaces/1MYxNwjnnabKw?s=20",
+      "description": "BandaWeb3 #061 Infofi @monitalan @EmaCr1pto. Moni y Ema nos explican de la nueva tendencia llamada Infofi, platicaremos del nuevo programa de recompensas que lanzó @arbitrum con @KaitoAI para tener presencia en X. Likes/Reposts todo suma.",
+      "topics": [
+        "Infofi",
+        "Arbitrum",
+        "KaitoAI",
+        "Rewards Program",
+        "Social Media"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_061.jpg",
+        "flyer_061_2.jpg"
+      ],
+      "listeners": "109"
+    },
+    {
+      "number": "060",
+      "title": "BandaWeb3 #060 @Trenchboyjaime de @LatamBlocks",
+      "date": "2025-05-27",
+      "duration": "1h 20m",
+      "guests": [
+        "Trenchboyjaime",
+        "LatamBlocks"
+      ],
+      "guest_links": {
+        "Trenchboyjaime": "https://x.com/Trenchboyjaime",
+        "LatamBlocks": "https://x.com/LatamBlocks"
+      },
+      "space_url": "https://x.com/i/spaces/1eaJbWqvWAexX?s=20",
+      "description": "BandaWeb3 #060 @Trenchboyjaime de @LatamBlocks. Jaime nos hablará sobre @LatamBlocks, una iniciativa que comienza hoy y busca ser la voz institucional de cripto en América Latina. Nos explicará por qué es un proyecto clave para la región.",
+      "topics": [
+        "LatamBlocks",
+        "Crypto Latam",
+        "Institutional Voice",
+        "Latin America"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_060.jpg"
+      ],
+      "listeners": "197"
+    },
+    {
+      "number": "059",
+      "title": "BandaWeb3 #059 Live desde Solana Accelerate en NYC",
+      "date": "2025-05-22",
+      "time": "12:00 PM CST",
+      "duration": "1h 15m",
+      "guests": [
+        "Nikita Bier",
+        "Anatoly Yakovenko",
+        "Pedro Miranda"
+      ],
+      "guest_links": {},
+      "space_url": "",
+      "description": "BandaWeb3 #059 Live desde Solana Accelerate en NYC. Les estaremos platicando sobre lo que está sucediendo en NYC en el marco de Solana Accelerate - Ship or die.",
+      "topics": [
+        "Solana Accelerate",
+        "NYC",
+        "Ship or die",
+        "Live Coverage"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_059.jpg"
+      ],
+      "listeners": "168"
+    },
+    {
+      "number": "058",
+      "title": "BandaWeb3 #058 Pizza Party dApp Live Demo",
+      "date": "2025-05-20",
+      "duration": "",
+      "guests": [
+        "Mexi"
+      ],
+      "guest_links": {},
+      "space_url": "",
+      "description": "BandaWeb3 #058 Pizza Party dApp Live Demo. Mexi nos contará todo sobre el dApp que vibecodeo para tener activaciones en el Global Pizza Party con @Pizza_DAO en @base.",
+      "topics": [
+        "Pizza DAO",
+        "Global Pizza Party",
+        "dApp Demo",
+        "Base",
+        "Live Demo"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_058.jpg"
+      ],
+      "listeners": ""
+    },
+    {
+      "number": "057",
+      "title": "BandaWeb3 #057 @CryptoNotaz #WLFI",
+      "date": "2025-05-15",
+      "duration": "1h 42m",
+      "guests": [
+        "CryptoNotaz"
+      ],
+      "guest_links": {
+        "CryptoNotaz": "https://x.com/CryptoNotaz"
+      },
+      "space_url": "",
+      "description": "BandaWeb3 #057 @CryptoNotaz #WLFI",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_057.jpg"
+      ],
+      "listeners": "213"
+    },
+    {
+      "number": "056",
+      "title": "BandaWeb3 #056 @RoyalBunker dApp",
+      "date": "2025-05-13",
+      "duration": "1h 14m",
+      "guests": [
+        "RoyalBunker"
+      ],
+      "guest_links": {
+        "RoyalBunker": "https://x.com/RoyalBunker"
+      },
+      "space_url": "https://x.com/i/spaces/1BRJjmWognVGw?s=20",
+      "description": "BandaWeb3 #056 @RoyalBunker dApp. @meximalist estará platicando de su nueva iniciativa y estará onbordeando a la banda a nuestra nueva dApp. Les platicará de @thirdweb y el cookathon de @0xMantleLatAm @0xMantleDevs.",
+      "topics": [
+        "Royal Bunker",
+        "dApp",
+        "thirdweb",
+        "Mantle",
+        "Cookathon",
+        "Onboarding"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_056.jpg"
+      ],
+      "listeners": "0"
+    },
+    {
+      "number": "055",
+      "title": "BandaWeb3 #055 @btcnetworkmty",
+      "date": "2025-05-08",
+      "duration": "1h 22m",
+      "guests": [
+        "visionario_btc",
+        "kapitalex"
+      ],
+      "guest_links": {
+        "visionario_btc": "https://x.com/visionario_btc",
+        "kapitalex": "https://x.com/kapitalex"
+      },
+      "space_url": "https://x.com/i/spaces/1mnGegVPapAxX?s=20",
+      "description": "BandaWeb3 #055 @btcnetworkmty. Invitados @visionario_btc @kapitalex. Adrián y José nos contarán sobre Bitcoin Network Monterrey y debatiremos sobre el límite de OP-RETURN en Bitcoin.",
+      "topics": [
+        "Bitcoin Network Monterrey",
+        "OP-RETURN",
+        "Bitcoin",
+        "KapitalEx"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_055.jpg",
+        "flyer_055_2.jpg"
+      ],
+      "listeners": "100"
+    },
+    {
+      "number": "054",
+      "title": "BandaWeb3 #054 Embajadores @arbitrum",
+      "date": "2025-05-06",
+      "duration": "1h 20m",
+      "guests": [
+        "_nathcortez",
+        "ToryDomK",
+        "iRobZ23",
+        "garosan1",
+        "EmaCr1pto",
+        "arbitrum_esp"
+      ],
+      "guest_links": {
+        "_nathcortez": "https://x.com/_nathcortez",
+        "ToryDomK": "https://x.com/ToryDomK",
+        "iRobZ23": "https://x.com/iRobZ23",
+        "garosan1": "https://x.com/garosan1",
+        "EmaCr1pto": "https://x.com/EmaCr1pto",
+        "arbitrum_esp": "https://x.com/arbitrum_esp"
+      },
+      "space_url": "https://x.com/i/spaces/1ypKdZLEpqdJW?s=20",
+      "description": "BandaWeb3 #054 Embajadores @arbitrum. Speakers: @_nathcortez @ToryDomK @iRobZ23 @garosan1 @EmaCr1pto @arbitrum_esp. Todo sobre la participación de las y los embajadores en el hackathon de @ETHCincoDeMayo en CDMX #CryptoDeMayo.",
+      "topics": [
+        "Arbitrum Ambassadors",
+        "ETH Cinco de Mayo",
+        "Hackathon",
+        "CDMX",
+        "Crypto de Mayo"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_054.jpg"
+      ],
+      "listeners": "104"
+    },
+    {
+      "number": "053",
+      "title": "BandaWeb3 #053 Omma Cash",
+      "date": "2025-04-22",
+      "duration": "1 hours, 4 minutes, 54 seconds",
+      "guests": [
+        "isracts",
+        "sergioglez0625",
+        "vicl9403"
+      ],
+      "guest_links": {
+        "isracts": "https://x.com/isracts",
+        "sergioglez0625": "https://x.com/sergioglez0625",
+        "vicl9403": "https://x.com/vicl9403"
+      },
+      "space_url": "https://x.com/i/spaces/1ypKdZLEpqdJW?s=20",
+      "description": "BandaWeb3 #053 Omma Cash. Invitados: @isracts @sergioglez0625 @vicl9403. Sponsor: @icphub_MX. OmmaCash: Envía remesas de USA a México por WhatsApp en minutos, con bajo costo, usando blockchain.",
+      "topics": [
+        "Omma Cash",
+        "Remesas",
+        "WhatsApp",
+        "Blockchain",
+        "ICP Hub México"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_053.jpg"
+      ],
+      "listeners": "49"
+    },
+    {
+      "number": "052",
+      "title": "BandaWeb3 #052 @gustavojfe @SwapidoBTC",
+      "date": "2025-04-17",
+      "duration": "1h 22m",
+      "guests": [
+        "gustavojfe",
+        "SwapidoBTC"
+      ],
+      "guest_links": {
+        "gustavojfe": "https://x.com/gustavojfe",
+        "SwapidoBTC": "https://x.com/SwapidoBTC"
+      },
+      "space_url": "https://x.com/i/spaces/1ynJOlzXQDExR?s=20",
+      "description": "BandaWeb3 #052 @gustavojfe de @SwapidoBTC. Con Swapido puedes pagar cuentas bancarias en México con Bitcoin en segundos. Ideal para vender tu crypto, remesas o para tus gastos diarios.",
+      "topics": [
+        "Swapido",
+        "Bitcoin",
+        "Pagos",
+        "Remesas",
+        "México"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_052.jpg"
+      ],
+      "listeners": "72"
+    },
+    {
+      "number": "051",
+      "title": "BandaWeb3 #051 @ElevatHerVC",
+      "date": "2025-04-15",
+      "duration": "1h 15m",
+      "guests": [
+        "sandym_c",
+        "diana10ka",
+        "ccaromejia",
+        "justmariangel",
+        "Warmicircle"
+      ],
+      "guest_links": {
+        "sandym_c": "https://x.com/sandym_c",
+        "diana10ka": "https://x.com/diana10ka",
+        "ccaromejia": "https://x.com/ccaromejia",
+        "justmariangel": "https://x.com/justmariangel",
+        "Warmicircle": "https://x.com/Warmicircle"
+      },
+      "space_url": "https://x.com/i/spaces/1vOxwXPOgpWKB?s=20",
+      "description": "BandaWeb3 #051 @ElevatHerVC. Invitadas: @sandym_c @diana10ka @ccaromejia @justmariangel @Warmicircle. ElevatHer 1 Mayo Dubai - Evento donde las fundadoras e inversoras conectan. @theblockdubai",
+      "topics": [
+        "ElevatHer VC",
+        "Women in Web3",
+        "Dubai",
+        "Founders",
+        "Investors",
+        "The Block Dubai"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_051.jpg"
+      ],
+      "listeners": "168"
+    },
+    {
+      "number": "050",
+      "title": "BandaWeb3 #050 @entigdd @LidoFinance",
+      "date": "2025-04-03",
+      "duration": "1 hours, 7 minutes, 41 seconds",
+      "guests": [
+        "entigdd",
+        "LidoFinance"
+      ],
+      "guest_links": {
+        "entigdd": "https://x.com/entigdd",
+        "LidoFinance": "https://x.com/LidoFinance"
+      },
+      "space_url": "https://x.com/i/spaces/1DXxyqQNPPRxM?s=20",
+      "description": "BandaWeb3 #050 @entigdd. Enti es lider de community staking en @LidoFinance, líderes en staking liquido. Enti nos contará sobre home staking, programa para correr validadores en casa.",
+      "topics": [
+        "Lido Finance",
+        "Staking",
+        "Home Staking",
+        "Validators",
+        "Liquid Staking"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_050.jpg"
+      ],
+      "listeners": "48"
+    },
+    {
+      "number": "049",
+      "title": "BandaWeb3 #049 @sohobiit @happ3nxyz",
+      "date": "2025-04-01",
+      "duration": "1h 12m",
+      "guests": [
+        "sohobiit",
+        "happ3nxyz",
+        "VaraNetwork_ES",
+        "VaraNetwork"
+      ],
+      "guest_links": {
+        "sohobiit": "https://x.com/sohobiit",
+        "happ3nxyz": "https://x.com/happ3nxyz",
+        "VaraNetwork_ES": "https://x.com/VaraNetwork_ES",
+        "VaraNetwork": "https://x.com/VaraNetwork"
+      },
+      "space_url": "https://x.com/i/spaces/1OyKALqlNwWxb?s=20",
+      "description": "BandaWeb3 #049 @sohobiit. Nos platicarán de Ledger Leaders Week de @ForoBlockchain. Invitados especiales: @happ3nxyz @VaraNetwork_ES @VaraNetwork. Info: https://foroblockchain.com",
+      "topics": [
+        "Ledger Leaders Week",
+        "Foro Blockchain",
+        "Vara Network",
+        "Happ3n",
+        "Blockchain Events"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_049.jpg"
+      ],
+      "listeners": "109"
+    },
+    {
+      "number": "048",
+      "title": "BandaWeb3 #048 @ETHCincoDeMayo",
+      "date": "2025-03-27",
+      "time": "12:00 PM CST",
+      "duration": "1h 25m",
+      "guests": [
+        "ETHCincoDeMayo",
+        "meximalist",
+        "CelicTorresz",
+        "holaNFT",
+        "erikvalle_",
+        "0xVato",
+        "ariutokintumi"
+      ],
+      "guest_links": {
+        "ETHCincoDeMayo": "https://x.com/ETHCincoDeMayo",
+        "meximalist": "https://x.com/meximalist",
+        "CelicTorresz": "https://x.com/CelicTorresz",
+        "holaNFT": "https://x.com/holaNFT",
+        "erikvalle_": "https://x.com/erikvalle_",
+        "0xVato": "https://x.com/0xVato",
+        "ariutokintumi": "https://x.com/ariutokintumi"
+      },
+      "space_url": "https://x.com/i/spaces/1YqKDZrVdrvJV?s=20",
+      "description": "BandaWeb3 #048 @ETHCincoDeMayo. Conversaciones con @meximalist sin guion y uno que otro anuncio. #CryptoDeMayo 📍 CDMX - 📅 1ro -4to Mayo 2025",
+      "topics": [
+        "CryptoDeMayo",
+        "CDMX"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_048.jpg",
+        "flyer_048_2.jpg"
+      ],
+      "listeners": "84"
+    },
+    {
+      "number": "047",
+      "title": "BandaWeb3 #047 @con3joblanco",
+      "date": "2025-03-25",
+      "time": "12:00 PM CST",
+      "duration": "1h 36m",
+      "guests": [
+        "con3joblanco",
+        "meximalist",
+        "casaweb3"
+      ],
+      "guest_links": {
+        "con3joblanco": "https://x.com/con3joblanco",
+        "meximalist": "https://x.com/meximalist",
+        "casaweb3": "https://x.com/casaweb3"
+      },
+      "space_url": "",
+      "description": "BandaWeb3 #047 @con3joblanco. conversaciones con @meximalist sin guion y uno que otro anuncio. nos contará todo sobre su proyecto @casaweb3 y su proceso para construir comunidad",
+      "topics": [
+        "Casa Web3",
+        "Comunidad"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_047.jpg"
+      ],
+      "listeners": "294"
+    },
+    {
+      "number": "046",
+      "title": "BandaWeb3 #046 @FerIAFoundation",
+      "date": "2025-03-20",
+      "time": "12:00 PM CST",
+      "duration": "",
+      "guests": [
+        "FerIAFoundation"
+      ],
+      "guest_links": {
+        "FerIAFoundation": "https://x.com/FerIAFoundation"
+      },
+      "space_url": "https://x.com/i/spaces/1MYGNweqqnvJw?s=20",
+      "description": "BandaWeb3 #046 @FerIAFoundation. conversaciones sin guion y uno que otro anuncio. Sponsor: ICP HUB México.",
+      "topics": [
+        "FerIA Foundation",
+        "ICP HUB México"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_046.jpg"
+      ],
+      "listeners": "0"
+    },
+    {
+      "number": "045",
+      "title": "BandaWeb3 #045 Stablecoins MXN USD",
+      "date": "2025-03-18",
+      "time": "12:00 PM CST",
+      "duration": "1h 24m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1nAJEgjwpjnKL?s=20",
+      "description": "BandaWeb3 #045 Stablecoins MXN USD",
+      "topics": [
+        "Stablecoins",
+        "MXN",
+        "USD"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_045.png"
+      ],
+      "listeners": "103"
+    },
+    {
+      "number": "043",
+      "title": "BandaWeb3 #043 @rogservin @AmpleProtocol",
+      "date": "2025-03-13",
+      "time": "12:00 PM CST",
+      "duration": "1h 20m",
+      "guests": [
+        "rogservin",
+        "AmpleProtocol"
+      ],
+      "guest_links": {
+        "rogservin": "https://x.com/rogservin",
+        "AmpleProtocol": "https://x.com/AmpleProtocol"
+      },
+      "space_url": "https://x.com/i/spaces/1lPJqMPYebMJb?s=20",
+      "description": "BandaWeb3 #043 @rogservin @AmpleProtocol",
+      "topics": [
+        "ICP",
+        "Hub Mexico"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_043.jpg"
+      ],
+      "listeners": "211"
+    },
+    {
+      "number": "042",
+      "title": "BandaWeb3 #042 PixHelp Ordinals @UNICEFColombia",
+      "date": "2025-02-20",
+      "time": "12:00 PM CST",
+      "duration": "1h 32m",
+      "guests": [
+        "Wenlopezn",
+        "YuZapata3SC",
+        "UNICEFColombia",
+        "Xverse_ES",
+        "trio_xyz",
+        "ActifStudio"
+      ],
+      "guest_links": {
+        "Wenlopezn": "https://x.com/Wenlopezn",
+        "YuZapata3SC": "https://x.com/YuZapata3SC",
+        "UNICEFColombia": "https://x.com/UNICEFColombia",
+        "Xverse_ES": "https://x.com/Xverse_ES",
+        "trio_xyz": "https://x.com/trio_xyz",
+        "ActifStudio": "https://x.com/ActifStudio"
+      },
+      "space_url": "https://x.com/i/spaces/1yoJMoNEonoKQ",
+      "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-042-unicef-colombia-1",
+      "description": "BandaWeb3 #042 PixHelp Ordinals @UNICEFColombia",
+      "topics": [
+        "PixHelp",
+        "Ordinals",
+        "UNICEFColombia"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_042.jpg"
+      ],
+      "listeners": "80"
+    },
+    {
+      "number": "041",
+      "title": "BandaWeb3 #041 @jorgevayron",
+      "date": "2025-02-18",
+      "time": "12:00 PM CST",
+      "duration": "1h 00m",
+      "guests": [
+        "jorgevayron",
+        "meximalist"
+      ],
+      "guest_links": {
+        "jorgevayron": "https://x.com/jorgevayron",
+        "meximalist": "https://x.com/meximalist"
+      },
+      "space_url": "",
+      "description": "Todo sobre su historia en el ecosistema Web3, los agentes de IA y el rug del imbecil de Milei",
+      "topics": [
+        "Web3",
+        "IA",
+        "Milei"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_041.jpg"
+      ],
+      "listeners": "95"
+    },
+    {
+      "number": "040",
+      "title": "BandaWeb3 #040 @ElioWIF",
+      "date": "2025-02-13",
+      "time": "12:00 PM CST",
+      "duration": "1h 00m",
+      "guests": [
+        "ElioWIF",
+        "meximalist"
+      ],
+      "guest_links": {
+        "ElioWIF": "https://x.com/ElioWIF",
+        "meximalist": "https://x.com/meximalist"
+      },
+      "space_url": "https://x.com/i/spaces/1jMKgkNYbjkKL",
+      "description": "I AM $WIF YOU | Angel Investor & Entrepreneur 💎🙌 Early Investor @Tesla @Airbnb @Coinbase $PEPE $SOL | All Tweets Are My Opinions NFA 👽",
+      "topics": [
+        "WIF",
+        "Angel Investor",
+        "Entrepreneur"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_040.jpg"
+      ],
+      "listeners": "135"
+    },
+    {
+      "number": "039",
+      "title": "BandaWeb3 #039 @ariutokintumi de @ETHCincoDeMayo y @RollAMate",
+      "date": "2025-02-11",
+      "time": "12:00 PM CST",
+      "duration": "1h 10m",
+      "guests": [
+        "ariutokintumi",
+        "ETHCincoDeMayo",
+        "RollAMate",
+        "meximalist"
+      ],
+      "guest_links": {
+        "ariutokintumi": "https://x.com/ariutokisumi",
+        "ETHCincoDeMayo": "https://x.com/ETHCincoDeMayo",
+        "RollAMate": "https://x.com/RollAMate",
+        "meximalist": "https://x.com/meximalist"
+      },
+      "space_url": "https://x.com/i/spaces/1OdKrDPnRQlJX?s=20",
+      "description": "BandaWeb3 #039 @ariutokintumi de @ETHCincoDeMayo y @RollAMate. Conversaciones con @meximalist - sin guion y uno que otro anuncio. Nos contará sobre ETHCDM, Roll a Mate y Datamorpho.",
+      "topics": [
+        "ETHCDM",
+        "Roll a Mate",
+        "Datamorpho"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_039.jpg"
+      ],
+      "listeners": "100"
+    },
+    {
+      "number": "038",
+      "title": "BandaWeb3 #038 @fservin de @HolaSati y @LosOrdinales",
+      "date": "2025-02-04",
+      "time": "12:00 PM CST",
+      "duration": "1h 10m",
+      "guests": [
+        "fservin",
+        "HolaSati",
+        "LosOrdinales",
+        "meximalist"
+      ],
+      "guest_links": {
+        "fservin": "https://x.com/fservin",
+        "HolaSati": "https://x.com/HolaSati",
+        "LosOrdinales": "https://x.com/LosOrdinales",
+        "TimDraper": "https://x.com/TimDraper",
+        "meximalist": "https://x.com/meximalist"
+      },
+      "space_url": "https://x.com/i/spaces/1vOxwrdjvMdJB?s=20",
+      "description": "BandaWeb3 #038 @fservin de @HolaSati y @LosOrdinales. Conversaciones con @meximalist - sin guion y uno que otro anuncio. Nos contará todo sobre Sati y su reciente participación en el demo day de BitcoinFi de @TimDraper y Boost VC.",
+      "topics": [
+        "Sati",
+        "BitcoinFi",
+        "Demo Day"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_038.jpg"
+      ],
+      "listeners": "80"
+    },
+    {
+      "number": "037",
+      "title": "BandaWeb3 #037 @CryptoNotaz @con3joblanco",
+      "date": "2025-01-28",
+      "time": "12:00 PM CST",
+      "duration": "1h 30m",
+      "guests": [
+        "CryptoNotaz",
+        "con3joblanco",
+        "meximalist"
+      ],
+      "guest_links": {
+        "CryptoNotaz": "https://x.com/CryptoNotaz",
+        "con3joblanco": "https://x.com/con3joblanco",
+        "meximalist": "https://x.com/meximalist"
+      },
+      "space_url": "https://x.com/i/spaces/1mrGmMPYnYzGy?s=20",
+      "description": "BandaWeb3 #037 @CryptoNotaz @con3joblanco. Conversaciones con @meximalist - sin guion y uno que otro anuncio. Shitcoineo en solana, estrategias, recomendaciones, bankroll management, degen plays.",
+      "topics": [
+        "Solana",
+        "Shitcoins",
+        "Degen Plays",
+        "Bankroll Management"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_037.jpg"
+      ],
+      "listeners": "85"
+    },
+    {
+      "number": "036",
+      "title": "BandaWeb3 #036 Embajadores @StellarOrg @StarMakerMex",
+      "date": "2025-01-23",
+      "time": "12:00 PM CST",
+      "duration": "1h 30m",
+      "guests": [
+        "Danielahenao_1",
+        "JCruz3464",
+        "StarMakerMex",
+        "meximalist"
+      ],
+      "guest_links": {
+        "Danielahenao_1": "https://x.com/Danielahenao_1",
+        "JCruz3464": "https://x.com/JCruz3464",
+        "StarMakerMex": "https://x.com/StarMakerMex",
+        "StellarOrg": "https://x.com/StellarOrg",
+        "TheBAFNetwork": "https://x.com/TheBAFNetwork",
+        "meximalist": "https://x.com/meximalist"
+      },
+      "space_url": "https://x.com/i/spaces/1nAJEppYzqlGL?s=20",
+      "description": "BandaWeb3 #036 Embajadores @StellarOrg @StarMakerMex. Invitadxs especiales: @Danielahenao_1 de @TheBAFNetwork y @JCruz3464 (Profe del TEC Tlaxiaco). Nos platicarán del programa de embajadores de Stellar y eventos próximos.",
+      "topics": [
+        "Stellar",
+        "StarMakerMex",
+        "Embajadores",
+        "Eventos"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_036.png"
+      ],
+      "listeners": "90"
+    },
+    {
+      "number": "035",
+      "title": "BandaWeb3 #035 Fiesta de @NounsDAOAmigos en Decentraland",
+      "date": "2025-01-21",
+      "time": "12:00 PM CST",
+      "duration": "1h 23m",
+      "guests": [
+        "Lunaticanto",
+        "leobunster",
+        "jgonzalezferrer",
+        "meximalist"
+      ],
+      "guest_links": {
+        "Lunaticanto": "https://x.com/Lunaticanto",
+        "leobunster": "https://x.com/leobunster",
+        "jgonzalezferrer": "https://x.com/jgonzalezferrer",
+        "NounsDAOAmigos": "https://x.com/NounsDAOAmigos",
+        "meximalist": "https://x.com/meximalist"
+      },
+      "space_url": "https://x.com/i/spaces/1MYxNMMYqWvJw?s=20",
+      "description": "BandaWeb3 #035 Fiesta de @NounsDAOAmigos en Decentraland. Conversaciones con @meximalist sin guion y uno que otro anuncio. Invitados especiales y organizadores de la fiesta: @Lunaticanto, @leobunster, @jgonzalezferrer.",
+      "topics": [
+        "NounsDAO",
+        "Decentraland",
+        "Metaverso",
+        "Eventos"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_035.jpg"
+      ],
+      "listeners": "66"
+    },
+    {
+      "number": "20250119",
+      "title": "TRUMP coin y temas crypto",
+      "date": "2025-01-19",
+      "duration": "1h 28m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: TRUMP coin y temas crypto",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "194"
+    },
+    {
+      "number": "034",
+      "title": "BandaWeb3 #034 @bairorb",
+      "date": "2025-01-16",
+      "duration": "1h 35m",
+      "guests": [
+        "bairorb"
+      ],
+      "guest_links": {
+        "bairorb": "https://x.com/bairorb"
+      },
+      "space_url": "https://x.com/i/spaces/1zqKVYqomBZxB?s=20",
+      "description": "BandaWeb3 #034 @bairorb",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_034.png"
+      ],
+      "listeners": "45"
+    },
+    {
+      "number": "033",
+      "title": "BandaWeb3 #033 @iafhurtado",
+      "date": "2025-01-14",
+      "time": "1:00 PM CST",
+      "duration": "1h 08m",
+      "guests": [
+        "iafhurtado"
+      ],
+      "guest_links": {
+        "iafhurtado": "https://x.com/iafhurtado"
+      },
+      "space_url": "",
+      "description": "BandaWeb3 #033 @iafhurtado. conversaciones sin guion y uno que otro anuncio. Sponsor: La DAO.",
+      "topics": [
+        "La DAO",
+        "BandaWeb3"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_033.png"
+      ],
+      "listeners": "11"
+    },
+    {
+      "number": "20250113",
+      "title": "🤖Agentes de IA | Agentcamp",
+      "date": "2025-01-13",
+      "duration": "48m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: 🤖Agentes de IA | Agentcamp",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "135"
+    },
+    {
+      "number": "032",
+      "title": "BandaWeb3 #032 @betsacarrizo",
+      "date": "2025-01-09",
+      "time": "12:00 PM CST",
+      "duration": "1h 17m",
+      "guests": [
+        "betsacarrizo"
+      ],
+      "guest_links": {
+        "betsacarrizo": "https://x.com/betsacarrizo"
+      },
+      "space_url": "",
+      "instagram_url": "https://www.instagram.com/reel/DEnhHPiyqc5/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "description": "BandaWeb3 #032 @betsacarrizo. conversaciones sin guion y uno que otro anuncio. Sponsor: R3AL BLOCKS.",
+      "topics": [
+        "R3AL BLOCKS",
+        "BandaWeb3"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_032.jpg"
+      ],
+      "listeners": "8"
+    },
+    {
+      "number": "031",
+      "title": "BandaWeb3 #031 @yedidweb3",
+      "date": "2025-01-07",
+      "time": "12:00 PM CST",
+      "duration": "1h 30m",
+      "guests": [
+        "yedidweb3"
+      ],
+      "guest_links": {
+        "yedidweb3": "https://x.com/yedidweb3"
+      },
+      "space_url": "https://x.com/i/spaces/1zqJVYBlZoYGB?s=20",
+      "description": "BandaWeb3 #031 @yedidweb3. conversaciones con @meximalist sin guion y uno que otro anuncio. Yedid | Prompt Engineering | Steward HER DAO 🇲🇽 | Senior Amb. @varanetwork | Amb. @pushprotocol | Co-founder @GuardianDefi | 🌐 Web2 programmer ➡️🚀",
+      "topics": [
+        "Guardian Liquid Staking",
+        "HER DAO México",
+        "Vara Network",
+        "Push Protocol"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_031.png"
+      ],
+      "listeners": "47"
+    },
+    {
+      "number": "030",
+      "title": "BandaWeb3 #030 @The_WomenofWeb3 Book",
+      "date": "2024-12-20",
+      "time": "2:00 PM CST",
+      "duration": "",
+      "guests": [
+        "sandym_c",
+        "AnanaNFTs",
+        "LeslieM0tta",
+        "thesuperama",
+        "SupermodelGamer",
+        "wildy_martinez",
+        "ritzy_p",
+        "betsacarrizo",
+        "girl_intheverse"
+      ],
+      "guest_links": {
+        "sandym_c": "https://x.com/sandym_c",
+        "AnanaNFTs": "https://x.com/AnanaNFTs",
+        "LeslieM0tta": "https://x.com/LeslieM0tta",
+        "thesuperama": "https://x.com/thesuperama",
+        "SupermodelGamer": "https://x.com/SupermodelGamer",
+        "wildy_martinez": "https://x.com/wildy_martinez",
+        "ritzy_p": "https://x.com/ritzy_p",
+        "betsacarrizo": "https://x.com/betsacarrizo",
+        "girl_intheverse": "https://x.com/girl_intheverse"
+      },
+      "space_url": "https://x.com/i/spaces/1OdKrXqDRaOJX?s=20",
+      "description": "BandaWeb3 #030 @The_WomenofWeb3 Book. conversaciones con @meximalist sin guion y uno que otro anuncio. Invitadas: @sandym_c @AnanaNFTs @LeslieM0tta @thesuperama @SupermodelGamer @wildy_martinez @ritzy_p @betsacarrizo @girl_intheverse",
+      "topics": [
+        "The Women of Web3",
+        "Book",
+        "Community"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_030.jpg"
+      ],
+      "listeners": "0"
+    },
+    {
+      "number": "029",
+      "title": "BandaWeb3 #029 @LaMananeraWeb3",
+      "date": "2024-12-20",
+      "time": "12:00 PM CST",
+      "duration": "",
+      "guests": [
+        "DrGryzzly",
+        "fernandoavax",
+        "LaMananeraWeb3"
+      ],
+      "guest_links": {
+        "DrGryzzly": "https://x.com/DrGryzzly",
+        "fernandoavax": "https://x.com/fernandoavax",
+        "LaMananeraWeb3": "https://x.com/LaMananeraWeb3"
+      },
+      "space_url": "",
+      "arena_url": "https://arena.social/meximalist/status/57333357-9650-4c66-bd9e-7be3ce11fc3c?ref=meximalist",
+      "description": "BandaWeb3 #029 @LaMananeraWeb3. Conversaciones con @meximalist sin guion y uno que otro anuncio. Exclusivo en STAGES de @TheArenaApp. Invitados: @DrGryzzly @fernandoavax",
+      "topics": [
+        "La Mañanera Web3",
+        "The Arena App",
+        "Stages"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_029.jpg"
+      ],
+      "listeners": "0"
+    },
+    {
+      "number": "028",
+      "title": "BandaWeb3 #028 Post Posada @arbitrum @eth_mty @mxweb3",
+      "date": "2024-12-19",
+      "time": "12:00 PM CST",
+      "guests": [
+        "arbitrum",
+        "eth_mty",
+        "mxweb3"
+      ],
+      "duration": "1h 38m",
+      "description": "BandaWeb3 #028 Post Posada @arbitrum @eth_mty @mxweb3. Conversaciones con @meximalist, sin guion y uno que otro anuncio.",
+      "topics": [
+        "Post Posada",
+        "Arbitrum",
+        "Ethereum Monterrey",
+        "MxWeb3"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "space_url": "https://x.com/i/spaces/1mnxeAQAARrxX",
+      "flyer_urls": [
+        "flyer_028.png"
+      ],
+      "guest_links": {
+        "arbitrum": "https://x.com/arbitrum",
+        "eth_mty": "https://x.com/eth_mty",
+        "mxweb3": "https://x.com/mxweb3"
+      },
+      "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-028-post-posada-arbitrum-eth-mty-mxweb-3",
+      "arbiscan_url": "https://arbiscan.io/address/0x63Bc3BE8708A1f713f1c3782EC724387fbB22EEE",
+      "listeners": "97"
+    },
+    {
+      "number": "027",
+      "title": "BandaWeb3 #027 @revillaweb3",
+      "date": "2024-12-17",
+      "time": "12:00 PM CST",
+      "guests": [
+        "revillaweb3",
+        "unlocksummit_io",
+        "pwr2tpmx"
+      ],
+      "duration": "1h 21m",
+      "description": "@unlocksummit_io & @pwr2tpmx 👾 • Community architect 🏗️, content creator 📲, opinion leader 👩🏻‍💻, 🤑📊. Web3, Technology and AI. 🤖🏳️‍🌈",
+      "topics": [
+        "Web3",
+        "Technology",
+        "AI"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "space_url": "https://x.com/i/spaces/1MnxnDQWMRmGO",
+      "flyer_urls": [
+        "flyer_027.png"
+      ],
+      "guest_links": {
+        "revillaweb3": "https://x.com/revillaweb3",
+        "unlocksummit_io": "https://x.com/unlocksummit_io",
+        "pwr2tpmx": "https://x.com/pwr2tpmx"
+      },
+      "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-027-revillaweb-3",
+      "arbiscan_url": "https://arbiscan.io/address/0xf1c988dAF2688c043e8505Bbec218F3691E6E5bE",
+      "listeners": "57"
+    },
+    {
+      "number": "20241216",
+      "title": "2024 en retrospectiva: Lo que construimos juntos. 🇲🇽",
+      "date": "2024-12-16",
+      "duration": "1h 07m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: 2024 en retrospectiva: Lo que construimos juntos. 🇲🇽",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "108"
+    },
+    {
+      "number": "026",
+      "title": "BandaWeb3 #026 The Arena",
+      "date": "2024-12-13",
+      "time": "12:00 PM CST",
+      "duration": "",
+      "guests": [
+        "TheArenaApp"
+      ],
+      "guest_links": {
+        "TheArenaApp": "https://x.com/TheArenaApp"
+      },
+      "description": "BandaWeb3 #026 @TheArenaApp. Conversaciones con @meximalist, sin guion y uno que otro anuncio.",
+      "topics": [
+        "The Arena",
+        "Avalanche",
+        "SocialFi"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "space_url": "",
+      "arena_url": "https://arena.social/?ref=meximalist",
+      "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-026-the-arena",
+      "snowtrace_url": "https://snowtrace.io/address/0x9E475B4a4388EfD5166aD2a7dC8a1D25998c119f",
+      "flyer_urls": [
+        "flyer_026.png"
+      ],
+      "listeners": "0"
+    },
+    {
+      "number": "025",
+      "title": "BandaWeb3 #025 @LaZonaTres",
+      "date": "2024-12-12",
+      "time": "12:00 PM CST",
+      "guests": [
+        "LaZonaTres"
+      ],
+      "duration": "1h 14m",
+      "description": "Zona Tres - Hub educativo multichain que está creando la próxima generación de constructores Web3 en las regiones de habla hispana. https://zonatres.org/ Cristina Loustaunau - 👩🏻‍💻Co-fundadora @lazonatres 🌎 @thecryptovalley, @icphub_MX 🧱 Impulsando el desarrollo Web3 en América Latina. Cristian Zambrano - 🪙Building @lazonatres @hobbi_me | 🏫 Teacher @Platzi contributing @icphub_MX | Mentoring on Web3 products.",
+      "topics": [
+        "Zona Tres",
+        "Education",
+        "Web3"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "space_url": "https://x.com/i/spaces/1LyxBgLOEjpKN",
+      "flyer_urls": [
+        "flyer_025.png"
+      ],
+      "guest_links": {
+        "LaZonaTres": "https://x.com/LaZonaTres"
+      },
+      "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-025-la-zonatres",
+      "arbiscan_url": "https://arbiscan.io/address/0x29a3a83b994dbf6C3271f9AaBDb75cD7Bb20D236",
+      "listeners": "71"
+    },
+    {
+      "number": "024",
+      "title": "BandaWeb3 #024 @JoseArrietaLU",
+      "date": "2024-12-10",
+      "time": "12:00 PM CST",
+      "guests": [
+        "JoseArrietaLU"
+      ],
+      "duration": "1h 30m",
+      "description": "Community manager de @TanssiNetwork en español | Amante de la tecnología Web3 Conversaciones con @meximalist, sin guion y uno que otro anuncio.",
+      "topics": [
+        "Tanssi Network",
+        "Community Management",
+        "Web3"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "space_url": "https://x.com/i/spaces/1yNGagpAlBgxj",
+      "flyer_urls": [
+        "flyer_024.png"
+      ],
+      "guest_links": {
+        "JoseArrietaLU": "https://x.com/JoseArrietaLU"
+      },
+      "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-024-jose-arrieta-lu",
+      "arbiscan_url": "https://arbiscan.io/address/0xAFe615497a42Dec9fc375549f63E301873f9Cb95",
+      "listeners": "0"
+    },
+    {
+      "number": "20241209",
+      "title": "✺ Mantle llega a LATAM",
+      "date": "2024-12-09",
+      "duration": "50m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: ✺ Mantle llega a LATAM",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": ""
+    },
+    {
+      "number": "023",
+      "title": "BandaWeb3 #023 @0xDonPepe",
+      "date": "2024-12-06",
+      "time": "12:00 PM CST",
+      "guests": [
+        "0xDonPepe"
+      ],
+      "duration": "1h 23m",
+      "description": "MSc. in Finance | Lunarpunk | Open-Source advocate | Minarchist | Delegate @optimism @arbitrum @scroll_zkp | Frog @eth_mty | e/acc https://www.youtube.com/watch?v=dQw4w9WgXcQ Conversaciones con @meximalist, sin guion y uno que otro anuncio.",
+      "topics": [
+        "Finance",
+        "Lunarpunk",
+        "Open-Source",
+        "Optimism",
+        "Arbitrum",
+        "Scroll"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "space_url": "https://x.com/i/spaces/1PlJQbLvlqqxE",
+      "flyer_urls": [
+        "flyer_023.png"
+      ],
+      "guest_links": {
+        "0xDonPepe": "https://x.com/0xDonPepe"
+      },
+      "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-023-0-x-don-pepe",
+      "arbiscan_url": "https://arbiscan.io/address/0xa956a2d098AB6586a3e79f8a35ab94519092351C",
+      "listeners": "85"
+    },
+    {
+      "number": "022",
+      "title": "BandaWeb3 #022 @ariutokintumi",
+      "date": "2024-12-05",
+      "time": "12:00 PM CST",
+      "guests": [
+        "ariutokintumi"
+      ],
+      "duration": "1h 25m",
+      "description": "Exist :-Y | @Datamorpho | @clu3service | @ApeironProtocol | @RollaMate | AcidChains | gm Fam! | X-ChainArbitraryExec | @NomadicAcc | @ETHCincoDeMayo Conversaciones con @meximalist, sin guion y uno que otro anuncio.",
+      "topics": [
+        "Web3",
+        "Community"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "space_url": "https://x.com/i/spaces/1kvJpbOrYmDKE",
+      "flyer_urls": [
+        "flyer_022.png"
+      ],
+      "guest_links": {
+        "ariutokintumi": "https://x.com/ariutokintumi"
+      },
+      "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-022-ariutokintumi",
+      "arbiscan_url": "https://arbiscan.io/address/0xCA48DDE2a95285Bd04FEa2adDc4FE22fA0532DE3",
+      "listeners": "51"
+    },
+    {
+      "number": "20241205-S7",
+      "title": "100K TODAY",
+      "date": "2024-12-05",
+      "duration": "2h 33m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1eaKbavOLYqxX",
+      "description": "En ese día Bitcoin llegó a 100K",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [
+        "flyer_20241205_S7.jpg"
+      ],
+      "listeners": "327"
+    },
+    {
+      "number": "20241204",
+      "title": "Echoes of Frida: Reimaginando un Legado en Arte Generativo",
+      "date": "2024-12-04",
+      "duration": "54m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Echoes of Frida: Reimaginando un Legado en Arte Generativo",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "71"
+    },
+    {
+      "number": "021",
+      "title": "BandaWeb3 #021 @solsiete_web3",
+      "date": "2024-12-03",
+      "time": "12:00 PM CST",
+      "guests": [
+        "solsiete_web3",
+        "Musica_W3"
+      ],
+      "duration": "1h 19m",
+      "description": "Web3 since 2021🔴 ||✨Building @Musica_W3 || Creator of 'El Método' workshop 📚|| Web3 music mentor Conversaciones con @meximalist, sin guion y uno que otro anuncio.",
+      "topics": [
+        "Web3",
+        "Music",
+        "Workshop"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "space_url": "https://x.com/i/spaces/1mnxeAvyBvAxX",
+      "audio_url": "",
+      "flyer_urls": [
+        "flyer_021.png"
+      ],
+      "guest_links": {
+        "solsiete_web3": "https://x.com/solsiete_web3",
+        "Musica_W3": "https://x.com/Musica_W3"
+      },
+      "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-021-solsiete-web-3",
+      "arbiscan_url": "https://arbiscan.io/address/0x2A1c8BA365C3A29338eDa62F200C3a6b58A570aC",
+      "listeners": "74"
+    },
+    {
+      "number": "020",
+      "title": "BandaWeb3 #020 @isabellasg3",
+      "date": "2024-11-29",
+      "time": "12:00 PM CST",
+      "guests": [
+        "isabellasg3",
+        "BTCIsla",
+        "getbasedtv"
+      ],
+      "duration": "1h 30m",
+      "description": "@BTCIsla | @getbasedtv | #Bitcoin Magazine Dona a BTC Isla Conversaciones con @meximalist, sin guion y uno que otro anuncio.",
+      "topics": [
+        "Bitcoin",
+        "Donation",
+        "Community"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "space_url": "https://x.com/i/spaces/1MYxNMqyDDvJw",
+      "flyer_urls": [
+        "flyer_020.png"
+      ],
+      "guest_links": {
+        "isabellasg3": "https://x.com/isabellasg3",
+        "BTCIsla": "https://x.com/BTCIsla",
+        "getbasedtv": "https://x.com/getbasedtv"
+      },
+      "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-020-isabellasg-3",
+      "arbiscan_url": "https://arbiscan.io/address/0x685d4AC6E1C341dAD7e2DAe2f63cEFb1103C7930",
+      "listeners": "93"
+    },
+    {
+      "number": "019",
+      "title": "BandaWeb3 #019 @brozrdz",
+      "date": "2024-11-28",
+      "time": "12:00 PM CST",
+      "guests": [
+        "brozrdz",
+        "bloqueqro"
+      ],
+      "duration": "1h 30m",
+      "description": "🜁 music, creative, marketer, crypto investor, radio host & ON⛓️ Collector ⛏⭕️🥷🏻🧠 @bloqueqro xdm.group Conversaciones con @meximalist, sin guion y uno que otro anuncio.",
+      "topics": [
+        "Music",
+        "Crypto",
+        "Radio"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "space_url": "https://x.com/i/spaces/1OdJrXpggBVKX",
+      "flyer_urls": [
+        "flyer_019.png"
+      ],
+      "guest_links": {
+        "brozrdz": "https://x.com/brozrdz",
+        "bloqueqro": "https://x.com/bloqueqro"
+      },
+      "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-019-brozrdz",
+      "arbiscan_url": "https://arbiscan.io/address/0x37366C92486711c3fB09C37e8b73e3E38705a7c5",
+      "listeners": "89"
+    },
+    {
+      "number": "018",
+      "title": "BandaWeb3 #018 @laChicaWeb3",
+      "date": "2024-11-26",
+      "time": "12:00 PM CST",
+      "guests": [
+        "laChicaWeb3"
+      ],
+      "duration": "1h 30m",
+      "description": "CRIPTO & WE₿3 👩‍💻⛓️🪙🌐 #bitcoin #cripto #criptomoneda #blockchains #Web3 #NFT #DeFi #metaverso #DAO #WAGMI Facts+Opinión linktr.ee/chicaweb3.eth Conversaciones 1 a 1 con @meximalist, sin guion y uno que otro anuncio.",
+      "topics": [
+        "Bitcoin",
+        "Web3",
+        "NFT",
+        "DeFi",
+        "DAO"
+      ],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "space_url": "https://x.com/i/spaces/1YpKklLpqbwGj",
+      "flyer_urls": [
+        "flyer_018.png"
+      ],
+      "guest_links": {
+        "laChicaWeb3": "https://x.com/laChicaWeb3"
+      },
+      "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-018-la-chica-web-3",
+      "arbiscan_url": "https://arbiscan.io/address/0x5651E19E3cBDfbAD1CBb4020590Bacbf8c75dff7",
+      "listeners": "63"
+    },
+    {
+      "number": "017",
+      "title": "Episode 017 with @CryptoNotaz",
+      "date": "2024-11-22",
+      "guests": [
+        "CryptoNotaz"
+      ],
+      "duration": "2h 07m",
+      "description": "Episode 017 of BandaWeb3 with special guest @CryptoNotaz.",
+      "topics": [],
+      "status": "pending",
+      "transcript_available": false,
+      "content_generated": false,
+      "space_url": "https://x.com/i/spaces/1PlJQbrdMXXxE",
+      "audio_url": "",
+      "flyer_urls": [
+        "flyer_017.png"
+      ],
+      "time": "12:00 PM CST",
+      "guest_links": {
+        "CryptoNotaz": "https://x.com/CryptoNotaz"
+      },
+      "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-017-crypto-notaz",
+      "opensea_url": "https://opensea.io/collection/bandaweb3-017-cryptonotaz",
+      "contract_url": "https://arbiscan.io/address/0x7c5e1577e19e34a70ea9b8d38e46374e8b21c5c2",
+      "listeners": "200"
+    },
+    {
+      "number": "016",
+      "title": "Episode 016 with @eddiespino",
+      "date": "2024-11-21",
+      "guests": [
+        "eddiespino"
+      ],
+      "duration": "1h 41m",
+      "description": "Episode 016 of BandaWeb3 with special guest @eddiespino.",
+      "topics": [],
+      "status": "pending",
+      "transcript_available": false,
+      "content_generated": false,
+      "space_url": "https://x.com/i/spaces/1ynKODANPyvGR",
+      "audio_url": "",
+      "flyer_urls": [
+        "flyer_016.jpg"
+      ],
+      "time": "12:00 PM CST",
+      "guest_links": {
+        "eddiespino": "https://x.com/eddiespino"
+      },
+      "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-016-eddiespino",
+      "opensea_url": "https://opensea.io/collection/bandaweb3-016-eddiespino",
+      "contract_url": "https://arbiscan.io//address/0xc057bf08093580ac43380b14d026e4e1ade3bd73",
+      "listeners": "135"
+    },
+    {
+      "number": "015",
+      "title": "Episode 015 with @Atitovva",
+      "date": "2024-11-21",
+      "guests": [
+        "Atitovva"
+      ],
+      "duration": "",
+      "description": "Episode 015 of BandaWeb3 with special guest @Atitovva.",
+      "topics": [],
+      "status": "pending",
+      "transcript_available": false,
+      "content_generated": false,
+      "space_url": "https://x.com/i/spaces/1OdKrXADwlXJX",
+      "audio_url": "",
+      "flyer_urls": [
+        "flyer_015.jpg"
+      ],
+      "time": "12:00 PM CST",
+      "guest_links": {
+        "Atitovva": "https://x.com/Atitovva"
+      },
+      "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-014-atitovva",
+      "opensea_url": "https://opensea.io/collection/bandaweb3-015-atitovva",
+      "contract_url": "https://arbiscan.io//address/0x8f4d86fd156a1fc32e9304612d94ea31fb922f95",
+      "listeners": "21"
+    },
+    {
+      "number": "20241120",
+      "title": "Space con TRUST WALLET",
+      "date": "2024-11-20",
+      "duration": "1 hours, 8 minutes, 19 seconds",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Space con TRUST WALLET",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "87"
+    },
+    {
+      "number": "014",
+      "title": "Episode 014 with @AnanaNFTs",
+      "date": "2024-11-19",
+      "guests": [
+        "AnanaNFTs"
+      ],
+      "duration": "1h 16m",
+      "description": "Episode 014 of BandaWeb3 with special guest @AnanaNFTs.",
+      "topics": [],
+      "status": "pending",
+      "transcript_available": false,
+      "content_generated": false,
+      "space_url": "https://x.com/i/spaces/1lDxLlabMdoxm",
+      "audio_url": "",
+      "flyer_urls": [
+        "flyer_014.jpg"
+      ],
+      "time": "06:00 PM CST",
+      "guest_links": {
+        "AnanaNFTs": "https://x.com/AnanaNFTs"
+      },
+      "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-015-anana-nf-ts",
+      "opensea_url": "https://opensea.io/collection/bandaweb3-014-anananfts",
+      "contract_url": "https://arbiscan.io//address/0x0147aa70c8caa8a47e98808bca207c94a3beca8a",
+      "listeners": "108"
+    },
+    {
+      "number": "013",
+      "title": "Episode 013 with @AndriuJose20",
+      "date": "2024-11-14",
+      "guests": [
+        "AndriuJose20"
+      ],
+      "duration": "1h 29m",
+      "description": "Episode 013 of BandaWeb3 with special guest @AndriuJose20.",
+      "topics": [],
+      "status": "pending",
+      "transcript_available": false,
+      "content_generated": false,
+      "space_url": "https://x.com/i/spaces/1nAKEpWrVXaxL",
+      "audio_url": "",
+      "flyer_urls": [
+        "flyer_013.jpg"
+      ],
+      "time": "12:00 PM CST",
+      "guest_links": {
+        "AndriuJose20": "https://x.com/AndriuJose20"
+      },
+      "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-013-andriu-jose-20",
+      "opensea_url": "https://opensea.io/collection/bandaweb3-013-andriujose20",
+      "contract_url": "https://arbiscan.io/address/0x3e0d119edd647BC79afeA106e75ABA7717D61Ec9",
+      "listeners": "92"
+    },
+    {
+      "number": "012",
+      "title": "Episode 012 with @asarvide9",
+      "date": "2024-11-12",
+      "guests": [
+        "asarvide9"
+      ],
+      "duration": "1h 53m",
+      "description": "Episode 012 of BandaWeb3 with special guest @asarvide9.",
+      "topics": [],
+      "status": "pending",
+      "transcript_available": false,
+      "content_generated": false,
+      "space_url": "https://x.com/i/spaces/1lDGLlAnDWkGm",
+      "audio_url": "",
+      "flyer_urls": [
+        "flyer_012.jpg"
+      ],
+      "time": "12:00 PM CST",
+      "guest_links": {
+        "asarvide9": "https://x.com/asarvide9"
+      },
+      "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-012-asarvide-9",
+      "opensea_url": "https://opensea.io/collection/bandaweb3-012-asarvide9",
+      "contract_url": "https://arbiscan.io/address/0x419e452E15A0e52D9B6afC04Acbae4aC9C92Bbe9",
+      "listeners": "32"
+    },
+    {
+      "number": "011",
+      "title": "Episode 011 with @rosaglez_eth",
+      "date": "2024-11-07",
+      "guests": [
+        "rosaglez_eth"
+      ],
+      "duration": "1h 33m",
+      "description": "Episode 011 of BandaWeb3 with special guest @rosaglez_eth.",
+      "topics": [],
+      "status": "pending",
+      "transcript_available": false,
+      "content_generated": false,
+      "space_url": "https://x.com/i/spaces/1RDGlymzPrMJL",
+      "audio_url": "",
+      "flyer_urls": [
+        "flyer_011.jpg"
+      ],
+      "time": "12:00 PM CST",
+      "guest_links": {
+        "rosaglez_eth": "https://x.com/rosaglez_eth"
+      },
+      "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-011-rosaglez-eth",
+      "opensea_url": "https://opensea.io/collection/bandaweb3-011-rosaglez-eth",
+      "contract_url": "https://arbiscan.io/address/0xBA6031b5ED7e7319524b44C1fE569Cd1Fd822ee8",
+      "listeners": "50"
+    },
+    {
+      "number": "20241107",
+      "title": "Ethereum Mexico 🇲🇽",
+      "date": "2024-11-07",
+      "duration": "52m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Ethereum Mexico 🇲🇽",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "42"
+    },
+    {
+      "number": "010",
+      "title": "Episode 010 with @andreweb3_btc",
+      "date": "2024-11-05",
+      "guests": [
+        "andreweb3_btc"
+      ],
+      "duration": "1h 29m",
+      "description": "Episode 010 of BandaWeb3 with special guest @andreweb3_btc.",
+      "topics": [],
+      "status": "pending",
+      "transcript_available": false,
+      "content_generated": false,
+      "space_url": "https://x.com/i/spaces/1BRJjwWpMeoxw",
+      "audio_url": "",
+      "flyer_urls": [
+        "flyer_010.jpg"
+      ],
+      "time": "12:00 PM CST",
+      "guest_links": {
+        "andreweb3_btc": "https://x.com/andreweb3_btc"
+      },
+      "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-010-andreweb-3-btc",
+      "opensea_url": "https://opensea.io/collection/bandaweb3-010-andreweb3-btc",
+      "contract_url": "https://arbiscan.io//address/0xeee3e810f6b93c5b69912e75970e9a99048f8d54",
+      "listeners": "48"
+    },
+    {
+      "number": "009",
+      "title": "Episode 009 with @VizZu11_11",
+      "date": "2024-10-29",
+      "guests": [
+        "VizZu11_11"
+      ],
+      "duration": "1h 21m",
+      "description": "Episode 009 of BandaWeb3 with special guest @VizZu11_11.",
+      "topics": [],
+      "status": "pending",
+      "transcript_available": false,
+      "content_generated": false,
+      "space_url": "https://x.com/i/spaces/1lDxLlRbwabxm",
+      "audio_url": "",
+      "flyer_urls": [
+        "flyer_009.jpg"
+      ],
+      "time": "12:00 PM CST",
+      "guest_links": {
+        "VizZu11_11": "https://x.com/VizZu11_11"
+      },
+      "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-009-viz-zu-11-11",
+      "opensea_url": "https://opensea.io/collection/bandaweb3-009-vizzu11-11",
+      "contract_url": "https://arbiscan.io/address/0x9D09f2e3ABa9096EfE868c100f45F3355F1b522d",
+      "listeners": "33"
+    },
+    {
+      "number": "008",
+      "title": "Episode 008 with @jgonzalezferrer",
+      "date": "2024-10-24",
+      "guests": [
+        "jgonzalezferrer"
+      ],
+      "duration": "1h 30m",
+      "description": "Episode 008 of BandaWeb3 with special guest @jgonzalezferrer.",
+      "topics": [],
+      "status": "pending",
+      "transcript_available": false,
+      "content_generated": false,
+      "space_url": "https://x.com/i/spaces/1MnxnDraMVyGO",
+      "audio_url": "",
+      "flyer_urls": [
+        "flyer_008.jpg"
+      ],
+      "time": "12:00 PM CST",
+      "guest_links": {
+        "jgonzalezferrer": "https://x.com/jgonzalezferrer"
+      },
+      "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-008-jgonzalezferrer",
+      "opensea_url": "https://opensea.io/collection/bandaweb3-008-jgonzalezferrer",
+      "contract_url": "https://arbiscan.io//address/0xeaabb698890eb77c32353921f3ef072b3a83a776",
+      "listeners": "80"
+    },
+    {
+      "number": "007",
+      "title": "Episode 007 with @Yisbelpd",
+      "date": "2024-10-22",
+      "guests": [
+        "Yisbelpd"
+      ],
+      "duration": "1h 38m",
+      "description": "Episode 007 of BandaWeb3 with special guest @Yisbelpd.",
+      "topics": [],
+      "status": "pending",
+      "transcript_available": false,
+      "content_generated": false,
+      "space_url": "https://x.com/i/spaces/1djxXrZANyNGZ",
+      "audio_url": "",
+      "flyer_urls": [
+        "flyer_007.jpg"
+      ],
+      "time": "12:00 PM CST",
+      "guest_links": {
+        "Yisbelpd": "https://x.com/Yisbelpd"
+      },
+      "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-007-yisbelpd",
+      "opensea_url": "https://opensea.io/collection/bandaweb3-007-yisbelpd",
+      "contract_url": "https://arbiscan.io//address/0x4096670d0ccb444d913a42ffbb6eb304a30a174a",
+      "listeners": "51"
+    },
+    {
+      "number": "006",
+      "title": "Episode 006 with @MinimalTrader_",
+      "date": "2024-10-22",
+      "guests": [
+        "MinimalTrader_"
+      ],
+      "duration": "",
+      "description": "Episode 006 of BandaWeb3 with special guest @MinimalTrader_.",
+      "topics": [],
+      "status": "pending",
+      "transcript_available": false,
+      "content_generated": false,
+      "space_url": "https://x.com/i/spaces/1BRJjwVWbPVxw",
+      "audio_url": "",
+      "flyer_urls": [
+        "flyer_006.jpg"
+      ],
+      "time": "12:00 PM CST",
+      "guest_links": {
+        "MinimalTrader_": "https://x.com/MinimalTrader_"
+      },
+      "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-004-minimal-trader",
+      "opensea_url": "https://opensea.io/collection/bandaweb3-006-minimaltrader",
+      "contract_url": "https://arbiscan.io//address/0x6dcbe67840c190362242ef31cf909227b1fcb884",
+      "listeners": "0"
+    },
+    {
+      "number": "005",
+      "title": "Episode 005 with @haycarlitos",
+      "date": "2024-10-01",
+      "guests": [
+        "haycarlitos"
+      ],
+      "duration": "1h 29m",
+      "description": "Episode 005 of BandaWeb3 with special guest @haycarlitos.",
+      "topics": [],
+      "status": "pending",
+      "transcript_available": false,
+      "content_generated": false,
+      "space_url": "https://x.com/i/spaces/1vOxwrpvWNDJB",
+      "audio_url": "",
+      "flyer_urls": [
+        "flyer_005.jpg"
+      ],
+      "time": "12:00 PM CST",
+      "guest_links": {
+        "haycarlitos": "https://x.com/haycarlitos"
+      },
+      "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-005-haycarlitos",
+      "opensea_url": "https://opensea.io/collection/bandaweb3-005-haycarlitos",
+      "contract_url": "https://arbiscan.io//address/0x92a623a93351782d74b3e3bfad8dc52d5b33d07b",
+      "listeners": "49"
+    },
+    {
+      "number": "004",
+      "title": "Episode 004 with @natzcalli",
+      "date": "2024-09-26",
+      "guests": [
+        "natzcalli"
+      ],
+      "duration": "1h 44m",
+      "description": "Episode 004 of BandaWeb3 with special guest @natzcalli.",
+      "topics": [],
+      "status": "pending",
+      "transcript_available": false,
+      "content_generated": false,
+      "space_url": "https://x.com/i/spaces/1kvJpbZXeBQKE",
+      "audio_url": "",
+      "flyer_urls": [
+        "flyer_004.jpg"
+      ],
+      "time": "12:00 PM CST",
+      "guest_links": {
+        "natzcalli": "https://x.com/natzcalli"
+      },
+      "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-004-natzcalli",
+      "opensea_url": "https://opensea.io/collection/bandaweb3-004-natzcalli",
+      "contract_url": "https://arbiscan.io//address/0xfc4fedc093393f46ad12dea9a42f5cb3bc9599a2",
+      "listeners": "144"
+    },
+    {
+      "number": "003",
+      "title": "Episode 003 with @sandym_c",
+      "date": "2024-09-10",
+      "guests": [
+        "sandym_c"
+      ],
+      "duration": "Pending",
+      "description": "Episode 003 of BandaWeb3 with special guest @sandym_c.",
+      "topics": [],
+      "status": "pending",
+      "transcript_available": false,
+      "content_generated": false,
+      "space_url": "https://x.com/i/spaces/1mnxeAPBjqZxX",
+      "audio_url": "",
+      "flyer_urls": [
+        "flyer_003.jpg"
+      ],
+      "time": "12:00 PM CST",
+      "guest_links": {
+        "sandym_c": "https://x.com/sandym_c"
+      },
+      "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-003-sandym-c",
+      "opensea_url": "https://opensea.io/collection/bandaweb3-003-sandym-c",
+      "contract_url": "https://arbiscan.io//address/0x51aca4d171ae39cbffe41f7bb4f4acb725fb481f",
+      "listeners": "125"
+    },
+    {
+      "number": "002",
+      "title": "Episode 002 with @sohobiit",
+      "date": "2024-09-05",
+      "guests": [
+        "sohobiit"
+      ],
+      "duration": "1h 22m",
+      "description": "Episode 002 of BandaWeb3 with special guest @sohobiit.",
+      "topics": [],
+      "status": "pending",
+      "transcript_available": false,
+      "content_generated": false,
+      "space_url": "https://x.com/i/spaces/1kvJpbwePbwKE",
+      "audio_url": "",
+      "flyer_urls": [
+        "flyer_002.jpg"
+      ],
+      "time": "12:00 PM CST",
+      "guest_links": {
+        "sohobiit": "https://x.com/sohobiit"
+      },
+      "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-002-sohobiit",
+      "opensea_url": "https://opensea.io/collection/bandaweb3-002-sohobiit",
+      "contract_url": "https://arbiscan.io//address/0xfa38f899f453e4f44fd74919a7b0a2adb1859ba0"
+    },
+    {
+      "number": "001",
+      "title": "Episode 001 with @0xKaroShow",
+      "date": "2024-08-29",
+      "guests": [
+        "0xKaroShow"
+      ],
+      "duration": "1h 20m",
+      "description": "Episode 001 of BandaWeb3 with special guest @0xKaroShow.",
+      "topics": [],
+      "status": "pending",
+      "transcript_available": false,
+      "content_generated": false,
+      "space_url": "https://x.com/i/spaces/1ZkKzRgLvbLKv",
+      "audio_url": "",
+      "flyer_urls": [
+        "flyer_001.jpg"
+      ],
+      "time": "12:00 PM CST",
+      "guest_links": {
+        "0xKaroShow": "https://x.com/0xKaroShow"
+      },
+      "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-001-0-x-karo-show",
+      "opensea_url": "https://opensea.io/collection/bandaweb3-001-0xkaroshow",
+      "contract_url": "https://arbiscan.io//address/0xce03e904d588a2a78e7173b19c2fb0eec7a74333"
+    },
+    {
+      "number": "1",
+      "title": "BandaWeb3 - Verborrea #1 con mexi.wtf",
+      "date": "2024-08-15",
+      "duration": "1h 03m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1dRJZdoMbrzKB",
+      "description": "Episode 1 of BandaWeb3. BandaWeb3 - Verborrea #1 con mexi.wtf",
+      "topics": [],
+      "status": "published",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": []
+    },
+    {
+      "number": "2",
+      "title": "BandaWeb3 con @sohobiit - @UnlockProtocol RetroQF #2",
+      "date": "2024-07-23",
+      "duration": "1h 33m",
+      "guests": [
+        "sohobiit",
+        "UnlockProtocol"
+      ],
+      "guest_links": {
+        "sohobiit": "https://x.com/sohobiit",
+        "UnlockProtocol": "https://x.com/UnlockProtocol"
+      },
+      "space_url": "https://x.com/i/spaces/1YpJklXMLomxj",
+      "description": "Episode 2 of BandaWeb3. BandaWeb3 con @sohobiit - @UnlockProtocol RetroQF #2",
+      "topics": [],
+      "status": "published",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": []
+    },
+    {
+      "number": "20240125",
+      "title": "Banda Web3 - Grants de @Meta_Pool, XRC20 $SUB80K",
+      "date": "2024-01-25",
+      "duration": "1h 55m",
+      "guests": [
+        "Meta_Pool"
+      ],
+      "guest_links": {
+        "Meta_Pool": "https://x.com/Meta_Pool"
+      },
+      "space_url": "https://x.com/i/spaces/1mrGmyDAnaMGy",
+      "description": "Banda Web3 - Grants de @Meta_Pool, XRC20 $SUB80K",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "244"
+    },
+    {
+      "number": "20240123",
+      "title": "Banda Web3 - ICP Hub Latam, fomentando la educación con ICP",
+      "date": "2024-01-23",
+      "duration": "08m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1lPJqbljglWxb",
+      "description": "Banda Web3 - ICP Hub Latam, fomentando la educación con ICP",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "33"
+    },
+    {
+      "number": "20240118",
+      "title": "Qué haces para no dormir?",
+      "date": "2024-01-18",
+      "duration": "2h 51m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Qué haces para no dormir?",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "106"
+    },
+    {
+      "number": "20240113",
+      "title": "RivvSpace: La Industria De La Creación De Contenido🤑",
+      "date": "2024-01-13",
+      "duration": "2h 12m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: RivvSpace: La Industria De La Creación De Contenido🤑",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "189"
+    },
+    {
+      "number": "20240111",
+      "title": "Banda Web3 - Nouns, Prop House y Nouns DAO Amigos",
+      "date": "2024-01-11",
+      "duration": "2h 11m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1vOxwjQjqZEJB",
+      "description": "Banda Web3 - Nouns, Prop House y Nouns DAO Amigos",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "222"
+    },
+    {
+      "number": "20240111-2",
+      "title": "Gitcoin Grant: Proyectos Mexicanos 🇲🇽",
+      "date": "2024-01-11",
+      "duration": "1h 07m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Gitcoin Grant: Proyectos Mexicanos 🇲🇽",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "156"
+    },
+    {
+      "number": "20240110",
+      "title": "ETH Cinco de Mayo - Communities",
+      "date": "2024-01-10",
+      "duration": "1h 31m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: ETH Cinco de Mayo - Communities",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "217"
+    },
+    {
+      "number": "20240109",
+      "title": "AMA - ETF Bitcoin, @SUB80K, Tokens XRC20",
+      "date": "2024-01-09",
+      "duration": "2h 00m",
+      "guests": [
+        "SUB80K"
+      ],
+      "guest_links": {
+        "SUB80K": "https://x.com/SUB80K"
+      },
+      "space_url": "",
+      "description": "AMA - ETF Bitcoin, @SUB80K, Tokens XRC20",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "210"
+    },
+    {
+      "number": "20240109-2",
+      "title": "ETF APROBADO FAKE #BTC #BITCOIN",
+      "date": "2024-01-09",
+      "duration": "48m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: ETF APROBADO FAKE #BTC #BITCOIN",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "152"
+    },
+    {
+      "number": "20240108",
+      "title": "MINT PARTY ❤️ | HAIKU 🔴 x #welovetheart @Musica_W3",
+      "date": "2024-01-08",
+      "duration": "2h 47m",
+      "guests": [
+        "Musica_W3"
+      ],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: MINT PARTY ❤️ | HAIKU 🔴 x #welovetheart @Musica_W3",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "197"
+    },
+    {
+      "number": "20240104",
+      "title": "¿Cómo lidiar con amenazas, violencia y el doxxeo en la Web3?",
+      "date": "2024-01-04",
+      "duration": "2h 34m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1LyGBnYRYEkGN",
+      "description": "¿Cómo lidiar con amenazas, violencia y el doxxeo en la Web3?",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "530"
+    },
+    {
+      "number": "20240104-2",
+      "title": "📝Inscribiendo XRPC#20 con nosotros ☑️",
+      "date": "2024-01-04",
+      "duration": "3h 34m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: 📝Inscribiendo XRPC#20 con nosotros ☑️",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "139"
+    },
+    {
+      "number": "20240102",
+      "title": "Shill X Space - Proyectos Mexicanos en Gitcoin",
+      "date": "2024-01-02",
+      "duration": "2h 12m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1LyxBnYOjvaxN",
+      "description": "Shill X Space - Proyectos Mexicanos en Gitcoin",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "248"
+    },
+    {
+      "number": "20231231",
+      "title": "Subasta de WL #Sub80k con $MEXI y $Sub80k",
+      "date": "2023-12-31",
+      "duration": "2h 17m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1vOGwjQDnMgKB",
+      "description": "Subasta de WL #Sub80k con $MEXI y $Sub80k",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "106"
+    },
+    {
+      "number": "20231230",
+      "title": "AMA #Sub80k y XRC20",
+      "date": "2023-12-30",
+      "duration": "1h 59m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1BRJjPMOlZeKw",
+      "description": "AMA #Sub80k y XRC20",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "293"
+    },
+    {
+      "number": "20231230-2",
+      "title": "Web3 para BoBos",
+      "date": "2023-12-30",
+      "duration": "13m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Web3 para BoBos",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "49"
+    },
+    {
+      "number": "20231228",
+      "title": "Solscriptions Colección Hispana Sub80K con @CryptoNotaz",
+      "date": "2023-12-28",
+      "duration": "1h 59m",
+      "guests": [
+        "CryptoNotaz"
+      ],
+      "guest_links": {
+        "CryptoNotaz": "https://x.com/CryptoNotaz"
+      },
+      "space_url": "",
+      "description": "Solscriptions Colección Hispana Sub80K con @CryptoNotaz",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "406"
+    },
+    {
+      "number": "20231228-2",
+      "title": "cryptoreuMD.eth/3972.⌐◨-◨ 🦇🔊...",
+      "date": "2023-12-28",
+      "duration": "1h 03m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: cryptoreuMD.eth/3972.⌐◨-◨ 🦇🔊...",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "52"
+    },
+    {
+      "number": "20231227",
+      "title": "XRC20 - Solscriptions - Ethscriptions - Todo el Alpha",
+      "date": "2023-12-27",
+      "duration": "2h 35m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1LyxBnmXnzWxN",
+      "description": "XRC20 - Solscriptions - Ethscriptions - Todo el Alpha",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "268"
+    },
+    {
+      "number": "20231227-S7",
+      "title": "XRC20 $MEXI",
+      "date": "2023-12-27",
+      "duration": "45m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1vOxwjWdZvDJB",
+      "description": "XRC20 $MEXI",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "88"
+    },
+    {
+      "number": "20231226",
+      "title": "Banda Web3 - Caso @0xgonzalo_ con @solencontraluz",
+      "date": "2023-12-26",
+      "duration": "2h 30m",
+      "guests": [
+        "0xgonzalo_",
+        "solencontraluz"
+      ],
+      "guest_links": {
+        "0xgonzalo_": "https://x.com/0xgonzalo_",
+        "solencontraluz": "https://x.com/solencontraluz"
+      },
+      "space_url": "https://x.com/i/spaces/1kvJpvweVXbKE",
+      "description": "Banda Web3 - Caso @0xgonzalo_ con @solencontraluz",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "260"
+    },
+    {
+      "number": "20231223",
+      "title": "📈 Momentum Web3 en Español",
+      "date": "2023-12-23",
+      "duration": "56m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: 📈 Momentum Web3 en Español",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "105"
+    },
+    {
+      "number": "20231221",
+      "title": "Banda Web3 - Shitcoin Season",
+      "date": "2023-12-21",
+      "duration": "1h 03m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1mrGmyDAnaMGy",
+      "description": "Banda Web3 - Shitcoin Season",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "88"
+    },
+    {
+      "number": "20231221-2",
+      "title": "Momentum Web3 Español y half english 📈",
+      "date": "2023-12-21",
+      "duration": "57m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Momentum Web3 Español y half english 📈",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "56"
+    },
+    {
+      "number": "20231219",
+      "title": "Banda Web3 - Salud Mental con @MotusDao",
+      "date": "2023-12-19",
+      "duration": "2h 23m",
+      "guests": [
+        "MotusDao"
+      ],
+      "guest_links": {
+        "MotusDao": "https://x.com/MotusDao"
+      },
+      "space_url": "https://x.com/i/spaces/1YqxoDbbAmvKv",
+      "description": "Banda Web3 - Salud Mental con @MotusDao",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "240"
+    },
+    {
+      "number": "20231217",
+      "title": "#CryptobrunchLatam Ep.21 X Spaces de Latam para el mundo 🚀🌎",
+      "date": "2023-12-17",
+      "duration": "1h 43m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: #CryptobrunchLatam Ep.21 X Spaces de Latam para el mundo 🚀🌎",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "189"
+    },
+    {
+      "number": "20231217-2",
+      "title": "Web3 de noche 📈",
+      "date": "2023-12-17",
+      "duration": "5h 11m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Web3 de noche 📈",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "201"
+    },
+    {
+      "number": "20231214",
+      "title": "Banda Web3 - Ataque a LEDGER 😭",
+      "date": "2023-12-14",
+      "duration": "1h 23m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1eaKbgDgNQvGX",
+      "description": "Banda Web3 - Ataque a LEDGER 😭",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "168"
+    },
+    {
+      "number": "20231212",
+      "title": "Banda Web3 - Estado del mercado con @granmetanoia y @deLarg0",
+      "date": "2023-12-12",
+      "duration": "1h 43m",
+      "guests": [
+        "granmetanoia",
+        "deLarg0"
+      ],
+      "guest_links": {
+        "granmetanoia": "https://x.com/granmetanoia",
+        "deLarg0": "https://x.com/deLarg0"
+      },
+      "space_url": "https://x.com/i/spaces/1gqGvQzEDQeKB",
+      "description": "Banda Web3 - Estado del mercado con @granmetanoia y @deLarg0",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "169"
+    },
+    {
+      "number": "20231211",
+      "title": "Rug Radio en Español. Ep.4 Ft. Mexi",
+      "date": "2023-12-11",
+      "duration": "1h 40m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Rug Radio en Español. Ep.4 Ft. Mexi",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "167"
+    },
+    {
+      "number": "20231209",
+      "title": "Pre-Happ3n Tertulia JAM 💚entérate del chisme 🤠",
+      "date": "2023-12-09",
+      "duration": "34m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Pre-Happ3n Tertulia JAM 💚entérate del chisme 🤠",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "29"
+    },
+    {
+      "number": "20231207",
+      "title": "La Abogada, el Economista y el Inge - Argentina y Stables en Francia",
+      "date": "2023-12-07",
+      "duration": "1h 01m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "La Abogada, el Economista y el Inge - Argentina y Stables en Francia",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "106"
+    },
+    {
+      "number": "20231207-2",
+      "title": "McBoBo",
+      "date": "2023-12-07",
+      "duration": "2h 04m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: McBoBo",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "84"
+    },
+    {
+      "number": "20231205",
+      "title": "Banda Web3 - Chismesito con @anaqueenmaker",
+      "date": "2023-12-05",
+      "duration": "1h 52m",
+      "guests": [
+        "anaqueenmaker"
+      ],
+      "guest_links": {
+        "anaqueenmaker": "https://x.com/anaqueenmaker"
+      },
+      "space_url": "https://x.com/i/spaces/1eaKbgDoNQvGX",
+      "description": "Banda Web3 - Chismesito con @anaqueenmaker",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "161"
+    },
+    {
+      "number": "20231204",
+      "title": "🎙NARRATIVA: $BTC y web3 el futuro de la politica global?",
+      "date": "2023-12-04",
+      "duration": "2h 05m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: 🎙NARRATIVA: $BTC y web3 el futuro de la politica global?",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "66"
+    },
+    {
+      "number": "20231130",
+      "title": "Emprendimiento Web3 con Zona Tres @lazonatres",
+      "date": "2023-11-30",
+      "duration": "2h 19m",
+      "guests": [
+        "lazonatres"
+      ],
+      "guest_links": {
+        "lazonatres": "https://x.com/lazonatres"
+      },
+      "space_url": "https://x.com/i/spaces/1lDxLPDoLzyxm",
+      "description": "Emprendimiento Web3 con Zona Tres @lazonatres",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "187"
+    },
+    {
+      "number": "20231129",
+      "title": "NFTs On - Chain #Ordinals #Solscriptions #Ethscriptions ETC. 🔥",
+      "date": "2023-11-29",
+      "duration": "1h 54m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: NFTs On - Chain #Ordinals #Solscriptions #Ethscriptions ETC. 🔥",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "157"
+    },
+    {
+      "number": "20231128",
+      "title": "Proyectos de la comunidad @mxweb3 y Tertulia Jam de @Happ3nxyz",
+      "date": "2023-11-28",
+      "duration": "2h 10m",
+      "guests": [
+        "mxweb3",
+        "Happ3nxyz"
+      ],
+      "guest_links": {
+        "mxweb3": "https://x.com/mxweb3",
+        "Happ3nxyz": "https://x.com/Happ3nxyz"
+      },
+      "space_url": "https://x.com/i/spaces/1gqGvQmZBDgKB",
+      "description": "Proyectos de la comunidad @mxweb3 y Tertulia Jam de @Happ3nxyz",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "175"
+    },
+    {
+      "number": "20231128-2",
+      "title": "Let’s GROW Live 24/7 @Gitcoin Community",
+      "date": "2023-11-28",
+      "duration": "15h 18m",
+      "guests": [
+        "Gitcoin"
+      ],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Let’s GROW Live 24/7 @Gitcoin Community",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": ""
+    },
+    {
+      "number": "20231125",
+      "title": "MEGA SHILLING LATAM | #GitcoinRadio",
+      "date": "2023-11-25",
+      "duration": "2h 12m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: MEGA SHILLING LATAM | #GitcoinRadio",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "303"
+    },
+    {
+      "number": "20231123",
+      "title": "El Economista y el Ingeniero - Argentina y Milei",
+      "date": "2023-11-23",
+      "duration": "1h 21m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1vAxRvleVvYxl",
+      "description": "El Economista y el Ingeniero - Argentina y Milei",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "125"
+    },
+    {
+      "number": "20231123-2",
+      "title": "🗳️ mpDAO Grants 5: Conoce las propuestas hispanas! ⭐",
+      "date": "2023-11-23",
+      "duration": "50m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: 🗳️ mpDAO Grants 5: Conoce las propuestas hispanas! ⭐",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "141"
+    },
+    {
+      "number": "20231121",
+      "title": "Eventos en Mty, puentes quemados, @Gitcoin Shill Space",
+      "date": "2023-11-21",
+      "duration": "3h 30m",
+      "guests": [
+        "Gitcoin"
+      ],
+      "guest_links": {
+        "Gitcoin": "https://x.com/Gitcoin"
+      },
+      "space_url": "https://x.com/i/spaces/1eaKbgodvlrGX",
+      "description": "Eventos en Mty, puentes quemados, @Gitcoin Shill Space",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "360"
+    },
+    {
+      "number": "20231120",
+      "title": "Gitcoin Grants 19 🏅Latam 🚀 | Open Mic",
+      "date": "2023-11-20",
+      "duration": "1h 48m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Gitcoin Grants 19 🏅Latam 🚀 | Open Mic",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "172"
+    },
+    {
+      "number": "20231116",
+      "title": "@Meta_Pool - Gobernanza on-chain y Grants",
+      "date": "2023-11-16",
+      "duration": "1h 51m",
+      "guests": [
+        "Meta_Pool"
+      ],
+      "guest_links": {
+        "Meta_Pool": "https://x.com/Meta_Pool"
+      },
+      "space_url": "https://x.com/i/spaces/1ZkKzjBykOWKv",
+      "description": "@Meta_Pool - Gobernanza on-chain y Grants",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "147"
+    },
+    {
+      "number": "20231114",
+      "title": "Conoce las iniciativas de @Nohbek_oficial y sus fundadoras",
+      "date": "2023-11-14",
+      "duration": "2h 06m",
+      "guests": [
+        "Nohbek_oficial"
+      ],
+      "guest_links": {
+        "Nohbek_oficial": "https://x.com/Nohbek_oficial"
+      },
+      "space_url": "https://x.com/i/spaces/1vOxwjwYpEmJB",
+      "description": "Conoce las iniciativas de @Nohbek_oficial y sus fundadoras",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "146"
+    },
+    {
+      "number": "20231114-2",
+      "title": "Rumbo Gitcoin Grants 19 🚀🏅",
+      "date": "2023-11-14",
+      "duration": "1h 39m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Rumbo Gitcoin Grants 19 🚀🏅",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "105"
+    },
+    {
+      "number": "20231109",
+      "title": "PixHelp de @UNICEFColombia - Arte NFT que ayuda",
+      "date": "2023-11-09",
+      "duration": "1h 59m",
+      "guests": [
+        "UNICEFColombia"
+      ],
+      "guest_links": {
+        "UNICEFColombia": "https://x.com/UNICEFColombia"
+      },
+      "space_url": "https://x.com/i/spaces/1mnxepBMbBoJX",
+      "description": "PixHelp de @UNICEFColombia - Arte NFT que ayuda",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "180"
+    },
+    {
+      "number": "20231107",
+      "title": "NFTs de artistas latinos y créditos de carbón con @FivParis @AsesEco",
+      "date": "2023-11-07",
+      "duration": "1h 56m",
+      "guests": [
+        "FivParis",
+        "AsesEco"
+      ],
+      "guest_links": {
+        "FivParis": "https://x.com/FivParis",
+        "AsesEco": "https://x.com/AsesEco"
+      },
+      "space_url": "https://x.com/i/spaces/1lDxLPWXllwxm",
+      "description": "NFTs de artistas latinos y créditos de carbón con @FivParis @AsesEco",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "337"
+    },
+    {
+      "number": "20231107-2",
+      "title": "Camino a Gitcoin Grants 19 🚀",
+      "date": "2023-11-07",
+      "duration": "1h 02m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Camino a Gitcoin Grants 19 🚀",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "111"
+    },
+    {
+      "number": "20231103",
+      "title": "To The Moon - @TheSuperama Live Mint",
+      "date": "2023-11-03",
+      "duration": "1h 42m",
+      "guests": [
+        "TheSuperama"
+      ],
+      "guest_links": {
+        "TheSuperama": "https://x.com/TheSuperama"
+      },
+      "space_url": "https://x.com/i/spaces/1jMKgmVZAOeJL",
+      "description": "To The Moon - @TheSuperama Live Mint",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "129"
+    },
+    {
+      "number": "20231102",
+      "title": "AMA @openshowmx | Aleks Syntek @syntekoficial habla de Web3",
+      "date": "2023-11-02",
+      "duration": "3h 57m",
+      "guests": [
+        "openshowmx",
+        "syntekoficial"
+      ],
+      "guest_links": {
+        "openshowmx": "https://x.com/openshowmx",
+        "syntekoficial": "https://x.com/syntekoficial"
+      },
+      "space_url": "https://x.com/i/spaces/1ynKOygNzPyJR",
+      "description": "AMA @openshowmx | Aleks Syntek @syntekoficial habla de Web3",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "872"
+    },
+    {
+      "number": "20231101",
+      "title": "Experiencias y Expectativas con Mexi",
+      "date": "2023-11-01",
+      "duration": "1h 11m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Experiencias y Expectativas con Mexi",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "135"
+    },
+    {
+      "number": "20231031",
+      "title": "Acapulco necesita ayuda. Gitcoin Ronda 19 y #AcapulcoWeb3",
+      "date": "2023-10-31",
+      "duration": "2h 09m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1lPKqbaAQWbGb",
+      "description": "Acapulco necesita ayuda. Gitcoin Ronda 19 y #AcapulcoWeb3",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "198"
+    },
+    {
+      "number": "20231031-2",
+      "title": "Lo que aprendí en Gitcoin Grants 18 🚀🏅",
+      "date": "2023-10-31",
+      "duration": "1h 01m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Lo que aprendí en Gitcoin Grants 18 🚀🏅",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "89"
+    },
+    {
+      "number": "20231029",
+      "title": "#CryptobrunchLatam Ep. 14 Resumen del #EthMexico2023 🚀✨",
+      "date": "2023-10-29",
+      "duration": "2h 00m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: #CryptobrunchLatam Ep. 14 Resumen del #EthMexico2023 🚀✨",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "220"
+    },
+    {
+      "number": "20231026",
+      "title": "Recap Ethereum México y Foro Blockchain Qro",
+      "date": "2023-10-26",
+      "duration": "2h 38m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1mrxmypkpnZxy",
+      "description": "Recap Ethereum México y Foro Blockchain Qro",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "304"
+    },
+    {
+      "number": "20231017",
+      "title": "Women of Web3 \n@sandym_c \n@anananfts - Rifa NFTs",
+      "date": "2023-10-17",
+      "duration": "1h 33m",
+      "guests": [
+        "sandym_c",
+        "anananfts"
+      ],
+      "guest_links": {
+        "sandym_c": "https://x.com/sandym_c",
+        "anananfts": "https://x.com/anananfts"
+      },
+      "space_url": "https://x.com/i/spaces/1BdGYraLaLZJX",
+      "description": "Women of Web3 \n@sandym_c \n@anananfts - Rifa NFTs",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "173"
+    },
+    {
+      "number": "20231003",
+      "title": "Hackathon Global Algorand - Build-A-Bull",
+      "date": "2023-10-03",
+      "duration": "1h 35m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Hackathon Global Algorand - Build-A-Bull",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "63"
+    },
+    {
+      "number": "20230928",
+      "title": "Women of Web3 NYC Recap con @Anana @Neefter_",
+      "date": "2023-09-28",
+      "duration": "1h 50m",
+      "guests": [
+        "Anana",
+        "Neefter_"
+      ],
+      "guest_links": {
+        "Anana": "https://x.com/Anana",
+        "Neefter_": "https://x.com/Neefter_"
+      },
+      "space_url": "https://x.com/i/spaces/1gqxvQkyovRJB",
+      "description": "Women of Web3 NYC Recap con @Anana @Neefter_",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": []
+    },
+    {
+      "number": "20230919",
+      "title": "El primer examen On Chain del mundo - DEFI",
+      "date": "2023-09-19",
+      "duration": "1h 56m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1vAGRAQDMnDKl",
+      "description": "El primer examen On Chain del mundo - DEFI",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "108"
+    },
+    {
+      "number": "20230918",
+      "title": "Latina Lunes - Our Stories Ep 2",
+      "date": "2023-09-18",
+      "duration": "2h 54m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Latina Lunes - Our Stories Ep 2",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "156"
+    },
+    {
+      "number": "20230912",
+      "title": "MegaSpace - MUJ3RES SE VAN A LA ONU",
+      "date": "2023-09-12",
+      "duration": "2h 28m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1lDGLnBkagkxm",
+      "description": "MegaSpace - MUJ3RES SE VAN A LA ONU",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "217"
+    },
+    {
+      "number": "20230911",
+      "title": "Latina Lunes - Ep 1 “Raíces”",
+      "date": "2023-09-11",
+      "duration": "2h 42m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Latina Lunes - Ep 1 “Raíces”",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "84"
+    },
+    {
+      "number": "20230908",
+      "title": "Esquema Shamir, fragmentar tu frase semilla - @meximalist @ariiellus",
+      "date": "2023-09-08",
+      "duration": "57m",
+      "guests": [
+        "meximalist",
+        "ariiellus"
+      ],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Esquema Shamir, fragmentar tu frase semilla - @meximalist @ariiellus",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "50"
+    },
+    {
+      "number": "20230905",
+      "title": "Los Ethereans, la Sacerdotisa y el Ingeniero - Phygital",
+      "date": "2023-09-05",
+      "duration": "2h 24m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1vAxRAQmPovJl",
+      "description": "Los Ethereans, la Sacerdotisa y el Ingeniero - Phygital",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "118"
+    },
+    {
+      "number": "20230831",
+      "title": "El Looser, el Economista y el Ingeniero - ¿PEPE Ponzi? - SEC",
+      "date": "2023-08-31",
+      "duration": "2h 31m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "El Looser, el Economista y el Ingeniero - ¿PEPE Ponzi? - SEC",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "108"
+    },
+    {
+      "number": "20230829",
+      "title": "Mi Primer Bitcoin - Santiago, NL - TecnoMágico",
+      "date": "2023-08-29",
+      "duration": "1h 13m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Mi Primer Bitcoin - Santiago, NL - TecnoMágico",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "45"
+    },
+    {
+      "number": "20230825",
+      "title": "#WEB3 Comunidades poderosas",
+      "date": "2023-08-25",
+      "duration": "1h 10m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: #WEB3 Comunidades poderosas",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "58"
+    },
+    {
+      "number": "20230824",
+      "title": "Gitcoin Grants #18 @refimexico @antisat_eth @carnescrypto",
+      "date": "2023-08-24",
+      "duration": "1h 10m",
+      "guests": [
+        "refimexico",
+        "antisat_eth",
+        "carnescrypto"
+      ],
+      "guest_links": {
+        "refimexico": "https://x.com/refimexico",
+        "antisat_eth": "https://x.com/antisat_eth",
+        "carnescrypto": "https://x.com/carnescrypto"
+      },
+      "space_url": "https://x.com/i/spaces/1gqxvyjdAZaJB",
+      "description": "Gitcoin Grants #18 @refimexico @antisat_eth @carnescrypto",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "63"
+    },
+    {
+      "number": "20230824-2",
+      "title": "Gitcoin #GG18 Latam ⭐",
+      "date": "2023-08-24",
+      "duration": "1h 34m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Gitcoin #GG18 Latam ⭐",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "181"
+    },
+    {
+      "number": "20230823",
+      "title": "Ciudad Gitcoin 🚀",
+      "date": "2023-08-23",
+      "duration": "1h 57m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Ciudad Gitcoin 🚀",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "46"
+    },
+    {
+      "number": "20230822",
+      "title": "Cripto Latin Fest - Inolvidable",
+      "date": "2023-08-22",
+      "duration": "2h 30m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1mrxmkPjVPgGy",
+      "description": "Cripto Latin Fest - Inolvidable",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "209"
+    },
+    {
+      "number": "20230812",
+      "title": "Censuracion 🚫 influencers y politica",
+      "date": "2023-08-12",
+      "duration": "2h 35m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Censuracion 🚫 influencers y politica",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "204"
+    },
+    {
+      "number": "20230810",
+      "title": "La Abogada y el Ingeniero - Apoyo legal de X a sus usuarios",
+      "date": "2023-08-10",
+      "duration": "1h 43m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1BRKjZwRRLBKw",
+      "description": "La Abogada y el Ingeniero - Apoyo legal de X a sus usuarios",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "54"
+    },
+    {
+      "number": "20230808",
+      "title": "Mujeres en Web3 - Charla en las Naciones Unidas - Gracias @sandym_c",
+      "date": "2023-08-08",
+      "duration": "2h 00m",
+      "guests": [
+        "sandym_c"
+      ],
+      "guest_links": {
+        "sandym_c": "https://x.com/sandym_c"
+      },
+      "space_url": "https://x.com/i/spaces/1lPKqBOPjqEGb",
+      "description": "Mujeres en Web3 - Charla en las Naciones Unidas - Gracias @sandym_c",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "198"
+    },
+    {
+      "number": "20230803",
+      "title": "Superama y Ananá se van a la Luna",
+      "date": "2023-08-03",
+      "duration": "1h 47m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Superama y Ananá se van a la Luna",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "83"
+    },
+    {
+      "number": "20230801",
+      "title": "El Economista y el Ingeniero - FedNow - DeFi - $BALD",
+      "date": "2023-08-01",
+      "duration": "2h 03m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "El Economista y el Ingeniero - FedNow - DeFi - $BALD",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "82"
+    },
+    {
+      "number": "20230727",
+      "title": "La Abogada y el Ingeniero - Worldcoin",
+      "date": "2023-07-27",
+      "duration": "2h 39m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "La Abogada y el Ingeniero - Worldcoin",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "143"
+    },
+    {
+      "number": "20230725",
+      "title": "Open Mic - Parte 2 - 69 segundos para shillear lo que sea",
+      "date": "2023-07-25",
+      "duration": "1h 16m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1BdGYyrpoyvGX",
+      "description": "Open Mic - Parte 2 - 69 segundos para shillear lo que sea",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "73"
+    },
+    {
+      "number": "20230725-S7",
+      "title": "Open Mic - 69 segundos para shillear lo que sea",
+      "date": "2023-07-25",
+      "duration": "59m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1BRJjZPNmzLJw",
+      "description": "Open Mic - 69 segundos para shillear lo que sea",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "90"
+    },
+    {
+      "number": "20230725-2",
+      "title": "DIALÉCTICA | Episodio 11",
+      "date": "2023-07-25",
+      "duration": "2h 18m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: DIALÉCTICA | Episodio 11",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "134"
+    },
+    {
+      "number": "20230718",
+      "title": "La Curadora, la Sacerdotisa y el Ingeniero - Eventos en CDMX",
+      "date": "2023-07-18",
+      "duration": "2h 30m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1yNGaNNAZqNJj",
+      "description": "La Curadora, la Sacerdotisa y el Ingeniero - Eventos en CDMX",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "118"
+    },
+    {
+      "number": "20230706",
+      "title": "Lu, Jesús y Mexi - Threads, todo lo que necesitas saber",
+      "date": "2023-07-06",
+      "duration": "42m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1YqKDoqQRQwxV",
+      "description": "Lu, Jesús y Mexi - Threads, todo lo que necesitas saber",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "112"
+    },
+    {
+      "number": "20230706-2",
+      "title": "THREADS vs Twitter: La Atencion te va hacer billonario$$$📈",
+      "date": "2023-07-06",
+      "duration": "2h 04m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: THREADS vs Twitter: La Atencion te va hacer billonario$$$📈",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "88"
+    },
+    {
+      "number": "20230704",
+      "title": "La sacerdotisa, la honguitos y el ingeniero - Códigos de conducta",
+      "date": "2023-07-04",
+      "duration": "2h 59m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1vOGwMyeBwbxB",
+      "description": "La sacerdotisa, la honguitos y el ingeniero - Códigos de conducta",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "154"
+    },
+    {
+      "number": "20230622",
+      "title": "#PerfilesWeb3 y la comunidad latina 8vo EP !! con @meximalist 💪💯",
+      "date": "2023-06-22",
+      "duration": "1h 58m",
+      "guests": [
+        "meximalist"
+      ],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: #PerfilesWeb3 y la comunidad latina 8vo EP !! con @meximalist 💪💯",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "107"
+    },
+    {
+      "number": "20230620",
+      "title": "La Sacerdotisa y el Ingeniero - Vara / CriptoMéxico / Polkadot Decoded",
+      "date": "2023-06-20",
+      "duration": "2h 27m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1zqKVPeMvRlJB",
+      "description": "La Sacerdotisa y el Ingeniero - Vara / CriptoMéxico / Polkadot Decoded",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "150"
+    },
+    {
+      "number": "20230613",
+      "title": "La Sacerdotisa, el Economista y el Inge - CriptoLatinFest/Cetes/$NET",
+      "date": "2023-06-13",
+      "duration": "2h 18m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1gqxvyEEadeJB",
+      "description": "La Sacerdotisa, el Economista y el Inge - CriptoLatinFest/Cetes/$NET",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "139"
+    },
+    {
+      "number": "20230608",
+      "title": "La Abogada, el Economista y el Ingeniero - Código Civil, SEC, SWIFT",
+      "date": "2023-06-08",
+      "duration": "1h 34m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1jMJgLQqAVqxL",
+      "description": "La Abogada, el Economista y el Ingeniero - Código Civil, SEC, SWIFT",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "82"
+    },
+    {
+      "number": "20230606",
+      "title": "La Sacerdotisa, el Economista y el Inge - Rug Show Mx",
+      "date": "2023-06-06",
+      "duration": "2h 58m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1dRKZMQPwZzxB",
+      "description": "La Sacerdotisa, el Economista y el Inge - Rug Show Mx",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "203"
+    },
+    {
+      "number": "20230602",
+      "title": "LATINOS: Exit Liquidity de los gringos? con @luisscarchi",
+      "date": "2023-06-02",
+      "duration": "3h 07m",
+      "guests": [
+        "luisscarchi"
+      ],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: LATINOS: Exit Liquidity de los gringos? con @luisscarchi",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "279"
+    },
+    {
+      "number": "20230601",
+      "title": "Keren de Gear, el Economista y el Ingeniero - Mega Hackathon Gear",
+      "date": "2023-06-01",
+      "duration": "1h 48m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Keren de Gear, el Economista y el Ingeniero - Mega Hackathon Gear",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "86"
+    },
+    {
+      "number": "20230530",
+      "title": "La Maestra, el Economista y el Ingeniero - CriptoMéxico en MTY",
+      "date": "2023-05-30",
+      "duration": "2h 36m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1vAGRAqkrEaKl",
+      "description": "La Maestra, el Economista y el Ingeniero - CriptoMéxico en MTY",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "231"
+    },
+    {
+      "number": "20230525",
+      "title": "Founders y proyectos que vinieron a Mty",
+      "date": "2023-05-25",
+      "duration": "3h 21m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1LyxBqLjmOoJN",
+      "description": "Founders y proyectos que vinieron a Mty",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "230"
+    },
+    {
+      "number": "20230518",
+      "title": "La Abogada, el Economista y El Ingeniero - NFT Show México Mty",
+      "date": "2023-05-18",
+      "duration": "1h 51m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1YqKDoBgNrkxV",
+      "description": "La Abogada, el Economista y El Ingeniero - NFT Show México Mty",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "126"
+    },
+    {
+      "number": "20230517",
+      "title": "AMA del Developer Bootcamp con Algorand Foundation",
+      "date": "2023-05-17",
+      "duration": "1h 18m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1ypKddvvzMgKW",
+      "description": "AMA del Developer Bootcamp con Algorand Foundation",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "77"
+    },
+    {
+      "number": "20230516",
+      "title": "El Economista y el Ingeniero - ¿Shitcoins = Ponzis?",
+      "date": "2023-05-16",
+      "duration": "3h 20m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1ynJOaROEbWKR",
+      "description": "El Economista y el Ingeniero - ¿Shitcoins = Ponzis?",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "374"
+    },
+    {
+      "number": "20230512",
+      "title": "El pasado y el futuro de \n@mxweb3",
+      "date": "2023-05-12",
+      "duration": "52m",
+      "guests": [
+        "mxweb3"
+      ],
+      "guest_links": {
+        "mxweb3": "https://x.com/mxweb3"
+      },
+      "space_url": "https://x.com/i/spaces/1OyJAVpbMZgxb",
+      "description": "El pasado y el futuro de \n@mxweb3",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "21"
+    },
+    {
+      "number": "20230509",
+      "title": "El Gorila, el Economista y el Ingeniero - TulumCryptoFest/ Eventos Mty",
+      "date": "2023-05-09",
+      "duration": "2h 16m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1yNGaNvDpqqJj",
+      "description": "El Gorila, el Economista y el Ingeniero - TulumCryptoFest/ Eventos Mty",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "104"
+    },
+    {
+      "number": "20230502",
+      "title": "La Belga y el Ingeniero - Apoyo Wiki / Marcus Dantus NFT",
+      "date": "2023-05-02",
+      "duration": "1h 38m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1mnxeROErMoKX",
+      "description": "La Belga y el Ingeniero - Apoyo Wiki / Marcus Dantus NFT",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "116"
+    },
+    {
+      "number": "20230429",
+      "title": "🚎México en Web 3🌵 | ¡Hay muchos mexicanos chingones! 🌮",
+      "date": "2023-04-29",
+      "duration": "4h 36m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: 🚎México en Web 3🌵 | ¡Hay muchos mexicanos chingones! 🌮",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "522"
+    },
+    {
+      "number": "20230427",
+      "title": "La Abogada, el Economista y el Ingeniero - Eventos Web3 en México",
+      "date": "2023-04-27",
+      "duration": "2h 15m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1DXxyvaPklbKM",
+      "description": "La Abogada, el Economista y el Ingeniero - Eventos Web3 en México",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "91"
+    },
+    {
+      "number": "20230425",
+      "title": "El Profesor, el Economista y el Ingeniero - Eventos Web3, hay valor?",
+      "date": "2023-04-25",
+      "duration": "3h 09m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1nAKErQpZrOGL",
+      "description": "El Profesor, el Economista y el Ingeniero - Eventos Web3, hay valor?",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "200"
+    },
+    {
+      "number": "20230423",
+      "title": "Invasión de EUA? La locura!",
+      "date": "2023-04-23",
+      "duration": "2h 47m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Invasión de EUA? La locura!",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "69"
+    },
+    {
+      "number": "20230420",
+      "title": "La Abogada, el Economista y el Ingeniero - Leyes en Europa",
+      "date": "2023-04-20",
+      "duration": "2h 21m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1ZkKzXNybMZJv",
+      "description": "La Abogada, el Economista y el Ingeniero - Leyes en Europa",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "124"
+    },
+    {
+      "number": "20230418",
+      "title": "El Economista y el Ingeniero - SEC y NFTNYC",
+      "date": "2023-04-18",
+      "duration": "3h 11m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1DXxyvYQALZKM",
+      "description": "El Economista y el Ingeniero - SEC y NFTNYC",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "141"
+    },
+    {
+      "number": "20230411",
+      "title": "El Economista, el Looser y el Ingeniero - Noticias y Pre NFTNYC",
+      "date": "2023-04-11",
+      "duration": "2h 26m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1djGXldQjDOGZ",
+      "description": "El Economista, el Looser y el Ingeniero - Noticias y Pre NFTNYC",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "161"
+    },
+    {
+      "number": "20230330",
+      "title": "La Abogada, el Economista y el Ingeniero",
+      "date": "2023-03-30",
+      "duration": "1h 42m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1DXGyvEpDOkJM",
+      "description": "La Abogada, el Economista y el Ingeniero",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": []
+    },
+    {
+      "number": "20230328",
+      "title": "📒Office Hours - Identificando un buen Deal - Caso IRL (+ 🎉Giveaway🎊)",
+      "date": "2023-03-28",
+      "duration": "1h 15m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: 📒Office Hours - Identificando un buen Deal - Caso IRL (+ 🎉Giveaway🎊)",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "65"
+    },
+    {
+      "number": "20230316",
+      "title": "La Abogada, el Economista y el Ingeniero - ¿Credit Suisse caerá?",
+      "date": "2023-03-16",
+      "duration": "2h 17m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "La Abogada, el Economista y el Ingeniero - ¿Credit Suisse caerá?",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "109"
+    },
+    {
+      "number": "20230314",
+      "title": "La Abogada, el Economista y el Ingeniero - ¿Faltan bancos por caer?",
+      "date": "2023-03-14",
+      "duration": "2h 12m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1YqKDoRmoPvxV",
+      "description": "La Abogada, el Economista y el Ingeniero - ¿Faltan bancos por caer?",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "229"
+    },
+    {
+      "number": "20230313",
+      "title": "blur en español",
+      "date": "2023-03-13",
+      "duration": "6h 31m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: blur en español",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "265"
+    },
+    {
+      "number": "20230310",
+      "title": "Felipe Servin ⚡️",
+      "date": "2023-03-10",
+      "duration": "1h 07m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Felipe Servin ⚡️",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "95"
+    },
+    {
+      "number": "20230309",
+      "title": "La Abogada, el Economista y el Ingeniero - Leyes para DAOs",
+      "date": "2023-03-09",
+      "duration": "1h 59m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "La Abogada, el Economista y el Ingeniero - Leyes para DAOs",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "142"
+    },
+    {
+      "number": "20230307",
+      "title": "El Contador, el Economista y el Ingeniero - Fed Chair Powell",
+      "date": "2023-03-07",
+      "duration": "1h 05m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1rmxPkPmRnMJN",
+      "description": "El Contador, el Economista y el Ingeniero - Fed Chair Powell",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "64"
+    },
+    {
+      "number": "20230306",
+      "title": "📒Office Hours en Español - 🏠- Identificando un buen Deal ✅",
+      "date": "2023-03-06",
+      "duration": "1h 27m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: 📒Office Hours en Español - 🏠- Identificando un buen Deal ✅",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "71"
+    },
+    {
+      "number": "20230304",
+      "title": "Platicame de tu proyecto",
+      "date": "2023-03-04",
+      "duration": "32m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1eaKbrYwPzdKX",
+      "description": "Platicame de tu proyecto",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "18"
+    },
+    {
+      "number": "20230303",
+      "title": "Tips para conseguir trabajo en Web3 - @MelanieKrystell @mxweb3",
+      "date": "2023-03-03",
+      "duration": "1h 17m",
+      "guests": [
+        "MelanieKrystell",
+        "mxweb3"
+      ],
+      "guest_links": {
+        "MelanieKrystell": "https://x.com/MelanieKrystell",
+        "mxweb3": "https://x.com/mxweb3"
+      },
+      "space_url": "",
+      "description": "Tips para conseguir trabajo en Web3 - @MelanieKrystell @mxweb3",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "96"
+    },
+    {
+      "number": "20230302",
+      "title": "La Abogada, el Economista y el Ingeniero - #Tesla en Monterrey",
+      "date": "2023-03-02",
+      "duration": "2h 41m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1mrGmkgVrnLxy",
+      "description": "La Abogada, el Economista y el Ingeniero - #Tesla en Monterrey",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "224"
+    },
+    {
+      "number": "20230228",
+      "title": "El DJ, el Economista y el Ingeniero - @brozrdz",
+      "date": "2023-02-28",
+      "duration": "4h 14m",
+      "guests": [
+        "brozrdz"
+      ],
+      "guest_links": {
+        "brozrdz": "https://x.com/brozrdz"
+      },
+      "space_url": "https://x.com/i/spaces/1ynJOaWDlYZKR",
+      "description": "El DJ, el Economista y el Ingeniero - @brozrdz",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "312"
+    },
+    {
+      "number": "20230223",
+      "title": "La Abogada, el Economista y el Ingeniero",
+      "date": "2023-02-23",
+      "duration": "2h 00m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1DXGyvrrPYvJM",
+      "description": "La Abogada, el Economista y el Ingeniero",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": []
+    },
+    {
+      "number": "20230221",
+      "title": "La Contadora, el Economista y el Ingeniero - Regulación Cripto",
+      "date": "2023-02-21",
+      "duration": "1h 45m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1gqxvyqAmBlJB",
+      "description": "La Contadora, el Economista y el Ingeniero - Regulación Cripto",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "72"
+    },
+    {
+      "number": "20230216",
+      "title": "La Abogada, el Economista y el Ingeniero - Historia del Dinero",
+      "date": "2023-02-16",
+      "duration": "1h 41m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1dRJZMXMbqmGB",
+      "description": "La Abogada, el Economista y el Ingeniero - Historia del Dinero",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "75"
+    },
+    {
+      "number": "20230214",
+      "title": "El Economista y el Ingeniero",
+      "date": "2023-02-14",
+      "duration": "1h 45m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1mnxeRWomNaKX",
+      "description": "El Economista y el Ingeniero",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": []
+    },
+    {
+      "number": "20230213",
+      "title": "Latinos en Web3🎙️ Bitcoin Ordinals! *Español* Pt.4",
+      "date": "2023-02-13",
+      "duration": "58m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Latinos en Web3🎙️ Bitcoin Ordinals! *Español* Pt.4",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "99"
+    },
+    {
+      "number": "20230213-2",
+      "title": "Latinos en Web3🎙️ Bitcoin Ordinals?! Que son? *Español* Pt.3",
+      "date": "2023-02-13",
+      "duration": "12m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Latinos en Web3🎙️ Bitcoin Ordinals?! Que son? *Español* Pt.3",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "54"
+    },
+    {
+      "number": "20230213-3",
+      "title": "Latinos en Web3🎙️ Bitcoin Ordinals?! Que son? *Español* Pt.2",
+      "date": "2023-02-13",
+      "duration": "21m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Latinos en Web3🎙️ Bitcoin Ordinals?! Que son? *Español* Pt.2",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "82"
+    },
+    {
+      "number": "20230213-4",
+      "title": "Latinos en Web3🎙️ Bitcoin Ordinals?! Que son? *Español*",
+      "date": "2023-02-13",
+      "duration": "24m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Latinos en Web3🎙️ Bitcoin Ordinals?! Que son? *Español*",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "118"
+    },
+    {
+      "number": "20230211",
+      "title": "Artefactos Digitales o NFTs? #Ordinals #BTC Con nuestro Hermano Mexi 🇲🇽",
+      "date": "2023-02-11",
+      "duration": "1h 50m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Artefactos Digitales o NFTs? #Ordinals #BTC Con nuestro Hermano Mexi 🇲🇽",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "136"
+    },
+    {
+      "number": "20230211-2",
+      "title": "tecnologia y sociedad.",
+      "date": "2023-02-11",
+      "duration": "7h 33m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: tecnologia y sociedad.",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "312"
+    },
+    {
+      "number": "20230210",
+      "title": "Noches Cripto",
+      "date": "2023-02-10",
+      "duration": "47m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Noches Cripto",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "29"
+    },
+    {
+      "number": "20230209",
+      "title": "Ordinals, Digital Artifacts en Bitcoin (NFTs en Bitcoin) Español",
+      "date": "2023-02-09",
+      "duration": "1h 35m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Ordinals, Digital Artifacts en Bitcoin (NFTs en Bitcoin) Español",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "86"
+    },
+    {
+      "number": "20230207",
+      "title": "La Criptoartista, el Economista y el Ingeniero -Bitcoin/Metaverse",
+      "date": "2023-02-07",
+      "duration": "1h 51m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "La Criptoartista, el Economista y el Ingeniero -Bitcoin/Metaverse",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": []
+    },
+    {
+      "number": "20230202",
+      "title": "La abogada, el economista y el ingeniero - dominios ens y otros",
+      "date": "2023-02-02",
+      "duration": "2h 03m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1vAxRAXdWggJl",
+      "description": "La abogada, el economista y el ingeniero - dominios ens y otros",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "131"
+    },
+    {
+      "number": "20230131",
+      "title": "La artista, el pescador y el ingeniero - cómo entrevistar proyectos?",
+      "date": "2023-01-31",
+      "duration": "3h 02m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1mrGmkAbZYwxy",
+      "description": "La artista, el pescador y el ingeniero - cómo entrevistar proyectos?",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "179"
+    },
+    {
+      "number": "20230128",
+      "title": "web3 conmigo: una 🥚nadao chamo",
+      "date": "2023-01-28",
+      "duration": "2h 00m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: web3 conmigo: una 🥚nadao chamo",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "67"
+    },
+    {
+      "number": "20230127",
+      "title": "Noches Web3: sin censura",
+      "date": "2023-01-27",
+      "duration": "4h 08m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Noches Web3: sin censura",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "177"
+    },
+    {
+      "number": "20230126",
+      "title": "Marcus Dantus y DEV Team en Entrevisa con Meximalist",
+      "date": "2023-01-26",
+      "duration": "1h 53m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Marcus Dantus y DEV Team en Entrevisa con Meximalist",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "485"
+    },
+    {
+      "number": "20230124",
+      "title": "El economista, el profesor y el ingeniero - Tokenización de activos",
+      "date": "2023-01-24",
+      "duration": "1h 21m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1nAKErDAqNRGL",
+      "description": "El economista, el profesor y el ingeniero - Tokenización de activos",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "55"
+    },
+    {
+      "number": "20230121",
+      "title": "mxweb3 - sesión de trabajo",
+      "date": "2023-01-21",
+      "duration": "1h 43m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1YqKDoDXjbaxV",
+      "description": "mxweb3 - sesión de trabajo",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "51"
+    },
+    {
+      "number": "20230119",
+      "title": "La abogada, el economista y el ingeniero",
+      "date": "2023-01-19",
+      "duration": "1h 53m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1eaKbrXLknaKX",
+      "description": "La abogada, el economista y el ingeniero",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": []
+    },
+    {
+      "number": "20230117",
+      "title": "La abogada, el economista y el ingeniero",
+      "date": "2023-01-17",
+      "duration": "2h 00m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1vAxRALjbLrJl",
+      "description": "La abogada, el economista y el ingeniero",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "118"
+    },
+    {
+      "number": "20230112",
+      "title": "La abogada, el economista y el ingeniero - Ley creadores de contenido",
+      "date": "2023-01-12",
+      "duration": "1h 35m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1YqKDobEraDxV",
+      "description": "La abogada, el economista y el ingeniero - Ley creadores de contenido",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "87"
+    },
+    {
+      "number": "20230110",
+      "title": "CriptoMaza 2023 de @ExponencialCC 13-15 Enero",
+      "date": "2023-01-10",
+      "duration": "55m",
+      "guests": [
+        "ExponencialCC"
+      ],
+      "guest_links": {
+        "ExponencialCC": "https://x.com/ExponencialCC"
+      },
+      "space_url": "https://x.com/i/spaces/1LyxBqbEyDOJN",
+      "description": "CriptoMaza 2023 de @ExponencialCC 13-15 Enero",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "60"
+    },
+    {
+      "number": "20230110-S7",
+      "title": "El economista y el ingeniero - ¿Buenas noticias en los mercados?",
+      "date": "2023-01-10",
+      "duration": "1h 45m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1LyxBqbQPYLJN",
+      "description": "El economista y el ingeniero - ¿Buenas noticias en los mercados?",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "120"
+    },
+    {
+      "number": "20230109",
+      "title": "Nada puede malir sal - web3 español",
+      "date": "2023-01-09",
+      "duration": "1h 22m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Nada puede malir sal - web3 español",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "53"
+    },
+    {
+      "number": "20230105",
+      "title": "La abogada, el economista y el ingeniero - Leyes Fintech",
+      "date": "2023-01-05",
+      "duration": "1h 39m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1LyxBqbpnkLJN",
+      "description": "La abogada, el economista y el ingeniero - Leyes Fintech",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "77"
+    },
+    {
+      "number": "20230103",
+      "title": "La abogada, el economista y el ingeniero - 2022 y Perspectivas 2023",
+      "date": "2023-01-03",
+      "duration": "1h 33m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1lPKqBzvPXeGb",
+      "description": "La abogada, el economista y el ingeniero - 2022 y Perspectivas 2023",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "59"
+    },
+    {
+      "number": "20221229",
+      "title": "NFT: Planet of the Apes🐒",
+      "date": "2022-12-29",
+      "duration": "2h 02m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: NFT: Planet of the Apes🐒",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "93"
+    },
+    {
+      "number": "20221229-2",
+      "title": "Politica Publica via AI. BAYC. Partidos politicos.",
+      "date": "2022-12-29",
+      "duration": "1h 21m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Politica Publica via AI. BAYC. Partidos politicos.",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "61"
+    },
+    {
+      "number": "20221222",
+      "title": "La abogada, el economista y el ingeniero - The Rug Pull Report 2022",
+      "date": "2022-12-22",
+      "duration": "1h 55m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1ypKddMkbAvKW",
+      "description": "La abogada, el economista y el ingeniero - The Rug Pull Report 2022",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "68"
+    },
+    {
+      "number": "20221222-S7",
+      "title": "Sesión de trabajo en \n@mxweb3",
+      "date": "2022-12-22",
+      "duration": "1h 25m",
+      "guests": [
+        "mxweb3"
+      ],
+      "guest_links": {
+        "mxweb3": "https://x.com/mxweb3"
+      },
+      "space_url": "https://x.com/i/spaces/1zqJVPkdnbpKB",
+      "description": "Sesión de trabajo en \n@mxweb3",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "17"
+    },
+    {
+      "number": "20221220",
+      "title": "El economista, el ingeniero y el dropout - Tesla en NL, MX",
+      "date": "2022-12-20",
+      "duration": "2h 05m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1mnxeRwdNLaKX",
+      "description": "El economista, el ingeniero y el dropout - Tesla en NL, MX",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "137"
+    },
+    {
+      "number": "20221220-2",
+      "title": "TATO",
+      "date": "2022-12-20",
+      "duration": "1h 05m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: TATO",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "101"
+    },
+    {
+      "number": "20221216",
+      "title": "¿cómo entrevistar a los miembros de equipos de colecciones nuevas?",
+      "date": "2022-12-16",
+      "duration": "2h 11m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1mrGmklgzAVxy",
+      "description": "¿cómo entrevistar a los miembros de equipos de colecciones nuevas?",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "35"
+    },
+    {
+      "number": "20221215",
+      "title": "La abogada, el economista y el ingeniero - NFTs @cervezaindio",
+      "date": "2022-12-15",
+      "duration": "1h 37m",
+      "guests": [
+        "cervezaindio"
+      ],
+      "guest_links": {
+        "cervezaindio": "https://x.com/cervezaindio"
+      },
+      "space_url": "https://x.com/i/spaces/1MnGnpjXwjBxO",
+      "description": "La abogada, el economista y el ingeniero - NFTs @cervezaindio",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "48"
+    },
+    {
+      "number": "20221215-S7",
+      "title": "@mxweb3 sesión 2 - lluvia de ideas",
+      "date": "2022-12-15",
+      "duration": "2h 11m",
+      "guests": [
+        "mxweb3"
+      ],
+      "guest_links": {
+        "mxweb3": "https://x.com/mxweb3"
+      },
+      "space_url": "https://x.com/i/spaces/1ZkKzXlpbqgJv",
+      "description": "@mxweb3 sesión 2 - lluvia de ideas",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "40"
+    },
+    {
+      "number": "20221213",
+      "title": "El economista, el pescador y el ingeniero - Rugs IRL y Rugs en Web3",
+      "date": "2022-12-13",
+      "duration": "2h 35m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1mnxeRwZepQKX",
+      "description": "El economista, el pescador y el ingeniero - Rugs IRL y Rugs en Web3",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "94"
+    },
+    {
+      "number": "20221210",
+      "title": "MOMENTUM♠️",
+      "date": "2022-12-10",
+      "duration": "2h 11m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: MOMENTUM♠️",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "49"
+    },
+    {
+      "number": "20221209",
+      "title": "Brainstorming comunidad \n@mxweb3",
+      "date": "2022-12-09",
+      "duration": "1h 02m",
+      "guests": [
+        "mxweb3"
+      ],
+      "guest_links": {
+        "mxweb3": "https://x.com/mxweb3"
+      },
+      "space_url": "https://x.com/i/spaces/1BRKjZoZvpaKw",
+      "description": "Brainstorming comunidad \n@mxweb3",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "14"
+    },
+    {
+      "number": "20221206",
+      "title": "La abogada, el economista y el ingeniero Ep08 #ChatGPT",
+      "date": "2022-12-06",
+      "duration": "1h 41m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1LyxBqZRoZEJN",
+      "description": "La abogada, el economista y el ingeniero Ep08 #ChatGPT",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "73"
+    },
+    {
+      "number": "20221201",
+      "title": "El economista y el ingeniero Ep07",
+      "date": "2022-12-01",
+      "duration": "1h 17m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "El economista y el ingeniero Ep07",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "48"
+    },
+    {
+      "number": "20221129",
+      "title": "El pescador, el economista y el ingeniero Ep06",
+      "date": "2022-11-29",
+      "duration": "1h 15m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1mnxeRPLrXPKX",
+      "description": "El pescador, el economista y el ingeniero Ep06",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "71"
+    },
+    {
+      "number": "20221128",
+      "title": "Portugal vs Uruguay + NFTs en Español!",
+      "date": "2022-11-28",
+      "duration": "2h 15m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Portugal vs Uruguay + NFTs en Español!",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "133"
+    },
+    {
+      "number": "20221128-2",
+      "title": "El Profesor - Danny Sánchez",
+      "date": "2022-11-28",
+      "duration": "52m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: El Profesor - Danny Sánchez",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "34"
+    },
+    {
+      "number": "20221127",
+      "title": "🚨MESSI⚽️CRISTIANO⚽️MEXICO COLECCIONES DIGITALES 🔥 RUGS❓️",
+      "date": "2022-11-27",
+      "duration": "4h 17m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: 🚨MESSI⚽️CRISTIANO⚽️MEXICO COLECCIONES DIGITALES 🔥 RUGS❓️",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "120"
+    },
+    {
+      "number": "20221124",
+      "title": "La abogada, el economista y el ingeniero Ep 05",
+      "date": "2022-11-24",
+      "duration": "1h 34m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1ZkKzXQVvjNJv",
+      "description": "La abogada, el economista y el ingeniero Ep 05",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "40"
+    },
+    {
+      "number": "20221122",
+      "title": "Previo al evento en Monterrey de @MarcusDantusNFT",
+      "date": "2022-11-22",
+      "duration": "1h 20m",
+      "guests": [
+        "MarcusDantusNFT"
+      ],
+      "guest_links": {
+        "MarcusDantusNFT": "https://x.com/MarcusDantusNFT"
+      },
+      "space_url": "https://x.com/i/spaces/1yNGaNMeWYVJj",
+      "description": "Previo al evento en Monterrey de @MarcusDantusNFT",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "71"
+    },
+    {
+      "number": "20221122-S7",
+      "title": "El economista y el ingeniero Ep04",
+      "date": "2022-11-22",
+      "duration": "1h 51m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1zqKVPozepnJB",
+      "description": "El economista y el ingeniero Ep04",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "60"
+    },
+    {
+      "number": "20221121",
+      "title": "libertad de expresion ♠️ momentum",
+      "date": "2022-11-21",
+      "duration": "2h 00m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: libertad de expresion ♠️ momentum",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "102"
+    },
+    {
+      "number": "20221117",
+      "title": "El economista y el ingeniero Ep03",
+      "date": "2022-11-17",
+      "duration": "1h 30m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1yNGaNEgjVNJj",
+      "description": "El economista y el ingeniero Ep03",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "62"
+    },
+    {
+      "number": "20221117-2",
+      "title": "Conociendo el ecosistema Algorand.",
+      "date": "2022-11-17",
+      "duration": "57m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Conociendo el ecosistema Algorand.",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "19"
+    },
+    {
+      "number": "20221115",
+      "title": "El economista y el ingeniero Ep02",
+      "date": "2022-11-15",
+      "duration": "1h 46m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1yoJMZgAeBwxQ",
+      "description": "El economista y el ingeniero Ep02",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "16"
+    },
+    {
+      "number": "20221114",
+      "title": "🚨URGENTE🚨 #AMLO el INE no es legitimo❓️",
+      "date": "2022-11-14",
+      "duration": "3h 32m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: 🚨URGENTE🚨 #AMLO el INE no es legitimo❓️",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "189"
+    },
+    {
+      "number": "20221113",
+      "title": "Café Tacuba Acústico Live",
+      "date": "2022-11-13",
+      "duration": "21m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1ypKddyNoPLKW",
+      "description": "Café Tacuba Acústico Live",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "7"
+    },
+    {
+      "number": "20221113-2",
+      "title": "🚨Crypto & web3🚨 urgente 🚨BITSO FTX BINANCE CZ Elon",
+      "date": "2022-11-13",
+      "duration": "4h 00m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: 🚨Crypto & web3🚨 urgente 🚨BITSO FTX BINANCE CZ Elon",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "336"
+    },
+    {
+      "number": "20221110",
+      "title": "El economista y el ingeniero",
+      "date": "2022-11-10",
+      "duration": "1h 36m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1MnGnpbWkBdxO",
+      "description": "El economista y el ingeniero",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "103"
+    },
+    {
+      "number": "20221110-2",
+      "title": "Largometraje de ficcion en web3🤯 escuchen el final 🚀",
+      "date": "2022-11-10",
+      "duration": "2h 02m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Largometraje de ficcion en web3🤯 escuchen el final 🚀",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "94"
+    },
+    {
+      "number": "20221107",
+      "title": "comedia con mr sanchez",
+      "date": "2022-11-07",
+      "duration": "45m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: comedia con mr sanchez",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "17"
+    },
+    {
+      "number": "20221104",
+      "title": "Hablemos del mundial #2 - con @latino_society y @enriquedeportes",
+      "date": "2022-11-04",
+      "duration": "46m",
+      "guests": [
+        "latino_society",
+        "enriquedeportes"
+      ],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Hablemos del mundial #2 - con @latino_society y @enriquedeportes",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "19"
+    },
+    {
+      "number": "20221104-2",
+      "title": "Hablemos del Mundial, con @latino_society y @enriquedeportes",
+      "date": "2022-11-04",
+      "duration": "18m",
+      "guests": [
+        "latino_society",
+        "enriquedeportes"
+      ],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Hablemos del Mundial, con @latino_society y @enriquedeportes",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "7"
+    },
+    {
+      "number": "20221104-3",
+      "title": "Momentum Web3",
+      "date": "2022-11-04",
+      "duration": "1h 51m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Momentum Web3",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "106"
+    },
+    {
+      "number": "20221103",
+      "title": "Heroes NFT Club x Selección Nacional de México",
+      "date": "2022-11-03",
+      "duration": "1h 38m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Heroes NFT Club x Selección Nacional de México",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "523"
+    },
+    {
+      "number": "20221027",
+      "title": "Legendary Lions Tecate Pal Norte - Plática con Founder",
+      "date": "2022-10-27",
+      "duration": "1h 16m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Legendary Lions Tecate Pal Norte - Plática con Founder",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "99"
+    },
+    {
+      "number": "20221025",
+      "title": "Comunidad☕️",
+      "date": "2022-10-25",
+      "duration": "1h 40m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Comunidad☕️",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "127"
+    },
+    {
+      "number": "20221025-2",
+      "title": "♠️la verdad❓️",
+      "date": "2022-10-25",
+      "duration": "1h 25m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: ♠️la verdad❓️",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "150"
+    },
+    {
+      "number": "20221018",
+      "title": "♠️#NFT CHANGE: THE ONLY CONSTANT.",
+      "date": "2022-10-18",
+      "duration": "3h 12m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: ♠️#NFT CHANGE: THE ONLY CONSTANT.",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "367"
+    },
+    {
+      "number": "20221017",
+      "title": "☕️Web3: Quien es @ShiLLin_ViLLian❓️La mayor voz en NFTs, porque?",
+      "date": "2022-10-17",
+      "duration": "4h 44m",
+      "guests": [
+        "ShiLLin_ViLLian"
+      ],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: ☕️Web3: Quien es @ShiLLin_ViLLian❓️La mayor voz en NFTs, porque?",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "281"
+    },
+    {
+      "number": "20221014",
+      "title": "Diego Benítez Concha",
+      "date": "2022-10-14",
+      "duration": "2h 23m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Diego Benítez Concha",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "85"
+    },
+    {
+      "number": "20221011",
+      "title": "rugged intento 2... una disculpa mensajes de cierre!",
+      "date": "2022-10-11",
+      "duration": "25m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: rugged intento 2... una disculpa mensajes de cierre!",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "35"
+    },
+    {
+      "number": "20220930",
+      "title": "Blockchain Land en Monterrey del 5 al 7 de Octubre en Cintermex",
+      "date": "2022-09-30",
+      "duration": "1h 48m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1LyxBqvevkpJN",
+      "description": "Blockchain Land en Monterrey del 5 al 7 de Octubre en Cintermex",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "117"
+    },
+    {
+      "number": "20220928",
+      "title": "Buenas vibras #NFTs. Ep.25 Cyberseguridad, como base de todo proyecto.",
+      "date": "2022-09-28",
+      "duration": "1h 48m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Buenas vibras #NFTs. Ep.25 Cyberseguridad, como base de todo proyecto.",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "50"
+    },
+    {
+      "number": "20220927",
+      "title": "☕️Mañanero #Web3: panorama actual y noticias.",
+      "date": "2022-09-27",
+      "duration": "2h 23m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: ☕️Mañanero #Web3: panorama actual y noticias.",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "148"
+    },
+    {
+      "number": "20220923",
+      "title": "Mañanero #Web3: Recap Semanal y decidamos!",
+      "date": "2022-09-23",
+      "duration": "1h 29m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Mañanero #Web3: Recap Semanal y decidamos!",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "80"
+    },
+    {
+      "number": "20220922",
+      "title": "☕️Mañanero #WEB3: epoca post merge. noticias y mas...",
+      "date": "2022-09-22",
+      "duration": "2h 00m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: ☕️Mañanero #WEB3: epoca post merge. noticias y mas...",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "190"
+    },
+    {
+      "number": "20220921",
+      "title": "Mañanero #web3: Coexistiendo con Perdidas y Ganancias; Noticias!",
+      "date": "2022-09-21",
+      "duration": "2h 01m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Mañanero #web3: Coexistiendo con Perdidas y Ganancias; Noticias!",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "121"
+    },
+    {
+      "number": "20220914",
+      "title": "El Funeral #Web3: Murieron los #NFT? Noticias y mas.",
+      "date": "2022-09-14",
+      "duration": "3h 48m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: El Funeral #Web3: Murieron los #NFT? Noticias y mas.",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "328"
+    },
+    {
+      "number": "20220908",
+      "title": "Mañanero #Web3: Nomadas digitales.",
+      "date": "2022-09-08",
+      "duration": "3h 00m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Mañanero #Web3: Nomadas digitales.",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "100"
+    },
+    {
+      "number": "20220820",
+      "title": "Buenos dias! #Web3 🌞 ethmexico ethlatam e inovacion!",
+      "date": "2022-08-20",
+      "duration": "1h 36m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Buenos dias! #Web3 🌞 ethmexico ethlatam e inovacion!",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "103"
+    },
+    {
+      "number": "20220729",
+      "title": "NFT Arte y artistas de piezas 1-1. Episodio 05 con @meximalist",
+      "date": "2022-07-29",
+      "duration": "2h 37m",
+      "guests": [
+        "meximalist"
+      ],
+      "guest_links": {
+        "meximalist": "https://x.com/meximalist"
+      },
+      "space_url": "https://x.com/i/spaces/1vOxwyjNZyPGB",
+      "description": "NFT Arte y artistas de piezas 1-1. Episodio 05 con @meximalist",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "73"
+    },
+    {
+      "number": "20220728",
+      "title": "vampiros..#web3 sin censura🔥",
+      "date": "2022-07-28",
+      "duration": "2h 51m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: vampiros..#web3 sin censura🔥",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "73"
+    },
+    {
+      "number": "20220721",
+      "title": "NFTs ¿Qué hay que considerar al lanzar una colección de NFTs?",
+      "date": "2022-07-21",
+      "duration": "2h 55m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "NFTs ¿Qué hay que considerar al lanzar una colección de NFTs?",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "82"
+    },
+    {
+      "number": "20220707",
+      "title": "El Spaces que necesitábamos Ep04 Colección @masmonos con @meximalist",
+      "date": "2022-07-07",
+      "duration": "2h 47m",
+      "guests": [
+        "masmonos",
+        "meximalist"
+      ],
+      "guest_links": {
+        "masmonos": "https://x.com/masmonos",
+        "meximalist": "https://x.com/meximalist"
+      },
+      "space_url": "https://x.com/i/spaces/1YqxoppqvEQKv",
+      "description": "El Spaces que necesitábamos Ep04 Colección @masmonos con @meximalist",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "153"
+    },
+    {
+      "number": "20220630",
+      "title": "El Spaces que no sabíamos q necesitábamos - Bitcoin en El Salvador",
+      "date": "2022-06-30",
+      "duration": "3h 02m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "El Spaces que no sabíamos q necesitábamos - Bitcoin en El Salvador",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "116"
+    },
+    {
+      "number": "20220616",
+      "title": "Platicando sobre propiedad intelectual de  (Español)",
+      "date": "2022-06-16",
+      "duration": "2h 48m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Platicando sobre propiedad intelectual de  (Español)",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": []
+    },
+    {
+      "number": "20220423",
+      "title": "NFTs en español - Meximalist Digital Assets - Giveaways",
+      "date": "2022-04-23",
+      "duration": "1h 14m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "NFTs en español - Meximalist Digital Assets - Giveaways",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": []
+    },
+    {
+      "number": "20211218",
+      "title": "Entrevista con el equipo de @IvoryInvestors",
+      "date": "2021-12-18",
+      "duration": "59m",
+      "guests": [
+        "IvoryInvestors"
+      ],
+      "guest_links": {
+        "IvoryInvestors": "https://x.com/IvoryInvestors"
+      },
+      "space_url": "",
+      "description": "Entrevista con el equipo de @IvoryInvestors",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": []
+    },
+    {
+      "number": "20211210",
+      "title": "Degeniverse en Español con \n@Meximalist \n@Chulybert y \n@DegenService",
+      "date": "2021-12-10",
+      "duration": "1h 47m",
+      "guests": [
+        "Meximalist",
+        "Chulybert",
+        "DegenService"
+      ],
+      "guest_links": {
+        "Meximalist": "https://x.com/Meximalist",
+        "Chulybert": "https://x.com/Chulybert",
+        "DegenService": "https://x.com/DegenService"
+      },
+      "space_url": "",
+      "description": "Degeniverse en Español con \n@Meximalist \n@Chulybert y \n@DegenService",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": []
+    },
+    {
+      "number": "20211203",
+      "title": "Bitcoin Bitcoin Bitcoin (español)",
+      "date": "2021-12-03",
+      "duration": "2h 32m",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Bitcoin Bitcoin Bitcoin (español)",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": []
+    }
+  ],
+  "stats": {
+    "total_episodes": 31,
+    "total_duration_hours": 1.5,
+    "average_duration_minutes": 90
+  }
+}

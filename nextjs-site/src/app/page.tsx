@@ -1,14 +1,16 @@
 import { getAllEpisodes } from '@/lib/episodes';
 import Link from 'next/link';
-import Image from 'next/image';
 
 export const revalidate = 60; // ISR: Revalidate every 60 seconds
 
 export default function Home() {
   const episodes = getAllEpisodes();
-  const hostedEpisodes = episodes.filter(
-    ep => ep.status === 'archived' || ep.status === 'published'
-  );
+  const hostedEpisodes = episodes
+    .filter(ep => ep.status === 'archived' || ep.status === 'published')
+    .sort((a, b) => {
+      // Sort by date descending (newest first)
+      return new Date(b.date).getTime() - new Date(a.date).getTime();
+    });
 
   return (
     <main className="min-h-screen bg-gradient-to-b from-gray-900 to-black text-white">
@@ -24,7 +26,7 @@ export default function Home() {
         </div>
 
         {/* Episodes Grid */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
           {hostedEpisodes.map((episode) => (
             <Link
               key={episode.number}
@@ -33,19 +35,22 @@ export default function Home() {
             >
               <div className="bg-gray-800 rounded-lg overflow-hidden hover:ring-2 hover:ring-purple-500 transition-all duration-300 hover:scale-105">
                 {/* Flyer Image */}
-                {episode.flyer_urls && episode.flyer_urls.length > 0 && (
-                  <div className="relative h-64 w-full">
-                    <Image
-                      src={episode.flyer_urls[0].replace('../static/images/', '/flyers/')}
+                {episode.flyer_urls && episode.flyer_urls.length > 0 ? (
+                  <div className="relative w-full aspect-square bg-gray-900">
+                    <img
+                      src={episode.flyer_urls[0]}
                       alt={`Episode ${episode.number}`}
-                      fill
-                      className="object-cover"
+                      className="absolute inset-0 w-full h-full object-contain"
                     />
                     <div className="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-30 transition-all duration-300 flex items-center justify-center">
                       <svg className="w-16 h-16 text-white opacity-0 group-hover:opacity-100 transition-opacity" fill="currentColor" viewBox="0 0 24 24">
                         <polygon points="5 3 19 12 5 21 5 3"></polygon>
                       </svg>
                     </div>
+                  </div>
+                ) : (
+                  <div className="relative w-full aspect-square bg-gray-900 flex items-center justify-center">
+                    <span className="text-gray-500">Sin imagen</span>
                   </div>
                 )}
 

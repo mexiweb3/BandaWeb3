@@ -31,7 +31,8 @@ class WebsiteGenerator:
     
     def __init__(self, output_dir: str = None):
         self.base_dir = Path(__file__).parent.parent
-        self.db_path = self.base_dir / "data" / "episodes_database.json"
+        self.db_path = self.base_dir / "shared" / "episodes_database.json"
+        self.flyers_dir = self.base_dir / "shared" / "flyers"
         self.templates_dir = self.base_dir / "website" / "templates"
         self.static_dir = self.base_dir / "website" / "static"
         self.output_dir = Path(output_dir) if output_dir else self.base_dir / "website" / "output"
@@ -75,6 +76,13 @@ class WebsiteGenerator:
         """Copy audio files and flyers to output directory."""
         print(f"\n{Fore.CYAN}Copying assets...")
         
+        # Copy all flyers from shared directory
+        if self.flyers_dir.exists():
+            for flyer in self.flyers_dir.glob("flyer_*.jpg"):
+                dest = self.output_dir / "flyers" / flyer.name
+                shutil.copy2(flyer, dest)
+            print(f"{Fore.GREEN}✓ Copied all flyers from shared directory")
+        
         for episode in episodes:
             # Copy audio
             if episode.get("audio_url"):
@@ -85,26 +93,11 @@ class WebsiteGenerator:
                     episode["audio_url"] = f"../audio/{audio_path.name}"
                     print(f"{Fore.GREEN}✓ Copied audio for episode {episode['number']}")
             
-            # Copy flyer
-            if episode.get("flyer_url") and os.path.exists(episode["flyer_url"]):
-                flyer_path = Path(episode["flyer_url"])
-                dest = self.output_dir / "flyers" / flyer_path.name
-                shutil.copy2(flyer_path, dest)
-                episode["flyer_url"] = f"../flyers/{flyer_path.name}"
-                print(f"{Fore.GREEN}✓ Copied flyer for episode {episode['number']}")
-            
-            # Copy multiple flyers
-            if episode.get("flyer_urls"):
-                updated_urls = []
-                for url in episode["flyer_urls"]:
-                    if os.path.exists(url):
-                        flyer_path = Path(url)
-                        dest = self.output_dir / "flyers" / flyer_path.name
-                        shutil.copy2(flyer_path, dest)
-                        updated_urls.append(f"../flyers/{flyer_path.name}")
-                        print(f"{Fore.GREEN}✓ Copied flyer {flyer_path.name} for episode {episode['number']}")
-                if updated_urls:
-                    episode["flyer_urls"] = updated_urls
+            # Update flyer paths to point to output directory
+            if episode.get("flyers"):
+                episode["flyer_urls"] = [f"../flyers/{f}" for f in episode["flyers"]]
+                if len(episode["flyers"]) > 0:
+                    episode["flyer_url"] = f"../flyers/{episode['flyers'][0]}"
     
     def generate_episode_page(self, episode: Dict, prev_episode: Dict = None, next_episode: Dict = None):
         """Generate individual episode page."""

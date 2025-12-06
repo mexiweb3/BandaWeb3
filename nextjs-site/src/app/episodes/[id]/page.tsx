@@ -1,6 +1,5 @@
 import { getAllEpisodes, getEpisodeById } from '@/lib/episodes';
 import { notFound } from 'next/navigation';
-import Image from 'next/image';
 import Link from 'next/link';
 
 export const revalidate = 60; // ISR: Revalidate every 60 seconds
@@ -50,11 +49,9 @@ export default function EpisodePage({ params }: { params: { id: string } }) {
                 {/* Flyer */}
                 {episode.flyer_urls && episode.flyer_urls.length > 0 && (
                     <div className="mb-8 rounded-lg overflow-hidden">
-                        <Image
-                            src={episode.flyer_urls[0].replace('../static/images/', '/flyers/')}
+                        <img
+                            src={episode.flyer_urls[0]}
                             alt={`Episode ${episode.number} Flyer`}
-                            width={800}
-                            height={800}
                             className="w-full h-auto"
                         />
                     </div>
@@ -75,12 +72,11 @@ export default function EpisodePage({ params }: { params: { id: string } }) {
                             rel="noopener noreferrer"
                             className="block"
                         >
-                            <Image
+                            <img
                                 src="/flyers/listen_button.png"
                                 alt="Escuchar en X Space"
-                                width={300}
-                                height={100}
                                 className="hover:scale-105 transition-transform"
+                                style={{ maxWidth: '300px' }}
                             />
                         </a>
                     ) : (

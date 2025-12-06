@@ -2,7 +2,7 @@
 const nextConfig = {
   images: {
     remotePatterns: [],
-    unoptimized: false,
+    unoptimized: true, // Allow local images without optimization
   },
   // Enable static export for Vercel
   output: 'standalone',
