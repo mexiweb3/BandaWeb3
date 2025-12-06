@@ -1,0 +1,17 @@
+{
+    "version": 2,
+    "name": "bandaweb3",
+    "builds": [
+        {
+            "src": "website/output/**",
+            "use": "@vercel/static"
+        }
+    ],
+    "routes": [
+        {
+            "src": "/(.*)",
+            "dest": "/website/output/$1"
+        }
+    ],
+    "outputDirectory": "website/output"
+}
