@@ -1011,10 +1011,9 @@
         },
         {
             "number": "073",
-            "title": "Hackathon ETHGlobal Argentina - EVVM y el futuro de la interoperabilidad",
+            "title": "BandaWeb3 #073 Open 🎙️ @EFDevcon 🇦🇷",
             "date": "2025-12-02",
-            "space_url": "",
-            "audio_url": "BandaWeb3 #074 Hackathon @ETHGlobal 🇦🇷 EVVM.mp3",
+            "space_url": "https://x.com/i/spaces/1yNxabkXlPDKj?s=20",
             "flyer_urls": [
                 "../static/images/flyer_073.jpg"
             ],
@@ -1023,7 +1022,7 @@
                 "Germán (EVVM)"
             ],
             "duration": "90 min",
-            "description": "Experiencias del hackathon ETHGlobal Argentina, EVVM y virtualización de blockchains, adopción crypto en Argentina",
+            "description": "BandaWeb3 #073 Open 🎙️ @EFDevcon 🇦🇷. Después de 2 meses regreso con los episodios de BandaWeb3. Platicamos de Devconnect en Argentina, los side events, el hackathon de @ETHGlobal, las hacker houses y la comunidad argentina y latina.",
             "topics": [
                 "ETHGlobal",
                 "EVVM",
@@ -1076,7 +1075,7 @@
             "number": "074",
             "title": "Hackathon @ETHGlobal - EVVM Hackathon Track: $20,000 USD",
             "date": "2025-12-04",
-            "space_url": "https://x.com/i/spaces/1yNxabkXlPDKj?s=20",
+            "space_url": "https://x.com/i/spaces/1MnGnPewjVjxO?s=20",
             "audio_url": "",
             "flyer_urls": [
                 "website/static/images/flyer_074.jpg"
