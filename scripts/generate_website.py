@@ -94,8 +94,15 @@ class WebsiteGenerator:
         """Generate individual episode page."""
         template = self.env.get_template("episode.html")
         
+        # Create a copy to avoid modifying the original
+        ep_copy = episode.copy()
+        
+        # Handle flyer_url(s) - use first from array if singular not present
+        if not ep_copy.get("flyer_url") and ep_copy.get("flyer_urls") and len(ep_copy["flyer_urls"]) > 0:
+            ep_copy["flyer_url"] = ep_copy["flyer_urls"][0]
+        
         html = template.render(
-            episode=episode,
+            episode=ep_copy,
             prev_episode=prev_episode,
             next_episode=next_episode,
             page_url=f"https://bandaweb3.com/episodes/episode_{episode['number']}.html"
