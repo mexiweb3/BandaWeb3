@@ -392,38 +392,6 @@
             "listeners": "294"
         },
         {
-            "number": "036",
-            "title": "BandaWeb3 #036 @CryptoNotaz @con3joblanco",
-            "date": "2025-01-28",
-            "time": "12:00 PM CST",
-            "duration": "1h 30m",
-            "guests": [
-                "CryptoNotaz",
-                "con3joblanco",
-                "meximalist"
-            ],
-            "guest_links": {
-                "CryptoNotaz": "https://x.com/CryptoNotaz",
-                "con3joblanco": "https://x.com/con3joblanco",
-                "meximalist": "https://x.com/meximalist"
-            },
-            "space_url": "https://x.com/i/spaces/1mrGmMPYnYzGy?s=20",
-            "description": "BandaWeb3 #036 @CryptoNotaz @con3joblanco. Conversaciones con @meximalist - sin guion y uno que otro anuncio. Shitcoineo en solana, estrategias, recomendaciones, bankroll management, degen plays.",
-            "topics": [
-                "Solana",
-                "Shitcoins",
-                "Degen Plays",
-                "Bankroll Management"
-            ],
-            "status": "archived",
-            "transcript_available": false,
-            "content_generated": false,
-            "flyer_urls": [
-                "website/static/images/flyer_036.jpg"
-            ],
-            "listeners": "85"
-        },
-        {
             "number": "045",
             "title": "BandaWeb3 #045 Stablecoins MXN USD",
             "date": "2025-03-18",
