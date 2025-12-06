@@ -111,10 +111,30 @@ class WebsiteGenerator:
         """Generate index page with all episodes."""
         template = self.env.get_template("index.html")
         
-        # Calculate stats
+        # Calculate stats and prepare episodes with correct paths for index (root level)
         total_episodes = len(episodes)
         total_minutes = 0
+        
+        index_episodes = []
         for ep in episodes:
+            # Create a shallow copy for index rendering to avoid modifying global state
+            ep_copy = ep.copy()
+            
+            # Handle flyer_url(s) and path correction (remove ../ for root level index)
+            f_url = None
+            if ep.get("flyer_urls") and len(ep["flyer_urls"]) > 0:
+                f_url = ep["flyer_urls"][0]
+            elif ep.get("flyer_url"):
+                f_url = ep["flyer_url"]
+            
+            if f_url:
+                if f_url.startswith("../"):
+                    ep_copy["flyer_url"] = f_url[3:]
+                else:
+                    ep_copy["flyer_url"] = f_url
+            
+            index_episodes.append(ep_copy)
+
             d_str = ep.get("duration", "0 min")
             matched = False
             # Try "1h 27m" or "1h" format
@@ -139,7 +159,7 @@ class WebsiteGenerator:
         total_hours = total_minutes / 60
         
         html = template.render(
-            episodes=episodes,
+            episodes=index_episodes,
             total_episodes=total_episodes,
             total_hours=int(total_hours)
         )
