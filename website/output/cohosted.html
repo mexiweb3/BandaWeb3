@@ -17,7 +17,7 @@
 <body>
     <nav class="navbar">
         <div class="container">
-            <a href="index.html" class="logo">
+            <a href="cohosted.html" class="logo">
                 <span class="logo-text">BandaWeb3</span>
             </a>
             <div class="nav-links">
@@ -68,68 +68,7 @@
             <div class="container">
                 <h2 class="section-title">Últimos Spaces</h2>
                 <div class="episodes-grid">
-                    {% for episode in latest_episodes %}
-                    <article class="episode-card">
-                        <a href="episodes/episode_{{ episode.number }}.html" class="card-link">
-                            {% if episode.flyer_url %}
-                            <div class="card-image">
-                                <img src="{{ episode.flyer_url }}" alt="Episode {{ episode.number }}">
-                                <div class="card-overlay">
-                                    <svg class="play-icon" viewBox="0 0 24 24" fill="currentColor">
-                                        <polygon points="5 3 19 12 5 21 5 3"></polygon>
-                                    </svg>
-                                </div>
-                            </div>
-                            {% else %}
-                            <div class="card-image card-placeholder">
-                                <div class="placeholder-content">
-                                    <span class="episode-number-large">#{{ episode.number }}</span>
-                                </div>
-                            </div>
-                            {% endif %}
-
-                            <div class="card-content">
-                                <div class="card-header">
-                                    <span class="episode-number">#{{ episode.number }}</span>
-                                    <span class="episode-date">{{ episode.date }}</span>
-                                </div>
-                                <h2 class="card-title">{{ episode.title }}</h2>
-                                <p class="card-description">{{ episode.description[:150] }}{% if
-                                    episode.description|length
-                                    > 150 %}...{% endif %}</p>
-
-                                {% if episode.topics %}
-                                <div class="card-topics">
-                                    {% for topic in episode.topics[:3] %}
-                                    <span class="topic-tag-small">{{ topic }}</span>
-                                    {% endfor %}
-                                </div>
-                                {% endif %}
-
-                                <div class="card-meta">
-                                    <span class="meta-item">
-                                        <svg class="icon-small" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                            <circle cx="12" cy="12" r="10"></circle>
-                                            <polyline points="12 6 12 12 16 14"></polyline>
-                                        </svg>
-                                        {{ episode.duration }}
-                                    </span>
-                                    {% if episode.listeners %}
-                                    <span class="meta-item">
-                                        <svg class="icon-small" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                            <path d="M17 21v-2a4 4 0 00-4-4H5a4 4 0 00-4 4v2"></path>
-                                            <circle cx="9" cy="7" r="4"></circle>
-                                            <path d="M23 21v-2a4 4 0 00-3-3.87"></path>
-                                            <path d="M16 3.13a4 4 0 010 7.75"></path>
-                                        </svg>
-                                        {{ episode.listeners }}
-                                    </span>
-                                    {% endif %}
-                                </div>
-                            </div>
-                        </a>
-                    </article>
-                    {% endfor %}
+                    
                 </div>
 
                 <div class="view-all-section">
@@ -144,11 +83,11 @@
             <div class="container">
                 <div class="stats-grid">
                     <div class="stat-card">
-                        <span class="stat-number">{{ total_episodes }}</span>
+                        <span class="stat-number">228</span>
                         <span class="stat-label">Episodios Totales</span>
                     </div>
                     <div class="stat-card">
-                        <span class="stat-number">{{ total_hours }}</span>
+                        <span class="stat-number">0</span>
                         <span class="stat-label">Horas de Contenido</span>
                     </div>
                     <div class="stat-card">

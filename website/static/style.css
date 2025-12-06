@@ -510,3 +510,140 @@ body {
         color: #a7f3d0;
     }
 }
+
+/* Homepage Sections */
+.about-section {
+    padding: 4rem 0;
+    background-color: var(--bg-secondary);
+}
+
+.about-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+}
+
+.about-card {
+    background: var(--bg-color);
+    padding: 2rem;
+    border-radius: 1rem;
+    border: 1px solid var(--border-color);
+}
+
+.about-card h2 {
+    color: var(--primary-color);
+    margin-bottom: 1rem;
+}
+
+.about-card p {
+    line-height: 1.6;
+    margin-bottom: 1rem;
+    color: var(--text-secondary);
+}
+
+.social-links {
+    margin-top: 1.5rem;
+}
+
+.social-link {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background-color: var(--primary-color);
+    color: white;
+    text-decoration: none;
+    border-radius: 0.5rem;
+    font-weight: 500;
+    transition: all 0.2s;
+}
+
+.social-link:hover {
+    background-color: #4a5fc1;
+    transform: translateY(-2px);
+}
+
+.latest-spaces {
+    padding: 4rem 0;
+}
+
+.section-title {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.view-all-section {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    margin-top: 3rem;
+    flex-wrap: wrap;
+}
+
+.btn {
+    padding: 1rem 2rem;
+    border-radius: 0.5rem;
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.2s;
+    display: inline-block;
+}
+
+.btn-primary {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: #4a5fc1;
+    transform: translateY(-2px);
+}
+
+.btn-secondary {
+    background-color: transparent;
+    color: var(--primary-color);
+    border: 2px solid var(--primary-color);
+}
+
+.btn-secondary:hover {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+.stats-section {
+    padding: 4rem 0;
+    background-color: var(--bg-secondary);
+}
+
+.stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 2rem;
+}
+
+.stat-card {
+    text-align: center;
+    padding: 2rem;
+    background: var(--bg-color);
+    border-radius: 1rem;
+    border: 1px solid var(--border-color);
+}
+
+.stat-number {
+    display: block;
+    font-size: 3rem;
+    font-weight: 700;
+    color: var(--primary-color);
+    margin-bottom: 0.5rem;
+}
+
+.stat-label {
+    display: block;
+    color: var(--text-secondary);
+    font-size: 1rem;
+}
+
+@media (prefers-color-scheme: dark) {
+    .about-section, .stats-section {
+        background-color: #1a1a1a;
+    }
+}

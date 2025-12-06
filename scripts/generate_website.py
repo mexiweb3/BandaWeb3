@@ -114,20 +114,24 @@ class WebsiteGenerator:
         
         print(f"{Fore.GREEN}✓ Generated page for episode {episode['number']}")
     
+    
     def generate_index_page(self, episodes: List[Dict], stats: Dict):
-        """Generate index page with all episodes."""
+        """Generate homepage with latest 6 episodes."""
         template = self.env.get_template("index.html")
         
-        # Calculate stats and prepare episodes with correct paths for index (root level)
+        # Sort episodes by date (newest first) and take latest 6
+        sorted_eps = sorted(episodes, key=lambda x: x.get('date', ''), reverse=True)
+        latest_6 = sorted_eps[:6]
+        
+        # Calculate stats
         total_episodes = len(episodes)
         total_minutes = 0
         
         index_episodes = []
-        for ep in episodes:
-            # Create a shallow copy for index rendering to avoid modifying global state
+        for ep in latest_6:
             ep_copy = ep.copy()
             
-            # Handle flyer_url(s) and path correction (remove ../ for root level index)
+            # Handle flyer_url(s) and path correction
             f_url = None
             if ep.get("flyer_urls") and len(ep["flyer_urls"]) > 0:
                 f_url = ep["flyer_urls"][0]
@@ -142,9 +146,10 @@ class WebsiteGenerator:
             
             index_episodes.append(ep_copy)
 
+        # Calculate total hours from all episodes
+        for ep in episodes:
             d_str = ep.get("duration", "0 min")
             matched = False
-            # Try "1h 27m" or "1h" format
             if 'h' in d_str:
                 parts = d_str.replace("m", "").split("h")
                 try:
@@ -156,7 +161,6 @@ class WebsiteGenerator:
                     pass
             
             if not matched:
-                # Try "60 min" format
                 try:
                     val = int(d_str.split()[0])
                     total_minutes += val
@@ -166,7 +170,7 @@ class WebsiteGenerator:
         total_hours = total_minutes / 60
         
         html = template.render(
-            episodes=index_episodes,
+            latest_episodes=index_episodes,
             total_episodes=total_episodes,
             total_hours=int(total_hours)
         )
@@ -176,6 +180,80 @@ class WebsiteGenerator:
             f.write(html)
         
         print(f"{Fore.GREEN}✓ Generated index page")
+    
+    def generate_hosted_page(self, episodes: List[Dict], stats: Dict):
+        """Generate page with all hosted spaces (numeric IDs)."""
+        template = self.env.get_template("hosted.html")
+        
+        # Filter hosted episodes (numeric IDs like 001, 072, etc.)
+        hosted = [ep for ep in episodes if ep['number'].isdigit() or (ep['number'].isdigit() and len(ep['number']) <= 3)]
+        
+        # Sort by date (newest first)
+        hosted_sorted = sorted(hosted, key=lambda x: x.get('date', ''), reverse=True)
+        
+        # Prepare episodes with correct paths
+        hosted_episodes = []
+        for ep in hosted_sorted:
+            ep_copy = ep.copy()
+            f_url = None
+            if ep.get("flyer_urls") and len(ep["flyer_urls"]) > 0:
+                f_url = ep["flyer_urls"][0]
+            elif ep.get("flyer_url"):
+                f_url = ep["flyer_url"]
+            if f_url and f_url.startswith("../"):
+                ep_copy["flyer_url"] = f_url[3:]
+            elif f_url:
+                ep_copy["flyer_url"] = f_url
+            hosted_episodes.append(ep_copy)
+        
+        html = template.render(
+            episodes=hosted_episodes,
+            total_episodes=len(hosted_episodes),
+            total_hours=stats.get('total_hours', 0)
+        )
+        
+        output_file = self.output_dir / "hosted.html"
+        with open(output_file, 'w', encoding='utf-8') as f:
+            f.write(html)
+        
+        print(f"{Fore.GREEN}✓ Generated hosted spaces page")
+    
+    def generate_cohosted_page(self, episodes: List[Dict], stats: Dict):
+        """Generate page with all co-hosted spaces (date-based IDs)."""
+        template = self.env.get_template("cohosted.html")
+        
+        # Filter co-hosted episodes (date-based IDs like 20230213)
+        cohosted = [ep for ep in episodes if not ep['number'].isdigit() or len(ep['number']) > 3]
+        
+        # Sort by date (newest first)
+        cohosted_sorted = sorted(cohosted, key=lambda x: x.get('date', ''), reverse=True)
+        
+        # Prepare episodes with correct paths
+        cohosted_episodes = []
+        for ep in cohosted_sorted:
+            ep_copy = ep.copy()
+            f_url = None
+            if ep.get("flyer_urls") and len(ep["flyer_urls"]) > 0:
+                f_url = ep["flyer_urls"][0]
+            elif ep.get("flyer_url"):
+                f_url = ep["flyer_url"]
+            if f_url and f_url.startswith("../"):
+                ep_copy["flyer_url"] = f_url[3:]
+            elif f_url:
+                ep_copy["flyer_url"] = f_url
+            cohosted_episodes.append(ep_copy)
+        
+        html = template.render(
+            episodes=cohosted_episodes,
+            total_episodes=len(cohosted_episodes),
+            total_hours=stats.get('total_hours', 0)
+        )
+        
+        output_file = self.output_dir / "cohosted.html"
+        with open(output_file, 'w', encoding='utf-8') as f:
+            f.write(html)
+        
+        print(f"{Fore.GREEN}✓ Generated co-hosted spaces page")
     
     def generate_rss_feed(self, episodes: List[Dict], metadata: Dict):
         """Generate RSS feed."""
@@ -244,6 +322,14 @@ class WebsiteGenerator:
         # Generate index page
         print(f"\n{Fore.CYAN}Generating index page...")
         self.generate_index_page(episodes, db.get("stats", {}))
+        
+        # Generate hosted page
+        print(f"\n{Fore.CYAN}Generating hosted spaces page...")
+        self.generate_hosted_page(episodes, db.get("stats", {}))
+        
+        # Generate co-hosted page
+        print(f"\n{Fore.CYAN}Generating co-hosted spaces page...")
+        self.generate_cohosted_page(episodes, db.get("stats", {}))
         
         # Generate RSS feed
         print(f"\n{Fore.CYAN}Generating RSS feed...")
