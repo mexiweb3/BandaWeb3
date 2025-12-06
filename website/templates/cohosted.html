@@ -31,133 +31,79 @@
 
     <header class="hero">
         <div class="container">
-            <h1 class="hero-title">BandaWeb3</h1>
-            <p class="hero-subtitle">Conversaciones sobre Web3, Blockchain y el futuro descentralizado</p>
+            <h1 class="hero-title">Co-hosted Spaces</h1>
+            <p class="hero-subtitle">Todos los espacios co-hosteados</p>
         </div>
     </header>
 
-    <main>
-        <!-- About Section -->
-        <section class="about-section">
-            <div class="container">
-                <div class="about-grid">
-                    <div class="about-card">
-                        <h2>Sobre BandaWeb3</h2>
-                        <p>BandaWeb3 es el podcast líder en español dedicado a explorar el ecosistema Web3, blockchain y
-                            tecnologías descentralizadas. Desde 2021, hemos creado un espacio para conversaciones
-                            profundas sobre el futuro de internet, finanzas descentralizadas, NFTs, DAOs y más.</p>
-                        <p>Con más de 300 episodios, conectamos a la comunidad hispanohablante con los proyectos,
-                            builders y pensadores más innovadores del espacio cripto.</p>
-                    </div>
-                    <div class="about-card">
-                        <h2>Sobre Mexi</h2>
-                        <p>Host de BandaWeb3 y entusiasta de Web3 desde 2017. Apasionado por construir puentes entre la
-                            tecnología descentralizada y la comunidad de habla hispana.</p>
-                        <p>Creador de contenido, educador y builder en el ecosistema blockchain, enfocado en hacer
-                            accesible la tecnología Web3 para todos.</p>
-                        <div class="social-links">
-                            <a href="https://twitter.com/BandaWeb3" target="_blank" class="social-link">@BandaWeb3</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <!-- Latest Spaces -->
-        <section class="latest-spaces">
-            <div class="container">
-                <h2 class="section-title">Últimos Spaces</h2>
-                <div class="episodes-grid">
-                    {% for episode in latest_episodes %}
-                    <article class="episode-card">
-                        <a href="episodes/episode_{{ episode.number }}.html" class="card-link">
-                            {% if episode.flyer_url %}
-                            <div class="card-image">
-                                <img src="{{ episode.flyer_url }}" alt="Episode {{ episode.number }}">
-                                <div class="card-overlay">
-                                    <svg class="play-icon" viewBox="0 0 24 24" fill="currentColor">
-                                        <polygon points="5 3 19 12 5 21 5 3"></polygon>
-                                    </svg>
-                                </div>
+    <main class="episodes-list">
+        <div class="container">
+            <!-- Episodes Grid -->
+            <div class="episodes-grid" id="episodesGrid">
+                {% for episode in episodes %}
+                <article class="episode-card">
+                    <a href="episodes/episode_{{ episode.number }}.html" class="card-link">
+                        {% if episode.flyer_url %}
+                        <div class="card-image">
+                            <img src="{{ episode.flyer_url }}" alt="Episode {{ episode.number }}">
+                            <div class="card-overlay">
+                                <svg class="play-icon" viewBox="0 0 24 24" fill="currentColor">
+                                    <polygon points="5 3 19 12 5 21 5 3"></polygon>
+                                </svg>
                             </div>
-                            {% else %}
-                            <div class="card-image card-placeholder">
-                                <div class="placeholder-content">
-                                    <span class="episode-number-large">#{{ episode.number }}</span>
-                                </div>
+                        </div>
+                        {% else %}
+                        <div class="card-image card-placeholder">
+                            <div class="placeholder-content">
+                                <span class="episode-number-large">#{{ episode.number }}</span>
+                            </div>
+                        </div>
+                        {% endif %}
+
+                        <div class="card-content">
+                            <div class="card-header">
+                                <span class="episode-number">#{{ episode.number }}</span>
+                                <span class="episode-date">{{ episode.date }}</span>
+                            </div>
+                            <h2 class="card-title">{{ episode.title }}</h2>
+                            <p class="card-description">{{ episode.description[:150] }}{% if
+                                episode.description|length
+                                > 150 %}...{% endif %}</p>
+
+                            {% if episode.topics %}
+                            <div class="card-topics">
+                                {% for topic in episode.topics[:3] %}
+                                <span class="topic-tag-small">{{ topic }}</span>
+                                {% endfor %}
                             </div>
                             {% endif %}
 
-                            <div class="card-content">
-                                <div class="card-header">
-                                    <span class="episode-number">#{{ episode.number }}</span>
-                                    <span class="episode-date">{{ episode.date }}</span>
-                                </div>
-                                <h2 class="card-title">{{ episode.title }}</h2>
-                                <p class="card-description">{{ episode.description[:150] }}{% if
-                                    episode.description|length
-                                    > 150 %}...{% endif %}</p>
-
-                                {% if episode.topics %}
-                                <div class="card-topics">
-                                    {% for topic in episode.topics[:3] %}
-                                    <span class="topic-tag-small">{{ topic }}</span>
-                                    {% endfor %}
-                                </div>
+                            <div class="card-meta">
+                                <span class="meta-item">
+                                    <svg class="icon-small" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                                        <circle cx="12" cy="12" r="10"></circle>
+                                        <polyline points="12 6 12 12 16 14"></polyline>
+                                    </svg>
+                                    {{ episode.duration }}
+                                </span>
+                                {% if episode.listeners %}
+                                <span class="meta-item">
+                                    <svg class="icon-small" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                                        <path d="M17 21v-2a4 4 0 00-4-4H5a4 4 0 00-4 4v2"></path>
+                                        <circle cx="9" cy="7" r="4"></circle>
+                                        <path d="M23 21v-2a4 4 0 00-3-3.87"></path>
+                                        <path d="M16 3.13a4 4 0 010 7.75"></path>
+                                    </svg>
+                                    {{ episode.listeners }}
+                                </span>
                                 {% endif %}
-
-                                <div class="card-meta">
-                                    <span class="meta-item">
-                                        <svg class="icon-small" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                            <circle cx="12" cy="12" r="10"></circle>
-                                            <polyline points="12 6 12 12 16 14"></polyline>
-                                        </svg>
-                                        {{ episode.duration }}
-                                    </span>
-                                    {% if episode.listeners %}
-                                    <span class="meta-item">
-                                        <svg class="icon-small" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                                            <path d="M17 21v-2a4 4 0 00-4-4H5a4 4 0 00-4 4v2"></path>
-                                            <circle cx="9" cy="7" r="4"></circle>
-                                            <path d="M23 21v-2a4 4 0 00-3-3.87"></path>
-                                            <path d="M16 3.13a4 4 0 010 7.75"></path>
-                                        </svg>
-                                        {{ episode.listeners }}
-                                    </span>
-                                    {% endif %}
-                                </div>
                             </div>
-                        </a>
-                    </article>
-                    {% endfor %}
-                </div>
-
-                <div class="view-all-section">
-                    <a href="hosted.html" class="btn btn-primary">Ver todos los Hosted Spaces</a>
-                    <a href="cohosted.html" class="btn btn-secondary">Ver todos los Co-hosted Spaces</a>
-                </div>
+                        </div>
+                    </a>
+                </article>
+                {% endfor %}
             </div>
-        </section>
-
-        <!-- Stats Section -->
-        <section class="stats-section">
-            <div class="container">
-                <div class="stats-grid">
-                    <div class="stat-card">
-                        <span class="stat-number">{{ total_episodes }}</span>
-                        <span class="stat-label">Episodios Totales</span>
-                    </div>
-                    <div class="stat-card">
-                        <span class="stat-number">{{ total_hours }}</span>
-                        <span class="stat-label">Horas de Contenido</span>
-                    </div>
-                    <div class="stat-card">
-                        <span class="stat-number">3+</span>
-                        <span class="stat-label">Años Activos</span>
-                    </div>
-                </div>
-            </div>
-        </section>
+        </div>
     </main>
 
     <footer class="footer">

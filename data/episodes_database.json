@@ -1470,7 +1470,9 @@
             "status": "archived",
             "transcript_available": false,
             "content_generated": false,
-            "flyer_urls": [],
+            "flyer_urls": [
+                "../static/images/flyer_071.jpg"
+            ],
             "listeners": "49"
         },
         {
