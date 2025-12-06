@@ -433,3 +433,80 @@ body {
     flex-direction: column;
   }
 }
+
+/* New Episode Page Styles */
+.guest-link {
+    color: var(--primary-color);
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+}
+
+.guest-link:hover {
+    text-decoration: underline;
+}
+
+.icon-tiny {
+    width: 14px;
+    height: 14px;
+}
+
+.status-badge {
+    padding: 0.25rem 0.75rem;
+    border-radius: 1rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+}
+
+.status-badge.archived {
+    background-color: #f3f4f6;
+    color: #4b5563;
+}
+
+.status-badge.scheduled {
+    background-color: #ecfdf5;
+    color: #059669;
+}
+
+.episode-links {
+    margin: 2rem 0;
+}
+
+.links-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.btn-outline {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.75rem 1.5rem;
+    border: 1px solid var(--border-color);
+    border-radius: 0.5rem;
+    color: var(--text-color);
+    text-decoration: none;
+    font-weight: 500;
+    transition: all 0.2s;
+}
+
+.btn-outline:hover {
+    border-color: var(--primary-color);
+    color: var(--primary-color);
+    background-color: rgba(63, 81, 181, 0.05);
+}
+
+@media (prefers-color-scheme: dark) {
+    .status-badge.archived {
+        background-color: #374151;
+        color: #d1d5db;
+    }
+    
+    .status-badge.scheduled {
+        background-color: #064e3b;
+        color: #a7f3d0;
+    }
+}
