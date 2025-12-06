@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>BandaWeb3</title>
+    <description>Podcast sobre Web3, Blockchain y tecnología descentralizada en español</description>
+    <link>https://bandaweb3.com</link>
+    <language>es</language>
+    <itunes:author>BandaWeb3</itunes:author>
+
+    <item>
+      <title>#072 - Episode 072 with @xenonnel</title>
+      <description>Xenonnel y yo estaremos platicando de lo sucedido en la Stablecoin Conference y todos los side events. Mientras platicamos estaremos jugando en @yeet, el casino online que ha sobrepasado $500M USD en volúmen en 5 meses.</description>
+      <pubDate>2025-09-04</pubDate>
+      <link>https://bandaweb3.com/episodes/episode_072.html</link>
+      <guid>https://bandaweb3.com/episodes/episode_072.html</guid>
+    </item>
+
+    <item>
+      <title>#057 - BandaWeb3 #057 @CryptoNotaz #WLFI</title>
+      <description>BandaWeb3 #057 @CryptoNotaz #WLFI</description>
+      <pubDate>2025-05-15</pubDate>
+      <link>https://bandaweb3.com/episodes/episode_057.html</link>
+      <guid>https://bandaweb3.com/episodes/episode_057.html</guid>
+    </item>
+
+    <item>
+      <title>#056 - BandaWeb3 #056 @RoyalBunker dApp</title>
+      <description>BandaWeb3 #056 @RoyalBunker dApp</description>
+      <pubDate>2025-05-13</pubDate>
+      <link>https://bandaweb3.com/episodes/episode_056.html</link>
+      <guid>https://bandaweb3.com/episodes/episode_056.html</guid>
+    </item>
+
+    <item>
+      <title>#055 - BandaWeb3 #055 @btcnetworkmty</title>
+      <description>BandaWeb3 #055 @btcnetworkmty</description>
+      <pubDate>2025-05-08</pubDate>
+      <link>https://bandaweb3.com/episodes/episode_055.html</link>
+      <guid>https://bandaweb3.com/episodes/episode_055.html</guid>
+    </item>
+
+    <item>
+      <title>#054 - BandaWeb3 #054 Embajadores @arbitrum</title>
+      <description>BandaWeb3 #054 Embajadores @arbitrum</description>
+      <pubDate>2025-05-06</pubDate>
+      <link>https://bandaweb3.com/episodes/episode_054.html</link>
+      <guid>https://bandaweb3.com/episodes/episode_054.html</guid>
+    </item>
+
+    <item>
+      <title>#053 - BandaWeb3 #053 Omma Cash @icphub_mx</title>
+      <description>BandaWeb3 #053 Omma Cash @icphub_mx</description>
+      <pubDate>2025-04-22</pubDate>
+      <link>https://bandaweb3.com/episodes/episode_053.html</link>
+      <guid>https://bandaweb3.com/episodes/episode_053.html</guid>
+    </item>
+
+    <item>
+      <title>#052 - BandaWeb3 #052 @gustavojfe @SwapidoBTC</title>
+      <description>BandaWeb3 #052 @gustavojfe @SwapidoBTC</description>
+      <pubDate>2025-04-17</pubDate>
+      <link>https://bandaweb3.com/episodes/episode_052.html</link>
+      <guid>https://bandaweb3.com/episodes/episode_052.html</guid>
+    </item>
+
+    <item>
+      <title>#051 - BandaWeb3 #051 @ElevatHerVC</title>
+      <description>BandaWeb3 #051 @ElevatHerVC</description>
+      <pubDate>2025-04-15</pubDate>
+      <link>https://bandaweb3.com/episodes/episode_051.html</link>
+      <guid>https://bandaweb3.com/episodes/episode_051.html</guid>
+    </item>
+
+    <item>
+      <title>#050 - BandaWeb3 #050 @entigdd @LidoFinance</title>
+      <description>BandaWeb3 #050 @entigdd @LidoFinance</description>
+      <pubDate>2025-04-03</pubDate>
+      <link>https://bandaweb3.com/episodes/episode_050.html</link>
+      <guid>https://bandaweb3.com/episodes/episode_050.html</guid>
+    </item>
+
+    <item>
+      <title>#049 - BandaWeb3 #049 @sohobiit @happ3nxyz</title>
+      <description>BandaWeb3 #049 @sohobiit @happ3nxyz</description>
+      <pubDate>2025-04-01</pubDate>
+      <link>https://bandaweb3.com/episodes/episode_049.html</link>
+      <guid>https://bandaweb3.com/episodes/episode_049.html</guid>
+    </item>
+
+  </channel>
+</rss>

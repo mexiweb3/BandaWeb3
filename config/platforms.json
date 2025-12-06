@@ -1,0 +1,158 @@
+{
+    "platforms": {
+        "twitter": {
+            "name": "X (Twitter)",
+            "thread": {
+                "max_tweets": 25,
+                "max_chars_per_tweet": 280,
+                "max_hashtags": 2,
+                "recommended_hashtags": [
+                    "#Web3",
+                    "#Blockchain",
+                    "#BandaWeb3"
+                ]
+            },
+            "single_tweet": {
+                "max_chars": 280,
+                "max_hashtags": 3
+            },
+            "media": {
+                "max_images": 4,
+                "max_video_size_mb": 512,
+                "supported_formats": [
+                    "jpg",
+                    "png",
+                    "gif",
+                    "mp4"
+                ]
+            }
+        },
+        "linkedin": {
+            "name": "LinkedIn",
+            "post": {
+                "max_chars": 3000,
+                "recommended_chars": 1300,
+                "max_hashtags": 5,
+                "recommended_hashtags": [
+                    "#Web3",
+                    "#Blockchain",
+                    "#Innovation",
+                    "#LATAM"
+                ]
+            },
+            "article": {
+                "max_chars": 125000,
+                "recommended_chars": 2000,
+                "max_hashtags": 3
+            },
+            "media": {
+                "max_images": 9,
+                "max_video_size_mb": 200,
+                "supported_formats": [
+                    "jpg",
+                    "png",
+                    "gif",
+                    "mp4"
+                ]
+            }
+        },
+        "instagram": {
+            "name": "Instagram",
+            "post": {
+                "max_caption_chars": 2200,
+                "recommended_caption_chars": 300,
+                "max_hashtags": 30,
+                "recommended_hashtags": 10,
+                "default_hashtags": [
+                    "#Web3",
+                    "#Blockchain",
+                    "#Ethereum",
+                    "#BandaWeb3",
+                    "#CryptoLatam",
+                    "#LATAM",
+                    "#Tech",
+                    "#Innovation",
+                    "#Developer",
+                    "#Builder"
+                ]
+            },
+            "carousel": {
+                "max_slides": 10,
+                "min_slides": 2
+            },
+            "reel": {
+                "max_duration_seconds": 90,
+                "min_duration_seconds": 3,
+                "max_caption_chars": 2200
+            },
+            "media": {
+                "image_aspect_ratios": [
+                    "1:1",
+                    "4:5",
+                    "16:9"
+                ],
+                "recommended_aspect_ratio": "1:1",
+                "max_image_size_mb": 8,
+                "max_video_size_mb": 100,
+                "supported_formats": [
+                    "jpg",
+                    "png",
+                    "mp4"
+                ]
+            }
+        }
+    },
+    "content_templates": {
+        "twitter_thread_intro": "🧵 {hook}\n\n{preview}\n\n{cta}\n\n1/{total}",
+        "linkedin_article_header": "# {title}\n\n{subtitle}\n\n---\n\n",
+        "instagram_caption_structure": "{hook}\n\n{body}\n\n{cta}\n\n—\n\n{hashtags}"
+    },
+    "publishing_schedule": {
+        "twitter": {
+            "best_times": [
+                "09:00",
+                "12:00",
+                "18:00"
+            ],
+            "timezone": "America/Mexico_City"
+        },
+        "linkedin": {
+            "best_times": [
+                "08:00",
+                "12:00",
+                "17:00"
+            ],
+            "best_days": [
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+            ],
+            "timezone": "America/Mexico_City"
+        },
+        "instagram": {
+            "best_times": [
+                "10:00",
+                "14:00",
+                "19:00"
+            ],
+            "timezone": "America/Mexico_City"
+        }
+    },
+    "content_rules": {
+        "emoji_usage": {
+            "twitter": "moderate",
+            "linkedin": "minimal",
+            "instagram": "heavy"
+        },
+        "tone": {
+            "twitter": "casual_engaging",
+            "linkedin": "professional_insightful",
+            "instagram": "energetic_visual"
+        },
+        "link_handling": {
+            "twitter": "use_short_links",
+            "linkedin": "use_full_links",
+            "instagram": "link_in_bio_only"
+        }
+    }
+}

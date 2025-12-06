@@ -1,0 +1,68 @@
+# BandaWeb3 Automation - Python Dependencies
+
+# Core dependencies
+python-dotenv==1.0.0
+requests==2.31.0
+
+# X (Twitter) API
+tweepy==4.14.0
+
+# Audio processing
+openai==1.54.0  # For Whisper API
+pydub==0.25.1
+ffmpeg-python==0.2.0
+
+# AI and Content Generation
+anthropic==0.40.0  # Claude API
+
+# Data handling
+pandas==2.1.4
+python-dateutil==2.8.2
+
+# File handling
+Pillow==10.1.0  # Image processing
+
+# Web scraping (for profile pictures)
+beautifulsoup4==4.12.2
+selenium==4.16.0
+playwright==1.40.0
+
+# Utilities
+pytz==2023.3
+colorama==0.4.6  # Colored terminal output
+tqdm==4.66.1     # Progress bars
+
+# Optional: Video generation
+# moviepy==1.0.3  # Uncomment if needed for advanced video editing
+
+# ==========================================
+# NEW: Publishing Workflow Dependencies
+# ==========================================
+
+# LinkedIn API
+linkedin-api==2.2.0
+python-linkedin-v2==0.9.0
+
+# Instagram Graph API
+facebook-sdk==3.1.0
+instagrapi==2.0.0  # Alternative Instagram API client
+
+# Clipboard operations
+pyperclip==1.8.2
+
+# Task scheduling
+schedule==1.2.0
+
+# Template rendering
+jinja2==3.1.2
+
+# HTTP client with better error handling
+httpx==0.25.2
+
+# JSON schema validation
+jsonschema==4.20.0
+
+# Development
+pytest==7.4.3
+black==23.12.0
+flake8==6.1.0
