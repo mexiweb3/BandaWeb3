@@ -23,85 +23,78 @@ def generate():
     # Filter episodes
     hosted_episodes = []
     cohosted_episodes = []
+    numbered_episodes = []
+
     for ep in episodes:
-        num = str(ep['number'])
-        if num.isdigit() and len(num) <= 3:
-             hosted_episodes.append(ep)
-        else:
+        if ep.get('type') == 'co-hosted':
              cohosted_episodes.append(ep)
+        else:
+             hosted_episodes.append(ep)
+             # Check if it's numbered (subset of hosted)
+             if ep.get('type') == 'numbered':
+                 numbered_episodes.append(ep)
     
     # Sort by number/date descending
-    hosted_episodes.sort(key=lambda x: int(x['number']), reverse=True)
-    # Co-hosted usually use date as number, e.g. 20230101
+    # ... (sorting logic) ...
+    def robust_sort_key(ep):
+        val = str(ep.get('number', '0'))
+        if val.isdigit():
+            return int(val)
+        return val
+
+    def hosted_sort(ep):
+        num = str(ep.get('number', '0'))
+        if num.isdigit():
+             return int(num)
+        try:
+            return int(num)
+        except ValueError:
+            clean = "".join(filter(str.isdigit, num))
+            return int(clean) if clean else 0
+
+    hosted_episodes.sort(key=hosted_sort, reverse=True)
     cohosted_episodes.sort(key=lambda x: str(x['number']), reverse=True)
+    numbered_episodes.sort(key=hosted_sort, reverse=True)
     
-    # Sort all episodes by date descending for Global Index/Archive
     episodes.sort(key=lambda x: x.get('date', ''), reverse=True)
 
-    # Ensure output dirs
-    if output_dir.exists():
-        shutil.rmtree(output_dir)
-    output_dir.mkdir(parents=True)
-    static_dst.mkdir(parents=True)
-    episodes_dst.mkdir(parents=True)
-    flyers_dst.mkdir(parents=True)
+    # ... (dir creation copy assets) ...
 
-    # Copy static assets
-    for item in static_src.iterdir():
-        if item.is_file():
-            shutil.copy2(item, static_dst / item.name)
-        elif item.is_dir():
-            shutil.copytree(item, static_dst / item.name)
+    # --- Generate Pages (Index, Hosted, Cohosted, Archive, Numbered) ---
     
-    # Copy all flyers from shared directory
-    if flyers_dir.exists():
-        for flyer in flyers_dir.glob("flyer_*.jpg"):
-            shutil.copy2(flyer, flyers_dst / flyer.name)
-        # Also copy pngs if any
-        for flyer in flyers_dir.glob("flyer_*.png"):
-            shutil.copy2(flyer, flyers_dst / flyer.name)
-
-    # --- Generate Pages (Index, Hosted, Cohosted, Archive) ---
-    
-    # Index is now ALL EPISODES
     generate_subpage(output_dir, "index.html", "Todos los Episodios", "Lo más reciente de BandaWeb3", episodes)
     generate_subpage(output_dir, "hosted.html", "Hosted Spaces", "Episodios hosteados por Mexi", hosted_episodes)
+    generate_subpage(output_dir, "numbered.html", "Episodios Numerados", "Colección 001 - 074", numbered_episodes)
     generate_subpage(output_dir, "cohosted.html", "Co-Hosted Spaces", "Episodios co-hosteados y participaciones", cohosted_episodes)
     generate_subpage(output_dir, "archive.html", "Archivo de Episodios", "Todos los episodios", episodes)
     
-    print(f"Index generated with {len(hosted_episodes)} episodes (Hosted)")
+    print(f"Index generated with {len(numbered_episodes)} numbered episodes")
 
     # --- Generate Individual Pages ---
     for ep in episodes:
+        # ... (flyer logic) ...
         flyer_html_list = []
-        
-        # Handle new schema (flyers array)
         if ep.get("flyers"):
             for flyer_name in ep["flyers"]:
                 flyer_html_list.append(f'<img src="../flyers/{flyer_name}" alt="Flyer" style="max-width:100%; border-radius: 12px; margin-bottom: 20px;">')
-        
-        # Backward compatibility for old schema (flyer_urls list)
         elif ep.get("flyer_urls"):
             for url in ep["flyer_urls"]:
-                 # If url is just filename, prepend path
                  src = url if "/" in url else f"../flyers/{url}"
                  flyer_html_list.append(f'<img src="{src}" alt="Flyer" style="max-width:100%; border-radius: 12px; margin-bottom: 20px;">')
-        
-        # Backward compatibility for old schema (single flyer_url)
         elif ep.get("flyer_url"):
              url = ep["flyer_url"]
              src = url if "/" in url else f"../flyers/{url}"
              flyer_html_list.append(f'<img src="{src}" alt="Flyer" style="max-width:100%; border-radius: 12px; margin-bottom: 20px;">')
         
         flyers_section = "\n".join(flyer_html_list)
-        
+
         ep_html = f"""
 <!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>#{ep['number']} - {ep['title']}</title>
+    <title>#{{ep['number']}} - {{ep['title']}}</title>
     <link rel="stylesheet" href="../static/style.css">
 </head>
 <body>
@@ -112,6 +105,7 @@ def generate():
                 <span class="logo-text">BandaWeb3</span>
             </a>
             <div class="nav-links">
+                <a href="../numbered.html">Episodios Numerados</a>
                 <a href="../hosted.html">Hosted Spaces</a>
                 <a href="../cohosted.html">Co-Hosted Spaces</a>
                 <a href="../archive.html">All Episodes</a>
@@ -120,53 +114,54 @@ def generate():
             </div>
         </div>
     </nav>
-
+    
     <main class="episode-detail">
         <div class="container">
             <article class="episode-full">
                 <header class="episode-header">
-                    <span class="episode-number-large">#{ep['number']}</span>
-                    <h1 class="episode-title-large">{ep['title']}</h1>
+                    <span class="episode-number-large">#{{ep['number']}}</span>
+                    <h1 class="episode-title-large">{{ep['title']}}</h1>
                     <div class="episode-meta">
-                        <span>📅 {ep['date']}</span>
-                        <span>⏱ {ep['duration'].replace("Duration: ", "") if ep.get('duration') else ""}</span>
-                        {f'<span>🎧 {ep["listeners"]}</span>' if ep.get("listeners") else ""}
-                        <span>👥 {', '.join(ep['guests'])}</span>
+                        {{f'<span class="status-badge cohosted" style="margin-right: 15px;">🤝 Co-Hosted</span>' if ep.get("type") == "co-hosted" else ""}}
+                        <span>📅 {{ep['date']}}</span>
+                        <span>⏱ {{ep['duration'].replace("Duration: ", "") if ep.get('duration') else ""}}</span>
+                        {{f'<span>🎧 {{ep["listeners"]}}</span>' if ep.get("listeners") else ""}}
+                        <span>👥 {{', '.join(ep['guests'])}}</span>
                     </div>
                 </header>
                 
                 <div class="episode-content">
-                    {flyers_section}
+                    {{flyers_section}}
                     
                     <div class="description">
                         <h3>Sobre este episodio</h3>
-                        <p>{ep['description']}</p>
+                        <p>{{ep['description']}}</p>
                     </div>
                     
                     <div class="topics">
                         <h3>Temas</h3>
                         <div class="card-topics">
-                            {''.join([f'<span class="topic-tag-small">{t}</span>' for t in ep['topics']])}
+                            {{''.join([f'<span class="topic-tag-small">{{t}}</span>' for t in ep['topics']])}}
                         </div>
                     </div>
 
                     <div class="links">
                         <h3>Enlaces</h3>
-                        {f'<a href="{ep["space_url"]}" target="_blank" class="button">Ver en X (Twitter)</a>' if ep.get("space_url") else ""}
+                        {{f'<a href="{{ep["space_url"]}}" target="_blank" class="button">Ver en X (Twitter)</a>' if ep.get("space_url") else ""}}
                         
-                        {f'<a href="{ep["instagram_url"]}" target="_blank" class="button" style="background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); color: white; margin-left: 10px;">Ver en Instagram</a>' if ep.get("instagram_url") else ""}
+                        {{f'<a href="{{ep["instagram_url"]}}" target="_blank" class="button" style="background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); color: white; margin-left: 10px;">Ver en Instagram</a>' if ep.get("instagram_url") else ""}}
                         
-                        {f'<a href="{ep["arena_url"]}" target="_blank" class="button" style="background-color: #000000; margin-left: 10px;">Ver en Arena</a>' if ep.get("arena_url") else ""}
+                        {{f'<a href="{{ep["arena_url"]}}" target="_blank" class="button" style="background-color: #000000; margin-left: 10px;">Ver en Arena</a>' if ep.get("arena_url") else ""}}
                         
-                        {f'<a href="{ep["unlock_url"]}" target="_blank" class="button" style="background-color: #ff6b6b; margin-left: 10px;">Claim Unlock</a>' if ep.get("unlock_url") else ""}
+                        {{f'<a href="{{ep["unlock_url"]}}" target="_blank" class="button" style="background-color: #ff6b6b; margin-left: 10px;">Claim Unlock</a>' if ep.get("unlock_url") else ""}}
 
-                        {f'<a href="{ep["arbiscan_url"]}" target="_blank" class="button" style="background-color: #28A0F0; margin-left: 10px;">Ver en Arbiscan</a>' if ep.get("arbiscan_url") else ""}
+                        {{f'<a href="{{ep["arbiscan_url"]}}" target="_blank" class="button" style="background-color: #28A0F0; margin-left: 10px;">Ver en Arbiscan</a>' if ep.get("arbiscan_url") else ""}}
 
-                        {f'<a href="{ep["snowtrace_url"]}" target="_blank" class="button" style="background-color: #E84142; margin-left: 10px;">Ver en Snowtrace</a>' if ep.get("snowtrace_url") else ""}
+                        {{f'<a href="{{ep["snowtrace_url"]}}" target="_blank" class="button" style="background-color: #E84142; margin-left: 10px;">Ver en Snowtrace</a>' if ep.get("snowtrace_url") else ""}}
 
-                        {f'<a href="{ep["opensea_url"]}" target="_blank" class="button" style="background-color: #2081e2; margin-left: 10px;">OpenSea Collection</a>' if ep.get("opensea_url") else ""}
+                        {{f'<a href="{{ep["opensea_url"]}}" target="_blank" class="button" style="background-color: #2081e2; margin-left: 10px;">OpenSea Collection</a>' if ep.get("opensea_url") else ""}}
                         
-                        {f'<a href="{ep["contract_url"]}" target="_blank" class="button" style="background-color: #3498db; margin-left: 10px;">Contract (Arbiscan)</a>' if ep.get("contract_url") else ""}
+                        {{f'<a href="{{ep["contract_url"]}}" target="_blank" class="button" style="background-color: #3498db; margin-left: 10px;">Contract (Arbiscan)</a>' if ep.get("contract_url") else ""}}
                     </div>
                 </div>
             </article>
@@ -213,6 +208,7 @@ def generate():
                 <span class="logo-text">BandaWeb3</span>
             </a>
             <div class="nav-links">
+                <a href="numbered.html">Episodios Numerados</a>
                 <a href="hosted.html">Hosted Spaces</a>
                 <a href="cohosted.html">Co-Hosted Spaces</a>
                 <a href="archive.html">All Episodes</a>
@@ -316,6 +312,7 @@ def generate_subpage(output_dir, filename, title, subtitle, episodes_list):
                 <span class="logo-text">BandaWeb3</span>
             </a>
             <div class="nav-links">
+                <a href="numbered.html" class="{'active' if filename == 'numbered.html' else ''}">Episodios Numerados</a>
                 <a href="hosted.html" class="{'active' if filename == 'hosted.html' else ''}">Hosted Spaces</a>
                 <a href="cohosted.html" class="{'active' if filename == 'cohosted.html' else ''}">Co-Hosted Spaces</a>
                 <a href="archive.html" class="{'active' if filename == 'archive.html' else ''}">All Episodes</a>
@@ -363,6 +360,7 @@ def generate_subpage(output_dir, filename, title, subtitle, episodes_list):
                             {flyer_html}
                             <div class="card-header">
                                 <span class="episode-number">#{ep['number']}</span>
+                                {f'<span class="status-badge cohosted" style="margin-left: 10px; font-size: 0.8em; padding: 2px 8px;">🤝 Co-Hosted</span>' if ep.get("type") == "co-hosted" else ""}
                                 <span class="episode-date">{ep['date']}</span>
                                 {f'<span class="episode-listeners" style="margin-left: 10px; font-size: 0.9em; color: #666;">🎧 {ep["listeners"]}</span>' if ep.get("listeners") else ""}
                             </div>

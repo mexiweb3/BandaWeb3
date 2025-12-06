@@ -479,6 +479,12 @@ body {
   color: #4b5563;
 }
 
+.status-badge.cohosted {
+  background-color: #faf5ff;
+  color: #6b21a8;
+  border: 1px solid #e9d5ff;
+}
+
 .status-badge.scheduled {
   background-color: #ecfdf5;
   color: #059669;
