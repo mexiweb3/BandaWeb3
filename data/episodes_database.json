@@ -75,13 +75,22 @@
             "guest_links": {
                 "RoyalBunker": "https://x.com/RoyalBunker"
             },
-            "space_url": "",
-            "description": "BandaWeb3 #056 @RoyalBunker dApp",
-            "topics": [],
+            "space_url": "https://x.com/i/spaces/1BRJjmWognVGw?s=20",
+            "description": "BandaWeb3 #056 @RoyalBunker dApp. @meximalist estará platicando de su nueva iniciativa y estará onbordeando a la banda a nuestra nueva dApp. Les platicará de @thirdweb y el cookathon de @0xMantleLatAm @0xMantleDevs.",
+            "topics": [
+                "Royal Bunker",
+                "dApp",
+                "thirdweb",
+                "Mantle",
+                "Cookathon",
+                "Onboarding"
+            ],
             "status": "archived",
             "transcript_available": false,
             "content_generated": false,
-            "flyer_urls": [],
+            "flyer_urls": [
+                "../static/images/flyer_056.jpg"
+            ],
             "listeners": "0"
         },
         {
@@ -778,10 +787,12 @@
         {
             "number": "073",
             "title": "Hackathon ETHGlobal Argentina - EVVM y el futuro de la interoperabilidad",
-            "date": "2024-12-05",
+            "date": "2025-12-02",
             "space_url": "",
             "audio_url": "BandaWeb3 #074 Hackathon @ETHGlobal 🇦🇷 EVVM.mp3",
-            "flyer_url": "",
+            "flyer_urls": [
+                "../static/images/flyer_073.jpg"
+            ],
             "guests": [
                 "Alex Soto",
                 "Germán (EVVM)"
@@ -839,10 +850,11 @@
         {
             "number": "074",
             "title": "Hackathon @ETHGlobal - EVVM Hackathon Track: $20,000 USD",
-            "date": "2024-12-04",
-            "space_url": "https://x.com/meximalist/status/1996628605166931987?s=20",
+            "date": "2025-12-04",
+            "space_url": "https://x.com/i/spaces/1yNxabkXlPDKj?s=20",
             "audio_url": "",
             "flyer_urls": [
+                "../static/images/flyer_074.jpg",
                 "../static/images/flyer_074.png",
                 "../static/images/flyer_074_2.png",
                 "../static/images/flyer_074_3.png",
@@ -1507,7 +1519,9 @@
             "status": "archived",
             "transcript_available": false,
             "content_generated": false,
-            "flyer_urls": [],
+            "flyer_urls": [
+                "../static/images/flyer_070.jpg"
+            ],
             "listeners": "79"
         },
         {
@@ -1516,23 +1530,30 @@
             "date": "2025-08-07",
             "duration": "1 hours, 18 minutes, 24 seconds",
             "guests": [
-                "ChihTechWeek"
+                "Liz Durán",
+                "Diego Benítez"
             ],
             "guest_links": {
-                "ChihTechWeek": "https://x.com/ChihTechWeek"
+                "Liz Durán": "https://x.com/liz_durang",
+                "Diego Benítez": "https://x.com/diegobc28"
             },
-            "space_url": "",
-            "description": "BandaWeb3 #069 @ChihTechWeek",
-            "topics": [],
+            "space_url": "https://x.com/i/spaces/1MYxNwlWdjbKw?s=20",
+            "description": "BandaWeb3 #069 @ChihTechWeek. Chihuahua Tech Week del 17 al 25 de Septiembre 2025. Nos acompaña @liz_durang de Ethereum México, @diegobc28 de Chihuahua Tech Week y otros organizadores. +100 proyectos, +50 speakers, +5 Eventos al día.",
+            "topics": [
+                "Chihuahua Tech Week",
+                "Ethereum Mexico"
+            ],
             "status": "archived",
             "transcript_available": false,
             "content_generated": false,
-            "flyer_urls": [],
+            "flyer_urls": [
+                "../static/images/flyer_069.jpg"
+            ],
             "listeners": "78"
         },
         {
             "number": "068",
-            "title": "BandaWeb3 #068 @donald_glonk",
+            "title": "BandaWeb3 #068 AMA @donald_glonk",
             "date": "2025-07-31",
             "duration": "1h 25m",
             "guests": [
@@ -1541,13 +1562,20 @@
             "guest_links": {
                 "donald_glonk": "https://x.com/donald_glonk"
             },
-            "space_url": "",
-            "description": "BandaWeb3 #068 @donald_glonk",
-            "topics": [],
+            "space_url": "https://x.com/i/spaces/1YqKDZkyYWaJV?s=20",
+            "description": "BandaWeb3 #068 AMA @donald_glonk. El X-Space de este jueves es patrocinado por el equipo de desarrollo de la memecoin $GLONK lanzada hace 2 meses en @pumpdotfun. Mkt Cap: 1.7 M USD, ATH Mkt Cap: 2.1 M USD. Pasa a preguntarles lo que se te antoje.",
+            "topics": [
+                "Memecoin",
+                "$GLONK",
+                "pump.fun",
+                "AMA"
+            ],
             "status": "archived",
             "transcript_available": false,
             "content_generated": false,
-            "flyer_urls": [],
+            "flyer_urls": [
+                "../static/images/flyer_068.jpg"
+            ],
             "listeners": "52"
         },
         {
@@ -1557,13 +1585,21 @@
             "duration": "1h 04m",
             "guests": [],
             "guest_links": {},
-            "space_url": "",
-            "description": "BandaWeb3 #067 Monólogo I",
-            "topics": [],
+            "space_url": "https://x.com/i/spaces/1YqKDZkArVoJV?s=20",
+            "description": "BandaWeb3 #067 Monólogo I. Mañana regresan los X-Spaces de @BandaWeb3 con el 1er monólogo. Algunas cosas que contaré: accidentes, vacaciones, eventos próximos, Ethereum México 2025, stablecoins, DevConnect y algo de chismesito.",
+            "topics": [
+                "Monólogo",
+                "Ethereum México 2025",
+                "Stablecoins",
+                "DevConnect",
+                "Eventos"
+            ],
             "status": "archived",
             "transcript_available": false,
             "content_generated": false,
-            "flyer_urls": [],
+            "flyer_urls": [
+                "../static/images/flyer_067.jpg"
+            ],
             "listeners": "27"
         },
         {
@@ -1589,24 +1625,33 @@
         },
         {
             "number": "066",
-            "title": "BandaWeb3 #066 @LaDAO_Club y @FruteroClub",
+            "title": "BandaWeb3 #066 @LaDAO_Club y @fruteroclub",
             "date": "2025-06-19",
             "duration": "1h 24m",
             "guests": [
-                "LaDAO_Club",
-                "FruteroClub"
+                "troopdegen",
+                "SergioRoVar"
             ],
             "guest_links": {
-                "LaDAO_Club": "https://x.com/LaDAO_Club",
-                "FruteroClub": "https://x.com/FruteroClub"
+                "troopdegen": "https://x.com/troopdegen",
+                "SergioRoVar": "https://x.com/SergioRoVar"
             },
-            "space_url": "",
-            "description": "BandaWeb3 #066 @LaDAO_Club y @FruteroClub",
-            "topics": [],
+            "space_url": "https://x.com/i/spaces/1MnxnwERjmVKO?s=20",
+            "description": "BandaWeb3 #066 @LaDAO_Club y @fruteroclub. Ya empezó el hackathon con @mxnb_token, @arbitrum y @Bitso. Hay 23 ideas en la plataforma, las analizaremos a detalle.",
+            "topics": [
+                "LaDAO",
+                "Frutero Club",
+                "Hackathon",
+                "MXNB",
+                "Arbitrum",
+                "Bitso"
+            ],
             "status": "archived",
             "transcript_available": false,
             "content_generated": false,
-            "flyer_urls": [],
+            "flyer_urls": [
+                "../static/images/flyer_066.jpg"
+            ],
             "listeners": "86"
         },
         {
@@ -1615,20 +1660,25 @@
             "date": "2025-06-17",
             "duration": "1h 10m",
             "guests": [
-                "BSmokes_",
-                "pistachiofi"
+                "BSmokes_"
             ],
             "guest_links": {
-                "BSmokes_": "https://x.com/BSmokes_",
-                "pistachiofi": "https://x.com/pistachiofi"
+                "BSmokes_": "https://x.com/BSmokes_"
             },
-            "space_url": "",
-            "description": "BandaWeb3 #065 @BSmokes_ de @pistachiofi",
-            "topics": [],
+            "space_url": "https://x.com/i/spaces/1MYxNwdpAEbKw?s=20",
+            "description": "BandaWeb3 #065 @BSmokes_ de @PistachioFi. Brian es el fundador de @PistachioFi, una aplicación para que usar e invertir en cripto activos sea muy sencillo. Acaban de lanzar su App para iOS y próximamente para Android, es un proyecto acelerado por @odisealabs.",
+            "topics": [
+                "PistachioFi",
+                "Crypto Investing",
+                "iOS App",
+                "Odisea Labs"
+            ],
             "status": "archived",
             "transcript_available": false,
             "content_generated": false,
-            "flyer_urls": [],
+            "flyer_urls": [
+                "../static/images/flyer_065.jpg"
+            ],
             "listeners": "67"
         },
         {
@@ -1642,33 +1692,48 @@
             "guest_links": {
                 "eliandecrypto": "https://x.com/eliandecrypto"
             },
-            "space_url": "",
-            "description": "BandaWeb3 #064 @eliandecrypto",
-            "topics": [],
+            "space_url": "https://x.com/i/spaces/1lDxLzMOqlvGm?s=20",
+            "description": "BandaWeb3 #064 @eliandecrypto. Elian es un og del ecosistema, creador de contenido, co-host de @LosOrdinales, ex @bitso y mucho más. Nos contará sobre su experiencia en Bitcoin Las Vegas del mes pasado y del proyecto @ASICGenesis.",
+            "topics": [
+                "Los Ordinales",
+                "Bitso",
+                "Bitcoin Las Vegas",
+                "ASIC Genesis"
+            ],
             "status": "archived",
             "transcript_available": false,
             "content_generated": false,
-            "flyer_urls": [],
+            "flyer_urls": [
+                "../static/images/flyer_064.jpg"
+            ],
             "listeners": "68"
         },
         {
-            "number": "064",
-            "title": "BandaWeb3 #064 @byluaambriz",
+            "number": "063",
+            "title": "BandaWeb3 #063 @ByLuaambriz",
             "date": "2025-06-05",
             "duration": "1h 43m",
             "guests": [
-                "byluaambriz"
+                "ByLuaambriz"
             ],
             "guest_links": {
-                "byluaambriz": "https://x.com/byluaambriz"
+                "ByLuaambriz": "https://x.com/ByLuaambriz"
             },
-            "space_url": "",
-            "description": "BandaWeb3 #064 @byluaambriz",
-            "topics": [],
+            "space_url": "https://x.com/i/spaces/1gqGvjXwrqQGB?s=20",
+            "description": "BandaWeb3 #063 @ByLuaambriz. Lu Ambríz es una de mis artistas favorita, modelo, directora de arte de @unlocksummit_io, creadora de contenido y campañas de mktg. Nos platicará de su arte, su proceso y una nueva colección que está por lanzar en @solana.",
+            "topics": [
+                "Arte",
+                "Unlock Summit",
+                "Solana",
+                "NFT",
+                "Marketing"
+            ],
             "status": "archived",
             "transcript_available": false,
             "content_generated": false,
-            "flyer_urls": [],
+            "flyer_urls": [
+                "../static/images/flyer_063.jpg"
+            ],
             "listeners": "107"
         },
         {
@@ -1684,13 +1749,20 @@
                 "juvenwho": "https://x.com/juvenwho",
                 "SherryProtocol": "https://x.com/SherryProtocol"
             },
-            "space_url": "",
-            "description": "BandaWeb3 #062 @juvenwho de @SherryProtocol",
-            "topics": [],
+            "space_url": "https://x.com/i/spaces/1mrGmPRBaBLKy?s=20",
+            "description": "BandaWeb3 #062 @juvenwho de @SherryProtocol. Juvenal nos cuenta sobre Sherry, un protocolo para convertir cualquier publicación en un app Web3 interactiva. El 6 de junio empieza su Minithon: 10 días, 3 tracks, $8k USD en premios.",
+            "topics": [
+                "Sherry Protocol",
+                "Web3 Apps",
+                "Minithon",
+                "Interactive Apps"
+            ],
             "status": "archived",
             "transcript_available": false,
             "content_generated": false,
-            "flyer_urls": [],
+            "flyer_urls": [
+                "../static/images/flyer_062.jpg"
+            ],
             "listeners": "41"
         },
         {
@@ -1706,13 +1778,22 @@
                 "monitalan": "https://x.com/monitalan",
                 "EmaCr1pto": "https://x.com/EmaCr1pto"
             },
-            "space_url": "",
-            "description": "BandaWeb3 #061 Infofi @monitalan @EmaCr1pto",
-            "topics": [],
+            "space_url": "https://x.com/i/spaces/1MYxNwjnnabKw?s=20",
+            "description": "BandaWeb3 #061 Infofi @monitalan @EmaCr1pto. Moni y Ema nos explican de la nueva tendencia llamada Infofi, platicaremos del nuevo programa de recompensas que lanzó @arbitrum con @KaitoAI para tener presencia en X. Likes/Reposts todo suma.",
+            "topics": [
+                "Infofi",
+                "Arbitrum",
+                "KaitoAI",
+                "Rewards Program",
+                "Social Media"
+            ],
             "status": "archived",
             "transcript_available": false,
             "content_generated": false,
-            "flyer_urls": [],
+            "flyer_urls": [
+                "../static/images/flyer_061.jpg",
+                "../static/images/flyer_061_2.jpg"
+            ],
             "listeners": "109"
         },
         {
@@ -1728,13 +1809,20 @@
                 "Trenchboyjaime": "https://x.com/Trenchboyjaime",
                 "LatamBlocks": "https://x.com/LatamBlocks"
             },
-            "space_url": "",
-            "description": "BandaWeb3 #060 @Trenchboyjaime de @LatamBlocks",
-            "topics": [],
+            "space_url": "https://x.com/i/spaces/1eaJbWqvWAexX?s=20",
+            "description": "BandaWeb3 #060 @Trenchboyjaime de @LatamBlocks. Jaime nos hablará sobre @LatamBlocks, una iniciativa que comienza hoy y busca ser la voz institucional de cripto en América Latina. Nos explicará por qué es un proyecto clave para la región.",
+            "topics": [
+                "LatamBlocks",
+                "Crypto Latam",
+                "Institutional Voice",
+                "Latin America"
+            ],
             "status": "archived",
             "transcript_available": false,
             "content_generated": false,
-            "flyer_urls": [],
+            "flyer_urls": [
+                "../static/images/flyer_060.jpg"
+            ],
             "listeners": "197"
         },
         {

@@ -647,3 +647,47 @@ body {
         background-color: #1a1a1a;
     }
 }
+
+/* Hosted/Co-hosted Pages - Square Grid Layout */
+.episodes-list .episodes-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.5rem;
+    margin-bottom: 4rem;
+}
+
+.episodes-list .card-image {
+    position: relative;
+    padding-top: 100%; /* Square aspect ratio */
+    background: linear-gradient(135deg, var(--primary), var(--secondary));
+    overflow: hidden;
+}
+
+.episodes-list .card-image img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: contain; /* Show full image without cropping */
+    background: var(--bg-light);
+}
+
+/* Responsive adjustments for hosted/co-hosted pages */
+@media (max-width: 1200px) {
+    .episodes-list .episodes-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media (max-width: 768px) {
+    .episodes-list .episodes-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 480px) {
+    .episodes-list .episodes-grid {
+        grid-template-columns: 1fr;
+    }
+}
