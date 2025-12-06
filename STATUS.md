@@ -7,11 +7,16 @@
 
 ## ✅ Componentes Instalados
 
-### Scripts Principales
+### Scripts Principales (AI Automation)
 - ✅ `scripts/auto_download_agent.py` - Agente de descarga automática con monitoreo de email
 - ✅ `scripts/transcribe_audio.py` - Transcripción con Whisper API
 - ✅ `scripts/generate_content.py` - Generación de contenido con Claude API
 - ✅ `scripts/process_episode.sh` - Orquestador todo-en-uno (ejecutable)
+
+### Scripts de Gestión de Datos (Co-hosted)
+- ✅ `scripts/import_co_hosted.py` - Ingestión de metadatos históricos
+- ✅ `scripts/update_listener_counts.py` - Actualización de métricas
+- ✅ `scripts/generate_website.py` - Generador de sitio estático (Jinja2)
 
 ### Configuración
 - ✅ `config/.env.example` - Template de configuración (incluye email settings)
@@ -164,7 +169,15 @@ python3 scripts/generate_content.py ../E075_2024-12-05 -t highlights
 3. **Próximamente:**
    - [ ] Configurar n8n workflows
    - [ ] Implementar auto-publicación
+   - [ ] Configurar n8n workflows
+   - [ ] Implementar auto-publicación
    - [ ] Generar video clips automáticamente
+
+4. **Completado Recientemente:**
+   - [x] Ingestión de lotes de Co-hosted Spaces (Batches 1-4)
+   - [x] Generación de sitio web estático con 301 episodios
+   - [x] Corrección de IDs duplicados por fecha
+   - [x] Migración a repositorio `mexiweb3/BandaWeb3`
 
 ---
 
