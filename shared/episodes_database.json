@@ -18,7 +18,7 @@
   "episodes": [
     {
       "number": "074",
-      "title": "Hackathon @ETHGlobal - EVVM Hackathon Track: $20,000 USD",
+      "title": "BandaWeb3 #074 Hackathon @ETHGlobal 🇦🇷 EVVM",
       "date": "2025-12-04",
       "space_url": "https://x.com/i/spaces/1MnGnPewjVjxO?s=20",
       "audio_url": "",
@@ -44,7 +44,8 @@
       "listeners": 573,
       "host": "@meximalist",
       "speakers": 9,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 573
     },
     {
       "number": "073",
@@ -74,7 +75,8 @@
       "listeners": 182,
       "host": "@meximalist",
       "speakers": 8,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 182
     },
     {
       "number": "20251103",
@@ -141,7 +143,7 @@
       "number": "071",
       "title": "BandaWeb3 #071 @Kalipssoh",
       "date": "2025-08-21",
-      "duration": "1:04:53",
+      "duration": "1:24:05",
       "guests": [
         "Kalipssoh"
       ],
@@ -160,7 +162,9 @@
       "listeners": 53,
       "type": "numbered",
       "host": "@meximalist",
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 102,
+      "speakers": 1
     },
     {
       "number": "070",
@@ -186,7 +190,8 @@
       "type": "numbered",
       "host": "@meximalist",
       "speakers": 1,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 79
     },
     {
       "number": "069",
@@ -217,11 +222,12 @@
       "type": "numbered",
       "host": "@meximalist",
       "speakers": 6,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 78
     },
     {
       "number": "068",
-      "title": "BandaWeb3 #068 AMA @donald_glonk",
+      "title": "BandaWeb3 #068 @donald_glonk",
       "date": "2025-07-31",
       "duration": "1:25:55",
       "guests": [
@@ -248,7 +254,8 @@
       "type": "numbered",
       "host": "@meximalist",
       "speakers": 4,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 52
     },
     {
       "number": "067",
@@ -275,11 +282,13 @@
       "listeners": 27,
       "type": "numbered",
       "host": "@meximalist",
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 27,
+      "speakers": 0
     },
     {
       "number": "066",
-      "title": "BandaWeb3 #066 @LaDAO_Club y @fruteroclub",
+      "title": "BandaWeb3 #066 @LaDAO_Club y @FruteroClub",
       "date": "2025-06-19",
       "duration": "1:24:58",
       "guests": [
@@ -310,7 +319,8 @@
       "type": "numbered",
       "host": "@meximalist",
       "speakers": 5,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 86
     },
     {
       "number": "065",
@@ -341,7 +351,8 @@
       "type": "numbered",
       "host": "@meximalist",
       "speakers": 2,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 67
     },
     {
       "number": "064",
@@ -372,11 +383,12 @@
       "type": "numbered",
       "host": "@meximalist",
       "speakers": 1,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 68
     },
     {
       "number": "063",
-      "title": "BandaWeb3 #063 @ByLuaambriz",
+      "title": "BandaWeb3 #063 @byluaambriz",
       "date": "2025-06-05",
       "duration": "1:43:37",
       "guests": [
@@ -404,7 +416,8 @@
       "type": "numbered",
       "host": "@meximalist",
       "speakers": 3,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 107
     },
     {
       "number": "062",
@@ -437,7 +450,8 @@
       "type": "numbered",
       "host": "@meximalist",
       "speakers": 1,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 41
     },
     {
       "number": "061",
@@ -472,7 +486,8 @@
       "type": "numbered",
       "host": "@meximalist",
       "speakers": 4,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 109
     },
     {
       "number": "060",
@@ -505,7 +520,8 @@
       "type": "numbered",
       "host": "@meximalist",
       "speakers": 2,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 197
     },
     {
       "number": "059",
@@ -1892,9 +1908,9 @@
     },
     {
       "number": "20241204",
-      "title": "Echoes of Frida: Reimaginando un Legado en Arte Generativo",
+      "title": "100K TODAY",
       "date": "2024-12-04",
-      "duration": "54m",
+      "duration": "2:33:35",
       "guests": [],
       "guest_links": {},
       "space_url": "",
@@ -1905,7 +1921,11 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": "71",
-      "type": "co-hosted"
+      "type": "co-hosted",
+      "live_listeners": 327,
+      "speakers": 19,
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "021",
@@ -3501,7 +3521,9 @@
       "listeners": 177,
       "host": "@meximalist",
       "speakers": 4,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 177,
+      "type": "hosted"
     },
     {
       "number": "20240123",
@@ -3520,7 +3542,9 @@
       "listeners": 78,
       "host": "@meximalist",
       "speakers": 2,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 78,
+      "type": "hosted"
     },
     {
       "number": "20240118",
@@ -3542,7 +3566,7 @@
     {
       "number": "20240116",
       "type": "hosted",
-      "title": "Banda Web3 - RetroPGF 3 @Optimism Ended",
+      "title": "Banda Web3 - RetroPGF 3 @Optimism",
       "date": "2024-01-16",
       "duration": "2:17:07",
       "listeners": 245,
@@ -3566,7 +3590,8 @@
         "Ethereum"
       ],
       "speakers": 12,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 245
     },
     {
       "number": "20240113",
@@ -3602,7 +3627,9 @@
       "listeners": 214,
       "host": "@meximalist",
       "speakers": 14,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 214,
+      "type": "hosted"
     },
     {
       "number": "20240111-2",
@@ -3659,7 +3686,9 @@
       "listeners": 201,
       "host": "@meximalist",
       "speakers": 4,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 201,
+      "type": "hosted"
     },
     {
       "number": "20240109-2",
@@ -3714,7 +3743,9 @@
       "listeners": 510,
       "host": "@meximalist",
       "speakers": 18,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 510,
+      "type": "hosted"
     },
     {
       "number": "20240104-2",
@@ -3750,7 +3781,9 @@
       "listeners": 237,
       "host": "@meximalist",
       "speakers": 18,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 237,
+      "type": "hosted"
     },
     {
       "number": "20231231",
@@ -3769,7 +3802,9 @@
       "listeners": 106,
       "host": "@meximalist",
       "speakers": 2,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 106,
+      "type": "hosted"
     },
     {
       "number": "20231230",
@@ -3788,7 +3823,9 @@
       "listeners": 281,
       "host": "@meximalist",
       "speakers": 10,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 281,
+      "type": "hosted"
     },
     {
       "number": "20231230-2",
@@ -3828,7 +3865,9 @@
       "listeners": 388,
       "host": "@meximalist",
       "speakers": 14,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 388,
+      "type": "hosted"
     },
     {
       "number": "20231228-2",
@@ -3849,7 +3888,7 @@
     },
     {
       "number": "20231227",
-      "title": "XRC20 - Solscriptions - Ethscriptions - Todo el Alpha",
+      "title": "XRC20 $MEXI",
       "date": "2023-12-27",
       "duration": "45:57",
       "guests": [],
@@ -3864,7 +3903,9 @@
       "listeners": 79,
       "host": "@meximalist",
       "speakers": 8,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 79,
+      "type": "hosted"
     },
     {
       "number": "20231227-S7",
@@ -3905,7 +3946,9 @@
       "listeners": 252,
       "host": "@meximalist",
       "speakers": 10,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 252,
+      "type": "hosted"
     },
     {
       "number": "20231223",
@@ -3941,7 +3984,9 @@
       "listeners": 86,
       "host": "@meximalist",
       "speakers": 3,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 86,
+      "type": "hosted"
     },
     {
       "number": "20231221-2",
@@ -3981,7 +4026,9 @@
       "listeners": 233,
       "host": "@meximalist",
       "speakers": 10,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 233,
+      "type": "hosted"
     },
     {
       "number": "20231217",
@@ -4034,11 +4081,13 @@
       "listeners": 155,
       "host": "@meximalist",
       "speakers": 13,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 155,
+      "type": "hosted"
     },
     {
       "number": "20231212",
-      "title": "Banda Web3 - Estado del mercado con @granmetanoia y @deLarg0",
+      "title": "Banda Web3 - 2023/2024 con @granmetanoia y @deLarg0",
       "date": "2023-12-12",
       "duration": "1:43:08",
       "guests": [
@@ -4059,7 +4108,9 @@
       "listeners": 164,
       "host": "@meximalist",
       "speakers": 7,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 164,
+      "type": "hosted"
     },
     {
       "number": "20231211",
@@ -4112,7 +4163,9 @@
       "listeners": 99,
       "host": "@meximalist",
       "speakers": 2,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 99,
+      "type": "hosted"
     },
     {
       "number": "20231207-2",
@@ -4152,7 +4205,9 @@
       "listeners": 155,
       "host": "@meximalist",
       "speakers": 4,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 155,
+      "type": "hosted"
     },
     {
       "number": "20231204",
@@ -4192,7 +4247,9 @@
       "listeners": 181,
       "host": "@meximalist",
       "speakers": 10,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 181,
+      "type": "hosted"
     },
     {
       "number": "20231129",
@@ -4234,7 +4291,9 @@
       "listeners": 171,
       "host": "@meximalist",
       "speakers": 7,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 171,
+      "type": "hosted"
     },
     {
       "number": "20231128-2",
@@ -4289,7 +4348,9 @@
       "listeners": 117,
       "host": "@meximalist",
       "speakers": 9,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 117,
+      "type": "hosted"
     },
     {
       "number": "20231123-2",
@@ -4329,7 +4390,9 @@
       "listeners": 354,
       "host": "@meximalist",
       "speakers": 18,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 354,
+      "type": "hosted"
     },
     {
       "number": "20231120",
@@ -4369,7 +4432,9 @@
       "listeners": 142,
       "host": "@meximalist",
       "speakers": 3,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 142,
+      "type": "hosted"
     },
     {
       "number": "20231114",
@@ -4392,7 +4457,9 @@
       "listeners": 137,
       "host": "@meximalist",
       "speakers": 8,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 137,
+      "type": "hosted"
     },
     {
       "number": "20231114-2",
@@ -4432,7 +4499,9 @@
       "listeners": 173,
       "host": "@meximalist",
       "speakers": 7,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 173,
+      "type": "hosted"
     },
     {
       "number": "20231107",
@@ -4457,7 +4526,9 @@
       "listeners": 330,
       "host": "@meximalist",
       "speakers": 9,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 330,
+      "type": "hosted"
     },
     {
       "number": "20231107-2",
@@ -4519,7 +4590,9 @@
       "listeners": 855,
       "host": "@meximalist",
       "speakers": 17,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 855,
+      "type": "hosted"
     },
     {
       "number": "20231101",
@@ -4555,7 +4628,9 @@
       "listeners": 188,
       "host": "@meximalist",
       "speakers": 9,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 188,
+      "type": "hosted"
     },
     {
       "number": "20231031-2",
@@ -4608,7 +4683,9 @@
       "listeners": 299,
       "host": "@meximalist",
       "speakers": 14,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 299,
+      "type": "hosted"
     },
     {
       "number": "20231017",
@@ -4649,7 +4726,9 @@
       "listeners": 85,
       "host": "@meximalist",
       "speakers": 6,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 85,
+      "type": "hosted"
     },
     {
       "number": "20230928",
@@ -4689,7 +4768,9 @@
       "listeners": 131,
       "host": "@meximalist",
       "speakers": 7,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 131,
+      "type": "hosted"
     },
     {
       "number": "20230918",
@@ -4725,7 +4806,9 @@
       "listeners": 346,
       "host": "@meximalist",
       "speakers": 16,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 346,
+      "type": "hosted"
     },
     {
       "number": "20230911",
@@ -4781,7 +4864,9 @@
       "listeners": 207,
       "host": "@meximalist",
       "speakers": 7,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 207,
+      "type": "hosted"
     },
     {
       "number": "20230831",
@@ -4800,7 +4885,9 @@
       "listeners": 166,
       "host": "@meximalist",
       "speakers": 7,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 166,
+      "type": "hosted"
     },
     {
       "number": "20230829",
@@ -4819,7 +4906,9 @@
       "listeners": 60,
       "host": "@meximalist",
       "speakers": 4,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 60,
+      "type": "hosted"
     },
     {
       "number": "20230825",
@@ -4863,7 +4952,9 @@
       "listeners": 81,
       "host": "@meximalist",
       "speakers": 5,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 81,
+      "type": "hosted"
     },
     {
       "number": "20230824-2",
@@ -4916,7 +5007,9 @@
       "listeners": 348,
       "host": "@meximalist",
       "speakers": 30,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 348,
+      "type": "hosted"
     },
     {
       "number": "20230812",
@@ -4952,7 +5045,9 @@
       "listeners": 77,
       "host": "@meximalist",
       "speakers": 9,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 77,
+      "type": "hosted"
     },
     {
       "number": "20230808",
@@ -4975,7 +5070,9 @@
       "listeners": 505,
       "host": "@meximalist",
       "speakers": 13,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 505,
+      "type": "hosted"
     },
     {
       "number": "20230803",
@@ -5010,7 +5107,9 @@
       "listeners": 115,
       "host": "@meximalist",
       "speakers": 7,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 115,
+      "type": "hosted"
     },
     {
       "number": "20230727",
@@ -5029,13 +5128,15 @@
       "listeners": 244,
       "host": "@meximalist",
       "speakers": 14,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 244,
+      "type": "hosted"
     },
     {
       "number": "20230725",
-      "title": "Open Mic - Parte 2 - 69 segundos para shillear lo que sea",
+      "title": "Open Mic - 69 segundos para shillear lo que sea",
       "date": "2023-07-25",
-      "duration": "1:16:51",
+      "duration": "59:25",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1BdGYyrpoyvGX",
@@ -5047,8 +5148,10 @@
       "flyer_urls": [],
       "listeners": 101,
       "host": "@meximalist",
-      "speakers": 14,
-      "analytics_source": "X Spaces Analytics"
+      "speakers": 16,
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 213,
+      "type": "hosted"
     },
     {
       "number": "20230725-S7",
@@ -5100,7 +5203,9 @@
       "listeners": 197,
       "host": "@meximalist",
       "speakers": 7,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 197,
+      "type": "hosted"
     },
     {
       "number": "20230706",
@@ -5119,7 +5224,9 @@
       "listeners": 122,
       "host": "@meximalist",
       "speakers": 6,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 122,
+      "type": "hosted"
     },
     {
       "number": "20230706-2",
@@ -5155,7 +5262,9 @@
       "listeners": 286,
       "host": "@meximalist",
       "speakers": 21,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 286,
+      "type": "hosted"
     },
     {
       "number": "20230622",
@@ -5193,7 +5302,9 @@
       "listeners": 289,
       "host": "@meximalist",
       "speakers": 17,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 289,
+      "type": "hosted"
     },
     {
       "number": "20230613",
@@ -5212,7 +5323,9 @@
       "listeners": 241,
       "host": "@meximalist",
       "speakers": 7,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 241,
+      "type": "hosted"
     },
     {
       "number": "20230608",
@@ -5231,7 +5344,9 @@
       "listeners": 121,
       "host": "@meximalist",
       "speakers": 3,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 121,
+      "type": "hosted"
     },
     {
       "number": "20230606",
@@ -5250,7 +5365,9 @@
       "listeners": 439,
       "host": "@meximalist",
       "speakers": 18,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 439,
+      "type": "hosted"
     },
     {
       "number": "20230602",
@@ -5288,7 +5405,9 @@
       "listeners": 144,
       "host": "@meximalist",
       "speakers": 9,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 144,
+      "type": "hosted"
     },
     {
       "number": "20230530",
@@ -5323,11 +5442,13 @@
       "listeners": 470,
       "host": "@meximalist",
       "speakers": 2,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 470,
+      "type": "hosted"
     },
     {
       "number": "20230518",
-      "title": "La Abogada, el Economista y El Ingeniero - NFT Show México Mty",
+      "title": "La Abogada, el Economista y el Ingeniero - El Artículo de $PEPE",
       "date": "2023-05-18",
       "duration": "1:50:41",
       "guests": [],
@@ -5342,7 +5463,9 @@
       "listeners": 355,
       "host": "@meximalist",
       "speakers": 20,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 355,
+      "type": "hosted"
     },
     {
       "number": "20230517",
@@ -5361,7 +5484,9 @@
       "listeners": 121,
       "host": "@meximalist",
       "speakers": 3,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 121,
+      "type": "hosted"
     },
     {
       "number": "20230516",
@@ -5401,9 +5526,9 @@
     },
     {
       "number": "20230509",
-      "title": "El Gorila, el Economista y el Ingeniero - TulumCryptoFest/ Eventos Mty",
+      "title": "El Gorila, el Economista y el Ingeniero - Tulum Crypto Fest",
       "date": "2023-05-09",
-      "duration": "2h 16m",
+      "duration": "59:59",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1yNGaNvDpqqJj",
@@ -5413,7 +5538,12 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "104"
+      "listeners": "104",
+      "live_listeners": 151,
+      "speakers": 3,
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "type": "hosted"
     },
     {
       "number": "20230502",
@@ -5432,7 +5562,9 @@
       "listeners": 177,
       "host": "@meximalist",
       "speakers": 10,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 177,
+      "type": "hosted"
     },
     {
       "number": "20230429",
@@ -5468,7 +5600,9 @@
       "listeners": 182,
       "host": "@meximalist",
       "speakers": 9,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 182,
+      "type": "hosted"
     },
     {
       "number": "20230425",
@@ -5487,7 +5621,9 @@
       "listeners": 393,
       "host": "@meximalist",
       "speakers": 20,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 393,
+      "type": "hosted"
     },
     {
       "number": "20230423",
@@ -5523,7 +5659,9 @@
       "listeners": 192,
       "host": "@meximalist",
       "speakers": 7,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 192,
+      "type": "hosted"
     },
     {
       "number": "20230418",
@@ -5542,7 +5680,9 @@
       "listeners": 307,
       "host": "@meximalist",
       "speakers": 15,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 307,
+      "type": "hosted"
     },
     {
       "number": "20230411",
@@ -5561,7 +5701,9 @@
       "listeners": 2502,
       "host": "@meximalist",
       "speakers": 13,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 2502,
+      "type": "hosted"
     },
     {
       "number": "20230330",
@@ -5580,7 +5722,9 @@
       "listeners": 112,
       "host": "@meximalist",
       "speakers": 7,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 112,
+      "type": "hosted"
     },
     {
       "number": "20230328",
@@ -5616,7 +5760,9 @@
       "listeners": 176,
       "host": "@meximalist",
       "speakers": 10,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 176,
+      "type": "hosted"
     },
     {
       "number": "20230314",
@@ -5635,7 +5781,9 @@
       "listeners": 383,
       "host": "@meximalist",
       "speakers": 11,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 383,
+      "type": "hosted"
     },
     {
       "number": "20230313",
@@ -5688,7 +5836,9 @@
       "listeners": 225,
       "host": "@meximalist",
       "speakers": 8,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 225,
+      "type": "hosted"
     },
     {
       "number": "20230307",
@@ -5707,7 +5857,9 @@
       "listeners": 81,
       "host": "@meximalist",
       "speakers": 5,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 81,
+      "type": "hosted"
     },
     {
       "number": "20230306",
@@ -5781,7 +5933,9 @@
       "listeners": 362,
       "host": "@meximalist",
       "speakers": 23,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 362,
+      "type": "hosted"
     },
     {
       "number": "20230228",
@@ -5804,7 +5958,9 @@
       "listeners": 540,
       "host": "@meximalist",
       "speakers": 29,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 540,
+      "type": "hosted"
     },
     {
       "number": "20230223",
@@ -5823,7 +5979,9 @@
       "listeners": 154,
       "host": "@meximalist",
       "speakers": 8,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 154,
+      "type": "hosted"
     },
     {
       "number": "20230221",
@@ -5842,7 +6000,9 @@
       "listeners": 116,
       "host": "@meximalist",
       "speakers": 2,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 116,
+      "type": "hosted"
     },
     {
       "number": "20230216",
@@ -5861,7 +6021,9 @@
       "listeners": 115,
       "host": "@meximalist",
       "speakers": 6,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 115,
+      "type": "hosted"
     },
     {
       "number": "20230214",
@@ -5880,7 +6042,9 @@
       "listeners": 75,
       "host": "@meximalist",
       "speakers": 6,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 75,
+      "type": "hosted"
     },
     {
       "number": "20230213",
@@ -6003,9 +6167,9 @@
     },
     {
       "number": "20230209",
-      "title": "Ordinals, Digital Artifacts en Bitcoin (NFTs en Bitcoin) Español",
+      "title": "La Abogada, el Economista y el Ingeniero",
       "date": "2023-02-09",
-      "duration": "1h 35m",
+      "duration": "1:59:41",
       "guests": [],
       "guest_links": {},
       "space_url": "",
@@ -6016,7 +6180,11 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": "86",
-      "type": "co-hosted"
+      "type": "co-hosted",
+      "live_listeners": 241,
+      "speakers": 15,
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230207",
@@ -6050,7 +6218,9 @@
       "listeners": 175,
       "host": "@meximalist",
       "speakers": 16,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 175,
+      "type": "hosted"
     },
     {
       "number": "20230131",
@@ -6069,7 +6239,9 @@
       "listeners": 340,
       "host": "@meximalist",
       "speakers": 16,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 340,
+      "type": "hosted"
     },
     {
       "number": "20230128",
@@ -6139,7 +6311,9 @@
       "listeners": 68,
       "host": "@meximalist",
       "speakers": 4,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 68,
+      "type": "hosted"
     },
     {
       "number": "20230121",
@@ -6174,7 +6348,9 @@
       "listeners": 137,
       "host": "@meximalist",
       "speakers": 7,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 137,
+      "type": "hosted"
     },
     {
       "number": "20230117",
@@ -6193,7 +6369,9 @@
       "listeners": 169,
       "host": "@meximalist",
       "speakers": 9,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 169,
+      "type": "hosted"
     },
     {
       "number": "20230112",
@@ -6212,13 +6390,15 @@
       "listeners": 130,
       "host": "@meximalist",
       "speakers": 7,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 130,
+      "type": "hosted"
     },
     {
       "number": "20230110",
-      "title": "CriptoMaza 2023 de @ExponencialCC 13-15 Enero",
+      "title": "El economista y el ingeniero - ¿Buenas noticias en los mercados?",
       "date": "2023-01-10",
-      "duration": "55m",
+      "duration": "1:45:18",
       "guests": [
         "ExponencialCC"
       ],
@@ -6232,7 +6412,12 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "60"
+      "listeners": "60",
+      "live_listeners": 156,
+      "speakers": 9,
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "type": "hosted"
     },
     {
       "number": "20230110-S7",
@@ -6255,9 +6440,9 @@
     },
     {
       "number": "20230109",
-      "title": "Nada puede malir sal - web3 español",
+      "title": "CriptoMaza 2023 de @ExponencialCC 13-15 Enero",
       "date": "2023-01-09",
-      "duration": "1h 22m",
+      "duration": "55:58",
       "guests": [],
       "guest_links": {},
       "space_url": "",
@@ -6268,7 +6453,11 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": "53",
-      "type": "co-hosted"
+      "type": "co-hosted",
+      "live_listeners": 79,
+      "speakers": 8,
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230105",
@@ -6287,7 +6476,9 @@
       "listeners": 119,
       "host": "@meximalist",
       "speakers": 9,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 119,
+      "type": "hosted"
     },
     {
       "number": "20230103",
@@ -6306,7 +6497,9 @@
       "listeners": 74,
       "host": "@meximalist",
       "speakers": 8,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 74,
+      "type": "hosted"
     },
     {
       "number": "20221229",
@@ -6359,7 +6552,9 @@
       "listeners": 104,
       "host": "@meximalist",
       "speakers": 7,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 104,
+      "type": "hosted"
     },
     {
       "number": "20221222-S7",
@@ -6398,7 +6593,9 @@
       "listeners": 192,
       "host": "@meximalist",
       "speakers": 19,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 192,
+      "type": "hosted"
     },
     {
       "number": "20221220-2",
@@ -6434,7 +6631,9 @@
       "listeners": 47,
       "host": "@meximalist",
       "speakers": 4,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 47,
+      "type": "hosted"
     },
     {
       "number": "20221215",
@@ -6457,7 +6656,9 @@
       "listeners": 60,
       "host": "@meximalist",
       "speakers": 6,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 60,
+      "type": "hosted"
     },
     {
       "number": "20221215-S7",
@@ -6496,7 +6697,9 @@
       "listeners": 131,
       "host": "@meximalist",
       "speakers": 13,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 131,
+      "type": "hosted"
     },
     {
       "number": "20221210",
@@ -6552,7 +6755,9 @@
       "listeners": 95,
       "host": "@meximalist",
       "speakers": 7,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 95,
+      "type": "hosted"
     },
     {
       "number": "20221201",
@@ -6571,7 +6776,9 @@
       "listeners": 54,
       "host": "@meximalist",
       "speakers": 5,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 54,
+      "type": "hosted"
     },
     {
       "number": "20221129",
@@ -6590,7 +6797,9 @@
       "listeners": 94,
       "host": "@meximalist",
       "speakers": 7,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 94,
+      "type": "hosted"
     },
     {
       "number": "20221128",
@@ -6660,13 +6869,15 @@
       "listeners": 57,
       "host": "@meximalist",
       "speakers": 6,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 57,
+      "type": "hosted"
     },
     {
       "number": "20221122",
-      "title": "Previo al evento en Monterrey de @MarcusDantusNFT",
+      "title": "El economista y el ingeniero Ep04",
       "date": "2022-11-22",
-      "duration": "1:20:28",
+      "duration": "1:51:27",
       "guests": [
         "MarcusDantusNFT"
       ],
@@ -6683,7 +6894,9 @@
       "listeners": 113,
       "host": "@meximalist",
       "speakers": 9,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 121,
+      "type": "hosted"
     },
     {
       "number": "20221122-S7",
@@ -6738,7 +6951,9 @@
       "listeners": 74,
       "host": "@meximalist",
       "speakers": 4,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 74,
+      "type": "hosted"
     },
     {
       "number": "20221117-2",
@@ -6761,7 +6976,7 @@
       "number": "20221115",
       "title": "El economista y el ingeniero Ep02",
       "date": "2022-11-15",
-      "duration": "1:46:10",
+      "duration": "7:11",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1yoJMZgAeBwxQ",
@@ -6773,8 +6988,10 @@
       "flyer_urls": [],
       "listeners": 104,
       "host": "@meximalist",
-      "speakers": 11,
-      "analytics_source": "X Spaces Analytics"
+      "speakers": 4,
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 19,
+      "type": "hosted"
     },
     {
       "number": "20221114",
@@ -6843,7 +7060,9 @@
       "listeners": 164,
       "host": "@meximalist",
       "speakers": 14,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 164,
+      "type": "hosted"
     },
     {
       "number": "20221110-2",
@@ -6970,7 +7189,9 @@
       "listeners": 146,
       "host": "@meximalist",
       "speakers": 1,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 146,
+      "type": "hosted"
     },
     {
       "number": "20221025",
@@ -7093,7 +7314,9 @@
       "listeners": 153,
       "host": "@meximalist",
       "speakers": 10,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 153,
+      "type": "hosted"
     },
     {
       "number": "20220928",
@@ -7252,7 +7475,9 @@
       "listeners": 135,
       "host": "@meximalist",
       "speakers": 6,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 135,
+      "type": "hosted"
     },
     {
       "number": "20220728",
@@ -7288,7 +7513,9 @@
       "listeners": 147,
       "host": "@meximalist",
       "speakers": 10,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 147,
+      "type": "hosted"
     },
     {
       "number": "20220707",
@@ -7313,7 +7540,9 @@
       "listeners": 249,
       "host": "@meximalist",
       "speakers": 14,
-      "analytics_source": "X Spaces Analytics"
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 249,
+      "type": "hosted"
     },
     {
       "number": "20220630",
