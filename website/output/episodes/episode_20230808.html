@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>#{ep['number']} - {ep['title']}</title>
+    <title>#20230808 - Mujeres en Web3 - Charla en las Naciones Unidas - Gracias @sandym_c</title>
     <link rel="stylesheet" href="../static/style.css">
 </head>
 <body>
@@ -29,49 +29,51 @@
         <div class="container">
             <article class="episode-full">
                 <header class="episode-header">
-                    <span class="episode-number-large">#{ep['number']}</span>
-                    <h1 class="episode-title-large">{ep['title']}</h1>
+                    <span class="episode-number-large">#20230808</span>
+                    <h1 class="episode-title-large">Mujeres en Web3 - Charla en las Naciones Unidas - Gracias @sandym_c</h1>
                     <div class="episode-meta">
-                        {f'<span class="status-badge cohosted" style="margin-right: 15px;">🤝 Co-Hosted</span>' if ep.get("type") == "co-hosted" else ""}
-                        <span>📅 {ep['date']}</span>
-                        <span>⏱ {ep['duration'].replace("Duration: ", "") if ep.get('duration') else ""}</span>
-                        {f'<span>🎧 {ep["listeners"]}</span>' if ep.get("listeners") else ""}
-                        <span>👥 {', '.join(ep['guests'])}</span>
+                        
+                        <span>📅 2023-08-08</span>
+                        <span>⏱ 2h 00m</span>
+                        <span>🎧 198</span>
+                        
+                        
+                        <span>👥 sandym_c</span>
                     </div>
                 </header>
                 
                 <div class="episode-content">
-                    {flyers_section}
+                    
                     
                     <div class="description">
                         <h3>Sobre este episodio</h3>
-                        <p>{ep['description']}</p>
+                        <p>Mujeres en Web3 - Charla en las Naciones Unidas - Gracias @sandym_c</p>
                     </div>
                     
                     <div class="topics">
                         <h3>Temas</h3>
                         <div class="card-topics">
-                            {''.join([f'<span class="topic-tag-small">{t}</span>' for t in ep['topics']])}
+                            
                         </div>
                     </div>
 
                     <div class="links">
                         <h3>Enlaces</h3>
-                        {f'<a href="{ep["space_url"]}" target="_blank" class="button">Ver en X (Twitter)</a>' if ep.get("space_url") else ""}
+                        <a href="https://x.com/i/spaces/1lPKqBOPjqEGb" target="_blank" class="button">Ver en X (Twitter)</a>
                         
-                        {f'<a href="{ep["instagram_url"]}" target="_blank" class="button" style="background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); color: white; margin-left: 10px;">Ver en Instagram</a>' if ep.get("instagram_url") else ""}
                         
-                        {f'<a href="{ep["arena_url"]}" target="_blank" class="button" style="background-color: #000000; margin-left: 10px;">Ver en Arena</a>' if ep.get("arena_url") else ""}
                         
-                        {f'<a href="{ep["unlock_url"]}" target="_blank" class="button" style="background-color: #ff6b6b; margin-left: 10px;">Claim Unlock</a>' if ep.get("unlock_url") else ""}
+                        
+                        
+                        
 
-                        {f'<a href="{ep["arbiscan_url"]}" target="_blank" class="button" style="background-color: #28A0F0; margin-left: 10px;">Ver en Arbiscan</a>' if ep.get("arbiscan_url") else ""}
-
-                        {f'<a href="{ep["snowtrace_url"]}" target="_blank" class="button" style="background-color: #E84142; margin-left: 10px;">Ver en Snowtrace</a>' if ep.get("snowtrace_url") else ""}
-
-                        {f'<a href="{ep["opensea_url"]}" target="_blank" class="button" style="background-color: #2081e2; margin-left: 10px;">OpenSea Collection</a>' if ep.get("opensea_url") else ""}
                         
-                        {f'<a href="{ep["contract_url"]}" target="_blank" class="button" style="background-color: #3498db; margin-left: 10px;">Contract (Arbiscan)</a>' if ep.get("contract_url") else ""}
+
+                        
+
+                        
+                        
+                        
                     </div>
                 </div>
             </article>
