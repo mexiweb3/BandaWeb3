@@ -364,9 +364,9 @@ def generate_subpage(output_dir, filename, title, subtitle, episodes_list):
                             {flyer_html}
                             <div class="card-header">
                                 <span class="episode-number">#{ep['number']}</span>
-                                {f'<span class="status-badge cohosted" style="margin-left: 10px; font-size: 0.8em; padding: 2px 8px;">🤝 Co-Hosted</span>' if ep.get("type") == "co-hosted" else ""}
-                                {f'<span class="status-badge" style="margin-left: 10px; font-size: 0.7em; padding: 2px 6px; background-color: #1DA1F2; color: white;">📊 Analytics</span>' if ep.get("analytics_source") else ""}
-                                {f'<span class="status-badge" style="margin-left: 10px; font-size: 0.7em; padding: 2px 6px; background-color: #000000; color: white;">🔗 Space</span>' if ep.get("space_url") else ""}
+                                {f'<span class="status-badge cohosted" style="margin-left: 10px; font-size: 0.9em; padding: 2px 8px;" title="Co-Hosted">🤝</span>' if ep.get("type") == "co-hosted" else ""}
+                                {f'<span class="status-badge" style="margin-left: 10px; font-size: 0.9em; padding: 2px 6px; background-color: #1DA1F2; color: white;" title="X Spaces Analytics">📊</span>' if ep.get("analytics_source") else ""}
+                                {f'<span class="status-badge" style="margin-left: 10px; font-size: 0.9em; padding: 2px 6px; background-color: #000000; color: white;" title="Space Link Available">🔗</span>' if ep.get("space_url") else ""}
                                 <span class="episode-date">{ep['date']}</span>
                                 {f'<span class="episode-listeners" style="margin-left: 10px; font-size: 0.9em; color: #666;">🎧 {ep["listeners"]}</span>' if ep.get("listeners") else ""}
                             </div>
