@@ -372,6 +372,8 @@ def generate_subpage(output_dir, filename, title, subtitle, episodes_list):
                             </div>
                             <h2 class="card-title">{ep['title']}</h2>
                             <p class="card-description">{ep['description'][:150]}...</p>
+                            {f'<p style="font-size: 0.85em; color: #666; margin: 5px 0;">🎤 Host: {ep["host"]}</p>' if ep.get("host") else ""}
+                            {f'<p style="font-size: 0.85em; color: #666; margin: 5px 0;">🤝 Co-Hosts: {", ".join(ep["cohosts"])}</p>' if ep.get("cohosts") else ""}
                             <div class="card-topics">
                                 {''.join([f'<span class="topic-tag-small">{t}</span>' for t in ep['topics'][:3]])}
                             </div>
