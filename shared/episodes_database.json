@@ -43,7 +43,8 @@
       "type": "numbered",
       "listeners": 573,
       "host": "@meximalist",
-      "speakers": 9
+      "speakers": 9,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "073",
@@ -72,7 +73,8 @@
       "type": "numbered",
       "listeners": 182,
       "host": "@meximalist",
-      "speakers": 8
+      "speakers": 8,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20251103",
@@ -154,7 +156,8 @@
       ],
       "listeners": 53,
       "type": "numbered",
-      "host": "@meximalist"
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "070",
@@ -179,7 +182,8 @@
       "listeners": 79,
       "type": "numbered",
       "host": "@meximalist",
-      "speakers": 1
+      "speakers": 1,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "069",
@@ -209,7 +213,8 @@
       "listeners": 78,
       "type": "numbered",
       "host": "@meximalist",
-      "speakers": 6
+      "speakers": 6,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "068",
@@ -239,7 +244,8 @@
       "listeners": 52,
       "type": "numbered",
       "host": "@meximalist",
-      "speakers": 4
+      "speakers": 4,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "067",
@@ -265,7 +271,8 @@
       ],
       "listeners": 27,
       "type": "numbered",
-      "host": "@meximalist"
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "066",
@@ -299,7 +306,8 @@
       "listeners": 86,
       "type": "numbered",
       "host": "@meximalist",
-      "speakers": 5
+      "speakers": 5,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "065",
@@ -329,7 +337,8 @@
       "listeners": 67,
       "type": "numbered",
       "host": "@meximalist",
-      "speakers": 2
+      "speakers": 2,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "064",
@@ -359,7 +368,8 @@
       "listeners": 68,
       "type": "numbered",
       "host": "@meximalist",
-      "speakers": 1
+      "speakers": 1,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "063",
@@ -390,7 +400,8 @@
       "listeners": 107,
       "type": "numbered",
       "host": "@meximalist",
-      "speakers": 3
+      "speakers": 3,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "062",
@@ -422,7 +433,8 @@
       "listeners": 41,
       "type": "numbered",
       "host": "@meximalist",
-      "speakers": 1
+      "speakers": 1,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "061",
@@ -456,7 +468,8 @@
       "listeners": 109,
       "type": "numbered",
       "host": "@meximalist",
-      "speakers": 4
+      "speakers": 4,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "060",
@@ -488,7 +501,8 @@
       "listeners": 197,
       "type": "numbered",
       "host": "@meximalist",
-      "speakers": 2
+      "speakers": 2,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "059",
@@ -2468,7 +2482,8 @@
       "flyer_urls": [],
       "listeners": 177,
       "host": "@meximalist",
-      "speakers": 4
+      "speakers": 4,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20240123",
@@ -2486,7 +2501,8 @@
       "flyer_urls": [],
       "listeners": 78,
       "host": "@meximalist",
-      "speakers": 2
+      "speakers": 2,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20240118",
@@ -2531,7 +2547,8 @@
         "mpDAO",
         "Ethereum"
       ],
-      "speakers": 12
+      "speakers": 12,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20240113",
@@ -2566,7 +2583,8 @@
       "flyer_urls": [],
       "listeners": 214,
       "host": "@meximalist",
-      "speakers": 14
+      "speakers": 14,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20240111-2",
@@ -2622,7 +2640,8 @@
       "flyer_urls": [],
       "listeners": 201,
       "host": "@meximalist",
-      "speakers": 4
+      "speakers": 4,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20240109-2",
@@ -2676,7 +2695,8 @@
       "flyer_urls": [],
       "listeners": 510,
       "host": "@meximalist",
-      "speakers": 18
+      "speakers": 18,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20240104-2",
@@ -2711,7 +2731,8 @@
       "flyer_urls": [],
       "listeners": 237,
       "host": "@meximalist",
-      "speakers": 18
+      "speakers": 18,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20231231",
@@ -2729,7 +2750,8 @@
       "flyer_urls": [],
       "listeners": 106,
       "host": "@meximalist",
-      "speakers": 2
+      "speakers": 2,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20231230",
@@ -2747,7 +2769,8 @@
       "flyer_urls": [],
       "listeners": 281,
       "host": "@meximalist",
-      "speakers": 10
+      "speakers": 10,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20231230-2",
@@ -2786,7 +2809,8 @@
       "flyer_urls": [],
       "listeners": 388,
       "host": "@meximalist",
-      "speakers": 14
+      "speakers": 14,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20231228-2",
@@ -2821,7 +2845,8 @@
       "flyer_urls": [],
       "listeners": 79,
       "host": "@meximalist",
-      "speakers": 8
+      "speakers": 8,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20231227-S7",
@@ -2861,7 +2886,8 @@
       "flyer_urls": [],
       "listeners": 252,
       "host": "@meximalist",
-      "speakers": 10
+      "speakers": 10,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20231223",
@@ -2896,7 +2922,8 @@
       "flyer_urls": [],
       "listeners": 86,
       "host": "@meximalist",
-      "speakers": 3
+      "speakers": 3,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20231221-2",
@@ -2935,7 +2962,8 @@
       "flyer_urls": [],
       "listeners": 233,
       "host": "@meximalist",
-      "speakers": 10
+      "speakers": 10,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20231217",
@@ -2987,7 +3015,8 @@
       "flyer_urls": [],
       "listeners": 155,
       "host": "@meximalist",
-      "speakers": 13
+      "speakers": 13,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20231212",
@@ -3011,7 +3040,8 @@
       "flyer_urls": [],
       "listeners": 164,
       "host": "@meximalist",
-      "speakers": 7
+      "speakers": 7,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20231211",
@@ -3063,7 +3093,8 @@
       "flyer_urls": [],
       "listeners": 99,
       "host": "@meximalist",
-      "speakers": 2
+      "speakers": 2,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20231207-2",
@@ -3102,7 +3133,8 @@
       "flyer_urls": [],
       "listeners": 155,
       "host": "@meximalist",
-      "speakers": 4
+      "speakers": 4,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20231204",
@@ -3141,7 +3173,8 @@
       "flyer_urls": [],
       "listeners": 181,
       "host": "@meximalist",
-      "speakers": 10
+      "speakers": 10,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20231129",
@@ -3182,7 +3215,8 @@
       "flyer_urls": [],
       "listeners": 171,
       "host": "@meximalist",
-      "speakers": 7
+      "speakers": 7,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20231128-2",
@@ -3236,7 +3270,8 @@
       "flyer_urls": [],
       "listeners": 117,
       "host": "@meximalist",
-      "speakers": 9
+      "speakers": 9,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20231123-2",
@@ -3275,7 +3310,8 @@
       "flyer_urls": [],
       "listeners": 354,
       "host": "@meximalist",
-      "speakers": 18
+      "speakers": 18,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20231120",
@@ -3314,7 +3350,8 @@
       "flyer_urls": [],
       "listeners": 142,
       "host": "@meximalist",
-      "speakers": 3
+      "speakers": 3,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20231114",
@@ -3336,7 +3373,8 @@
       "flyer_urls": [],
       "listeners": 137,
       "host": "@meximalist",
-      "speakers": 8
+      "speakers": 8,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20231114-2",
@@ -3375,7 +3413,8 @@
       "flyer_urls": [],
       "listeners": 173,
       "host": "@meximalist",
-      "speakers": 7
+      "speakers": 7,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20231107",
@@ -3399,7 +3438,8 @@
       "flyer_urls": [],
       "listeners": 330,
       "host": "@meximalist",
-      "speakers": 9
+      "speakers": 9,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20231107-2",
@@ -3460,7 +3500,8 @@
       "flyer_urls": [],
       "listeners": 855,
       "host": "@meximalist",
-      "speakers": 17
+      "speakers": 17,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20231101",
@@ -3495,7 +3536,8 @@
       "flyer_urls": [],
       "listeners": 188,
       "host": "@meximalist",
-      "speakers": 9
+      "speakers": 9,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20231031-2",
@@ -3547,7 +3589,8 @@
       "flyer_urls": [],
       "listeners": 299,
       "host": "@meximalist",
-      "speakers": 14
+      "speakers": 14,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20231017",
@@ -3587,7 +3630,8 @@
       "flyer_urls": [],
       "listeners": 85,
       "host": "@meximalist",
-      "speakers": 6
+      "speakers": 6,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230928",
@@ -3626,7 +3670,8 @@
       "flyer_urls": [],
       "listeners": 131,
       "host": "@meximalist",
-      "speakers": 7
+      "speakers": 7,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230918",
@@ -3661,7 +3706,8 @@
       "flyer_urls": [],
       "listeners": 346,
       "host": "@meximalist",
-      "speakers": 16
+      "speakers": 16,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230911",
@@ -3716,7 +3762,8 @@
       "flyer_urls": [],
       "listeners": 207,
       "host": "@meximalist",
-      "speakers": 7
+      "speakers": 7,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230831",
@@ -3734,7 +3781,8 @@
       "flyer_urls": [],
       "listeners": 166,
       "host": "@meximalist",
-      "speakers": 7
+      "speakers": 7,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230829",
@@ -3752,7 +3800,8 @@
       "flyer_urls": [],
       "listeners": 60,
       "host": "@meximalist",
-      "speakers": 4
+      "speakers": 4,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230825",
@@ -3795,7 +3844,8 @@
       "flyer_urls": [],
       "listeners": 81,
       "host": "@meximalist",
-      "speakers": 5
+      "speakers": 5,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230824-2",
@@ -3847,7 +3897,8 @@
       "flyer_urls": [],
       "listeners": 348,
       "host": "@meximalist",
-      "speakers": 30
+      "speakers": 30,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230812",
@@ -3882,7 +3933,8 @@
       "flyer_urls": [],
       "listeners": 77,
       "host": "@meximalist",
-      "speakers": 9
+      "speakers": 9,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230808",
@@ -3904,7 +3956,8 @@
       "flyer_urls": [],
       "listeners": 505,
       "host": "@meximalist",
-      "speakers": 13
+      "speakers": 13,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230803",
@@ -3938,7 +3991,8 @@
       "flyer_urls": [],
       "listeners": 115,
       "host": "@meximalist",
-      "speakers": 7
+      "speakers": 7,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230727",
@@ -3956,7 +4010,8 @@
       "flyer_urls": [],
       "listeners": 244,
       "host": "@meximalist",
-      "speakers": 14
+      "speakers": 14,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230725",
@@ -3974,7 +4029,8 @@
       "flyer_urls": [],
       "listeners": 101,
       "host": "@meximalist",
-      "speakers": 14
+      "speakers": 14,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230725-S7",
@@ -4025,7 +4081,8 @@
       "flyer_urls": [],
       "listeners": 197,
       "host": "@meximalist",
-      "speakers": 7
+      "speakers": 7,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230706",
@@ -4043,7 +4100,8 @@
       "flyer_urls": [],
       "listeners": 122,
       "host": "@meximalist",
-      "speakers": 6
+      "speakers": 6,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230706-2",
@@ -4078,7 +4136,8 @@
       "flyer_urls": [],
       "listeners": 286,
       "host": "@meximalist",
-      "speakers": 21
+      "speakers": 21,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230622",
@@ -4115,7 +4174,8 @@
       "flyer_urls": [],
       "listeners": 289,
       "host": "@meximalist",
-      "speakers": 17
+      "speakers": 17,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230613",
@@ -4133,7 +4193,8 @@
       "flyer_urls": [],
       "listeners": 241,
       "host": "@meximalist",
-      "speakers": 7
+      "speakers": 7,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230608",
@@ -4151,7 +4212,8 @@
       "flyer_urls": [],
       "listeners": 121,
       "host": "@meximalist",
-      "speakers": 3
+      "speakers": 3,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230606",
@@ -4169,7 +4231,8 @@
       "flyer_urls": [],
       "listeners": 439,
       "host": "@meximalist",
-      "speakers": 18
+      "speakers": 18,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230602",
@@ -4206,7 +4269,8 @@
       "flyer_urls": [],
       "listeners": 144,
       "host": "@meximalist",
-      "speakers": 9
+      "speakers": 9,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230530",
@@ -4240,7 +4304,8 @@
       "flyer_urls": [],
       "listeners": 470,
       "host": "@meximalist",
-      "speakers": 2
+      "speakers": 2,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230518",
@@ -4258,7 +4323,8 @@
       "flyer_urls": [],
       "listeners": 355,
       "host": "@meximalist",
-      "speakers": 20
+      "speakers": 20,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230517",
@@ -4276,7 +4342,8 @@
       "flyer_urls": [],
       "listeners": 121,
       "host": "@meximalist",
-      "speakers": 3
+      "speakers": 3,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230516",
@@ -4346,7 +4413,8 @@
       "flyer_urls": [],
       "listeners": 177,
       "host": "@meximalist",
-      "speakers": 10
+      "speakers": 10,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230429",
@@ -4381,7 +4449,8 @@
       "flyer_urls": [],
       "listeners": 182,
       "host": "@meximalist",
-      "speakers": 9
+      "speakers": 9,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230425",
@@ -4399,7 +4468,8 @@
       "flyer_urls": [],
       "listeners": 393,
       "host": "@meximalist",
-      "speakers": 20
+      "speakers": 20,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230423",
@@ -4434,7 +4504,8 @@
       "flyer_urls": [],
       "listeners": 192,
       "host": "@meximalist",
-      "speakers": 7
+      "speakers": 7,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230418",
@@ -4452,7 +4523,8 @@
       "flyer_urls": [],
       "listeners": 307,
       "host": "@meximalist",
-      "speakers": 15
+      "speakers": 15,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230411",
@@ -4470,7 +4542,8 @@
       "flyer_urls": [],
       "listeners": 2502,
       "host": "@meximalist",
-      "speakers": 13
+      "speakers": 13,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230330",
@@ -4488,7 +4561,8 @@
       "flyer_urls": [],
       "listeners": 112,
       "host": "@meximalist",
-      "speakers": 7
+      "speakers": 7,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230328",
@@ -4523,7 +4597,8 @@
       "flyer_urls": [],
       "listeners": 176,
       "host": "@meximalist",
-      "speakers": 10
+      "speakers": 10,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230314",
@@ -4541,7 +4616,8 @@
       "flyer_urls": [],
       "listeners": 383,
       "host": "@meximalist",
-      "speakers": 11
+      "speakers": 11,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230313",
@@ -4593,7 +4669,8 @@
       "flyer_urls": [],
       "listeners": 225,
       "host": "@meximalist",
-      "speakers": 8
+      "speakers": 8,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230307",
@@ -4611,7 +4688,8 @@
       "flyer_urls": [],
       "listeners": 81,
       "host": "@meximalist",
-      "speakers": 5
+      "speakers": 5,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230306",
@@ -4684,7 +4762,8 @@
       "flyer_urls": [],
       "listeners": 362,
       "host": "@meximalist",
-      "speakers": 23
+      "speakers": 23,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230228",
@@ -4706,7 +4785,8 @@
       "flyer_urls": [],
       "listeners": 540,
       "host": "@meximalist",
-      "speakers": 29
+      "speakers": 29,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230223",
@@ -4724,7 +4804,8 @@
       "flyer_urls": [],
       "listeners": 154,
       "host": "@meximalist",
-      "speakers": 8
+      "speakers": 8,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230221",
@@ -4742,7 +4823,8 @@
       "flyer_urls": [],
       "listeners": 116,
       "host": "@meximalist",
-      "speakers": 2
+      "speakers": 2,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230216",
@@ -4760,7 +4842,8 @@
       "flyer_urls": [],
       "listeners": 115,
       "host": "@meximalist",
-      "speakers": 6
+      "speakers": 6,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230214",
@@ -4778,7 +4861,8 @@
       "flyer_urls": [],
       "listeners": 75,
       "host": "@meximalist",
-      "speakers": 6
+      "speakers": 6,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230213",
@@ -4947,7 +5031,8 @@
       "flyer_urls": [],
       "listeners": 175,
       "host": "@meximalist",
-      "speakers": 16
+      "speakers": 16,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230131",
@@ -4965,7 +5050,8 @@
       "flyer_urls": [],
       "listeners": 340,
       "host": "@meximalist",
-      "speakers": 16
+      "speakers": 16,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230128",
@@ -5034,7 +5120,8 @@
       "flyer_urls": [],
       "listeners": 68,
       "host": "@meximalist",
-      "speakers": 4
+      "speakers": 4,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230121",
@@ -5068,7 +5155,8 @@
       "flyer_urls": [],
       "listeners": 137,
       "host": "@meximalist",
-      "speakers": 7
+      "speakers": 7,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230117",
@@ -5086,7 +5174,8 @@
       "flyer_urls": [],
       "listeners": 169,
       "host": "@meximalist",
-      "speakers": 9
+      "speakers": 9,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230112",
@@ -5104,7 +5193,8 @@
       "flyer_urls": [],
       "listeners": 130,
       "host": "@meximalist",
-      "speakers": 7
+      "speakers": 7,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230110",
@@ -5142,7 +5232,8 @@
       "flyer_urls": [],
       "listeners": 156,
       "host": "@meximalist",
-      "speakers": 9
+      "speakers": 9,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230109",
@@ -5177,7 +5268,8 @@
       "flyer_urls": [],
       "listeners": 119,
       "host": "@meximalist",
-      "speakers": 9
+      "speakers": 9,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20230103",
@@ -5195,7 +5287,8 @@
       "flyer_urls": [],
       "listeners": 74,
       "host": "@meximalist",
-      "speakers": 8
+      "speakers": 8,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20221229",
@@ -5247,7 +5340,8 @@
       "flyer_urls": [],
       "listeners": 104,
       "host": "@meximalist",
-      "speakers": 7
+      "speakers": 7,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20221222-S7",
@@ -5285,7 +5379,8 @@
       "flyer_urls": [],
       "listeners": 192,
       "host": "@meximalist",
-      "speakers": 19
+      "speakers": 19,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20221220-2",
@@ -5320,7 +5415,8 @@
       "flyer_urls": [],
       "listeners": 47,
       "host": "@meximalist",
-      "speakers": 4
+      "speakers": 4,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20221215",
@@ -5342,7 +5438,8 @@
       "flyer_urls": [],
       "listeners": 60,
       "host": "@meximalist",
-      "speakers": 6
+      "speakers": 6,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20221215-S7",
@@ -5380,7 +5477,8 @@
       "flyer_urls": [],
       "listeners": 131,
       "host": "@meximalist",
-      "speakers": 13
+      "speakers": 13,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20221210",
@@ -5435,7 +5533,8 @@
       "flyer_urls": [],
       "listeners": 95,
       "host": "@meximalist",
-      "speakers": 7
+      "speakers": 7,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20221201",
@@ -5453,7 +5552,8 @@
       "flyer_urls": [],
       "listeners": 54,
       "host": "@meximalist",
-      "speakers": 5
+      "speakers": 5,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20221129",
@@ -5471,7 +5571,8 @@
       "flyer_urls": [],
       "listeners": 94,
       "host": "@meximalist",
-      "speakers": 7
+      "speakers": 7,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20221128",
@@ -5540,7 +5641,8 @@
       "flyer_urls": [],
       "listeners": 57,
       "host": "@meximalist",
-      "speakers": 6
+      "speakers": 6,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20221122",
@@ -5562,7 +5664,8 @@
       "flyer_urls": [],
       "listeners": 113,
       "host": "@meximalist",
-      "speakers": 9
+      "speakers": 9,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20221122-S7",
@@ -5580,7 +5683,8 @@
       "flyer_urls": [],
       "listeners": 121,
       "host": "@meximalist",
-      "speakers": 9
+      "speakers": 9,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20221121",
@@ -5615,7 +5719,8 @@
       "flyer_urls": [],
       "listeners": 74,
       "host": "@meximalist",
-      "speakers": 4
+      "speakers": 4,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20221117-2",
@@ -5650,7 +5755,8 @@
       "flyer_urls": [],
       "listeners": 104,
       "host": "@meximalist",
-      "speakers": 11
+      "speakers": 11,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20221114",
@@ -5718,7 +5824,8 @@
       "flyer_urls": [],
       "listeners": 164,
       "host": "@meximalist",
-      "speakers": 14
+      "speakers": 14,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20221110-2",
@@ -5844,7 +5951,8 @@
       "flyer_urls": [],
       "listeners": 146,
       "host": "@meximalist",
-      "speakers": 1
+      "speakers": 1,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20221025",
@@ -5966,7 +6074,8 @@
       "flyer_urls": [],
       "listeners": 153,
       "host": "@meximalist",
-      "speakers": 10
+      "speakers": 10,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20220928",
@@ -6124,7 +6233,8 @@
       "flyer_urls": [],
       "listeners": 135,
       "host": "@meximalist",
-      "speakers": 6
+      "speakers": 6,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20220728",
@@ -6159,7 +6269,8 @@
       "flyer_urls": [],
       "listeners": 147,
       "host": "@meximalist",
-      "speakers": 10
+      "speakers": 10,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20220707",
@@ -6183,7 +6294,8 @@
       "flyer_urls": [],
       "listeners": 249,
       "host": "@meximalist",
-      "speakers": 14
+      "speakers": 14,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20220630",
