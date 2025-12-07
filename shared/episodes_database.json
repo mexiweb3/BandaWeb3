@@ -42,7 +42,7 @@
       "content_generated": false,
       "type": "numbered",
       "listeners": 573,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 9,
       "analytics_source": "X Spaces Analytics"
     },
@@ -72,7 +72,7 @@
       "content_generated": true,
       "type": "numbered",
       "listeners": 182,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 8,
       "analytics_source": "X Spaces Analytics"
     },
@@ -159,7 +159,7 @@
       ],
       "listeners": 53,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics"
     },
     {
@@ -184,7 +184,7 @@
       ],
       "listeners": 79,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 1,
       "analytics_source": "X Spaces Analytics"
     },
@@ -215,7 +215,7 @@
       ],
       "listeners": 78,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 6,
       "analytics_source": "X Spaces Analytics"
     },
@@ -246,7 +246,7 @@
       ],
       "listeners": 52,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 4,
       "analytics_source": "X Spaces Analytics"
     },
@@ -274,7 +274,7 @@
       ],
       "listeners": 27,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics"
     },
     {
@@ -308,7 +308,7 @@
       ],
       "listeners": 86,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 5,
       "analytics_source": "X Spaces Analytics"
     },
@@ -339,7 +339,7 @@
       ],
       "listeners": 67,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 2,
       "analytics_source": "X Spaces Analytics"
     },
@@ -370,7 +370,7 @@
       ],
       "listeners": 68,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 1,
       "analytics_source": "X Spaces Analytics"
     },
@@ -402,7 +402,7 @@
       ],
       "listeners": 107,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 3,
       "analytics_source": "X Spaces Analytics"
     },
@@ -435,7 +435,7 @@
       ],
       "listeners": 41,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 1,
       "analytics_source": "X Spaces Analytics"
     },
@@ -470,7 +470,7 @@
       ],
       "listeners": 109,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 4,
       "analytics_source": "X Spaces Analytics"
     },
@@ -503,7 +503,7 @@
       ],
       "listeners": 197,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 2,
       "analytics_source": "X Spaces Analytics"
     },
@@ -585,7 +585,7 @@
       ],
       "listeners": 213,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 1
     },
@@ -618,7 +618,7 @@
       ],
       "listeners": 25,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics"
     },
     {
@@ -651,7 +651,7 @@
       ],
       "listeners": 100,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 4
     },
@@ -693,7 +693,7 @@
       ],
       "listeners": 104,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 8
     },
@@ -760,7 +760,7 @@
       ],
       "listeners": 72,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 2
     },
@@ -801,7 +801,7 @@
       ],
       "listeners": 168,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 6
     },
@@ -835,7 +835,7 @@
       ],
       "listeners": 48,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 1
     },
@@ -873,7 +873,7 @@
       ],
       "listeners": 109,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 4
     },
@@ -916,7 +916,7 @@
       ],
       "listeners": 84,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 4
     },
@@ -977,7 +977,7 @@
       ],
       "listeners": 162,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 1
     },
@@ -1004,7 +1004,7 @@
       ],
       "listeners": 60,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 6
     },
@@ -1036,7 +1036,7 @@
       ],
       "listeners": 211,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 3
     },
@@ -1078,7 +1078,7 @@
       ],
       "listeners": 138,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 9
     },
@@ -1141,7 +1141,7 @@
       ],
       "listeners": 135,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 1
     },
@@ -1178,7 +1178,7 @@
       ],
       "listeners": 90,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 1
     },
@@ -1216,7 +1216,7 @@
       ],
       "listeners": 103,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 1
     },
@@ -1252,7 +1252,7 @@
       ],
       "listeners": 206,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 8
     },
@@ -1292,7 +1292,7 @@
       ],
       "listeners": 53,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 3
     },
@@ -1331,7 +1331,7 @@
       ],
       "listeners": 66,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 8
     },
@@ -1374,7 +1374,7 @@
       ],
       "listeners": 45,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 3
     },
@@ -1404,7 +1404,7 @@
       ],
       "listeners": 70,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 1
     },
@@ -1452,7 +1452,7 @@
       ],
       "listeners": 1026,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 1
     },
@@ -1484,7 +1484,7 @@
       ],
       "listeners": 47,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 3
     },
@@ -1531,7 +1531,7 @@
       ],
       "listeners": 89,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 9
     },
@@ -1602,7 +1602,7 @@
       "arbiscan_url": "https://arbiscan.io/address/0x63Bc3BE8708A1f713f1c3782EC724387fbB22EEE",
       "listeners": 114,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 4
     },
@@ -1639,7 +1639,7 @@
       "arbiscan_url": "https://arbiscan.io/address/0xf1c988dAF2688c043e8505Bbec218F3691E6E5bE",
       "listeners": 57,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 3
     },
@@ -1720,7 +1720,7 @@
       "arbiscan_url": "https://arbiscan.io/address/0x29a3a83b994dbf6C3271f9AaBDb75cD7Bb20D236",
       "listeners": 71,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 2
     },
@@ -1753,7 +1753,7 @@
       "arbiscan_url": "https://arbiscan.io/address/0xAFe615497a42Dec9fc375549f63E301873f9Cb95",
       "listeners": 60,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 4
     },
@@ -1806,7 +1806,7 @@
       "arbiscan_url": "https://arbiscan.io/address/0xa956a2d098AB6586a3e79f8a35ab94519092351C",
       "listeners": 85,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 1
     },
@@ -1838,7 +1838,7 @@
       "arbiscan_url": "https://arbiscan.io/address/0xCA48DDE2a95285Bd04FEa2adDc4FE22fA0532DE3",
       "listeners": 51,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 3
     },
@@ -1909,7 +1909,7 @@
       "arbiscan_url": "https://arbiscan.io/address/0x2A1c8BA365C3A29338eDa62F200C3a6b58A570aC",
       "listeners": 74,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 2
     },
@@ -1946,7 +1946,7 @@
       "arbiscan_url": "https://arbiscan.io/address/0x685d4AC6E1C341dAD7e2DAe2f63cEFb1103C7930",
       "listeners": 93,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 2
     },
@@ -1981,7 +1981,7 @@
       "arbiscan_url": "https://arbiscan.io/address/0x37366C92486711c3fB09C37e8b73e3E38705a7c5",
       "listeners": 62,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 1
     },
@@ -2016,7 +2016,7 @@
       "arbiscan_url": "https://arbiscan.io/address/0x5651E19E3cBDfbAD1CBb4020590Bacbf8c75dff7",
       "listeners": 63,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 1
     },
@@ -2047,7 +2047,7 @@
       "contract_url": "https://arbiscan.io/address/0x7c5e1577e19e34a70ea9b8d38e46374e8b21c5c2",
       "listeners": 200,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 6
     },
@@ -2078,7 +2078,7 @@
       "contract_url": "https://arbiscan.io//address/0xc057bf08093580ac43380b14d026e4e1ade3bd73",
       "listeners": 135,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 3
     },
@@ -2128,7 +2128,7 @@
       "duration": "1:23:44",
       "type": "numbered",
       "listeners": 73,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 3,
       "analytics_source": "X Spaces Analytics"
     },
@@ -2159,7 +2159,7 @@
       "contract_url": "https://arbiscan.io//address/0x0147aa70c8caa8a47e98808bca207c94a3beca8a",
       "type": "numbered",
       "listeners": 108,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 2,
       "analytics_source": "X Spaces Analytics"
     },
@@ -2190,7 +2190,7 @@
       "contract_url": "https://arbiscan.io/address/0x3e0d119edd647BC79afeA106e75ABA7717D61Ec9",
       "listeners": 92,
       "type": "numbered",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 5
     },
@@ -2413,7 +2413,7 @@
       "date": "2024-10-17",
       "duration": "1:33:39",
       "listeners": 62,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 3,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -2538,7 +2538,7 @@
       "contract_url": "https://arbiscan.io//address/0xfa38f899f453e4f44fd74919a7b0a2adb1859ba0",
       "type": "numbered",
       "listeners": 73,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 1
     },
@@ -2569,7 +2569,7 @@
       "contract_url": "https://arbiscan.io//address/0xce03e904d588a2a78e7173b19c2fb0eec7a74333",
       "type": "numbered",
       "listeners": 79,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics"
     },
     {
@@ -2578,7 +2578,7 @@
       "date": "2024-08-22",
       "duration": "1:29:41",
       "listeners": 104,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 9,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -2608,7 +2608,7 @@
       "flyer_urls": [],
       "type": "numbered",
       "listeners": 26,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics"
     },
     {
@@ -2617,7 +2617,7 @@
       "date": "2024-08-13",
       "duration": "14:59",
       "listeners": 9,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 1,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -2637,7 +2637,7 @@
       "date": "2024-07-25",
       "duration": "1:15:50",
       "listeners": 80,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 1,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -2673,7 +2673,7 @@
       "flyer_urls": [],
       "type": "numbered",
       "listeners": 78,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "speakers": 3
     },
@@ -2683,7 +2683,7 @@
       "date": "2024-06-25",
       "duration": "1:16:23",
       "listeners": 113,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 8,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -2703,7 +2703,7 @@
       "date": "2024-06-20",
       "duration": "1:08:54",
       "listeners": 81,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 5,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -2723,7 +2723,7 @@
       "date": "2024-06-18",
       "duration": "1:11:43",
       "listeners": 134,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 6,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -2743,7 +2743,7 @@
       "date": "2024-06-13",
       "duration": "1:37:51",
       "listeners": 201,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 3,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -2763,7 +2763,7 @@
       "date": "2024-06-11",
       "duration": "1:46:36",
       "listeners": 288,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 2,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -2783,7 +2783,7 @@
       "date": "2024-06-06",
       "duration": "1:59:45",
       "listeners": 243,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 13,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -2803,7 +2803,7 @@
       "date": "2024-06-04",
       "duration": "1:25:23",
       "listeners": 98,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 8,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -2823,7 +2823,7 @@
       "date": "2024-05-28",
       "duration": "25:23",
       "listeners": 11,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 0,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -2843,7 +2843,7 @@
       "date": "2024-05-23",
       "duration": "1:54:58",
       "listeners": 144,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 13,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -2863,7 +2863,7 @@
       "date": "2024-05-21",
       "duration": "1:47:20",
       "listeners": 144,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 11,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -2883,7 +2883,7 @@
       "date": "2024-05-16",
       "duration": "1:28:46",
       "listeners": 93,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 6,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -2903,7 +2903,7 @@
       "date": "2024-05-14",
       "duration": "1:08:54",
       "listeners": 83,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 4,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -2923,7 +2923,7 @@
       "date": "2024-05-09",
       "duration": "1:23:27",
       "listeners": 114,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 11,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -2943,7 +2943,7 @@
       "date": "2024-05-02",
       "duration": "1:18:50",
       "listeners": 58,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 1,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -2963,7 +2963,7 @@
       "date": "2024-04-30",
       "duration": "1:03:00",
       "listeners": 135,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 5,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -2983,7 +2983,7 @@
       "date": "2024-04-27",
       "duration": "13:38",
       "listeners": 4,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 0,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -3003,7 +3003,7 @@
       "date": "2024-04-25",
       "duration": "1:17:10",
       "listeners": 93,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 4,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -3023,7 +3023,7 @@
       "date": "2024-04-23",
       "duration": "1:19:35",
       "listeners": 91,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 3,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -3043,7 +3043,7 @@
       "date": "2024-04-20",
       "duration": "25:54",
       "listeners": 35,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 5,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -3063,7 +3063,7 @@
       "date": "2024-04-16",
       "duration": "1:27:39",
       "listeners": 111,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 1,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -3083,7 +3083,7 @@
       "date": "2024-04-11",
       "duration": "2:00:13",
       "listeners": 149,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 6,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -3103,7 +3103,7 @@
       "date": "2024-04-09",
       "duration": "1:55:12",
       "listeners": 157,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 4,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -3123,7 +3123,7 @@
       "date": "2024-03-28",
       "duration": "1:21:58",
       "listeners": 39,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 3,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -3143,7 +3143,7 @@
       "date": "2024-03-26",
       "duration": "1:47:44",
       "listeners": 81,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 6,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -3163,7 +3163,7 @@
       "date": "2024-03-21",
       "duration": "2:07:54",
       "listeners": 197,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 8,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -3183,7 +3183,7 @@
       "date": "2024-03-14",
       "duration": "1:39:58",
       "listeners": 67,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 1,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -3203,7 +3203,7 @@
       "date": "2024-03-12",
       "duration": "1:51:11",
       "listeners": 153,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 2,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -3223,7 +3223,7 @@
       "date": "2024-03-07",
       "duration": "1:49:15",
       "listeners": 102,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 7,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -3243,7 +3243,7 @@
       "date": "2024-03-05",
       "duration": "1:31:51",
       "listeners": 59,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 3,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -3263,7 +3263,7 @@
       "date": "2024-02-29",
       "duration": "1:24:36",
       "listeners": 54,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 5,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -3283,7 +3283,7 @@
       "date": "2024-02-27",
       "duration": "1:19:59",
       "listeners": 109,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 2,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -3303,7 +3303,7 @@
       "date": "2024-02-22",
       "duration": "1:30:14",
       "listeners": 78,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 6,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -3323,7 +3323,7 @@
       "date": "2024-02-15",
       "duration": "1:37:14",
       "listeners": 120,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 2,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -3343,7 +3343,7 @@
       "date": "2024-02-13",
       "duration": "2:41:38",
       "listeners": 206,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 9,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -3363,7 +3363,7 @@
       "date": "2024-02-06",
       "duration": "2:03:51",
       "listeners": 148,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 12,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -3383,7 +3383,7 @@
       "date": "2024-01-30",
       "duration": "1:49:16",
       "listeners": 90,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 5,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
@@ -3416,7 +3416,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 177,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 4,
       "analytics_source": "X Spaces Analytics"
     },
@@ -3435,7 +3435,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 78,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 2,
       "analytics_source": "X Spaces Analytics"
     },
@@ -3464,7 +3464,7 @@
       "duration": "2:17:07",
       "listeners": 245,
       "space_url": "https://x.com/i/spaces/1OwxWYDvMNjGQ?s=20",
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "cohosts": [
         "@AleRaMo30",
         "@brichis_",
@@ -3517,7 +3517,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 214,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 14,
       "analytics_source": "X Spaces Analytics"
     },
@@ -3574,7 +3574,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 201,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 4,
       "analytics_source": "X Spaces Analytics"
     },
@@ -3629,7 +3629,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 510,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 18,
       "analytics_source": "X Spaces Analytics"
     },
@@ -3665,7 +3665,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 237,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 18,
       "analytics_source": "X Spaces Analytics"
     },
@@ -3684,7 +3684,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 106,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 2,
       "analytics_source": "X Spaces Analytics"
     },
@@ -3703,7 +3703,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 281,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 10,
       "analytics_source": "X Spaces Analytics"
     },
@@ -3743,7 +3743,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 388,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 14,
       "analytics_source": "X Spaces Analytics"
     },
@@ -3779,7 +3779,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 79,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 8,
       "analytics_source": "X Spaces Analytics"
     },
@@ -3820,7 +3820,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 252,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 10,
       "analytics_source": "X Spaces Analytics"
     },
@@ -3856,7 +3856,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 86,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 3,
       "analytics_source": "X Spaces Analytics"
     },
@@ -3896,7 +3896,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 233,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 10,
       "analytics_source": "X Spaces Analytics"
     },
@@ -3949,7 +3949,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 155,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 13,
       "analytics_source": "X Spaces Analytics"
     },
@@ -3974,7 +3974,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 164,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 7,
       "analytics_source": "X Spaces Analytics"
     },
@@ -4027,7 +4027,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 99,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 2,
       "analytics_source": "X Spaces Analytics"
     },
@@ -4067,7 +4067,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 155,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 4,
       "analytics_source": "X Spaces Analytics"
     },
@@ -4107,7 +4107,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 181,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 10,
       "analytics_source": "X Spaces Analytics"
     },
@@ -4149,7 +4149,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 171,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 7,
       "analytics_source": "X Spaces Analytics"
     },
@@ -4204,7 +4204,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 117,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 9,
       "analytics_source": "X Spaces Analytics"
     },
@@ -4244,7 +4244,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 354,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 18,
       "analytics_source": "X Spaces Analytics"
     },
@@ -4284,7 +4284,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 142,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 3,
       "analytics_source": "X Spaces Analytics"
     },
@@ -4307,7 +4307,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 137,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 8,
       "analytics_source": "X Spaces Analytics"
     },
@@ -4347,7 +4347,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 173,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 7,
       "analytics_source": "X Spaces Analytics"
     },
@@ -4372,7 +4372,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 330,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 9,
       "analytics_source": "X Spaces Analytics"
     },
@@ -4434,7 +4434,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 855,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 17,
       "analytics_source": "X Spaces Analytics"
     },
@@ -4470,7 +4470,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 188,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 9,
       "analytics_source": "X Spaces Analytics"
     },
@@ -4523,7 +4523,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 299,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 14,
       "analytics_source": "X Spaces Analytics"
     },
@@ -4564,7 +4564,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 85,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 6,
       "analytics_source": "X Spaces Analytics"
     },
@@ -4604,7 +4604,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 131,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 7,
       "analytics_source": "X Spaces Analytics"
     },
@@ -4640,7 +4640,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 346,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 16,
       "analytics_source": "X Spaces Analytics"
     },
@@ -4696,7 +4696,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 207,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 7,
       "analytics_source": "X Spaces Analytics"
     },
@@ -4715,7 +4715,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 166,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 7,
       "analytics_source": "X Spaces Analytics"
     },
@@ -4734,7 +4734,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 60,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 4,
       "analytics_source": "X Spaces Analytics"
     },
@@ -4778,7 +4778,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 81,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 5,
       "analytics_source": "X Spaces Analytics"
     },
@@ -4831,7 +4831,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 348,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 30,
       "analytics_source": "X Spaces Analytics"
     },
@@ -4867,7 +4867,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 77,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 9,
       "analytics_source": "X Spaces Analytics"
     },
@@ -4890,7 +4890,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 505,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 13,
       "analytics_source": "X Spaces Analytics"
     },
@@ -4925,7 +4925,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 115,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 7,
       "analytics_source": "X Spaces Analytics"
     },
@@ -4944,7 +4944,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 244,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 14,
       "analytics_source": "X Spaces Analytics"
     },
@@ -4963,7 +4963,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 101,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 14,
       "analytics_source": "X Spaces Analytics"
     },
@@ -5015,7 +5015,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 197,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 7,
       "analytics_source": "X Spaces Analytics"
     },
@@ -5034,7 +5034,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 122,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 6,
       "analytics_source": "X Spaces Analytics"
     },
@@ -5070,7 +5070,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 286,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 21,
       "analytics_source": "X Spaces Analytics"
     },
@@ -5108,7 +5108,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 289,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 17,
       "analytics_source": "X Spaces Analytics"
     },
@@ -5127,7 +5127,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 241,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 7,
       "analytics_source": "X Spaces Analytics"
     },
@@ -5146,7 +5146,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 121,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 3,
       "analytics_source": "X Spaces Analytics"
     },
@@ -5165,7 +5165,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 439,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 18,
       "analytics_source": "X Spaces Analytics"
     },
@@ -5203,7 +5203,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 144,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 9,
       "analytics_source": "X Spaces Analytics"
     },
@@ -5238,7 +5238,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 470,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 2,
       "analytics_source": "X Spaces Analytics"
     },
@@ -5257,7 +5257,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 355,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 20,
       "analytics_source": "X Spaces Analytics"
     },
@@ -5276,7 +5276,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 121,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 3,
       "analytics_source": "X Spaces Analytics"
     },
@@ -5347,7 +5347,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 177,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 10,
       "analytics_source": "X Spaces Analytics"
     },
@@ -5383,7 +5383,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 182,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 9,
       "analytics_source": "X Spaces Analytics"
     },
@@ -5402,7 +5402,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 393,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 20,
       "analytics_source": "X Spaces Analytics"
     },
@@ -5438,7 +5438,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 192,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 7,
       "analytics_source": "X Spaces Analytics"
     },
@@ -5457,7 +5457,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 307,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 15,
       "analytics_source": "X Spaces Analytics"
     },
@@ -5476,7 +5476,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 2502,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 13,
       "analytics_source": "X Spaces Analytics"
     },
@@ -5495,7 +5495,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 112,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 7,
       "analytics_source": "X Spaces Analytics"
     },
@@ -5531,7 +5531,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 176,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 10,
       "analytics_source": "X Spaces Analytics"
     },
@@ -5550,7 +5550,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 383,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 11,
       "analytics_source": "X Spaces Analytics"
     },
@@ -5603,7 +5603,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 225,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 8,
       "analytics_source": "X Spaces Analytics"
     },
@@ -5622,7 +5622,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 81,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 5,
       "analytics_source": "X Spaces Analytics"
     },
@@ -5696,7 +5696,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 362,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 23,
       "analytics_source": "X Spaces Analytics"
     },
@@ -5719,7 +5719,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 540,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 29,
       "analytics_source": "X Spaces Analytics"
     },
@@ -5738,7 +5738,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 154,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 8,
       "analytics_source": "X Spaces Analytics"
     },
@@ -5757,7 +5757,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 116,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 2,
       "analytics_source": "X Spaces Analytics"
     },
@@ -5776,7 +5776,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 115,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 6,
       "analytics_source": "X Spaces Analytics"
     },
@@ -5795,7 +5795,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 75,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 6,
       "analytics_source": "X Spaces Analytics"
     },
@@ -5965,7 +5965,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 175,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 16,
       "analytics_source": "X Spaces Analytics"
     },
@@ -5984,7 +5984,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 340,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 16,
       "analytics_source": "X Spaces Analytics"
     },
@@ -6054,7 +6054,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 68,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 4,
       "analytics_source": "X Spaces Analytics"
     },
@@ -6089,7 +6089,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 137,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 7,
       "analytics_source": "X Spaces Analytics"
     },
@@ -6108,7 +6108,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 169,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 9,
       "analytics_source": "X Spaces Analytics"
     },
@@ -6127,7 +6127,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 130,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 7,
       "analytics_source": "X Spaces Analytics"
     },
@@ -6166,7 +6166,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 156,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 9,
       "analytics_source": "X Spaces Analytics"
     },
@@ -6202,7 +6202,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 119,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 9,
       "analytics_source": "X Spaces Analytics"
     },
@@ -6221,7 +6221,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 74,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 8,
       "analytics_source": "X Spaces Analytics"
     },
@@ -6274,7 +6274,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 104,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 7,
       "analytics_source": "X Spaces Analytics"
     },
@@ -6313,7 +6313,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 192,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 19,
       "analytics_source": "X Spaces Analytics"
     },
@@ -6349,7 +6349,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 47,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 4,
       "analytics_source": "X Spaces Analytics"
     },
@@ -6372,7 +6372,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 60,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 6,
       "analytics_source": "X Spaces Analytics"
     },
@@ -6411,7 +6411,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 131,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 13,
       "analytics_source": "X Spaces Analytics"
     },
@@ -6467,7 +6467,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 95,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 7,
       "analytics_source": "X Spaces Analytics"
     },
@@ -6486,7 +6486,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 54,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 5,
       "analytics_source": "X Spaces Analytics"
     },
@@ -6505,7 +6505,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 94,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 7,
       "analytics_source": "X Spaces Analytics"
     },
@@ -6575,7 +6575,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 57,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 6,
       "analytics_source": "X Spaces Analytics"
     },
@@ -6598,7 +6598,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 113,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 9,
       "analytics_source": "X Spaces Analytics"
     },
@@ -6617,7 +6617,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 121,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 9,
       "analytics_source": "X Spaces Analytics"
     },
@@ -6653,7 +6653,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 74,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 4,
       "analytics_source": "X Spaces Analytics"
     },
@@ -6689,7 +6689,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 104,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 11,
       "analytics_source": "X Spaces Analytics"
     },
@@ -6758,7 +6758,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 164,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 14,
       "analytics_source": "X Spaces Analytics"
     },
@@ -6885,7 +6885,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 146,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 1,
       "analytics_source": "X Spaces Analytics"
     },
@@ -7008,7 +7008,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 153,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 10,
       "analytics_source": "X Spaces Analytics"
     },
@@ -7167,7 +7167,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 135,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 6,
       "analytics_source": "X Spaces Analytics"
     },
@@ -7203,7 +7203,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 147,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 10,
       "analytics_source": "X Spaces Analytics"
     },
@@ -7228,7 +7228,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 249,
-      "host": "@meximalist",
+      "host": "BandaWeb3",
       "speakers": 14,
       "analytics_source": "X Spaces Analytics"
     },
