@@ -29,7 +29,7 @@
         "ariutokintumi",
         "RollAMate"
       ],
-      "duration": "60 min",
+      "duration": "1:31:24",
       "description": "BandaWeb3 #074 Hackathon @ETHGlobal ¡HOY! Jueves 4 Dic - 12 pm. Invitado : @ariutokintumi de @RollAMate. EVVM Hackathon Track: $20,000 USD EVVM permite crear una blockchain dentro de otra blockchain.",
       "topics": [
         "ETHGlobal",
@@ -40,7 +40,10 @@
       "status": "published",
       "transcript_available": false,
       "content_generated": false,
-      "type": "numbered"
+      "type": "numbered",
+      "listeners": 573,
+      "host": "@meximalist",
+      "speakers": 9
     },
     {
       "number": "073",
@@ -54,7 +57,7 @@
         "Alex Soto",
         "Germán (EVVM)"
       ],
-      "duration": "90 min",
+      "duration": "1:26:36",
       "description": "BandaWeb3 #073 Open 🎙️ @EFDevcon 🇦🇷. Después de 2 meses regreso con los episodios de BandaWeb3. Platicamos de Devconnect en Argentina, los side events, el hackathon de @ETHGlobal, las hacker houses y la comunidad argentina y latina.",
       "topics": [
         "ETHGlobal",
@@ -66,7 +69,10 @@
       "status": "published",
       "transcript_available": true,
       "content_generated": true,
-      "type": "numbered"
+      "type": "numbered",
+      "listeners": 182,
+      "host": "@meximalist",
+      "speakers": 8
     },
     {
       "number": "20251103",
@@ -130,7 +136,7 @@
       "number": "071",
       "title": "BandaWeb3 #071 @Kalipssoh",
       "date": "2025-08-21",
-      "duration": "1 hours, 4 minutes, 54 seconds",
+      "duration": "1:04:53",
       "guests": [
         "Kalipssoh"
       ],
@@ -146,14 +152,15 @@
       "flyer_urls": [
         "flyer_071.jpg"
       ],
-      "listeners": "49",
-      "type": "numbered"
+      "listeners": 53,
+      "type": "numbered",
+      "host": "@meximalist"
     },
     {
       "number": "070",
       "title": "BandaWeb3 #070 @0xDonPepe",
       "date": "2025-08-14",
-      "duration": "1 hours, 10 minutes, 22 seconds",
+      "duration": "1:10:22",
       "guests": [
         "0xDonPepe"
       ],
@@ -169,14 +176,16 @@
       "flyer_urls": [
         "flyer_070.jpg"
       ],
-      "listeners": "79",
-      "type": "numbered"
+      "listeners": 79,
+      "type": "numbered",
+      "host": "@meximalist",
+      "speakers": 1
     },
     {
       "number": "069",
       "title": "BandaWeb3 #069 @ChihTechWeek",
       "date": "2025-08-07",
-      "duration": "1 hours, 18 minutes, 24 seconds",
+      "duration": "1:18:24",
       "guests": [
         "Liz Durán",
         "Diego Benítez"
@@ -197,14 +206,16 @@
       "flyer_urls": [
         "flyer_069.jpg"
       ],
-      "listeners": "78",
-      "type": "numbered"
+      "listeners": 78,
+      "type": "numbered",
+      "host": "@meximalist",
+      "speakers": 6
     },
     {
       "number": "068",
       "title": "BandaWeb3 #068 AMA @donald_glonk",
       "date": "2025-07-31",
-      "duration": "1h 25m",
+      "duration": "1:25:55",
       "guests": [
         "donald_glonk"
       ],
@@ -225,14 +236,16 @@
       "flyer_urls": [
         "flyer_068.jpg"
       ],
-      "listeners": "52",
-      "type": "numbered"
+      "listeners": 52,
+      "type": "numbered",
+      "host": "@meximalist",
+      "speakers": 4
     },
     {
       "number": "067",
       "title": "BandaWeb3 #067 Monólogo I",
       "date": "2025-07-29",
-      "duration": "1h 04m",
+      "duration": "1:04:58",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1YqKDZkArVoJV?s=20",
@@ -250,14 +263,15 @@
       "flyer_urls": [
         "flyer_067.jpg"
       ],
-      "listeners": "27",
-      "type": "numbered"
+      "listeners": 27,
+      "type": "numbered",
+      "host": "@meximalist"
     },
     {
       "number": "066",
       "title": "BandaWeb3 #066 @LaDAO_Club y @fruteroclub",
       "date": "2025-06-19",
-      "duration": "1h 24m",
+      "duration": "1:24:58",
       "guests": [
         "troopdegen",
         "SergioRoVar"
@@ -282,14 +296,16 @@
       "flyer_urls": [
         "flyer_066.jpg"
       ],
-      "listeners": "86",
-      "type": "numbered"
+      "listeners": 86,
+      "type": "numbered",
+      "host": "@meximalist",
+      "speakers": 5
     },
     {
       "number": "065",
       "title": "BandaWeb3 #065 @BSmokes_ de @pistachiofi",
       "date": "2025-06-17",
-      "duration": "1h 10m",
+      "duration": "1:10:37",
       "guests": [
         "BSmokes_"
       ],
@@ -310,14 +326,16 @@
       "flyer_urls": [
         "flyer_065.jpg"
       ],
-      "listeners": "67",
-      "type": "numbered"
+      "listeners": 67,
+      "type": "numbered",
+      "host": "@meximalist",
+      "speakers": 2
     },
     {
       "number": "064",
       "title": "BandaWeb3 #064 @eliandecrypto",
       "date": "2025-06-10",
-      "duration": "1 hours, 29 minutes, 33 seconds",
+      "duration": "1:29:32",
       "guests": [
         "eliandecrypto"
       ],
@@ -338,14 +356,16 @@
       "flyer_urls": [
         "flyer_064.jpg"
       ],
-      "listeners": "68",
-      "type": "numbered"
+      "listeners": 68,
+      "type": "numbered",
+      "host": "@meximalist",
+      "speakers": 1
     },
     {
       "number": "063",
       "title": "BandaWeb3 #063 @ByLuaambriz",
       "date": "2025-06-05",
-      "duration": "1h 43m",
+      "duration": "1:43:37",
       "guests": [
         "ByLuaambriz"
       ],
@@ -367,14 +387,16 @@
       "flyer_urls": [
         "flyer_063.jpg"
       ],
-      "listeners": "107",
-      "type": "numbered"
+      "listeners": 107,
+      "type": "numbered",
+      "host": "@meximalist",
+      "speakers": 3
     },
     {
       "number": "062",
       "title": "BandaWeb3 #062 @juvenwho de @SherryProtocol",
       "date": "2025-06-03",
-      "duration": "1h 12m",
+      "duration": "1:12:53",
       "guests": [
         "juvenwho",
         "SherryProtocol"
@@ -397,14 +419,16 @@
       "flyer_urls": [
         "flyer_062.jpg"
       ],
-      "listeners": "41",
-      "type": "numbered"
+      "listeners": 41,
+      "type": "numbered",
+      "host": "@meximalist",
+      "speakers": 1
     },
     {
       "number": "061",
       "title": "BandaWeb3 #061 Infofi @monitalan @EmaCr1pto",
       "date": "2025-05-29",
-      "duration": "1h 27m",
+      "duration": "1:27:02",
       "guests": [
         "monitalan",
         "EmaCr1pto"
@@ -429,14 +453,16 @@
         "flyer_061.jpg",
         "flyer_061_2.jpg"
       ],
-      "listeners": "109",
-      "type": "numbered"
+      "listeners": 109,
+      "type": "numbered",
+      "host": "@meximalist",
+      "speakers": 4
     },
     {
       "number": "060",
       "title": "BandaWeb3 #060 @Trenchboyjaime de @LatamBlocks",
       "date": "2025-05-27",
-      "duration": "1h 20m",
+      "duration": "1:20:53",
       "guests": [
         "Trenchboyjaime",
         "LatamBlocks"
@@ -459,8 +485,10 @@
       "flyer_urls": [
         "flyer_060.jpg"
       ],
-      "listeners": "197",
-      "type": "numbered"
+      "listeners": 197,
+      "type": "numbered",
+      "host": "@meximalist",
+      "speakers": 2
     },
     {
       "number": "059",
@@ -2424,7 +2452,7 @@
       "number": "20240125",
       "title": "Banda Web3 - Grants de @Meta_Pool, XRC20 $SUB80K",
       "date": "2024-01-25",
-      "duration": "1h 55m",
+      "duration": "1:55:14",
       "guests": [
         "Meta_Pool"
       ],
@@ -2438,13 +2466,15 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "244"
+      "listeners": 177,
+      "host": "@meximalist",
+      "speakers": 4
     },
     {
       "number": "20240123",
       "title": "Banda Web3 - ICP Hub Latam, fomentando la educación con ICP",
       "date": "2024-01-23",
-      "duration": "08m",
+      "duration": "1:14:35",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1lPJqbljglWxb",
@@ -2454,7 +2484,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "33"
+      "listeners": 78,
+      "host": "@meximalist",
+      "speakers": 2
     },
     {
       "number": "20240118",
@@ -2478,8 +2510,8 @@
       "type": "hosted",
       "title": "Banda Web3 - RetroPGF 3 @Optimism Ended",
       "date": "2024-01-16",
-      "duration": "2h 17m",
-      "listeners": 376,
+      "duration": "2:17:07",
+      "listeners": 245,
       "space_url": "https://x.com/i/spaces/1OwxWYDvMNjGQ?s=20",
       "host": "@meximalist",
       "cohosts": [
@@ -2498,7 +2530,8 @@
         "Optimism",
         "mpDAO",
         "Ethereum"
-      ]
+      ],
+      "speakers": 12
     },
     {
       "number": "20240113",
@@ -2521,7 +2554,7 @@
       "number": "20240111",
       "title": "Banda Web3 - Nouns, Prop House y Nouns DAO Amigos",
       "date": "2024-01-11",
-      "duration": "2h 11m",
+      "duration": "2:11:19",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1vOxwjQjqZEJB",
@@ -2531,7 +2564,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "222"
+      "listeners": 214,
+      "host": "@meximalist",
+      "speakers": 14
     },
     {
       "number": "20240111-2",
@@ -2571,7 +2606,7 @@
       "number": "20240109",
       "title": "AMA - ETF Bitcoin, @SUB80K, Tokens XRC20",
       "date": "2024-01-09",
-      "duration": "2h 00m",
+      "duration": "2:00:32",
       "guests": [
         "SUB80K"
       ],
@@ -2585,7 +2620,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "210"
+      "listeners": 201,
+      "host": "@meximalist",
+      "speakers": 4
     },
     {
       "number": "20240109-2",
@@ -2627,7 +2664,7 @@
       "number": "20240104",
       "title": "¿Cómo lidiar con amenazas, violencia y el doxxeo en la Web3?",
       "date": "2024-01-04",
-      "duration": "2h 34m",
+      "duration": "2:34:48",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1LyGBnYRYEkGN",
@@ -2637,7 +2674,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "530"
+      "listeners": 510,
+      "host": "@meximalist",
+      "speakers": 18
     },
     {
       "number": "20240104-2",
@@ -2660,7 +2699,7 @@
       "number": "20240102",
       "title": "Shill X Space - Proyectos Mexicanos en Gitcoin",
       "date": "2024-01-02",
-      "duration": "2h 12m",
+      "duration": "2:12:43",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1LyxBnYOjvaxN",
@@ -2670,13 +2709,15 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "248"
+      "listeners": 237,
+      "host": "@meximalist",
+      "speakers": 18
     },
     {
       "number": "20231231",
       "title": "Subasta de WL #Sub80k con $MEXI y $Sub80k",
       "date": "2023-12-31",
-      "duration": "2h 17m",
+      "duration": "2:17:14",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1vOGwjQDnMgKB",
@@ -2686,13 +2727,15 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "106"
+      "listeners": 106,
+      "host": "@meximalist",
+      "speakers": 2
     },
     {
       "number": "20231230",
       "title": "AMA #Sub80k y XRC20",
       "date": "2023-12-30",
-      "duration": "1h 59m",
+      "duration": "1:59:11",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1BRJjPMOlZeKw",
@@ -2702,7 +2745,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "293"
+      "listeners": 281,
+      "host": "@meximalist",
+      "speakers": 10
     },
     {
       "number": "20231230-2",
@@ -2725,7 +2770,7 @@
       "number": "20231228",
       "title": "Solscriptions Colección Hispana Sub80K con @CryptoNotaz",
       "date": "2023-12-28",
-      "duration": "1h 59m",
+      "duration": "1:59:47",
       "guests": [
         "CryptoNotaz"
       ],
@@ -2739,7 +2784,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "406"
+      "listeners": 388,
+      "host": "@meximalist",
+      "speakers": 14
     },
     {
       "number": "20231228-2",
@@ -2762,7 +2809,7 @@
       "number": "20231227",
       "title": "XRC20 - Solscriptions - Ethscriptions - Todo el Alpha",
       "date": "2023-12-27",
-      "duration": "2h 35m",
+      "duration": "45:57",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1LyxBnmXnzWxN",
@@ -2772,7 +2819,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "268"
+      "listeners": 79,
+      "host": "@meximalist",
+      "speakers": 8
     },
     {
       "number": "20231227-S7",
@@ -2794,7 +2843,7 @@
       "number": "20231226",
       "title": "Banda Web3 - Caso @0xgonzalo_ con @solencontraluz",
       "date": "2023-12-26",
-      "duration": "2h 30m",
+      "duration": "2:30:53",
       "guests": [
         "0xgonzalo_",
         "solencontraluz"
@@ -2810,7 +2859,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "260"
+      "listeners": 252,
+      "host": "@meximalist",
+      "speakers": 10
     },
     {
       "number": "20231223",
@@ -2833,7 +2884,7 @@
       "number": "20231221",
       "title": "Banda Web3 - Shitcoin Season",
       "date": "2023-12-21",
-      "duration": "1h 03m",
+      "duration": "1:03:54",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1mrGmyDAnaMGy",
@@ -2843,7 +2894,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "88"
+      "listeners": 86,
+      "host": "@meximalist",
+      "speakers": 3
     },
     {
       "number": "20231221-2",
@@ -2866,7 +2919,7 @@
       "number": "20231219",
       "title": "Banda Web3 - Salud Mental con @MotusDao",
       "date": "2023-12-19",
-      "duration": "2h 23m",
+      "duration": "2:23:40",
       "guests": [
         "MotusDao"
       ],
@@ -2880,7 +2933,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "240"
+      "listeners": 233,
+      "host": "@meximalist",
+      "speakers": 10
     },
     {
       "number": "20231217",
@@ -2920,7 +2975,7 @@
       "number": "20231214",
       "title": "Banda Web3 - Ataque a LEDGER 😭",
       "date": "2023-12-14",
-      "duration": "1h 23m",
+      "duration": "1:23:35",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1eaKbgDgNQvGX",
@@ -2930,13 +2985,15 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "168"
+      "listeners": 155,
+      "host": "@meximalist",
+      "speakers": 13
     },
     {
       "number": "20231212",
       "title": "Banda Web3 - Estado del mercado con @granmetanoia y @deLarg0",
       "date": "2023-12-12",
-      "duration": "1h 43m",
+      "duration": "1:43:08",
       "guests": [
         "granmetanoia",
         "deLarg0"
@@ -2952,7 +3009,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "169"
+      "listeners": 164,
+      "host": "@meximalist",
+      "speakers": 7
     },
     {
       "number": "20231211",
@@ -2992,7 +3051,7 @@
       "number": "20231207",
       "title": "La Abogada, el Economista y el Inge - Argentina y Stables en Francia",
       "date": "2023-12-07",
-      "duration": "1h 01m",
+      "duration": "1:01:20",
       "guests": [],
       "guest_links": {},
       "space_url": "",
@@ -3002,7 +3061,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "106"
+      "listeners": 99,
+      "host": "@meximalist",
+      "speakers": 2
     },
     {
       "number": "20231207-2",
@@ -3025,7 +3086,7 @@
       "number": "20231205",
       "title": "Banda Web3 - Chismesito con @anaqueenmaker",
       "date": "2023-12-05",
-      "duration": "1h 52m",
+      "duration": "1:52:06",
       "guests": [
         "anaqueenmaker"
       ],
@@ -3039,7 +3100,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "161"
+      "listeners": 155,
+      "host": "@meximalist",
+      "speakers": 4
     },
     {
       "number": "20231204",
@@ -3062,7 +3125,7 @@
       "number": "20231130",
       "title": "Emprendimiento Web3 con Zona Tres @lazonatres",
       "date": "2023-11-30",
-      "duration": "2h 19m",
+      "duration": "2:19:09",
       "guests": [
         "lazonatres"
       ],
@@ -3076,7 +3139,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "187"
+      "listeners": 181,
+      "host": "@meximalist",
+      "speakers": 10
     },
     {
       "number": "20231129",
@@ -3099,7 +3164,7 @@
       "number": "20231128",
       "title": "Proyectos de la comunidad @mxweb3 y Tertulia Jam de @Happ3nxyz",
       "date": "2023-11-28",
-      "duration": "2h 10m",
+      "duration": "2:10:48",
       "guests": [
         "mxweb3",
         "Happ3nxyz"
@@ -3115,7 +3180,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "175"
+      "listeners": 171,
+      "host": "@meximalist",
+      "speakers": 7
     },
     {
       "number": "20231128-2",
@@ -3157,7 +3224,7 @@
       "number": "20231123",
       "title": "El Economista y el Ingeniero - Argentina y Milei",
       "date": "2023-11-23",
-      "duration": "1h 21m",
+      "duration": "1:21:06",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1vAxRvleVvYxl",
@@ -3167,7 +3234,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "125"
+      "listeners": 117,
+      "host": "@meximalist",
+      "speakers": 9
     },
     {
       "number": "20231123-2",
@@ -3190,7 +3259,7 @@
       "number": "20231121",
       "title": "Eventos en Mty, puentes quemados, @Gitcoin Shill Space",
       "date": "2023-11-21",
-      "duration": "3h 30m",
+      "duration": "3:30:56",
       "guests": [
         "Gitcoin"
       ],
@@ -3204,7 +3273,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "360"
+      "listeners": 354,
+      "host": "@meximalist",
+      "speakers": 18
     },
     {
       "number": "20231120",
@@ -3227,7 +3298,7 @@
       "number": "20231116",
       "title": "@Meta_Pool - Gobernanza on-chain y Grants",
       "date": "2023-11-16",
-      "duration": "1h 51m",
+      "duration": "1:51:54",
       "guests": [
         "Meta_Pool"
       ],
@@ -3241,13 +3312,15 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "147"
+      "listeners": 142,
+      "host": "@meximalist",
+      "speakers": 3
     },
     {
       "number": "20231114",
       "title": "Conoce las iniciativas de @Nohbek_oficial y sus fundadoras",
       "date": "2023-11-14",
-      "duration": "2h 06m",
+      "duration": "2:06:11",
       "guests": [
         "Nohbek_oficial"
       ],
@@ -3261,7 +3334,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "146"
+      "listeners": 137,
+      "host": "@meximalist",
+      "speakers": 8
     },
     {
       "number": "20231114-2",
@@ -3284,7 +3359,7 @@
       "number": "20231109",
       "title": "PixHelp de @UNICEFColombia - Arte NFT que ayuda",
       "date": "2023-11-09",
-      "duration": "1h 59m",
+      "duration": "1:59:05",
       "guests": [
         "UNICEFColombia"
       ],
@@ -3298,13 +3373,15 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "180"
+      "listeners": 173,
+      "host": "@meximalist",
+      "speakers": 7
     },
     {
       "number": "20231107",
       "title": "NFTs de artistas latinos y créditos de carbón con @FivParis @AsesEco",
       "date": "2023-11-07",
-      "duration": "1h 56m",
+      "duration": "1:56:25",
       "guests": [
         "FivParis",
         "AsesEco"
@@ -3320,7 +3397,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "337"
+      "listeners": 330,
+      "host": "@meximalist",
+      "speakers": 9
     },
     {
       "number": "20231107-2",
@@ -3363,7 +3442,7 @@
       "number": "20231102",
       "title": "AMA @openshowmx | Aleks Syntek @syntekoficial habla de Web3",
       "date": "2023-11-02",
-      "duration": "3h 57m",
+      "duration": "3:57:00",
       "guests": [
         "openshowmx",
         "syntekoficial"
@@ -3379,7 +3458,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "872"
+      "listeners": 855,
+      "host": "@meximalist",
+      "speakers": 17
     },
     {
       "number": "20231101",
@@ -3402,7 +3483,7 @@
       "number": "20231031",
       "title": "Acapulco necesita ayuda. Gitcoin Ronda 19 y #AcapulcoWeb3",
       "date": "2023-10-31",
-      "duration": "2h 09m",
+      "duration": "2:09:06",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1lPKqbaAQWbGb",
@@ -3412,7 +3493,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "198"
+      "listeners": 188,
+      "host": "@meximalist",
+      "speakers": 9
     },
     {
       "number": "20231031-2",
@@ -3452,7 +3535,7 @@
       "number": "20231026",
       "title": "Recap Ethereum México y Foro Blockchain Qro",
       "date": "2023-10-26",
-      "duration": "2h 38m",
+      "duration": "2:38:14",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1mrxmypkpnZxy",
@@ -3462,7 +3545,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "304"
+      "listeners": 299,
+      "host": "@meximalist",
+      "speakers": 14
     },
     {
       "number": "20231017",
@@ -3490,7 +3575,7 @@
       "number": "20231003",
       "title": "Hackathon Global Algorand - Build-A-Bull",
       "date": "2023-10-03",
-      "duration": "1h 35m",
+      "duration": "1:35:03",
       "guests": [],
       "guest_links": {},
       "space_url": "",
@@ -3500,7 +3585,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "63"
+      "listeners": 85,
+      "host": "@meximalist",
+      "speakers": 6
     },
     {
       "number": "20230928",
@@ -3527,7 +3614,7 @@
       "number": "20230919",
       "title": "El primer examen On Chain del mundo - DEFI",
       "date": "2023-09-19",
-      "duration": "1h 56m",
+      "duration": "1:56:45",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1vAGRAQDMnDKl",
@@ -3537,7 +3624,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "108"
+      "listeners": 131,
+      "host": "@meximalist",
+      "speakers": 7
     },
     {
       "number": "20230918",
@@ -3560,7 +3649,7 @@
       "number": "20230912",
       "title": "MegaSpace - MUJ3RES SE VAN A LA ONU",
       "date": "2023-09-12",
-      "duration": "2h 28m",
+      "duration": "2:28:07",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1lDGLnBkagkxm",
@@ -3570,7 +3659,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "217"
+      "listeners": 346,
+      "host": "@meximalist",
+      "speakers": 16
     },
     {
       "number": "20230911",
@@ -3613,7 +3704,7 @@
       "number": "20230905",
       "title": "Los Ethereans, la Sacerdotisa y el Ingeniero - Phygital",
       "date": "2023-09-05",
-      "duration": "2h 24m",
+      "duration": "2:24:08",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1vAxRAQmPovJl",
@@ -3623,13 +3714,15 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "118"
+      "listeners": 207,
+      "host": "@meximalist",
+      "speakers": 7
     },
     {
       "number": "20230831",
       "title": "El Looser, el Economista y el Ingeniero - ¿PEPE Ponzi? - SEC",
       "date": "2023-08-31",
-      "duration": "2h 31m",
+      "duration": "2:31:10",
       "guests": [],
       "guest_links": {},
       "space_url": "",
@@ -3639,13 +3732,15 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "108"
+      "listeners": 166,
+      "host": "@meximalist",
+      "speakers": 7
     },
     {
       "number": "20230829",
       "title": "Mi Primer Bitcoin - Santiago, NL - TecnoMágico",
       "date": "2023-08-29",
-      "duration": "1h 13m",
+      "duration": "1:13:04",
       "guests": [],
       "guest_links": {},
       "space_url": "",
@@ -3655,7 +3750,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "45"
+      "listeners": 60,
+      "host": "@meximalist",
+      "speakers": 4
     },
     {
       "number": "20230825",
@@ -3678,7 +3775,7 @@
       "number": "20230824",
       "title": "Gitcoin Grants #18 @refimexico @antisat_eth @carnescrypto",
       "date": "2023-08-24",
-      "duration": "1h 10m",
+      "duration": "1:10:11",
       "guests": [
         "refimexico",
         "antisat_eth",
@@ -3696,7 +3793,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "63"
+      "listeners": 81,
+      "host": "@meximalist",
+      "speakers": 5
     },
     {
       "number": "20230824-2",
@@ -3736,7 +3835,7 @@
       "number": "20230822",
       "title": "Cripto Latin Fest - Inolvidable",
       "date": "2023-08-22",
-      "duration": "2h 30m",
+      "duration": "2:30:37",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1mrxmkPjVPgGy",
@@ -3746,7 +3845,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "209"
+      "listeners": 348,
+      "host": "@meximalist",
+      "speakers": 30
     },
     {
       "number": "20230812",
@@ -3769,7 +3870,7 @@
       "number": "20230810",
       "title": "La Abogada y el Ingeniero - Apoyo legal de X a sus usuarios",
       "date": "2023-08-10",
-      "duration": "1h 43m",
+      "duration": "1:43:07",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1BRKjZwRRLBKw",
@@ -3779,13 +3880,15 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "54"
+      "listeners": 77,
+      "host": "@meximalist",
+      "speakers": 9
     },
     {
       "number": "20230808",
       "title": "Mujeres en Web3 - Charla en las Naciones Unidas - Gracias @sandym_c",
       "date": "2023-08-08",
-      "duration": "2h 00m",
+      "duration": "2:00:47",
       "guests": [
         "sandym_c"
       ],
@@ -3799,7 +3902,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "198"
+      "listeners": 505,
+      "host": "@meximalist",
+      "speakers": 13
     },
     {
       "number": "20230803",
@@ -3821,7 +3926,7 @@
       "number": "20230801",
       "title": "El Economista y el Ingeniero - FedNow - DeFi - $BALD",
       "date": "2023-08-01",
-      "duration": "2h 03m",
+      "duration": "2:03:41",
       "guests": [],
       "guest_links": {},
       "space_url": "",
@@ -3831,13 +3936,15 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "82"
+      "listeners": 115,
+      "host": "@meximalist",
+      "speakers": 7
     },
     {
       "number": "20230727",
       "title": "La Abogada y el Ingeniero - Worldcoin",
       "date": "2023-07-27",
-      "duration": "2h 39m",
+      "duration": "2:39:17",
       "guests": [],
       "guest_links": {},
       "space_url": "",
@@ -3847,13 +3954,15 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "143"
+      "listeners": 244,
+      "host": "@meximalist",
+      "speakers": 14
     },
     {
       "number": "20230725",
       "title": "Open Mic - Parte 2 - 69 segundos para shillear lo que sea",
       "date": "2023-07-25",
-      "duration": "1h 16m",
+      "duration": "1:16:51",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1BdGYyrpoyvGX",
@@ -3863,7 +3972,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "73"
+      "listeners": 101,
+      "host": "@meximalist",
+      "speakers": 14
     },
     {
       "number": "20230725-S7",
@@ -3902,7 +4013,7 @@
       "number": "20230718",
       "title": "La Curadora, la Sacerdotisa y el Ingeniero - Eventos en CDMX",
       "date": "2023-07-18",
-      "duration": "2h 30m",
+      "duration": "2:30:15",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1yNGaNNAZqNJj",
@@ -3912,13 +4023,15 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "118"
+      "listeners": 197,
+      "host": "@meximalist",
+      "speakers": 7
     },
     {
       "number": "20230706",
       "title": "Lu, Jesús y Mexi - Threads, todo lo que necesitas saber",
       "date": "2023-07-06",
-      "duration": "42m",
+      "duration": "42:12",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1YqKDoqQRQwxV",
@@ -3928,7 +4041,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "112"
+      "listeners": 122,
+      "host": "@meximalist",
+      "speakers": 6
     },
     {
       "number": "20230706-2",
@@ -3951,7 +4066,7 @@
       "number": "20230704",
       "title": "La sacerdotisa, la honguitos y el ingeniero - Códigos de conducta",
       "date": "2023-07-04",
-      "duration": "2h 59m",
+      "duration": "2:58:59",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1vOGwMyeBwbxB",
@@ -3961,7 +4076,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "154"
+      "listeners": 286,
+      "host": "@meximalist",
+      "speakers": 21
     },
     {
       "number": "20230622",
@@ -3986,7 +4103,7 @@
       "number": "20230620",
       "title": "La Sacerdotisa y el Ingeniero - Vara / CriptoMéxico / Polkadot Decoded",
       "date": "2023-06-20",
-      "duration": "2h 27m",
+      "duration": "2:27:02",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1zqKVPeMvRlJB",
@@ -3996,13 +4113,15 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "150"
+      "listeners": 289,
+      "host": "@meximalist",
+      "speakers": 17
     },
     {
       "number": "20230613",
       "title": "La Sacerdotisa, el Economista y el Inge - CriptoLatinFest/Cetes/$NET",
       "date": "2023-06-13",
-      "duration": "2h 18m",
+      "duration": "2:18:42",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1gqxvyEEadeJB",
@@ -4012,13 +4131,15 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "139"
+      "listeners": 241,
+      "host": "@meximalist",
+      "speakers": 7
     },
     {
       "number": "20230608",
       "title": "La Abogada, el Economista y el Ingeniero - Código Civil, SEC, SWIFT",
       "date": "2023-06-08",
-      "duration": "1h 34m",
+      "duration": "1:34:08",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1jMJgLQqAVqxL",
@@ -4028,13 +4149,15 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "82"
+      "listeners": 121,
+      "host": "@meximalist",
+      "speakers": 3
     },
     {
       "number": "20230606",
       "title": "La Sacerdotisa, el Economista y el Inge - Rug Show Mx",
       "date": "2023-06-06",
-      "duration": "2h 58m",
+      "duration": "2:58:24",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1dRKZMQPwZzxB",
@@ -4044,7 +4167,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "203"
+      "listeners": 439,
+      "host": "@meximalist",
+      "speakers": 18
     },
     {
       "number": "20230602",
@@ -4069,7 +4194,7 @@
       "number": "20230601",
       "title": "Keren de Gear, el Economista y el Ingeniero - Mega Hackathon Gear",
       "date": "2023-06-01",
-      "duration": "1h 48m",
+      "duration": "1:48:25",
       "guests": [],
       "guest_links": {},
       "space_url": "",
@@ -4079,7 +4204,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "86"
+      "listeners": 144,
+      "host": "@meximalist",
+      "speakers": 9
     },
     {
       "number": "20230530",
@@ -4101,7 +4228,7 @@
       "number": "20230525",
       "title": "Founders y proyectos que vinieron a Mty",
       "date": "2023-05-25",
-      "duration": "3h 21m",
+      "duration": "3:21:23",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1LyxBqLjmOoJN",
@@ -4111,13 +4238,15 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "230"
+      "listeners": 470,
+      "host": "@meximalist",
+      "speakers": 2
     },
     {
       "number": "20230518",
       "title": "La Abogada, el Economista y El Ingeniero - NFT Show México Mty",
       "date": "2023-05-18",
-      "duration": "1h 51m",
+      "duration": "1:50:41",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1YqKDoBgNrkxV",
@@ -4127,13 +4256,15 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "126"
+      "listeners": 355,
+      "host": "@meximalist",
+      "speakers": 20
     },
     {
       "number": "20230517",
       "title": "AMA del Developer Bootcamp con Algorand Foundation",
       "date": "2023-05-17",
-      "duration": "1h 18m",
+      "duration": "1:18:28",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1ypKddvvzMgKW",
@@ -4143,7 +4274,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "77"
+      "listeners": 121,
+      "host": "@meximalist",
+      "speakers": 3
     },
     {
       "number": "20230516",
@@ -4201,7 +4334,7 @@
       "number": "20230502",
       "title": "La Belga y el Ingeniero - Apoyo Wiki / Marcus Dantus NFT",
       "date": "2023-05-02",
-      "duration": "1h 38m",
+      "duration": "1:38:32",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1mnxeROErMoKX",
@@ -4211,7 +4344,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "116"
+      "listeners": 177,
+      "host": "@meximalist",
+      "speakers": 10
     },
     {
       "number": "20230429",
@@ -4234,7 +4369,7 @@
       "number": "20230427",
       "title": "La Abogada, el Economista y el Ingeniero - Eventos Web3 en México",
       "date": "2023-04-27",
-      "duration": "2h 15m",
+      "duration": "2:15:52",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1DXxyvaPklbKM",
@@ -4244,13 +4379,15 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "91"
+      "listeners": 182,
+      "host": "@meximalist",
+      "speakers": 9
     },
     {
       "number": "20230425",
       "title": "El Profesor, el Economista y el Ingeniero - Eventos Web3, hay valor?",
       "date": "2023-04-25",
-      "duration": "3h 09m",
+      "duration": "3:09:27",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1nAKErQpZrOGL",
@@ -4260,7 +4397,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "200"
+      "listeners": 393,
+      "host": "@meximalist",
+      "speakers": 20
     },
     {
       "number": "20230423",
@@ -4283,7 +4422,7 @@
       "number": "20230420",
       "title": "La Abogada, el Economista y el Ingeniero - Leyes en Europa",
       "date": "2023-04-20",
-      "duration": "2h 21m",
+      "duration": "2:21:43",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1ZkKzXNybMZJv",
@@ -4293,13 +4432,15 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "124"
+      "listeners": 192,
+      "host": "@meximalist",
+      "speakers": 7
     },
     {
       "number": "20230418",
       "title": "El Economista y el Ingeniero - SEC y NFTNYC",
       "date": "2023-04-18",
-      "duration": "3h 11m",
+      "duration": "3:11:38",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1DXxyvYQALZKM",
@@ -4309,13 +4450,15 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "141"
+      "listeners": 307,
+      "host": "@meximalist",
+      "speakers": 15
     },
     {
       "number": "20230411",
       "title": "El Economista, el Looser y el Ingeniero - Noticias y Pre NFTNYC",
       "date": "2023-04-11",
-      "duration": "2h 26m",
+      "duration": "2:26:54",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1djGXldQjDOGZ",
@@ -4325,13 +4468,15 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "161"
+      "listeners": 2502,
+      "host": "@meximalist",
+      "speakers": 13
     },
     {
       "number": "20230330",
       "title": "La Abogada, el Economista y el Ingeniero",
       "date": "2023-03-30",
-      "duration": "1h 42m",
+      "duration": "1:42:24",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1DXGyvEpDOkJM",
@@ -4340,7 +4485,10 @@
       "status": "archived",
       "transcript_available": false,
       "content_generated": false,
-      "flyer_urls": []
+      "flyer_urls": [],
+      "listeners": 112,
+      "host": "@meximalist",
+      "speakers": 7
     },
     {
       "number": "20230328",
@@ -4363,7 +4511,7 @@
       "number": "20230316",
       "title": "La Abogada, el Economista y el Ingeniero - ¿Credit Suisse caerá?",
       "date": "2023-03-16",
-      "duration": "2h 17m",
+      "duration": "2:17:39",
       "guests": [],
       "guest_links": {},
       "space_url": "",
@@ -4373,13 +4521,15 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "109"
+      "listeners": 176,
+      "host": "@meximalist",
+      "speakers": 10
     },
     {
       "number": "20230314",
       "title": "La Abogada, el Economista y el Ingeniero - ¿Faltan bancos por caer?",
       "date": "2023-03-14",
-      "duration": "2h 12m",
+      "duration": "2:12:09",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1YqKDoRmoPvxV",
@@ -4389,7 +4539,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "229"
+      "listeners": 383,
+      "host": "@meximalist",
+      "speakers": 11
     },
     {
       "number": "20230313",
@@ -4429,7 +4581,7 @@
       "number": "20230309",
       "title": "La Abogada, el Economista y el Ingeniero - Leyes para DAOs",
       "date": "2023-03-09",
-      "duration": "1h 59m",
+      "duration": "1:59:46",
       "guests": [],
       "guest_links": {},
       "space_url": "",
@@ -4439,13 +4591,15 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "142"
+      "listeners": 225,
+      "host": "@meximalist",
+      "speakers": 8
     },
     {
       "number": "20230307",
       "title": "El Contador, el Economista y el Ingeniero - Fed Chair Powell",
       "date": "2023-03-07",
-      "duration": "1h 05m",
+      "duration": "1:05:00",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1rmxPkPmRnMJN",
@@ -4455,7 +4609,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "64"
+      "listeners": 81,
+      "host": "@meximalist",
+      "speakers": 5
     },
     {
       "number": "20230306",
@@ -4516,7 +4672,7 @@
       "number": "20230302",
       "title": "La Abogada, el Economista y el Ingeniero - #Tesla en Monterrey",
       "date": "2023-03-02",
-      "duration": "2h 41m",
+      "duration": "2:41:43",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1mrGmkgVrnLxy",
@@ -4526,13 +4682,15 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "224"
+      "listeners": 362,
+      "host": "@meximalist",
+      "speakers": 23
     },
     {
       "number": "20230228",
       "title": "El DJ, el Economista y el Ingeniero - @brozrdz",
       "date": "2023-02-28",
-      "duration": "4h 14m",
+      "duration": "4:14:31",
       "guests": [
         "brozrdz"
       ],
@@ -4546,13 +4704,15 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "312"
+      "listeners": 540,
+      "host": "@meximalist",
+      "speakers": 29
     },
     {
       "number": "20230223",
       "title": "La Abogada, el Economista y el Ingeniero",
       "date": "2023-02-23",
-      "duration": "2h 00m",
+      "duration": "2:00:06",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1DXGyvrrPYvJM",
@@ -4561,13 +4721,16 @@
       "status": "archived",
       "transcript_available": false,
       "content_generated": false,
-      "flyer_urls": []
+      "flyer_urls": [],
+      "listeners": 154,
+      "host": "@meximalist",
+      "speakers": 8
     },
     {
       "number": "20230221",
       "title": "La Contadora, el Economista y el Ingeniero - Regulación Cripto",
       "date": "2023-02-21",
-      "duration": "1h 45m",
+      "duration": "1:45:24",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1gqxvyqAmBlJB",
@@ -4577,13 +4740,15 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "72"
+      "listeners": 116,
+      "host": "@meximalist",
+      "speakers": 2
     },
     {
       "number": "20230216",
       "title": "La Abogada, el Economista y el Ingeniero - Historia del Dinero",
       "date": "2023-02-16",
-      "duration": "1h 41m",
+      "duration": "1:41:40",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1dRJZMXMbqmGB",
@@ -4593,13 +4758,15 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "75"
+      "listeners": 115,
+      "host": "@meximalist",
+      "speakers": 6
     },
     {
       "number": "20230214",
       "title": "El Economista y el Ingeniero",
       "date": "2023-02-14",
-      "duration": "1h 45m",
+      "duration": "1:45:47",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1mnxeRWomNaKX",
@@ -4608,7 +4775,10 @@
       "status": "archived",
       "transcript_available": false,
       "content_generated": false,
-      "flyer_urls": []
+      "flyer_urls": [],
+      "listeners": 75,
+      "host": "@meximalist",
+      "speakers": 6
     },
     {
       "number": "20230213",
@@ -4765,7 +4935,7 @@
       "number": "20230202",
       "title": "La abogada, el economista y el ingeniero - dominios ens y otros",
       "date": "2023-02-02",
-      "duration": "2h 03m",
+      "duration": "2:03:43",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1vAxRAXdWggJl",
@@ -4775,13 +4945,15 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "131"
+      "listeners": 175,
+      "host": "@meximalist",
+      "speakers": 16
     },
     {
       "number": "20230131",
       "title": "La artista, el pescador y el ingeniero - cómo entrevistar proyectos?",
       "date": "2023-01-31",
-      "duration": "3h 02m",
+      "duration": "3:02:27",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1mrGmkAbZYwxy",
@@ -4791,7 +4963,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "179"
+      "listeners": 340,
+      "host": "@meximalist",
+      "speakers": 16
     },
     {
       "number": "20230128",
@@ -4848,7 +5022,7 @@
       "number": "20230124",
       "title": "El economista, el profesor y el ingeniero - Tokenización de activos",
       "date": "2023-01-24",
-      "duration": "1h 21m",
+      "duration": "1:21:52",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1nAKErDAqNRGL",
@@ -4858,7 +5032,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "55"
+      "listeners": 68,
+      "host": "@meximalist",
+      "speakers": 4
     },
     {
       "number": "20230121",
@@ -4880,7 +5056,7 @@
       "number": "20230119",
       "title": "La abogada, el economista y el ingeniero",
       "date": "2023-01-19",
-      "duration": "1h 53m",
+      "duration": "1:53:05",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1eaKbrXLknaKX",
@@ -4889,13 +5065,16 @@
       "status": "archived",
       "transcript_available": false,
       "content_generated": false,
-      "flyer_urls": []
+      "flyer_urls": [],
+      "listeners": 137,
+      "host": "@meximalist",
+      "speakers": 7
     },
     {
       "number": "20230117",
       "title": "La abogada, el economista y el ingeniero",
       "date": "2023-01-17",
-      "duration": "2h 00m",
+      "duration": "2:00:36",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1vAxRALjbLrJl",
@@ -4905,13 +5084,15 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "118"
+      "listeners": 169,
+      "host": "@meximalist",
+      "speakers": 9
     },
     {
       "number": "20230112",
       "title": "La abogada, el economista y el ingeniero - Ley creadores de contenido",
       "date": "2023-01-12",
-      "duration": "1h 35m",
+      "duration": "1:35:41",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1YqKDobEraDxV",
@@ -4921,7 +5102,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "87"
+      "listeners": 130,
+      "host": "@meximalist",
+      "speakers": 7
     },
     {
       "number": "20230110",
@@ -4947,7 +5130,7 @@
       "number": "20230110-S7",
       "title": "El economista y el ingeniero - ¿Buenas noticias en los mercados?",
       "date": "2023-01-10",
-      "duration": "1h 45m",
+      "duration": "1:45:18",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1LyxBqbQPYLJN",
@@ -4957,7 +5140,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "120"
+      "listeners": 156,
+      "host": "@meximalist",
+      "speakers": 9
     },
     {
       "number": "20230109",
@@ -4980,7 +5165,7 @@
       "number": "20230105",
       "title": "La abogada, el economista y el ingeniero - Leyes Fintech",
       "date": "2023-01-05",
-      "duration": "1h 39m",
+      "duration": "1:39:52",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1LyxBqbpnkLJN",
@@ -4990,13 +5175,15 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "77"
+      "listeners": 119,
+      "host": "@meximalist",
+      "speakers": 9
     },
     {
       "number": "20230103",
       "title": "La abogada, el economista y el ingeniero - 2022 y Perspectivas 2023",
       "date": "2023-01-03",
-      "duration": "1h 33m",
+      "duration": "1:33:53",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1lPKqBzvPXeGb",
@@ -5006,7 +5193,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "59"
+      "listeners": 74,
+      "host": "@meximalist",
+      "speakers": 8
     },
     {
       "number": "20221229",
@@ -5046,7 +5235,7 @@
       "number": "20221222",
       "title": "La abogada, el economista y el ingeniero - The Rug Pull Report 2022",
       "date": "2022-12-22",
-      "duration": "1h 55m",
+      "duration": "1:55:50",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1ypKddMkbAvKW",
@@ -5056,7 +5245,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "68"
+      "listeners": 104,
+      "host": "@meximalist",
+      "speakers": 7
     },
     {
       "number": "20221222-S7",
@@ -5082,7 +5273,7 @@
       "number": "20221220",
       "title": "El economista, el ingeniero y el dropout - Tesla en NL, MX",
       "date": "2022-12-20",
-      "duration": "2h 05m",
+      "duration": "2:05:50",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1mnxeRwdNLaKX",
@@ -5092,7 +5283,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "137"
+      "listeners": 192,
+      "host": "@meximalist",
+      "speakers": 19
     },
     {
       "number": "20221220-2",
@@ -5115,7 +5308,7 @@
       "number": "20221216",
       "title": "¿cómo entrevistar a los miembros de equipos de colecciones nuevas?",
       "date": "2022-12-16",
-      "duration": "2h 11m",
+      "duration": "2:11:41",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1mrGmklgzAVxy",
@@ -5125,13 +5318,15 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "35"
+      "listeners": 47,
+      "host": "@meximalist",
+      "speakers": 4
     },
     {
       "number": "20221215",
       "title": "La abogada, el economista y el ingeniero - NFTs @cervezaindio",
       "date": "2022-12-15",
-      "duration": "1h 37m",
+      "duration": "1:37:58",
       "guests": [
         "cervezaindio"
       ],
@@ -5145,7 +5340,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "48"
+      "listeners": 60,
+      "host": "@meximalist",
+      "speakers": 6
     },
     {
       "number": "20221215-S7",
@@ -5171,7 +5368,7 @@
       "number": "20221213",
       "title": "El economista, el pescador y el ingeniero - Rugs IRL y Rugs en Web3",
       "date": "2022-12-13",
-      "duration": "2h 35m",
+      "duration": "2:35:53",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1mnxeRwZepQKX",
@@ -5181,7 +5378,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "94"
+      "listeners": 131,
+      "host": "@meximalist",
+      "speakers": 13
     },
     {
       "number": "20221210",
@@ -5224,7 +5423,7 @@
       "number": "20221206",
       "title": "La abogada, el economista y el ingeniero Ep08 #ChatGPT",
       "date": "2022-12-06",
-      "duration": "1h 41m",
+      "duration": "1:41:20",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1LyxBqZRoZEJN",
@@ -5234,13 +5433,15 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "73"
+      "listeners": 95,
+      "host": "@meximalist",
+      "speakers": 7
     },
     {
       "number": "20221201",
       "title": "El economista y el ingeniero Ep07",
       "date": "2022-12-01",
-      "duration": "1h 17m",
+      "duration": "1:17:03",
       "guests": [],
       "guest_links": {},
       "space_url": "",
@@ -5250,13 +5451,15 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "48"
+      "listeners": 54,
+      "host": "@meximalist",
+      "speakers": 5
     },
     {
       "number": "20221129",
       "title": "El pescador, el economista y el ingeniero Ep06",
       "date": "2022-11-29",
-      "duration": "1h 15m",
+      "duration": "1:15:42",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1mnxeRPLrXPKX",
@@ -5266,7 +5469,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "71"
+      "listeners": 94,
+      "host": "@meximalist",
+      "speakers": 7
     },
     {
       "number": "20221128",
@@ -5323,7 +5528,7 @@
       "number": "20221124",
       "title": "La abogada, el economista y el ingeniero Ep 05",
       "date": "2022-11-24",
-      "duration": "1h 34m",
+      "duration": "1:34:22",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1ZkKzXQVvjNJv",
@@ -5333,13 +5538,15 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "40"
+      "listeners": 57,
+      "host": "@meximalist",
+      "speakers": 6
     },
     {
       "number": "20221122",
       "title": "Previo al evento en Monterrey de @MarcusDantusNFT",
       "date": "2022-11-22",
-      "duration": "1h 20m",
+      "duration": "1:20:28",
       "guests": [
         "MarcusDantusNFT"
       ],
@@ -5353,13 +5560,15 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "71"
+      "listeners": 113,
+      "host": "@meximalist",
+      "speakers": 9
     },
     {
       "number": "20221122-S7",
       "title": "El economista y el ingeniero Ep04",
       "date": "2022-11-22",
-      "duration": "1h 51m",
+      "duration": "1:51:27",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1zqKVPozepnJB",
@@ -5369,7 +5578,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "60"
+      "listeners": 121,
+      "host": "@meximalist",
+      "speakers": 9
     },
     {
       "number": "20221121",
@@ -5392,7 +5603,7 @@
       "number": "20221117",
       "title": "El economista y el ingeniero Ep03",
       "date": "2022-11-17",
-      "duration": "1h 30m",
+      "duration": "1:30:56",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1yNGaNEgjVNJj",
@@ -5402,7 +5613,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "62"
+      "listeners": 74,
+      "host": "@meximalist",
+      "speakers": 4
     },
     {
       "number": "20221117-2",
@@ -5425,7 +5638,7 @@
       "number": "20221115",
       "title": "El economista y el ingeniero Ep02",
       "date": "2022-11-15",
-      "duration": "1h 46m",
+      "duration": "1:46:10",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1yoJMZgAeBwxQ",
@@ -5435,7 +5648,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "16"
+      "listeners": 104,
+      "host": "@meximalist",
+      "speakers": 11
     },
     {
       "number": "20221114",
@@ -5491,7 +5706,7 @@
       "number": "20221110",
       "title": "El economista y el ingeniero",
       "date": "2022-11-10",
-      "duration": "1h 36m",
+      "duration": "1:36:29",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1MnGnpbWkBdxO",
@@ -5501,7 +5716,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "103"
+      "listeners": 164,
+      "host": "@meximalist",
+      "speakers": 14
     },
     {
       "number": "20221110-2",
@@ -5615,7 +5832,7 @@
       "number": "20221027",
       "title": "Legendary Lions Tecate Pal Norte - Plática con Founder",
       "date": "2022-10-27",
-      "duration": "1h 16m",
+      "duration": "1:16:37",
       "guests": [],
       "guest_links": {},
       "space_url": "",
@@ -5625,7 +5842,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "99"
+      "listeners": 146,
+      "host": "@meximalist",
+      "speakers": 1
     },
     {
       "number": "20221025",
@@ -5735,7 +5954,7 @@
       "number": "20220930",
       "title": "Blockchain Land en Monterrey del 5 al 7 de Octubre en Cintermex",
       "date": "2022-09-30",
-      "duration": "1h 48m",
+      "duration": "1:48:22",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1LyxBqvevkpJN",
@@ -5745,7 +5964,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "117"
+      "listeners": 153,
+      "host": "@meximalist",
+      "speakers": 10
     },
     {
       "number": "20220928",
@@ -5887,7 +6108,7 @@
       "number": "20220729",
       "title": "NFT Arte y artistas de piezas 1-1. Episodio 05 con @meximalist",
       "date": "2022-07-29",
-      "duration": "2h 37m",
+      "duration": "2:37:10",
       "guests": [
         "meximalist"
       ],
@@ -5901,7 +6122,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "73"
+      "listeners": 135,
+      "host": "@meximalist",
+      "speakers": 6
     },
     {
       "number": "20220728",
@@ -5924,7 +6147,7 @@
       "number": "20220721",
       "title": "NFTs ¿Qué hay que considerar al lanzar una colección de NFTs?",
       "date": "2022-07-21",
-      "duration": "2h 55m",
+      "duration": "2:55:38",
       "guests": [],
       "guest_links": {},
       "space_url": "",
@@ -5934,13 +6157,15 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "82"
+      "listeners": 147,
+      "host": "@meximalist",
+      "speakers": 10
     },
     {
       "number": "20220707",
       "title": "El Spaces que necesitábamos Ep04 Colección @masmonos con @meximalist",
       "date": "2022-07-07",
-      "duration": "2h 47m",
+      "duration": "2:47:40",
       "guests": [
         "masmonos",
         "meximalist"
@@ -5956,7 +6181,9 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "153"
+      "listeners": 249,
+      "host": "@meximalist",
+      "speakers": 14
     },
     {
       "number": "20220630",
