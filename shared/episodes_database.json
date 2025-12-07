@@ -17,34 +17,6 @@
   },
   "episodes": [
     {
-      "number": "20251103",
-      "type": "co-hosted",
-      "title": "LATAM SZN 😈 Ep. 6 con @LataMcap y @CasaWeb3 | Comenzamos 🤝 Comparte",
-      "date": "2025-11-03",
-      "duration": "47 minutes, 13 seconds",
-      "listeners": 418,
-      "space_url": "https://x.com/i/spaces/1MnGnPrjqWYxO",
-      "guests": [
-        "@LataMCap",
-        "@con3joblanco",
-        "@meximalist",
-        "@Roui3r",
-        "@VitoApH",
-        "@m_endiola"
-      ],
-      "description": "Co-hosted Space: LATAM SZN 😈 Ep. 6 con @LataMcap y @CasaWeb3 | Comenzamos 🤝 Comparte. Host: @LataMCap. Co-Hosts: @con3joblanco, @meximalist.",
-      "host": "@LataMCap",
-      "cohosts": [
-        "@con3joblanco",
-        "@meximalist"
-      ],
-      "topics": [
-        "LataMCap",
-        "Latam Market Cap",
-        "CasaWeb3"
-      ]
-    },
-    {
       "number": "074",
       "title": "Hackathon @ETHGlobal - EVVM Hackathon Track: $20,000 USD",
       "date": "2025-12-04",
@@ -95,6 +67,34 @@
       "transcript_available": true,
       "content_generated": true,
       "type": "numbered"
+    },
+    {
+      "number": "20251103",
+      "type": "co-hosted",
+      "title": "LATAM SZN 😈 Ep. 6 con @LataMcap y @CasaWeb3 | Comenzamos 🤝 Comparte",
+      "date": "2025-11-03",
+      "duration": "47 minutes, 13 seconds",
+      "listeners": 418,
+      "space_url": "https://x.com/i/spaces/1MnGnPrjqWYxO",
+      "guests": [
+        "@LataMCap",
+        "@con3joblanco",
+        "@meximalist",
+        "@Roui3r",
+        "@VitoApH",
+        "@m_endiola"
+      ],
+      "description": "Co-hosted Space: LATAM SZN 😈 Ep. 6 con @LataMcap y @CasaWeb3 | Comenzamos 🤝 Comparte. Host: @LataMCap. Co-Hosts: @con3joblanco, @meximalist.",
+      "host": "@LataMCap",
+      "cohosts": [
+        "@con3joblanco",
+        "@meximalist"
+      ],
+      "topics": [
+        "LataMCap",
+        "Latam Market Cap",
+        "CasaWeb3"
+      ]
     },
     {
       "number": "072",
@@ -2472,6 +2472,33 @@
       "flyer_urls": [],
       "listeners": "106",
       "type": "co-hosted"
+    },
+    {
+      "number": "20240116",
+      "type": "hosted",
+      "title": "Banda Web3 - RetroPGF 3 @Optimism Ended",
+      "date": "2024-01-16",
+      "duration": "2h 17m",
+      "listeners": 376,
+      "space_url": "https://x.com/i/spaces/1OwxWYDvMNjGQ?s=20",
+      "host": "@meximalist",
+      "cohosts": [
+        "@AleRaMo30",
+        "@brichis_",
+        "@monitalan"
+      ],
+      "guests": [
+        "@AleRaMo30",
+        "@brichis_",
+        "@monitalan"
+      ],
+      "description": "Banda Web3 - RetroPGF 3 @Optimism Ended. Joined by @AleRaMo30, @brichis_, @monitalan. Topics: RetroPGF 3, Ethereum Attestation Service, mpDAO, Liquid DeFi LATAM.",
+      "topics": [
+        "RetroPGF 3",
+        "Optimism",
+        "mpDAO",
+        "Ethereum"
+      ]
     },
     {
       "number": "20240113",
