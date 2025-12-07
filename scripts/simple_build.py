@@ -124,6 +124,7 @@ def generate():
                     <div class="episode-meta">
                         {f'<span class="status-badge cohosted" style="margin-right: 15px;">🤝 Co-Hosted</span>' if ep.get("type") == "co-hosted" else ""}
                         {f'<span class="status-badge" style="margin-right: 15px; background-color: #1DA1F2; color: white; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">📊 X Spaces Analytics</span>' if ep.get("analytics_source") else ""}
+                        {f'<span class="status-badge" style="margin-right: 15px; background-color: #000000; color: white; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">🔗 Space Link Available</span>' if ep.get("space_url") else ""}
                         <span>📅 {ep['date']}</span>
                         <span>⏱ {ep['duration'].replace("Duration: ", "") if ep.get('duration') else ""}</span>
                         {f'<span>🎧 {ep["listeners"]}</span>' if ep.get("listeners") else ""}
@@ -365,6 +366,7 @@ def generate_subpage(output_dir, filename, title, subtitle, episodes_list):
                                 <span class="episode-number">#{ep['number']}</span>
                                 {f'<span class="status-badge cohosted" style="margin-left: 10px; font-size: 0.8em; padding: 2px 8px;">🤝 Co-Hosted</span>' if ep.get("type") == "co-hosted" else ""}
                                 {f'<span class="status-badge" style="margin-left: 10px; font-size: 0.7em; padding: 2px 6px; background-color: #1DA1F2; color: white;">📊 Analytics</span>' if ep.get("analytics_source") else ""}
+                                {f'<span class="status-badge" style="margin-left: 10px; font-size: 0.7em; padding: 2px 6px; background-color: #000000; color: white;">🔗 Space</span>' if ep.get("space_url") else ""}
                                 <span class="episode-date">{ep['date']}</span>
                                 {f'<span class="episode-listeners" style="margin-left: 10px; font-size: 0.9em; color: #666;">🎧 {ep["listeners"]}</span>' if ep.get("listeners") else ""}
                             </div>
