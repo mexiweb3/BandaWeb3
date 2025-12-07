@@ -2085,30 +2085,35 @@
     {
       "number": "015",
       "title": "Episode 015 with @Atitovva",
-      "date": "2024-11-21",
+      "date": "2024-11-19",
+      "time": "12:00 PM CST",
       "guests": [
         "Atitovva"
       ],
-      "duration": "",
-      "description": "Episode 015 of BandaWeb3 with special guest @Atitovva.",
-      "topics": [],
-      "status": "pending",
-      "transcript_available": false,
-      "content_generated": false,
-      "space_url": "https://x.com/i/spaces/1OdKrXADwlXJX",
-      "audio_url": "",
-      "flyer_urls": [
-        "flyer_015.jpg"
-      ],
-      "time": "12:00 PM CST",
       "guest_links": {
         "Atitovva": "https://x.com/Atitovva"
       },
+      "description": "Episode 015 of BandaWeb3 with special guest @Atitovva.",
+      "topics": [
+        "Web3",
+        "Blockchain"
+      ],
+      "status": "scheduled",
+      "space_url": "",
       "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-014-atitovva",
       "opensea_url": "https://opensea.io/collection/bandaweb3-015-atitovva",
-      "contract_url": "https://arbiscan.io//address/0x8f4d86fd156a1fc32e9304612d94ea31fb922f95",
-      "listeners": "21",
-      "type": "numbered"
+      "contract_url": "",
+      "flyer_urls": [
+        "flyer_015.jpg"
+      ],
+      "transcript_available": false,
+      "content_generated": false,
+      "duration": "1:23:44",
+      "type": "numbered",
+      "listeners": 73,
+      "host": "@meximalist",
+      "speakers": 3,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "20241120",
@@ -2130,11 +2135,11 @@
     {
       "number": "014",
       "title": "Episode 014 with @AnanaNFTs",
-      "date": "2024-11-19",
+      "date": "2024-11-18",
       "guests": [
         "AnanaNFTs"
       ],
-      "duration": "1h 16m",
+      "duration": "1:16:05",
       "description": "Episode 014 of BandaWeb3 with special guest @AnanaNFTs.",
       "topics": [],
       "status": "pending",
@@ -2145,15 +2150,18 @@
       "flyer_urls": [
         "flyer_014.jpg"
       ],
-      "time": "06:00 PM CST",
+      "time": "12:00 PM CST",
       "guest_links": {
         "AnanaNFTs": "https://x.com/AnanaNFTs"
       },
-      "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-015-anana-nf-ts",
+      "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-014-anananfts",
       "opensea_url": "https://opensea.io/collection/bandaweb3-014-anananfts",
-      "contract_url": "https://arbiscan.io//address/0x0147aa70c8caa8a47e98808bca207c94a3beca8a",
-      "listeners": "108",
-      "type": "numbered"
+      "contract_url": "",
+      "type": "numbered",
+      "listeners": 108,
+      "host": "@meximalist",
+      "speakers": 2,
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "013",
