@@ -567,7 +567,7 @@
       "number": "057",
       "title": "BandaWeb3 #057 @CryptoNotaz #WLFI",
       "date": "2025-05-15",
-      "duration": "1h 42m",
+      "duration": "1:42:45",
       "guests": [
         "CryptoNotaz"
       ],
@@ -583,14 +583,17 @@
       "flyer_urls": [
         "flyer_057.jpg"
       ],
-      "listeners": "213",
-      "type": "numbered"
+      "listeners": 213,
+      "type": "numbered",
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 1
     },
     {
       "number": "056",
       "title": "BandaWeb3 #056 @RoyalBunker dApp",
       "date": "2025-05-13",
-      "duration": "1h 14m",
+      "duration": "1:14:04",
       "guests": [
         "RoyalBunker"
       ],
@@ -613,14 +616,16 @@
       "flyer_urls": [
         "flyer_056.jpg"
       ],
-      "listeners": "0",
-      "type": "numbered"
+      "listeners": 25,
+      "type": "numbered",
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "055",
       "title": "BandaWeb3 #055 @btcnetworkmty",
       "date": "2025-05-08",
-      "duration": "1h 22m",
+      "duration": "1:22:48",
       "guests": [
         "visionario_btc",
         "kapitalex"
@@ -644,14 +649,17 @@
         "flyer_055.jpg",
         "flyer_055_2.jpg"
       ],
-      "listeners": "100",
-      "type": "numbered"
+      "listeners": 100,
+      "type": "numbered",
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 4
     },
     {
       "number": "054",
       "title": "BandaWeb3 #054 Embajadores @arbitrum",
       "date": "2025-05-06",
-      "duration": "1h 20m",
+      "duration": "1:20:51",
       "guests": [
         "_nathcortez",
         "ToryDomK",
@@ -683,8 +691,11 @@
       "flyer_urls": [
         "flyer_054.jpg"
       ],
-      "listeners": "104",
-      "type": "numbered"
+      "listeners": 104,
+      "type": "numbered",
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 8
     },
     {
       "number": "053",
@@ -723,7 +734,7 @@
       "number": "052",
       "title": "BandaWeb3 #052 @gustavojfe @SwapidoBTC",
       "date": "2025-04-17",
-      "duration": "1h 22m",
+      "duration": "1:22:48",
       "guests": [
         "gustavojfe",
         "SwapidoBTC"
@@ -747,14 +758,17 @@
       "flyer_urls": [
         "flyer_052.jpg"
       ],
-      "listeners": "72",
-      "type": "numbered"
+      "listeners": 72,
+      "type": "numbered",
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 2
     },
     {
       "number": "051",
       "title": "BandaWeb3 #051 @ElevatHerVC",
       "date": "2025-04-15",
-      "duration": "1h 15m",
+      "duration": "1:15:36",
       "guests": [
         "sandym_c",
         "diana10ka",
@@ -785,14 +799,17 @@
       "flyer_urls": [
         "flyer_051.jpg"
       ],
-      "listeners": "168",
-      "type": "numbered"
+      "listeners": 168,
+      "type": "numbered",
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 6
     },
     {
       "number": "050",
       "title": "BandaWeb3 #050 @entigdd @LidoFinance",
       "date": "2025-04-03",
-      "duration": "1 hours, 7 minutes, 41 seconds",
+      "duration": "1:07:40",
       "guests": [
         "entigdd",
         "LidoFinance"
@@ -816,14 +833,17 @@
       "flyer_urls": [
         "flyer_050.jpg"
       ],
-      "listeners": "48",
-      "type": "numbered"
+      "listeners": 48,
+      "type": "numbered",
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 1
     },
     {
       "number": "049",
       "title": "BandaWeb3 #049 @sohobiit @happ3nxyz",
       "date": "2025-04-01",
-      "duration": "1h 12m",
+      "duration": "1:12:52",
       "guests": [
         "sohobiit",
         "happ3nxyz",
@@ -851,15 +871,18 @@
       "flyer_urls": [
         "flyer_049.jpg"
       ],
-      "listeners": "109",
-      "type": "numbered"
+      "listeners": 109,
+      "type": "numbered",
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 4
     },
     {
       "number": "048",
       "title": "BandaWeb3 #048 @ETHCincoDeMayo",
       "date": "2025-03-27",
       "time": "12:00 PM CST",
-      "duration": "1h 25m",
+      "duration": "1:25:32",
       "guests": [
         "ETHCincoDeMayo",
         "meximalist",
@@ -891,8 +914,11 @@
         "flyer_048.jpg",
         "flyer_048_2.jpg"
       ],
-      "listeners": "84",
-      "type": "numbered"
+      "listeners": 84,
+      "type": "numbered",
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 4
     },
     {
       "number": "047",
@@ -930,7 +956,7 @@
       "title": "BandaWeb3 #046 @FerIAFoundation",
       "date": "2025-03-20",
       "time": "12:00 PM CST",
-      "duration": "",
+      "duration": "1:05:52",
       "guests": [
         "FerIAFoundation"
       ],
@@ -949,15 +975,18 @@
       "flyer_urls": [
         "flyer_046.jpg"
       ],
-      "listeners": "0",
-      "type": "numbered"
+      "listeners": 162,
+      "type": "numbered",
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 1
     },
     {
       "number": "045",
       "title": "BandaWeb3 #045 Stablecoins MXN USD",
       "date": "2025-03-18",
       "time": "12:00 PM CST",
-      "duration": "1h 24m",
+      "duration": "1:24:32",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1nAJEgjwpjnKL?s=20",
@@ -973,15 +1002,18 @@
       "flyer_urls": [
         "flyer_045.png"
       ],
-      "listeners": "103",
-      "type": "numbered"
+      "listeners": 60,
+      "type": "numbered",
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 6
     },
     {
       "number": "043",
       "title": "BandaWeb3 #043 @rogservin @AmpleProtocol",
       "date": "2025-03-13",
       "time": "12:00 PM CST",
-      "duration": "1h 20m",
+      "duration": "1:20:15",
       "guests": [
         "rogservin",
         "AmpleProtocol"
@@ -1002,15 +1034,18 @@
       "flyer_urls": [
         "flyer_043.jpg"
       ],
-      "listeners": "211",
-      "type": "numbered"
+      "listeners": 211,
+      "type": "numbered",
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 3
     },
     {
       "number": "042",
       "title": "BandaWeb3 #042 PixHelp Ordinals @UNICEFColombia",
       "date": "2025-02-20",
       "time": "12:00 PM CST",
-      "duration": "1h 32m",
+      "duration": "1:32:34",
       "guests": [
         "Wenlopezn",
         "YuZapata3SC",
@@ -1041,8 +1076,11 @@
       "flyer_urls": [
         "flyer_042.jpg"
       ],
-      "listeners": "80",
-      "type": "numbered"
+      "listeners": 138,
+      "type": "numbered",
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 9
     },
     {
       "number": "041",
@@ -1079,7 +1117,7 @@
       "title": "BandaWeb3 #040 @ElioWIF",
       "date": "2025-02-13",
       "time": "12:00 PM CST",
-      "duration": "1h 00m",
+      "duration": "1:07:01",
       "guests": [
         "ElioWIF",
         "meximalist"
@@ -1101,15 +1139,18 @@
       "flyer_urls": [
         "flyer_040.jpg"
       ],
-      "listeners": "135",
-      "type": "numbered"
+      "listeners": 135,
+      "type": "numbered",
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 1
     },
     {
       "number": "039",
       "title": "BandaWeb3 #039 @ariutokintumi de @ETHCincoDeMayo y @RollAMate",
       "date": "2025-02-11",
       "time": "12:00 PM CST",
-      "duration": "1h 10m",
+      "duration": "1:36:49",
       "guests": [
         "ariutokintumi",
         "ETHCincoDeMayo",
@@ -1135,15 +1176,18 @@
       "flyer_urls": [
         "flyer_039.jpg"
       ],
-      "listeners": "100",
-      "type": "numbered"
+      "listeners": 90,
+      "type": "numbered",
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 1
     },
     {
       "number": "038",
       "title": "BandaWeb3 #038 @fservin de @HolaSati y @LosOrdinales",
       "date": "2025-02-04",
       "time": "12:00 PM CST",
-      "duration": "1h 10m",
+      "duration": "42:09",
       "guests": [
         "fservin",
         "HolaSati",
@@ -1170,15 +1214,18 @@
       "flyer_urls": [
         "flyer_038.jpg"
       ],
-      "listeners": "80",
-      "type": "numbered"
+      "listeners": 103,
+      "type": "numbered",
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 1
     },
     {
       "number": "037",
       "title": "BandaWeb3 #037 @CryptoNotaz @con3joblanco",
       "date": "2025-01-28",
       "time": "12:00 PM CST",
-      "duration": "1h 30m",
+      "duration": "1:48:11",
       "guests": [
         "CryptoNotaz",
         "con3joblanco",
@@ -1203,15 +1250,18 @@
       "flyer_urls": [
         "flyer_037.jpg"
       ],
-      "listeners": "85",
-      "type": "numbered"
+      "listeners": 206,
+      "type": "numbered",
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 8
     },
     {
       "number": "036",
       "title": "BandaWeb3 #036 Embajadores @StellarOrg @StarMakerMex",
       "date": "2025-01-23",
       "time": "12:00 PM CST",
-      "duration": "1h 30m",
+      "duration": "1:12:44",
       "guests": [
         "Danielahenao_1",
         "JCruz3464",
@@ -1240,15 +1290,18 @@
       "flyer_urls": [
         "flyer_036.png"
       ],
-      "listeners": "90",
-      "type": "numbered"
+      "listeners": 53,
+      "type": "numbered",
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 3
     },
     {
       "number": "035",
       "title": "BandaWeb3 #035 Fiesta de @NounsDAOAmigos en Decentraland",
       "date": "2025-01-21",
       "time": "12:00 PM CST",
-      "duration": "1h 23m",
+      "duration": "1:23:22",
       "guests": [
         "Lunaticanto",
         "leobunster",
@@ -1276,8 +1329,11 @@
       "flyer_urls": [
         "flyer_035.jpg"
       ],
-      "listeners": "66",
-      "type": "numbered"
+      "listeners": 66,
+      "type": "numbered",
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 8
     },
     {
       "number": "20250119",
@@ -1300,7 +1356,7 @@
       "number": "034",
       "title": "BandaWeb3 #034 @bairorb",
       "date": "2025-01-16",
-      "duration": "1h 35m",
+      "duration": "1:35:32",
       "guests": [
         "bairorb"
       ],
@@ -1316,15 +1372,18 @@
       "flyer_urls": [
         "flyer_034.png"
       ],
-      "listeners": "45",
-      "type": "numbered"
+      "listeners": 45,
+      "type": "numbered",
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 3
     },
     {
       "number": "033",
       "title": "BandaWeb3 #033 @iafhurtado",
       "date": "2025-01-14",
       "time": "1:00 PM CST",
-      "duration": "1h 08m",
+      "duration": "1:08:35",
       "guests": [
         "iafhurtado"
       ],
@@ -1343,8 +1402,11 @@
       "flyer_urls": [
         "flyer_033.png"
       ],
-      "listeners": "11",
-      "type": "numbered"
+      "listeners": 70,
+      "type": "numbered",
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 1
     },
     {
       "number": "20250113",
@@ -1368,7 +1430,7 @@
       "title": "BandaWeb3 #032 @betsacarrizo",
       "date": "2025-01-09",
       "time": "12:00 PM CST",
-      "duration": "1h 17m",
+      "duration": "1:22:17",
       "guests": [
         "betsacarrizo"
       ],
@@ -1388,15 +1450,18 @@
       "flyer_urls": [
         "flyer_032.jpg"
       ],
-      "listeners": "8",
-      "type": "numbered"
+      "listeners": 1026,
+      "type": "numbered",
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 1
     },
     {
       "number": "031",
       "title": "BandaWeb3 #031 @yedidweb3",
       "date": "2025-01-07",
       "time": "12:00 PM CST",
-      "duration": "1h 30m",
+      "duration": "1:30:29",
       "guests": [
         "yedidweb3"
       ],
@@ -1417,15 +1482,18 @@
       "flyer_urls": [
         "flyer_031.png"
       ],
-      "listeners": "47",
-      "type": "numbered"
+      "listeners": 47,
+      "type": "numbered",
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 3
     },
     {
       "number": "030",
       "title": "BandaWeb3 #030 @The_WomenofWeb3 Book",
       "date": "2024-12-20",
       "time": "2:00 PM CST",
-      "duration": "",
+      "duration": "1:37:52",
       "guests": [
         "sandym_c",
         "AnanaNFTs",
@@ -1461,8 +1529,11 @@
       "flyer_urls": [
         "flyer_030.jpg"
       ],
-      "listeners": "0",
-      "type": "numbered"
+      "listeners": 89,
+      "type": "numbered",
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 9
     },
     {
       "number": "029",
@@ -1507,7 +1578,7 @@
         "eth_mty",
         "mxweb3"
       ],
-      "duration": "1h 38m",
+      "duration": "1:38:47",
       "description": "BandaWeb3 #028 Post Posada @arbitrum @eth_mty @mxweb3. Conversaciones con @meximalist, sin guion y uno que otro anuncio.",
       "topics": [
         "Post Posada",
@@ -1529,8 +1600,11 @@
       },
       "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-028-post-posada-arbitrum-eth-mty-mxweb-3",
       "arbiscan_url": "https://arbiscan.io/address/0x63Bc3BE8708A1f713f1c3782EC724387fbB22EEE",
-      "listeners": "97",
-      "type": "numbered"
+      "listeners": 114,
+      "type": "numbered",
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 4
     },
     {
       "number": "027",
@@ -1542,7 +1616,7 @@
         "unlocksummit_io",
         "pwr2tpmx"
       ],
-      "duration": "1h 21m",
+      "duration": "1:21:36",
       "description": "@unlocksummit_io & @pwr2tpmx 👾 • Community architect 🏗️, content creator 📲, opinion leader 👩🏻‍💻, 🤑📊. Web3, Technology and AI. 🤖🏳️‍🌈",
       "topics": [
         "Web3",
@@ -1563,8 +1637,11 @@
       },
       "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-027-revillaweb-3",
       "arbiscan_url": "https://arbiscan.io/address/0xf1c988dAF2688c043e8505Bbec218F3691E6E5bE",
-      "listeners": "57",
-      "type": "numbered"
+      "listeners": 57,
+      "type": "numbered",
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 3
     },
     {
       "number": "20241216",
@@ -1622,7 +1699,7 @@
       "guests": [
         "LaZonaTres"
       ],
-      "duration": "1h 14m",
+      "duration": "1:14:51",
       "description": "Zona Tres - Hub educativo multichain que está creando la próxima generación de constructores Web3 en las regiones de habla hispana. https://zonatres.org/ Cristina Loustaunau - 👩🏻‍💻Co-fundadora @lazonatres 🌎 @thecryptovalley, @icphub_MX 🧱 Impulsando el desarrollo Web3 en América Latina. Cristian Zambrano - 🪙Building @lazonatres @hobbi_me | 🏫 Teacher @Platzi contributing @icphub_MX | Mentoring on Web3 products.",
       "topics": [
         "Zona Tres",
@@ -1641,8 +1718,11 @@
       },
       "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-025-la-zonatres",
       "arbiscan_url": "https://arbiscan.io/address/0x29a3a83b994dbf6C3271f9AaBDb75cD7Bb20D236",
-      "listeners": "71",
-      "type": "numbered"
+      "listeners": 71,
+      "type": "numbered",
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 2
     },
     {
       "number": "024",
@@ -1652,7 +1732,7 @@
       "guests": [
         "JoseArrietaLU"
       ],
-      "duration": "1h 30m",
+      "duration": "1:25:55",
       "description": "Community manager de @TanssiNetwork en español | Amante de la tecnología Web3 Conversaciones con @meximalist, sin guion y uno que otro anuncio.",
       "topics": [
         "Tanssi Network",
@@ -1671,8 +1751,11 @@
       },
       "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-024-jose-arrieta-lu",
       "arbiscan_url": "https://arbiscan.io/address/0xAFe615497a42Dec9fc375549f63E301873f9Cb95",
-      "listeners": "0",
-      "type": "numbered"
+      "listeners": 60,
+      "type": "numbered",
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 4
     },
     {
       "number": "20241209",
@@ -1699,7 +1782,7 @@
       "guests": [
         "0xDonPepe"
       ],
-      "duration": "1h 23m",
+      "duration": "1:23:57",
       "description": "MSc. in Finance | Lunarpunk | Open-Source advocate | Minarchist | Delegate @optimism @arbitrum @scroll_zkp | Frog @eth_mty | e/acc https://www.youtube.com/watch?v=dQw4w9WgXcQ Conversaciones con @meximalist, sin guion y uno que otro anuncio.",
       "topics": [
         "Finance",
@@ -1721,8 +1804,11 @@
       },
       "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-023-0-x-don-pepe",
       "arbiscan_url": "https://arbiscan.io/address/0xa956a2d098AB6586a3e79f8a35ab94519092351C",
-      "listeners": "85",
-      "type": "numbered"
+      "listeners": 85,
+      "type": "numbered",
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 1
     },
     {
       "number": "022",
@@ -1732,7 +1818,7 @@
       "guests": [
         "ariutokintumi"
       ],
-      "duration": "1h 25m",
+      "duration": "1:25:17",
       "description": "Exist :-Y | @Datamorpho | @clu3service | @ApeironProtocol | @RollaMate | AcidChains | gm Fam! | X-ChainArbitraryExec | @NomadicAcc | @ETHCincoDeMayo Conversaciones con @meximalist, sin guion y uno que otro anuncio.",
       "topics": [
         "Web3",
@@ -1750,8 +1836,11 @@
       },
       "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-022-ariutokintumi",
       "arbiscan_url": "https://arbiscan.io/address/0xCA48DDE2a95285Bd04FEa2adDc4FE22fA0532DE3",
-      "listeners": "51",
-      "type": "numbered"
+      "listeners": 51,
+      "type": "numbered",
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 3
     },
     {
       "number": "20241205-S7",
@@ -1797,7 +1886,7 @@
         "solsiete_web3",
         "Musica_W3"
       ],
-      "duration": "1h 19m",
+      "duration": "1:19:31",
       "description": "Web3 since 2021🔴 ||✨Building @Musica_W3 || Creator of 'El Método' workshop 📚|| Web3 music mentor Conversaciones con @meximalist, sin guion y uno que otro anuncio.",
       "topics": [
         "Web3",
@@ -1818,8 +1907,11 @@
       },
       "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-021-solsiete-web-3",
       "arbiscan_url": "https://arbiscan.io/address/0x2A1c8BA365C3A29338eDa62F200C3a6b58A570aC",
-      "listeners": "74",
-      "type": "numbered"
+      "listeners": 74,
+      "type": "numbered",
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 2
     },
     {
       "number": "020",
@@ -1831,7 +1923,7 @@
         "BTCIsla",
         "getbasedtv"
       ],
-      "duration": "1h 30m",
+      "duration": "59:18",
       "description": "@BTCIsla | @getbasedtv | #Bitcoin Magazine Dona a BTC Isla Conversaciones con @meximalist, sin guion y uno que otro anuncio.",
       "topics": [
         "Bitcoin",
@@ -1852,8 +1944,11 @@
       },
       "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-020-isabellasg-3",
       "arbiscan_url": "https://arbiscan.io/address/0x685d4AC6E1C341dAD7e2DAe2f63cEFb1103C7930",
-      "listeners": "93",
-      "type": "numbered"
+      "listeners": 93,
+      "type": "numbered",
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 2
     },
     {
       "number": "019",
@@ -1864,7 +1959,7 @@
         "brozrdz",
         "bloqueqro"
       ],
-      "duration": "1h 30m",
+      "duration": "1:12:35",
       "description": "🜁 music, creative, marketer, crypto investor, radio host & ON⛓️ Collector ⛏⭕️🥷🏻🧠 @bloqueqro xdm.group Conversaciones con @meximalist, sin guion y uno que otro anuncio.",
       "topics": [
         "Music",
@@ -1884,8 +1979,11 @@
       },
       "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-019-brozrdz",
       "arbiscan_url": "https://arbiscan.io/address/0x37366C92486711c3fB09C37e8b73e3E38705a7c5",
-      "listeners": "89",
-      "type": "numbered"
+      "listeners": 62,
+      "type": "numbered",
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 1
     },
     {
       "number": "018",
@@ -1895,7 +1993,7 @@
       "guests": [
         "laChicaWeb3"
       ],
-      "duration": "1h 30m",
+      "duration": "1:30:32",
       "description": "CRIPTO & WE₿3 👩‍💻⛓️🪙🌐 #bitcoin #cripto #criptomoneda #blockchains #Web3 #NFT #DeFi #metaverso #DAO #WAGMI Facts+Opinión linktr.ee/chicaweb3.eth Conversaciones 1 a 1 con @meximalist, sin guion y uno que otro anuncio.",
       "topics": [
         "Bitcoin",
@@ -1916,8 +2014,11 @@
       },
       "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-018-la-chica-web-3",
       "arbiscan_url": "https://arbiscan.io/address/0x5651E19E3cBDfbAD1CBb4020590Bacbf8c75dff7",
-      "listeners": "63",
-      "type": "numbered"
+      "listeners": 63,
+      "type": "numbered",
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 1
     },
     {
       "number": "017",
@@ -1926,7 +2027,7 @@
       "guests": [
         "CryptoNotaz"
       ],
-      "duration": "2h 07m",
+      "duration": "2:07:16",
       "description": "Episode 017 of BandaWeb3 with special guest @CryptoNotaz.",
       "topics": [],
       "status": "pending",
@@ -1944,8 +2045,11 @@
       "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-017-crypto-notaz",
       "opensea_url": "https://opensea.io/collection/bandaweb3-017-cryptonotaz",
       "contract_url": "https://arbiscan.io/address/0x7c5e1577e19e34a70ea9b8d38e46374e8b21c5c2",
-      "listeners": "200",
-      "type": "numbered"
+      "listeners": 200,
+      "type": "numbered",
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 6
     },
     {
       "number": "016",
@@ -1954,7 +2058,7 @@
       "guests": [
         "eddiespino"
       ],
-      "duration": "1h 41m",
+      "duration": "1:41:41",
       "description": "Episode 016 of BandaWeb3 with special guest @eddiespino.",
       "topics": [],
       "status": "pending",
@@ -1972,8 +2076,11 @@
       "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-016-eddiespino",
       "opensea_url": "https://opensea.io/collection/bandaweb3-016-eddiespino",
       "contract_url": "https://arbiscan.io//address/0xc057bf08093580ac43380b14d026e4e1ade3bd73",
-      "listeners": "135",
-      "type": "numbered"
+      "listeners": 135,
+      "type": "numbered",
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 3
     },
     {
       "number": "015",
@@ -2055,7 +2162,7 @@
       "guests": [
         "AndriuJose20"
       ],
-      "duration": "1h 29m",
+      "duration": "1:29:15",
       "description": "Episode 013 of BandaWeb3 with special guest @AndriuJose20.",
       "topics": [],
       "status": "pending",
@@ -2073,8 +2180,11 @@
       "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-013-andriu-jose-20",
       "opensea_url": "https://opensea.io/collection/bandaweb3-013-andriujose20",
       "contract_url": "https://arbiscan.io/address/0x3e0d119edd647BC79afeA106e75ABA7717D61Ec9",
-      "listeners": "92",
-      "type": "numbered"
+      "listeners": 92,
+      "type": "numbered",
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 5
     },
     {
       "number": "012",
@@ -2380,7 +2490,7 @@
       "guests": [
         "sohobiit"
       ],
-      "duration": "1h 22m",
+      "duration": "1:22:41",
       "description": "Episode 002 of BandaWeb3 with special guest @sohobiit.",
       "topics": [],
       "status": "pending",
@@ -2398,7 +2508,11 @@
       "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-002-sohobiit",
       "opensea_url": "https://opensea.io/collection/bandaweb3-002-sohobiit",
       "contract_url": "https://arbiscan.io//address/0xfa38f899f453e4f44fd74919a7b0a2adb1859ba0",
-      "type": "numbered"
+      "type": "numbered",
+      "listeners": 73,
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 1
     },
     {
       "number": "001",
@@ -2407,7 +2521,7 @@
       "guests": [
         "0xKaroShow"
       ],
-      "duration": "1h 20m",
+      "duration": "1:20:39",
       "description": "Episode 001 of BandaWeb3 with special guest @0xKaroShow.",
       "topics": [],
       "status": "pending",
@@ -2425,13 +2539,16 @@
       "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-001-0-x-karo-show",
       "opensea_url": "https://opensea.io/collection/bandaweb3-001-0xkaroshow",
       "contract_url": "https://arbiscan.io//address/0xce03e904d588a2a78e7173b19c2fb0eec7a74333",
-      "type": "numbered"
+      "type": "numbered",
+      "listeners": 79,
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "1",
       "title": "BandaWeb3 - Verborrea #1 con mexi.wtf",
       "date": "2024-08-15",
-      "duration": "1h 03m",
+      "duration": "1:03:12",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1dRJZdoMbrzKB",
@@ -2441,13 +2558,16 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "type": "numbered"
+      "type": "numbered",
+      "listeners": 26,
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics"
     },
     {
       "number": "2",
       "title": "BandaWeb3 con @sohobiit - @UnlockProtocol RetroQF #2",
       "date": "2024-07-23",
-      "duration": "1h 33m",
+      "duration": "1:33:52",
       "guests": [
         "sohobiit",
         "UnlockProtocol"
@@ -2463,7 +2583,11 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "type": "numbered"
+      "type": "numbered",
+      "listeners": 78,
+      "host": "@meximalist",
+      "analytics_source": "X Spaces Analytics",
+      "speakers": 3
     },
     {
       "number": "20240125",
