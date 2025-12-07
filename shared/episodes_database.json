@@ -13,7 +13,7 @@
     "website": "https://bandaweb3.com",
     "twitter": "@BandaWeb3",
     "last_updated": "2024-12-05",
-    "total_episodes": 335
+    "total_episodes": 341
   },
   "episodes": [
     {
@@ -5525,6 +5525,26 @@
       "listeners": "21"
     },
     {
+      "number": "20230511",
+      "title": "El pasado y el futuro de @mxweb3",
+      "date": "2023-05-11",
+      "duration": "52:21",
+      "live_listeners": 23,
+      "host": "@meximalist",
+      "speakers": 0,
+      "analytics_source": "X Spaces Analytics",
+      "type": "hosted",
+      "description": "Hosted Space: El pasado y el futuro de @mxweb3",
+      "topics": [],
+      "guests": [],
+      "status": "published",
+      "transcript_available": false,
+      "content_generated": false,
+      "space_url": "",
+      "audio_url": "",
+      "flyer_urls": []
+    },
+    {
       "number": "20230509",
       "title": "El Gorila, el Economista y el Ingeniero - Tulum Crypto Fest",
       "date": "2023-05-09",
@@ -6332,6 +6352,26 @@
       "listeners": "51"
     },
     {
+      "number": "20230120",
+      "title": "mxweb3 - sesión de trabajo",
+      "date": "2023-01-20",
+      "duration": "1:43:48",
+      "live_listeners": 60,
+      "host": "@meximalist",
+      "speakers": 1,
+      "analytics_source": "X Spaces Analytics",
+      "type": "hosted",
+      "description": "Hosted Space: mxweb3 - sesión de trabajo",
+      "topics": [],
+      "guests": [],
+      "status": "published",
+      "transcript_available": false,
+      "content_generated": false,
+      "space_url": "",
+      "audio_url": "",
+      "flyer_urls": []
+    },
+    {
       "number": "20230119",
       "title": "La abogada, el economista y el ingeniero",
       "date": "2023-01-19",
@@ -6577,6 +6617,26 @@
       "listeners": "17"
     },
     {
+      "number": "20221221",
+      "title": "Sesión de trabajo en @mxweb3",
+      "date": "2022-12-21",
+      "duration": "1:25:47",
+      "live_listeners": 21,
+      "host": "@meximalist",
+      "speakers": 2,
+      "analytics_source": "X Spaces Analytics",
+      "type": "hosted",
+      "description": "Hosted Space: Sesión de trabajo en @mxweb3",
+      "topics": [],
+      "guests": [],
+      "status": "published",
+      "transcript_available": false,
+      "content_generated": false,
+      "space_url": "",
+      "audio_url": "",
+      "flyer_urls": []
+    },
+    {
       "number": "20221220",
       "title": "El economista, el ingeniero y el dropout - Tesla en NL, MX",
       "date": "2022-12-20",
@@ -6681,6 +6741,26 @@
       "listeners": "40"
     },
     {
+      "number": "20221214",
+      "title": "@mxweb3 sesión 2 - lluvia de ideas",
+      "date": "2022-12-14",
+      "duration": "2:11:20",
+      "live_listeners": 52,
+      "host": "@meximalist",
+      "speakers": 6,
+      "analytics_source": "X Spaces Analytics",
+      "type": "hosted",
+      "description": "Hosted Space: @mxweb3 sesión 2 - lluvia de ideas",
+      "topics": [],
+      "guests": [],
+      "status": "published",
+      "transcript_available": false,
+      "content_generated": false,
+      "space_url": "",
+      "audio_url": "",
+      "flyer_urls": []
+    },
+    {
       "number": "20221213",
       "title": "El economista, el pescador y el ingeniero - Rugs IRL y Rugs en Web3",
       "date": "2022-12-13",
@@ -6737,6 +6817,26 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": "14"
+    },
+    {
+      "number": "20221208",
+      "title": "Brainstorming comunidad @mxweb3",
+      "date": "2022-12-08",
+      "duration": "1:02:23",
+      "live_listeners": 15,
+      "host": "@meximalist",
+      "speakers": 0,
+      "analytics_source": "X Spaces Analytics",
+      "type": "hosted",
+      "description": "Hosted Space: Brainstorming comunidad @mxweb3",
+      "topics": [],
+      "guests": [],
+      "status": "published",
+      "transcript_available": false,
+      "content_generated": false,
+      "space_url": "",
+      "audio_url": "",
+      "flyer_urls": []
     },
     {
       "number": "20221206",
@@ -7042,6 +7142,26 @@
       "flyer_urls": [],
       "listeners": "336",
       "type": "co-hosted"
+    },
+    {
+      "number": "20221112",
+      "title": "Café Tacuba Acústico Live",
+      "date": "2022-11-12",
+      "duration": "21:45",
+      "live_listeners": 5,
+      "host": "@meximalist",
+      "speakers": 0,
+      "analytics_source": "X Spaces Analytics",
+      "type": "hosted",
+      "description": "Hosted Space: Café Tacuba Acústico Live",
+      "topics": [],
+      "guests": [],
+      "status": "published",
+      "transcript_available": false,
+      "content_generated": false,
+      "space_url": "",
+      "audio_url": "",
+      "flyer_urls": []
     },
     {
       "number": "20221110",
