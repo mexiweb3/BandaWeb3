@@ -164,8 +164,8 @@ def generate():
         <div class="container">
             <article class="episode-full">
                 <header class="episode-header">
-                    <span class="episode-number-large">#{ep['number']}</span>
                     <h1 class="episode-title-large">{ep['title']}</h1>
+                    <span class="episode-number-large">#{ep['number']}</span>
                     <div class="episode-meta">
                         {f'<span class="status-badge cohosted" style="margin-right: 15px;">🤝 Co-Hosted</span>' if ep.get("type") == "co-hosted" else ""}
                         {f'<span class="status-badge" style="margin-right: 15px; background-color: #1DA1F2; color: white; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">📊 X Spaces Analytics</span>' if ep.get("analytics_source") else ""}
