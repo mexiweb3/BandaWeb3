@@ -238,13 +238,17 @@ def generate():
         .about-container { max-width: 800px; margin: 0 auto; padding: 40px 20px; }
         .profile-header { text-align: center; margin-bottom: 40px; }
         .profile-img { width: 200px; height: 200px; border-radius: 50%; object-fit: cover; border: 4px solid #e91e63; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(233, 30, 99, 0.3); }
-        .bio-section { background: white; padding: 30px; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.05); margin-bottom: 30px; }
+        .bio-section { background: white; padding: 30px; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.05); margin-bottom: 30px; color: #333; }
         .bio-lang { margin-bottom: 20px; }
         .bio-lang h3 { color: #e91e63; margin-bottom: 15px; }
+        .bio-lang p { color: #333; }
+        .bio-section h3 { color: #e91e63; }
+        .bio-section p { color: #333; }
         .social-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px; margin-top: 30px; }
         .social-link { display: flex; align-items: center; justify-content: center; padding: 12px; background: #f8f9fa; border-radius: 8px; text-decoration: none; color: #333; font-weight: 500; transition: all 0.2s; }
         .social-link:hover { background: #e91e63; color: white; transform: translateY(-3px); }
         .brand-kit { margin-top: 50px; text-align: center; }
+        .brand-kit h3 { color: #e91e63; }
         .brand-images { display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px; }
         .brand-img-container { background: white; padding: 10px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
         .brand-img { height: 80px; object-fit: contain; }
