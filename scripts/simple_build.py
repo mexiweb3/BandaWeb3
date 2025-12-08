@@ -111,7 +111,7 @@ def generate():
     generate_subpage(output_dir, "hosted.html", "Hosted Spaces", f"Episodios hosteados por Mexi ({len(hosted_episodes)} Spaces)", hosted_episodes)
     generate_subpage(output_dir, "numbered.html", "Episodios Numerados", f"Colección 001 - 074 ({len(numbered_episodes)} Episodios)", numbered_episodes)
     generate_subpage(output_dir, "cohosted.html", "Co-Hosted Spaces", f"Episodios co-hosteados y participaciones ({len(cohosted_episodes)} Spaces)", cohosted_episodes)
-    generate_subpage(output_dir, "archive.html", "Archivo de Episodios", "Todos los episodios", episodes)
+    generate_subpage(output_dir, "archive.html", "Archivo de Episodios", f"Todos los episodios ({len(episodes)} total)", episodes)
     
     print(f"Index generated with {len(numbered_episodes)} numbered episodes")
 
