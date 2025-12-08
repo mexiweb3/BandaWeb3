@@ -8399,14 +8399,15 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": 485,
+      "listeners": 1100,
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1lDxLnNpgezGm/marcus-dantus-y-dev-team-en-entrevisa-con-meximalist",
       "host": "@MarcusDantusNFT",
       "flyers": [
         "flyer_marcusdantusnft_generic.png"
-      ]
+      ],
+      "participant_graph": "participant_graph_20230126.png"
     },
     {
       "number": "20230124",
