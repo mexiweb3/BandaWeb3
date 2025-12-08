@@ -168,7 +168,7 @@ def generate():
     print(f"Index generated with {len(numbered_episodes)} numbered episodes")
 
     # --- Generate Individual Pages ---
-    for ep in episodes:
+    for i, ep in enumerate(episodes):
         # ... (flyer logic) ...
         flyer_html_list = []
         if ep.get("flyers"):
@@ -276,6 +276,16 @@ def generate():
             </article>
         </div>
     </main>
+
+    <div class="container" style="margin-top: 20px; margin-bottom: 40px;">
+        <div style="display: flex; justify-content: space-between; align-items: center;">
+            {f'<a href="episode_{episodes[i+1]["number"]}.html" class="button" style="background-color: #333;">&larr; Anterior ({episodes[i+1]["number"]})</a>' if i + 1 < len(episodes) else '<span class="button" style="background-color: #ccc; cursor: default;">&larr; Anterior</span>'}
+            
+            <a href="../archive.html" class="button" style="background-color: #e91e63;">Volver al Archivo</a>
+
+            {f'<a href="episode_{episodes[i-1]["number"]}.html" class="button" style="background-color: #333;">Siguiente ({episodes[i-1]["number"]}) &rarr;</a>' if i > 0 else '<span class="button" style="background-color: #ccc; cursor: default;">Siguiente &rarr;</span>'}
+        </div>
+    </div>
 </body>
 </html>
 """
