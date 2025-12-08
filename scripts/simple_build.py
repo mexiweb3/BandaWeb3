@@ -2,11 +2,54 @@ import json
 import os
 import shutil
 from pathlib import Path
+from datetime import datetime
+from collections import Counter
+import update_stats
+
+def format_display_duration(duration_str):
+    if not duration_str:
+        return ""
+    
+    ds = str(duration_str).strip()
+    
+    if ':' in ds:
+        parts = ds.split(':')
+        if len(parts) == 3:
+            h, m, s = parts
+            try:
+                ih = int(h)
+                im = int(m)
+                
+                if ih > 0:
+                    return f"{ih}h {im}m"
+                else:
+                    return f"{im}m"
+            except ValueError:
+                return ds
+        elif len(parts) == 2:
+            m, s = parts
+            try:
+                im = int(m)
+                return f"{im}m"
+            except ValueError:
+                return ds
+    
+    return ds
+
+def format_display_date(date_str):
+    if not date_str:
+        return ""
+    try:
+        dt = datetime.strptime(date_str, "%Y-%m-%d")
+        return dt.strftime("%d-%b-%y")
+    except ValueError:
+        return date_str
 
 def generate():
     # Setup paths
     base_dir = Path(".")
     data_path = base_dir / "shared" / "episodes_database.json"
+    spoken_data_path = base_dir / "shared" / "spoken_database.json"
     flyers_dir = base_dir / "shared" / "flyers"
     output_dir = base_dir / "website" / "output"
     static_src = base_dir / "website" / "static"
@@ -18,6 +61,12 @@ def generate():
     with open(data_path, "r") as f:
         data = json.load(f)
     
+    spoken_episodes = []
+    if os.path.exists(spoken_data_path):
+        with open(spoken_data_path, "r") as f:
+             spoken_data = json.load(f)
+             spoken_episodes = spoken_data.get("episodes", [])
+
     episodes = data["episodes"]
     
     # Filter episodes
@@ -67,7 +116,7 @@ def generate():
              return f'<a href="https://x.com/{clean}" target="_blank" style="text-decoration: none; color: inherit;">{handle}</a>'
         return handle
 
-
+        return handle
     # Create directories
     if os.path.exists(output_dir):
         shutil.rmtree(output_dir)
@@ -114,6 +163,9 @@ def generate():
     generate_subpage(output_dir, "numbered.html", "Episodios Numerados", f"Colección 001 - 074 ({len(numbered_episodes)} Episodios)", numbered_episodes)
     generate_subpage(output_dir, "cohosted.html", "Co-Hosted Spaces", f"Episodios co-hosteados y participaciones ({len(cohosted_episodes)} Spaces)", cohosted_episodes)
     generate_subpage(output_dir, "archive.html", "Archivo de Episodios", f"Todos los episodios ({len(episodes)} total)", episodes)
+    
+    if spoken_episodes:
+         generate_spoken_page(output_dir, "spoken.html", "Spoken Episodes", f"Recap de Spoken ({len(spoken_episodes)} Episodios)", spoken_episodes)
     
     print(f"Index generated with {len(numbered_episodes)} numbered episodes")
 
@@ -171,8 +223,8 @@ def generate():
                         {f'<span class="status-badge cohosted" style="margin-right: 15px;">🤝 Co-Hosted</span>' if ep.get("type") == "co-hosted" else ""}
                         {f'<span class="status-badge" style="margin-right: 15px; background-color: #1DA1F2; color: white; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">📊 X Spaces Analytics</span>' if ep.get("analytics_source") else ""}
                         {f'<a href="{ep["space_url"]}" target="_blank" style="text-decoration: none;"><span class="status-badge" style="margin-right: 15px; background-color: #000000; color: white; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">🔗 Escuchar Space</span></a>' if ep.get("space_url") else ""}
-                        <span>📅 {ep['date']}</span>
-                        <span>⏱ {ep['duration'].replace("Duration: ", "") if ep.get('duration') else ""}</span>
+                        <span>📅 {format_display_date(ep['date'])}</span>
+                        <span>⏱ {format_display_duration(ep.get('duration'))}</span>
                         {f'<span>🎧 {ep["listeners"]}</span>' if ep.get("listeners") else ""}
                         {f'<span>🎤 Host: {linkify_handle(ep["host"])}</span>' if ep.get("host") else ""}
                         {f'<span>🤝 Co-Hosts: {", ".join(ep["cohosts"])}</span>' if ep.get("cohosts") else ""}
@@ -356,6 +408,288 @@ def generate():
     # Removed duplicate calls to generate_subpage as they are now called earlier in the main block
     pass
 
+def generate_spoken_page(output_dir, filename, title, subtitle, episodes_list):
+    hosts = [ep.get('host', '') for ep in episodes_list if ep.get('host')]
+    unique_hosts = sorted(set(hosts))
+    host_counts = Counter(hosts)
+    
+    host_options = '<option value="all">All Hosts ({})</option>'.format(len(episodes_list))
+    for host in unique_hosts:
+        count = host_counts[host]
+        host_options += f'<option value="{host}">{host} ({count})</option>'
+
+    html_content = f"""
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{title} - BandaWeb3</title>
+    <link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <a href="index.html" class="logo">
+                <img src="static/images/banda_dark.png" alt="BandaWeb3" style="height: 60px;">
+            </a>
+            <div class="nav-links">
+                <a href="numbered.html">Episodios Numerados</a>
+                <a href="hosted.html">Hosted Spaces</a>
+                <a href="cohosted.html">Co-Hosted Spaces</a>
+                <a href="spoken.html" class="active">Spoken</a>
+                <a href="archive.html">All Episodes</a>
+                <a href="about.html">Acerca de Mexi</a>
+                <a href="https://twitter.com/BandaWeb3" target="_blank">Twitter</a>
+            </div>
+        </div>
+    </nav>
+
+    <header class="hero">
+        <div class="container">
+            <h1 class="hero-title">{title}</h1>
+            <p class="hero-subtitle">{subtitle}</p>
+        </div>
+    </header>
+
+    <main class="episodes-list">
+        <div class="container">
+            <div style="margin-bottom: 20px;">
+                <label for="hostFilter" style="font-weight: bold; margin-right: 10px;">Filter by Host:</label>
+                <select id="hostFilter" onchange="filterTable()" style="padding: 8px; border-radius: 5px; border: 1px solid #ccc;">
+                    {host_options}
+                </select>
+            </div>
+            
+            <div class="spoken-table-container">
+                <table class="spoken-table" id="spokenTable">
+                    <thead>
+                        <tr>
+                            <th onclick="sortTable(0)">Title</th>
+                            <th onclick="sortTable(1)">Host</th>
+                            <th onclick="sortTable(2, true)">#</th>
+                            <th onclick="sortTable(3)">Duration</th>
+                            <th onclick="sortTable(4, true)">Listeners</th>
+                            <th onclick="sortTable(5)">Space</th>
+                            <th onclick="sortTable(6)">Dash</th>
+                            <th onclick="sortTable(7)">Date</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+"""
+    
+    for ep in episodes_list:
+        # Columns: Title, Host, Number, Duration, Listeners, Link (Space), Link (Dashboard), Date
+        title_text = ep.get('title', '')
+        host_text = ep.get('host', '')
+        number_val = ep.get('number', 0)
+        
+        duration_display = format_display_duration(ep.get('duration'))
+        duration_raw = ep.get('duration', '') # For sorting if desired, or text sort on display
+        
+        listeners_val = ep.get('listeners', 0)
+        
+        space_link = f'<a href="{ep["space_url"]}" target="_blank">🔗</a>' if ep.get("space_url") else ""
+        dash_link = f'<a href="{ep["spacesdashboard_url"]}" target="_blank">📊</a>' if ep.get("spacesdashboard_url") else ""
+        
+        date_display = format_display_date(ep.get('date'))
+        date_raw = ep.get('date', '') # YYYY-MM-DD for sorting
+
+        html_content += f"""
+                        <tr>
+                            <td>{title_text}</td>
+                            <td>{host_text}</td>
+                            <td data-val="{number_val}">{number_val}</td>
+                            <td>{duration_display}</td>
+                            <td data-val="{listeners_val}">{listeners_val}</td>
+                            <td>{space_link}</td>
+                            <td>{dash_link}</td>
+                            <td data-val="{date_raw}">{date_display}</td>
+                        </tr>
+"""
+
+    html_content += """
+                    </tbody>
+                </table>
+            </div>
+
+            <div id="paginationControls" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; margin-top: 20px; gap: 5px;">
+                <!-- Controls rendered by JS -->
+            </div>
+        </div>
+    </main>
+
+    <script>
+    let currentPage = 1;
+    const rowsPerPage = 25;
+    
+    // Run initial render when DOM is loaded
+    document.addEventListener("DOMContentLoaded", function() {
+        filterTable(); // This will effectively render page 1
+    });
+
+    function renderTable() {
+        const table = document.getElementById("spokenTable");
+        const tr = table.getElementsByTagName("tr");
+        const paginationControls = document.getElementById("paginationControls");
+        
+        // Get all rows that MATCH the filter first
+        let filteredRows = [];
+        const filterInput = document.getElementById("hostFilter");
+        const filter = filterInput.value.toUpperCase();
+        
+        for (let i = 1; i < tr.length; i++) {
+             const td = tr[i].getElementsByTagName("td")[1]; // Host column index 1
+             if (td) {
+                const txtValue = td.textContent || td.innerText;
+                if (filter === "ALL" || txtValue.toUpperCase().includes(filter) || txtValue.toUpperCase() === filter) {
+                    filteredRows.push(tr[i]);
+                } else {
+                    tr[i].style.display = "none"; // Hide completely if not matching filter
+                }
+             }
+        }
+        
+        // Now calculate pagination based on FILTERED rows
+        const totalRows = filteredRows.length;
+        const totalPages = Math.ceil(totalRows / rowsPerPage);
+        
+        if (currentPage > totalPages) currentPage = totalPages;
+        if (currentPage < 1) currentPage = 1;
+        
+        const startIndex = (currentPage - 1) * rowsPerPage;
+        const endIndex = startIndex + rowsPerPage;
+        
+        // Show/Hide filtered rows based on pagination
+        for (let j = 0; j < filteredRows.length; j++) {
+            if (j >= startIndex && j < endIndex) {
+                filteredRows[j].style.display = "";
+            } else {
+                filteredRows[j].style.display = "none";
+            }
+        }
+        
+        // Update Controls - Numbered Links
+        let controlsHTML = '';
+        
+        if (totalPages > 1) {
+            // Add Previous
+            controlsHTML += `<button onclick="changePage(${currentPage - 1})" style="padding: 5px 10px; cursor: pointer; border: 1px solid #ccc; background: ${currentPage === 1 ? '#eee' : '#fff'};" ${currentPage === 1 ? 'disabled' : ''}>&laquo;</button>`;
+            
+            // Numbered pages
+            for (let p = 1; p <= totalPages; p++) {
+                // Determine if we should show this page button (simple version: show all, or range)
+                // Showing all for user request "ir a cualquiera rápido" unless it's huge. 
+                // 657 / 25 = 27 pages. Showing 27 buttons is reasonable.
+                controlsHTML += `<button onclick="changePage(${p})" style="padding: 5px 10px; cursor: pointer; border: 1px solid #ccc; background: ${p === currentPage ? '#e91e63' : '#fff'}; color: ${p === currentPage ? '#fff' : '#000'}; font-weight: ${p === currentPage ? 'bold' : 'normal'}; min-width: 30px;">${p}</button>`;
+            }
+            
+            // Add Next
+            controlsHTML += `<button onclick="changePage(${currentPage + 1})" style="padding: 5px 10px; cursor: pointer; border: 1px solid #ccc; background: ${currentPage === totalPages ? '#eee' : '#fff'};" ${currentPage === totalPages ? 'disabled' : ''}>&raquo;</button>`;
+        }
+        
+        paginationControls.innerHTML = controlsHTML;
+    }
+    
+    function changePage(pageNum) {
+        if (pageNum < 1) return;
+        // Max page check is done inside renderTable but verifying here is good too, 
+        // though we need totalPages which is calculated inside renderTable.
+        // renderTable handles bounds checks safely.
+        currentPage = pageNum;
+        renderTable();
+        window.scrollTo(0, 0);
+    }
+    
+    function filterTable() {
+        // When filter changes, reset to page 1
+        currentPage = 1;
+        renderTable();
+    }
+    
+    // function filterTableOld() { ... }
+
+    function sortTable(n, isNumeric) {
+        var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
+        table = document.getElementById("spokenTable");
+        switching = true;
+        // Set the sorting direction to ascending:
+        dir = "asc";
+        
+        // Reset headers classes
+        var headers = table.getElementsByTagName("th");
+        for (i = 0; i < headers.length; i++) {
+            headers[i].classList.remove("sort-asc", "sort-desc");
+        }
+
+        while (switching) {
+            switching = false;
+            rows = table.rows;
+            // Iterate only over visible rows? 
+            // Standard sorting reorders DOM, so hidden rows would also be reordered.
+            // This is fine. But for user experience, let's just sort all rows.
+            
+            for (i = 1; i < (rows.length - 1); i++) {
+                shouldSwitch = false;
+                x = rows[i].getElementsByTagName("TD")[n];
+                y = rows[i + 1].getElementsByTagName("TD")[n];
+                
+                var xVal, yVal;
+                
+                if (x.hasAttribute('data-val')) {
+                    xVal = x.getAttribute('data-val');
+                    yVal = y.getAttribute('data-val');
+                } else {
+                    xVal = x.innerHTML.toLowerCase();
+                    yVal = y.innerHTML.toLowerCase();
+                }
+
+                if (isNumeric) {
+                     xVal = parseFloat(xVal) || 0;
+                     yVal = parseFloat(yVal) || 0;
+                }
+
+                if (dir == "asc") {
+                    if (xVal > yVal) {
+                        shouldSwitch = true;
+                        break;
+                    }
+                } else if (dir == "desc") {
+                    if (xVal < yVal) {
+                        shouldSwitch = true;
+                        break;
+                    }
+                }
+            }
+            if (shouldSwitch) {
+                rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+                switching = true;
+                switchcount ++;
+            } else {
+                if (switchcount == 0 && dir == "asc") {
+                    dir = "desc";
+                    switching = true;
+                }
+            }
+        }
+        // Re-render pagination after sorting to ensure correct view
+        renderTable();
+        
+        // Update header class
+        if (dir === "asc") {
+            headers[n].classList.add("sort-asc");
+        } else {
+            headers[n].classList.add("sort-desc");
+        }
+    }
+    </script>
+</body>
+</html>
+"""
+    with open(output_dir / filename, "w") as f:
+        f.write(html_content)
+    print(f"Generated {filename}")
+
 def generate_subpage(output_dir, filename, title, subtitle, episodes_list):
     html_content = f"""
 <!DOCTYPE html>
@@ -376,6 +710,7 @@ def generate_subpage(output_dir, filename, title, subtitle, episodes_list):
                 <a href="numbered.html" class="{'active' if filename == 'numbered.html' else ''}">Episodios Numerados</a>
                 <a href="hosted.html" class="{'active' if filename == 'hosted.html' else ''}">Hosted Spaces</a>
                 <a href="cohosted.html" class="{'active' if filename == 'cohosted.html' else ''}">Co-Hosted Spaces</a>
+                <a href="spoken.html" class="{'active' if filename == 'spoken.html' else ''}">Spoken</a>
                 <a href="archive.html" class="{'active' if filename == 'archive.html' else ''}">All Episodes</a>
                 <a href="about.html">Acerca de Mexi</a>
                 <a href="https://twitter.com/BandaWeb3" target="_blank">Twitter</a>
@@ -392,7 +727,7 @@ def generate_subpage(output_dir, filename, title, subtitle, episodes_list):
 
     <main class="episodes-list">
         <div class="container">
-            <div class="controls" style="margin-bottom: 2rem;">
+            <div class="controls">
                 <label for="sort-select" style="color: var(--text); margin-right: 1rem;">Ordenar por:</label>
                 <select id="sort-select" class="sort-select" onchange="sortEpisodes(this.value)">
                     <option value="date-desc">Fecha (Más reciente)</option>
@@ -433,7 +768,7 @@ def generate_subpage(output_dir, filename, title, subtitle, episodes_list):
                                 {f'<span style="margin-left: 10px; font-size: 1.1em;" title="Co-Hosted">🤝</span>' if ep.get("type") == "co-hosted" else ""}
                                 {f'<span style="margin-left: 10px; font-size: 1.1em;" title="X Spaces Analytics">📊</span>' if ep.get("analytics_source") else ""}
                                 {f'<span style="margin-left: 10px; font-size: 1.1em;" title="Space Link Available">🔗</span>' if ep.get("space_url") else ""}
-                                <span class="episode-date">{ep['date']}</span>
+                                <span class="episode-date">{format_display_date(ep['date'])}</span>
                                 {f'<span class="episode-listeners" style="margin-left: 10px; font-size: 0.9em; color: #666;">🎧 {ep["listeners"]}</span>' if ep.get("listeners") else ""}
                             </div>
                             <h2 class="card-title">{ep['title']}</h2>
@@ -496,4 +831,15 @@ def generate_subpage(output_dir, filename, title, subtitle, episodes_list):
     print(f"Generated {filename}")
 
 if __name__ == "__main__":
+    # Update database statistics
+    print("Updating database statistics...")
+    update_stats.update_stats()
+
+    current_dir = Path(__file__).parent
+    output_dir = current_dir.parent / "website" / "output"
+    
+    # Ensure raw generate() call works or update it if it expects an arg. 
+    # Based on previous file content, generate() seemed to not take args in the original file, 
+    # but let's see the definition. 
+    # If generate() is defined as generate(), then:
     generate()

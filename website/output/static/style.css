@@ -41,7 +41,7 @@ html {
 .navbar {
   background: var(--bg-light);
   border-bottom: 1px solid var(--border);
-  padding: 1rem 0;
+  padding: 0.5rem 0;
   position: sticky;
   top: 0;
   z-index: 100;
@@ -78,12 +78,12 @@ html {
 
 /* Hero */
 .hero {
-  padding: 4rem 0;
+  padding: 1rem 0 0 0;
   text-align: center;
 }
 
 .hero-title {
-  font-size: 3rem;
+  font-size: 2rem;
   margin-bottom: 1rem;
   background: linear-gradient(135deg, var(--primary), var(--secondary));
   -webkit-background-clip: text;
@@ -91,9 +91,9 @@ html {
 }
 
 .hero-subtitle {
-  font-size: 1.25rem;
+  font-size: 1rem;
   color: var(--text-muted);
-  margin-bottom: 2rem;
+  margin-bottom: 0.5rem;
 }
 
 .hero-stats {
@@ -121,7 +121,7 @@ html {
 .controls {
   display: flex;
   gap: 1rem;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 
 .search-input,
@@ -738,4 +738,77 @@ html {
   max-width: 300px;
   height: auto;
   filter: drop-shadow(0 0 15px rgba(0, 255, 255, 0.3));
+}
+
+/* Spoken Table Styles */
+.spoken-table-container {
+  overflow-x: auto;
+  margin-top: 2rem;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+}
+
+.spoken-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.8rem;
+}
+
+.spoken-table th,
+.spoken-table td {
+  padding: 8px 12px;
+  text-align: left;
+  border-bottom: 1px solid #eee;
+  color: #333;
+  /* Ensure dark text for white background */
+}
+
+.spoken-table th {
+  background-color: #f8f9fa;
+  font-weight: 600;
+  color: #333;
+  cursor: pointer;
+  user-select: none;
+  white-space: nowrap;
+}
+
+.spoken-table th:hover {
+  background-color: #e9ecef;
+}
+
+.spoken-table th.sort-asc::after {
+  content: " ▲";
+  font-size: 0.8em;
+  color: #e91e63;
+}
+
+.spoken-table th.sort-desc::after {
+  content: " ▼";
+  font-size: 0.8em;
+  color: #e91e63;
+}
+
+.spoken-table tr:hover {
+  background-color: #f8f9fa;
+}
+
+.spoken-table td a {
+  text-decoration: none;
+  font-size: 1.2em;
+}
+
+.spoken-table td a:hover {
+  transform: scale(1.1);
+  display: inline-block;
+}
+
+@media (max-width: 768px) {
+
+  .spoken-table th,
+  .spoken-table td {
+    padding: 6px 8px;
+    font-size: 0.85rem;
+  }
 }
