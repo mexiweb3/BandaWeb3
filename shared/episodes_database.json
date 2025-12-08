@@ -2834,8 +2834,9 @@
       "duration": "1h 33m",
       "space_url": "https://x.com/i/spaces/1BdGYrZZmaYJX",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1BdGYrZZmaYJX/bandaweb3-at-venusprotocol",
-      "listeners": 64,
-      "analytics_source": "spaces_dashboard_excel"
+      "listeners": 68,
+      "analytics_source": "spaces_dashboard_excel",
+      "live_listeners": 63
     },
     {
       "number": "007",
@@ -3197,8 +3198,8 @@
       "number": "20240813",
       "title": "#BandaWeb3 - Verborrea con mexi.wtf",
       "date": "2024-08-13",
-      "duration": "14:59",
-      "listeners": 9,
+      "duration": "1h 26m",
+      "listeners": 68,
       "host": "BandaWeb3",
       "speakers": 1,
       "analytics_source": "X Spaces Analytics",
