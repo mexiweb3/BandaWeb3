@@ -121,15 +121,15 @@ def generate():
         flyer_html_list = []
         if ep.get("flyers"):
             for flyer_name in ep["flyers"]:
-                flyer_html_list.append(f'<img src="../flyers/{flyer_name}" alt="Flyer" style="width: 200px; border-radius: 12px; margin-bottom: 20px;">')
+                flyer_html_list.append(f'<img src="../flyers/{flyer_name}" alt="Flyer" style="width: 400px; border-radius: 12px; margin-bottom: 20px;">')
         elif ep.get("flyer_urls"):
             for url in ep["flyer_urls"]:
                  src = url if "/" in url else f"../flyers/{url}"
-                 flyer_html_list.append(f'<img src="{src}" alt="Flyer" style="width: 200px; border-radius: 12px; margin-bottom: 20px;">')
+                 flyer_html_list.append(f'<img src="{src}" alt="Flyer" style="width: 400px; border-radius: 12px; margin-bottom: 20px;">')
         elif ep.get("flyer_url"):
              url = ep["flyer_url"]
              src = url if "/" in url else f"../flyers/{url}"
-             flyer_html_list.append(f'<img src="{src}" alt="Flyer" style="width: 200px; border-radius: 12px; margin-bottom: 20px;">')
+             flyer_html_list.append(f'<img src="{src}" alt="Flyer" style="width: 400px; border-radius: 12px; margin-bottom: 20px;">')
         
         flyers_section = "\n".join(flyer_html_list)
 
