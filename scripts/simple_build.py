@@ -31,7 +31,7 @@ def generate():
         else:
              hosted_episodes.append(ep)
              # Check if it's numbered (subset of hosted)
-             if ep.get('type') == 'numbered':
+             if ep.get('is_numbered'):
                  numbered_episodes.append(ep)
     
     # Sort by number/date descending
@@ -58,7 +58,52 @@ def generate():
     
     episodes.sort(key=lambda x: x.get('date', ''), reverse=True)
 
-    # ... (dir creation copy assets) ...
+    def linkify_handle(handle):
+        if not handle: return ""
+        # Handle cases like "Host: @handle" or just "@handle"
+        # We assume clean handle "@foo"
+        if handle.startswith('@'):
+             clean = handle.replace('@', '')
+             return f'<a href="https://x.com/{clean}" target="_blank" style="text-decoration: none; color: inherit;">{handle}</a>'
+        return handle
+
+
+    # Create directories
+    if os.path.exists(output_dir):
+        shutil.rmtree(output_dir)
+    os.makedirs(output_dir)
+    os.makedirs(static_dst)
+    os.makedirs(episodes_dst)
+    os.makedirs(flyers_dst)
+
+    # Copy static assets
+    if os.path.exists(static_src):
+        # shutil.copytree(static_src, static_dst, dirs_exist_ok=True) 
+        # rmtree above handles it, so we can just copy
+        import distutils.dir_util
+        distutils.dir_util.copy_tree(str(static_src), str(static_dst))
+
+    # Copy flyers
+    print("Copying flyers...")
+    for ep in episodes:
+        flyers = []
+        if ep.get('flyers'):
+            flyers.extend(ep['flyers'])
+        if ep.get('flyer_urls'):
+            flyers.extend(ep['flyer_urls'])
+        if ep.get('flyer_url'):
+            flyers.append(ep['flyer_url'])
+            
+        for flyer in flyers:
+            # Handle potential paths (though usually just filename in DB)
+            fname = os.path.basename(flyer)
+            src = flyers_dir / fname
+            dst = flyers_dst / fname
+            
+            if src.exists():
+                shutil.copy2(src, dst)
+            else:
+                pass # print(f"Warning: Flyer not found {src}")
 
     # --- Generate Pages (Index, Hosted, Cohosted, Archive, Numbered) ---
     
@@ -76,15 +121,15 @@ def generate():
         flyer_html_list = []
         if ep.get("flyers"):
             for flyer_name in ep["flyers"]:
-                flyer_html_list.append(f'<img src="../flyers/{flyer_name}" alt="Flyer" style="max-width:100%; border-radius: 12px; margin-bottom: 20px;">')
+                flyer_html_list.append(f'<img src="../flyers/{flyer_name}" alt="Flyer" style="width: 200px; border-radius: 12px; margin-bottom: 20px;">')
         elif ep.get("flyer_urls"):
             for url in ep["flyer_urls"]:
                  src = url if "/" in url else f"../flyers/{url}"
-                 flyer_html_list.append(f'<img src="{src}" alt="Flyer" style="max-width:100%; border-radius: 12px; margin-bottom: 20px;">')
+                 flyer_html_list.append(f'<img src="{src}" alt="Flyer" style="width: 200px; border-radius: 12px; margin-bottom: 20px;">')
         elif ep.get("flyer_url"):
              url = ep["flyer_url"]
              src = url if "/" in url else f"../flyers/{url}"
-             flyer_html_list.append(f'<img src="{src}" alt="Flyer" style="max-width:100%; border-radius: 12px; margin-bottom: 20px;">')
+             flyer_html_list.append(f'<img src="{src}" alt="Flyer" style="width: 200px; border-radius: 12px; margin-bottom: 20px;">')
         
         flyers_section = "\n".join(flyer_html_list)
 
@@ -124,11 +169,12 @@ def generate():
                     <div class="episode-meta">
                         {f'<span class="status-badge cohosted" style="margin-right: 15px;">🤝 Co-Hosted</span>' if ep.get("type") == "co-hosted" else ""}
                         {f'<span class="status-badge" style="margin-right: 15px; background-color: #1DA1F2; color: white; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">📊 X Spaces Analytics</span>' if ep.get("analytics_source") else ""}
-                        {f'<span class="status-badge" style="margin-right: 15px; background-color: #000000; color: white; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">🔗 Space Link Available</span>' if ep.get("space_url") else ""}
+                        {f'<a href="{ep["space_url"]}" target="_blank" style="text-decoration: none;"><span class="status-badge" style="margin-right: 15px; background-color: #000000; color: white; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">🔗 Escuchar Space</span></a>' if ep.get("space_url") else ""}
                         <span>📅 {ep['date']}</span>
                         <span>⏱ {ep['duration'].replace("Duration: ", "") if ep.get('duration') else ""}</span>
                         {f'<span>🎧 {ep["listeners"]}</span>' if ep.get("listeners") else ""}
-                        {f'<span>🎤 Host: {ep["host"]}</span>' if ep.get("host") else ""}
+                        {f'<span>🎧 {ep["listeners"]}</span>' if ep.get("listeners") else ""}
+                        {f'<span>🎤 Host: {linkify_handle(ep["host"])}</span>' if ep.get("host") else ""}
                         {f'<span>🤝 Co-Hosts: {", ".join(ep["cohosts"])}</span>' if ep.get("cohosts") else ""}
                         <span>👥 {', '.join(ep['guests'])}</span>
                     </div>
@@ -151,7 +197,9 @@ def generate():
 
                     <div class="links">
                         <h3>Enlaces</h3>
-                        {f'<a href="{ep["space_url"]}" target="_blank" class="button">Ver en X (Twitter)</a>' if ep.get("space_url") else ""}
+                        {f'<a href="{ep["space_url"]}" target="_blank" class="button" style="background-color: #000000; color: white; font-weight: bold; padding: 12px 24px; font-size: 1.1em;">🎙️ Escuchar en X Space</a>' if ep.get("space_url") else ""}
+                        
+                        {f'<a href="{ep["spacesdashboard_url"]}" target="_blank" class="button" style="background-color: #1DA1F2; color: white; margin-left: 10px;">📊 Ver en SpacesDashboard</a>' if ep.get("spacesdashboard_url") else ""}
                         
                         {f'<a href="{ep["instagram_url"]}" target="_blank" class="button" style="background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); color: white; margin-left: 10px;">Ver en Instagram</a>' if ep.get("instagram_url") else ""}
                         
