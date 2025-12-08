@@ -49,7 +49,7 @@ def generate():
     # Setup paths
     base_dir = Path(".")
     data_path = base_dir / "shared" / "episodes_database.json"
-    spoken_data_path = base_dir / "shared" / "spoken_database.json"
+    consolidated_data_path = base_dir / "shared" / "consolidated_database.json"
     flyers_dir = base_dir / "shared" / "flyers"
     output_dir = base_dir / "website" / "output"
     static_src = base_dir / "website" / "static"
@@ -61,11 +61,12 @@ def generate():
     with open(data_path, "r") as f:
         data = json.load(f)
     
-    spoken_episodes = []
-    if os.path.exists(spoken_data_path):
-        with open(spoken_data_path, "r") as f:
-             spoken_data = json.load(f)
-             spoken_episodes = spoken_data.get("episodes", [])
+    # Load consolidated database for spoken page
+    all_episodes = []
+    if os.path.exists(consolidated_data_path):
+        with open(consolidated_data_path, "r") as f:
+             consolidated_data = json.load(f)
+             all_episodes = consolidated_data.get("episodes", [])
 
     episodes = data["episodes"]
     
@@ -127,10 +128,7 @@ def generate():
 
     # Copy static assets
     if os.path.exists(static_src):
-        # shutil.copytree(static_src, static_dst, dirs_exist_ok=True) 
-        # rmtree above handles it, so we can just copy
-        import distutils.dir_util
-        distutils.dir_util.copy_tree(str(static_src), str(static_dst))
+        shutil.copytree(str(static_src), str(static_dst), dirs_exist_ok=True)
 
     # Copy flyers
     print("Copying flyers...")
@@ -164,8 +162,8 @@ def generate():
     generate_subpage(output_dir, "cohosted.html", "Co-Hosted Spaces", f"Episodios co-hosteados y participaciones ({len(cohosted_episodes)} Spaces)", cohosted_episodes)
     generate_subpage(output_dir, "archive.html", "Archivo de Episodios", f"Todos los episodios ({len(episodes)} total)", episodes)
     
-    if spoken_episodes:
-         generate_spoken_page(output_dir, "spoken.html", "Spoken Episodes", f"Recap de Spoken ({len(spoken_episodes)} Episodios)", spoken_episodes)
+    if all_episodes:
+         generate_spoken_page(output_dir, "spoken.html", "All Episodes Database", f"Base de datos completa ({len(all_episodes)} Episodios)", all_episodes)
     
     print(f"Index generated with {len(numbered_episodes)} numbered episodes")
 
@@ -409,14 +407,52 @@ def generate():
     pass
 
 def generate_spoken_page(output_dir, filename, title, subtitle, episodes_list):
+    # Get unique hosts
     hosts = [ep.get('host', '') for ep in episodes_list if ep.get('host')]
     unique_hosts = sorted(set(hosts))
     host_counts = Counter(hosts)
     
+    # Get unique types
+    types = [ep.get('type', 'unknown') for ep in episodes_list]
+    type_counts = Counter(types)
+    
+    # Build host filter options
     host_options = '<option value="all">All Hosts ({})</option>'.format(len(episodes_list))
-    for host in unique_hosts:
-        count = host_counts[host]
-        host_options += f'<option value="{host}">{host} ({count})</option>'
+    
+    # Get top 5 hosts by episode count
+    top_hosts = host_counts.most_common(5)
+    
+    # Get remaining hosts sorted alphabetically
+    top_host_names = [host for host, count in top_hosts]
+    remaining_hosts = sorted([host for host in unique_hosts if host not in top_host_names])
+    
+    # Add separator comment for top hosts
+    host_options += '<option disabled>──────── Top 5 Hosts ────────</option>'
+    
+    # Add top 5 hosts
+    for host, count in top_hosts:
+        host_options += f'<option value="{host}">⭐ {host} ({count})</option>'
+    
+    # Add separator for other hosts
+    if remaining_hosts:
+        host_options += '<option disabled>──────── Other Hosts ────────</option>'
+        
+        # Add remaining hosts alphabetically
+        for host in remaining_hosts:
+            count = host_counts[host]
+            host_options += f'<option value="{host}">{host} ({count})</option>'
+    
+    # Build type filter options
+    type_options = '<option value="all">All Types ({})</option>'.format(len(episodes_list))
+    type_labels = {
+        'hosted': '🎙️ Hosted',
+        'co-hosted': '🤝 Co-Hosted',
+        'Spoken': '📢 Spoken',
+        'unknown': '❓ Unknown'
+    }
+    for ep_type, count in sorted(type_counts.items(), key=lambda x: x[1], reverse=True):
+        label = type_labels.get(ep_type, ep_type)
+        type_options += f'<option value="{ep_type}">{label} ({count})</option>'
 
     html_content = f"""
 <!DOCTYPE html>
@@ -454,11 +490,19 @@ def generate_spoken_page(output_dir, filename, title, subtitle, episodes_list):
 
     <main class="episodes-list">
         <div class="container">
-            <div style="margin-bottom: 20px;">
-                <label for="hostFilter" style="font-weight: bold; margin-right: 10px;">Filter by Host:</label>
-                <select id="hostFilter" onchange="filterTable()" style="padding: 8px; border-radius: 5px; border: 1px solid #ccc;">
-                    {host_options}
-                </select>
+            <div style="margin-bottom: 20px; display: flex; gap: 20px; flex-wrap: wrap;">
+                <div>
+                    <label for="typeFilter" style="font-weight: bold; margin-right: 10px;">Filter by Type:</label>
+                    <select id="typeFilter" onchange="filterTable()" style="padding: 8px; border-radius: 5px; border: 1px solid #ccc;">
+                        {type_options}
+                    </select>
+                </div>
+                <div>
+                    <label for="hostFilter" style="font-weight: bold; margin-right: 10px;">Filter by Host:</label>
+                    <select id="hostFilter" onchange="filterTable()" style="padding: 8px; border-radius: 5px; border: 1px solid #ccc;">
+                        {host_options}
+                    </select>
+                </div>
             </div>
             
             <div class="spoken-table-container">
@@ -466,21 +510,30 @@ def generate_spoken_page(output_dir, filename, title, subtitle, episodes_list):
                     <thead>
                         <tr>
                             <th onclick="sortTable(0)">Title</th>
-                            <th onclick="sortTable(1)">Host</th>
-                            <th onclick="sortTable(2, true)">#</th>
-                            <th onclick="sortTable(3)">Duration</th>
-                            <th onclick="sortTable(4, true)">Listeners</th>
-                            <th onclick="sortTable(5)">Space</th>
-                            <th onclick="sortTable(6)">Dash</th>
-                            <th onclick="sortTable(7)">Date</th>
+                            <th onclick="sortTable(1)">Type</th>
+                            <th onclick="sortTable(2)">Host</th>
+                            <th onclick="sortTable(3, true)">#</th>
+                            <th onclick="sortTable(4)">Duration</th>
+                            <th onclick="sortTable(5, true)">Listeners</th>
+                            <th onclick="sortTable(6)">Space</th>
+                            <th onclick="sortTable(7)">Dash</th>
+                            <th onclick="sortTable(8)">Date</th>
                         </tr>
                     </thead>
                     <tbody>
 """
     
     for ep in episodes_list:
-        # Columns: Title, Host, Number, Duration, Listeners, Link (Space), Link (Dashboard), Date
+        # Columns: Title, Type, Host, Number, Duration, Listeners, Link (Space), Link (Dashboard), Date
         title_text = ep.get('title', '')
+        type_text = ep.get('type', 'unknown')
+        type_icons = {
+            'hosted': '🎙️',
+            'co-hosted': '🤝',
+            'Spoken': '📢',
+            'unknown': '❓'
+        }
+        type_display = f"{type_icons.get(type_text, '❓')} {type_text}"
         host_text = ep.get('host', '')
         number_val = ep.get('number', 0)
         
@@ -496,8 +549,9 @@ def generate_spoken_page(output_dir, filename, title, subtitle, episodes_list):
         date_raw = ep.get('date', '') # YYYY-MM-DD for sorting
 
         html_content += f"""
-                        <tr>
+                        <tr data-type="{type_text}">
                             <td>{title_text}</td>
+                            <td>{type_display}</td>
                             <td>{host_text}</td>
                             <td data-val="{number_val}">{number_val}</td>
                             <td>{duration_display}</td>
@@ -533,19 +587,26 @@ def generate_spoken_page(output_dir, filename, title, subtitle, episodes_list):
         const tr = table.getElementsByTagName("tr");
         const paginationControls = document.getElementById("paginationControls");
         
-        // Get all rows that MATCH the filter first
+        // Get all rows that MATCH the filters
         let filteredRows = [];
-        const filterInput = document.getElementById("hostFilter");
-        const filter = filterInput.value.toUpperCase();
+        const hostFilterInput = document.getElementById("hostFilter");
+        const typeFilterInput = document.getElementById("typeFilter");
+        const hostFilter = hostFilterInput.value.toUpperCase();
+        const typeFilter = typeFilterInput.value.toUpperCase();
         
         for (let i = 1; i < tr.length; i++) {
-             const td = tr[i].getElementsByTagName("td")[1]; // Host column index 1
-             if (td) {
-                const txtValue = td.textContent || td.innerText;
-                if (filter === "ALL" || txtValue.toUpperCase().includes(filter) || txtValue.toUpperCase() === filter) {
+             const hostTd = tr[i].getElementsByTagName("td")[2]; // Host column index 2 (after Type)
+             const rowType = tr[i].getAttribute('data-type') || '';
+             
+             if (hostTd) {
+                const hostValue = hostTd.textContent || hostTd.innerText;
+                const hostMatch = hostFilter === "ALL" || hostValue.toUpperCase().includes(hostFilter) || hostValue.toUpperCase() === hostFilter;
+                const typeMatch = typeFilter === "ALL" || rowType.toUpperCase() === typeFilter;
+                
+                if (hostMatch && typeMatch) {
                     filteredRows.push(tr[i]);
                 } else {
-                    tr[i].style.display = "none"; // Hide completely if not matching filter
+                    tr[i].style.display = "none"; // Hide completely if not matching filters
                 }
              }
         }

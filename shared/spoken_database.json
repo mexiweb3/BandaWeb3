@@ -13,7 +13,7 @@
     "website": "https://bandaweb3.com",
     "twitter": "@BandaWeb3",
     "last_updated": "2025-12-07",
-    "total_episodes": 656
+    "total_episodes": 584
   },
   "episodes": [
     {
@@ -27,18 +27,6 @@
       "space_url": "https://x.com/i/spaces/1ZkJzZEjPbwJv",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1ZkJzZEjPbwJv/web3-en-espanol-x-billionsft-at-meximalist-y-at-anananfts",
       "number": "20251112.1"
-    },
-    {
-      "type": "Spoken",
-      "title": "LATAM SZN 😈 Ep. 6 con @LataMcap y @CasaWeb3 | Comenzamos 🤝 Comparte",
-      "host": "@LataMCap",
-      "listeners": 335,
-      "date": "2025-11-03",
-      "speakers": 11,
-      "duration": "00:47:13",
-      "space_url": "https://x.com/i/spaces/1MnGnPrjqWYxO",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1MnGnPrjqWYxO/latam-szn-ep-6-con-at-latamcap-y-at-casaweb3-comenzamos-comparte",
-      "number": "20251103"
     },
     {
       "type": "Spoken",
@@ -162,18 +150,6 @@
     },
     {
       "type": "Spoken",
-      "title": "Women of Web3 at UNGA80 & Alpha 🌐🎙️",
-      "host": "@the_womenofweb3",
-      "listeners": 110,
-      "date": "2025-09-11",
-      "speakers": 10,
-      "duration": "01:17:12",
-      "space_url": "https://x.com/i/spaces/1YqJDNYOYXoKV",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1YqJDNYOYXoKV/women-of-web3-at-unga80-alpha",
-      "number": "20250911"
-    },
-    {
-      "type": "Spoken",
       "title": "Hackear sin ser Hacker",
       "host": "@Musica_W3",
       "listeners": 68,
@@ -226,23 +202,11 @@
       "host": "@Pizza_DAO",
       "listeners": 179,
       "date": "2025-05-20",
-      "speakers": 17,
+      "speakers": [],
       "duration": "01:24:00",
       "space_url": "https://x.com/i/spaces/1yNxaLmAQPbJj",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1yNxaLmAQPbJj/2-days-until-the-global-pizza-party",
       "number": "20250520.1"
-    },
-    {
-      "type": "Spoken",
-      "title": "2 Days Until the Global Pizza Party!",
-      "host": "@Pizza_DAO",
-      "listeners": 179,
-      "date": "2025-05-20",
-      "speakers": 17,
-      "duration": "01:24:00",
-      "space_url": "https://x.com/i/spaces/1yNxaLmAQPbJj",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1yNxaLmAQPbJj/2-days-until-the-global-pizza-party",
-      "number": "20250520.2"
     },
     {
       "type": "Spoken",
@@ -382,23 +346,11 @@
       "host": "@TheMiamiApe",
       "listeners": 75,
       "date": "2025-04-02",
-      "speakers": 4,
+      "speakers": [],
       "duration": "01:12:00",
       "space_url": "https://x.com/i/spaces/1ZkJzYoAXZNGv",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1ZkJzYoAXZNGv/web3-en-espanol-ft-joao-latam-community-arbitrum",
       "number": "20250402.1"
-    },
-    {
-      "type": "Spoken",
-      "title": "Web3 en Español- Ft. João LATAM Community Arbitrum",
-      "host": "@TheMiamiApe",
-      "listeners": 75,
-      "date": "2025-04-02",
-      "speakers": 4,
-      "duration": "01:12:00",
-      "space_url": "https://x.com/i/spaces/1ZkJzYoAXZNGv",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1ZkJzYoAXZNGv/web3-en-espanol-ft-joao-latam-community-arbitrum",
-      "number": "20250402.2"
     },
     {
       "type": "Spoken",
@@ -654,18 +606,6 @@
     },
     {
       "type": "Spoken",
-      "title": "TRUMP coin y temas crypto",
-      "host": "@ccossio",
-      "listeners": 194,
-      "date": "2025-01-19",
-      "speakers": 5,
-      "duration": "01:28:00",
-      "space_url": "https://x.com/i/spaces/1djxXrryBDRGZ",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1djxXrryBDRGZ/trump-coin-y-temas-crypto",
-      "number": "20250119.2"
-    },
-    {
-      "type": "Spoken",
       "title": "Banda web 3 en la movida con el gran meximalist",
       "host": "@lamovidacrypto",
       "listeners": 44,
@@ -714,18 +654,6 @@
     },
     {
       "type": "Spoken",
-      "title": "🤖Agentes de IA | Agentcamp",
-      "host": "@ethereum_mexico",
-      "listeners": 135,
-      "date": "2025-01-13",
-      "speakers": 5,
-      "duration": "00:48:00",
-      "space_url": "https://x.com/i/spaces/1kvKpbmWOywJE",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1kvKpbmWOywJE/agentes-de-ia-agentcamp",
-      "number": "20250113"
-    },
-    {
-      "type": "Spoken",
       "title": "#KaroShow (Ep.104) ¡Celebración del 2do Aniversario! 🎉",
       "host": "@0xKaroShow",
       "listeners": 168,
@@ -750,18 +678,6 @@
     },
     {
       "type": "Spoken",
-      "title": "Devcon Recap: El impacto Latino en Bangkok. 🌏✨🇹🇭",
-      "host": "@ethereum_mexico",
-      "listeners": 88,
-      "date": "2024-11-26",
-      "speakers": 10,
-      "duration": "01:13:45",
-      "space_url": "https://x.com/i/spaces/1gqGvNXpRmlGB",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1gqGvNXpRmlGB/devcon-recap-el-impacto-latino-en-bangkok",
-      "number": "20241126"
-    },
-    {
-      "type": "Spoken",
       "title": "BTC, TikTok y MEMES traen nueva generación a crypto🎙️",
       "host": "@TheMiamiApe",
       "listeners": 55,
@@ -778,7 +694,7 @@
       "host": "@digitalizadosco",
       "listeners": 52,
       "date": "2024-11-21",
-      "speakers": 8,
+      "speakers": [],
       "duration": "01:11:14",
       "space_url": "https://x.com/i/spaces/1kvKpbalmBdJE",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1kvKpbalmBdJE/retos-tecnologicos-de-las-rampas-cripto-con-capa",
@@ -795,18 +711,6 @@
       "space_url": "https://x.com/i/spaces/1OwxWNWnrVAJQ",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1OwxWNWnrVAJQ/la-familia-episodio-1",
       "number": "20241121.2"
-    },
-    {
-      "type": "Spoken",
-      "title": "Retos tecnológicos de las rampas cripto con Capa 💰",
-      "host": "@digitalizadosco",
-      "listeners": 52,
-      "date": "2024-11-21",
-      "speakers": 8,
-      "duration": "01:11:14",
-      "space_url": "https://x.com/i/spaces/1kvKpbalmBdJE",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1kvKpbalmBdJE/retos-tecnologicos-de-las-rampas-cripto-con-capa",
-      "number": "20241121.3"
     },
     {
       "type": "Spoken",
@@ -910,23 +814,11 @@
       "host": "@Kalipssoh",
       "listeners": 170,
       "date": "2024-09-29",
-      "speakers": 12,
+      "speakers": [],
       "duration": "01:37:00",
       "space_url": "https://x.com/i/spaces/1MnxnDyyPlNGO",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1MnxnDyyPlNGO/cryptobrunchlatam-ep53-impulsa-tu-proyecto-vol8",
       "number": "20240929.1"
-    },
-    {
-      "type": "Spoken",
-      "title": "#CryptobrunchLatam Ep.53 Impulsa tu Proyecto Vol.8 🚀",
-      "host": "@Kalipssoh",
-      "listeners": 170,
-      "date": "2024-09-29",
-      "speakers": 12,
-      "duration": "01:37:00",
-      "space_url": "https://x.com/i/spaces/1MnxnDyyPlNGO",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1MnxnDyyPlNGO/cryptobrunchlatam-ep53-impulsa-tu-proyecto-vol8",
-      "number": "20240929.2"
     },
     {
       "type": "Spoken",
@@ -951,18 +843,6 @@
       "space_url": "https://x.com/i/spaces/1MnxnDzpnMOGO",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1MnxnDzpnMOGO/recap-ethereum-mx-x-meta-pool",
       "number": "20240924"
-    },
-    {
-      "type": "Spoken",
-      "title": "Web3 en español 🚀",
-      "host": "@Musica_W3",
-      "listeners": 46,
-      "date": "2024-09-23",
-      "speakers": 5,
-      "duration": "00:57:00",
-      "space_url": "https://x.com/i/spaces/1eaKbaeQOXRxX",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1eaKbaeQOXRxX/web3-en-espanol",
-      "number": "20240923"
     },
     {
       "type": "Spoken",
@@ -1018,7 +898,7 @@
       "host": "@abrahamrivv",
       "listeners": 30,
       "date": "2024-08-27",
-      "speakers": 8,
+      "speakers": [],
       "duration": "01:04:00",
       "space_url": "https://x.com/i/spaces/1vAxROeqnEXKl",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1vAxROeqnEXKl/colorin-colorado-esta-ronda-de-grants-se-ha-acabado",
@@ -1026,23 +906,11 @@
     },
     {
       "type": "Spoken",
-      "title": "Colorin Colorado esta ronda de Grants se ha acabado 🐥",
-      "host": "@abrahamrivv",
-      "listeners": 30,
-      "date": "2024-08-27",
-      "speakers": 8,
-      "duration": "01:04:00",
-      "space_url": "https://x.com/i/spaces/1vAxROeqnEXKl",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1vAxROeqnEXKl/colorin-colorado-esta-ronda-de-grants-se-ha-acabado",
-      "number": "20240827.2"
-    },
-    {
-      "type": "Spoken",
       "title": "Todo de SATI - enviar y recibir Bitcoin desde WhatsApp",
       "host": "@tododecripto",
       "listeners": 141,
       "date": "2024-08-22",
-      "speakers": 9,
+      "speakers": [],
       "duration": "01:09:00",
       "space_url": "https://x.com/i/spaces/1MYxNMvzjWoJw",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1MYxNMvzjWoJw/todo-de-sati-enviar-y-recibir-bitcoin-desde-whatsapp",
@@ -1050,23 +918,11 @@
     },
     {
       "type": "Spoken",
-      "title": "Todo de SATI - enviar y recibir Bitcoin desde WhatsApp",
-      "host": "@tododecripto",
-      "listeners": 141,
-      "date": "2024-08-22",
-      "speakers": 9,
-      "duration": "01:09:00",
-      "space_url": "https://x.com/i/spaces/1MYxNMvzjWoJw",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1MYxNMvzjWoJw/todo-de-sati-enviar-y-recibir-bitcoin-desde-whatsapp",
-      "number": "20240822.2"
-    },
-    {
-      "type": "Spoken",
       "title": "mpDAO Grants 8: Discussing Proposals with Ambassadors",
       "host": "@marcrypted",
       "listeners": 235,
       "date": "2024-08-21",
-      "speakers": 11,
+      "speakers": [],
       "duration": "01:22:00",
       "space_url": "https://x.com/i/spaces/1RDGlyDWekRJL",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1RDGlyDWekRJL/mpdao-grants-8-discussing-proposals-with-ambassadors",
@@ -1074,23 +930,11 @@
     },
     {
       "type": "Spoken",
-      "title": "mpDAO Grants 8: Discussing Proposals with Ambassadors",
-      "host": "@marcrypted",
-      "listeners": 235,
-      "date": "2024-08-21",
-      "speakers": 11,
-      "duration": "01:22:00",
-      "space_url": "https://x.com/i/spaces/1RDGlyDWekRJL",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1RDGlyDWekRJL/mpdao-grants-8-discussing-proposals-with-ambassadors",
-      "number": "20240821.2"
-    },
-    {
-      "type": "Spoken",
       "title": "Hackathon Frutal Web House 👷🥭",
       "host": "@NacionBlackFlag",
       "listeners": 44,
       "date": "2024-08-19",
-      "speakers": 16,
+      "speakers": [],
       "duration": "01:02:00",
       "space_url": "https://x.com/i/spaces/1kvJpbgWBwoKE",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1kvJpbgWBwoKE/hackathon-frutal-web-house",
@@ -1098,23 +942,11 @@
     },
     {
       "type": "Spoken",
-      "title": "Hackathon Frutal Web House 👷🥭",
-      "host": "@NacionBlackFlag",
-      "listeners": 44,
-      "date": "2024-08-19",
-      "speakers": 16,
-      "duration": "01:02:00",
-      "space_url": "https://x.com/i/spaces/1kvJpbgWBwoKE",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1kvJpbgWBwoKE/hackathon-frutal-web-house",
-      "number": "20240819.2"
-    },
-    {
-      "type": "Spoken",
       "title": "#CryptobrunchLatam Ep.50 Rumbo a Eth México, Mérida 🇲🇽 y Aniversario!🥐☕️",
       "host": "@Kalipssoh",
       "listeners": 157,
       "date": "2024-08-18",
-      "speakers": 5,
+      "speakers": [],
       "duration": "01:25:00",
       "space_url": "https://x.com/i/spaces/1vAGROjeLqRJl",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1vAGROjeLqRJl/cryptobrunchlatam-ep50-rumbo-a-eth-mexico-merida-y-aniversario",
@@ -1122,47 +954,11 @@
     },
     {
       "type": "Spoken",
-      "title": "#CryptobrunchLatam Ep.50 Rumbo a Eth México, Mérida 🇲🇽 y Aniversario!🥐☕️",
-      "host": "@Kalipssoh",
-      "listeners": 157,
-      "date": "2024-08-18",
-      "speakers": 5,
-      "duration": "01:25:00",
-      "space_url": "https://x.com/i/spaces/1vAGROjeLqRJl",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1vAGROjeLqRJl/cryptobrunchlatam-ep50-rumbo-a-eth-mexico-merida-y-aniversario",
-      "number": "20240818.2"
-    },
-    {
-      "type": "Spoken",
-      "title": "GRANTS para crecer Web3 en la región🥇",
-      "host": "@abrahamrivv",
-      "listeners": 150,
-      "date": "2024-08-16",
-      "speakers": 13,
-      "duration": "01:43:00",
-      "space_url": "https://x.com/i/spaces/1mnxeAbdjAqxX",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1mnxeAbdjAqxX/grants-para-crecer-web3-en-la-region",
-      "number": "20240816.1"
-    },
-    {
-      "type": "Spoken",
-      "title": "GRANTS para crecer Web3 en la región🥇",
-      "host": "@abrahamrivv",
-      "listeners": 150,
-      "date": "2024-08-16",
-      "speakers": 13,
-      "duration": "01:43:00",
-      "space_url": "https://x.com/i/spaces/1mnxeAbdjAqxX",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1mnxeAbdjAqxX/grants-para-crecer-web3-en-la-region",
-      "number": "20240816.2"
-    },
-    {
-      "type": "Spoken",
       "title": "🗳️ mpDAO Grants 8 is live!",
       "host": "@meta_pool",
       "listeners": 188,
       "date": "2024-08-14",
-      "speakers": 9,
+      "speakers": [],
       "duration": "01:02:00",
       "space_url": "https://x.com/i/spaces/1BdxYEBOoqZxX",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1BdxYEBOoqZxX/mpdao-grants-8-is-live",
@@ -1170,23 +966,11 @@
     },
     {
       "type": "Spoken",
-      "title": "🗳️ mpDAO Grants 8 is live!",
-      "host": "@meta_pool",
-      "listeners": 188,
-      "date": "2024-08-14",
-      "speakers": 9,
-      "duration": "01:02:00",
-      "space_url": "https://x.com/i/spaces/1BdxYEBOoqZxX",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1BdxYEBOoqZxX/mpdao-grants-8-is-live",
-      "number": "20240814.2"
-    },
-    {
-      "type": "Spoken",
       "title": "Let’s GROW Live 📢 #GG21 @Gitcoin Community 24/7",
       "host": "@LetsGROWdao",
       "listeners": 859,
       "date": "2024-08-08",
-      "speakers": 56,
+      "speakers": [],
       "duration": "15:13:00",
       "space_url": "https://x.com/i/spaces/1zqJVYvRORYGB",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1zqJVYvRORYGB/lets-grow-live-gg21-at-gitcoin-community-247",
@@ -1194,47 +978,11 @@
     },
     {
       "type": "Spoken",
-      "title": "Let’s GROW Live 📢 #GG21 @Gitcoin Community 24/7",
-      "host": "@LetsGROWdao",
-      "listeners": 859,
-      "date": "2024-08-08",
-      "speakers": 56,
-      "duration": "15:13:00",
-      "space_url": "https://x.com/i/spaces/1zqJVYvRORYGB",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1zqJVYvRORYGB/lets-grow-live-gg21-at-gitcoin-community-247",
-      "number": "20240808.2"
-    },
-    {
-      "type": "Spoken",
-      "title": "What's Prop'n #2 - @nounsdao prop review and incubation",
-      "host": "@carlosjmelgar",
-      "listeners": 52,
-      "date": "2024-08-05",
-      "speakers": 5,
-      "duration": "00:55:00",
-      "space_url": "https://x.com/i/spaces/1lPKqOaLnoAJb",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1lPKqOaLnoAJb/whats-propn-2-at-nounsdao-prop-review-and-incubation",
-      "number": "20240805.1"
-    },
-    {
-      "type": "Spoken",
-      "title": "What's Prop'n #2 - @nounsdao prop review and incubation",
-      "host": "@carlosjmelgar",
-      "listeners": 52,
-      "date": "2024-08-05",
-      "speakers": 5,
-      "duration": "00:55:00",
-      "space_url": "https://x.com/i/spaces/1lPKqOaLnoAJb",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1lPKqOaLnoAJb/whats-propn-2-at-nounsdao-prop-review-and-incubation",
-      "number": "20240805.2"
-    },
-    {
-      "type": "Spoken",
       "title": "Papá Gitcoin hizo algo con mamá Unlock y eso fue dar FINANCIACIÓN 😎",
       "host": "@digitalizadosco",
       "listeners": 31,
       "date": "2024-08-03",
-      "speakers": 6,
+      "speakers": [],
       "duration": "00:45:00",
       "space_url": "https://x.com/i/spaces/1YqxovMAbAgJv",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1YqxovMAbAgJv/papa-gitcoin-hizo-algo-con-mama-unlock-y-eso-fue-dar-financiacion",
@@ -1242,23 +990,11 @@
     },
     {
       "type": "Spoken",
-      "title": "Papá Gitcoin hizo algo con mamá Unlock y eso fue dar FINANCIACIÓN 😎",
-      "host": "@digitalizadosco",
-      "listeners": 31,
-      "date": "2024-08-03",
-      "speakers": 6,
-      "duration": "00:45:00",
-      "space_url": "https://x.com/i/spaces/1YqxovMAbAgJv",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1YqxovMAbAgJv/papa-gitcoin-hizo-algo-con-mama-unlock-y-eso-fue-dar-financiacion",
-      "number": "20240803.2"
-    },
-    {
-      "type": "Spoken",
       "title": "Ordinals LATAM en la CDMX. Comunidad Spaces.BTC",
       "host": "@OrdinalsLATAM",
       "listeners": 300,
       "date": "2024-07-22",
-      "speakers": 20,
+      "speakers": [],
       "duration": "01:38:00",
       "space_url": "https://x.com/i/spaces/1YqKDkzQYrVxV",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1YqKDkzQYrVxV/ordinals-latam-en-la-cdmx-comunidad-spacesbtc",
@@ -1266,23 +1002,11 @@
     },
     {
       "type": "Spoken",
-      "title": "Ordinals LATAM en la CDMX. Comunidad Spaces.BTC",
-      "host": "@OrdinalsLATAM",
-      "listeners": 300,
-      "date": "2024-07-22",
-      "speakers": 20,
-      "duration": "01:38:00",
-      "space_url": "https://x.com/i/spaces/1YqKDkzQYrVxV",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1YqKDkzQYrVxV/ordinals-latam-en-la-cdmx-comunidad-spacesbtc",
-      "number": "20240722.2"
-    },
-    {
-      "type": "Spoken",
       "title": "what's prop'n? @nounsdao prop review",
       "host": "@carlosjmelgar",
       "listeners": 79,
       "date": "2024-07-17",
-      "speakers": 10,
+      "speakers": [],
       "duration": "00:45:00",
       "space_url": "https://x.com/i/spaces/1dRKZdzjNwbJB",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1dRKZdzjNwbJB/whats-propn-at-nounsdao-prop-review",
@@ -1290,23 +1014,11 @@
     },
     {
       "type": "Spoken",
-      "title": "what's prop'n? @nounsdao prop review",
-      "host": "@carlosjmelgar",
-      "listeners": 79,
-      "date": "2024-07-17",
-      "speakers": 10,
-      "duration": "00:45:00",
-      "space_url": "https://x.com/i/spaces/1dRKZdzjNwbJB",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1dRKZdzjNwbJB/whats-propn-at-nounsdao-prop-review",
-      "number": "20240717.2"
-    },
-    {
-      "type": "Spoken",
       "title": "¡Sé parte de ETHMexico! (Anuncio Sorpresa) 🎉",
       "host": "@ethereum_mexico",
       "listeners": 162,
       "date": "2024-07-15",
-      "speakers": 9,
+      "speakers": [],
       "duration": "01:28:00",
       "space_url": "https://x.com/i/spaces/1vAGROaMppDJl",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1vAGROaMppDJl/se-parte-de-ethmexico-anuncio-sorpresa",
@@ -1314,23 +1026,11 @@
     },
     {
       "type": "Spoken",
-      "title": "¡Sé parte de ETHMexico! (Anuncio Sorpresa) 🎉",
-      "host": "@ethereum_mexico",
-      "listeners": 162,
-      "date": "2024-07-15",
-      "speakers": 9,
-      "duration": "01:28:00",
-      "space_url": "https://x.com/i/spaces/1vAGROaMppDJl",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1vAGROaMppDJl/se-parte-de-ethmexico-anuncio-sorpresa",
-      "number": "20240715.2"
-    },
-    {
-      "type": "Spoken",
       "title": "🔥El Cuadrilatero🔥 119🎖️El impacto de la Blockchain en la sociedad👀",
       "host": "@andreweb3_btc",
       "listeners": 129,
       "date": "2024-07-14",
-      "speakers": 6,
+      "speakers": [],
       "duration": "02:17:00",
       "space_url": "https://x.com/i/spaces/1LyxBgMYLqOKN",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1LyxBgMYLqOKN/el-cuadrilatero-119el-impacto-de-la-blockchain-en-la-sociedad",
@@ -1338,23 +1038,11 @@
     },
     {
       "type": "Spoken",
-      "title": "🔥El Cuadrilatero🔥 119🎖️El impacto de la Blockchain en la sociedad👀",
-      "host": "@andreweb3_btc",
-      "listeners": 129,
-      "date": "2024-07-14",
-      "speakers": 6,
-      "duration": "02:17:00",
-      "space_url": "https://x.com/i/spaces/1LyxBgMYLqOKN",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1LyxBgMYLqOKN/el-cuadrilatero-119el-impacto-de-la-blockchain-en-la-sociedad",
-      "number": "20240714.2"
-    },
-    {
-      "type": "Spoken",
       "title": "Liderando en web3 con @mexiweb3. EP. 36 ❤️‍🔥",
       "host": "@Yisbelpd",
       "listeners": 115,
       "date": "2024-07-12",
-      "speakers": 0,
+      "speakers": [],
       "duration": "01:22:00",
       "space_url": "https://x.com/i/spaces/1LyxBnXWgWoxN",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1LyxBnXWgWoxN/liderando-en-web3-con-at-mexiweb3-ep-36",
@@ -1362,23 +1050,11 @@
     },
     {
       "type": "Spoken",
-      "title": "Liderando en web3 con @mexiweb3. EP. 36 ❤️‍🔥",
-      "host": "@Yisbelpd",
-      "listeners": 115,
-      "date": "2024-07-12",
-      "speakers": 0,
-      "duration": "01:22:00",
-      "space_url": "https://x.com/i/spaces/1LyxBnXWgWoxN",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1LyxBnXWgWoxN/liderando-en-web3-con-at-mexiweb3-ep-36",
-      "number": "20240712.2"
-    },
-    {
-      "type": "Spoken",
       "title": "mpDAO Grants 7 | Results",
       "host": "@meta_pool",
       "listeners": 115,
       "date": "2024-07-10",
-      "speakers": 9,
+      "speakers": [],
       "duration": "00:52:00",
       "space_url": "https://x.com/i/spaces/1nAJEaEMraYJL",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1nAJEaEMraYJL/mpdao-grants-7-results",
@@ -1386,23 +1062,11 @@
     },
     {
       "type": "Spoken",
-      "title": "mpDAO Grants 7 | Results",
-      "host": "@meta_pool",
-      "listeners": 115,
-      "date": "2024-07-10",
-      "speakers": 9,
-      "duration": "00:52:00",
-      "space_url": "https://x.com/i/spaces/1nAJEaEMraYJL",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1nAJEaEMraYJL/mpdao-grants-7-results",
-      "number": "20240710.2"
-    },
-    {
-      "type": "Spoken",
       "title": "Governance Call 7 🗳️",
       "host": "@meta_pool",
       "listeners": 89,
       "date": "2024-06-27",
-      "speakers": 9,
+      "speakers": [],
       "duration": "01:01:00",
       "space_url": "https://x.com/i/spaces/1kvJpvmdvWPKE",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1kvJpvmdvWPKE/governance-call-7",
@@ -1410,23 +1074,11 @@
     },
     {
       "type": "Spoken",
-      "title": "Governance Call 7 🗳️",
-      "host": "@meta_pool",
-      "listeners": 89,
-      "date": "2024-06-27",
-      "speakers": 9,
-      "duration": "01:01:00",
-      "space_url": "https://x.com/i/spaces/1kvJpvmdvWPKE",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1kvJpvmdvWPKE/governance-call-7",
-      "number": "20240627.2"
-    },
-    {
-      "type": "Spoken",
       "title": "Propuestas Hispanas | mpDAO Grants 7 🗳️",
       "host": "@meta_pool",
       "listeners": 174,
       "date": "2024-06-26",
-      "speakers": 17,
+      "speakers": [],
       "duration": "01:24:00",
       "space_url": "https://x.com/i/spaces/1lDGLPPzqAqGm",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1lDGLPPzqAqGm/propuestas-hispanas-mpdao-grants-7",
@@ -1434,23 +1086,11 @@
     },
     {
       "type": "Spoken",
-      "title": "Propuestas Hispanas | mpDAO Grants 7 🗳️",
-      "host": "@meta_pool",
-      "listeners": 174,
-      "date": "2024-06-26",
-      "speakers": 17,
-      "duration": "01:24:00",
-      "space_url": "https://x.com/i/spaces/1lDGLPPzqAqGm",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1lDGLPPzqAqGm/propuestas-hispanas-mpdao-grants-7",
-      "number": "20240626.2"
-    },
-    {
-      "type": "Spoken",
       "title": "PITCHEANDO POR UN GRANT",
       "host": "@nerdconf_ar",
       "listeners": 155,
       "date": "2024-06-21",
-      "speakers": 13,
+      "speakers": [],
       "duration": "01:07:00",
       "space_url": "https://x.com/i/spaces/1rmGPMMrybgJN",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1rmGPMMrybgJN/pitcheando-por-un-grant",
@@ -1462,35 +1102,11 @@
       "host": "@0xKaroShow",
       "listeners": 48,
       "date": "2024-06-21",
-      "speakers": 0,
+      "speakers": [],
       "duration": "00:26:00",
       "space_url": "https://x.com/i/spaces/1mnxeppNkvvJX",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1mnxeppNkvvJX/karoshow-ep79-continuacion-con-at-mexiweb3",
       "number": "20240621.2"
-    },
-    {
-      "type": "Spoken",
-      "title": "PITCHEANDO POR UN GRANT",
-      "host": "@nerdconf_ar",
-      "listeners": 155,
-      "date": "2024-06-21",
-      "speakers": 13,
-      "duration": "01:07:00",
-      "space_url": "https://x.com/i/spaces/1rmGPMMrybgJN",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1rmGPMMrybgJN/pitcheando-por-un-grant",
-      "number": "20240621.3"
-    },
-    {
-      "type": "Spoken",
-      "title": "#KaroShow (Ep.79) Continuación con @mexiweb3 🏔️",
-      "host": "@0xKaroShow",
-      "listeners": 48,
-      "date": "2024-06-21",
-      "speakers": 0,
-      "duration": "00:26:00",
-      "space_url": "https://x.com/i/spaces/1mnxeppNkvvJX",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1mnxeppNkvvJX/karoshow-ep79-continuacion-con-at-mexiweb3",
-      "number": "20240621.4"
     },
     {
       "type": "Spoken",
@@ -1647,30 +1263,6 @@
       "space_url": "https://x.com/i/spaces/1OyKAWQbnlDJb",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1OyKAWQbnlDJb/nouniverso-nogs-farcaster-prop-house",
       "number": "20240423"
-    },
-    {
-      "type": "Spoken",
-      "title": "Wenos Días / hablemos de runes. Cómo hacer o comprar runes.",
-      "host": "@Wenlopezn",
-      "listeners": 184,
-      "date": "2024-04-22",
-      "speakers": 5,
-      "duration": "01:28:00",
-      "space_url": "https://x.com/i/spaces/1lPKqbklqpAGb",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1lPKqbklqpAGb/wenos-dias-hablemos-de-runes-como-hacer-o-comprar-runes",
-      "number": "20240422"
-    },
-    {
-      "type": "Spoken",
-      "title": "WTF RUNES??? Con @mexiweb3 @rafaelcr y @nxsh",
-      "host": "@abrahamrivv",
-      "listeners": 101,
-      "date": "2024-04-20",
-      "speakers": 7,
-      "duration": "01:55:00",
-      "space_url": "https://x.com/i/spaces/1MYxNoqZQkoKw",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1MYxNoqZQkoKw/wtf-runes-con-at-mexiweb3-at-rafaelcr-y-at-nxsh",
-      "number": "20240420"
     },
     {
       "type": "Spoken",
@@ -1959,18 +1551,6 @@
       "space_url": "https://x.com/i/spaces/1LyGBnbgOqYGN",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1LyGBnbgOqYGN/wenos-dias-ii-superama-anana-vs-jaz-y-bren-nohbek-web3",
       "number": "20240226"
-    },
-    {
-      "type": "Spoken",
-      "title": "Ronda de comunidades | Community Alliance, Beyond Coordination",
-      "host": "@NacionBlackFlag",
-      "listeners": 294,
-      "date": "2024-02-20",
-      "speakers": 16,
-      "duration": "01:55:00",
-      "space_url": "https://x.com/i/spaces/1YqxoDwOrgAKv",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1YqxoDwOrgAKv/ronda-de-comunidades-community-alliance-beyond-coordination",
-      "number": "20240220"
     },
     {
       "type": "Spoken",
@@ -2274,18 +1854,6 @@
     },
     {
       "type": "Spoken",
-      "title": "Qué haces para no dormir?",
-      "host": "@solsiete_web3",
-      "listeners": 106,
-      "date": "2024-01-18",
-      "speakers": 14,
-      "duration": "02:51:00",
-      "space_url": "https://x.com/i/spaces/1djGXNDRpQOxZ",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1djGXNDRpQOxZ/que-haces-para-no-dormir",
-      "number": "20240118.4"
-    },
-    {
-      "type": "Spoken",
       "title": "Hablemos con @Meta_pool sobre la Liquides en #Web3 @V1PS_NFTs 🫡",
       "host": "@CryptoNotaz",
       "listeners": 124,
@@ -2370,30 +1938,6 @@
     },
     {
       "type": "Spoken",
-      "title": "$BTC ETF APROBADO! Adiós McDonalds",
-      "host": "@alannetwork_",
-      "listeners": 166,
-      "date": "2024-01-11",
-      "speakers": 9,
-      "duration": "01:11:00",
-      "space_url": "https://x.com/i/spaces/1yoKMwmdEYnJQ",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1yoKMwmdEYnJQ/btc-etf-aprobado-adios-mcdonalds",
-      "number": "20240111"
-    },
-    {
-      "type": "Spoken",
-      "title": "ETH Cinco de Mayo - Communities",
-      "host": "@ETHCincoDeMayo",
-      "listeners": 217,
-      "date": "2024-01-10",
-      "speakers": 21,
-      "duration": "01:31:00",
-      "space_url": "https://x.com/i/spaces/1OyKAWqDwlbJb",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1OyKAWqDwlbJb/eth-cinco-de-mayo-communities",
-      "number": "20240110"
-    },
-    {
-      "type": "Spoken",
       "title": "Preguntas y respuestas de la Ronda de Nouns Amigos 📮",
       "host": "@NounsDAOAmigos",
       "listeners": 188,
@@ -2415,18 +1959,6 @@
       "space_url": "https://x.com/i/spaces/1rmGPMVmZgdJN",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1rmGPMVmZgdJN/welovetheart-mint-party-3",
       "number": "20240104.1"
-    },
-    {
-      "type": "Spoken",
-      "title": "📝Inscribiendo XRPC#20 con nosotros ☑️",
-      "host": "@0xDannyEth",
-      "listeners": 139,
-      "date": "2024-01-04",
-      "speakers": 13,
-      "duration": "03:34:00",
-      "space_url": "https://x.com/i/spaces/1kvKpvBkMagJE",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1kvKpvBkMagJE/inscribiendo-xrpc20-con-nosotros",
-      "number": "20240104.2"
     },
     {
       "type": "Spoken",
@@ -2490,18 +2022,6 @@
     },
     {
       "type": "Spoken",
-      "title": "Web3 para BoBos",
-      "host": "@NFTDEFILAND",
-      "listeners": 49,
-      "date": "2023-12-30",
-      "speakers": 5,
-      "duration": "00:13:00",
-      "space_url": "https://x.com/i/spaces/1nAJEaoomZYJL",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1nAJEaoomZYJL/web3-para-bobos",
-      "number": "20231230.1"
-    },
-    {
-      "type": "Spoken",
       "title": "WEB3 After Dark🎙️🌙",
       "host": "@cryptoxjen",
       "listeners": 5869,
@@ -2535,18 +2055,6 @@
       "space_url": "https://x.com/i/spaces/1MYxNoQbMoZKw",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1MYxNoQbMoZKw/narrativa-cripto",
       "number": "20231228.1"
-    },
-    {
-      "type": "Spoken",
-      "title": "#vonación como punto de partida de proyectos mexicanos @nacionbankless",
-      "host": "@cryptoreumd",
-      "listeners": 52,
-      "date": "2023-12-28",
-      "speakers": 6,
-      "duration": "01:03:00",
-      "space_url": "https://x.com/i/spaces/1vAGRveOoBkGl",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1vAGRveOoBkGl/vonacion-como-punto-de-partida-de-proyectos-mexicanos-at-nacionbankless",
-      "number": "20231228.2"
     },
     {
       "type": "Spoken",
@@ -2706,18 +2214,6 @@
     },
     {
       "type": "Spoken",
-      "title": "📈 Momentum Web3 en Español",
-      "host": "@NFTDEFILAND",
-      "listeners": 105,
-      "date": "2023-12-23",
-      "speakers": 10,
-      "duration": "00:56:00",
-      "space_url": "https://x.com/i/spaces/1mrxmyDYwpWxy",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1mrxmyDYwpWxy/momentum-web3-en-espanol",
-      "number": "20231223.2"
-    },
-    {
-      "type": "Spoken",
       "title": "Caffeine and Crypto ☕️",
       "host": "@GodsBurnt",
       "listeners": 11412,
@@ -2751,18 +2247,6 @@
       "space_url": "https://x.com/i/spaces/1ynJOyeNDNAKR",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1ynJOyeNDNAKR/la-nina-topo",
       "number": "20231221.2"
-    },
-    {
-      "type": "Spoken",
-      "title": "Momentum Web3 Español y half english 📈",
-      "host": "@NFTDEFILAND",
-      "listeners": 56,
-      "date": "2023-12-21",
-      "speakers": 9,
-      "duration": "00:57:00",
-      "space_url": "https://x.com/i/spaces/1ZkKzjgqNReKv",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1ZkKzjgqNReKv/momentum-web3-espanol-y-half-english",
-      "number": "20231221.3"
     },
     {
       "type": "Spoken",
@@ -2874,18 +2358,6 @@
     },
     {
       "type": "Spoken",
-      "title": "Web3 de noche 📈",
-      "host": "@NFTDEFILAND",
-      "listeners": 201,
-      "date": "2023-12-17",
-      "speakers": 20,
-      "duration": "05:11:00",
-      "space_url": "https://x.com/i/spaces/1lPKqbjQaaAGb",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1lPKqbjQaaAGb/web3-de-noche",
-      "number": "20231217"
-    },
-    {
-      "type": "Spoken",
       "title": "How to grow faster on X",
       "host": "@gianinaskarlett",
       "listeners": 1193,
@@ -2958,18 +2430,6 @@
     },
     {
       "type": "Spoken",
-      "title": "🎙Narrativa: Web3 y blockchain. alt season? o no? se acuerdan de 🆘️",
-      "host": "@TortillasTown",
-      "listeners": 84,
-      "date": "2023-12-07",
-      "speakers": 14,
-      "duration": "02:04:00",
-      "space_url": "https://x.com/i/spaces/1mnGepDnQBaKX",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1mnGepDnQBaKX/narrativa-web3-y-blockchain-alt-season-o-no-se-acuerdan-de",
-      "number": "20231207.1"
-    },
-    {
-      "type": "Spoken",
       "title": "44- Astro Hackathon, Startups Web3 y Financiación con ZonaTres💸",
       "host": "@digitalizadosco",
       "listeners": 110,
@@ -3018,18 +2478,6 @@
     },
     {
       "type": "Spoken",
-      "title": "🎙NARRATIVA: $BTC y web3 el futuro de la politica global?",
-      "host": "@TortillasTown",
-      "listeners": 66,
-      "date": "2023-12-04",
-      "speakers": 8,
-      "duration": "02:05:00",
-      "space_url": "https://x.com/i/spaces/1eaJbgDodZXxX",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1eaJbgDodZXxX/narrativa-btc-y-web3-el-futuro-de-la-politica-global",
-      "number": "20231204"
-    },
-    {
-      "type": "Spoken",
       "title": "Gobernanza en la era digital - @brichis_ @Crisincrypto @cryptoreumd",
       "host": "@Research_Kairos",
       "listeners": 383,
@@ -3054,18 +2502,6 @@
     },
     {
       "type": "Spoken",
-      "title": "NFTs On - Chain #Ordinals #Solscriptions #Ethscriptions ETC. 🔥",
-      "host": "@CryptoNotaz",
-      "listeners": 157,
-      "date": "2023-11-29",
-      "speakers": 5,
-      "duration": "01:54:00",
-      "space_url": "https://x.com/i/spaces/1YqKDgYlzYoxV",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1YqKDgYlzYoxV/nfts-on-chain-ordinals-solscriptions-ethscriptions-etc",
-      "number": "20231129.2"
-    },
-    {
-      "type": "Spoken",
       "title": "momentum",
       "host": "@TortillasTown",
       "listeners": 49,
@@ -3087,18 +2523,6 @@
       "space_url": "https://x.com/i/spaces/1gqxvQmwPoeJB",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1gqxvQmwPoeJB/we-love-the-art-art-contest-1m-op-prize",
       "number": "20231129.4"
-    },
-    {
-      "type": "Spoken",
-      "title": "Let’s GROW Live 24/7 @Gitcoin Community",
-      "host": "@LetsGROWdao",
-      "listeners": 1868,
-      "date": "2023-11-28",
-      "speakers": 83,
-      "duration": "15:18:00",
-      "space_url": "https://x.com/i/spaces/1djGXNaAXLvxZ",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1djGXNaAXLvxZ/lets-grow-live-247-at-gitcoin-community",
-      "number": "20231128"
     },
     {
       "type": "Spoken",
@@ -3150,18 +2574,6 @@
     },
     {
       "type": "Spoken",
-      "title": "MEGA SHILLING LATAM | #GitcoinRadio",
-      "host": "@Gitcoin19Radio",
-      "listeners": 303,
-      "date": "2023-11-25",
-      "speakers": 18,
-      "duration": "02:12:00",
-      "space_url": "https://x.com/i/spaces/1RDGllBodOMGL",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1RDGllBodOMGL/mega-shilling-latam-gitcoinradio",
-      "number": "20231125.2"
-    },
-    {
-      "type": "Spoken",
       "title": "Let’s GROW Live 24/7 @Gitcoin Community",
       "host": "@LetsGROWdao",
       "listeners": 1023,
@@ -3183,18 +2595,6 @@
       "space_url": "https://x.com/i/spaces/1ynKOybnjXWJR",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1ynKOybnjXWJR/thanksgiving-web3-en-espanol-noticias-y-debate-at-mauricioostos",
       "number": "20231123.1"
-    },
-    {
-      "type": "Spoken",
-      "title": "LATAM Shill & Chill GG19, Open mic V2",
-      "host": "@NacionBlackFlag",
-      "listeners": 262,
-      "date": "2023-11-23",
-      "speakers": 10,
-      "duration": "02:11:00",
-      "space_url": "https://x.com/i/spaces/1djGXNamnaoxZ",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1djGXNamnaoxZ/latam-shill-chill-gg19-open-mic-v2",
-      "number": "20231123.2"
     },
     {
       "type": "Spoken",
@@ -3243,18 +2643,6 @@
       "space_url": "https://x.com/i/spaces/1OyKAWXmylMJb",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1OyKAWXmylMJb/el-gm-el-vale-verguismo",
       "number": "20231121"
-    },
-    {
-      "type": "Spoken",
-      "title": "Gitcoin Grants 19 🏅Latam 🚀 | Open Mic",
-      "host": "@Research_Kairos",
-      "listeners": 172,
-      "date": "2023-11-20",
-      "speakers": 15,
-      "duration": "01:48:00",
-      "space_url": "https://x.com/i/spaces/1yoKMwdwOYjJQ",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1yoKMwdwOYjJQ/gitcoin-grants-19-latam-open-mic",
-      "number": "20231120"
     },
     {
       "type": "Spoken",
@@ -3318,18 +2706,6 @@
     },
     {
       "type": "Spoken",
-      "title": "Rumbo Gitcoin Grants 19 🚀🏅",
-      "host": "@Research_Kairos",
-      "listeners": 105,
-      "date": "2023-11-14",
-      "speakers": 9,
-      "duration": "01:39:00",
-      "space_url": "https://x.com/i/spaces/1mrGmyXjpAVGy",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1mrGmyXjpAVGy/rumbo-gitcoin-grants-19",
-      "number": "20231114"
-    },
-    {
-      "type": "Spoken",
       "title": "Salomondrin al bote y los reptilianos",
       "host": "@TortillasTown",
       "listeners": 99,
@@ -3378,18 +2754,6 @@
     },
     {
       "type": "Spoken",
-      "title": "☀️GM: Guerrilla Marketing",
-      "host": "@TortillasTown",
-      "listeners": 59,
-      "date": "2023-11-06",
-      "speakers": 8,
-      "duration": "01:47:00",
-      "space_url": "https://x.com/i/spaces/1eaJbgkgXzkxX",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1eaJbgkgXzkxX/gm-guerrilla-marketing",
-      "number": "20231106"
-    },
-    {
-      "type": "Spoken",
       "title": "Viene Thanksgiving🍗 y Navidad 🎄 Sabes cómo detectar #Scammers ? 🤑💀",
       "host": "@GuillermoDiazGr",
       "listeners": 51,
@@ -3423,18 +2787,6 @@
       "space_url": "https://x.com/i/spaces/1OwxWYRDlkWGQ",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1OwxWYRDlkWGQ/39-gitcoin-gg19-fondeando-proyectos-web3",
       "number": "20231102"
-    },
-    {
-      "type": "Spoken",
-      "title": "Experiencias y Expectativas con Mexi",
-      "host": "@EmbajadoresWeb3",
-      "listeners": 135,
-      "date": "2023-11-01",
-      "speakers": 2,
-      "duration": "01:11:00",
-      "space_url": "https://x.com/i/spaces/1eaKbgkZoqRGX",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1eaKbgkZoqRGX/experiencias-y-expectativas-con-mexi",
-      "number": "20231101"
     },
     {
       "type": "Spoken",
@@ -3630,18 +2982,6 @@
     },
     {
       "type": "Spoken",
-      "title": "Latina Lunes - Ep 1 “Raíces”",
-      "host": "@vida_de_la_rosa",
-      "listeners": 84,
-      "date": "2023-09-11",
-      "speakers": 17,
-      "duration": "02:42:00",
-      "space_url": "https://x.com/i/spaces/1ypJddqojAQJW",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1ypJddqojAQJW/latina-lunes-ep-1-raices",
-      "number": "20230911"
-    },
-    {
-      "type": "Spoken",
       "title": "#CryptobrunchLatam Ep. 8 Impulsando proyectos Web3 en Latam Vol2",
       "host": "@Kalipssoh",
       "listeners": 156,
@@ -3702,18 +3042,6 @@
     },
     {
       "type": "Spoken",
-      "title": "Ciudad Gitcoin 🚀",
-      "host": "@Research_Kairos",
-      "listeners": 46,
-      "date": "2023-08-23",
-      "speakers": 5,
-      "duration": "00:13:00",
-      "space_url": "https://x.com/i/spaces/1RDGlazORNNJL",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1RDGlazORNNJL/ciudad-gitcoin",
-      "number": "20230823"
-    },
-    {
-      "type": "Spoken",
       "title": "Únete a la comunidad de @meta_pool vota y obtén recompensas 🚀",
       "host": "@cryptoepicqueen",
       "listeners": 80,
@@ -3747,18 +3075,6 @@
       "space_url": "https://x.com/i/spaces/1mnxeRAnoAvKX",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1mnxeRAnoAvKX/cryptobrunchlatam-ep4uso-y-verificacion-de-datos-biometricos-en-web3",
       "number": "20230813"
-    },
-    {
-      "type": "Spoken",
-      "title": "Censuracion 🚫 influencers y politica",
-      "host": "@ElMcBoBo",
-      "listeners": 204,
-      "date": "2023-08-12",
-      "speakers": 18,
-      "duration": "02:35:00",
-      "space_url": "https://x.com/i/spaces/1DXxyvdOdwPKM",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1DXxyvdOdwPKM/censuracion-influencers-y-politica",
-      "number": "20230812.1"
     },
     {
       "type": "Spoken",
@@ -3882,18 +3198,6 @@
     },
     {
       "type": "Spoken",
-      "title": "DIALÉCTICA | Episodio 11",
-      "host": "@con3joblanco",
-      "listeners": 134,
-      "date": "2023-07-25",
-      "speakers": 13,
-      "duration": "02:18:00",
-      "space_url": "https://x.com/i/spaces/1BdxYyrlyDYxX",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1BdxYyrlyDYxX/dialectica-episodio-11",
-      "number": "20230725"
-    },
-    {
-      "type": "Spoken",
       "title": "X reemplaza a twitter 👀",
       "host": "@ElMcBoBo",
       "listeners": 17,
@@ -3927,18 +3231,6 @@
       "space_url": "https://x.com/i/spaces/1BdGYyweYRXGX",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1BdGYyweYRXGX/enterate-de-todo-sobre-cripto-latin-fest-2023",
       "number": "20230708"
-    },
-    {
-      "type": "Spoken",
-      "title": "THREADS vs Twitter: La Atencion te va hacer billonario$$$📈",
-      "host": "@ElMcBoBo",
-      "listeners": 88,
-      "date": "2023-07-06",
-      "speakers": 15,
-      "duration": "02:04:00",
-      "space_url": "https://x.com/i/spaces/1lDxLnLXAAQGm",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1lDxLnLXAAQGm/threads-vs-twitter-la-atencion-te-va-hacer-billonario",
-      "number": "20230706.1"
     },
     {
       "type": "Spoken",
@@ -4035,18 +3327,6 @@
       "space_url": "https://x.com/i/spaces/1YpKkgzYQwyKj",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1YpKkgzYQwyKj/noches-relax",
       "number": "20230626"
-    },
-    {
-      "type": "Spoken",
-      "title": "#PerfilesWeb3 y la comunidad latina 8vo EP !! con @meximalist 💪💯",
-      "host": "@Vimworld_SP",
-      "listeners": 107,
-      "date": "2023-06-22",
-      "speakers": 9,
-      "duration": "01:58:00",
-      "space_url": "https://x.com/i/spaces/1nAKErAQlEgGL",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1nAKErAQlEgGL/perfilesweb3-y-la-comunidad-latina-8vo-ep-con-at-meximalist",
-      "number": "20230622"
     },
     {
       "type": "Spoken",
@@ -4242,18 +3522,6 @@
     },
     {
       "type": "Spoken",
-      "title": "LATINOS: Exit Liquidity de los gringos? con @luisscarchi",
-      "host": "@NFTDEFILAND",
-      "listeners": 279,
-      "date": "2023-06-02",
-      "speakers": 23,
-      "duration": "03:07:00",
-      "space_url": "https://x.com/i/spaces/1MYxNgkWRPPKw",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1MYxNgkWRPPKw/latinos-exit-liquidity-de-los-gringos-con-at-luisscarchi",
-      "number": "20230602"
-    },
-    {
-      "type": "Spoken",
       "title": "$Sssnek 🐍 WTF! happened 100Millions Market Cap? @snekcoinada",
       "host": "@eltronadito",
       "listeners": 16,
@@ -4299,18 +3567,6 @@
       "space_url": "https://x.com/i/spaces/1BRJjZqLnqjJw",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1BRJjZqLnqjJw/intro-a-p3rsonalities-criptosimi",
       "number": "20230526.1"
-    },
-    {
-      "type": "Spoken",
-      "title": "🕳🐇 - Neuralink, ¿utopía o distopía?",
-      "host": "@con3joblanco",
-      "listeners": 234,
-      "date": "2023-05-26",
-      "speakers": 26,
-      "duration": "02:46:00",
-      "space_url": "https://x.com/i/spaces/1RDGlaNnBMjJL",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1RDGlaNnBMjJL/neuralink-utopia-o-distopia",
-      "number": "20230526.2"
     },
     {
       "type": "Spoken",
@@ -4419,18 +3675,6 @@
       "space_url": "https://x.com/i/spaces/1RDxlaqojdOKL",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1RDxlaqojdOKL/mananas-nft-ep-134-noticias-arte-y-musica",
       "number": "20230515"
-    },
-    {
-      "type": "Spoken",
-      "title": "🚀",
-      "host": "@NFTDEFILAND",
-      "listeners": 77,
-      "date": "2023-05-14",
-      "speakers": 15,
-      "duration": "04:07:00",
-      "space_url": "https://x.com/i/spaces/1gqGvyVYljzKB",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1gqGvyVYljzKB/",
-      "number": "20230514.1"
     },
     {
       "type": "Spoken",
@@ -6006,18 +5250,6 @@
     },
     {
       "type": "Spoken",
-      "title": "Nada puede malir sal - web3 español",
-      "host": "@wailancrai",
-      "listeners": 53,
-      "date": "2023-01-03",
-      "speakers": 8,
-      "duration": "01:05:00",
-      "space_url": "https://x.com/i/spaces/1YpKkgoOwAZKj",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1YpKkgoOwAZKj/nada-puede-malir-sal-web3-espanol",
-      "number": "20230103"
-    },
-    {
-      "type": "Spoken",
       "title": "Hola Loser Club 🎙Empezar este 2023 bien cabron con migo y un blonde",
       "host": "@turyahuatzin",
       "listeners": 77,
@@ -6039,18 +5271,6 @@
       "space_url": "https://x.com/i/spaces/1LyxBqldvzjJN",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1LyxBqldvzjJN/2022-repaso",
       "number": "20221231.2"
-    },
-    {
-      "type": "Spoken",
-      "title": "NFT: Planet of the Apes🐒",
-      "host": "@NFTDEFILAND",
-      "listeners": 93,
-      "date": "2022-12-29",
-      "speakers": 14,
-      "duration": "02:02:00",
-      "space_url": "https://x.com/i/spaces/1rmxPkpNRjbJN",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1rmxPkpNRjbJN/nft-planet-of-the-apes",
-      "number": "20221229"
     },
     {
       "type": "Spoken",
@@ -6087,18 +5307,6 @@
       "space_url": "https://x.com/i/spaces/1mnGeRnLbroJX",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1mnGeRnLbroJX/platiquemos",
       "number": "20221222"
-    },
-    {
-      "type": "Spoken",
-      "title": "🎶🎶🎶Shakin dat A$$🎶🎶🎶",
-      "host": "@NFTDEFILAND",
-      "listeners": 101,
-      "date": "2022-12-20",
-      "speakers": 13,
-      "duration": "01:05:00",
-      "space_url": "https://x.com/i/spaces/1nAKErnrrolGL",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1nAKErnrrolGL/shakin-dat-a",
-      "number": "20221220.1"
     },
     {
       "type": "Spoken",
@@ -6354,18 +5562,6 @@
     },
     {
       "type": "Spoken",
-      "title": "🚨MESSI⚽️CRISTIANO⚽️MEXICO COLECCIONES DIGITALES 🔥 RUGS❓️",
-      "host": "@NFTDEFILAND",
-      "listeners": 120,
-      "date": "2022-11-27",
-      "speakers": 23,
-      "duration": "04:17:00",
-      "space_url": "https://x.com/i/spaces/1DXxyvQDXknKM",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1DXxyvQDXknKM/messicristianomexico-colecciones-digitales-rugs",
-      "number": "20221127"
-    },
-    {
-      "type": "Spoken",
       "title": "M O M E N T U M ♠️",
       "host": "@NFTDEFILAND",
       "listeners": 76,
@@ -6618,18 +5814,6 @@
     },
     {
       "type": "Spoken",
-      "title": "Largometraje de ficcion en web3🤯 escuchen el final 🚀",
-      "host": "@NFTDEFILAND",
-      "listeners": 94,
-      "date": "2022-11-10",
-      "speakers": 13,
-      "duration": "02:02:00",
-      "space_url": "https://x.com/i/spaces/1ynJOaemYVqKR",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1ynJOaemYVqKR/largometraje-de-ficcion-en-web3-escuchen-el-final",
-      "number": "20221110.2"
-    },
-    {
-      "type": "Spoken",
       "title": "Wild Wild West",
       "host": "@billynidas",
       "listeners": 592,
@@ -6834,18 +6018,6 @@
     },
     {
       "type": "Spoken",
-      "title": "Office Hours: Real Estate and Blockchain Deep-Dives - Ep 02 - Title",
-      "host": "@El_Profesor_eth",
-      "listeners": 7,
-      "date": "2022-11-01",
-      "speakers": 2,
-      "duration": "00:54:00",
-      "space_url": "https://x.com/i/spaces/1RDxlaDomoDKL",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1RDxlaDomoDKL/office-hours-real-estate-and-blockchain-deep-dives-ep-02-title",
-      "number": "20221101.1"
-    },
-    {
-      "type": "Spoken",
       "title": "♠️Momentum❓️",
       "host": "@NFTDEFILAND",
       "listeners": 84,
@@ -6903,18 +6075,6 @@
       "space_url": "https://x.com/i/spaces/1ynJOablAPlKR",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1ynJOablAPlKR/el-cuadrilatero-openmic-redditcommunity-projects-nfts-ed-34",
       "number": "20221026.2"
-    },
-    {
-      "type": "Spoken",
-      "title": "♠️ Momentum",
-      "host": "@NFTDEFILAND",
-      "listeners": 58,
-      "date": "2022-10-26",
-      "speakers": 11,
-      "duration": "01:30:00",
-      "space_url": "https://x.com/i/spaces/1OwGWwZXekpGQ",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1OwGWwZXekpGQ/momentum",
-      "number": "20221026.3"
     },
     {
       "type": "Spoken",
@@ -7266,18 +6426,6 @@
     },
     {
       "type": "Spoken",
-      "title": "El Funeral #Web3: Murieron los #NFT? Noticias y mas.",
-      "host": "@NFTDEFILAND",
-      "listeners": 328,
-      "date": "2022-09-14",
-      "speakers": 29,
-      "duration": "03:48:00",
-      "space_url": "https://x.com/i/spaces/1jMJgLNEEbOxL",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1jMJgLNEEbOxL/el-funeral-web3-murieron-los-nft-noticias-y-mas",
-      "number": "20220914.2"
-    },
-    {
-      "type": "Spoken",
       "title": "Mañanas ÑFT ☕️🌞 Ep. 39",
       "host": "@cerebroweb3",
       "listeners": 102,
@@ -7575,18 +6723,6 @@
       "space_url": "https://x.com/i/spaces/1ynJOZyOyjEGR",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1ynJOZyOyjEGR/nfteando-1ra-edicion",
       "number": "20220729.2"
-    },
-    {
-      "type": "Spoken",
-      "title": "vampiros..#web3 sin censura🔥",
-      "host": "@NFTDEFILAND",
-      "listeners": 73,
-      "date": "2022-07-28",
-      "speakers": 19,
-      "duration": "02:51:00",
-      "space_url": "https://x.com/i/spaces/1mrGmayZjbVGy",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1mrGmayZjbVGy/vampirosweb3-sin-censura",
-      "number": "20220728"
     },
     {
       "type": "Spoken",
@@ -7890,12 +7026,12 @@
     }
   ],
   "stats": {
-    "total_episodes": 656,
-    "total_duration_hours": 1389.41,
-    "average_duration_minutes": 127.1,
-    "total_listeners": 292087,
-    "average_listeners": 445.3,
-    "episodes_with_listener_data": 656,
-    "last_updated": "2025-12-07T22:21:42.013312"
+    "total_episodes": 584,
+    "total_duration_hours": 1240.55,
+    "average_duration_minutes": 127.5,
+    "total_listeners": 280187,
+    "average_listeners": 479.8,
+    "episodes_with_listener_data": 584,
+    "last_updated": "2025-12-07T23:18:38.426560"
   }
 }
