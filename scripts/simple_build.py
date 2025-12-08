@@ -173,7 +173,6 @@ def generate():
                         <span>📅 {ep['date']}</span>
                         <span>⏱ {ep['duration'].replace("Duration: ", "") if ep.get('duration') else ""}</span>
                         {f'<span>🎧 {ep["listeners"]}</span>' if ep.get("listeners") else ""}
-                        {f'<span>🎧 {ep["listeners"]}</span>' if ep.get("listeners") else ""}
                         {f'<span>🎤 Host: {linkify_handle(ep["host"])}</span>' if ep.get("host") else ""}
                         {f'<span>🤝 Co-Hosts: {", ".join(ep["cohosts"])}</span>' if ep.get("cohosts") else ""}
                         <span>👥 {', '.join(ep['guests'])}</span>
