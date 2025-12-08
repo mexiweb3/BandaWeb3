@@ -5636,7 +5636,10 @@
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1djGXNaAXLvxZ/lets-grow-live-247-at-gitcoin-community",
-      "host": "@LetsGROWdao"
+      "host": "@LetsGROWdao",
+      "flyers": [
+        "flyer_letsgrowdao_generic.png"
+      ]
     },
     {
       "number": "20231125",
