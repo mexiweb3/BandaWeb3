@@ -216,7 +216,7 @@ def generate():
                         {f'<a href="{ep["contract_url"]}" target="_blank" class="button" style="background-color: #3498db; margin-left: 10px;">Contract (Arbiscan)</a>' if ep.get("contract_url") else ""}
                     </div>
 
-                    {f'''<div class="participant-graph">
+                    {f'''<div class="participant-graph" style="margin-top: 40px;">
                         <h3>Participant History</h3>
                         <img src="../flyers/{ep['participant_graph']}" alt="Participant History" style="width: 100%; border-radius: 12px; margin-bottom: 20px;">
                     </div>''' if ep.get('participant_graph') else ''}
