@@ -33,9 +33,18 @@
 
     <main class="episodes-list">
         <div class="container">
-            <div class="episodes-grid">
+            <div class="controls" style="margin-bottom: 2rem;">
+                <label for="sort-select" style="color: var(--text); margin-right: 1rem;">Ordenar por:</label>
+                <select id="sort-select" class="sort-select" onchange="sortEpisodes(this.value)">
+                    <option value="date-desc">Fecha (Más reciente)</option>
+                    <option value="date-asc">Fecha (Más antiguo)</option>
+                    <option value="listeners-desc">Escuchas (Mayor a menor)</option>
+                    <option value="listeners-asc">Escuchas (Menor a mayor)</option>
+                </select>
+            </div>
+            <div class="episodes-grid" id="episodes-grid">
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-11-03" data-listeners="335">
                     <a href="episodes/episode_20251103.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_20251103.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -58,7 +67,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-09-11" data-listeners="110">
                     <a href="episodes/episode_20250911.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_womenofweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -81,7 +90,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-07-29" data-listeners="43">
                     <a href="episodes/episode_20250729.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_20250729_Unlock.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -104,7 +113,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-02-17" data-listeners="61">
                     <a href="episodes/episode_20250217.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_ethereum_mexico_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -127,7 +136,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-02-10" data-listeners="67">
                     <a href="episodes/episode_20250210.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_ethereum_mexico_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -150,7 +159,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-02-03" data-listeners="146">
                     <a href="episodes/episode_20250203.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_ethereum_mexico_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -173,7 +182,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-01-27" data-listeners="89">
                     <a href="episodes/episode_20250127.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_ethereum_mexico_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -196,7 +205,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-01-20" data-listeners="67">
                     <a href="episodes/episode_20250120.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_ethereum_mexico_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -219,7 +228,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-01-20" data-listeners="435">
                     <a href="episodes/episode_20250120.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_cryptonotaz_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -242,7 +251,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-01-19" data-listeners="194">
                     <a href="episodes/episode_20250119.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_ccossio_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -265,7 +274,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-01-13" data-listeners="135">
                     <a href="episodes/episode_20250113.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_ethereum_mexico_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -288,7 +297,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-12-16" data-listeners="108">
                     <a href="episodes/episode_20241216.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_ethereum_mexico_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -311,7 +320,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-12-09" data-listeners="79">
                     <a href="episodes/episode_20241209.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_ethereum_mexico_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -334,7 +343,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-12-04" data-listeners="71">
                     <a href="episodes/episode_20241204.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_happ3nxyz_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -357,7 +366,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-11-26" data-listeners="88">
                     <a href="episodes/episode_20241126.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_ethereum_mexico_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -380,7 +389,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-11-20" data-listeners="87">
                     <a href="episodes/episode_20241120.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_diana10ka_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -403,7 +412,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-11-07" data-listeners="42">
                     <a href="episodes/episode_20241107.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_ethereum_mexico_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -426,7 +435,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-11-07" data-listeners="42">
                     <a href="episodes/episode_20241107.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_ethereum_mexico_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -449,7 +458,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-09-23" data-listeners="46">
                     <a href="episodes/episode_20240923.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_musicaw3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -472,7 +481,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-08-28" data-listeners="54">
                     <a href="episodes/episode_20240828.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_ethereum_mexico_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -495,7 +504,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-08-16" data-listeners="150">
                     <a href="episodes/episode_20240816.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_abrahamrivv_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -518,7 +527,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-08-05" data-listeners="52">
                     <a href="episodes/episode_20240805.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_carlosjmelgar_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -541,7 +550,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-06-23" data-listeners="202">
                     <a href="episodes/episode_20240623.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_kalipssoh_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -564,7 +573,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-06-21" data-listeners="78">
                     <a href="episodes/episode_20240621.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_0xkaro_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -587,7 +596,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-06-03" data-listeners="139">
                     <a href="episodes/episode_20240603.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_wenlopezn_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -610,7 +619,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-04-29" data-listeners="92">
                     <a href="episodes/episode_20240429.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_xverse_es_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -633,7 +642,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-04-22" data-listeners="184">
                     <a href="episodes/episode_20240422.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_wenlopezn_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -656,7 +665,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-04-20" data-listeners="101">
                     <a href="episodes/episode_20240420.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_abrahamrivv_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -679,7 +688,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-04-01" data-listeners="63">
                     <a href="episodes/episode_20240401.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_wenlopezn_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -702,7 +711,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-03-23" data-listeners="66">
                     <a href="episodes/episode_20240323.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_happ3nxyz_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -725,7 +734,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-03-19" data-listeners="131">
                     <a href="episodes/episode_20240319.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_womenofweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -748,7 +757,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-02-20" data-listeners="294">
                     <a href="episodes/episode_20240220.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nacionblackflag_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -771,7 +780,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-01-18" data-listeners="106">
                     <a href="episodes/episode_20240118.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_solsiete_web3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -794,7 +803,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-01-13" data-listeners="189">
                     <a href="episodes/episode_20240113.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_abrahamrivv_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -817,7 +826,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-01-11" data-listeners="156">
                     <a href="episodes/episode_20240111-2.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meta_pool_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -840,7 +849,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-01-11" data-listeners="166">
                     <a href="episodes/episode_20240111.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_alannetwork_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -863,7 +872,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-01-10" data-listeners="217">
                     <a href="episodes/episode_20240110.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_ethcincodemayo_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -886,7 +895,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-01-09" data-listeners="152">
                     <a href="episodes/episode_20240109-2.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_cryptonotaz_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -909,7 +918,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-01-08" data-listeners="197">
                     <a href="episodes/episode_20240108.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_solsiete_web3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -932,7 +941,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-01-04" data-listeners="139">
                     <a href="episodes/episode_20240104-2.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_0xdannyeth_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -955,7 +964,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-12-30" data-listeners="49">
                     <a href="episodes/episode_20231230-2.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -978,7 +987,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-12-28" data-listeners="52">
                     <a href="episodes/episode_20231228-2.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_cryptoreumd_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1001,7 +1010,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-12-28" data-listeners="52">
                     <a href="episodes/episode_20231228.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_cryptoreumd_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1024,7 +1033,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-12-23" data-listeners="105">
                     <a href="episodes/episode_20231223.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1047,7 +1056,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-12-21" data-listeners="56">
                     <a href="episodes/episode_20231221-2.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1070,7 +1079,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-12-17" data-listeners="189">
                     <a href="episodes/episode_20231217.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_kalipssoh_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1093,7 +1102,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-12-17" data-listeners="201">
                     <a href="episodes/episode_20231217-2.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1116,7 +1125,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-12-11" data-listeners="167">
                     <a href="episodes/episode_20231211.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_pulso_media_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1139,7 +1148,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-12-09" data-listeners="29">
                     <a href="episodes/episode_20231209.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_happ3nxyz_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1162,7 +1171,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-12-07" data-listeners="84">
                     <a href="episodes/episode_20231207-2.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_tortillastown_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1185,7 +1194,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-12-07" data-listeners="84">
                     <a href="episodes/episode_20231207.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_tortillastown_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1208,7 +1217,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-12-04" data-listeners="66">
                     <a href="episodes/episode_20231204.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_tortillastown_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1231,7 +1240,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-11-29" data-listeners="157">
                     <a href="episodes/episode_20231129.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_cryptonotaz_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1254,7 +1263,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-11-28" data-listeners="1868">
                     <a href="episodes/episode_20231128-2.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             
@@ -1277,7 +1286,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-11-25" data-listeners="303">
                     <a href="episodes/episode_20231125.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             
@@ -1300,7 +1309,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-11-23" data-listeners="141">
                     <a href="episodes/episode_20231123-2.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meta_pool_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1323,7 +1332,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-11-23" data-listeners="262">
                     <a href="episodes/episode_20231123.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nacionblackflag_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1346,7 +1355,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-11-20" data-listeners="172">
                     <a href="episodes/episode_20231120.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_research_kairos_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1369,7 +1378,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-11-14" data-listeners="105">
                     <a href="episodes/episode_20231114-2.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_research_kairos_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1392,7 +1401,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-11-07" data-listeners="111">
                     <a href="episodes/episode_20231107-2.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_research_kairos_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1415,7 +1424,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-11-06" data-listeners="59">
                     <a href="episodes/episode_20231106.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_tortillastown_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1438,7 +1447,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-11-01" data-listeners="135">
                     <a href="episodes/episode_20231101.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             
@@ -1461,7 +1470,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-10-31" data-listeners="89">
                     <a href="episodes/episode_20231031-2.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_research_kairos_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1484,7 +1493,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-10-29" data-listeners="220">
                     <a href="episodes/episode_20231029.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_kalipssoh_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1507,7 +1516,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-09-18" data-listeners="156">
                     <a href="episodes/episode_20230918.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             
@@ -1530,7 +1539,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-09-11" data-listeners="84">
                     <a href="episodes/episode_20230911.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             
@@ -1553,7 +1562,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-09-08" data-listeners="50">
                     <a href="episodes/episode_20230908.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_research_kairos_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1576,7 +1585,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-08-25" data-listeners="58">
                     <a href="episodes/episode_20230825.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             
@@ -1599,7 +1608,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-08-24" data-listeners="181">
                     <a href="episodes/episode_20230824-2.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meta_pool_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1622,7 +1631,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-08-23" data-listeners="46">
                     <a href="episodes/episode_20230823.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_research_kairos_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1645,7 +1654,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-08-23" data-listeners="46">
                     <a href="episodes/episode_20230823.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_research_kairos_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1668,7 +1677,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-08-12" data-listeners="204">
                     <a href="episodes/episode_20230812.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             
@@ -1691,7 +1700,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-07-25" data-listeners="134">
                     <a href="episodes/episode_20230725-2.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_con3joblanco_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1714,7 +1723,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-07-06" data-listeners="88">
                     <a href="episodes/episode_20230706-2.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             
@@ -1737,7 +1746,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-07-06" data-listeners="88">
                     <a href="episodes/episode_20230706.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             
@@ -1760,7 +1769,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-06-22" data-listeners="107">
                     <a href="episodes/episode_20230622.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             
@@ -1783,7 +1792,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-06-02" data-listeners="279">
                     <a href="episodes/episode_20230602.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1806,7 +1815,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-05-26" data-listeners="234">
                     <a href="episodes/episode_20230526.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_con3joblanco_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1829,7 +1838,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-05-14" data-listeners="77">
                     <a href="episodes/episode_20230514.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1852,7 +1861,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-04-29" data-listeners="522">
                     <a href="episodes/episode_20230429.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_con3joblanco_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1875,7 +1884,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-04-23" data-listeners="69">
                     <a href="episodes/episode_20230423.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             
@@ -1898,7 +1907,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-03-28" data-listeners="65">
                     <a href="episodes/episode_20230328.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_el_profesor_eth_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1921,7 +1930,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-03-13" data-listeners="265">
                     <a href="episodes/episode_20230313.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1944,7 +1953,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-03-13" data-listeners="29">
                     <a href="episodes/episode_20230313.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_el_profesor_eth_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1967,7 +1976,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-03-10" data-listeners="95">
                     <a href="episodes/episode_20230310.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             
@@ -1990,7 +1999,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-03-10" data-listeners="95">
                     <a href="episodes/episode_20230310.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             
@@ -2013,7 +2022,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-03-06" data-listeners="71">
                     <a href="episodes/episode_20230306.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_el_profesor_eth_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2036,7 +2045,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-02-13" data-listeners="99">
                     <a href="episodes/episode_20230213.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_themiamiape_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2059,7 +2068,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-02-13" data-listeners="54">
                     <a href="episodes/episode_20230213-2.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_themiamiape_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2082,7 +2091,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-02-13" data-listeners="82">
                     <a href="episodes/episode_20230213-3.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_themiamiape_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2105,7 +2114,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-02-13" data-listeners="118">
                     <a href="episodes/episode_20230213-4.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_themiamiape_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2128,7 +2137,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-02-11" data-listeners="136">
                     <a href="episodes/episode_20230211.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_cryptonotaz_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2151,7 +2160,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-02-11" data-listeners="312">
                     <a href="episodes/episode_20230211-2.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2174,7 +2183,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-02-10" data-listeners="29">
                     <a href="episodes/episode_20230210.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2197,7 +2206,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-02-09" data-listeners="86">
                     <a href="episodes/episode_20230209.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             
@@ -2220,7 +2229,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-01-28" data-listeners="67">
                     <a href="episodes/episode_20230128.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2243,7 +2252,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-01-27" data-listeners="177">
                     <a href="episodes/episode_20230127.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2266,7 +2275,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-01-26" data-listeners="485">
                     <a href="episodes/episode_20230126.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_marcusdantusnft_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2289,7 +2298,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-01-09" data-listeners="40">
                     <a href="episodes/episode_20230109.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             
@@ -2312,7 +2321,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-01-03" data-listeners="53">
                     <a href="episodes/episode_20230103.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             
@@ -2335,7 +2344,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-12-29" data-listeners="93">
                     <a href="episodes/episode_20221229.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2358,7 +2367,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-12-29" data-listeners="61">
                     <a href="episodes/episode_20221229-2.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2381,7 +2390,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-12-20" data-listeners="101">
                     <a href="episodes/episode_20221220-2.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2404,7 +2413,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-12-20" data-listeners="101">
                     <a href="episodes/episode_20221220.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2427,7 +2436,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-12-10" data-listeners="58">
                     <a href="episodes/episode_20221210.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2450,7 +2459,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-12-02" data-listeners="176">
                     <a href="episodes/episode_20221202.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2473,7 +2482,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-11-28" data-listeners="133">
                     <a href="episodes/episode_20221128.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             
@@ -2496,7 +2505,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-11-28" data-listeners="34">
                     <a href="episodes/episode_20221128-2.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_el_profesor_eth_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2519,7 +2528,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-11-28" data-listeners="34">
                     <a href="episodes/episode_20221128.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_el_profesor_eth_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2542,7 +2551,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-11-27" data-listeners="120">
                     <a href="episodes/episode_20221127.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2565,7 +2574,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-11-21" data-listeners="102">
                     <a href="episodes/episode_20221121.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2588,7 +2597,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-11-17" data-listeners="19">
                     <a href="episodes/episode_20221117-2.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             
@@ -2611,7 +2620,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-11-17" data-listeners="66">
                     <a href="episodes/episode_20221117.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2634,7 +2643,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-11-14" data-listeners="189">
                     <a href="episodes/episode_20221114.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2657,7 +2666,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-11-13" data-listeners="336">
                     <a href="episodes/episode_20221113-2.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2680,7 +2689,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-11-10" data-listeners="94">
                     <a href="episodes/episode_20221110-2.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2703,7 +2712,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-11-09" data-listeners="183">
                     <a href="episodes/episode_20221109.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2726,7 +2735,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-11-07" data-listeners="17">
                     <a href="episodes/episode_20221107.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2749,7 +2758,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-11-04" data-listeners="19">
                     <a href="episodes/episode_20221104.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_el_profesor_eth_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2772,7 +2781,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-11-04" data-listeners="7">
                     <a href="episodes/episode_20221104-2.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_el_profesor_eth_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2795,7 +2804,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-11-04" data-listeners="106">
                     <a href="episodes/episode_20221104-3.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2818,7 +2827,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-11-03" data-listeners="523">
                     <a href="episodes/episode_20221103.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             
@@ -2841,7 +2850,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-11-01" data-listeners="7">
                     <a href="episodes/episode_20221101.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_el_profesor_eth_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2864,7 +2873,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-10-25" data-listeners="127">
                     <a href="episodes/episode_20221025.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2887,7 +2896,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-10-25" data-listeners="150">
                     <a href="episodes/episode_20221025-2.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2910,7 +2919,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-10-19" data-listeners="104">
                     <a href="episodes/episode_20221019.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2933,7 +2942,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-10-18" data-listeners="367">
                     <a href="episodes/episode_20221018.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2956,7 +2965,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-10-17" data-listeners="281">
                     <a href="episodes/episode_20221017.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2979,7 +2988,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-10-14" data-listeners="85">
                     <a href="episodes/episode_20221014.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             
@@ -3002,7 +3011,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-10-14" data-listeners="85">
                     <a href="episodes/episode_20221014.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             
@@ -3025,7 +3034,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-10-11" data-listeners="35">
                     <a href="episodes/episode_20221011.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3048,7 +3057,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-10-11" data-listeners="292">
                     <a href="episodes/episode_20221011.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3071,7 +3080,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-09-28" data-listeners="50">
                     <a href="episodes/episode_20220928.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             
@@ -3094,7 +3103,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-09-27" data-listeners="148">
                     <a href="episodes/episode_20220927.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3117,7 +3126,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-09-23" data-listeners="80">
                     <a href="episodes/episode_20220923.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3140,7 +3149,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-09-22" data-listeners="190">
                     <a href="episodes/episode_20220922.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3163,7 +3172,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-09-21" data-listeners="121">
                     <a href="episodes/episode_20220921.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3186,7 +3195,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-09-14" data-listeners="328">
                     <a href="episodes/episode_20220914.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3209,7 +3218,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-09-08" data-listeners="100">
                     <a href="episodes/episode_20220908.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3232,7 +3241,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-08-20" data-listeners="103">
                     <a href="episodes/episode_20220820.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3255,7 +3264,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-08-11" data-listeners="121">
                     <a href="episodes/episode_20220811.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3278,7 +3287,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-07-28" data-listeners="73">
                     <a href="episodes/episode_20220728.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_nftdefiland_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3316,5 +3325,28 @@
             Become a Partner 🚀
         </a>
     </section>
+    <script>
+    function sortEpisodes(sortBy) {
+        const grid = document.getElementById('episodes-grid');
+        const episodes = Array.from(grid.getElementsByClassName('episode-card'));
+        
+        episodes.sort((a, b) => {
+            if (sortBy === 'date-desc') {
+                return b.dataset.date.localeCompare(a.dataset.date);
+            } else if (sortBy === 'date-asc') {
+                return a.dataset.date.localeCompare(b.dataset.date);
+            } else if (sortBy === 'listeners-desc') {
+                return parseInt(b.dataset.listeners || 0) - parseInt(a.dataset.listeners || 0);
+            } else if (sortBy === 'listeners-asc') {
+                return parseInt(a.dataset.listeners || 0) - parseInt(b.dataset.listeners || 0);
+            }
+            return 0;
+        });
+        
+        // Clear and re-append sorted episodes
+        grid.innerHTML = '';
+        episodes.forEach(ep => grid.appendChild(ep));
+    }
+    </script>
 </body>
 </html>

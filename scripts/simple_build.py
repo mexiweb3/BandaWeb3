@@ -383,7 +383,16 @@ def generate_subpage(output_dir, filename, title, subtitle, episodes_list):
 
     <main class="episodes-list">
         <div class="container">
-            <div class="episodes-grid">
+            <div class="controls" style="margin-bottom: 2rem;">
+                <label for="sort-select" style="color: var(--text); margin-right: 1rem;">Ordenar por:</label>
+                <select id="sort-select" class="sort-select" onchange="sortEpisodes(this.value)">
+                    <option value="date-desc">Fecha (Más reciente)</option>
+                    <option value="date-asc">Fecha (Más antiguo)</option>
+                    <option value="listeners-desc">Escuchas (Mayor a menor)</option>
+                    <option value="listeners-asc">Escuchas (Menor a mayor)</option>
+                </select>
+            </div>
+            <div class="episodes-grid" id="episodes-grid">
 """
 
     for ep in episodes_list:
@@ -406,7 +415,7 @@ def generate_subpage(output_dir, filename, title, subtitle, episodes_list):
              flyer_html = f'<img src="{flyer_path}" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">'
 
         html_content += f"""
-                <article class="episode-card">
+                <article class="episode-card" data-date="{ep.get('date', '')}" data-listeners="{ep.get('listeners', 0)}">
                     <a href="episodes/episode_{ep['number']}.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             {flyer_html}
@@ -446,6 +455,29 @@ def generate_subpage(output_dir, filename, title, subtitle, episodes_list):
             Become a Partner 🚀
         </a>
     </section>
+    <script>
+    function sortEpisodes(sortBy) {
+        const grid = document.getElementById('episodes-grid');
+        const episodes = Array.from(grid.getElementsByClassName('episode-card'));
+        
+        episodes.sort((a, b) => {
+            if (sortBy === 'date-desc') {
+                return b.dataset.date.localeCompare(a.dataset.date);
+            } else if (sortBy === 'date-asc') {
+                return a.dataset.date.localeCompare(b.dataset.date);
+            } else if (sortBy === 'listeners-desc') {
+                return parseInt(b.dataset.listeners || 0) - parseInt(a.dataset.listeners || 0);
+            } else if (sortBy === 'listeners-asc') {
+                return parseInt(a.dataset.listeners || 0) - parseInt(b.dataset.listeners || 0);
+            }
+            return 0;
+        });
+        
+        // Clear and re-append sorted episodes
+        grid.innerHTML = '';
+        episodes.forEach(ep => grid.appendChild(ep));
+    }
+    </script>
 </body>
 </html>
 """

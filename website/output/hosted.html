@@ -33,9 +33,18 @@
 
     <main class="episodes-list">
         <div class="container">
-            <div class="episodes-grid">
+            <div class="controls" style="margin-bottom: 2rem;">
+                <label for="sort-select" style="color: var(--text); margin-right: 1rem;">Ordenar por:</label>
+                <select id="sort-select" class="sort-select" onchange="sortEpisodes(this.value)">
+                    <option value="date-desc">Fecha (Más reciente)</option>
+                    <option value="date-asc">Fecha (Más antiguo)</option>
+                    <option value="listeners-desc">Escuchas (Mayor a menor)</option>
+                    <option value="listeners-asc">Escuchas (Menor a mayor)</option>
+                </select>
+            </div>
+            <div class="episodes-grid" id="episodes-grid">
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-12-04" data-listeners="573">
                     <a href="episodes/episode_074.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_074.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -58,7 +67,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-12-02" data-listeners="182">
                     <a href="episodes/episode_073.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_073.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -81,7 +90,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-09-04" data-listeners="0">
                     <a href="episodes/episode_072.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_072.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -104,7 +113,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-08-21" data-listeners="53">
                     <a href="episodes/episode_071.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_071.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -127,7 +136,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-08-14" data-listeners="79">
                     <a href="episodes/episode_070.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_070.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -150,7 +159,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-08-07" data-listeners="78">
                     <a href="episodes/episode_069.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_069.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -173,7 +182,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-07-31" data-listeners="52">
                     <a href="episodes/episode_068.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_068.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -196,7 +205,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-07-29" data-listeners="27">
                     <a href="episodes/episode_067.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_067.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -219,7 +228,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-06-19" data-listeners="86">
                     <a href="episodes/episode_066.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_066.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -242,7 +251,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-06-17" data-listeners="67">
                     <a href="episodes/episode_065.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_065.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -265,7 +274,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-06-10" data-listeners="68">
                     <a href="episodes/episode_064.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_064.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -288,7 +297,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-06-05" data-listeners="107">
                     <a href="episodes/episode_063.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_063.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -311,7 +320,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-06-03" data-listeners="41">
                     <a href="episodes/episode_062.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_062.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -334,7 +343,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-05-29" data-listeners="109">
                     <a href="episodes/episode_061.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_061.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -357,7 +366,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-05-27" data-listeners="197">
                     <a href="episodes/episode_060.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_060.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -380,7 +389,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-05-22" data-listeners="168">
                     <a href="episodes/episode_059.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_059.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -403,7 +412,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-05-20" data-listeners="">
                     <a href="episodes/episode_058.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_058.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -426,7 +435,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-05-15" data-listeners="213">
                     <a href="episodes/episode_057.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_057.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -449,7 +458,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-05-13" data-listeners="25">
                     <a href="episodes/episode_056.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_056.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -472,7 +481,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-05-08" data-listeners="100">
                     <a href="episodes/episode_055.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_055.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -495,7 +504,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-05-06" data-listeners="104">
                     <a href="episodes/episode_054.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_054.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -518,7 +527,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-04-22" data-listeners="90">
                     <a href="episodes/episode_053.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_053.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -541,7 +550,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-04-17" data-listeners="72">
                     <a href="episodes/episode_052.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_052.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -564,7 +573,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-04-15" data-listeners="168">
                     <a href="episodes/episode_051.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_051.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -587,7 +596,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-04-03" data-listeners="48">
                     <a href="episodes/episode_050.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_050.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -610,7 +619,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-04-01" data-listeners="109">
                     <a href="episodes/episode_049.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_049.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -633,7 +642,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-03-27" data-listeners="84">
                     <a href="episodes/episode_048.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_048.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -656,7 +665,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-03-25" data-listeners="294">
                     <a href="episodes/episode_047.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_047.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -679,7 +688,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-03-20" data-listeners="162">
                     <a href="episodes/episode_046.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_046.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -702,7 +711,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-03-18" data-listeners="60">
                     <a href="episodes/episode_045.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_045.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -725,7 +734,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-03-13" data-listeners="211">
                     <a href="episodes/episode_043.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_043.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -748,7 +757,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-02-20" data-listeners="138">
                     <a href="episodes/episode_042.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_042.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -771,7 +780,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-02-18" data-listeners="104">
                     <a href="episodes/episode_041.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_041.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -794,7 +803,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-02-13" data-listeners="135">
                     <a href="episodes/episode_040.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_040.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -817,7 +826,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-02-11" data-listeners="90">
                     <a href="episodes/episode_039.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_039.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -840,7 +849,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-02-04" data-listeners="103">
                     <a href="episodes/episode_038.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_038.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -863,7 +872,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-01-28" data-listeners="206">
                     <a href="episodes/episode_037.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_037.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -886,7 +895,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-01-23" data-listeners="53">
                     <a href="episodes/episode_036.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_036.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -909,7 +918,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-01-21" data-listeners="66">
                     <a href="episodes/episode_035.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_035.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -932,7 +941,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-01-16" data-listeners="45">
                     <a href="episodes/episode_034.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_034.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -955,7 +964,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-01-14" data-listeners="70">
                     <a href="episodes/episode_033.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_033.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -978,7 +987,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-01-09" data-listeners="1026">
                     <a href="episodes/episode_032.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_032.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1001,7 +1010,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2025-01-07" data-listeners="47">
                     <a href="episodes/episode_031.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_031.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1024,7 +1033,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-12-20" data-listeners="89">
                     <a href="episodes/episode_030.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_030.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1047,7 +1056,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-12-20" data-listeners="0">
                     <a href="episodes/episode_029.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_029.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1070,7 +1079,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-12-19" data-listeners="114">
                     <a href="episodes/episode_028.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_028.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1093,7 +1102,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-12-17" data-listeners="57">
                     <a href="episodes/episode_027.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_027.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1116,7 +1125,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-12-13" data-listeners="0">
                     <a href="episodes/episode_026.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_026.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1139,7 +1148,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-12-12" data-listeners="71">
                     <a href="episodes/episode_025.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_025.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1162,7 +1171,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-12-10" data-listeners="60">
                     <a href="episodes/episode_024.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_024.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1185,7 +1194,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-12-06" data-listeners="85">
                     <a href="episodes/episode_023.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_023.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1208,7 +1217,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-12-05" data-listeners="51">
                     <a href="episodes/episode_022.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_022.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1231,7 +1240,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-12-05" data-listeners="327">
                     <a href="episodes/episode_20241205.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_20241205_S7.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1254,7 +1263,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-12-03" data-listeners="74">
                     <a href="episodes/episode_021.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_021.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1277,7 +1286,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-11-29" data-listeners="93">
                     <a href="episodes/episode_020.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_020.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1300,7 +1309,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-11-28" data-listeners="62">
                     <a href="episodes/episode_019.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_019.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1323,7 +1332,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-11-26" data-listeners="63">
                     <a href="episodes/episode_018.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_018.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1346,7 +1355,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-11-22" data-listeners="200">
                     <a href="episodes/episode_017.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_017.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1369,7 +1378,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-11-21" data-listeners="135">
                     <a href="episodes/episode_016.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_016.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1392,7 +1401,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-11-19" data-listeners="73">
                     <a href="episodes/episode_015.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_015.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1415,7 +1424,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-11-18" data-listeners="108">
                     <a href="episodes/episode_014.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_014.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1438,7 +1447,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-11-14" data-listeners="92">
                     <a href="episodes/episode_013.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_013.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1461,7 +1470,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-11-12" data-listeners="32">
                     <a href="episodes/episode_012.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_012.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1484,7 +1493,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-11-07" data-listeners="50">
                     <a href="episodes/episode_011.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_011.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1507,7 +1516,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-11-05" data-listeners="48">
                     <a href="episodes/episode_010.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_010.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1530,7 +1539,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-10-29" data-listeners="33">
                     <a href="episodes/episode_009.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_009.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1553,7 +1562,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-10-24" data-listeners="80">
                     <a href="episodes/episode_008.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_008.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1576,7 +1585,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-10-23" data-listeners="68">
                     <a href="episodes/episode_20241023.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1599,7 +1608,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-10-22" data-listeners="51">
                     <a href="episodes/episode_007.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_007.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1622,7 +1631,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-10-17" data-listeners="143">
                     <a href="episodes/episode_006.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_006.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1645,7 +1654,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-10-01" data-listeners="49">
                     <a href="episodes/episode_005.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_005.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1668,7 +1677,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-09-26" data-listeners="144">
                     <a href="episodes/episode_004.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_004.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1691,7 +1700,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-09-10" data-listeners="125">
                     <a href="episodes/episode_003.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_003.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1714,7 +1723,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-09-05" data-listeners="73">
                     <a href="episodes/episode_002.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_002.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1737,7 +1746,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-08-29" data-listeners="79">
                     <a href="episodes/episode_001.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_001.jpg" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1760,7 +1769,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-08-22" data-listeners="115">
                     <a href="episodes/episode_20240822.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1783,7 +1792,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-08-15" data-listeners="26">
                     <a href="episodes/episode_20240815.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1806,7 +1815,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-08-13" data-listeners="68">
                     <a href="episodes/episode_20240813.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1829,7 +1838,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-07-25" data-listeners="80">
                     <a href="episodes/episode_20240725.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1852,7 +1861,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-07-23" data-listeners="82">
                     <a href="episodes/episode_20240723.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1875,7 +1884,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-07-18" data-listeners="91">
                     <a href="episodes/episode_20240718.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1898,7 +1907,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-07-11" data-listeners="103">
                     <a href="episodes/episode_20240711.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1921,7 +1930,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-07-09" data-listeners="405">
                     <a href="episodes/episode_20240709.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1944,7 +1953,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-06-25" data-listeners="113">
                     <a href="episodes/episode_20240625.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1967,7 +1976,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-06-20" data-listeners="81">
                     <a href="episodes/episode_20240620.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -1990,7 +1999,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-06-18" data-listeners="134">
                     <a href="episodes/episode_20240618.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2013,7 +2022,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-06-13" data-listeners="201">
                     <a href="episodes/episode_20240613.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2036,7 +2045,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-06-11" data-listeners="288">
                     <a href="episodes/episode_20240611.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2059,7 +2068,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-06-06" data-listeners="243">
                     <a href="episodes/episode_20240606.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2082,7 +2091,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-06-04" data-listeners="98">
                     <a href="episodes/episode_20240604.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2105,7 +2114,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-05-28" data-listeners="11">
                     <a href="episodes/episode_20240528.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2128,7 +2137,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-05-23" data-listeners="144">
                     <a href="episodes/episode_20240523.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2151,7 +2160,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-05-21" data-listeners="144">
                     <a href="episodes/episode_20240521.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2174,7 +2183,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-05-16" data-listeners="93">
                     <a href="episodes/episode_20240516.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2197,7 +2206,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-05-14" data-listeners="83">
                     <a href="episodes/episode_20240514.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2220,7 +2229,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-05-09" data-listeners="114">
                     <a href="episodes/episode_20240509.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2243,7 +2252,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-05-07" data-listeners="356">
                     <a href="episodes/episode_20240507.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2266,7 +2275,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-05-02" data-listeners="58">
                     <a href="episodes/episode_20240502.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2289,7 +2298,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-04-30" data-listeners="135">
                     <a href="episodes/episode_20240430.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2312,7 +2321,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-04-27" data-listeners="4">
                     <a href="episodes/episode_20240427.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2335,7 +2344,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-04-25" data-listeners="93">
                     <a href="episodes/episode_20240425.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2358,7 +2367,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-04-23" data-listeners="91">
                     <a href="episodes/episode_20240423.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2381,7 +2390,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-04-20" data-listeners="35">
                     <a href="episodes/episode_20240420.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2404,7 +2413,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-04-18" data-listeners="77">
                     <a href="episodes/episode_20240418.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2427,7 +2436,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-04-16" data-listeners="111">
                     <a href="episodes/episode_20240416.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2450,7 +2459,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-04-11" data-listeners="149">
                     <a href="episodes/episode_20240411.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2473,7 +2482,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-04-09" data-listeners="157">
                     <a href="episodes/episode_20240409.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2496,7 +2505,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-03-28" data-listeners="39">
                     <a href="episodes/episode_20240328.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2519,7 +2528,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-03-26" data-listeners="81">
                     <a href="episodes/episode_20240326.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2542,7 +2551,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-03-21" data-listeners="197">
                     <a href="episodes/episode_20240321.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2565,7 +2574,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-03-14" data-listeners="67">
                     <a href="episodes/episode_20240314.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2588,7 +2597,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-03-12" data-listeners="153">
                     <a href="episodes/episode_20240312.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2611,7 +2620,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-03-07" data-listeners="102">
                     <a href="episodes/episode_20240307.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2634,7 +2643,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-03-05" data-listeners="59">
                     <a href="episodes/episode_20240305.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2657,7 +2666,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-02-29" data-listeners="54">
                     <a href="episodes/episode_20240229.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2680,7 +2689,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-02-27" data-listeners="109">
                     <a href="episodes/episode_20240227.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2703,7 +2712,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-02-22" data-listeners="78">
                     <a href="episodes/episode_20240222.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2726,7 +2735,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-02-15" data-listeners="120">
                     <a href="episodes/episode_20240215.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2749,7 +2758,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-02-13" data-listeners="206">
                     <a href="episodes/episode_20240213.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2772,7 +2781,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-02-06" data-listeners="148">
                     <a href="episodes/episode_20240206.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2795,7 +2804,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-01-30" data-listeners="90">
                     <a href="episodes/episode_20240130.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2818,7 +2827,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-01-25" data-listeners="177">
                     <a href="episodes/episode_20240125.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2841,7 +2850,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-01-23" data-listeners="78">
                     <a href="episodes/episode_20240123.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2864,7 +2873,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-01-16" data-listeners="245">
                     <a href="episodes/episode_20240116.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2887,7 +2896,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-01-11" data-listeners="214">
                     <a href="episodes/episode_20240111.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2910,7 +2919,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-01-09" data-listeners="201">
                     <a href="episodes/episode_20240109.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2933,7 +2942,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-01-04" data-listeners="510">
                     <a href="episodes/episode_20240104.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2956,7 +2965,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2024-01-02" data-listeners="237">
                     <a href="episodes/episode_20240102.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -2979,7 +2988,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-12-31" data-listeners="106">
                     <a href="episodes/episode_20231231.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3002,7 +3011,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-12-30" data-listeners="281">
                     <a href="episodes/episode_20231230.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3025,7 +3034,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-12-28" data-listeners="388">
                     <a href="episodes/episode_20231228.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3048,7 +3057,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-12-27" data-listeners="79">
                     <a href="episodes/episode_20231227.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3071,7 +3080,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-12-27" data-listeners="88">
                     <a href="episodes/episode_20231227-S7.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3094,7 +3103,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-12-27" data-listeners="268">
                     <a href="episodes/episode_20231227.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3117,7 +3126,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-12-26" data-listeners="252">
                     <a href="episodes/episode_20231226.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3140,7 +3149,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-12-21" data-listeners="86">
                     <a href="episodes/episode_20231221.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3163,7 +3172,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-12-19" data-listeners="233">
                     <a href="episodes/episode_20231219.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3186,7 +3195,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-12-14" data-listeners="155">
                     <a href="episodes/episode_20231214.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3209,7 +3218,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-12-12" data-listeners="164">
                     <a href="episodes/episode_20231212.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3232,7 +3241,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-12-12" data-listeners="169">
                     <a href="episodes/episode_20231212.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3255,7 +3264,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-12-07" data-listeners="99">
                     <a href="episodes/episode_20231207.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3278,7 +3287,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-12-05" data-listeners="155">
                     <a href="episodes/episode_20231205.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3301,7 +3310,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-11-30" data-listeners="181">
                     <a href="episodes/episode_20231130.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3324,7 +3333,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-11-28" data-listeners="171">
                     <a href="episodes/episode_20231128.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3347,7 +3356,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-11-23" data-listeners="117">
                     <a href="episodes/episode_20231123.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3370,7 +3379,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-11-21" data-listeners="354">
                     <a href="episodes/episode_20231121.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3393,7 +3402,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-11-16" data-listeners="142">
                     <a href="episodes/episode_20231116.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3416,7 +3425,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-11-14" data-listeners="137">
                     <a href="episodes/episode_20231114.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3439,7 +3448,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-11-09" data-listeners="173">
                     <a href="episodes/episode_20231109.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3462,7 +3471,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-11-07" data-listeners="330">
                     <a href="episodes/episode_20231107.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3485,7 +3494,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-11-03" data-listeners="129">
                     <a href="episodes/episode_20231103.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3508,7 +3517,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-11-02" data-listeners="855">
                     <a href="episodes/episode_20231102.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3531,7 +3540,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-10-31" data-listeners="188">
                     <a href="episodes/episode_20231031.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3554,7 +3563,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-10-26" data-listeners="299">
                     <a href="episodes/episode_20231026.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3577,7 +3586,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-10-17" data-listeners="173">
                     <a href="episodes/episode_20231017.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3604,7 +3613,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-10-03" data-listeners="85">
                     <a href="episodes/episode_20231003.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3627,7 +3636,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-09-28" data-listeners="0">
                     <a href="episodes/episode_20230928.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3650,7 +3659,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-09-28" data-listeners="90">
                     <a href="episodes/episode_20230928.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3673,7 +3682,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-09-19" data-listeners="131">
                     <a href="episodes/episode_20230919.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3696,7 +3705,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-09-12" data-listeners="346">
                     <a href="episodes/episode_20230912.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3719,7 +3728,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-09-05" data-listeners="207">
                     <a href="episodes/episode_20230905.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3742,7 +3751,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-08-31" data-listeners="166">
                     <a href="episodes/episode_20230831.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3765,7 +3774,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-08-29" data-listeners="60">
                     <a href="episodes/episode_20230829.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3788,7 +3797,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-08-24" data-listeners="81">
                     <a href="episodes/episode_20230824.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3811,7 +3820,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-08-22" data-listeners="348">
                     <a href="episodes/episode_20230822.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3834,7 +3843,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-08-10" data-listeners="77">
                     <a href="episodes/episode_20230810.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3857,7 +3866,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-08-08" data-listeners="505">
                     <a href="episodes/episode_20230808.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3880,7 +3889,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-08-03" data-listeners="83">
                     <a href="episodes/episode_20230803.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3903,7 +3912,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-08-01" data-listeners="115">
                     <a href="episodes/episode_20230801.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3926,7 +3935,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-07-27" data-listeners="244">
                     <a href="episodes/episode_20230727.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3949,7 +3958,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-07-25" data-listeners="101">
                     <a href="episodes/episode_20230725.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3972,7 +3981,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-07-25" data-listeners="90">
                     <a href="episodes/episode_20230725-S7.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -3995,7 +4004,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-07-25" data-listeners="73">
                     <a href="episodes/episode_20230725.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4018,7 +4027,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-07-18" data-listeners="197">
                     <a href="episodes/episode_20230718.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4041,7 +4050,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-07-06" data-listeners="122">
                     <a href="episodes/episode_20230706.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4064,7 +4073,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-07-04" data-listeners="286">
                     <a href="episodes/episode_20230704.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4087,7 +4096,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-06-20" data-listeners="289">
                     <a href="episodes/episode_20230620.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4110,7 +4119,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-06-13" data-listeners="241">
                     <a href="episodes/episode_20230613.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4133,7 +4142,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-06-08" data-listeners="121">
                     <a href="episodes/episode_20230608.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4156,7 +4165,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-06-06" data-listeners="439">
                     <a href="episodes/episode_20230606.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4179,7 +4188,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-06-01" data-listeners="144">
                     <a href="episodes/episode_20230601.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4202,7 +4211,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-05-30" data-listeners="231">
                     <a href="episodes/episode_20230530.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4225,7 +4234,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-05-25" data-listeners="470">
                     <a href="episodes/episode_20230525.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4248,7 +4257,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-05-18" data-listeners="355">
                     <a href="episodes/episode_20230518.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4271,7 +4280,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-05-18" data-listeners="126">
                     <a href="episodes/episode_20230518.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4294,7 +4303,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-05-17" data-listeners="121">
                     <a href="episodes/episode_20230517.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4317,7 +4326,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-05-16" data-listeners="374">
                     <a href="episodes/episode_20230516.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4340,7 +4349,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-05-12" data-listeners="21">
                     <a href="episodes/episode_20230512.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4365,7 +4374,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-05-11" data-listeners="0">
                     <a href="episodes/episode_20230511.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4388,7 +4397,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-05-09" data-listeners="104">
                     <a href="episodes/episode_20230509.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4411,7 +4420,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-05-09" data-listeners="19">
                     <a href="episodes/episode_20230509.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4434,7 +4443,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-05-02" data-listeners="177">
                     <a href="episodes/episode_20230502.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4457,7 +4466,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-04-27" data-listeners="182">
                     <a href="episodes/episode_20230427.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4480,7 +4489,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-04-25" data-listeners="393">
                     <a href="episodes/episode_20230425.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4503,7 +4512,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-04-20" data-listeners="192">
                     <a href="episodes/episode_20230420.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4526,7 +4535,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-04-18" data-listeners="307">
                     <a href="episodes/episode_20230418.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4549,7 +4558,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-04-11" data-listeners="2502">
                     <a href="episodes/episode_20230411.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4572,7 +4581,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-03-30" data-listeners="112">
                     <a href="episodes/episode_20230330.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4595,7 +4604,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-03-16" data-listeners="176">
                     <a href="episodes/episode_20230316.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4618,7 +4627,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-03-14" data-listeners="383">
                     <a href="episodes/episode_20230314.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4641,7 +4650,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-03-09" data-listeners="225">
                     <a href="episodes/episode_20230309.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4664,7 +4673,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-03-07" data-listeners="81">
                     <a href="episodes/episode_20230307.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4687,7 +4696,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-03-04" data-listeners="18">
                     <a href="episodes/episode_20230304.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4710,7 +4719,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-03-03" data-listeners="96">
                     <a href="episodes/episode_20230303.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4733,7 +4742,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-03-02" data-listeners="362">
                     <a href="episodes/episode_20230302.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4756,7 +4765,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-02-28" data-listeners="540">
                     <a href="episodes/episode_20230228.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4779,7 +4788,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-02-23" data-listeners="154">
                     <a href="episodes/episode_20230223.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4802,7 +4811,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-02-21" data-listeners="116">
                     <a href="episodes/episode_20230221.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4825,7 +4834,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-02-16" data-listeners="115">
                     <a href="episodes/episode_20230216.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4848,7 +4857,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-02-14" data-listeners="75">
                     <a href="episodes/episode_20230214.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4871,7 +4880,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-02-09" data-listeners="86">
                     <a href="episodes/episode_20230209.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4894,7 +4903,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-02-07" data-listeners="0">
                     <a href="episodes/episode_20230207.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4917,7 +4926,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-02-07" data-listeners="123">
                     <a href="episodes/episode_20230207.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4940,7 +4949,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-02-02" data-listeners="175">
                     <a href="episodes/episode_20230202.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4963,7 +4972,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-01-31" data-listeners="340">
                     <a href="episodes/episode_20230131.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -4986,7 +4995,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-01-24" data-listeners="68">
                     <a href="episodes/episode_20230124.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5009,7 +5018,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-01-21" data-listeners="51">
                     <a href="episodes/episode_20230121.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5032,7 +5041,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-01-20" data-listeners="0">
                     <a href="episodes/episode_20230120.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5055,7 +5064,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-01-19" data-listeners="137">
                     <a href="episodes/episode_20230119.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5078,7 +5087,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-01-17" data-listeners="169">
                     <a href="episodes/episode_20230117.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5101,7 +5110,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-01-12" data-listeners="130">
                     <a href="episodes/episode_20230112.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5124,7 +5133,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-01-10" data-listeners="60">
                     <a href="episodes/episode_20230110.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5147,7 +5156,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-01-10" data-listeners="156">
                     <a href="episodes/episode_20230110-S7.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5170,7 +5179,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-01-10" data-listeners="60">
                     <a href="episodes/episode_20230110.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5193,7 +5202,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-01-09" data-listeners="53">
                     <a href="episodes/episode_20230109.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5216,7 +5225,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-01-05" data-listeners="119">
                     <a href="episodes/episode_20230105.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5239,7 +5248,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2023-01-03" data-listeners="74">
                     <a href="episodes/episode_20230103.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5262,7 +5271,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-12-22" data-listeners="104">
                     <a href="episodes/episode_20221222.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5285,7 +5294,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-12-22" data-listeners="17">
                     <a href="episodes/episode_20221222-S7.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5310,7 +5319,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-12-21" data-listeners="0">
                     <a href="episodes/episode_20221221.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5333,7 +5342,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-12-20" data-listeners="192">
                     <a href="episodes/episode_20221220.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5356,7 +5365,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-12-16" data-listeners="47">
                     <a href="episodes/episode_20221216.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5379,7 +5388,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-12-15" data-listeners="60">
                     <a href="episodes/episode_20221215.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5402,7 +5411,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-12-15" data-listeners="40">
                     <a href="episodes/episode_20221215-S7.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5425,7 +5434,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-12-14" data-listeners="0">
                     <a href="episodes/episode_20221214.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5448,7 +5457,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-12-13" data-listeners="131">
                     <a href="episodes/episode_20221213.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5471,7 +5480,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-12-09" data-listeners="14">
                     <a href="episodes/episode_20221209.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5496,7 +5505,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-12-08" data-listeners="0">
                     <a href="episodes/episode_20221208.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5519,7 +5528,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-12-06" data-listeners="95">
                     <a href="episodes/episode_20221206.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5542,7 +5551,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-12-01" data-listeners="54">
                     <a href="episodes/episode_20221201.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5565,7 +5574,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-11-29" data-listeners="94">
                     <a href="episodes/episode_20221129.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5588,7 +5597,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-11-24" data-listeners="57">
                     <a href="episodes/episode_20221124.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5611,7 +5620,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-11-22" data-listeners="113">
                     <a href="episodes/episode_20221122.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5634,7 +5643,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-11-22" data-listeners="121">
                     <a href="episodes/episode_20221122-S7.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5657,7 +5666,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-11-22" data-listeners="71">
                     <a href="episodes/episode_20221122.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5680,7 +5689,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-11-17" data-listeners="74">
                     <a href="episodes/episode_20221117.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5703,7 +5712,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-11-15" data-listeners="104">
                     <a href="episodes/episode_20221115.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5726,7 +5735,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-11-13" data-listeners="7">
                     <a href="episodes/episode_20221113.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5749,7 +5758,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-11-12" data-listeners="0">
                     <a href="episodes/episode_20221112.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5772,7 +5781,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-11-10" data-listeners="164">
                     <a href="episodes/episode_20221110.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5795,7 +5804,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-10-27" data-listeners="146">
                     <a href="episodes/episode_20221027.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5818,7 +5827,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-09-30" data-listeners="153">
                     <a href="episodes/episode_20220930.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5841,7 +5850,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-07-29" data-listeners="135">
                     <a href="episodes/episode_20220729.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5864,7 +5873,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-07-21" data-listeners="147">
                     <a href="episodes/episode_20220721.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5887,7 +5896,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-07-07" data-listeners="249">
                     <a href="episodes/episode_20220707.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5910,7 +5919,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-06-30" data-listeners="116">
                     <a href="episodes/episode_20220630.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5933,7 +5942,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-06-16" data-listeners="0">
                     <a href="episodes/episode_20220616.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5956,7 +5965,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-06-16" data-listeners="213">
                     <a href="episodes/episode_20220616.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_bandaweb3_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -5979,7 +5988,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2022-04-23" data-listeners="58">
                     <a href="episodes/episode_20220423.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -6002,7 +6011,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2021-12-18" data-listeners="26">
                     <a href="episodes/episode_20211218.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -6025,7 +6034,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2021-12-10" data-listeners="37">
                     <a href="episodes/episode_20211210.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -6054,7 +6063,7 @@
                     </a>
                 </article>
 
-                <article class="episode-card">
+                <article class="episode-card" data-date="2021-12-03" data-listeners="106">
                     <a href="episodes/episode_20211203.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             <img src="flyers/flyer_meximalist_generic.png" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">
@@ -6092,5 +6101,28 @@
             Become a Partner 🚀
         </a>
     </section>
+    <script>
+    function sortEpisodes(sortBy) {
+        const grid = document.getElementById('episodes-grid');
+        const episodes = Array.from(grid.getElementsByClassName('episode-card'));
+        
+        episodes.sort((a, b) => {
+            if (sortBy === 'date-desc') {
+                return b.dataset.date.localeCompare(a.dataset.date);
+            } else if (sortBy === 'date-asc') {
+                return a.dataset.date.localeCompare(b.dataset.date);
+            } else if (sortBy === 'listeners-desc') {
+                return parseInt(b.dataset.listeners || 0) - parseInt(a.dataset.listeners || 0);
+            } else if (sortBy === 'listeners-asc') {
+                return parseInt(a.dataset.listeners || 0) - parseInt(b.dataset.listeners || 0);
+            }
+            return 0;
+        });
+        
+        // Clear and re-append sorted episodes
+        grid.innerHTML = '';
+        episodes.forEach(ep => grid.appendChild(ep));
+    }
+    </script>
 </body>
 </html>
