@@ -2894,7 +2894,7 @@
       "unlock_url": "https://app.unlock-protocol.com/event/banda-web-3-004-minimal-trader",
       "opensea_url": "https://opensea.io/collection/bandaweb3-006-minimaltrader",
       "contract_url": "https://arbiscan.io//address/0x6dcbe67840c190362242ef31cf909227b1fcb884",
-      "listeners": 62,
+      "listeners": 143,
       "type": "hosted",
       "is_numbered": true,
       "host": "BandaWeb3",
