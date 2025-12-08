@@ -146,8 +146,7 @@ def generate():
     <nav class="navbar">
         <div class="container">
             <a href="../index.html" class="logo">
-                <img src="../static/images/logo.png" alt="Logo" style="height: 40px; vertical-align: middle; margin-right: 10px;">
-                <span class="logo-text">BandaWeb3</span>
+                <img src="../static/images/banda_dark.png" alt="BandaWeb3" style="height: 40px;">
             </a>
             <div class="nav-links">
                 <a href="../numbered.html">Episodios Numerados</a>
@@ -255,8 +254,7 @@ def generate():
     <nav class="navbar">
         <div class="container">
             <a href="index.html" class="logo">
-                <img src="static/images/logo.png" alt="BandaWeb3 Logo" style="height: 40px; vertical-align: middle; margin-right: 10px;">
-                <span class="logo-text">BandaWeb3</span>
+                <img src="static/images/banda_dark.png" alt="BandaWeb3" style="height: 40px;">
             </a>
             <div class="nav-links">
                 <a href="numbered.html">Episodios Numerados</a>
@@ -359,8 +357,7 @@ def generate_subpage(output_dir, filename, title, subtitle, episodes_list):
     <nav class="navbar">
         <div class="container">
             <a href="index.html" class="logo">
-                <img src="static/images/logo.png" alt="BandaWeb3 Logo" style="height: 40px; vertical-align: middle; margin-right: 10px;">
-                <span class="logo-text">BandaWeb3</span>
+                <img src="static/images/banda_dark.png" alt="BandaWeb3" style="height: 40px;">
             </a>
             <div class="nav-links">
                 <a href="numbered.html" class="{'active' if filename == 'numbered.html' else ''}">Episodios Numerados</a>
