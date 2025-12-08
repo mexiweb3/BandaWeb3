@@ -2836,7 +2836,10 @@
       "spacesdashboard_url": "https://spacesdashboard.com/space/1BdGYrZZmaYJX/bandaweb3-at-venusprotocol",
       "listeners": 68,
       "analytics_source": "spaces_dashboard_excel",
-      "live_listeners": 63
+      "live_listeners": 63,
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "007",
@@ -3130,7 +3133,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 104,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1RDxlyDvXejKL/bandaweb3-eventos-web3-en-monterrey"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1RDxlyDvXejKL/bandaweb3-eventos-web3-en-monterrey",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "title": "GRANTS para crecer Web3 en la región🥇",
@@ -3173,7 +3179,10 @@
       "host": "BandaWeb3",
       "analytics_source": "X Spaces Analytics",
       "live_listeners": 26,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1dRJZdoMbrzKB/bandaweb3-verborrea-1-con-mexiwtf"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1dRJZdoMbrzKB/bandaweb3-verborrea-1-con-mexiwtf",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20240813",
@@ -3195,7 +3204,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 9,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1eaKbaomqaRxX/bandaweb3-verborrea-con-mexiwtf"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1eaKbaomqaRxX/bandaweb3-verborrea-con-mexiwtf",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "title": "What's Prop'n #2 - @nounsdao prop review and incubation",
@@ -3239,7 +3251,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 80,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1nAJEpvWBNAGL/bandaweb3-con-at-guillaumemcfly-me-pago-mtgox"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1nAJEpvWBNAGL/bandaweb3-con-at-guillaumemcfly-me-pago-mtgox",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20240723",
@@ -3267,7 +3282,10 @@
       "analytics_source": "X Spaces Analytics",
       "speakers": 3,
       "live_listeners": 78,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1YpJklXMLomxj/bandaweb3-con-at-sohobiit-at-unlockprotocol-retroqf-2"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1YpJklXMLomxj/bandaweb3-con-at-sohobiit-at-unlockprotocol-retroqf-2",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "title": "#BandaWeb3 - @CriptoLatinFest 10 y 11 de octubre, Honduras",
@@ -3287,7 +3305,10 @@
       "space_url": "https://x.com/i/spaces/1vAxRvQQjYkxl",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1vAxRvQQjYkxl/bandaweb3-at-criptolatinfest-10-y-11-de-octubre-honduras",
       "listeners": 91,
-      "analytics_source": "spaces_dashboard_excel"
+      "analytics_source": "spaces_dashboard_excel",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "title": "#BandaWeb3 - @OrdinalsLATAM @Xverse_Es @trygamma 30-julio CDMX",
@@ -3307,7 +3328,10 @@
       "space_url": "https://x.com/i/spaces/1kvJpvMMgyLKE",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1kvJpvMMgyLKE/bandaweb3-at-ordinalslatam-at-xverse-es-at-trygamma-30-julio-cdmx",
       "listeners": 103,
-      "analytics_source": "spaces_dashboard_excel"
+      "analytics_source": "spaces_dashboard_excel",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "title": "#BandaWeb3 - Transparencia en Web3",
@@ -3327,7 +3351,10 @@
       "space_url": "https://x.com/i/spaces/1yoKMwPPdyOJQ",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1yoKMwPPdyOJQ/bandaweb3-transparencia-en-web3",
       "listeners": 405,
-      "analytics_source": "spaces_dashboard_excel"
+      "analytics_source": "spaces_dashboard_excel",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20240625",
@@ -3349,7 +3376,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 113,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1rmxPMoNvwnKN/bandaweb3-at-bitcoinweekio-en-monterrey"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1rmxPMoNvwnKN/bandaweb3-at-bitcoinweekio-en-monterrey",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "title": "#CryptobrunchLatam Ep.44 PANEL_ SolesBot, scam y ponzis 👩‍⚖️💰",
@@ -3415,7 +3445,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 81,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1rmxPMMMDbQKN/bandaweb3-onchain-summer-buildathon-en-at-base"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1rmxPMMMDbQKN/bandaweb3-onchain-summer-buildathon-en-at-base",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20240618",
@@ -3437,7 +3470,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 134,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1DXGyjjrLdLJM/bandaweb3-at-bitcoinweekio-en-mty-26-y-27-de-junio"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1DXGyjjrLdLJM/bandaweb3-at-bitcoinweekio-en-mty-26-y-27-de-junio",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20240613",
@@ -3459,7 +3495,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 201,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1djGXNlODkjxZ/bandaweb3-bruncher-house-at-baselatam"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1djGXNlODkjxZ/bandaweb3-bruncher-house-at-baselatam",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20240611",
@@ -3481,7 +3520,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 288,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1MYxNogDdXRKw/bandaweb3-at-lazonatres-certificaciones-en-aptos"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1MYxNogDdXRKw/bandaweb3-at-lazonatres-certificaciones-en-aptos",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20240606",
@@ -3503,7 +3545,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 243,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1OwxWYzEBpZGQ/bandaweb3-hackathon-en-at-mx-diputados-at-research-kairos"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1OwxWYzEBpZGQ/bandaweb3-hackathon-en-at-mx-diputados-at-research-kairos",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20240604",
@@ -3525,7 +3570,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 98,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1djGXNPbOpExZ/bandaweb3-crudeando-despues-de-at-consensus2024"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1djGXNPbOpExZ/bandaweb3-crudeando-despues-de-at-consensus2024",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "title": "Wenos Días: Consensus. Ordinals en Austin? Latinos en Consensus.",
@@ -3569,7 +3617,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 11,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1vOxwjELRWVJB/bandaweb3-at-consesus2024-at-thebafnetwork"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1vOxwjELRWVJB/bandaweb3-at-consesus2024-at-thebafnetwork",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20240523",
@@ -3591,7 +3642,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 144,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1ynKOyqXALOJR/bandaweb3-crudeando-post-globalpizzaparty"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1ynKOyqXALOJR/bandaweb3-crudeando-post-globalpizzaparty",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20240521",
@@ -3613,7 +3667,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 144,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1PlKQDmZoWdxE/bandaweb3-hackathon-camara-de-diputados-at-research-kairos"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1PlKQDmZoWdxE/bandaweb3-hackathon-camara-de-diputados-at-research-kairos",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20240516",
@@ -3635,7 +3692,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 93,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1eaKbgQopRnGX/bandaweb3-exhibiciones-irl-tokyosolidmexico2"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1eaKbgQopRnGX/bandaweb3-exhibiciones-irl-tokyosolidmexico2",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20240514",
@@ -3657,7 +3717,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 83,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1OyKAWezombJb/banda-web3-global-pizza-day-at-pizza-dao"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1OyKAWezombJb/banda-web3-global-pizza-day-at-pizza-dao",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20240509",
@@ -3679,7 +3742,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 114,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1MYGNodVrmzJw/banda-web3-at-thebafnetwork-becadxs-para-at-consensus2024"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1MYGNodVrmzJw/banda-web3-at-thebafnetwork-becadxs-para-at-consensus2024",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "title": "banda web3 - @monkdoesnt de @madlads y @backpack",
@@ -3699,7 +3765,10 @@
       "space_url": "https://x.com/i/spaces/1YqGoDjdRMvJv",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1YqGoDjdRMvJv/banda-web3-at-monkdoesnt-de-at-madlads-y-at-backpack",
       "listeners": 356,
-      "analytics_source": "spaces_dashboard_excel"
+      "analytics_source": "spaces_dashboard_excel",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20240502",
@@ -3721,7 +3790,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 58,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1yoKMwjwzlYJQ/banda-web3-solana-con-at-brazilliancare-at-superteammx"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1yoKMwjwzlYJQ/banda-web3-solana-con-at-brazilliancare-at-superteammx",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20240430",
@@ -3743,7 +3815,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 135,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1dRKZEOPdPQxB/banda-web3-runes-sub100k"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1dRKZEOPdPQxB/banda-web3-runes-sub100k",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "title": "Post Runes: hablemos de Runes después del Halving 🤝",
@@ -3787,7 +3862,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 4,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1nAJEayXLoYJL/verborrea-coleccion-de-runes-sub100k"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1nAJEayXLoYJL/verborrea-coleccion-de-runes-sub100k",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20240425",
@@ -3809,7 +3887,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 93,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1dRJZEgNzeNGB/banda-web3-at-lalocripto-at-abrahamcr-de-at-bandocool"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1dRJZEgNzeNGB/banda-web3-at-lalocripto-at-abrahamcr-de-at-bandocool",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20240423",
@@ -3831,7 +3912,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 91,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1YpKkwEaNXYKj/banda-web3-at-unlocksummit-io-2da-edicion-24-y-25-de-mayo-puebla"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1YpKkwEaNXYKj/banda-web3-at-unlocksummit-io-2da-edicion-24-y-25-de-mayo-puebla",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "title": "Wenos Días / hablemos de runes. Cómo hacer o comprar runes.",
@@ -3875,7 +3959,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 35,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1yoKMwVvvDDJQ/runes-are-a-scam-donotmintrunes"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1yoKMwVvvDDJQ/runes-are-a-scam-donotmintrunes",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "title": "WTF RUNES??? Con @mexiweb3 @rafaelcr y @nxsh",
@@ -3917,7 +4004,10 @@
       "space_url": "https://x.com/i/spaces/1vOGwjAqLRgKB",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1vOGwjAqLRgKB/banda-web3-la-historia-del-dinero-bitcoin-halving",
       "listeners": 77,
-      "analytics_source": "spaces_dashboard_excel"
+      "analytics_source": "spaces_dashboard_excel",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20240416",
@@ -3939,7 +4029,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 111,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1OwGWYEvDYexQ/banda-web3-panorama-general-2017-2024"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1OwGWYEvDYexQ/banda-web3-panorama-general-2017-2024",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20240411",
@@ -3961,7 +4054,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 149,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1lDxLPAAkybxm/banda-web3-maestria-con-especializacion-en-blockchain"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1lDxLPAAkybxm/banda-web3-maestria-con-especializacion-en-blockchain",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20240409",
@@ -3983,7 +4079,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 157,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1BRJjPLOrrNKw/banda-web3-nftnyc-2024"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1BRJjPLOrrNKw/banda-web3-nftnyc-2024",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "title": "Wenos Dias: NFT NYC y Talentland. The Halvening. Asistir a eventos.",
@@ -4027,7 +4126,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 39,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1vOxwjvgbbDJB/banda-web3-becas-austin-gitcoin-retropgf-nfts-palnorte"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1vOxwjvgbbDJB/banda-web3-becas-austin-gitcoin-retropgf-nfts-palnorte",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20240326",
@@ -4049,7 +4151,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 81,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1ynJOyWRBXqKR/banda-web3-reset-del-token-de-gobernanza-de-at-meta-pool"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1ynJOyWRBXqKR/banda-web3-reset-del-token-de-gobernanza-de-at-meta-pool",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "title": "Hablemos del impacto de las rondas de Gitcoin 🧑🏻‍🚀",
@@ -4093,7 +4198,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 197,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1ypJdkXPLyNGW/la-abogada-y-el-ingeniero-violencia-digital"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1ypJdkXPLyNGW/la-abogada-y-el-ingeniero-violencia-digital",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "title": "Sneak peek on 2024🌐🍃",
@@ -4136,7 +4244,10 @@
       "space_url": "",
       "audio_url": "",
       "flyer_urls": [],
-      "live_listeners": 67
+      "live_listeners": 67,
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20240312",
@@ -4158,7 +4269,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 153,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1mrGmyABrvdGy/banda-web3-at-anananfts"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1mrGmyABrvdGy/banda-web3-at-anananfts",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20240307",
@@ -4180,7 +4294,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 102,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1yoJMwDmRRRKQ/la-abogada-y-el-inge-at-gitcoin-ronda-de-comunidades-latam"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1yoJMwDmRRRKQ/la-abogada-y-el-inge-at-gitcoin-ronda-de-comunidades-latam",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20240305",
@@ -4202,7 +4319,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 59,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1OwxWYrlQlpGQ/banda-web3-at-natzcalli-de-at-vadiexchange-tokenizar-empresas"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1OwxWYrlQlpGQ/banda-web3-at-natzcalli-de-at-vadiexchange-tokenizar-empresas",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20240229",
@@ -4224,7 +4344,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 54,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1yNGaZnAqlnJj/banda-web3-taller-para-devs-web3-en-mty-con-at-leemarreros"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1yNGaZnAqlnJj/banda-web3-taller-para-devs-web3-en-mty-con-at-leemarreros",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20240227",
@@ -4246,7 +4369,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 109,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1yNxaZnjErvKj/banda-web3-los-correos-de-satoshi-con-at-das-grasshopper"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1yNxaZnjErvKj/banda-web3-los-correos-de-satoshi-con-at-das-grasshopper",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20240222",
@@ -4268,7 +4394,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 78,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1BRKjPkqaOeJw/banda-web3-taller-el-metodo-con-at-solencontraluz"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1BRKjPkqaOeJw/banda-web3-taller-el-metodo-con-at-solencontraluz",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "title": "Ronda de comunidades | Community Alliance, Beyond Coordination",
@@ -4312,7 +4441,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 120,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1dRKZEqwQYMxB/banda-web3-at-solencontraluz-el-metodo-web3-monetiza-ya"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1dRKZEqwQYMxB/banda-web3-at-solencontraluz-el-metodo-web3-monetiza-ya",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20240213",
@@ -4334,7 +4466,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 206,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1LyGBnlWbEaGN/banda-web3-eventos-at-nounsmx-at-musica-w3-at-nerdconf-ar"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1LyGBnlWbEaGN/banda-web3-eventos-at-nounsmx-at-musica-w3-at-nerdconf-ar",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20240206",
@@ -4356,7 +4491,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 148,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1MnxnMzzjVEJO/hackathon-at-ethcincodemayo-con-at-solencontraluz"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1MnxnMzzjVEJO/hackathon-at-ethcincodemayo-con-at-solencontraluz",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20240130",
@@ -4378,7 +4516,10 @@
       "audio_url": "",
       "flyer_urls": [],
       "live_listeners": 90,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1nAKEanZYlAKL/bw3-apps-web2-xrc20-2-at-arbitrum-wen-jup"
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1nAKEanZYlAKL/bw3-apps-web2-xrc20-2-at-arbitrum-wen-jup",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20240125",
@@ -4966,7 +5107,10 @@
       "space_url": "https://x.com/i/spaces/1LyxBnmXnzWxN",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1LyxBnmXnzWxN/xrc20-solscriptions-ethscriptions-todo-el-alpha",
       "listeners": 268,
-      "analytics_source": "spaces_dashboard_excel"
+      "analytics_source": "spaces_dashboard_excel",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20231226",
@@ -5218,7 +5362,10 @@
       "space_url": "https://x.com/i/spaces/1gqGvQzEDQeKB",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1gqGvQzEDQeKB/banda-web3-estado-del-mercado-con-at-granmetanoia-y-at-delarg0",
       "listeners": 169,
-      "analytics_source": "spaces_dashboard_excel"
+      "analytics_source": "spaces_dashboard_excel",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20231211",
@@ -6091,7 +6238,10 @@
       "space_url": "https://x.com/i/spaces/1gqxvQkyovRJB",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1gqxvQkyovRJB/women-of-web3-nyc-recap-con-at-anananfts-at-neefter",
       "listeners": 90,
-      "analytics_source": "spaces_dashboard_excel"
+      "analytics_source": "spaces_dashboard_excel",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20230919",
@@ -6664,7 +6814,10 @@
       "space_url": "https://x.com/i/spaces/1BdGYyrpoyvGX",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1BdGYyrpoyvGX/open-mic-parte-2-69-segundos-para-shillear-lo-que-sea",
       "listeners": 73,
-      "analytics_source": "spaces_dashboard_excel"
+      "analytics_source": "spaces_dashboard_excel",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20230718",
@@ -7063,7 +7216,10 @@
       "space_url": "https://x.com/i/spaces/1YqKDoBgNrkxV",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1YqKDoBgNrkxV/la-abogada-el-economista-y-el-ingeniero-nft-show-mexico-mty",
       "listeners": 126,
-      "analytics_source": "spaces_dashboard_excel"
+      "analytics_source": "spaces_dashboard_excel",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20230517",
@@ -7228,7 +7384,10 @@
       "space_url": "https://x.com/i/spaces/1vAGRAWorBaKl",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1vAGRAWorBaKl/el-economista-y-el-ingeniero-at-tulumcryptofest-eventos-web3-mty",
       "listeners": 19,
-      "analytics_source": "spaces_dashboard_excel"
+      "analytics_source": "spaces_dashboard_excel",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20230502",
@@ -8125,7 +8284,10 @@
       "space_url": null,
       "spacesdashboard_url": "https://spacesdashboard.com/space/1mrxmkAMnqZGy/la-criptoartista-el-economista-y-el-ingeniero-bitcoinnftsmetaverse",
       "listeners": 123,
-      "analytics_source": "spaces_dashboard_excel"
+      "analytics_source": "spaces_dashboard_excel",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20230202",
@@ -8462,7 +8624,10 @@
       "space_url": "https://x.com/i/spaces/1LyxBqbEyDOJN",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1LyxBqbEyDOJN/criptomaza-2023-de-at-exponencialcc-13-15-enero",
       "listeners": 60,
-      "analytics_source": "spaces_dashboard_excel"
+      "analytics_source": "spaces_dashboard_excel",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20230109",
@@ -9245,7 +9410,10 @@
       "space_url": "https://x.com/i/spaces/1yNGaNMeWYVJj",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1yNGaNMeWYVJj/previo-al-evento-en-monterrey-de-at-marcusdantusnft",
       "listeners": 71,
-      "analytics_source": "spaces_dashboard_excel"
+      "analytics_source": "spaces_dashboard_excel",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20221121",
@@ -10284,7 +10452,10 @@
       "space_url": null,
       "spacesdashboard_url": "https://spacesdashboard.com/space/1yoKMWajmPOJQ/platicando-sobre-propiedad-intelectual-de-nfts-espanol",
       "listeners": 213,
-      "analytics_source": "spaces_dashboard_excel"
+      "analytics_source": "spaces_dashboard_excel",
+      "flyers": [
+        "flyer_bandaweb3_generic.png"
+      ]
     },
     {
       "number": "20220423",
