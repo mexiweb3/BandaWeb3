@@ -93,6 +93,8 @@ def generate():
             flyers.extend(ep['flyer_urls'])
         if ep.get('flyer_url'):
             flyers.append(ep['flyer_url'])
+        if ep.get('participant_graph'):
+            flyers.append(ep['participant_graph'])
             
         for flyer in flyers:
             # Handle potential paths (though usually just filename in DB)
@@ -192,6 +194,11 @@ def generate():
                             {''.join([f'<span class="topic-tag-small">{t}</span>' for t in ep['topics']])}
                         </div>
                     </div>
+                    
+                    {f'''<div class="participant-graph">
+                        <h3>Participant History</h3>
+                        <img src="../flyers/{ep['participant_graph']}" alt="Participant History" style="width: 100%; border-radius: 12px; margin-bottom: 20px;">
+                    </div>''' if ep.get('participant_graph') else ''}
 
                     <div class="links">
                         <h3>Enlaces</h3>
