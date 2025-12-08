@@ -195,12 +195,33 @@ def generate():
                         </div>
                     </div>
                     
+                    <div class="links">
+                        <h3>Enlaces</h3>
+                        {f'<a href="{ep["space_url"]}" target="_blank" class="button" style="background-color: #000000; color: white; font-weight: bold; padding: 12px 24px; font-size: 1.1em;">🎙️ Escuchar en X Space</a>' if ep.get("space_url") else ""}
+                        
+                        {f'<a href="{ep["spacesdashboard_url"]}" target="_blank" class="button" style="background-color: #1DA1F2; color: white; margin-left: 10px;">📊 Ver en SpacesDashboard</a>' if ep.get("spacesdashboard_url") else ""}
+                        
+                        {f'<a href="{ep["instagram_url"]}" target="_blank" class="button" style="background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); color: white; margin-left: 10px;">Ver en Instagram</a>' if ep.get("instagram_url") else ""}
+                        
+                        {f'<a href="{ep["arena_url"]}" target="_blank" class="button" style="background-color: #000000; margin-left: 10px;">Ver en Arena</a>' if ep.get("arena_url") else ""}
+                        
+                        {f'<a href="{ep["unlock_url"]}" target="_blank" class="button" style="background-color: #ff6b6b; margin-left: 10px;">Claim Unlock</a>' if ep.get("unlock_url") else ""}
+
+                        {f'<a href="{ep["arbiscan_url"]}" target="_blank" class="button" style="background-color: #28A0F0; margin-left: 10px;">Ver en Arbiscan</a>' if ep.get("arbiscan_url") else ""}
+
+                        {f'<a href="{ep["snowtrace_url"]}" target="_blank" class="button" style="background-color: #E84142; margin-left: 10px;">Ver en Snowtrace</a>' if ep.get("snowtrace_url") else ""}
+
+                        {f'<a href="{ep["opensea_url"]}" target="_blank" class="button" style="background-color: #2081e2; margin-left: 10px;">OpenSea Collection</a>' if ep.get("opensea_url") else ""}
+                        
+                        {f'<a href="{ep["contract_url"]}" target="_blank" class="button" style="background-color: #3498db; margin-left: 10px;">Contract (Arbiscan)</a>' if ep.get("contract_url") else ""}
                     </div>
 
                     {f'''<div class="participant-graph">
                         <h3>Participant History</h3>
                         <img src="../flyers/{ep['participant_graph']}" alt="Participant History" style="width: 100%; border-radius: 12px; margin-bottom: 20px;">
                     </div>''' if ep.get('participant_graph') else ''}
+                    
+                    </div>
                 </div>
             </article>
         </div>
