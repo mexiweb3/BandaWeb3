@@ -40,27 +40,44 @@ def generate_report():
         report_data.append({
             'num': num,
             'title': ep.get('title', 'N/A'),
+            'description': ep.get('description', 'Sin descripción'),
             'id': space_id if space_id else 'N/A',
             'mp3': '✅' if has_mp3 else '❌',
-            'trans': '✅' if has_trans else '❌'
+            'trans': '✅' if has_trans else '❌',
+            'guests': ep.get('guests', []),
+            'host': ep.get('host', 'N/A'),
+            'date': ep.get('date', 'N/A')
         })
 
     # Sort by number descending
     report_data.sort(key=lambda x: x['num'], reverse=True)
 
-    # Generate Markdown Table
+    # Generate Markdown Report with Details
     md_content = "# Episode Status Report (001-074)\n\n"
-    md_content += "| # | Title | Space ID | MP3 | Transcript |\n"
-    md_content += "|---|---|---|---|---|\n"
+    md_content += f"**Total Episodes:** {len(report_data)}\n\n"
+    md_content += "---\n\n"
+    
     for item in report_data:
-        title = item['title']
-        if len(title) > 40:
-            title = title[:40] + "..."
-        md_content += f"| {item['num']:03d} | {title} | `{item['id']}` | {item['mp3']} | {item['trans']} |\n"
+        md_content += f"## Episodio #{item['num']:03d}: {item['title']}\n\n"
+        md_content += f"**Fecha:** {item['date']}\n\n"
+        md_content += f"**Host:** {item['host']}\n\n"
+        
+        if item['guests']:
+            guests_str = ', '.join(item['guests'])
+            md_content += f"**Invitados:** {guests_str}\n\n"
+        
+        md_content += f"**Space ID:** `{item['id']}`\n\n"
+        md_content += f"**Estado:**\n"
+        md_content += f"- Audio MP3: {item['mp3']}\n"
+        md_content += f"- Transcripción: {item['trans']}\n\n"
+        
+        md_content += f"**Descripción:**\n\n"
+        md_content += f"{item['description']}\n\n"
+        md_content += "---\n\n"
 
     # Save to file
     output_path = 'shared/status_report_001_074.md'
-    with open(output_path, 'w') as f:
+    with open(output_path, 'w', encoding='utf-8') as f:
         f.write(md_content)
     
     print(f"Report generated at {output_path}")

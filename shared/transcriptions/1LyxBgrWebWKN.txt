@@ -1,0 +1,344 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #20241120
+Título: Space con TRUST WALLET
+Fecha: 2024-11-20
+Host: @diana10ka
+Tipo: co-hosted
+
+Descripción:
+Co-hosted Space: Space con TRUST WALLET
+
+Duración: 01:08:19
+Escuchas: 87
+
+Links:
+  Space: https://x.com/i/spaces/1LyxBgrWebWKN
+  Dashboard: https://spacesdashboard.com/space/1LyxBgrWebWKN/space-con-trust-wallet
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+
+[Speaker 0 - 00:02:10]
+Hola, hola. Vamos a ver unos minuticos más, que se vayan uniendo, que vayan llegando mis cup host. Hola, mi Mexi, hola Javi, gracias Trust, Eri Max, voy a dejar un momentico la música mientras van llegando. Hola, hola, hola a todos. Ya estamos por acá. Hola, Jorge, gracias a todos por unirse. Estamos esperando a Carito, que es nuestra COFOST. Así que en 2 minuticos comenzamos el el space para que hablemos hoy de de wallet, de seguridad, de cripto y comencemos a darle muchísimo valor a toda la comunidad latina, sobre todo en este boom room que comienza.
+
+[Speaker 2 - 00:03:46]
+Tiene el amor de mi tierra, harán los que tengo esa rutina
+
+[Speaker 0 - 00:04:51]
+Bueno, mi gente, vamos a comenzar hoy con este spray tan esperado. Estoy muy muy muy emocionada de que Trust haya aceptado nuestra invitación y poder conversar con ellos acerca de las dudas, de todo lo que quiera saber la comunidad. Mi Mexi, 1000 y 1000 gracias por aceptarme esta invitación a hacer cohost. Entonces, el líder de la comunidad mexicana y de los latinos, ya más de, no sé, creo que ya 2, 3 años en estos en estos space, así que estás brindando valor por más de 3 años, así que 1000 y 1000 gracias, mi Javi, Jorge, Eri, Max, todos los que quieran hoy subirse al spa y los micrófonos van a estar abiertos para que podamos hacer preguntas, respuestas. Así que voy primero a saludar a mi Mexi. Mi Mexi, ¿cómo estás? Y luego damos paso a Truez para darle la bienvenida a este spai.
+
+[Speaker 3 - 00:05:41]
+¿Qué onda, Diana? No, muchísimas gracias por organizar el espacio y también por permitirle permitirme platicar acá con Trust Wallet. La verdad, todo lo que es el tema de seguridad ahorita creo que es superimportantísimo empezar o retomar las conversaciones que a veces teníamos YYY de repente, en lo personal, yo he dejado, pero ahorita estamos viendo cómo los precios de los máximos históricos y el movimiento que se ha visto en el mercado atrae gente nueva. Regresa gente que se había ido y creo que es importantísimo regresar a platicar de estos temas YAA escuchar dudas y preguntas y ayudarles a resolver cualquier situación que tengan aquí a las personas, porque sí es es es crítico, es crítico el tema de seguridad. Siempre lo digo, es es tenemos un gran poder y una gran ventaja de controlar nuestros activos, pero también la gran responsabilidad de cuidarlos. Muchas gracias de nuevo YYYY un saludote. Soy tu Juan.
+
+[Speaker 0 - 00:06:39]
+Gracias, VMEXI. Ahora sí, Trudualette. ¿Cómo estás? ¿Cómo estamos? ¿Quién nos acompaña el día de hoy de parte de Trudualette?
+
+[Speaker 2 - 00:06:47]
+Hola Diana. Hola, Mexi. ¿Cómo están? Buenos días. Aquí Andrés Galvis, yo soy el el Growth Manager para Latinoamérica de Trust, y y ahora el Community Lite Global. Entonces, pues, 1000 gracias de por esta invitación, nos sentimos muy muy honrados y y, bueno, la idea es compartir aquí qué qué estamos haciendo, resolver dudas, compartir también nuestra perspectiva de lo que se viene y y creo que están pasando cosas muy muy interesantes en este ecosistema. De verdad, muchas gracias por la invitación.
+
+[Speaker 0 - 00:07:21]
+A ti, Andrés, por por aceptarnos, y aparte es todo un honor saber que detrás de Truthw Valley también hay un grande, un gigante, un colombiano, un latino también llevando la bandera de que hace tanta falta a veces en en la comunidad latina, cierto, y representarnos a nivel internacional, sobre todo con una marca tan grande como lo es Trust Wallet, así que, bueno, súper, súper emocionada de tenerte hoy acá. Vamos a comenzar, vamos a hablar con Andrés, Andrés, vamos a hablar sobre True Wallet, vamos a hablar sobre seguridad, vamos a hablar sobre todas estas preguntas que tienen ahorita latinos y vamos a comenzar primero para que nos des contexto de cuáles son los planes que tiene ahorita True Wallet, qué es lo primero que están haciendo, tienen planes de expansión, antes de irnos hacia la profundidad sobre sobre seguridad.
+
+[Speaker 2 - 00:08:11]
+Dale, bueno no, pues empecemos por lo primero ¿no? O sea, nosotros somos una billetera de autocustodia de activos digitales, ¿sí? Y empezamos hace 7 años justamente en noviembre, a principios de noviembre, finales de octubre empezamos a celebrar nuestros 7 años de estar activos. Básicamente, ¿qué es un servicio de autocustodia? Es es una herramienta que permite a los usuarios gestionar sus llaves privadas y empoderarlos para que ellos mismos sean los que tengan sus activos digitales, es decir, no están en manos de terceros. Entonces, en ese orden de ideas nosotros nos hemos enfocado por mejorar esa experiencia del usuario, digamos, porque no no es un tema como tan fácil, porque no hay soporte técnico tan robusto, precisamente porque tú no tienes los fondos en manos de un tercero, como tenerlos en un banco. Son los mismos usuarios los que tienen sus fondos.
+
+[Speaker 2 - 00:09:11]
+Entonces, nos hemos esforzado por tratar de mejorar esa interfaz gráfica y hacerlo lo más sencillo posible para que las nuevas personas que están entrando en este ecosistema, pues entiendan cómo realmente holdear sus activos y cómo interactuar directamente con la con la Web3 a través de una herramienta como lo somos nosotros, ¿sí? Y y en ese orden de ideas, nos hemos esforzado por ir integrando diferentes servicios que son de utilidad para los usuarios de nosotros. ¿Cómo cuáles? Digamos, facilitándoles el onRAMp y el offRAMp de criptoactivos directamente desde la wallet. ¿Qué significa esto? Que tú puedas comprar cripto directamente en la wallet o que puedas retirar cripto directamente en la wallet. Este servicio es un poco complejo porque dependemos de terceros también, de partners, que básicamente los integramos dentro de la wallet, precisamente porque no tenemos estas herramientas para para hacer esas conexiones con los bancos o con el sistema financiero.
+
+[Speaker 2 - 00:10:19]
+Y otra cosa adicional aquí es que nosotros somos una wallet que no tiene ningún tipo de dato personal de los usuarios. Entonces, cuando las personas van a tratar de integrarse con estos servicios de estos terceros, ahí sí tienen que, digamos, que dar sus datos porque es un servicio externo y vas a tener contacto con con el sistema bancario, pero directamente en la wallet no, ¿sí? Otro servicio que tenemos integrado es el staking de de cripto, ¿sí? Entonces tenemos múltiples criptomonedas con las cuales los usuarios pueden ganar algo extra en esas en esas criptomonedas, por ejemplo tenemos staking nativo de de ethereum y es un staking que los usuarios pueden empezar a hacer staking desde 0.025 ethereums, que es una cantidad mínima, digamos haciéndolo accesible a a una mayor cantidad de usuarios. Tenemos la posibilidad de hacer swapps, tenemos integraciones con otras diaps, entonces digamos que, bueno, quería como comentarlo así como rápidamente.
+
+[Speaker 2 - 00:11:26]
+Ah, bueno, y hace aproximadamente un mes también lanzamos un launch pool, ¿sí? Entonces los usuarios ahora tienen la posibilidad de poner en staking su TDAWT, que es el token de nosotros, el el trust wallet token, y poder tener una recompensa en en los tokens que que estemos lanzando en esa launchful. Entonces, es esforzarnos, es este esfuerzo de estos 7 años por ir integrando servicios adicionales, por ir facilitándole la vida a los usuarios a la hora de autocustodiar sus fondos. Y y, bueno, esforzándonos siempre por el tema de la seguridad, ¿no? Hemos integrado unas herramientas adicionales también que alertan a los usuarios cada vez que ellos tratan de integrarse o tratar de interactuar con contratos maliciosos. Ahí tenemos las alertas. Entonces, bueno, básicamente ese es como el lowerview de lo que hemos venido haciendo durante 7 años, en en palabras sencillas.
+
+[Speaker 0 - 00:12:31]
+Supremamente interesante. No sabía que Trudew Valley había avanzado tanto. Ahora tengo una pregunta, Andrés, ¿cómo será el tema educativo hacia los nuevos usuarios que ya quieren saltar de la Sex a a irse a a servicios como los de Trudewallet y tener, por lo menos, en en su propiedad, ¿cierto? Las semillas de estar, que sus cripto realmente estén en sus manos, pero siento que todavía hay una brecha entre esos usuarios que están acostumbrados, ¿cierto? A estas herramientas o a estas ex. Trust está brindando alguna capacitación, tienen, quieren hacer algo educativo para estos nuevos usuarios? ¿Hay algo de planes sobre eso?
+
+[Speaker 2 - 00:13:15]
+Pues nosotros estamos empezando con con un bloque educativo, ¿sí? Donde estamos explicando como estos temas de una manera como muy sencilla para que, pues, las personas los puedan entender. Y tenemos su algunos aliados que están compartiendo información, tutoriales, y digamos que esa es la forma en la que lo estamos lo estamos abordando en este momento. La idea en un futuro sí es tratar de de imitar como algo así como el binance academy, y tratar de educar a las personas con con algo como más estructurado e incentivarlos a que aprendan, ¿no? A que aprendan de estas herramientas de de autosoveranía individual, ¿sí? Pero vamos vamos paso a paso por ahora creando partnerships, creando alianzas con influencers, con comunidades también que saben de estos temas y que utilizan nuestra herramienta. Entonces, nosotros los estamos apoyando para que sigan con ese trabajo, para que eduquen y para que podamos, pues, también nosotros apalancarnos en en sus comunidades para llegar a una a una audiencia superior.
+
+[Speaker 0 - 00:14:31]
+Andrés, tengo una pregunta. Si de parte de Trust fuese posible o es posible, danos cuál sería la guía paso a paso para realmente tener seguras nuestras cripto en una Trust Wallet, o sea, cuáles son las recomendaciones básicas de seguridad que deberíamos tener las personas que tenemos alojadas nuestras cripto en una wallet de True Wallet?
+
+[Speaker 2 - 00:14:53]
+Bueno, primero que todo, bueno, descargar la billetera, anotar sus palabras, semillas, dejarlas fuera de Internet, no enviarlas a un correo electrónico, no anotarlas en WhatsApp, no anotarlas en sus teléfonos celulares, y tercero, pues no compartir estas palabras semillas con nadie, ¿sí? Porque el que tenga acceso a estas palabras semilla tiene acceso a los fondos que las personas tengan en en esta wallet. Entonces, eso eso es lo primero. Lo segundo es, pues no interactuar con con contratos maliciosos y hacerle caso a las alertas que nosotros estamos mostrando de la dentro de la aplicación. Hemos hecho una alianza muy importante con Halborn, por ejemplo, y con HasDeat. HasDeat nos provee un servicio de un escáner de seguridad que cada vez que un usuario trata de interactuar con algo malicioso, el escáner manda la alerta, y el tema es que los usuarios a veces no leen y no les gusta leer y hacen, le dan clic en aceptar a todo, y ahí es cuando termina pasando lo que lo que termina pasando, o sea, o sea, les les drena las billeteras YYY ahí, pues, ya no podemos hacer nada porque los fondos, los que eran ellos mismos, no están en manos de nosotros.
+
+[Speaker 2 - 00:16:12]
+Entonces, eso sería lo otro. Y otras recomendaciones, cuando vean un bug, cuando tengan algún inconveniente, la gente normalmente trata de pedir esta ayuda por nuestros canales, ¿sí? Por el canal de Telegram, por nuestros canales de Discord y, aunque tenemos personas ahí tratando de de ayudarlos, este soporte es muy difícil darlo a través de de este tipo de canales. Entonces, sí tenemos un canal de soporte que es directamente dentro de la aplicación, pueden abrir un ticket de soporte y el nuestro aplicación, pueden abrir un ticket de soporte y el nuestro equipo de customer service los los atiende, digamos, les da respuesta en máximo 72 horas, o directamente en la página web de de Trust Wallet. ¿Qué está pasando con eso? Pues que los usuarios caen en que cada vez que hacen una pregunta en nuestras redes aparecen estos escammers a enviarles mensajes directamente a ellos y les terminan pidiendo las frases semillas y pidiéndole toda la información, aun cuando nosotros todo el tiempo estamos recordando, hey, ninguno de nosotros los va a contactar vía DM, por favor, no le revelen a nadie sus frases semilla, pero los usuarios dentro de su desespero, y es entendible, terminan cayendo en en este tipo de estafas.
+
+[Speaker 2 - 00:17:35]
+Es es Web3, o sea, inevitablemente dentro de Web3 hay hay muchas estafas, muchos escammers. Todo lo que pasa en el ecosistema de Telegram, pues, es es muy fácil, si no tienes el conocimiento, caer en este tipo de trampas. Entonces, es es ese es el otro llamado. Es, oiga, sospeche de todo, no le crea absolutamente nada a nadie si no viene de un canal oficial, si usted no está interactuando y no se asegura realmente de estar interactuando con con un canal oficial, ¿sí? Entonces, digamos que creo que podemos parar ahí las las recomendaciones.
+
+[Speaker 0 - 00:18:15]
+Sí. Hay un hay un paso que yo doy extra, no solamente con la billetera de Truduale, sino con cualquier billetera que descargo a mi teléfono, y es que siempre la vuelvo a eliminar, luego la descargo nuevamente y la recupero con las palabras semilla para verificar que esté correcta y que me la vuelva a traer, o sea, no me quedo solo con la primera vez. ¿Esto es un buen paso de seguridad o realmente 100 por 100 seguro que las primeras frases semillas que te arroja quedan ligadas AAA esta wallet? Siempre he tenido esa duda.
+
+[Speaker 2 - 00:18:55]
+No, es es una superbuena práctica, ¿sí? O sea, la idea es acá no confiar en nada ni en nadie. Entonces, verifiquen, instálenla, recuperenla, restáurenla antes de mover fondos importantes ahí, ¿sí? Ahora, recordar siempre que Trust Wallet es una una hot wallet, está conectada a Internet, está en tu teléfono. A veces, mire, el 90 por 100, yo creo que el 95 por 100 de todo lo que pasa alrededor de seguridad en las wallets, wallets depende de los usuarios. El usuario es la parte, digamos, que más fácil de vulnerar. Que tú dejes tu celular por ahí, que se que te pierda, que alguien tenga acceso a tu wallet y a tus palabras semillas, todo viene desde el usuario, casi todo. Entonces, recordar eso también. Si tú quieres tener una mayor cantidad de fondos, ahorita nuestro, por ejemplo, nuestra road wallet en el browser, versión de browser, tú le puedes agregar un una hardware wallet que esté offline, por ejemplo, para tener un un un nivel aún mayor de seguridad, le puedes hacer esa conexión con Ledger y la idea es que pronto, digamos, que se puedan utilizar otras hardware wallets.
+
+[Speaker 2 - 00:20:17]
+Entonces sí, siempre desconfiar de todo, chequear y rechequear antes de realmente mover fondos importantes.
+
+[Speaker 0 - 00:20:27]
+Mi Mexi, ¿tienes alguna pregunta para Trust? Tú que yo sé que tú sabes bastante de seguridad y nos llevas mucho mucho kilometraje en experiencia, así que te escuchamos.
+
+[Speaker 3 - 00:20:40]
+No, lo interesante que comenta, y sí quisiera preguntarles sobre la experiencia de usuario. Ellos llevan ya 7 años en el ecosistema. Yo recuerdo cuando entré, más o menos en esas mismas fechas, septiembre, octubre del 2017, las herramientas que había estaban muy muy muy por debajo de lo que tenemos ahorita, ¿no? La usabilidad en ese entonces era pésima, diría yo. Y hay unas herramientas, algunas carteras que, la verdad, no han ido mejorando su experiencia de usuario. No han ido agregando opciones adicionales para poder hacer swApps, para poder hacer onboarding y offboarding, ¿no? Para poder comprar y vender directamente del wallet. Esto también de la conexión con hardware wallet es algo que se se se ha implementado en algunas, pero no en todas. Y sí me gustaría preguntarle, ¿cómo lo ve? ¿Cómo ve el futuro de la de las herramientas en en en unos cuantos años? Porque sí, definitivamente creo que todavía falta muchísimo por mejorar.
+
+[Speaker 3 - 00:21:42]
+El sistema que tenemos ahorita de apuntar las 12 o 24 palabras semilla en una hoja o en un documento o en una placa de metal, ¿no? Que que que muchos usamos, para que estén protegidas por por agua o o fuego. Creo que todavía no es, este, el el el punto ideal como para que los 1000000 y 1000000 y billones, a lo mejor, de personas que van a utilizar esta tecnología entren. ¿Qué está haciendo otros wallet al respecto? Para que podamos estar preparados para recibir toda esa ola que que que ahorita ya estamos viendo cómo viene, Y cada ciclo, pues, entran y crece exponencialmente el uso.
+
+[Speaker 2 - 00:22:24]
+Excelente comentario. Ahorita lo que se está viendo es todo este tema de abstracción de cuentas, ¿no? Precisamente para eliminar el tema de las de las, también de las palabras semillas, y que tú puedas tener tu semilla integrada a tu Passhee, ¿sí? Digamos que, y que la también la la wallet corra sobre un smart contract. Nosotros tenemos esa versión de la wallet, se llama SWIFT Wallet, ese smart contract Wallet. Está en versión beta, pero entonces los usuarios ya pueden acceder a esta wallet que además ofrece otro tipo de servicios adicionales, y es que tú puedas hacer transacciones y tienes el poder de seleccionar el token con el cual quieres pagar el gas o descontarlo directamente del token que tú estás manejando. Entonces, digamos que la usabilidad de las wallets va hacia allá, va a mejorar esa experiencia de usuario, y yo diría que en el futuro ya no van a haber wallets, ¿sí?
+
+[Speaker 2 - 00:23:27]
+O sea, yo creo que el es a eso es a lo que hay que apuntarle, a a que desaparezca por completo, que el usuario ni siquiera sepa que que está realmente utilizando una wallet, y ya lo estamos viendo, Ya lo estamos viendo en en servicios que básicamente te crean la misma wallet dentro del servicio y lo haces en un par de clics y listo, ya está. Ya puedes interactuar con Web3 y no tienes que tener una única wallet para poder interactuar con con Web3. Entonces, yo creo que ese es el futuro, nosotros estamos trabajando en eso. Si tienen un chance, prueben la la SWIFT Wallet, que la encuentran directamente en la aplicación de nosotros. Pueden crear una nueva wallet y explorarla y jugar con ella. Está en versión beta, de nuevo. Recomendamos, pues, manejar tokens y y blockchains de segunda capa de Ethereum, como Base, por ejemplo.
+
+[Speaker 0 - 00:24:34]
+Andrés, creo que te muteé sin culpa. Ay. Ya, ya. ¿Verdad? Es que soy nueva como como, o sea, y ténganme paciencia.
+
+[Speaker 2 - 00:24:44]
+No, no te preocupes. No sé en qué parte me quedé.
+
+[Speaker 3 - 00:24:50]
+En la prueba de la wallet y que recomiendas usar L 2, como veis, porque las comisiones son mucho más baratas.
+
+[Speaker 0 - 00:25:10]
+Están, están. ¿Pueden abrir los micrófonos? Es que estoy tratando de darle cohost a Caro y y bueno, vale. Creo que me había vuelto a a
+
+[Speaker 2 - 00:25:20]
+mutear. Sí, de de nuevo para recapitular, estamos trabajando en eso, en en mejorar esa usabilidad, como tú decías, en eliminar ya el tema de las palabras semilla. Obviamente, pues, los que llevamos más tiempo estamos acostumbrados a estamos acostumbrados a eso, pero los nuevos no y se les dificulta y la gente pierde sus palabras semilla. Obviamente, eso es nosotros no estamos acostumbrados ni a memorizar ni a guardar de una manera segura este tipo de de documentos, entonces, para allá va la industria. Y no solo nosotros, o sea, todos estamos trabajando en en eso, todo, nosotros y la industria en general.
+
+[Speaker 0 - 00:26:02]
+Mi Caro, bienvenida. Te extrañaba con esa alegría jocosa con la que siempre llegas a los
+
+[Speaker 1 - 00:26:09]
+space y hacías falta. ¿Cómo estás, mi Caro? Bienvenida. Ay, hola, hola, lo lamento tanto. Tenía una confusión en la hora. Yo no sabía si era
+
+[Speaker 4 - 00:26:20]
+pm, por eso yo pensaba que era mis 2 pm, pero no te preocupes, ya estoy aquí ready, tuve un cambio en mi casa, no había luz, en Tiendan, problemas de energía en Puerto Rico, so, tuve que hacer muchos cambios, pero ya estamos aquí ready y con Poat encendido. Let's go.
+
+[Speaker 0 - 00:26:39]
+Si ven por qué hacía falta caro en el spa, Voy a, Carito, ya te voy a dar la palabra, pero tengo una pregunta para Andrés. Andrés, a nivel regulatorio de de los gobiernos, ¿qué hay por ahí de cierto o qué tan lejos o qué tan cerca estamos de que todos los servicios de de wallets y todo esto que que no tienen identificado los usuarios lleguen a ser obligatorio un KYC para reconocimiento de usuarios o estamos lejos de esto? ¿Qué qué sabemos sobre sobre todo esto?
+
+[Speaker 2 - 00:27:14]
+Pues, mira, en nuestro caso, como nosotros no custodiamos los fondos de nadie, precisamente, pues, no estamos obligados a a hacer un KYC, ¿sí? Porque los fondos los tienen los usuarios. Entonces, no no, en este momento no hay algún regulador que nos esté exigiendo hacer KYC y y, pues, tampoco tendría sentido, ¿sí? Perdería el sentido el tema de, pues, de la filosofía que hay detrás de este tema, ¿no? O sea, todo nació como, oiga, sea su propio banco, ¿sí? Nosotros, de nuevo, somos, literal, es una interfaz gráfica que le permite a los usuarios interactuar con la Blockchain, con más o menos seguridad dependiendo de las wallets, pero eso es lo que hacemos nosotros. Entonces, en ese orden de ideas, no hay algo así como como cercano a eso. Sí hay unas restricciones, hay unas unas regiones que que no se pueden atender, pero pero bueno, es es es lo es lo normal también en este en en este ecosistema de la tecnología, ¿sí?
+
+[Speaker 2 - 00:28:28]
+Sí.
+
+[Speaker 0 - 00:28:30]
+Va, perfecto. Mi cara, hermosa, pregunta para Trudewallet, a todos los que están hoy escuchando este space, ¿pueden pedirme el micrófono y se los voy a dar a todos los que tengan preguntas, dudas, los que quieran participar en el espacio, está totalmente abierto para todos los que tengan preguntas, dudas. Por ahí leí en 1 de los comentarios que si True Wallet funciona solo con Ledger o también con Trezos. Andrés.
+
+[Speaker 2 - 00:28:56]
+En en este momento solo con Ledger.
+
+[Speaker 0 - 00:28:59]
+Vale, perfecto, mi Carol. ¿Alguna pregunta para TrueAccord?
+
+[Speaker 4 - 00:29:04]
+Por ahora no tengo preguntas. Puede ser que a lo que lleguemos la conversación puede ser que se me desarrollen preguntas, a lo que me voy organizando por acá, puede ser que le haga una preguntita.
+
+[Speaker 0 - 00:29:15]
+Vimac, sí.
+
+[Speaker 3 - 00:29:18]
+Sí, a mí me gustaría ir un poquito más atrás. Estamos hablando de que lo más recomendable para muchas personas, o no sé si para la gran mayoría sea, que tengamos el control de nuestros propios activos, ¿no? Pero ¿por qué no? ¿Por qué no dejarlos en un binance? Qué no dejarlos en un Bitso? Esa es una de las preguntas que siempre me hace la gente que entra nueva y que yo siempre les trato de explicar, pero me dicen, no, es que es muy complicado. Yo, la verdad, sí considero que hay muchas ventajas y algunas ventajas de poder dejar cierta cantidad de dinero en los exchanges, y más si estás operando constantemente. Pero si estás pensando a largo plazo, si estás pensando en un ahorro a futuro, en mantener tu patrimonio almacenado y perdón, me tronó una llamada. Sin que nadie tenga que tener o darte permiso para moverlo, pues sí, definitivamente lo sacarías. Pero no sé no sé, este, Andrés, si si si tú tengas algún otro comentario.
+
+[Speaker 3 - 00:30:23]
+¿No? ¿Qué le dirías a alguien nuevo que apenas está entrando, que acaba de comprar un poquito en binance y que tiene, no sé 10, 20, 30 dólares en su wallet, ¿a partir de qué montos ya recomiendan sacarlo o meterlo? Yo creo que depende mucho del uso, pero sí me gustaría tu opinión sobre el tema.
+
+[Speaker 2 - 00:30:46]
+Sí, mi opinión es que son servicios que no son excluyentes. Hay personas que les funciona mejor el el exchange centralizado y que se sienten más seguras allí, yo creo que está bien. Pero si realmente quieren experimentar lo que es la autocustodia y el por qué, sí deberían empezar a explorar este tipo de herramientas con pocos montos, como tú dices. Oiga, mire, ábre su ábrete tu boleta de autocustodia y envíale 50 dólares y empieza a mirar qué tiene para ofrecer. ¿Qué pasa con los servicios centralizados? Bueno, pues que pueden cerrar, pueden quebrarse, los gobiernos los pueden obligar a a irse del país y y cuando tú depositas la confianza en un tercero, pues esta confianza se puede romper en cualquier momento por X0Y motivo, ¿sí? Ese es el riesgo que hay. Con estos servicios de autocustodia, tú fácilmente puedes mover incluso tus tus criptomonedas sin tenerle que pedir permiso a nadie.
+
+[Speaker 2 - 00:31:53]
+Incluso, por ejemplo, si TrollsWare se acabara y ya no existe más en en Android o en iOS o no existe APK, en fin, el que es el peor escenario. Tú fácilmente puedes importar tu frase semilla en otra board de autocustodia y tienes acceso a tus fondos, y viceversa, ¿no? Puedes importar tu frase semilla de MeraMask, de Phantom, de lo que sea en Trust Wallet y no estás atado, como tal, a un servicio de un tercero. E incluso puedes manejar tu billetera desde diferentes interfaces gráficas, ¿sí? Es decir, puedes tener una billetera, la misma billetera la puedes tener en MetaMask y la puedes tener en Trotswallet. Eso lo puedes hacer perfectamente. Ese es el sentido de libertad que te dan estas herramientas de autocustodia. Es diferente, requiere una responsabilidad, requiere educarse en qué, o sea, qué realmente estás haciendo, a dónde vas a enviar tu dinero, con qué contrato vas a interactuar, pero te da te da libertad y te da libertad de explorar todas estas dApps que están saliendo, todos los todos los avances que tenemos ahorita en en finanzas descentralizadas, es es un tema de libertad.
+
+[Speaker 0 - 00:33:18]
+Bueno, acá tenemos que se nos subió al space, a ver si lo pronuncio bien, Kryptompi. Hola, ¿cómo estás? Un gusto tenerte acá. Tienes el el micrófono para ti.
+
+[Speaker 5 - 00:33:31]
+¿Cómo están? ¿Cómo están? Buenos días. GM GM GM. Este, ando aquí por el Mexi, este, y pues aquí escuchando la plática. ¿Sí sí me escuchó? ¿Ahí?
+
+[Speaker 0 - 00:33:46]
+Te escuchamos perfectamente.
+
+[Speaker 5 - 00:33:48]
+Ah, ok. Escuchando aquí la plática con la gente de Trust Wallet, este, yo también he seguido desde hace años, pues, este proyecto. Siempre me ha parecido muy muy práctico el el uso de de su interfaz, y y ya había escuchado lo de su conexión con con hardware wallet. Nada más dije, pues, aprovechando que ahorita dijeron dudas, comentarios, pues, aquí aquí me subí. Porque ahí estando con con la gente con la que he platicado, solamente como que ha habido un un pequeño debate ahí entre cuestiones de seguridad de tener una hardware wallet o cuál es la diferencia de tenerlo en un Exchange, por ejemplo, ¿no? Que sabemos que, pues, en la cartera te pertenece de alguna manera, bueno, de todas las maneras y, pues, el Exchange es de ellos, ¿no? Al fin de cuentas no es tu cartera. Bueno, y y la duda viene en cuanto a las palabras o a la frase semilla que, pues, esa nada más nosotros la tenemos, entonces, ha habido ahí como que, le digo, ese debate en saber si cómo cómo aseguramos que en caso de un hackeo, en un hackeo hipotético, ¿no?
+
+[Speaker 5 - 00:35:07]
+La no serían comprometidas las frases de los usuarios. Porque, pues, quieras o no, ustedes son una empresa, nosotros somos el usuario. Entonces, la las palabras son nuestras, las frases, pero al momento de ponerlas en en la aplicación, entonces, ¿cómo saber que que están seguros, no? Es es el debate que he tenido yo por años ahí con con amigos. Entonces, ahorita que tenemos gente, pues, de una empresa que se dedica, pues, a a hacer ese esa interfaz con la que nosotros podemos ver en pantalla nuestros assets, cómo aseguran que que que esas frases, pues, no no pueden caer en malas manos, ¿no? Y y, pues, ahí también agradeciendo al Mexi, ¿no? Que siempre anda en en espacios con empresas de todo. Ahí A a la persona que está como host, ¿no? Diana Diana loca, creo que
+
+[Speaker 0 - 00:36:08]
+sí. Es Diana Diana Diezca, Diana Diezca.
+
+[Speaker 5 - 00:36:11]
+Ah, yo pensé que era loca. Bueno, el el 1 que ve números y letras en todos lados. Chido, ¿no? Chido por tener el space con con gente así como de Truth Wallet y pues ahí tienen un nuevo seguidor.
+
+[Speaker 0 - 00:36:27]
+Muchas gracias por subir este
+
+[Speaker 2 - 00:36:29]
+Para responderte responderte rápidamente esa pregunta y es, nosotros no guardamos las frases semillas de nadie, ¿sí? No están alojadas en los servidores de nosotros, no tenemos acceso a esa información. Entonces, claro, porque sería una vulnerabilidad grandísima tener estas estas frases semillas, entonces no no tenemos esa información, entonces no hay cómo alguien pueda, entre comillas, hackear los servidores de nosotros y tener acceso a todas las llaves privadas de los clientes de nosotros, no, no, no es posible.
+
+[Speaker 5 - 00:37:06]
+Ok. Sí, sí he visto ahí que que, pues siempre no estás leyendo de que no se almacenan, pero pues ya ves que al menos no no la no la he usado fondo de datos wallet, pero sé que en otras billeteras tú puedes recuperar la frase una vez ya teniendo instalada la aplicación. Entonces, digo, ¿cómo? O sea, el cómo no un un ciberdelincuente en este caso podría entrar a eso, si si ahí están o están abiertas. Entonces, a lo mejor es algo, es muy técnico que que siempre me ha costado un poco entender.
+
+[Speaker 2 - 00:37:45]
+Sí, bueno, si tienen acceso a tu teléfono, si el delincuente tiene acceso a tu teléfono y tiene acceso a a tu clave de la billetera y físicamente puede, él físicamente puede llegar a a mirar tus palabras semilla, por supuesto, pero desde afuera no se puede,
+
+[Speaker 4 - 00:38:07]
+¿sí? Dianita, Diana, mi Diana, vi, tengo una, tengo tengo 2 preguntitas, tengo 2 preguntitas para Trust Wallet, una que tiene que ver con seguridad y otra que tiene que ver con tokens. No sé si ya ha hablado de los tokens, pero ¿qué tokens y redes son compatibles actualmente con Trust Wallet? Y la otra preguntita, que también vi tiene que ver con esta pregunta, ¿cómo manejan la seguridad y la privacidad de los usuarios en Trust Wallet? Esas serían mis 2 preguntitas.
+
+[Speaker 2 - 00:38:39]
+Muy muy buenas preguntas. Nosotros manejamos más de 100 blockchains dentro de la wallet y prácticamente 1000000 de tokens son compatibles con con Trons wallet. De hecho, somos la billetera que más compatibilidad tiene con con blockchains. Nosotros tenemos más de 100, Metamask creo que tiene como 80, 70, Coinbase tiene como 40. Entonces, en ese aspecto, digamos que ha sido como 1 de nuestros grandes diferenciales. Somos Blockchain agnostic, o sea, es decir, que no nos casamos con ninguna Blockchain, ninguna criptomoneda, de eso se trata la libertad, y hay pues la posibilidad también de importar manualmente el token de su preferencia desde que sea compatible con las blockchains que tenemos dentro de la dentro de la wallet, Y con respecto a la parte de de ciberseguridad de seguridad de los usuarios, un gran diferencial que tenemos nosotros, por ejemplo, es que nosotros no trackeamos las IPs de los usuarios, hay algunas wallets que sí lo hacen, entonces no tenemos información de nuestros usuarios literalmente, no no tenemos información de nuestros usuarios y esto, pues disminuye este tipo de riesgos que tienen otros servicios.
+
+[Speaker 4 - 00:40:04]
+Muchas gracias.
+
+[Speaker 3 - 00:40:06]
+Aprovechando esa pregunta, antes de ir con Axel y Leana, si me permites para no desviar el tema, me interesa mucho eso de las IPs porque hay gente que está haciendo un negociazo, vendiendo información de sus usuarios, del tipo de aplicación que están usando, el tipo de navegador, todo eso lo almacenan. Mencionas que estos no lo están ustedes ni almacenando ni monetizando, ¿verdad? No, para nada,
+
+[Speaker 2 - 00:40:31]
+para nada. Y no porque no no podamos técnicamente porque, o sea, hacerlo técnicamente es relativamente fácil, pero es que no queremos tener esa información, ¿sí? A veces más es menos, ¿sí? Más más es
+
+[Speaker 1 - 00:40:48]
+menos.
+
+[Speaker 0 - 00:40:52]
+Ahora vamos con AXL0 cómo se pronuncia? A ver, bienvenido al space. Hola,
+
+[Speaker 6 - 00:40:59]
+mi gente, ¿cómo están? A ver, Andrés, primero que todo saludarte. Muy bueno que trabajes para para para tremenda compañía. La verdad Trust Wallet es una de las de las de las billeteras, en mi opinión, una de las mejores. Por algo creo que fue escogida por por binance, ¿no? Para para para hacer su billetera principal. A ver, te quería preguntar una cosa. Primero, los felicito porque realmente, a ver, a mí cuando empecé con esto de de de esta industria, me salvaron una vez que me que por un error mío metí la la la la sith frase, la la frase semilla la metí en un link que me mandaron. Y gracias a que ustedes tienen, mejor dicho, en la misma billetera, tienen las todas las billeteras que tienen dentro de la misma tienen diferente frase semilla, me salvaron de que me hubieran limpiado completamente. Entonces, ustedes creo que fueron 1 de los primeros en hacer eso y y es muy bueno.
+
+[Speaker 6 - 00:42:03]
+Bueno, esos son las flores. Pero por el otro lado, ¿será que pueden trabajar o están trabajando en lo en la parte del UI, en la parte de cómo se ve, la por la experiencia? Porque es es lo único que realmente no es está por debajo de de otras billeteras. ¿Están trabajando en en eso?
+
+[Speaker 2 - 00:42:26]
+Sí, nosotros estamos trabajando constantemente en mejorar el UI, ¿sí? Y y cuando dices, por ejemplo, para ti, ¿qué otra wallet? ¿Cuál es la wallet que tiene mejor UI en en tu?
+
+[Speaker 6 - 00:42:41]
+Ahorita ahorita Phantom me parece que tiene un UI muy bueno. Backpack tiene es muy simple, pero pero la experiencia es súper suave, es súper Entonces, ustedes es ustedes como que es muy compleja, ¿sí me entiende? Como que tiene muchas cosas y como que se pierde 1. Entonces
+
+[Speaker 2 - 00:43:04]
+Eso es cierto. Al al tratar de agregar una mayor cantidad de servicios, pues la la la aplicación se va volviendo un poquito más más compleja. Tienes razón en eso y estamos trabajando. De hecho, hay una ha habido una evolución, no sé si tú tenías Trust Wallet antes de de tener todo este cambio de imagen que tuvimos nosotros el año pasado y y, pues, los cambios son notorios. Y hemos recibido también un muy buen feedback de de, oiga, sí están evolucionando, Somos conscientes de que falta, por supuesto que sí, pero pero vamos vamos a muy buen ritmo, y nuestra prioridad también siempre ha sido como, o sea, realmente entregar el el el mejor producto técnico posible, Desde el backend, desde el tema de seguridad y y bueno, pues mejorando poco a poco el tema del del UI, por supuesto.
+
+[Speaker 6 - 00:43:57]
+Perfecto. Y la la última ahí nomás. Esta sí es una verdad que es superimportante, porque en estos sí los veo que están super atrasados con respecto a otras billeteras. El filtro que ustedes les hacen a los a los NFTs, cuando yo me meto a mis billeteras que tengo en en en Charles Wallet, siempre hubo una cantidad de scans, mientras que en otras billeteras 1 encuentra 1 o 2. Pero normalmente estas billeteras los filtran muy bien, los ponen en el en el en el folder que está escondido que 1 no no ve. Es algo que me parece que es superimportante para como experiencia para el usuario, de que encuentra sus sus NFTs fácil y no tiene que estarlos escondiendo personalmente. Otra por seguridad, porque mucha gente puede hacer clic en un en un en 1 de estos scans YYY le pueden robar todo. Entonces es es es una un una petición que sería bueno. No sé si están trabajando en eso, pero sería bueno que que lo hicieran.
+
+[Speaker 2 - 00:44:56]
+No, fíjate que no sé si si capaz si no tienes la última versión de Trolls Wallet, pero nosotros sí hemos venido trabajando en eso, ya integramos como un filtro de seguridad. Ya digamos que un 90 por 100 de los NTFs SCAMs no están pasando. Antes estaban pasando los NTFs SCAMs en bueno, en blockchains como Zelo, creo que Polygon, había otra Blockchain que que realmente era o sea, a mí también me invadían los NFTs scams y ya no pasan. Ahorita están pasando creo que capaz en los de basits, pero están pasando también en las otras wallets, o sea, yo reviso, obviamente, yo utilizo todas las wallets posibles, estoy vigilando a mi competencia todo el tiempo, y y es un problema que están estamos enfrentando varias billeteras, pero sí hemos venido trabajando en eso y mejoramos un montón. De verdad esta evolución ha sido ha sido grande.
+
+[Speaker 6 - 00:45:54]
+Me retracto. Sí, acabo de revisar YYY sí, la verdad la última vez que revisé una una de estas billeteras fue hace como como una semana, pero ahorita sí, está perfecto. Sí, muy bien, muy cierto lo que dices.
+
+[Speaker 2 - 00:46:07]
+Gracias. Qué bien, qué bien.
+
+[Speaker 0 - 00:46:10]
+Bueno, voy a darle el micrófono a Fernando y luego seguimos con Eri Max, con las preguntas. Fernando, bienvenido y gracias por subirte al espacio.
+
+[Speaker 7 - 00:46:22]
+Saludos, saludos. Espero se encuentren bien todos. Primeramente, agradecer a Andrés por tomarse el tiempo de, bueno, crear este espacio para hablar acerca de del criterio, la información o la experiencia de a cada 1 de los usuarios. Tengo ratito escuchando, quería mencionar algunos puntos acerca de los que consultaban los temas de seguridad, los temas de tener 1 su autocustodia, que es lo más importante en este mundo. Y hablar de diferencias en base a mi propio criterio, pues es tema de change o billetera descentralizada o de autocustodia, es que cada quien debería definir por experiencia saber dónde conectarse, porque cada cosa tiene sus pros y sus contras. Es decir, si tienes tus fondos en un exchange, si ese exchange los hackean, por lo general siempre se hacen responsables, pero si tienes x cantidad de fondos podrían bloquearse durante un tiempo hasta que solventen. Tú teniendo una billetera de auto custodia no tendrías ese problema, pero a la vez tendrías otros problemas si conectaste tu billetera en todos los sitios habidos y por haber que suelen ser scans.
+
+[Speaker 7 - 00:47:32]
+No recuerdo el nombre de la persona que estaba consultando el el el tema con respecto a seguridad, y es que, como mencionó Andrés, no se guardan las llaves privadas. Trof no te puede dar ningún tipo de soporte en sí, ya que tú eres el que se autocustodia. En pocas palabras, pues tú eres el responsable de lo que pase con tu billetera, dónde la conectas y las cosas que haces. En mi caso, por ejemplo, yo que tengo más de 10 años en este mundo, hasta yo mismo he sido hackeado por solo descargar un PDF que me enviaron al correo, creyendo que era de una persona u otra. Entonces, la culpa no es de la billetera descentralizada, sino la descarga que yo hice. En otro momento, conecté mi billetera a un sitio fraudulento y también me extrajeron los fondos, porque cada vez que firmas tu billetera web 3 en un sitio, no es que le estés dando las llaves privadas, pero sí le estás dando el acceso y la firma de decirle a ese sitio web que maneje tus fondos y, por consecuencia, pues terminan extrayéndolos.
+
+[Speaker 7 - 00:48:37]
+Entonces, más o menos quería hablar acerca de de lo que ya las personas estaban conversando aquí en base a mi criterio, Y también con respecto a la interfaz que habló Axel de, por ejemplo, hay muchas versatilidades que tiene Phantom, por ejemplo, de que se crea un token y muestra el valor del precio y ese tipo de cositas que quizás es bueno anexar, pero, bueno, ya eso es la Blockchain como tal, por ejemplo, de VSC, que necesita estar verificado, validado, para que tenga un trigger de precio y el jalárselo de allí. Aunque también se podría hacer como Phantom, que jala, pues, los precios de de los decks, y eso ocasiona mayor fom o en las personas para seguir trabajando o saber qué precio tiene el token, no estar verificando un deck si lo podrías verificar desde la billetera. Y eso sería toda la información que tengo.
+
+[Speaker 2 - 00:49:48]
+Del tema de los precios de los tokens y, sobre todo, de los tokens nuevos y y que no son tan populares, se se hace de manera, entre comillas, manual. Estamos mejorando en en tratar de de de mejorar esa experiencia. Pero pero, de nuevo, o sea, la prioridad de nosotros es siempre la la seguridad, ¿no? De de crear un sistema verdaderamente robusto que pueda aguantar, pues, cualquier tipo de de de ataque, ¿no? Y, a veces, por por por ese ser nuestro foco, capaz si vamos un poquito más lento que los demás, porque esa es nuestra prioridad, ¿sí? Con con los fondos de los usuarios, pues, no no no podemos jugar. Y también esforzándonos por tener un servicio lo más estable posible. Nosotros vemos en nuestros competidores que, claro, ellos usualmente, pues, van muy rápido con algunos avances, pero también vemos que que tienen sus sus temporadas en donde los servicios no, pues, no responden a las necesidades de los usuarios.
+
+[Speaker 2 - 00:50:54]
+Entonces, son trade 2, ¿no? En esta industria todo es de de trade 2. Yo veo a Trust siempre como el como el caballito de batalla, firme, pues, que no te falla, que no te va a dejar colgado. Para mí eso es eso es Trust, ¿sí? Pero pero no, válidos válidos los comentarios.
+
+[Speaker 0 - 00:51:16]
+Ahora sí, Eri Max, la palabra es tuya, bienvenido al space.
+
+[Speaker 1 - 00:51:21]
+¿Qué tal a todos? Feliz tarde, feliz miércoles. ¿Se escucha bien?
+
+[Speaker 3 - 00:51:27]
+Sí, perfecto.
+
+[Speaker 1 - 00:51:30]
+¿Qué tal? Bueno, feliz, la verdad que está que tus wallets, una wallet muy completa y justamente la usaba desde hace 19, el 2119, que justamente fue que lo usé y fue mi primera wallet y también uso también sus sus tokens de de de lo de lo de lo de lo de lo de lo de lo de lo de lo de lo de lo de lo de lo de lo de lo de lo de lo de lo de lo de lo de lo de lo de lo de lo de lo de lo de lo de lo de lo de lo de lo de lo de lo de lo de lo de lo de lo de lo de lo estás haciendo un todo el costo completo por el token de de de 3 wallets. Nos estoy viendo que están una cosa diferente sobre ese token.
+
+[Speaker 2 - 00:52:11]
+No, no te entendí la pregunta, ¿la la puedes repetir?
+
+[Speaker 1 - 00:52:17]
+Sí, es sobre el token de TWT, que está haciendo cosas nuevas, están poniendo cosas nuevas que están,
+
+[Speaker 2 - 00:52:23]
+este, creando ¿Cuáles son los tokens de Truth Wallet? Perfecto. No, listo. Con respecto al token, lo que les comentaba anteriormente, nosotros acabamos de lanzar un launch pool y por poner este token en staking, en ese launch pool, ustedes tienen la posibilidad de adquirir unos tokens adicionales del partner que tengamos en ese momento para para esa campaña del launch book. Entonces, recientemente lanzamos una con con 1000 coin que se llama Sundak y ya, pues, ya estamos acabando esa campaña, pero se vienen muchas más campañas. Empezamos por ahí, ¿no? Pero la idea a futuro y la visión, digamos, del del de la compañía y de nuestros líderes es que este token, pues, tenga una usabilidad aún superior en un futuro cercano. Actualmente también en la Swift wallet se está manejando un tema de de un descuento por por pagar el gas con este token, pero pero vienen vienen cosas bien interesantes para el próximo año con con respecto al token de nosotros, entonces pues manténganse ahí atentos, no obviamente no es una una recomendación de inversión ni mucho menos, pero, pues, ya está ofreciendo un valor agregado, que es la la participación en estos features que tenemos en dentro de la billetera.
+
+[Speaker 0 - 00:53:55]
+Mi caro tiene la palabra.
+
+[Speaker 4 - 00:53:58]
+Tenga una preguntita más, Andrés. Es supersimple, es para personas, porque aquí abajo yo sé que hay unos creadores increíbles de contenido, ¿tienen algún programa de embajadores o formas en las que la comunidad pueda involucrarse más con el proyecto, con ustedes?
+
+[Speaker 2 - 00:54:16]
+Sí, nosotros tenemos un programa de no tenemos un programa de afiliados como tal, porque no digamos que técnicamente es muy complejo implementar un programa de afiliados como lo tienen los exchanges, pero tenemos un programa de voluntariado que se llama Trust Squads, que es similar al al que tiene binance con sus binance angels, y digamos que le damos la oportunidad a los entusiastas
+
+[Speaker 1 - 00:54:43]
+de de de
+
+[Speaker 2 - 00:54:44]
+cripto y de Trust Wallet, por supuesto, de participar en nuestros eventos, de entrar a nuestras comunidades y empezar como este camino en de moderación dentro de las comunidades, nos sirve mucho también estos voluntarios para el feedback del producto, y a veces los ponemos de testers también, nos dan un feedback increíble, entonces hay esa posibilidad de tener ese crecimiento dentro del ecosistema de Trust, también pues los hacemos partícipes de los eventos offline que tenemos, este es el programa que tenemos actualmente, con creadores de contenido también, pues nada, los los apoyamos para que para que creen su su contenido dependiendo del del valor que ofrezcan a la comunidad YYY los estamos apoyando, ¿sí? Entonces, sí, palabra, para responderte la pregunta, sí tenemos este tipo de programas para incentivar el el apoyo por parte de la comunidad.
+
+[Speaker 2 - 00:55:46]
+Invitarlos, ¿no? A que se unan, ¿no? A que se unan a nuestro canal de Telegram oficial en español, que ahora te lo te lo pongo acá Diana, obviamente que nos sigan en Trustwallet arroba ESP, arroba Trustwallet ESP y que se unan al Discord de nosotros oficial también, ahí tenemos un una casilla también en español para que nos comuniquemos en español por si tienen alguna duda. Lo otro es, usualmente estamos nosotros también teniendo campañas de marketing con partners, entonces damos esta posibilidad a los usuarios de que participen en estos en estas misiones y tengan la posibilidad de ganarse los tokens que hayan para una una campaña definida, ¿sí? Entonces, estén atentos a nuestras redes, los usuarios, pues, hacen algo de dinero y, además de ser dinero, aprenden cómo interactuar con diferentes blockchains, con diferentes productos, con diferentes DApps a través de Trust Wallet.
+
+[Speaker 0 - 00:56:52]
+Andrés, muchísimas, muchísimas gracias. No sé si alguien más de los que hoy nos están escuchando quiere subir al space y hablar, hacer alguna pregunta para True Wallet, está más que bienvenido. El micrófono está abierto para todas las personas que quieran participar. Ya llevamos una hora de space, así que, mi Caro, creo que seguimos con el pop up o qué opinas Zoom.
+
+[Speaker 4 - 00:57:14]
+Sí, 3, sí, faltan 3 minutitos. Voy a hacerle otra pregunta a Andrés, perdón. Es que tenía unas cuantas preguntas, Andrés, y llegué tarde y yo soy así, no me puedo quedar con estas dudas. Mira, la última preguntita, gusta hablar sobre educación, no sé si habían hablado esto al principio de del espacio. ¿Qué recursos ofrecen para educar a nuevos usuarios sobre cómo manejar sus activos de manera segura?
+
+[Speaker 2 - 00:57:40]
+Sí, estamos con un blog muy actualizado, ¿no? Donde estamos explicando desde lo más básico hasta lo más complejo en palabras fáciles y cotidianas para que los usuarios, pues, realmente adquieran este conocimiento. Tenemos nuestros canales de de Telegram, de Discord, y ahí estamos resolviendo también dudas, dudas específicas de nuestros usuarios. A través de, de nuevo, a través de las campañas de marketing también estamos educando de cierta manera, y tenemos algunos creadores de contenido aliados que están compartiendo conocimiento y tutoriales de cómo utilizar Trust con diferentes blockchains y con diferentes tecnologías que hay en el ecosistema. Eso es lo que estamos haciendo actualmente.
+
+[Speaker 4 - 00:58:30]
+Increíble. Oye, Mexi, creo que tenía una pregunta, ¿o se te olvidó? Sí,
+
+[Speaker 3 - 00:58:36]
+yo yo yo tengo una pregunta, puede ser algo controversial, no sé, pero sí me gustaría mucho tu opinión, Andrés, porque hemos visto a lo largo de, al menos en mi experiencia en los últimos años, que ha habido ciertas, o vale, ciertas herramientas que han tenido algunas vulnerabilidades, ¿no? No no no voy a mencionar todos los casos que hay, pero en el caso de Trust recuerdo claramente en el 2022, 2023, hubo una vulnerabilidad con la las palabras en línea que se estaban generando no tenían ahí un un una aleatoriedad, Y hubo una aceptación de de de Trust y hubo una un reembolso a los usuarios. Recuerdo que eran como 180, 190000 dólares en ese caso, pero se les regresó su dinero. ¿Cómo cómo? O sea, ¿qué qué opinas, no? De de esos casos que sucedieron y que han sucedido, y que probablemente puedan llegar a seguir sucediendo? Porque las herramientas que estamos utilizando integran aplicaciones de diferentes usos, ¿no?
+
+[Speaker 3 - 00:59:40]
+Que algunas podría llegar a tener una que otra vulnerabilidad. No no no me puedo ir sin sin sin hacer esta pregunta en el espacio, ¿qué yo pienso?
+
+[Speaker 2 - 00:59:51]
+Oh, por supuesto. Y y claro, eso es es conocido. Sí, esa vulnerabilidad existió. Y, como tú dices, se respondió por esa vulnerabilidad. Pues nosotros somos una empresa seria y, aunque no custodiamos los fondos de los usuarios, si nosotros encontramos un bug, un error dentro de la aplicación y es responsabilidad nuestra y algún usuario pierde algún fondo, pues nosotros estamos en la en la responsabilidad y en la obligación de responder por esos fondos que se que se pierden, ¿no? Por el error, por error, pues, del de de la aplicación de nosotros. Eso fue en el browser, eso fue en el 2022, no pasó a mayores, y por otro lado, ese tipo de problemas también robustecen la la tecnología, ¿no? Cuando tú te enfrentas como a ataques o a este tipo de de situaciones, pues, nos nos fortalecen, ¿no? Tenemos un bounty program también para los whitehackers, si algún whitehacker encuentra otra vulnerabilidad, nosotros estamos pagando porque, pues, porque, entre comillas, encuentren nuestros nuestros puntos débiles.
+
+[Speaker 2 - 01:01:01]
+Entonces, digamos que eso nos hace más fuertes y y de eso se trata, ¿no? De volvernos más fuertes. Y en tecnología, yo digo que en tecnología no hay nada que que sea inhackeable. Entonces, sí, eso estamos haciendo. Y, por otro lado, no no es no es como tal la parte de vulnerabilidad, pero sí quiero como recordar que la responsabilidad que tenemos con nuestros usuarios es también de advertirlos y de recuperar también algunos fondos cuando son sometidos a este tema de estafas, y este año hemos recuperado aproximadamente 2000000 de dólares de de usuarios que han sido estafados y que hemos podido como encontrar esta ruta de las estafas. No es mucho, es un porcentaje realmente mínimo del que se puede lograr a recuperar, pero, de nuevo, pues nosotros estamos es orientados en en atender al a nuestros usuarios y y tratar de ayudarlos en lo que más podamos.
+
+[Speaker 0 - 01:02:03]
+Andrés, tengo una pregunta. ¿Alguna bolsa de empleo, entre igual, algún perfil que que generalmente estén buscando, no solo a nivel de de Truth Español, sino también a a nivel americano en el exterior, algo que le pueda servir a la gente latina que nos escuche, alguien que pueda desarrollar alguna habilidad, porque tenga una una futura posibilidad de llegar a trabajar con una compañía como Truece. ¿Walleth alguna recomendación?
+
+[Speaker 2 - 01:02:26]
+Sí, bueno, no, estamos buscando muchísimos desarrolladores, ¿no? Que que sepan desarrollar en Coachlink, en en Rust. Ese tipo de de talento lo estamos buscando, Y pueden entrar, ¿no? Pueden entrar a la página de, bueno, incluso en en la página de Twitter de Trust están vinculados todas las posiciones que estamos necesitando en este momento. En la página oficial también de Trust Wallet, en la parte de carreras, de carriers, Ahí están todas las posiciones que tenemos y y, bueno, pues los invito también a a participar, a entrar en este proceso porque, pues la idea es vincular el mayor la mayor cantidad de talento posible y mejor si son de Latinoamérica. Si si son de Latinoamérica escríbanme un un diadema a Trust Wallet SP y y miramos el el el CV y y ahí les les apoyamos desde aquí.
+
+[Speaker 0 - 01:03:27]
+Ay, qué maravilla. Me encanta eso porque es 1 de los propósitos que tengo este año y el próximo. 1, que los latinos nos podamos organizar y se puedan organizar en el tema de ser los K o él. Existen en todas las comunidades Anglo, en las latinas los veo dispersos, así que quiero como generar ese ese campo de los K0L. Hay muchísimas oportunidades con muchísimos proyectos a nivel internacional y creo que los latinos están perdiendo esta oportunidad. También quiero hacer como un llamado para que nos unamos y podamos educar a muchas personas, sobre todo a los nuevos que van a llegar seguramente con este boom room que comienza y con todo lo que hay para que demos como un granito de arena, hagamos su propósito y no sea solamente sino de dinero para los que, sino que podamos aportar, que las personas aprendan, que los llevemos de la mano. Andrés, las puertas abiertas acá en la comunidad latina con con con todos para cuando True Wallet quiera generar un space o un espacio cuando queramos hacer un un space educativo. O sea, cualquier cosa, acá estamos para para apoyarlos. También, mi Caro, tiene la manito levantada, el micrófono es tuyo.
+
+[Speaker 4 - 01:04:30]
+Claro que sí, porque ha llegado el momento de su POA. Mi Diana, hermosa, mi gente, saquen las aplicaciones de POA, que vamos a poner la palabra secreta del día de hoy, que el POAPA está increíble, grita, through wallet. Mi gente, la palabra secreta del día de hoy es billetera, todo en minúscula. La palabra secreta del día de hoy es billetera, todo en minúscula. Si alguna persona se queda sin POA y no lo pudo reclamar porque se fueron muy rápidos, me envía un DM o lo escribe por acá en los comentarios. Oye, me quedé sin POA, por favor, Caro, envíame un mi link, que yo se lo envío en el día de hoy con calmita más por la tarde, le voy enviando los 1000 links al que se quedó sin poa. Let's go.
+
+[Speaker 0 - 01:05:29]
+Gracias, mi Caro, hermosa. Gracias, mi Mexi, por unirte, y Andrés, enormemente agradecida. Gracias por esta oportunidad, por unirte, por poder hablar de la mano o o que los latinos podamos escuchar de directamente desde la voz de Truth Valley un montón de dudas que teníamos, así que 1000 y 1000 gracias por por esta oportunidad.
+
+[Speaker 2 - 01:05:49]
+No, a ti, Diana, por la convocatoria, por por estar ahí tan atenta también de organizar este space y que se repita, ¿no? O sea, las las puertas también de este lado están abiertas para para seguir construyendo esa comunidad en Latinoamérica y que nos sigamos como sumando y uniendo y creando como más visibilidad ante el mundo. Entonces, aquí las puertas abiertas y en lo que podamos apoyar, ahí estaremos.
+
+[Speaker 0 - 01:06:18]
+Muchas, muchas gracias. Vamos terminando el space, bajarlo con musiquita, mi mex y mi caro, gracias a todos los que se subieron, Fernando, Erimax, IXL, Jorge, Andrew, Fernando, Liz, 1000 gracias, hermosa. Banda web 3, Sergio, Joe, Jesús, Gave, Oliver, Mister V, Ascan, hay muchos que no lo sé pronunciar, Tutangas, Oley, Jazmín, Ana Mori, Wara, Eduardo, Dayana, Javier, Mathi, gracias, gracias, gracias a todos por unirse a este space.
+
+[Speaker 3 - 01:06:48]
+No se queden con dudas. Este tema es súper importante. Si no saben qué onda, pregunten, por favor, pregunten, investiguen. Esto es algo crítico para poder saber manejar las herramientas y cuidar su dinero. No hay pregunta pendeja, no se queden con ellas. Gracias, Diana. Gracias, Caro. Gracias, Andrés. Saludos a todos.

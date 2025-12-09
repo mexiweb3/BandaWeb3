@@ -1,0 +1,103 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #032
+Título: BandaWeb3 #032 @betsacarrizo
+Fecha: 2025-01-09
+Hora: 12:00 PM CST
+Host: BandaWeb3
+Tipo: hosted
+Invitados: betsacarrizo
+
+Descripción:
+BandaWeb3 #032 @betsacarrizo. conversaciones sin guion y uno que otro anuncio. Sponsor: R3AL BLOCKS.
+
+Temas: R3AL BLOCKS, BandaWeb3
+
+Duración: 01:22:17
+Escuchas: 1026
+Speakers: 1
+
+Links:
+  Space: https://x.com/i/spaces/1LyGBgqvvlbJN
+  Dashboard: https://spacesdashboard.com/space/1LyGBgqvvlbJN/bandaweb3-032-at-betsacarrizo
+
+Redes de invitados:
+  betsacarrizo: https://x.com/betsacarrizo
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+
+[Speaker 0 - 00:00:00]
+Dando esta grabación. El día de hoy vamos a estar en el episodio número 32 con Débora Carrizo. Bethes Carrizo es una amiga de Argentina, que es una desarrolladora, que es una ingeniera en software, que tiene trabajando en el ecosistema Web3 ya varios años. Es parte también del equipo que estuvo, de las mujeres que estuvieron en la ONU el año antepasado, platicando sobre Web3 también. Está participando en muchas iniciativas y muchos proyectos. Ya la vamos a tener por aquí. Ah, Benny, se va a estar conectando, ahorita la subo. Pero como siempre, vamos a empezar con Universal Mind. Mientras mando invitaciones, hago los posts necesarios. Si me ayudan ustedes, por favor, a compartir,
+
+[Speaker 1 - 00:00:45]
+voy a subir aquí a Deborah y en un momento comenzamos. Bienvenidos
+
+[Speaker 0 - 00:00:52]
+todos. Esto es Universal Mind de Liquid Tension Experement. Mandé los links que normalmente envío a los grupos. Ya vamos a apagar aquí la musiquita. Estoy invitando aquí como cohost a dev. Y ya se nos cayó. Vamos a volverlo a invitar. Algo pasó por aquí. Igual yo también estoy aquí entrando como cohost. Vamos a entrar. ¿Cómo andan? Bienvenidos.
+
+[Speaker 0 - 00:01:53]
+Ya en un momento comenzamos. El día de hoy vamos a estar hablando con Débora Carrizo. Como les decía al inicio, ella es la líder de Real Blogs. Por aquí abajo también está la cuenta, la voy a invitar también aquí arriba por si quieren subirse. Igual lo pueden seguir, pero nos va a estar platicando sobre el proyecto que están lanzando o que lanzaron hace algunos días, donde están ofreciendo ya a la venta más de 1000 tokens en 100 dólares cada 1 de un edificio en Buenos Aires.
+
+[Speaker 0 - 00:03:19]
+Y la neta, me me me encanta poder platicar de este tipo de proyectos, y más con personas que conozco desde hace un buen rato. Adell la conocí ya hace algunos meses, yo creo que el año antepasado, cuando empezaron todo el tema con la ONU.
+
+[Speaker 1 - 00:04:06]
+Pero nada, vamos a invitarlas de nuevo porque ahorita Alprarcés está teniendo algunos detallitos técnicos. Ahorita comenzamos.
+
+[Speaker 0 - 00:04:14]
+Si me pueden ayudar con manitas para arriba y para abajo, para saber que están escuchando bien, creo que todo está perfecto de mi lado. Aquí no estoy batallando con señal. Y también, si pueden dejar un comentario, alguna pregunta, aquí para Der, se hará muy agradecido. Les voy a pinear también aquí arriba el link al espacio, para que me ayuden con un retweet y un reposte, todo suma. Y también les voy a poner el link donde pueden ir a reclamar su colección al V digital. Tienen solamente una hora y media para reclamarlo a la hora que se acabe este espacio, a la una y media de la tarde. Ya no va a ser posible reclamarlo. Es totalmente gratuito. Ya se los puse por aquí y también lo voy a poner como comentario, pero lo único que les va a pedir es su correo electrónico y su wallet y su nombre. Si no tienen wallet, no necesitan más que su puro correo y con el correo pueden estar recibiendo el coleccionable digital totalmente gratuito, no tienen que pagar gas, no tienen que pagar absolutamente nada.
+
+[Speaker 0 - 00:05:19]
+Lo están recibiendo o lo estarían recibiendo en la red de arbitrum, por lo cual necesitan una dirección compatible. Vamos a volver a invitar aquí, a ver, pero ahorita comenzamos. Por lo pronto, les puedo contar que en Monterrey estamos planeando para el próximo jueves un evento. Todavía no tenemos el lugar por y estamos definiendo, pero los miro acá en Monterrey empiezan la próxima semana. Próximo jueves nos vamos a estar reuniendo para platicar sobre todo lo que ha sucedido con el mercado, sobre hay gente que quiere hablar de XRP, hay gente que quiere hablar de memecoins. A mí, en lo personal, me ha gustado mucho la nueva narrativa de los agentes de inteligencia artificial utilizando Blockchain. Por ahí va a haber un un bootcamp muy próximamente con la gente de Frutero, que les voy a estar platicando y por ahí vamos a estar entrevistando el próximo lunes. Próximo lunes vamos a estar con la banda de Frutero, con el buen mail y con Monita Land de criptoconexión.
+
+[Speaker 0 - 00:06:22]
+Ellos están lanzando un bootcamp de 3 semanas, si mal no recuerdo, donde van a estarle enseñando a la gente a utilizar el ISA, que es 1 de los varios servicios que hay, por ahí, de agentes para inteligencia artificial, chatbots, agentes que tienen ya diferentes aplicaciones. Está muy loca, la verdad, la la la dinámica apenas estoy empezando a a meterme, a empaparme a conocerla, pero va a estar muy muy muy interesante platicar con ellos. Y el próximo martes, ya tengo invitado, el próximo martes voy a estar hablando con Iván Hurtado. Iván Flores Hurtado es 1 de los desarrolladores mexicanos que está trabajando en la DAO. La DAO, al rato les voy a opinar aquí la información, pero es un colectivo de personas que lanzaron una stable coin mexicana. Se llama Shock. El stable coin es paridad a peso y está sobrecolateralizada. Tienen ya ellos un front end, un back, los contratos. Acaban de recibir un fondo de 25000 dólares aproximadamente para seguir desarrollando en Optimisum la stablecoin, y han tenido varios apoyos a lo largo de los últimos 2, 3 años, ya tiene como 2 años la dado, la moneda, utilizándose, tratando de encontrar mercado.
+
+[Speaker 0 - 00:07:36]
+Por ahí creo que no han contado toda la historia, de todo lo que han trabajado, entonces por ahí vamos a empezar y los estoy apoyando como parte también miembro de la DAO. Y como persona que está bullish en tema de stablecoins y más, algo sobrecolatarizado en diferentes monedas como Ether, como USDT, etcétera. Lo padre de esto es que es una DAO que está decidiendo en en en equipo, en grupo, que está viendo qué qué hacer y cómo decidir utilizar el dinero que que están recibiendo, que estamos recibiendo de estos grants y de estos apoyos.
+
+[Speaker 1 - 00:08:14]
+Pero, a ver, vamos a ver. Creo que algo está pasando. Vamos a ver los mensajes. Deme un segundito aquí mientras les voy contando. Sí, me dice de que está batallando con el request us peak. Vamos a ver si desde la cuenta de RealBlocks, no sé, de déjame le
+
+[Speaker 0 - 00:08:34]
+pregunto a ver si desde RealBlocks
+
+[Speaker 1 - 00:08:42]
+puede conectarse. Deme un segundo, ahí está.
+
+[Speaker 0 - 00:08:47]
+No sé, no quiero reiniciar el space.
+
+[Speaker 1 - 00:08:51]
+Vamos a ver si ahorita podemos lograr que se conecte RealBlocks o dev. De todas maneras, pues aquí les puedo seguir platicando un poquito de lo que venimos haciendo por acá. Pero bueno,
+
+[Speaker 0 - 00:09:05]
+rápido les puedo platicar un par de cosas que me están sucediendo, que están pasando acá con Banda Web 3. Les estoy empezando a hacer artículos, estoy probando redactar artículos un poquito más largos. Hoy lancé 1, no mentira, ayer ayer lancé 1 de justamente de shock, de la moneda sobrecolateralizada al peso mexicano. Estamos utilizándola ya para, yo para cobrarme las membresías, estas mensuales de un dólar que estoy empezando AAA probar. También les hice, por ahí en el artículo, les escribí todo el detalle de cómo podrían empezar a cobrar ya ustedes shock. Como les decía, shock es
+
+[Speaker 1 - 00:09:49]
+una moneda sobrecolateralizada,
+
+[Speaker 0 - 00:09:52]
+o sea, que tienes que meter Ether, tienes que meter wrap bitcoin, tienes que meter dólares, y te presta o te permite acuñar o mintear el shock, ¿no? Si tú le metes Ether, te va a permitir acuñar cierta cantidad de shock, ¿de acuerdo? Al Ether que hayas metido. Sobrecolateralizado, entonces la aplicación siempre va a tener más colateral del que vale
+
+[Speaker 1 - 00:10:17]
+por aquí están entrando y saliendo. Y creo que estamos perdiendo usuarios. No sé si x me está enrollando. Voy a tratar de cargar aquí a la máquina, a la compu, a ver si es esto. Deme un segundo. Sí, va y viene. Estoy con intermitencia, por lo que veo. Vamos a ver. ¿No? El space va y viene. Se me hace que están todavía por ahí. Yo no he pedido señal. No quiero cambiar a 3G, porque si no, muy probablemente los pierda.
+
+[Speaker 0 - 00:10:53]
+Y estoy tratando de entrar desde la otra cuenta,
+
+[Speaker 1 - 00:10:57]
+perdón, desde otro aparato, desde otro dispositivo, y no me está permitiendo. A ver, vamos a intentar con otro celular.
+
+[Speaker 0 - 00:11:15]
+Creo
+
+[Speaker 1 - 00:11:18]
+que ya no me están escuchando.
+
+[Speaker 0 - 00:11:21]
+Bueno, voy a intentar con mi cuenta personal para hacer otro space, desde la de Mexi, porque aquí en Ahí está, reconnect. Ya me creo que me va a dejar.

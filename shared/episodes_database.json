@@ -12,10 +12,42 @@
     ],
     "website": "https://bandaweb3.com",
     "twitter": "@BandaWeb3",
-    "last_updated": "2025-12-07",
-    "total_episodes": 397
+    "last_updated": "2025-12-08",
+    "total_episodes": 398
   },
   "episodes": [
+    {
+      "number": "075",
+      "title": "BandaWeb3 #075 Emprendiendo @KoilenAI",
+      "date": "2025-12-09",
+      "time": "12:00 PM CST",
+      "space_url": "https://x.com/i/spaces/1yoJMPVEEzeGQ?s=20",
+      "audio_url": "",
+      "flyer_urls": [
+        "075.png"
+      ],
+      "guests": [
+        "Diego Benitez"
+      ],
+      "guest_links": {
+        "Diego Benitez": "https://x.com/diegobc28"
+      },
+      "duration": "",
+      "description": "BandaWeb3 #075 Emprendiendo @KoilenAI. Martes 9 Dic 2025 - 12 pm🇲🇽. Invitado: Diego Benitez @diegobc28. Nos conocimos en Blockchain Land (MTY2022)… y hoy estamos lanzando un startup juntos. 🔥 Esta es la historia real detrás de 🧊 Koilen",
+      "topics": [
+        "Koilen",
+        "AI",
+        "Startup",
+        "Emprendimiento",
+        "Blockchain Land"
+      ],
+      "status": "scheduled",
+      "transcript_available": false,
+      "content_generated": false,
+      "type": "hosted",
+      "host": "@meximalist",
+      "is_numbered": true
+    },
     {
       "number": "074",
       "title": "BandaWeb3 #074 Hackathon @ETHGlobal 🇦🇷 EVVM",
@@ -10419,16 +10451,16 @@
     }
   ],
   "stats": {
-    "total_episodes": 397,
+    "total_episodes": 398,
     "total_duration_hours": 690.62,
-    "average_duration_minutes": 104.4,
+    "average_duration_minutes": 104.1,
     "total_listeners": 59143,
     "average_listeners": 152.8,
     "episodes_with_listener_data": 387,
     "breakdown_by_type": {
-      "hosted": 256,
+      "hosted": 257,
       "co-hosted": 141
     },
-    "last_updated": "2025-12-08T11:20:31.984902"
+    "last_updated": "2025-12-08T18:44:48.516956"
   }
 }

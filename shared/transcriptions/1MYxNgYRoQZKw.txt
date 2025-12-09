@@ -1,0 +1,620 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #20230209
+Título: Ordinals, Digital Artifacts en Bitcoin (NFTs en Bitcoin) Español
+Fecha: 2023-02-09
+Host: @CrowKingg
+Tipo: co-hosted
+
+Descripción:
+Co-hosted Space: Ordinals, Digital Artifacts en Bitcoin (NFTs en Bitcoin) Español. Host: @CrowKingg
+
+Duración: 01:35:00
+Escuchas: 86
+
+Links:
+  Space: https://x.com/i/spaces/1MYxNgYRoQZKw
+  Dashboard: https://spacesdashboard.com/space/1MYxNgYRoQZKw/ordinals-digital-artifacts-en-bitcoin-nfts-en-bitcoin-espanol
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+
+[Speaker 0 - 00:00:14]
+Probando.
+
+[Speaker 1 - 00:00:22]
+¿Se me escucha? Si me puedes levantar una manita y se me escucha, Sank, por favor. Probando, probando. Hola, Tolk Stoy. Hola, Sank. Si me puedes levantar un dedito, así nomás para saber que sí se me escucha.
+
+[Speaker 0 - 00:00:41]
+Gracias.
+
+[Speaker 1 - 00:01:10]
+Ahorita esperar a que llegue un poquito más de gente para empezar.
+
+[Speaker 3 - 00:01:13]
+Si puedes hablar, Mexi, para checar que todo se escuche bien. Papi. ¿Qué onda, qué onda? Ya ando aquí, ya me escuchan. ¿Cómo andan? Buenas tardes.
+
+[Speaker 1 - 00:01:21]
+Buenas tardes, buenas tardes.
+
+[Speaker 3 - 00:01:24]
+Güey, no, me metí todo el día checando y leyendo y está muy muy interesante. Veamos a ver quién se une a platicar con nosotros del tema. Y bueno, esperemos poder hacer experimentos, no sé si hoy o mañana, o a ver cuándo. Pero necesito yo hacer varias cosas ahí para poder empezar a a mintear o hacer inscripciones en en la loachion de bitcoin.
+
+[Speaker 1 - 00:01:47]
+Ya nos contará. Sí, ahorita es mucho el flujo que está moviendo ahora. Ayer estábamos empezando el día como con 11000 inscripciones y ahorita van 43000.
+
+[Speaker 3 - 00:01:58]
+Sí, se está moviendo bien rápido. La gente poco a poco se ha dado cuenta que, pues es una nueva aplicación, ¿no? De bitcoin. Finalmente, como decíamos, platicábamos el martes, la red más importante. Y creo que apenas es el comienzo. Porque todavía no es fácil poder manipular la red, poder instalar el software, poder hacer todas las transacciones que se necesitan. Y cuidar para hacerlo bien, ¿no? Para no perder esos satoshis famosos que tienen esas inscripciones. Entonces, poco a poco van a ir mejorando las las maneras de almacenarlo, de enviarlo, de moverlo, de desplegarlo. Creo que eso puede llegar a a fomentar el uso. Pero bueno, quién sabe. Veamos, veamos. Puede ser una nueva ola que a lo mejor se apaga muy temprano o, pues, crece un chingo y puede llevarse un tsunami y ya todo eso a ver. Ahí veremos.
+
+[Speaker 1 - 00:02:53]
+Sí, ahorita, como pasen todas las nuevas tecnologías, en los primeros, en este momento temprano se va a ver una o explosión muy fuerte o puede que se vea para abajo también, después de la explosión. Y ahorita yo tuve el error que ya tenía ya el core totalmente sincronizado por este momento, pero al sincronizar no me di cuenta que lo estaba haciendo Prunet, Prunet es para almacenarlo en 2 gigabytes, en vez de que guardar los 350 gigabytes de la de la Blockchain entera.
+
+[Speaker 3 - 00:03:26]
+Ah, ya. Sí, no, güey, yo hace. YYY, bueno, está mal, creo yo, debería de. Pero la verdad no lo había necesitado hasta hasta ahorita, como ya para empezar a utilizar bitcoin de otra manera. Los los maxi recomiendan tener tu nodo y tenerlo completo, y revisar transacciones. Y lo he llegado a hacer, lo llegué a hacer en el 2018, 2019, pero ahorita no. La verdad es que no lo tengo listo, no no. O sea, tendrían que comprar un aparato para poder descargar ahí la lonche entera y, como tú dices, sí tiene que estar completita. No puede ser la versión, le llaman prompt, pero la traducción sería como que escogidita, ¿no? O sea, seleccionada, cierta transacción nada más para poder hacer movimientos de acuerdo a lo que tienes tú y vas a utilizar. Entonces está está interesante.
+
+[Speaker 1 - 00:04:17]
+Sí, está muy interesante, ahorita quería hacer los primeros experimentos, pero como digo, esa fue la falta. Y aparte el espacio, pues la verdad, sí viene siendo algo, 350 gigas no es algo tan tan poquito, voy a tener que conectar un una un storage adicional. Ahí mandé invitación a algunos, si gustan subir. Aquí estamos comentando, qué opinan, qué piensan, qué han
+
+[Speaker 3 - 00:04:41]
+investigado. Sí, suban, suban. La idea es si se puede y si quieren entrar a la parte técnica, las tripas, A mí me gusta mucho. Bitcoin me encanta y ver aplicaciones nuevas, que deja tú que sea una aplicación nueva, porque de repente salen muchas, pero que están ahorita llamando mucho la atención y que están generando discusión, polémica, que están aumentando también la cantidad de transacciones, que aumenta la cantidad de satoshis que le están pagando los mineros. Todo eso tiene una afectación bien cabrona. Lo he visto a lo largo de los años y pues bueno, veamos en realidad si esto sigue subiendo la cantidad de de de inscripciones de Ordinals al día. Como tú decías, ¿no? Ayer empezaron menos de 10000. Ahorita ya, bueno, otros 10000 más o menos. Por ello ahorita reviso el número, pero pues bueno, ahorita a lo mejor mañana podemos tener una gráfica de cómo cómo va creciendo eso y si en realidad se está implementando más y y si es de manera exponencial o no. Ya veremos.
+
+[Speaker 1 - 00:05:41]
+Sí, también otro dato que estaba viendo es que los nodos completos de bitcoin ahorita están aumentando de una manera muy fuerte por la gente que quiere poder ver las inscriits ahorita de una manera nativa y de y de poder hacer un script. Inscribt.
+
+[Speaker 2 - 00:06:09]
+Sí, sí. Me da mucho alegre que la gente quieren aprender cómo hacer un full note. Antes lo hacía en 2016, estaba haciendo como una bitcoin juego de lightning, pero yo sé todo de Prome, pero yo estaba buscando de videos cómo hacerlo sin Prown. Porque yo estaba, tú estabas con todo Ethereum, ahorita estoy aprendiendo otra vez cómo se vio el bitcoin, pero sí. Está muy alegre que todos quieren aprender cómo. El técnica, si tienes, si estás presente puedes, sí puedes hacerlo pero necesitas tener paciencia porque se puede durar. Antes me tuvo como 5 días y ese fue con Proud. Depende qué tipo de computadora pero está difícil encontrar los Great Severie Pies, están como todos comprados y están más caros.
+
+[Speaker 2 - 00:07:09]
+Antes lo compraba para 40 dólares, ya son como le que como 200 aquí en Cali. Pero estoy enseñando a mi hermana, ella me estaba, ella ella me ayudó a a poner la bitcoin, inscripciones en, ¿por qué? ¿8000? Yo yo yo yo yo yo yo corrido de 8 6 2 2, órdenes. Ese es el número. Sí.
+
+[Speaker 1 - 00:07:54]
+Tardó 30 horas y tengo Internet de descarga de 200 megas, y traigo, es una buena computadora, 32 de RAM, tarjeta de video, todo, y siguió tardando 30 horas.
+
+[Speaker 2 - 00:08:07]
+Ah. Oh, no, fue a Best Buy a comprar un sticker de una Teatrefight, porque estoy, yo no tengo yo no tengo suficiente espacio, estoy tratando de jugar juegos también, pero ok. Sí, so, ya. Estaba buscando si tenía otra opción este porque necesitas necesitas tenerlo prendido todo el tiempo es porque tenía los Raspberry Pies, pero tengo un Raspberry Pi ahorita con mi Dogecoin Miner y otro con mi Handshake Miner. So, tengo 2 más hacer los bitcoin, una de Prune y 1 sin Prune, porque quiere enseñar ella como mire la diferencia. Yo sé con los Mac mini se va como like más rápido, pero like, pero no tiene ni un techer byte y no son como like 256 gigabytes.
+
+[Speaker 2 - 00:09:14]
+Pero
+
+[Speaker 3 - 00:09:16]
+Oye, qué bueno que estás ahorita metida en eso YYYYY también es importante de decirlo, ¿no? Ahorita para poder llegar a utilizar esta nuevo desarrollo, esta tecnología. Y si por aquí hay 1 de los que está, me corrige y estoy equivocado, por favor, porque también yo estoy ahorita leyendo y investigando un poco. Pero sí necesitas tener el nuevo completo, necesitas tener todas las transacciones
+
+[Speaker 2 - 00:09:39]
+y correrlo. Si quieres hacer transacciones, sí necesito sí necesito tener los sync, todo. Pero si estás mandándolo y no quieres mover para nada, sí puedes agarrarlo ahorita, pero nadie se siente confortable haciéndolo así, es porque todos están haciendo servicios off chain y no scroll, todo scroll ahorita. Hay una, ¿cómo se dice? Hay una opción de Google Sheets, de la Orden All Ponds. Eso me dio mucha risa. Están haciendo una acción de Orden All Ponds en Google Sheets porque nadie tiene confianza con su propio bitcoin, ¿no? Que está tardando tiempo a hacerlo, pero quieren queremos órdenes ahorita. Orgán de artistas, o sea, solo órdenes, él él hace los Oye, ¿qué qué fue la artista que te gustó de hoy? Peñata. Oye, Peñata, si la si la buscas en Twitter, o ojalá que sigues subiendo Twitter por la siguiente semana, porque se quebró unos cuantos minutos.
+
+[Speaker 2 - 00:10:43]
+Eso se espantó, o sea, ¿cómo voy a saber más? Aquí aquí agarro toda la información.
+
+[Speaker 3 - 00:10:51]
+Pero, pues Oye, pero si ha habido un chorro de colecciones ahí que han salido. Yo ya metí en unos 10 Discord para ver cómo se está moviendo el tema y todo, como tú dices, es fuera de de de de es overreccounter, ¿no? De persona a persona, con un intermediario.
+
+[Speaker 2 - 00:11:05]
+Pobre, pues, ¿cómo ves? Este, obvio, ahí tienen, necesitas tener confianza con ellos Pero también soy estoy perdiendo al mismo tiempo que ustedes, so, a veces que está bien Sí,
+
+[Speaker 4 - 00:11:28]
+yo también estoy viendo 3 días con 3 días
+
+[Speaker 2 - 00:11:31]
+cambian, todos en el mismo nivel, so, todos están todo el nivel, ¿sí? ¿No? Sí.
+
+[Speaker 1 - 00:11:36]
+Y y este caso en particular de los SCORB, me tocó muy similar vivirlo de mano propia en Cardano específicamente, cuando iban saliendo la primera colección, fue SpaceBook y todas las transacciones se hicieron por medio de Discord, porque no existían en ese momento los smart contracts ni market trays para hacer las ventas. Así que está muy interesante y es un un momento muy early para la gente para practicar, hacer sus sus artes. Es está muy interesante ahorita. Y estaba leyendo, voy a buscar el tuit, pero para recibir los Artifacts, no ocupas sincronizar, no, nomás ocupas una una address de bitcoin para recibir Sí, para recibir, si no vas a cambiarlo
+
+[Speaker 2 - 00:12:16]
+o venderlo, está bien así, pero ¿cómo lo vas a sacar? Si quieres mandarlo otro dirección más con más seguridad. Sabes con quiero mandar otra dirección que yo sé que está limpio la computadora y todo. A veces la gente quiere más seguridad que que que piensan que necesitaban antes que la hacen, pero sí. Por la mañana, puede hacerlo así, pero quién sabe si es si fue buen decisión en en una semana o no. Pero sí, yo tengo como la 20 mujeres que quieren también prender y está como la ok, voy a tener tiempo este fin de semana a enseñarlos pero necesitas agarrar esas cosas antes que vamos a empezar porque no vamos a hacer una dirección porque porque me van a joder mi internet o me van a suspender mi internet porque estás down out in to much. Pero le, OK, no. Estoy siendo virtual. Pero también estoy aprendiendo ahorita, o sea, OK, si sirve, si no sirve.
+
+[Speaker 2 - 00:13:21]
+Tengo un amigo que trabaja en bit refill. Parece que está interesado de esas cosas también. Ojalá cuando lo mando preguntas, que no que no se enoje, que yo sé con unos que, pues, de oh, es pura es pura spam. No me gusta, le estoy diciendo, pero la gente están interesados, ¿cómo quieres gente que están interesados de bitcoin y y quieren hacer un note? Cuando estoy tratando de hacer algo así, technical, ellos se enojan, dicen, ¿por qué necesita hacer todo? Pero dicen, no, ahorita están mis niñitas tenían todo, o sea, oh my god, eso está cool, pero like, pongan foto, ese ese este te agarró interés en bitcoin. Pero está cool. Yo pienso, va a ser, va a estar, va a ser parece. Ya. Está cool,
+
+[Speaker 3 - 00:14:15]
+ya. Oye, no, pues, muchas gracias. Vamos con las manitas YYYY también yo creo que también para darle un poco de estructura. Ahí hay muchos invitados que me gustaría escuchar su perspectiva de cómo han visto, si lo han probado, si están pensando utilizarlo o no. Yo la verdad es que sí. Sí, de alguna forma quiero mintear, quiero bajar el nodo. Hay unas plataformas donde puedes tú seleccionar y con drag and drop y hacer el el minteo y que te lo envíe en una dirección. También esa la voy a explorar. No he visto el tema de costos, hay que ver. Ahorita platicamos, pero
+
+[Speaker 2 - 00:14:49]
+lo corté antes con Luna, ¿no? Y la la pagué con cripto. A veces la gente quieren hacer el full note, pero no quieren dar su información. So, yo digo a ellos que usan Luna, no no necesitas dar tu información privado. Esas son las cosas que la gente están un poco por preocupado porque vienen de otros países que no quieren que no están bien con criptomonedas. Yo digo que esos son los servicios. Pero si otra gente dice, no importa, solamente quieren ya empezar, pueden hacer con un Amazon y ya agarran todo. Pero hay muchas compañías de bitcoin, compañías, ellos todos sus servicios es vendían un bitcoin, ¿no? Pero todos son Prunds. So, ¿qué sirve eso? Aquí, como 4 servicios que yo estaba buscando, dicen, no, no sirve eso, es Prunds. So, no, ni te lo van a dar bien. Ya. Sí, es es la misma situación que me pasó. ¿Y eso por qué que estoy pensando esos mismos compañías de bitcoin, servicios, esas compañías están enojados porque ya quién la va a comprarlo con ellos si no lo están haciéndolo bien así también?
+
+[Speaker 1 - 00:15:56]
+Ok, vamos a pasar con Pao porque se nos va a cansar con la manita arriba. Vamos contigo,
+
+[Speaker 5 - 00:16:02]
+Pao. Ay, güey, ya ya ya tenía entumido el brazo. Este, oye, gracias por por la palabra aquí, este, Koking. Está muy bueno el tema, fíjate, un tema interesante. Yo personalmente apenas hoy me empecé a echar un clavado, o sea, sí escuchaba noticias y todo, pero ya empecé a ver un poquillo más hoy. Y y quiero ver si entendí bien lo que me dicen. O sea, entiendo que que el nodo lo requiero solamente para poder, digamos, subir o o meter a la cadena de a la Blockchain de de bitcoin en los Atoshis, el los JPEX que quieras subir. ¿No? Pero para hacer el trading no requiere un nodo, es así. Y también, digo, aprovechando que están aquí los CyberCode Twins, si hay algún recurso, algún post o algo que pudieran compartirnos en aquí en el espacio, como un, este, pinearlo o en los comentarios, sería buenísimo para cómo dar de alta un nodo.
+
+[Speaker 3 - 00:16:53]
+Mira, yo creo que ese tema es superinteresante, pero no sé si a lo mejor creo qué opinas, empezamos por por el principio cabrón. Este
+
+[Speaker 1 - 00:17:00]
+Sí yo digo que ahorita ya aprovechando que hay un poquito más gente empezar explicando qué son los orígenes, cómo se originan y todo y todo el proceso para poder dar un contexto aquí a la al space. Voy a abrir la página aquí para darme una idea cómo empezar.
+
+[Speaker 3 - 00:17:16]
+Mira, yo empezaría nada más por decir que esto es algo que inventó una persona, ¿no? Esto es un servicio. Mira, parece a Felipe también. Si tiene ganas de participar y tiene algún comentario atinado, por favor levanten la mano y hablemos todos. Creo que es superinteresante lo que está pasando. Porque finalmente un desarrollador de bitcoin encontró la manera, sin modificar la red, de darle una estrategia de numeración a los Satoshis, ¿no? Cada bitcoin tiene 21000000 de de de perdón, toda la red de bitcoin solo va a tener 21000000 de Bitcoins en al final. Y cada bitcoin tiene 100000000 de Satoshis. Entonces este güey lo que inventó fue una manera de ponerle un número consecutivo a cada 1 de esos Satoshis, que en total van a ser, pues, multipliquen, ¿no? 21000000 por por por 100000000 de satoshis cada cada bitcoin. Luis échale, ¿qué opinas? 1000000. Esa madre, esa madre.
+
+[Speaker 6 - 00:18:13]
+Hola, hola, hola. Pues sí, muy buena descripción, tal cual así es, Mexi. Pues esto viene ocurriendo hace 2 semanas, más o menitos, desde el veintipico de de enero. Pero eso fue el lanzamiento ya en la Mainance, pero ya tiene meses la persona desarrollándolo. Entonces lo que creó fue precisamente un sistema de numeración, pues no lo creó, esto nació con el bitcoin, que en lugar de tomar como la unidad base de medida del bitcoin, se toma el Satoshi, ¿sí? Y cada cada grupo de Satoshis, digamos, el primer Satoshi de un bloque minado tiene un valor especial. Entonces le viene a dar los realities que normalmente conocemos, digamos, en colecciones como los punks. En los realities, en los satoshis viene a ser porque orden tiene dentro de toda la cadena de bloques. Entonces, si viene a ser el primero de un bloque, es un reality especial. Si viene a ser el primero después de un halving, viene a ser otro reality especial. Si es el primero de todos, pues ya es el legendario y el único pues que lo puede mover viene a ser el mismo Satoshi.
+
+[Speaker 6 - 00:19:17]
+Entonces se crea como como un juego, digámoslo así, o una economía también se puede ver, en la cual cada 1 de los Satoshis es único. Entonces, ahí es donde viene el concepto de fungibilidad, que hay un gran debate ahorita mismo. Si con esto se daña la fungibilidad del bitcoin, que es un tema profundo porque entonces ya ningún un satoshis no viene a ser igual a otro. Y ahí vienen muchos debates. Y el otro debate es que básicamente eso se puede decir que estamos aprovechando un exploit, ¿sí? Y es que donde normalmente escribimos el tipo de datos que que viene lo que llaman el mime type en dentro de la transacción, ahí se está escribiendo código, digamos, hexadecimal, que viene a ser la la la forma en la cual condensamos una imagen JPG. Entonces, pues los los maximalistas de bitcoin, pues no digo todos, pero hay un grupo que lo ve como un ataque a la red. ¿Qué ocurre? Que se puede prestar para construir bloques de una sola transacción, ¿sí? Entonces, ¿qué hace? Que los mineros van a, pues, ellos tienen también que elegir dentro de su economía cuáles transacciones son convenientes para ellos minar, Y si resulta conveniente para ellos minar todo un bloque con una sola transacción de un JPG con, no sé, es un otro tema, una imagen, digamos, no sé, for work, pues lo va a hacer.
+
+[Speaker 6 - 00:20:35]
+Y esa imagen se va a replicar a lo largo de toda la cadena de bloques por siempre. Entonces, ahí es donde está el debate como más fuerte ahorita.
+
+[Speaker 1 - 00:20:47]
+Si en realidad Yo tengo una duda en eso. ¿Cómo pasa eso del for lock en la imagen? Porque sí entiendo que haiga una mano invisible, un efecto de mercado, el minero va a decir que económicamente qué le conviene y en eso se van a basar, si conviene más estar mintiendo satoshis que sea un una sola transacción pero se pague muy caro o muchas transacciones chiquitas, ahí el el la el mercado solo va a actuar. Pero, ¿cómo sería eso del del for loo? ¿Del qué? Perdón. De un for loo que nomás sí están mintiendo y la misma imagen. Es que me me me me quedé con la
+
+[Speaker 6 - 00:21:24]
+no entiendo. El pues lo que traté de decir, que es cyber de administración es pésima, es no Salesforce Work, que son imágenes, digamos, pornografía infantil, un asesinato, ¿sí? Cosas que sean así muy fuertes y que no, obviamente, no queremos ver que van a quedar para siempre guardadas en la cadena de bloques. Pero, precisamente, la libertad de mercado, pues, se presta para eso. Entonces, pues, ahí vienen como debates fuertes y que ahorita hay una guerra, ¿sí? Los mismos desarrolladores de de Bitcoins core están peleando están mirando la forma de evitar que eso se siga dando. Entonces, vamos a ver si esto en qué termina. Hay personas que dicen que puede llegar a darse como un soft fork, ¿sí? Que que se bifurque la red por esta razón, pero pues, no sé, o sea, ahorita está muy temprano todo pero hay que estar ahí en la jugada y y pues básicamente la filosofía bitcoin es esa misma, ¿no? Que la libertad. Entonces, si entramos a un mundo donde los desarrolladores de del núcleo como tal de bitcoin deciden qué está bien y qué está mal,
+
+[Speaker 0 - 00:22:26]
+pues es delicado, ¿sí? Porque cambia totalmente la filosofía de bitcoin. ¿Qué opinas? Oye Luis, y justo quería platicar ese tema antes de
+
+[Speaker 3 - 00:22:31]
+Luis, justo quería platicar ese tema antes de de entrar en la polémica que esto está causando para rascarle un poquito la tripita a la a la a la a la carnita de de cómo esto está sucediendo. Porque finalmente cuando Satoshi inventó bitcoin, él definió que cada 10 minutos se iba a minar un bloque, ¿no? Y en cada bloque iban a repartir determinada cantidad de bitcoin al dinero que encontrara la solución de ese bloque y se ganara el premio de esos satoshis que se crean en ese instante. Entonces, en la historia de ese de esa red, de la red de bitcoin que tiene ya más de 10 años, bueno, se han minado más de 19000000 de bitcoin. Eso significa que ya la misma red ha hecho, pues, toda esa cantidad de satoshis, ¿no? Los 19 por 100000000. Y este güey lo que hizo es se le ocurrió una manera de ponerle un número consecutivo, un ordinal, número ordinal. ¿Por qué le dicen ordinal? Porque viene del del del latino como que de orden, ¿no? O sea, el número cardinal es la cantidad del 1, 2, 3, 4, 5. Los ordinales es el primero, segundo, tercero, todo.
+
+[Speaker 3 - 00:23:32]
+Tienen un tipo de de de nomenclatura diferente porque le dicen hacia el la posición en la lista en la que están, el orden en el que están. Entonces, a este güey lo que se le ocurrió es, bueno, de acuerdo a cómo funciona ahorita el sistema, le voy a poner un número a cada 1. Y en esos números, en cada 1 de esos satoshis, y aquí yo creo que entra la clave de tener que tener un nodo completo. O sea, tú para poder hacer una inscripción en en en ese satoshis tienes que instalar un software que él creó. O sea, él creó una aplicación que se llama ORD, que tú le tienes que poner a tu nodo para poder identificar esos Satoshis y para poder tener una wallet que pueda transaccionar fácilmente con esos Satoshis. Y poderlos mover, poderlos intercambiar, etcétera. Entonces apenas está como en código, lo puedes usar con el command line, ¿no? Tú tú te metes y le das este no sé si les tocó les ha tocado utilizar a ustedes el command line. Pero a mí cuando empecé a utilizar las Compus era 2 y una pantalla negra que nomás metías letras y comandos.
+
+[Speaker 3 - 00:24:33]
+Y ahorita para poderlo utilizarlo tienes que ser así. Creo que pronto vamos a ver wallets que utilicen esta tecnología para que el proceso y la la funcionalidad del usuario final sea mucho más sencilla. Y que no tengan que meter, bueno, no se tengan que bajar no completo. Pero que no tengan que utilizar ese comandan, que pueda ser a lo mejor con con con en una app del celular, con picando etcétera. Entonces, pero pero antes de eso, creo que es también importante lo que tú decías, Luis. Finalmente, la el bitcoin no se está modificando en nada. La la la la los nodos corren igual, tú no modificas nada. Simplemente le das una estructura y permites un cambio que hubo en la red de Asuntos, que te da la posibilidad de meter esas inscripciones, ¿no? O sea, esas inscripciones es es como tú decías. Código hexadecimal que se puede convertir en una imagen, en una foto, en un JPG, en un mp3, en un video. Vete tú a saber. Tú puedes poner lo que quieras. Tú puedes llegar a subir ahí la información que quieras al Blockchain. Y luego con un convertidor especial la despliegas.
+
+[Speaker 3 - 00:25:35]
+Entonces aquí también lo que desarrolló este güey fue un Blockchain Explorer único que puede leer la red, la información, perdón, y que convierte la información a como se está almacenando ahorita en la Blockchain. Entonces, ya, o sea, no sé, yo yo sí creo que es un tema que que que va a sonar mucho, que obviamente está Ahorita también ya subieron el juego de Doom, estaba viendo en ¿El qué? El juego de Doom. El juego de Doom, pues, como meme ya en todos en todo dispositivo que tenga pantallas intenta correr. En un Tamagoshi,
+
+[Speaker 1 - 00:26:08]
+en la indicador de de calorías del gimnasio, en todo. Y ya está en bitcoin también.
+
+[Speaker 3 - 00:26:15]
+Entonces eso está ocasionando que se use más la red. Y está ocasionando que mucha gente esté volteando a ver y que quiera ya pasar un nodo, que quiera correrlo, que quiera mintear. Yo he visto en los últimos 2, 3 días una ola de de de hype y de FOMO, este, que que no sé dónde va a llegar. Felipe, échale, ¿qué te has pegado estado del tema? ¿Ya estás desarrollando Nifter para NFTS en bitcoin, yo quiero ser el primer cliente, cabrón.
+
+[Speaker 7 - 00:26:40]
+Ya quedó, ya quedó YYY de hecho tuve ahí el hype porque en la mañana pusiste el de quiero quiero mintearlo. Ya había visto yo desde hace un par de días el tema de de bitcoin y NFTs. Para los que no me conocen, me presento, ¿no? Mi nombre es Felipe, alias luchador. Trabajo armando una empresa para lanzar NFTs sin sin código, este, y saludos aquí a los de la criptolucha y los otros partners que hemos tenido. Soy gran fanático del tema de de la tecnología detrás de NFTs y aportando a muchos de sus de sus comentarios, ya hice aquí muy listita, ¿no? La primera es que creo que es es un gran acierto el el tema de empezar a darle una utilidad extra al tema de los satoshis. Definitivamente hemos visto ese tipo de efectos bastante bastante, pues, benéficos en, incluso, en un en un ver market, ¿no? Lo acabamos de ver hace un par de semanas con con la red de de Solana, después de del fiasco que se dio con con Alameda y y pasar, digo, todas las todas las, este, moneditas se fueron de de sus altos históricos a a menos 90 por 100, pero a Solana sí le dieron un mega madrazo, y se fue estable ahí de 30 dólares a a 8, y creíamos que se iba a ir todo al al hoyo.
+
+[Speaker 7 - 00:28:03]
+Y justo lo que pasó fue, pues, una moneda meme que se llama Bong, que termina siendo amarrada a las actividades de NFTs. Entonces, justo esa moneda y justo esa cantidad de de de transacciones hacen que el volumen de toda la red de Solanas se empiece a volver, pues, reviva, ¿no? Y, este, empiezan a recuperar parte del precio perdido. La gente estaba buscando comprar Solana para poder acceder a esos NFTs que tenían esa memecoin o comprar memecoin directo. Y, pues, algo que nos deja la historia de los últimos 2 años en el tema de de volumen de NFTs es que cualquier red 000 chain que tenga actividad de NFTs, forzosamente, este, trae una derrame económica impresionante en volumen, y eso hace que se mueva el dinero, ¿no? Principios de economía básicos. Entonces, creo que al, digo, sin sin ser experto en en el tema de de macroeconomía, este, y más bien hablando de la parte de DiGen, creo que los Satoshis, este, pues, van a empezar a estar de moda.
+
+[Speaker 7 - 00:29:11]
+Probablemente, no tardemos mucho en ver, como mencionas, una app que tenga, mucho en ver, como mencionas, una app que tenga una manera sencilla de leer estos, este contenido dentro de, que lo decodifique y que, pues, nos saltemos un poquito la línea de comandos, ¿no? Ahorita justo hace una hora estaba haciendo pruebas con, con el el nuevo Ord y, este, pues, a ver, fácil no está, ¿no? Los los degents no la van a tener tan sencilla, pero no falta nada para que alguien salga con su third web o su metaplex, este, basado en bitcoin.
+
+[Speaker 3 - 00:29:53]
+No, definitivamente la tecnología está permitiendo ahorita muchas aplicaciones que yo no me acabo de imaginar. Yo tengo 2, 3 cosas y una cabeza que quisiera explorar, pero híjole, todavía falta. Échale, Luis.
+
+[Speaker 6 - 00:30:07]
+Bueno, pues yo les diría que precisamente ahorita es la oportunidad de mercado para los artistas, como quien dice, aprovechar el momento cuando es difícil, cuando la barrera de entrada es alta, porque ahí es cuando es valioso, ¿sí? Si llega a haber alguna bifurcación o algo, pues ya la cosa va a cambiar, ¿sí? Entonces ya no van a ser UGs del de de los ordeners. Entonces buscar a su desarrollador de confianza y empezar a a Yo también estoy en eso, ahí sí todos corremos. Entonces, esto es una carrera. Está la
+
+[Speaker 1 - 00:30:44]
+no escuché, estoy medio rugueado. Al parecer.
+
+[Speaker 7 - 00:30:47]
+Ande rugueado.
+
+[Speaker 1 - 00:30:53]
+Ahí acabo de piñar un video, ese es 1 de los últimos que subieron el Discord oficial de órdenes, de una guía básica de cómo poder instalar el nodo, instalar la cartera, la la el explorador de Ord, y es un vídeo de 5 minutos y 20 segundos, la verdad está muy sencillo hacerlo, pero el problema y lo largo para los que no lo han intentado, es sincronizar el número de bitcoin, que son 350 gigas y se les puede tardar más de un día, 2 días. Pero si les interesa, se los recomiendo irlo haciendo para que mañana o pasado puedan empezar a experimentar.
+
+[Speaker 7 - 00:31:25]
+Yo contando lo que decía Luis, perdón, Mexi, nada más para lo de Luis, creo que tiene mucha mucha razón. Este, pues empecé a ver un par de colecciones ahorita que que lanzaron hoy, que lanzaron hoy y y algunas que lanzaron hace un par de días, y está el tema de los punks en bitcoin, ¿no? Lanzaron en costo de minteo de 0.3, 0.3, este, bitcoin, y ahorita el floor price está en 2.25. La parte interesante de esto es que, pues, está la nueva oportunidad para para empezar a colocar este arte que quizás, ahí va a ser interesante, porque no sé si es arte generativo que, perdón, arte derivado que termina en en bitcoin chain, y entonces ya no respetamos a los originales punks o qué va a pasar ahí, pero lo que me sorprende mucho es que, pues, no hay un exchange. Los que no se han enterado, pues, no hay hoy un Open Sea, ¿no? O un Magic Kidden para hacer intercambio de de estos NFTs.
+
+[Speaker 7 - 00:32:27]
+Todo se está haciendo, la gran mayoría se está haciendo a través de Discord y grupos de Telegram, y pues es un montón de de confianza. Son peer to peer. Aquí te mando 2.2 Bitcoins por esta imagen de un punk pixeleado.
+
+[Speaker 3 - 00:32:46]
+Inscrito en un Satoshi,
+
+[Speaker 7 - 00:32:49]
+en en en una
+
+[Speaker 3 - 00:32:50]
+o sea, está cabrón, güey, está cabrón. A mí me me me pone a pensar mucho. Y antes de ir con Miquita, quisiera platicar rápido del término que está usando este chavo también. O sea, él se inventó la manera de darle ese orden a los satoshis, ¿no? De acuerdo a cómo funciona bitcoin, yo le voy a poner el primero a este y así se va a ir formando y cada bloque va a crear sus satoshis y así, dependiendo de cómo se muevan las transacciones de de de ese de esos Atochis que se minaron en esos bloques, es la numeración que le van a dar. Pero él le llama, y eso es también un invento y un tema de de de de que él le definió, artefacto digital. No los está llamando como NFTs. Y creo que está interesante el tema del artefacto digital. Porque él dice, mira, un artefacto digital tiene un dueño, ¿no? El dueño del Satoshi, pues, es el el que puede llegar a mover ese ese artefacto, por así decirlo. No se puede modificar. Ya que tú subes ese código al a la red de bloques, a la cadena de bloques de bitcoin, eso ya no lo vas a poder mover nunca, no lo vas a poder tocar.
+
+[Speaker 3 - 00:33:55]
+No, almacenas 100 por 100 del del del código del NFT, del perdón, del código del JPG en el Blockchain. En Ethereum, por ejemplo, tienes a veces, la gran mayoría de los NFTs están ligados a un servidor externo, que puede ser Interplanetary File System, o puede ser Arwig, o puede ser alguna otra cosa. Pero la foto no está en el Blockchain. Aquí sí tendrías la foto en el Blockchain. Entonces está completo el el el artefacto digital. Es sin no necesitas permiso para moverlo. ¿Por qué? Porque a lo mejor, ahorita lo que estamos viendo en NFPs de Ethereum, por ejemplo, que OpenSea está sacando un contrato específico que solo se puede transaccionar ese ese NFT en ciertas tiendas. Bueno, ahí hay un candado. Acá no hay candados. Aquí cualquiera puede mover. También, lo platicábamos el martes, no hay un tema de regalías. Entonces, pues ni modo. Ahí el artista cuando lo vende, o el o el creador de la colección cuando lo vende, pues ya se queda con ese ingreso inicial y ya no hay regalías, al menos ahorita.
+
+[Speaker 3 - 00:34:57]
+Y también no hay un un una dirección que tenga posibilidad de modificarlo. Ahorita vemos en STS, en Etilio, en Venezuela, que, si tú tienes hosteados en un servidor centralizado, puedes cambiar. Puedes cambiar la foto, puedes cambiar la metadata, puedes actualizarlo. Acá no. Entonces, sí hay una gran diferenciación entre un NFT normal, como lo conocemos, a un artefacto digital. Y es un nombre que se inventó este chavo de la manga. Miquita, tú eres artista. Me interesa mucho por aquí que soy bueno artista, sí, que platiquen. Me me me ¿Te gustaría mentir algo con en en bitcoin? Creo que el costo no es tan baratito, no es no es no es barato, dependiendo del tamaño de la foto, pero Está viendo ahí mismo en las fax de Ordinals, dice
+
+[Speaker 1 - 00:35:45]
+que con un costo del bitcoin de 20000 dólares y pagando el fee en 1, lo más barato, te cuesta 50 dólares un megabyte.
+
+[Speaker 8 - 00:35:56]
+Sí, bueno, a mí sí me interesaría, lo que pasa es que ahora me están hablando en japonés, la verdad. No, Cuando creía que ya entendía algo de NFT, ahora me salen con esto y y tengo que aprender otra vez de 0. Es decir, sí me interesa, pero wow, a estudiar porque no tengo ni puñetera idea, la verdad. Pero sí, sí, sí me interesa saberlo.
+
+[Speaker 3 - 00:36:17]
+Porque algo que yo estaba pensando y y por aquí hay eventos, hay una comunidad grande. No sé, yo yo yo yo a mí me gusta mucho lo que hizo los lo que hicieron los punks en ese entonces, donde hicieron 10000, regalaron 9000 y se quedaron con el 10 por 100. No sé, no sé, como para sacar una coleccioncita, explorar la tecnología. Yo aprendo picándole las cosas y, pues, si vamos a pagar 50 dólares por meter algo, bueno, pues mínimo que sea, no sé, algo algo de mi kit, algo de Ananá, algo de de una foto mía, de código de alguno de los que se acaba abajo. Vete tú vas a ver, ¿no? No sé, cabro. O sea, yo yo yo pensando en, ok, ya alguien tiene un nodo, ya alguien está corriendo la información, ya alguien puede mitear, ver cuánto cuesta empezar a a utilizarlo de alguna manera y sacarle provecho. Creo que, no sé, la primer colección mexicana, mitear en bitcoin, puede llegar a llamar mucho la atención. Como decíamos Pero realmente habrá un como un marketplace
+
+[Speaker 1 - 00:37:18]
+o algo porque Todavía no hay marketplace, ahorita todo se está haciendo promedio peer to peer, tienes que tener la confianza en un scroll, un un intermediario al cual ambas partes le envíen el Satoshi con el con el Digital Artifact y el dinero para mandárselo a la otra persona. Hay que saber de programación sí o sí. Hay que hay que O por el momento es sí o sí. Lo lo que estaba a punto de preguntarte, Maxy, es no sé si viste o investigaste algo de todos los nombres que se están viendo limpiados, si tenían algún formato o algo en específico. No no pude tener mucha información del tema.
+
+[Speaker 8 - 00:37:55]
+Bueno, si alguno quiere un arte, yo me brindo, necesitaría la otra parte, la de la programación. Yo pongo el arte y el programador que ponga el resto. Y y en cuanto al dinero, no sé cuánto saldrá, entonces, mintiarlo, nos ponemos de acuerdo fifty fifty, y y venga, al que quiera contactarme ahí estoy disponible. Pero sí, de programación estoy 0 en eso, 0 patatero.
+
+[Speaker 1 - 00:38:20]
+Está bien, no no no es mucho, si te fijas, ahí puse un video, si lo ves de un jalón así son 5 minutos, lo ves todo seguido, ya te das la idea de cómo hacerlo. Lo tardado, como mencioné ahorita, es tener el nodo completo de bitcoin.
+
+[Speaker 3 - 00:38:36]
+Y también si se está mintiendo algo muy muy grande, sí va a ser mucho más caro. Si y y por eso creo que están ahorita mintiendo los punks. Porque son creo que 24 por 24 píxeles. Es una imagen relativamente, pues, creo yo que que no muy pesada. Y eso es mucho más barato. Entre más grande el archivo que se quiera subir a la red, más costoso es. Decía, creo que un mega 50 dólares, supongamos que hacemos, no sé, un diseño pixelado. Vete a saber qué se puede llegar a hacer, algún logo, no sé, pero algo pequeño que se se se utilice muy poco espacio en el blockchains. Yo creo que a lo mejor 10 dólares, 15, vete a saber. Pero, pues bueno,
+
+[Speaker 8 - 00:39:24]
+creo que alguien está corriendo un nuevo. Yo también voy a ver Sí, al al ver si los pioneros siempre se llevan el que entra primero es el que va a dar fuerte. Y entonces, a veces es un meme o una cosa sencilla y se convierte en algo que que que que es pionero YYY tiene un valor, que al final esos son los Credit Copán, ¿no? Al final, no es que sean, es precisamente por eso, porque es una imagen pixelada y es lo más elemental, ¿no? Creo que si damos con la clave de eso de de algo algo que sea, porque siempre a la gente le le se hace bien difícil, es casi siempre lo que es un meme o algo gracioso, algo de sátira o algo así.
+
+[Speaker 1 - 00:40:01]
+Ahorita lo que he visto que todavía no pasa es lanzamiento de una colección real, de ciertas unidades, de ya sea de 100, 200 unidades, porque tampoco hay una forma de minteo directo, una máquina de minteo donde se te de minteo directo, una máquina de minteo donde se te generen, no hay un smart contract. Ahorita la primera colección que llegue a lograr llegar a lo técnico y presentarlo bien al público va a tener mucha ventaja también. Pero a ver si yo entiendo porque los los pepes que ahorita han dado
+
+[Speaker 8 - 00:40:27]
+pepes, que ahorita andaba 1 por acá, sí están minteados en en el bitcoin. ¿No? En
+
+[Speaker 1 - 00:40:33]
+no Sí, pero yo yo me refiero cuando, tú, por ejemplo, cuando compras una un NFT de una colección en Ethereum, en Cardano o en Polygon, normalmente pasa por una máquina de Minteo, que es donde te arroja el NFT a la sala. Hasta ahorita no he visto ninguna colección que se arroje de esa forma, solo por Discord. Si tienen idea de alguna, por favor coméntenla para también informarnos
+
+[Speaker 3 - 00:40:56]
+todos. Yo he visto colecciones de 100, como unas 4. O sea, si si han estado haciendo colecciones de arte sencillo, yo me imagino que lo están mintiendo a mano. O sea, mano están Eso
+
+[Speaker 1 - 00:41:10]
+Eso es realmente quiero ver por medio de Discord, una selección de pero no hay ninguna página ahí donde le hagas clic ahorita para mintear hasta ahorita esa va a traer mucha ventaja a los primeros que lo logren. No sé si puede explicarme, Messi.
+
+[Speaker 3 - 00:41:25]
+Sí, no, sí, el el el el YYY ahí yo creo que está la clave, ¿no? En ese permitirle a la gente que quiera. Por ahí vi un link, lo voy a pinar acá arriba, creo que lo mandó este Germán, de una aplicación donde, según esto, entiendo, con drag and drop tú puedes subir ahí una foto, pagar el Minteo y te lo mandan a tu dirección. Pero creo que está cobrando 0.01, si mal no recuerdo. Ahorita les les comento bien, porque sí la la estuve viendo. Se llama, déjeme letico. Aquí está. Ay, güey, ya se perdió.
+
+[Speaker 7 - 00:42:06]
+Bueno mientras busca a Mexi nada más contarle que el número actual de NFTs o estos artefactos digitales minteados apenas acaba de pasar los 12000 objetos. O sea, cualquier colección, este, memecoin, ¿verdad? Ahí pasa. Va
+
+[Speaker 1 - 00:42:28]
+va 24000, ahorita lo puedes ver actualizado directamente en la página Ordinals punto com, y el último artefacto mintido fue el 24114. Ah, gracias, pues. Era lo que estábamos diciendo de ayer, el día de ayer empezamos con menos de 10000 unidades mintiadas, y para el día de hoy ahorita ya son 24000, pues, o sea, es demasiado el auge que está que está dando en estos
+
+[Speaker 3 - 00:42:53]
+poco tiempo. Oye, creo que también es importante mencionar que esto puede ser peligroso, ¿no? O sea, meterse a comprar. Ahorita alguien decía en 1 de los grupos de de de WhatsApp en los que estoy, oigan, ¿ya compraron un un punk en bitcoin? ¿Ya compraron un? Hay otros como unguitos también, se ven padres. Oye, ya ya quiero, ando viendo y ando en el Discord y estoy en una subasta. Las subastas son en Discord o en archivos estos de de Google Sheets, como decías. Yo los los estoy siguiendo ahorita en Discord, Y están en en los Bitcoins enteros. 1.21 0.3. Ay, canijo. Aguas, aguas, si piensan meterse ahí. Y a mí lo que me llama la atención es limpiar. O sea, yo quiero ver cuánto cuesta, cómo se hace, cómo se va a usar, si en realidad aquí está, ya lo encontré. Ordinalsbots.com. No lo he probado yo tampoco. Por ahí menciona este Germán que tampoco lo ha probado. Pero yo creo que a más tardar mañana lo pruebo y ya les aviso. Yo creo que les llevo noticias ahí con en el Space de mañana. Pero Cuidado, ¿no?
+
+[Speaker 3 - 00:43:53]
+Aguas. Sí, aguas. No vayan a meterse a comprar ahorita, algo así. Pero sí, creo que vale la pena aclarar el miteo de de de piezas que cada 1 de ustedes tenga, no sé qué opinas. Dale, Maxi, yo me brindo, me brindo, me brindo, me brindo, me brindo, me brindo, me brindo, me brindo, me brindo, me brindo, me brindo, me brindo, me brindo, me brindo, me brindo, me brindo, me brindo, me encanta, Así que quiero aventurarme. Excelente, excelente. Y yo creo que también podemos llegar a migrar la conversación a lo que está ocasionando. O sea, finalmente, de una manera, no sé si hay un breve reset, ahorita alguien inventó una manera de ponerle un nombre a cada un número, perdón, consecutivo a cada Satoshi. En cada Satoshi tú puedes poner código, una inscripción hexadecimal que lo puedes convertir en fotos, en mp 3, etcétera. Y las despliegas en un browser tal cual. Pero eso está ocasionando que más gente use bitcoin, que más gente use la red, que los costos de las transacciones suban. Me interesa su opinión.
+
+[Speaker 3 - 00:44:53]
+Por ahí se bajó ya, Luis, que también por ahí tenía varios comentarios al respecto. ¿Qué opinas, Felipe, de Miquita Crow, sobre que, no sé, si esto se explota mucho y empieza a usarlo un chorro, el costo de transacción de bitcoin en Suba, que los mineros les lleguen más lana? Eso normalmente mueve los precios y mueve los mercados y, como decía yo hace mucho y siempre lo menciono, una una tosecita en bitcoin es una pulmonía en todas las demás monedas. ¿Qué opina?
+
+[Speaker 1 - 00:45:28]
+Ahorita, para empezar, yo opino que todos pueden experimentar, para para eso es bitcoin, para que cada 1 pueda tener la cartera. Si estás en las posibilidades, me quitas si de casualidad tienes una computadora con 400 gigas disponibles, que algunos pues ya los tienen, las computadoras ya vienen con mucho espacio. Puedes intentarlo y te guío en el proceso también, para ver cómo lo puedas hacer tú directamente, si gustas.
+
+[Speaker 3 - 00:45:52]
+No, y siendo realista, a lo mejor, no sé, Felipe o Krao, alcanzan a tener eso corriendo rápido. Podemos llegar A000 igual y mañana yo uso el orden al bot y jala. Finalmente lo que se haría, ahorita lo único que se puede es mandarlo a una cartera y dejarlo ahí. Si ahorita lo quieres mover, creo que es un show. O sea, sí necesitarías bajar el nodo, correr el código, bajar los 400 gigas que del tamaño del Blockchain completitito. Entonces, minteamos. Ahorita se puede mintear, se puede mandar una cartera. Ahí se deja hasta que alguien pueda correr, o alguien lo compre, o tenga interés de comprarlo, o que desarrollen el wallet para poderlo mover fácilmente y poderlo desplegar fácilmente, ¿no? Finalmente yo creo que van a acabar desarrollando algo sobre un wallet existente. O los mismos wallet que ya existen pueden llegar a implementar el convertidor para poder ver este tipo de de de de a implementar el convertidor para poder ver este tipo de de de artefactos digitales. Veamos a ver quién se anima.
+
+[Speaker 1 - 00:46:51]
+El que es la wallet que estaba viendo, que ahorita es la que permite visualizar eso, es Sparrowwallet, pero pues
+
+[Speaker 8 - 00:46:59]
+tienes que tener el no completo corriendo. La verdad es que veo bastante gente ahí en varios espacios hablando de lo mismo, así que hay bastante fomo creado alrededor, y eso es positivo, porque cuando la gente tiene ese ánimo de crear algo nuevo y de meterse para allá, yo creo que eso le viene muy bien al espacio, la verdad. Y también cuando tú espacio, la verdad.
+
+[Speaker 3 - 00:47:16]
+Y también cuando se escuchan mucho, es porque a lo mejor ya llegamos a un tope, pero quién sabe. O sea, estos ciclos los los los los que tenemos aquí, rato en el mercado, los hemos visto con monedas, con tokens, con NFPs. Es un ciclo de hype de de de de de mucho fomo que ocasiona que, pues, creo yo, lo que está pasando ahorita con algunas colecciones NNF en en bitcoin que se están vendiendo arriba de los 2, 3 bitcoin, como decía Felipe, y yo también he seguido varias subastas y se me hace una locura. Pero, híjole, sí quiero probar. Y siendo difícil de usar, como lo estamos ahorita platicando, creo que puede llevar a ver todavía a una un margen ahí donde,
+
+[Speaker 2 - 00:48:00]
+no sé, ser el cierto. Exacto. El tema es como es tan difícil, por eso es que no es no se ha hecho tan masivo y tan
+
+[Speaker 8 - 00:48:06]
+fácil de acceder a eso. Y y por eso es que el que lo logra, creo que va a tener un lugarcito ahí importante.
+
+[Speaker 3 - 00:48:14]
+No, y el timeline que veo es una o 2 semanas para que salga el wallet, una o 2 semanas para que haya un una casa para intercambiar eso, un ¿quién sabe? Puede ser más, puede ser menos, puede que no sé, ¿qué opinas?
+
+[Speaker 1 - 00:48:27]
+Hay dinero de por medio, por lo tanto los tiempos se van a recortar lo más posible. Todos quieren agarrar su parte del pastel, hay gente completamente interesada ahorita en buscar los mar, que les puedan seguir un
+
+[Speaker 3 - 00:48:49]
+está haciéndose en la red más grande que existe. A mí me gusta mucho, me clavo mucho en bitcoin y platico mucho. Y esto me tiene súper dando vueltas a la cabeza porque, pues a mí en gran parte tengo que aceptarlo, gran parte de mi portafolio de inversión en cripto está en Bitcóin. Entonces, pues bueno, cualquier cosa que suceda ahí, yo siempre estoy al pendiente, me gusta platicar del tema. Pero, como decían también hace un rato, puede llegar a ocasionar que esto lo sea atacado, ¿no? Que la gente original que, o no original, sino los que tienen otra idea de para qué debería servir esta red o no, quieran llegar a ponerse de acuerdo, cambiar las reglas del juego, que esto a lo mejor no funcione. Vete a saber. O sea, el desarrollo de lo que esto ocasione, dependiendo del uso, si se empieza a usar mucho, si las cuotas suben mucho, puede llegar a haber grupos de personas y grupos de mineros que no les guste. O que a lo mejor no mineros de usuarios, o de los mismos desarrolladores, y que quieran cambiar la red.
+
+[Speaker 3 - 00:49:50]
+Y todo eso afecta muchísimo. Y hay que ver en realidad cómo se se desarrolla. Porque la red de bitcoin ha sufrido y ha sobrevivido muchos ataques, ¿no? El ataque que sufrió en el 2017 o 18, ya no me acuerdo la fecha. Pero Bit Queen Cash, el Ford que hubo con ellos. Ha habido muchos muchos bifurcaciones en el camino en donde se hacen blockshins totalmente independientes, con reglas diferentes, que han causado muchísimo dolor a veces en el ecosistema. Entonces híjole no sé, no sé qué opina Felipe, creo que King, pero pero
+
+[Speaker 1 - 00:50:23]
+Estaba leyendo, no verifiqué el dato, pero leí que ayer y antier más de la mitad del peso de las transacciones de de bitcoin fue por los JPGs.
+
+[Speaker 7 - 00:50:37]
+Sí, completamente de acuerdo. Y justo justo ahí es lo que lo que creo que puede desbloquear como toda esta ola nueva de de artistas biconeros, ¿no? Yo soy fiel creyente de que esto tiene que representar, de alguna manera, adopción, Y si no adopción, de, pues, de menos hype, ¿no? Que que se necesita ahorita en cómo está el mercado, pues, sí, necesitamos este tipo de de refreshments, ¿no? Para que esto se se siga moviendo. Lo que no sé, que no he checado el el a detalle el el cómo escribe Ordinals el el tema de los artefactos, si va y calcula el costo por bloque, porque si eso pasa, le va a pasar lo mismo que en la guerra de NFTs en Ethereum, ¿no? Que es que cuando un drop fuerte cae al mercado, como los de Juga Labs, se puede se puede ir el costo a a 2000 dólares por por transacción.
+
+[Speaker 7 - 00:51:41]
+No sé si ahí sabes algo, Mexi, o Krocking.
+
+[Speaker 3 - 00:51:47]
+Según yo, según
+
+[Speaker 1 - 00:51:50]
+yo viene siendo exactamente el mismo efecto, desconozco totalmente, Mexi va a tener una mejor respuesta.
+
+[Speaker 3 - 00:51:56]
+No, sí, definitivo. O sea, el bloque de bitcoin tiene cierta cantidad de de de espacio. Y el que pague más en ese periodo de tiempo es el que va a ser minado. Entonces, si hay muchas personas tratando de hacer acciones, el el el el mismo sistema va a escoger a las que estén pagando más. Obviamente, si hay 1000 y 1000 y 1000, y hay gente dispuesta a pagar mucho más porque su transacción se mueva en ese bloque, pues se va a minar. Y los mineros son los que finalmente agarran esas transacciones que están pagando más comisión, porque les conviene en el bolsillo. Entonces, sí, definitivamente, si hay algún punto donde mucha gente quiere mintear en el mismo período de tiempo, en la misma hora, en el mismo 10 minutos, en el mismo bloque, las transacciones se pueden ir al cielo. YYY creo que es algo que tiene que poder aguantar la red. O sea, si si si no la experimentamos, si no la reventamos a más no poder y le metemos toda la galleta posible de uso y truena, pues bueno, ni modo, no era para nosotros.
+
+[Speaker 3 - 00:52:58]
+Entonces, yo creo que aquí sí hay que forzarla, sí hay que meterle transacciones, sí hay que utilizarla de esa manera si si si la red lo permite, y ver cómo reacciona y si en realidad es tan fuerte como pensamos que es. ¿Qué onda, Felipe? ¿Qué opinas?
+
+[Speaker 7 - 00:53:15]
+O sea, aquí acabas de describir que por la naturaleza de Ordinals vamos a ver el nacimiento de un L 2 encima de bitcoin enfocado a transacciones baratas solo para NFTs. ¿Me estás describiendo un Polygon estilo bitcoin o qué está pasando acá?
+
+[Speaker 3 - 00:53:35]
+Pues no sé, no sé. Ya existe Stack, existe Counter Party. La verdad no me gusta a mí el tema del L 2. Me
+
+[Speaker 0 - 00:53:45]
+me
+
+[Speaker 3 - 00:53:46]
+me gusta el poder tener la información completita distribuida en los 1000 de nodos que hay. Esos 360 y o 400 gigas de información que ahorita tienen todas esas transacciones van a tener todas esas fotos ahí. Y eso va a crecer exponencialmente. Probablemente, quién sabe. Entonces, va a ser importante ver cómo en realidad los mineros, los nodos, cuando la Blockchain completa mida más de un tera, más de 2 teras y vaya subiendo poco a poco. Porque esto, pues, a lo largo de los años va a seguir incrementándose. Entonces, de igual forma, como hemos visto que los discos duros hay nueva innovación, que tenemos más espacio, que son más rápidos. O sea, el el el la tecnología tiene que irse peleando 1.1 para poder llegar a soportar todo el uso y ver si truena. O sea, finalmente no ha tronado, bitcoin se ha mantenido, la hemos utilizado, se sigue minando bloque tras bloque tras bloque. No se cae, como Twitter hace rato, caballero. Pero yo creo que sí hay que forzarla, hay que usarla y hay que sacarle todo el provecho posible.
+
+[Speaker 3 - 00:54:47]
+Y explotarla lo más que se pueda para ver si si si en realidad funciona o no. Por ahí subió Luis también, me interesa su opinión. ¿Qué opinas Luis?
+
+[Speaker 6 - 00:54:58]
+No, pues sí, efectivamente, que vaya a ser más barato, no va a ser. Porque es simplemente una economía de de un espacio que es finito y que empieza a haber más demanda de ese espacio. O sea, más sí, la la oferta se amplía, perdón, la demanda, y la la la oferta se mantiene fija. ¿Y cuál es esa oferta? Que cada 10 minutos hay 4 megas de de espacio disponibles para subastarlo. Entonces, se puede subastar en un solo bloque o en bloques chiquitos, ¿sí? Entonces ahí es donde viene como la economía del espacio, entonces tú como artista debes pensar es qué tanto va a pesar tu obra, ¿sí? Porque eso va a también impactar en si va a tener probabilidades de estar en el siguiente bloque o va a estar más atrás. Pero hay un tema muy importante que no lo hemos hablado y son los royalties, ¿sí? Entonces, aquí en esta economía que se está generando en torno a bitcoin, con la posibilidad de tener estos Digital Artifact, excluye la posibilidad de tener royalties. Entonces, hay que cambiar un poquitico el mindset y volver atrás, digamos, al modelo de negocio de los punks, que es que tú reservas algunas unidades de tu misma obra esperando que se evalúen el tiempo y es allí donde monetizas.
+
+[Speaker 6 - 00:56:10]
+Entonces, pues, lo pongo sobre la palestra porque, pues, el mismo desarrollador ha comentado que eso en realidad no es algo que se pueda asegurar on chain. Y ha pasado y el debate está abierto, por ejemplo, en la red de Tealum. Junto a otras cosas, que también es, por ejemplo, la inmutabilidad, ¿sí? Sabemos que las ollas que mintíamos a través del contrato inteligente compartido de OpenSea no se guardan como tal on chain, ¿sí? Que hay un servicio que si tú pagas el el congelar la metadata sí puede quedar on chain en algún servicio, digamos, como ese. Pero por defecto, esa metadata tú la puedes modificar como artista, aún después de haber vendido una un NFT, y eso se presta para muchas estafas. Entonces, esto también cambia acá en en en bitcoin, porque ya no puedes, ahí sí es imposible sobrescribir. Entonces, como las promesas que que nos atrajeron a muchos al mundo de los NFTs, que no fueron cumplidas y que todavía como que están mirando la forma de cumplirlas, aquí ya por defecto ya están cumplidas, pero pues está ese trade off que son los royalties.
+
+[Speaker 6 - 00:57:14]
+Entonces pues les comento ese tema para que lo hablemos si quieren.
+
+[Speaker 1 - 00:57:21]
+AAA hablar con JPG
+
+[Speaker 0 - 00:57:22]
+para contestarte un poquito ahí. Ese tema también creo que en mi comunidad encargada nos ha tocado a veces. La primera
+
+[Speaker 1 - 00:57:25]
+creo que en mi comunidad en Cardano se ha tocado a veces. La primera colección que se creó en Cardano fue una que se llama SpaceBook. Esa tiene unos royal royalty se podría decir entre comillas de 2.4 por 100, pero el creador intenta decir, dice él explícitamente que no lo ve como royalties, lo ve como el servicio de mercado que cobra por el uso de su de su plataforma. Los royalties no están on change. Si alguien hace una transacción peer to peer entre personas, está la desconfianza pues de que te roben o algo así, pero ahí no va a haber royalties. Pero él cobra el servicio de usar su plataforma, la página de internet donde se hace las ve, la la compra venta de los spacebook, así lo plantea. Y aquí también cuando un artista cree su colección puede crear su, muy posiblemente va a llegar el punto donde pueda crear su página de Internet y y ahí cobrar su fee para seguir teniendo ingresos. Y pasamos con JPG.
+
+[Speaker 4 - 00:58:24]
+¿Cómo están? Gracias por el espacio. Este, a mí me recuerda que que muchos tenemos, este, NFTs en cadenas, pues, altcoins, que la verdad se van a 0, ¿no? Que realmente lo más probable es que no sobrevivan en el siguiente ciclo. Ciclo. Entonces, pues, te imaginas qué tristeza la gente que gastó todo el dinero en en monedas como en en NFTS como Luna. Pues, bueno, te da la opción de de guardar tu NFP en la en el radio de los blockches, ¿no? En en en
+
+[Speaker 6 - 00:58:54]
+este, pues sí, este,
+
+[Speaker 4 - 00:58:56]
+rico. Entonces, bueno, eso es como que un nivel extra de seguridad. ¿No? De decir, bueno, pues estoy te perdido los estoy guardándolo en Satoshis. ¿No? Que que tiene pocas probabilidades de irse a 0, como dijimos, cuando Solana hubo el problema de FTX, pues, había mucho miedo ahí, no hasta de God se fue. Pero otro punto importante que leí, que me parece interesante, es que, pues, Bitcon es en sí es como que libertad. ¿No? Como muchos de los machis piensan que es como una un un instrumento de libertad de no ser censurado. Mi cliente diga cómo gastos subieron y ni nada ¿no? De los bancos. Entonces eso también abre puertas a a no ser censurado en cuestión de pues periodismo porque 1 va a poder subir videos, fotos, artículos, ¿no? 1 puede subir, pues, lo que 1 quiera, ¿no? Una un ensayo, o sea, también va a abrir puertas a eso, ¿no? Pues, estaba leyendo que puede ser interesante, ya que, bueno, de repente entra 1 en temas de censura, etcétera, ¿no? Entonces, pues eso también va a ser otra cosa que echar el ojo, ¿no? Porque estoy seguro que muchos trodos van a empezar a subir, pues cosas que iguales no son deseables, ¿no?
+
+[Speaker 4 - 01:00:00]
+Cornografía, etcétera, lo que sea. Y, pues bueno, si está ahí y no lo puedes censurar, pues va, va a entrar ese tema de contenido,
+
+[Speaker 0 - 01:00:10]
+este, de malo gusto o o hacer tu oportunidad hacia las cosas, o sea, las cosas.
+
+[Speaker 1 - 01:00:17]
+Ese tema ya se tocó un poquito lo que tengo entendido y, por ejemplo, el explorador de Ordinals punto com, que te muestra lo lo las cosas que han sido mintiadas, si censura las las imágenes pornográficas o gore o de mal ver, pero en realidad sí las puedes explorar directamente de nuevo, pero para un explorador, así para el usuario promedio, no las va a ver en el explorador de Ordinars, por ejemplo.
+
+[Speaker 3 - 01:00:46]
+Y eso es algo que estaba viendo que se puede configurar. O sea, tú en el explorador de Ordinars, como decía hace un momento, él inventó la manera de ir a ver el Blockchain, de ir a ver el Satoshi que está 1 queriendo ver y de desplegar la foto. Porque finalmente, para pasar ese código hexadecimal que está almacenado en el Blockchain, tiene un convertidor ahí para poderlo desplegar de una manera visual. Entonces, sí, obviamente, tú puedes decir, ¿sabes qué? Este Satoshi no lo quiero ver, este sí, este no, este sí, este no. Tú puedes filtrar ahí qué se puede ver en ese browser, en ese explorador. Pero, como decía Crow, no necesariamente es porque no está esa información al Blockchain. Ya lo ve, ya lo estamos viendo. O sea, ya gente empezó a subir cosas ilegales. Es es información ilegal. La ley no la permite y, pues bueno, ya está en el Blockchain. Hay gente que si quiere puede llegar a desplegarla de alguna manera. Pero, pues bueno, es algo que que no se puede evitar, cabrón.
+
+[Speaker 3 - 01:01:48]
+O sea, de nuevo, la tecnología permite que cualquiera suba lo que sea. Yo creo que vamos a empezar a ver, ver a lo mejor a Wiki Leaks usar algo así, o a la gente que que luego acusa a otras personas de de de, o sea, subir pruebas de cosas
+
+[Speaker 1 - 01:02:05]
+el mismo tiempo que estaba teniendo ayer. Porque por ejemplo, ahorita la red red de Artway, que pues también es inmutable. Todo archivo que subas, ni tú como autor del archivo lo puedes eliminar. Ya una vez en la red está ahí, pero también puede que algún momento se caiga esa red, porque al final de cuentas están en dispositivos físicos, pero en en teoría es inmutable. Lo mismo se va a poder utilizar en bitcoin para Un caso específico que vi de Arway que se estaba utilizando era para el almacenamiento de todos los datos de la guerra actual o pasado de de todos los datos de la guerra actual o pasado de Ucrania a Rusia. Vamos contigo, Felipe.
+
+[Speaker 7 - 01:02:44]
+Sí, justo de ese lado, o sea, creo que al menos nosotros recibimos constantemente ideas que nunca nos habíamos imaginado, ¿no? Partners que llegan a a Nifter y dicen, ah, yo quiero utilizar los NFTs para x, y ese x, ahora con lo de Ordinals, fue lo que me voló a la cabeza, porque poco a poco, al menos en los últimos 3 meses, he visto nuevos usos de NFTs que nunca he visto en en mi, pues, historia de DiGen, y creo que Ordinals, o al menos el tema de los artefactos, es perfecto para implementaciones más aburridas, ¿no? Le le le voy a decir más aburridas porque se me hace un un objeto que es perfecto para el tipo de, por ejemplo, identificaciones, ¿no? Entonces, la la parte que mencionan de de que no es mutable la inmutabilidad, creo que va a ser una de las piezas o características críticas de este nuevo objeto, porque ahí es donde, este, desbloqueas un montón de cosas, ¿no?
+
+[Speaker 7 - 01:03:48]
+El el tema de actas de nacimiento. Entonces, actas de nacimiento no es más que texto, este, una página te pesa por ahí de 5 kabytes, 2 kabytes y y esos, pues, ya no son tan caros. Pero, pues, yo nací en una ciudad en específico, en un lugar en específico y tengo un ID en ese país en específico. ¿Hace sentido que esté en una cadena inmutable? Todo el sentido. ¿Tiene que ver con royalties? Pues ni de coña, ¿no? O sea, nada nada que ver en ese tipo de naturaleza. O cosas como propiedad, ¿no? Propiedad intelectual, este, sobre todo en la naturaleza de de autor. No sé si algunos están involucrados o bien versados en ese tema, pero independientemente si tú eres el dueño de una marca o no, específicamente en las cosas de arte, el autor, aunque venda su obra y los derechos de esa obra, tiene por siempre y por toda la existencia, el derecho de decir que él la creó.
+
+[Speaker 7 - 01:04:51]
+Independientemente que ya no pueda comercializarla o explotarla, siempre y por toda la existencia va a decir, este, va a poder decir que él fue quien la creó. Entonces, este tipo de provenance es probable que encuentre un gran espacio en el nuevo objeto de
+
+[Speaker 3 - 01:05:21]
+llegar a ocasionar que las L 2 agarren un poquito más de auge. O sea, no sé si para este tipo de aplicaciones, pero para la gente que quiere pagar los chicles, ¿no? En la esquina, bueno, pues ahí está Lightning. Y a lo mejor con esta nuevo desarrollo y a lo mejor, si esto causa que las comisiones sean más elevadas y que para transferir sea mucho más caro, bueno, se adopte más esa tecnología. Y no nada más esa, sino que salgan otras L 2 que que que también hemos visto que por ahí se han montado en bitcoin, que tienen sus tokens. A mí me gusta Lightning porque no tiene un token propio. Simplemente crea canales para poder enviar y recibir datos, información, dinero. Pero sí, definitivamente yo creo que vamos a ver un un un puede probable ver un auge ahí en esas redes. Fravo, ¿qué opinas?
+
+[Speaker 1 - 01:06:11]
+Mira,
+
+[Speaker 9 - 01:06:12]
+más que opinión, es como es una pregunta, creo que al final muchos de los casos de uso que que escucho ahorita que pudieran aplicarse, pues, de alguna manera se han comentado también para otras blockchains o, pues, tomamos el caso de de ETHERium. ¿No? De la de la red. Y, por ejemplo, los softwund tokens, pues, es similar a lo que se hablaba ahorita de las identificaciones, donde ya incluso hay ciertos protocolos, podríamos llamarlo de alguna manera, para poderlos desarrollar sobre Ethereum. Pero yo no logro entender cómo es que, pues, esta inmutabilidad que se habla de hacerlo en en bitcoin se asegura y no lo tenemos sobre, este, sobre Ethereum, por ejemplo. O sea, si si alguien sube como dices, información que, pues, no sé, es secreta y alguien hace un un un link de información de algún país y la suben en la Blockchain de de bitcoin, ¿qué diferencia hay hacer eso, hacerlo sobre una una sobre otra red?
+
+[Speaker 1 - 01:07:04]
+Yo creo que por la cuestión de la descentralización de bitcoin, donde cada 1 está en la posibilidad de solamente descargar el nodo y ya visualizar todo. Y la adopción, pues, es la la red con mayor adopción a nivel global. Creo que sería la gran el diferenciador para la utilización de la misma.
+
+[Speaker 7 - 01:07:25]
+Entonces, respondo un poquito a a la pregunta, algo que tenemos entendido o o malentendido en el tema de NFTs, es que muchas de las partes de un NFT no no viven en en el bloque donde hacemos referencia a ese NFT. Realmente en en tecnologías como Ethereum o, este, Solana, BNB, casi todas las basadas en Ethereum Virtual Machine, más Solana, utilizan una referencia como tal. O sea, siempre es un tema de, pues, aquí está el token, pero dime, pues, cómo se ve la foto, ¿no? Y cuál es la meta data. Ah, ¿qué crees? Yo no lo tengo, güey. Ese, pues, sí, yo soy el bloque, pero, pues, realmente yo no soy el de la info. Tengo el apuntador, y apunta hacia allá, güey, ¿No? Y apunta normalmente a a soluciones como IPFS o la mencionada que es AirWave y estas 2 hay hay manera de de mutarlas, es decir, pues es un guardan datos nomás, pero los datos son modificables.
+
+[Speaker 7 - 01:08:28]
+En este caso, pues se le denomina si son update o no, actualizables o no, y se tuvo que crear un protocolo específico para que cuando mandaras a hacer ese NFT y apuntar a ese apuntador, le dijeras, ah bueno, nomás que solo lo puedes definir una vez y ya, güey, soy inmutable, nadie aunque seas el creador o la master wallet, de lo que tú quieras, nadie puede cambiar ese apuntador, y entonces hace que ese enerty sea intable. Pero se tuvo que desarrollar un contrato o un protocolo de enertys para que hiciera eso. En el tema, hasta donde estoy enterado, en el tema de ordinals, pues no se puede. Es como, qué chingón sería que lo pudiéramos modificar, pero nomás no se puede. Entonces, la incapacidad tecnológica es lo que también le genera una ventaja.
+
+[Speaker 3 - 01:09:27]
+It's a feature. No era Paul, yo creo. Y hay una duda, hay una duda que no no sé qué pedo. O sea, ese mismo Satoshi, que a lo mejor yo le compré a alguien y ya trae una un JPG, ¿qué pasa si quiero volverle a escribir algo a ese mismo Satoshi? No sé si se pueda. Eso es algo también que que no tengo claro todavía. No sé si alguien pueda responder a esa pregunta. Hay que investigar. Sí, tú en el en, o sea, tú haces una inscripción en el Blockchain en determinado punto de la historia en ese Satoshi, pero no sé si el sistema permita hacerle una inscripción extra a ese mismo Satoshi en el futuro. O ya que hiciste esa inscripción y se guardó ese código hexadecimal en ese Satoshi, o en esa transacción en el pasado, no sé cómo se procesé hoy. En ese mismo Satoshi, es así. Yo yo, obviamente, lo que está en el pasado no se cambia, pero no sé si alguien va y busca la información de ese Satoshi. Después de una transacción reciente, vea otra cosa.
+
+[Speaker 3 - 01:10:28]
+No sé, tengo que tengo que investigar sobre ese tema, pero
+
+[Speaker 6 - 01:10:33]
+Al ser proof of work no puede cambiar.
+
+[Speaker 1 - 01:10:38]
+Una práctica, proof of work stake. Porque se sincroniza el nodo. Continúa, Luis, disculpa por interrumpirte.
+
+[Speaker 6 - 01:10:48]
+No, no te preocupes, es que yo estoy medio rugeado. No, que le decía que al ser el profur work no no no puede cambiar lo que ya está en la cadena de bloques.
+
+[Speaker 0 - 01:10:59]
+Lo que sí puede hacer, de lo que ha escuchado el desarrollador, es crear como una oferta, ¿sí? Odearla.
+
+[Speaker 6 - 01:11:04]
+Entonces, decir poner en venta ese Satoshi a un precio, de tal manera que llega la contraparte y satisface esa oferta con con una contraoferta, ¿cómo decirlo? Sí, con, bueno, con el DiDi Elasque, digámoslo así. Entonces, eso es lo que permite en las transacciones, eso es lo que hay posibilidades de modificar. ¿Dónde está ese estatus? ¿Y cómo cambia de wallet? Es de esa forma. Donde satisface los 2 lados de la ecuación. Pero reescribir lo que ya está allí, no, no es posible. Es de lo que yo tengo entendido.
+
+[Speaker 3 - 01:11:37]
+Sí, no, de bloques anteriores no se modifica nada. Lo que no sé es, en bloques futuros, ese mismo Satoshi sí pueda llegar a tener más información a la gravedad. Yo me imagino que sí, pero bueno, investigaremos y y lo y lo traemos a la mesa. ¿Por qué subió don Pepe? OG de bitcoin de hace años. ¿Qué opinas don Pepe? Vamos por ahí.
+
+[Speaker 10 - 01:11:57]
+Sí, hola, ¿cómo están? Este, pues nada, superinteresantísimo el tema. Este, sí da mucho de de qué hablar. Este, pues sí, ya mencionaban de que como otras redes no permiten, este, o están diseñadas para que inscribas en el layer 1, para que lo uses como almacenamiento. Y, pues, hay una razón por la que eso no es posible, y es porque, pues, básicamente, haces a la Blockchain ultra pesada, porque, pues, a la hora de cinquear un nodo, tú tienes que bajar toda la información y, pues, imagínate bajar todos los BitTorrents que existen en el mundo, pues, no no tendría sentido. Y es por eso que que los maximalistas están muy enojados, porque, pues, esto nace de una implementación que no fue nada más te permite, este, subir archivos, este, a la Blockchain, sino que aparte ofrece un descuento del 75 por 100 comparado a una transacción normal, como si tú estuvieras enviando bitcoin de punto a a punto b, pues es 75 por 100 más barato subir estos NFTs.
+
+[Speaker 10 - 01:13:02]
+Entonces, pues por eso están muy enojados, porque les estás dando un incentivo, por así decir, para llenar de spam, entre comillas spam, porque, pues, eso es subjetivo, este, para llenar de spam a la red y, pues, sí, como mencionó, haces la Blockchain más pesada, al hacer la Blockchain más pesada, los nodos se hacen más pesados, y al hacer los nodos más pesados, eso tiende a la centralización de la red y, pues ahí es más que nada donde está el problema y donde están enojados las maxi que, pues, no quieren que sea muy pesada la cadena. Digo, toda la guerra de los block sidewards del 2017 fue precisamente este tema, el nacimiento de bitcoin cash fue porque querían subir el tamaño de los bloques y, pues, los maxi, este, por así decirlo, no no querían. Ahí hay un debate de que, pues, hay escritos de Satoshi Nakamoto del 2010 en donde él sí quería subir el tamaño del bloque, pero progresivamente, este, al final, pues, quedaron en en 4 megas, y pues esto es un un limitante, digo, como decían de que, ah, sí, vamos a a hacer una colección, de no sé qué, lo que tú quieras, pues, como quiera de esos 4 megas, pues, no te puedes pasar, te digo, yo estaba subiendo una foto ayer y batallé mucho en hacerlo lo más chiquita que podía, y lo hice a a, ¿qué?
+
+[Speaker 10 - 01:14:27]
+100 100 kilobytes, y y como quiera, pues ocupa un gran espacio de de 4 megas y 100 kilobytes, pues en porcentaje no sé cuánto sea, como 5 por 100. Este, pues digo, hacer una colección está muy difícil, no nada más por el tamaño de del del bloque, que son 4 megas es el limitante. El otro limitante que son cada 10 minutos, no es como en Ethereum, que son cada 40 y tantos segundos. Y, pues sí, digo, por eso es que hay tanta polémica del lado de los maxi y que están diciendo, están buscando formas de censurar de que en sus modos ponerles algo que básicamente un filtro que no te deje inscribir estas cosas, pero pues como dicen The Cathy's out of the Box, este, ya es muy difícil que que puedan hacer algo a estas alturas.
+
+[Speaker 3 - 01:15:21]
+Oye, ¿qué opinas de ese cambio que está permitiendo eso, no? Ese esa modificación que hubo en un soft org de bitcoin hace un par de años, yo no sé si en realidad pensaron que esto llegara, podría llegar a suceder. Yo creo que si si en algún punto a alguien se le ocurría esto en ese entonces que se estaba diseñando, hubieran hecho lo posible porque no fuera, porque no se permitiera. Entonces, pues, o sea, la la la la red tiene ciertas reglas. Está el software programado para que funcione de cierta manera. Y pues bueno, ya lo vimos. No hemos desarrollado ni hemos visto todos los casos uso que puede llegar a tener la tecnología de acuerdo a lo que se permite. Y muy probablemente veamos más casos de uso como este, que a lo mejor no estaban pensados en el en el white paper original, o que los programadores que han hecho los cambios no los tenían considerados. Porque, pues, ¿cómo consideras todas las posibilidades de de de utilizar una herramienta?
+
+[Speaker 3 - 01:16:21]
+Si, pues, no sé. O sea, este hijo está canijo, vamos a ver más. No sé qué opines de de de la gente que dice que no debe de ir esta información ahí. O todos los que están para acá arriba, ¿qué opinan de eso? Que debe de tener ese tipo de información o no. Hay gente que dice que solo debe usarse para transacciones de de de intercambio de valor, que todo lo demás se rompan. Pero híjole, no no sé.
+
+[Speaker 1 - 01:16:49]
+Yo tuve una duda, don Pepe. ¿Sí pudiste hacer la inscripción ayer de tu imagen de 100 megas? Y si sí pudiste, ¿cuánto fue el costo?
+
+[Speaker 10 - 01:16:56]
+Era de 100 kilobytes, pero al al final no pude porque, aparte de sincronizar todo el nodo, este, ya cuando puse acá el comando, este, empieza a indexar todos los attouch, attoshis, básicamente, todos los bloques, y eso es básicamente otro día, pero pues básicamente como en 2, 3 horas ya debería de de terminar de indexar los bloques, así que pues si alguien quisiera participar yo les podría ofrecer ese servicio de, pues yo les minteo ahí gratis, digo porque la página que pasaron de OrdinalBots, ellos cobran 115 dólares por la por el servicio y eso sin contar el fee de, pues la comisión que va a los mineros por por poder inscribir,
+
+[Speaker 1 - 01:17:38]
+este, pues, yo ya en este caso se los podría hacer A mi quita le va a encantar lo que lo que acabas de decir entonces.
+
+[Speaker 10 - 01:17:43]
+Quería ver cómo podía mintear mi quita ahorita. Claro. Sí, te digo, nada más, pues, tener en consideración de que, pues, son varias variables lo que puede acercar a la transacción, el peso de la imagen que esté subiendo, este, que en ese momento qué tan llenos estén los bloques, las comisiones, pero sí, ponle que una imagen razonable, unos 40, 50 dólares, dependiendo. Y
+
+[Speaker 3 - 01:18:04]
+Oye, pues yo acá abajo veo a muchos que pueden llegar a ser nuestro Exit Liquidities, sacamos una colección de unos CNNs, don Pepe, ¿qué opinan? A ver, vamos a ver, Manny. Claro que sí. Al final Alfonso, Nikita, Nicole, Caro, Lugo, Circle, Mónica, Pepe, Fermax, ¿quién quién es nuestro? Xit Liquidity. ¿Quién nos compra un NST en cuántos? ¿80? ¿Si cobran 50? ¿Sacarle unos 5 dolaritos? No, no, no, el costo. 100 NSTs el costo y la comunidad se queda con con 10 o con 50, no sé. Porque como decían también la la la la monetización aquí es distinta. Aquí no hay. No hay manera de dejarlas. Entonces bueno, el proyecto se puede cargar con un porcentaje y ahí los rifamos. No sé, yo yo ya quiero monetizar de alguna manera utilizarlos a todos con éxito y equity, ¿qué opinan?
+
+[Speaker 10 - 01:18:55]
+Sí, no, hombre. Y como decían ahorita, pues está lleno de oportunidades el mercado, que si alguien puede hacer un marketplace de NFTs en bitcoin, este, pues se va a hacer millonario. Pero como dicen, ya pasaron 3 semanas y aún no sale 1, lo que quiere decir que, pues no son enchiladas, no está tan fácil. Este, pues ya ves que con bitcoin son puros scripts, puro scripting, no es tan fácil programar con él y pues que aparte que tiene otras cosas, como el tema de las regalías, este, y pues que va a tener, yo creo que tener un escrow ahí casi que sí, de a fuerzas. Este, pero sí, te digo, un área completamente de oportunidades. Cosas como los criptopunks, yo la verdad sí los ignoraría, digo, no porque sean exitosos en una red, significa que van a ser exitosos en en otro. Por ejemplo, existen los criptopunks en en binance smartchain y, pues, obviamente valen casi que 0, y creo que eso va a pasar similar a a estos criptopunks que se están lanzando ahí en en bitcoin. Pero, pues, bueno, cada quien.
+
+[Speaker 10 - 01:19:56]
+Not than an excel advives.
+
+[Speaker 7 - 01:20:00]
+No, bueno, pero ahí ahí nada más para crear el el negocio no está en el Diamond Hand, ¿eh? Los derivativos del negocio es, como dijo Mexi, los saco rápido, se los vendo AAA los degents y se fue, y se fue. Te bajas rápido.
+
+[Speaker 10 - 01:20:21]
+Pues sí, pero te digo, más que DJs, diría a los incautos, porque sí creo que un criptopoint en otra red que no sea la principal, o sea, que no esté el el equipo de Larvelabs detrás, pues como que, pues lanzar un un bitcoin nuevo en otra red, ya pierde como que mucho de su valor, creo yo.
+
+[Speaker 6 - 01:20:40]
+Hay que ver si a Yuga le interesa, porque es que Yuga ya pagó 80000000 de dólares por poner todos los los criptopunks con chain. Entonces, de pronto no le interesa volver a pagar lo mismo en bitcoin, o puede que lo hagan con un evento súper gigante y eso sí mande todo a la luna. Son posibilidades.
+
+[Speaker 3 - 01:21:01]
+Vamos a pasar al
+
+[Speaker 4 - 01:21:04]
+¿Ya tiene la manita ahí? Nada más un comentario, este, no sé si don Pepe me pueda responder. Oye, si tú me exiges que andas experimentando con los clips de spaces, ¿te podría subir un clip de spaces para la posteridad de aquí? Este, quedaría grabado en el Blockchain, sería chingón.
+
+[Speaker 10 - 01:21:22]
+Sí, te digo, puedes subir varios formatos desde fotos, este MP 3, en texto, y y pues sí, tal como mencionaba en el caso de de Wiki Leaks, eso ya se ha dado en el pasado que han subido cosas ahí de Wiki Leaks, hay un archivo famoso del 2017 ahí que se llama Yuliana Sanch punto text, está encriptado ahí en la Blockchain de Bitcoin, quién sabe que sea, si si alguien nada más lo subió para trollear o si si si haya sido Yuliana Sanch, este, pero pero sí, puedes subir muchas cosas, digo, confort, con tal de que sea menos de 4 megas y puedas pagar la comisión, pues, no hay ningún problema.
+
+[Speaker 3 - 01:22:02]
+Yo sí te voy a tomar la palabra, don Pepe. Vamos a a ver quién quién se anima a mintear algo en bitcoin. Ya Miquita dijo que ella se apuntaba.
+
+[Speaker 0 - 01:22:12]
+No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no
+
+[Speaker 3 - 01:22:29]
+No, definitivo, definitivo, Pepe. ¿Podrías llegar a mintear de ahí del meetup con tu nodo en tu casa o vete a saber dónde lo tengas? Sí, no, me imagino.
+
+[Speaker 10 - 01:22:41]
+Sí, sí, no habría
+
+[Speaker 3 - 01:22:44]
+problema. Va, va, vamos a planearlo. De hecho, una de las de las de las reuniones que tenemos por acá programadas, la de mañana, justamente, quiero hablar de ese tema, ahí con la con la comunidad. Poco a poco ir viendo cómo cómo qué opinan, si ya habían visto algo así. Porque clavarte y ver esto, esta aplicación, amigo. No sé, yo creo que los Nest son como que el la aplicación que va y está ya trayendo a muchas, muchas personas al ecosistema. Y ahorita también con Yavi, el ruido, Yavi, a las personas que se estaban montando. Mucha gente de ti, digamos, está empezando a explorar cómo hacer un NFT en bitcoin de esta manera. Seguro, seguro se va a ver un poco más de ruido, hay que seguirlo revisando. Pero yo sí quiero mintear. Veamos, don Pepe, ahí cuándo salen las wallets, cuándo sale el marketplace, qué tan fácil es. Porque también hay un riesgo ahí de que, si no sabes manejar la cartera que tiene ese tipo de de de artefactos digitales, ese Satoshi para la la red de bitcoin.
+
+[Speaker 3 - 01:23:45]
+Le vale gorro si tiene una foto, si tiene un video, si tiene lo que sea, lo que tenga de de inscripción. Si tú lo utilizas mal o le haces una transacción, puede llegar a utilizarlo como para pagar una comisión de transacción, ¿no? Ese Satoshi podría llegar a como para pagar una comisión de transacción, ¿no? Ese Satoshi podría llegar a ser parte de la suma de lo que envíes, y le pagues a un minero y pues pierdas el el el el artefacto digital. Entonces, sí hay una manera ahí interesante de cómo
+
+[Speaker 1 - 01:24:17]
+transferir, cómo enviar. Creo que se te o te dejé escuchar yo, Mexi.
+
+[Speaker 3 - 01:24:23]
+Ay, no sé. ¿Ahí ando? ¿Sí me escuchas?
+
+[Speaker 7 - 01:24:27]
+No, todo bien, todo bien. Te arrogaste un poquito todo. Yo sigo escuchando a
+
+[Speaker 3 - 01:24:36]
+Alexis. Bueno, no sé. Otra otra cuestión aquí que traía y también yo creo que la la la platicaremos un poquito mañana. Es el el el precio. O sea, veamos en realidad cuánto cuesta omitir o algo así, cuánto cuánto hay que pagar de de transacciones.
+
+[Speaker 1 - 01:24:58]
+Yo llamo mucho sin usar la red de bitcoin directamente, don Pepe, si nos puedes decir cuánto es el costo de una transacción normal ahorita.
+
+[Speaker 3 - 01:25:08]
+Ay, pero ahora sí me fui y me entró una llamada. Échenle, échenle, denme un segundito.
+
+[Speaker 0 - 01:25:12]
+Sí, pues
+
+[Speaker 10 - 01:25:14]
+te digo, depende de de varias cosas, este, o sea, qué estés haciendo la transacción, cómo cómo está el tráfico en ese momento, qué tan llenos están los bloques, cómo están las comisiones. Este, pero una transacción normal, este, enviar bitcoin punto A punto B, podría ser desde un dólar, este, digo, depende mucho, son varias variables que considerar, este, ahorita sí sí está carito porque, pues sí, los bloques no bajan casi que 2.5 megas, 3 megas.
+
+[Speaker 1 - 01:25:47]
+Y para mandar un Satoshi en específico, ¿no sabes cuáles son los requerimientos ahorita, si sube el costo de transacción? En el caso de las transacciones ahora con los Artifact, no no en cuando lo inscribes o lo mientes, sino cuando lo quieres transferir.
+
+[Speaker 10 - 01:26:07]
+Cuando lo quieres transferir, este, me imagino que debe ser igual de barato, porque pues ya no estás inscribiendo ahí en el en el witness data, que es lo que en donde se están haciendo las inscripciones en este momento, pero sí, una vez que ya esté minteado, lo lo puedes transferir fácilmente. Este, igualmente, digo, como quieras tener que tener el el full note, eso sí, y pero si usas por ejemplo ahorita la página de Ordinal Bots, la que pasaron por aquí, este ahí pueden darse una idea, o sea, sin tener que pagar los 115 dólares que ellos dan, suben ahí una una imagen, escogen su fee, y pues ahí se dan una idea de de en cuánto andan las comisiones ahorita.
+
+[Speaker 1 - 01:26:49]
+Perfecto, muchas gracias don Pepe. Ahorita ya vamos a ir cerrando el Space, en unos 5 minutos, 10 minutos. Nomás si tiene alguna duda cualquiera, levante la mano, mande invitación y aquí lo pasamos.
+
+[Speaker 3 - 01:27:03]
+¿Alguna otra lista que quiera apuntarse? Aquí a mintear y experimentar con la tecnología, igual. Yo creo que voy a poner una o 2 piezas de de del escultor con el que estoy trabajando, Daniel Serna. Y ahí las mintiremos y ahí veremos qué fregados hacemos con ellas. Pero, como decía yo, a mí me gusta aprender picándole los botones y moviendo y echando a perder y, pues, estaría chido, estaría chido que que más gente se montara a utilizar algo así. Porque, híjole, pues, es la moneda, la moneda. Por eso vio Kriptomata, vamos a darle chance que también se monta. Hey, ¿quién, amigos? ¿Me escuchan ahí?
+
+[Speaker 1 - 01:27:44]
+Sí, claro y fuerte.
+
+[Speaker 11 - 01:27:45]
+Oigan, qué buen space, ¿eh? La verdad todavía no entiendo nada, como decía, este, Miquita, pero vi que ella puso que se anima a entrarle a un minteo, pues yo le entro con ellas, y ella hace el el arte, creo que dijo eso, y 50 50 del minteo, yo le entro, amigos, ahí a ver, este, si mintamos un, ¿cómo se llama? Un Ah, se me fue el que tiene foto de perfil aquí que estaba conectado. Ya se me olvidó. Ah, aquí FCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFC
+
+[Speaker 1 - 01:28:24]
+Estaría perfecto, ahorita creo que todos estamos en la espera de don Pepe. Tenemos mucha confianza en sentido, don Pepe, ahorita. No, hay que conseguirle unos ángulos del 6.
+
+[Speaker 3 - 01:28:35]
+Hay que conseguir varios diseños y transmitirlos.
+
+[Speaker 11 - 01:28:41]
+Sí, pues nada, si mañana hacen space, me avisan y y ahí no sé si lo van a hacer en Discord o cómo es, o sea, ¿lo hacen en YouTube ustedes? ¿Hacen ahí la prueba ¿O o nos avisan? ¿O cómo es?
+
+[Speaker 3 - 01:28:54]
+Pues hago la invitación de una vez, ¿no Pepe? No sé si puedas mañana acá en Monterrey. Lo podemos hacer en vivo, como tú decidas. O lo pasamos para otro jueves. Nos estamos juntando todos los jueves, estaría fregón, hacer la demo. Yo mañana quiero platicar del tema ahí con la comunidad, dar una explicación de de de lo que se ve, de lo que veo, de lo de por qué. Creo que es importante, interesante estar al pendiente de esto YYY ver cómo se desarrolla, pero no sé, no sé cuál. Pero, pues, hagámoslo en vivo, si se puede, si quieres.
+
+[Speaker 10 - 01:29:26]
+Sí, te digo, yo nada más estoy esperando la indexada que se termine, van como en 500000 bloques de 700000, pero, pues, una vez que se termine, pues, ya les aviso y, pues, si no hay ningún otro obstáculo, pues, ahí lo hacemos facilito, este.
+
+[Speaker 3 - 01:29:44]
+Chico, bueno, excelente, excelente. Aquí ya se formó con este espacio. Fermax, por eso yo, ¿qué onda? Yo también ahorita en unos 2 minutitos me ya me están llamando.
+
+[Speaker 12 - 01:29:54]
+Quevido, querido, Estoy manejando y me voy conectando apenas, güey, pero parece el plan mañana el miro. Ya está la la información para ahorita generar el POAPO, para mañana.
+
+[Speaker 3 - 01:30:10]
+Sí, la idea es platicar de esto, ver si podemos mintear en vivo con don Pepe. Y si no, pues la próxima semana minteamos 1, 2 o 3 piezas en vivo acá con La Raza y a ver si lo podemos transmitir también en, no sé si Twitch o por ahí sugeriste alguna aplicación. Yo creo que ya vale la pena empezar a usarla en los Beatles. Y sí, pues sí, empezar a utilizar esto.
+
+[Speaker 11 - 01:30:33]
+¿Qué onda, amigos? Yo tengo yo tengo un server en Discord. Ahí podríamos, este, no sé, anunciarlo, si le sirve.
+
+[Speaker 3 - 01:30:46]
+Va, va. Entre hoy y mañana vemos bien si Pepe está listo. Si no, para la próxima semana lo organizamos ahorita con más tiempo. Podríamos usar ahí el cuarto por ahí que tengo en el Metaverso para ver si se mete la gente. Ve todo a saber, pero irle ir explorando cómo se utiliza esto, yo creo que está súper chido. Y finalmente, con Sia, el es la red más importante que hay. Y va a ocasionar esto mucho ruido y muchos probables problemas, ya veremos. También
+
+[Speaker 1 - 01:31:13]
+dentro de un space, así en vivo, puede ser. Y ya nomás subiendo fotos del proceso, todo va a estar en la Blockchain, se va a poder seguir, que es lo importante, al alcance de todos.
+
+[Speaker 12 - 01:31:24]
+Oye, no sé si completo lo mencionó, pero ¿qué onda? Consideras que eso spam o no?
+
+[Speaker 7 - 01:31:34]
+Pues, pregunta difícil, este,
+
+[Speaker 10 - 01:31:39]
+no sé, cabrón. Este, digo a pesar de todo por algo se puso el límite en 4 megabytes del del tamaño de bloque, entonces hubiesen sido transacciones, hubiesen sido yapex, este pues al final del día ya estaba previsto ese límite del del para que no hubiese pedos, y pues también hay otros temas como, pues muchos decían que bitcoin tiene un problema de seguridad a largo plazo, este, porque pues cada 4 años le hacen un halfening al al subsidio, básicamente a lo que ganan los mineros, y pues las las comisiones no no no seguían subiendo, y pues con este nuevo caso de uso vemos que las comisiones han estado subiendo, los mineros felices de de estar recibiendo este dinero. Entonces, pues no sé, yo creo que depende a quién le preguntes, unos te podrán decir que sí es spam, otros te dirán que no.
+
+[Speaker 12 - 01:32:34]
+¿Podríamos estar reviviendo un un cripto kittis de Ethereum de hace años, ahorita en en Bit2Bistro.
+
+[Speaker 10 - 01:32:43]
+¿Estar qué, perdón, subiendo?
+
+[Speaker 12 - 01:32:45]
+No, están viviendo un criptoquitis, como pasó en Ethereum hace años.
+
+[Speaker 10 - 01:32:50]
+Pues similar, haz de cuenta, digo, pues básicamente ya tenía muchos años de no haber un una polémica, un debate tan interesante en bitcoin, este, y digo, está relacionado al a la guerra del tamaño del bloque del 2017. Este, pues pues nada, yo, te digo, emocionado de ver toda esta tecnología, ver ver en qué termina.
+
+[Speaker 12 - 01:33:11]
+Ya ya ya hace falta un poco de emoción, ¿no? De de de este tema, ¿no? Porque, pues, el halving es 1 de los temas que nos emociona, pero, pues, son cada 4 años.
+
+[Speaker 10 - 01:33:21]
+Sí, pues, lo lo que realmente habilitó esto, se podría decir que fue Taproot, fue lo que se le puso más fácil a a los ordinarios hacerlo, este, y pues la la neta cuando se implementó Taprout, nadie nadie lo pelaba, fue fue un un upgrade que pasó desapercibido por la mayoría de la gente. Y y pues nada, ahora sí se está usando un buen.
+
+[Speaker 3 - 01:33:44]
+No, y lo interesante es que se desarrolló sin tener que hacer un un hard fork, ¿no? El la bifurcación que obliga a que la Blockchain se divida en 2. Aquí fue un SOFFORC y está ayudando con temas de de de costo de transacciones. Pero también abrió la puerta de ese tipo de aplicaciones como los artefactos digitales. Entonces, pues bueno, yo creo que igual mañana a ver qué les llevo a al espacio y pues yo me despido. Ya ya ya me, ahora sí ya me llamaron. Pero igual, definitivamente vamos a estar explorando esto, vamos a mitigar 1 que otro. Ahí les estaremos poniendo cómodos. Si alguien le interesa, pues igual, Ahí estamos chateando del tema en en en el server de Discord de MX Web 3. Igual alguien sugirió postear en su server, puta, chingón, vamos a si gustas ahí te mando la info y ahí vamos bien. Pero gracias, claro, por organizar esto estuvo. Claro que sí. Muy esperado poder platicar del tema y entrar un poquito a las tripas más técnicas que, pues no sé, a mí también eso es algo que me gusta mucho. Muchas gracias a todos los que participaron, de oyentes y hablantes, un gusto estar aquí.
+
+[Speaker 3 - 01:34:49]
+Qué bueno aprender con todos y que aprendan también los que están buscando
+
+[Speaker 1 - 01:34:55]
+aprender y un gusto. Ahí nos vemos en otro espacio. Hasta luego.
+
+[Speaker 12 - 01:35:01]
+Dale, nos vemos. Hasta luego mañana, Michigan.

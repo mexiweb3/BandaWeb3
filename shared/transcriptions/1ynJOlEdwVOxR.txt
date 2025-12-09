@@ -1,0 +1,380 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #20250210
+Título: Atraviesa las Capas de Cripto con Capa.fi
+Fecha: 2025-02-10
+Host: @ethereum_mexico
+Tipo: co-hosted
+
+Descripción:
+Co-hosted Space: Atraviesa las Capas de Cripto con Capa.fi. Host: @ethereum_mexico
+
+Duración: 00:54:00
+Escuchas: 67
+
+Links:
+  Space: https://x.com/i/spaces/1ynJOlEdwVOxR
+  Dashboard: https://spacesdashboard.com/space/1ynJOlEdwVOxR/atraviesa-las-capas-de-cripto-con-capafi
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+
+[Speaker 0 - 00:02:48]
+Hola, hola, ¿cómo están? Mixy, ya te mandé invitación, también Jonah, Liz. También les mandé Gmail para que puedan hablar.
+
+[Speaker 1 - 00:03:01]
+Bien, bien, me escuchan bien por ahí traigo los audífonos, creo que sí veo por ahí a Lee Zacapa, al buen Alan, a Jonathan Rosas, saluditos, gracias por estar por aquí. Sergio, Eder, ¿cómo andan? Bienvenidos. Vamos a ver si podemos subir ahorita a Jonathan, de la estamos mandando la invitación, igual estoy subiendo a Liz acá como Cohous. Probablemente nos acompañe Karen, pero vamos a darle, la la verdad tenemos una hora nada más y me encantaría poder aprovecharla con Jonathan para que nos platique de todo lo que están haciendo. Ayúdenos, por favor, sus likes, sus comentarios, y los repose ayudan mucho a que esta información llegue a más personas. Y el día de hoy tenemos a el buen Jonah, como les decíamos, nos va a estar platicando de todo lo que está haciendo capa. Por ahí lo puse en un grupo, pero la neta considero que necesitamos más capas, ¿no? Más proyectos como capa en el ecosistema saliendo de Latinoamérica. Ya nos contará bien, Jonathan, todo. Pero probemos si están por ahí escuchando Liz. Jonathan, ¿cómo andan? ¿Me escuchan bien?
+
+[Speaker 1 - 00:04:01]
+Hola,
+
+[Speaker 2 - 00:04:03]
+hola. Hola, claro que te escuchamos súper. Hola, Jonathan, bienvenido.
+
+[Speaker 1 - 00:04:14]
+¿Qué onda, Johana? Ahora sí creo que no te escuchaba. A ver, prueba intenta. Se nos cayó. Pero, bueno, ahorita lo subimos, no se preocupen. Igual, les recuerdo, a las 5 hay un space con las chicas de Heardado. Ellas están teniendo sus 5, entonces a las 5 en punto vamos a terminar el día de hoy. Muy movido la semana, muy movido el día, este, no entraremos en detalles, pero no podíamos dejar de tener ese space ya programado, ese es 1 de los episodios que tenemos por ahí con con con la gente de aquí del Court Team, que nos encanta platicar con los que están emprendiendo y que traen proyectos chidos. Ahora sí, ya creo que está para acá arriba. ¿Qué onda, Jonah? ¿Qué onda? ¿Qué onda? ¿Ya me escuchan?
+
+[Speaker 3 - 00:04:59]
+¿Cómo están? Ya, perfecto, ya veo. Sí te escuchamos. Codaciones, muy bien. Ya, pues cambié de Internet a usar mis datos mejor.
+
+[Speaker 1 - 00:05:11]
+Chingón, chingón. Un gran saludo a la banda de capa que por ahí los veo conectados y también al Juandi que ahí está abajo. Saluditos,
+
+[Speaker 3 - 00:05:17]
+Wulish, Wulish. Está el buen líder de líderes. Juandi, un abrazo.
+
+[Speaker 1 - 00:05:21]
+Pues bueno, démosle, démosle. ¿Cómo ven? Ya, ¿elis, empezamos o qué?
+
+[Speaker 3 - 00:05:28]
+Sí, adelante. Venga.
+
+[Speaker 2 - 00:05:31]
+Claro que sí, adelante.
+
+[Speaker 1 - 00:05:35]
+Excelente, excelente. No, pues, no sé, una breve introducción aquí, Jona, como como decía, creo que la comunidad en Latinoamérica necesita más proyectos, más iniciativas, más emprendimientos como como el que ustedes están por ahí liderando. Hablamos y vemos muchos temas de comunidad YYYY, pues, eso incluye muchos temas sociales. Pero creo que el enfoque de muchas de las herramientas, blockchains, iniciativas que hemos visto, están empujando menos de genere, menos shit coineo y más emprendimiento. No sé si estás de acuerdo o no y y me encanta lo que están haciendo. Platícanos un poquito de ti, Jonah. Preséntate YYY platíquenos un poquito de capa.
+
+[Speaker 3 - 00:06:16]
+Va, pues muchas gracias por el espacio, Mexi. Te mando un abrazo, a Liz y a toda la gente de Terelu, Ensenada, veo bastantes personas conocidas. Pues en fin, a ver, ¿quién soy yo? Yo soy Jonathan Herrera, llevo ya 4 años en el espacio y curiosamente estos 4 años los he aprovechado estando en esta industria de web 3, específicamente en el nicho de lo que son las rampas. Las rampas, para las personas que que no saben, son empresas que brindan el servicio, valga la redundancia, de on y offramp. Entonces, ¿qué es esto? ¿A qué se refiere 1 con esto? Pues, bueno, simplemente nosotros damos el servicio de poder transformar tu tus, este, tus pesos mexicanos o tus pesos dominicanos en cripto, y viceversa. Por ahí dicen que somos la entrada a Web3. Poder ponértelo de una manera, pues, más sencilla.
+
+[Speaker 1 - 00:07:15]
+Oye, y ahora, listo, no sé qué piden ustedes, pero híjoles, desde que yo entré hace unos 7 años, el proceso para entrar, para salir, en ese entonces era muy complicado, ha ido mejorando muchísimo. Y gran parte son como por servicios como los que ustedes están ofreciendo. Donde no tienes que dedicarle tanto tiempo a crear una cuenta como en otros lugares, ¿no? O sea, yo creo que esa es una de las cosas que más me sorprende de de de los exchanges que utilizamos y de las herramientas que utilizamos para entrar y salir. Como tú decías, ¿no? De pesos a cripto, de cripto a pesos. Es una de las partes creo que más importantes del ecosistema. Y que en México no se ha tenido tanto, no sé tú qué opinas, ¿no? Hasta que entraron ustedes y Bando, ¿no? Y algunas otras como Swapix y y Swapid, o creo que se llamaba la otra, ya no recuerdo todos los los los que han pasado por aquí por la por el ecosistema mexicano. ¿Qué opinas?
+
+[Speaker 3 - 00:08:09]
+Sí, sí, mira, realmente antes era muy complicado. Yo llegué, pues, al mundo cripto, fíjate, en una de las primeras rampas que salieron en México. Y, pues, mira, siéndote sincero, yo que vengo de rampas y siempre he usado rampas para comprar o vender cripto, pues, es muy sencillo. Pero gente que lleva 7 años como tú o que lleva inclusive más, sí me ha contado que al menos en México era un t mota el pasar tus pesos a cripto. ¿Por qué? Porque tenías que estar, no sé, por decir, tal plataforma y luego hacer un retiro, qué te cobraba y luego pasaba a tu meta más. Y era una cosa en la que te tenías que engranar, era complicado, era 0 por 100 intuitivo y, pues sí, digo, las rampas creo que llegaron para quedarse, son la evolución del cómo nosotros tenemos que comprar o vender criptomonedas. A mí me gusta decir mucho que las rampas operan como una casa de cambio.
+
+[Speaker 3 - 00:09:10]
+Al menos yo donde estoy, que estoy, este, de Ensenada, acá por el norte, en Baja California, pues es muy sencillo una casa de cambio. Yo puedo entrar con pesos mexicanos y salgo con dólares. Entonces, es algo muy análogo esto de las rampas y las casas de cambio. En el sentido que, bueno, la casa de cambio realmente no custodia tus fondos, Y en las rampas tampoco custodiamos tus fondos. Entonces, elimina esa ese posible vector de ataque, ¿no? Si ya llevan tiempo en el espacio, pues, ¿saben qué pasó con lo de FTX? Entonces, pues sí, es una manera más sencilla de simplemente pasar por ustedes de crédito sin que alguien pues toy profundos. Para mí eso me llamó mucho la atención.
+
+[Speaker 2 - 00:10:01]
+Oye, Jonathan, antes de que continuemos platicando, no sé si nos nos quieras compartir la promo que no sé si nos quieras compartir la promo que que tienes para para todos, a partir del momento en que comenzó el Space, para que, pues, de buena la vayan aprovechando en lo que vamos platicando por aquí.
+
+[Speaker 3 - 00:10:18]
+Va, buenísimo. Pues, mira, la gente que está aquí adentro tiene el súper alfa, de que estamos dando hasta un 10 por 100 de cashback ahorita en capa. ¿Esto qué significa? Que si tú compras cripto, te reembolsamos el 10 por 100 de la cripto que has comprado. O en otras palabras, si compras, no sé, digamos, 1000 dólares, te regresamos 100. Entonces, al finalizar, pues el día vas a tener los 1000 dólares que compraste y aparte te vamos a bonificar otros 100 dólares más. Por ahorita voy a meter aquí en un comentario los, este, de más detalles de esto. Pero, pues, es bastante es bastante buena esta promo, más si nunca han usado capa, pues, es una invitación. ¿No? Para que la prueben, nos den feedback y, bueno, se lleven este cashback.
+
+[Speaker 2 - 00:11:10]
+Súper. ¿Y hasta cuándo va a estar disponible esta promo?
+
+[Speaker 3 - 00:11:15]
+Esta promo está a fíjate, se acaba hoy, a las 12 pm. No, pues de una. Ciudad de México. Sí, para que lo aprovechen. Igual hay unos topes por ahí que estamos, este, planteando. Para usuarios antiguos, el cashback solo es del 5 por 100, pero para usuarios nuevos es del 10 por 100. Y hay topes máximos de 50 dólares y 70 para usuarios nuevos. En este caso, ahorita no se preocupen, todo esto lo voy a poner aquí en el en el speaking como un
+
+[Speaker 2 - 00:11:51]
+comentario. Listo, pues ya tenemos el alfa ahí para que vayan a capa en lo que vamos platicando. Igual, si tienen alguna duda o comentario, pues aprovechen que estamos aquí contigo, ¿no? Sí, buenísimo. Listo. Y bueno, pues seguimos seguimos platicando. Mexique,
+
+[Speaker 1 - 00:12:08]
+adelante. No, qué chida la promoción. Gracias, Liz, por por por traerlos. Me habían pasado comentarlo al principio, pero bueno, todavía tienen tiempo. Quedan algunos minutos para que pasen y aprovechen. 10 por 100 cashback, guau, es un chorro. Este, hay que ver cómo se traduce eso de comisión, ese tipo de cambio, ¿no? Haga cada quien subió, no no no nos crean todo. Eso es importante, ¿no?
+
+[Speaker 4 - 00:12:33]
+Yo les estoy también aquí
+
+[Speaker 0 - 00:12:35]
+pineado la promo para que vayan y aprovechen.
+
+[Speaker 3 - 00:12:39]
+Sí, aprovechando, denle like al tweet de capa, los chicos de marketing siempre se lo están rifando, están haciendo cosas muy padres, subiendo reels, subiendo videos, en fin, hacen un excelente trabajo. Ahí por si le quieren dar retweet, darle mencorazona o like, no sé cómo se diga, y, pues, seguirnos también.
+
+[Speaker 1 - 00:13:01]
+Oye, Jonathan, ¿cómo está el tema de las rampas? Platícame un poquito más, ¿no? Ya nos platicaste que es para entrar y salir, pero ahorita tenemos chorro de redes, un chorro de monedas, hay todos los días sacando tokens. ¿Qué podemos utilizar y qué qué plataformas están disponibles para entrar y para salir de de de a pesos, no? En capa. Y y creo que es superimportante darle doble clic a lo que mencionas, donde ustedes nunca tienen control del dinero, ¿no? A diferencia de otros exchanges, donde tienes que dejar o puedes dejar el dinero guardado ahí, aquí haces la transmisión, haces la transferencia, perdón, y automáticamente tienes que poner una wallet donde te va a llegar. Y esa wallet, pues, de preferencia tiene que ser una que tú controles. Podrías poner también la de un exchange, pero, bueno, ya depende de cada quien, ¿no? Sí, platíquenos de las redes. ¿Cómo puede 1 entrar? ¿Con qué redes y con qué tokens?
+
+[Speaker 3 - 00:13:51]
+Va, claro. Sí, mira, regresando al punto más importante que la gente a veces me dice, no, pues, este, no sé, binance, por decir un hombre, que es un sex. No, pues binance y capa son lo mismo. Y, pues, yo digo, bueno, espera, binance y capa no son lo mismo. Binance también funciona como wallet, o en otras palabras, custodian tus fondos. O sea, está bien, pero realmente tú no estás custodiando tus fondos, tú no puedes decidir, ah, los fondos los va a mover a tal Blockchain, o me dio la gana de comprar este NFT 100 por 100 que estaba on chain, o sea, no tienes esa posibilidad, te quitan eso. ¿Por qué? Regresamos a lo mismo, no tienes tus fondos. Pero ya te dijiste algo muy importante, de capa principal. Tú cuando estás haciendo una orden de compra, el término correcto es onramp. En otras palabras, cuando estás comprando criptomonedas con pesos mexicanos, lo que tienes que indicarle a capa es a dónde quieres que nosotros te enviamos la cripto.
+
+[Speaker 3 - 00:15:02]
+Entonces, nosotros lo que hacemos es que te te decimos, ah, ok, tú quieres, no sé, comprar 1000 pesos de USDC en arbitrum. Muy bien, por favor, mediante SPEI, que es, este, transferencias bancarias, envía tus 1000 pesos a esta dirección. Esta dirección es una dirección, pues, una cuenta clave que nosotros te damos. Entonces, tú te metes a tu plataforma de banco que uses, no sé, BBVA, o sea, y tú nos envías los 1000 pesos. En cuanto nosotros vemos que esos 1000 pesos han llegado, nosotros te mandamos la cripto, en este caso USDC, en la red de Arbitrum, en donde tú nos hayas indicado. Hay gente que, pues bueno, decide obtener estos fondos o decide hacer el OnRAMp a binance, a Bitso o a otra, pues no sé, a otra wallet. Eso ya es tu decisión, nosotros simplemente recibimos, te mandamos tu crédito y ya.
+
+[Speaker 3 - 00:16:02]
+Entonces, se elimina ese riesgo latente, ¿no? Como lo que pasó con, bueno, ya sabemos un poco eso, ¿no? Con lo de FTX, que, pues, KPUT desaparecieron los fondos.
+
+[Speaker 1 - 00:16:17]
+Que por cierto, van a empezar a pagar y eso va a ser un relajo, pero sí, tienes razón. Y me encanta hacer doble clic ahí y detallarlo lo más posible, porque creo que es una de las partes más importantes de este ecosistema. Dentro de las ventajas que tenemos de usar cripto y usar Blockchain y de tener el poder y el control de nuestros activos, justamente es eso, que nadie más está intermediario, que nadie más No le tienes que ir a pedir permiso a nadie por hacer un movimiento. Es algo que sí sucede en Bitso, que sí sucede en binance, que sí sucede en esos XC centralizados. Por lo mismo, me encanta, me encanta, me encanta. Por aquí tenemos ya también a Karen que ya subió. Buenas, Karen, bienvenida.
+
+[Speaker 3 - 00:16:53]
+Muy bien. Un saludo. Hola, ¿qué tal?
+
+[Speaker 4 - 00:16:56]
+Buenas tardes. Hola, Jonathan, de nuevo con este este esta iniciativa, que la verdad sí se necesitan bastante en la en la comunidad, porque siempre es un tema para los que andamos muy metidos, pues, bueno, pues, pues, no es secreto. Es que yo ando muy metida también en el ecosistema, enviando, sacando, comprando criptos, vendiendo criptos, haciendo trading, no sé, jugando con cadenas y demás, ¿no? Entonces, qué padre volverte volverte a ver aquí con este nuevo proyecto. Y sobre todo que la gente también entienda un poquito la diferencia entre on y offrams, porque como que ya tenemos muy mentalizados que la única forma de entrar y salir de cripto son son los exchanges y no necesariamente, la verdad es que hay otras formas. Y un on the one of run definitivamente facilita mucho las cosas y no queremos estar como que enviando de aquí para allá. Y sobre todo para los que los que nos encanta estar comprando y vendiendo tokens, bueno, yo tengo una estrategia más pasiva, pero una persona que sí está como que mucho más activa o probando capas o formando airdrops, o no sé, participando en comunidades y demás, pues yo creo que es una opción súper súper interesante.
+
+[Speaker 4 - 00:18:14]
+Entonces la verdad pues encantada de que haya más opciones en el mercado para pues, seguir fomentando la la adopción del usuario quizás no tan técnico, y que vean que entrar y salir de cripto es súper fácil.
+
+[Speaker 1 - 00:18:30]
+Karen y en, perdón, Diana, pero en en en iniciativas como esta, donde cada transacción al usuario le le tiene que pagar un porcentaje, qué bueno que haya competencia, qué bueno que haya muchos servicios, qué bueno que tengamos muchas alternativas. Pero, perdona, échale, Joanna. Sí, ahorita
+
+[Speaker 3 - 00:18:48]
+Sí, ahorita que, bueno, lo que estoy diciendo, justo la competencia siempre es buena. Así nos impulsa a hacer, este, pues mejor nuestra chamba, ¿no? La verdad. Qué bueno que haya más rampas y que, o sea, que todo esto se está avanzando. Ahorita Karen dijo cadenas y se me olvidó mencionar el repertorio de chains que tenemos. En total tenemos, a ver, deja las cuento porque a cada rato agregamos más. Una, 2, 3, 4, 5, 6, 7, 8. Tenemos 8 blockchains integradas de manera nativa con capa. Eso significa que puedes comprar y vender directamente desde estas 8 blockchains. Tenemos a Foligo, Proof of Stake, Bione, arbitrum one, base, base viene durísimo, contienen una agenda grandísima en cuanto a Latam, está muy chingón lo que están haciendo todos. También está optimism, Core Chain. Core es interesante porque lo podemos ver como una EVM que trae como más metido el tema de bitcoin.
+
+[Speaker 3 - 00:19:53]
+Está muy padre, les recomiendo que que lo revisen, ¿no? Obviamente, not financial Advice, pero, pues, bueno.
+
+[Speaker 1 - 00:20:02]
+También está He escuchado mucho ruido de Corey, y se está metiendo muy fuerte en Latinoamérica también. Buen alfa ese de David. Sí, también trae una también trae una agenda bastante interesante.
+
+[Speaker 3 - 00:20:13]
+Y por último, tenemos a Solana, que es la única EVM que, bueno, la la única Blockchain que no es EVM que actualmente tenemos.
+
+[Speaker 1 - 00:20:25]
+No puedes no tener Solana, tengo que decirlo. Sí, sí, sí, sí, pero.
+
+[Speaker 3 - 00:20:28]
+Sí, por eso la la agregamos, porque de hecho, Abraham diciendo de que, hey, metan Solana, metan Solana, y pues ya lo metimos. Estoy refiriendo a Abraham al de digitalizados. Claro está.
+
+[Speaker 1 - 00:20:44]
+Oye, Ana, para entrar, ¿son diferentes que para salir o ya eso? Porque de lo que yo he visto, me tocaba ver en las rapas y no sé cuál es el tema. Pero hay ciertas redes que de plano creo que no conviene usar para salir. Me imagino que por comisiones o por los puentes o por temas técnicos. Pero he visto en diferentes rampas y plataformas como CAPA que no manejan de todo al 100 por 100. ¿Por qué será eso?
+
+[Speaker 3 - 00:21:11]
+Ah caray, mira, en nuestro caso, cualquier token que esté listado vas a poder hacer ya sea ON u Ofram, es decir, con nosotros puedes sufrapear USDC en Polygon, podrás offranpear USDC desde Arbitrum, desde Optimism, desde Solana, no sé, o sea, tenemos esa esa habilidad en rampas que eso que solo te dejan o franpear desde Polygon y solo USDC. En nuestro caso, pues realmente no. Pues si quisieras hasta franpear desde desde if, desde if, no sé, hardve to motinesing, sin problemas.
+
+[Speaker 1 - 00:22:02]
+Excelente, excelente. No, perfecto. Sí, no, creo que es importante tener la posibilidad de entrar y salir con todas las monedas. Y qué chido que lo lo está manejando. Como decíamos, todavía está disponible por ahí la promoción. El de hoy, el día de hoy se termina.
+
+[Speaker 2 - 00:22:16]
+De hecho, tenemos una pregunta. Ay, perdón. Sí, adelante. Tenemos una pregunta relacionado, que si el cashback también se aplica a retiros.
+
+[Speaker 3 - 00:22:25]
+Sí, claro que sí. Sí, exactamente. Entonces, si hacen un off ramp, pues adelante. También les mandamos su cripto, de ahí le estaríamos mandando la cripto con la wallet con la que ustedes nos enviaron la cripto, ¿sabes? Entonces, no sé. Si nos mandas cripto desde tu metamask, pues pues, te vamos a hacer reembolso a tu MetaMask, a esa misma dirección.
+
+[Speaker 2 - 00:22:53]
+Gracias. Bueno, ya quedó solucionada la pregunta. Y, bueno, aprovechando aquí el micrófono, ya que nos compartiste un poco de las chains que actualmente tienen en Kappa, por ahí también, además de hemos escuchado, visto que también están trabajando una API. ¿Nos quieres platicar más acerca de eso?
+
+[Speaker 3 - 00:23:17]
+Sí, claro que sí. Una de las
+
+[Speaker 1 - 00:23:19]
+metas de Kappa
+
+[Speaker 3 - 00:23:20]
+es crear una API o una API que sea altamente competitiva, que las personas, en este caso empresas o cualquier reveloper, puede integrar a su producto. ¿Para qué? Para brindar a los productos que se están construyendo la funcionabilidad de on y offramp. Por decir, no sé, fulanito está haciendo su wallet y está haciendo una wallet Bueno, pues fulanito tiene una wallet muy padre. Pero el problema va a ser cómo es que fulanito va a ser que la gente que no está en cripto utilice esta wallet. Entonces, fulanito tiene de 2. O él crea su propia rampa o su propio método para hacer que gente pueda usar su wallet con cripto, es decir, que la pueda fondear o recurre a personas, a instituciones como nosotros, que tenemos un desarrollo y ya se está utilizando. Entonces, ¿qué es lo que hace fulanito? Pues, obviamente, viene con nosotros, nos dice, oye, me interesa usar tu API. Ah, perfecto, pues, mira, aquí está.
+
+[Speaker 3 - 00:24:22]
+Le damos la API y lo que pasa es que en su wallet va a poder integrar a capa de una manera nativa. ¿Esto qué va a permitir? Que los usuarios de esta wallet de fulanito puedan comprar cripto con pesos mexicanos, o en este caso venderlo. Entonces, por ahí me gusta decir que es como el composability, pero de aplicaciones y tecnologías, porque estás integrando tal wallet con tal rampa. 2 pedazos de software que estaban aislados, pero ahora se están uniendo para hacer un producto mucho más, pues, mucho más eficiente, no más completo.
+
+[Speaker 1 - 00:25:01]
+Oye, Jonah, y en este caso me imagino que obviamente aprovechas los recursos y los clientes, y las personas de de de esas nuevas wallets, ¿no? De esas nuevas aplicaciones para utilizar tu servicio. Finalmente, lo que ustedes necesitan es mucho volumen, compra, venta, porque cada que ustedes tienen un un un una compra, venta, porque cada que ustedes tienen un un un una transacción, obviamente, cobran una comisión. Pero si fuera solo capa, tendrían que entrar a la plataforma de capa y usar el front end, ¿no? La página de Kapppa. En este caso, pueden usar cualquiera que lo integre, ¿no?
+
+[Speaker 3 - 00:25:33]
+Exactamente, exactamente, así es. Ok, ok. Desde el punto de negocio de Kapppa, obviamente nos conviene que 1000000 de wallets nos integren. ¿Por qué? Porque los usuarios de esas wallets nos van a estar utilizando en directo. Y ahora, por la parte de la wallet, digamos que es una wallet, pues, que realmente no tiene por qué estar metiéndote en el lodo intentando hacer una rampa, que ojo, las rampas nacen en México, en lo que es Latam. Son muy complicadas de tener por el tema regulatorio. Hay muchas leyes, hay muchas normas, hay muchas cosas que tienes que acatar al pie del de la letra, porque si no, pues te puedes meter en un lío gigante. Entonces, el que capa esté en México o en República Dominicana no solo le es beneficioso a los usuarios, sino también a otras personas, y con otras personas me refiero a empresas.
+
+[Speaker 3 - 00:26:34]
+Empresas que antes decían, no, pues yo tengo una wallet y quiero entrar al mercado de México. Hace 5 años era imposible hacer eso. Ni modo que le dijeras a Bitso, oye, Bitso, este, ¿me puedes brindar el servicio de On y OfRAM? No, tan loco, yo custodio los fondos de las personas, pero con empresas como CAPA, que estamos haciendo no solo esta rampa, sino también esta API, que es altamente funcional, pues ya vemos a jugadores importantísimos a nivel mundial de cripto que están volteando la mirada a México de República Dominicana y dicen, oye, ya podemos entrar a México. El corredor más grande de de toda ¿Cómo? Pues bueno, utilizamos lápiz de capa.
+
+[Speaker 1 - 00:27:28]
+No, qué chido, qué chido. De acuerdo, de acuerdo. No sé qué opinas tú, Liz, pero estoy totalmente de acuerdo que todas estas oportunidades de de entrar y salir y y mejoras en el sistema ayudan a que otras personas entren, ¿no? Y no nada más usuarios, sino inversionistas y otros proyectos. Sí,
+
+[Speaker 2 - 00:27:44]
+a mí me da mucha curiosidad saber si esta, pues, ya está disponible para cualquier persona que quiera hacer uso de ella, o todavía está en beta, o a partir de cuándo va van a poder usarla. ¿O qué condiciones necesitan?
+
+[Speaker 3 - 00:28:00]
+La API ya está, ya tenemos toda la documentación, ya hay gente que la está usando y hay gente que está jugando con ella. Y, pues, nuestra API realmente es muy generosa, porque no solo te brinda, pues, el servicio de compra y venta, ¿no? Para que tú en tu plataforma, en tu wallet o en tu producto, las 2 funciones. Reitero la función, de onRAMp, cuando tú compras cripto, o de offRAMp, cuando estás vendiendo cripto. Sino que también estamos metiendo la la función del KYC o del KYC, que, pues, en inglés es no your customer, ¿no? O conoce a tu cliente. Entonces, es sencillo, ustedes déjenle toda la chamba pesada a capa. Nosotros, este, validamos tu usuario, vemos quién es, checamos si están negras. Entonces, si es facturero, si no ha pagado sus impuestos en el SAT. Todo eso nosotros, pues, validamos y te cubrimos a ti y cubrimos a todas las personas en el espacio.
+
+[Speaker 3 - 00:29:05]
+Porque, pues, imagínense, no sé que, por decir algo, estás operando con una persona en un mercado, peer to peer, por decir alguno, binance, y resulta que el dinero es manchado o está manchado, que venía, no sé, de un pay sancionador, o que estuvo o tenía que ver con el narco, ¿no? Pues, ahí ya te puede afectar el feed. Entonces, pues bueno, déjale toda esa chamba pesada a capa y a su sistema de cumplimiento que ya viene en la API. Reitero, la API de capa es un producto altamente funcional. En que cubre eso, el KYC, los OnRAMs y los offRAMs. Si hay alguien aquí que esté construyendo algo padre y quiera integrar esta API, la API de capa, pues simplemente mándeme un mensaje o también puede escribir ahí a la página oficial de de capa. Y creo que por ahí hay unos tweets que están pind. Sí, ahí está, mira.
+
+[Speaker 3 - 00:30:05]
+Se encontrará como capa guion bajo fin, en Twitter.
+
+[Speaker 1 - 00:30:13]
+Oye, qué chido, Jonathan. No no no no no que lo menciones porque justo son las dudas que hay por ahí en el ecosistema. Oye, ¿qué pasa? ¿Cómo entra? ¿Cómo es algo? ¿Es legal o no es legal? Capaz se carga de todo. Capaz te asegura que la persona que lo está usando ya pasó un proceso. No sé qué pase si ese proceso, en ese proceso no detectan alguna cuestión y luego sale algún problema. Me imagino que ustedes asumen responsabilidades, no sé, ¿o cómo está?
+
+[Speaker 3 - 00:30:39]
+Sí, en ese caso, sí. ¿Por qué? Porque la cripto y los pesos mexicanos están entrando y saliendo desde nosotros. Entonces, la carga legal y fiscal nosotros la absorbemos. Entonces, de cierta forma, pues, estás escudando, regresando a la wallet de fulanito, pues, estás escudando esta wallet, ¿no? Y a fulanito también. Capaz carga con todo eso. Por eso, o sea, realmente de manera sincera se los digo, si están construyendo alguna aplicación web 3, por decir, una wallet, pues, cada, pues, una una opción viable. No solo protegerte a ti, tu negocio, sino también hacer las cosas bien, no tenerse que preocupar de diseñar un off and desde Y eso, para eso estamos, la verdad. Facilitar todo esto.
+
+[Speaker 1 - 00:31:37]
+Qué chido, qué chido. La neta, aplicaciones siempre como esa, creo que pueden apoyar a muchas iniciativas y muchos proyectos que quieren, y necesitan esa facilidad, ¿no? Al poder entrar y salir es algo fundamental, los negocios a los que queremos sonbordear y a los que podrían llegar a aceptar este tipo de de de productos, ¿no? De divisas, criptoactivos, etcétera, necesitan una manera constante de estarlo pasando a pesos, ¿para qué? Porque sus costos, la gran mayoría, son en pesos. Entonces, pues bueno, que ofrezcan ese servicio completo se me hace muy muy muy atractivo. De nuevo, habría que ver el tema de comisiones. Yo siempre estoy en contra de de de los que se lleven una comisión por todo. Pero bueno, pues es parte del negocio, ¿no? Es eso, hay que hay que ser
+
+[Speaker 3 - 00:32:22]
+larga. Sí, es parte. Pero
+
+[Speaker 1 - 00:32:24]
+bueno, ¿cómo cómo crees que eso ayude? Ya lo mencionaste, pero quisiera hacer otra vez doble clic en el tema del API. ¿Cómo crees que eso ayude a la gente en salir de entrada? O sea, ya que se integra, ya ustedes se encargan de todo. Ellos no se tienen que preocupar más que por vender, ¿no? O sea, que creo que todos los que están por ahí haciendo tanto revolú y revolújo, deberían de ser, pónganse a vender, canijo.
+
+[Speaker 3 - 00:32:49]
+Sí, pues, mira, hablando desde el tema de recursos humanos, nosotros empleamos nuestros recursos humanos, nuestras personas, nuestros developers, en hacer que la rampa funcione y que funcione bien. En este caso, si tu empresa es chica o apenas está empezando, pues no va a ser inteligente que los recursos humanos de tu empresa estén enfocados en en otra cosa que no sea, no sé, digamos, levantar dinero o vender tu producto, porque, pues, entonces, estás frito. Entonces, visto también desde ese punto de vista, pues, sí, o sea, digamos, simplemente integras nuestra API a tu aplicación, Realmente es muy sencilla, a lo mucho te va a tomar una semana. Entonces, pues bueno, le dedicas esta semana a la integración de la API a tu aplicación, ya está lista, ya se solucionó y tienes todo el tiempo que quieras, pues para ir varios, levantar inversión, ver más qué puedes hacer.
+
+[Speaker 3 - 00:33:54]
+Entonces, pues sí, o sea, cerramos tiempo, dinero, recursos, todo.
+
+[Speaker 1 - 00:34:02]
+No, qué chido, qué chido. Yo lo he usado, tengo que aceptarlo, lo he usado varias veces, me gusta mucho la verdad. He usado bandos o capa, he usado todo lo que sale a mí me gusta probarlo y picarle, y en realidad hacerle el cálculo de cuántos clics me estoy ahorrando, cuánto dinero me estoy ahorrando, o cuánto dinero estoy gastando, etcétera. Y y ese mi sistema es muy muy chingona, la neta. Sí, es muy importante, me acuerdo No sé, Liz, me gustaría hablar del billete, hablemos de la lana.
+
+[Speaker 2 - 00:34:28]
+A ver, cuéntanos más acerca de eso, Jonathan. Pasando a otro tema de capa.
+
+[Speaker 1 - 00:34:35]
+Hace un poquito vi un anuncio muy muy duro, muy duro. Levantaron una ronda bien grande YYY también pues empuje de de de de inversionistas fuertes, fuertes. Cuéntanos poquito de ese proceso YYYY de lo que acaban de cerrar hace poco.
+
+[Speaker 3 - 00:34:52]
+Pues sí, mira, cerramos ya lo que es la rumba de inversión, vamos bastante bien. Sí, hemos levantado un monto considerable, no lo voy a mencionar, pero pues bueno, ahí está todo nuestro Twitter y LinkedIn. Pues nada, realmente es el reflejo de que estamos como que realmente tanto personas como empresas están necesitando. Lo padre de este mundo es que cuando tú cubres una necesidad, personas te buscan, personas te encuentran y personas te empiezan a utilizar. Entonces, el crear un producto como capa, que es satificable y puedes automatizar muchas cosas, pues ha llamado mucho la atención. Ya sea de usuarios, de empresas, en este caso, pues inversionistas. La verdad que son muy grande de las 19 personas que estamos acá en capa, y pues sí, es estar enfocado, ayudar en lo que se pueda y seguir construyendo. Y digo, la verdad, muchas gracias a toda la comunidad, todas las personas que utilizan capa, todas las personas que siempre nos dan feedback, no sé si por ahí esté Giestro, pero el buen Giestro, pues, nos ha dado un montón de feedback y está en un lugar especial de nuestro corazón.
+
+[Speaker 3 - 00:36:09]
+Igual Abraham, que aquí está el el Abraham, la buena persona que nos impulsó a meter, Solana. Saludo, Abraham.
+
+[Speaker 2 - 00:36:21]
+Ah, un saludito, bueno, Abraham, a todos. Sí. Oye, 19 personas en el equipo. Qué interesante, creo que eso habla definitivamente del crecimiento que han tenido. ¿Quieres compartirnos más acerca de, pues, justo como esta parte de equipo que han hecho, cómo han crecido, hacia dónde esta expansión que puedan tener, la visión hacia la plataforma? Y cuéntanos para conocer más acerca,
+
+[Speaker 3 - 00:36:48]
+puedo decir con, o sea, te puedo responder eso contándote un poco también como de la historia, de cómo yo entré a capa. Entré a capa hace un año, de hecho, el 23 de febrero.
+
+[Speaker 1 - 00:37:27]
+Creo que lo perdimos, creo que se nos cayó o fue yo.
+
+[Speaker 2 - 00:37:31]
+Sí, pensé que era yo, ya andaba ahí cambiando toda de redes y demás, pero no, creo que fue Jonathan el que se cayó.
+
+[Speaker 1 - 00:37:41]
+Bueno, mientras lo lo lo. Voy, creo que es una venda, cayó. No, ya. Está probando. Sí, caí ya. Ahí está, creo que sí. Hola, hola. Jonathan, ¿nos escuchas? Y mientras se conecta, les puedo mandar o decir, perdón, mencionar algunos de los inversionistas y ángeles que tiene por por ahí capa. No voy a mencionar el nombre porque, digo, lo monto porque no lo quiso mencionar Jonathan, pero ahí lo pueden ir a ver en el tuit de capa, pero better to mort ventures, Morgan Creek, Capital Bus, DC, Outline, Ventures, Alter, Reverty, su apoyo de Starnet, Mantholy Circle, con Ángeles de Coinbase, Ripple y Polygon Labs. Wow, que lo Ah, ya la tenemos para acá, mi buen Jona. ¿Qué onda, Diana? Ahí estaba mencionando la la banda que los está apoyando. Hey, gracias. ¿Ya me escuchan?
+
+[Speaker 2 - 00:38:29]
+Listo, ya te tenemos otra vez por aquí. De pronto, no te caíste. Nos ibas a contar la historia que te uniste, justamente, hace un año, y ya ahí te perdimos.
+
+[Speaker 1 - 00:38:52]
+Sigo sin escucharlo.
+
+[Speaker 2 - 00:38:55]
+Creo que una vez se cayó. Ahí ya parece como conectando de nuevo.
+
+[Speaker 1 - 00:39:02]
+Yo les puedo platicar un poquito de la historia de lo que yo conozco, yo yo yo afortunadamente, bueno, sí, afortunadamente, tengo que aceptarlo, es buena onda, es buena onda. Pero conocí a Juandi, el el el CEO, el líder, cuando lanzaron Alcancía, ¿no? En ese entonces se llamaba el emprendimiento, que ellos tenían Alcancía, han pivoteado y han cambiado de de de servicio y de producto. Él es dominicano, pero estudió muchos años en Monterrey y asistía, y asiste todavía a muchos de las reuniones que hacíamos y que hacemos nosotros acá en Monterrey. Me ha tocado, he podido platicar mucho con él, la verdad. Siento que es 1 de los fundadores YYY líderes de proyectos que que más enfocados está en lo que están haciendo y que tiene una apertura así bien y en lo que la neta bullish bullish en todo el equipo y un saludito para ir a Juandy que prestaba. Creo que ya está de regreso. Ya me, sí.
+
+[Speaker 3 - 00:39:53]
+¿Y qué onda? ¿Me escuchan?
+
+[Speaker 2 - 00:39:55]
+Sí, te escuchamos.
+
+[Speaker 3 - 00:39:57]
+Qué horror cuando las cosas no funcionan como deberían. Pero bueno. ¿Sí me escuchan, verdad? Sí, te escuchamos. Ah, muy bien. Sí, pues mira, estaba comentando que yo justo entré hace un año, entré el 24 de febrero a trabajar del año pasado, y pues sí éramos un equipo relativamente chico. ¿No? Como de 10 personas. Y poco a poco, pues, conforme vas creciendo y vas expandiendo y vas creando más funcionabilidad en tu en tu, pues, producto, no puedes dar abasto a a tantas áreas, a tantos departamentos, porque es inevitable que mientras más crezca tu empresa, ni modo que no vayas contratando a más personas, hay otras cosas que se tienen que ir haciendo, necesitas más manos, necesitas hasta más cerebros para enfocarse en ciertos problemas. Entonces, pues sí, eso es lo que ha llevado a capa a contratar a más personas, crecimos en en el departamento de marketing, crecimos en el departamento de operaciones, crecimos también en el departamento que, desde mi punto de vista, es el más importante en todas las rampas, que es el de cumplimiento el de compliance y sí sí hemos crecido bastante por cierto Mexi muchas gracias por comentar a lo de los inversionistas por ahí sí te pude escuchar pero estaba hablando y no pues, X me me rugió.
+
+[Speaker 3 - 00:41:20]
+Entonces, no pude hacer nada.
+
+[Speaker 1 - 00:41:26]
+No, no, no mencioné el monto. Pero, bueno, ahí está, ahí está para que lo vayan y lo investiguen. La neta, bulish, bulish, y qué chido, qué chido ver ese nivel de inversión, esas entidades apoyando proyectos que salen de aquí de Latinoamérica. Podría decir que de Monterrey, pero bueno, me me patearía aquel güey porque este es de es de dominicano, pero acá acá estudió, acá estudió. Pero no, qué chido, qué chido, Johana. Cuéntanos un poquito de ese proceso, ¿no? De levantar ese capital y y qué es lo que sí, qué van a hacer con toda esa lana que juntaron.
+
+[Speaker 3 - 00:42:01]
+Pues mira, el proceso realmente es estar todo el día enfocado, hacer lo que se está diciendo en la empresa que se tiene que hacer. O sea, es muy sencillo, simplemente seguir haciendo lo que estás haciendo, aunque a veces se vuelve un poco cansado, no, tú sigue haciendo lo que te toca, apoya donde puedas apoyar. Y si Juan Diego dice, hey, hay que hacer esto, pues va a entrar. Y ahí vamos todo el equipo detrás de, pues, de esta creencia que tenemos, ¿no? Y es algo muy padre cuando todos están enfocados y, literal, de que pueden ser las 3 am, y le puedo marcar en alguien del equipo y contesta. Y hey, ¿dónde hay que solucionar eso? Ah, ok, va, va, venga, hacemos un meet y ya queda solucionado en menos de 2 horas. Entonces, pues es algo muy padre, creo que es el esfuerzo de todos. Y en cuanto Creo que ahorita es fortalecer las posiciones que tenemos, tanto en República Dominicana como en México, y pues, ya veremos.
+
+[Speaker 3 - 00:43:08]
+¿No? Si nos podemos expandir a otro a otro.
+
+[Speaker 2 - 00:43:21]
+Ay, creo que otra vez
+
+[Speaker 1 - 00:43:25]
+Sí, hoy nos está jugando medio raro el x, pero yo alcancé a escuchar hasta lo último, mencionó que querían expandirse, que seguir contratando por ahí, un un comentario, se nos cayó otra vez. Pero el Inter, el Inter que maneja la cuenta de capa, 10 de 10. No sé quién sea. Estoy escuchando. Le mando un saludito. 10 de 10, muy buenos los chistes y los verdes, ¿cómo no? Ahí está Jonathan, ¿no? Eres tú, Jonathan, ¿tú eres el Inter que maneja la cuenta o ¿no? Y se nos cayó otra vez. Mi show. Ahorita lo lo volvemos a subir. Karen, ¿tú qué opinas? ¿Has usado capa? Listo, ¿ustedes lo han usado?
+
+[Speaker 4 - 00:44:06]
+No, mea culpa. No lo no lo he usado. Pero sí debo hacerlo, porque la verdad siento que es bueno que como que chequeamos otros protocolos, otras iniciativas, otros proyectos. Lo que sí usé un montón fue, bueno, antes de capa, eso sí lo usaba un montón y cuando salió del mercado yo casi lloro porque la verdad no me no me gustó que se fuera esta opción tan práctica para, pues, poder hacer un random of ranp. Y al día de hoy, definitivamente creo que sí la usaría, sobre todo para tener otras opciones. La verdad es que siempre he sido mucho de usar exchanges, pero creo que ya es un poco a poco ir dejando los exchanges y usar mejor, bueno, opinión personal, tal vez más un RAM o RAM, porque son más fáciles y más sencillas. Pero bueno, la verdad es que siempre es grato tener todas estas opciones y posibilidades y demás para que el ecosistema mexicano siga creciendo. Bueno, al final del día todos estamos aquí por eso, ¿no?
+
+[Speaker 4 - 00:45:09]
+Para que el ecosistema mexicano siga siga creciendo y que se vea que desde México, pues, hay iniciativas muy padres y muy ingeniosas que definitivamente, pues, favorecen y fomentan la la adopción de cripto.
+
+[Speaker 1 - 00:45:28]
+Jona, ya tenemos de regreso, yo creo que sí.
+
+[Speaker 3 - 00:45:32]
+Ojalá. No sé, ¿me escuchan?
+
+[Speaker 1 - 00:45:34]
+Sí. Sí. Te preguntaba que, te preguntaba que si si quieres el intren de de la cuenta de acá, porque 10 de 10, 10 de 10.
+
+[Speaker 3 - 00:45:44]
+Es el equipo de marketing, la verdad se la rifan. Vean qué onda con Nexy, qué onda con Internet y con mis datos. Ya no voy a usar Telcel, me voy a cambiar AT y T otra cosa. O sea, fatal. Qué pena, la verdad. Una disculpa a todos.
+
+[Speaker 2 - 00:45:58]
+No, no te preocupes. De hecho, desde hace unos space pasados, también hemos tenido temas ahí con Zoho, luego de pronto se baja y sube. Entonces, hemos pensado seriamente pasarnos otro stream jar o algo por el estilo. Entonces, no eres único desafortunadamente.
+
+[Speaker 3 - 00:46:17]
+¿Verdad? Qué triste, pero sí.
+
+[Speaker 2 - 00:46:19]
+No, pero al contrario. Muchas gracias porque a pesar de los problemas técnicos, aquí andamos.
+
+[Speaker 3 - 00:46:25]
+Sí. Moviéndome en lugares de la casa donde hay más más Internet, ahorita estoy pegado al módem, a ver si sí ya, pues, me escuchan bien, sin sin broncas. Pero, bueno. Este, bueno, creo que hay gente nueva, así que les comento, ahorita hay cashback en capa para que compren cripto o vendan cripto. 10 por 100 de cashback para personas nuevas y 5 por 100 de cashback para personas que ya tiene en cuenta. Aprovéchenlo, aprovéchenlo, que se acaba hoy a las 12 pm, bueno, 12 am, a medianoche, Ciudad de México. Por si nunca han usado capa, pues Es el momento. Es el momento, hoy.
+
+[Speaker 1 - 00:47:12]
+Oye, ando aprovechando a dar unos avisos. No, perdón, perdón, el aire interrumpida a a Liz, pero sí, no, quería aprovechar también para dar un aviso. Acabamos de piñar acá arriba y dejar como comentario el link para que puedan ir a reclamar su coleccionable digital gratuito totalmente de un log protocol. Por ahí está el diseño del flyer que posteamos el día de hoy. Todos esos estamos sacando los coleccionables estos espacios y la idea es que en el futuro tengan no prometemos nada, pero tengan algo de beneficios para los que lo tengan. Por ahí vamos a empezar ya a hacer mucho más ruido con el evento que viene el próximo agosto, septiembre, por ahí, Q3. Y, pues, bueno, estén al pendiente, estén al pendiente. Reclámenlo, está aquí arriba ya pineado en el jumbo Trump. Pero, pues, bueno, vamos a ir cerrando. Jona, muchísimas gracias. ¿Algo adicional que se nos haya pasado preguntar o comentar o que quieras platicar? Aparte, obviamente, de la promoción que por ahí tenemos. Pues, comentó
+
+[Speaker 4 - 00:48:09]
+lo
+
+[Speaker 3 - 00:48:10]
+lo más necesario, lo más esencial. Bueno, pues también hay otra promo. ¿No? Es de San Valentín, por si tienen a una enamorada en Ciudad de México y compran alrededor de 150 dólares en valor, pues podrían obtener el derecho de un ramo de flores que capa, pues vas ponsoriar, Ahí por si quieren revisar eso. Y, pues, nada, si tienen alguna duda, comentario, sugerencia, queja, pues, yo creo que ahorita podrían levantar la mano y aquí les respondo. Con mucho gusto.
+
+[Speaker 2 - 00:48:52]
+Muchas gracias, Jonathan. Igual si nos quieres compartir en las redes de capa,
+
+[Speaker 4 - 00:48:59]
+su página web, o
+
+[Speaker 2 - 00:49:01]
+en dónde los podemos encontrar, si de pronto al momento de estarlo usando alguien tiene alguna duda, ¿cómo nos podemos acercar a ustedes? Muy bien. Mira, realmente, nos encuentran
+
+[Speaker 3 - 00:49:12]
+como capa CAPA punto fi, eso es para ir a la la landing, a la página. Y, pues, en cuanto a las comunicaciones es es muy sencillo. Yo estoy en varios grupos de Telegram, cualquier cosa me pueden mandar mensaje. Estoy como Jonathan guion bajo Herrera, con 2 a al final, sí, sencillo. Reitero, me encuentran en muchos grupos. Estoy en el Tedrano México, Crypto Puebla, Crypto Baja, entre otros.
+
+[Speaker 1 - 00:49:42]
+Platícanos de cripto Baja. ¿Cómo está la comunidad para allá? Si quieres. Mira, voy a estar por allá y hay que armar algo, hay que armarlo cuando vaya para allá. Sí, ok. Ahora, ¿qué criptobaja es? Ajeno a CAFA, es una comunidad que anda armando
+
+[Speaker 3 - 00:49:55]
+aquí en Baja California. Yo soy de Ensenada y pues en el norte de hasta acá del norte que está lejos, o sea, Baja California, pues siempre fue muy complicado encontrar a otras personas para hablar de cripto. Y justo en este edificio en México pasado que fue en en Mérida, pues estaba hablando con Jorge Maggie. Me dijo, pues güey, lánzate, ya lánzate, ya haz la comunidad que estás esperando. Y yo dije, no, pues Simón. Y regresé con toda la emoción, regresé con todo el punch y pues empecé de esta comunidad, se llama Quito Baja. Ahí anda. Hay gente de Tecate, gente de Mexicali, gente de Ensenada, gente de Tijuana, y, pues, está muy chingón, porque varias veces de que decimos, hey, pues, hay que juntarnos hasta el jueves, y gente desde Tecate, gente desde Mexicali, gente desde Tijuana viene a las reuniones a Ensenada. Entonces, pues a toda madre eso. Igual ahí, pues esas personas, pues usan capa.
+
+[Speaker 3 - 00:50:57]
+Y siempre les doy el alfa más nuevecito ahí, los que estén en ese grupo.
+
+[Speaker 1 - 00:51:05]
+Bueno, no, qué chido. Me me me encanta ver más comunidades surgir, más proyectos, salir, inspirarse en en en en que hacen otras comunidades. Y definitivamente que aprovechen esas oportunidades de eventos presenciales como los que tienen Méxicos que ya vamos organizado 2, ¿no? Y que estamos ya planeando el siguiente en Monterrey. Qué chido que eso detone comunidad, que detone iniciativas, que detone colaboraciones. Creo que hay un chorro de valor en lo que en lo que hacen todas las comunidades. Y se necesita, se necesita definitivamente. No veo una web 3 en comunidades. No sé qué opinan
+
+[Speaker 2 - 00:51:40]
+ustedes. Sí, 100 por 100. Oye, ya una última pregunta, ¿los vamos a ver? ¿Vamos a ver al equipo de CAPA en Ethereum México 2025?
+
+[Speaker 3 - 00:51:50]
+Yo creo que sí, a varios. Yo voy a estar ahí dando lata, dando carrillas, diciendo puras tonterías, pero ahí me van a ver. Echando desmadre.
+
+[Speaker 2 - 00:52:05]
+Súper. Pues, muchas gracias, Jonathan, igual para ir cerrando el space. Pues, esta conversación surgió a partir de por ahí en el en el canal de Telegram, que justamente dice, ah, pues, yo estoy acá, ya, pues, listo, coordinamos un space. Ya con este, ya es parte de una serie de xpaces que llevamos haciendo y, pues, está increíble que en esta ocasión, tú, capa, se pudo sumar y, pues, esperemos que más proyectos, si están interesados en hablar de su proyecto y de sumarse a las expaces, pues, nos escriban y justamente, pues, vayamos agendando, así como este, tengamos más spaces y más proyectos, pues, los conozcan y más personas sepan de ustedes. Muchas gracias, Jonathan. No sé si quieras terminar con algo.
+
+[Speaker 3 - 00:52:53]
+Gracias a ustedes, muchas gracias a la comunidad de Teroméxico que ha hecho un montón de cosas, ha unido a mucha gente y, pues, ese esfuerzo, la verdad, siempre hay que recordarlo, más ahorita. Estoy muy agradecido con todos, con esta bella comunidad y nada, seguir adelante. Fuera de ahí quiero agradecerte a ti, Melzi, a ti, Liz y a ti Karen y a todos los demás que conozco por aquí. A Ana, Javi, Jorge, Abraham, Richie, Rosa, Yael, Alan, que es de Baja California, Sergio también, que es de Ensenada, Caro Show, que casi no hemos, bueno, realmente nunca hemos hablado, pero tiene un podcast bien chingón con toda la energía de todo el mundo. A Tavo, a Sabo, a Samuel y a Steff. Un saludo a todos. Muchas gracias por su valioso tiempo que me han dado hoy.
+
+[Speaker 1 - 00:53:46]
+No, qué chido, qué chido tenerte para acá.
+
+[Speaker 2 - 00:53:48]
+Mexi, haznos haznos el honor de cerrar el space, por favor, y todo tuyo a los micrófonos.
+
+[Speaker 1 - 00:53:57]
+No, muchísimas gracias. Mi mi temporada por acá en estas spaces se acaba pronto. Por ahí queremos rotar a los holds, queremos que todos participen. Y por aquí, pues, está Liz, está Karen, están también otras chavas y chavos del coar team y de la comunidad de Tiro México que que que nos encantaría por aquí costear y tener. Pero, pues, el día de hoy estuvo muy padre hablar con Jonah, Liz, Karen, y a toda la banda que está acá abajo, muchísimas gracias por su tiempo, lo más importante que tenemos en esta vida. Es nuestro tiempo en que decidan compartirlo con con con nosotros, con un comentario, con un mensaje, con una mentada de más, con lo que quieran, ¿no? Dennos amor, dennos dennos cariño. Aquí estamos para para apoyar la comunidad de México. Muchas gracias a todos los que se conectaron. Nos vemos el próximo lunes.
+
+[Speaker 3 - 00:54:41]
+Gracias, bye. Abrazos a todos.
+
+[Speaker 2 - 00:54:44]
+Bye
+
+[Speaker 3 - 00:54:45]
+bye. Aprovechen el cashback. Chao.

@@ -1,0 +1,245 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #20250113
+Título: 🤖Agentes de IA | Agentcamp
+Fecha: 2025-01-13
+Host: @ethereum_mexico
+Tipo: co-hosted
+
+Descripción:
+Co-hosted Space: 🤖Agentes de IA | Agentcamp
+
+Duración: 00:48:00
+Escuchas: 135
+
+Links:
+  Space: https://x.com/i/spaces/1kvKpbmWOywJE
+  Dashboard: https://spacesdashboard.com/space/1kvKpbmWOywJE/agentes-de-ia-agentcamp
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+
+[Speaker 0 - 00:01:43]
+G engine, banda komana. Ya estapé, creo que sí. Bienvenidos, bienvenidas.
+
+[Speaker 1 - 00:01:54]
+Hola, hola a todos, ¿cómo están? Bienvenida, Money. Mel te manda invitación, pero no sé si te llegó.
+
+[Speaker 0 - 00:02:05]
+Hombre, ya estamos listos acá con los speakers. Ahorita se sube el buen Mel. Muchas gracias a todos los que están conectando, los que están aquí conectados también. Si pueden ayudarnos, siempre se los vamos a pedir, o al menos yo. Likes, comentarios, repost, todo suma, todo suma para llegar a más personas. Tenemos el día de hoy 40 minutos. Vamos a platicar aquí con Money y con Mel. Nada más quiero probar que me escuchen bien. Money, Mel, a Zoho, y a ya ya les escuché. Se escucha muy bien.
+
+[Speaker 1 - 00:02:32]
+Jean, Ian.
+
+[Speaker 2 - 00:02:35]
+GM, ¿cómo están?
+
+[Speaker 0 - 00:02:39]
+Excelente, excelente. Bien emocionados, Jojo. ¿Cómo ves? Ya mero empieza el taller, el primer taller. En una hora va a empezar, así que esta sesión va a durar 40, 45 minutos, yo creo máximo. Pero súper emocionados de aprender todo lo que nos van a enseñar próximamente.
+
+[Speaker 3 - 00:02:58]
+Totalmente, totalmente. Además, ahora sí que abrimos con bombo y platillo este 2025, porque bueno, es nuestro primer space en desde Tirium México, desde la cuenta de Tirium México y contentísima. Es una narrativa que agentes de inteligencia artificial escuchamos mucho finales de 4024 Y bueno, este año se viene bastante prometedor en muchos ámbitos. Así que interesantísimo. Y pues nada, ahora sí que a darle, que esto es mole de olla.
+
+[Speaker 0 - 00:03:30]
+No, yo la verdad desde que salió ChatGPT me me me me voló la cabeza. Y ahorita que estamos viendo ya la integración de este tipo de servicios con Blockchain, digo, madres. Todo lo que ha salido últimamente y lo que vamos a aprender, digo. Qué loco. Y sí, definitivamente la atención de muchas personas está ahí. Y también hay mucha lana, por lo que he visto. No sé qué opinan por aquí nuestros invitados. Pero Money, Mel, bienvenidos. Si gustan presentarse rápido y convigarnos un poquito de ustedes y empezamos allá en el tema.
+
+[Speaker 1 - 00:04:08]
+Bueno, vemos aquí a Email. Aquí Mónica Tolón de Tito conexión, trabajando ahora sí que muy cercanamente nuestros amigos de con nuestros amigos del frutero, con Mel para traerles todo lo que tiene que ver con agentes. Estamos muy entusiasmados de que este va a ser hoy comienza el primer court, va a ser la clase inaugural. Además tenemos una súper speakers, es esta Frida, que es una experta en y ha aprendido muchísimo de ella. Entonces me da mucho gusto que que pueda darnos esta primera clase. Y claro, vamos a aprender mucho con Mel Mel, ahora ya se ha hecho un experto y que nos está ayudando a todos a entrar a este mundo de la inteligencia artificial. Además tenemos varios recursos, ahorita los comparto que hemos creado para para que todos aprendamos juntos, ¿no? Sobre todo lo que tiene que ver con los agentes de IEA, que tienes toda la razón, es una narrativa importante, estamos viendo la fusión de IAY de cripto, estamos viendo que todos los protocolos. Hoy vi que ya genera también sacó un agent kit, entonces todos los blockchains están entrando a 1000 a esto.
+
+[Speaker 1 - 00:05:12]
+Entonces, tenemos que todos prepararnos y ser parte y liderar en esta área también, ¿no? ¿Mel?
+
+[Speaker 2 - 00:05:21]
+Gracias, gracias, chicos. Pues, bueno, primero gracias por las palabras. Money, por supuesto. Igual gracias por por la mención, ¿no? 1 hace lo que puede para estar al tanto hoy en día en en este ecosistema, biotecnología y más el nuestro de on chain, que se mueve tan rápido y la atención puede ser tan fugaz. Pero ahora explorando estos estos nuevos términos a donde nos lleva la tecnología, donde nos lleva la percepción, la atención de los builders, la atención del mercado mismo, por ahí lo mencionó Mexi, pero igual, este, pues es simplemente muy divertido estar por acá. Un pequeñito sobre mí. Soy de esas personas que están acá más por por la curiosidad y la y el querer entender cómo cómo usar estas herramientas y esta tecnología, la mayor del potencial de la para mejorar la humanidad. Entonces, ahora con con AI y on chain o cripto, como le quieran llamar, encontramos un punto de convergencia superinteresante.
+
+[Speaker 2 - 00:06:24]
+Y bueno, ahora sí que por azares del destino no pudimos mantenernos lejos de de esta corriente y ahora estamos con, puedo decirlo, y y algo con lo que quiero que vayan emocionándose, con poco tiempo y muchas ganas y mucha frustración, pero energía también, se puede avanzar rápido, está moviéndose súper rápido todo, estamos muy temprano. Y ya sé, ya sé que decimos eso, y no quiero shilear nada más por shilear, simplemente porque es muy interesante entender cómo nuestra capacidad de construir se acelera, sin querer darle mucho mucho énfasis a a la locura que que seguramente han visto que está pasando con el mercado y demás. Simplemente decir, esto está aquí por algo, y por eso estamos haciendo tanto esfuerzo, Money primero, este, con con, ¿no? Invitándome por ahí a Hackathones y demás, y bueno, ahora estamos tratando de traer esto a tantas personas como sea posible, porque si nosotros estamos emocionados es porque lo vemos con potencial de ayudar a muchas personas, sobre todo en nuestra región.
+
+[Speaker 2 - 00:07:33]
+Acá Latam, donde tenemos problemas únicos y soluciones de mercados o regiones diferentes no aplican, ¿no? Y lo hemos visto n cantidad de veces, así que no queremos que suceda de nuevo.
+
+[Speaker 0 - 00:07:49]
+Ya subió por acá también el buen René. ¿Cómo ando René? ¿Nos escuchas?
+
+[Speaker 4 - 00:07:53]
+Bien, bien, fuerte y claro. Qué pena escuchan ustedes a mí. Perfecto. No, pues gracias por invitarnos, gracias por invitarnos amigos, la neta es que yo soy soy el mocolado aquí, Money y Mel son los que están regresando este pedo, y la neta es que yo sí, este, me pidieron ayuda, y ya sabes que yo siempre estoy dispuesto a colaborar, antes encantado en en ser parte de este gran proyecto que está haciendo, ayudando en en lo que en lo que haga falta, ¿no? La neta es que siempre, no sé, güey, siento que estamos en un momento bien bien bien peculiar para para poder aprender y todos, este, desarrollar cosas que están sucediendo dentro del ecosistema. Y y orgulloso de todo esto que está pasando. Gracias amigos por invitarnos y por ser parte de este gran gran proyecto.
+
+[Speaker 3 - 00:08:39]
+Oigan, yo estoy muy emocionada porque como como comentaba, o sea creo que estamos literal empezando con bombo y platillo este año. O sea, se ahora sí que como decimos acá se vienen cositas. O sea, siento que este año va a estar demasiado bueno. O sea, creo que literal es va a ser un buen año para todos los que hemos estado aquí construyendo y hemos estado picando piedra. Y justamente eso, ¿no? O sea, los agentes de inteligencia artificial, o sea, vienen a abrir como esta brecha y algo que comentaba Mel, o sea, solucionar muchas cosas. Porque al final, ¿qué más quisiéramos? ¿Qué ser 4 mails, o ser cincos ojos, pero, pues, bueno, los los agentes de inteligencia artificial vienen a ayudarnos a a eso, ¿No? O sea, que hayan más personitas virtuales haciendo programas, tomando decisiones, interactuando, tomando cosillas y haciéndolas ejecutándolas en tiempo récord, ¿no? Entonces, creo que es una narrativa muy interesante en muchos aspectos para mí. La verdad me me gusta mucho este tema. Y no sé, Mexi, ¿qué piensas que ya empezamos? Porque al final tenemos ya 30 minutos nada más y, pues, bueno, mucha tele de donde cortar, pero me gustaría mucho que que bueno, nos dijeran qué onda, o sea, qué onda con con los agentes de inteligencia artificial, muy brevemente, no no quiero que empiecen así como de desde 1510 el primer agente, o sea, no, pero como que muy por encimita de de de qué es, ¿no?
+
+[Speaker 3 - 00:10:00]
+Porque al final creo que también a veces a esos spaces entran personas que no saben del todo o han escuchado como que por por encimita que es un agente de inteligencia artificial. Y ahora sí que si tenemos aquí a la mata de de los que nos pueden desmenuzar esto muy bien, sería muy interesante saber desde su perspectiva qué qué es todo esto y hasta qué se puede lograr, ¿no? O sea digo, y en este momento porque creo que hay cosas que no nos imaginamos que podemos lograr con agentes de inteligencia artificial. Pero Mexi no sé, ¿tú tú qué piensas?
+
+[Speaker 0 - 00:10:34]
+Sí, definitivo. Creo que esta aplicación de la inteligencia artificial puede ayudar a mejorar muchísimo la posibilidad de que muchas personas utilicen la tecnología Blockchain, sin todas las complicaciones técnicas. Al menos así lo lo lo lo lo estoy viendo yo. Pero no sé qué opine René, Mel, Money, Money, ¿qué opinas tú? Y y sé que esto tiene una historia ya de muchos años, de décadas, ¿no? La inteligencia artificial no es reciente. Pero ahorita es cuando ya estamos abriendo, creo yo, a las aplicaciones que que que, no sé, o sea, un chat GPT. Y ahorita lo que está saliendo para los agentes en en en las redes, no sé qué opinan ustedes. Pero pero pues sí, ya tiene un rato de historia, no es nuevo.
+
+[Speaker 1 - 00:11:17]
+Sí, totalmente. Mira, es que de los cincuentas o antes de eso nace la inteligencia artificial. Pero poco a poco hemos visto Se vio poco a poco la evolución en que fue en el 20 23 cuando nace ChatGPT. Es cuando ya nosotros podemos empezar a interactuar directamente para hacer cositas, ¿no? Porque ya habíamos interactuado si usas CD, si usas Alexa, ya interactuabas con inteligencia artificial, pero ¿esto cómo lo llevó al al siguiente nivel? Es la primera vez que una tecnología llega directamente a nuestros teléfonos, entonces eso también llevó al rápido, a la rápida adopción, ¿no? De de chat GPT y lo cual también llevó a mucha innovación, pero ojo, te prometo no dar toda la historia de de Ia. Lo que pasa es que ha avanzado todo tan rápido que ahora estamos, ahora sí que nos brincamos a tener agentes autónomos, que sí quiero que que aquí hable un poquito más Mel, porque él lo explica súper bien. Pero yo creo que fuimos de los POPS a a esos agentes de IEA que, como dices, nos van a ayudar muchísimo a hacer cosas.
+
+[Speaker 1 - 00:12:18]
+Hoy una de las plataformas que monitorea a las ballenas que invierten lanzó un bot que está increíble y habla de lo lo que vamos a estar viendo, como dices, ojo. Yo creo que no nos podemos imaginar lo que vamos a ver dentro de un año con todos estos agentes, porque todo se está está evolucionando muy rápido, pero doy un poquito a la historia, pero se la paso a Mel.
+
+[Speaker 0 - 00:12:42]
+Mel decía que todavía estamos temprano, Mel, cuéntame eso, cuéntame de eso.
+
+[Speaker 2 - 00:12:46]
+Sí, y bueno, la verdad, como dicen, yo sí voy a hablar un poquito más como de la parte del valor, ¿no? Quiero quiero que nos enfoquemos menos en la práctica y hablar del del valor y de lo que percibimos. Entonces, seguramente muchos de ustedes ya han utilizado algo de ILA, ¿no? Tanto así que WhatsApp tiene por ahí la función, no sé ni qué hace, pero da miedo, pero ahí la tienen, ¿no? Entonces, muchos de nosotros hemos acostumbrado cada día más a utilizar estas herramientas, los famosos LLMs, modelos de lenguaje largos, que están, tienen la capacidad de procesar texto y entrenados para procesarlo, para entender el lenguaje humano y la parte semántica que no es tan sencilla de entender, ¿no? ¿Qué quiere decir con esto? Si yo le digo a alguien que está chido una canción, bueno, pues está chida para quién, ¿no? ¿Cuál es mi nivel? Si te digo que está súper cool, ¿eso qué significa? O sea, es súper frío, o sea, frío tiene otro tiene otro significado y las máquinas se confundían antes mucho con eso.
+
+[Speaker 2 - 00:13:49]
+Que se crean los LLLMs ya entrenados y podemos ya tener este intercambio donde la idea ya es la entienden mejor las máquinas. Y si nos vamos a código, son niveles de abstracción, ¿no? Cada vez nos entendemos mejor con las máquinas. Antes eran unos sinceros, luego lenguaje ensamblador, luego lenguajes de programación que se parecen más al inglés, y así vamos hasta que ahora ya podemos pasar instrucciones en nuestro lenguaje. Obviamente es difícil y por eso está el prompt engineering, pero al final eso es lo que con lo que estamos interactuando principalmente. Estas, este, máquinas que generan texto, predicen cuál es la siguiente palabra después de la que, la primera que detectaron que sería la más probable, es pura probabilidad. A partir de esto, nace algo como una conciencia, y esa conciencia tú puedes dictarle por texto cómo actuar. O sea, obviamente, tiene sus sus, este, especificaciones. Y así vas trabajando sobre estos principios de de los procesos de lenguaje y procesamientos, y hagan de cuenta que es como un nodo de Blockchain, por ejemplo.
+
+[Speaker 2 - 00:14:56]
+Pero tú, es una sola una sola actividad que haces, le le mandas algo con con chat GPT. Escribes, te regresas, lo escribes, te regresas, pero eso es solo un chatbot o un asistente. Te está dando sí, procesando algo, pero no está haciendo nada sin ti, necesita de tu feedback. Y luego, no sé si les ha pasado, pero, por ejemplo, para las sesiones de del bootcamp, tenemos que hacer contenido y, bueno, pues las ideas las tengo en mi cabeza y y lo he hecho porque estoy trabajando, pues luego tengo yo que pasar guías, ¿no? O sea, o cosas ir detallando los pasos que realicé. Y a partir de esos pasos, yo le yo puedo llegar a un unos slides y un programa y un currículum muy bonito para presentarle a la gente. Pero ¿qué estuvo haciendo estos días con Claude? Porque Claude es el que yo, este, utilizamos más colaborativamente, está rebotando esa esas ideas hasta que logramos un producto, pues nos tomó como un día, ¿no? Repinar y demás. Ahora imaginen que yo pudiera hacer lo mismo y decirle a Club, ¿sabes qué, Club?
+
+[Speaker 2 - 00:15:59]
+Bueno, en este caso, ¿sabes qué? Kukulcán o Connie o cualquier, este, agente que que queramos crear nosotros, es como un, este, pasante. A ver, ten esas ideas. No sé cómo, pero tienes que regresarme un, este, un un readme con todas las lecciones del curso. ¿No? O sea, el programa completo del curso. Ese es tu problema y pasa actualmente. Bueno, ¿qué es lo que hace el el pasante? Pues no sabe, ¿no? Muchas veces los pasantes están aprendiendo y le dicen, ah, chécalo con este, con esta persona. Y va y esa persona le va a dar un input, a lo mejor es el de marketing, diseño, yo que sé, y va cada cono agregando pum pum pum, y de repente regresa el pasante y te entrega a ti lo que pediste, ¿no? Este pasante le cae bien a todos, ejecuta y se asegura que todos salgan sus tareas, y él, este, va y está seguro que no tiene que ir a pedirte más información, porque tú ya leíste lo que necesita y él pueden conseguir lo demás. Esto sería un agente potencialmente. Es alguien que tú le puedes asignar una tarea que está programado para poder evaluar, tomar decisiones de acuerdo a tus instrucciones y decidir con herramientas y contactos, o sea, herramientas, qué hacer siguiente, ¿no?
+
+[Speaker 2 - 00:17:12]
+Ah, me pidieron que cree una, este, una presentación, no tengo imágenes. Ah, tengo la herramienta de generar un, este, un NST o, bueno, generar una imagen con con Dalí. La voy a usar, pum. Ok, pero no sé qué poner de prompt. Bueno, ¿cuál es la idea que me dieron? Ah, aquí tengo al genio generador de prompt para imágenes, se lo pide. Y así son, o sea, viéndolo como un microcosmos, son como si fueran agentitos entre cada 1 de ellos, pero viéndolo más así como como son, son nodos que se conecten entre sí, que cada 1 de ellos ejecuta una tarea o un proceso sobre un input y saca un output y lo va encadenando hasta que queda un producto terminado. Todo esto sin intervención de otro humano y sin, este, intervención humana y aparte autonomía y toma de decisiones, ¿no? Eso es, a lo mejor, la imagen que sale porque nos pasa mucho. ¿Cuántas veces han rebotado la imagen o pedido que ajusten cosas de la imagen? Condalí, seguro 1000. Bueno, eso lo pueden entrenar al al a la gente y la gente va a poder, este, decir, no sabes qué, esa imagen no me gustó, porque ya se ha entrenado así y está entregando algo que no quiere.
+
+[Speaker 2 - 00:18:22]
+Eso suena como mucho y le estamos asignando muchas propiedades humanas que es algo difícil de separar a veces, pero es un agente en en esencia, esos son modelos de lenguaje que están conectados entre sí o o nodos de de ejecución, depende, alimentados o empoderados por un modelo de lenguaje que sí se sabe tomar decisiones porque está programado de tal manera. Obviamente, hay muchas más, este, capas que que explorar en en cada una de estas, pero ese es como a grandes rasgos lo que lo que es un agente y por eso están potencialmente valioso. Una gente que sepa hacer cosas, sí le voy a pagar, ya lo hago, ¿no? Con Replit, te cobra 5 centavos por generar una, este, código y y ponerlo así tal cual en, lo vamos a ver en durante el el bootcamp, van a aprender a hacer esto, o sea, a solo un prompt, 5 centavos de dólar, pero ya tienes una aplicación, no va a estar completa, pues no estás pagando 5 centavos de dólar. Pero sí vas a poder picarle un botón después y desplegarlo.
+
+[Speaker 2 - 00:19:24]
+Y para alguien que nunca ha programado, ese agente es muy valioso. Esa es la intro.
+
+[Speaker 1 - 00:19:35]
+Y saben que, ay, perdón, quería interrumpir tantito, porque yo creo que una de las cosas que me ha encantado colaborar con Mel es que obviamente yo no soy técnica, pero me gusta mucho la parte de contar historias de comunicación y es otra cosa que estamos viendo con los agentes, no es tan importante el el código como el prompt que que mucho viene de cómo creas el el personaje y creas este a este agente. No sé qué opinan o si están siguiendo eso. Sí, René.
+
+[Speaker 4 - 00:20:07]
+Eso es súper interesante porque creo que mucho se había hablado del tema del proppling propling engineering, de cómo justamente MPROM puede cambiar o puede adecuar cualquier cosa que le pidas a una inteligencia artificial en este momento a un agente. Pero es interesante ver la aplicación ahora de justamente estos estos prompt. O sea, antes solo era como, ok, tú le pides algo a un a un a un AI y te lo da, o sea, ya sea en texto, ya sea en imágenes o lo que quieras. Hoy en día, con todos esos parámetros que mencionan ustedes justamente con, digamos, las las diferentes cosas que tú puedes definir a través de este agente, La idea general es crear una persona que te ayude a potencializar las cosas donde tú a lo mejor no eres bueno, o simplemente a hacer el trabajo que tú no quieres hacer. O sea, digamos que hay muchísimas capas de las cosas de la a nivel de ejecución que podrías llegar a hacer o a programar para que este agente te resuelva, ¿no? Entonces, está está interesante justamente y, como lo dice Mel, en en el bootcamps van a aprender muchísimas cosas al respecto y me emociona muchísimo estar igual ahí aprendiendo, ¿no?
+
+[Speaker 2 - 00:21:25]
+¿Que se quedó el el silencio o soy yo?
+
+[Speaker 4 - 00:21:29]
+No, creo que creo que se rugió su ojo, porque su ojo está desactivado el micrófono, pero no la escucho. No sé si me rugué yo. No, creo que es ella. ¿Por qué los 3 no se escuchan? Todos somos yo. Exacto, es que la verdad es que es una prueba, es la primer prueba que hacemos de los ajenos.
+
+[Speaker 1 - 00:21:47]
+Hola, hola, sí, creo que Sojo y Mexi están teniendo problemas.
+
+[Speaker 4 - 00:21:52]
+Se rugearon, no importa. Creo que todos Siempre Twitter. Sí, cripto, se le dan de las suyas. Exacto, Michigan. Dale, Moni.
+
+[Speaker 1 - 00:22:02]
+Ah, no, yo iba a decir que hablando de de espacios, creo que ya empezamos a ver los primeros agentes teniendo participando en sus propios países. Platicaba yo ayer que Eleazar, que tiene su propia cuenta de x, participó en el primer space el viernes. Todos los viernes el el equipo de Eleazarteen sí, sino si no lo siguen de brindar, de seguirlos, pero ellos hacen una un space donde comparten todo lo que han hecho durante la semana y por primera vez tuvieron a Elisa. No lo he escuchado tú, Siman, porque se me hace superinteresante que ahora vamos a tener esa esa parte también. ¿No? Donde van a participar en spaces, van a tener sus propios noticieros, van a dar sus actualizaciones en YouTube.
+
+[Speaker 2 - 00:22:43]
+La verdad no lo he escuchado personalmente. Yo el que me aventé una vez fue 1 medio random que literalmente, caí en el clickbait, y caí en cuenta como hacia los primeros 5 o 6 minutos que hablaban demasiado perfecto y despacito y muy En inglés, sí, pero muy bien, dije, ay, o sea, yo estoy aprendiendo esto y estas personas están hablando superbién, ¿no? Y ya después dije, no, estos son días, son días, y ya me metí a ver el video porque estaba escuchando en YouTube, sin sin video. Dije, no, eso es. Pero sí fue, aun así, me, se lo seguí escuchando porque era muy bueno. O sea, era contenido que hablaba mucho sobre este debate y se ve que le dijeron, a ver, este es el punto a discutir, evalúe en pros y cons, expóngalas de una manera entretenida, Porque todos los puntos como, ah, sí, dices, y después no, no, eso es un, o sea, pero muy bien armado. Entonces, es muy curioso después cómo vamos a poder identificar que si es, no, ya lo habíamos dicho creo que en en varios, es una corriente que lleva rato de cómo vas a ver identificar si algo es hecho por humano o no.
+
+[Speaker 2 - 00:23:53]
+Y, bueno, ahora además que nunca está claro que los agentes ya están llegando a un nivel de de potencial de de ejecución de tareas que está llegando muy cercano a, o sea, a pasar Es por el de Turing, creo que sí ya las pasaron, o sea, si no es que, o sea, ya es es muy difícil identificar a veces y ver cómo vamos, o sea, ahorita está entrenamiento, ahorita estamos, este, pues, muy divertidos todos jugando con tokens de por aquí por allá y y que qué va a decir chat, este, AXBT, la siguiente, o sea, hay hay mucha muchas cosas divertidas, pero no dejemos de de poner el foco en en lo que es verdaderamente importante, que es que generen valor sobre las actividades que realizan los humanos. ¿No? Que podamos utilizarlas más allá de de solamente un mecanismo de de memes y y demás, sino pensar, y por eso hacemos el bootcamp, pensar en cómo podemos resolver problemas que nos agobian, porque sí nos agobian día con día, o sea, tan solo crea, o sea, tus tareas de todos los días son un como un dolorcito en la en la, son una piedrita en el zapato que tienes que sacar, o sea, tienes que a veces, ahora lo que queremos es que no se sientan como eso, y en código, sí puedo decir, ya no se siente así.
+
+[Speaker 2 - 00:25:12]
+Cada vez se siente más agradable construir, porque es más fácil.
+
+[Speaker 0 - 00:25:18]
+Melmoni, creo que ya ando de regreso. Una pregunta, algo mencionaba Mel sobre que estos agentes, pues, obviamente, están especializados y tienen su sus sus obviamente están especializados y tienen su sus sus programaciones y van a resolver estos problemas, como dices. Pero creo que ya lo veníamos viendo. No sé no sé si a lo mejor lo estoy viendo yo mal, pero todas estas versiones que han salido de todos los diferentes LLMs, ¿no? Que si ChatGPT, que si etcétera, poco a poco le han ido agregando módulos. Yo en determinado punto le empecé a pedir en algún punto a, creo que fecha ChatGPT, algo así muy complejo. Le decía, dame detalle, detalle, paso a paso todos los módulos y todo el software que estás utilizando. Y como quieran, va a ir y agarraba una gente de un lado y otro gente, o sea, módulo de un lado y de otro para hacer diferentes cuestiones y luego ya te daba el resultado. Pero ahorita creo, no sé si lo lo lo lo perciba yo igual, pero es algo similar, pero con esos módulos más especializados todavía. Y sí, programados a la medida.
+
+[Speaker 2 - 00:26:23]
+Perdón, cada vez lo hacen mejor, es increíble. Entonces, es una competencia interesante la que está pasando a nivel juego de quién crea el mejor modelo, y cada quien te va a dar una respuesta, es como el sabor del helado, ¿no? No sé si haya 1 bueno o malo, es de gustos. Pero sí es es increíble. O sea, para mí, Cloud ahorita para programar es una chulada. Construir backend es es es hermoso ahora, este, es fácil. Las los las interfaces solo dices házmelo así más o menos y ya es 70 por 100 de lo que quieres, dices, bueno, con eso me siento bien hoy, ya si le quieren ajustar ya mañana en la asamblea, pero es muy diferente. Y no se diga en, o sea, todo lo que tenga que ver qué texto es fabuloso, pero música, este, imágenes, no sé qué tan lejos podemos llegar. ¿No? Por ahí un, conozco a un investigador que está haciendo algo para que tu sus memorias, sus sus memorias, este, fotográficas tengan esencias. No sé, o sea, hay hay cosas muy locas que podemos explorar, porque es un espacio de diseño que como humanos no teníamos antes, ¿no?
+
+[Speaker 2 - 00:27:31]
+O sea, eso es lo que me me llama mucho la atención y podemos hablar de swarms y de hacia dónde vamos, pero justamente ese es lo divertido, o sea, puede ser que la siguiente gran idea sea la locura que están pensando ahorita y que van a crear en en el bootcamp.
+
+[Speaker 0 - 00:27:52]
+Pues, mira, Mónica, pídame.
+
+[Speaker 1 - 00:27:54]
+Sí, mira, yo creo que la diferencia es algo que dijo Mer al principio. No, aquí es que ahorita con chat GPT o con Cloud, lo que uses, tú le tienes que pedir, no, le tienes que dar el promp y decirle qué es lo que quieres con los agentes. Una de las cosas que también es diferente es que los estás conectando a diferentes APIs. Entonces suponte, le puedes decir, yo quiero que tú manejes mi calendario y me des un resumen todos los días de cuáles son las actividades que tengo hoy o que participes en mi en mis llamadas y me des un reporte semanal de todo lo que hice para yo poder mandar ese reporte y a ver. Y ese agente se use como hace las cosas autónomas. Tú empieza, te dice, sabes qué, qué es el reporte, pero además creo que te serviría hacer un Twitter, eh? Un un Twitter three sobre todo lo que hiciste, aquí te lo mando. Entonces como que lo lleva al otro nivel. Mel, tú corrígeme si estoy mal, pero es es más autónomo. Y otra cosa que estamos empezando a ver es que ahora entre agentes se están comunicando Y entonces nadie sabe a qué va a llevar esa comunicación, esa gente, pero es algo que ya también se se está viendo.
+
+[Speaker 1 - 00:29:04]
+Entonces son es más autónomos, no le tienes que dar específicamente siempre el promp y decirle qué es lo que quieres. Tú construyas el personaje, le das el lo, le das la información de qué quieres que se haga y lo puede llevar a nuestro nivel. No sé René que si si lo expliqué bien.
+
+[Speaker 0 - 00:29:24]
+Me da mucho miedo, ya que se empiecen a cotorrear entre ellos y hay muchas historias por ahí, pero bueno, no sé Mel qué opina. Digo, René, perdón, todavía ando malito con él.
+
+[Speaker 4 - 00:29:34]
+Dale, dale, gracias. Sí. Justo creo que el tema de aquí es como el el break, el playground que justamente decía ahorita Mel, no antes no lo teníamos, ahora lo tenemos, y siento que con los agentes es lo único que tienes que hacer, es como darle los parámetros adecuados para que ejecute, ¿no? Aquí lo platicaba Mel en algún otro en algún espacio y les lo justo lo desarrollamos al respecto que tienes que ser muy no explícitos necesariamente, pero sí tienes que definir la personalidad de tu agente, ¿no? Que sabemos que es súper importante para que tu agente sea que es lo que se llama Moneyorita, si es si es autónomo, tiene que tener cierta personalidad, tú definas qué tan si es qué tan carismático no es, qué tipo de características debe tener este este agente, entonces si con base en eso va a a reaccionar y a responder ¿no? Si vemos el ejercicio que que están haciendo Money y Mel con el agente burrito, si nadie nadie conoce de qué va, si ustedes tienen una cuenta de Warpcast, en Warpcast pueden buscar arroba al agente burrito, no estoy seguro si ya está activo también en Twitter ahorita que nos digan, básicamente lo que hace el agente burrito es un, se llama agente burrito porque esta es el agente, el de AI de Nadows Dog Amigos, bueno, es una propuesta que se está llevando a cabo de Nadows Dog Amigos, entonces que la gente, si se dan cuenta, le gusta el reguetón, que eso justamente lo descubrimos, este, interactuando con él.
+
+[Speaker 4 - 00:30:51]
+Y tiene su personal propia, entonces creo que justo parte de esto es definir justo qué tan qué qué tipo de personal que quieres que tenga y qué tantas cosas quieres que haga. Otra cosa que me gustaría que me igual que nos explican y que exploremos es hay dentro del bootcamp hay un un lado como técnico, otro lado non tech, y me gustaría que exploramos ese ese lado, pero antes de llegar ahí, ese es un bootcamp para todos. O sea, quiero que especificar y aclarar que, o sea, si tú eres una persona técnica o no eres una persona técnica, hay espacio para ti. Ahora con el tema de agentes, a lo mejor justo decía ahorita Mel, pues, puta, yo no sé programar, pero ahora ya con un prompt puedo hacer lo básico de programación, si se puede, o sea, ¿van a van a sustituir a los desarrolladores? Por supuesto que no, al contrario, es una herramienta para profesionalizar y para ser mucho más eficiente. Entonces, es un gran momento para poder, si tú no tienes nada de conocimientos en en en programación, es un buen momento para explorar justamente los fundamentos para poder explotar mucho más allá de las herramientas que hoy en día vas a aprender en este bootcamp, ¿no?
+
+[Speaker 4 - 00:31:53]
+Entonces, sí, con el tema hablando del tema de de si no eres no técnico, desde dentro de este lado de crear la personalidad, también es muy importante para poder desarrollar un agente. Entonces, también hay espacio para ti. Me gustaría que exploráramos también este lado, ¿no? Chicos, lo de los el lado como técnico y no técnico, y también que nos platicaran justamente los los premios que hay, que realmente están chingones.
+
+[Speaker 0 - 00:32:18]
+Voy a hacer un breve reset superrápido para invitar a todos a que sigan a los speakers. Por ahí también está arriba pineado el link del space, por si le quieren dar un report. Y el link para que se inscriban empiezan en media hora, a las 5 el día de hoy. Va a estar empezando Melmony, René y el equipo para platicar sobre el curso, agentcam punto XYC, está la página, ahí está el UMA, por favor regístrense, empieza en media hora. Y también, aprovechando, les dejamos por aquí el link al coleccionable digital de un log. Solo tienen media hora para reclamarlo, con su correo, con su nombre y con su wallet pueden obtenerlo de manera gratuita. Habrá realistas o no, quién sabe. Y si no hay 1. Pony, mail, platíquenos un poquito del taller porque ya mero empieza.
+
+[Speaker 1 - 00:33:02]
+Igual, bueno, antes de que continúen, tenemos por aquí una pregunta que dice, ¿qué porcentaje del bootcamp será técnico y qué qué porcentaje no code? Por si nos pueden ayudar respondiendo, por favor.
+
+[Speaker 2 - 00:33:17]
+Sí, sí, en rápido contesto la pregunta. El todas las sesiones van a tener un componente de teoría que es importante que lo, o sea, que lo tomen porque simplemente es valioso. Entonces, la, sobre todo, esta primera, la de hoy, va a ser por otro día, y la del jueves va a ser, en su gran mayoría, mucho de explorar frameworks y herramientas. Entonces, sugiero mucho que que las tomen, y ya después vamos a entrar la siguiente semana más, aparte un poquito más técnica. A pesar de eso, la primera sesión es mucho de psicología y y de cómo piensan los agentes cómo funcionan. Entonces, aunque vamos a entrar a código, vamos a ver repositorio y cosas específicas del framework en el cual nos vamos a centrar, que es el ISA o el ISA. No es no es necesario que que sepan y no hay problema, van a disfrutarlo, les va a servir. Y ya después, inconformíamos avanzando hacia las últimas 2 sesiones, bueno, las últimas 3 que realmente son 2 y el el demo day, que es la última.
+
+[Speaker 2 - 00:34:18]
+Esas ya son un poco más técnicas. Estoy especializado en desarrollo de funcionalidad. Y a pesar de eso, insisto que las primeras, siempre vamos a procurar que la primera parte del del curso o de la sesión sea, pues, de para cualquier persona, ¿no? Sin importar el nivel. Eso sería el el objetivo. Vamos a ver más de teoría, conocimientos, fundamentos, y lo que vamos a intentar hacer. En algunas vamos a ver cosas de cómo es prompt engineering, y creo que esto es valioso para todos, y ya la última media hora, por ejemplo, los últimos 45 minutos, ya entramos a más a código a ver el framework y demás. Entonces, en resumen, es muy probable que los primeros 30, 40 minutos de cada sesión sean buenos para todos, y ya la parte técnica ustedes van a ir viendo conforme avancemos en cada sesión, en qué parte le van a cortar de decir, ok, aquí llega mi punto, a lo mejor voy a escucharlos, pero no estoy entendiendo. No significa que no puedan sacar, este, valor de eso, pero entendemos que puede ser pesado.
+
+[Speaker 4 - 00:35:25]
+Por otro lado, me gustaría aclarar que va existe un un grupo privado de Telegram, donde como en todos los estudiantes van a estar. Entonces, esto va a ser de mucha ayuda porque, la parte que no entiendas, seguramente alguien más de la comunidad va va a poderte ayudar como de, digo, aparte de además de los de los de las personas que van a, justamente, a presentar, ¿no? Pero va a ser muy valioso también esa parte de del feedback que se pueda dar por ahí.
+
+[Speaker 0 - 00:35:50]
+Excelente, excelente. Por aquí se nos cayó su ojo, creo que tiene problemas para regresar. Pero, Moni, platíquenos de de de tu idea, de de de por qué esto y ahorita y y qué puede esperar la gente. Son 3 semanas para ir de 0 a programar ya tu propia gente con con con el equipo de Fluteo y criptoconexión. Qué chido, qué chido. Yo no me voy a perder esta primera horita media hora.
+
+[Speaker 1 - 00:36:14]
+Este, bueno, la verdad es que la idea fue de Mel. Mel fue el que dijo vamos a crear esto 3 semanas de 0 a a tener nuestra gente, se puede hacer. Y yo no, pues vamos, nos unimos. Yo sé que Mel se tiene que bajar porque él tiene que preparar para la sesión. Mel, no sé si quieras decir algo. No fue, pues son de esas cosas que 1 empieza a jugar y a divertirse, y nos pasó con parcaster.
+
+[Speaker 2 - 00:36:42]
+Digo, ya si va a tener éxito, ¿no? La plataforma en sí es otra historia, hacia hacia largo plazo, pero nos seguimos divirtiendo ahí. Entonces, empezamos a jugar con agentes por Oaxaca, me invita a Money y empezamos a a entenderle, ¿no? Me costó mucho trabajo, voy a ser honesto. Y ya que le entendí, dije, ok, eso está padre, empecé yo a a crear mis herramientas, a crear mis agentes, a a usar otras herramientas, a empezar a pagar por por, este, las licencias de Cloud, de ChatGPT para entender dónde está el el valor. Entonces, ya cuando empecé a a generar, a ser más productivo, Para mí era obvio. ¿No? Vienen hack roms, vienen oportunidades. Nosotros tan solo en diciembre participamos en 2 seguidos. No ganamos nada, pero sabíamos que era para aprender. Y ahora es vemos la fiebre, ya estamos al menos un mes adelante de los de ustedes, si si queremos verlo así. ¿No? Donde ya hicimos esa tarea de catch up con o estar al al tanto con con lo que está pasando en el ecosistema, pero, bueno, justo no queremos que nuestras comunidades, nuestra región, nuestros builders se queden atrasados solo porque es un mundo nuevo o es una tecnología nueva, no suele suele suceder.
+
+[Speaker 2 - 00:37:59]
+Entonces, vamos a darlo a todos para que se preparen. Viene el hackathon de iTglobal, termina, que empieza justo cuando termina el el builder, el nuestro, el agent camp. Entonces,
+
+[Speaker 0 - 00:38:12]
+o sea,
+
+[Speaker 2 - 00:38:14]
+no hay excusa para no construir, aunque sea para aprender. Y luego, cuando empiezas a ver lo mucho que avanzas, cuando encuentras tu flow y lo que te sirve a ti, es cuando dices, ¿sabes qué? Eso tiene que ser para todos. O sea, yo estas 2 semanas he podido disfrutar más mis fines de semana, porque estoy tranquilo de que están los tickets, está, o sea, los tickets para la gente que que está trabajando conmigo y a mí me cuesta mucho trabajo delegar, todavía estoy aprendiendo eso. Oye, eso es un una tranquilidad de que no tengo que trabajar ahorita sábado, ya tienes, este, el equipo los tickets si quieren entrar, si no ahí tenemos contenido guardado que pueden rebotar, ya asignamos Como debería funcionar, una maquinita bien aceitada. Y eso a mí me ha costado mucho trabajo a lo largo de mi vida profesional, que no soy ya no soy un retoño. Y ahorita ya es como, wow, ok, así debería de ser. Queremos que ustedes sientan lo mismo, eso es todo.
+
+[Speaker 0 - 00:39:15]
+No, qué chido, qué chido. La neta el el el el taller en 3 semanas, todo el contenido y toda la la el las horas que ustedes ya le dedicaron a entenderlo, a aprenderlo, nos van a ayudar a que la curva de aprendizaje sea mucho más suave. Y yo no me había podido meter, creo que es el momento perfecto para para meterse ya de lleno y el objetivo es Hackathon, ¿no? El Hackathon de Global, qué chingón. No no no no, o sea, la gente que entre al taller, que entre al al workshop va a estar lista ya para poder llegar a ganar algo por allá, me imagino. Ojalá y si no, pues bueno, ahí ahí está el grupo también para apoyarnos.
+
+[Speaker 4 - 00:39:51]
+René Amory hay 2, hay 2, está el de Eight Global y está el de el de Bass. Entonces, hay 2 Hackathons, eso está en puerta, justo con este tema de Agents, entonces, dense.
+
+[Speaker 0 - 00:40:03]
+Excelente. Además, además que hay 2 track dentro del taller, o sea, dentro del taller hay 2 track para poder ganar también. Entonces Platíquenos eso, todavía hay un poquito de tiempo. Si quieren, pues díganos de los tracks, porque porque el taller cuesta. No, no es gratis. Y creo que es importante que la gente que se meta pague y y se comprometa a estar las 3 semanas y aproveche. Pero cuéntame los tracks.
+
+[Speaker 4 - 00:40:28]
+Sí, creo que es importante darle visibilidad. Bueno, Nataly, Money, perdón.
+
+[Speaker 2 - 00:40:33]
+No, iba a decir yo los tracks, este, y ya para para empezar a moverme. Un track técnico, aquí es donde queremos que la gente, pues, los builders pesados, que se animen, no tengan miedo. Nuestro burrito, el primera, la primera entrega fue literalmente solamente un chatbot, ¿no? Pues, es hasta donde llegamos para aprender, pero ahí estamos empezando a hacer, este, funcionalidad de de gobernanza, estamos dándole ahí ya puede, este, en Farcaster, vamos a ir creándole más cosas. Entonces, eso simplemente es el es la primera bola de nieve, porque con muy poco tiempo van a poder, este, sacar. Entonces, queremos que los builders pesados, el track técnico, ahí es donde estamos un poquito más enfocados, hay más premios por porque queremos ver cosas construidas, pero el track no técnico está muy enfocado a la idea a que entreguen alguna herramienta con solo un asistente, o sea, con las interfaces de chat GPT o Cloud, que ustedes lo entrenan para su trabajo, para sus actividades diarias, y a ver qué, o sea, que la gente vote y así va a ser, ¿no?
+
+[Speaker 2 - 00:41:36]
+O sea, es esa idea. Y quién sabe, en una de esas su idea, si es lo suficientemente buena, algún builder diga, ¿sabes qué? Yo quiero, o sea, algún builder, algún desarrollador, alguien que quiera entrar la lista a meterle a los fierros, que pueda, de verdad, construir esa idea y que tengan algo que puedan empaquetar y vender, porque cómo es el el la idea de las de las sesiones es que están alineadas con un tema cada semana. Primera semana sobre la idea. Pues vamos a a pedirles entregable una idea definida de cuál va a ser la, este, la herramienta o agente y que esté validada con la comunidad. O sea, nos digan, no, es que esta va a ser para para mi trabajo porque siempre tenemos que, este, volver a subir la información porque la mete mal el quien sea, por decir algo. Entonces, eso, de ahí, la segunda semana vamos a pedirles pedirles que desarrollen un modelo de negocio o tokenomics de esta de esta idea, puede ser on chain o no, hay 2 trucks para esa parte. On chain con Polygon, este, área libre, Double Cloud, nada más queremos ver como cosas, ay, perdón, en Frutero.
+
+[Speaker 2 - 00:42:41]
+Queremos ver nada más cosas, este, locas que que los agentes hagan, pueden ser sin sin funcionalidad on chain. Y la parte no técnica, este, perdón, la tercera semana ya es como los se quieran verdaderamente ejecutar, ahí es cuando ya tienen que entregar un código, ¿no? Una app, y los no técnicos, pues, ya tienen que entregar una URL donde podamos probar esta herramienta, ¿no? Si están utilizando chat GPT pueden compartir, aunque sea que veamos su conversación y su prompt, y que platiquen, oye, esto yo aprendí esto, y esto es lo importante, así me sirve, o qué me gustaría. Y vamos creciendo este colectivo de ideas y de necesidades, porque tarde o temprano, y es con lo que yo quiero cerrar, este, mi participación porque tengo que moverme a preparar, Tarde o temprano van a llegar al punto donde los agentes van a poder generar por sí mismos esas mejoras de acuerdo a la a la necesidad que tú tengas. Y, bueno, si el agente detecta valor en tus petición para justificar ese cambio. ¿No? Porque vas a poner a trabajar.
+
+[Speaker 2 - 00:43:42]
+Entonces, quién sabe hasta dónde lleguemos para esa autonomía y que tengamos agentes que trabajan por nosotros así, pero no lo descarten. Yo no hubiera pensado decir eso hace un año, y ahorita estoy viendo cómo hacerlo porque me funcionaría mucho.
+
+[Speaker 0 - 00:44:01]
+No, y qué padre que el enfoque sea en resolver problemas del día a día, de las comunidades, de gente, de de los proyectos en los que las banda que se inscriba esté trabajando. Qué chido, muchas gracias, Manuel, por pasar. Sé que te tienes que ir a preparada ya el taller. Inscríbanse, por acá está arriba el link. Y también aprovecho, los invito en el perfil de ETiro México, si no siguen todavía a ETiro México, échenle un follow, vayan al perfil y tienen ahí una página, ahí está ET México punto org. Todavía está en construcción la nueva versión, por ahí vienen noticias interesantes del evento de este año, pero está el link para que entren a nuestro grupo de Telegram. Queremos también que la comunidad en Telegram crezca y que cualquier duda o pregunta del taller y de lo que tengan de que que ver con Ethereum, pues ahí estamos para poderlos ayudar. Moni, René, muchísimas gracias también. No sé si ustedes tengan todavía un poquito más de tiempo, este, igual y nos pueden platicar un poquito más del taller. O podemos ir cerrando como ustedes estén, porque sabemos que ya empieza pronto.
+
+[Speaker 1 - 00:45:00]
+Bueno, yo quiero darle las gracias a ET México porque se nos ha pasado mencionar que sí cuesta el curso, pero tenemos muchas becas y parte de las becas las está dando ET México. Les damos las gracias. Entonces la sesión de hoy es abierta para todos. Es necesario pagar ya empezando las sesiones van a ser todos los lunes y jueves a las 5 hora de México, de Ciudad de México. Entonces, este, sí los invitamos a participen en la de hoy. Y de nuevo, tenemos muchas becas. Cuando se registran por el UMA les damos una un forumway, nos dicen si quieren una beca y de ahí vamos a elegir quién va a recibir. Tenemos creo que más de 30 becas y solamente como 9 personas han aplicado. Entonces tomen en cuenta eso, los invitamos. Vamos a mencionar las becas también durante la sesión, pero gracias a CTR México por unirse a esta gran idea de Mel y por apoyarnos tanto. Estamos muy muy agradecidos. Sí,
+
+[Speaker 4 - 00:46:04]
+sin duda para nosotros, perdón, perdón, sí, sin duda para nosotros es un gran gran aliado, un gran partner y y lo están haciendo increíble. Entonces, la antes, digo, agradecerles justamente que se sumaron con con un con bastantes becas, entonces igual share out para ustedes, porque justo van a van a ayudar a la comunidad a tomar este tipo de cursos y a impulsar su su carrera. Porque justo creo que estamos en un momento perfecto si si todavía como que no tienes tu tu camino tan tan definido, o sea estas herramientas te pueden ayudar a potencializar tu camino en web 3, sin duda, porque el día de mañana, o sea, hace en 6 meses, cuando la gente ya esté pidiendo crear sus propios agentes, o sea, las marcas o tú ya vas a saber cómo hacerlo y vas a poder vender ese servicio, ¿no? Tal cual, Esa es la idea también del boot.
+
+[Speaker 0 - 00:46:53]
+Aprovecho para mencionar a los demás que están involucrados. Está presentado el taller por criptoconexión, Frutero Club, Double Club, Polygon y The Community Partners, como decían, estamos con Moetiu México, pero también está WebTwo Family, DAO, Karedow México, perdón, odisea espacio cripto, ETeow México, Crypto Curiosos y BlackFlagDAW. Sí, ¿verdad? Creo que es BlackFlagDAW. Ya no perdí con todos los cambios que, sí, creo que sí. Sí, sí, sí. También también nos quedan 13 minutos para conexión hable digital a Castrega Piñado. No puedo opinar más cosas, no sé por qué. Les quería pinear 1 de los hilos que hace Jorge, que saca por acá abajo, Jorge Byron. Hace resúmenes diarios de todo lo que está sucediendo con el tema de los agentes. Me encanta, la verdad, el contenido. Si si si gustan échenle un follow y denle una visita a su perfil. No lo pudo piña a Kerrila, ni modo. Pero bueno, sé que se tiene que ir. Ah, excelente, muchas gracias, René. René. Yael, se nos cayó su ojo, ya no pudo regresar. Pero, Moni, René, muchísimas gracias. Nos vemos por ahí en unos 12 minutitos. Y encantados de poder tener aquí a proyectos y iniciativas como esa y poderlos apoyar también, con con con las becas, hay que coordinar buen Arielus, que por aquí lo veo ahí abajo.
+
+[Speaker 0 - 00:48:03]
+Saludos al al buen Arielus también.
+
+[Speaker 1 - 00:48:07]
+Pues muchísimas gracias. Nos vemos en 10 minutitos, 12 minutitos. Nos vemos por allá. Muchas gracias a todos. Bye.
+
+[Speaker 0 - 00:48:16]
+Gracias, banda. Nos vemos los lunes a las 4 de la tarde. El próximo lunes a las 4 estaremos por aquí. Y así sucesivamente. Muchísimas gracias, Yael Sojo, a todo el equipo de Tiro México. Y a todos los que se conectaron a escuchar este este live. Neta, muchísimas gracias, a escuchar este este live. Neta, muchísimas gracias. Apreciamos muchísimo el apoyo. Lo más valioso que tenemos es nuestro tiempo, y que decidan pasarlo con nosotros un ratito. Se agradece muchísimo.

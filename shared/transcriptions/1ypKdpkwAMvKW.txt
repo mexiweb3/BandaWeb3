@@ -1,0 +1,263 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #20250120
+Título: 📜 Scroll Open Program
+Fecha: 2025-01-20
+Host: @ethereum_mexico
+Tipo: co-hosted
+
+Descripción:
+Co-hosted Space: 📜 Scroll Open Program. Host: @ethereum_mexico
+
+Duración: 00:55:00
+Escuchas: 67
+
+Links:
+  Space: https://x.com/i/spaces/1ypKdpkwAMvKW
+  Dashboard: https://spacesdashboard.com/space/1ypKdpkwAMvKW/scroll-open-program
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+
+[Speaker 0 - 00:02:25]
+¿Qué onda, qué onda, onda, cómo andan el día de hoy? Bienvenidos. Hola, hola. Buenos días, muy bien.
+
+[Speaker 1 - 00:02:32]
+Mexis, Sojo, Juan, que nos acompañan, bienvenidos, ¿cómo están? Hola.
+
+[Speaker 2 - 00:02:38]
+¿Cómo están?
+
+[Speaker 3 - 00:02:40]
+¿Cómo les va?
+
+[Speaker 4 - 00:02:44]
+Qué loco fin de semana, ¿no? Creo que ya tenemos todos aquí, se escucha muy bien. Acabo de piñar aquí arriba el link al space. Ayúdenos, por favor, a compartir y a dejar su comentario. Si tienen alguna duda o pregunta, el día de hoy va a estar la plática muy interesante. Pero, híjole, no sé, creo que tenemos que iniciar por por el caos, por la locura. Hablar un poquito de lo pasó este fin. Juan, Sojo, Yael, ¿cómo lo vivieron? ¿Qué qué qué qué opinan así de lo que le venga a la lo que les venga a la mente? Se me hace bien loco, pero ¿qué opinan?
+
+[Speaker 2 - 00:03:15]
+Pues mira, cripto Twitter es cripto Twitter. Yo solo eso puedo decir. O sea, nos espera un 2025, desde luego que es superinteresante, o sea, pues bueno, creo que no no hace falta introducción para ninguno de los 2, ni para qué significa Estados Unidos, ni para qué significa, pues, el personaje Donald Trump. ¿No? Entonces, uf, va a estar de verdad que color hormiga este este este comienzo de año y creería o o quiero mostrarme ahora sí que optimista ante esta ante esta cuestión, ¿no? O sea, estuvo bastante raro. Algunos, pues, ahora sí que sacaron palabras Root Pool, cosas así, pero vivimos en un constante experimento, no solamente en Web3, ¿no? En la vida. Entonces, ahora sí que en la guerra, en el amor y en Cristo todo se vale. Entonces, narrativas interesantes, desde luego, por por venir. Así que sentada en primera fila con palomitas, es lo primero que puedo decir.
+
+[Speaker 4 - 00:04:20]
+Ir. ¿Cuál? ¿Tú cómo cómo cómo estuviste este fin? ¿Qué qué cómo te tomó la la la la locura?
+
+[Speaker 3 - 00:04:26]
+Ya te voy a ser 100 por 100 honesto. El fin de semana consistió de mudarme de casa. Así que estuve moviendo cajas, moviendo muebles y encima muy complicado porque tengo, pues, a un bebé de 2 mesecitos. Entonces, ya se imaginan mi esposa con con el bebé y que teníamos que no, y que los pepes y que y que ah, fue fue todo muy complicado mudarnos con con un bebé tan pequeño. Pero sí, la verdad es que no sé hasta hoy por la mañana ya alcancé a meterme por ahí a a Twitter y y ver qué qué onda, pero sí, muchas políticas interesantes de parte de Trump, muchos comentarios que asustan ya estando él en el poder, que a veces por ahí la gente decía, ah, no, solo es para solo es para la campaña política. Ya ya estando ahí, ya ya se le va a bajar.
+
+[Speaker 3 - 00:05:27]
+Pero bueno, arrancó su primer día con con todas las payasadas que que pues hemos escuchado ahí que para nosotros los latinos es un poco complicado, pero a su vez también del lado de cripto, quizás este sea el movimiento agresivo que que que necesita para conseguir ahí un movimiento fuerte en en de cambio en a nivel mundial inclusive. Pero sí, el tiempo dirá, el tiempo
+
+[Speaker 4 - 00:06:00]
+dirá. Sí, si no han estado por ahí pegados, pues bueno, como como comentaba Juan Isojo, ya entró en poder Trump y sacó unas memecoins. La verdad es que movió muchísimo el mercado. Por ahí hay mucho contenido, por si quieren leer sobre sobre sobre lo que pasa. Yo yo sí pienso en las aplicaciones, ¿no? Y en cómo esto nos cambia el panorama, cómo podemos ajustar nuestros objetivos y nuestras metas considerando la nueva información que tenemos. Pero bueno, es un proceso que ahí vamos poco a poco. Pero bueno, metámonos al tema porque tenemos nada más una hora. Juan, muchísimas gracias, Bajo, bienvenidos. La neta me encanta poder platicar con ustedes un poquito de Scroll y el programa que que se está desarrollando. Un disclaimer, tengo que ser un un disclaimer. Soy delegado, soy soy delegado de Scroll y estoy en el proceso de gobernanza y estoy involucrado en todo el tema de de las propuestas que están proponiendo para la DAO. Y la verdad me he metido mucho a aprender. Desde que nació la DAO hace unos meses y estuvieron buscando personas que que que tomaran ese error, pues, levanté la mano.
+
+[Speaker 4 - 00:07:02]
+Ahí hablé con Juan, podemos platicar a lo mejor rato de eso. Pero sí creo que es súper importante el disclaimer, para que sepan que que que, pues bueno, que estoy apoyando a laDAO, que estoy ahí involucrado. Veo por acá abajo Azui, que también es delegada. Don Pepe y Launamu también son delegados, por ahí hay muchos latinos, veo también a iRobs y Tori, que también son delegados, por ahí tienen sus perfiles y están participando también en temas de gobernanza. La neta, la neta me ha gustado mucho, pero si si quiere empezar por ahí, prueba y discléven. Fojo, ¿qué opinas? Este, Juan, ¿qué opinas tú también de todo este proceso? YYY bueno, del programa del que vamos a hablar, porque creo que es súper importante ya empezar a ver los los los acercamientos de la fundación hacia la comunidad, hacia los desarrolladores, y también de la DAO, que es totalmente distinto, ¿no? Eso es luego lo podemos platicar, pero muy padre poderlos tener por acá y también de participar en el programa que ya empieza pronto el 27 de de enero. ¿Vas a participar, Softho? ¿Cómo ves?
+
+[Speaker 2 - 00:08:04]
+Pues mira, yo creo que, repito, creo que estos 1025 está trayendo muchas cosas entre ese entre esta ola de de cosas llega desde luego scroll. O sea, quiere decir llega porque no no es algo nuevo como tal. ¿Verdad? Pero ya empezamos a escucharlo en un nivel latino como mucho más posicionado, y eso la verdad me encanta, me encanta que también seas parte de los delegados, porque al final creo que no se vive de igual forma cuando alguien te lo cuenta, que cuando estás ahora sí que que dentro de la mano, ¿no? Entonces, desde luego que Juan nos tiene que hablar, pero creo que tú también es interesantísimo saber, pues, porque a veces muchas personas se preguntan, oye, pero un delegado. ¿Qué hacen? ¿No? 000 qué cuáles son sus funciones o cómo puedo yo ser delegada. ¿No? O sea, creo que que sería también interesante. Y pues nada, o sea, que que ahora sí que Juan se arranque con todo esto de de de presentarnos un poquito más a scroll y y bueno, de todo lo que está trayendo, que me parece, repito, súper intertre.
+
+[Speaker 3 - 00:09:02]
+Latzi, gracias, chicos. Pues, hey, qué buen preámbulo para abrir. Por ahí desde que desde que lanzó la DAO, bueno, yo literalmente me fui de de de me me fui de que se di de vacaciones, pero me fui a Patereny Leave justo cuando arrancó la DAO, pero antes de irme cabal estábamos hablando de esos esfuerzos de de la representación de las comunidades de todo el mundo. Pero particularmente me gustó mucho ver lo bien posicionado que está en la relación entre Latinoamérica y scroll, y se y se da bola viendo las la representación en la gobernanza de scroll. Mucho, mucho latino dentro de los top delegados de scroll, lo cual indica que, pues, tenemos muchas buenas relaciones en la región.
+
+[Speaker 3 - 00:10:04]
+¿Meáis todavía? Sí, sí, sí, sí.
+
+[Speaker 2 - 00:10:08]
+Ya, ya tenemos de Ya, ya te escuchamos, sí. Ok, sí. Y
+
+[Speaker 3 - 00:10:13]
+y como les decía también, algo importante también muy motivador ver que mucha gente se involucró como primera vez en scroll a través de la gobernanza. Por ejemplo, Kaba recuerdo haber hablado con Tori, donde era su primera experiencia, si no me equivoco, en una gobernanza y tal, lo cual es es es muy cool, ¿no? Que inclusive mucha gente, pues, se vio bordeada a través de esto. Y bueno, algo particular también muy interesante de la gobernanza es que, pues, sí, ya está ya está operando, ya funciona y para nosotros dentro de scroll también ha sido una experiencia de aprendizajes, de cómo convivir en conjunto, ¿verdad? Los programas que vienen de de de Uplobs y los programas que vienen de la gobernanza de la comunidad, por así decirlo, que en este caso, pues, la primer propuesta sigue activa para para votación, así que si tienen powting power, si tienen token si no las han delegado, deléguenselas a alguien en quien confíen para que puedan votar por ustedes.
+
+[Speaker 3 - 00:11:27]
+Y, pues, scroll Open en particular es scroll diciendo de una manera un poco más agresiva este año, queremos verdaderamente conectar más y apoyar más a los founders de del mundo que quieran construir en el ecosistema de Scroll. Y aparte de este mensaje, pues parte del por qué yo he estado compartiendo esta actividad con Latinoamérica muy fuertemente, es porque Scroll vuelve a decir que le apuesta de nuevo a los emergent markets a buscar a hacer las soluciones que van a cambiar nuestra región, a buscar esos founders que van a construir esas esas aplicaciones o soluciones. ¿Verdad? Entonces, puede ser scroll open, si quieren nos nos metemos por ahí un poco más, pero este programa es básicamente un hackea zone un poco más avanzado. Hacka con un un nombre bastante general, pero, pues, la idea de hoy es explicar un poco más a fondo que esta actividad es es es una actividad mucho más avanzada de las que hemos hecho anteriormente, en el sentido de que nos gustaría encontrar a esos founders, a esos toolders que van a construir estas aplicaciones que ya van a revolucionar.
+
+[Speaker 3 - 00:12:49]
+¿No? Entonces, ahora sí estamos en un tema bien bien competitivo. Tenemos más de 400 aplicaciones, si no me equivoco, para entrar a este a este programa que que va a durar más o menos un mes y pico. Y la gran, por ahí está llamativo el tema de que hay un price pool grandecito de 100000 dólares que va a ser repartido entre los mejores proyectos de scroll Open, pero la gran, gran, gran, el gran beneficio de esta actividad es encontrar a esos founders que conectan bien y que se vean muy, muy motivados de construir en el ecosistema de scroll y que estos participen en lo que le estamos llamando el scroll foldership. El scroll foldership es, básicamente, llevar a esos founders a un campus que estamos creando en Malasia, donde van a poder tener la oportunidad de construir esa aplicación que ambicionan que va a cambiar su región de la mano del equipo de scroll en persona.
+
+[Speaker 3 - 00:13:56]
+¿Verdad? Entonces, ese yo creo que tiene un valor muy, muy, muy fuerte. Y si por ahí tienen una idea que quieran explorar al máximo
+
+[Speaker 4 - 00:14:18]
+Creo que lo perdí, ¿me estás? Sí, creo que lo perdí.
+
+[Speaker 3 - 00:14:22]
+Como la ves, me
+
+[Speaker 4 - 00:14:24]
+Ay, ya de repente el último, los últimos 20 segunditos te perdimos, pero escuchamos que premios estaban bien grandes y que empieza el 27
+
+[Speaker 3 - 00:14:34]
+de enero y que nos podemos o que se puede ir la gente a Malasia. Eso se escucha súper súper cool. Sí, bueno, de lo que recalcaba al final era eso, que el valor más más profundo es el tema del fellowship. Scroll fellowship, donde donde más o menos 10 founders de todo el mundo van a poder construir este producto de la mano del equipo de scroll en persona, ¿verdad? Y lanzarlo junto junto al equipo de scroll, que la verdad es una experiencia, yo digo, muy motivadora y muy compleja de poder tener esta oportunidad de construir con con con gente que ha construido un protocolo que realmente, pues, muy importante dentro de nuestro ecosistema. Sea como sea, pues, Scroll ha logrado técnicamente hacer una leer 2 técnicamente muy compleja, muy abierta, ha innovado y demás. Así que imagínate tú hacer tu aplicación de de la mano de de un equipo así.
+
+[Speaker 2 - 00:15:39]
+Óyeme. Es que yo tengo unas preguntas, no sé, tú Digo, yo conozco a Scroll, o sea, bueno, estoy en el ecosistema desde el 2020. Entonces, literal, me me fui así como la tía que vio Scroll nacer, ya sabes. O sea, porque al final, o sea, Scroll es un proyecto bastante bueno, y que también, pues, bueno, sabemos que al final estar basado en CKVM, o sea, es algo que también, pues, ha dado esta escalabilidad para Ethereum y, bueno, todas estas cosas YYY propiedades interesantísimas que que sabemos de scroll, ¿no? Sin embargo, o sea, Juan habla mucho sobre la cuestión de Hackatones y todo esto. Yo estaba en Hackatones, sé que Mexi también está en Hackatones, yo creo que ya él también. O sea, como que varios de aquí del ecosistema ya hemos probado, ahora sí que los los néctares y los jugos de de estas cosas, y llamadas Hackatones. Sin embargo, mi pregunta va muy orientada, sabemos que en Hackatones nacen muy buenas ideas y luego quedan en buenas ideas, ¿no?
+
+[Speaker 2 - 00:16:40]
+O sea, como que no no no dan ese siguiente paso a que, oye, sea el siguiente, no sé, o sea, la siguiente súper empresa o súper startup que nació ese Hackathon, de scroll, por ejemplo, y que se le dio como este follow up, ¿no? O sea, como que nació y vamos a seguirlo inyectando y vamos a hacer que sea, no sé, el siguiente súper startup. Entonces, ustedes en Kroll, ¿cómo, o sea, cómo están manejando esto? O sea, porque realmente creo que este año también se viene mucha narrativa de ya empezar estos proyectos AAA start tapizarlos. No sé si existe esa palabra, pero, bueno, estos proyectos AAA start tapizarlos, no sé si existe esa palabra, pero bueno, la acabo de inventar, y que y que den este este ¿no? O sea, que que ya se empiece a monetizar de todo esto, que tanto nos gusta, que tanto amamos, y que creo que es es es muy válido, ¿no? No sé, ¿tú tú qué piensas, Necci? Le le doy la palabra a Juan.
+
+[Speaker 4 - 00:17:41]
+Sí, me encantaría escuchar a Juan, porque estoy totalmente de acuerdo. O sea, 2025 creo que sí se ha enfocado, o sea, creo que los años anteriores nos enfocamos o algunas comunidades se enfocaron en conocerse, en en crecer, en en encontrar que la gente conectara, pero sí ya definitivamente y a como se ve el mercado, creo que es momento para empezar a sacar esas aplicaciones que resuelvan los problemas, y y muchas de las DAOs y de las fundaciones están enfocando las métricas en ese sentido, y la verdad se me hace muy interesante.
+
+[Speaker 3 - 00:18:11]
+Bueno, les cuento, les cuento y les comento a ver que, a ver si se las vendo bien. Yo llevo más o menos un año y medio en scroll y pues todo este tiempo he estado muy pegado a la al área de comunidad, cómo básicamente conectar con más builders a nivel global. Y, pues, siendo Latinoamérica, el año pasado tuve la oportunidad de poder traer a scroll mucho mucho más cerca de Latinoamérica. Por ahí tuvimos la oportunidad de estar en México, de colaborar con el cine en México, inclusive, en en algunas iniciativas. Y el año pasado, dentro del equipo, lo vimos como un año de de de crear relaciones, de crear nuevas conexiones con las comunidades. Y, pues, tiene un alfa ahí, digamos, explicación de de por qué hacemos las cosas como las hacemos. Y mucho de eso lo hicimos también viendo hacia el futuro de la de la DAO y de la gobernanza, ¿sí?
+
+[Speaker 3 - 00:19:16]
+Queríamos que las comunidades fueran ese pilar, 1 de los pilares dentro de la gobernanza de scroll, por lo que nuestra prioridad fue muy muy de la mano, o por lo menos la prioridad de, mi prioridad fue fue esa, conectar con más comunidades a nivel global. Y en Latinoamérica fue exploratorio, fue un tema de fue el, el realísticamente el primer año que realmente pusimos recursos en Latinoamérica, donde de manera muy orgánica, individual y sin sin ánimo de, no, de colonizar, que entablamos relación con casi todas las comunidades de Latinoamérica, del ecosistema de Ethereum, buscando buscando esas buenas alianzas, esas buenas personas, por ahí, imagínate toda toda la gente muy muy cool que logré conocer en México. Y al igual en todos los países que logramos ir, lo mismo, hubo mucha mucha gente muy buena y nos recibieron con mucho cariño.
+
+[Speaker 3 - 00:20:22]
+Y, pues bueno, eso fue el 2024 para Scroll, crear estas relaciones, etcétera, donde el 2025, de vuelta, ya con un poco más de agresividad, ya tenemos relaciones y contactos con estas comunidades hermosas y bellas en las regiones emergentes. Decirles, ok, ahora sí estamos listos para apoyarles a conseguir esa adopción que tanto estamos buscando, porque, pues, al final eso creo que buscamos iniciando a hacer las comunidades, es es tanto difundir que esto de Zirium nos beneficia, que esto de Zirium tiene beneficios, que etcétera, etcétera. Y este año, pues, ya utilizar todo eso para buscar a esos founders que van a construir esas aplicaciones que van a van a hacer todo lo que le prometemos a la gente que vamos a hacer. Porque mucho, mucho hemos hablado muchos años ya de de Krypto, de Zerium, mi Blide, el real world use que dices y tal.
+
+[Speaker 3 - 00:21:27]
+Pero, bueno, scroll Open es una manera agresiva de decir, ok, queremos identificar a los founders. Y sí, es es muy verídico hacer follow up de los proyectos buenos en en Hangatons es muy difícil, especialmente para proyectos que van creciendo y evolucionando tan rápidamente. Por ejemplo, para scroll, imagínense lanzar tu mainnet, lanzar el token, lanzar gobernanza, todo eso requiere mucho mucho esfuerzo del equipo interno y a veces pues se ven se ven como
+
+[Speaker 4 - 00:22:05]
+hechas
+
+[Speaker 3 - 00:22:06]
+a un lado del resto de las de las cosas que pasan. Así que, pues, este año Scroll Open lanza con con los 2 componentes integrados ya de una vez. El Hackathon para identificar esos proyectos Pleka Founders que que que tienen potencial. Y segundo, scroll followship, que es ese follow up muy intenso. No es un follow up de, ok, vamos a tener una llamada y tal, no. Vamos a ir a un lugar, nos vamos a sentar y vamos a construir ese producto y lo vamos a lanzar. Así que es es, creo yo, el planteamiento que tuvimos es es ese, ¿no? Como ok, vamos a vamos a ser mucho mucho más agresivos este año. Agresivos, pero puntuales, enfocados, maximizando recursos. Scroll realmente no es el competidor más grande o con la tesorería más grande de todas las las layer 2. No obstante, hemos hemos optado por ir por el la ruta de lo orgánico, de lo de lo comunitario y, pues, scroll Open ahora es ese apalancamiento para encontrar a los y sacar esos productos.
+
+[Speaker 3 - 00:23:20]
+¿Se las vendo o no se las vendo? ¿Qué dicen?
+
+[Speaker 4 - 00:23:26]
+A mí me encanta la estrategia que has seguido, te soy sincero. También, disclaimer, ¿no? Viniste a Monterrey, te conocimos, platicamos acá, ha habido Hicimos ya 2 eventos. Yo personalmente, yo debía organizar 1, la CONETI un Monterrey organizó el otro y y sí, definitivamente creo que ha funcionado muy bien la estrategia, ¿no? Consiguieron gente que estuviera involucrada, nos apuntamos varios a ser delegados a la gobernanza y ahorita ya se está viendo en la DAO y en la fundación ejecutar esos planes de ese estudio, me imagino, y de ese acercamiento y ese experimento que hicieron al viajar, al conocer, al organizar los eventos en cada 1 de los sitios. Y qué chido, ¿no? Que ya vemos cómo esa información se va a utilizar ahora en el Open Scroll Program y también cómo la información que estamos por ahí platicando con la DAO se está involucrando ya en en la primera votación, que igual es para hacer investigación. Entonces, la estrategia se me hace muy interesante, y que también primero se investigue el mercado, se investiguen las soluciones, investiguen las métricas para para para ese mercado, y luego se ejecuten los programas.
+
+[Speaker 4 - 00:24:34]
+Ya he visto por aquí abajo conectados algunas personas que sé que ya están en el programa, estoy casi seguro que Air Rootsitory están en el programa. Yo ya me inscribí, ya me llegó mi mi mi aceptación. ¿Qué tiene que hacer la banda para inscribirse? ¿Cómo es el proceso? Y ¿qué le recomiendas para hacer estas semanas y les date participar?
+
+[Speaker 3 - 00:24:55]
+Pues, creo que es muy importante el contexto, ¿verdad? De qué es lo que está buscando Scroll. Y, bueno, para no aburrirlos mucho, para no repetir lo mismo, es es realmente eso, es decir, ¿qué necesita? Yo yo lo pensaría inclusive granulardamente a qué necesita qué necesita México o qué podría brindarle cripto a México. ¿Sí? Y esa aplicación que que pueda solucionar esos problemas, pues esa es una gran propuesta de valor de las que está buscando scroll para poder, para que participen en scroll open. Y y, pues, nada, para inscribirse, fácil, súper fácil, open punto scroll punto eu. Ahí tienen toda la información, recursos, los tracks, la explicación de cómo va a funcionar la actividad, y tienen todavía tiempo para poder inscribirse. Si no me equivoco, a ver, vamos a checar el Twitter. Si hoy no era el último día para inscribirse, estoy casi seguro, ok, sí, está anunciado.
+
+[Speaker 3 - 00:25:57]
+Ok, listo. Hay una ampliación para poder inscribirte hasta el 27 de enero. Así que tenemos tenemos chance ahí para que piensen en qué pueden construir, en qué quieren proponer. Piénsenlo de esta manera, ¿sí? Les mencioné que el valor más grande es ir a este campus con el equipo de scroll y decirle, scroll, esto quiero construir de la mano de scroll para poder empoderar a mi región. Esa es la pregunta que se deben de hacer y qué pueden agregar valor desde desde ahí, ¿no? Entonces, por ahí me parece que ese es el mejor recomendación. 1, y de ahí 2, esta solo es una una de las tantas iniciativas. Por ahí está también el tema de la gobernanza, que a través de la gobernanza también se van a se van a estar proponiendo programas de incentivos y demás, que a través de los delegados esperamos ver propuestas que que que apunten a a esos builders que quizás no entren a esta a este tipo de iniciativas.
+
+[Speaker 3 - 00:27:01]
+Así que ahí también hay trabajo para ti, Mexi, para para Suri, para Tori, que miro por ahí, de a los chicos de Frutero, que también nos miró por ahí, de de crear estas propuestas para poder apoyar a los builders locales que que que todavía ocupan un poco más de empujón, ¿verdad? Entonces, primero participar, motivarse con la pregunta principal de, ok, ¿qué es lo que puedo agregar valor y qué quiero construir con scroll? Y segundo, no desmotivarse, seguir construyendo, acercarse a sus delegados y pedirles, hey, quiero que hagamos esta propuesta en Stroll.
+
+[Speaker 2 - 00:27:45]
+Oye, Juan, súper. ¿Cómo ves? Súper. Adelante, adelante.
+
+[Speaker 4 - 00:27:51]
+No, justo te preguntaba, ¿cómo ves? Porque no sé si ya te inscribiste o no, te late. Yo ya me inscribí. Yo a mí ya ya me aceptaron y y ando buscando equipo. ¿Tú tú cómo lo ves? Fíjate que yo me quiero inscribir, pero es que empecé ahorita con lo del curso de
+
+[Speaker 2 - 00:28:04]
+Ai Agents y todo, entonces, como que ya no me da la vida, o sea, la vida es la que no me está dando. O sea, quiero tener una Zoho gemela que vaya a las otras cosas que no puedo ir, porque porque ya, o sea, son muchas cosas y está comenzando el año, o sea, no me quiero ni imaginar cómo vamos a estar en agosto. Pero me muero de ganas, o sea, voy a voy a checar bien la información, y era lo que le iba a preguntar a Juan. O sea. ¿Cómo es el proceso de selección? O sea, también están fijándose más en ciertos temas, o no importa, están apuntando más inteligencia artificial, a cosas de PIN, a cosas DeFi, a, o sea. ¿Cuál es? O sea, o no hay algún alguna ruta sobre esto.
+
+[Speaker 3 - 00:28:46]
+Bien, pues, sí hay hay 4 tracks de Square Open en específico, orientados en DeFi, orientado en payments, orientado en reward assets, y la última es en Consumer Post Mobile Applications. Estos son como los pilares o las guías que le decimos a la gente, ok, mira, más o menos por aquí puedes ir, pero no obstante, vuelvo y repito, Sprout Open es muy abierto. Si tienen una idea que se sale de esas, por favor, igual participen y y compártanla con el equipo de Scroll. Siempre toda idea es muy válida, pero sí existen esos 4 pilares. Ahora, ahí mismo, entre Open punto scroll punto O pueden encontrar la descripción de estos de estos 4 tracks, los premios que hay designados para cada 1 y además pueden encontrar recursos de cómo de en scroll, otros feeqs, el el calendario, porque algo importante que quizás no mencioné es que durante scroll Open van a haber ciertas lecturas y lecturas no, esa esa no es la traducción correcta.
+
+[Speaker 3 - 00:29:59]
+Lectures serían workshops, charlas y demás de para poder ayudarle a estos founders a a construir este producto en el transcurso de esos 2 meses. Así que no solo es, fíjate que sí, también es importante mencionar eso, que no solo es que vas a ir a competir, sino que si sos un founder primerizo o querés convertirte en un founder más completo, este este programa también te va a ayudar a aprender AAA cómo hacerlo realmente.
+
+[Speaker 4 - 00:30:35]
+No, y creo que es algo que nos falta muchísimos o no. A mí en lo personal que yo vengo de 1 de un de un de una chamba a Godín, 20 años de Godín YYY que me independicé, he batallado mucho. Me imagino para alguien que no tiene una experiencia o que viene empezando, que va saliendo de la universidad, híjole. Sí, definitivamente creo que el ecosistema del emprendedor, del emprendedor, tiene que que agarrar temas web 3. YYY me me parece increíble que lo lo estén haciendo. ¿Tú opinas, Paco? Porque sí, yo creo, ¿no? O sea, la gente no está acostumbrada a emprender. Yo en lo personal he aprendido mucho últimamente, pero pero sí creo que hace falta mucho ayuda. Pues fíjate que yo yo describo esta parte del emprendedurismo.
+
+[Speaker 2 - 00:31:14]
+O sea, yo yo estoy emprendiendo desde hace más de 13 años. Entonces, picar piedra, ahora sí que no no es apto ni para cardíacos ni ni ni para ni para todos. Ojo, yo yo admiro mucho a las personas que que pueden ir a sentarse en la oficina 8 x horas. ¿No? Y hacer pro bonos o cosas así. O sea, de verdad las, es más, hasta envidia siento un poco. O sea, porque mi mi mente tan tan activa, o sea, me gustaría como que, oye, ¿por qué no vas a una oficina y te sientes como todo el mundo y que te paguen y ya? O sea. ¿Por qué? Pero desde luego que aparte de emprender y en Web3, es como 2 por 1, o sea, total y absolutamente. Entonces, sí veo veo total, o sea, este programa muy como fit AAA todo lo que está trayendo Scroll. Y digo, para que quede como muy claro. ¿No? O sea, porque lo que yo entiendo y no no quiero como sobre entender, es que además que es un hackathon en línea de 6 semanas, va enfocado a enseñar toda como estas soft skills sobre cómo ser la oportunidad de poder asistir, como bien decía Juan, al scroll campus, y además de todo, que vas a tener la oportunidad de unirte a al equipo de Malasia.
+
+[Speaker 2 - 00:32:26]
+O sea, esto quiere decir ustedes van a llevar a las personas como ganadoras allá, o a partir de que ya entras al programa ya te llevan a Malasia. ¿O cómo es esta parte? Porque no me queda claro, y pues también creo que sería un buen un buen assette para para motivar más. ¿No?
+
+[Speaker 3 - 00:32:46]
+Sí, cabal. Sí, sería al menos alrededor de 10 founders que van a salir de scroll open. ¿Sí? Entonces, sí, los ganadores y quizás, pues, algún otro que que fuese un honorable mencion, por así decirlo, que que van a ser invitados al scroll followship. A scroll followship, 8 semanas en persona, en vivo, al lado del equipo de scroll, construyendo en Malasia, en Kuala Lumpur, una ciudad hermosa, bella, que que que tiene una comunidad muy vibrante de de Cyrilum también, muy antigua, muy constante. Así que sí, ahí va.
+
+[Speaker 4 - 00:33:31]
+¿Cómo ven? ¿Cómo ven? ¿Quién de aquí ya se inscribió? ¿Quién quién no se ha inscrito? Veo muchas personas que he visto por allá, muchos hackatones, sé que se van a animar. Yo sí creo que hace falta mucha experimentación y mucho apoyo. Y qué chido que lo estemos viendo de de scroll, ¿no? Y sé que por ahí vienen cositas, sé que vienen por ahí un taller, no sé si ya podemos hablar algo de eso, ¿no? Allá ando tirando alfa. Pero Yael, no sé si nos puedas contar. Sé que sé que sé que nosotros también como de Tiro México vamos a hacer ahí algo de de de de trabajo para difundir y para ayudar a la banda que se quieren escribir.
+
+[Speaker 1 - 00:34:13]
+Sí, sí. Bueno, del taller apenas estamos viendo las fechas, pero lo más probable es que sea la próxima semana, pero sí tenemos un taller por ahí programado con con scroll y, pues, ya les estaremos avisando. Y otra duda que igual me surge a mí, bueno, que siempre es mi problema en los hackatones. ¿Cómo podemos encontrar compañeros de equipo en en para este hackathon en especial? Porque eso es lo que siempre a mí me detiene.
+
+[Speaker 3 - 00:34:43]
+Fíjate que cabal hemos habilitado, sabemos que es una como de las grandes problemáticas 000 algo de lo complejo de participar en un hackathon es si tú eres, digamos, más del área de producto y no tienes a un dev o o viceversa, eres un dev, pero no tienes un diseñador o alguien de producto, pues y no, te quedas algo estancado, ¿verdad? En esta ocasión, dentro de Scroll Open, estamos motivando a la gente a que se una a nuestra televisión de Scroll Builders. El link en el cual vas a poder encontrar dentro de open punto scroll punto go, Hay un apartado particular que dice find team, donde puedes charlar con builders y devs de todo el mundo que anden buscando miembros para poder unirse a su equipo, ¿Sí? Así que si eso también les llama la atención, poder compartir quizás con con un deck que esté más avanzado o quieren aprender o o involucrarse con alguien de otra región para poder ver, you know, si la solución que quieren construir aplica en otro lado del mundo y no se han dado cuenta de ello, puede ser una oportunidad por ahí también.
+
+[Speaker 3 - 00:35:55]
+En general, a través del del Teleagramless Club Builders, creo que es una buena oportunidad para encontrar colegas. Sí, y si no, pues, a ver, equipo de México, a ver si hacemos ahí una difusión ahí, una media alianza con también con el equipo de Frutero, que tiene desarrolladores, para para poder unir y crear más grupos que vayan fuerte de parte de México.
+
+[Speaker 2 - 00:36:24]
+Buenísimo, me parece increíble. Porque al final, bueno, yo yo yo hablo así desde mi verdad como Niurka, pero en en el en el Hackathon más grande que estuve, que fue en el de Ethanberg, fue como realmente un dolor de cabeza encontrar a un developer. Entonces, porque obviamente son así como los más cotizados, los que todo el mundo quiere y así como si, ya sabes, entonces creo que sí sí sería superbueno el hecho de, no sé, a lo mejor hasta una hasta una cuestión de hacer un sitio de hacer matching con con teams o algo así, podría surgir, o sea, no sé, idea millonaria para los que entran al Hackathon, podrían hacer una herramienta de cómo encontrar team para entrar al Hackathon, literal.
+
+[Speaker 3 - 00:37:17]
+Fíjate que casualmente fue esa idea, fue una de los ganadores de un Hackathon de scroll, donde los chicos planteaban un Tinder básicamente para Hackathons,
+
+[Speaker 2 - 00:37:27]
+donde Está buenísimo, me encanta. Sí,
+
+[Speaker 3 - 00:37:30]
+sí, sí, sí, la verdad sí es muy bueno y esperamos, estamos buscando todavía oportunidad para poder implementarlo en un Hackathon con el equipo que lo hizo, pero sí, o sea, cabal es es hay hay un producto detrás de de esa problemática, ahí hay oportunidad.
+
+[Speaker 4 - 00:37:52]
+Igual y podemos armar algo ahí en el taller, una dinámica donde también podemos ayudarle a la banda a conseguir a conseguir, este, a conseguir equipo. Igual ahí lo lo lo lo planeamos. Pero sí, definitivamente creo que ayuda mucho el que la gente esté en comunidades y que platique y que pregunte. Como decía Juan, por ahí hay un grupo en Telegram que pueden que pueden participar ahorita. Si tenemos chance, lo opinemos acá arriba. Pero no, siempre lo digo y y creo que hace falta repetirlo. Perdamos el miedo a participar, perdamos el miedo AAA romper cosas, a a ver qué pasa, a probar las herramientas AAA Con poquito dinero, créanme que se puede prender un chorro, yo creo que es muy importante. Y más ahorita que estamos viendo cómo se mueve el mercado y cómo que, cómo probablemente puedan entrar muchas personas en el futuro. Pero sí, definitivamente las comunidades suman mucho, pero lo que nos puede ayudar en realidad a resolver problemas son las aplicaciones, ¿no? Entonces, me gusta, me gusta mucho el enfoque de construir aplicaciones.
+
+[Speaker 2 - 00:38:54]
+Y bueno, también recuerden que pueden entrar al grupo de Tearing México que tenemos en Telegram. Y aquí arriba también está apiñado el el NFT que damos en en estos en estos Explora que que bueno el buen Mexi nos hace el el favor de de de ejecutarlos, ¿verdad? Este Explora 5, pues, es con Juan de Scroll. Estamos teniendo toda esta charla alusiva, pues, a todo lo que está trayendo Scroll este año, empezando ahora sí que con bombo y platillo de manteles larguísimos. Y bueno, antes antes antes que nada también, Maxi, me gustaría mucho que con, porque creo que hacer énfasis en en construir y todo esto es un conjunto de cosas. ¿No? No es nada más una cosa. Y justo el que tú seas, por ejemplo, ahora Delgado, que ya tengas tokens para la DAO y todo esto, o sea, para la gente que no escucha, ¿qué qué significa todo esto? ¿No? Y sobre todo, ¿qué qué responsabilidad significa para ti, no?
+
+[Speaker 2 - 00:39:56]
+Porque creo que también eso es eso es algo importante.
+
+[Speaker 4 - 00:40:03]
+No, la verdad ahí conocí obviamente The Scroll cuando por ahí si mal no recuerdo, creo que fue Vere, una de las chavas de acá de Monterrey, organizó, o a Guayudaco, a organizar ahí la el miro. Platiqué mucho con Juan y la verdad, cuando vi que se abría la oportunidad de arrancar una nueva DAO para crearla de 0, dije, no, o sea, qué momento tan bueno para aprender, ¿no? Yo ya había participado y estaba participando en algunas otras DAOs, pero yo normalmente había entrado después, ¿no? Ya que había iniciado el tema de los tokens, ya que se había, no sé, como que como que al principio entrar en en el principio y ayudar a construir, te ayuda muchísimo. O al menos, a mí en lo personal creo que me ayudó muchísimo a posicionarme con el líder de la de de las juntas que estamos teniendo, con las personas también que se apuntaron a ser parte de de del proceso de gobernanza, entrar en las reuniones, porque hubo, y hay toda una serie de reuniones, todas las semanas llevamos ya más de 2 meses reuniéndonos, al menos una o 2 veces por semana.
+
+[Speaker 4 - 00:41:05]
+Las primeras semanas fueron intensas, ¿no? Había 3 reuniones de repente cada semana donde se se se se explicaba la visión, la misión de la fundación, donde se hicieron grupos de trabajo, donde en pantallas y compartidas compartíamos ideas y poníamos ahí en en en en post-its, este, lo que queríamos ver de la fundación y todo eso lo fueron ellos juntando, lo fueron masticando. Respondimos un chorro de formularios. O sea, ha sido bien interesante proceso y la neta sí creo que hace falta mucha experimentación en cuanto a la manera en que organizamos estas fundaciones y se reparte el dinero de estas asociaciones descentralizadas como las DAOs. Y el experimento que se está llevando a cabo en Scroll se me ha hecho muy muy bueno. Eugene es el líder de de de como que de los delegados, el que está coordinando de parte de la fundación todas las iniciativas. Y el liderazgo de él ha sido increíble. Yo creo que lo deberíamos por ahí lo invité a un espacio, pero él habla puro inglés. Pero sí, la neta creo que hay oportunidad muy padre de de de de aprender un chorro y de ayudar a construir es la y darle dirección AAAA estas herramientas, estas tecnologías.
+
+[Speaker 4 - 00:42:13]
+Y también para que aprovechemos y usemos esa lana, ¿no? Finalmente, se está definiendo dónde se va a distribuir y qué se va a utilizar para, o dónde se va a utilizar para para para los mejores beneficios de la red. ¿Qué opinas con nosotros?
+
+[Speaker 3 - 00:42:29]
+Sí, por eso la importancia de de de hacer que las comunidades fueran un pilar fuerte de la gobernanza. Puede suceder de que sea más fuerte representación de proyectos del ecosistema, puede ser que sea más fuerte representación de VCs o o algo así, ¿no? Donde, pues, scroll claramente dijo, hey, queremos posicionar a las comunidades y, pues, ha funcionado bien, porque bien dijiste, es como ya pragmáticamente es cómo cómo es cómo distribuir esos fondos, que es muy delicado, y todo el diseño ha sido muy cuidadoso alrededor de eso. Tenemos una tesorería y no, que que queremos administrar, maximizar su potencial y queremos que la comunidad nos diga cómo cómo cómo hacerlo. Eugene ha estado trabajando, pues, en el equipo como facilitador de gobernanza y ha hecho un gran trabajo, de verdad que sí. O sea, yo he aprendido mucho de todos estos temas trabajando de su lado.
+
+[Speaker 3 - 00:43:35]
+Por ahí quizás puedas invitar AAA Chris, a Chris Lema, que es el colega que también está trabajando en en en la gobernanza y, pues, trabajó diseñando básicamente la gobernanza al lado de Eugene. Chrissy habla español, así que sería una buena oportunidad y, mira, para para para un space interesante de hablar del estatus de la gobernanza, quizás de la visión, etcétera, etcétera. Los miro los miro muy interesante.
+
+[Speaker 4 - 00:44:09]
+Vamos a estar increíble traerlo a platicar con él, la verdad.
+
+[Speaker 3 - 00:44:13]
+Sí, sí, sí, la verdad. Una mesa redonda, algo algo que le he estado comentando ahorita, pues, como sabrá, definió México también. He estado platicando con todas, ya ahora que inició el año y volví de de vacaciones y demás. Estaba platicando con todas las comunidades de Latam, con las que con las que hemos estado, pues, charlando desde el los últimos años. Y la verdad es que todavía hay bastante potencial no realizado de parte de de de Latam, que yo creo que este año vamos a poder, pues, sacar más adelante, quizás un espacio abierto, un round table donde platiquen estos estos delegados latinoamericanos y y busquen crear esas nuevas propuestas de nuevo, como decíamos hace un rato, que que pues aporten mucho más valor a a Latinoamérica y sigan potenciando también el ecosistema de scroll. ¿No? Y posicionando scroll y demás. Así que esa es una buena actividad y food for through para los delegados que están escuchando.
+
+[Speaker 3 - 00:45:14]
+Queremos ese ese espacio para para colaborar.
+
+[Speaker 2 - 00:45:21]
+Buenísimo. Creo que, ahora sí que creo que Scroll lo ha entendido demasiado bien. Ha ha ha sembrado ha sembrado desde las comunidades, desde las personas que también le pusieron foco. ¿No? En este caso, pues, Mexi, como ha ha comentado, hay muchos de los que están acá, Suri, o sé que también muchas comunidades han estado como muy muy pegadas a scroll y la verdad, pues, para mí siempre es muy gratificante ver que que estos que estos, digamos, sueños que también tenemos en Latinoamérica se empiezan a cumplir. ¿No? Y y creo que esto es parte de, o sea, aunque a veces suena muy romántico, como muy de que todo pasa en otro lado y no en Latinoamérica. O sea, creo que web 3 también se parta, se se se parte de la equidad y de que Scroll no solamente, pues, ha ha puesto foco en Latinoamérica, sino que, pues, trae este tipo de oportunidades. ¿No? Como este Hackathon, como, pues, poder platicar contigo, Juan. O sea, aquí que nos ahora sí que nos traigas el el menú de de de viva mano.
+
+[Speaker 2 - 00:46:26]
+Entonces, creo que este tipo de cosas están super interesantes. Creo que también decimos algo mucho en el ecosistema que estamos muy tempranos, o sea, todos nos conocemos, los que hemos estado aquí picando piedra, hemos sacado proyectos, hemos estado, pues bueno, ahora sí que tratando de traer soluciones y viendo cómo meter a más personas a todo esto, a este mundo y que y que lo conozcan. Entonces, creo que Justo Scroll también es es parte de de todo este gran festival que que significa web 3 en Latinoamérica. ¿No? Entonces, yo la verdad estoy supercontenta de de que realmente llegaran y aterrizaran aquí y y que sigan. ¿No? Que sigan, porque al final creo que también la consistencia es algo muy muy muy fuerte que que que a veces vemos muy fugaz en ciertos proyectos o en ciertos protocolos o en ciertas chains que de repente voltean a Latinoamérica y ah, sí, existen, y ah, bueno, pero luego ya me voy. Entonces, creo que también es parte de de esta fidelización.
+
+[Speaker 2 - 00:47:30]
+¿No? Que que que como Latinoamérica, pues, también abrazamos. Somos muy fanáticos en Latinoamérica y creo que Scroll lo está entendiendo y y ojalá que sigamos así, ¿no? O sea, como con esta con esta estrechez con la que estamos. No sé, Mexi, ¿tú qué piensas?
+
+[Speaker 4 - 00:47:49]
+Sí, me encanta. Me encanta que se que que que muchas están volteando a ver la zona. Me encanta que vengan a apoyar con eventos, que se hagan ese tipo de iniciativas. Pero creo que con página perfecto que va de la mano, que es tecnología nueva, ¿no? Estamos hablando de de de serum hold hold hold hold hold hold hold hold hold hold hold hold hold hold. Que por ahí hay dentro del roadmap algunos experimentos y probablemente puedan acabar utilizando la tecnología para para para verificar transacciones. Pero creo que falta mucho desarrollo y mucha experimentación. Y scroll es 1 de esos experimentos que está desarrollando tecnología de de de de de punta que se puede llegar a utilizar. Y ya lo hemos visto, no nada más en Ethereum. Luego acaban acaban lo acaban utilizando a lo mejor tecnología que se desarrolla aquí en scroll, en bitcoin, en alguna L 2, o en vete a saber dónde, ¿no? Entonces, es es es parte del del del ir construyendo, del ir seguir experimentando, YYY esa tecnología en específico de CK a mí me vuela la cabeza.
+
+[Speaker 4 - 00:48:51]
+O sea, yo siento, no sé qué opina Juan, pero que que puede llegar a ser el futuro de muchas soluciones que necesitamos en este ecosistema. Por cómo funciona, por cómo no sé si llamarle comprimi información, pero sí facilita y agiliza muchos procesos.
+
+[Speaker 3 - 00:49:09]
+YYY, bueno, no quiero spoilear mucho, pero dentro del workshop vamos a hablar inclusive de lo más nuevo que se viene ahora. Así que va a estar va a estar bastante enriquecedor, por ahí Amed está preparando el contenido, pero si de por sí ya habíamos superado muchas barreras, yo creo que este año tecnológicamente va a estar muchísimo más competitivo y más más rápido también. Algo que, pues, no es por sacar pecho, pero la verdad es que sí, scroll ha ha sido muy muy innovador, o sea, realmente la tecnología de scroll ha sido ha avanzado muy rápido y lo ha hecho muy bien. No han habido crisis crisis tecnológicas que comprometan los fondos de nadie, y y mucho menos, pues, Y y pues también ha habido una innovación rápida y mejorar en los en los puntos que la comunidad, pues ha pedido que se mejore, pero inclusive imagínense que todo eso ha sido en el transcurso de un par de años y ya les estoy diciendo que ya se viene algo un crucibe más nuevo y más poderoso.
+
+[Speaker 3 - 00:50:22]
+Así que muy atentos ahí a lo que a lo que se viene ahí. Amed literalmente está preparando el contenido alrededor de esto, de de de estas nuevas tecnologías que se vienen. Y, pues, nada, la verdad, de nuevo, una fuerte invitación AAA la comunidad de México a participar de la mano de scroll. Por ahí hemos tenido muy buenas experiencias en la México, inclusive personalmente, la verdad se lo digo que me muero por volver a México este año. Me gustaría mucho y casualmente fuimos cuando nuestro hijo estaba todavía en mi mi esposo todavía sigue embarazada y me gustaría mucho que, pues, ya mi hijo conociera a México en persona y llevarlo a él. Me encantó México, la verdad, para que no les puedo decir que no, pero si ya nos metemos a hablar de todo lo que me gustó de México, no nos vamos hoy, porque de verdad que no es solo con los tacos por ahí, no sé, no está Mel, pero bueno, Mel nos llevó el primer día, nuestro primer día en México nos llegó a comer unos tacos de la calle, que wow, o sea, la verdad fue, oh, esa fue como la mejor manera de empezar nuestro viaje por México.
+
+[Speaker 3 - 00:51:43]
+Pues nada, a repetir este año, volver a ir a ir a a Monterrey. Tengo que volver a ir a Monterrey definitivamente por ahí en el hotel en el que estaba. Todavía tengo tengo noches pendientes que se me van a vencer este año, así que me toca volver a ir a Monterrey y compartir de nuevo ahí con toda la toda la banda, como como dicen los amigos por acá.
+
+[Speaker 2 - 00:52:12]
+Buenísimo, Juan. Pues sí, cuando quieras, cuando quieras regresa. Ya sabes, somos bastante cálidos los mexicanos, así que por calidez, por comida y por bebida no vamos a parar. Así que, pues, no sé, mi Mexi, algunos avisos parroquiales que quieras decir de último para irnos despidiendo, y, pues, bueno, de antemano, ya saben, por favor, súmense a este Hackathon que va a estar buenísimo, es de Scroll. Si tienen alguna pregunta, también en el grupo de Telegram de Tearing México, por favor, que que las hagan para poder hacérselas llegar al team de Scroll y, pues, bueno, agradecerte infinitamente, Juan, a a ti. Felicidades por la mudanza, felicidades por el el nuevo baby y nada, a seguir construyendo. Creo que ese es el futuro en Web 3. Let's Building.
+
+[Speaker 3 - 00:53:06]
+Genial. Muchísimas gracias a ambos, la verdad. De nuevo, bueno, a los 3. Por ahí está Celic también, la la cuenta de Firm México. Un gusto, pues platicar, invitarles de nuevo, todos tienen mi contacto, algo que, pues, me caracteriza dentro de lo que cabe. Trato de, pues, platicar con absolutamente todos los los latinos que me escriben. Así que si quieren platicar de lo que sea, escríbanme, entramos a una llamada, platicamos. Bienvenidas esas conversaciones enriquecedoras.
+
+[Speaker 4 - 00:53:40]
+No, muchísimas gracias, Juan. Muchísimas gracias también a toda la banda que se conectó, que decidió pasar un poquito de su tiempo con nosotros, escuchando sobre programas, sobre gobernanza. Sobre el workshop que va a haber la próxima semana, por ahí les pasaremos les pasaremos información más adelante. Sigue disponible, les quedan 6 minutos para ir a solicitar su coleccionable. En este caso lo lanzamos en scroll y todos los que lo pidan, por ahí cuando tengamos chanza y la red nos lo permita, porque por ahí están fallando las los los subgrafos. No es en scroll, es el tema de un look. Pero ya que podamos entrar, vamos a darles a todos su airdrop de su coleccionable en scroll. Recuerden que está en la red de scroll, por si luego lo quieren ir a buscar ahí en la el explorador de blogs. Pues Juan, Soho, Yael, muchísimas gracias. La neta, encantado de estar por acá un día más con con con nuestros colaboradores y con nuestros partners. Juan, tienes que venir a Monterrey. Próximamente va a haber noticias. Vienen cosas muy interesantes y por ahí te estaré buscando para platicar.
+
+[Speaker 4 - 00:54:40]
+Y encantado de poder seguir aquí los lunes a las 4 de la tarde con Yael, con Zoho, y con todo el equipo de Ethereum México. Si alguien por aquí de los que escucha quiere venir a platicarnos de algo, mándenos un DM, con mucho gusto los podemos los podemos ir considerando dentro de la de la de la programación. So, Jojael, muchísimas gracias. Yo con eso me retiro. Pasen mañana, yo hago espacios martes y jueves a las 12. Pasen a escucharme. Mañana voy a estar platicando con la banda de Nown Stow Amigos, que van a organizar una fiesta en Decentraland este viernes. Va a estar muy muy divertido.
+
+[Speaker 2 - 00:55:16]
+Adiós, muchísimas gracias. Feliz lunes.
+
+[Speaker 1 - 00:55:20]
+Gracias a todos. Adiós.

@@ -1,0 +1,469 @@
+Graphics Feature Status
+=======================
+*   Canvas: Software only. Hardware acceleration disabled
+*   Direct Rendering Display Compositor: Disabled
+*   Compositing: Software only. Hardware acceleration disabled
+*   Multiple Raster Threads: Disabled
+*   OpenGL: Disabled
+*   Rasterization: Software only. Hardware acceleration disabled
+*   Raw Draw: Disabled
+*   Skia Graphite: Disabled
+*   TreesInViz: Disabled
+*   Video Decode: Software only. Hardware acceleration disabled
+*   Video Encode: Software only. Hardware acceleration disabled
+*   Vulkan: Disabled
+*   WebGL: Disabled
+*   WebGL2: Disabled
+*   WebGPU: Disabled
+*   WebNN: Disabled
+
+Version Information
+===================
+Data exported              : 2025-12-08T23:25:14.652Z
+Chrome version             : Chrome/142.0.7444.175
+Operating system           : Linux 6.12.27+bpo-amd64
+Software rendering list URL: https://chromium.googlesource.com/chromium/src/+/302067f14a4ea3f42001580e6101fa25ed343445/gpu/config/software_rendering_list.json
+Driver bug list URL        : https://chromium.googlesource.com/chromium/src/+/302067f14a4ea3f42001580e6101fa25ed343445/gpu/config/gpu_driver_bug_list.json
+ANGLE commit id            : 7b27cb135562
+2D graphics backend        : Skia/142 f4ed99d2443962782cf5f8b4dd27179f131e7cbe
+Command Line               : /usr/bin/google-chrome-stable --flag-switches-begin --ignore-gpu-blocklist --flag-switches-end --ozone-platform=wayland --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors
+
+Driver Information
+==================
+Initialization time             : 0
+In-process GPU                  : false
+Skia Backend                    : None
+Passthrough Command Decoder     : true
+Sandboxed                       : true
+GPU0                            : VENDOR= 0x0000, DEVICE=0x0000
+Optimus                         : false
+AMD switchable                  : false
+Pixel shader version            : 
+Vertex shader version           : 
+Max. MSAA samples               : 
+Machine model name              : 
+Machine model version           : 
+GL implementation parts         : (gl=disabled,angle=none)
+Display type                    : 
+GL_VENDOR                       : Disabled
+GL_RENDERER                     : Disabled
+GL_VERSION                      : Disabled
+GL_EXTENSIONS                   : 
+Disabled Extensions             : 
+Disabled WebGL Extensions       : 
+Window system binding vendor    : 
+Window system binding version   : 
+Window system binding extensions: 
+XDG_CURRENT_DESKTOP             : GNOME
+XDG_SESSION_TYPE                : wayland
+GDMSESSION                      : gnome
+Interfaces exposed by the Wayland compositor: wl_compositor:5 wl_shm:1 wl_output:3 wl_output:3 zxdg_output_manager_v1:3 wl_data_device_manager:3 zwp_primary_selection_device_manager_v1:1 wl_subcompositor:1 xdg_wm_base:4 gtk_shell1:5 wp_viewporter:1 zwp_pointer_gestures_v1:3 zwp_tablet_manager_v2:1 wl_seat:8 zwp_relative_pointer_manager_v1:1 zwp_pointer_constraints_v1:1 zxdg_exporter_v1:1 zxdg_importer_v1:1 wp_single_pixel_buffer_manager_v1:1 zwp_keyboard_shortcuts_inhibit_manager_v1:1 zwp_text_input_manager_v3:1 wp_presentation:1 xdg_activation_v1:1 zwp_linux_dmabuf_v1:3 wl_output:3 wl_output:3 wl_output:3 wl_output:3 wl_output:3 wl_output:3 wl_output:3
+Ozone platform                  : wayland
+Direct rendering version        : unknown
+Reset notification strategy     : 0x0000
+GPU process crash count         : 3
+gfx::BufferFormats supported for allocation and texturing: R_8: not supported,  R_16: not supported,  RG_88: not supported,  RG_1616: not supported,  BGR_565: not supported,  RGBA_4444: not supported,  RGBX_8888: not supported,  RGBA_8888: not supported,  BGRX_8888: not supported,  BGRA_1010102: not supported,  RGBA_1010102: not supported,  BGRA_8888: not supported,  RGBA_F16: not supported,  YVU_420: not supported,  YUV_420_BIPLANAR: not supported,  YUVA_420_TRIPLANAR: not supported,  P010: not supported
+
+Problems Detected
+=================
+*   WebGPU has been disabled via blocklist or the command line.
+    Disabled Features: webgpu
+
+*   WebGL2 has been disabled via blocklist or the command line.
+    Disabled Features: webgl2
+
+*   Accelerated rasterization has been disabled, either via blocklist, about:flags or the command line.
+    Disabled Features: rasterization
+
+*   Accelerated video encode has been disabled, either via blocklist, about:flags or the command line.
+    Disabled Features: video_encode
+
+*   Accelerated video decode has been disabled, either via blocklist, about:flags or the command line.
+    Disabled Features: video_decode
+
+*   WebGL has been disabled via blocklist or the command line.
+    Disabled Features: webgl
+
+*   Gpu compositing has been disabled, either via blocklist, about:flags or the command line. The browser will fall back to software compositing and hardware acceleration will be unavailable.
+    Disabled Features: gpu_compositing
+
+*   Accelerated 2D canvas is unavailable: either disabled via blocklist or the command line.
+    Disabled Features: 2d_canvas
+
+*   GPU process was unable to boot: GPU access is disabled due to frequent crashes.
+    Disabled Features: all
+
+Dawn Info
+=========
+
+<CPU>  Vulkan backend - SwiftShader Device (Subzero)
+----------------------------------------------------
+
+[WebGPU Status]
+---------------
+*   Blocklisted - crbug.com/40057808: CPU adapters not fully tested or conformant. |
+
+[Adapter Supported Features]
+----------------------------
+*   core-features-and-limits
+*   depth-clip-control
+*   depth32float-stencil8
+*   texture-compression-bc
+*   texture-compression-bc-sliced-3d
+*   texture-compression-etc2
+*   texture-compression-astc
+*   texture-compression-astc-sliced-3d
+*   timestamp-query
+*   indirect-first-instance
+*   rg11b10ufloat-renderable
+*   bgra8unorm-storage
+*   float32filterable
+*   float32blendable
+*   clip-distances
+*   subgroups
+*   dawn-internal-usages
+*   dawn-multi-planar-formats
+*   dawn-native
+*   implicit-device-synchronization
+*   transient-attachments
+*   unorm16texture-formats
+*   adapter-properties-memory-heaps
+*   adapter-properties-vk
+*   dawn-format-capabilities
+*   shared-texture-memory-opaque-fd
+*   shared-fence-vk-semaphore-opaque-fd
+*   dawn-load-resolve-texture
+*   flexible-texture-views
+
+[Enabled Toggle Names]
+----------------------
+*   lazy_clear_resource_on_first_use: 
+    (https://crbug.com/dawn/145):
+    Clears resource to zero on first usage. This initializes the resource so
+    that no dirty bits from recycled memory is present in the new resource.
+
+*   use_temporary_buffer_in_texture_to_texture_copy: 
+    (https://crbug.com/dawn/42):
+    Split texture-to-texture copy into two copies: copy from source texture
+    into a temporary buffer, and copy from the temporary buffer into the
+    destination texture when copying between compressed textures that don't
+    have block-aligned sizes. This workaround is enabled by default on all
+    Vulkan drivers to solve an issue in the Vulkan SPEC about the
+    texture-to-texture copies with compressed formats. See #1005
+    (https://github.com/KhronosGroup/Vulkan-Docs/issues/1005) for more
+    details.
+
+*   vulkan_use_d32s8: 
+    (https://crbug.com/dawn/286):
+    Vulkan mandates support of either D32_FLOAT_S8 or D24_UNORM_S8. When
+    available the backend will use D32S8 (toggle to on) but setting the toggle
+    to off will make it use the D24S8 format when possible.
+
+*   vulkan_use_s8: 
+    (https://crbug.com/dawn/666):
+    Vulkan has a pure stencil8 format but it is not universally available.
+    When this toggle is on, the backend will use S8 for the stencil8 format,
+    otherwise it will fallback to D32S8 or D24S8.
+
+*   disallow_spirv: 
+    (https://crbug.com/1214923):
+    Disallow usage of SPIR-V completely so that only WGSL is used for shader
+    modules. This is useful to prevent a Chromium renderer process from
+    successfully sending SPIR-V code to be compiled in the GPU process.
+
+*   vulkan_use_demote_to_helper_invocation_extension: 
+    (https://crbug.com/42250787):
+    Sets the use of the vulkan demote to helper extension
+
+*   use_placeholder_fragment_in_vertex_only_pipeline: 
+    (https://crbug.com/dawn/136):
+    Use a placeholder empty fragment shader in vertex only render pipeline.
+    This toggle must be enabled for OpenGL ES backend, the Vulkan Backend, and
+    serves as a workaround by default enabled on some Metal devices with Intel
+    GPU to ensure the depth result is correct.
+
+*   timestamp_quantization: 
+    (https://crbug.com/dawn/1800):
+    Enable timestamp queries quantization to reduce the precision of timers
+    that can be created with timestamp queries.
+
+*   use_vulkan_zero_initialize_workgroup_memory_extension: 
+    (https://crbug.com/dawn/1302):
+    Initialize workgroup memory with OpConstantNull on Vulkan when the Vulkan
+    extension VK_KHR_zero_initialize_workgroup_memory is supported.
+
+*   vulkan_direct_variable_access_transform_handle: 
+    (https://crbug.com/387000529):
+    Transform handles using direct variable access.
+
+*   enable_integer_range_analysis_in_robustness: 
+    (https://crbug.com/348701956):
+    Compute the range of the index with Integer Range Analysis in the
+    robustness transform and skip doing index clamping when the out of bound
+    access cannot happen.
+
+*   use_spirv_1_4: 
+    (https://crbug.com/422421915):
+    Use SPIR-V 1.4 if available
+
+*   blob_cache_hash_validation: 
+    (https://crbug.com/429938352):
+    Enable hash validation when loading/storing from/to the blob cache
+
+[WebGPU Required Toggles - enabled]
+-----------------------------------
+*   disallow_spirv: 
+    (https://crbug.com/1214923):
+    Disallow usage of SPIR-V completely so that only WGSL is used for shader
+    modules. This is useful to prevent a Chromium renderer process from
+    successfully sending SPIR-V code to be compiled in the GPU process.
+
+*   timestamp_quantization: 
+    (https://crbug.com/dawn/1800):
+    Enable timestamp queries quantization to reduce the precision of timers
+    that can be created with timestamp queries.
+
+Compositor Information
+======================
+Tile Update Mode: One-copy
+Partial Raster  : Enabled
+
+GpuMemoryBuffers Status
+=======================
+R_8               : Software only
+R_16              : Software only
+RG_88             : Software only
+RG_1616           : Software only
+BGR_565           : GPU_READ
+RGBA_4444         : Software only
+RGBX_8888         : GPU_READ, SCANOUT, SCANOUT_CPU_READ_WRITE, SCANOUT_FRONT_RENDERING
+RGBA_8888         : GPU_READ, SCANOUT, SCANOUT_CPU_READ_WRITE, SCANOUT_FRONT_RENDERING
+BGRX_8888         : GPU_READ, SCANOUT, SCANOUT_CPU_READ_WRITE, SCANOUT_FRONT_RENDERING
+BGRA_1010102      : SCANOUT, SCANOUT_CPU_READ_WRITE, SCANOUT_FRONT_RENDERING
+RGBA_1010102      : SCANOUT, SCANOUT_CPU_READ_WRITE, SCANOUT_FRONT_RENDERING
+BGRA_8888         : GPU_READ, SCANOUT, SCANOUT_CPU_READ_WRITE, SCANOUT_FRONT_RENDERING
+RGBA_F16          : Software only
+YVU_420           : Software only
+YUV_420_BIPLANAR  : Software only
+YUVA_420_TRIPLANAR: Software only
+P010              : Software only
+
+Display(s) Information
+======================
+Info                          : Display[4] bounds=[2560,0 1920x1080], workarea=[2560,0 1920x1080], scale=1, rotation=0, panel_rotation=0 external detected
+Color space (all)             : {primaries:BT709, transfer:SRGB, matrix:RGB, range:FULL}
+Buffer format (all)           : RGBA_8888
+Color volume                  : {name:'srgb', r:[0.6400, 0.3300], g:[0.3000, 0.6000], b:[0.1500, 0.0600], w:[0.3127, 0.3290]}
+SDR white level in nits       : 203
+HDR relative maximum luminance: 1
+Bits per color component      : 8
+Bits per pixel                : 24
+Info                          : Display[32] bounds=[0,0 2560x1080], workarea=[0,0 2560x1080], scale=1, rotation=0, panel_rotation=0 external detected
+Color space (all)             : {primaries:BT709, transfer:SRGB, matrix:RGB, range:FULL}
+Buffer format (all)           : RGBA_8888
+Color volume                  : {name:'srgb', r:[0.6400, 0.3300], g:[0.3000, 0.6000], b:[0.1500, 0.0600], w:[0.3127, 0.3290]}
+SDR white level in nits       : 203
+HDR relative maximum luminance: 1
+Bits per color component      : 8
+Bits per pixel                : 24
+
+Video Acceleration Information
+==============================
+Decoding: 
+Encoding:
+
+Vulkan Information
+==================
+
+Device Performance Information
+==============================
+
+Driver Information for Hardware GPU
+===================================
+Initialization time             : 0
+In-process GPU                  : false
+Skia Backend                    : None
+Passthrough Command Decoder     : true
+Sandboxed                       : true
+GPU0                            : VENDOR= 0x0000, DEVICE=0x0000
+Optimus                         : false
+AMD switchable                  : false
+Pixel shader version            : 
+Vertex shader version           : 
+Max. MSAA samples               : 
+Machine model name              : 
+Machine model version           : 
+GL implementation parts         : (gl=disabled,angle=none)
+Display type                    : 
+GL_VENDOR                       : Disabled
+GL_RENDERER                     : Disabled
+GL_VERSION                      : Disabled
+GL_EXTENSIONS                   : 
+Disabled Extensions             : GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent
+Disabled WebGL Extensions       : 
+Window system binding vendor    : 
+Window system binding version   : 
+Window system binding extensions: 
+XDG_CURRENT_DESKTOP             : GNOME
+XDG_SESSION_TYPE                : wayland
+GDMSESSION                      : gnome
+Interfaces exposed by the Wayland compositor: wl_compositor:5 wl_shm:1 wl_output:3 wl_output:3 zxdg_output_manager_v1:3 wl_data_device_manager:3 zwp_primary_selection_device_manager_v1:1 wl_subcompositor:1 xdg_wm_base:4 gtk_shell1:5 wp_viewporter:1 zwp_pointer_gestures_v1:3 zwp_tablet_manager_v2:1 wl_seat:8 zwp_relative_pointer_manager_v1:1 zwp_pointer_constraints_v1:1 zxdg_exporter_v1:1 zxdg_importer_v1:1 wp_single_pixel_buffer_manager_v1:1 zwp_keyboard_shortcuts_inhibit_manager_v1:1 zwp_text_input_manager_v3:1 wp_presentation:1 xdg_activation_v1:1 zwp_linux_dmabuf_v1:3 wl_output:3 wl_output:3 wl_output:3 wl_output:3 wl_output:3 wl_output:3 wl_output:3
+Ozone platform                  : wayland
+Direct rendering version        : unknown
+Reset notification strategy     : 0x0000
+GPU process crash count         : 3
+gfx::BufferFormats supported for allocation and texturing: R_8: supported,  R_16: supported,  RG_88: supported,  RG_1616: supported,  BGR_565: supported,  RGBA_4444: supported,  RGBX_8888: supported,  RGBA_8888: supported,  BGRX_8888: supported,  BGRA_1010102: supported,  RGBA_1010102: supported,  BGRA_8888: supported,  RGBA_F16: supported,  YVU_420: not supported,  YUV_420_BIPLANAR: not supported,  YUVA_420_TRIPLANAR: supported,  P010: not supported
+
+Graphics Feature Status for Hardware GPU
+========================================
+*   Canvas: Hardware accelerated
+*   Direct Rendering Display Compositor: Disabled
+*   Compositing: Hardware accelerated
+*   Multiple Raster Threads: Enabled
+*   OpenGL: Enabled
+*   Rasterization: Hardware accelerated
+*   Raw Draw: Disabled
+*   Skia Graphite: Disabled
+*   TreesInViz: Disabled
+*   Video Decode: Hardware accelerated
+*   Video Encode: Software only. Hardware acceleration disabled
+*   Vulkan: Disabled
+*   WebGL: Hardware accelerated
+*   WebGL2: Hardware accelerated
+*   WebGPU: Disabled
+*   WebNN: Disabled
+
+Driver Bug Workarounds for Hardware GPU
+=======================================
+*   enable_webgl_timer_query_extensions
+*   exit_on_context_lost
+*   msaa_is_slow
+*   disabled_extension_GL_KHR_blend_equation_advanced
+*   disabled_extension_GL_KHR_blend_equation_advanced_coherent
+
+Problems Detected for Hardware GPU
+==================================
+*   WebGPU has been disabled via blocklist or the command line.
+    Disabled Features: webgpu
+
+*   Accelerated video encode has been disabled, either via blocklist, about:flags or the command line.
+    Disabled Features: video_encode
+
+*   On Intel GPUs MSAA performance is not acceptable for GPU rasterization:
+    (http://crbug.com/527565), (http://crbug.com/1298585)
+    Applied Workarounds: msaa_is_slow
+
+*   Disable KHR_blend_equation_advanced until cc shaders are updated:
+    (http://crbug.com/661715)
+    Applied Workarounds: disable(GL_KHR_blend_equation_advanced),
+        disable(GL_KHR_blend_equation_advanced_coherent)
+
+*   Expose WebGL's disjoint_timer_query extensions on platforms with site isolation:
+    (http://crbug.com/808744), (http://crbug.com/870491)
+    Applied Workarounds: enable_webgl_timer_query_extensions
+
+*   Some drivers can't recover after OUT_OF_MEM and context lost:
+    (http://crbug.com/893177)
+    Applied Workarounds: exit_on_context_lost
+
+Log Messages
+============
+[6738:6738:1208/111125.680363:WARNING:ui/gl/angle_platform_impl.cc:47] : renderergl_utils.cpp:2092 (GenerateCaps): Disabling GL_EXT_clip_cull_distance because only 8 clip distances, 0 cull distances and 0 combined clip/cull distances are supported by the driver.
+[6738:6738:1208/111125.692824:WARNING:sandbox/policy/linux/sandbox_linux.cc:404] : InitializeSandbox() called with multiple threads in process gpu-process.
+[6738:6738:1208/111125.895312:ERROR:ui/ozone/platform/wayland/gpu/gbm_pixmap_wayland.cc:95] : Cannot create bo with format=RGBA_8888 and usage=Scanout|Rendering|Texturing
+[6738:6738:1208/111125.895421:ERROR:ui/ozone/platform/wayland/gpu/gbm_pixmap_wayland.cc:95] : Cannot create bo with format=RGBA_8888 and usage=Texturing
+[6738:6738:1208/111125.895452:ERROR:gpu/command_buffer/service/shared_image/shared_image_factory.cc:968] : CreateSharedImage: could not create backing.
+[6738:6738:1208/111125.895488:ERROR:ui/ozone/platform/wayland/gpu/gbm_pixmap_wayland.cc:95] : Cannot create bo with format=RGBA_8888 and usage=Scanout|Rendering|Texturing
+[6738:6738:1208/111125.895519:ERROR:ui/ozone/platform/wayland/gpu/gbm_pixmap_wayland.cc:95] : Cannot create bo with format=RGBA_8888 and usage=Texturing
+[6738:6738:1208/111125.895548:ERROR:gpu/command_buffer/service/shared_image/shared_image_factory.cc:968] : CreateSharedImage: could not create backing.
+[6738:6738:1208/111125.895588:ERROR:ui/ozone/platform/wayland/gpu/gbm_pixmap_wayland.cc:95] : Cannot create bo with format=RGBA_8888 and usage=Scanout|Rendering|Texturing
+[6738:6738:1208/111125.895619:ERROR:ui/ozone/platform/wayland/gpu/gbm_pixmap_wayland.cc:95] : Cannot create bo with format=RGBA_8888 and usage=Texturing
+[6738:6738:1208/111125.895644:ERROR:gpu/command_buffer/service/shared_image/shared_image_factory.cc:968] : CreateSharedImage: could not create backing.
+[6738:6738:1208/111125.895684:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:393] : SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[6738:6738:1208/111125.895760:ERROR:components/viz/service/gl/exit_code.cc:13] : Restarting GPU process due to unrecoverable error. Context was lost.
+GpuProcessHost: The GPU process exited with code 8704.
+[6847:6847:1208/111125.948883:WARNING:ui/gl/angle_platform_impl.cc:47] : renderergl_utils.cpp:2092 (GenerateCaps): Disabling GL_EXT_clip_cull_distance because only 8 clip distances, 0 cull distances and 0 combined clip/cull distances are supported by the driver.
+[6847:6847:1208/111125.956554:WARNING:sandbox/policy/linux/sandbox_linux.cc:404] : InitializeSandbox() called with multiple threads in process gpu-process.
+[6847:6847:1208/111125.995601:ERROR:ui/ozone/platform/wayland/gpu/gbm_pixmap_wayland.cc:95] : Cannot create bo with format=RGBA_8888 and usage=Scanout|Rendering|Texturing
+[6847:6847:1208/111125.995709:ERROR:ui/ozone/platform/wayland/gpu/gbm_pixmap_wayland.cc:95] : Cannot create bo with format=RGBA_8888 and usage=Texturing
+[6847:6847:1208/111125.995741:ERROR:gpu/command_buffer/service/shared_image/shared_image_factory.cc:968] : CreateSharedImage: could not create backing.
+[6847:6847:1208/111125.995776:ERROR:ui/ozone/platform/wayland/gpu/gbm_pixmap_wayland.cc:95] : Cannot create bo with format=RGBA_8888 and usage=Scanout|Rendering|Texturing
+[6847:6847:1208/111125.995807:ERROR:ui/ozone/platform/wayland/gpu/gbm_pixmap_wayland.cc:95] : Cannot create bo with format=RGBA_8888 and usage=Texturing
+[6847:6847:1208/111125.995832:ERROR:gpu/command_buffer/service/shared_image/shared_image_factory.cc:968] : CreateSharedImage: could not create backing.
+[6847:6847:1208/111125.995866:ERROR:ui/ozone/platform/wayland/gpu/gbm_pixmap_wayland.cc:95] : Cannot create bo with format=RGBA_8888 and usage=Scanout|Rendering|Texturing
+[6847:6847:1208/111125.995897:ERROR:ui/ozone/platform/wayland/gpu/gbm_pixmap_wayland.cc:95] : Cannot create bo with format=RGBA_8888 and usage=Texturing
+[6847:6847:1208/111125.995925:ERROR:gpu/command_buffer/service/shared_image/shared_image_factory.cc:968] : CreateSharedImage: could not create backing.
+[6847:6847:1208/111125.995963:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:393] : SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[6847:6847:1208/111125.996037:ERROR:components/viz/service/gl/exit_code.cc:13] : Restarting GPU process due to unrecoverable error. Context was lost.
+GpuProcessHost: The GPU process exited with code 8704.
+[6901:6901:1208/111126.046661:WARNING:ui/gl/angle_platform_impl.cc:47] : renderergl_utils.cpp:2092 (GenerateCaps): Disabling GL_EXT_clip_cull_distance because only 8 clip distances, 0 cull distances and 0 combined clip/cull distances are supported by the driver.
+[6901:6901:1208/111126.054750:WARNING:sandbox/policy/linux/sandbox_linux.cc:404] : InitializeSandbox() called with multiple threads in process gpu-process.
+[6901:6901:1208/111126.092972:ERROR:ui/ozone/platform/wayland/gpu/gbm_pixmap_wayland.cc:95] : Cannot create bo with format=RGBA_8888 and usage=Scanout|Rendering|Texturing
+[6901:6901:1208/111126.093078:ERROR:ui/ozone/platform/wayland/gpu/gbm_pixmap_wayland.cc:95] : Cannot create bo with format=RGBA_8888 and usage=Texturing
+[6901:6901:1208/111126.093140:ERROR:gpu/command_buffer/service/shared_image/shared_image_factory.cc:968] : CreateSharedImage: could not create backing.
+[6901:6901:1208/111126.093202:ERROR:ui/ozone/platform/wayland/gpu/gbm_pixmap_wayland.cc:95] : Cannot create bo with format=RGBA_8888 and usage=Scanout|Rendering|Texturing
+[6901:6901:1208/111126.093239:ERROR:ui/ozone/platform/wayland/gpu/gbm_pixmap_wayland.cc:95] : Cannot create bo with format=RGBA_8888 and usage=Texturing
+[6901:6901:1208/111126.093267:ERROR:gpu/command_buffer/service/shared_image/shared_image_factory.cc:968] : CreateSharedImage: could not create backing.
+[6901:6901:1208/111126.093305:ERROR:ui/ozone/platform/wayland/gpu/gbm_pixmap_wayland.cc:95] : Cannot create bo with format=RGBA_8888 and usage=Scanout|Rendering|Texturing
+[6901:6901:1208/111126.093335:ERROR:ui/ozone/platform/wayland/gpu/gbm_pixmap_wayland.cc:95] : Cannot create bo with format=RGBA_8888 and usage=Texturing
+[6901:6901:1208/111126.093360:ERROR:gpu/command_buffer/service/shared_image/shared_image_factory.cc:968] : CreateSharedImage: could not create backing.
+[6901:6901:1208/111126.093407:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:393] : SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[6901:6901:1208/111126.093493:ERROR:components/viz/service/gl/exit_code.cc:13] : Restarting GPU process due to unrecoverable error. Context was lost.
+GpuProcessHost: The GPU process exited with code 8704.
+[6955:6963:1208/111520.744784:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/111520.744875:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/111520.744902:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/111624.933864:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/111624.933973:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/111624.934023:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/111630.164420:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/111630.164522:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/111630.164627:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/111759.578172:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/111759.578291:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/111759.578339:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/111818.742823:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/111818.742935:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/111818.742989:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/111819.043895:ERROR:components/viz/service/display/display.cc:277] : Frame latency is negative: -0.091 ms
+[6955:6963:1208/111909.919222:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/111909.919299:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/111909.919317:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/112034.228257:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/112034.228335:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/112034.228358:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/112056.136489:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/112056.136578:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/112056.136611:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/112105.867621:ERROR:components/viz/service/display/display.cc:277] : Frame latency is negative: -0.015 ms
+[6955:6963:1208/112224.559562:ERROR:components/viz/service/display/display.cc:277] : Frame latency is negative: -0.158 ms
+[6955:6963:1208/112234.559277:ERROR:components/viz/service/display/display.cc:277] : Frame latency is negative: -0.095 ms
+[6955:6963:1208/113519.858341:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/113519.858438:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/113519.858766:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/115019.025019:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/115019.028804:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/122226.870435:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/122226.870542:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/122226.870606:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/122243.555855:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/122243.555957:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/122243.555980:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/122410.959145:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/122410.959242:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/122410.959272:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/122410.968617:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/122410.968703:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/122411.415443:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/122411.415588:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/122505.804403:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/122505.804502:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/122505.804522:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/124237.599512:ERROR:components/viz/service/display/display.cc:277] : Frame latency is negative: -0.131 ms
+[6955:6963:1208/124827.489803:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/124827.489892:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/124827.489914:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/131834.223696:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/161632.232699:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/161632.232803:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.
+[6955:6963:1208/161632.232830:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:526] : SharedImageManager::ProduceMemory: Trying to Produce a Memory representation from a non-existent mailbox.

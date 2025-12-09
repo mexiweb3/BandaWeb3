@@ -1,0 +1,308 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #20240923
+Título: Web3 en español 🚀
+Fecha: 2024-09-23
+Host: @Musica_W3
+Tipo: co-hosted
+
+Descripción:
+Co-hosted Space: Web3 en español 🚀. Host: @Musica_W3
+
+Duración: 00:57:00
+Escuchas: 46
+
+Links:
+  Space: https://x.com/i/spaces/1eaKbaeQOXRxX
+  Dashboard: https://spacesdashboard.com/space/1eaKbaeQOXRxX/web3-en-espanol
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+
+[Speaker 0 - 00:01:46]
+Hola, hola a todos. ¿Cómo están? Bienvenidos. Espero que estén muy bien. Ahí lo vi a Gabriel Nebular que se metió un ratito. Ahora estoy acá esperando a que se sumen. Les agradezco un retitoing like a la sala. Así llevan más personas. El día de hoy, Yoshi sé que no va a por venir porque está estaba ocupado, pero igualmente, nada, estamos acá. Estoy esperando a ver si alguno de los founder se suma, si podemos hablar y esperando que venga alguien a hablar de algún proyecto web 3. Queremos saber qué estuvo pasando esta semana. Yo me enteré de algunas cosas que están muy copadas. Estoy hablando con mi amiga Crypto Street, que es una súper artista mexicana que ahora se encuentra en Buenos Aires y me contó algunas cosas muy interesantes de un proyecto que se está haciendo acá, que es básicamente el sueño de todo Web3 persona. Ya lo habíamos hablado en su momento con con otras personas de la comunidad de Web3 en general, en español, diciendo que teníamos que hacer una casa de gran hermano y lo teníamos que documentar todo y qué sé yo.
+
+[Speaker 0 - 00:02:58]
+Bueno, está sucediendo, pero no están las cámaras y no la están documentando todo. Pero se está haciendo una especie de de casa de gran hermano de coders y de gente que está desarrollando aplicaciones y startups en Avalanche. Supongo que es como un proceso de Warm up para lo que es el code base, que es que es una una aceleradora de básicamente son es una empresa que pone dinero en en startups y y cosas de ese tipo. Y y nada, están acá en Buenos Aires, en una casa de 3 pisos, por lo que escuché. Tienen un chef, es como muy grande, bueno, todo. Y salió en la tele acá en en TN, en las noticias oficiales de de Argentina. Y la nota la dejé Piñada acá arriba, pero básicamente el post dice, el gran hermano de los desarrolladores, 4 equipos conviven en una casa para construir el futuro de la Web3. Y me pareció muy loco que que que sea una noticia oficial de un medio oficial tan grande como TN acá en Argentina y que esté hablando del término Web 3.
+
+[Speaker 0 - 00:04:05]
+O sea, me parece muy loco que que esto esté sucediendo así, que que sea tan fuerte la adopción ya, ¿no? Como después de lo que pasó en la popup city, que que fue esta, este, como esta ciudad emergente tecnológica de Blockchain en en Argentina, que fue de alcance internacional. Ahora pasa esto de la casa de gran hermano de los devs y van a seguir pasando cosas, me imagino. Le mando un beso a Elgato que está presente, bienvenido. ¿Cómo estás? Vi que cambiaste tu pips, espero que nos cuentes más de eso. Mexi, ¿cómo estás? También te invité a hablar, a ver si tenés ganas de venir a contarnos un poco más de qué está pasando allá en México con el Ethereum México, que quiero saber todo. He visto muy pocos posteos, me vi un live nada más, así que estaría buenísimo que nos cuentes. Lo voy a invitar a Sergio y Gonzalo a ver si quiere venir a hablar. With in the back, un bienvenido, también te voy a invitar.
+
+[Speaker 0 - 00:05:09]
+Bueno, no sé si tú soy yo, así que no me voy a invitar. Y Hannimans también te voy a invitar para que me cuenten todo lo que lo que quieran. Estamos acá en un espacio abierto de Web3 en español para que este idioma tan hermoso no muera. Realmente encontramos cada vez menos, ¿cómo se dice? Espacios en español y me encantaría que volvamos a tener esos spaces tan lindos que que se arman. Sé que Cande y Caro siguen haciendo spaces todas las semanas en español, por lo que entiendo. Tal vez me estoy equivocando, pero bueno, nada, acá tenemos a un gran, gran, gran anfitrión y y host de espacios en español, nuestro gran querido amigo Mexi. ¿Cómo estás, Mexi? Bienvenido al espacio de música o letras 3, como todos los lunes. ¿Qué
+
+[Speaker 1 - 00:06:05]
+onda? ¿Qué onda? ¿Cómo andas? Ya ando aquí de regreso, agarrando la rutina de nuevo, la semana pasada estuvo muy loca. Bueno, las últimas 2 con todo lo del evento, pero muy chido, muy chido. ¿Tú qué onda? ¿Cómo has estado? Ya te he visto muy activa por allá, muchos eventos, muchas actividades, mucho contenido también, muy bueno. Corte de pelo nuevo, veo que también están a punto de entrar a la primavera, nosotros pronto entramos a otoño, pero, pues, acá andamos, dándole duro. ¿Tú cómo has andado?
+
+[Speaker 0 - 00:06:36]
+Nada, yo estoy re bien también. Acá en música W3 le estuvo metiendo muy duro a a un montón de cosas. Y nada, me me, no sé, estoy como un poco así, un poco triste porque no fui a Tenium México y me lo reperdí. Y nada, así como Extrañamos mucho. Sí. Todo el mundo me preguntó por Facebook. ¿En serio? Qué bueno, qué estuvieron haciendo. Contaba qué estuvieron haciendo. Porque no había sido. Contaba qué estuvieron haciendo. ¿Cómo fue? Contanos, ¿cómo fue la estructura de TV en México? Yo no sé nada, yo vi muy poquito, vi un live una vez, un par de fotos y nada más.
+
+[Speaker 1 - 00:07:22]
+La neta estuvo muy chido. Ahí estamos ya viendo todo el resumen de los comentarios de la retroalimentación, de los posts en redes. Y cumplimos nuestros objetivos, creo que los sobrepasamos. Pero bueno, como siempre, siempre hay cosas muy muy chidas y comentarios muy chingones, pero también hay cosas que se pueden mejorar. Fueron 7 meses de trabajo de de de un equipo de 20 personas, 40 voluntarios, 40 speakers. Creo que juntamos como 10, 11 patrocinadores y asistentes fueron aproximadamente unos 650 los que estuvieron por ahí en el evento. Chorro de side avents, fueron pláticas de 2 días completitas, empezábamos a las 11, 11 y media, y estábamos terminando como a las 7, 8 de la noche, y la neta se veía el espacio súper grande, algunas conferencias muy, muy llenas, otras no tanto, ¿no? Pues depende de los horarios. Pero en resumen, creo que de los mejores eventos que ha habido en México, web 3, no no no lo puedo negar, la ciudad también increíble, muy fácil para hacer side eventos por ahí cerca, para para para conocerla caminando, el calor increíble, insoportable también de repente.
+
+[Speaker 1 - 00:08:38]
+Para mí no hay tanta bronca, pero mucha gente está Ah, muy bueno, ¿eh? Qué rico. Insoportable.
+
+[Speaker 0 - 00:08:49]
+¿En dónde fue? En Mérida, ¿verdad?
+
+[Speaker 1 - 00:08:53]
+Sí, fue en Mérida. Yo llegué un par de días antes ahí para para coordinar la entrada de los sponsors y que iban a armar stands. Yo estuve coordinando el tema de sponsors con Richie, Richie era la líder de el departamento de sponsors. Y, pues, nos va bien, ¿no? Conseguimos conseguimos ahí lo que estábamos buscando, un poquito más. Me hubiera gustado unos 10, 20000 dólares más, pero bueno. Se sale muy caro hacer un evento de esos, está cabrón. Pero el momento estuvo muy chido. Faltaron temas de música, fíjate, te soy sincero. Pocas personas hablaron de música, web 3, sí, creo que por ahí alguien lo lo lo tocó así por encimita, pero pues bueno, alguno de de de la comunidad acá de música volteeras hubiera estado chido que se hubiera aventado una platiquita.
+
+[Speaker 0 - 00:09:43]
+No, pasa que el el pasaje hasta allá no sale un billete, digo, mi mi señor, tendríamos que haber llevado algo para vender de último o tocar por un calle o algo así. Pero bueno, vos sabes, yo lo intenté, pero bueno, qué va a hacer? Qué te iba a decir amigo, Mexi? Contanos, o sea, cuál fueron los objetivos de Telecom México, qué es lo que se cumplió. Estaría buenísimo que nos cuentes Eso porque nada, queremos que yo quiero saber que cuál eran los objetivos y cómo se hizo che, creo que se cayó, Mexi, la puta. Yo le digo que tienen que cambiar ese internet que tiene de de él o más. ¿Te das cuenta? Pero bueno. Invito a todo el mundo a que suba hablar, ahora sí nos platicábamos un ratito, nos contamos algunas actualizaciones de proyectos, dale common, sigan subiendo, que acá estamos con Mexi hablando un rato.
+
+[Speaker 0 - 00:10:45]
+Eso. Corran la voz, pasen la voz, pásenla bien, háblenos. ¿Qué onda mexi volviste? ¿Qué pasó? ¿Ese fue el el Internet de los más?
+
+[Speaker 1 - 00:10:57]
+No, no, ahora fui yo. El el el burro cerré la ventana sin querer porque estoy en la compu Y como no he practicado mucho acá en la compu, de repente la cago. Pero Noé, alcancé a escuchar la última pregunta.
+
+[Speaker 0 - 00:11:10]
+Te estaba preguntando cuál era el objetivo con Ethereum Ethereum México, cuál era qué era lo que querían construir? No sé, cómo contame un poco cuál fue la idea principal, quién estuvo ahí haciéndolo.
+
+[Speaker 1 - 00:11:27]
+El año pasado, qué buena pregunta, el año pasado fue en Ciudad de México y fue en un venio que la verdad a mí no me gustó. No estaba muy amigable, el audio y el sonido de de de las pláticas no estaba chido, había mucho eco. Estuvo muy bueno, la verdad creo que estuvo muy bueno el evento, pero la idea en este año pues es una ir a otra ciudad, que estos eventos no sean solo en Ciudad de México o Monterrey o ciudades grandes, sino estar brincando a ciudades un poquito más pequeñas y en este caso pues escogimos Mérida. Hay 3 personas o 4 del equipo de organizadores organizadoras, que son todas las mujeres las que están por allá en Mérida, que estuvieron por allá muy activas y se hizo una votación. Yo yo busqué que fuera acá en Monterrey, pero ganó ganó ganó Mérida este año y ya veremos el año que entra. Y el objetivo pues es eso, ¿No? Finalmente ir a zonas nuevas, un bordear a personas nuevas. Creo que hubo mucho mucho mucho éxito ahí.
+
+[Speaker 1 - 00:12:29]
+Y también que personas nuevas hablaran. Pará, bray, ¿cómo se llama onboarding? Contanos, ¿qué qué tipo de dinámicas tienen
+
+[Speaker 0 - 00:12:38]
+para educar a la gente que era de web 2? ¿Y con qué, por qué fueron, digamos?
+
+[Speaker 1 - 00:12:45]
+El gran resultado, creo yo, del onboarding o de o el gran acierto fue hacer un tour previo local. Agarramos 4 semanas antes del evento y entre Óscar, Uruca, que es un chavo que está allá en Mérida, Karen, Soho, Brishis y se me olvida que el más está por allá, Pero hicieron un tour en universidades. Había una persona que tenía muchos contactos con universidades y dieron creo que fueron como 5 o 6 pláticas previas donde se veían espacios y áreas llenas. Y ahí fue donde creo que la gran mayoría del onboarding se realizó. También hubo historias así bien locas de una universidad que no conocíamos en Veracruz, una universidad pública, la universidad veracruzana que ya tiene más de 3 años dando clases de Blockchain en una carrera. O sea, hace poquito escuchamos que en Argentina estaban empezando a dar clases de esto. Estos tienen 3 años así calladitos, sin que nadie los conociera. Ahorita se empezaron a dar a conocer. Vinieron 20 alumnos a ser voluntarios acá en Etibium México, conocimos al profesor, conocimos a los alumnos, y participaron en el Hackathon, se quedaron en el Hacker House, esas historias de ellos, puta, una locura, por ahí estoy viendo para que el maestro se se se suba con nosotros a platicar en en en algún episodio de Banda Web 3 y que nos cuente todo lo que ha hecho.
+
+[Speaker 1 - 00:14:02]
+Pero el vato está haciendo ya nodos, está minando, está validando transacciones en Ethereum, está súper metido y la universidad veracruzana también. Este, creo que ya se están grabando el veracruzana también, este, creo que ya se están grabando la la primera generación de ese de esa carrera que es de programación y tienen varias materias ya hablando de esos temas ¿no? O sea, el el el gran objetivo de todo esto era una, identificar a esas personas que, y siempre de lo que de lo que hacemos y lo que yo hago acá en Monterrey, de lo que hacemos en el Tirón México, hay muchas personas que no han no se han acercado a comunidades. Entonces, es, una, hacer ruido, identificarlos que se acerquen, y luego empezar a contar esos esas historias de de de éxito. También estuvo chido ver proyectos nuevos salir, proyectos nuevos en tratar de buscar nuevos usuarios. No sé, no sé, en resumen creo que es ir poco a poco creciendo el ecosistema, conociendo más personas, y el objetivo definitivamente pues es que salgan más más más productos, más soluciones, más aplicaciones que resuelvan problemas.
+
+[Speaker 1 - 00:15:08]
+Pero bueno, ahí vamos en ese proceso poco a poco. Creo que estuvo muy chingón. La neta, me gustó mucho, mucho que mejorar definitivo. No hubo comida, no hubo agua, eso fue una gran queja. También los horarios creo que lo pudo mejorar un poco. ¿Cómo no hubo comida? ¿No hubo agua? Qué tremenda. O sea, por ahí había tiendas cerquita, este, y hubo galletitas y agua para los VIPs y los speakers y los voluntarios, pero para la banda en general no hubo, porque también el venue, el centro de convenciones como es muy nuevo, pusieron muy muy muy mamones y no querían mucho ruido y digo no ruido, perdón, tiradero y que se manchara el piso, el café no lo podías meter. Pero bueno, hay que buscar venue un poquito más amigables. La neta estaba muy chido. Sí estaba, sí se veía relativamente muy muy nuevo ese centro de convenciones allá en Mérida. Y mucha gente muy chido. La neta no sé, no sé, no sé, pero muy muy muy formal.
+
+[Speaker 0 - 00:16:04]
+¿Y hubo cómo es que? O sea, hubo stands, hubo gente que habló, había varios escenarios, hay 1 solo. ¿Cómo fueron las actividades?
+
+[Speaker 1 - 00:16:18]
+Teníamos 4 áreas principalmente. Bueno 5, ¿no? Una de pasillos y de la entrada y después teníamos un área de stands donde estaban los patrocinadores, donde teníamos ahí una salita de de de sillones para que gente descansara, había una pantalla donde estábamos haciendo dinámicas con POAPS, había también un estand que le llamamos nosotros la isla POAP, donde estábamos regalando, regalamos Ledgers, porque patrocinó Ledgers unas unas este personalizadas con el logotipo de Tiro México, son muy chidas, por ahí yo me me me traje una. Ah, mándame. Deja ver si si si te consigo una, pero sí, sí, sí, sí, sí están muy chidas. Este, de colección, creo que nada más hay como 35 o 40 en todo en todo la la la el lote. Pero estuvo chido ese espacio donde estábamos haciendo dinámica, se pusieron unas unas una un stand donde estábamos regalando marquecitas, eso las patrocinó también o bol. Las marquecitas son unos unos, este, no sé cómo explicarlo, pero es es como una como una, ah, güera, se me fue el nombre, este, como un como un, ahorita me acuerdo, crepa, como una crepa así dura con queso adentro, y le puedes echar chocolate, le puedes echar de todo, estaba muy rica, no estábamos regalando de esas y esa fue el área así como que relax para hacer networking y de los patrocinadores, estaba también el stand de Bitso que estuvo dando un chorro de merch, faltó creo yo ahí en esa área un poquito más de sillitas y de mesas para que la gente conviviera.
+
+[Speaker 1 - 00:17:49]
+Había un escenario principal donde le cabían más o menos 300 personas, en las pláticas de más audiencia sí se veía muy lleno, o sea estuvo muy chido verlo también, muy lleno el espacio, cuando dio su su su plática a Vitalik. Vitalik estuvo ahí en línea, dio una plática de inteligencia artificial, se veía con madre el espacio, pero había otros pláticas y y horarios de comida, por ejemplo, donde se veía un poquito más más más vacío, ¿no? Eso sí es algo que tenemos que ver cómo mejoramos el año que entra. Había otro escenario para workshops que le cabían yo creo que unas 40, 50 personas que también estuvo muy bueno y siempre hubo actividad en los 2. La neta, mucha participación, muy buenos comentarios, y por para los patrocinadores voluntarios y el equipo de organización, también había un área VIP que esa sí estaba muy fresa. Tenía sus sillitas, sus mesas, galletas, agua, etcétera. Para el año que entra no sabemos si vamos a repetir la misma dinámica, yo creo que yo creo que no, la verdad yo creo que va a ser algo diferente, donde vamos a buscar que haya más networking, que haya también probablemente un Hackathon.
+
+[Speaker 1 - 00:19:00]
+Porque sí hubo Hackathon, pero lo organizaron nuestros amigos de Open Web Academy. Ahí el Alan preguntó por ti, te manda saludos. Pero yo creo que podemos hacer algo diferente. Hackathon es una idea. Un pop up city como el que como el que tuvieron ustedes hace poco por allá en Argentina también es algo que que que tiene ahorita mucho mucho ruido y que probablemente busquemos hacer algo parecido, pero sí. Contrátenme,
+
+[Speaker 0 - 00:19:28]
+sáquenme esta, esta sí va, papá.
+
+[Speaker 1 - 00:19:33]
+Ya vente para México, mujer. Ya, ya, ya, aquí, aquí hay.
+
+[Speaker 0 - 00:19:37]
+Tengo experiencia, yo trabajé en la PodApp City.
+
+[Speaker 1 - 00:19:42]
+¿Le puedo comentar? Exacto, pues necesito que me cuentes todo eso. No he podido platicar con don Pepe que anduvo por allá también, pero ni contigo que que que sé que también anduviste ahí bien involucrado.
+
+[Speaker 0 - 00:19:52]
+Cualquier cosa ya sabes, estoy acá. Qué bueno una Pod Up City allá en en México, ¿eh? Sería increíble. Imaginate que tengamos una residencia constante de músicos web 3 que hagan música y que hagan música. Listo, solo eso. Sí, o bordearlos,
+
+[Speaker 1 - 00:20:11]
+hacer música, que la mienten, que la regalen, que la vendan. Hay un chorro de cosas por hacer, hay muchas ideas, pero bueno, ahí ya estamos empezando a, bueno, no es cierto, todavía no empezamos porque seguimos terminando de pagar, de cobrar, de mandar reportes, todavía hay mucho trabajo, este, de hecho, al ratito tengo junta con con la jefa Brishis para ver el los pendientes que hay, pero muy chido, la neta, la neta, muy chingón, vino gente de Colombia, vino gente de Argentina, por acá estaban también vinieron de Canadá, de Estados Unidos, un par de personas de Europa, muchos de todo México, un chorro de gente viajó para ir para allá y aprovecharon también que hay pirámides, que hay playa, fuimos un día a la playa, fuimos otro día a, bueno, no, no es cierto, yo casi no turistía por por andar en chinga, pero sí un día fui a la playa y otro día a disfrutar de la comida de por allá de Yucatán, que está muy rica. Muy chido, la neta, muy chido.
+
+[Speaker 0 - 00:21:14]
+Qué lindo escuchar eso, mi Mexi. Yo me lo re perdí, pero sé que todos los etéreo malos siempre están buenos. Acá en Argentina, el etéreo argentina, el último no fui tampoco, porque estaba con mucho trabajo, pero me dijeron que estuvo bueno también así. No escuché, escuché muy por arriba, ¿no? Pero bueno, es una muy buena excusa siempre para encontrar a los amigos, hacer contactos, sabes como tener todo tener también una excusa para tener preparado, no sé, un de tu de tu nueva presentación o para, no sé, contratar músicos web 3 para que toquen en esos eventos, que eso a mí me re interesa, ¿viste? Siempre los pongo a disposición a los chicos porque porque nada, es una representación de la tecnología también y sabemos que siempre la música es bienvenida en todas las conferencias. Así que bueno, ahora nosotros justo tenemos la Bitconf que va a pasar ahora en noviembre y no, y me estoy me estoy preparando también por ahí. Estoy esperando a que me digan, me den el ok para para empezar a a reclutar a mis a mis bellos músicos de acá que que vayan a tocar y parece que va a estar muy bueno.
+
+[Speaker 0 - 00:22:21]
+Ahora el el escenario de creadores le dieron un escenario mucho más grande que el que le habían dado la última vez. Así que seguramente vuelve a hacer speaker, no sabemos todavía. Y bueno, acá andamos. Cuando quieras, podés venir, ¿eh? El mes que viene tenemos el avalANGE summit. Tengo que sacar mi entrada todavía, pero bueno, yo ya te invité hace como un año ese. Así que cuando quieras, soy bienvenido. Y las personas que están en la sala, les pido por favor que le den un like y un retweet a esta sala, así llevan más personas. Los invito a hablar también. Les comento que estuve esta semana investigando a full un montón de plataformas que ya me había olvidado que existían de música web 3, que las investigué en el año 2022 y pensé que habían cerrado. Y parece que hay muchas que siguen activas. Algunas tienen curaduría, lo que es malo, pero otras no. Así que nada, estoy también para hablar de eso. Y, bueno, acá esperando que alguien me haga de cohost. No sé, yo voy a invitar a Mixey, pero igual sin ningún compromiso a Mixey, te puedo decir cuando quieras.
+
+[Speaker 0 - 00:23:27]
+Y, nada, chicos, pasen, hablen, díganme qué estuvieron haciendo de música o con Web3 o lo que sea. Sé que Gabriel regular ahí estuvo sacando unos unas colados. Sé que Within the Backup está ahí con proyectos con sus hub. Sé que hay personas acá en la sala que están siendo un bordeadas, por ejemplo, Aka, que tal vez tiene algunas preguntas que los quiere hacer. Vayan subiéndose y díganme qué es qué es lo que qué es lo que qué es lo que cuenta, mi gente.
+
+[Speaker 1 - 00:23:58]
+Yo quiero saber 2 cosas. Una, si vas a Devcon o no vas a Devcon o si alguien de aquí iba a Devcon, a ver manitas para arriba, manitas para abajo. Y 2, qué onda con lo de la ONU? Ya no hemos platicado, Tocaste, hay video, no hay video. Platícanos, ya les platicaste, me imagino, pero yo no sé, algo, un resumen, lo que sea.
+
+[Speaker 0 - 00:24:20]
+No, no hablé mucho de eso, la verdad, lo de la ONU. Pero en resumen, Sol 7 estuvo representando a la comunidad, en la ONU, en las Naciones Unidas, a través de una comunidad de mujeres en la Web3, que se llama Women of Web3, y estuvo muy bueno. Estuve estuve hablando sobre cómo la Web3 cambió mi carrera musical y por qué la colaboración es importante, hablando mucho sobre la comunidad y bueno, nada, estuve hablando en general sobre la Web3, estuvo muy bueno porque hicieron preguntas significativas, yo y otras 15 mujeres estuvimos hablando también, no es que me hicieron entrevistas solo a mí ni nada, ni era de música ni nada, yo fui una de las tantas mujeres que trabajan el ecosistema, que estuvo hablando sobre el ecosistema de Web3. Y nada, estuvo bueno, gracias a Mexi creo que entré, no sé, a mí me nominó la comunidad supuestamente. No sé quién fue que me nominó, pero bueno, Ahí me agarraron y me pusieron ahí.
+
+[Speaker 0 - 00:25:23]
+Fue a través de Zoom. Lo único malo que puedo decir es que mi guitarra no se escuchó bien, pero todo el resto de las cosas salió bien. Sí toqué una canción y también estuve estuve ahí casi al final para hablar, o sea, con con el resto de las chicas, que era más de de cultura en la web 3 y etcétera que estamos construyendo. Estuve con en un panel con Jennifer de One Love Dao, que es una Dao de artistas visuales en Web3, y estuve con Superama que que es una chica venezolana que mandó su NFT a la Luna, literal tipo en un cohete de la NASA. Ay, perdón, en un cohete de la algo Ah, verdad que no se puede decir, pero bueno, Anyway, tipo ella mandó su NFL a la Luna, literal. Mielón, de Mielón. Y bueno, y bueno, cuestiones que estuvimos ahí y y estuvo bueno. Sí, yo me puse muy nerviosa, estuve como 3 días sin dormir antes que suceda. Me fui a cortar el pelo, me me hicieron ponerme un traje azul.
+
+[Speaker 0 - 00:26:25]
+Creo que fue la primera vez en mi vida que una entrevista toda vestida de azul. Nunca en mi vida me vestí de ese color, me parece. Así que bueno, estuvo bien divertido. Estuvo muy muy divertido. ¿Y qué onda lo del libro, tu participación? Sé que estas chicas van a sacar un libro sobre las mujeres en web 3. ¿Cómo es eso? ¿Cómo participaste? ¿Cómo fue todo eso? No sé, no entiendo nada. Yo todavía sigo sin entender nada.
+
+[Speaker 1 - 00:26:58]
+Sí, justo te iba a platicar de eso porque te quería platicar de eso porque ya, ah bueno, no, ya te mancí, no, ya lo viste, sí, ya viste el capítulo, ¿verdad? Pero Sandy, Sandy y sus conexiones por ahí conectó con con creo que Cindy Coon y pues todas las mujeres, las morras que andan por ahí en el en en en en ese en esa comunidad tratando de de de platicar de estos temas en espacios distintos con audiencia diferente, ¿no? El año pasado estuvieron en la ONU, dando esa primer plática web 3.1 NFT, etcétera. Hoy, o este año, perdón, volvieron AAA repetir, y dentro de todas las iniciativas que traen como eventos, etcétera, pues salió la oportunidad de publicar un libro, y me invitaron a mí, libro. Y me invitaron a mí como asesor a hablar de de de cómo en mi experiencia he visto que que que podemos, o cómo he visto yo y cómo también yo he apoyado iniciativas de mujeres, proyectos de mujeres, y afortunadamente, pues, tuve la la la oportunidad de de de preparar ahí un capítulo muy cortito, son como de 501600 palabras, o sea, no es muy largo, son como 3, no, unas 4, 5 hojas, yo creo, del libro, y platiqué de lo que estoy haciendo con Badi, con la CEO que es Natalia Cueto, lo que hicimos acá en Monterrey con Sol, por ahí ahí publiqué también o o subí, mandé una foto con Sol ahí con el cerro la silla atrás, afuera de MX Web 3, Platique y les conté un poquito de de de mi relación con los artistas y las artistas, y cómo todos nos podemos beneficiar de una colaboración.
+
+[Speaker 1 - 00:28:37]
+Platique también ahí de de de Lu, que también por ahí dio una plática y que pues es la abogada preferida de de de toda la banda de la web 3. Creo que está muy chido, ¿no? Tiene un capítulo Superama como asesora, tiene un capítulo Sandy, tiene un capítulo Ananá, tiene un capítulo Wildy. Son como 7, 8 chavas las que están por ahí escribiendo su historia, su cuento, su su su su su camino y pues bueno me subí, me monté al tren del mame ahí con el libro, nunca había yo participado en algo así y estuvo chingón.
+
+[Speaker 0 - 00:29:12]
+Estuvo bueno escribir, ¿no? A mí me me causa mucha intriga. ¿Qué pasa cuando una persona escribe un libro y sale el libro? Literal y vos ves que salió lo que escribiste y que hay un montón de gente en el mundo que tiene eso en su casa, es como raro, ¿no? En la sensación.
+
+[Speaker 1 - 00:29:28]
+Sí, la neta no no no, o sea, sí había pensado y sí sí había en algún punto no soñado porque tampoco es wow quiero, pero ya que ya que se presenta la oportunidad y que haces el libro y que se empieza a juntar todos los capítulos y que las fotos y que ya empiezas a ver el proceso y a entender cómo es, está chingón. Van a lo vamos a vender en Amazon, va a traer un código QR que te va a mandar a reclamar un NFT, obviamente trae los logotipos de la ONU, de el foro de ciencias en el que participaron el año pasado, esa historia también por ahí está incluida. Si si fue algo muy loco, este, YYY voy a poder decir que soy autor de un libro o de un capítulo, ya ni sé. Pero bueno, ese es ese es algo
+
+[Speaker 0 - 00:30:20]
+adicional ahí del currículum. Che, tenemos que escribir un libro nosotros también, Mexi, la puta madre. ¿Cuándo hacemos un? Hagamos como una colección, algo así, junte 2 plata, hagamos un libro todo sobre web 3, así, que lo escriba Chachi Piti, ya fue toda la mía.
+
+[Speaker 1 - 00:30:38]
+Obvio, utilicé mucho GPT, este, para ajustar ciertas ideas. Pero sí, no, ya después de esta experiencia, después de ver cómo cómo fue el proceso y que, pues en realidad lo mandas a a edición y y solo se imprimen los que compran, Amazon te ayuda y es ya un proceso mucho más sencillo y más fácil que que que que como era hace unos años, este, definitivamente tenemos que escribir algo en español, porque este libro es en inglés, se va a traducir en el futuro y se va a vender también en español, pero yo creo que podemos ir avanzando mucho nosotros si nos organizamos, pero sí es un tema de, pues, de poner fechas y en realidad comprometerse, porque juntas de seguimiento y el libro tiene una estructura. A mí, por ejemplo, me dieron un un un un guion, no un guion, pero sí una una dinámica de, a ver, eso es lo que dice el libro, tú como asesor de preferencia maneja esta estructura, ¿no? Cuenta la la historia de esta manera, o sea, si te dan una guía que que que sirve un chingo para después poder compaginar todo el libro y que tenga una una una buena estructura y una buena lógica, ¿no?
+
+[Speaker 1 - 00:31:49]
+La verdad sí sí está padre y sí necesitamos alguien que ya le sepa, yo no le sé ese pedo, yo participé, Pero sí puedo, yo creo que después de esta experiencia podemos conseguir alguien que nos pueda ayudar. Sí, es que Sería increíble. Nos queremos Pero ojalá
+
+[Speaker 0 - 00:32:07]
+quisiéramos, escuchaste lo que dije al principio del Space que hay una casa de gran hermano acá en Buenos Aires que están haciendo con coders de Avalanche. Te conté.
+
+[Speaker 1 - 00:32:16]
+Sí, se escuchaba chingón. No sé si pueda ir ahora lo de Avalanche. Sé que van a van a ir va a ir un equipo mexicano, creo que va de Zoho y su equipo de trabajo que ganó el Hackathon acá en México y que se ganó la la el viaje para allá para Argentina. Entonces, por allá te, si no la conoces, por ahí te pongo en contacto con ella. Hola. Pero La conozco, pero no en persona. Me encantaría, persona en persona. Sí, no, allá, allá la conocerás. Este, pero sí, sí, sí, sí, la neta, muy, muy chido el el el que tengan una casa así, vota, acá nos faltan debers, definitivamente en México nos faltan más desarrolladores, veo que en Argentina hay mucho movimiento en ese sentido. Ahora que estuve en el Hacker House en Mérida, que también hubo un Hacker House y ahí me quedé, estuvo muy chido, pero estamos muy verdes todavía, ¿no? Hace falta mucho trabajo para tener más desarrolladores web 3 acá. Pero ¿cómo sería bueno hacer como una casa de Gran Hermano
+
+[Speaker 0 - 00:33:11]
+web 3 así tipo el Makesy, yo, Gabriel, nebular tocando la guitarra, el gato hablando sin parar, que trae como 20 gatos adentro de la casa. ¿Viste? Esa ese tipo de cosas estaría bueno. Hablando a Gabriel, ¿cómo estás, Gabriel? Bienvenido.
+
+[Speaker 1 - 00:33:29]
+Se parece muy buen contenido.
+
+[Speaker 0 - 00:33:36]
+Bienvenido Gabriel, ¿cómo estás?
+
+[Speaker 1 - 00:33:39]
+Gabriel, Gabriel, Gabriel, ¿dónde andas? No, está destapando su micrófono, no lo escuchamos. ¿Ya se subió? Sí, ya se subió. ¿Qué onda Gabriel? ¿Cómo están?
+
+[Speaker 0 - 00:33:57]
+¿Cómo vas, Fabián?
+
+[Speaker 2 - 00:33:59]
+Bien, estaba ahí terminando de de almorzar.
+
+[Speaker 0 - 00:34:02]
+Qué suerte que tenés, hermano. ¿Cómo va, todo bien?
+
+[Speaker 2 - 00:34:07]
+Bien, recuperándome de una de una peste, pero por suerte ya estoy mejor, así que contento, pues. Están todos afectados. 7, 8 días, así que tremendo emboli.
+
+[Speaker 0 - 00:34:19]
+Oh, tiempo para dibujar, tiempo para ver Los Simpsons.
+
+[Speaker 2 - 00:34:24]
+Tiempo web 3.
+
+[Speaker 0 - 00:34:27]
+Tiempo web 3, tiempo para spaces. Me acuerdo donde estaba engripada y tenía que que hackear tenía que hostear igual y todo. Hola chicos, ¿Cómo están? ¿Qué onda? ¿Qué se qué se cuenta?
+
+[Speaker 2 - 00:34:49]
+Bien, ahí como decías vos, estuve haciendo unas colaboraciones mezclando un poco de música, videos viejos, un poco de glitch. Ya vamos como por el tercer capítulo de esta serie, en en Tezos está. Y después la verdad que no mucho más con con los chicos de de El Círculo, que son mis amigos acá de Mardel de de Baldón y se va todos ellos y van un nena. Subimos otro tema de la de la sesión que arrancamos con con el drop colectivo pasado, de música web 3. Así que, nada, aprovechando que es contenido que va a ir a YouTube y que que nada, está bueno en cierto punto que por lo menos esté en Sora.
+
+[Speaker 0 - 00:35:48]
+Buenísimo hermano, qué bueno escuchar eso, me encanta que estés colaborando con gente de web 3. Veo que está súper activo, que la gente realmente te colecciona las cosas, así que, erro orgullosa. La verdad que que músicos de música Web3 estén estén en la comunidad música W3, que se estén haciendo amigos, que están sucediendo cosas, ¿viste? Siempre es importante. Si querés, le podés dar un retweet un like a la sala. Y ustedes también, personas que están que están acá en la sala, si le pueden pueden dar un poco de amor, unos comentarios, un GM, cualquier cosa es bienvenida. Y tengo noticias sobre sobre plataformas, pero bueno, antes de eso quiero quiero escucharte más, Gabriel, contanos.
+
+[Speaker 2 - 00:36:37]
+¿Qué más puedo contar? No estuve subiendo nada sola, yo todavía no me he animado al protocolo nuevo, la verdad. Personalmente no sé ni qué subir. Yo tengo tengo como una vertiente de fotografía analógica y después de videos y de música. No sé si me interesa subir, pero lo que sí estuve coleccionando bastante. ¿Esa?
+
+[Speaker 0 - 00:37:01]
+¿En dónde?
+
+[Speaker 2 - 00:37:03]
+En Zora está bueno la verdad comprar de a varias ediciones, me di cuenta.
+
+[Speaker 0 - 00:37:08]
+¿Y eso por qué cómo es? Te comprás 3, 4,
+
+[Speaker 2 - 00:37:11]
+después te guardas una y después las otras las vendés en el secundario y y es como que estás coleccionando gratis en realidad. Me pareció copado eso en un punto. Así que la verdad que estaría bueno manejar un poco más hora y por lo menos coleccionarnos entre nosotros y después vender en el secundario.
+
+[Speaker 0 - 00:37:31]
+Totalmente. ¿Qué onda el secundario? ¿Se vende? ¿Decís que son bots? ¿Decís que son reales?
+
+[Speaker 2 - 00:37:37]
+No, no, no sé si hay bots como había antes. Antes, por lo menos, viste, había esos bots que compraban y mal que mal, no sé, al artista independiente le sirve, pero ahora ya no hay nada de eso. Así que es como que depende entre nosotros moverlo, porque si no, parece que no va a venir nadie afuera a a mintear YAYA darle un poco de de difusión a todo, ¿no?
+
+[Speaker 0 - 00:38:07]
+Totalmente, o sea, yo creo que igual, o sea, y ahí es donde entra donde entra lo que digo yo, que esto es algo que que decimos mucho en spaces y últimamente se está hablando mucho. Es que si me preguntás a mí, o sea, yo soy mentora de música web del 3 y hago un curso todos los meses y estoy en constante movimiento con un montón de artistas de todo el mundo que que quieren aprender lo que de lo que sé. Y te puedo decir que la verdad es que la mayoría de los músicos tiene esto de que, y no y no no por mal, ¿no? Porque yo también soy música, yo también fui así y todo, pero siento que como que los músicos están muy acostumbrados a que otros músicos los escuchen, que otros músicos los apoyen y esperar mucho del resto en vez de dar algo a cambio. Es como que son muy así cómodos, ¿viste? Que está bien, o sea, el artista fue fue creado, fue nacido para para hacer arte y eso está buenísimo. Pero también siento que los músicos independientes quieren seguir siendo independientes, pero sin ser emprendedores, lo cual está mal.
+
+[Speaker 0 - 00:39:11]
+Porque si vos no sos emprendedor en lo que hacés cuando hacés música, no tenés un negocio. Con la música es como difícil esperar que tener un negocio sin ponerle atención al negocio. Entonces, o sea, lo que yo siempre digo es intenten buscar ustedes de una manera original, de una manera en la que les sirva y investiguen las plataformas y vean que cómo cómo pueden usar tecnología híbrida para poder migrar sus audiencias. Porque si un músico ya tiene audiencia en web 2, ¿para qué buscar una una audiencia en web 3 que son músicos? O sea, la idea es que los músicos puedan encontrar su modelo de negocios y su y migrar sus audiencias de una de una web a otra. Es difícil, sí, nadie dijo que iba a ser fácil, pero te van a pagar el triple que lo que te paga Spotify. Entonces, termina valiendo la pena ponerle tiempo a eso, en vez de ponerle tiempo a Instagram y subir un una foto de tu desayuno y responder 50 mensajes diciendo hola, hola, hola. O sea, creo que todo tiene que ver con la cuestión de de cómo administrás tu tiempo y si realmente te tomas en serio tu carrera o no.
+
+[Speaker 0 - 00:40:18]
+Y yo creo que se volvió muy tóxico eso, de que los artistas siempre se estén comprando entre sí. Porque al fin y al cabo 1 no sale a buscar, no hace estrategias para buscar nuevos coleccionistas y para ponerse en contacto con su audiencia de la manera íntima a la que se espera. Porque al fin y al cabo la Web3 fue creada para eso. Fue creada para para que haya más contacto entre las audiencias y los y lo y y los músicos y que el músico pueda hablar constantemente con su audiencia para para darle beneficios, para para hacer que que su negocio realmente se prospere basándose en la audiencia que realmente quiere ver o crecer al músico, ¿viste? Entonces yo creo que más que incentivar a otros músicos a que te compren y gilear tu música en tipo música o deletregues o en otro lugar o otras comunidades de música, creo que hay que poner el tiempo en migrar las audiencias o o estudiar una manera estrategia que te pueda servir para poder vender tus obras de la manera en la que en la que puedas, digamos, ¿no?
+
+[Speaker 0 - 00:41:20]
+Esa es mi perspectiva, tipo. Yo lo veo así. Yo lo viví así también cuando hacía música webpress. Ahora no mucho, la verdad no me dedico a vender. Pero pero sí creo que que está bueno que podamos salir de de los círculos ya conocidos y empezar como a entender que 1 necesita una comunidad digital. Porque si esa no le das atención y no tenés tu comunidad digital, es como a quién se lo vas a vender, ¿entendés? Es como ir a tocar y que te vaya a ver tu mamá y tu abuela todas las todas las veces que tocas y que nunca vaya nadie nuevo y que no te preocupes por hacer ningún tipo de dinámica o engagement con tu público, ¿viste? Como esperar a que vengas solo, ¿no? Entonces, qué sé yo, ahí es donde empieza el debate entre ah, una comunidad totalmente web 3, o me me baso solo en en comunidades, o app. No, yo no no fui, no nací para hacer contenido. Entonces, pero voy a poner mis cosas y me las van a comprar igual porque soy dios. O sea, no sé, es como que hay como muchas muchas aristas ahí que son raras, ¿viste?
+
+[Speaker 0 - 00:42:23]
+Pero bueno, ahí dejo que comenten lo que quieren. Y nadie decía nada.
+
+[Speaker 1 - 00:42:32]
+Venga, ya se subió toda la banda. ¿Qué dice Jeysa? ¿Qué dice Drymac? Saluditos a todos los que están por ahí. El gato, Gonzalo, Martín, Sty, Carolina, Jakub. Un like, un retweet, un comentario, todo suma, todo suma.
+
+[Speaker 0 - 00:42:47]
+Feneno my frienddo, muchas gracias. ¿Qué onda? ¿Qué onda? Destapen,
+
+[Speaker 1 - 00:42:52]
+destapen. ¿Quién nos cuenta algo? Yeisa, échale, Yeisa.
+
+[Speaker 4 - 00:42:56]
+Hey, ya, Mexi, ¿cómo vas? ¿Se escucha bien?
+
+[Speaker 1 - 00:43:00]
+Sí, ha sido ya agarrando la rutina y terminando ya los pendientes de Tirar México para empezar con el siguiente proyecto. ¿Tú qué onda? Ya empecé a hackear con un Al ratito les cuento, tengo que agarrar un espacio completo para ver, para contarles la idea que traigo para empezar a desarrollar ya un un un MVP, un start up, pero bueno, sería en otro momento yo creo. Ah, sí. O bueno, no sé. Qué bien. ¿Tú cómo andas? Yo bien, ando aquí en Montenegro.
+
+[Speaker 4 - 00:43:27]
+Este, fui al al Highfest en Croacia. Estuvo estuvo muy bueno, muy muy muy interesante. Mucha acción con la con Blockchain de Hype. Sobre todo los protocolos que se dieron el año pasado Rosarito. Me gustó mucho el de ahora, porque ya en el año pasado todavía era como que había código, pero era mucha idea, ahorita ya se ve un producto, pues, ya casi terminado. Los que no saben que es value for value, es básicamente un, podemos decir que es como un tipo de bridge, pero un poco más allá, que básicamente lo que hace es que tú puedas ya meter al ecosistema de Hype, puedas tú comprar tokens rapeados. Entonces, tú, por ejemplo, puedes meter de lightning. En lightning tú puedes comprar vía el protocolo RCC, toques en bitcoin rapeado o third rapeado, así, para que esos token existan dentro de de esa capa de de Hybe.
+
+[Speaker 4 - 00:44:28]
+Y en breve todos los beneficios de Hybe, que es 0 fees, transacciones inmediatas, etcétera, etcétera. Entonces, eso eso lo lo es importante porque a nosotros nos da una oportunidad de tener más liquidez, porque usualmente una de las cosas difíciles en Hydra es encontrarlo en los exchanges. Entonces, de esta manera ya no es necesario tener demasiado, o sea, si puedes acceder al iDing, pues ya puedes obtener rápidamente hype, puedes participar en el ecosistema, etcétera, ¿no? Y lo otro que me gustó de de de Value for Value es, bueno, lo lo de los podcast. Ya todos los podcast de de de la generación podcast 2, pues ya tienen su tag, o bien, su especificación ya tienen su su tag de micropagos y, bueno, eso de micropagos hace que cualquier persona que tenga un podcast o que haga un stream, ya pueda recibir pagos.
+
+[Speaker 4 - 00:45:29]
+Y bueno, hay muchas plataformas que ya soportan el protocolo completo, entonces estas plataformas ya te permiten a ti si tienes un podcast, pues recibir donaciones, recibirte este pagos de forma instantánea, mientras ya sea mientras produces el podcast como versión en vivo o ya este delegado, ¿no? Que la gente lo escuche y me diga, ¿sabes qué? Esta parte de tu podcast se merece, no sé, 5 dólares, o esta parte de tu podcast me me gustó YYY te voy a taggear. Este, y y bueno, pues es todo eso es lo que lo que se ve bastante bueno para para ver cómo evoluciona el impacto en el Internet. Sobre todo porque, bueno, abramos mucho micropagos, pero casi no hay tanta implementación en, pues, en las actividades web, no no hablemos de web 3, pero web, o sea, digamos, escuchar un podcast, ver un video de YouTube, ver un video de Twitch, que realmente integren con, pues, esto, ¿no?
+
+[Speaker 4 - 00:46:35]
+Los micropagos y que sus pagos tengan realmente un valor. Por ejemplo, tienes el el el súper chat en YouTube, pero el súper chat, Google te cobra el 50 por 100 de lo que le dones a la persona. Eso, pues, sí está bastante grosero. Y de esta otra manera no necesitas AAA un Google o a un YouTube o a un Twitch para que te ofrezca esa funcionalidad, por eso ofrecer directamente y el pago llega íntegro. Entonces creo que eso es bastante bastante importante para la comunidad que se
+
+[Speaker 0 - 00:47:12]
+dedica a estudiar. Qué bueno que qué bueno que sea con los podcaster, ¿no? Como que los podcaster siempre es como un re trabajo hacer un podcast y, sin embargo, nunca fueron pagos, ¿verdad? O sea, es muy loco que que justo Web3 también venga a solucionar ese problemita, ¿no?
+
+[Speaker 4 - 00:47:27]
+Así es, así es. Y es que Web3 de alguna manera es el Internet del dinero. Entonces, y es código. Entonces, si lo puedes programar en el protocolo de algo tan tan masivo como un blog, como un podcast, como un stream. Pues, ¿qué qué qué es más importante?
+
+[Speaker 0 - 00:47:48]
+Totalmente. Muchas gracias por la por la del aporte. Perdón, ahí me decís que te corte, dale.
+
+[Speaker 1 - 00:47:55]
+No, no, es que estoy experimentando con con con una nueva forma de de crear contenido y de tokenizarlo y un canal exclusivo y no sé qué, pero Hype fíjate que no lo he experimentado. Voy a voy a voy a ver a ver qué se puede hacer porque, ay, güey, estoy haciendo todo un procedimiento. Quiero hacer todo open source, a ver qué tal sale. Pero sí sí sí estoy viendo definitivamente maneras de monetizar. Está cabrón, está cabrón, no está fácil.
+
+[Speaker 4 - 00:48:21]
+En el Hype tienes three speak y todo lo que sale en three speak puede ser tanto video, o sea, originalmente es video, pero también tú puedes, por lo menos el app, te permite también cambiarlo a audio. Entonces, si tienes un programa de audio únicamente, como este, por ejemplo, lo subes a 3 peak, automáticamente te da un feed de RCS, y automáticamente te da el te activa los micro pagos y donaciones, etcétera.
+
+[Speaker 0 - 00:48:53]
+Está buenísimo eso de las micro ocasiones. Estuve viendo un par de cosas también en Solana, que ahora bien van a salir como unas cosas que se llama Blinks, que es como los frames de workers, pero en Twitter con Solana va a ser una locura. Yo me estoy ahí bastante migrando para allá y también hay un loco que sacó un link para justamente para podcasters, para dar donaciones y qué sé yo con con Solana. Está bueno eso, ¿eh? Me está gustando mucho esto de los tips por podcast. Y quien quiera coleccionar, bienvenido sea también, ¿no? Ojo con esto de la colección y coleccionar piezas de audio, digo, ¿no? Como podcast y canciones y todo eso. Que me parece que también es como como veo el futuro un poco, es esto de que vuelva a las colecciones, pero que no sean tangibles, sino digitales, ¿no? Como todo el mundo tiene una colección de algo en su casa, siento que los podcasts y la música y todo eso va a ser eso también, ¿no? Como en un futuro no muy lejano. Perdón que corte.
+
+[Speaker 0 - 00:49:53]
+Como estamos ya por terminar, porque nosotros tenemos una reunión después con con Gonza, porque estamos vamos a tener una reunión con un cover porque estamos como buscando coders en de Rust de Solana para poder terminar de desarrollar el marketplace que estamos haciendo para música en Solana. Así que bueno, si alguien sabe de algún cover de de Rust, que le guste la música y que quiera codear, esta aplicación con nosotros, bienvenido sea. Y le quiero dar la palabra a Herimax, que está acá, con la mano levantada, que tiene algo muy lindo que decir. Yo ya vi qué es. Pero bueno, lo dejo a él. Dale, Herimax, ¿cómo estás? Bienvenido.
+
+[Speaker 3 - 00:50:34]
+¿Qué tal? ¿Cómo están? Feliz lunes a todos. Sí, justamente en estos días venía a comentar cosas y estoy publicando un blog nuevo en en el territorio de música de en T-Dogworld. Justamente el post que pedí es un poco de mi experiencia sobre presionar música de los 3 a modo más personal y más, este, justo de vista de de de saber, este, consciencia de todo eso y y dar a conocer mi experiencia, mi mi mis vivencias y todo ese tipo de cosas que me ha llevado todo el mundo. Entonces, la opinión aquí en en comentarios. Y eso sería todo. Gracias.
+
+[Speaker 0 - 00:51:27]
+Muchas gracias, Geri. Qué lindo tenerte. Sí, lo vi y está acá arriba Piñón, así que quien quiera leerlo, Geri Max. Es tremendo escritor. Así que vayan a leer el último blog que puso en el T2 World. Para quien le gusta escribir, no se pueden perder esa plataforma. Está increíble. Estuvimos con música de Olé de 3 la semana pasada dando premios a a músicos y y bueno gente, artistas que que escribían algo sobre música en este en este blog. Espero que podamos hacer otra muy pronto. La verdad que nos encanta premiar a la gente que que aporta a la comunidad y que también se toma el tiempo de escribir y de analizar las cosas. Así que, bueno, estuvimos ahí como curadores leyendo un ratito y, bueno, tomamos la decisión y los que ganaron fueron Hannimax, Nena. Y, bueno, eran 5 enanos y me vienen todos acá de Osvaldo, Geleven y creo que me estoy olvidando de alguien más. Pero, bueno, es eso. Después acá arriba también Piñé después del este blog de Herly, por si quieren sumarse a ver qué qué es ser un coleccionista de música y por qué hay coleccionistas de música.
+
+[Speaker 0 - 00:52:33]
+Que es muy importante también que ustedes sepan esto, si están escuchando este space. Me tomé el atrevimiento de Piñar el el último la última colaboración de Gabriel Nebular, que es tremendo músico, que está acá en la sala, que estuvo hablando antes, que hizo una colaboración con el en CírculoRec y Baldoni, en Sora. Así que vayan ahí a coleccionar también estar acá arriba Piñava, así que son coleccionistas de música. No se pueden perder la música de Gabriel, que es muy linda y tiene mucho talento. Estoy súper contenta que personas tan talentosas hagan parte de la comunidad de música doble de 3. La verdad es que acá, Yoshiro y Gonza y Nena siempre estamos trabajando para que podamos darle más beneficios y educación y y consejos y estrategias y herramientas a todos los músicos de Webtres que que estén enganchados y que les gustaría monetizar 000 tener carreras un poco más sostenibles 0Y0 mismo usar tecnología Blockchain por un tema de revolucionario, por un tema de privacidad, por por un tema de descentralización.
+
+[Speaker 0 - 00:53:37]
+Entonces, nada, muy contenta, la verdad, de tenerlos acá el día de hoy. Me encantaría que, si están en el espacio, le puedan dar un retito en like a esta sala. Así esta comunidad sigue creciendo. Le quiero agradecer a Mexi por haber coanfitronado este espacio hermoso de Música W3 para que estamos todos los lunes a la misma hora, en el mismo lugar. Música W3 es una comunidad de músicos independientes latinos, unidos por la Blockchain. Estamos acá para promocionar, educar sobre la música web 3. También hacer colaboraciones, contactos y alianzas con otras comunidades para potenciar la tecnología Blockchain y hacer que haya más opción de la misma a través de eventos, charlas, workshops, estas cosas virtuales, estas radios, podcast, etcétera. Así que, bueno, mi gente, gracias por sintonizar. Les pido, por favor, que dejen un comentario antes de irse. ¿Qué les pareció el Space? ¿Le gustó o no le gustó? Si les gustaría sumarse el próximo Space para hablar de su proyecto, para hablar de algo, alguna actualización interesante que tengan por ahí.
+
+[Speaker 0 - 00:54:42]
+Mexi, buenísimo Loguetero en México. Te felicito, hermano. Espero poder estar la próxima. Y cuando puedas venirte a Argentina, vos chifla que tengo un vino que te guardé acá. Así que están en una guerra entre Sami, sí, Sami y vos, a ver quién viene primero para tomarse ese vino. Y, nada, gracias, hermano. No sé si tenés unas últimas palabras.
+
+[Speaker 1 - 00:55:08]
+No, muchas gracias. Los invito el jueves. El jueves voy a estar por ahí entrevistando a Natalia Cueto. Y te invito también de una vez a ti, Sol. Ahí te mando bien para ponernos de acuerdo cuando cuando estás disponible para para para echarte una echarnos una entrevista, una platiquita así sin guion, 1 a 1, tranquilo, platicar de todo y de nada. Ya luego veré qué hago con esos espacios, pero la idea es que sea todo pensource, que vean cuál es el procedimiento y que cada una de las personas que vaya y asista tenga un canal Token Gated con la invitación por ahí que estoy mandando. Banda punto Mexi punto wTF pueden ir a reclamar su NFit gratuito, ahí se los dejo en los comentarios. Gracias, Sol, nos vemos.
+
+[Speaker 0 - 00:55:50]
+Muchas gracias, Mexi. Qué lindo. Acá lo piñata arriba, por favor, pongan el recordatorio en el spate de Mexi, que va a estar buenísimo. Y me encanta este nuevo proyecto de banda web 3 que estás haciendo, Mexi. Felicitaciones por todo lo que estás haciendo, lo que estás construyendo. Me encanta ver crecer tu proyecto siempre y conta conmigo para lo que quieras. Así que, bueno, mi gente, los amo mucho. Espero que estén muy bien. Acuérdense de de coleccionar. Siempre música sepan que esta industria promete muchísimo, así que si quieren invertir en ella, bienvenidos sean. Les mando un beso a Hedy Max, a JZ A, a Jorge, al gato, a Haku, que estuvo acá todo el space. Muchas gracias, hermosa. Sedekis Gonzalo, a Sam, a Martín, a Steve, a Aka, que es otra música acá, música de 3 que recomiendo mucho su música, lo mismo Weid in the Back y Mi Gyoshiro y David y otra ruidoso y The Infiltre, que son todos músicos y productores de música supertalentosos. Carolina, bienvenida. La primera vez que te veo acá te voy a seguir.
+
+[Speaker 0 - 00:56:51]
+Steve Ball también. Te mando un abrazo, hermano. Espero que estés bien. Así que bueno, Sam, Thank you for bee hereles a Martin. Les agradezco un montón su presencia y nos vemos prontito. ¿Está bien? Un besito. Que estén muy, muy bien. Adiós.
