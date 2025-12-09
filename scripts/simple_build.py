@@ -45,6 +45,43 @@ def format_display_date(date_str):
     except ValueError:
         return date_str
 
+def check_transcript_exists(space_id, transcript_type="deepgram"):
+    """Check if a transcript exists for a given space_id"""
+    base_dir = Path(".")
+    if transcript_type == "deepgram":
+        transcript_path = base_dir / "shared" / "transcriptions" / f"{space_id}.txt"
+    else:  # fireflies
+        transcript_path = base_dir / "shared" / "transcriptions_fireflies" / f"{space_id}_fireflies.txt"
+    return transcript_path.exists()
+
+def get_transcript_github_url(space_id, transcript_type="deepgram"):
+    """Generate GitHub URL for a transcript"""
+    base_url = "https://github.com/mexiweb3/BandaWeb3/blob/master/shared"
+    if transcript_type == "deepgram":
+        return f"{base_url}/transcriptions/{space_id}.txt"
+    else:  # fireflies
+        return f"{base_url}/transcriptions_fireflies/{space_id}_fireflies.txt"
+
+def get_transcript_indicators(space_id):
+    """Get transcript emoji indicators for listing pages"""
+    indicators = ""
+    if check_transcript_exists(space_id, "deepgram"):
+        indicators += '📜'
+    if check_transcript_exists(space_id, "fireflies"):
+        indicators += '📃'
+    return indicators
+
+def get_transcript_links(space_id):
+    """Get transcript links for detail pages"""
+    links = []
+    if check_transcript_exists(space_id, "deepgram"):
+        url = get_transcript_github_url(space_id, "deepgram")
+        links.append(f'<a href="{url}" target="_blank" style="text-decoration: none; font-size: 1.2em;" title="Deepgram Transcript">📜</a>')
+    if check_transcript_exists(space_id, "fireflies"):
+        url = get_transcript_github_url(space_id, "fireflies")
+        links.append(f'<a href="{url}" target="_blank" style="text-decoration: none; font-size: 1.2em;" title="Fireflies Transcript">📃</a>')
+    return ' '.join(links)
+
 def generate():
     # Setup paths
     base_dir = Path(".")
@@ -185,6 +222,10 @@ def generate():
         
         flyers_section = "\n".join(flyer_html_list)
 
+        # Get transcript links for detail page
+        space_id = ep.get('space_url', '').split('/')[-1].split('?')[0] if ep.get('space_url') else ep.get('number', '')
+        transcript_links = get_transcript_links(space_id)
+
         ep_html = f"""
 <!DOCTYPE html>
 <html lang="es">
@@ -221,6 +262,7 @@ def generate():
                         {f'<span class="status-badge cohosted" style="margin-right: 15px;">🤝 Co-Hosted</span>' if ep.get("type") == "co-hosted" else ""}
                         {f'<span class="status-badge" style="margin-right: 15px; background-color: #1DA1F2; color: white; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">📊 X Spaces Analytics</span>' if ep.get("analytics_source") else ""}
                         {f'<a href="{ep["space_url"]}" target="_blank" style="text-decoration: none;"><span class="status-badge" style="margin-right: 15px; background-color: #000000; color: white; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">🔗 Escuchar Space</span></a>' if ep.get("space_url") else ""}
+                        {f'<span style="margin-right: 15px;">{transcript_links}</span>' if transcript_links else ""}
                         <span>📅 {format_display_date(ep['date'])}</span>
                         <span>⏱ {format_display_duration(ep.get('duration'))}</span>
                         {f'<span>🎧 {ep["listeners"]}</span>' if ep.get("listeners") else ""}
@@ -829,18 +871,29 @@ def generate_subpage(output_dir, filename, title, subtitle, episodes_list):
              flyer_path = flyer_src.replace("../static", "static").replace("../flyers", "flyers")
              flyer_html = f'<img src="{flyer_path}" alt="Flyer" style="width:100%; border-radius: 8px; margin-bottom: 10px;">'
 
+        # Get transcript indicators
+        space_id = ep.get('space_url', '').split('/')[-1].split('?')[0] if ep.get('space_url') else ep.get('number', '')
+        transcript_indicators = get_transcript_indicators(space_id)
+
         html_content += f"""
                 <article class="episode-card" data-date="{ep.get('date', '')}" data-listeners="{ep.get('listeners', 0)}">
                     <a href="episodes/episode_{ep['number']}.html" style="text-decoration: none; color: inherit;">
                         <div class="card-content">
                             {flyer_html}
                             <div class="card-header">
-                                <span class="episode-number">#{ep['number']}</span>
-                                {f'<span style="margin-left: 10px; font-size: 1.1em;" title="Co-Hosted">🤝</span>' if ep.get("type") == "co-hosted" else ""}
-                                {f'<span style="margin-left: 10px; font-size: 1.1em;" title="X Spaces Analytics">📊</span>' if ep.get("analytics_source") else ""}
-                                {f'<span style="margin-left: 10px; font-size: 1.1em;" title="Space Link Available">🔗</span>' if ep.get("space_url") else ""}
-                                <span class="episode-date">{format_display_date(ep['date'])}</span>
-                                {f'<span class="episode-listeners" style="margin-left: 10px; font-size: 0.9em; color: #666;">🎧 {ep["listeners"]}</span>' if ep.get("listeners") else ""}
+                                <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 5px;">
+                                    <div style="display: flex; align-items: center;">
+                                        <span class="episode-number">#{ep['number']}</span>
+                                        {f'<span style="margin-left: 10px; font-size: 0.85em;" title="Co-Hosted">🤝</span>' if ep.get("type") == "co-hosted" else ""}
+                                        {f'<span style="margin-left: 5px; font-size: 0.85em;" title="X Spaces Analytics">📊</span>' if ep.get("analytics_source") else ""}
+                                        {f'<span style="margin-left: 5px; font-size: 0.85em;" title="Space Link Available">🔗</span>' if ep.get("space_url") else ""}
+                                        {f'<span style="margin-left: 5px; font-size: 0.85em; letter-spacing: -2px;" title="Transcripts Available">{transcript_indicators}</span>' if transcript_indicators else ""}
+                                    </div>
+                                    {f'<span class="episode-listeners" style="font-size: 0.9em; color: #666;">🎧 {ep["listeners"]}</span>' if ep.get("listeners") else ""}
+                                </div>
+                                <div>
+                                    <span class="episode-date">{format_display_date(ep['date'])}</span>
+                                </div>
                             </div>
                             <h2 class="card-title">{ep['title']}</h2>
                             <p class="card-description">{ep['description'][:150]}...</p>

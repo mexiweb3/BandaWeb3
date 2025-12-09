@@ -212,7 +212,7 @@ html {
 
 .card-header {
   display: flex;
-  justify-content: space-between;
+  flex-direction: column;
   margin-bottom: 0.5rem;
   font-size: 0.875rem;
 }
