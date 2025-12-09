@@ -321,11 +321,11 @@ def generate():
 
     <div class="container" style="margin-top: 20px; margin-bottom: 40px;">
         <div style="display: flex; justify-content: space-between; align-items: center;">
-            {f'<a href="episode_{episodes[i+1]["number"]}.html" class="button" style="background-color: #333;">&larr; Anterior ({episodes[i+1]["number"]})</a>' if i + 1 < len(episodes) else '<span class="button" style="background-color: #ccc; cursor: default;">&larr; Anterior</span>'}
+            {f'<a href="episode_{episodes[i+1]["number"]}.html" class="button" style="background-color: #6366f1; color: white; font-weight: 600;">&larr; Anterior ({episodes[i+1]["number"]})</a>' if i + 1 < len(episodes) else '<span class="button" style="background-color: #334155; color: #94a3b8; cursor: not-allowed;">&larr; Anterior</span>'}
             
-            <a href="../archive.html" class="button" style="background-color: #e91e63;">Volver al Archivo</a>
+            <a href="../archive.html" class="button" style="background-color: #8b5cf6; color: white; font-weight: 600;">Volver al Archivo</a>
 
-            {f'<a href="episode_{episodes[i-1]["number"]}.html" class="button" style="background-color: #333;">Siguiente ({episodes[i-1]["number"]}) &rarr;</a>' if i > 0 else '<span class="button" style="background-color: #ccc; cursor: default;">Siguiente &rarr;</span>'}
+            {f'<a href="episode_{episodes[i-1]["number"]}.html" class="button" style="background-color: #6366f1; color: white; font-weight: 600;">Siguiente ({episodes[i-1]["number"]}) &rarr;</a>' if i > 0 else '<span class="button" style="background-color: #334155; color: #94a3b8; cursor: not-allowed;">Siguiente &rarr;</span>'}
         </div>
     </div>
 </body>
