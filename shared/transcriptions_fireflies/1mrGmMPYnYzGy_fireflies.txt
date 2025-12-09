@@ -1,0 +1,964 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #N/A
+Título: BandaWeb3 #037 @CryptoNotaz @con3joblanco
+Fecha: 2025-01-28
+Host: BandaWeb3
+Tipo: hosted
+
+Descripción:
+BandaWeb3 #037 @CryptoNotaz @con3joblanco. Conversaciones con @meximalist - sin guion y uno que otro anuncio. Shitcoineo en solana, estrategias, recomendaciones, bankroll management, degen plays.
+
+Duración: 01:48:11
+Escuchas: 206
+
+Links:
+  Space: https://x.com/i/spaces/1mrGmMPYnYzGy
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+[Speaker 0 - 00:01:01]
+Bien, bien banda, ya andamos por aquí.
+Déjenme agrego aquí como co host y me traigo para acá arriba algo en notas.
+Ahorita comenzamos, denme un minutito, voy a mandar las invitaciones que normalmente mando, pero vamos a empezar con algo de música.
+Esto es Minds Abyss.
+Esta es una canción hecha con inteligencia artificial en Suno.
+Suno.
+Com.
+Si no lo han probado, échenle un ojo, está muy bueno.
+Pero bueno, empezamos en breve, ahorita fuimos a Notas, ahorita traemos a buen Tao también.
+Vamos a platicar aquí un poquito de todo y empezamos en un minutito.
+Gracias por estar por aquí.
+Likes, comentarios, repos, todo suma.
+¿Qué onda, qué onda?
+¿Cómo andan?
+Ya por aquí estuve compartiendo, ya tenemos por acá arriba también anotas, esperemos que también pueda subir ahorita.
+Tavo, yo me invité como con host, pero no puedo aceptar, así que me quedo acá abajo.
+¿Cómo me escuchan?
+Tao, Notas, ¿Cómo andan?
+Bienvenidos, gracias por estar por aquí el día de hoy.
+
+[Speaker 1 - 00:04:15]
+¿Me escucho?
+
+[Speaker 2 - 00:04:17]
+Desgraciadamente se escuchan los dos.
+
+[Speaker 1 - 00:04:20]
+¿Te fijas que siempre te la pongo ahí de pechito para que?
+Para que la remates.
+
+[Speaker 2 - 00:04:24]
+Siempre, siempre caes.
+Después de tres años, cuatro años, no hemos aprendido.
+
+[Speaker 1 - 00:04:29]
+De nuevo, de nuevo, falta la otra, falta la otra.
+
+[Speaker 0 - 00:04:33]
+¿Cómo estás?
+
+[Speaker 1 - 00:04:33]
+¿Cómo estás?
+
+[Speaker 2 - 00:04:36]
+Estoy guapo, estoy inteligente, carismático, ya viendo mamado porque las trincheras me están dejando un poco desgastado, pero estamos trenchando, entonces seguimos guapos, seguimos inteligentes, seguimos carismáticos.
+¿Ustedes qué rollo?
+
+[Speaker 1 - 00:04:56]
+Cero cero.
+Yo aquí viendo las 8.000 noticias por minuto que salen, güey.
+Bullish en Cripto, bullish en Satoshi y bullish en ti.
+
+[Speaker 2 - 00:05:08]
+Oye, de verdad que ando tan metido en las trincheras ahorita que no hubiera aceptado estar en este espacio si no hubieran, si no hubiera sido con ustedes dos.
+
+[Speaker 1 - 00:05:17]
+¿Oye Davo, pero cuál es tu método de trincheras?
+Porque Hay muchos métodos.
+¿Estás full Discord ahí con Degens comentando o platica para que la gente aprenda un poco del maestro?
+
+[Speaker 2 - 00:05:31]
+No, mira, si algo, sí podré ser muy bueno y estoy printeando demasiado, pero si algo he aprendido durante toda mi vida es rodearme de gente más inteligente que yo.
+Entonces realmente los maestros son las personas de las que me rodeo.
+Pero no sé, Mexi, no sé si quieres dar una introducción o no sé qué rollo traías, pero vamos a darle.
+
+[Speaker 0 - 00:05:55]
+Si no, gracias por estar por acá.
+Notas Tao, este es el episodio número 36 de Banda Web 3.
+Aquí arriba les puse el pin en el espacio en el Jumbotron, vayan y denle like, denle repositorio.
+Creo que va a ser un espacio de mucho valor porque los tres ahorita creo que estamos en un momento, no sé, veo yo donde estamos, al menos yo en mi perspectiva, en lo personal, me alejé un poco de las trincheras ahorita como que wow, estoy.
+Me jaló el tema de Trump, me jaló, me jalaron varias cosas por ahí, creo que es muy divertido y me acuerdo mucho de épocas de BNB, de épocas de solana y de NFTs y de otras, pero ahorita está muy loco, es muy diferente, no es lo mismo y creo que hay que hablar de.
+No sé, no sé, yo les quería invitar a hablar de cómo son sus esquemas tecnológicos, ¿No?
+Cómo tradean, qué usan, cómo se mueven rápido, porque aquí es un tema de segundos, o sea, Solana, las shitcoins y lo que estamos viendo últimamente y cómo se está moviendo el ecosistema y lo que cambió también Pump Fun y lo que han hecho las memes estas que han salido.
+Creo que.
+Creo que hay muchas cosas que podemos nosotros que los que ya tenemos mucho tiempo aquí en este ecosistema a platicar y sugerir y recomendar para la gente que apenas está entrando o está regresando o que se quiere meter de nuevo.
+Al casino de las shetcoins en las diferentes redes que existen.
+Entonces por ahí quería esa breve introducción para más o menos setear el mood.
+¿Hablaremos mucho de Solana, creo que ahorita la gran mayoría de las cosas están moviendo Solana, no?
+Ahorita salió abstract, ayer no había algo de movimiento, no vi Shakoineo por ahí, pero ustedes ya se nos quedó el Tauro, lo volvemos a subir.
+Lo subo.
+Pero bueno, básicamente ese era el intro.
+¿Tú qué opinas, notas?
+Te he visto mucho más activo, te he visto posteando hilos de mucho valor, te he visto dando calls, Güey, Tao también lo he visto mucho más activo y creo que los dos se habían ido, se habían alejado un ratito de las redes y lo regresaron.
+Cuéntanos un flequito de cómo está ese show.
+
+[Speaker 1 - 00:08:14]
+Mientras estuvo aquí el TA.
+Yo me alejé de EX en el sentido de publicar cosas y compartir cosas.
+Ahora bueno, más o menos desde diciembre volví a retomar, lo que pasa es que lo que comentamos ahí por WhatsApp a mí me de alguna forma, no sé por qué me castigó el algoritmo de X y realmente pues literal las personas que comentaban eran las personas que tienen la campanita y ahora creo que no sé si habrán modificado algo del algoritmo, escuché que habían modificado algo, pero sí estoy tratando de mantener así un poquito la narrativa de noticias obviamente full relacionado con cripto, antes me daba por de repente publicar una cosita personal o cosas externas a esto, entonces voy a tratar de llevarlo así a ver cómo funciona.
+Esa fue una de las cosas personales de lo cual me alejé un poquito de publicar.
+Pero volviendo al tema que es lo que creo que les interesa mucho de las trincheras y todo eso, las trincheras siempre he estado full ahí compartida por Discord de Vips, comentaba ahí por WhatsApp mil de cosas.
+Lo que sí noto ahorita es que igual como en otras ocasiones.
+El boom lo que detonó mucho todo esto de las memecoins de nuevo porque ya estábamos cayendo en un pico donde no se escuchaba mucho las memecoins, ¿Por qué?
+Porque salían cientos de miles de memecoins en PUN y al final de cuentas el que lograba ganar o tener profits era la persona que estaba literal pegada a la página PUN veía algo con una buena narrativa o inclusive alfas por fuera de influencers que iban a puntear una moneda.
+Así es como estaba funcionando ahorita antes.
+Entonces ahora que volvió esto de Trump y de Melania fue como que volvió a activar esa chispita del tema de las memecoins pero en este punto, estoy hablando una o dos semanas después de que pasó esto, siento que ya está un poquito el declive otra vez de volver a a lo que veníamos antes de que si salen Elon Musk publica cohete y sale un token de cohete pero al final de cuentas dura dos horas y se cae Rugbull, la gente saca plata, etc.
+Entonces sí hay que tener mucho cuidado con eso.
+Yo realmente, y como lo he hecho siempre, ha sido de que compro una moneda, le trato de sacar un profit, un porcentaje, vendo, volvió de ella normalmente a veces algunas suben, algunas bajan, pero así es como me he manejado yo últimamente.
+¿Por qué?
+Porque al final de cuentas el 99% y es algo estadísticamente comprobado, son rupules o son tokens que lanza gente nomás para sacar plata y así.
+Entonces no sé cómo lo estás manejando tú.
+Tau.
+Creo que Mexica se cayó.
+Lo voy a invitar A ver.
+¿Me escucho?
+Yo no escucho a nadie.
+Soy perdido.
+
+[Speaker 0 - 00:11:35]
+Ya estoy de regreso.
+Se nos cayó Tao.
+Yo me caí también, pero.
+Ahorita lo invitamos de nuevo.
+No, creo que ya No.
+Ya regresó.
+¿Me escuchas?
+¿Ya notas?
+De repente me caí.
+Ah, bueno, ahí estamos, ¿No?
+Sí, de acuerdo, totalmente de acuerdo.
+Tavo.
+¿Tú, tú, tú, tú qué onda?
+Tú también por ahí has estado por ahí muy activo.
+Leí que estabas haciendo un Discord.
+Uy, se nos está cayendo también aquel.
+Pero bueno, ahorita le seguimos.
+
+[Speaker 1 - 00:12:10]
+Está fallando Exo.
+
+[Speaker 0 - 00:12:12]
+Sí, se me dice que aquí, aquí está esto medio, medio.
+A ver, voy a tratar ahorita de cambiar otro aparato por si se nos cae, que no se nos caiga todo la conversación, pero bueno, ahí va.
+Yo por aquí estaba buscando uno de los hilos que publiqué hace poco porque.
+Hay muchas maneras de.
+
+[Speaker 2 - 00:12:38]
+Probando.
+Ahí está el taba probando.
+¿Se me escucha?
+Un, dos, tres.
+
+[Speaker 0 - 00:12:46]
+¿Qué onda Tavo?
+Ahí estás.
+
+[Speaker 2 - 00:12:48]
+Verga.
+Maldito primer mundo asqueroso.
+Si alguien les habla de primero, segundo y tercer mundo, no les hagan caso.
+Mi Internet era igual de mierda en México que en Suiza.
+De verdad, cada vez este mundo está más en decadencia.
+Maldito capitalismo.
+
+[Speaker 1 - 00:13:06]
+Tienes que.
+Contrata Starlink.
+Estamos en Next.
+
+[Speaker 2 - 00:13:11]
+Ey bro.
+Nada más porque no puedo hablar más de Starlink, pero el año que estuve de peda en Puerto Escondido, te lo juro que esa mierda no me servía para nada.
+
+[Speaker 1 - 00:13:24]
+Lo bueno que no ibas a hablar mal de él.
+
+[Speaker 2 - 00:13:29]
+Por eso estoy bañado por luego aventarme de mis raíces así.
+Pero estaba diciendo que estaba haciendo un paréntesis.
+Los mejores traders en este momento, y no se lo tomen personal y me incluyo, yo no soy para nada ni de cerca los mejores traders están en las trincheras.
+¿Y a qué me refiero en las trincheras?
+Están pegados más de 15 horas al día frente a las charts, frente al Pomp Phone, en modo avanzado, en modo masacre.
+Están con las armas adelante con las AK 47.
+Están de verdad olvidándose de su familia, están olvidándose de todos sus amigos, de toda su vida social, están disparando a todo lo que ven, están lanzando 100 dólares a cada una de las monedas de verdad no tienen.
+Esas personas no le tienen miedo al riesgo, no le tienen miedo absolutamente nada.
+Esas personas pierden dinero y se vuelven a levantar y vuelven a perder dinero y se vuelven a levantar.
+Esas son las personas que si quieren hacer dinero tienen que seguir.
+Entonces dentro de las cosas que yo, a la gente en el Discord y a toda la comunidad que estoy intentando construir ahora, es acercarlo a este tipo de personas, ahí está el dinero y si es el 99% se va a la.
+El 99% de las memecoins se va.
+
+[Speaker 1 - 00:14:52]
+A la mierda.
+Y a eso súmale 8.000 herramientas súper poderosas que tienen ellos, snipers y todo eso.
+El otro día estaba viendo, me etiquetaron en un hilo, pero no lo hay, por si lo quieren investigar, no lo chequeé y no sé si que tan verídico sea porque me dio miedo meter.
+De esta manera que se le.
+Tipo Fantom, ¿Cómo se llama?
+Un agregador al explorador pues no, como una extensión que haz de cuenta que tú puedes configurar como un tipo bot en el cual por ejemplo yo le puedo poner, no sé, el Twitter de Elon Musk lo configuro y el día que publique Elon Musk un contrato de Solana, por ejemplo, que el sniper automáticamente compre el token.
+
+[Speaker 2 - 00:15:40]
+Sí, así por eso luego estamos viendo proyectos o gente que aparentemente va a sacar algo grande publicando los contratos en fotos, ¿No?
+Así es como una parte que están utilizando para.
+
+[Speaker 1 - 00:15:58]
+Yo creo que lo más sano para.
+Bueno, para el que lanza una moneda es que lo hagan tipo Trump.
+Literal, que no usen pompón, o sea que usen.
+No sé, creo que.
+Creo que Trump lanzó con Meteora.
+Colaborando con Júpiter incluso, entonces pues imagínense toda la información que tenían estas personas previo al lanzamiento.
+Esos son los que más dinero han de haber hecho, pero al final de cuentas es eso, lanzar un token donde el supply esté controlado relativamente en el caso de.
+
+[Speaker 2 - 00:16:32]
+Exacto, son market makers, hacen eso, estuvo muy profesional Y cuando tú te metes a las gráficas, por ejemplo desde un bot como Bull X o Photon, o pegas el contrato.
+En el Bubble Maps, que les recomiendo mucho utilizarlo y ven las bolitas conectadas, eso se llama bundle.
+Entonces qué pasa cuando ellos lanzan, cuando lanzan una moneda bundle, si está muy bundleada y está resbalada por alguien grande lo más probable es que sí crezca mucho, mucho, mucho.
+Pero lo que en realidad está sucediendo es que ellos son market makers, ellos están comprando la moneda y luego la están bajando.
+Entonces por poner un ejemplo con números y soy una mierda de matemáticas, digamos que la suben.
+En unos, ¿Que quieres 10 segundos?
+La suben a 5 millones y luego comprando con todas las wallets bondo y luego la tiran, empiezan a vender pum, pum, pum, pum, pum, pum, pum porque ya tienen profit, porque ya la gente se empezó a excitar y empiezan a comprar, vamos, vamos y entonces ellos empiezan a vender, pum, tienen objetivos y luego.
+
+[Speaker 0 - 00:17:52]
+Notas ahí me imagino que dentro de esas herramientas son las, y hablando como la analogía que lo, como lo mencionas son las armas, son las metrallas, es con lo que van a la guerra, tienen estas herramientas que hacen compras, o sea, platíquenme un poquito de esas herramientas y.
+
+[Speaker 2 - 00:18:13]
+Déjame terminar de explicar.
+Entonces vuelven a tirar la moneda y el mismo supply que ya vendieron en el pico lo vuelven a comprar de 5 millones que subió lo vuelven a comprar en un millón y entonces ahí se vuelve a pompear, eso es market maker y eso no existe nada en las memocoins, eso existe también en el mercado en tradfi.
+Entonces qué pasa con nosotros los mortales, con la gente que aún no está en los niveles de esas personas.
+Amigo, disculpa que te lo diga pero si no estás dispuesto a arriesgar 100 dólares, 200 dólares, 500 dólares, 1000 dólares, no entres, no es tu campo de batalla aquí tienes que estar completamente de acuerdo y firmar contrato que vas a perder dinero, pero ojo, cuando pierdas, cuando pierdas el dinero y sigas teniendo esa versión, ese, esa motivación para continuar en el momento en el que pegues una te vas a ir a la luna bro, no vas a hacer 2 solana, no vas a hacer 10 solana, vas a hacer 20 solana con 90 dólares y no es broma.
+
+[Speaker 1 - 00:19:24]
+Entonces son las grandes ligas 100% nosotros estamos acostumbrados.
+Por ejemplo.
+Ah mira, yo creo que lo más cerca de lo que estamos es publicaron de la cuenta oficial el token, pero previo a eso ya pasaron mil cosas atrás, o sea, desde los snipers que están apuntando antes de que hagan el post, desde la gente que tenía la información, porque cuando alguien va a lanzar una moneda, llámese al nivel de Trump, no es como que Trump se levantó y él solo dijo yo voy a lanzar esta moneda de manera personal sin que nadie se entere, o sea, previo a eso él dice a ver yo tengo un equipo el cual me está asesorando, llámese su hijo, llámese lo que tú quieras y esas personas tienen el amigo del amigo del amigo e incluso creo que tú me dijiste Tavo que en el Crypto Bold creo que Trump algo sí dijo que iba a lanzar.
+
+[Speaker 2 - 00:20:20]
+La moneda, entonces todavía no dijo en el Crypto Bolt pero es que.
+
+[Speaker 1 - 00:20:26]
+La.
+
+[Speaker 2 - 00:20:26]
+Neta estoy, no hablo mucho de esto, probablemente sea el único espacio en el que lo diga, pero sí tengo ahí muchos, muchos conocidos que porque me apendejado no utilizado sus palancas, pero si hay muchos insiders, por ejemplo la de Mario Nafal me pasaron la información exactamente en el momento en el que iban a tirar la moneda al piso y exactamente a dónde iba a llegar y ahí Mexica está de testigo porque él está en el grupo en el que les dije va a caer ahorita y ahorita va a volver a subir así literal.
+
+[Speaker 0 - 00:20:56]
+Sí o no Mexi güey estuvo cabrón porque lo vimos en vivo, o sea, estaba recién salido, dijiste a lo mejor este güey lo está agarrando, si lo quema puede pasar esto, si se lo manda puede pasar esto otro, a lo mejor lo tuitea y luego lo tuiteó y luego el güey consiguió que metieran.
+El token a varios exchanges, o sea, aparte de haber quemado un madral, era toda una campaña ya pre programada esa moneda.
+Él estaba de acuerdo, él quería obviamente hacerlo, obviamente cabrón, no me queda duda.
+
+[Speaker 2 - 00:21:33]
+Pero es que así son las mayor la mayoría, o sea, tienes que entrar en esos inside groups.
+Ese chavo que me lo dijo era amigo de Mario Nafal y yo la neta a ese chavo no lo conocía mucho, en un grupo lo estaba poniendo, yo no lo conocía mucho, era, es amigo de un amigo así literal suena como muy, pero literal yo no lo conocía mucho, no le creía mucho y pasó así, dijo en este momento va a caer y lo estaba poniendo en el grupo con Mexica, me están diciendo un insider que va a caer ahorita.
+Entonces que cuando llegue a K volvamos a comprar.
+Se va.
+Están planeando subirla tres veces más el precio de ahorita y después cuando lleguen tres precios, el triple del all time high lo van a volver a tumbar.
+¿A qué voy con esto?
+Y pasó lo mismo con lo del Crypto Ball.
+¿Que dijo?
+¿Que dijo?
+Notas.
+Mucha gente está diciendo que no.
+La gente que está en el Crypto Bowl no sabía.
+Son sus fans, bro.
+Un insider igual de Bitcoin Magazine sabía con tiempo de anticipación que iban a pasar.
+Ellos ya están preparados, ellos ya está, ellos ya habían comprado.
+Igual un compa que es la mejor persona que sabe tradear, en mi opinión, él no es insider, pero esa persona se la pasa viendo el pump phone y encontró el contrato y dijo ¿Será que esto es de Trump?
+Y lo tuiteó.
+Y en cuanto lo tuiteó, mil y un personas del equipo seguramente Trump baja el.
+Baja el tweet, todavía no lo anunciamos, bájalo, bájalo.
+Y bueno, ese bro entró en K, imagínate cuánto se hizo.
+
+[Speaker 0 - 00:23:12]
+No, definitivamente estamos viendo.
+Patrones repetirse.
+Es algo que sucede en todos los mercados.
+Creo que tenemos que estar conscientes que acá es mucho más fácil que suceda, creo yo, porque pues podemos hacer lo que se nos antoje con estas herramientas y va a seguir sucediendo.
+Estos calls, estas llamadas, esta gente que conoce personas que va a tener información privilegiada y que a lo mejor porque alguno que otro de nosotros o de ustedes esté en este ecosistema y se haya conectado en algún evento, en algún lado con alguien, puede tener acceso a esa información.
+Entonces tengan cuidado.
+Hay muchas estrategias que uno puede seguir para que en este casino tengas menos probabilidad de perderlo todo.
+No sé cómo ustedes hagan su manejo, pero yo traigo un historial de haber jugado baraja mucho tiempo, de haber ido a torneos, de armar comunidad aquí en Monterrey y manejábamos mucho el tema de bankroll management, el destinar un presupuesto, el meter solo cierto porcentaje de ese presupuesto para una sola apuesta.
+¿Cómo lo manejan ustedes?
+Y otra pregunta, Tao, por ahí veo que Belkham Saich está tratando de subir, no sé si lo conozcas, no sé.
+
+[Speaker 1 - 00:24:20]
+Qué tanto es, como los apostadores de deportes.
+Los apostadores de deportes normalmente lo que hacen es dividir su banco, que imagino que es lo que dices tú con el póker, o sea, si tienes $1100, divide esos $100 en 10 y haz 10 jugadas y donde tú ganas, es decir, a ver de esas 10 jugadas perdí 4 pero gané 6, es estamos en positivo y aquí es algo similar, o sea, si tú tienes mil dólares para jugarlos en memecoins, trata de hacer algo similar, en una puedes ganar diez mil veces lo que perdiste en otras, pero ahí es donde te recuperas y es donde muchas veces como dicen es un casino, hay gente que le ha pegado sin ser inclusive estilo profesional ni estar en grupos súper insiders, a final de cuentas es gente que ha tenido suerte, ha mirado, se ha aventado y le ha salido la jugada y la otra es holdear también, porque el proceso ese de que OK, entraste a un buen punto, pero saber dónde soltar o saber dónde salirte creo que también es uno de los puntos más complicados, no nomás a ver entré bien temprano a Trump o entré bien temprano a X moneda, sino también el el gestionarte tú como tus profit, aquí ya me siento cómodo, no importa si se va 5 o 10 veces más arriba y esa gestión de los profits a final de cuentas cada uno lo tiene de manera diferente y normalmente esa gestión la tienes en base a tu portafolio en general, o sea, si tú vas ganando 10 mil dólares pero tu portafolio es de 100 millones de dólares, no te va a importar mucho que esos 10 mil dólares a lo mejor los pierdas, pero si tu portafolio es de mil dólares y ya llevas diez mil, pues a lo mejor tú vendes y quizás después se hacen 100.000, pero tiene mucho que.
+
+[Speaker 2 - 00:26:13]
+Ver con eso también eso que dices es de las cosas más valiosas, saber administrar tu riesgo y hasta dónde puedes llegar y sobre todo tener siempre liquidez es de las cosas más importantes, sin embargo entender que este es el degenere, o sea de verdad las personas, creo que nunca he conocido a un trader de memecoins que tenga buen técnica, análisis, o sea esas mierdas de las Fibonacci y las mamadas y media.
+Lo pueden intentar en algunas monedas, puede que tenga sentido, pero sobre todo si estás hablando de las resistencias y los números psicológicos, o sea, eso de que si llega a 30, o sea si tiene un all time high es probable que baje porque gente va a tomar profit, eso sí puede tener un poco más de sentido, pero siempre mantén, o sea trata de tener el mayor liquidez posible y tener muy claro, muy muy claro que vas a perder, así de sencillo, el mejor trader pierde, todos, todos, todos han perdido entonces.
+La mentalidad bro, o sea a mí me encanta y ahorita por eso he estado compartiendo muchas cosas de motivación porque vas a perder dinero y tu mentalidad tiene que ser de un ganador, no puedes tener una mentalidad mediocre de tirarte al piso y perdí mis monedas, no bro, si te tiras al piso y tienes esa mentalidad es una mind killer, mind killer y no vas a llegar a ningún lado, si vas a perder, vas a perder y vas a perder no una, no 2, no 3, no 4, no 5, vas a perder mil y un veces, pero las veces que pierdas cuando tú ganes se va a multiplicar por mil.
+Ya no sé qué pasó con los efectos especiales ahí.
+
+[Speaker 0 - 00:28:08]
+Oigan, yo por aquí les puse un hilo que me gusta mucho y me gustaría empezar por ahí por alguno de los puntos a ver ustedes cómo lo manejan, pero.
+El hilo MUS por ejemplo yo uso mucho SNS en Solana, antes cuando estaba todo el boom de NFTs para entrar a algunos mints tenías que tener, o al menos yo tenía que tener varias wallets, varios browsers, lana en varias pantallas para poder mintear rápido ahora ya es muy distinto, ya hay bots y hay otro tipo de cuestiones, creo que ya no necesitas tanto el tema del SNS, yo sí lo recomiendo, no sé si ustedes usen o no, pero cómo manejan ustedes por ejemplo temas de.
+Qué tanto dinero tienen, en cuántas wallets, cuántas wallets manejan, cómo manejan.
+
+[Speaker 3 - 00:28:54]
+Todo el.
+
+[Speaker 0 - 00:28:54]
+Esquema de seguridad, carteras frías, carteras.
+
+[Speaker 2 - 00:28:58]
+O.
+
+[Speaker 0 - 00:28:58]
+Degeneran total y les vale gorro, ¿Cómo lo ven ustedes?
+
+[Speaker 1 - 00:29:05]
+Yo creo que pues lo más recomendable es que obviamente pues aquí hay muchos factores y tiene mucho que ver también en el tema de tus recursos, a lo mejor alguien muy profesional te va a decir oye pues ten tu billetera fría, la cual más fondeas o le mandas dinero para guardar tus profits, etc.
+Pero después usa otro ordenador el cual vayas a usar para degen puro tanto de Memecoins, tanto de NFTs, tanto etcétera y ten otro ordenador el cual sea un término medio en el cual no sea tan degen pero que tengas, o sea que lo uses constantemente.
+Entonces creo que aquí deja pongo un.
+
+[Speaker 0 - 00:29:51]
+Escenario, creo que poner un escenario de un típico, pongámosle que alguien de aquí, de los que tiene, de los que sacan el espacio, ¿No?
+Que tiene un presupuesto de mil dólares, si esos mil dólares los quema y se van a cero, no le va a pasar absolutamente nada.
+¿Que le recomendarías a alguien que trae mil dólares para shitcoñar en Solana, por ejemplo?
+Por hablar también de la red, que.
+
+[Speaker 1 - 00:30:11]
+Ahorita es donde está mi opinión personal, si tu portafolio, o sea, bueno, tu portafolio en general son mil dólares, yo no te recomendaría que lo quemaras, o sea, que lo utilizaran en Shitcoin, ¿No?
+Ahora, si tu portafolio no, no, no.
+
+[Speaker 0 - 00:30:23]
+Traen mil dólares para shitcoinear, traen muchas otras inversiones, traen un chingo de Bitcoin, traen bienes raíces, supongamos que son específicamente.
+
+[Speaker 1 - 00:30:33]
+Para Shakeer, OK, una, yo no te recomiendo así es que también depende de la experiencia que tenga la persona, ¿No?
+Pero si no tienes mucha experiencia, yo en lo personal no te recomiendo que te metas directamente a Punfun, o sea, sin tener grupos, sin tener gente de confianza que te va a decir voy a lanzar a tal hora, yo no te recomiendo que te metas a Punfun y que estés buscando ahí en la página principal cada que van lanzando y que de repente se pone un toque en tendencia y que quieras comprar, ¿Por qué?
+¿Porque todos sabemos que esos tokens normalmente los manipulan, pues no?
+Inclusive lo que comentábamos ahorita, el tema de las herramientas, o sea, ya estamos en un punto en el que pum, fum.
+Por ejemplo, si tú lanzas un token, o sea, tú, tú, tú sabes que Mexi va a lanzar el Mexitoken y al inicio cuando configuras todo el ticket, el nombre, la imagen y que le pones la cantidad por comprar, si tú le pones voy a comprar tres Solanas, o sea, tú, la primer persona que está comprando, ya hay bots que incluso cuando tú haces la compra, compraron primero que tú que estás creando el token, o sea, a ese nivel de armas es lo que estamos diciendo ahorita, tú vas con una pistolita de agua y los otros traen AK-47, entonces yo por eso no recomiendo estar directamente con PUN.
+Una de las cosas que a mí me ha funcionado y que creo que es algo que no lo he visto, sino que es como te diré, yo lo que hago es por ejemplo, tengo unas cuentas, o sea, identificadas unas cuentas de influencers o personas.
+Que ya sé cómo operan, o sea, en el sentido de que por ejemplo, sé que ellos en su Twitter publican un token y normalmente esos tokens son tokens que son de PUN, o sea que son de recién creación, pero esas personas tienen un grupo de personas, o sea, un grupo de personas que lo siguen y que le siguen las jugadas, entonces yo a veces trato de anticiparme y como ya sé más o menos como siempre lanzan monedas o siempre chilean monedas en esos rangos de market caps medio nuevas, etcétera, como yo ya sé más o menos cómo operan ellos, trato de anticiparme al movimiento, él publica la moneda está en 100.000 de market cap, sé que lo va a llevar a 200, 300 de market cap en base a la comunidad que tiene y el capital que esa persona le invierte esa moneda y en ese punto antes de que yo sé que lo va a tirar de 200, 300, vendo, saco profit y sé que abajo como decía el Tavo, sé que abajo cuando cae la moneda, esta persona va a volver a hacer otro post y te anticipas un poquito los movimientos de esas personas que ellos mismos manipulan estas monedas.
+Entonces esa es una, ahí por ejemplo.
+
+[Speaker 0 - 00:33:12]
+Tú ya traes una historia con ellos, ya los has visto por varios movimientos.
+
+[Speaker 1 - 00:33:17]
+Ya los conoces, ya conoces el perfil de esas personas en X, o sea que sabes más o menos qué tipo de monedas lanzan, o sea, se basan igual en narrativas, obviamente no publican una moneda, sino más sale una narrativa y te digo porque esto es algo que sí pasa tener.
+Si tú juntas 20 personas que estén en tu misma sintonía y 20 personas son poquitas y se ponen de acuerdo en un grupo de que vamos a lanzar esta moneda y vamos a chilearle, vamos a hacer esto, pero publiquen, pero comenten, etcétera, y sabes que en este punto que todos se pongan de acuerdo en este punto, vamos a vender y, y una vez que caiga que las nuevas personas que vieron el post, etcétera, ya estén desesperadas, vamos a volver a comprar y vamos a subir y de esa forma de operar, o sea, llegan a un punto en el que ellos para los ojos de la gente ellos son rentables, o sea, ¿Por qué?
+Porque en X, o sea, ellos cada moneda que sube que publican normalmente sacan profit, me explico por qué, porque ellos mismos al final de cuentas son ese grupo de personitas, lo estoy haciendo un poquito a escala, o sea a escala chica, sino que ahí ya esto lo podemos ver también en monedas súper grandes que lo manipulan de esa manera y te puedo poner hace tiempo una moneda que se llamaba ETF 500, no sé si la alcanzaron a ver cuando la publiqué, del Zac Norris, algo así lo publica este güey, este Güey tiene fama 100% de mucha gente le llama scammer.
+Pero tiene malita fama, entonces, pero esta es una de las personas que es de las que manipula estas monedas, pero ya la manipula no en este rango de 100.000, 200.000, 300.000 de market cap, ya lo estás elevando un poquito a niveles de 5 o 10 millones de market cap, ellos tienen dinero, o sea recursos para poder pumpear esta moneda, tienen comunidad, tienen gente que lo siguen, tienen gente que, que conocen también los movimientos y al final de cuentas se va haciendo una bola de nieve en el cual la gente está apoyando ahí, entonces yo cuando esta persona lanzó, bueno empezó a chilear, porque no la lanzó él empezó a chilear, esa moneda estaba creo que en un millón o dos millones de market cap, entonces entré y lo llevó a 10 millones y en ese punto lo tumbaron otra vez a 2 millones, o sea ya cuando la gente está desesperada otra vez empezaron a pumpearla, se fue a diez, quince y llegó a tocar 30, 40 millones, pero básicamente.
+El supply total, no sé qué porcentaje, pero yo creo que un 50% del supply muy probablemente lo manejen ellos, entonces.
+
+[Speaker 0 - 00:35:59]
+Y ahí notas por ejemplo, tú operas porque ya conoces, pero gente nueva no sabe, tú estás también ahí recomendando o hablando de estos temas en el Discord, o sea, para alguien totalmente nuevo, yo creo que me diría lo que tú dijiste al principio, no se, acérquense con.
+Grupo, no sé, a mí me ha gustado mucho tradear en grupo, yo por.
+
+[Speaker 1 - 00:36:21]
+Ejemplo en lo que, o sea, en los post que hago de monedas, trato de que sean monedas así pues, o sea que no de pun, si se fijan no lanzó tanto de pun así de recién creación, ¿Por qué?
+Porque literal desde que, desde que haces el post hasta que termines de publicar ya la moneda, tomas captura de pantalla, Si está en 50.000 de market cap, haces el post, etcétera, vuelves a la moneda y ya está en 5.000 de market cap, ¿Me explico?
+Ya murió la moneda.
+Entonces no siento que sea, a menos que lo hagas por medio de Discord o Telegram, etcétera, que lo hagas por medio de bots en el cual pues tú como los bots que existen en Telegram, nomás publicas el contrato, te del bote de un análisis del market cap, etcétera y la gente se cuelga mucho de eso, Ah mira, publiqué el de Trump en 60 mil de market cap y llegó a 6 billones, hicimos 1 por mil millones, ¿Me explico?
+Pero agarrar contratos de manera aleatoria, empezarlos a mandar a grupos, a cualquier persona lo puede hacer.
+Obviamente la gente de estos grupos publican los que sí pegan, pero no publican los que no pegan.
+¿Entonces hay muchos grupos de alfas que les digo porque yo estuve en un grupo que pagué un sol, creo que era como un sol Ana al mes, algo así en Discord y era un güey que tú lo miras en Next y de repente publican la tarjetita de los PNL y 50.000, 10.000, o sea un chingo de profit, dices tú, a ver qué es lo que están haciendo?
+Y de repente que mira, esta moneda que se fue a 10 millones, yo la publiqué en Discord o en telegram en 50.000 de market cap y te metes al Telegram de paga y eso y al final de cuentas tú estás viendo un canal donde a cada minuto, cada cinco minutos están lanzando, o sea, la gente aleatoriamente, inclusive ellos están lanzando contratos, entonces obviamente pues le van a pegar a uno, ¿Me explico?
+Y ese es al que le toman captura y dicen, mira, este lo publiqué yo en mi disco de paga en tanto, ¿Me explico?
+Entonces ahí es donde muchas veces siento que se engaña la gente y caen o caemos en a ver, voy a pagar el grupo, a ver, voy, este güey está bien pesado para lanzarle esto.
+También hay que practicar las pérdidas no malas ganadas.
+
+[Speaker 2 - 00:38:44]
+Mira, yo estoy muy de acuerdo con Notas, pero siento que Notas te diría que no entres como que lo ve muy mal o no sé, a lo mejor me equivoco.
+Sin embargo.
+Es que hay un problema con los grupos alfa.
+En realidad los grupos alfa se mantienen por la comunidad.
+Y en su mayoría son el exit liquidity.
+¿Qué sucede?
+Que los owners.
+Y la gente que está ahí en el equipo son los market makers junto con las personas que están lanzando las monedas entonces ellos agarran y te mandan el contrato a todos los grupos alfa, o sea se los mandan entre ellos, ellos compran y luego les mandan el contrato.
+A todos sus grupos alfas y así son muy organizados, tú cuando llegas es como, tú llegas a un nivel de Solana, es como si compraras una membresía para volverte un market maker, tú llegas a 200 solana y entonces dicen ah mira tienes 200 solana, OK, ahora pasaste siguiente nivel, bienvenido al cabal entonces ahora te meten al grupo donde están todos ellos y empiezas ya a tradear esos niveles literalmente pero ojo.
+Hay una diferencia entre conocer esto y evitarlo y otra cosa es conocer esto y saber operar junto con ellos e incluso ganarles que eso es lo que muchas personas también podemos hacer y eso es lo que yo he estado haciendo también y eso es lo que muchos de los que están ahorita en el cabal hicieron o sea no crean que todos empezaron siendo ciento Solana sino que entendieron esto, entendieron que todos manipulación, entendieron que todo es emocional, psicológico y fueron escalando de poco en poco entonces.
+Yo sí les recomendaría en realidad que intenten los grupos alfa y como ya les dije que pierdan el miedo al riesgo y a perder dinero porque es muy probable que pierdan dinero y mucho al principio pero háganlo de forma consciente, o sea no pierdan el dinero y se tiren al suelo y esto no es para mí y se vayan, no.
+
+[Speaker 1 - 00:41:05]
+Incluso que no le echen la culpa al vato.
+Hay mucha gente que entra a los grupos y perdidos porque le apuesta todo a una sola jugada y al rato le están echando la culpa al vato al que lanzó la col o eso, entonces.
+Sí hay que tener en cuenta mucho eso y la realidad y lo que dices tabula la realidad de las cosas hablando factos.
+Normalmente, o sea, no quiero decir que todos los casos, pero gran parte de los casos así normalmente a ver, la persona, el alfa color super más chingón que existe en Solana que hasta la fecha no sé cómo se llama porque tengo entendido que la mayoría son anónimos.
+Cuando lanza la call el bate tiene una bolsa.
+
+[Speaker 2 - 00:41:53]
+Ah claro y no la tiene en una wallet, tienen muchas wallets entonces la.
+
+[Speaker 1 - 00:41:58]
+Idea, o sea, como tú dices, a final de cuentas hay dos diferentes calles, o sea el que te lanza la call y te usa como Excel liquidity a ti, a tu comunidad que es a los que les lanza y el que te encamina para que el mismo caller y la comunidad saquen en profit con otro tipo de comunidad o gente o Twitter o lo que tú quieras.
+
+[Speaker 2 - 00:42:20]
+Son dos cosas muy diferentes pero por ejemplo yo que tradío mucho.
+En el frente de la batalla y con esto me refiero a las low caps con literal las que van saliendo yo sí estoy pegado 24 7 frente al monitor literal, o sea ahorita en los últimos dos días no lo he hecho porque estuve tres semanas seguidos haciéndolo y si escaneo y ya tengo un ojo para encontrar muchas monedas muy cabrón entonces.
+Es saber entrar y salir con tiempo a mí lo que me ha funcionado es encontrar los distintos indicadores que por más que yo te.
+Los dé los que a mí me han funcionado muchas veces no van a tener sentido así te lo digo directo, o sea puede que y no quiero que vengan con es que Tavo me dijo que esto y no pasó bro, perdón, es que en realidad no tiene sentido, solo son indicadores un poquito para guiarte como guía, no es que vaya a suceder esto entonces ¿Cuáles son?
+Por ejemplo en primero tú encuentras una moneda low cap en Twitter lo primerito que vas a ver en la pantalla va a ser la narrativa, el nombre y la imagen literal entonces si por ejemplo está sucediendo ahorita mucho de Trump, Trump da una noticia y dice una frase, ese va a ser el meta del momento muy probablemente y por eso vas a estar viendo muchas cosas de Trump y así entonces tú encuentras el meta del momento, que muchas veces el momento puede ser desde minutos porque el meta puede cambiar en minutos o en horas entonces encontraste el meta, encontraste la narrativa, tú entras al contrato en Pomfund o en algún bot como Bulex o Photon y después le das clic al dev, al perfil del dev en Pomfont, te vas al Pomfont, al perfil del dev y lo primero que yo hago es revisar.
+Cuántas coins ha creado si ha creado muchas coins es muy probable que ya, o sea que es un dev aparte de estúpido porque los devs, porque el Ruger, bueno es tan fácil y tan sencillo como hacerte una nueva wallet y conectar una nueva cuenta de pump phone pues ya, o sea ahí yo lo descarto directamente en el inter de todo esto yo ya escaneé desde el bot cuántos holders hay, si el número de holders está incrementando y estás viendo que las compras son realmente wallets nuevas y no es el mismo top holder comprando, ese es otro buen indicador, se está sumando gente real que muchas veces también pueden ser bots de ellos, por eso digo que al mismo tiempo no tiene sentido.
+¿Después también que puedes revisar?
+El dev holding, el dev holding lo que más quieres es que sea lo más bajo posible porque obviamente si el dev está teniendo una parte muy grande del supply es más fácil que lo de un pie.
+¿Ahora ojo, hay aquí un meta que está ocurriendo mucho ahorita que puede ser, que puede ser tanto un buen indicador como un mal indicador que es el de mandarle la moneda a la gente conocida, los influencers y tal lo que están haciendo es que no sé qué es lo que pasó con Mario Nafal, alguien crea una moneda, Mario Nafal, un dev y tiene el 60% del supply y qué hizo?
+Que ahora entre nosotros sabemos que era el mismo de Mario Nafal, o sea literalmente él y su equipo le mandan entre comillas a Mario Nafal el supply y entonces así como que le dan.
+Como que le vuelven suya la token, entonces Mario Nafal ahora no puede, se ve comprometido a no vender y no dopear en su comunidad, entonces ese es el dev holding que preferible si está abajo.
+¿Después qué más?
+Los insider holdings, ¿Qué son los insider holdings?
+Lo que les hablaba de los bundles es las wallets y el porcentaje que el dev mandó a la gente digamos insider, entonces si hay varias wallets conectadas al dev es muy evidente que se las mandó a su equipo.
+Esto puede ser muy malo en proyectos ROG, pero por ejemplo en proyectos como muy muy muy grandes como en el trot es bueno porque así pueden controlar el market making mucho más, de forma mucho más efectiva porque pueden comprar y vender y subir el precio.
+De forma más coordinada con distintas wallets a la vez.
+Después ¿Que otro indicador?
+¿Los snipers, los snipers es lo que hablaba notas que es los bots principalmente de Telegram, de Discord y también ya los bots que en Twitter por ejemplo, no?
+Tú lo que quieres es entrar cuando hay la menor cantidad posible de bots, digo de snipers, entonces si tú estás viendo en tu, en tu bot, en tu pantalla que hay muchos snipers, bro, no entres, a lo mejor estás bullish pero es muy probable que llegue a un número psicológico y lo empiecen a aventar para abajo, entonces mejor espérate una entrada baja, no foamies y luego luego entres.
+A mí algo que me dijo un muy buen trader, dos cosas que me dijo y que me han ayudado mucho siempre, siempre, siempre tradea, si vas a tradear con mi estilo que es en low cap, tradea en velas de un segundo, compra en rojo y vende, no compra en sí, compra en rojo y vende en verde, literal, o sea en serio, compra cuando esté bajando, yo compro.
+
+[Speaker 1 - 00:48:36]
+En verde y vendo en rojo.
+
+[Speaker 2 - 00:48:38]
+Ajá, exacto, compra en verde, no, no compra en rojo y venden en verde.
+
+[Speaker 0 - 00:48:45]
+Hay manitas por acá arriba, pero de todas esas indicadores, ¿Qué herramientas son las que usas para verlos directo ahí en POMF o tienes algún otro dashboard?
+
+[Speaker 2 - 00:48:55]
+Mira, para la gente que va empezando les recomiendo Fotón, busquen los Photon de Tiny Astro Photón, ¿Por qué recomiendo Fotón?
+Porque en sí sí es rápido y sobre todo es muy.
+Amigable para el usuario.
+Si ustedes van a utilizar Photon, que yo en realidad ya no lo utilizo pero si es muy amigable, utilicen, ahí se me fue la extensión, el nombre de la extensión, ahorita les digo el nombre de la extensión, pero hay una extensión que le instalas ahí al Chrome y aparte de todo lo que te aparece ahí en el Fotón en la pantalla te van a salir más, aquí está.
+Focain, descarguen Focaine, es Pho, C A I N I, Focain lo que hace Focane es que le agrega más.
+Más indicadores allá la pantalla de Fotón, entonces van a poder ver todo de forma más rápida aquí de eso se trata, de neta ser muy muy rápidos, o sea tienes que ganarle a ellos, neta es como si estuviera, no sé, una república bananera de México peleando contra las tres potencias mundiales en la guerra, tienes que ser muy organizado y muy rápido y muy efectivo para ganarles.
+¿Y también otro indicador, nada más voy a terminar con los indicadores.
+Las páginas web, ya cuando llevas mucho tiempo en las trincheras, una página web es un buen indicador, pero qué pasa?
+Luego te metes a ver ya las páginas web y cuando llevas tiempo ya te das cuenta del template, o sea, si tiene página web pero es la misma página web, nada más le cambian el nombre, le cambian la descripción o no sé.
+Luego hay gente que se excita y se empieza a orgasmear cuando ve que te metes a la página web y puedes chatear con un AI.
+Bro, durante todo el tiempo que llevamos en el espacio te pude haber construido 10 páginas webs con un chatbot de verdad y luego es que se vuelven cada vez más complejos.
+Y un GitHub, ah no mames, tiene GitHub.
+¿Bro, sabes leer código de verdad?
+¿Sabes si el GitHub es real, si corre la aplicación?
+Porque crear un GitHub con un código de chat GPT te lo hago yo ahorita otra vez, 20 veces en lo que estuvimos en el espacio pongo una foto de un argentino que fue pasó el otro día, que por cierto yo caí en ese, en ese RUG y ya tengo un GitHub y no sé qué y bla, bla, bla.
+No, no bro.
+Otro indicador es te metes a Pump Phone y ves los comentarios.
+¿También puede ser bueno pero también puede ser malo, sabes?
+Sobre todo ese indicador de los comentarios en Pump Phone suele ser bueno.
+Si, son memes, como cosas muy meméticas y ya.
+¿Ahora sí?
+
+[Speaker 0 - 00:52:04]
+¿Belkham no lo conocemos pero a ver, y también el.
+Se nos cayó alguien más que subió adelante Belkham, qué opinas?
+¿Tú también trebeas?
+
+[Speaker 4 - 00:52:13]
+Chicos, buenas tardes, ¿Cómo están?
+Sí, acá escuchando lo que dice Tavo, pues es muy cierto los indicadores y pues ya él prácticamente resumió todo lo que hay que tener muy en cuenta a la hora de entrar a esa trinchera que tanto conocemos, pero también sumado a eso que la gente sepa que hay también, no sé si es antigua, no sé si es nueva porque pues tampoco es que sea muy antigua en esto, pero hay un método que están utilizando mucho ahorita y es el tema de clonar monedas y utilizar un proceso que llama honeypot, que lo que hace es inflar el volumen de mercado y alcanzar casi una capitalización igual a la moneda original.
+Entonces eso lo utilizan muchas veces y muchas personas que no conocen, digamos, de pronto no conocen el contrato original, lo que hacen es entrar y comprar la moneda que no es y cuando quieran ver en prácticamente un minuto la moneda la mandan a cero.
+Entonces eso también es.
+
+[Speaker 1 - 00:53:18]
+¿Sacan la liquidez, no?
+
+[Speaker 4 - 00:53:19]
+Exacto, te sacan la liquidez y tú no te das cuenta.
+Entonces normalmente en The Screener, algunas veces me ha pasado que he entrado y he mirado que la capitalización digamos por ejemplo la de Donald Trump, cuando yo la vi que Donald Trump salió, yo la alcancé a ver hasta en 405 millones de dólares y creo que habían pasado no más de 10 minutos y ya habían como 20 monedas con la misma capitalización Pero en el apartado de screener hay una opción chicos, bueno los nuevos, yo sé que acá de pronto hay mucha gente que está intentando ganar dinero de la misma manera pero de screener es muy práctico, ahí en el lado izquierdo si no estoy mal hay una opción del volumen, muchas veces el volumen en The Screener no lo pueden opacar, entonces es fácil darse cuenta realmente en ese momento cuál es la verdadera.
+
+[Speaker 2 - 00:54:15]
+Igual con eso que dijo wow gracias bro, se me pasó, es muy bueno igual pueden copiar y pegar el nombre, o sea literal escriben el nombre y si ven que ya hay 10 mil monedas, están buscando la original, pues busquen también la más vieja, la más antigua junto con todos los demás indicadores que luego lo que pasa mucho es que así las duplican y cae mucho la gente Y también una más con los twitter, los twitters pueden ser reusados, no caigan con la finta de que tiene tantos seguidores y tiene publicaciones, en primera puedes comprar bots para dar retweets y like y en segunda puedes reutilizar y es muy fácil reutilizar igual bots para comprar followers, es muy fácil reutilizar, entonces por ejemplo en el Discord que tengo yo que todavía no configuro, le voy a meter el RIC en el rig tú puedes poner un comando y que es DP y pegas el twitter o así o algo, no me acuerdo bien cuál era.
+Y te avisa si.
+Para bundle, pero bueno hay comandos para avisarte si el twitter está reutilizado incluso te dice cuándo se reutilizó y qué nombres.
+
+[Speaker 4 - 00:55:40]
+Tenía antes Sí, esa sí la he visto e inclusive creo que no está de más porque me ha pasado, de hecho todos los indicadores que hice a Tavo los reviso yo, pero algo que reviso mucho que por el tema de las memes pues sabemos las memes se mueven en su mayoría por FOMO, muchas veces lo que dice Tao es cierto, pero nos podemos dar cuenta fácil viendo el tiempo del twitter, o sea del perfil de su creación, muchas veces sale una moneda que tiene una semana supuestamente de haber salido y resulta que el twitter fue abierto, ese perfil fue abierto en el 2012 o en el 2015, entonces eso también sería bueno tenerlo en cuenta.
+
+[Speaker 1 - 00:56:27]
+Sí, a mí me ha tocado Endo.
+Sorry.
+Mexica.
+Última cosita nomás para agregar.
+A mí me tocaba por ejemplo, hace poquito que empezaron a sacar las monedas que Trump en Lania hicieron una cuenta de Elon Musk, así con la misma imagen y todo.
+Y yo miré, porque normalmente el primer post que hacen todas esas cuentas que recién van a lanzar una moneda es de que deja hasta abajo tu billetera, dale like, comenta y te vamos a lanzar a tu billetera, no sé qué fregado, bla, bla, bla.
+Y normalmente tiene muchas interacciones, lo cual son la mayoría falsas, bots, etcétera.
+Y una vez que lanzan la moneda por pun, hacen el post con el link o con el contrato y a los 20 minutos eliminan el post y a la hora dos horas de repente me llega a mí, porque yo de esa cuenta tenía las notificaciones activadas y de repente me llega mi otra notificación de una cuenta que esta cuenta en qué momento le activé la campanita.
+Entonces cuando me meto la cuenta, resulta que es la misma cuenta a la cual anteriormente le activé la campanita, pero cambiaron todo totalmente lo de la cuenta.
+Y así se la llevan.
+Así se la llevan.
+
+[Speaker 4 - 00:57:41]
+Hace poquito hubo una de Baron Tron, creo que hace como una semanita y media de hecho.
+Pues yo también fui, caí ahí, no sé qué me pasó, pero realmente fue por poquito.
+Capital Como venía todo el fomo de Trump, sacaron de hecho la moneda, sacaron el vintage exactamente de Donald Trump, solamente que pues con el hijo de Barón Trump.
+Y literal la moneda alcanzó, si no estoy mal, como los 20 millones.
+Market capital.
+Yo alcancé a entrar como en 14, si no estoy mal.
+Cuando fui a ver 19.000 market cap.
+Habían eliminado la cuenta y también como a los dos días no había caído.
+
+[Speaker 1 - 00:58:21]
+En cuenta cómo yo caí en ese también.
+
+[Speaker 4 - 00:58:26]
+Y a los dos días cuando fui a darme cuenta, ya el tweet lo estaban utilizando para crear otra moneda totalmente distinta a la de Baron Trunk.
+
+[Speaker 0 - 00:58:39]
+Técnicos.
+Cada vez es más difícil detectar los ro Es la realidad.
+Y cada vez hay más monedas.
+Estaba viendo la gráfica cuántos, no sé cuántos millones de monedas han salido ya.
+La gran mayoría en Solana.
+
+[Speaker 1 - 00:58:54]
+El único que gana aquí son los de Ponfón.
+
+[Speaker 2 - 00:58:58]
+Oye, pero ojo, pienso, millones de dólares han ganado ese cabrón también.
+También te puede sacar buena lana de Rux y eso también hay que ser claro, hay que controlar muy bien las emociones y no, y no me refiero a hacerlos tú mexit, no me refiero a que los hagamos nosotros, me refiero a saber salirte, no, es que de verdad cuando fue ayer creo que me hice 4 solanas con 1 rugbull y fue como nada más saberte fue un rug que lo vi en 65.
+Y lo compré, se fue en un transcurso de que será, a lo mejor hasta 10 segundos a 5 millones y dije nada, esto es manipulación y pum vendí, o sea también hay que saber.
+Manejarse con los rugs vaya, o sea de verdad que.
+Es que es difícil, pero eso se los recomiendo, ya cuando tengan más experiencia.
+
+[Speaker 0 - 00:59:59]
+Estés, tienes que buscar cómo sacarle provecho, no hay duda Irving, ¿Cómo andas?
+Bienvenido, oye Tavo, por cierto, antes de se nos cayó el Irving Pedro te iba a decir el grupo del cabal de DJ Plays te extrañan que por qué te fuiste, era una pregunta que por aquí me dijeron que te hiciera que regreses güey que peda bro, sinceramente.
+
+[Speaker 2 - 01:00:22]
+Estoy muy enfocado en en otras comunidades y también hay un par de personas en ese grupo que yo sé que no tienen buenas intenciones conmigo y no es por tomarme lo personal, pero no me voy a exhibir a yo mandar calls y que se rugen y que luego estén ahí, no, es que el tabo como lo que decía notas el Tavo solo sube las wins y no sé qué, o sea bro, si tú no sabes meterte a las trincheras mejor ni me leas porque si es muy verdad lo que hice, notas de la mayoría de las cosas que se mandan se van a la, pero las que se mandan y si suben.
+Entonces la verdad es que con ese tipo de personas no quiero y no es para hablar mal del grupo, yo sé que hay mucho valor ahí, pero no me voy a exhibir a estar con ellos así de directo.
+
+[Speaker 0 - 01:01:20]
+Qué bueno que la gente ya sabe por qué, pero bueno, ahí estás tú por ahí haciendo algunos post, mandando algunas invitaciones, hay un grupo de Discord, creo que es muy importante entrar a, o sea.
+Pero es muy divertido, yo lo he disfrutado, lo disfruto, cuando salió Trump me metí horas y horas pegado, no podía dormir, o sea tal cual, es una adrenalina muy loca.
+Que creo, creo que para entender este ecosistema tienes que experimentar en algún punto y no lo necesitas hacer con mucha lana, la verdad es que yo siempre recomiendo que la gente pruebe, que la gente experimente, que sienta las sensaciones de hacer un dos, tres X en minutos, o sea, te da otra perspectiva de lo que está pasando y lo que puede pasar y lo que puede suceder y de lo que la gente puede lograr si no lo ves, si no lo vives, si no lo.
+Estás, creo que no lo entiendes.
+
+[Speaker 2 - 01:02:21]
+Entonces iban empezando y no tienen mucho capital, no tienen mucha liquidez, hagan demo, jueguen, gasten nada más gas, suena muy estúpido pero bueno, que esa es otra cosa importante, si utilizan un bot como Photon y Bull X, bájenle al gas porque el que está de default los va a devorar y si quieren ahí pueden escribirme, yo les paso settings baratos y así de gas, porque ahorita está muy de hueva decirlo uno por uno, pero si, bájenle al gas y si quieren, si van empezando hagan demo trading, nada más pongan gas y compren y vendan con puro gas, suena estúpido pero los puede entrenar, de verdad es muy bueno para entrenar y no tengan miedo entrar a los Alfa Groups nada más que con una mentalidad muy consciente y sobre todo utilicelo para ustedes crearse una reputación porque también a los colers.
+Los pueden jalar muy fácil, a lo mejor no generas mucho dinero para ti, pero si estás generando dinero para las personas te van a subir de nivel, que es lo que por ejemplo yo que estoy en Pastel Alfa en Shocked.
+Ya ahorita que son dos de paga y bastante, no muy caros, pero bueno, sí, sí pago, mando solo las calls grandes y te creas como un scoreboard, entonces las que digo, esto si va a subir y la gente entonces ahí te empieza a tener en la mira y te vuelves amigo y entonces te empiezan a jalar a Friends and Family, los Friends and Family para quienes no sepan son los que mueven el mercado, o sea los Friends and Family son los que no son de paga y tampoco son abiertos, que literal es que ellos te invitan, o sea ellos te buscan a ti, tú a ellos no.
+
+[Speaker 0 - 01:04:20]
+Te conectas por algo también sirve subir espacios a platicar y conocer gente, que la gente te escuche definitivamente creo que la marca personal y el que agregues valor a otras personas ayuda muchísimo a que luego te den información que probablemente ayude.
+Yo lo acepto, yo estoy y tengo acceso a información que muchos notas también.
+¿Por qué?
+Porque tenemos años aquí platicando con gente, haciendo networking, yendo a eventos, estando en espacios, etc.
+Creo que sí es importante mencionar que sucede, es una realidad y la gente quiere ayudar a sus amigos y Friends and Family, lo que tú quieras y hay oportunidades para los de cerca y así es la vida.
+Somos seres sociales que queremos que a nuestros amigos nos vaya bien.
+Pero bueno, uno tiene que estar consciente y saber dónde se meten.
+
+[Speaker 2 - 01:05:09]
+Perdón, aquí comercial AR esta subió de 260 millones, está ahorita en 320 millones, no sé qué noticia salió, pero está, está pumping muy cabrón.
+Entonces no sé si alguien tenga ahí una bag.
+Te estás, estás creciendo, Yo vendí mi bag ahí, que es otra cosa que recomiendo, ¿No?
+Cuando metan.
+Siempre pongan un stop limit con lo que estén dispuestos a perder.
+Nunca lo pongan en lo mismo en lo que compraron, porque también es muy probable que vuelva a bajar o al menos que tengan unas manos hijas de puta para vender rápido.
+Qué es lo que yo hago.
+Primero saco iniciales lo más rápido posible, la neta, porque ahí se soy bien puto que son iniciales.
+No sé si entraste con punto 2.
+Cuando llegues a punto 2 en el 25% del tokens vende ese punto 2.
+Después empiezas a vender profit, todo esto se llama el scalping, empiezas a vender profit de poco en poco, veinticinco en veinticinco, treinta y así.
+Y después dejas una pequeña moonbach que no estamos la mayoría de las personas que se hacen scalping, no sé por qué, bueno, a lo mejor solo soy yo que olvidamos dejar el moonbag.
+Ahí puedes perder dinero, pero igual si esa.
+
+[Speaker 1 - 01:06:44]
+Mal, es más, dejas de ganar dinero.
+No, si dejas el moonback es porque ya recuperaste.
+
+[Speaker 2 - 01:06:53]
+Sí, bueno, sí, exacto.
+Puedes dejar de ganar dinero.
+Exacto.
+
+[Speaker 0 - 01:06:58]
+No hubiera vendido.
+Tenemos todos y si se meten lo suficiente en este ecosistema, los van a tener.
+Yo he contado muchas veces una de billones, creo que eran 2 billones que acabé vendiendo 2 mil, 3 mil y ahorita valdrían, no sé, 80, una cosa así.
+Creo que.
+Es algo que tienes que.
+
+[Speaker 1 - 01:07:20]
+Procesar y entender y que te va.
+
+[Speaker 0 - 01:07:22]
+A servir este tipo de loqueras, porque también.
+Como los 10 dolaritos que le metes ya se convierte en 100, que se convierte en 1000 y si le metes 100 o si le metes 500 puedes llegar a cantidades muy a 1000x, o sea 1000x de repente hay uno que otro se escucha y la gente cree que todo el mundo lo puede hacer pero no es cierto.
+
+[Speaker 1 - 01:07:55]
+Te perdí un poquito.
+Me hicieso yo nomás.
+
+[Speaker 2 - 01:08:04]
+Yo igual lo perdí, no sé qué pasó ahí.
+Bueno, aprovecho este comercial.
+
+[Speaker 1 - 01:08:20]
+Oye pues vamos a darle la mano Irving, dale.
+
+[Speaker 3 - 01:08:24]
+¿Qué onda?
+Muy buenos los consejos que han dado por aquí.
+También otra cosa del lado del marketing y sentimientos, les cuento una experiencia rápido acerca del staking y de proyectos nuevos.
+Hay un proyecto que ahorita se llama Usal Money, prometían un API como el del 100% y al final estos chavos hicieron un cagadero cuenta que.
+La moneda estable, los soldats perdieron el 80% y un día yo un día antes me salí y no perdí ese 20% y sí es muy importante saber hasta cuándo tienes que ganar y cuánto tienes que perder.
+Por ejemplo yo generé unos intereses de 500 dólares al momento que salió esa madre y después el token bajó y no vi noticias de marketing de ese proyecto, la gente estaba haciendo cagadero, ni madres, ya me salgo, esto me huele mal.
+También es saber cómo retirarse y acerca de las trincheras y es un chingo de información.
+Yo por ejemplo ahorita yo comencé en diciembre con una promesa a mi suegra, porque ella es tradicional de los bancos, de darle más de un 10% al final del año, ahorita ya llevo como un 12 porque mandé un 2% a memecoin.
+Si se fue a la mierda, pero bueno, ni pedo.
+Entonces es muy importante tener varios análisis, por ejemplo el sentimentalismo a veces sí puede ser por el proyecto, pero más en mercado es por sentimentalismo.
+Yo por ejemplo uso twitter dex, yo me lo paso como unas 6 horas al día porque pues es parte de Jale.
+Y también otro tip que les doy es que vean proyectos que han sido recién fondeados por Kraken Ventures, Binance y esos founders vean que replican en dónde se meten con un mínimo de likes entre 20 y 40 si es realmente influyente y ahí les va a dar varios avisos.
+Yo por ejemplo en el token de Benice me hice como unos 3 mil dólares y no metí ni madres, o sea nada más pagué la suscripción de por dos meses que fueron como 40 dólares y tuve esa cantidad y ayer está bien paniqueado, dije verga.
+Y sí cierto lo que dice Mexica te lo tienes que creer también lo que dice Tau, o sea si pierdes 500 dólares ni pedo, o sea te tienes que saber cuál es tu gestión de riesgo y darle para adelante.
+Pero si les dejo esa este tip del Twitter Deck, también del Lexcreener, de hecho lo que comentaba aquí creo que.
+
+[Speaker 1 - 01:11:01]
+No sé quién era los honeypot, justamente.
+
+[Speaker 3 - 01:11:04]
+Ayer un militar me envió un mensaje por Instagram y le ruearon como por 150 dólares porque igual la gente está entrando, o sea a bots de Telegram y el costo por no estudiar es el costo que pierdes de tus inversiones.
+Aún así ya sabiendo, o sea si hay muchos insiders en ciertas monedas entonces hay que antelarse esa información de esas empresas que están recién fondeadas porque yo una hipótesis que tengo es por ejemplo si Kraken Ventures, o sea por ejemplo poner un API de 200% al final de cuentas eso va a ser un 20% y con eso yo me voy cómodo en 6 meses prácticamente más lo que te da un banco es algo más tradicionalista, el riesgo puede ser un poco menor pero ya depende cómo se maneja cada quien, por ejemplo en XBT está analizando el auge, después vi lo del Trump que se movió la liquidez, dije no esto ya va a mamar y moví igual el dinero y hoy estoy esperando a ver si entra o ver otras monedas y también es esta gestión de dividir los huevos en diferentes canastas y también ver las estrategias de airdrop en cuál les conviene y sí tener mucha paciencia y tiempo de la noche a la mañana y seguir así personas como en otras, de hecho yo le sigo los Twitter a Tau, también a Mexi y también la comunidad porque si.
+Hay muy pocos hispanohablantes y ya los demás sepa que en qué andan o que andan promocionando, entonces es importante la comunidad.
+
+[Speaker 4 - 01:12:46]
+Esas son las palabras.
+
+[Speaker 1 - 01:12:48]
+Gracias.
+Oye quería agregar aquí algo que creo que es importante.
+Normalizar un poquito.
+Yo siempre he dicho que y creo que a todos les pasan aquí los criptobros y todos los que estamos aquí perdemos la noción del dinero, o sea, o sea, factos no o sea, si tú un día pierdes 100 dólares aquí en cripto dices tú, fuck mi pedo son 100 dólares, 2 mil pesos mexicanos, pero resulta que vas a la tienda y vas a comprar huevo, tomate, jamón y son dos mil pesos, se te hace una inmensidad entonces creo que no sé por qué pasa esto, quizás por lo que vemos normalmente de que de las cantidades abrumantes que se ganan o que se pierden, pero sí me gustaría también aclarar esto, o sea, muchas veces si tú pones tus, como decía ahorita que tu suegra que te dio el dinero, algo así, o sea, Tú pones tus 100 dólares en el banco y el banco te va a dar menos de un 8% anual, no sé qué desmadre y de repente aquí te metes a una memecoin y te da un 10% o un 20% en 5, en 10 minutos y no lo quieres sacar, o sea, no te quedas satisfecho con eso, o sea, quieres hacer un por mil, o sea, un por dos mil, un por cien mil, entonces creo que cuando aterrizamos un poquito eso, o sea, los pies sobre la tierra con eso es cuando te va a empezar a funcionar un poquito la estrategia, o sea, en el que tú digas, sabes que le metí mil dólares y ahorita en cinco minutos o en menos de cinco minutos, porque así es desde que compras a lo que sube un 10% puede ser en 5, en 10 minutos y de 1000 dólares ya tienes 1100 dólares hay gente que no se satisfecha, pero hay gente que dice OK, ya hice un 10%, un 20% en 5 minutos me salgo y voy a buscar otra jugada entonces de esa manera te puedes ir capitalizando poco a poco con porcentajes bajos sin esperar que el token se multiplique por 5, por 10 o por 1000 porque al final de cuentas cuando tú esperas a que haga eso, de repente esos 100 dólares que ya tienes de ganancia, el token baja y en vez de ganancia ahora estás en pérdidas y sé que esto les pasa, me.
+
+[Speaker 2 - 01:14:55]
+Estás diciendo que un Solana no es un Solana, o sea, un Bitcoin es.
+
+[Speaker 1 - 01:15:00]
+Un Bitcoin y un Solana es un Solana, pero es en serio, acá en IRL vas a algún lado y dices tú su puta madre, qué caro de repente haces una transferencia de Ethereum a 70 dólares, muy bien, vámonos, sí, sí.
+
+[Speaker 2 - 01:15:16]
+Sí, 70 dólares de gas, de gas.
+
+[Speaker 1 - 01:15:18]
+O sea de gas nomás, o sea, por ejemplo, otra de las cosas que yo decía, o sea, Ethereum, la crítica principal de Ethereum es el gas, que es muy caro y que la chingada, pues sí, o sea, Ethereum vale X cantidad, no sé, 3.300 dólares, algo así, pero el otro día en otro espacio lo decía, o sea, Solana, el gas de Solana ya ahorita de repente cabrón, ya me está doliendo un poquito, o sea, ya en el sentido de cuando haces trading con memecoin, mira, compras y vendes Sol, ya son 2 4 dólares y estás compra y compra y compra y como dices tú Tau, si no configuras el porcentaje de los fees te van a comer y esto yo se los decía el otro día, de repente estaba haciendo trading de memecoins y quería vender, creo que era Melania y no tenía Solana ni Wallet, ¿Por qué?
+Porque me lo comí con fees y me perdí, literal me perdí de vender en un punto donde quería vender porque andaba consiguiendo en lo que mueves y transfieres, en ese momento Binance estaba suspendido los retiros de todos los exchanges de Solana.
+Y lo más fácil que fue para mí, le hablé un camarada, oye transfiéreme sol, no vas para hacer un swap y te lo devuelvo, ¿Me explico?
+Pero ya ahorita Solana, y yo que soy Solana de corazón de hace mucho tiempo, con el tiempo, el día que Solana valga 800 y llegue a 800 mil dólares, vamos a llegar a un punto donde vamos a decir, OK, ya no es el Solana barato de antes.
+
+[Speaker 2 - 01:16:44]
+Eso es muy cierto, Oye Mex, antes de pasar a las manitas y contigo, déjame chilear porque necesito subir mi engagement de nuevo, les prometo que el hilo que acabo de subir allá arriba está muy interesante, entonces si me ayudan a darle like, a dejar un comentario, a tuitear, a guardarlo, a pasarlo, todas esas cosas me ayudan a subir y seré infinitamente agradecido con ustedes.
+Primero háganlo y luego lo lean, como las memes, primero compren y luego investiguen.
+
+[Speaker 0 - 01:17:21]
+Oigan, aprovechando.
+El comercial también arriba les piné el coleccionable, es gratis, solo tienen que poner su wallet o su correo y su nombre está en el segundo pin post, les quedan 13 minutos para reclamarlo a la una y media, o sea en 13 minutos se acaba la ventana, ya no lo van a poder reclamar, solo le ponen ahí su correo o su wallet de la red de árbitro.
+
+[Speaker 1 - 01:17:48]
+Aprovechando también el comercial, les dejé mi link del bot de Trojan por si quieren aprenderlo a usar, si alguien no lo ha usado para que me den sus fees de referidos.
+
+[Speaker 0 - 01:18:00]
+Aquí estamos farmeando liquidez, queremos que nos compren los tokens que estamos adquiriendo, estamos entrenando a nuestra exit liquidity porque si TAO o Nota les pasan un token, obviamente ya lo compraron, entonces estén conscientes, pero bueno, subió acá por acá el buen Ulises, ¿Cómo andas U Muy real.
+
+[Speaker 2 - 01:18:21]
+Es que eso sí es muy real.
+
+[Speaker 0 - 01:18:22]
+Y luego tiene que estar consciente?
+
+[Speaker 1 - 01:18:24]
+Exacto, es ser consciente y aquí lo.
+
+[Speaker 2 - 01:18:27]
+Tiramos.
+
+[Speaker 5 - 01:18:30]
+Qué gusto saludarlos muchachos, un gusto Tavo, un gusto Mexi, un gusto Notas.
+
+[Speaker 2 - 01:18:37]
+Un gusto justo a decirles de Telegram.
+
+[Speaker 5 - 01:18:42]
+Está muy bueno este Troyan, la neta, paga bien en referidos, paga muy bien y los trades se hacen rápidos, baratos, digo como dijo este Tavo, muchas veces en la configuración inicial bien, los fees un poquito más altos, uno los puede customizar y la verdad es que yo llevo más o menos un año usándolo y diez, diez.
+Muy buen token, aparte apliqué al usarlo al airdrop de Júpiter, entonces estuvo muy bueno.
+La neta y puedes simplemente copiar el contrato, pegarlo y dejar ya ejecutado las órdenes de venta, o sea que llega un 20-30% y automáticamente se vende el token aquí es muy rápido, entonces muchas veces hay que estar.
+Rápido con el bot.
+Otra parte que tiene el bot que apenas lo integraron como hace un mes es un apartado que dice trincheras y te aparecen los toques de pump and phone que están por graduarse, bueno son tres apartados, los que se crearon recientemente, los que están a punto de graduarse y los recién graduados.
+Normalmente yo lo que estoy haciendo es meterme a los recién graduados y ver justamente lo que dice Tavo, el crecimiento de holders, que sea un crecimiento orgánico y que ofrezcan pues no sé, una buena página web, unas buenas redes sociales, empiezo a estudiar el token y ahí decido si compro, pero yo todo, todo lo hago desde el bot de Trojan.
+Otra cosa que también está explorando en la red de workchain que es la de Sam Altman, a mí me llama mucho la atención porque pues obviamente Sam Allman creó chat GPT ahorita ese güey es un monstruo, está construyendo algo en Estados Unidos muy grande y los fees son gratis, es algo que me llamó mucho la atención, los fees son gratis y tienes una prueba de identidad apenas se creó un pump and phone en esa red y tú puedes ver los tokens que han creado los devs, pero como tu wallet está asociada a tu ID digital o a tu identidad no puedes estar creando tokens a lo idiota, o sea, ahí evitas lo que estaba comentando hace rato Tavo de que creas una nueva wallet y pues ya generas un nuevo token y un nuevo scam.
+
+[Speaker 1 - 01:21:00]
+O un nuevo RUG básicamente es con KYC eso no, o sea, ¿De cuál habla?
+Pues es la verificación digital del orden, es lo de Worldcoin, lanzaron una red que no dijo Ulises cómo se llama y están empezando, están empezando a lanzar así memecoins y todo eso, pero lo que dice Ulises es que no es como más como Solana por ejemplo que tú te puedes crear 10.000 billeteras de manera anónima y ya está y nadie sabe quién creó la billetera más que rastreando los fondeos.
+Aquí como a final de cuentas tu cuenta está vinculada a una identidad digital casi casi, bueno, puede ser peor que un KYC yo creo nomás, me imagino que puedes crear un token por tema regulatorio quizás puede ser.
+Puedes crear los.
+
+[Speaker 5 - 01:21:47]
+Tokens que tú quieras pero todos van.
+Entonces si creas muchos vas perdiendo tu credibilidad de cierta manera.
+
+[Speaker 6 - 01:21:56]
+Está muy.
+
+[Speaker 5 - 01:22:02]
+De hecho el creador del primer toque con éxito ya jaló 4 y los 4 se graduaron pero hay muy poco movimiento, la verdad es una red nueva, no es nada que ver con Solana, no está manipulada, son humanos.
+
+[Speaker 2 - 01:22:14]
+Un poco, lo malo, normalmente yo no escucho a personas que tienen un gato con un tiburón en su perfil.
+Bienvenido hermano.
+
+[Speaker 1 - 01:22:28]
+Yo llevo un mes usándolo.
+
+[Speaker 5 - 01:22:31]
+Yo llevo un mes usando esa red y esa aplicación como tipo pomp and phone se llama Puff.
+Y la verdad es que cualquier token medianamente que vean decente se gradúa, o sea, ahí estoy haciendo mucho dinero porque no hay mucha gente y con poquito eres una ballena porque a la gente que participa en este protocolo le regalan como 70-50 Worldcoins.
+Entonces tú con 500 World Coins eres una ballena y puedes comprar.
+
+[Speaker 2 - 01:23:02]
+Acabo de captar quién eres.
+Eres quien creo que eres.
+
+[Speaker 1 - 01:23:05]
+Obvio, no seas mamón.
+
+[Speaker 2 - 01:23:14]
+Definitivamente no escucho nada de lo que acaba de decir este güey.
+
+[Speaker 1 - 01:23:18]
+Dices pobre pendejo, yo no escucho a.
+
+[Speaker 5 - 01:23:20]
+Güeyes con.
+Cara de gato.
+No, sí soy Mr.
+Agave, nada más que la otra cuenta está suspendida, güey.
+
+[Speaker 0 - 01:23:32]
+Oigan, vamos con Jesús Cristo que quería hablar y se bajó y subió y no podía platicar.
+A ver, platícanos Jesús, ¿Qué onda, cómo anda?
+
+[Speaker 1 - 01:23:40]
+¿Qué pasa?
+
+[Speaker 6 - 01:23:42]
+Buenas tardes, un saludo aquí desde España y eso.
+En primer lugar muchas gracias por la charla que estáis teniendo, de verdad que es muy buena.
+Yo a diferencia de vosotros no llevo muchos años metido en este mundo de las inversiones y demás y sin embargo en lo de los memes es que es increíble.
+He conocido en dos semanas metiéndome en un montón de grupos, agregando un montón de gente por Twitter y demás, un montón de gente interesante y hay un montón de opiniones en todos los sentidos.
+Yo creo que estoy más contado en lo de que aquí realmente, por lo menos en lo de las memes, en todo lo demás no puedo opinar, pero en las memes no hay como nada escrito realmente es que hasta los rugos pool le sacas dinero o lo pierdes todo igualmente puedes entrar nada más empezar en una moneda que esté en K o algo así y de repente te llega a los K en un minuto como estáis diciendo vosotros, pero acaba muriendo al cabo de otro minuto.
+Entonces al final no sé cómo lo veis vosotros lo de las memes, si eso de estudiar los proyectos y verlos que sean fiables o no, aparte de que Trump o Elon Musk o cualquier cosa así pongan un twitter, todos los demás yo creo que acaban siendo scam, si no es a la hora es a los 10 minutos y si no a las 2 horas.
+Es lo que dice Tavo, intentar saber cuándo hay que salirse.
+Lo que pasa que eso no es tan fácil.
+Eso yo creo que no es tan fácil.
+No sé vosotros qué opináis y disculpadme que haya desviado el tema de nuevo para que.
+
+[Speaker 2 - 01:25:04]
+No, estuvo genial Jesús.
+
+[Speaker 0 - 01:25:10]
+Personalmente Jesús, en este caso aprendes a mediante la experiencia del tiempo que duras acá y arriesgando retomo lo que dijeron mayormente tienes que perder ese miedo al riesgo de perder dinero inteligentemente por supuesto y aprendes de que empiezas a entender cómo funciona el mercado de las trincheras, los low caps cuando estamos hablando de.
+
+[Speaker 4 - 01:25:34]
+Low cap son menos de 200.000 market.
+
+[Speaker 0 - 01:25:38]
+Capital y hace lo que dice por ejemplo ello tienes dos solanas, con que te hagas un rendimiento del 50% ya es una solana lo que ya ganaste cualquier persona que sea consciente que son 250 dólares está ahorita mismo puede decir bueno yo con esto soy feliz, me retiro y va capitalizándose poquito a poquito como dice Tao.
+
+[Speaker 2 - 01:26:03]
+Y una cosa que también hay que tener bien claro ahorita no tengo el dato a la mano de cuántas monedas están imprimiendo al minuto en pon phone, pero si es bastante, yo diría que el 99 el 99% son rugs y el punto 98% son slow rugs, o sea que si van a durar un poco más que los otros pero eventualmente van a morir como estamos viendo un poquito con USD, otras que ya han pasado antes, eso qué significa que el.
+Va a quedarse vivas realmente.
+
+[Speaker 4 - 01:26:47]
+Hay otra cosa chicos que bueno por acá me están preguntando el interno que hay muchas veces que dicen que van a entrar a comprar una meme y van a comprar 100 dólares y resulta que cuando compran terminan no comprando 100 sino 40 hay que tener muy presente el tema también de la liquidez chicos, los que están empezando apenas y los que no están utilizando de pronto por ahí herramientas, los que están haciendo todo manual yo les recomendaría esperar a que la moneda se estabilice porque normalmente cuando uno va a entrar a ese, digamos en ese boom, en ese momento que la moneda está creciendo muchas veces hablo en el caso de Phantom tiende a quitar mucha liquidez de lo que tú inviertes, entonces hablo también personalmente por mí me ha pasado muchas veces voy a entrar manual porque lo veo y pues no alcanzo como a copiar y pegar.
+
+[Speaker 3 - 01:27:42]
+El contrato en el caso de Troyan.
+
+[Speaker 4 - 01:27:45]
+O que también utilizaba Photon antes, me quita liquidez, entonces la recomendación no se afanen tranquilos, esperen que la moneda se estabilice y entre buen precio para que no les vayan a quitar ahí mucha.
+
+[Speaker 1 - 01:27:59]
+Liquidez.
+
+[Speaker 0 - 01:28:02]
+Güey, es que una sola regla, no podemos seguir a veces de comprar en rojo, vemos a veces el all time high.
+Me pasó, me pasó con Trump, dije no mames, o sea.
+Acabé comprando en 18 y de ahí subió, pero era all time high y ahí voy, digo, no me fue tan mal, pero.
+
+[Speaker 3 - 01:28:23]
+Hay.
+
+[Speaker 2 - 01:28:23]
+Como también categorías, ese de Trump ya sería como una categoría de una moneda web dentro de las memecoins, porque.
+Sí es realmente un proyecto que va a perdurar con el tiempo, al final de cuentas está conectado a la identidad de una persona importante.
+Estamos hablando del fucking presidente de Estados Unidos.
+
+[Speaker 0 - 01:28:46]
+Buen punto, buen punto Jesús.
+Échale.
+Yo creo que tengo unos 5 o 10 minutos, este, por si quieren ir algún comentario de cierre.
+La neta ha estado muy bueno la plática, creo que como decía, es muy importante que entienda la gente cómo funciona el juego en el que están metiendo el casino en el que están apostando su lana y que estén dispuestos y que asuman las pérdidas porque ustedes son los que están picando botones, nadie más, nadie más está picando y aceptando y firmando las transacciones.
+Échale Jesús.
+
+[Speaker 6 - 01:29:19]
+Nada, totalmente de acuerdo con lo que dices.
+Por aportar algo, una cosa que me funciona a mí también en los low market que estáis hablando es buscar los contratos en Twitter y muchas veces encuentras cuentas que han publicado el contrato, que son bots al fin y al cabo, que lo han publicado yo que sé, un minuto o dos minutos después de que empezara a subir vertiginosamente y con esas mismas cuentas puedes sacar nuevos contratos y realmente al final lo que te das cuenta es que todo el mundo hace más o menos las mismas cosas, acaba metiéndole las monedas y si tú eres el que más rápido le mete, es un pelín más fácil que le pueda sacar algo.
+Y lo de los bots, más que hacerlo manual, tiene razón, es mejor utilizar bots de estos como no sé cuál utilizáis vosotros, pero yo por ejemplo con Bloom me está dando buenos resultados porque permite copiar directamente desde Twitter y entrar en la call y cosas así, ¿Sabes?
+Eso como, como una cosa más, una herramienta más que se puede llegar a utilizar porque al fin y al cabo creo que aquí lo más importante es tener mucha información.
+Yo lo que más importante veo es que si tienes mucha gente buscando cals y que tiran buenas cals es más fácil que puedas entrar en alguna porque todos los días a todas horas, cada 10 minutos hay una oportunidad de hacerte un por 5 y un por 10 fácil al igual que todos los días a todas horas hay oportunidad de perder todo el dinero en cuanto lo metas en una y falles lógicamente.
+
+[Speaker 2 - 01:30:38]
+Oye, eso me cae el anillo para.
+Chilearles.
+No, de verdad Mexi, ¿Puedo chilear?
+
+[Speaker 0 - 01:30:48]
+¿Obvio, obvio, aquí los invitados pueden chilear.
+
+[Speaker 2 - 01:30:52]
+OK, quiero chilear el grupo Gator en el que estoy, logré convencerlos de abrirlo nada más que los muchachos si se quieren, quieren crear un treasure de su comunidad, como que la quieren empezar a abrir entonces a todas las personas que vengan referidas por mí les van a dar una entrada de por vida de 25 dólares o sea, yo sé que bueno pagar y no sé qué, pero le doy mi palabra, son muchachos que están 24 7 en las trincheras y dije que me cayó como anillo el dedo lo de Jesús porque es verdad, o sea, estar en un grupo y que todo, o sea, esté la gente escaneando y así estos chavos si ustedes entran al grupo van a estar en un Discord en el que ellos van a estar mandando 24 7 calls para que tú las investigues y no sabes todavía escanear muy bien no entren a todas, también tienen que hacer su research pero una de las cosas de mayor valor aquí es que están en el voice chat entonces ustedes se pueden meter al voice chat, siempre hay alguien transmitiendo en vivo entonces si también quieren aprender pueden ver su pantalla y aprender junto con ellos y hacer preguntas entonces bueno, todas las personas que vengan referidas a mí les van a dar, van a abrir el alfa yo estoy ahí en el grupo como team, no soy founder ni nada, en realidad les estoy ayudando un poquito de lejos cada vez me estoy involucrando más pero no tanto.
+Como me gustaría, me gustaría estar más ahí para ser transparente pero.
+Los convencí de abrir el Discord nada más que una de las razones por las que están filtrando y también lo van a hacer de paga es porque quieren.
+Y esto lo entiendo, esto apenas lo entendí cuando lo hablé con ellos, quieren filtrar gente, si tú haces grupos gratis entra mucha gente y mucha gente en primera no son activos, en segunda no mandan nada, nada más ocupan espacio ahí en el servidor y si filtras un poquito con el dinero creas gente que está dispuesta a gastar, gente que quiere arriesgar dinero entonces sin quererles hacer promesas de que van a hacer dinero ahí porque se ve mal, si lo van a hacer.
+Por lo menos van a aprender, son 25 dólares ahorita, creo que van a subirlo después pero van a meter gente de poco en poco, entonces conmigo ahorita hicieron el experimento y dijeron bueno ahora le vamos a abrirlo, el primer filtro vas a ser tu tabó, o sea gente que te está escuchando a ti, siguiendo a ti, gente que quiera, gente ambiciosa, esos son como sus filtros, gente ambiciosa, gente que está dispuesta a arriesgar, que no venga y diga coño me hiciste perder no sé qué, o sea gente que de verdad esté dispuesta a arriesgar, gente que tenga capital, que tenga liquidez, gente que esté dispuesta a pagar también para apoyar a los muchachos porque van a empezar a utilizar ese dinero en treasury para más cosas dentro del proyecto como pagarle en entrada de alfa a otros grupos para poder ellos traer el alfa y así ellos ya están con, yo estoy en dos, ellos están como en diez a la verga y.
+Ya eso es todo, después lo van a, dependiendo cómo les vaya con este experimento conmigo van a abrirlo para más personas pero lo van a hacer siempre de paga, lo van a mantener así, entonces bueno, les van a dar un rol de por vida a esta primera ronda de 25 dólares y mi discord que me está preguntando Jesús, mi Discord lo va a seguir corriendo, realmente me la paso más tiempo en el otro, entonces ahí me van a ver en el voice chat casi 24 7 y mi discord solo lo voy a utilizar para mandar calls convincentes realmente como la del otro de war, nada más que ojo, ya les dije, yo soy low cap y DJ, entonces mis calls es.
+Yo no duro más de cinco minutos en una moneda, solo dejo moonbags, entonces si ustedes ven una colmilla y ya pasaron igual vayan a verla pero es probable que ya se haya ido, sí así es.
+Y ya se fue mi shield mexica 25 dólares de por vida y está bueno.
+Ellos tienen aquí un déjame lo casablanca te va a costar.
+
+[Speaker 0 - 01:35:45]
+Una membresía de por vida papá Miguel.
+
+[Speaker 2 - 01:35:47]
+El Chilca, ah y quería regalarle una membresía a Jesús porque si lo veo muy motivado y Tacho, tú estás loco.
+
+[Speaker 1 - 01:35:59]
+Aprovechalo chaval, te lo ganaste.
+
+[Speaker 6 - 01:36:04]
+Pues venga dinero, eso es lo importante, a seguir analizando y a sacar el dinero.
+
+[Speaker 0 - 01:36:10]
+No, la neta sí es.
+Probablemente un grupo donde vayan a ir a perder todo su dinero con esos calls o en el primero redoblan la inversión, quién sabe.
+
+[Speaker 2 - 01:36:22]
+Aprendan, aprovechen cuando entren, yo lo que les recomiendo es que se metan al voice chat y hablen con los muchachos, no lo van a abrir ahorita, creo que lo van a abrir hasta la siguiente semana porque ahorita todavía están como de que organizándose ellos de cómo hacer el treasury porque si quieren utilizar el dinero, aquí estoy siendo muy transparente, si quieren utilizar el dinero no para tradearlo ni para llevárselo a sus bolsillos, sino para ver cómo lo pueden regresar a la misma comunidad entonces son puros hispanos por cierto, pura gente hispana, pura gente que habla español y bueno, ahí hay.
+Como 80 personas en realidad, activos hay como 20, van a hacer una limpia, creo que se van a quedar como 30 y hay como 5 que ya manejan por trade de arriba de 50 solana, entonces son gentes que ya están en 8 figuras entonces que se mueven en millones de dólares y creo que esos los van a volver colors como oficiales, que también parte de eso va.
+
+[Speaker 1 - 01:37:31]
+A ser para pagarles cuando ese grupo.
+
+[Speaker 0 - 01:37:34]
+Notas, cuando ese grupo los rogué, aquí los esperamos para que nos cuenten la.
+
+[Speaker 1 - 01:37:38]
+Historia con gusto los voy a dejar porque voy por mi niña y es su cumple y ya te la sabes, ya va a salir a la escuelita y así no?
+
+[Speaker 0 - 01:37:46]
+Vámonos, yo también, alguna otro aviso, Tavo, Notas, Chilen, lo que quieran y nos vamos despidiendo.
+Bueno chileón, tú notas algo.
+
+[Speaker 1 - 01:38:02]
+Compren VIPs.
+
+[Speaker 2 - 01:38:06]
+Ahí voy a dejar en el último tweet de donde puso Mexi de se pondrá bueno el chismecito hoy voy a dejar el Twitter, pero les digo, está como muy gated entonces de que lo tienen sin publicaciones ni.
+Y creo que está bloqueado, o sea, no van a poder ver nada, pero denle follow y no tengan miedo porque esté así, o sea, en realidad estos son luego muy mamones, apenas los convencí a abrirlo a la comunidad, entonces bueno.
+
+[Speaker 0 - 01:38:34]
+Bye bye, muchísimas gracias Tabo Notas, voy a ir bajando toda la banda para aventarme los últimos anuncios, gracias a los invitados, gracias a los speakers que también subieron acá a dejar sus comentarios y gracias a todos los que se quedaron por acá escuchando toda la conversación.
+La neta, creo que es parte fundamental del ecosistema, entender cómo funcionan, las posibilidades que hay y lo bueno y lo malo, platicar de eso abiertamente creo que es muy importante.
+Y tener acá arriba notas y atado, que me consta, están metidos full en esto, que ya tienen años, yo tengo también años de conocerlos, nos hemos visto varias veces de manera presencial, hemos platicado mucho a lo largo de los últimos años, y creo que es importante.
+Que compartamos el conocimiento, el aprendizaje, para que la gente nueva sufra menos, aprenda más rápido.
+Y el objetivo de todo esto siempre es buscar que colaboremos y que hagamos cosas chingonas para nuestra región.
+
+[Speaker 1 - 01:39:39]
+Échale todo, interrúmpeme.
+No, espera.
+
+[Speaker 2 - 01:39:41]
+Oye, es que sí quería decir que en ese Discord no es educación, o sea, no es educación, es un Education Hub, na na na.
+La neta es que vayan para eso, vayan a otras comunidades.
+Aquí la forma en la que van a aprender es que les vamos a dar las armas directamente y les vamos a entrar al campo de batalla, así de fácil.
+Entonces hagan con esa información lo que quieran.
+
+[Speaker 0 - 01:40:09]
+Muchísimas gracias, Tavo, ya están ahí informados, 25 dólares, una cuota de por vida, que luego la gente se aburre y abandona, pero estén conscientes que les pueda pasar o no, o hacen un chingo de dinero, quién sabe.
+Pero avisos rápido antes de irnos, muchas gracias a todos los que se conectaron, si nos ayudan a compartir, se los agradecería muchísimo.
+Tenemos aquí arriba en el jumbotrón un hilo con.
+La filosofía de Tau, básicamente el tema de los memecoins, notas con su link para el troyan bot, para que utilicen su link de referido y les den comisiones.
+Yo les puse por ahí una guía para operar en Solana, creo que tengo que actualizarla porque será más como enfocada en NFTs.
+Ahorita con el tema de las mimicoins, hay muchas cosas que ya no son igual.
+El evento que va a haber en Solana también, que por ahí voy a estar en Ciudad de México el 7 de febrero, está pineado arriba la invitación Solana Apex o Apex, tiene que estar buenísimo, no me lo puedo perder por nada.
+Y el coleccionable digital gratuito que está también aquí arriba, que le amplié la ventana para que lo puedan reclamar.
+Todavía pueden ir a reclamarlo, está pineado, lo pueden encontrar También en banda mexi WTF.
+Tienen 20 minutos para reclamar solo con su wallet y con su nombre o correo.
+Y gracias de nuevo.
+Avisos hoy al ratito.
+No mentira.
+Mañana.
+Mañana a las 7 de la noche vamos a estar en Laszlo Espacio acá en Monterrey, vamos a estar platicando de un programa de embajadores de Stellar, por ahí también les voy a estar publicando mucho contenido de ese programa.
+Es un programa enfocado en que la gente aprenda, es un tema muy, muy educativo.
+Hay un nivel de escalones gamificado que está muy padre, donde la gente puede ir aprendiendo poco a poco y luego se puede ir haciendo embajador para empezar a hacer eventos y puede ir a hackatones.
+Hay varias iniciativas muy interesantes.
+Mañana voy a estar platicando del programa, por ahí tuvimos un espacio la semana pasada con la gente de Blockchain Acceleration Foundation, que está liderando este proyecto con Stellar.
+Y les voy a platicar acá en monterrey a las 7 de la noche en laslo espacio el viernes.
+El viernes en la mañana vuelo Oaxaca, porque con mismo Stellar vamos a estar por allá en Oaxaca platicando de el programa de embajadores, pero en una comunidad en la sierra de Oaxaca, a tres horas de la capital, que se llama Tlaxiaco.
+De hecho, también el jueves pasado tuvimos aquí al profesor de la Universidad de Tlaxiaco que está consiguiendo la aprobación del director de la universidad.
+Es una universidad de un sistema.
+Perdón, me entró una llamada.
+Es una universidad de un sistema público, de una universidad pública enorme, que tiene hijue mil campuses.
+Entonces están metiendo el tema blockchain muy, muy, muy fuerte.
+Y hay muchas asociaciones buscando hacer esas colaboraciones con maestros y con directivos que están dispuestos a hacer este tipo de eventos.
+Entonces está bien padre porque es una región, una ciudad muy pequeña, creo que tiene 40 mil habitantes, es una zona de la comunidad mixteca, entonces hay mucha comunidad indígena también.
+Entonces por ahí voy a estar en Oaxaca el.
+Jueves en una comida y el viernes en Tlaxiaco en la universidad.
+Va a estar muy divertido.
+Ahí les estaré publicando fotos, es parte del tour que ando haciendo con Banda Web, que también si no han visto por ahí, a la cuenta de Banda Web y la mía, estoy publicando las fechas, los eventos, para que la gente se registre vaya y conecte con otras personas que son parte de la comunidad web.
+El 6 de febrero voy a estar en Ciudad de México en un evento con Max Pretends, un evento que está patrocinando Tequila Don julio, si mal no recuerdo, y Max Zona Mako.
+Y el 7 de febrero voy a estar en Solana Apex, que por acá arriba también se los dejé.
+Conecten, busquen.
+La neta creo que este ecosistema este año va a tener una explosión masiva en Latinoamérica.
+Estoy viendo cómo salen y salen y salen oportunidades de aceleración, salen y salen oportunidades de gente que quiere invertir dinero en proyectos, en aplicaciones.
+Bitso ya lanzó un proyecto, la Ethereum Foundation tiene sus programas, Solana también tiene sus programas, pero más enfocado temas de aplicaciones que rompan industrias, que tengan mucho revenue.
+Cada una de estas industrias y cada una de estas herramientas tiene sus maneras de acercarse con la gente.
+Yo lo que he estado haciendo es tratando de que todo ese dinero fluya a Latinoamérica y ahí lo estamos viendo y hay que aprovecharlo.
+Y la única manera que podemos hacerlo es construyendo cosas, solucionando problemas, dando valor al ecosistema, ya sea a través de entretenimiento, educación o diversión.
+Hay de todo.
+Pero bueno, estamos el próximo jueves, voy a tener espacio.
+Estamos recibiendo por ahí una llamada exclusiva.
+Bueno, ¿Y que no?
+
+[Speaker 2 - 01:45:52]
+Ya lo saben muchachos, si quieren dar a ganar dinero, a darle.
+
+[Speaker 0 - 01:45:59]
+Nos vemos.
+No, los veo el jueves.
+El jueves voy a andar por ahí viajando a Oaxaca.
+Les voy a tener mucho contenido, fotos y videos de todo lo que pase por allá en Oaxaca, en Monterrey mañana y en Tlaxiaco el día viernes.
+Muchísimas gracias, los quiero mucho.
+Les dejo con la última parte de Minds Abyss de Maximilis Mía creación mía hecha en su conveniencia artificial.
+
+[Speaker 1 - 01:46:24]
+Nos vemos.
+
+[Speaker 0 - 01:46:43]
+Uy, algo pasó.
+¿Qué pedo?
+Espera un segundito.
+Hijo de madre.
+
+[Speaker 2 - 01:46:51]
+La gente tiene que aplaudir para que suene.
+A ver, todos aplaudan, aplaudan.
+Así miran.

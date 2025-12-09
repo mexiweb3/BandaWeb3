@@ -1,0 +1,659 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #N/A
+Título: BandaWeb3 #027 @revillaweb3
+Fecha: 2024-12-17
+Host: BandaWeb3
+Tipo: hosted
+
+Descripción:
+@unlocksummit_io & @pwr2tpmx 👾 • Community architect 🏗️, content creator 📲, opinion leader 👩🏻‍💻, 🤑📊. Web3, Technology and AI. 🤖🏳️‍🌈
+
+Duración: 01:21:36
+Escuchas: 57
+
+Links:
+  Space: https://x.com/i/spaces/1MnxnDQWMRmGO
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+[Speaker 0 - 00:00:06]
+¿Gmgm, Banda, cómo andan el día de hoy?
+Buenos días, buenas tardes, buenas noches, depende de dónde estén conectando esta grabación.
+Estamos empezando el episodio número 27 de Banda Web.
+Vamos a estar el día de hoy con Revilla Web platicando de todo lo que ha estado haciendo en los últimos años acá en la industria blockchain.
+En un momento estará con nosotros, pero como siempre vamos a empezar con algo de musiquita.
+Esto es Universal Mind de Liquid Tension Experiment, Gracias a todos los que se van conectando, Saludos a Mar Morita, saludos también a el buen Eric Valle que anda por ahí.
+Ahorita voy a mandar todas las invitaciones y en un momento tendremos por acá a Carla de Unlock Summit y de Power to the People.
+Bienvenidos, empezamos en breve.
+Esto es Universal Mind de Liquid Tension Experiment.
+Bienvenidos, bienvenidos, ojalá me escuchen ahorita se trató de conectar a una bocina wifi y de repente me falla.
+Estoy tratando de subir aquí a Carla también a mi cuenta personal, pero algo le está pasando aquí el espacio.
+Espero me puedan escuchar bien, ya me voy a poner los audífonos, comenzamos en breve.
+Gracias por estar por aquí Carla, Power to the People y Mexi, si pueden subir, Algo está fallando aquí, ojalá no tenga que.
+Reiniciar web, reiniciar en otra aplicación, ya debería tener los audífonos.
+Espero que me puedan escuchar el día de hoy.
+Creo que sí estamos listos, pero bueno.
+Estaremos platicando con ella, pero creo que ya por fin pudimos por aquí arreglar los problemas técnicos.
+Vamos a ver si acá también ya puedo entrar, creo que sí.
+¿Qué onda Carla?
+¿Cómo andas?
+Bienvenido.
+
+[Speaker 1 - 00:04:10]
+¿Gmgm, cómo están?
+¿Me escuchan bien?
+
+[Speaker 0 - 00:04:16]
+Todo muy bien, todo muy bien.
+No sé por qué no te puedo subir como co host, algo le está pasando aquí al espacio, pero bueno, yo creo que así podemos arrancar y que.
+
+[Speaker 1 - 00:04:28]
+Haga algo ahí raro.
+
+[Speaker 0 - 00:04:33]
+Pero no.
+Encantado de tenerte por aquí, Carla, Muchísimas gracias por pasar a darte la vuelta, por platicarnos todo lo que ha estado haciendo por ahí publiqué en una de las invitaciones hace rato que.
+Eres de las personas y de las builders que he visto por ahí súper movida en los últimos años y no nada más con eventos, sino con activaciones, con participaciones en iniciativas de otras comunidades, por ahí hace poquito te fuiste a Devcon, has estado viajando mucho últimamente también y haciendo muchas colaboraciones y la neta, pues encantado de poder platicar sobre todo lo que estás haciendo y los planes que vienen para el 2025.
+Que bueno, por ahí creo que hay noticias y novedades muy interesantes para la comunidad web en México.
+¿Cómo has estado, Karla?
+¿Ya andas instalada en tu casa después de tanto viaje?
+¿Todo tranquilo?
+¿Cómo te trata el bull market con estos all time highs que estamos viendo constantemente?
+
+[Speaker 1 - 00:05:33]
+No, pues primero que nada agradecerte, Mexi, creo que.
+Hay que reconocer también todas las relaciones que hemos tenido a lo largo del tiempo y te considero uno de los más importantes en este.
+Te considero ya un gran amigo.
+Gracias, gracias por darme un espacio aquí en tu comunidad.
+Y también hermano, tú también eres de los que más ha estado construyendo y admiración y respeto para ti todo lo que has hecho, entonces es mutuo.
+Sí, bueno, mi base es, pues si, mi casa anda por acá, pero la verdad es que casi no había estado en Puebla, ya llevo tres semanas por fin en Puebla con mi familia.
+La verdad increíble.
+Me escuchan ahí todavía, ¿Verdad?
+Sí, sí, todo se escucha ¿Que se conectó?
+Se conectó mi Bluetooth.
+Pues nada, muy emocionada.
+La verdad es que sí, he tenido un año bastante movido, abundante, con muchísimas cosas que he conocido también, viajes, lugares que no había estado, proyectos.
+Creo que.
+Cuando tú tienes una visión muy clara de lo que quieres hacer, construir, hablando específicamente en web, pues llegan los caminos, llegan las personas, llegan los momentos adecuados para que esa misión o visión se vaya poco a poco concretando.
+Entonces.
+Hasta ahora muy satisfecha y agradecida con el todo y con todas las personas y comunidades que también han confiado y creído en mí.
+Y feliz hermano, la verdad es que estoy muy contenta.
+
+[Speaker 0 - 00:07:29]
+No, qué chido, la neta me encanta poder platicar con gente que ya tiene un rato acá, que me consta porque la conozco y los conozco y he platicado y los he visto.
+Pues hemos viajado a diferentes eventos, a diferentes ciudades, diferentes países, a platicar de lo que nos gusta, a conectar con gente que está haciendo algo similar o en la misma industria.
+Y por acá abajo veo a muchos, el mismo Eric Suri Mar, el Manny que vino hace poquito.
+Saludos al buen Manny que vino ahora a la posada que tuvimos el sábado.
+Neta, hay gente que tiene ya buen rato aquí y es picar piedra, decidido construir.
+Platícanos un poquito cómo ha sido tu proceso, porque tú iniciaste, si mal no recuerdo, 2021-2022 por ahí, cómo fue tu integración, Sé que fuiste de las que participó en varios eventos esos míticos que, híjole, a mí se me pasó ir y no tuve chance, por ejemplo, Tiro México 2022, DEFCON en Colombia.
+¿Cómo empezó todo tu proceso y ahorita cómo te has sentido después de dos años intensivos de mucha actividad, de muchas conexiones, de conocer gente nueva, de empezar a hacer colaboraciones y.
+Pues ya ahora empezar a construir marcas bien, bien grandes como las que nos vas a platicar?
+
+[Speaker 1 - 00:08:56]
+Gracias hermano.
+Yo creo que.
+Todos hemos tenido como un camino diferente, pero de alguna u otra manera como que llegamos a los mismos puntos.
+Definitivamente.
+La base o lo que no sé, supongamos que es la receta, vamos a hablar de la receta o de mi método y definitivamente han sido los eventos.
+Creo que asistir a un evento antes de web, me gustaban los eventos de tecnología, trataba de ir a varios aquí en Puebla, el famoso Festival de las Ideas, que ahorita ya es la ciudad, bueno, era la Ciudad de las Ideas y ahora ya es el Festival de las Ideas y entre otros eventos a los que yo he asistido y me daba cuenta que no era la única loquita que mucha gente buscaba en estos eventos a su próximo socio, al engrane que le faltaba a su proyecto.
+Toda la información que nosotros escuchamos en cada evento creo que es muy valioso y al final también es de admirar y de aplaudir la gente que hace este tipo de eventos.
+No es fácil.
+Y lo digo de manera personal, puesto que ha sido una de mis líneas.
+De negocio y de impacto el tema de hacer y producir eventos también.
+Entonces los eventos creo que es la base de cualquier persona que está curioseando en el tema de web.
+La mía fue eso.
+Creo que el primer encuentro y en donde me me brillaron los ojos y decir no manches, hay mucha comunidad construyendo en Eso fue en 2022, justamente en Puebla, fue el primer meetup que fue en Puebla, fue A finales del 2022, para muchos han de recordar ese momento porque fue Espacio Cripto, fue Ethereum México, fue Blue DAO en ese momento habían muchas personas también pues ya sabes, fue el bullrun pasado, el halving del dos mil.
+Dos mil veinte me parece, dos cero dos cero dos uno y ya se venía como la ola en 2021 dos cero dos dos.
+Y un poquito de mi historia o quienes no conocen.
+Empecé en 2020 mi primera experiencia en el ecosistema y ya en 2022 en ese meetup con la comunidad de Cripto Puebla, pues conocía prácticamente a la mayoría de quienes al día de hoy me sigo llevando de poca madre.
+En ese momento estaba muy curiosa, estaba investigando qué podcast había, qué materiales habían en YouTube, qué se movía en las redes sociales, de repente vi que había mucho movimiento en X, en ese entonces era Twitter todavía, y yo tenía Twitter desde hace un chingo, desde el 2011 2012 y de ahí creo que lo borré y volví a crear en 2021 mi cuenta otra vez.
+Entonces como que empec seguir la gente que hablaba de esto.
+Y ya en 2022, conociendo a todos, yo ya escuchaba Espacio Cripto.
+Creo que también Espacio Cripto ha sido una de las bases, o sea, para alguien que me diga, oye, ¿Cómo inicio Espacio Cripto su podcast?
+La verdad es uno de mis favoritos y fue de los primeros que yo escuché.
+Y pues bueno, me encantó saber que estaba Espacio Cripto en Cripto Puebla en ese Meetup del 2022.
+Y ahí fue cuando ya explotó todo.
+Yo traía en ese entonces contenido, hacía videos, compartía contenido hablando del ecosistema desde mi perspectiva y experiencia, muy básico, la verdad, no tan tan técnico como ya podría tener un lenguaje al día de hoy que no es tan técnico, pero al menos lo importante, por supuesto que ya no lo sabemos, al menos todos ya pasamos esas materias.
+Ahí conocí a Blue Dao, ya venía en dos semanas it México en 2022, que fue en agosto.
+Me acuerdo, en ese entonces conocía a varios de varias personas, de hecho ahí conocí también a Suri, Suri me parece que no fue, yo la conocí ya en IT México, a ver si se puede subir también a platicarnos un poquito.
+Y a las dos semanas ya estábamos hackeando.
+Yo así de ni puta idea de lo que estaba haciendo.
+Me acuerdo que me dijeron, güey, tú pon ahí tus habilidades.
+Regístrate, lo mejor que sabes hacer, ponlo ahí.
+Y yo, pues bueno, le damos, ¿No?
+Yo ya en ese entonces dominaba, ya traía mis wallets, ya había comprado criptomonedas en ese entonces ya sabía que pego con el Bitcoin, con Ethereum, pero no sabía de las comunidades y para mí fue como volver a nacer.
+Eso fue como mi segundo momento importante en el ecosistema.
+Fue ese momento increíble, el evento de Ethereum México, bueno de IT México, de hecho estuvo también la comunidad Ethereum México apoyando ese evento con IT Global.
+Fue ahí en prime, estuvo increíble, 700 personas estábamos ahí.
+Yo no sabía que habían tantos mexicanos y mexicanas construyendo en el ecosistema.
+Muchos y muchas de esa generación al día de hoy son amigos y amigas íntimos míos y que también nos hemos visto y acompañado en crecimiento.
+Yo puedo asegurar que cada uno que nació en esa generación ya tenemos proyectos propios o estamos asociados con proyectos que ya tienen impacto en el ecosistema.
+De ahí estuvo increíble, fue una semana entera de eventos, de meetups.
+Yo estuve becada por Blue Dao, por esta comunidad de mujeres.
+Ahí andaba haciéndole como una competencia.
+Me sigo escuchando, ¿Verdad?
+
+[Speaker 0 - 00:15:09]
+Te fuiste un segundito, pero ya estás de regreso.
+
+[Speaker 1 - 00:15:12]
+Ah, ya me entró una llamada.
+Blue DA ahorita el día de hoy.
+Pues tuvo ahí unos temas, unos temas ya internos.
+Al día de hoy desconozco qué está haciendo Blood Gerdao ahorita.
+Ha sido una de las comunidades que ha permanecido y que sigue impactando también a mujeres.
+Me encantó saber que habían comunidades de mujeres que incentivaban a mujeres a hackear, que les pagaban viáticos y que estaban ahí, que hasta el día de hoy lo siguen haciendo.
+De ahí el camino fue.
+Bogotá hace dos años.
+La verdad es que fue un antes y un después.
+Yo creo que DEFCON para mí fue.
+Decidir soltar, cortar puentes, quemar puentes y decir chingue su madre, vámonos con todo porque aquí el futuro está.
+Seis mil personas estuvimos en Bogotá, Colombia, en el Ágora, en este centro de convenciones hermosísimo en Bogotá.
+En ese entonces estuvimos construyendo en Cripto Puebla, fui parte del core team de Cripto Puebla, Bajamos un fondo de 60 mil pesos para llevarnos a 20 personas a hackear a Bogotá, les pagamos ahí la estancia, de hecho también estuvo ahí también Suri, entre otras personas.
+Celic también estuvo en ese.
+También estuvo Michael, estuvieron varias personas, Leo también, que fueron parte de esta beca.
+Y que se beneficiaron de esta beca que bajamos y entre otras cosas que se lograron.
+DEFCON Bogotá definitivamente en general es un evento imperdible, está en mi top de eventos que yo le aprendo muchísimo, que es mi inspiración también, porque al final quienes estamos ya creando eventos, pues obviamente viene de una inspiración o viene de las experiencias que hemos tenido y DEFCON definitivamente lo hace muy bien.
+De ahí pues bueno, ese fue tu.
+
+[Speaker 0 - 00:17:22]
+Primer gran evento cripto, no DEFCON.
+Porque ya llevas dos DEFCON, yo no llevo ni uno y todavía me duele, me duele mucho.
+
+[Speaker 1 - 00:17:33]
+Definitivamente.
+Ponlo en tu Visión Board, DEFCON, así imperdible.
+Sí, yo creo que sí fue mi primer evento grande, grande y que me impactó mucho y que al día de hoy me sigue inspirando y que al día de hoy seguimos digiriendo.
+DEFCON Tailandia creo que por la saturación que traemos de proyectos y de actividades y de temas personales, poco a poco te van cayendo como los 20 de que estuviste en Asia, volar, viajar día y medio, desde ahí pues es impactante y de ahí todo lo demás.
+Pero sí hermano, creo que DEPCO.
+
+[Speaker 0 - 00:18:12]
+Qué chido, qué chido.
+La neta, yo siempre hablo de que hay uno o dos eventos presenciales, o al menos a mí me abrió mucho la mente Blockchain Land acá en Monterrey en el 2022, octubre del 2022 más o menos.
+Tú me has predicado mucho de DEFCON, mucha gente me ha dicho, sobre todo de ese DevCon en Colombia, que fue algo que les voló la cabeza, que les hizo ver el mundo de una manera muy, muy diferente.
+No sé si ese fue el punto en el que tú decidiste ya clavarte full esta industria o ya estabas convencida desde antes, pero si he escuchado esa historia de muchas personas que fueron a Colombia, Bogotá.
+
+[Speaker 1 - 00:18:51]
+Definitivamente el tema de tecnología es algo que me ha gustado mucho.
+Recuerdo la primera vez que hablé de inteligencia artificial en una entrevista, fue en 2018, sabía que mi línea iba por ahí, pero DEFCOM fue.
+La creencia y la postura de saber que las comunidades eran importantes y que de alguna u otra manera las comunidades son este.
+Pues no sé cómo llamarle.
+Es tu primer filtro.
+La verdad es que las comunidades es tu primer filtro y de ahí salen muchísimas oportunidades, de ahí salen más eventos, de ahí salen colaboraciones.
+Las comunidades son primordiales en el ecosistema.
+Entonces yo creo que Deadcom fue para decir, OK, ya encontré las comunidades porque pues ahí me conecté con la comunidad de Colombia, con las comunidades Colombia, de Perú, de Argentina, conocí a todos nuestros amigos y amigas de LATAM también súper fuertes que han venido incluso a eventos nuestros en México, entonces sí, definitivamente defcon fue que yo tomé la decisión de ser constructora, arquitecta de comunidades, me gusta decir mucho esa palabra, arquitecta de comunidades, fue ahí.
+
+[Speaker 0 - 00:20:12]
+Qué chido, qué chido.
+Y definitivamente desde que te conocí, yo creo que fue más o menos en esa época porque me acuerdo haber estado muy pegado a las publicaciones que hacían toda la banda que estuvo por allá, yo muriéndome de FOMO, igual como me pasó ahora con todos los que fueron a Tailandia, desde ahí te empecé a ver, yo creo que allá antes te había identificado y luego empezó.
+No sé, o sea, al menos mi percepción puede ser de acá de lejos y lo que tú quieras, pero sí fue como que pum.
+Y de repente revía por acá y revía por allá y colaboraciones y pláticas y luego ya empezaron eventos, o sea, ¿Cómo fue esa migración hacia ya tener lo que tienes ahorita y si quieres empiézanos a platicar.
+De Unlock o de?
+Sí creo que Unlock es tu primer gran proyecto, ¿Cómo lo consideras tú?
+
+[Speaker 1 - 00:21:08]
+Sí, definitivamente.
+Me acuerdo perfecto, defcon fue en octubre, de ahí hubo un evento en México, hermano, donde nos vimos por primera vez, ¿Te acuerdas?
+En Ciudad de México.
+En un roofto, creo.
+
+[Speaker 0 - 00:21:24]
+Me acuerdo cómo no, claro, un evento con.
+
+[Speaker 1 - 00:21:27]
+¿Cómo se llama?
+
+[Speaker 0 - 00:21:30]
+Noches.
+Noches con.
+
+[Speaker 1 - 00:21:32]
+Noche con Ananá.
+Sí, ya me acordé, fue Noches y fue otro que estuvieron Las Gals, estuvo también Cripto Papayas, ¿Te acuerdas que era un restaurante?
+Ándale.
+Ahí nos conocimos tú y yo, hubo mucha gente de ese lado, la verdad.
+De ahí noviembre fue Foro Blockchain Querétaro, hermano, la segunda edición, ¿Te acuerdas que nos venimos juntos de Ciudad de México a Querétaro y ahí nos veníamos platicando y de hecho compartimos nuestros proyectos, ¿Te acuerdas?
+
+[Speaker 0 - 00:22:08]
+Sí, estuvo muy bueno también ese de Querétaro.
+
+[Speaker 1 - 00:22:11]
+Así es.
+Y ahí pues bueno, yo creo que un evento te lleva a otro evento, es así la línea, un evento te lleva a otro evento y de ahí pues bueno, ya estamos completamente conectados de manera digital y ya es como, oye, ¿Vas a ir este evento?
+¿No, ya es más, hasta hoy ya se empatan eventos, no?
+Fue de ahí Foro Blockchain Querétaro.
+Después este año 2024 decido descentralizarme de las comunidades en general, o sea, más bien doy las gracias en Cripto Puebla.
+De ahí decido construir en conjunto con las comunidades, no tomar ninguna comunidad o ser parte de un core team, sino simplemente dije, a ver, quiero conocer todas las comunidades, quiero aportar, quiero colaborar, lo que se necesite de cualquier comunidad, tanto de mujeres como mixtas.
+Por azares del destino, uno de mis mejores amigos vive en Barcelona y conoció a Alex, mi socio, que es el cofundador de Unlock, y él traía.
+Muy presente estos temas de web, pero no sabía en dónde encontrar mujeres speakers, Eso fue en abril, mayo, yo me acuerdo que tuvimos una reunión en remoto, nos conocimos, nos caímos increíble y en ese momento la marca de Unlock me gustó mucho, me gustó mucho como marca y como misión.
+La misión era empoderar a mujeres empresarias y emprendedoras, más bien la misión es empoderar a mujeres empresarias y emprendedoras web.
+Y también me di cuenta del impacto que estábamos haciendo, yo llevaba ya un año y medio construyendo en el ecosistema sin hacer dinero, sin cobrar nada, simplemente era aprender, contribuir, colaborar.
+Hacer las conexiones necesarias.
+Dime.
+
+[Speaker 0 - 00:24:16]
+No, es que me gusta mucho esa parte de.
+Del proceso donde creo que muchos hemos.
+Pasado, muchos estamos aquí ya un rato, hemos pasado por ese proceso donde nos acercamos a comunidades, empezamos a hacer grupos, aportamos mucho valor sin recibir nada a cambio, pero.
+Y está chingón, eso me ayuda, creo que te ha ayudado a ti también a conectar, conocer, a ir a otros lados, a ver qué está sucediendo, pero en algún punto eso no es sustentable, tienes que emigrar.
+Proyectos propios, tienes que emigrar, o al menos así lo he vivido yo, lo he experimentado.
+Yo de lo que hemos platicado, creo que tu historia similar, ¿Qué opinas de ese proceso?
+De una, veo por ejemplo aquí a Suri, que también es otra persona de las que está súper activa y que también creo que tiene una historia parecida, veo a Caro que también por ahí está haciendo mucho contenido, o sea, no sé, no sé qué opinas de.
+Sí, de ir conectando, ir a eventos, ir a lugares, pero luego hay que comer, hay que hacer negocio, hay que vivir de lo que nos gusta hacer.
+
+[Speaker 1 - 00:25:29]
+Creo que maduramos, obviamente maduramos muchísimo más rápido que estar en el ecosistema web.
+Si tú construyes en web, la curva de crecimiento es muy lenta y creo yo que en web es es más rápida o más bien es el tiempo que tú decidas.
+Es muy difícil digerir esta información.
+Al final cada quien estamos creando marcas personales como lo eres tú, Mexi, Suri, Caro y todos los que están aquí.
+Tú te vendes, yo siempre digo, a ver, las ventas están todos lados.
+Construyes una marca personal, construyes también confianza.
+Reputación, alianzas y conexiones humanas verdaderas porque muchos amigas y amigos han sido socios y socias antes que la relación de amistad.
+Creo que el año y medio que yo estuve construyendo, pues no quiero decir gratis, pero literal como aprendizaje.
+Fue para que la gente me conociera, que viera mi valor, que viera qué hago y de ahí ir sumando.
+Eso para quien entra y luego luego quiere ganar o luego luego quiere ponerse un sueldo o colaborar en un proyecto y cobrarme 20 mil dólares, pues la verdad, pues ojalá que nos diga cómo lo hace.
+Pero no es viable.
+Entonces es un camino que hay que recorrer, no te puede saltar esos caminos.
+Y pues bueno, en ese momento yo tomé la decisión de.
+Creo que al principio.
+Nos contábamos un cuento que era ser altruistas y no hay que pedir dinero y esto lo hacemos por las comunidades.
+Ese cuento muchos se lo creyeron y yo no me lo creí.
+Después dije, a ver, hay un punto, ya hay un momento en donde se tiene que cobrar lo que tú eres y lo que tú haces.
+Y hay un dicho que me gusta, lo que sabes hacer bien se cobra.
+Entonces de ahí fue como salirme del ecosistema tantito, literal fue como un detox, creo que a veces es importante como soltar todo, es como a ver, aguantenme tantito.
+Me salí como un mes más o menos, me desprendí para volver a retomar qué era lo que yo quería.
+Aparece un loc, me encanta, un log porque ya traían un modelo de negocio interesante, mis socios son emprendedores web y traían muy, muy claro ya el tema de negocio, entonces eso era algo que en ese momento necesitaba yo vivir, el tema de emprender realmente.
+En ese momento.
+Venía la primera edición de unlock en 2023 del año pasado, perdón, dije que este año, pero fue el año pasado.
+En junio, el 8 y el 9 de junio fue la primera edición de Unlock y ahí lo único que contribuí fue colocar speakers mujeres.
+Estuvo Ananá, estuvo Ana Karen.
+¿Quién más es tú?
+Hablamos de Metaverso, estuvimos ahí, pusimos una conferencia en vivo de Metaverso.
+Yo empecé a tomar también decisiones hacia dónde quería construir.
+Me gustaban los eventos, sabía que la tendencia de Metaverso y de realidad aumentada y experiencias inmersivas iba a ser tendencia, entonces también me metí de lleno ahí.
+También el tema financiero es algo que siempre me ha gustado mucho.
+Yo invierto, a mí me gusta diversificar, me gusta probar en modelos financieros, obviamente web.
+Tuve también un proyecto que se llama BitGoliat con un socio español que al día de hoy, pues ese proyecto ya lo matamos porque no era escalable y perdimos hasta lana.
+Y creo que eso también es bueno de contar porque no todos los proyectos son exitosos y hay que tener mucha claridad y ser muy frío también en cabeza y tomar decisiones de cuándo matas un proyecto.
+¿Beat Goliath lo maté en marzo y sabes qué?
+No, yo ya no, yo ya me bajo de este barco y continúo construyendo un lock.
+Y pues bueno, la segunda edición fue totalmente enfoque y fuego haber tomado también esa decisión.
+Entonces el año pasado estuve construyendo varios proyectos que al día de hoy el que tomé y me gustó y ha sido exitoso, ha sido un lock.
+Pero en temas financieros me gusta estar buscando productos y servicios para mí, para que mi dinero trabaje solo.
+Otras cosas que empecé a enfocarme fue en mi marca personal, en ser conferencista, casi nadie lo sabe y no me gusta decirlo, pero era mi sueño ser conferencista a mí yo dije, yo quiero estar en un escenario, yo quiero hablar y al día de hoy de manera muy orgánica se ha logrado, me han invitado y es como va, ¿No?
+Entonces, marca personal, ser conferencista, empezar a tener, crear contenido, que también ha sido una de las cosas que me ha abierto a otros lugares.
+Al día de hoy estoy justamente saliendo del radio, tengo un espacio todos los martes a las 11 de la mañana en el brunch en los 40 puebla para hablar de innovación y tecnología.
+Ya estoy escribiendo artículos para revistas.
+Creo que todo es un camino.
+A veces la gente dice, órale, no tiene suerte, tiene contactos y por eso está ahí y lo sabes.
+Tú Mexi y quienes me conocen, hemos construido lo que teníamos que construir para llegar a lo que estamos haciendo.
+No ha sido fácil, pero al final estoy haciendo lo que amo y lo que me conecta conmigo.
+Pero bueno, el año pasado llega mi Unlock primera edición, se logra esto, estaba como colaboradora, de ahí mis socios me invitan al podcast, al día de hoy tenemos ya un podcast en Unlock en donde tengo un espacio también en donde hablo de innovación y tecnología, en donde también tengo invitados, invitados para seguir hablando de esto de manera digerible porque nuestro público es web y mujeres.
+De ahí pues bueno, la conversación, se llegó a hablar de la segunda edición para 2024, nos asociamos, tomamos esta decisión en noviembre del 2023 y se logra la segunda edición en el Museo Internacional del Barroco el 24 y 25 de mayo.
+Para quienes vinieron acá estuvo increíble el evento, se logró un formato de cuatro días, el primer día fue exclusivo para web, estuvimos más de 20 comunidades en Cholula, Puebla, hablando en 20 minutos desde las 10 de la mañana hasta las 8 de la noche de lo que hacíamos, de lo que construíamos y de los proyectos que teníamos, si éramos embajadores, si ya traíamos nuestro proyecto propio.
+Hubo muchos lanzamientos, fue el primer evento de Sati al día de hoy con Elian y con Felipe también se lanzó que es una de las comunidades aliadas con Unlock, Cryptochs, se lanzaron varios proyectos de amigos y amigas y al final.
+Yo lo digo y lo sostengo hasta el día de hoy, Unlock no fue lo que fue, sino fue gracias a todos ustedes y a todas ustedes quienes aportaron y pusieron algo en Unlock.
+No, o sea.
+Suri lo vivió muy de cerca, Suri estuvo ahí construyendo conmigo la segunda edición y ella más que nadie puede decirlo, al final era como oye ¿Qué opinas de esto?
+Y de repente Suri me decía oye sí hagamos esto, hay que buscar, hay que hacer.
+Entonces Unlock se hizo gracias a las comunidades de web también.
+Un poquito de contexto, estuvimos alrededor de unas 400 personas en el evento, tuvimos una experiencia inmersiva, tanto mapping interno y externo, tuvimos cinco criptoartistas, tuvimos una convocatoria también con Knox Gallery que está ahí Melanie, 30 criptoartistas pudieron colocar su arte en el Museo Internacional del Barroco.
+Para muchos fue la primera vez estar en un museo, entonces fue también un hito importante.
+Llevamos una antorcha olímpica de 1948 con un NFT de autenticación, tuvimos otra vez un metaverso, hubo muchas cosas de web ahí, casi el 70-80% de nuestros patrocinadores fue de web, recibimos criptoactivos por primera vez, al menos mis socios, entonces fueron muchas enseñanzas, también estuvo ahí un log Protocol que sé también estás muy de cerca con ellos, fueron nuestros patrocinadores.
+Tuvimos ahí una boletera de cripto que hicimos ahí el enlace con nuestra plataforma, tuvimos sold out el 23 de mayo en este evento en el Site Event, un día antes de la convención y bueno terminamos con el día 26 de mayo en un crypto brunch simultáneo con la puerta de innovación que es la que yo estoy liderando y la puerta de conciencia en donde tuvieron tinas de hielo, se tuvo meditaciones, se tuvo.
+Fue ahí, estuvo increíble, la neta es que estuvo muy, muy padre el evento.
+Tuvimos dos afters.
+En el Museo Internacional del Barroco en donde uno de nuestros patrocinadores oficiales que es Eno, que son otros mexicanos que están construyendo muy fuertemente en el ecosistema y tienen un proyecto de blockchain e inteligencia artificial también muy cabrón y que nos hemos visto crecer y que nos hemos acompañado, creo que también eso es algo importante en el ecosistema.
+Ahí corto mi micro hermano para si quieres retomar algunas cositas y de ahí nos seguimos con Power to the People.
+
+[Speaker 0 - 00:35:58]
+Si no, la neta.
+Esta segunda edición estaba yo listo para ir y por X o Y cosas aquí en la casa y los niños y la fregada ya no me puede lanzar, pero el museo se veía increíble.
+Si no han visto fotos de el evento, de cómo expusieron el arte.
+El área donde estaban las presentaciones, las pláticas, el museo en sí, o sea tener una plática web en un espacio así, no creo haberlo visto antes y la neta de acá de lejos se veía espectacular.
+Me acuerdo haber platicado con Superama, con Ananá, con varios y varios de los artistas que estuvieron exponiendo por ahí, encantados de ver sus piezas así enormes, eran metros y metros y metros para allá abajo.
+Está súper ama.
+Saludos a mi increíble amiga.
+Entonces se me hizo bien loco la neta y que como tú decías no era la primera edición, ya es la segunda edición.
+¿Te involucraste mucho más, estás ya en un rol o estuviste en esta edición?
+En un rol mucho más ejecutivo, mucho más operativo.
+La neta, en lo personal yo vi muy chido el evento acá de lejos, al siguiente definitivamente no me lo pierdo.
+¿Ya lo tienen programado?
+Va a ser 2025.
+¿Sigue?
+¿Se repite Puebla?
+¿Qué onda con Ol?
+
+[Speaker 1 - 00:37:32]
+Sí, la verdad estuvo padrísimo.
+Saludos a todos los cripto artistas que fueron parte de esto y que creyeron y confiaron también en nosotros.
+Sí hermano, la verdad es que de hecho ahorita estoy a punto.
+¿Esto es un alfa?
+Este es un alfa.
+Les quiero compartir, ahorita voy a Zacatlán, Zacatlán de las Manzanas, que es uno de los municipios turísticos y es un pueblo mágico aquí de Puebla.
+Cuando vengan a Puebla y si se hace la adición aquí en Puebla, vengan con más tiempo para conocer nuestros pueblos mágicos, están hermosos.
+Voy a ir a Zacatlán de las Manzanas porque ha sido muy bonito ver el impacto y hasta dónde llega una marca que se enfoca en cambiar vidas, porque a mí me la cambió y creo que ha resonado también en muchas personas.
+Nos están pidiendo hacer un lock en Zacatlán de las Manzanas.
+La nueva presidenta es la primera mujer presidenta que quedó electa ahorita en Zacatlán de las Manzanas y obviamente, pues bueno, esto ha llegado también amigos y amigas que han compartido también estos proyectos y llegó a la presidenta que se llama Beatriz y nos está pidiendo que hagamos allá un lock.
+Este es un proyecto que estamos viendo si es viable o no.
+Vamos a ver si.
+Sí ya sí.
+Si ustedes ven que se lanza un lok en Zacatlán de las Manzanas, va a ser un.
+Sería un evento más pequeño de unas 100 mujeres, no lo sé, estoy hablando porque ni siquiera he llegado a Zacatlán y he tenido esta reunión, pero les quiero compartir a dónde me ha llevado esto.
+Nos han pedido mucho unlock en diferentes estados, en Guadalajara, en Veracruz, en Tijuana, en Chile nos han pedido también, en Barcelona también nos han pedido porque allá está mi socio, pero.
+Vemos cómo se mueve.
+Nosotros estamos pensando en la tercera edición que se haga posiblemente en octubre, nada está confirmado, es.
+Es un mes que nos llama en mayo se hizo esta vez, pero la verdad es que para quienes estuvieron acá nos cayó un aguacero que inundó Puebla, fue el primer aguacero que inundó Puebla.
+Entonces como que hay que entender también cómo se mueve el clima y tomar decisiones que sean favorables para el evento.
+Entonces no quiero decir todavía fecha, es tentativo que la tercera edición se haga en octubre.
+Sí, ya tenemos muchas ideas, obviamente para quienes organizan eventos, pues lo mejor que tratamos siempre de mejorar las siguientes ediciones y lo hemos visto con Ethereum México, también lo hemos visto con Foro Blockchain Querétaro, también lo hemos visto con Talent, todos los eventos hasta el día de hoy supera el anterior.
+Entonces pues eso no lo hacemos solos, lo hacemos también en compañía de nuestros aliados, patrocinadores y colaboradores, etc.
+Etc.
+Entonces la misión, mi misión en esta tercera edición, eso sí puedo decir, es que quiero traer a más mujeres del ecosistema web 2, ese es así como mi misión fuera allá de las experiencias inmersivas, de las experiencias de arte, la misión es traer más mujeres web 2 a unlock y que vean esta información y ahorita con todo lo que estamos viendo en el ecosistema cada vez más latente, pues creo que va a ser muchísimo más fácil.
+Algo también bonito que sucedió fue que Lu Ambrish, quienes la conocen ya es parte también de Unlock, ella es directora de Arte Phygital con nosotros, ella está llevando toda la parte de arte tanto física como digital, están bordeando mujeres también de web 2.
+Estamos ahorita el impacto que hizo un LOC fue también reconocido y tanto así que en Foro blockchain Querétaro esta tercera edición el 22 de noviembre, pues Jorge Tavares me Hermana hay que traer más mujeres, ayúdame para que haya una experiencia de arte padrísima como lo hicieron en Unlock aquí en Querétaro y se logró esa alianza estratégica, hicimos una convocatoria para artistas tanto web como web digitales y se logró también tener una experiencia Unlock en Foro Blockchain Querétaro.
+Entonces son de esas cosas que van sucediendo en el camino y que creo que a veces las ideas no son ideas hasta que se ejecutan.
+Hay mucha gente que llega y te dice no tengo esta idea y yo soy mucho de acción, yo soy de ahora le vamos a hacerlo y pues somos muy pocos esas personas, la verdad.
+
+[Speaker 0 - 00:42:35]
+Si, no, de acuerdo, totalmente de acuerdo que.
+Todo lo que te he visto liderar y en lo que has apoyado es como si darle y resolver y estar en la punta del cañón.
+Y la verdad me ha encantado esa actitud tuya y también como tú dices, ver estos proyectos y estos eventos que arrancan y van mejorando.
+El caso claro, es de tiro México.
+Otro que podemos ver también, que estoy seguro que este año va a ser algo muy, muy fregón es 5 de mayo, que también fue en Puebla un Lock Summit, es el que también he visto y me encanta el enfoque de buscar emprendedoras web y jalarlas a conocer la tecnología web.
+Creo que ningún otro evento en el mundo tiene, o al menos en mi perfil, perspectiva y mi círculo, de lo que me ha tocado ver, ningún otro tiene ese enfoque y la neta se me hace bien chido.
+Hay gente que.
+Dice que porque hay eventos solo exclusivos para ciertos géneros, etc.
+Yo creo que bienvenidos.
+Gracias.
+Y mejor para que la gente sienta un poquito más segura.
+Si, es lo que.
+Puede atraer a más personas.
+Y definitivamente una de las cosas que yo siempre he mencionado es que necesitamos más mujeres en este ecosistema.
+Puede ser algo que los mismos de siempre estemos haciendo, que los mismos de siempre estemos liderando, que los mismos siempre estemos creando.
+¿Por qué?
+Porque se transmiten los mismos sesgos.
+Entonces, qué importante esa iniciativa.
+Creo que yo me he enfocado en apoyar muchas mujeres que están por aquí en el cuestiono.
+Me encanta.
+Y sí, creo que es la forma más fácil de onboardar gente, no sé qué opinan.
+
+[Speaker 1 - 00:44:19]
+¿Así es hermano, desde que te conozco siempre has buscado que las mujeres sobresalgan y eso es algo que se debe de aplaudir siempre y que yo te admiro, te respeto y que al final.
+Esto va a ser posible también gracias a los hombres, no?
+Sí, fue.
+Fuimos duramente criticados que por qué un LOC era específicamente para mujeres y cambiamos un poquito el diálogo.
+El núcleo principal de un LOC son las mujeres.
+En esta segunda edición yo presentaba un LOC así el núcleo principal son las mujeres, pero también hombres aliados.
+Fue muy chingón ver a muchos hombres ahí con sus mamás, con sus tías, con sus novias.
+Con personas de sus trabajos, mujeres.
+Yo me acuerdo que muchas de las empresas patrocinadoras o de los proyectos patrocinadores, nosotros les decíamos lleva a tus mujeres, lleva sin tú no vas a poder, no pasa nada, pero lleva tu equipo de mujeres.
+Entonces eso también fue algo.
+Que hizo impacto.
+Me acuerdo que se acercaron varios hombres amigos del ecosistema y me dijeron, güey, mi mamá ahora ya sabe lo que hago, mi mamá ahora ya está más tranquila porque ya sabe que estoy haciendo este pedo.
+Entonces creo que eso también es impacto.
+Sí, sí hermano, definitivamente.
+Hay que traer más mujeres.
+Si, hay comunidades, Shifi me parece que también onboardea mucho a mujeres de web, pero bueno, Shifi está más enfocado para la comunidad de Estados Unidos y más por allá, no es tan de LATAM como lo está haciendo Gerdao de México y así, pero bueno, ha sido un camino muy interesante, nos siguen llegando cosas padrísimas.
+Unlock ya no es lo que yo conocí el primer momento, Unloc ha evolucionado, ya es un ecosistema.
+De otros sistemas, tenemos ya una agencia, tenemos ya una productora, vendemos servicios y productos, nos estamos enfocando también para las universidades, ya hay una marca de Unlock, ya está la submarca de Web, Unlock Web, que es obviamente todo lo relacionado con tecnología e innovación.
+Ya también tenemos Unlock Universidades que queremos hacer un programa con las cinco puertas, que es la esencia de Unlock para las universidades, o sea, nos queremos enfocar en muchas áreas en donde se necesita.
+Pero bueno, ahí síganos de cerca.
+Ahorita vamos a lanzar un último alfa en Unlock, vamos a lanzar una convocatoria a principios, a mediados de enero, vamos a lanzar ahorita un giveaway para que estén también muy atentos y atentas de Unlock, Vamos a ir a regalar algo muy chido a mediados de enero, vamos a hacer una convocatoria que va a ser una convocatoria muy, muy importante y muy chingona que te puede cambiar tu vida y que te puede cambiar tu carrera, Entonces estén muy atentos a esa convocatoria, va a ser una convocatoria que va a durar dos meses y va a ser muy importante para quienes quieren llevar.
+Sus talentos a otros niveles.
+Esta convocatoria también va a ser exclusiva para mujeres, queremos empoderar a más mujeres y traerlas al ecosistema, entonces estén también muy atentos y atentas a nuestras redes sociales oficiales.
+
+[Speaker 0 - 00:47:56]
+No, excelente, excelente.
+La neta, este evento que ya lleva dos ediciones y que estás planeando la tercera, que chido que se estén acercando con Pueblos Mágicos.
+Yo creo que hay una gran oportunidad ahí.
+Nosotros.
+El siguiente evento de Teherium México, queremos que sea muy diferente lo que hemos hecho antes y creo que va muy de la mano con esa idea de acercarnos.
+A este tipo de ciudades, este tipo de pueblos.
+Tenemos aquí cerca en Monterrey, Santiago, por ahí les llegué a platicar de Tecnomágico, que fue un proyecto que no se logró hacer, pero nos acercamos con el alcalde, nos acercamos con la senadora Indira, yo creo que ahí podemos hacer unos pop up cities bien, bien divertidos.
+Oaxaca es otro por ahí que hemos platicado, imagínate ir a dos, tres semanas escondido en bordear negocios y turismo, no sé, no sé, Zacatlán de las Manzanas, como decías, vota, o sea que la gente de ahí conozca estas tecnologías y que se pueda empezar a utilizar y hacer una economía circular, estaría loquísimo, pero qué chido, qué chido.
+Muchas felicidades.
+
+[Speaker 1 - 00:49:03]
+No, gracias hermano.
+Sí, Oaxaca, Oaxaca también está dentro de mis misiones.
+
+[Speaker 0 - 00:49:09]
+Sí, hay mucho que hacer por ahí todavía.
+Pero este no es el único proyecto que traes, platícanos de lo que viene porque ya se está acercando la fecha, ya tienes mucho trabajo realizado por ahí.
+Disclaimer, estoy apoyando también la iniciativa y encantado de poder participar.
+¿Platícanos qué onda, qué viene en febrero, Qué sigue con 2025?
+Y Carla Revilla.
+
+[Speaker 1 - 00:49:37]
+Gracias hermano.
+Así es, pues este año también llegó a mi vida otro proyecto que me movió mucho que se llama Power to the People.
+Yo para meterme de lleno un proyecto es importante que esté alineado a mi visión y mi misión de vida, porque llega un momento en donde ya el dinero no te mueve, ya como que cosas superficiales, ya no, ya.
+De forma personal a mí ya no me mueve, a mí me mueve trascender, dejar huellas, huellas digitales, dejar impacto.
+Creo que cuando alguien llega y te dice oye güey, gracias a esto que se hizo, que hiciste, que hicieron, pues mi vida cambió.
+Creo que eso ya empieza a dejar.
+Mucho fuego en cada uno de nosotros.
+Y Power to the People tocó una fibra muy importante en mí que es descentralizar la educación en México tradicional.
+Para quienes conocen mi historia, yo nunca conecté con la escuela, para mí.
+Era horrible, la verdad, hacía mi mejor esfuerzo pero no era algo que me gustaba.
+Tengo tres carreras truncas, nunca conecté con educación tradicional en México específicamente.
+Y ver lo obsoleto, obsoleta que está ya la educación en México es algo que debería de preocuparnos a todas y a todos.
+No sé cómo está en otros países de Latam, pero en México para quienes tienen sobrinos, sobrinas o hijos, hijas, creo que es muy latente.
+Ver también nuestro sistema, nuestro gobierno.
+Sí han habido muchos cambios y han habido muchas iniciativas y cosas así, pero en el tema de tecnología e innovación, pues tampoco ha sido mucho.
+Creo que hemos hecho más todas estas comunidades descentralizadas que algunos gobiernos y al final, pues los que son parte del gobierno que estamos nosotros teniendo contacto en Monterrey, Guadalajara, en Querétaro, en Puebla y así, pues terminan buscando a personas como nosotros, terminan siendo algo así como órale, hay mucho trabajo que hacer.
+Y bueno, Power to the People está enfocado principalmente para todos nuestros jóvenes de México.
+Este evento va a ser su primera edición en 2025.
+Hubo una fecha en este año, pero por temas también ahí de logística, no es lo mismo hacer un evento adecuado, 400 personas, hacer un evento que estamos tirándole a ser el evento más grande de México en Ciudad de México, en el Wall Street Center.
+Creo que lo he compartido también con todas las personas que he platicado sobre este proyecto.
+Yo estoy aprendiendo, yo nunca había hecho un evento tan grande, no estoy sola, tenemos un equipo bastante chingón y multidisciplinario.
+De hecho aquí está Carlos detrás de Power to the People, está aquí en este Space que también un chingón que lleva años construyendo en el ecosistema, que pocos lo están conociendo, pero ya van a empezar a conocerlo a Carlos.
+Este es un proyecto que viene del sueño de un empresario mexicano que se llama Joselo, para quienes ya han tenido el gusto de conocerlo y se dio cuenta también él también viene una historia de vida también muy admirable, también viene desde abajo.
+Hemos coincidido y conectado muchísimo.
+A mí no me gusta.
+Lanzarme en un proyecto luego, luego.
+Yo lo conocí en febrero de este año, incluso nos conocimos, yo trayendo fuertemente el tema Unlock, nos conocimos por primera vez en febrero, de ahí tuvimos otro encuentro terminando Unlock y me platicaba de Power to the People y esta misión que quiere ser esta segunda opción para nuestros mexicanos y mexicanas que puedan conocer de manera muy digerible, de manera muy fácil de adquirir estos conocimientos.
+Y Power to the People como en su momento Unlock, está cambiando, está evolucionando, está madurando las marcas que empiezan a posicionarse.
+Obviamente cuando yo conocí Unlock, pues ya era una marca posicionada y era una marca creada, en este caso es una marca que se ha ido reconstruyendo y estamos poniendo las piezas que hacen sentido y que realmente van a posicionar la marca como tal.
+Para quienes están construyendo marcas saben lo difícil y fácil que puede llegar a ser.
+También.
+Estamos reconstruyendo la marca porque vamos más hacia el onboarding.
+Antes la visión de Power to the People era más técnico, ahorita es más de onboarding.
+Vamos a tocar todas las universidades que podamos en Ciudad de México, no sólo en Ciudad de México, sino que también queremos hacerlo en Puebla, obviamente con todas las comunidades de diferentes estados de la República.
+Que cada quien haga.
+Este recorrido que de por sí ya estamos haciendo con diferentes marcas y eventos.
+Ethereum México lo hizo en Mérida, Yucatán, que ayer estaba escuchando que fueron 150 estudiantes al evento de Ethereum México en Mérida, Yucatán, que también aquí en Puebla con ID 5-5, que llegamos a 700, si mi memoria no me falla, Suri, 700 personas creo que eran de universidades, no sé si no recuerdo, pero llegaron a varias universidades también muy importantes aquí de Puebla.
+Y.
+Creo que la base también es que todos nosotros, que ya de por sí estamos tocando y haciendo proyectos, nos unamos para que si el enfoque que todos estamos haciendo es hacia las universidades y hacia los jóvenes, pues veamos la manera de colaborar entre todos nosotros.
+Queremos ser este hub para darle la bienvenida a todas estas comunidades, proyectos, tecnologías, emprendedores, emprendedoras, empresarios, empresarias, que todos, todos llegan y que tengan una vez al año un evento masivo donde hayan cientos y miles de personas.
+En este evento estamos ahorita poniendo una fecha que es el 8 y el 9 de febrero.
+Sí, sí, estamos ya a nada, a nada.
+Estamos ahí viendo si hay manera de poder alargar un poquito más la fecha porque queremos llegar realmente a todos estos jóvenes mexicanos y mexicanas.
+Es una labor bastante fuerte, es ambicioso también y para quienes me conocen.
+Yo quiero hacerlo, lo quiero cumplir.
+Tenemos al equipo, tenemos a los talentos, tenemos a las comunidades ya y ojalá, ojalá que esta primera edición realmente lleguemos de manera masiva a Ciudad de México.
+Sabemos también que Talenland tiene el número uno de personas masivas.
+Lograron esta última edición en abril, 40.000 personas en una semana con un hackathon también.
+No queremos ser la competencia de nadie realmente ya estamos ahorita en pláticas también con personas de Talentland para tener también una colaboración directa con ellos y poder promover su evento y viceversa.
+Creo que la colaboración ha sido ya algo de lo que no solamente lo digo, sino que lo hago y eso es de las bases que va a tener también Power to the Piece.
+
+[Speaker 0 - 00:57:38]
+No, la neta si siento que necesitamos más diversidad en los eventos que estamos haciendo y definitivamente.
+¿Te perdí tantito o yo perdí?
+Si, no, no, no, definitivamente, o sea, el enfoque por ejemplo de un lock para mujeres empresarias.
+Ahora Ciudad de México, la comunidad más grande cripto y muchas comunidades cripto distribuidas en esa ciudad, muchísimas personas, lo vimos también hace poquito en el evento de Bitso junto a una cantidad interesante de asistentes, un evento de tres días, este se está planeando dos días, 8 y 9 de febrero, 10 mil o más asistentes, un tema de mucho enfoque, estudiantes, me encanta, la neta también el venio es algo que nunca hemos visto únicamente evento web en un venue así, la neta, todo lo que me ha tocado revisar y por lo mismo que decidí participar y sumarme a la iniciativa, pues ha sido el impacto que creo que puede llegar a tener.
+Entonces, ¿Qué le pedirías a la gente que por aquí nos escucha o que puedan llegar a escuchar esta grabación?
+Están en proceso ya de marketing, están en proceso ya de conseguir speakers, de buscar gente que quiera participar en Hackatón, etcétera, etcétera.
+Estamos obviamente también empezando el ruido a platicarle a toda la gente que ya viene este evento y que se animen para que nos ayuden.
+Pero qué les puedes.
+¿Qué habrá durante ese periodo, durante esos dos días?
+Sé que hay muchas iniciativas, pero platícanos un poquito de qué va a haber durante esos días.
+
+[Speaker 1 - 00:59:22]
+Claro que sí, hermanito.
+Estamos haciendo, va a haber varias cosas como arena trading, va a haber también un espacio de gaming, sabemos, vemos las tendencias, es importante también conocer el ecosistema, ver en qué ciclo estamos, la tendencia, creo que eso también es importante.
+Por eso.
+O LOC brilló mucho en el tema de innovación y tecnología, porque yo Sabía que en 2024 venía el halving, yo sabía que iba a haber mucho ruido y hay que tomar también decisiones, creo que los proyectos, cuando tú conoces bien el ecosistema, tomas decisiones muchísimo más viables y acertadas en este caso 2025 va a seguir siendo un momento importante del ecosistema, vamos a ver Bitcoin posiblemente va a llegar a sus picos más altos y de ahí pues las altcoins.
+Entonces va a haber todavía mucho movimiento en 2025, mucho ruido que tenemos que aprovechar.
+Efectivamente estamos ya armando una campaña de marketing muy poderosa, vamos a hacer también activaciones también muy importantes, estamos ya haciendo colaboraciones, estuvimos como Community partner en Ethereum México, obviamente.
+Unlock también es community partner también muy muy fuerte.
+Vamos a tener un espacio en Unlock ahí para mujeres, vamos a meter muy de lleno el tema de Metaverso también va a haber un espacio también para Metaverso, va a estar también Las Flores, va a estar Andrea, va a tener también un espacio de cine en donde vamos a seguir pasando todos estos mini documentales en el World Trade Center con Power to the People vamos a tener un hub especial de comunidades, esto nadie lo ha hecho, hasta donde yo sé nadie lo ha hecho, nosotros lo queremos hacer de manera muy disruptiva este espacio Van a ver varias comunidades hablando de sus proyectos 100% comunidades, estamos invitando también a comunidades de LATAM, si hay personas de acá de diferentes partes del mundo que son latinoamericanos y tienes una comunidad fuerte también a poder tener tu espacio.
+Este espacio es gratuito para todas las comunidades.
+El evento es gratuito, esto es importante, el evento es gratuito y por eso queremos que sea masivo.
+También vamos a tener un hackathon, vamos a tener.
+Ah, les decía también el tema de las tendencias, creemos que el tema de gaming viene muy fuerte.
+Nosotros tenemos otra licencia que se llama Smash Factor, para quienes no la conocen, esta licencia también va.
+Este evento masivo en el World Trade Center va a suceder en julio, todavía no tengo las fechas específicas, pero también es parte de nuestra holding y está enfocado para los gamers.
+La última edición que fue este año fueron 9.000 personas asistieron en dos días.
+En Smash Factor, nosotros queremos ahí poner también el tema de gaming web muy fuertemente, entonces también en Power to the People vamos a tener una activación.
+De Smash Factor y también vamos a tener web de gaming, vamos a tener una competencia ahí estamos ya en pláticas con muchos patrocinadores, sponsors que ya llevamos platicando, platicando y muchos les gusta, muchos les emociona.
+No puedo dar ahorita mucha información puesto que poco a poco irá saliendo.
+Pero bueno, ya que Mexi es parte también del team, lo está viendo todos los días, esta es una marca que se está construyendo, va a tener también sus devoluciones, sus cambios y pues nada, está perfecto nunca.
+Entonces también.
+Pues hay que tener mucha empatía porque de repente decir no, es que tú dijiste, hiciste y es como oye cabrón, no mames, no tienes idea de todo lo que uno hace para impactar a la gente.
+Entonces eso es lo que va a haber, eso es lo que se está construyendo también estamos siendo, abriendo las puertas para quien quiere poner un granito de arena o alguna idea o algo más para atraer a más personas.
+
+[Speaker 0 - 01:03:40]
+¿No?
+Qué chido, qué chido.
+Si, la neta, creo que si hace falta un evento de este tipo en Ciudad de México.
+Talentland, por ejemplo, que es uno de los más grandes que se ha hecho y que ha venido aquí.
+Monterrey no ha hecho algo así en Ciudad de México, se han quedado y se han enfocado en Guadalajara.
+Cuando vinieron acá, Monterrey apoyó muchísimo el gobierno y creo que eso fue un gran éxito, pero ya no lo ha podido repetir.
+Yo he platicado mucho con los organizadores y ya no se ha podido, el gobierno ya no ha querido apoyar, etc.
+Pero en Ciudad de México es mucho más fácil, hay obviamente mucha más comunidad y artistas, builders, desarrolladores, de todo, de todo, incluir trading, incluir.
+Hackatón, incluir a comunidades que están activas para que tengan un espacio, creo que nos puede unir muchísimo más.
+Y pues la neta, creo que hacen falta cosas así.
+2025 creo que es el momento perfecto para ver si juntamos.
+Más de 10.000 personas en un solo centro de convención a lo largo de varios días y lo que eso pueda llegar a traer, porque eso trae side events, eso trae muchas otras cosas que se pegan a este tipo de eventos masivos para jalar la atención de esa comunidad que va a estar activa en esos días.
+Pero pues qué chido, Carla, muy chingón, la neta, el poder platicar.
+No sé, no sé, hago un breve reset.
+Estamos aquí platicando con Carla, aquí arriba les pineamos el link al espacio por si nos quieren ayudar a compartir.
+Esto se queda grabado y la idea es que muchas personas se den cuenta de lo que está sucediendo en Puebla con un Lock Summit y también con Power to the People en Ciudad de México próximamente en, perdón, el World Trade Center.
+También acá arriba les piné el link al coleccionable digital, todavía quedan 25 minutos más o menos, pueden ir aquí arriba al Yupotron, le dan clic al link donde está el coleccionable, lo único que les va a pedir es un correo, su nombre y su wallet.
+Si no tienen wallet no pasa nada, con el correo y con el nombre les podemos hacer llegar sin ningún problema y sin pagar un solo centavo su coleccionable.
+Nos ayudan mucho si lo coleccionan y puede haber regalitos en el futuro.
+¿Karla, normalmente nos quedamos por aquí una hora, una hora y cuarto, hoy traigo pocos avisos, pero qué le podías pedir a la banda?
+Veo aquí a Jorge, veo a Caro, veo Superama, veo a Suri, banda que está súper metida, que está haciendo contenido, que está haciendo arte.
+¿Cómo pueden ellos participar ahora en este evento que se va a llevar a cabo en febrero?
+
+[Speaker 1 - 01:06:23]
+Claro que sí hermanito, muchísimas gracias por este espacio.
+Obviamente pues estén muy atentos de todo lo que vamos a ir lanzando tanto en Unlock como en Power to the People, vamos a lanzar convocatorias, vamos a lanzar también oportunidad para que sean speakers.
+Obviamente también queremos mover muy fuertemente el tema de arte en Power to the People para que también estos artistas que.
+Sean parte de la convocatoria también estén presentes en el World Trade Center.
+Y pues nada, ¿A quién no le gustaría estar en una de las pantallas más grandes de World Trade Center que está ahí arriba y que pase tu arte ahí por primera vez, Podríamos suceder también?
+Entonces también estén muy atentos y muy atentas de todo lo que se va a mover.
+Creo que la mejor forma de apoyar es promoviendo con nosotros.
+Haciendo un retweet, comentando, compartiendo nuestros links.
+Creo que no hay mejor manera entre nosotros ayudarnos como constructores de la web 3 en compartir estos proyectos.
+Creo que.
+También estar muy conectados con nuestros hermanos y hermanos de LATAM, que veo aquí a George, que ya le hice la invitación para que esté como speaker en Power to the People.
+También Caro, porque.
+No sé si has venido a México, que vengas a México por primera vez también, no lo sé si es tu primera vez.
+Superama que nos acompañó en Puebla, que ahora que esté atenta también la convocatoria y pueda estar visitándonos también en el World Trade Center por primera vez.
+Aquí también está Rosa, este evento es para llegar a todas las industrias y a todas las formas que ya conocemos pero que queremos mover a web, desde un arquitecto, desde la parte legal, desde la parte de diseño, todas, todas las carreras que sabemos que existen allá afuera pero que ya también existen en web y que muchas y muchos nos estamos beneficiando.
+Entonces el objetivo es ese, el objetivo.
+Es llevar esta información de manera digerible a todas nuestras generaciones de jóvenes mexicanos y mexicanas, no solamente de México, sino que también sea una oportunidad para que LATAM se una con nosotros y seamos el evento más grande de México.
+
+[Speaker 0 - 01:08:55]
+Sí, definitivamente estaría muy chido tener a Caro por acá dando una plática con toda su energía, obviamente el arte superama, verlo ahí arriba, ya ni sé cuántos metros por cuántos metros cuadrados es esa cosa, pero madre se vería loquísimo o de rosa también que vemos por ahí, imagínate un videíto de la bloca animado ahí en la pantalla en la pared del World Trade Center.
+No, qué loco.
+La neta por ahí estoy súper emocionado de poder apoyar estos proyectos y estas iniciativas, necesitan mucho apoyo, necesitan muchos patrocinadores, necesitan dinero y sobre todo porque es un evento gratuito, es un public good, es un bien público y definitivamente por ahí los voy a estar apoyando, conectar con DAOS, con protocolos, con patrocinadores, con exchanges, con toda la red de contactos por ahí que hemos podido hacer y la neta ojalá podamos ver a mucha gente de fuera viniendo a participar en Power to the People.
+Ya les estaremos dando más detalles conforme pasan los días y las semanas, pero bueno, yo encantado de tenerte por aquí Carla, tenemos ya una hora y cuarto casi, no sé si quieras comentar algo adicional, algún otro proyecto que traigas, alguna alfa o chismecito si quieres también tenemos todavía más para echar algo de chisme.
+
+[Speaker 1 - 01:10:15]
+Si gusta para el chisme nos quedamos más tiempo hermanito.
+No, yo creo que ya es suficiente.
+Muchísimas gracias a todas las personas que se quedaron a escucharnos, saludos, saludos a todas y a todos y de verdad que recuerden que ningún proyecto.
+Puede solo, ninguna persona puede sola, Sigamos colaborando, sigamos construyendo y para quienes me conocen, lo que necesiten de mí, tengan la confianza de escribirme, marcarme, echarnos un café digital físico, invítenme también a sus eventos, creo que.
+Eso también ha sido parte de todo el éxito que hemos estado teniendo y esto no es posible.
+Gracias.
+Sin ustedes.
+Esto no es posible sin ustedes.
+Gracias.
+Mexi, sabes que te quiero mucho, cabrón.
+Sigue haciendo lo que estás haciendo.
+Eres.
+Eres una persona que cuando piensan en Monterrey, lo primero que se nos viene a la mente es Mexi, gracias por todo lo que haces.
+Y no solamente hay que recordar que web es sin fronteras, hermano.
+Entonces lo que estás haciendo por México y por todas las comunidades, por todas las mujeres y por todos los proyectos, te lo agradecemos infinitamente.
+Gracias a todos los que escucharon.
+Gracias a Power to the People que estuvo aquí también.
+También estén muy atentos de toda la información y todo lo que vamos a estar compartiendo tanto en un LOC como en Power to the People.
+Gracias.
+
+[Speaker 0 - 01:11:43]
+No, muchas gracias, Carla.
+Si no siguen a Power to the People, lo teníamos acá arriba como speaker hace rato.
+De todas maneras acá está como listener.
+Igual lo voy a subir a ver si tiene chance para que se quede aquí arriba.
+Échenle un follow, Vayan y vean el perfil.
+Sigan a Carla.
+Síganme a mí también.
+Sigan a banda web 3.
+Tenemos ya 27 episodios numerados y muchos otros más sin numerar.
+Ahí voy a hacer luego el análisis.
+Le voy a llamar a los que no estén numerados, les voy a llamar la temporada 0 y esta va a ser la temporada 1.
+Ahí a ver qué narrativa nos inventamos.
+Pero sí, ya es un rato de estar platicando y de generar contenido, de dejar estas grabaciones por ahí.
+Sí lo hago porque me encanta.
+Sí, definitivamente me gusta apoyar los proyectos, pero también es información y es contenido que luego en algún punto alimentaremos en inteligencias artificiales.
+No sé, ando experimentando mucho con eso, como lo está haciendo también el buen Roberto Martínez de Creativo, que es un podcast de un regimontano acá muy conocido que ya está jugando mucho con Inteligencia Artificial.
+Creo que hay un chorro de valor ahí.
+Y todas esas conversaciones, todo ese contenido, todos esos artículos y puntos de vista subidos en una plataforma que me ayude luego a rebotar ideas.
+No sé, está bien loco.
+Pero.
+Si hay muchos planes a futuro para estas iniciativas de contenido.
+Y la neta, sí me gustaría que pudiéramos darle mucha audiencia y muchos ojos a proyectos como Unlock, como Power to the People, como ya saben todos los que estamos por aquí conectados.
+La Bloca, Caro Show, Superama, Suri, etcétera, etcétera.
+Muchas gracias Carlos de nuevo.
+A los que no han podido reclamar sus airdrops, hay regalitos, Magic Eden tiene regalitos, todavía están disponibles.
+Pudg Penguins también tiene regalitos, ya ahorita me voy a poner a reclamar que ya vi que son como 30.000 tokens muy buenos, muy muy buenos.
+Tengan cuidado ahorita hay muchos regalitos y hay muchas iniciativas donde están dando airdrops y.
+Páginas donde te puedes ir a conectar tus wallets y claimear cosas.
+Tengan mucho cuidado porque.
+Con los precios a como están, con las emociones al tope, con los all time highs, salen muchas oportunidades de cagarla, Hay muchas oportunidades de que te escameen, de que te roben, de que te quiten todo lo que está en tus carteras.
+Tengan mucho cuidado con todos estos airdrops, Busquen las páginas oficiales de los equipos de trabajo y de los proyectos para ver dónde se están conectando.
+No pongan atención a los comentarios que hay muchas veces en hilos y mucho menos de gente que no tiene seguidores.
+Hay muchos links por ahí que si tú te conectas y firmas una transacción te pueden drenar y parecen que son páginas totalmente idénticas a la original, Entonces tengan mucho cuidado.
+Hay muchos casos ahorita que he visto que están pidiendo información y que te piden que conectes y es información ficticia, entonces más en estas épocas donde estamos con los precios bien altos y que hay un chorro de airdrops o no tanto airdrops sino claims.
+Pero bueno, avisos muy rápido.
+Este viernes vamos a estar participando en The Arena que es una aplicación descentralizada social en Avalanche.
+Acaban de tener ellos una migración, no he probado Avalanche después de la migración, ya tienen AVAX 9000, se supone que los precios para utilizar la red bajaron muchísimo, también bajaron muchísimo los costos para correr blockchains independientes dentro de Avalanche y he estado probando mucho de Arena, por ahí les voy a dejar el link y los las fotos de los invitados.
+Vamos a tener al Dr.
+Grizzly y vamos a tener a Fer.
+Ellos son los host de la mañanera, un espacio en las mañanas, los martes y los jueves que están haciendo en X, que están haciendo en YouTube y también están haciendo en The Arena, Están transmitiendo en vivo en las tres plataformas.
+La verdad se me hace muy interesante utilizar la plataforma El viernes pasado estuvimos con Richard Oruca, que es uno de los embajadores de Avalanche, que tiene años apoyando el ecosistema latino y la verdad fue muy padre platicar con él, la neta está muy chido.
+Si no han sacado su cuenta, les voy a dejar por aquí el link a la.
+A la transmisión, no, perdón, a la.
+¿Creo que todavía no lo tengo por aquí, o sí?
+Sí, creo que sí, denme un segundito, se los pongo.
+Banda Mixi WTF.
+También estoy programando yo creo que el viernes en la tarde tarde noche un espacio con las chicas de Women of Web, ellas se fueron ahora a Miami, inauguraron el libro de las historias de todas las mujeres que están por ahí triunfando en la web.
+Por ahí yo tengo una participación muy pequeñita de un capítulo muy pequeño de cómo creo yo y cómo recomiendo yo a las personas que quieren apoyar a las mujeres cómo lo he hecho yo, es un poquito de historia, hay fotos, la neta está muy chido y quiero que nos vengan a contar todo lo que vivieron allá en Miami, en Art Basel, con la inauguración del libro, con el lanzamiento en Amazon, con también.
+Creo que todavía siguen como top 1 de ventas en bibliografías tecnológicas, la neta la están rompiendo muy cañón y toda la alarma que genera la venta de ese libro es para fondear becas de niñas que están estudiando acá en Latinoamérica, entonces la neta la iniciativa de Women o Web Three está muy chingona.
+Muy probablemente los tengamos el viernes en la tarde tarde noche, ahí le estaremos avisando.
+¿Último aviso, mañana hay posada en Monterrey?
+Mañana estamos colaborando con Arbitrum.
+Arbitrum tiene una dao y una tesorería bastante interesante y aquí en Monterrey la verdad, pues nos hemos aliado mucho con ellos.
+Ana Belén, no sé si la conozcan, Ana Belén es la coordinadora de redes sociales de Todo Árbitro, es mexicana, es parte del equipo de Tiro México, es muy amiga mía y de muchos de la comunidad aquí en México y la neta súper crack.
+Y organizaron ya un par de posadas en Ciudad de México y sigue una acá en Monterrey, Árbitrum está patrocinando.
+Acá en Monterrey habemos, yo creo que dicen, dice Don Pepe el otro día me contó que es la ciudad con más delegados y más embajadores del mundo de Árbitrum, entonces nos voltearon a ver, se va a poner muy buena la pasada, mañana va a haber música en vivo, va a haber corridos y música regional norestense, va a haber comida, va a haber pachanga, va a haber rifa, va a haber la oportunidad de conectar con los delegados y con los embajadores.
+Yo soy embajador, no soy muy público ni lo tengo paradito publicado, pero sí soy embajador de árbitro, la neta me gusta mucho lo que están haciendo y en el próximo año muy probablemente vengan muchas iniciativas acá en Monterrey con ellos.
+Pero bueno, por hoy es todo.
+Muchísimas gracias Karla, muchísimas gracias de nuevo por pasar el día de hoy para platicar todo lo que estás haciendo, la neta como te decía, encantado de ser tu amigo, encantado también de colaborar y apoyar todas las iniciativas que traes y tú también sé que desde hace mucho has estado apoyando mucho de lo que estamos haciendo por acá, entonces pues encantado de tenerte por acá platicando el día de hoy.
+
+[Speaker 1 - 01:19:32]
+Hombre hermano a ti.
+Saludos a todos, abrazos, felices fiestas y pásenla de poca madre, qué lástima que no va a estar allá, pero pásenla increíble.
+
+[Speaker 0 - 01:19:45]
+Muchísimas gracias Karla, muchísimas gracias a todos los que se conectaron y dejaron comentario o like o repost, la verdad sin la ayuda de todos los miembros de la comunidad pues no tendríamos la oportunidad poder platicar con gente que está creando cosas muy chidas.
+Saludos a todos, pásenla muy bien, nos vemos el próximo viernes en la mañana a las 12, muy probablemente no tengamos espacio el jueves porque lo tendré con las chicas de Woman el viernes en la tarde, pero bueno, ahí les estoy avisando.
+Esto es Universal Mind de Liquid Tension Experiment, cerramos y nos vamos, 9 minutos para reclamar su digital, aquí arriba está pineado, no necesitan pagar absolutamente nada, solo con un correo, su nombre y si tienen dirección o wallet, excelente, si no con el correo es más que suficiente.
+Nos vamos, Universal Mind, Liquid Tension Experiment.

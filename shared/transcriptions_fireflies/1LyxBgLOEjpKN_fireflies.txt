@@ -1,0 +1,637 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #N/A
+Título: BandaWeb3 #025 @LaZonaTres
+Fecha: 2024-12-12
+Host: BandaWeb3
+Tipo: hosted
+
+Descripción:
+Zona Tres - Hub educativo multichain que está creando la próxima generación de constructores Web3 en las regiones de habla hispana. https://zonatres.org/ Cristina Loustaunau - 👩🏻‍💻Co-fundadora @lazonatres 🌎 @thecryptovalley, @icphub_MX 🧱 Impulsando el desarrollo Web3 en América Latina. Cristian Zambrano - 🪙Building @lazonatres @hobbi_me | 🏫 Teacher @Platzi contributing @icphub_MX | Mentoring on Web3 products.
+
+Duración: 01:14:51
+Escuchas: 71
+
+Links:
+  Space: https://x.com/i/spaces/1LyxBgLOEjpKN
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+[Speaker 0 - 00:00:00]
+El día de hoy.
+Buenos días, buenas tardes, buenas noches, depende de dónde se estén conectando a esta grabación.
+Les voy a pinear por aquí arriba en mi perfil y también arriba en el jumbotron del espacio el link para que me ayuden a compartir.
+Siempre los invito a compartir por acá.
+Vamos a empezar con algo de musiquita.
+El día de hoy es el episodio número 25 de banda web 3.
+Vamos a tener a Cristina, Lostanao y a Cristian contándonos todo lo que están haciendo en la zona 3.
+La neta es un proyecto bien cool que tiene ya varios años haciendo muchas iniciativas educativas, acelerando proyectos, ya traen una historia de muchos años de trabajar para onboardear a personas acá al ecosistema web.
+Y van a estar ahorita con nosotros, pero mientras hago las invitaciones y mando los mensajes a todos los grupos, les voy a dejar un momentito de Universal Mind The Liquid Tension Experiment.
+Empezamos en breve.
+
+[Speaker 1 - 00:02:10]
+Amigo.
+¿Cómo estás Mexi?
+Soy yo, pero no te escucho con la música.
+
+[Speaker 0 - 00:03:12]
+Espero que se haya escuchado la musiquita.
+De repente tenemos ahí detalles técnicos con la canción, pero bueno, eso fue Universal Mind de Liquid Tension Experiment.
+Como les comentaba previamente, el día de hoy tenemos a los chicos de la zona 3.
+Van a estar con nosotros Cristina y Cristian platicándonos de todo lo que han estado haciendo este año y años anteriores y lo que viene para el año que entra.
+Por ahí creo que hemos platicado ya mucho con ellos.
+Por ahí tengo varios episodios de estos espacios donde nos vienen a platicar.
+También por ahí hay una entrevista, la voy a buscar en YouTube, de Proof of Value, donde platicamos en uno de los hackatones.
+Ahorita se les pongo todo lo que tenemos por acá, pero ya tengo muchos años de conocerlos.
+También tiene muchos años en el ecosistema construyendo cosas bien, bien fregonas.
+Y el día de hoy vamos a estar platicando con el buen Cristian y Cristina de la zona 3.
+Creo que ya andamos.
+¿Me escuchas de ahí?
+
+[Speaker 1 - 00:04:05]
+¿Cristian?
+
+[Speaker 0 - 00:04:05]
+¿Cómo andas?
+Bienvenido.
+
+[Speaker 1 - 00:04:07]
+¿Qué onda Mexica?
+¿Cómo estás?
+Bien, ahorita llega Cristina, un cierre de año lleno de llamadas por todos lados.
+Hay que estar organizando aquí y allá, tú sabes cómo es esto.
+Y ay no, pero encantado siempre de estar por acá.
+Y como bien mencionas, ya hace rato que conectamos.
+Sí, sí, me acuerdo de ese hackatón que tuvimos allá en.
+En Ciudad de México con nuestros amigos ahí de vara, con este hackatón que hubo ahí en Ciudad de México.
+Y sí, sí me acuerdo.
+Aquel espacio estuvo muy cool.
+
+[Speaker 0 - 00:04:37]
+No, Ahorita lo pideo acá arriba debe estar en el.
+Ahorita lo encuentro en la lista de episodios de Proof of Value, que era un podcast que por ahí teníamos, que ya dejamos de hacer porque Diego se fue de Monterrey, pero ahora tenemos banda web 3 y estos espacios.
+Estoy invitando a toda la banda que normalmente invito en los grupos de Telegram y de WhatsApp, si nos ayudan a compartir, a dejar su comentario para que más gente vea este episodio y se venga para que escuche lo que nos van a platicar el día de hoy.
+Cristian y Cristina, la neta, creo que son de las iniciativas más chidas que he visto en el ecosistema, que han ayudado a onboardear.
+Ahorita nos contarán a ver a cuántos desarrolladores y cuántos entusiastas y también ya con historia de haber apoyado muchos proyectos.
+Pero Cristian, bienvenido.
+Muchísimas gracias de nuevo por estar por aquí.
+Mientras sigo invitando aquí a toda la banda, cuéntanos un poquito de Zona web, de zona 3 iba a decir, perdón, de zona 3 y de todo lo que han venido haciendo este año, porque no nada más tienen este año tienen un rato.
+Cuéntanos, cuéntanos un poquito de cómo empezó.
+Creo que la historia siempre es interesante.
+Sobre todo lo último de este año, que se ve que han estado súper movidos y lo que viene para el año que entra.
+Que bueno va a estar, va a estar muy, muy bueno.
+
+[Speaker 1 - 00:05:58]
+Muchas gracias, Mexi.
+Eres súper bueno moderando.
+La neta, en lo que es de cada quien, lo hace bastante bien mexicano, se nota la experiencia.
+Pues mira, como bien dices, no es que sea un ratote, tal vez un ratote en web 3.
+Sí, ya ves que aquí seis meses ya te fuiste o eres millonario.
+Muchas veces, pero ya llevamos como Desde agosto, el 8 de agosto del 2022 empezamos.
+Ya cumplimos dos años.
+Sí, cumplimos dos añoS ahorita en agosto, ya formales.
+Empezamos justamente haciendo comunidad de desarrolladores más del lado multichain, por ahí conectamos e hicimos buenos amigos que por ahí van a estar también en el cierre de año que vamos a armar.
+¿Que es.
+Camilo, de algorand Andrea de Avalanche, Andrew de la gente de la familia en Solana en España se vienen amigos nuevos de otros protocolos?
+Entonces empezamos así como haciendo ese tipo de mancuernas, como buscando cómo podemos traer las cosas complicadas, el tema del desarrollo que a veces es complejo en regiones muy desarrolladas como son Europa y Asia principalmente, cómo lo traemos a Latinoamérica.
+Y empezamos un año en el cual nos enfocamos mucho en hacer comunidad, tampoco es que tuviéramos una gran perspectiva de hacia dónde íbamos.
+Entonces como cualquier emprendedor o cualquier persona que va armando algo de cero, vas como a veces con la corriente y a veces en contra de la corriente.
+Entonces empezamos como haciendo espacios, conectando, haciendo comunidad, sobre todo aprendiendo qué le duele a este ecosistema, qué necesita no solamente la comunidad, sino también muchas veces las fundaciones que son quienes muchas veces marcan la pauta de hacia dónde va el ecosistema.
+Entonces fue un año en el cual Cristina, que es mi socio, seguramente lo tomamos como un espacio, sí, un poco de chill, pero también un espacio para conectar.
+Fue un año que así fue, nosotros metiéndole dinero al proyecto, teníamos un pequeño equipo de marketing y todo, durante un año fue nosotros metiéndolo al proyecto.
+Ya después a mediados del 23, perdona.
+
+[Speaker 0 - 00:08:22]
+Que te interrumpa Cristian, pero eso creo que es súper interesante porque creo que ya llegó Cristina, ahorita la invitamos a cargar.
+Creo que varios hemos estado, o sea, empezamos más o menos similar a identificar oportunidades, a identificar que hay gente, a identificar que la gente necesita guía y ayuda y primero dar valor.
+¿Y cómo dieron ustedes valor?
+Como dices, invirtiendo, crear una marca, invirtiendo en crear una comunidad, estar activos, invirtiendo su tiempo en encontrar esas personas con las cuales luego podían invitar a sus iniciativas.
+Pero los He visto desde 2022, ya van dos, más de dos años.
+Chinga.
+Y creo que es súper importante ese primer paso, esa primera fase de inversión, no sé tú cómo lo veas, de dar valor de inversión.
+Que te identifiquen, que te vean y poco a poco ir construyendo.
+No sé qué opinas.
+
+[Speaker 1 - 00:09:18]
+Total, mira, aprovechando para darle aquí la bienvenida también a Cristina que ya nos visita por acá, pero fíjate que fue un año complicado ese año, creo que en ese año nacimos todos, o más bien ahí nos empezamos a conocer todos, más bien diría yo, a lo mejor hay muchos que ya en el ecosistema tienen más rato del lado de las comunidades, pero creo que más bien de nuestro lado es donde nos conocimos todos.
+Y en ese año pues veníamos después de la caída que todos sabemos de FTX, todo lo que pasó con Terra, cuando hacen los despidos masivos en todas las fundaciones y pues muchos nos animamos a armar cosas en ese tiempo cuando todos tenían satanizados a Web y todo lo veían como estafa y todos se reían mucho en la comunidad.
+Pero creo que los que seguimos y encontramos como tú dices, ese valor detrás de lo que hacemos, fueron los que ahorita se ven como, no lo voy a decir tan así, pero tal vez como líderes o líderes de opinión o que están de alguna u otra forma haciendo un cambio en este ecosistema.
+¿Qué onda Cristina?
+Buenos días, buenas tardes.
+
+[Speaker 2 - 00:10:19]
+Hola.
+Hola chicos.
+Disculpen la tardanza, pero ya alcancé a escuchar un poquito de lo que están hablando y me encanta porque sumando lo que dice Cristian es cierto.
+Primero que nada, creo que en ese año sí me atrevo a decir que nacimos muchos de los que estamos ahorita.
+Justo recuerdo perfectamente el momento en el que Kristian y yo conocimos a Mexi, fue en un Talent Land, recuerdo, y nos acercamos, coincidimos, platicamos un poquito y son esas cosas que dan como el pie y el inicio a todo lo que estamos haciendo ahorita, que todavía en el 2024 seguimos teniendo una muy buena amistad, cercanía y creo que eso es el valor y lo bonito que tienen las comunidades, sobre todo el vivir estos tiempos que nos tocó pasar todos juntos.
+Somos hijos del mismo dolor, si lo puedo decir así, porque muchos de nuestros colegas también se quedaron en el camino.
+Eso es lo que he estado viendo con algunas publicaciones últimamente de comunidades o proyectos que deciden decir hasta aquí llegué, gracias por todo.
+Y es que realmente no es fácil, o sea, el construir una comunidad no es fácil, pero es el primer paso y aquí en Web se ha dado de una manera muy bonita porque el estar aquí ahorita con Mexi es como el resultado de lo que estamos diciendo en este momento, cómo iniciamos todos.
+Y conforme pasa el tiempo siento yo que cada uno ha crecido muchísimo y hemos encontrado realmente el camino por el cual queremos ir.
+Muchos iniciamos siempre con esta estas ganas de conectar, de hacer comunidad como lo mencionó Cristian al inicio, que nosotros cuando iniciamos en zona 3 teníamos pensado que fuera un espacio de chill como para conectar con la comunidad y desconectarte un poquito de la realidad, así veíamos web en su momento, el poder hablar a lo mejor de nuestros gustos, de hobbies que teníamos, pero poco a poco fuimos conociéndonos y sobre la marcha fuimos dándonos cuenta qué era lo que a nosotros nos apasionaba y ahí fue cuando supimos la visión o creamos la visión de zona 3, la cual nos ha servido bastante y es nuestra nuestra base fundamental y sólida que tenemos, el hacia dónde vamos y qué es lo que queremos.
+Con zona 3 hemos iterado ya varias veces, como tres veces hemos dado como que este giro de tuerca, porque de eso se trata, de pivotar, de iterar, de mejorar, probar y saber si te funciona y si no, bueno, cambiar la estrategia y lo hemos hecho como dos o tres veces hasta en este momento, que si bien estamos como muy claros de en dónde estamos y qué es lo que queremos sobre todo para este año que viene, definitivamente las cosas aquí en web 3 cambian y cambian rápido.
+¿Entonces qué es lo que yo veo con todo esto?
+Es si estás en este momento en donde afortunadamente los tiempos ahorita son un poco mejores que como eran en el 21-22, sigue haciéndolo, sigue construyendo, pero sigue aprendiendo, pero lo más importante es seguir conectando.
+Bueno, yo ya llegué y abordé, digo acapar el micrófono, perdón, pero es como yo veo las cosas.
+Pues no sé qué opinen ustedes.
+
+[Speaker 0 - 00:13:36]
+No, muchísimas gracias Cristina por pasar, por contarnos.
+Definitivamente, definitivamente 2022 fue un año durísimo, 2023 mejoró un poco, 2024, bueno ya estamos viendo.
+Los precios también altos, mucha gente regresar, mucha gente como tú dices se fue y creo que sí ha sido súper importante ese periodo de identificar quién en realidad está construyendo cómo y.
+De ver qué es lo que construyen para ver cómo podemos encontrar esas alianzas y como tú dices, hay que probar.
+Nosotros acá por ejemplo en Monterrey hemos hecho muchas cosas que han funcionado y otras que no y va a ser parte del proceso y creo que ustedes como tú decías, lo han experimentado, hay que cambiar de dirección.
+Nosotros probamos con espacio físico, probamos con membresías, algunas cosas funcionaron, otras no y definitivamente creo que hay que encontrar ese balance.
+En el tema que te apasiona también el que puede llegar a darte de comer ¿No?
+Porque finalmente necesitamos.
+Todo ese tiempo y todo ese esfuerzo monetizarlo de una forma y ayudar también que a que otros moneticen y que crezcan.
+No sé qué opinen, pero sí creo que es súper importante o fue súper importante esa primera fase de esos últimos dos años donde nos tocó empezar a construir y picar piedra.
+
+[Speaker 1 - 00:14:56]
+Fíjate que creo que le dicen el clavo, porque en lo particular tengo esa misma forma de pensar Mexit.
+Estamos aquí generando de cierta forma estamos buscando dar valor y cobrar por ese valor, o sea tener una ganancia de lo que estamos invirtiendo, pero al mismo tiempo estamos buscando cómo otros pueden hacer lo mismo.
+Entonces con esa misma visión, nosotros como zona 3 que mencionaba Cristina, que hemos iterado, empezamos mucho enfocándonos en desarrolladores, vengan, construyan, aprendan a desarrollar, pasamos por la etapa de los hackatones, hicimos acuerdos de trabajo con SUI Foundation, con Aptos Foundation, con dfinity Foundation, empezamos a hacer muchísima educación, empezamos a ver mucho el tema del desarrollo, pero realmente si lo ponemos en sobrepapel, el punto de cambio en estos ecosistemas no va a venir tanto de la mano de los desarrolladores, sino va a venir de la mano de los emprendedores, hasta que logremos que tengamos proyectos unicornios, que tengamos proyectos que no vivan de grant, que logremos tener startups que tengan una idea clara del valor que tienen y un modelo de negocio rentable.
+Hasta ese punto vamos a tener un ecosistema sano y un ecosistema brillante para lanzar productos en web.
+Entonces nosotros estamos o hicimos más bien durante este año esa iteración justo a verlo desde el lado de ser una incubadora, que es ahorita gracias a Dios ya en una semana vamos a estar también ya constituidos como empresa y justamente a lo que vamos es a formalizarnos full como una incubadora, ya hemos tenido tres ediciones y esto que dices de oye, darle oportunidades a la gente, nosotros nos vemos como un puente, o sea ser un puente entre todos esos grants que hay en los ecosistemas, Ven, construye con nosotros, es gratuito.
+Si tienes ganas de lanzar un emprendimiento, quieres hacer una startups, quieres hacer un proyecto en web, vente con nosotros.
+Son tres meses de trabajo gratuito, no te vas a cobrar ni un peso.
+Lo que buscamos es que conectes con ese ecosistema de grants y que no sea solamente Europa, solamente Asia, solamente Estados Unidos quienes tengan esa posibilidad de aplicar a estos espacios.
+¿Y qué buscamos poco a poco?
+¿Pues hacer el ecosistema de startups, no?
+Lo voy a decir así, muy, muy grande, un Silicon Valley Web 3 Latino, donde tengamos ahí varios exponentes que hayan lanzado sus productos, que nos platiquen cómo la regaron, pero cómo les fue bien.
+Y así poco a poco tenemos que ir construyendo como un ecosistema sano y pues en eso estamos nosotros, dar valor a la gente, buscar que todo este ecosistema que hay también de financiamientos sean para quienes puedan aplicar y que no solamente puedan aplicar algunos, sino darles el espacio abierto para que cualquiera pueda aprender cómo aplicar a ellos, ¿No?
+
+[Speaker 0 - 00:17:54]
+Definitivamente.
+Creo que son uno de los grupos y de las comunidades y de los emprendimientos que he visto que constantemente está buscando atraer inversión y encontrar cómo repartirla a la comunidad local, o sea, a través de eventos, a través de iniciativas en línea, los espacios que hacen.
+Creo que todo eso ayuda a sumar un chorro, pero también monetario y con una estructura que creo que ha faltado muchísimo, al menos en mi experiencia, de la gente que, y siempre lo he mencionado y mucha gente me reclama, pero acá en Monterrey hay muchísima comunidad y nos juntamos y hacemos mucho ruido, lo que tú quieras, pero empezamos a ver un poco a poco cómo se forman los grupos de trabajo para realizar esos emprendimientos y esos startups y esos probables unicornios.
+Finalmente, lo que he escuchado mucho de estas iniciativas y de daos y de oportunidades de aceleración y programas que están viniendo, es que la gente quiere crecer y quiere que la gente que está construyendo piense en grande, o sea, que no se quede en el mercadito de la esquina, sino que piensen en romperla y atacar un problema mundial, ¿Por qué no resolver o cambiar una industria completamente?
+Y creo que el enfoque es muy bueno y creo que por ahí es lo que necesitábamos y ya estamos viendo ahorita en México, no sé qué opinen, pero platiquen un poquito de lo que ustedes han hecho y cómo lo van a lanzar, porque todo este año estuvieron en friega, los estuve viendo.
+Creo que.
+No sé, yo he tratado de ayudar a difundir, pero creo que hace falta también cacar mucho el huevo de todo lo que, de lo que hace la banda, entonces échenle, échenle.
+
+[Speaker 2 - 00:19:44]
+Fíjate que sí, gracias Cristian.
+Fíjate que sí, amigo, creo que bueno, como haciendo un hook en lo que, en lo que dijiste acerca de todo lo que se puede hacer, Latinoamérica tiene la ventaja de otras regiones.
+Por sobre otras regiones, porque lo que nosotros tenemos aquí es necesidad.
+Entonces con esa necesidad de mejorar, de crecer, de lanzar emprendimiento, sobre todo de la situación económica en la que nos encontramos, es ahí en donde podemos como aprovechar, apalancar eso que tenemos en vez de verlo como algo malo, verlo como una oportunidad y a través de iniciativas como la que hemos estado trabajando todo este año, es posible lograrlo con estos trayectos de incubación que te mencionaba Cristian y es esta iteración de la cual yo hablaba, esta última iteración que tuvimos como zona 3, el impulsar el emprendimiento, porque sin duda va a ser algo que si bien tuvo como sus inicios este final de año, este último semestre, yo estoy segura que para el 2025 va a ser un tema que todos los ecosistemas van a apostar por.
+Entonces si, yo siento sinceramente que el camino va por ahí, que vamos ya por el buen camino.
+Y sí, bueno, eso es como retomando lo que dijiste y en cuanto a.
+Ya me perdí, no me acuerdo cuál era la otra cosa que iba a decir, pero.
+Pero sí, o sea, zona 3 ha estado apostándole mucho, mucho a eso y he visto que nosotros, si bien como bien lo mencionas, hemos estado bien ocupados, algo que me hizo como entender fue una reunión que tuvimos en la mañana, porque por este cierre de año creo que todos estamos iguales, que queremos cerrar año, queremos cerrar actividades y tenemos como muchas operaciones que hacer, pero en una reunión que tuvimos en la mañana nos platicaba esta persona, sí, yo los he visto lo que han estado haciendo, pero me hizo ver que en lo personal yo ya no he estado tan activ en Twitter o tan activa como en los inicios de zona 3, o sea, recuerdo perfectamente que cuando recién empezamos estábamos muy motivados por conectar por la comunidad y no es que ya no sea así, ojo, no, pero te das cuenta que conforme vas creciendo o vas avanzando en el camino, llegan como más oportunidades que es el momento de tomarlas y te consume más tiempo.
+Entonces sí hemos estado haciendo un chorro de cosas, pero ahora lo que queremos es como volver a esos inicios en donde estábamos en nuestro elemento, el poder ser esta comunidad de comunidades, esta red o formar parte de esta red que se llama web y nos da muchísimo gusto estar aquí en este espacio contigo, porque es como el parteaguas de el nuevo comienzo para nosotros.
+Así que pues era eso lo que quería comentar.
+
+[Speaker 1 - 00:22:41]
+Mira, ahí me exigulando también un poquito, quisiera platicarles como los datos reales que tenemos, o sea, una cosa que menciona Cristina es la comunidad y todos los proyectos cripto sin excepción necesitan una comunidad, hasta el memecoin, hasta la Shitcoin, hasta el proyecto más top necesita comunidad y eso lo vemos en todos lados.
+Entonces ¿Qué es lo que buscamos con esto de zona 3?
+Tener como una casa donde los emprendedores vengan y aquí estén todas las comunidades, mira, aquí está la comunidad de Mexi, aquí está la comunidad de tal, de fulanito de tal, conecta con ellos, o sea, lo que nosotros queremos tener es un buen espacio para que buenas startups salgan.
+¿Y ahí por ejemplo, con estas ediciones que hemos hecho así bien en específico con el ecosistema de ICP, de Internet Computer, creo que ya hemos posicionado cerca de 300.000 dólares en el año, como 300.000 dólares EN EL AÑO que van en proyectos que han estado en Colombia, que son proyectos que algunos están en México, Tenemos ahí algunos proyectos en pie que quieren empezar a construir gente, por ejemplo, nuestros amigos de Cairo Research, nuestros amigos de Chippy Pay, amigos de CAPA, o sea, proyectos que nacen de comunidades y que muchas veces dentro de las comunidades el desarrollador conecta con el que es muy bueno emprendiendo, armando un pequeño equipo, buscan cómo aprender a desarrollar esa idea que tienen en mente o ese modelo de negocio que buscan desarrollar y queremos ser ese espacio donde esas personas que se conocen en una comunidad digan quiero seguir emprendiendo en comunidad y ser esa opción fácil en la cual solamente te tengas que registrar, meterte un Discord y empezar a conectar con mentores que te puedan echar la mano y lanzar tus productos, o sea, esos son los datos que tenemos ahorita, de hecho en el último showroom que es donde mostramos las aplicaciones que salen, tuvimos 9 proyectos que salieron en mainnet en estos últimos 3 meses y ya pues ellos una vez que terminan aplican por su grant y ya tienen su propia historia ellos por su cuenta y también de cierta manera hasta para nosotros es reconfortante ver cómo los proyectos se emocionan, cómo estas personas que fundan estos pequeños o grandes proyectos tienen como esa ilusión, empezaron sin nada y terminan ya con un MVP, con un producto, con algo de ellos y ver cómo van y aplican a un grant, ver cómo a veces se los aprueban o a veces no, porque no todo es verde o miel sobre hojuelas en este ecosistema, pero ver cómo independientemente de lo bueno o lo malo se aprende, creo que es lo que poco a poco nos va a hacer avanzar como región y como bien decía Cristina, pues es el reto que que tenemos nosotros en puerta.
+
+[Speaker 0 - 00:25:32]
+No?
+Definitivamente como dices este año 300 mil dólares, lo que viene en el futuro me imagino que también va a haber programa de incentivos, ya nos platicarán, pero cuéntenme un poquito más de este año.
+Cómo fue el proceso, cuántos proyectos, como decías ya hay tres en Mainnet, pero qué sigue esa gente, cómo la ves, o sea el grupo de personas que entraron este año a los programas que ustedes están optimizando.
+No sé, no sé qué nos puedes contar de ellos.
+No.
+
+[Speaker 1 - 00:26:12]
+Sé Cristina, si le quieres dar o cómo le hacemos.
+
+[Speaker 2 - 00:26:15]
+No, o sea, si quieres sumar.
+¿Yo lo que, bueno, lo que he pensado últimamente es que si bien nos dimos cuenta que este año muchos ecosistemas apostaron, apostaron por proyectos y en su mayoría las personas que pedían grants, llámese el ecosistema que sea, el apellido que sea del ecosistema, el problema que yo vi fue que pedir un grant, construían, se acababa y ya no sabían qué más hacer, o sea, eso es un problema, es un bloque bastante grande porque están perdidos, porque no saben qué más construir, se acaba el dinero y ahora qué hago?
+Lo que nosotros buscamos para este siguiente año es apoyar a todos estos proyectos pero desde cero, que sean proyectos con construcción orgánica que realmente aporten valor a la región o al ecosistema no un proyecto que nada más llegue por pedir dinero y ya, porque nos dimos cuenta, y no nomás acá, sino en todo web, que hubo muchos proyectos que por eso se quedan en el camino, porque están perdidos desde un inicio y ese es el valor de estos trayectos de incubación que se traen ahora con Internet Computer.
+Eso era lo que yo quería como aportar.
+Si quieres, dale Cristian.
+
+[Speaker 1 - 00:27:34]
+Sí, mira, uno de los retos que tenemos como muy internalizados en este 2025 es cómo invitamos a más gente que no esté en el ecosistema web, o sea, ya, y no por desmeritar, sino porque tenemos que atraer ideas, tenemos que traer emprendedores que no necesariamente estén en este ecosistema, o sea, algo que hemos empezado a armar y es una relación que esperamos que florezca en este 2025, es que estamos como muy cercanos con el gobierno de Zapopan, ahí tenemos buena relación con quien lidera el Programa de Retos Zapopan, que es como el programa de incubación más grande de América Latina, entonces ahí lo que buscamos es hacer una buena mancuerna de emprendimiento y lograr los primeros emprendimientos web que vengan 100 % de una comunidad que no es 100 % web, sino que es una incubadora local que tiene sus alianzas, que participa con Talentland, que participa con IBM, con muchas otras empresas tecnológicas y siento que lo que buscamos es poner de cierta manera web en el mapa, porque tú vas, por ejemplo, hemos hablado con la Incubadora de la Nahuac en Yucatán, hemos tenido la oportunidad de hablar con la Incubadora del Tec de Monterrey en Guadalajara y no ubican de qué estamos hablando, no ubican ni web, no ubican blockchain, no ubican los términos que para nosotros son muy coloquiales.
+Entonces mucho de lo que queremos resolver este año es cómo conectamos al menos con los actores importantes en México y hacerles notar que web también es una categoría de los proyectos que pueden emprender y si con este tipo de eventos, con la gente de Zapopan, con la gente de la Nahuac o quien se llame, podemos empezar a posicionar eso y que eso llame la curiosidad y que la curiosidad atraiga emprendedores y que esos emprendedores empiecen a hacer cosas es de cero, pero alguien lo tiene que hacer.
+No podemos esperar que solamente por poner dinero en el ecosistema y por tener un sitio donde haya documentación, vayan a salir startups o vayan a salir proyectos.
+Tenemos que ir a buscar dónde están esos emprendedores y conectarlos con los desarrolladores que están aquí para que nazcan buenos proyectos.
+Y eso es algo de lo que queremos hacer.
+Es una meta muy ambiciosa, pero poco a poco estamos dando pasos firmes.
+
+[Speaker 0 - 00:29:53]
+Pero seguros.
+Y casos de éxito creo que son súper importantes.
+Y ustedes ya tienen experiencia con varios emprendedores, varios proyectos.
+Veo acá abajo por ejemplo a Claudio, el caso de Metapool.
+
+[Speaker 2 - 00:30:06]
+Con.
+
+[Speaker 0 - 00:30:07]
+Claudio.
+Un proyecto que salió de gente latina que está ahorita rompiéndola, dando pláticas en todos lados.
+Ver más de eso creo que es súper importante y como tú dices, tiene que llevar un proceso, tiene que llevar una guía, gente que ya tienen este ecosistema, tiene que tratar de hacerle más sencilla la vida a alguien que viene totalmente nuevo.
+Como tú dices, esos grupos de desarrolladores que nunca han visto temas web, que son súper técnicos, poco a poco también acá en Monterrey, por ejemplo, nos hemos ido acercando, pero ha sido complicado jalarlos y creo que así con este tipo de programas y proyectos es más fácil jalar a alguien que viene terminando la universidad o probablemente hasta alguien que tenga un trabajo estable que le quiera dedicar algo de tiempo a esa tecnología.
+Pero si no es tan sencillo como tú dices, o sea, no es nada más dar lana.
+El tema de medición de impacto también es súper importante y alguien ahí que esté guiando creo que también ha sido clave para muchas iniciativas que me ha tocado ver ahora que me metí en los últimos años a ver cómo funciona Gitcoin, cómo funciona funciona Givet, cómo funcionan algunas DAOs que están repartiendo dinero, etcétera, etcétera.
+Cuéntame un poquito de ICP, cuéntame un poquito de lo que buscan para este 2025, qué programas vienen.
+Sé que tienen actividades de cierre de año súper interesantes, no sé si también nos quieran platicar un poquito de eso, pero me interesa mucho el tema de ICP.
+Por ahí yo lo he estado utilizando mucho últimamente porque salió el proyecto de Bairo Sacó a los Plebes y yo no sabía que se manejaba, que podías manejar.
+Un tema con Bitcoin con una integración así muy sencilla.
+Ya estoy por ahí subastando y poniendo ofertas en algunos de los tops porque también se me hace interesante ese modelo donde con ICP puedes trabajar con Bitcoin y otras redes.
+Pero me ha gustado mucho la verdad últimamente estar moviéndole y picándole un poquito más botones.
+¿Cómo ven ustedes este ecosistema y qué.
+
+[Speaker 1 - 00:32:15]
+Viene para.
+Ahorita le voy a dejar la espacio a Cristina, porque junto con Claudio ellos llevan como parte la organización del Hub de México?
+Yo no las veo como el tema de los proyectos, pero así a bote pronto mucho de lo que se hace en ICP es como buscar esa innovación quienes o ya tengan un proyecto construido con alguna otra chain o quienes vengan de cero y les damos toda la mentoría para que puedan desplegar sus proyectos en ICP.
+Y sí claro, un ejemplo muy puntual es Byron, tenía como un proyecto que lanzar en la red de ICP y para nosotros también fue una joyita Byron.
+En Byron encontramos una persona que nos ha apoyado bastante, que ha canalizado a mucha comunidad hacia conocer ICP y conectar con la tecnología de ICP para empezar a emprender.
+Y justamente creo que hemos hecho una muy buena mancuerna en cómo atraer startups, atraer también desarrolladores y que encuentran acá una tecnología cuantimenos más sencilla para lanzar productos.
+¿Ahí creo que Cristina es quien debe llevar la.
+
+[Speaker 2 - 00:33:23]
+Batuta acá.
+No?
+Pues todos, todos estamos en este mismo barco y cada quien desde su área hace lo mejor que puede para lograr los resultados esperados.
+Es cierto lo que dice Cristian, o sea, así como Bairo, otras figuras que nos han permitido.
+Tener como más visibilidad de estos proyectos, que están haciendo un cambio, que están haciendo una propuesta de valor al ecosistema o los ecosistemas en su defecto y gracias a ello podemos ser como nos permite ser este habilitador de espacios en donde sabes que aquí está también esta tecnología, puedes venir, puedes utilizarla y puedes como crecer o impulsarte.
+Bairo ha sido pieza fundamental y es lo que buscamos, como estas piezas que nos van a permitir llegar a más proyectos, proyectos que no tienen visibilidad de lo que hace acá, lo que se hace acá, perdón.
+Y esto tiene mucho que ver con lo que menciona Cristian.
+La visión que tenemos para el siguiente año es precisamente eso, creo que desde el 2021, y yo hablo mucho ese año porque es cuando yo entré, estoy segura que desde años atrás ya hay mucha gente, pero en esa época todo era como verde, no había realmente nada, no había mucho que pudieras hacer y sobre todo no había estos espacios que te permitieran conocer de más ecosistemas.
+Entonces poco a poco con los años, los meses, han nacido muchísimas comunidades así como han nacido muchísimos proyectos y creo que en este punto ya es momento de ver a otros horizontes y esa es la clave, o sea, el poder llegar a estas personas, vamos a decirle ya no me gusta hablar así ni decir el término, pero lo voy a hacer para mostrar el punto que quiero pues al que quiero llegar y es poder llegar a las personas web 2.
+Estas personas que están en este desarrollo tecnológico tradicional que no tienen ni conocimiento de que puedes hacer muchísimas cosas acá en web o con blockchain, Entonces ahí creo que es la clave y es en lo que vamos a apostar el siguiente año como tecnología.
+Y hablando de todo esto que traemos con ICP, seguimos impulsando mucho el desarrollo de startups con los trayectos de incubación que con zona 3 se trae.
+Entonces eso nos vamos a enfocar, proyectos que decidan integrar ICP en su tecnología, proyectos que decidan iniciar el desarrollo de un emprendimiento y proyectos que quieran traer o que quieran venirse a este lado del charco llamado web.
+Entonces traemos ahí muchos planes, como lo mencioné al inicio, nosotros planeamos, pero siempre en web pasan muchas cosas y esperemos que estos planes por lo menos duren estos seis meses del siguiente año y que no pase un caos como el del 2022 con Terra Luna que a todos nos pegó.
+Ese fue como el año fatídico creo para todos, pero de lo malo nace lo bonito y ahí es cuando decidimos iniciar este proyecto y esta aventura juntos, Cristian y yo que estamos pues aquí contentos ya 2024 para finalizar y ahora 2025 es algo bien padre de poder ver hacia atrás todo lo que hemos hecho y creo que va para todos nosotros el poder ver dónde estamos ahorita y todo lo que hemos hecho atrás.
+Aquí acabo de ver que ya subió Bairo, hablando de la estrella.
+
+[Speaker 1 - 00:36:54]
+De la persona que ya hablamos mucho de Bairo, ya te perdiste los.
+
+[Speaker 2 - 00:36:58]
+Elogios amigo.
+Ya bueno, pero es eso, o sea, eso es lo que lo que nosotros vamos a estar haciendo el.
+
+[Speaker 1 - 00:37:04]
+Siguiente año.
+Gracias Cristina.
+Dijeran regaña en público y Felicita en privado.
+¿Cómo era?
+Algo.
+
+[Speaker 0 - 00:37:10]
+Así, No.
+No, pero sí subió el buen Bayro.
+¿Cómo andas Bairo?
+Por cierto, la oferta que está ahorita vigente es mía.
+Quiero ese perrito pirata que está.
+
+[Speaker 1 - 00:37:23]
+Por ahí.
+
+[Speaker 0 - 00:37:23]
+¿Qué onda?
+¿Cómo anda perrito?
+Nada viejo, nada más pasando.
+
+[Speaker 1 - 00:37:27]
+A saludar, dijeron que estaban hablando bien.
+
+[Speaker 0 - 00:37:28]
+De mí y no me la creí, güey.
+Este, nada más paso a.
+
+[Speaker 1 - 00:37:31]
+Confirmar, hacer un screen, un recorder de todo esto para cuando me quieran regañar.
+
+[Speaker 0 - 00:37:37]
+Decirles, mira, tú dijiste en público que me querías mucho y ese tipo de.
+
+[Speaker 1 - 00:37:42]
+Cosas, ¿No?
+Pues nada viejo, es muy feliz poder colaborar con toda esta banda, Cristina, Cristian, toda la banda aquí presente.
+
+[Speaker 0 - 00:37:51]
+Diana, Jorge, ya no sé quién más está por aquí.
+Es un gusto poder incentivar ahí el uso de ICP.
+Vamos a ver cómo va funcionando este tema.
+Y pues ya saben, ya se la saben, si tiene un proyecto.
+
+[Speaker 1 - 00:38:05]
+O algo que estén haciendo, mándenos un DM, escriban un WhatsApp y por qué.
+
+[Speaker 0 - 00:38:09]
+No vamos viendo a ver qué se puede.
+
+[Speaker 1 - 00:38:11]
+Estar cocinando.
+Tal cual, tal.
+
+[Speaker 0 - 00:38:14]
+Cual, amigos.
+Oigan, ¿Qué tipo de proyectos se necesita para comenzar?
+Veo a muchas personas por acá que tienen proyectos ya desarrollados, muchos con ya muchos meses, otros a lo mejor con alguna que otra idea nada más, pero no muy clara, que no tienen un equipo.
+Pero quisieran de repente participar en una de estas iniciativas para ver si les ayudan o pueden conectar con alguien.
+¿Qué es lo que se busca?
+Obviamente hablábamos hace rato y creo que yo que es muy importante buscar romperla, buscar hacer empresas que resuelvan problemas, que generen mucha, mucha, mucha.
+Mucho valor y eso por supuesto, pues mucho valor también para la empresa.
+¿Pero desde cuándo puede uno empezar a participar y acercarse con la.
+
+[Speaker 1 - 00:39:03]
+Zona 3?
+Fíjate que esa es una buena pregunta, Mexi.
+Normalmente los emprendimientos que inician, no sé si alguno por acá habrá emprendido, independientemente de web, cuando emprendes en tecnología, siempre es la persona que le sabe al negocio y la persona que es técnica.
+Normalmente es lo mínimo con lo que puedes emprender, el que le sabe los fierros y el que le sabe el negocio.
+Ya de ahí, dependiendo el funding que tengas o las amistades o los perfiles, ya tú te acomodarás y ya podrás ir viendo el que se va a encargar de marketing, el que se va a encargar de dineros, pero normalmente es el que no es el técnico y el técnico, y ahí se van repartiendo.
+Entonces lo primero con lo que podemos iniciar emprender uno es al menos tener una idea de qué queremos hacer o tener de perdida la iniciativa de hacerlo.
+Y dentro de qué cosas se pueden empezar a emprender desde cero, pues en estas ediciones que hemos hecho con ICP, que esperamos también en el 2025 abrirnos a otras ediciones, lo que normalmente vemos es qué potencial tiene esa idea con blockchain.
+Porque lo primero es que no todo se puede hacer aquí, o sea, también el pensar que cualquier proyecto que tú pienses se puede lanzar con las virtudes, pero también los puntos negativos que tiene lanzar aplicaciones en blockchain.
+Primero hay que ver si eso es posible.
+Después de ello, pues sí es importante contar con que esa persona técnica que esté contigo tenga la intención de aprender cosas nuevas.
+Porque estoy seguro que estas tecnologías que vemos no se ven en la universidad o no se ven muchas veces en el trabajo donde uno labora.
+Entonces ahí es donde también tenemos esos espacios para formar a estos desarrolladores.
+Estamos próximos a lanzar por ahí un programa de internado para gente que se quiera profesionalizar al menos en estas tecnologías con ICP, para hacerles todavía más sencillo a estos equipos que tienen a su co founder técnico que puedan formarse en la tecnología o a su equipo de desarrolladores.
+Y realmente lo que buscamos con emprendimientos que parten desde cero es más tener una idea inicial clara que al final ni siquiera esa va a ser la idea final.
+Siempre estamos en un proceso de iteración.
+Pero lo que sí, la disposición, el emprender lleva tiempo, el emprender a veces es también tener esa tolerancia a la frustración, tener claro que lo que estamos resolviendo es un problema y no casarnos con una solución.
+Y es muchas veces tener como habilidades blandas, no solamente es ser la persona más pro o la pistola en el desarrollo, sino también tener la capacidad de comunicarse, tener la capacidad de relacionarse, tener esa capacidad también de decir, oye, me equivoqué, no pasa nada, todos nos equivocamos, le damos por otro lado.
+Y creo que son habilidades que poco a poco se van forjando y que justamente como decía Cristina, muchas veces si no tenemos esas habilidades, toca crearlas y al menos queremos tener el espacio donde la gente la pueda crear en comunidad.
+Si un equipo la regó, oigan el networking de cómo este equipo no le fue tan bien, pero ya aprendimos todos cómo no se hace.
+Qué bonito sería que llegara el punto en que hubiera muchos fracasos en el ecosistema latino, pero también que de esos fracasos motiváramos a hacer muy buenos emprendimientos también y creo que para allá vamos, o sea, yo lo veo así como a lo macro y veo como que poco a poco todas las comunidades van a empezar a lanzar productos, o sea, todos en algún momento nos vamos a motivar y vamos a decir, ¿Saben qué?
+Yo también me voy a aventar, le voy a meterme al emprendimiento, ya vi cómo funcionan los grants, ya vi que hay espacios donde me pueden ayudar, me animo, me aviento y algunos van a fracasar, algunos estarán bien, pero vamos a ir creando poco a poco esa comunidad hispana de gente que estamos participando en el emprendimiento, que sus comunidades van a apoyar, que la gente que lograron conectar se van a convertir en muy buenas alianzas o muy buenos contactos y poco a poco vamos a poder crear como ese ecosistema de emprendimiento.
+Entonces yo así.
+Tal cual como.
+
+[Speaker 0 - 00:43:07]
+Ese lado.
+No, yo creo que falta muchísimo.
+De acuerdo, sí falta gente que tenga experiencia, o sea, creo que existe, ya no hay mucha, pero que la tengamos aquí cerca, aquí en Monterrey hay pocos que han levantado rondas así de capital para un proyecto de web, a lo mejor hay mucho emprendedor web 2, hay mucho emprendedor de otro tipo, pero web.
+Yo por ejemplo en lo personal me encantaría y estoy buscando activamente.
+Co founders y proyectos en los cuales me pueda sumar para ir a esos emprendedores, a esos fondos de riesgo de family offices, o sea, ese proceso de conseguir lana y de vender tu idea, de tener las habilidades blandas como tú dices, para convencer a la gente que te dé un chingo de lana, no es sencillo y creo que hay, no creo, estoy viendo que hay un chorro de aprendizaje buscando.
+Ese tema, no empezó mucha gente, como tú dices, empieza con grants, etcétera, pero en algún punto tiene que tener una valuación grande para que esto tenga capital para contratar gente y en realidad empezar a hacer algo que resuelva un problema para muchos, pero sí faltan esos casos de éxito y sí falta esa guía y que haya programas que desarrollen a esas personas, sean exitosas o no, creo que suma muchísimo para que los demás nos codemos con ellos y aprendamos de eso y podamos también jalar a otras personas para que hagan lo mismo.
+Y qué chingón que.
+Este año vienen con más fuerza, que también por ahí con gusto hemos estado platicando y sigamos platicando cómo los ayudo y cómo podemos ayudar a difundir todos estos proyectos y que la gente conozca y que se anime y que en realidad cumplan los métricos, porque todo mundo pide métricos, todo mundo cuando hay lana hay métricas, entonces hay que buscar que la raza se apunte de una u otra forma.
+Y creo que con espacios así donde platicamos de estos temas, pero con otro tipo de iniciativas como las que ustedes están planeando, creo que es muy importante verlo.
+¿Cuándo empieza el programa, qué puede esperar la gente para este fin de año y lo que viene?
+¿Cómo podemos empezar a interactuar con la zona 3 y apoyar también.
+
+[Speaker 1 - 00:45:25]
+Esta iniciativa?
+No quisiera pasar, dejar el espacio para decirte algo, que tienen mucha razón en el tema de los grants, muchas personas como que no alcanzan a dimensionar qué es un espacio de grants.
+Nos toca también ver proyectos, escuchar propuestas que aplican a grants y de cierta forma hacer como un primer filtro para los proyectos que pasan, en este caso a dfinity para ser aprobados.
+Y un grant no es un funding para que vivas, para que con ese te vayas a mantener.
+Un grant es como un apoyo estratégico que un ecosistema brinda a un equipo que va a traer valor y adopción al ecosistema.
+Entonces, así como tú lo mencionas Mexi, no deberíamos de estar pensando en cómo voy a obtener un millón de dólares, o sea, yo como lo veo es paso número uno, cómo formo mi equipo, cómo creo una propuesta con una o dos personas que estén igual de locos que yo y nos proponemos hacer algo.
+Paso número 2, cómo le doy forma a ese algo que quiero crear, cómo tengo mi primer MVP, que ahí es donde entramos nosotros.
+Paso número 3, cómo busco un financiamiento para crear ahora sí ese producto y darle valor a ese ecosistema que me gustó y que me da la oportunidad de aplicar a un grant.
+¿Y ahora sí, ya una vez que tengo ese producto construido con ese grant y creé esa propuesta de valor que quiero para el ecosistema, cómo me voy ahora sí con un VC?
+Y ahí sí puedes oye, Algorand, oye Avalanche, oye, dfinity Foundation, aquí tengo mi producto, me diste un Grand y ya lo hice, dime cómo escalar.
+Todos los protocolos están súper abiertos a decirte cómo escalar, pero lo que ellos necesitan es que tengas el producto.
+Lo que necesitan estos ecosistemas, porque lo vivimos día con día, es dame los productos que estén listos para escalar aquí yo como ecosistema tengo los founders aquí, digo, pero tengo los VC aquí, tengo las personas que te pueden asesorar, pero tráeme los proyectos, o sea, necesito esos founders y esos emprendimientos.
+Entonces si seguimos esa lógica, lo que necesitamos es personas que tomen estos grants como lo que son, cosas para crear cosas grandes.
+Y cuando tengamos cosas grandes, ellos encantados están de comunicarlos con ese ecosistema de VCs.
+Nada más para.
+No quería perder el espacio para mencionar eso, pero ¿Cómo iniciamos?
+Pues iniciamos el 27 de enero.
+Mexi tenemos el arranque de la cuarta edición en enero, el 27.
+Y justamente cómo se registra uno es un Luma muy sencillo y ya unas semanas previas al arranque vamos a estar mandando algunos correos, alguna información previa al arranque y cada semana tenemos sesiones de mentorías, todo corre en Discord, es como muy llevado de la mano.
+También damos apoyos en desarrollo, damos apoyo en mentorías para negocio y es un espacio que dura entre dos meses a tres meses.
+Y está de más decir que todo el espacio es gratuito.
+Igual por aquí creo que está Vanessa en el Space, ella nos podría ayudar a compartir aquí en los mensajes el UMA del registro.
+Y ya pues cualquiera que se quiera registrar abiertos.
+Igual como decía Bayro, si quieren conectar con nosotros y platicar qué es lo que tienen en mente y hacer un uno a uno, también encantados.
+
+[Speaker 0 - 00:48:47]
+De escucharlos.
+Por aquí les voy a pinear el Discord de la zona 3, que ya nos hizo el favor Cristina de ponerlo acá abajo, ya se los puse acá arriba en el John Botron, Acá arriba también breve reset.
+En el John Botron tienen el link para el espacio, si nos ayudan con un like y con un comentario para llegar a más personas, nos ayuda muchísimo, todo suma muy cañón.
+En el segundo tienen la invitación donde van a encontrar un link a un coleccionable gratuito.
+Si se van a el segundo pin post que está aquí arriba, el link que dice App Unlock, tienen un evento ahí, es el evento de Banda Web, tiene que darle clic, les va a pedir su nombre, les va a pedir su correo y les va a pedir un wallet si tienen, si no tienen wallet no pasa absolutamente nada con el nombre y el correo, les crea una cartera, les manda un token coleccionable y es totalmente gratuito, no tienen que pagar absolutamente nada, los estamos regalando y tienen 40 minutos para reclamarlo a la una y media, en 40 minutos se detiene la oportunidad de reclamarlo y en el futuro habrá algunos regalitos para los que tengan esos NFTs.
+Ya tienen acceso a contenido exclusivo en el foro que tenemos en Charmbers, que también se los voy a pinchar aquí arriba.
+¿Banda Mexi WTF?
+Y para los que tienen la membresía, que no he hablado mucho de ella, pero bueno, luego hablaré de ella, hay una membresía de un dólar mensual para contenido exclusivo.
+También.
+Fin de año vienen muchas actividades acá en México vienen varias Posadas, Ciudad de México hay dos, son tres.
+Dos de Arbitrum mañana, una de Mantle el próximo jueves 19 acá en Monterrey hay una este sábado y hay una el 18 también, entonces si están en Monterrey este sábado 14 o el 18, pasen por favor a las Posadas, mándenos un DM por ahí, hay mucho.
+Mucha información de dónde inscribirse.
+Pero sé que también Cristina y Christian traen algunas actividades de fin de año para ella, me invitaron, obviamente voy a participar y apoyar en lo que pueda, cuándo, cómo va a ser y.
+Qué puede esperar la banda para este fin.
+
+[Speaker 2 - 00:51:06]
+De año.
+Sí, fíjate, eso está bien padre porque es el mes de las posadas, también nos invitaron el 28 a la de Vara, de nuestros amigos de Vara, Keren y Luis ahí en Ciudad de México y van a salir muchas más, no, pero acá en cuanto a nosotros sí tenemos tres eventos bien importantes que vamos a estar ejecutando, principalmente el cierre de año de zona 3, en donde orgullosamente y felizmente vamos a tener a todas estas personas que hicimos amistad con ellos, que iniciamos como una colaboración y a lo largo del tiempo se volvió una amistad, nuestros amigos de Algorand, Avalanche, Solana con la familia, entre otros protocolos.
+También tendremos comunidades y proyectos y este evento de cierre de año están todos invitados acá Vanessa también nos va a apoyar a dejar toda la información, pero va a ser el 18 de diciembre.
+El 18 de diciembre a las 11 horas, Ciudad de México, para que nos puedan acompañar, va a ser un YouTube Live, ahí vamos a ver al buen Mexi en vivo con nosotros, que nos va a estar acompañando también con el proyecto de Banda Web.
+Y eso sería el 18, o sea, de verdad que nos encantaría que nos pudieran dejar sus comentarios, darnos el support y sobre todo que tanto ustedes como nosotros podamos hacer este recuento del año, los highlights que hemos hecho todos como comunidad, todos los protocolos, todos los proyectos, nosotros en conjunto y poder visualizar el trabajo que se ha hecho, todos hemos hecho un gran trabajo todo este año y creo que estos espacios de cierre de Posadas es como para poder visualizar el gran esfuerzo que hemos hecho, que hemos tenido, que hemos realizado y es eso, no, o sea, invitarlos a que nos acompañen en este 18.
+
+[Speaker 0 - 00:53:00]
+De diciembre.
+No, no, no me lo pierdo por nada, la neta sí creo que es súper importante hacer estos.
+Ejercicios donde nos sentamos a analizar lo que construimos, porque a veces, a mí me pasa mucho, no sé si ustedes les pase, en el que a veces entra el famoso.
+Síndrome del impostor, donde madre, estoy avanzando, ve tú a saber qué hice o perdí mi tiempo haciendo esto u otro.
+Yo creo que sentarse a analizar y luego platicarlo y externarlo y decírselo y contárselo a la gente, creo que es súper importante.
+Por ahí, como decía Cristina, el 11, no, perdón, el 18 de diciembre a las 11 de la mañana nosotros por ahí con banda web 3 vamos a hacer algo parecido, no sé cuándo todavía tengo todavía que hacer ese análisis, pero con Ethereum México el lunes, próximo lunes 16 a las 4 de la tarde, vamos a estar haciendo también el resumen anual.
+Y hay que presumir, hay que caraquear el huevo, como decía, o cacarear, como le digan, como dices, a veces nos enfocamos en el día a día, en la operación de lo que estamos haciendo, pero para viral, bueno, no para viralizar, para atraer a más gente, a veces hay que hacer ruido y hay que viralizar, Entonces por ahí yo encantado también de estar por ahí el 18 platicando de todo lo que han hecho.
+Qué chido, qué chido tenerlos por acá.
+Normalmente estos espacios duran una hora, una hora y cuarto.
+Luego yo me meto un poquito de anuncios.
+Cuéntenme del hub de ICP.
+Ya dijeron que inician actividades y que va a haber un Luma, pero.
+Bueno.
+No, mentira, de.
+
+[Speaker 2 - 00:54:46]
+CP no.
+Te preocupes.
+De hecho, quiero aprovechar para mencionarles que ya piné aquí en el espacio, están en los comentarios y también está pineado dos eventos de Luma.
+El primero es obviamente la invitación abierta para que todos nos acompañen en este cierre de año, en el evento end of the year, así se llama.
+Aquí está pineado.
+Y por supuesto, todo lo que hemos estado hablando contigo, amigo, tiene una razón de ser y es el poder abrir estos espacios a todos ustedes que nos escuchan y a las comunidades en general y proyectos que deseen emprender.
+Acá está ya el Luma para el trayecto de incubación que inicia el 27 de enero, como dijo Cristian.
+Entonces, para que empiecen a hacer su registro y puedan llegarles a su correo todas las.
+Fechas importantes, cuando inicia, recordatorios y en fin, que estén como muy sintonizados en las.
+En las actualizaciones que vamos a tener y que por supuesto, formen parte de este cuarto trayecto de incubación que ha sido tan exitoso que por eso llevamos por el número 4.
+El trabajo habla por sí solo.
+El ecosistema de Internet Computer está contento por la cantidad de startups que han estado saliendo estos trayectos.
+Entonces siéntanse con la confianza de que vamos a apoyarlos de inicio a fin en la construcción de su emprendimiento.
+Así que, pues era eso lo que.
+
+[Speaker 0 - 00:56:06]
+Quería aportar.
+Ya me acordé de la idea que iba a decir, pero de repente me perdí un poquito.
+No, pero estos programas creo que es bien importante mencionar.
+Yo me he metido en muchos.
+Afortunadamente he aprendido muchísimo.
+Desafortunadamente no los he terminado todos.
+Tengo que ser realista.
+Son proyectos y son programas donde tienes que dedicarle tiempo.
+Creo que es súper importante que la gente que entre a estos programas se compromete, comprometa, que asista a las reuniones, que participe y esté activo en los canales, que en realidad busque lograr los entregables, porque creo que es súper importante lo que hacen, de tener estructura, de tener entregables, de ver el proceso poco a poco.
+¿Cada programa de aceleración tiene sus mentores y su manera de llevar distinta, pero lo que sí he visto y creo que es muy importante es que la gente que se meta tenga ese compromiso, no está pagando nada, tienen esa ventaja de que no están invirtiendo nada, pero por lo mismo creo que a veces se quedan en el camino, no sé, sería ya creo que mi última pregunta cómo han visto ustedes y cómo han.
+Encontrado ese reto de mantener a esa gente que de los 100 que se inscriban, 100.
+
+[Speaker 1 - 00:57:21]
+Se gradúen?
+Ese es el reto amigo, o sea, creo que nadie ha podido resolver ese reto y es una realidad.
+Muchas veces el ecosistema tiene muchas cosas buenas y también muchas cosas malas.
+Lo bueno es que es muchísimo más fácil aplicar a un financiamiento web que a que vayas a una ronda donde apliques a Y Combinator a Platanos Venture y que te mentoreen, porque ya lo intentamos y es como muy largo ese camino.
+Y aquí tener la facilidad de que es más fácil decir entro a un Discord, muestro lo que estoy haciendo, muestro rápidamente el valor de lo que estoy haciendo y es más fácil conectar con el ecosistema y aplicar a un grant, eso tiene un muy buen beneficio.
+También otro beneficio es el que muchas veces, más bien siempre ningún ecosistema blockchain te va a pedir un revenue de lo que te den, o sea, te dicen lineamientos, te dicen que debes de lograr, pones tus milestones, pero no te dicen esos 30 mil dólares los quiero de vuelta en dos años, o sea, eso no va a pasar.
+Entonces hay como muchas ventajas en el ecosistema, pero eso trae consigo la procrastinación, o sea, vemos todo tan, ah pues luego, oye pues esta semana no pude, a lo mejor la siguiente si puedo, al cabo van a estar ahí las cosas.
+Entonces eso hace que no aprovechemos muchas veces las cosas y ahí estamos peleando contra la conducta humana, si no nos cuesta algo, malamente no solemos aprovecharlo, entonces tampoco quisiéramos hacer estos espacios de paga porque tampoco va por ahí, o sea, quisiéramos que estos espacios siguieran siendo gratuitos, pero pues lo que nosotros hacemos es lo que podemos, o sea, hacer recordatorios, hacer espacios, tratar de mantener motivadas a las personas, pero también muchas veces si el hecho de tener un ecosistema más sencillo para obtener financiamiento y que al final todo eso es algo que te queda a ti, que nos escuchas o sea, tu proyecto, tu financiamiento, tu propia aventura en esto, si eso no te motiva, seguramente nada o muy pocas cosas lo harán.
+Entonces no podemos pelear contra esa conducta humana.
+Los que al final quieren construir son con los que nos quedamos hasta el final y los que dijeran el que persevera alcanza.
+Ya cuando ven otros equipos que algunos ya tienen un gran que ya están como viendo temas diferentes al empezar, sino al crecer una startup, pues ya cada uno es partícipe de las decisiones.
+
+[Speaker 0 - 00:59:53]
+Que toma.
+Sí, totalmente de acuerdo.
+Creo que eso es algo que hay que ver cómo les ayuda a resolver.
+Creo que puedo apoyar ahí para.
+Pues no sé, meter presión, generar FOMO, hay que encontrar maneras creativas y creo que.
+Creo que es bien importante que la gente también lo vea como es una súper oportunidad.
+Sí, sí, hay muchas que vienen en el futuro y sí, sí habrá más, pero por ahí algo que me comentó.
+El buen Germán de ir cinco de mayo, en algún punto esto se va a acabar.
+Yo no sé, no sé, a mí no me ha tocado experimentar aceleración y crecimiento en empresas web.
+Pero a él sí y él me decía, hay un periodo donde hay lana y fluye y apoyo y después eso se acaba.
+Entonces bueno, creo que ahorita es cuando hay que aprovechar todas esas oportunidades.
+Creo que sí es bien importante ver a las personas que están liderando sus proyectos porque finalmente son las que te van a ayudar a conectar y a lograr eso que buscas.
+Y pues sí, que se comprometan.
+Que se comprometan y que le echen huevos.
+Que le.
+
+[Speaker 1 - 01:01:02]
+Echen huevos.
+Y si se acaba porque me ha tocado ver que eso pase cuando yo estuve near en el 21 y llevamos la parte de Latinoamérica, en 18 meses movimos 13 millones de dólares en Latinoamérica en proyectos y eso se acabó cuando se cayó el ecosistema.
+Entonces esas cosas son cuando son y están los espacios cuando están, pero luego se acaban, o sea, porque el dinero no es infinito, el dinero de los grants vienen de inversionistas y los inversionistas en algún momento quieren su dinero de vuelta y se acaba.
+
+[Speaker 0 - 01:01:34]
+Tal cual.
+No, la neta, encantado de participar por ahí en los eventos que tienen a final de año.
+Yo de mi parte no tengo ninguna otra pregunta.
+No sé Cristian, si faltó algo mencionar que quieras también comentar, algún proyecto que quieras ciliar tú por ahí no sé qué pasó.
+Con Cris, se nos fue, pero la neta, agradecerles que hayan venido a platicar con nosotros el día de hoy, con la comunidad de Banda Web, a todos los que se van conectando también muchísimas gracias y nos compartir.
+Y a los que se quedaron y entraron acá desde el principio, la neta apreciamos mucho que estén por acá escuchando esta conversación.
+Aprovechen, anímense, apútense, métanse y ayuden a difundir.
+Si no pueden ustedes o no quieren ahorita ustedes, estoy seguro que conocen a alguien que le puede interesar un proyecto así, compártanlo, compártanlo por favor y ojalá tengamos un chorro de iniciativas.
+Yo te aviso, voy a meter por ahí, no sé, rápido les voy a platicar, aprovecho a ver qué opinas, porque se la platiqué a Cristina y me dijo que era buena idea, pero una stablecoin mexicana en ICP, no sé si alguien la esté trabajando, pero hemos estado por ahí tocando muchas puertas, meter los fondos en a lo mejor CETES y darles, creo que ya hay varios proyectivos así, pero que no han viralizado y no la han rompido, no la han roto, perdón.
+Algo así me interesa meter, ya me dirán a ver qué opinan, pero neta, sí creo que es bien importante que los que traen proyectos se animen y participen y se inscriban y aprovechen, aprovechen esos programas que son gratuitos y que con mucho esfuerzo y con mucho amor los están organizando para que la gente crezca acá en la.
+
+[Speaker 1 - 01:03:20]
+Comunidad latina.
+Mira, stablecoins, hay un proyecto que este año se llama Metal, que metió un stablecoin en México y están trabajando en ello, pero si tienes ganas de lanzar algo, hagamos un uno a uno y veamos cómo te apoyamos.
+Mexi En buena onda, o sea, no porque estemos en el espacio ni más, sino porque de verdad buscamos que estos espacios los aprovechen quienes tienen mucho tiempo aquí en el ecosistema, quienes pueden aportar valor, porque justamente al final esto es una moneda de cambio, o sea, los ecosistemas blockchain buscan invertir para traer buenos proyectos detrás y quiénes mejor, quienes tienen un montón de tiempo aquí.
+Entonces, si de verdad quieres lanzar algo, platiquemos y vemos cómo te podemos echar.
+
+[Speaker 0 - 01:03:59]
+La mano.
+Mexican buena onda Sí, sí me tengo que clavar sí o sí este 2025 en lanzar ya productos.
+Lo que lanzamos con la comunidad.
+Fue un reto, por ahí tuvimos que cerrar el espacio físico y las membresías y lo que tú quieras, pero ya como le decía también a Cristina, con un tema ya más independiente, con las personas con las que he conectado y con las que creo que hay oportunidad de construir, creo que ya encontré uno u otro, uno u dos co founders ahí como tú dices, el que puede hacer ruido, el que puede vender, creo que puedo ser yo, no sé, pero la parte técnica falta, pero.
+
+[Speaker 1 - 01:04:40]
+Ahí estamos.
+Excelente, ahí vemos cómo te echamos la mano con ese técnico que te hace falta.
+Pero miren, ya en lugar de aprovechar para hacer algún comercial, nada más les quiero decir pues felices fiestas a todos, a lo mejor algunos ya no los alcanzamos a ver, igual si nos ven en el cierre de año, igual y sí, pero pues aprovechar para decirles que se la pasen muy bien estas fiestas, que no nos vaya a pasar algo malo, no tomen, si van a manejar, ya saben, o sea, todas las recomendaciones que hay en estas fiestas que son bonitas, pero también a veces son peligrosas por las personas que son a veces no tan responsables.
+Entonces pues cuídense, pasen buenas fiestas, diviértanse y pues como dice Mexica, ya son las fechas de ir presumiendo de cierta forma, por así decirlo, lo que hicimos en este año.
+Aprovechemos también darnos una palmada en la espalda, bueno o malo, hicimos mucho este año y pues hay que reconocérnoslo.
+Creo que con ese mensaje me gustaría.
+
+[Speaker 0 - 01:05:35]
+Cerrar, amigo.
+No, definitivamente el ecosistema latino mexicano ha crecido exponencialmente los últimos dos años.
+Mucho ha sido por todo lo que hacen ustedes y muchas otras comunidades.
+Veo que abajo por ejemplo, a Cande, veo a Soxa, veo también hace rato estaba Rosa, veo Mikita, veo a Mr.
+Be, el buen Aira Mérida que también por ahí trae iniciativas, Leo también que trae varios proyectos que veo por ahí, la neta.
+Muchas gracias por pasar, Cristian, agradece también porfa a Cristina por venirnos a contar todo lo que están haciendo.
+Muchas felicidades también a Cristina, ya no le pude preguntar sobre su mención y el listado en el que apareció con las mujeres de impacto que la están rompiendo en la web desde hace años.
+Ella y tú los dos han estado en friega y qué fregón poder colaborar con ustedes y poder platicar de lo que están haciendo.
+Voy a empezar con los avisos muy rápido, no les quito mucho tiempo, pero como decíamos, tenemos varios eventos presenciales acá en Monterrey y en Ciudad de México.
+Pero antes de los eventos presenciales, les voy a platicar del espacio de mañana.
+Por aquí arriba les piné y el espacio banda web 3, número 26, lo vamos a hacer en Arena Social.
+Les dejé aquí arriba el link donde pueden entrar.
+Arena Social es una aplicación social que está en Avalanche, que conectas tú nada más apruebas la conexión a tu X, autorizas que Arena Social se conecte a tu X, te crea una cuenta automáticamente, te crea un wallet automáticamente, te crea también la oportunidad de vender unos tickets.
+Cada perfil de Arena Social tiene una serie de tickets que van subiendo de precios y la gente los compra y van bajando de precio y la gente los vende y dan acceso a un canal exclusivo de comunicación en esa red social.
+Hay muchas redes sociales, yo creo que hay mucha oportunidad de disrupción en ese mercado de las redes sociales con la web.
+Por ahí hemos visto ejemplos como Friendster, hemos visto ejemplos como Warpcast o Farcaster que están haciendo mucho ruido.
+Lance es otro que tiene una red social muy interesante, me ha gustado mucho de Arena.
+Y sacaron hace poquito la oportunidad de hacer conversaciones de voz, se llaman stages.
+Entonces el stage o el espacio de mañana ya no es un xpace, va a ser un stage en The Arena App.
+Si utilizan el link que viene aquí arriba, Arena Social.
+Ref Maximalist, les va.
+A ustedes les toca lo mismo.
+Y a mí me ayudan con un porcentaje de esas comisiones que generan, porque cada que alguien compra o vende un ticket tuyo, te dejan a ti un porcentaje.
+Obviamente de Arena también se lleva su porcentaje y así es como ellos monetizan.
+Pero está padre, por ahí llevo una semana o dos probando, ya hice un stage así muy improvisado.
+Mañana es planeado, todo el que quiera subir mañana a platicar va a tener oportunidad.
+La idea es darles un espacio a todos los que pasen para que hablen de sus proyectos.
+Dos, tres, cuatro minutos.
+Quiero jalar a mucha banda para allá, que mucha gente use mi link de referido y a ver cuánto lanita me salpican.
+Pero no, la neta sí está muy padre.
+Por ahí tienen también un coleccionable Digital que pueden reclamar ese Navalanche, ese sí hay que pagarlo.
+Pero bueno, eso es mañana a las doce.
+Posadas, mañana, Mañana hay dos posadas en Ciudad de México.
+Hay una en la Universidad Autónoma, no, Universidad Nacional Autónoma Autónoma de México con la gente de Arbitrum.
+Déjenme se las piño aquí arriba porque pues es en la mañana ahí en la UNAM.
+Y hay una en la tarde también en Castalia.
+Al ratito los retuiteo, pero pueden ir a.
+La cuenta de Arbitrum en español.
+Déjenme lo opiné de una vez.
+
+[Speaker 2 - 01:09:46]
+Un segundito.
+
+[Speaker 0 - 01:09:47]
+Aquí está.
+Sí, la neta, se acercaron a varias comunidades.
+Nosotros tenemos un evento el 18 de.
+Diciembre aquí en Monterrey, va a ser en el Barrio Antiguo, ya se los piñé el de Monterrey es en el Open Club 18 de Monterrey, 18 de diciembre, perdón, de 7 a 1 de la mañana.
+Va a haber muchos embajadores, soy embajador de árbitro, por cierto, no lo tengo por ahí muy público, pero soy embajador de árbitro también empezando a ser delegado, va a estar Don Pepe, va a estar Gabriel, hay muchos delegados aquí en Monterrey, creo que es la ciudad con más delegados de árbitro en todo el mundo.
+Creo que hasta embajadores tenemos un buen.
+Entonces, bueno, están volteando a ver la comunidad acá en Monterrey y están organizando con nosotros y con Ethereum Monterrey el evento del 18 de diciembre.
+El de Castalia, se los voy a pinear acá arriba también de.
+
+[Speaker 1 - 01:10:40]
+Una vez.
+Hoy sí me.
+
+[Speaker 0 - 01:10:42]
+Voy a.
+Ahí está, el de Castalia es mañana 13 de diciembre a las 6 de la tarde en la Roma Norte, Xalapa número 100.
+Es junto con Muse Matrix, Castalia City y DSI MX.
+Ahí está también arriba pineado.
+Y el sábado, el sábado 10, el sábado 14, este sábado aquí en Monterrey hay una criptoposada con Espacio Cripto, con Ethereum Monterrey y con starknet.
+Entonces estén al pendiente de las redes, participen, ayúdenos a difundir, inviten a gente.
+Yo sé que muchos no son de aquí en Monterrey y me mandan mensajitos que les da mucho FOMO.
+Planeen venir, ayúdenos también a venir en algún momento, estaría chido.
+Cristian y Cristina, hay que armar ya algo por acá el próximo año sí o sí lo Tenemos que armar.
+¿Cómo me ves, Cristian?
+Yo creo que.
+
+[Speaker 1 - 01:11:33]
+Sí, ¿No?
+Qué chingón vivir en ciudades con mucha gente cripto.
+Aquí creo que no nos sucede eso.
+Si, la neta está muy cool poder hacer eventos presentados.
+La verdad, si nos invitan en este, ya lo veo complicado porque tenemos ya todos los seres de años, pero si vamos haciendo algo para algún evento el siguiente año, independientemente si es posada o entre año, ahí con gusto, ahí vemos cómo apoyamos.
+
+[Speaker 0 - 01:11:55]
+Sin duda.
+Sí, sí empecemos a hacer algo ya un poquito más grande con ICP, con ustedes, alguna actividad de onboarding y de difusión para que la gente entre en el programa.
+Yo creo que ya es justo y necesario.
+Hay muchos por ahí que veo acá abajo que no han venido a Monterrey.
+Me encantaría tenerlos en algún punto.
+Creo que 2025 va a ser muy, muy bueno.
+El 19 de diciembre en Ciudad de México con Ethereum México y con Mantol y la gente de Odisea que también traen un programa de aceleración que ya cerró.
+Si, ese cerró ayer, ya no se pueden inscribir.
+Ojalá salgan muchos proyectos también de ahí, pero vamos a tener un evento allá en Ciudad de México el 19 de diciembre.
+Fuera de eso, yo voy a seguir activo en estos espacios la próxima semana ya estoy programando los invitados de banda web, vamos a tener espacio el martes, jueves y viernes.
+Yo creo que seguiré activo si no salimos de vacaciones entrevistando a banda que quiera o nada más armando espacios así de más cotorreo y menos formal.
+Gracias a los que se conectaron el día de hoy.
+La neta me encanta poder platicar con proyectos que están construyendo aquí en México y en Latinoamérica, que.
+Les pueda ayudar a difundir todo lo que quieren construir y a llegar a más personas.
+Es algo que me gusta muchísimo.
+Y pues bueno.
+Me gustaría terminar el espacio del día de hoy con Liquid Tension Experiment, Universal Mind y con esto nos vamos.
+Les quito el Bluetooth para que se escuche.

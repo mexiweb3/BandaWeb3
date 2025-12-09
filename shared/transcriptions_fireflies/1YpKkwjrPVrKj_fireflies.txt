@@ -1,0 +1,790 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Título: BandaWeb3 - Liderando en web3 con @meximalist 🇲🇽
+Fecha: 1765252800000
+Duración: 83.81999969482422 segundos
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+[Speaker 0 - 00:01:14]
+Hola mexicano, ¿Cómo estás?
+¿Me escuchas bien?
+
+[Speaker 1 - 00:01:20]
+Y ando por aquí.
+Sí, todo bien.
+¿Tú cómo andas?
+¿Todo chido?
+
+[Speaker 0 - 00:01:24]
+Bien, bien, todo bien, todo bien.
+Qué bueno que me escuchas bien.
+A ti también te escucho bastante bien, así que todo bien.
+Hola Zoe, Feliz tarde, bienvenida.
+¿Cómo estás?
+Ya voy a poner por acá que estamos conectados para que se vayan sumando.
+Y aprovechemos el tiempo al máximo, ¿No?
+
+[Speaker 1 - 00:01:52]
+Sí, yo sé que esto luego mucha gente lo escucha.
+Después te puedo ir contando que ayer no fue muy bien acá en el meetup.
+Tuvimos meetup en Monterrey, vino.
+El director de la policía, un director de la policía, pero él está en la parte de tecnología del estado de Nuevo León.
+Fue a platicar allá con nosotros y nos contó cómo tiene ya desde el 2016 creo, comprando Ethereum, Bitcoin, que nunca ha vendido y que luego empezó a comprar NFT.
+Estuvo muy padre la plática, por eso quedó grabada y muy bien ayer la reunión acá en Monterrey.
+
+[Speaker 0 - 00:02:33]
+Qué bueno, qué bueno.
+Vi las pruebas que estaban haciendo, de hecho te vi a ti junto con Abraham que estaban haciendo pruebas y hasta ahí supe, luego no pude conectarme más, pero no, que genial, eso está buenísimo, toda esa actividad que están haciendo IRL en Monterrey.
+Súper bueno, de verdad me gusta muchísimo ver todo lo que están haciendo, ver todo el espacio que tienen y bueno, todas las cosas que seguro vienen este año.
+Voy a aprovechar ahorita para saludar a Caro, Anita, a Zoe, que ya están por acá.
+Acaba de conectarse julio.
+Bienvenido, julio.
+Muy contentos con esta nueva conversación que vamos a tener por acá liderando en web.
+Con Mexi.
+Ya vamos a conversar con él.
+Ciertamente hoy, esta semana ha sido una semana muy particular.
+Hay una programación, una planificación, pero hoy hubo que.
+Esta semana tuvo que improvisarse mucho y eso me encanta porque pone a prueba esa capacidad de flexibilidad.
+Ando en mil cosas, por supuesto, la colección de la manada está a tope y por supuesto nos tiene a tope a todos.
+Pero de verdad, qué bueno, qué bueno este nivel de estrés sí me gusta cuando se trata de estar haciendo cosas que me apasionan, que sé que vienen para bien, Bueno, ahí uno aguanta que uno aguanta.
+Así que bueno, chicos, los que están por acá conectados pueden, pueden compartir el espacio con sus seguidores, con sus amigos, con sus comunidades, para que más personas puedan acompañarnos y puedan ser parte de la experiencia de esta nueva conversación.
+Ya es la cuarta conversación de esta segunda temporada que tenemos Liderando en Web, de hecho esta es la última de enero, del mes de enero.
+Y qué rápido se está pasando todo este tiempo, o sea, ha sido todo como muy veloz.
+Antes de comenzar a hablar con Mexi, que es lo que nos convoca hoy, quiero, me gusta siempre hablar, sé que muchos de acá ya conocen el proyecto, pero me parece buen inicio, que sepan lo que es Liderando en Web es básicamente el programa de Spaces que tiene Lidérate, que es el proyecto como tal, es mi proyecto, y se basa en asesorías personalizadas a personas que estén enfocadas en trabajar sus habilidades blandas y sus habilidades de liderazgo en vista a mejorar sus trabajos, mejorar sus proyectos, aportar a sus comunidades, que haya ese trabajo allí personal que los ayude a potenciar esas habilidades.
+Para eso estoy yo acá en Lidérate.
+Y nada, estas conversaciones son para conocer a todas esas personas que están aportando al ecosistema, que están constantemente creando, están constantemente creciendo dentro del ecosistema, aprendiendo y siendo parte activa de lo que está sucediendo en web.
+Me parece que es fundamental conocer ese lado humano.
+Somos más que PFP, somos más que nombre de comunidades, de proyectos, de iniciativa, somos un poco más que eso.
+Y es bueno tenerlo allí presente, que detrás de todos esos procesos hay una persona, hay un ser humano que está haciendo lo mejor que puede con lo que tiene a mano para que todo se dé bien.
+Así que a eso nos vamos a dedicar el día de hoy.
+Por acá tenemos a Criptolatina, Bienvenida Criptolatina.
+Ayer estuve en un espacio de Criptolatina, me encantó de verdad, bienvenida siempre a estos espacios.
+Bienvenido Robert que también está por acá, está Mar, está Mr.
+B, bienvenidos, está Macneo también, todos bienvenidos.
+Y como les estaba comentando, la semana ha sido una semana diferente, tan diferente que yo siempre tengo el POAP aprobado un día antes y resulta que este POAP está calientico, me lo aprobaron hace una hora.
+Yo dije, Dios mío, no puede ser el primer space que voy a tener sin POAP, no puede ser.
+Pero no, sí ya tenemos POAP aprobado, todo está.
+Todo está bien.
+Pero era como probando, probando, a ver qué tanto puedo resistir, qué tanta.
+Qué tanta presión puedo resistir y tantos cambios a la vez.
+Ha sido genial, ciertamente ha sido genial ver que todo va.
+Es la web la que me tiene así y de verdad que me encanta porque son como todos los proyectos fluyendo a la vez.
+Dicho esto, bienvenido Crimson, bienvenida Gaby, que ya los vi que llegaron por acá.
+Sí, voy a darle ya espacio.
+Fíjense que fue tan particular esta semana que los invitados de Liderando en Web por lo general ya reciben una lista de preguntas como para que tengan más o menos una idea de qué vamos a conversar.
+Y esta semana no le envié las preguntas a Mexi, o sea, imagínense, esta semana vamos a manejar seguramente una estructura distinta.
+Yo sé que Mexi tiene tantas cosas que contarnos, tantas, tantas.
+Lo he dicho en otros spaces, los días de Mexi tienen 48 horas.
+Ya yo lo he dicho porque lo veo haciendo no sé cuántas cosas, la verdad.
+Yo digo, wow, Dios mío, ¿Será que mis días tienen las mismas horas que las de Mexica?
+Porque es muchísimo.
+Sé que esto va a fluir de la mejor manera y eso es lo que quiero para que podamos ver a través de esta conversación los procesos de autoliderazgo que se dan dentro del ecosistema y cuán accesible está el conocimiento y aprender de esas experiencias en cada uno de los que hacemos vida dentro del ecosistema.
+Tenemos cada uno de nosotros en sus marcas personales, en sus proyectos, somos una fuente de aprendizaje para el otro, para toda la comunidad, así que mientras más conscientes estemos de eso, mejores experiencias vamos a ir acumulando.
+Así que adelante Mexi.
+Bienvenido.
+
+[Speaker 1 - 00:08:36]
+Hombre.
+Muchas gracias G.
+La verdad sí he estado muy al pendiente de estas entrevistas y de todo el contenido que tú subes, porque.
+Son cosas que uno a veces va aprendiendo, reflexionando o encontrándose con problemas y resolviéndolos y a madrazos y reflexionar desde antes, obtener algo así como pues sí, todas esas habilidades que hay que hablar luego para ver si me ayudas, porque definitivamente me ayudaría un servicio como el que estás ofreciendo.
+Pero sí me ha gustado mucho estar viendo el contenido que estás generando y encantado de estar aquí contigo para.
+Para poder platicar de todas las iniciativas que tenemos por acá en Monterrey.
+Yo estoy acá en Monterrey, Nuevo León, en el norte de México, una ciudad grande, industrial, con mucha gente, mucha lana, empresas mundiales han salido de aquí, cementeras, gente que hace vidrio, cerveceras, de todo, de todo.
+Y pues hay poca gente en realidad ahorita juntándonos para platicar de estos temas.
+Hay muchos que no les gusta mucho el tema presencial, pero ahí hemos encontrado la forma de ir conectando porque yo creo que es muy importante reunirnos, o sea, la presencialidad para mí en los eventos ha sido clave para desarrollar ideas, para que la creatividad fluya y que surjan proyectos.
+¿Entonces es lo que por acá por Monterrey y pues enfocado web, siempre enfocado web.
+
+[Speaker 0 - 00:10:09]
+No?
+Eso está buenísimo porque ciertamente ese contacto directo, ese contacto cercano genera un nivel de conexión diferente.
+Ahora voy a hacer una pregunta, ya empezaron a fluir las preguntas.
+¿Mexi es tu nombre?
+Yo sé que no, pero me gustaría que los demás supieran.
+
+[Speaker 1 - 00:10:31]
+No, no, no, yo me llamo Mauricio, Me llamo Mauricio, nací en Monterrey, he vivido en varios lados, estudié una ingeniería en Electrónica y comunicaciones y luego estudiando maestría en seguridad.
+Me gusta mucho la montaña, me encanta vivir encerrado, bueno, encerrado alrededor de montañas y me gusta trepar cerros, no podría, yo creo, vivir sin cerros donde viva.
+Y tengo dos hijos, estoy casado y me gusta mucho la voz de atrás.
+
+[Speaker 0 - 00:11:06]
+Eso está genial, lo pregunto y uno siempre parte de que no todo el mundo ya lo conoce y resulta que seguro aquí alguna persona no sabía que te llamas Mauricio.
+Y en este tipo de conversaciones me gusta llamar a las personas por su nombre, más allá de su marca personal y de su proyecto, porque allí es donde quiero hacer básicamente la conexión es con la persona que está justo trabajando todo eso, haciendo todo ese proceso.
+Mira qué bueno lo de las montañas, lo he visto, lo admiro un montón.
+No se me da el tema de las montañas, le tengo miedo a las alturas, así que no se me da lo de las montañas, pero sí me alegra mucho la gente que lo disfruta.
+Bueno, si vienes a Venezuela tienes muchísimo acá, muchísimas montañas y cerros que conocer, así que tenemos eso por allí, eso por allí está pendiente.
+Hay algo que me gusta mucho, sobre todo por la forma en la que lo estás llevando, es ver la manera en la que estás sistematizando todo lo que es los encuentros IRL y es algo fabuloso.
+Ejemplo Inspiración para muchos de los que estamos en distintos países, ver cómo le podemos dar la vuelta también a ese tipo de espacios, de espacios para conseguirnos.
+De hecho, desde la criptomoneda estamos ahorita, primero estamos trabajando el tema de la colección, pero luego vamos a ver cómo hacemos para conocernos, para generar esos encuentros y poder vernos, poder reconocernos más allá de nuestra vida digital, que es súper activa, pero sí conocernos ya persona a persona, creo que eso potencia muchísimo.
+Mexi, cuéntanos cómo llegas tú al ecosistema.
+
+[Speaker 1 - 00:12:54]
+A mí me gusta mucho.
+El stand up comedy, me gusta mucho Louis y K, me gusta Joe Rogan, él tenía un podcast.
+Y también me gusta mucho la UFC, peleas de la MMA y artes Mercedes mixtas.
+Y lo escucho a él desde hace mucho tiempo.
+Y en el 2010, no, en 2014 estuvo con él Andrea Santanópoulos, que es un chavo que hace contenido desde hace años y años y años, tiene varios libros, que hace chorro de videos y ahí lo escuché a él en el podcast, lo entrevistó, habló dos horas sobre Bitcoin, me entró por un oído y me salió por el otro.
+No lo entendí.
+El mismo güey, Andreas volvió a ir con jo en el 2016 lo volví a escuchar.
+En ese entonces yo escuchaba casi todos, Me gustaba, me gustaba mucho.
+Ya no lo escucho tan seguido, pero si lo sigo escuchando.
+Antes manejaba mucho, ya no me toca manejar.
+Y ahí.
+Hasta el 2017 un amigo me dijo en una cena de la nada, oye, alguien me dijo que compró.
+Yo compré, hay una plataforma que se llama Bitso y está bien fácil, nada más con un correo y un password entras y rápido puedes ya tener criptomonedas.
+Ay güey, o sea, ya fueron tres veces.
+Ya había leído y escuchado, me clavé un poquito en leer, dije no, Sí, y entré 2017 porque un amigo compró, pero después de haber escuchado tres veces del tema y ya después no, no.
+Yo tengo dos velocidades, tengo.
+O no me interesa en lo absoluto y lo ignoro o me voy.
+Allí me obsesiono mucho con ciertas cosas, entonces fue clavarme y leer y estudiar.
+Yo en ese entonces estaba empleado cuando empecé a entrar al ecosistema.
+Cuando entré al ecosistema y desde ese momento dije no, yo ya no.
+Después de algunos meses de estar estudiando y leyendo sobre esto, dije no, ya no quiero seguir haciendo lo que estoy haciendo.
+Necesito ver cómo salirme para empezar a desarrollar en esa industria, en ese ecosistema.
+Y me tardé un rato en lograrlo.
+Hace dos años ya ando full en esto y emprendiendo y experimentando y divirtiéndome mucho.
+
+[Speaker 0 - 00:15:14]
+Qué bueno, qué bueno.
+Y definitivamente cada uno llega acá de una forma distinta, con una motivación diferente y de entornos también distintos.
+Eso también lo hace.
+Quizás por eso es que somos un terreno tan, tan, tan fértil, por la cantidad de diferencias que hay de profesiones, de formas de llegar.
+Muchas cosas, hace que esto sea como más rico.
+Y sobre todo que las experiencias sean más diversas.
+¿Conoces a personas que no, ni remotamente acá?
+De hecho, lo puedo decir con toda certeza, no conociera a ninguno.
+Si yo estuviese haciendo mi actividad regular, no los conociera.
+Es muy probable que me estuviera perdiendo de todas estas relaciones que están acá.
+Aprovecho para darle la bienvenida a Lu.
+Bienvenida Lu a Superama, que también la veo por acá.
+A Eri, bienvenido Foforito, bienvenido Duodó, Mira, tenemos músicos, tenemos de todo acá.
+Encanta a los chicos de Kabila, bienvenidos.
+Tenemos a Tap, tenemos a Laura Abraham que también está por acá.
+Y están otros que no logro pronunciar, pero todos bienvenidos.
+Oliver 13, por aquí también te veo.
+Qué bueno.
+Sean todos bienvenidos.
+Vayan revisando sus perfiles, vayan viendo porque seguramente de acá pueden salir muchas alianzas, pueden salir muchas cosas buenas amistades, no lo sabemos.
+Están de repente en la misma ciudad, comparten los mismos intereses, pueden hacer algún proyecto nuevo, alguna colaboración.
+Son solamente con entrar al perfil de cada uno y ver.
+Qué tanto nos une este espacio.
+Estos espacios son justamente para conocernos, para hacer networking, para hacer buenas relaciones y después llevarlas a un siguiente nivel, como lo está haciendo Mexica, que lo hace ya en IRL en Monterrey y sé que se va a mover muchísimo, va a estar en otras ciudades dentro del mismo México y fuera de su país.
+Y es que no hace falta ni siquiera que lo stalkee.
+Mexi construye en público, es real y uno sabe en dónde está y qué está haciendo.
+La información está completamente accesible.
+Me gustaría preguntar, Mexi, ¿Qué proyectos están activos en este momento?
+Tuyos, en donde estás haciendo tu vida en este momento.
+
+[Speaker 1 - 00:17:33]
+Gracias, gracias por la oportunidad de silea mis bolsas.
+Yo sí soy de la idea de que una tenemos que experimentar un poquito de todo, ver qué nos gusta y con qué estamos de acuerdo, dónde nos va bien.
+Eso afecta mucho qué tanta suerte tuviste en el momento en el que estuviste en la red, que le metiste lo que te da dinero, luego te enamoras.
+Entonces cada quien trae su historia.
+Me gusta experimentar de todo.
+Y ahorita dentro de las cosas que traemos, una es un exchange.
+Tenemos ya manejando, de repente hablo de esto, pero.
+No hemos hecho mucho ruido, que va a tokenizar Real World Assets.
+Ahorita hay una narrativa muy interesante de rwas Real World Assets y este en específico tokeniza acciones de empresas aquí mexicanas, chicas y medianas.
+Entonces a través de un token del exchange y una plataforma como de un launchpad, vamos a buscar empresas y llevarlas a través de cierto proceso para que tokenicen sus acciones.
+Se llama Buddy.
+Ahorita la página la podemos pinear budi com mx.
+Estamos pidiendo permisos en gobierno con la Comisión Nacional Bancaria de Valores para que esto sea entre ahí luego tengo que verlo con lo.
+Pero si hay dos opciones que los abogados ven factibles y no nunca.
+La ley dice que hay alternativas, pero nunca han aprobado ni una de que ha solicitado esa alternativa.
+Y para estamos peleándose esos permisos y desarrollando aplicaciones.
+Una aplicación que permite comprar estas acciones de las empresas tokenizadas.
+Tenemos la comunidad acá en Monterrey, que es un local que ando viendo cómo hacer rentable.
+Es un espacio como de unos 110 metros.
+Tenemos ahí tres, cuatro áreas, una es green room para grabar contenido, otro es una sala de juntas y el otro es donde tenemos los meetups y ahí podemos tener talleres y ahí donde se va a dar el taller de Sol.
+Sol viene, llega ya el primero de.
+Primero de febrero, llega a la Ciudad de México, de ahí nos vamos a Puebla, el Jacatón y viene a dar un taller de de música web y ahí es ahí donde tenemos los meetups y la idea es ya tener listo el espacio para que los músicos vengan a grabar y que tokenicen Sol trae.
+
+[Speaker 0 - 00:20:02]
+Todo.
+
+[Speaker 1 - 00:20:04]
+Una dinámica de cuatro sesiones y luego un festival que por coincidencia.
+Queda en el fin de mi cumpleaños.
+Entonces vamos a festejar.
+Y también recientemente firmamos nos constituimos como acá o empezamos el proceso en una notaría para constituirnos como una C y también festejaremos eso.
+¿Y que tenemos ya más de un año?
+Tenemos el podcast Proof of Value con Diego Benítez, que lo hemos tenido descuidado, pero yo sí quisiera hacer videoblogs de eventos, quisiera hacer.
+Más entrevistas presenciales ahí en el Hub tenemos un green room que vamos a equipar ahí con micrófonos y una compu, está bien cara, pero es lo que sugieren los especialistas.
+Y vender también, rentar esos espacios, seguir dando talleres.
+Siempre queremos tener bienes públicos, ahorita hay un chorro de plataformas y también queremos desarrollar plataformas para fondear proyectos como bienes públicos.
+Hay mucha lana apoyando y buscando mejorar las maneras que hay y el dinero que hay en el ecostema para fondear proyectos así.
+Entonces hay mucho por construir ahí.
+Está padre, mucha lana y muchas fundaciones están dando grans para eso.
+Estamos explorando eso y participando un poquito en todos lados.
+A mí me gusta estar metido en todos lados y no nada más ser uno del montón, sino hacer ruido, generar plática y acelerar.
+Yo busco acelerar procesos y acelerar adopción.
+Acelerar colaboraciones.
+Acelerar.
+Acelerar el tema de la adopción, el uso de estas herramientas y también de la filosofía.
+Por ahí hace poquito vi un post de Alan que decía que no era.
+Empujar la herramienta sino.
+La filosofía también tiene punto y es lo que me gusta aquí en el ecosistema.
+Y esos son los proyectos que traemos más o menos.
+Y un poquito de todo también.
+De repente llegan cosas y ando viendo cómo les ayudo a conectar y tratar de llevar porcentaje asesorías.
+Duermo poco.
+Y me gusta andar en chingada.
+
+[Speaker 0 - 00:22:20]
+Bueno, pero es buena noticia saber que duermes porque de verdad es como mucha la actividad que siempre estás haciendo.
+Qué bueno que hay descanso, eso es importante como para que puedas estar activo y puedas estar con niveles óptimos de energía y de concentración en todo.
+Y fíjate, hay una cosa acá que es como.
+Hace como una recopilación de todo lo que haces y son tus spaces.
+¿Qué días te conseguimos y en qué horario?
+Mex.
+
+[Speaker 1 - 00:22:51]
+Los programados son martes y jueves a las 12 de la tarde, horario México, que son 18 UTC.
+Martes y jueves y duran dos horas, por recomendación de Caro, regaño de Caro que mando saluditos a Caro Show, lo hacemos de dos horas máximo, a veces se me va un poquito más, pero no me gustan los países cortos míos, yo creo que sí me gusta tener conversaciones un poquito más largas, que gente tenga chance de hablar, entonces más o menos son de 2 soles.
+
+[Speaker 0 - 00:23:25]
+OK, buenísima.
+Fíjense, muchas de estas cosas yo sé que la mayoría la maneja el que no conoce a Mexica, puede ubicarlo, lo puede seguir, puede ver cuáles son sus spaces que están fijos, de hecho esos spaces están en el calendario que tiene Caro Show de Latam, ahí está todo y va a poder conseguir lo que me gusta siempre es verbalizar todo este tipo de actividades, porque a veces nos sucede que estamos tan apasionados y estamos tan concentrados en lo que estamos haciendo que no tenemos realmente la dimensión de cuánto estamos haciendo y se nos puede ir como de las manos y a veces yo he pensado, bueno, pero es que hoy no he hecho nada, siempre hay alguien por allí que me recuerda toda la cantidad de cosas que he hecho en el día y allí todo cobra sentido, allí todo llega a su respectivo lugar, por eso lo digo, porque muchas hace falta escuchar nuestra propia voz y ver todo lo que hacemos al día y cuántas de esas cosas están realmente enfocadas en lo que nos gusta, en lo que nos apasiona, en lo que creemos, en lo que estamos enfocados.
+Fíjense la cantidad de cosas que dijo Mexica, varios proyectos IRL en digital están los spaces, las colaboraciones, lo veo activo en los grupos, en el Caro Crew está completamente activo.
+En donde bueno, los espacios de Metapool, todo lo que tiene que ver con rondas de financiación, ahí está MEX.
+Eso me parece súper interesante, ver que hayan personas catalizadoras dentro del ecosistema que se hayan puesto ese rol, o sea, eso es un rol que la gente elige.
+Entonces, justamente a esto va mi siguiente pregunta ¿Cómo haces para equilibrar todo lo que son tus pasiones dentro de web con tu vida en general, o sea, ya con Mauricio, papá, Mauricio esposo, Mauricio, amigo, familia, hijo, hermano, ¿Cómo haces para equilibrar todos esos roles?
+
+[Speaker 1 - 00:25:39]
+La verdad es que no lo hago, batallo, si no, no es algo.
+Que yo diga, lo tengo 100 % dominado, pero mi esposo me lo recuerda muy seguido.
+Cuando me equivoco está bien porque yo soy.
+Yo le doy y a veces no le mido y ahí voy.
+Si me tropezo pues me paro y le doy y ella es más cuadradona, entonces ella me va ayudando.
+Pero sí no es algo que domine.
+Sí es una ventaja enorme poder trabajar desde cualquier lado, con un celular, unos audífonos.
+Los espacios a veces los hago aquí tomando el sol, tengo una terracita que le da un solecito chido.
+Tenemos muchas ventajas de poder trabajar en chats, Telegram, WhatsApp.
+Algo que yo aplico por ejemplo, es no tener notificaciones en ninguna de mis aplicaciones, sino que yo he sido cuando entro a Telegram, cuando entro a WhatsApp, ni a mi esposa le tengo notificaciones, algo que le cabrona.
+Pero.
+Ya más o menos de esa manera.
+Pues yo decido cuándo interactúo, pero sí me gusta interactuar mucho sí lo tengo que aceptar.
+El share posting es divertido, de repente tengo ideas y las pruebo a ver qué pasa y quién reacciona y quién genera discusión y quién no.
+No sé, no sé, siento que todo eso acelera la plática, la creatividad de la gente y el debate y que creo que ayuda a través de cualquier medio y por eso me gusta hacer los espacios, por eso me gusta hacer el IRL.
+Ayer platiqué con un chorro banda que hace rato no platicaba que traía diferentes, dije sí, o sea, veamos cómo los ayudamos.
+Acelera los procesos y me divierte mucho.
+Sí, saludos a Sol, ya pronto la vamos a ver por acá en Monterrey, ahorita.
+Tiene chance de subir y que nos.
+
+[Speaker 0 - 00:27:49]
+Platique.
+Sí, bienvenida Sol.
+Qué bueno.
+No, eso me encanta ver todo eso que yo sin ser músico siempre estaba como muy atenta a lo que Sol ha estado haciendo.
+Me conecto todas las veces que puedo a sus spaces porque me gusta lo que hacen en su comunidad y ver cómo ahora el método sale de Argentina, sale de Buenos Aires y se va a Monterrey.
+Eso me parece genial para los músicos es una oportunidad inmensa para el onboarding es una bendición básicamente.
+Poder tener ese tipo de experiencias en otros países y ojalá pudiéramos tenerla en otros países.
+Así que Sol, bienvenida.
+Si quieres subir a conversar, pues bienvenida.
+Eso haría aún más diferente esta sesión del día de hoy.
+Sería muchísimo mejor tener a una invitada.
+Así es que Definitivamente desde el lunes estoy viviendo eso.
+Se hizo notimanada y no sé, pasaron como mil cosas y terminé acompañada por Javi de Kokove y por Nico de Cávila.
+Y por lo general Noti maná, solo somos las fundadoras hablando.
+Y bueno, fue algo diferente.
+Y así sucesivamente la semana ha sido maravilloso.
+Me gusta mucho el tema de los roles y por eso lo converso, porque es un desafío para todos los que estamos acá.
+Todos los que estamos en este momento acá tenemos distintos roles en la vida y todos tienen un nivel de importancia, todos.
+Y si hay algo que cuesta es equilibrar.
+Equilibrar, saber qué tiempo darle a cada cosa, establecer prioridades, tener prioridades claras en el uso del tiempo, en el manejo de las relaciones, los que tenemos hijos, los que tienen pareja, todo eso.
+Bueno, eso siempre es como un trabajo adicional.
+Y ahí hay mucho de trabajo personal, hay mucho de liderazgo, indiferentemente al nivel al que lo estemos llevando.
+Hay personas que lo hacen y nunca han tenido un mentor, nunca nada.
+Sencillamente tienen eso como en su naturaleza.
+Me uno al club de los que tienen las notificaciones apagadas.
+Definitivamente no uso notificaciones de ningún tipo para nadie, ni siquiera para mi hija, que es lo más importante.
+Ella tampoco tiene notificaciones activadas, porque necesito tener yo allí el mando de cómo voy a establecer las prioridades y a qué le voy a prestar atención para que los distractores se mantengan como a raya y que eso no me desenfoque de lo que esté haciendo en algún momento determinado.
+Siempre doy respuesta, eso sí, pueda que me demore, pero doy respuesta.
+Así que me uno a ese club de Mexi, y eso tiene muchísimo que ver con las nociones de autoliderazgo.
+Y allí me gustaría ver Mexi.
+Yo sé que ya, seguramente por profesión venías ya de posiciones de liderazgo, pero en el momento que te diste cuenta que ya estabas en web, que ya habías asimilado toda esa primera fase de llegada y que comenzaste a tener parte activa de las actividades en las que estabas haciendo, ¿Cómo fue ese proceso cuando te diste cuenta, bueno, lo voy llevando yo y este es el proceso, o sea, voy liderando?
+¿Cómo lo.
+
+[Speaker 1 - 00:31:08]
+Vives?
+Yo estuve 20 años, un poquito más de 20 años de empleado.
+Primero trabajé para una empresa que sea vidrio, teníamos a cargo el departamento de seguridad para los dueños de la empresa, una familia de mucho dinero, tenían aviones millonarios.
+Y cuidamos los ranchos, cuidábamos sus casas, cuidamos las bodegas, los negocios.
+Y luego trabajé 11 años para una empresa de tecnología.
+Vendíamos software y hardware muy grande, Honeywell.
+Y sí, llegué a liderar proyectos muy grandes.
+Hacíamos sistemas para automatizar todo el control de un edificio, donde con un solo.
+Con una sola plataforma, un software, controlabas todo.
+Medías luz, medías consumo eléctrico, agua, controlaba seguridad, controlabas cámaras, controlabas climas, automatizábamos todo, todo el tema.
+Y teníamos clientes, Data centers, hospitales, prisiones, trabajamos en.
+Fuimos proveedores del aeropuerto de.
+De AMLO, Honeywell, la empresa.
+Y estaba padre, pero era lo que siempre había querido hacer.
+Pero ya que entré y me di cuenta que sí era tecnología muy chida, pero que eran fierros, eran sensores, eran actuadores y era software que te ayudaba a ahorrar energía y a tener menos empleados, pero no cambiaba el mundo.
+Y la blockchain, pues creo que así hay ese potencial.
+Entonces hace dos años que me salí, me di cuenta que si quería llegar a vender algo en algún momento, tenía que primero empezar a hacer.
+Pues a conocer a la gente que estaba metida a sus necesidades, que me conocieran, posicionar una marca.
+Yo tenía mi cuenta de X, tengo la cuenta de X, yo hace como 15 años, son 14 años, 12 años, como del 2009 creo.
+Porque en ese entonces jugábamos mucho torneos en línea y en vivo, de baraja de poca.
+Y la gente se comunicaba durante los torneos y daba su estatus por Twitter, mandaba un SMS, en ese entonces me acuerdo, podíamos mandar un SMS y se posteaba en una página.
+Y de esa manera reportábamos cuántas fichas nos quedaban, cuántos jugadores quedaban, si íbamos en el dinero o no, porque solo el 10% de los jugadores pasaban.
+Y desde ese entonces empecé a usar mucho Twitter, y me di cuenta que ahí estaba.
+Luego la gente que migró a web.
+Le cambié el nombre, no tenía este nombre, Maxímelis, no lo tengo desde ese entonces, antes era Morris Bunker, creo, Morrison Kerry, porque la comunidad de póker se.
+
+[Speaker 0 - 00:34:11]
+Llamaba.
+
+[Speaker 1 - 00:34:14]
+Y.
+Lo cambié y empecé a hacer ruido, empecé a ir a eventos, empecé a hacer los espacios, a hacer host, a posicionarme, a hablar de lo que me gustaba, a buscar puntos de vista distintos y consenso.
+Y me di cuenta que si quería uno vender algo, una colección de NFTs, tokenizar una comunidad, dar beneficios y experimentar con la tecnología de cierta manera donde.
+Tengas una ganancia necesitas tener cierto alcance, ¿Cierto?
+Que la gente te conozca, que tengas una reputación.
+Y empecé a construir y llevo dos años en eso y ya ahorita.
+Ya empezamos a sacar cosas divertidas, proyectos para vender, colisiones, tenemos por ahí una colección de NFTs que viene pronto.
+Token maldito, tenemos tokens muertos que lanzamos por ahí con los XRC, hay que rescatar, hay que revivir y pasarlos a Arbitrum.
+Traemos ahí varias cosas donde queremos que la gente empiece a utilizar más y se divierta usando esas tecnologías y que también aprendan, aprendan un poquito de manera divertida porque creo que está complicado generar.
+Los sentimientos necesarios para que la gente actúe, pruebe, experimente.
+Conozca un poquito más de cómo funcionan estas.
+
+[Speaker 0 - 00:35:42]
+Herramientas.
+Buenísimo.
+Mexi.
+¿Mexi, no?
+Mauricio, ¿Qué te mueve a ti a tomar la delantera en algo que tú dices, Dios mío, tengo que hacerlo porque tengo que hacerlo, o sea, ¿Qué es eso que te mueve, que te motiva a hacer.
+
+[Speaker 1 - 00:36:00]
+Algo?
+No sé, yo creo que es encontrar.
+Hasta dónde puede llegar uno.
+En la montaña.
+Es eso, aquí creo que es igual.
+En realidad te enfocas y te concentras en algo que te gusta, que te apasiona y encuentras una manera de que eso genere dinero.
+Cómo encontrar la forma de seguir haciéndolo.
+Creo que está padre.
+Pero creo, no sé, a lo mejor, no sé, me encanta estar en todo y me encanta ser.
+Disruptivo y generar incomodidad y que la gente piense y.
+No sé, no sé.
+Sí me gusta hacer en todo y que interactuar con todo el mundo y ver qué podemos hacer y cómo lo podemos construir, pero.
+
+[Speaker 0 - 00:37:07]
+Rápido.
+Sí, son básicamente como condiciones de liderazgo natural, el tema de la velocidad, la dirección y la proactividad.
+Tomar iniciativa siempre y hacer que todo suceda.
+Hacedores, básicamente, más que soñadores, hacedores.
+Hacedores de cosas, de realidades, de cosas que sucedan.
+De hecho tengo que preguntarte, eso hay que hablarlo por DM porque necesito saber qué hacer con esos fulanos Token que hicimos por acá en EX.
+Yo tengo y tengo que saber qué hacer con ellos.
+He visto que has hecho mucho énfasis con el tema, así que bueno, en privado luego me me dices a ver si me puedo orientar con eso porque no lo sé.
+Llegamos al momento que muchos están esperando, como siempre, es el momento de la palabra del poap que ya está activa, la voy a colocar en los comentarios.
+Ese poap, más que ser un recuerdo de que estuvieron acá y formaron parte de la experiencia, es también el pase a una actividad especial que se va a dar terminado el segundo ciclo de Liderando en Web.
+Este ciclo no va a ser de 10 sesiones, sino de 12, para que sea exactamente el número de spaces que ocupa 90 días.
+Este proyecto, que es el proyecto de Libérate, va midiendo alcance cada 90 días, por tanto, cada 90 días vamos a hacer un cierre de ciclo, y en ese cierre de ciclo vamos a tener una actividad especial que va a ser para las personas que tengan entre 9, entre los 10 y los 12 poaps de este segundo ciclo.
+Si tienen poap de las ediciones pasadas, por supuesto que va a contar, sin embargo es premiar a la persona que está acá, que cree en el espacio, que aprende de mano de las personas que están invirtiendo su tiempo en estar acá en esta sesión.
+Y nos vamos a ver entonces en esa sesión especial, que es una sesión privada que ya hice en el primer ciclo.
+Esta va a estar orientada de una forma distinta.
+Pero los beneficiarios van a ser los que tengan esos poap.
+Así que voy dejando en los comentarios la palabra secreta para que vayan a mintear su poap.
+Las personas que queden sin poap me escriben al DM que están abiertos y yo les gestiono un min link.
+Para que puedan tener su poap.
+Si están acá, háganlo a la brevedad posible para que yo pueda gestionar y que poap no me vaya a.
+No me vaya a regañar por haberme demorado o que definitivamente me diga que no, como ya me pasó una vez, porque me demoré mucho en solicitar un poap.
+Así que vamos todos a hacer su poap Mexi Si no lo logras hacer, no sé, a veces salen los numeritos, a veces no están saliendo los números, pero indiferentemente de eso, si quedan sin poap, por favor me avisan por acá por DM, preferiblemente por DM, llevo mejor control a que lo dejen en los comentarios.
+En los comentarios Si puede que se me pase alguno y no me gustaría así que háganlo al DM para yo hacer una listica si es que queda pendiente y que todos puedan tener su respectivo POAP.
+¿Escuché que hablaste de colección NFT.
+Qué hay con esa colección NFT?
+¿Que viene con esa.
+
+[Speaker 1 - 00:40:45]
+Colección?
+Muchas gracias.
+Sí, no.
+Yo como digo o he dicho por ahí.
+Bueno no lo dije hace rato, pero creo que hay que probar de todo y en esa prueba de repente pega algo y todo bien y te gusta como la colección que va a sacar próximamente Criptomanada, vean los beneficios y si les gusta compren y hay gente que encuentra.
+Comunidad, encuentra a gente con la cual quiere estar y me gustó mucho cuando en los Ordinals vimos una nueva ola de adopción, me gustó mucho el poder inscribir arte, el poder inscribir cualquier cosa en la blockchain, las famosas inscripciones que en Bitcoin se llaman ordinals, en Ethereum se llaman inscriptions, en Solana se llaman soundscriptions, ya salieron también en Doge salió un proyecto por ahí que cada que el precio sube se ven más bonitos esos perritos canijos, está sube y subir la colección pero igual son inscripciones en Doge.
+Perdón, en.
+Polygon creo que ya lleva más de no sé cuántos millones y millones y millones de inscripciones, está usando mucho árbitro también tuvo un problema hace poquito porque estaban escribiendo información, o sea se está usando más la blockchain para subir datos, para subir arte, para subir música, para subir lo que quiera, uno puede subir juegos y eso está padre porque ha generado muchas más comisiones, mucho más uso y mucha más gente trabajando en desarrollar cosas nuevas y creo que para ciertas aplicaciones es uno muy padre.
+Tecnología y la hemos explorado mucho.
+Empecé una colección o empecé a hacer ruido y enseñarle a la gente a mintear o a inscribir, perdón, a inscribir arte propio en Bitcoin cuando empezó todo esto de Ordinals y tenemos por ahí una colección de 56 piezas de los, creo que de las primeras es mil y piquito de Hamex dentro de los primeros 2000, ese güey tiene como dos y luego hay muchas por ahí en medio, yo la primera que yo tengo es como 40.000 de los primeros 40.000 ordinals, la que tiene el último que entró a la colección es la noes 99 1995 entró justito antes de que se acabara, entonces hicimos todo un tema acá en Monterrey, tuvimos.
+Un meet up donde yo le enseñé a la gente a escribir su ordinal y luego hice.
+Muchos talleres para que los artistas que no podían o que se les complicaba, pues ahí les ayudé, compartimos pantalla y cada quien mintió su ordinal y ahí está la colección.
+No le hemos hecho mucho ruido porque yo quiero que lleguen a los 100 millones y por ahí hay que todavía hay chamba, no hay que hacer una página, yo quiero por ahí hacer un metaverso, quiero listarla en los marketplaces, empezarle a hacer ruido, ya estamos viendo cómo se subastan ordinals en casas de subasta como Cripties o Sodis creo que fue, entonces en algún momento, no sé, presentarla en alguna galería sin frezona, no sé, hay que ver qué se puede, puede ser con esa colección, pero está muy padre.
+Y empezamos también a explorar algo en Solana parecido Notas, con el que nos aliamos Caro y yo.
+Él ya tiene trabajando con inscripciones también un rato, él sacó una colección de inscripciones en Ethereum que se llaman los IT Maxis, que les ha ido muy bien, los vendió creo que como en 100 dólares o algunas, la regaló, a mí me regaló una y al piso anda como en medio éter, o sea a la colección le dio muy bien y son inscripciones y es arte nada más y es un grupo de Discord y es una comunidad digital, tampoco se ofrece mucho, nada más lo que es y él ha atendido muy bien esa comunidad y empezó a hacer algo en Solana parecido, tenía, se dio la cosa de que tenía él ahí 100 tokens sub K, entonces pues ahí platicando nos pusimos de acuerdo y dijimos bueno pues hagamos algo, en lugar de hacer algo donde los artistas estén lo que quieran, nosotros hagamos un arte, hagamos dinámicas, generemos una narrativa, generemos una historia, generemos hype, busquemos atraer a la gente que vibra con la idea que traemos y veamos qué beneficios les podemos dar en el futuro y por ahí próximamente va a salir.
+Son 222 piezas que son sub K, o sea de las primeras 80.000 soleplex en Solana.
+El arte lo está coordinando la increíble Caro que por aquí la veo, por ahí anda haciendo ahorita yo necesito mandar mis propuestas.
+Caro una de ellas es.
+Déjame platico primero de la competencia creativa porque Caro diseñó la silueta de una mujer y de un hombre en base a unas votaciones que hubo ahí en el canal de vips de Discord y la gente decidió si quería que viera para un lado o que viera de frente y también la silueta.
+Escogieron esa yendo para enfrente.
+Ya tenemos hombre, mujer y la gente puede proponer características.
+La idea de esta colección es vender 222 piezas máximo, porque ahorita tenemos como.
+120 tokens.
+Y podemos conseguir más.
+Tiene una particularidad esta tecnología y la manera en que programaron el código para inscribir la red, para inscribirle el arte, donde podemos conseguir más tokens y la podemos hacer hasta cierto tamaño.
+Entonces vamos a iniciar por fase, Lo primero va a ser de 111 y luego ya vemos qué hacemos con el resto.
+Pero máximo 222 es lo que estamos diciendo.
+Y la idea es empezar.
+Dar beneficios por ahí.
+Hay tokens, tenemos.
+Yo tengo un espacio físico, puedo empezar a vender espacios de chileo, los espacios que yo organizo, monetizar de diferentes maneras, empezar a experimentar.
+Y ver de qué manera podemos divertirnos y monetizar.
+Generarle valor a la comunidad.
+Si creen lo que estamos construyendo con lo que ha visto también, porque no hemos dado a conocer mucho, no hay un white paper todavía no tenemos página.
+Apenas estamos cocinando todo lo de la colección.
+Pero.
+El martes yo creo que doy más información por ahí en mi espacio sobre la sub.
+
+[Speaker 0 - 00:47:44]
+K.
+Buenísimo.
+Ahí tenemos.
+Ya tenemos una razón para conectarnos el martes.
+Dios mío, los martes siempre son de locura, de verdad.
+El martes es así en este momento como el día favorito de todos.
+Tener los espacios exactamente al mismo horario y establecer prioridades allí, créanme que ha sido todo un desafío, todo un reto porque es como que hay muchos espacios los martes en el mismo horario y todos son igual de interesantes y quieres estar con todos porque los conoces a la mayoría y quieres apoyarlos a todos y definitivamente humanamente no puedes.
+Pero bueno, ahí es donde hay que establecer prioridades.
+Ves cuál escuchas en diferido, como sé que muchas personas van a escuchar este, que lo van a escuchar en diferido Y cómo puedes estar conectado en este momento y disfrutar de la experiencia en vivo del Space que para mí al menos es como otra cosa.
+Así como el IRL tiene su tiene sus beneficios y tiene su enganche, también lo está cuando estás en un Space que te gusta y que estás disfrutando, porque el contenido que se está trabajando es contenido que te va a ayudar.
+Fíjense que me gusta mucho poder estar acá con Mauricio hablando, ver la cantidad de cosas que se están haciendo en donde él está involucrado.
+E igualmente ya ustedes están viendo, tiene igual los mismos desafíos, es padre de familia, es esposo, tiene familia, tiene sus hijos, tiene compromisos, tiene todos los proyectos que está liderando en web.
+Sigue siendo un ser humano que necesita descanso, que necesita también tener momentos de ocio, de tranquilidad, de calma para seguir creando.
+Todos esos son procesos de autoliderazgo que están detrás de ese PFP que ustedes ven y de todas las apariciones que él pueda tener a un ser humano.
+Es algo que me gusta mucho.
+En los últimos spaces lo he hablado mucho porque sé que todos estamos como expuestos a muchas tensiones, a muchas presiones, sobre todo en este momento que es así como que bueno, todo el mundo comenzó nuevamente a conectar con lo que se está haciendo en el ecosistema y eso es completamente válido.
+Sin embargo se generan las fricciones normales de los nuevos encuentros, unos que no conocíamos con otros que sí nos conocíamos y todo eso amerita un trabajo de convivencia y de respeto y sobre todo entender que detrás de toda propuesta, detrás de todo proyecto, detrás de toda comunidad hay un ser humano, hay un ser humano que está sometido a cumplir en distintos roles y es muy importante que tengamos eso presente, porque si nosotros nos convertimos en garantes al menos de una partecita de la salud mental colectiva, nos va a venir muy bien.
+Y es fácil, es sencillamente ser respetuoso.
+Es ser respetuoso no más.
+No tiene que gustarme todo lo que están haciendo todos para yo respetar que cada uno elige en su libertad individual hacer lo que quiere.
+Y eso para mí es completamente válido.
+De hecho no estoy de acuerdo con muchas de las cosas y sin embargo yo estoy porque siempre voy a estar aprendiendo, mientras más polémico seguramente aprendo más, mientras más me expongo también puedo aprender más, siempre teniendo autocuidado, pero teniendo eso muy presente, que el respeto hace que todos podamos convivir en el mismo espacio y no hay ningún problema, acá hay espacios para todo el mundo, cada quien tiene su propuesta, tiene su propia voz y eso me parece vital.
+Lo he visto mucho en los spaces de Mex y lo he hablado, cada quien en lo suyo, cada quien enfocado, cada quien administrando muy bien la economía de su atención y es algo en lo que yo también estoy de acuerdo.
+Para que todo fluya, para que todo fluya y que la estadía realmente en el ecosistema sea de provecho.
+Allí creo que el sistema funciona mejor, nuestro propio sistema funciona mejor, nuestros autoliderazgos se van fortaleciendo, que es tan importante trabajar el tema de esos autoliderazgos y de cómo convivir entre distintas mentalidades, contextos, propuestas y egos, porque es completamente normal, eso no lo vamos a poder evitar y de hecho es hasta sano estar expuesto a las diferencias para poder aprender a convivir con ellas y a entender que mientras más diferentes podemos aprender más y nos enriquece muchísimo.
+¿Me gustaría Mexi, que nos hablaras ahorita de qué desafíos has tenido tú que enfrentar dentro del Ecosistema para llevar adelante tus propuestas, Indiferentemente que sea a nivel logístico o a nivel personal, a nivel emocional, qué ha sido más complejo de.
+
+[Speaker 1 - 00:52:37]
+Sobrellevar?
+Yo creo que lo más complejo ha sido el encontrar ese balance que hay que buscar.
+Y que toda la gente con la que interactúa se sienta que le estás generando valor, porque hay veces que.
+Creo que dedico o administro mal el tiempo y a qué le pongo atención.
+En lugar de hacer, no sé.
+Tengo temas también con la agenda creo que he mejorado muchísimo utilizando y usando colores como los calendarios que que por ahí me inspiró Caro a hacer a mí y a mí me ayudaba mucho, dije bueno vamos a empezar Policarro a ver si le gusta a la gente y por ahí está el link, luego si quieren se los comparto.
+Pero lo que me ha ayudado administrar un poquito más con una agenda, con.
+
+[Speaker 0 - 00:53:35]
+Calendario.
+
+[Speaker 1 - 00:53:39]
+Y.
+Ir probando poco a poco.
+Pero sí es ese balance, yo creo a qué le pones atención y a qué le das prioridad de acuerdo a la necesidad de ese momento.
+Por ejemplo, hace dos años que yo empecé, yo traía la idea de empezar a posicionar de una manera totalmente gratuita, nadie me conocía a quién le iba a vender algo, entonces.
+El enfoque fue dedicarle tiempo a encontrar gente, a ver quién quería juntarse a ir a eventos.
+Buscar colaboraciones, ver con quién si se puede construir, quién me caía bien, quién no.
+Y creo que ha sido divertido, pero ese ha sido el reto de que ha sido un proceso a lo mejor más lento del que yo esperaba y de que a lo mejor mucha gente puede llegar, pero me lo he llevado lento para identificar con quién sí, con quién no y cómo.
+Yo creo que ahí está la clave porque estamos conviviendo mucha gente diariamente a veces y dedicamos mucho tiempo a gente que nunca hemos visto, con la que hablas por chats, por voice notes y por grupos privados pero no conoces.
+Y.
+Tienes creo yo, que buscar colaborar con gente que ya tiene experiencia, que ya tiene una historia, que sabes que va a entregar lo que está prometiendo porque está cañón.
+Yo creo que ha sido el reto de a lo mejor.
+Pensar que podríamos avanzar más rápido, pero creo que ha sido más seguro y mejor construir poco a poco e ir haciendo esos enlaces con la gente que es constante, que se organiza, que busca colaborar y construir puentes.
+Ahí está el.
+
+[Speaker 0 - 00:55:36]
+Resto.
+Sí, ciertamente eso.
+Genera, genera.
+Es desafiante saber con quién te vas a vas a establecer una alianza.
+Con qué propuesta realmente vas a conectarte, es desafiante.
+Y el tema de la velocidad también, a veces hay expectativas pues de velocidad en proyectos, en muchas iniciativas que bueno, sencillamente en la práctica pues no van y hay que trabajar con adaptabilidad y ver cómo se trabaja de la mejor forma y que se de la mejor manera.
+Por supuesto acá el crecimiento y la forma de organizarnos en comunidades es más amplio quizás que en web.
+Trabajamos más el tema de la horizontalidad en muchos casos, no diría yo descentralización, no me atrevo a tanto, pero sí de una forma más horizontal, con más escucha y bueno, es desafiante saber en dónde sí, en donde no, con quién sí, con quién no.
+Lo importante es tener la mejor disposición, hacerlo lo mejor posible con las herramientas que tengamos hasta el momento para que se genere la menor cantidad de fricciones posibles.
+Creo que eso ayuda muchísimo y sobre todo entender de que como me gusta siempre hacerlo saber desde el proyecto, desde Lidérate.
+Nosotros todos estamos en posiciones de liderazgo, solo que diferentes, pero siempre estamos en posiciones de liderazgo.
+Siempre hay que tomar decisiones, eso lo hace un líder.
+Siempre hay que hacerse responsable de procesos y de decisiones tomadas, eso lo hace un líder, te toca en algún momento de la vida, en alguno de los roles, tomar la iniciativa, porque si no lo haces tú, pues no se va a hacer porque ya tú lo viste y lo mejor es que lo hagas tú, pues eso también es una condición de liderazgo.
+Escuchar a la gente que tienes alrededor, resguardarte en tu red de apoyo, en tu anillo de contención, eso también es liderazgo y eso lo hacemos nosotros todo el tiempo, quizás no lo identificamos con esos nombres porque ya está como demasiado.
+Introducido en nuestro sistema y lo hacemos de manera inconsciente, allí es donde se marca la diferencia.
+Cuando no hace esos procesos conscientes, allí si se marcan diferencias porque te das cuenta que estás tomando acción, estás tomando responsabilidades, te estás haciendo consciente de muchas cosas y ves la importancia de esa conciencia en el proceso.
+Allí comienzan a cambiar muchas cosas y por eso es que siempre la pregunta típica y me lo dicen muchísimo, en privado, a veces en juego, a veces no tanto, ¿El líder nace o se hace?
+Bueno, el líder por supuesto, todos nacemos con condiciones de liderazgo, solo que algunos las hacemos más conscientes, las trabajamos más que otros y también depende del momento de la vida, porque quizás me lo hubiesen preguntado a mí hace, no sé, 15 años y digo no, para nada, no tengo ningún tipo de condición de liderazgo, no me encargo de eso, pero en este momento pues es diferente y eso mismo ha pasado, he escuchado a las personas que han estado acá conversando en estos encuentros y es básicamente eso, en algún momento se hicieron conscientes de que estaban en frente de proyectos, en frente de procesos y.
+Para que eso suceda es porque ya internamente ha sucedido algo, o sea, hay un proceso interno en la persona.
+Que quizás no se está viendo o sí va a depender del momento que esté viviendo cada quien, pero esa persona que comenzó a mover piezas, que comenzó a crear iniciativas, que abrió una comunidad, que creó y escribió un proyecto, que lanzó su propuesta a una ronda de financiación, o sea, esa persona que da ese plus es porque internamente ya le está pasando algo y esos son procesos de despertar a nivel de conciencia, a nivel de liderazgo y me parece súper importante porque es que todos los estamos viviendo acá, estoy viendo a todos los que están conectados y todos están, los he visto, conozco a muchos de ustedes y hay personas acá que tienen, bueno, procesos de liderazgo muchísimo más largos que los míos, muchísimos más largos que los míos y con más experiencia y yo estoy por supuesto, como estoy en este momento, con una libreta y un boli porque si soy de cosas más físicas, anotando todo porque en cada uno de los que está conectado acá, aparte de Mexica es el invitado, hay muchísimo aprendizaje, cosas que yo me puedo ahorrar de no tener que hacer porque ya vi cómo le van a otros o si hacerlas porque vi que le fueron bien, entonces hay como mucho de aprendizaje entre nosotros.
+Ahora sí nos vamos a ir a una parte más relajadita, yo quiero saber y bueno, yo espero, ya tenemos una hora de Space, que todos ustedes hayan comenzado su Space con su bebida, una bebida rica al lado.
+Hoy es viernes, sé que viernes por eso se puso más temprano para que puedan salir.
+A liberarse, a descansar de su semana.
+El Space era más tarde antes, pero espero que ahorita estén acompañando este momento con una bebida sabrosa, comiéndose algo rico.
+A mí me salió solamente té verde, no tengo nada más fuerte, pero bueno, hoy se vale.
+Aquí hay muchos mayores de edad y espero que no haya menores de edad porque va a quedar grabado, pero que puedan acompañar su Space con algo rico y se disfruten el momento, se disfruten el momento de aprender Y hablando de cosas ricas y de cómo podemos disfrutar nuestro tiempo Mexi cuando te desconectas, aparte de ir a las montañas, que es algo que me gusta y he visto fotos demasiado buenas por ahí, ¿Qué haces para.
+
+[Speaker 1 - 01:01:36]
+Relajarte.
+Aparte de ir a la montaña?
+Me gusta la música, me gusta estudiar música.
+Me gusta también el agua, mucho el agua, el deporte acuático, algo que disfruto mucho.
+Hace poquito teníamos acá una presa y había un laguito Paco alrededor de la montaña, se secó, teníamos una lancha donde surfeábamos, hacíamos deporte acuático, se quemó.
+Pero me gusta mucho eso.
+Y también.
+El yoga, hace mucho que no practico, me gusta, tengo que regresar porque me lastimé una rodilla y.
+Yoga también lo disfruto mucho.
+Y.
+Estar con los enanos, estar con los chaparros también, platicar un rato con ellos está chido, yo creo que con eso, eso es lo que me.
+
+[Speaker 0 - 01:02:38]
+Ayuda.
+Qué bueno.
+Está súper variado, me gusta siempre porque estas mismas preguntas que yo le hago a la persona es para que cada uno de ustedes también se lo haga.
+¿Qué están haciendo para divertirse?
+¿Qué están hacIendo para relajarse?
+¿Qué están Haciendo para desconectar un poco?
+¿Están leyendo?
+¿Están escuchando música?
+¿Están nadando?
+¿Están meditando?
+¿Haciendo yoga?
+¿No sé, escalando montañas?
+¿Están escribiendo?
+Eso creo que es importante que lo tengamos allí porque de allí sale el descanso mental y créanme que son los momentos más creativos.
+Ajá, y hablando de momentos creativos, Mexi, ¿Has identificado alguna hora específica donde tengas la creatividad hacia el tope?
+¿Has identificado.
+
+[Speaker 1 - 01:03:25]
+Eso?
+Sí, ya cuando todo mundo ha dormido, yo me quedo ya que todo mundo un rato y yo creo que ese es el periodo donde más.
+Puedo caminar acá arriba y pensar y darle vueltas a ciertas cosas del día.
+Ahí yo creo que en ese momento ideas fluyen.
+También cuando salgo con amigos a platicar los martes me gusta ir a jugar barajas, todavía nos juntamos un grupo pequeño, antes éramos 30 40 los que nos juntábamos todos los días.
+Era una moneda más grande que la de web ahorita presencial en ese entonces y hacíamos torneos.
+Pero.
+Ya ni me acuerdo porque me fui para allá.
+Pero sí, sí, sí, sí.
+No, me perdí el hilo.
+¿Cuál era la.
+
+[Speaker 0 - 01:04:24]
+Pregunta?
+Perdí el hilo, El pico creativo ya lo habías respondido.
+
+[Speaker 1 - 01:04:29]
+Tranquilo.
+Ah, sí, sí, sí, sí.
+
+[Speaker 0 - 01:04:32]
+Sí.
+No, está buenísimo.
+Eso es importante también saberlo por un tema de gestión de tiempo, saber en qué momentos y qué recursos necesitas a mano para poder aprovechar y que esas ideas no escapen.
+Que las ideas no escapen y que siempre estén allí, siempre estén allí presentes.
+Espero que les esté yendo bien con el POAP.
+No sé si la palabra está activa, Mexi, no sé si lograste hacerlo, si no avísame y te paso tu main.
+
+[Speaker 1 - 01:05:01]
+Link.
+Sí, porfa, si me ayudas.
+
+[Speaker 0 - 01:05:04]
+Con.
+Buenísimo.
+Yo creo que ya debe estar por terminar el tiempo.
+Sería bueno saber.
+Déjeme que voy a entrar un momentico a ver si ya todos están minteados.
+Para saber qué hacer luego.
+A ver, a ver, a ver.
+Mexi, cuéntanos.
+Ah, OK, quedan solo dos, quedan solo dos, así que si no lo han hecho, tienen la palabra en los comentarios.
+Quedan solo dos.
+Tranquilo Mexi, yo el tuyo lo pido eso me lo dan aparte, así que no hay problema.
+Si hay más, pues me escriben porfa antes de las 7, quizás a las 7 es probable que me desconecte un buen rato para yo solicitarlos hoy mismo y que todo vaya bien.
+¿Mex, cuéntame, eres de leer o de escuchar audiolibros o.
+
+[Speaker 1 - 01:06:06]
+Podcast?
+Cuando trabajaba en Honeywell, de repente me tocaba ir a Lego, hay una planta de Lego acá y era nuestro cliente y me queda como una hora y fueron varios años.
+Y en la otra empresa también me tocaba manejar mucho, de repente ahí escuchaba muchos audiolibros y podcast.
+¿Mucho podcast últimamente?
+¿Híjole, últimamente la verdad no soy mucho de libros físicos, soy más auditivo de escuchar y de leer, pero no sé, celular y pantallas.
+No tanto físico sino muchos artículos?
+¿Twitter, opiniones distintas, discusiones, foros, pero más digital, no?
+Muchos libros, mucho audio, eso.
+
+[Speaker 0 - 01:07:00]
+Sí.
+Buenísimo.
+¿Algo de esos materiales que recomiendes o alguna persona, algún podcast que quieras.
+
+[Speaker 1 - 01:07:09]
+Recomendar?
+Si, el nuevo de Chica Web ya tiene varios episodios, está buenísimo.
+Ese lo recomiendo.
+Cerebro Web es un podcast en español también que recomiendo.
+Ananá sacó uno también que está cool.
+El de nosotros, el Proof of Value está en Spotify, está en YouTube también, echenle un vistazo a Proof of Value.
+Hemos entrevistado gente chida, a devs, creadores de contenido, a gente que tiene precio.
+Está padre nuestro podcast me gusta, tenemos que seguirlo desarrollando ahora que tengamos ya listo el estudio acá en Monterrey.
+Y libros, me gusta mucho Bitcoin Standard, recomiendo siempre a Safi Namuz y también.
+El de Andrea Santanópoulos y no me acuerdo cómo se llama, ahorita les digo, pero el libro él está muy bueno.
+Todos los de Bitcoin estándar y Zafi Namu, todos los que ha sacado él están muy buenos, creo.
+Me falta leer uno o dos o escuchar uno o dos.
+Y.
+Hay mucha gente en Twitter que tiene joyas de contenido, pero hay que encontrarlas.
+Sí, creo que es mucho de gente que está utilizando estas tecnologías y no tanto que tiene libros, sino que genera contenido como hilos, como newsletters.
+Me gusta mucho.
+El de Largo, el de Abraham, por aquí está Jorge también tiene un muy bueno.
+Hay una chica que hay, no me acuerdo cómo se llama.
+Pero dudar es consumo de repente.
+Me gusta interactuar y contestar y ver cómo funcionan las herramientas porque cada quien usa una distinta.
+Pero sí, más o menos por.
+
+[Speaker 0 - 01:08:57]
+Ahí.
+Eso está genial.
+Bueno, ya estamos casi terminando.
+Una persona que tú admires, Mex, dentro o fuera de web, no importa, pero que admires.
+
+[Speaker 1 - 01:09:10]
+Mucho.
+No, definitivamente mi esposa no habla mucho de ella, no le gusta, pero ella es alguien que ha salido de.
+Que ha batallado mucho y que le ha ido muy bien a base de mucho esfuerzo.
+Tiene un doctorado en nanotecnología.
+Es parte del Sistema Nacional de Investigadores, ya Tiene un nivel 2, creo que son 3 los niveles, o sea, esa es una persona que está haciendo patentes, que está haciendo desarrollo tecnológico muy, muy cañón, punta de lanza en el mundo y ver cómo ella ha salido y cómo ha hecho lo que ha hecho ha sido para mí muy divertido y me ha gustado mucho ser parte de ayudarla también porque finalmente estamos construyendo juntos, ella lo suyo, yo lo mío, pero.
+Ella, mis papás, obviamente yo creo que también, que también tiene historias.
+Mucho esfuerzo para llegar a donde han estado.
+Y acá en el ecosistema web, híjole, la gente que.
+Tiene ya años hablando, trabajando, chinga, como Caro, como Sol, como Superama.
+Gente que hace eventos, que hace arte, como Nash.
+Tugis.
+Últimamente.
+Bueno, últimamente tú sabes de que veo tu contenido, follow.
+La gente que está aquí generando valor, generándome valor a mí y demostrándome maneras distintas de hacer cosas para ver qué es lo que me gusta y que no, y copiar o modificar y seguir acelerando.
+Sí, sí, sí.
+Artistas como Superama, como Naná, como me gusta coleccionar mucho arte, conocer a la gente, lo.
+Sí, sí, sí, sí, sí.
+Toda esta banda, Abraham, no sé, podría mencionar, un chorro chorro de Damo que me inspira constantemente con lo que está haciendo, con el contenido que comparte, con las formas que está viendo, cómo colabora con los demás y se posiciona él y sus.
+
+[Speaker 0 - 01:11:36]
+Bolsas.
+Qué bueno, qué bueno.
+Eso también es algo que siempre me gusta preguntarlo, más que por enterarme que por supuesto, siempre genial por el hecho de que para uno personalmente siempre es muy valioso tener una fuente de inspiración, alguien más allá de sí mismo que te diga si se puede, mira lo que estoy haciendo, mira lo que hice, mira mi recorrido y aprende.
+Creo que allí eso es básicamente tener esa inspiración, tener esos mentores sin que ellos lo sepan, que son los que te van guiando y te van diciendo.
+La esposa de Mexi señores, la esposa de Mexi, escucha esto, va a estar rendida a los pies de Mexica, Es la primera mujer mencionada y la primera persona más allá de mujer que mencionó, así que.
+Creo que va a venir muy bien, va a venir muy bien haber hecho eso porque qué lindo, de verdad, qué bonito, qué bonito ver eso, el reconocimiento, el reconocimiento al logro del otro, creo que es algo fundamental también y es muy enriquecedor.
+Estoy viendo en los comentarios que JZA no había podido mintiar, abrí nuevamente.
+La posibilidad de hacerlo JZ e inténtalo nuevamente y cualquier cosa me escribes al DM y resolvemos con mi link, ¿Vale?
+OK.
+Mexi, ¿Alguna recomendación por acá?
+Tengo una solicitud de Erimax, yo te la voy a habilitar, Eri, no sé si fue alguna equivocación o algo, pero bueno, te la voy a habilitar porque.
+Interesante, siempre interesante.
+A ver, ya estás habilitado y si quieres preguntar algo, toma micrófono.
+Eri, bienvenido.
+Eri a la una, Eri a las dos, Eri a las tres.
+Creo que no, creo que no me está escuchando.
+Sí, ya me imaginé.
+Nosotros en Venezuela nos entendemos, ya sabemos qué sucedió.
+OK.
+Nexi, para cerrar, una persona que en este momento tenga un proyecto adelante, ¿Qué le.
+
+[Speaker 1 - 01:13:55]
+Recomiendas?
+Necesita darlo a conocer de una manera creativa.
+Necesitaba.
+Primero entender qué es lo que la gente busca, cuál es su mercado.
+No todos entran y conocen y hay gente que quiere llegar a vender cosas y que nunca ha comprado una, por ejemplo.
+Ahí es donde yo empiezo.
+A ver por dónde hay que guiar a la gente.
+Pero sí, sí, es.
+Conocer el ecosistema, conocer a los clientes.
+Es muy diferente el mercado aquí que en otros lados y gente que no ha estado metida en la web.
+No le va a poder ayudar, creo yo, de una manera óptima.
+Entonces, pues sí, es buscar gente que tenga ya experiencia, que haya lanzado colecciones.
+Con reputación.
+Creo que por ahí va, porque sí está complicado ahorita.
+Y no todos están dispuestos a entender bien el.
+
+[Speaker 0 - 01:15:05]
+Ecosistema.
+Bueno, a tomar nota, a tomar nota porque sé que muchos de los que está acá, algunos tienen más o menos tiempo en el ecosistema, Sin embargo, conociéndolo y sabiendo que el ecosistema lo que hace es fortalecer habilidades en mucha gente y dar la libertad de creación desde sus talentos, todos tienen el potencial para sacar un proyecto adelante.
+Y lo mejor es escuchar a las personas que ya han tenido un recorrido como para allanar el camino, que sea más eficiente y también más disfrutado.
+Creo que eso es importante y por eso me gusta siempre escuchar que nos pueden recomendar personas que ya tienen más experiencia en proyectos, en iniciativas, porque eso potencia mi propio proceso, lo optimiza.
+Es muchísimo mejor hacerlo así.
+Estuve viendo y solamente vi una pregunta de Gaby, No sé Mexica, si estás enterado de la nueva.
+De la nueva red social que está por allí.
+De Arena o de Arena que está por allí.
+La vi como desde ayer que llegó y Gaby está preguntando si estás allí, no sé si ya.
+
+[Speaker 1 - 01:16:19]
+Sabes.
+No, no, todavía no la pruebo.
+Probé hace poquito Blue Sky, creo que se llama la nueva que sacó Jack, el exfundador de Twitter.
+He probado otras que son social file que tokenizan, pero esa.
+
+[Speaker 0 - 01:16:33]
+No.
+OK, OK.
+Bueno, ya sabes, Gaby todavía no está.
+Si quieres, bueno, lo invitas y a partir de ahí quizás Mexi se anime y pueda interactuar por allí.
+Estoy viendo a gente súper linda que siempre ha estado en el espacio, en los espacios de Liderando en Web desde que iniciaron y me encanta, pero también celebro muchísimo el hecho de ver a otras personas conectadas que nunca he visto por acá.
+Siéntanse siempre bienvenidos a estar en estas conversaciones que quizás puedan sentir más relajadas.
+Los temas tecnológicos no están así como a flor de piel, a pesar de que pueden salir porque forman parte del quehacer de los invitados.
+Sin embargo, acá el acercamiento siempre es al ser humano que está viviendo el proceso dentro del web.
+Es decir, acá estamos hablando con Mauricio.
+Mauricio, el papá de dos niños, que tiene su esposa y tiene muchos proyectos y muchas ganas de acelerar procesos y de impulsar, pero que es una persona que debe trabajar siempre su equilibrio, el tiempo, las agendas.
+Es un ser humano y es lo que nos gusta visibilizar desde Liderate, porque la tecnología está a nuestro servicio y se debería desarrollar en ese orden, al servicio de nuestro beneficio y para mejorar nuestras vidas, tener mejores vidas y poder brindar mejores oportunidades y disfrutar de mejores oportunidades.
+Ese es el orden indicado y que nosotros tengamos un poquito más.
+¿Algo más, algún recurso, alguna palabra que haya dicho mexi acá?
+¿Algo que haya despertado una inquietud nueva y que ese nivel de conciencia aumente, que permita que yo pueda conectar con mis habilidades, con realmente lo que quiero hacer, con mi propósito de vida y se hagan procesos más conscientes?
+Allí creo que muchas de las cosas van a cambiar y vamos a tener nosotros también acceso a evolucionar tanto como está evolucionando la tecnología.
+Siempre lo comento, la tecnología puede avanzar muchísimo, puede evolucionar mucho, pero si nosotros seguimos atrapados en el ego, en el egoísmo, en muchas cosas que ya tenemos como enquistadas en el ADN, porque han formado parte de nuestro ser social desde siempre.
+La tecnología va a poder ir por un lado, pero nosotros vamos a seguir acumulando frustración e infelicidad, porque no estamos entendiendo el proceso de evolución.
+Entonces allí hay que hacer un trabajo consciente.
+Por eso estos espacios y por eso los viernes justamente, que es como ya el final de semana, para que haya quizás en la persona que esté en su momento, tener un proceso de reflexión.
+No todos los procesos se dan al mismo tiempo, ni es la misma voz la que genera ese proceso de reflexión.
+Por eso es que hay distintas voces siempre en estos espacios, para que se logren procesos de identificación y que podamos llegar realmente a tener procesos más disfrutados dentro del ecosistema, con habilidades más afinadas, más enfocados, trabajando muchísimo la economía de nuestra energía y de nuestra atención.
+Así que de verdad les agradezco un montón que estén por acá.
+Próximo viernes vamos a tener a un invitado maravilloso, pero no voy a decir nada, no hago nunca, no hago nunca spoilers de los spaces hasta que toca, créanme.
+Pero me encanta, me encanta poder tener voces acá, personas a las que admiro, de las que he aprendido muchísimo desde que llegué al ecosistema, ya ellos estaban acá cuando yo llegué, y tener la oportunidad de conocerlos más de cerca, créanme que es una oportunidad que por supuesto siempre voy a querer compartir con todo el que se conecte.
+Así que este Space va a quedar grabado, Vamos a.
+Estoy haciendo un trabajo para ver si puedo llevar todas estas conversaciones a Spotify, pero bueno, hacen falta más horas y más manos para poder hacer lo que me corregir.
+Pero estén muy pendientes siempre de los perfiles que están haciendo muchas cosas acá, de esas personas de las que puedan aprender.
+De esas oportunidades y comunidades que están brindando mucho crecimiento.
+Creo que es fundamental que estén allí marcas personales que de verdad están dando mucho valor y que nos abramos a nuevos procesos de crecimiento.
+Creo que allí va a venir algo muy, muy bueno para todos.
+Mexi, te dejo para que te despidas de tu gente.
+Ya yo me despedí, súper agradecida como siempre.
+Les mando un abrazo.
+Feliz fin de semana.
+Pero te dejo para que te despidas.
+
+[Speaker 1 - 01:21:13]
+Tú.
+No, muchas gracias por la oportunidad aquí de platicar de una manera más personal y pues de hablar de cosas que a lo mejor no he contado por ahí y que poco a poco pues también yo voy viendo cuándo cuento qué parte de mi vida y y de la historia y de la narrativa y cómo capto la atención de la gente para mantenerla enganchada y darle.
+
+[Speaker 0 - 01:21:39]
+Valor.
+
+[Speaker 1 - 01:21:41]
+Y que en algún momento me compre, ¿No?
+¿Por qué no?
+¿Quién sabe?
+Puede ser.
+Pero sí encontrando formas de colaborar y construir puentes.
+Y muy enfocado en hacer eventos presenciales.
+Ahora que vayamos al Hackatón en Puebla, tenemos un evento el viernes donde vamos a contar varias comunidades, viene solamente el domingo, va a estar muy bueno y seguir fomentando eso.
+Y gracias por la invitación, por estar por.
+
+[Speaker 0 - 01:22:09]
+Acá.
+No, gracias a ti por aceptar de verdad abrir un espacio en la agenda de Mex.
+Y créame, es todo un reto, es mucha actividad y sin embargo tuvo la disposición de estar con nosotros acá este rato.
+Disfruten mucho su fin de semana, planifiquen y dense cuenta de que planifiquemos o no, el tiempo va a pasar, es cierto, pero la calidad de los procesos va a ser distinta si planificamos o si no.
+Igualmente ya el primer mes del año está terminando y hace poco estábamos todos celebrando, dándonos Feliz Navidad y Feliz Año, así que hay que estar como muy atentos al tema del tiempo, porque va a pasar, pero la calidad del tiempo, ahí sí nosotros tenemos un rol importante para hacer que este tiempo valga más.
+Así que les mando un abrazo grande, cuídense muchísimo y nos vemos el próximo viernes en Lidérate.
+Y muy pendiente con los spaces de La Manada, que creo que viene segunda parte el miércoles de Monetizando en web, así que estén pendientes por allí de eso.
+Pendiente de los spaces de Mexit, pendiente de estar acá.
+Caro Abraham, que también tiene Space, Sol, que también tiene Space, muy pendientes de Crearte, que también tienen unos spaces buenísimos para artistas.
+Kabila que también tiene sus spaces muy pendientes de todo eso, así que a seguirse y hacer buen networking, hacerlo todo de corazón.
+Cuídense muchísimo.

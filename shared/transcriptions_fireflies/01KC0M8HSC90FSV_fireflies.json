@@ -1,0 +1,711 @@
+{
+  "id": "01KC0M8HSC90FSVJT4Y35QBV8A",
+  "title": "BandaWeb3 - Latinos en Web3🎙️ Bitcoin Ordinals ! Que son Español Pt.3",
+  "date": 1765252800000,
+  "duration": 12.970000267028809,
+  "speakers": [],
+  "sentences": [
+    {
+      "index": 0,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Estoy por pensar que este lunes Latinos en Web, Bitcoin Ordinals es un tema como que no puede pasarte más de 25 minutos.",
+      "raw_text": "Estoy por pensar que este lunes Latinos en Web, Bitcoin Ordinals es un tema como que no puede pasarte más de 25 minutos.",
+      "start_time": 75.56,
+      "end_time": 84.28
+    },
+    {
+      "index": 1,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Esta es la parte 3.",
+      "raw_text": "Esta es la parte 3.",
+      "start_time": 85.16,
+      "end_time": 86.88
+    },
+    {
+      "index": 2,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Gracias por regresar y por estar con nosotros, de verdad.",
+      "raw_text": "Gracias por regresar y por estar con nosotros, de verdad.",
+      "start_time": 86.88,
+      "end_time": 90.44
+    },
+    {
+      "index": 3,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Si quieren hacer el retweet se los agradezco, si no los entiendo, no hay problema, pero parece que a alguien no le gusta este tema mucho.",
+      "raw_text": "Si quieren hacer el retweet se los agradezco, si no los entiendo, no hay problema, pero parece que a alguien no le gusta este tema mucho.",
+      "start_time": 91.96,
+      "end_time": 100.2
+    },
+    {
+      "index": 4,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Creo que estaban dando aquí mucho alfa, esto de estar enseñando a la gente.",
+      "raw_text": "Creo que estaban dando aquí mucho alfa, esto de estar enseñando a la gente.",
+      "start_time": 100.44,
+      "end_time": 104.76
+    },
+    {
+      "index": 5,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Estábamos tocando precisamente el tema que si subir esta arte estaba llenando el network y si de pronto a alguien no le gusta y esto voy a empezar a hacer un conspiracy theory aquí, una teoría, porque a lo mejor de verdad que no le gusta que estemos utilizando las redes o que le estemos enseñando a más personas cómo de pronto pueden subir su arte o cómo pueden hacer estos mints.",
+      "raw_text": "Estábamos tocando precisamente el tema que si subir esta arte estaba llenando el network y si de pronto a alguien no le gusta y esto voy a empezar a hacer un conspiracy theory aquí, una teoría, porque a lo mejor de verdad que no le gusta que estemos utilizando las redes o que le estemos enseñando a más personas cómo de pronto pueden subir su arte o cómo pueden hacer estos mints.",
+      "start_time": 105.72,
+      "end_time": 129.22
+    },
+    {
+      "index": 6,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Pero bueno, vamos a darle la bienvenida de nuevo a mis co host y a todos ustedes que regresaron.",
+      "raw_text": "Pero bueno, vamos a darle la bienvenida de nuevo a mis co host y a todos ustedes que regresaron.",
+      "start_time": 129.94,
+      "end_time": 137.02
+    },
+    {
+      "index": 7,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Gracias por buscar el espacio y regresar así rapidito.",
+      "raw_text": "Gracias por buscar el espacio y regresar así rapidito.",
+      "start_time": 137.02,
+      "end_time": 140.98
+    },
+    {
+      "index": 8,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Con este tipo de cosas.",
+      "raw_text": "Con este tipo de cosas.",
+      "start_time": 142.82,
+      "end_time": 144.22
+    },
+    {
+      "index": 9,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Definitivamente nos toca adaptarnos.",
+      "raw_text": "Definitivamente nos toca adaptarnos.",
+      "start_time": 144.22,
+      "end_time": 147.34
+    },
+    {
+      "index": 10,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Así que Felipe, estabas hablando cuando nos cortamos en la parte número 2 al final voy a tratar de ponerlas todas juntas y subirlas, así es más fácil como seguir el hilo de la conversación, pero seguimos Felipe.",
+      "raw_text": "Así que Felipe, estabas hablando cuando nos cortamos en la parte número 2 al final voy a tratar de ponerlas todas juntas y subirlas, así es más fácil como seguir el hilo de la conversación, pero seguimos Felipe.",
+      "start_time": 147.34,
+      "end_time": 161.05
+    },
+    {
+      "index": 11,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Sí, claro, claro.",
+      "raw_text": "Sí, claro, claro.",
+      "start_time": 163.53,
+      "end_time": 164.53
+    },
+    {
+      "index": 12,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Yo creo que estoy sospechando fuertemente que al poder centralizado no le está gustando nuestra conversación, pero no sé hasta dónde me quedé la verdad.",
+      "raw_text": "Yo creo que estoy sospechando fuertemente que al poder centralizado no le está gustando nuestra conversación, pero no sé hasta dónde me quedé la verdad.",
+      "start_time": 164.53,
+      "end_time": 175.53
+    },
+    {
+      "index": 13,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Vamos si quieres entonces con De Largo, que tenía la manito levantada hace rato.",
+      "raw_text": "Vamos si quieres entonces con De Largo, que tenía la manito levantada hace rato.",
+      "start_time": 176.09,
+      "end_time": 180
+    },
+    {
+      "index": 14,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "De largo, bienvenido.",
+      "raw_text": "De largo, bienvenido.",
+      "start_time": 180,
+      "end_time": 181.28
+    },
+    {
+      "index": 15,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "¿Qué onda?",
+      "raw_text": "¿Qué onda?",
+      "start_time": 184.32,
+      "end_time": 184.92
+    },
+    {
+      "index": 16,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Gracias por el espacio, muy buena la plática y de hecho este tema de Bitcoin Ordinals fue un tema de esos que sabes que tienes que escuchar y aprender, pero que los ignoras completamente hasta que es demasiado grande y ya no lo puedes ignorar.",
+      "raw_text": "Gracias por el espacio, muy buena la plática y de hecho este tema de Bitcoin Ordinals fue un tema de esos que sabes que tienes que escuchar y aprender, pero que los ignoras completamente hasta que es demasiado grande y ya no lo puedes ignorar.",
+      "start_time": 184.92,
+      "end_time": 201.2
+    },
+    {
+      "index": 17,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "La principal persona que me causó ese FOMO fue Mexi, entonces ya vi este espacio y dije no, pues ya tengo.",
+      "raw_text": "La principal persona que me causó ese FOMO fue Mexi, entonces ya vi este espacio y dije no, pues ya tengo.",
+      "start_time": 202.8,
+      "end_time": 209.21
+    },
+    {
+      "index": 18,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Que entrar a fuerza.",
+      "raw_text": "Que entrar a fuerza.",
+      "start_time": 209.21,
+      "end_time": 210.09
+    },
+    {
+      "index": 19,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Y yo tengo la perspectiva como de.",
+      "raw_text": "Y yo tengo la perspectiva como de.",
+      "start_time": 210.65,
+      "end_time": 214.33
+    },
+    {
+      "index": 20,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Alguien que no lleva tal vez mucho en el espacio, se pudiera decir, o sea, por ejemplo, no tengo mucho conocimiento de la historia de Bitcoin y cosas así, me gustan mucho los NFTs en general de todas las redes, Ethereum, Solana, y entonces yo lo que veo con esto de Ordinals que me han cambiado mucho la opinión en este espacio, me encantó que dijeron que pues oye, un SAT literal es no fungible lo que viene siendo un NFT, ¿Verdad?",
+      "raw_text": "Alguien que no lleva tal vez mucho en el espacio, se pudiera decir, o sea, por ejemplo, no tengo mucho conocimiento de la historia de Bitcoin y cosas así, me gustan mucho los NFTs en general de todas las redes, Ethereum, Solana, y entonces yo lo que veo con esto de Ordinals que me han cambiado mucho la opinión en este espacio, me encantó que dijeron que pues oye, un SAT literal es no fungible lo que viene siendo un NFT, ¿Verdad?",
+      "start_time": 216.17,
+      "end_time": 242.15
+    },
+    {
+      "index": 21,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Eso me encantó, varios puntos que tocaron aquí, sin embargo, no es un poco como counterproductive como todo esto, o sea, sí está muy padre que el artefacto digital, que el satoshi sea un NFT.",
+      "raw_text": "Eso me encantó, varios puntos que tocaron aquí, sin embargo, no es un poco como counterproductive como todo esto, o sea, sí está muy padre que el artefacto digital, que el satoshi sea un NFT.",
+      "start_time": 242.55,
+      "end_time": 257.91
+    },
+    {
+      "index": 22,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Pero.",
+      "raw_text": "Pero.",
+      "start_time": 258.87,
+      "end_time": 259.27
+    },
+    {
+      "index": 23,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Creo que en lo que he estudiado de la historia de Bitcoin es que ya se han tratado de sacar NFTs en Bitcoin, creo que nos han tratado de sacar dominios, pero no entiendo por qué esta necesidad, y como dijo Mex hace rato, o sea, estos son, lo que yo diga es solo una opinión, o sea, no es como una verdad o nada, simplemente es como lo que yo pienso, pero quiero que me digan, o sea, no estamos tal vez perdiendo el tiempo con todo esto, o sea, ¿Por qué yo veo Bitcoin como un store of value, como oro digital, ¿Por qué tenemos que invertir tanto tiempo en correr un nodo y así?",
+      "raw_text": "Creo que en lo que he estudiado de la historia de Bitcoin es que ya se han tratado de sacar NFTs en Bitcoin, creo que nos han tratado de sacar dominios, pero no entiendo por qué esta necesidad, y como dijo Mex hace rato, o sea, estos son, lo que yo diga es solo una opinión, o sea, no es como una verdad o nada, simplemente es como lo que yo pienso, pero quiero que me digan, o sea, no estamos tal vez perdiendo el tiempo con todo esto, o sea, ¿Por qué yo veo Bitcoin como un store of value, como oro digital, ¿Por qué tenemos que invertir tanto tiempo en correr un nodo y así?",
+      "start_time": 261.27,
+      "end_time": 301.47
+    },
+    {
+      "index": 24,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Que está muy padre para temas de educación, me encanta, pero al final del día no se puede un mass adoption de un web en la red de Bitcoin porque de ser así no existiría Ethereum y no existirían todas estas redes escalables que estamos viendo hoy en día, no estaríamos viendo estos layer 2, no estaríamos viendo todo este crecimiento de la industria que ha tenido en los últimos años, o sea, ¿Por qué tenemos que regresar a Bitcoin otra vez?",
+      "raw_text": "Que está muy padre para temas de educación, me encanta, pero al final del día no se puede un mass adoption de un web en la red de Bitcoin porque de ser así no existiría Ethereum y no existirían todas estas redes escalables que estamos viendo hoy en día, no estaríamos viendo estos layer 2, no estaríamos viendo todo este crecimiento de la industria que ha tenido en los últimos años, o sea, ¿Por qué tenemos que regresar a Bitcoin otra vez?",
+      "start_time": 301.47,
+      "end_time": 332.11
+    },
+    {
+      "index": 25,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Que sí es la más grande de todas y siempre va a ser la más grande, o tal vez no, ¿Verdad?",
+      "raw_text": "Que sí es la más grande de todas y siempre va a ser la más grande, o tal vez no, ¿Verdad?",
+      "start_time": 332.11,
+      "end_time": 336.87
+    },
+    {
+      "index": 26,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Pero ¿Por qué esa necesidad de regresar?",
+      "raw_text": "Pero ¿Por qué esa necesidad de regresar?",
+      "start_time": 337.27,
+      "end_time": 339.31
+    },
+    {
+      "index": 27,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "¿Vi un comentario que me gustó de alguien, no me acuerdo quién, que es como meterle un brazo robótico súper dopado a un viejito, o sea, está bien que.",
+      "raw_text": "¿Vi un comentario que me gustó de alguien, no me acuerdo quién, que es como meterle un brazo robótico súper dopado a un viejito, o sea, está bien que.",
+      "start_time": 339.31,
+      "end_time": 349.56
+    },
+    {
+      "index": 28,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Sí, pero porque no dejamos morir al viejito y dar paso a la innovación?",
+      "raw_text": "Sí, pero porque no dejamos morir al viejito y dar paso a la innovación?",
+      "start_time": 351.08,
+      "end_time": 355.16
+    },
+    {
+      "index": 29,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Desconozco el tema, desconozco mucho el tema y por eso estoy aquí aprendiendo, pero quiero saber qué opinan de eso, ¿No es como un poco counterproductive?",
+      "raw_text": "Desconozco el tema, desconozco mucho el tema y por eso estoy aquí aprendiendo, pero quiero saber qué opinan de eso, ¿No es como un poco counterproductive?",
+      "start_time": 357.24,
+      "end_time": 366.04
+    },
+    {
+      "index": 30,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Yo me voy a meter antes para aclarar que a todos los viejitos que nos están escuchando de este tema, no vamos a dejar morir a los viejitos, team viejitos, por favor, si son team viejitos me deja un comentario ahí para estar pendiente quiénes son team viejitos, No vamos a dejar morir a los viejitos, por favor, pero ya hablando en serio, Felipe me exige.",
+      "raw_text": "Yo me voy a meter antes para aclarar que a todos los viejitos que nos están escuchando de este tema, no vamos a dejar morir a los viejitos, team viejitos, por favor, si son team viejitos me deja un comentario ahí para estar pendiente quiénes son team viejitos, No vamos a dejar morir a los viejitos, por favor, pero ya hablando en serio, Felipe me exige.",
+      "start_time": 367.72,
+      "end_time": 387.75
+    },
+    {
+      "index": 31,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Sí, sorry, fue una analogía.",
+      "raw_text": "Sí, sorry, fue una analogía.",
+      "start_time": 388.869,
+      "end_time": 390.55
+    },
+    {
+      "index": 32,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Yo sé, yo sé, hombre.",
+      "raw_text": "Yo sé, yo sé, hombre.",
+      "start_time": 392.55,
+      "end_time": 394.87
+    },
+    {
+      "index": 33,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Yo ya cruzo las cuatro décadas.",
+      "raw_text": "Yo ya cruzo las cuatro décadas.",
+      "start_time": 394.95,
+      "end_time": 397.27
+    },
+    {
+      "index": 34,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "¿Dónde me dejas de largo, tacanijo, hombre?",
+      "raw_text": "¿Dónde me dejas de largo, tacanijo, hombre?",
+      "start_time": 397.35,
+      "end_time": 399.55
+    },
+    {
+      "index": 35,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Bitcoin nasty.",
+      "raw_text": "Bitcoin nasty.",
+      "start_time": 399.55,
+      "end_time": 400.27
+    },
+    {
+      "index": 36,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Yo sí lo sentí personal.",
+      "raw_text": "Yo sí lo sentí personal.",
+      "start_time": 400.27,
+      "end_time": 401.35
+    },
+    {
+      "index": 37,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Lo sentí personal.",
+      "raw_text": "Lo sentí personal.",
+      "start_time": 403.19,
+      "end_time": 404.23
+    },
+    {
+      "index": 38,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Todavía está joven, todavía está joven.",
+      "raw_text": "Todavía está joven, todavía está joven.",
+      "start_time": 404.92,
+      "end_time": 406.44
+    },
+    {
+      "index": 39,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Y esa es la gran ventaja.",
+      "raw_text": "Y esa es la gran ventaja.",
+      "start_time": 406.44,
+      "end_time": 407.44
+    },
+    {
+      "index": 40,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Y de cero personal.",
+      "raw_text": "Y de cero personal.",
+      "start_time": 407.44,
+      "end_time": 408.84
+    },
+    {
+      "index": 41,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Cero personal.",
+      "raw_text": "Cero personal.",
+      "start_time": 409.16,
+      "end_time": 409.8
+    },
+    {
+      "index": 42,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "No, no te creas.",
+      "raw_text": "No, no te creas.",
+      "start_time": 411.08,
+      "end_time": 411.88
+    },
+    {
+      "index": 43,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Pero definitivamente creo que esta red y los probables usos y las aplicaciones que se puedan llegar a construir como esta que ya estamos viendo, están trayendo muchas personas nuevas a aprender y a utilizar.",
+      "raw_text": "Pero definitivamente creo que esta red y los probables usos y las aplicaciones que se puedan llegar a construir como esta que ya estamos viendo, están trayendo muchas personas nuevas a aprender y a utilizar.",
+      "start_time": 411.88,
+      "end_time": 425.24
+    },
+    {
+      "index": 44,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Yo nunca, nunca en.",
+      "raw_text": "Yo nunca, nunca en.",
+      "start_time": 425.8,
+      "end_time": 428.04
+    },
+    {
+      "index": 45,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Híjole, los cinco años que llevo con la tecnología había escuchado de tantas personas que quisieran entender y correr un nodo, por ejemplo.",
+      "raw_text": "Híjole, los cinco años que llevo con la tecnología había escuchado de tantas personas que quisieran entender y correr un nodo, por ejemplo.",
+      "start_time": 428.44,
+      "end_time": 435.68
+    },
+    {
+      "index": 46,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Oye, ¿Cómo le hago?",
+      "raw_text": "Oye, ¿Cómo le hago?",
+      "start_time": 435.68,
+      "end_time": 436.56
+    },
+    {
+      "index": 47,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "¿Cómo corro un nodo?",
+      "raw_text": "¿Cómo corro un nodo?",
+      "start_time": 436.56,
+      "end_time": 437.6
+    },
+    {
+      "index": 48,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "¿Cómo lo bajo?",
+      "raw_text": "¿Cómo lo bajo?",
+      "start_time": 437.6,
+      "end_time": 438.36
+    },
+    {
+      "index": 49,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "¿Qué necesito hacer?",
+      "raw_text": "¿Qué necesito hacer?",
+      "start_time": 438.36,
+      "end_time": 439.12
+    },
+    {
+      "index": 50,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Yo llegué a correr un nodo hace un par de años en una computadora que tenía por aquí, que se dañó el disco duro y ya la verdad no la renové.",
+      "raw_text": "Yo llegué a correr un nodo hace un par de años en una computadora que tenía por aquí, que se dañó el disco duro y ya la verdad no la renové.",
+      "start_time": 439.44,
+      "end_time": 446.64
+    },
+    {
+      "index": 51,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Y el uso de Bitcoin, el uso que yo le daba a Bitcoin era más, como tú decías, de largo, el guardar valor.",
+      "raw_text": "Y el uso de Bitcoin, el uso que yo le daba a Bitcoin era más, como tú decías, de largo, el guardar valor.",
+      "start_time": 446.72,
+      "end_time": 453.04
+    },
+    {
+      "index": 52,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Yo tengo que aceptarlo, gran parte de la mayoría, lo tengo que decir, de mi portafolio de inversión en cripto está en Bitcoin y no había tenido la necesidad de correr un nodo hasta ahorita.",
+      "raw_text": "Yo tengo que aceptarlo, gran parte de la mayoría, lo tengo que decir, de mi portafolio de inversión en cripto está en Bitcoin y no había tenido la necesidad de correr un nodo hasta ahorita.",
+      "start_time": 453.44,
+      "end_time": 464.65
+    },
+    {
+      "index": 53,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Y eso es lo que a mí me está llamando mucho la atención, que la gente se está interesando en aprender, que está regresando mucho uso a la red, que también necesitamos ver todas las aplicaciones que salgan ahí.",
+      "raw_text": "Y eso es lo que a mí me está llamando mucho la atención, que la gente se está interesando en aprender, que está regresando mucho uso a la red, que también necesitamos ver todas las aplicaciones que salgan ahí.",
+      "start_time": 464.65,
+      "end_time": 476.57
+    },
+    {
+      "index": 54,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Y ver si en realidad funcionan o no.",
+      "raw_text": "Y ver si en realidad funcionan o no.",
+      "start_time": 478.57,
+      "end_time": 480.49
+    },
+    {
+      "index": 55,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Porque también tenemos una cosa que que.",
+      "raw_text": "Porque también tenemos una cosa que que.",
+      "start_time": 480.57,
+      "end_time": 483.4
+    },
+    {
+      "index": 56,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Cada persona que quiera usar la red, perdón, tiene que pagar su comisión de transacción.",
+      "raw_text": "Cada persona que quiera usar la red, perdón, tiene que pagar su comisión de transacción.",
+      "start_time": 485,
+      "end_time": 490.28
+    },
+    {
+      "index": 57,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Y esas comisiones, si yo escojo pagar más que el de al lado, mi transacción se va a meter primero.",
+      "raw_text": "Y esas comisiones, si yo escojo pagar más que el de al lado, mi transacción se va a meter primero.",
+      "start_time": 490.36,
+      "end_time": 495.92
+    },
+    {
+      "index": 58,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Entonces creo que es un tema económico que tenemos que ver cómo en realidad se desarrolla y que si los bloques de aquí en adelante están full, probablemente ayude a que se desarrolle mucho más un Lightning Network o que se desarrolle algún otro líder, no sé.",
+      "raw_text": "Entonces creo que es un tema económico que tenemos que ver cómo en realidad se desarrolla y que si los bloques de aquí en adelante están full, probablemente ayude a que se desarrolle mucho más un Lightning Network o que se desarrolle algún otro líder, no sé.",
+      "start_time": 495.92,
+      "end_time": 512.55
+    },
+    {
+      "index": 59,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Yo creo que estos problemas o detalles tecnológicos que van a estar surgiendo van a ayudarnos a en realidad ver cuál es la funcionalidad, quién va a decidir cuáles transacciones se van a montar de acuerdo al costo y finalmente la misma economía y las mismas reglas de juego van a definir cómo se va a usar.",
+      "raw_text": "Yo creo que estos problemas o detalles tecnológicos que van a estar surgiendo van a ayudarnos a en realidad ver cuál es la funcionalidad, quién va a decidir cuáles transacciones se van a montar de acuerdo al costo y finalmente la misma economía y las mismas reglas de juego van a definir cómo se va a usar.",
+      "start_time": 512.63,
+      "end_time": 532.11
+    },
+    {
+      "index": 60,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Entonces yo creo que hay que explorarlo hay que, como decía, si la red no aguanta que subamos fotitos, ¿Cómo va a aguantar un ataque de un gobierno o de una institución enorme que tiene millones y millones y millones.",
+      "raw_text": "Entonces yo creo que hay que explorarlo hay que, como decía, si la red no aguanta que subamos fotitos, ¿Cómo va a aguantar un ataque de un gobierno o de una institución enorme que tiene millones y millones y millones.",
+      "start_time": 532.11,
+      "end_time": 544.84
+    },
+    {
+      "index": 61,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "De dólares o de poder computacional?",
+      "raw_text": "De dólares o de poder computacional?",
+      "start_time": 546.36,
+      "end_time": 548.28
+    },
+    {
+      "index": 62,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Entonces hay que escalarla, hay que probarla.",
+      "raw_text": "Entonces hay que escalarla, hay que probarla.",
+      "start_time": 548.36,
+      "end_time": 550.76
+    },
+    {
+      "index": 63,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Si las reglas lo permiten hay que usar y luego saldrán ya aplicaciones nuevas que puedan llegar a mejorar, yo creo.",
+      "raw_text": "Si las reglas lo permiten hay que usar y luego saldrán ya aplicaciones nuevas que puedan llegar a mejorar, yo creo.",
+      "start_time": 553.8,
+      "end_time": 559.48
+    },
+    {
+      "index": 64,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Completamente de acuerdo, fuera de el chascarrillo y la broma de dejen al viejito morir, creo que justo es esto lo que hace que blockchains evolucionen como tal, pero justo esto es lo que hace que tecnologías terminen siendo adaptadas al uso masivo, o sea, definitivamente creo que esto va a ser algo que va a.",
+      "raw_text": "Completamente de acuerdo, fuera de el chascarrillo y la broma de dejen al viejito morir, creo que justo es esto lo que hace que blockchains evolucionen como tal, pero justo esto es lo que hace que tecnologías terminen siendo adaptadas al uso masivo, o sea, definitivamente creo que esto va a ser algo que va a.",
+      "start_time": 561.4,
+      "end_time": 586.99
+    },
+    {
+      "index": 65,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Mejorar la red como tal.",
+      "raw_text": "Mejorar la red como tal.",
+      "start_time": 586.99,
+      "end_time": 588.63
+    },
+    {
+      "index": 66,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y la semana pasada estaba en un space con Mexi y justo hablábamos de eso, o sea, si no aguanta que suban imágenes, ¿Qué esperamos de ella?",
+      "raw_text": "Y la semana pasada estaba en un space con Mexi y justo hablábamos de eso, o sea, si no aguanta que suban imágenes, ¿Qué esperamos de ella?",
+      "start_time": 589.43,
+      "end_time": 601.22
+    },
+    {
+      "index": 67,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y la primera vez que mencioné esa frase mexica, como que no le estaba agarrando la onda hasta apenas este fin de semana y es verdad, dos perspectivas de este lado, una, si queremos que este sea el dinero del futuro y que este sea la red que va a empezar a guardar valor, pensemos en esta red en 100 años esta red no va a pesar 400 GB que bajamos en un nodo, van a tener millones o billones de transacciones de personas intercambiando dinero o valor y obviamente va a estar más pesada en 100 años si no encontramos una solución para que sea eficiente, rápida o simplemente aguante esa cantidad de transacciones, quizás nacen otras, es muy probable que nazcan otras y entonces Bitcoin no es lo que estábamos pensando como store of value, entonces ese es una gran, como es un playground bastante barato diría yo, no nos está atacando ningún gobierno, no es que haya por ahí una bifurcación o algo de estos ataques de 51% para hacerle overrule, definitivamente el tema de meterle más información a una red va a ayudar a que aguante estos nuevos challenges que vienen hacia el futuro.",
+      "raw_text": "Y la primera vez que mencioné esa frase mexica, como que no le estaba agarrando la onda hasta apenas este fin de semana y es verdad, dos perspectivas de este lado, una, si queremos que este sea el dinero del futuro y que este sea la red que va a empezar a guardar valor, pensemos en esta red en 100 años esta red no va a pesar 400 GB que bajamos en un nodo, van a tener millones o billones de transacciones de personas intercambiando dinero o valor y obviamente va a estar más pesada en 100 años si no encontramos una solución para que sea eficiente, rápida o simplemente aguante esa cantidad de transacciones, quizás nacen otras, es muy probable que nazcan otras y entonces Bitcoin no es lo que estábamos pensando como store of value, entonces ese es una gran, como es un playground bastante barato diría yo, no nos está atacando ningún gobierno, no es que haya por ahí una bifurcación o algo de estos ataques de 51% para hacerle overrule, definitivamente el tema de meterle más información a una red va a ayudar a que aguante estos nuevos challenges que vienen hacia el futuro.",
+      "start_time": 601.38,
+      "end_time": 685.56
+    },
+    {
+      "index": 68,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y la otra que creo más importante, porque lo he visto en diferentes redes, es que justo el tema de NFTs o arte como tal.",
+      "raw_text": "Y la otra que creo más importante, porque lo he visto en diferentes redes, es que justo el tema de NFTs o arte como tal.",
+      "start_time": 685.72,
+      "end_time": 695.08
+    },
+    {
+      "index": 69,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Completamente cierto lo que acaba de descubrir Mexi.",
+      "raw_text": "Completamente cierto lo que acaba de descubrir Mexi.",
+      "start_time": 705.57,
+      "end_time": 708.77
+    },
+    {
+      "index": 70,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "En muchos años que he estado leyendo de cripto.",
+      "raw_text": "En muchos años que he estado leyendo de cripto.",
+      "start_time": 710.93,
+      "end_time": 713.49
+    },
+    {
+      "index": 71,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Tratar de entender, ver si estoy temprano, el tema de, por ejemplo, utilizo tal vez el ejemplo de Ethereum y de Solana Ethereum fue una solución a muchas de las cosas que Bitcoin no tenía.",
+      "raw_text": "Tratar de entender, ver si estoy temprano, el tema de, por ejemplo, utilizo tal vez el ejemplo de Ethereum y de Solana Ethereum fue una solución a muchas de las cosas que Bitcoin no tenía.",
+      "start_time": 722.13,
+      "end_time": 738.17
+    },
+    {
+      "index": 72,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "La parte de ser programable, la parte de velocidad, la parte de incluir metadata.",
+      "raw_text": "La parte de ser programable, la parte de velocidad, la parte de incluir metadata.",
+      "start_time": 738.17,
+      "end_time": 745.25
+    },
+    {
+      "index": 73,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y eso dio el nacimiento de Ethereum.",
+      "raw_text": "Y eso dio el nacimiento de Ethereum.",
+      "start_time": 745.49,
+      "end_time": 747.65
+    },
+    {
+      "index": 74,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Pero por el otro lado, cuando nace Solana, fue un tema de creo que puedo mejorar Ethereum.",
+      "raw_text": "Pero por el otro lado, cuando nace Solana, fue un tema de creo que puedo mejorar Ethereum.",
+      "start_time": 747.65,
+      "end_time": 754.28
+    },
+    {
+      "index": 75,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y de repente empiezan a encontrar un poquito como de sabores diferentes.",
+      "raw_text": "Y de repente empiezan a encontrar un poquito como de sabores diferentes.",
+      "start_time": 754.36,
+      "end_time": 758.28
+    },
+    {
+      "index": 76,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Pero tanto Ethereum como Solana sufrieron de eso, que en Solana se conoció como el Solana Summer.",
+      "raw_text": "Pero tanto Ethereum como Solana sufrieron de eso, que en Solana se conoció como el Solana Summer.",
+      "start_time": 758.6,
+      "end_time": 765.48
+    },
+    {
+      "index": 77,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y en Ethereum, pues toda la ola de NFTs, por eso estamos aquí muchos de nosotros, que es que los NFTs generan adopción.",
+      "raw_text": "Y en Ethereum, pues toda la ola de NFTs, por eso estamos aquí muchos de nosotros, que es que los NFTs generan adopción.",
+      "start_time": 765.56,
+      "end_time": 772.92
+    }
+  ]
+}

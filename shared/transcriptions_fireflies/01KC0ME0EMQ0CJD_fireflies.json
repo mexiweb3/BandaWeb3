@@ -1,0 +1,1161 @@
+{
+  "id": "01KC0ME0EMQ0CJD2N7G2FYWQM3",
+  "title": "BandaWeb3 - Latinos en Web3🎙️ Bitcoin Ordinals ! Que son Español",
+  "date": 1765253100000,
+  "duration": 25.219999313354492,
+  "speakers": [],
+  "sentences": [
+    {
+      "index": 0,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Te lo digo con sinceridad, todo está frío como Navidad, es mejor que esto se acabe ya.",
+      "raw_text": "Te lo digo con sinceridad, todo está frío como Navidad, es mejor que esto se acabe ya.",
+      "start_time": 25.2,
+      "end_time": 30.4
+    },
+    {
+      "index": 1,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Yo te quiero, pero es que yo me quiero más a mí.",
+      "raw_text": "Yo te quiero, pero es que yo me quiero más a mí.",
+      "start_time": 35.26,
+      "end_time": 37.9
+    },
+    {
+      "index": 2,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Es un año necesario, lo que un día fue increíble se volvió rutinario.",
+      "raw_text": "Es un año necesario, lo que un día fue increíble se volvió rutinario.",
+      "start_time": 38.38,
+      "end_time": 43.9
+    },
+    {
+      "index": 3,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Ahora.",
+      "raw_text": "Ahora.",
+      "start_time": 48.46,
+      "end_time": 48.86
+    },
+    {
+      "index": 4,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Es todo lo contrario.",
+      "raw_text": "Es todo lo contrario.",
+      "start_time": 48.86,
+      "end_time": 50.14
+    },
+    {
+      "index": 5,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Fue culpa tuya, Tampoco mía, fue culpa de la monotonía, aunque dije nada, pero me dolía.",
+      "raw_text": "Fue culpa tuya, Tampoco mía, fue culpa de la monotonía, aunque dije nada, pero me dolía.",
+      "start_time": 52.46,
+      "end_time": 62.78
+    },
+    {
+      "index": 6,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Sabía que esto pasaría con lo tuyo.",
+      "raw_text": "Sabía que esto pasaría con lo tuyo.",
+      "start_time": 64.44,
+      "end_time": 68.48
+    },
+    {
+      "index": 7,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Yo siento lo mismo, siempre buscando protagonismo y también hasta los de mi estimo.",
+      "raw_text": "Yo siento lo mismo, siempre buscando protagonismo y también hasta los de mi estimo.",
+      "start_time": 68.48,
+      "end_time": 77.8
+    },
+    {
+      "index": 8,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "GMGM Buenos días.",
+      "raw_text": "GMGM Buenos días.",
+      "start_time": 98.12,
+      "end_time": 100.56
+    },
+    {
+      "index": 9,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Buenos días.",
+      "raw_text": "Buenos días.",
+      "start_time": 100.56,
+      "end_time": 101.36
+    },
+    {
+      "index": 10,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Bienvenidos a otra conversación de latinos en web.",
+      "raw_text": "Bienvenidos a otra conversación de latinos en web.",
+      "start_time": 101.36,
+      "end_time": 105.08
+    },
+    {
+      "index": 11,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "¿Como todos los lunes, hoy vamos a estar hablando creo que del tema que ha sido el más popular en estos días, Bitcoin Ordinals, qué son?",
+      "raw_text": "¿Como todos los lunes, hoy vamos a estar hablando creo que del tema que ha sido el más popular en estos días, Bitcoin Ordinals, qué son?",
+      "start_time": 105.4,
+      "end_time": 114.52
+    },
+    {
+      "index": 12,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Es un tema que suena bastante complicado, pero la idea es que lo desglosemos un poquito el día de hoy y para eso invité a dos personas que nos van a ayudar.",
+      "raw_text": "Es un tema que suena bastante complicado, pero la idea es que lo desglosemos un poquito el día de hoy y para eso invité a dos personas que nos van a ayudar.",
+      "start_time": 115.4,
+      "end_time": 125.2
+    },
+    {
+      "index": 13,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Pero antes de eso, antes de que hagamos todas las presentaciones, como siempre, este es un espacio que es en spanglish, nos enfocamos más que todo en español, pero si hay alguien que no se siente cómodo en español, they could come up if you don't feel comfortable speaking Spanish and you want to participate in the conversation, you're always welcome up and you can speak English, we could help translate.",
+      "raw_text": "Pero antes de eso, antes de que hagamos todas las presentaciones, como siempre, este es un espacio que es en spanglish, nos enfocamos más que todo en español, pero si hay alguien que no se siente cómodo en español, they could come up if you don't feel comfortable speaking Spanish and you want to participate in the conversation, you're always welcome up and you can speak English, we could help translate.",
+      "start_time": 125.28,
+      "end_time": 142.8
+    },
+    {
+      "index": 14,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Así que bueno, bienvenidos, me encantaría si pueden por favor compartir el espacio, se los agradezco, así tenemos más personas que se pueden unir a la conversación y que ojalá pues le ayude.",
+      "raw_text": "Así que bueno, bienvenidos, me encantaría si pueden por favor compartir el espacio, se los agradezco, así tenemos más personas que se pueden unir a la conversación y que ojalá pues le ayude.",
+      "start_time": 142.96,
+      "end_time": 155.74
+    },
+    {
+      "index": 15,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Tenemos hoy a Mexi, Mexi es un especialista en tecnología y seguridad, así que me alegra muchísimo tener a alguien de Monterrey aquí con nosotros que nos pueda guiar un poquito en todo esto que está pasando.",
+      "raw_text": "Tenemos hoy a Mexi, Mexi es un especialista en tecnología y seguridad, así que me alegra muchísimo tener a alguien de Monterrey aquí con nosotros que nos pueda guiar un poquito en todo esto que está pasando.",
+      "start_time": 155.74,
+      "end_time": 170.9
+    },
+    {
+      "index": 16,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Él es desarrollador en la blockchain y también consultor, así que Mexi, bienvenido si te quieres presentar, conocerte un poquito más adelante.",
+      "raw_text": "Él es desarrollador en la blockchain y también consultor, así que Mexi, bienvenido si te quieres presentar, conocerte un poquito más adelante.",
+      "start_time": 171.22,
+      "end_time": 181.46
+    },
+    {
+      "index": 17,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Muchísimas gracias Lau, muchas gracias por la invitación a tu espacio, soy tu fan definitivo y creo que todo lo que haces en el ecosistema es súper chingón y pues gracias de nuevo, la verdad me presento rápido, me encanta mucho a mí todo el tema tecnológico, desde muy chiquito tuve acceso a computadora, Internet, teníamos acá en Monterrey unas ya no las tenemos, pero tenemos tiendas de computación, entonces siempre estuve muy involucrado con eso, estudié una ingeniería y luego me especialicé en temas de seguridad y Desde hace unos 5 años que entré al ecosistema, pues me ha apasionado mucho por aprender, por utilizar la tecnología y ver cuáles son las capacidades y en los últimos año y medio más o menos, pues ya he independizado con un negocio, tratando de construir en el ecosistema, tratando de ser comunidad y pues ayudándole a todos los que quieran aprender un poquito más de estas tecnologías, pero siempre con un disclaimer y lo aprovecho para mencionar ahorita, todo lo que hagamos en estos ecosistemas, lo primero que tenemos que hacer, creo yo, en mi opinión, es invertir tiempo en aprender a utilizarlo de manera segura.",
+      "raw_text": "Muchísimas gracias Lau, muchas gracias por la invitación a tu espacio, soy tu fan definitivo y creo que todo lo que haces en el ecosistema es súper chingón y pues gracias de nuevo, la verdad me presento rápido, me encanta mucho a mí todo el tema tecnológico, desde muy chiquito tuve acceso a computadora, Internet, teníamos acá en Monterrey unas ya no las tenemos, pero tenemos tiendas de computación, entonces siempre estuve muy involucrado con eso, estudié una ingeniería y luego me especialicé en temas de seguridad y Desde hace unos 5 años que entré al ecosistema, pues me ha apasionado mucho por aprender, por utilizar la tecnología y ver cuáles son las capacidades y en los últimos año y medio más o menos, pues ya he independizado con un negocio, tratando de construir en el ecosistema, tratando de ser comunidad y pues ayudándole a todos los que quieran aprender un poquito más de estas tecnologías, pero siempre con un disclaimer y lo aprovecho para mencionar ahorita, todo lo que hagamos en estos ecosistemas, lo primero que tenemos que hacer, creo yo, en mi opinión, es invertir tiempo en aprender a utilizarlo de manera segura.",
+      "start_time": 184.18,
+      "end_time": 250.81
+    },
+    {
+      "index": 18,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Somos responsables de cuidar y de proteger estos activos digitales con los que estamos transaccionando, pero también de protegerlos para que no se nos pierda.",
+      "raw_text": "Somos responsables de cuidar y de proteger estos activos digitales con los que estamos transaccionando, pero también de protegerlos para que no se nos pierda.",
+      "start_time": 251.21,
+      "end_time": 260.809
+    },
+    {
+      "index": 19,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Gracias de nuevo por la invitación.",
+      "raw_text": "Gracias de nuevo por la invitación.",
+      "start_time": 260.969,
+      "end_time": 262.649
+    },
+    {
+      "index": 20,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Gracias a ti, y creo que ahí es donde uno se da cuenta cuando vamos a empezar una conversación de una manera más responsable, también recordándonos que en todo este espacio blockchain es súper importante tener ese lema de seguridad y también de responsabilidad, o sea que la responsabilidad no recae en un tercero y que por eso pues eso lleva a unos beneficios pero también va con ciertos riesgos, entonces me encanta que empieces así, bienvenido.",
+      "raw_text": "Gracias a ti, y creo que ahí es donde uno se da cuenta cuando vamos a empezar una conversación de una manera más responsable, también recordándonos que en todo este espacio blockchain es súper importante tener ese lema de seguridad y también de responsabilidad, o sea que la responsabilidad no recae en un tercero y que por eso pues eso lleva a unos beneficios pero también va con ciertos riesgos, entonces me encanta que empieces así, bienvenido.",
+      "start_time": 265.129,
+      "end_time": 292.2
+    },
+    {
+      "index": 21,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y también tenemos a Serving, no sé si quieres que te diga Servín o tu nombre, tú me dirás, pero contenta de que, o sea, lo vi y yo dije bueno, ahora no sé si es que no le gusta que le digan Felipe, Felipe está bien feliz.",
+      "raw_text": "Y también tenemos a Serving, no sé si quieres que te diga Servín o tu nombre, tú me dirás, pero contenta de que, o sea, lo vi y yo dije bueno, ahora no sé si es que no le gusta que le digan Felipe, Felipe está bien feliz.",
+      "start_time": 292.36,
+      "end_time": 309.64
+    },
+    {
+      "index": 22,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Dice que cuando las personas están aquí anónimos o no anónimos, siempre nos cuesta un poquito más, pero bueno Felipe, muchas gracias por estar aquí también, yo sé que tienes mucho que agregar, me alegra conocerte, es la primera vez que hablamos, así que bueno, bienvenido mismo porfa, una presentación así te conocemos un poquito más de tu experiencia que has hecho en el espacio y pues afuera de.",
+      "raw_text": "Dice que cuando las personas están aquí anónimos o no anónimos, siempre nos cuesta un poquito más, pero bueno Felipe, muchas gracias por estar aquí también, yo sé que tienes mucho que agregar, me alegra conocerte, es la primera vez que hablamos, así que bueno, bienvenido mismo porfa, una presentación así te conocemos un poquito más de tu experiencia que has hecho en el espacio y pues afuera de.",
+      "start_time": 311.24,
+      "end_time": 335.57
+    },
+    {
+      "index": 23,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Perfecto, gracias, ya me doxeaste, pero está muy bien.",
+      "raw_text": "Perfecto, gracias, ya me doxeaste, pero está muy bien.",
+      "start_time": 337.33,
+      "end_time": 340.69
+    },
+    {
+      "index": 24,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Exacto, exacto, o sea yo tenía el nombre de él y después yo dije, espérate, él nunca me.",
+      "raw_text": "Exacto, exacto, o sea yo tenía el nombre de él y después yo dije, espérate, él nunca me.",
+      "start_time": 344.86,
+      "end_time": 349.9
+    },
+    {
+      "index": 25,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Pues como ya dijeron mi nombre es Felipe, ya pueden ver mi apellido, Felipe Servín, así que si quieren googlearme y empezar a doxear, no hay problema.",
+      "raw_text": "Pues como ya dijeron mi nombre es Felipe, ya pueden ver mi apellido, Felipe Servín, así que si quieren googlearme y empezar a doxear, no hay problema.",
+      "start_time": 351.58,
+      "end_time": 360.22
+    },
+    {
+      "index": 26,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "También conocido como luchador en el mundo NFT y de manera graciosa hasta curiosa no es la primera vez que estamos en Spaces y tú fuiste parte fundamental en mi iniciación en el mundo público de los NFTs el año pasado, ya casi más de un año estuve ahí en un space contigo y con Thalía, cuando justo estaba haciendo el primer proyecto público en Solana que se se llama Criptolucha, son unos luchadores pixeleados ahí que hicieron favor darnos la patadita de inicio.",
+      "raw_text": "También conocido como luchador en el mundo NFT y de manera graciosa hasta curiosa no es la primera vez que estamos en Spaces y tú fuiste parte fundamental en mi iniciación en el mundo público de los NFTs el año pasado, ya casi más de un año estuve ahí en un space contigo y con Thalía, cuando justo estaba haciendo el primer proyecto público en Solana que se se llama Criptolucha, son unos luchadores pixeleados ahí que hicieron favor darnos la patadita de inicio.",
+      "start_time": 360.54,
+      "end_time": 401.96
+    },
+    {
+      "index": 27,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Sí, sí, sí.",
+      "raw_text": "Sí, sí, sí.",
+      "start_time": 401.96,
+      "end_time": 402.84
+    },
+    {
+      "index": 28,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Y ha sido una experiencia increíble, así que públicamente te agradezco por todo el apoyo.",
+      "raw_text": "Y ha sido una experiencia increíble, así que públicamente te agradezco por todo el apoyo.",
+      "start_time": 402.84,
+      "end_time": 408.52
+    },
+    {
+      "index": 29,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Ese inicial fue una bola de nieve, lanzamos los tacos, se hizo un soldado, terminó siendo las bases fundamentales de mi empresa actual que se llama Nifter, es una plataforma de no código para lanzar NFTs en Ethereum, Polygon y Solana.",
+      "raw_text": "Ese inicial fue una bola de nieve, lanzamos los tacos, se hizo un soldado, terminó siendo las bases fundamentales de mi empresa actual que se llama Nifter, es una plataforma de no código para lanzar NFTs en Ethereum, Polygon y Solana.",
+      "start_time": 408.6,
+      "end_time": 428.51
+    },
+    {
+      "index": 30,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Y todo fue, o todo inició justo con sspace ahí contigo.",
+      "raw_text": "Y todo fue, o todo inició justo con sspace ahí contigo.",
+      "start_time": 428.91,
+      "end_time": 433.87
+    },
+    {
+      "index": 31,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Muchas gracias por la invitación.",
+      "raw_text": "Muchas gracias por la invitación.",
+      "start_time": 433.87,
+      "end_time": 435.15
+    },
+    {
+      "index": 32,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Wow Felipe, si me hubieras dicho cripto lucha, digo, ah sí, 100% ahí ya claro.",
+      "raw_text": "Wow Felipe, si me hubieras dicho cripto lucha, digo, ah sí, 100% ahí ya claro.",
+      "start_time": 436.91,
+      "end_time": 443.59
+    },
+    {
+      "index": 33,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y en el momento como que no hice clic, que eras tú, así que qué lindo, qué lindo escucharte y qué bonito ver eso, o sea que realmente hemos crecido paralelamente en este espacio y que hay veces que a mí me cambian un PFP y de pronto ya no sé ni quiénes son, A mí me cambia así como que digo espérate.",
+      "raw_text": "Y en el momento como que no hice clic, que eras tú, así que qué lindo, qué lindo escucharte y qué bonito ver eso, o sea que realmente hemos crecido paralelamente en este espacio y que hay veces que a mí me cambian un PFP y de pronto ya no sé ni quiénes son, A mí me cambia así como que digo espérate.",
+      "start_time": 443.59,
+      "end_time": 461.84
+    },
+    {
+      "index": 34,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y a veces me toca, sabes, cuando tengo duda yo me voy a los mensajes, a los DMs, yo nunca los borro como para ver yo oh my God, mira, hace no sé cuántos meses que aquí, parece que fueran 10 años y pasaron 10 meses, tuvimos esta conversación o compartimos este espacio, así que ese es como mi diario, así que bueno, bienvenido y sin más vamos a empezar a hablar del tema.",
+      "raw_text": "Y a veces me toca, sabes, cuando tengo duda yo me voy a los mensajes, a los DMs, yo nunca los borro como para ver yo oh my God, mira, hace no sé cuántos meses que aquí, parece que fueran 10 años y pasaron 10 meses, tuvimos esta conversación o compartimos este espacio, así que ese es como mi diario, así que bueno, bienvenido y sin más vamos a empezar a hablar del tema.",
+      "start_time": 461.84,
+      "end_time": 485.26
+    },
+    {
+      "index": 35,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Vi que subió Mikita.",
+      "raw_text": "Vi que subió Mikita.",
+      "start_time": 485.34,
+      "end_time": 486.7
+    },
+    {
+      "index": 36,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Mikita, buenos días, bienvenida.",
+      "raw_text": "Mikita, buenos días, bienvenida.",
+      "start_time": 486.7,
+      "end_time": 488.7
+    },
+    {
+      "index": 37,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "No sé si quieres empezar tú con una pregunta, te cedo la palabra o con cualquier comentario.",
+      "raw_text": "No sé si quieres empezar tú con una pregunta, te cedo la palabra o con cualquier comentario.",
+      "start_time": 488.78,
+      "end_time": 494.46
+    },
+    {
+      "index": 38,
+      "speaker_name": null,
+      "speaker_id": 4,
+      "text": "Hola, hola, buenos días Laura y Mexi.",
+      "raw_text": "Hola, hola, buenos días Laura y Mexi.",
+      "start_time": 495.5,
+      "end_time": 497.74
+    },
+    {
+      "index": 39,
+      "speaker_name": null,
+      "speaker_id": 4,
+      "text": "Bueno, yo puse, me lancé siempre de atrevida cuando vi Bitcoin Ordinals, digo, ah, es que yo estoy ya me lancé con uno y soy pionera en eso.",
+      "raw_text": "Bueno, yo puse, me lancé siempre de atrevida cuando vi Bitcoin Ordinals, digo, ah, es que yo estoy ya me lancé con uno y soy pionera en eso.",
+      "start_time": 497.74,
+      "end_time": 506.24
+    },
+    {
+      "index": 40,
+      "speaker_name": null,
+      "speaker_id": 4,
+      "text": "Entonces digo, estoy como dicen bullish con todo este tema y ahí estoy.",
+      "raw_text": "Entonces digo, estoy como dicen bullish con todo este tema y ahí estoy.",
+      "start_time": 506.24,
+      "end_time": 511.28
+    },
+    {
+      "index": 41,
+      "speaker_name": null,
+      "speaker_id": 4,
+      "text": "También Mexi me apoyó mucho y un amigo, Eric, porque yo realmente de la tecnología, de la programación y de todo este tema no me entero mucho.",
+      "raw_text": "También Mexi me apoyó mucho y un amigo, Eric, porque yo realmente de la tecnología, de la programación y de todo este tema no me entero mucho.",
+      "start_time": 511.28,
+      "end_time": 518.84
+    },
+    {
+      "index": 42,
+      "speaker_name": null,
+      "speaker_id": 4,
+      "text": "Yo decía bueno, ahora que creo que después de un año en el espacio, creo que ya entiendo bastante de los NFT, me salen con esto y ahora no entiendo nada, pero bueno, me apoyo en los que sí entienden que es lo bueno de estar en esta comunidad y de haber creado tantos contactos y crear amigos y amistades auténticas, que bueno, yo no lo sé, pero otros si me ayudan y me sentí arropada en ese sentido, pero me lancé de lleno y ya tengo mi primer Bitcoin Ordinals en la red, así que súper contenta con eso.",
+      "raw_text": "Yo decía bueno, ahora que creo que después de un año en el espacio, creo que ya entiendo bastante de los NFT, me salen con esto y ahora no entiendo nada, pero bueno, me apoyo en los que sí entienden que es lo bueno de estar en esta comunidad y de haber creado tantos contactos y crear amigos y amistades auténticas, que bueno, yo no lo sé, pero otros si me ayudan y me sentí arropada en ese sentido, pero me lancé de lleno y ya tengo mi primer Bitcoin Ordinals en la red, así que súper contenta con eso.",
+      "start_time": 519.16,
+      "end_time": 548.36
+    },
+    {
+      "index": 43,
+      "speaker_name": null,
+      "speaker_id": 4,
+      "text": "Y nada, lo sigo escuchando porque estoy aprendiendo del tema y Mexi es un gran amigo y sabe muchísimo acerca de ese tema.",
+      "raw_text": "Y nada, lo sigo escuchando porque estoy aprendiendo del tema y Mexi es un gran amigo y sabe muchísimo acerca de ese tema.",
+      "start_time": 548.36,
+      "end_time": 556.36
+    },
+    {
+      "index": 44,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Que súper.",
+      "raw_text": "Que súper.",
+      "start_time": 559.01,
+      "end_time": 559.73
+    },
+    {
+      "index": 45,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Ahora te voy a hacer así como un Q A de todo lo que significa, o sea, cómo te guiaron, qué hiciste, si es tu arte o si es algo que mintiaste.",
+      "raw_text": "Ahora te voy a hacer así como un Q A de todo lo que significa, o sea, cómo te guiaron, qué hiciste, si es tu arte o si es algo que mintiaste.",
+      "start_time": 560.05,
+      "end_time": 568.93
+    },
+    {
+      "index": 46,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "¿Pero vamos a empezar aquí con mis co host por lo más básico, o sea, qué es un Ordinal, por qué se llama Ordinals y no un NFT y si son lo mismo realmente fundamental o no?",
+      "raw_text": "¿Pero vamos a empezar aquí con mis co host por lo más básico, o sea, qué es un Ordinal, por qué se llama Ordinals y no un NFT y si son lo mismo realmente fundamental o no?",
+      "start_time": 569.33,
+      "end_time": 581.33
+    },
+    {
+      "index": 47,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "¿Oigan, si gustan empiezo con Mexi, es buenísimo con este hombre, creo que es súper interesante, pero por qué Ordinal?",
+      "raw_text": "¿Oigan, si gustan empiezo con Mexi, es buenísimo con este hombre, creo que es súper interesante, pero por qué Ordinal?",
+      "start_time": 584.06,
+      "end_time": 592.86
+    },
+    {
+      "index": 48,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Yo creo que por ahí, por ahí creo que recomendamos empezar, o menos yo recomiendo empezar.",
+      "raw_text": "Yo creo que por ahí, por ahí creo que recomendamos empezar, o menos yo recomiendo empezar.",
+      "start_time": 592.86,
+      "end_time": 597.5
+    },
+    {
+      "index": 49,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "La semana pasada nos reunimos todos acá los jueves en Monterrey, tenemos meetups todas las semanas y justamente platicamos de este tema.",
+      "raw_text": "La semana pasada nos reunimos todos acá los jueves en Monterrey, tenemos meetups todas las semanas y justamente platicamos de este tema.",
+      "start_time": 597.98,
+      "end_time": 605.46
+    },
+    {
+      "index": 50,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Yo les decía.",
+      "raw_text": "Yo les decía.",
+      "start_time": 605.46,
+      "end_time": 606.46
+    },
+    {
+      "index": 51,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "De niños aprendimos matemáticas, aprendimos los números, nos enseñaron en el kinder a contar y lo primero que aprendemos de niños son los números cardinales, esos son el un, dos, tres, cuatro, cinco, etc.",
+      "raw_text": "De niños aprendimos matemáticas, aprendimos los números, nos enseñaron en el kinder a contar y lo primero que aprendemos de niños son los números cardinales, esos son el un, dos, tres, cuatro, cinco, etc.",
+      "start_time": 608.06,
+      "end_time": 621.45
+    },
+    {
+      "index": 52,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Son los que utilizamos para expresar cantidad, para contar personas, para contar objetos, etc.",
+      "raw_text": "Son los que utilizamos para expresar cantidad, para contar personas, para contar objetos, etc.",
+      "start_time": 621.45,
+      "end_time": 627.09
+    },
+    {
+      "index": 53,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Pero también existen los números ordinales o los ordinals y esos son los que se utilizan para expresar orden, o sea, el primero, segundo, tercero, cuarto, quinto, etcétera.",
+      "raw_text": "Pero también existen los números ordinales o los ordinals y esos son los que se utilizan para expresar orden, o sea, el primero, segundo, tercero, cuarto, quinto, etcétera.",
+      "start_time": 627.17,
+      "end_time": 638.13
+    },
+    {
+      "index": 54,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Ejemplo, la posición final de una carrera de algunos corredores o no sé, los pisos en un edificio, ¿No?",
+      "raw_text": "Ejemplo, la posición final de una carrera de algunos corredores o no sé, los pisos en un edificio, ¿No?",
+      "start_time": 638.13,
+      "end_time": 646.02
+    },
+    {
+      "index": 55,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Es el primero, segundo, tercero, por eso se llama Ordinals, porque tienen un orden y denominan la posición en la que están en una lista, por así decirlo.",
+      "raw_text": "Es el primero, segundo, tercero, por eso se llama Ordinals, porque tienen un orden y denominan la posición en la que están en una lista, por así decirlo.",
+      "start_time": 646.02,
+      "end_time": 654.78
+    },
+    {
+      "index": 56,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Entonces creo que por ahí eso es lo ideal para empezar, por eso se llama Ordinals.",
+      "raw_text": "Entonces creo que por ahí eso es lo ideal para empezar, por eso se llama Ordinals.",
+      "start_time": 654.78,
+      "end_time": 659.98
+    },
+    {
+      "index": 57,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Y también lo interesante creo yo aquí, es que es una aplicación que diseñó un desarrollador que se llama Casey, Rod Armor y todas estas nomenclaturas, todos estos nombres, toda esta terminología que probablemente estemos utilizando el día de hoy, pues es invento o designación de él.",
+      "raw_text": "Y también lo interesante creo yo aquí, es que es una aplicación que diseñó un desarrollador que se llama Casey, Rod Armor y todas estas nomenclaturas, todos estos nombres, toda esta terminología que probablemente estemos utilizando el día de hoy, pues es invento o designación de él.",
+      "start_time": 660.14,
+      "end_time": 679.16
+    },
+    {
+      "index": 58,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Por como decidió programar esto, le puso ciertos nombres, le puso cierta terminología.",
+      "raw_text": "Por como decidió programar esto, le puso ciertos nombres, le puso cierta terminología.",
+      "start_time": 680.68,
+      "end_time": 686.76
+    },
+    {
+      "index": 59,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Se utiliza mucho el tema artefacto digital, ya hablaremos de eso, pero pues todo esto es algo que él diseñó y que ahorita pues todos estamos utilizando y tratando de entender.",
+      "raw_text": "Se utiliza mucho el tema artefacto digital, ya hablaremos de eso, pero pues todo esto es algo que él diseñó y que ahorita pues todos estamos utilizando y tratando de entender.",
+      "start_time": 687.16,
+      "end_time": 695.84
+    },
+    {
+      "index": 60,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Entonces está muy interesante.",
+      "raw_text": "Entonces está muy interesante.",
+      "start_time": 695.84,
+      "end_time": 697
+    },
+    {
+      "index": 61,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Me encanta esa explicación y mira que no fue algo que tocamos, yo tuve un espacio en este tema en inglés la semana pasada, ahorita después se los pongo y esa explicación nadie la supo, así que me parece súper interesante como ver ese origen y ahorita como que irnos directamente a por qué esto es tan significativo.",
+      "raw_text": "Me encanta esa explicación y mira que no fue algo que tocamos, yo tuve un espacio en este tema en inglés la semana pasada, ahorita después se los pongo y esa explicación nadie la supo, así que me parece súper interesante como ver ese origen y ahorita como que irnos directamente a por qué esto es tan significativo.",
+      "start_time": 700.3,
+      "end_time": 718.98
+    },
+    {
+      "index": 62,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Yo había escuchado que habían como algunos NFT en Bitcoins, es más, hay una compañía en Argentina, Carnaval, que sé pero que eso estaba como en un layer 2, entonces ahorita cuando empezó el FUR, ahora están los orinals en Bitcoin y empezaba el boom, yo decía no entiendo, o sea, esto no es lo mismo que ya estaba pasando.",
+      "raw_text": "Yo había escuchado que habían como algunos NFT en Bitcoins, es más, hay una compañía en Argentina, Carnaval, que sé pero que eso estaba como en un layer 2, entonces ahorita cuando empezó el FUR, ahora están los orinals en Bitcoin y empezaba el boom, yo decía no entiendo, o sea, esto no es lo mismo que ya estaba pasando.",
+      "start_time": 718.98,
+      "end_time": 739.48
+    },
+    {
+      "index": 63,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Entonces como que vamos a desglosar ahí por qué esto es tan significativo, por qué es tan importante.",
+      "raw_text": "Entonces como que vamos a desglosar ahí por qué esto es tan significativo, por qué es tan importante.",
+      "start_time": 739.64,
+      "end_time": 746.04
+    },
+    {
+      "index": 64,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y cuál es la diferencia exactamente, digamos, entre un NFT que es de pronto lo que estamos acostumbrados ya sea a coleccionar o a crear.",
+      "raw_text": "Y cuál es la diferencia exactamente, digamos, entre un NFT que es de pronto lo que estamos acostumbrados ya sea a coleccionar o a crear.",
+      "start_time": 747.88,
+      "end_time": 755.54
+    },
+    {
+      "index": 65,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Claro, claro, si quieren pues le sigo.",
+      "raw_text": "Claro, claro, si quieren pues le sigo.",
+      "start_time": 759.62,
+      "end_time": 761.94
+    },
+    {
+      "index": 66,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Y Felipe, interrúmpele cuando gustes porque híjole, yo me agarro.",
+      "raw_text": "Y Felipe, interrúmpele cuando gustes porque híjole, yo me agarro.",
+      "start_time": 761.94,
+      "end_time": 765.06
+    },
+    {
+      "index": 67,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Mi trauma de aprender lo más que se pueda y bueno, no me calla.",
+      "raw_text": "Mi trauma de aprender lo más que se pueda y bueno, no me calla.",
+      "start_time": 766.66,
+      "end_time": 770.5
+    },
+    {
+      "index": 68,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Pero sí, como tú dices, dale, dale, gracias.",
+      "raw_text": "Pero sí, como tú dices, dale, dale, gracias.",
+      "start_time": 770.58,
+      "end_time": 773.38
+    },
+    {
+      "index": 69,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Esto es algo que ya viene sucediendo en Bitcoin desde 2014, 2015.",
+      "raw_text": "Esto es algo que ya viene sucediendo en Bitcoin desde 2014, 2015.",
+      "start_time": 773.86,
+      "end_time": 778.9
+    },
+    {
+      "index": 70,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Ya se empezó a trabajar con algo parecido, no es lo mismo, pero utilizaban.",
+      "raw_text": "Ya se empezó a trabajar con algo parecido, no es lo mismo, pero utilizaban.",
+      "start_time": 780.87,
+      "end_time": 786.95
+    },
+    {
+      "index": 71,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Otra manera de hacer este tipo de distinción en Bitcoin.",
+      "raw_text": "Otra manera de hacer este tipo de distinción en Bitcoin.",
+      "start_time": 789.67,
+      "end_time": 794.83
+    },
+    {
+      "index": 72,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Ahorita lo importante es que de acuerdo a una actualización que se hizo en Bitcoin hace un par de años de la actualización segwit y Taproot da la posibilidad de hacer este tipo de inscripciones.",
+      "raw_text": "Ahorita lo importante es que de acuerdo a una actualización que se hizo en Bitcoin hace un par de años de la actualización segwit y Taproot da la posibilidad de hacer este tipo de inscripciones.",
+      "start_time": 794.83,
+      "end_time": 806.87
+    },
+    {
+      "index": 73,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Esto es algo que.",
+      "raw_text": "Esto es algo que.",
+      "start_time": 807.19,
+      "end_time": 807.83
+    },
+    {
+      "index": 74,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Al parecer y por lo que he leído mucho por ahí no sabían que se iba a poder dar con esa actualización, entonces como que sí sacó a mucha gente de sorpresa y es una manera diferente de hacer NFTs o artefactos digitales.",
+      "raw_text": "Al parecer y por lo que he leído mucho por ahí no sabían que se iba a poder dar con esa actualización, entonces como que sí sacó a mucha gente de sorpresa y es una manera diferente de hacer NFTs o artefactos digitales.",
+      "start_time": 809.53,
+      "end_time": 821.69
+    },
+    {
+      "index": 75,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "¿Y cuál es la parte interesante?",
+      "raw_text": "¿Y cuál es la parte interesante?",
+      "start_time": 821.69,
+      "end_time": 823.45
+    },
+    {
+      "index": 76,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "El concepto de artefacto digital es algo que se está escuchando ahorita mucho.",
+      "raw_text": "El concepto de artefacto digital es algo que se está escuchando ahorita mucho.",
+      "start_time": 823.85,
+      "end_time": 828.09
+    },
+    {
+      "index": 77,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "La gran diferencia de un artefacto digital es que está completamente inscrito en la cadena de bloques de Bitcoin y que no necesitas un contrato inteligente para poderlo inscribir, sino que el código con la actualización que sufrió hace un par de años con Segwit y con Taproot, te permite en la Layer 1, tal cual en la L, hacer estas inscripciones.",
+      "raw_text": "La gran diferencia de un artefacto digital es que está completamente inscrito en la cadena de bloques de Bitcoin y que no necesitas un contrato inteligente para poderlo inscribir, sino que el código con la actualización que sufrió hace un par de años con Segwit y con Taproot, te permite en la Layer 1, tal cual en la L, hacer estas inscripciones.",
+      "start_time": 828.33,
+      "end_time": 854.07
+    },
+    {
+      "index": 78,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "¿Y qué es lo que sucede?",
+      "raw_text": "¿Y qué es lo que sucede?",
+      "start_time": 854.07,
+      "end_time": 855.55
+    },
+    {
+      "index": 79,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Tú agarras un satoshi y bueno, antes de eso yo creo que es bueno comentar que la teoría ordinal que el desarrollador inventó, Casey Rod Armor, fue nada más como que una nomenclatura y una definición de cómo ponerle un número consecutivo cada satoshi de acuerdo a cómo funciona Bitcoin y como se van creando los bitcoins nuevos.",
+      "raw_text": "Tú agarras un satoshi y bueno, antes de eso yo creo que es bueno comentar que la teoría ordinal que el desarrollador inventó, Casey Rod Armor, fue nada más como que una nomenclatura y una definición de cómo ponerle un número consecutivo cada satoshi de acuerdo a cómo funciona Bitcoin y como se van creando los bitcoins nuevos.",
+      "start_time": 855.79,
+      "end_time": 879.58
+    },
+    {
+      "index": 80,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Cada bloque de 10 minutos.",
+      "raw_text": "Cada bloque de 10 minutos.",
+      "start_time": 879.58,
+      "end_time": 881.18
+    },
+    {
+      "index": 81,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "En cierto orden, él definió que cada uno tenía un número consecutivo.",
+      "raw_text": "En cierto orden, él definió que cada uno tenía un número consecutivo.",
+      "start_time": 882.78,
+      "end_time": 888.2
+    },
+    {
+      "index": 82,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Y hablemos de bitcoin que son 21 millones de unidades, y hablemos de satoshis, los satoshis son 100 millones de unidades en cada Bitcoin.",
+      "raw_text": "Y hablemos de bitcoin que son 21 millones de unidades, y hablemos de satoshis, los satoshis son 100 millones de unidades en cada Bitcoin.",
+      "start_time": 888.28,
+      "end_time": 897.08
+    },
+    {
+      "index": 83,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Entonces eso también es algo importante.",
+      "raw_text": "Entonces eso también es algo importante.",
+      "start_time": 897.08,
+      "end_time": 898.92
+    },
+    {
+      "index": 84,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Pero échale Felipe que ya estoy medio cantinfleando.",
+      "raw_text": "Pero échale Felipe que ya estoy medio cantinfleando.",
+      "start_time": 898.92,
+      "end_time": 902.12
+    },
+    {
+      "index": 85,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "No, no, justo, o sea, lo que quería explicar un poquito a la audiencia es el detrás de cámaras de lo que pasan en los NFTs y la diferencia real de lo que está pasando con los Bitcoin NFTs que bien describes, todo está basado en satoshis.",
+      "raw_text": "No, no, justo, o sea, lo que quería explicar un poquito a la audiencia es el detrás de cámaras de lo que pasan en los NFTs y la diferencia real de lo que está pasando con los Bitcoin NFTs que bien describes, todo está basado en satoshis.",
+      "start_time": 903.72,
+      "end_time": 921.5
+    },
+    {
+      "index": 86,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Entonces tienes un bitcoin, cada bitcoin tiene 100 millones de sats y Casey justo lo que encontró fue una manera de hacerlos non fungibles, porque entonces podemos identificar cada uno de ellos y este proceso de incluir un asset a cada satoshi y luego mandarlo a la red de Bitcoin, pues se llama inscripción.",
+      "raw_text": "Entonces tienes un bitcoin, cada bitcoin tiene 100 millones de sats y Casey justo lo que encontró fue una manera de hacerlos non fungibles, porque entonces podemos identificar cada uno de ellos y este proceso de incluir un asset a cada satoshi y luego mandarlo a la red de Bitcoin, pues se llama inscripción.",
+      "start_time": 921.5,
+      "end_time": 947.99
+    },
+    {
+      "index": 87,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Es diferente a lo que pasa con NFTs en Ethereum, en Solana y Polygon, porque normalmente un NFT en estas redes hace uso de un apuntador, o sea, realmente cuando compramos un NFT, parte de esa metadata en sí es nada más está apuntando a otro lugar donde estamos guardando esa imagen, donde estamos guardando el detalle de esa metadata.",
+      "raw_text": "Es diferente a lo que pasa con NFTs en Ethereum, en Solana y Polygon, porque normalmente un NFT en estas redes hace uso de un apuntador, o sea, realmente cuando compramos un NFT, parte de esa metadata en sí es nada más está apuntando a otro lugar donde estamos guardando esa imagen, donde estamos guardando el detalle de esa metadata.",
+      "start_time": 948.71,
+      "end_time": 975.16
+    },
+    {
+      "index": 88,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Y la gran mayoría de los NFTs que compramos son mutables.",
+      "raw_text": "Y la gran mayoría de los NFTs que compramos son mutables.",
+      "start_time": 975.72,
+      "end_time": 980.76
+    },
+    {
+      "index": 89,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "El contrato permite, o los contratos permiten que el creador o quien holdee la autoridad de ese contrato pueda modificar la metadata de los NFTs, no todos.",
+      "raw_text": "El contrato permite, o los contratos permiten que el creador o quien holdee la autoridad de ese contrato pueda modificar la metadata de los NFTs, no todos.",
+      "start_time": 981.08,
+      "end_time": 994.68
+    },
+    {
+      "index": 90,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Y hay algunos contratos que desde el principio te dan posibilidad de renunciar a ese derecho, pero la naturaleza es que nos dejan cambiarlos.",
+      "raw_text": "Y hay algunos contratos que desde el principio te dan posibilidad de renunciar a ese derecho, pero la naturaleza es que nos dejan cambiarlos.",
+      "start_time": 995.33,
+      "end_time": 1005.25
+    },
+    {
+      "index": 91,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Entonces el tema de inscripciones es en verdad nuestro primer o uno de los primeros.",
+      "raw_text": "Entonces el tema de inscripciones es en verdad nuestro primer o uno de los primeros.",
+      "start_time": 1005.33,
+      "end_time": 1012.53
+    },
+    {
+      "index": 92,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Artefactos que literal son descentralizados, son inmutables, siempre están en la cadena y son nativos a Bitcoin, a diferencia de las otras soluciones que hemos tenido, esto va a empezar a abrir conversaciones interesantes que quizás no teníamos antes porque no estaba de esa manera el funcionamiento, pero que justo hoy es como está funcionando.",
+      "raw_text": "Artefactos que literal son descentralizados, son inmutables, siempre están en la cadena y son nativos a Bitcoin, a diferencia de las otras soluciones que hemos tenido, esto va a empezar a abrir conversaciones interesantes que quizás no teníamos antes porque no estaba de esa manera el funcionamiento, pero que justo hoy es como está funcionando.",
+      "start_time": 1014.13,
+      "end_time": 1042.06
+    },
+    {
+      "index": 93,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Y regreso contigo desde aquí la cabina.",
+      "raw_text": "Y regreso contigo desde aquí la cabina.",
+      "start_time": 1042.94,
+      "end_time": 1046.06
+    },
+    {
+      "index": 94,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Oigan y un comentario rápido, creo que es súper interesante esto que menciona Felipe porque como no hay un contrato inteligente que tú tengas que ir a auditar, pues no dependes de que alguien haga nada, o sea, obviamente tiene las desventajas que no puedes personalizarlo y no puedes meterle programación especial, pero creo yo que esa es una de las ventajas que tiene esta tecnología y que como decía también Felipe, la información está completamente en la cadena de bloques, tú se la puedes, nadie te puede bloquear el envío, hay casos en Ethereum que están ahorita sonando y en Solana y en otras redes donde el contrato no te permite transaccionar con otra, con un marketplace que no sea el que ellos digan, hay whitelist, hay blacklist, te pueden ellos bloquear ciertas utilidades, aquí no hay manera de que ellos te bloqueen el envío o la recepción de este tipo de artefactos ni lo puedes modificar y es algo que se va a quedar ahí en esa cadena de bloques por siempre.",
+      "raw_text": "Oigan y un comentario rápido, creo que es súper interesante esto que menciona Felipe porque como no hay un contrato inteligente que tú tengas que ir a auditar, pues no dependes de que alguien haga nada, o sea, obviamente tiene las desventajas que no puedes personalizarlo y no puedes meterle programación especial, pero creo yo que esa es una de las ventajas que tiene esta tecnología y que como decía también Felipe, la información está completamente en la cadena de bloques, tú se la puedes, nadie te puede bloquear el envío, hay casos en Ethereum que están ahorita sonando y en Solana y en otras redes donde el contrato no te permite transaccionar con otra, con un marketplace que no sea el que ellos digan, hay whitelist, hay blacklist, te pueden ellos bloquear ciertas utilidades, aquí no hay manera de que ellos te bloqueen el envío o la recepción de este tipo de artefactos ni lo puedes modificar y es algo que se va a quedar ahí en esa cadena de bloques por siempre.",
+      "start_time": 1048.579,
+      "end_time": 1105.93
+    },
+    {
+      "index": 95,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Y recordemos que Bitcoin es la cadena de bloques que más seguridad tiene, más valor tiene y más usuarios tiene ahorita protegiéndolas en mi opinión, creo yo.",
+      "raw_text": "Y recordemos que Bitcoin es la cadena de bloques que más seguridad tiene, más valor tiene y más usuarios tiene ahorita protegiéndolas en mi opinión, creo yo.",
+      "start_time": 1105.93,
+      "end_time": 1115.77
+    },
+    {
+      "index": 96,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Y por ahí están las estadísticas.",
+      "raw_text": "Y por ahí están las estadísticas.",
+      "start_time": 1115.77,
+      "end_time": 1117.37
+    },
+    {
+      "index": 97,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "OK, ahora sí me quedé la parte de que hasta ahora no hay un marketplace donde podamos ir a comprar esto, entonces ¿Cuáles son las cosas necesarias que tenemos?",
+      "raw_text": "OK, ahora sí me quedé la parte de que hasta ahora no hay un marketplace donde podamos ir a comprar esto, entonces ¿Cuáles son las cosas necesarias que tenemos?",
+      "start_time": 1119.05,
+      "end_time": 1130.01
+    },
+    {
+      "index": 98,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y ahorita decimos, bueno, mira, queremos ser parte de esto, queremos comprar algo o queremos investigar más, según lo que tengo entendido, hay que entrar en un Discord, hay que tener un wallet específico que se demora un poquito de tiempo, entonces como pasar, hacer como el paso a paso y también como alertar a todos de que en este momento suena como que todavía no estamos tan avanzados, obviamente está empezando esta parte.",
+      "raw_text": "Y ahorita decimos, bueno, mira, queremos ser parte de esto, queremos comprar algo o queremos investigar más, según lo que tengo entendido, hay que entrar en un Discord, hay que tener un wallet específico que se demora un poquito de tiempo, entonces como pasar, hacer como el paso a paso y también como alertar a todos de que en este momento suena como que todavía no estamos tan avanzados, obviamente está empezando esta parte.",
+      "start_time": 1130.01,
+      "end_time": 1155.29
+    },
+    {
+      "index": 99,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Pero que todas las transacciones son como over the counter, o sea que tienes que confiar que la persona te va a mandar este activo si lo llegarás a comprar.",
+      "raw_text": "Pero que todas las transacciones son como over the counter, o sea que tienes que confiar que la persona te va a mandar este activo si lo llegarás a comprar.",
+      "start_time": 1156.86,
+      "end_time": 1164.46
+    },
+    {
+      "index": 100,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Sí, eso es súper, súper importante la porque como tú dices ahorita al menos yo lo que lo que he tratado de hacer y lo que pues la campaña por así decirlo que traigo en mi Twitter es que los artistas aprendan o aprendamos a usarlo, o sea yo creo que ahorita es súper interesante aprender a subir nuestro arte, si es algo que nos llama la atención, poder dejar nuestro arte en la cadena de bloques y poseerlo.",
+      "raw_text": "Sí, eso es súper, súper importante la porque como tú dices ahorita al menos yo lo que lo que he tratado de hacer y lo que pues la campaña por así decirlo que traigo en mi Twitter es que los artistas aprendan o aprendamos a usarlo, o sea yo creo que ahorita es súper interesante aprender a subir nuestro arte, si es algo que nos llama la atención, poder dejar nuestro arte en la cadena de bloques y poseerlo.",
+      "start_time": 1166.94,
+      "end_time": 1197.17
+    },
+    {
+      "index": 101,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Ahorita es muy fácil subirlo, hay aplicaciones que te ayudan.",
+      "raw_text": "Ahorita es muy fácil subirlo, hay aplicaciones que te ayudan.",
+      "start_time": 1197.17,
+      "end_time": 1200.81
+    },
+    {
+      "index": 102,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Pero definitivamente no hay manera ahorita de a través de un marketplace comprarlo y venderlo, tendríamos que si algún artista llega a mintiar algo ahorita para venderlo, sí tiene que hacer una transacción de persona a persona o utilizar un servicio con un intermediario que a lo mejor con mucha confianza te ayude a hacer esa transacción, pero sí, si quisieras tú ahorita comprar alguna colección de estas hypeadas que están sonando, yo diría aguas, aguas, puede haber mucho hype y estoy lidiando yo en el ecosistema mucho FOMO, puede haber muchos scams también puede haber mucho fraude por lo mismo que no hay un marketplace que te permita hacer una transacción sin que alguien esté por ahí intermediario.",
+      "raw_text": "Pero definitivamente no hay manera ahorita de a través de un marketplace comprarlo y venderlo, tendríamos que si algún artista llega a mintiar algo ahorita para venderlo, sí tiene que hacer una transacción de persona a persona o utilizar un servicio con un intermediario que a lo mejor con mucha confianza te ayude a hacer esa transacción, pero sí, si quisieras tú ahorita comprar alguna colección de estas hypeadas que están sonando, yo diría aguas, aguas, puede haber mucho hype y estoy lidiando yo en el ecosistema mucho FOMO, puede haber muchos scams también puede haber mucho fraude por lo mismo que no hay un marketplace que te permita hacer una transacción sin que alguien esté por ahí intermediario.",
+      "start_time": 1202.33,
+      "end_time": 1245.23
+    },
+    {
+      "index": 103,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Y también el manejo de la wallet ahorita es complicado, sé que están desarrollando al menos un par de aplicaciones que van a permitir que esto sea más sencillo, pero todavía no estamos ahí, yo creo que estamos como unas dos o tres semanas de que esto sea algo que podamos transaccionar mucho más sencillo, entonces sí hay que tener mucho cuidado en la manera que las hacemos, que los manejamos, porque podríamos llegar a utilizar el Satoshi donde está inscrito nuestro arte para pagar comisiones y lo perdemos, entonces es muy fácil si manejamos mal ahorita la tecnología poder perder el arte ya sea que lo mintiamos o que compramos, entonces sí hay que tener mucho cuidado.",
+      "raw_text": "Y también el manejo de la wallet ahorita es complicado, sé que están desarrollando al menos un par de aplicaciones que van a permitir que esto sea más sencillo, pero todavía no estamos ahí, yo creo que estamos como unas dos o tres semanas de que esto sea algo que podamos transaccionar mucho más sencillo, entonces sí hay que tener mucho cuidado en la manera que las hacemos, que los manejamos, porque podríamos llegar a utilizar el Satoshi donde está inscrito nuestro arte para pagar comisiones y lo perdemos, entonces es muy fácil si manejamos mal ahorita la tecnología poder perder el arte ya sea que lo mintiamos o que compramos, entonces sí hay que tener mucho cuidado.",
+      "start_time": 1245.55,
+      "end_time": 1283.17
+    },
+    {
+      "index": 104,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "La wallet que están ahorita recomendando es una especial por ahí se llama Sparrow, yo ya la probé, funciona bien, pero sí, definitivamente todavía estamos a unas tres semanas, un mes de que esto pueda ser algo muy sencillo de utilizar creo yo.",
+      "raw_text": "La wallet que están ahorita recomendando es una especial por ahí se llama Sparrow, yo ya la probé, funciona bien, pero sí, definitivamente todavía estamos a unas tres semanas, un mes de que esto pueda ser algo muy sencillo de utilizar creo yo.",
+      "start_time": 1283.17,
+      "end_time": 1298.94
+    },
+    {
+      "index": 105,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "No sé qué opinas tú Felipe que tienes un poquito más de background.",
+      "raw_text": "No sé qué opinas tú Felipe que tienes un poquito más de background.",
+      "start_time": 1299.66,
+      "end_time": 1302.7
+    },
+    {
+      "index": 106,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Si algo.",
+      "raw_text": "Si algo.",
+      "start_time": 1304.38,
+      "end_time": 1305.34
+    },
+    {
+      "index": 107,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Algo interesante que descubrí este fin de semana es que técnicamente, a ver, para dar contexto, la única manera de adquirir.",
+      "raw_text": "Algo interesante que descubrí este fin de semana es que técnicamente, a ver, para dar contexto, la única manera de adquirir.",
+      "start_time": 1305.5,
+      "end_time": 1314.06
+    },
+    {
+      "index": 108,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "NFT de Bitcoin es o lo creas o lo compras ahorita.",
+      "raw_text": "NFT de Bitcoin es o lo creas o lo compras ahorita.",
+      "start_time": 1316.16,
+      "end_time": 1321.28
+    },
+    {
+      "index": 109,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Entonces, crearlo, ahorita entramos a la parte de cómo crearlo.",
+      "raw_text": "Entonces, crearlo, ahorita entramos a la parte de cómo crearlo.",
+      "start_time": 1321.92,
+      "end_time": 1325.8
+    },
+    {
+      "index": 110,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Creo que muchos están interesados aquí en cómo hacerlo.",
+      "raw_text": "Creo que muchos están interesados aquí en cómo hacerlo.",
+      "start_time": 1325.8,
+      "end_time": 1328.48
+    },
+    {
+      "index": 111,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Está la parte hardcore y la parte sencilla pero cara porque los costos ahorita son altos.",
+      "raw_text": "Está la parte hardcore y la parte sencilla pero cara porque los costos ahorita son altos.",
+      "start_time": 1328.48,
+      "end_time": 1335.12
+    },
+    {
+      "index": 112,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Pero la manera de obtener uno, como mencionas, es peer to peer, o sea, persona a persona.",
+      "raw_text": "Pero la manera de obtener uno, como mencionas, es peer to peer, o sea, persona a persona.",
+      "start_time": 1335.68,
+      "end_time": 1341.92
+    },
+    {
+      "index": 113,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Y lo que casi todos están hablando este fin de semana es que la primera solución de intercambio va a ser muy parecida a lo que conocemos en el web como un scrow, pues es un third party, es una tercera entidad que técnicamente le mandamos el artefacto o el NFT por un lado y por el otro lado le mandan el dinero.",
+      "raw_text": "Y lo que casi todos están hablando este fin de semana es que la primera solución de intercambio va a ser muy parecida a lo que conocemos en el web como un scrow, pues es un third party, es una tercera entidad que técnicamente le mandamos el artefacto o el NFT por un lado y por el otro lado le mandan el dinero.",
+      "start_time": 1342.73,
+      "end_time": 1368.01
+    },
+    {
+      "index": 114,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Se comprueba la parte legítima de ambas, que sí sea el dinero y que sí sea el artefacto y se hace el switch y uno lo entrega uno, el otro lo entrega el otro y esa parte intermediaria o el third party pues se llama una comisión de esa transacción.",
+      "raw_text": "Se comprueba la parte legítima de ambas, que sí sea el dinero y que sí sea el artefacto y se hace el switch y uno lo entrega uno, el otro lo entrega el otro y esa parte intermediaria o el third party pues se llama una comisión de esa transacción.",
+      "start_time": 1368.8,
+      "end_time": 1385.2
+    },
+    {
+      "index": 115,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Suena muy antiguo, pero la gran mayoría de los holders actuales están empujando a que un escrow Bitcoin pueda ser una de las mejores soluciones para intercambio de artefactos.",
+      "raw_text": "Suena muy antiguo, pero la gran mayoría de los holders actuales están empujando a que un escrow Bitcoin pueda ser una de las mejores soluciones para intercambio de artefactos.",
+      "start_time": 1385.44,
+      "end_time": 1398.32
+    },
+    {
+      "index": 116,
+      "speaker_name": null,
+      "speaker_id": 4,
+      "text": "Bueno, no sé si seré yo o será Laura porque decía que había problema con la conexión.",
+      "raw_text": "Bueno, no sé si seré yo o será Laura porque decía que había problema con la conexión.",
+      "start_time": 1422.54,
+      "end_time": 1427.08
+    },
+    {
+      "index": 117,
+      "speaker_name": null,
+      "speaker_id": 4,
+      "text": "¿Ustedes están hablando?",
+      "raw_text": "¿Ustedes están hablando?",
+      "start_time": 1427.95,
+      "end_time": 1429.11
+    },
+    {
+      "index": 118,
+      "speaker_name": null,
+      "speaker_id": 4,
+      "text": "¿Me escuchan o estoy interrumpiendo?",
+      "raw_text": "¿Me escuchan o estoy interrumpiendo?",
+      "start_time": 1429.11,
+      "end_time": 1431.11
+    },
+    {
+      "index": 119,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Lo siento.",
+      "raw_text": "Lo siento.",
+      "start_time": 1431.11,
+      "end_time": 1431.63
+    },
+    {
+      "index": 120,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "No, gracias.",
+      "raw_text": "No, gracias.",
+      "start_time": 1433.39,
+      "end_time": 1434.07
+    },
+    {
+      "index": 121,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "¿Yo también me quedé como ya nadie agarró el micrófono?",
+      "raw_text": "¿Yo también me quedé como ya nadie agarró el micrófono?",
+      "start_time": 1434.07,
+      "end_time": 1437.15
+    },
+    {
+      "index": 122,
+      "speaker_name": null,
+      "speaker_id": 3,
+      "text": "Gracias.",
+      "raw_text": "Gracias.",
+      "start_time": 1437.15,
+      "end_time": 1437.63
+    },
+    {
+      "index": 123,
+      "speaker_name": null,
+      "speaker_id": 4,
+      "text": "Ah, bueno, porque a mí me salió un cartelito que decía que Laura estaba teniendo problemas con la conexión y creo que está un poquito rugueada.",
+      "raw_text": "Ah, bueno, porque a mí me salió un cartelito que decía que Laura estaba teniendo problemas con la conexión y creo que está un poquito rugueada.",
+      "start_time": 1439.15,
+      "end_time": 1445.87
+    },
+    {
+      "index": 124,
+      "speaker_name": null,
+      "speaker_id": 4,
+      "text": "Pero bueno, sigamos entonces, Mexi sigue explicando un poquito más y así a ver si le damos tiempo a que Laura se vuelva a reconectar.",
+      "raw_text": "Pero bueno, sigamos entonces, Mexi sigue explicando un poquito más y así a ver si le damos tiempo a que Laura se vuelva a reconectar.",
+      "start_time": 1446.19,
+      "end_time": 1455.15
+    },
+    {
+      "index": 125,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Igual yo creí que alguien estaba hablando, pero bueno, creo que es súper interesante lo que estamos viendo ahorita van más de 74.587 inscripciones en la red y cada una de las inscripciones nuevas tiene un consecutivo nuevo.",
+      "raw_text": "Igual yo creí que alguien estaba hablando, pero bueno, creo que es súper interesante lo que estamos viendo ahorita van más de 74.587 inscripciones en la red y cada una de las inscripciones nuevas tiene un consecutivo nuevo.",
+      "start_time": 1456.46,
+      "end_time": 1470.14
+    },
+    {
+      "index": 126,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Por aquí ahorita que hable Felipe voy a pinear un link donde están viéndose las estadísticas.",
+      "raw_text": "Por aquí ahorita que hable Felipe voy a pinear un link donde están viéndose las estadísticas.",
+      "start_time": 1470.14,
+      "end_time": 1478.94
+    },
+    {
+      "index": 127,
+      "speaker_name": null,
+      "speaker_id": 2,
+      "text": "Algo que esto está ocasionando es mayor uso de la red y en mi opinión esto es algo súper interesante porque finalmente si queremos adopción, si queremos uso, estas redes tienen que poder llegar a cierta capacidad.",
+      "raw_text": "Algo que esto está ocasionando es mayor uso de la red y en mi opinión esto es algo súper interesante porque finalmente si queremos adopción, si queremos uso, estas redes tienen que poder llegar a cierta capacidad.",
+      "start_time": 1478.94,
+      "end_time": 1493.17
+    }
+  ]
+}

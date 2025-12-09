@@ -1,0 +1,831 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #N/A
+Título: Episode 013 with @AndriuJose20
+Fecha: 2024-11-14
+Host: BandaWeb3
+Tipo: hosted
+
+Descripción:
+Episode 013 of BandaWeb3 with special guest @AndriuJose20.
+
+Duración: 01:29:15
+Escuchas: 92
+
+Links:
+  Space: https://x.com/i/spaces/1nAKEpWrVXaxL
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+[Speaker 0 - 00:00:00]
+Bienvenidos, bienvenidas, buenos días, buenas tardes, buenas noches, dependiendo de dónde se estén conectando, escuchar esta grabación.
+El día de hoy vamos a estar hablando Con Andrew José 20 es el episodio número 13 de Banda Web.
+Vamos a estar hablando con Andrew, él es líder de La Familia.
+La Familia es una, es un proyecto que están ellos liderando, que están liderando, hablando de Solana para todo el mercado hispano.
+Está haciendo mucho contenido en español y la verdad está muy divertido.
+En un momento vamos a estar hablando con él, pero como siempre vamos a empezar con musiquita.
+Esto es Liquid Tension Experiment, Universal Mind, la canción de el Space.
+Denme un segundito y empezamos en breve.
+Bienvenidos, bienvenidos, gracias a los que están conectando.
+Estamos empezando en un minutito ya tenemos por aquí arriba a La Familia, está invitando a Andrew y a la cuenta alterna mía para que también estén por acá.
+Empezamos en.
+Listo, ya tenemos la banda por acá.
+Al Andro es el que no.
+Andrew es el que no he podido subir.
+
+[Speaker 1 - 00:04:08]
+¿Hola, hola, qué tal?
+Igual estoy desde La Familia.
+¿Todo bien?
+
+[Speaker 0 - 00:04:16]
+Excelente, excelente.
+No, pues bienvenido, muchas gracias por estar por aquí, por aceptar la invitación, por venir a compartir un poquito de tu tiempo con la Banda web, con la comunidad que nos escucha constantemente, semana a semana.
+La neta te he estado viendo últimamente, me ha gustado mucho lo que están haciendo, traes ahí varias iniciativas de las cuales me encantaría platicar.
+En lo personal creo que lo he platicado mucho, a mí me gusta muchísimo el ecosistema de Solana, ya tengo yo más de tres años trabajando y utilizándolo y también chileando lo, platicando de todas las alternativas y todos los posibles casos de uso que tiene la red desde ya hace más de tres años en estos espacios.
+Y la verdad he invitado a pocas personas que están muy, muy metidas.
+Hace poquito hablábamos con el buen y se me olvidó su nombre, pero uno de los líderes de el Backpack.
+Pronto quiero invitar también a Alba, que está haciendo un chorro de contenido y también invité hace poquito, poquito a Visualize, que también está un poquito metido en ese ecosistema, pero la neta es que la está rompiendo.
+Solana, No, no, no veo yo cómo no va a ser una de las herramientas más utilizadas en este ecosistema y tu enfoque por lo que he visto con la Familia ha sido para apoyar a la comunidad hispana, generar mucho contenido, hacer espacios, sé que estuviste por ahí en Pulso Media haciendo un espacio de Solana, también me gustaría platicar un poquito de eso, pero bueno, me encanta, me encanta a mí el ecosistema, me encanta la comunidad, estoy metido en cientos de comunidades de NFTs de Solana, de Shitcoins, creo que, creo que, creo que puede llegar a darle la vuelta a Ethereum en algún momento, ya veremos.
+Y me gustaría preguntar también qué opinas, pero definitivamente los mil dólares por token están programados, eso creo que está programado en esta simulación, lo vamos a ver en algún punto, no sé cuándo, ya veremos, pero bienvenido.
+¿Muchísimas gracias Andrew y Andrew o Andrew primero que nada cómo te pronuncia?
+
+[Speaker 1 - 00:06:34]
+Sí, sí, sí, igual sí me sorprende de buena forma porque eres de las pocas personas que me lo preguntan porque se dice Andrew, o sea se pronuncia así Andrew y a mí me llaman de todas formas, me dicen Andrew, me dicen Andrew como salga, pero originalmente sí es Andrew y bueno, como dice, tengo tiempo en el ecosistema de Solana, incluso yo empecé trabajando directamente con Solana Foundation en el programa que tenían de Community Managers enfocado para el idioma español y bueno, yo incluso estaba desde Venezuela trabajando en esto y poco a poco fui creciendo en el ecosistema por decirlo de alguna forma y cuando llegué a España ya mi foco me encantó el país, dije OK, aquí también mucho movimiento, hay mucha comunidad hispana que al fin de cuentas lo que me interesaba porque yo trabajaba con personas que hablaran español y entonces decidí quedarme aquí, meterme más en la movida crypto que en España y ahora ya oficialmente tener lo que viene siendo La Familia, que justamente vi que también has nombrado cosas a Súper Teams que vienen siendo como estas comunidades autónomas que tiene Solana, que son como que organizaciones que tienen el apoyo de Solana Fundación pero que no están directamente ligados, no sé si me explico, es como la forma que tienen ellos de crear comunidades regionales y existen en todo el mundo, incluso tenemos también a Lillipat que la ven abajo que ya también está en Francia, entonces ella español, pero también de alguna forma está conectada con el Superviviente siendo como el equipo aquí de España.
+Siendo que es una brecha que en Solana hay muchos creadores de contenido gigantesco y muy inteligente sobre Solana en español, por menos tu caso, a ti te veo mucho de vez en cuando, sé que te gusta mucho Solana, incluso con tu foto, así que la tengo tiempo viendo que eso es de UG, me acuerdo yo de los peores minteos que ha tenido Solana en su momento, cuando estaba muy nueva lo postergaban, una locura.
+Entonces hay muchos creadores contenidos así fuertes en español que por lo general hacen su contenido también en inglés y quiero cambiar un poquito esto y mostrar todo lo que se hace también a la comunidad hispana.
+
+[Speaker 0 - 00:08:39]
+No, la neta, muchas gracias por estar por aquí también muchas gracias por el proyecto que estás desarrollando.
+A mí no sé, yo agradezco, a mí me encanta la gente que.
+Decide en algún punto estar muy activo en redes, generar contenido, hablar de estos temas y tratar de hombrear a nuevas personas porque la verdad creo que es algo súper necesario, todavía somos poquitos y pronto viene la bola grande, entonces pues toda esa gente que va a venir y que va a entrar necesita ese contenido, necesita de esas personas que ya tienen algo de experiencia.
+Y qué chingón, qué chingón poder platicar contigo, que me cuentes un poco de lo que has venido haciendo y de los planes a futuro, porque vas empezando por lo que me ha tocado a mí ver y percibir y leer este proyecto de la familia.
+Hace poco estabas en otro espacio donde ya también dejaste de participar para enfocarte en algo tuyo que.
+Me comparto mucho contigo, yo también estoy en un proceso similar y bueno, platiquemos un poquito de eso.
+¿Cuéntame un poquito de tu historia, tú qué background tienes antes de web.
+Si estudiaste alguna cosa técnica, eres más del tema social, cómo acabaste en la web 3 y cuál es tu perfil previo?
+
+[Speaker 1 - 00:09:59]
+Vale, perfecto.
+Incluso yo tengo ya tiempo en el ecosistema también porque vengo, yo soy originalmente de Venezuela y empecé allá como que yo saqué una carrera de contaduría Pública, que por lo que viene siendo aquí es contador más que todo, así como un gestor de contador, creo que no sé si es lo mismo allá en México la carrera, Verifícame.
+
+[Speaker 0 - 00:10:20]
+Sí contaduría Pública, hay administración de empresas y finanzas, pero sí, sí, contaduría Pública, tenemos acá toda un área grande y muchos contadores acá en la web.
+
+[Speaker 1 - 00:10:31]
+Sí, incluso yo empecé por ese ámbito un poco así de la finanza y también con las cosas de cuentas y tal porque era lo que me gustaba, siempre se me dio un poquito bien eso, pero no me sentía también como a gusto como que alguna carrera que había a long ter, incluso trabajé en varios hoteles haciendo auditorías, hacía las auditorías nocturnas Y justamente por estar también en el hecho que tú estás en países así con monedas inflacionarias, tú siempre buscas así como alguna vía alterna de ingresos por Internet.
+En ese momento era muy común las plataformas así de freelancer y tal y por cuestiones de estos tipos llegué también obviamente conociendo lo que son las criptomonedas, eso fue ya para allá en el 2017 y en ese entonces simplemente lo que hacía era como que buscar airdrops o qué proyectos existían y como que informarme, tenía mi grupo de amigos que siempre hay un grupo donde tú compartes estas noticias que van saliendo, te vas informando que por eso obviamente también tengo mucho lo que viene siendo el sentido de la comunidad porque siento que en web el tener una comunidad donde se pueden crecer es un factor clavísimo, algo que hoy en día por mientras soy más feliz que veo que existen muchas más comunidades en español por ejemplo, pero era algo que escaseaba mucho en años anteriores.
+Entonces justamente con esto hice el enlace con un proyecto en EOS otra blockchain, no sé si la conocerán, que también tuvo una ICO.
+Ah, que creo con Ethereum en algún momento.
+El punto fue que este fue mi primer.
+
+[Speaker 0 - 00:11:44]
+Hay todo un drama, todo un drama y varios temas hay con ellos, pero sí, sí, sí me acuerdo.
+
+[Speaker 1 - 00:11:49]
+Sí, pero eso fue hace tanto, hace harto.
+Y el punto es que empecé con esa blockchain y esa fue como mi introducción a las DApps, como que se pueden existir aplicaciones que las personas pueden utilizar del mundo común y empezar a usar la blockchain, ahí fue como que empecé como que enamorarme un poco más de todo lo que viene siendo la blockchain.
+Incluso trabajé por un tiempo haciendo que comercios aceptaran esta esta moneda para hacer pagos en Venezuela ya que en ese país obviamente la gente buscaba siempre una líder a la moneda fiat.
+Entonces así empecé, incluso fui a variar.
+
+[Speaker 0 - 00:12:19]
+¿Empezaste en web allá en Venezuela?
+Perdón que te interrumpa.
+
+[Speaker 1 - 00:12:22]
+Sí, sí, correcto.
+
+[Speaker 0 - 00:12:23]
+Se me hace importante hacerle doble clic porque híjole allá les está ayudando un chorro, no sé tú cómo lo hayas experimentado pero entonces empezaste cuando estabas por allá.
+
+[Speaker 1 - 00:12:31]
+Sí, incluso no es tanto que ayudaba sino es como que uno mismo buscaba la ayuda, no sé si me explico, en el sentido de que obviamente estás en una economía que la moneda fiat no funciona y tú buscas alternativas y justamente para eso también se creó la blockchain, las criptomonedas saben, entonces como que hay muchas personas en Venezuela que por ejemplo utilizan pagan con cripto, pagan con estable y no tienen ni idea de la blockchain, simplemente para ellos es un dólar electrónico que pueden utilizar para comprar tal cual, que creo que es un poco de la esencia de lo que se puede lograr con crypto, incluso por eso Solana se está enfocando mucho lo que viene siendo pagos, pero bueno ya eso lo haremos un poquito más adelante.
+
+[Speaker 0 - 00:13:05]
+¿El punto, pasaste por EOS?
+Sí, sí, sí, yo nunca la utilicé, te soy sincero, ni lo haga invertí ni la utilicé.
+
+[Speaker 1 - 00:13:14]
+OK, OK, o sea no lo digo de mala forma sino que justamente diga Solana gracia por eso, o sea tuve una buena experiencia a nivel de que hicimos comunidad, habían proyectos que con blockchain tenían sentido y le empecé a agarrar amor, el punto es que como estaba construida EOS en ese momento, tipo hacer onboarding de nuevas personas era imposible, era como que tenías que comprar unos recursos que es los que te permitían hacer una transacción y luego tenías que comprar cada vez más recursos para hacer transacciones, como tú le explicas a una persona newbie que no tiene idea de blockchain, mira tienes que comprar este activo, luego cambiarlo a este luego para poder hacer una transacción, entonces era muy complicado, entonces justamente por eso me di la tarea de buscar cosas similares por foros de Bitcoin Tool, Bitcoin Talk, disculpa, por foros de Reddit sobre monedas, contratos inteligentes y dio también la casualidad y el buen timing de que llegué a Solana y como que están hablando de ellas en foro y me puse como investigar a pasar la documentación, lo que existiese de data al español y cuando estaba en eso me acuerdo que lo compartí por mis grupos de amigos de comunidades y a eso vino que vino noticias como que la semana siguiente y que no sale Solana Mainet y yo dije bro está aquí ya la re que está buscando está aquí.
+Me puse a buscar grupos en español, no existía ninguno, había uno que tenía que sí a personas que trabajaban en el equipo de marketing de Solana en ese entonces y empezar simplemente a compartir la información que ya yo tenía en el español.
+Así fueron tres días, obviamente la.
+
+[Speaker 0 - 00:14:37]
+Pero perdón, pero entraste entonces.
+Recién iniciaba.
+¿Todavía no existían los NFTs en Solana?
+¿No habían lanzado colección en Solana?
+
+[Speaker 1 - 00:14:47]
+No, eso fue en marzo del 2021 si no me equivoco.
+2020.
+
+[Speaker 0 - 00:14:52]
+21.
+Sí, 21.
+¿Yo entré más o menos un mes o dos después, como dos, tres meses antes de que empezara todo el boom de NFT y me di cuenta inmediatamente el poder y el potencial que iba a tener la red al ver la velocidad y la facilidad y el costo, no sé tú qué fue lo que más te gustó?
+
+[Speaker 1 - 00:15:10]
+Bueno, empecé a usar Solana, me acuerdo que incluso ni siquiera había recompensas por staking, o sea, tú puedes hacer staking a los validadores pero aún no recibían recompensas, o sea, eso fue súper temprano y era como el hecho de crear tu wallet, hacer transacciones, que todo fuese mucho más smooth y más allá de eso, era como que en su momento la única wallet que yo había utilizado era la wallet de EOS o en su caso Metamask para ciertos airdrops que hacía.
+Y yo me encontré con Soulflare, me encontré con Fantom y vi como que era mucho más agradable para el usuario, dije bueno, ya por aquí están ganando, punto.
+Entonces fue como que fui a interactuar con el ecosistema y en el caso de Solana como empecé en ello, fue justamente igual a compartir contenido en español.
+Me contactaron las personas de Foundation, en ese momento uní como Community Manager en el grupo que era Solana en español y ahí fue como que empezó mi trayectoria tanto a estar en Solana a como que estarme involucrándome con la comunidad hispana.
+Entonces así fue como que empecé como decir, conocer lo que viene siendo Solana Foundation.
+
+[Speaker 0 - 00:16:07]
+Oye, ¿Y era un trabajo pagado?
+
+[Speaker 1 - 00:16:10]
+Sí, incluso al principio yo no sabía si tenía trabajo, me recuerdo que simplemente me dieron el rol de administrador en el grupo de Telegram, estuve por allí un rato y luego me metieron un grupo que era como que un programa que tenía Solana para Community Managers y todo, y fue como que entendí como que mira si voy a seguir haciendo esto y voy a tener una especie de sueldo.
+
+[Speaker 0 - 00:16:31]
+Oye qué chingón, ahí empezaste a ser comunidad por lo que veo y muchas personas de las que veo aquí conectadas no las reconozco, me imagino que vienen de esa comunidad que has estado formando a lo largo de los últimos años en los que has estado metido por aquí.
+Un gran saludo.
+Si no conocen voy a hacer un breve reset para todos los nuevos, si no conocen la dinámica aquí de estos espacios, tenemos un coleccionable digital totalmente gratuito, lo pueden ir a recuperar, a reclamar gratuitamente, aquí arriba está pineado, arriba hay dos post, uno es el espacio, si me ayudan con un like, un repost o un comentario, suma, todo suma.
+Y el otro link es la app de Unlock donde pueden ir a registrar su correo, su wallet y dejarme un mensajito, su nombre y van a obtener un coleccionable digital de este espacio.
+Estamos utilizando Arbitrum, luego podrá haber alguna iniciativa de Rinfa, premio, etcétera, no sabemos, eso ya es plan a futuro, pero veo mucha gente nueva, así que bienvenidos y muchas gracias.
+OK, empezaste directo trabajar con la fundación qué era trabajo en Discord, trabajo en Twitter, ¿Manejabas alguna de las redes de la plataforma o cómo era la?
+
+[Speaker 1 - 00:17:43]
+Sí, al comienzo era más que todo Solana, no era mucho de tener Discord de comunidad, Solana siempre tuvo su Discord enfocado más al tema de desarrollo, validadores, así que por allí llevamos una cuenta de Twitter de Solana en español, que incluso en el momento cuando estuvo la polémica con las cuentas y todo, ya esa cuenta no existe.
+Y también tenemos un grupo de Telegram, traducíamos todo el material de Solana del inglés al español, incluso por ese momento también participé en muchas especies, webinars y tal que se hacían sobre Solana, ponte que había muchos creadores de contenido que obviamente querían hacer contenido de Solana porque está en auge, entonces participé mucho en todo esto.
+Entonces el hecho fue que gracias a esto el primer evento que hace Solana fue Solana breakpoint en el 2021 que fue en LIGO, entonces ellos me invitaron al evento y ahí fue como que tuve la oportunidad de.
+Nunca había salido de mi país aquí en Venezuela y obviamente al trabajar en cosas blockchain y tal, tenía como la facilidad de moverme y todo porque trabajaba remoto, trabajaba con blockchain, entonces decidí irme a Lisboa al evento que fue una locura, o sea, fue mi primer impacto con los eventos de Solana, que se los digo a todo el mundo, si nunca hay un evento de Solana y tiene algunos cerca, no pierden la oportunidad, incluso ahora se están haciendo mucho movimiento para hacer eventos en real life alrededor de todo el mundo, justamente estamos también moviendo mucho en España para tener eventos venezolanos en todo el territorio nacional porque siento que eso te conecta mucho, o sea, conectarte con personas que están en tu mismo ecosistema, que hay muchos perfiles distintos, o sea, también la conexión, cómo ves que los proyectos que están en el ecosistema se preocupan por sus usuarios, creo que es increíble, o sea, es una especie de festival con congreso de nerds, con congreso de juego, o sea todo en uno, una locura y eso también me abrió mucho los ojos también de todo lo que se podía construir en países como España, que inclusamente yo también tenía en mis planes pasar por aquí, entonces literal llegué aquí a España luego de eso y no he vuelto a salir aquí me quedé una locura, o sea, es un país que también se habla en español, tenemos muchos valores iguales, entonces me motivó a seguir esforzándome en crear la comunidad aquí.
+
+[Speaker 0 - 00:19:51]
+¿Oye, una pregunta, ese evento en Lisboa 2021, yo me acuerdo haberlo visto, me acuerdo que en ese entonces todavía empezaba a viajar a eventos, fue tu primer evento web?
+
+[Speaker 1 - 00:20:03]
+A ver, yo en Venezuela cuando ya estaba con Odeos, obviamente participé también en muchos eventos que organizamos nosotros mismos sobre blockchain, pero fue el único evento que, el primer evento que estuve de gran magnitud, porque claro, hay muchos eventos locales que están bien pero son más chiquiticos, pero estas conferencias por lo menos como es el caso de Breakpoint o los que hayan ido por lo menos a Depcom o a otros eventos así, no sé, Tokin 2049, son ya eventos masivos y esta fue mi primera experiencia con uno así.
+Correcto.
+
+[Speaker 0 - 00:20:33]
+Sí, la neta no sé qué opines, pero ese tipo de eventos, yo los primeros que me tocó asistir.
+De hecho el primer grande que fui fue acá en Monterrey, a muchos nos cambió la vida, no sé si tú opines lo mismo, por lo que escucho Sí.
+¿Que surgió de ahí?
+¿Qué colaboraciones lograste?
+¿Conociste, me imagino que a toda la banda que está construyendo en ese entonces apenas estaba empezando no?
+Bien, bien temprano.
+
+[Speaker 1 - 00:20:59]
+Sí, incluso ponte que yo venía trabajando ya con parte del equipo de Foundation desde el comienzo.
+Entonces en este evento fue la primera vez que lo conocí en persona a gente que trabajó conmigo llevando otras comunidades, a las personas que se encargaban de nosotros.
+Incluso tuvimos la oportunidad que fuimos a una cena que eran puros miembros de Solana Foundation en ese momento y nos invitaron y ahí fue como que saqué mi primera foto con Anatoly, con Raj, con parte del equipo.
+Eso fue como que el primer contacto así que tuve allá y fue una locura.
+Aparte que obviamente mi foco era seguir el crecimiento a la comunidad de habla hispana, entonces contactaba con distintos proyectos, lo motivaba a hacer cosas en los grupos en español porque era una nueva audiencia.
+Entonces sí, la verdad que estos eventos son muy útiles y yo siempre digo a las personas que están interesadas en empezar en este mundo que el primer paso debería ser obviamente investigar por tu parte, hacer tu Dior y asistir a estos eventos porque es donde hacen las conexiones que te pueden llevar a algún proyecto o a lo mejor tienes un enfoque que juntado con el enfoque otras personas pueden hacer el ganador.
+Incluso hemos tenido en la comunidad aquí en España muchas personas que pasan por los bootcamps que hacemos de desarrollo, que es algo que también te hablaré un poquito ahora, los eventos que hacemos en real life y justamente muy feliz porque en el caso de Solana hacen muchos hackatones como para apoyar a proyectos y justamente fueron los resultados y tuvimos un ganador de España y es una persona que estaba en la comunidad desde el comienzo.
+Entonces con mucho orgullo que incluso aquí los veo que son los que están abajo como Blonk.
+
+[Speaker 0 - 00:22:26]
+Saluditos a la gente de Blonk.
+Veo que es como un proyecto.
+Bueno, al rato, al rato ya ni me digas porque me hace recordar ese.
+Varias cosas mencionas me hacen recordar defcon que no puedo ir y si, definitivamente yo también recomiendo ir ese tipo de eventos.
+Ahorita estoy viendo todos los post de la gente que anda por allá y me estoy muriendo de FOMO, ni modo.
+Pero bueno, el networking que puedes hacer ahí, las conversaciones, las pláticas, las oportunidades de trabajo son increíbles.
+¿Es tu primer breakpoint?
+¿Ya fuiste a otro?
+¿Cómo te ha ido ya después de varios años de estar ya en el ecosistema en ese tipo de eventos?
+Te tocó ir a este último en.
+
+[Speaker 1 - 00:23:13]
+Creo que fue en Holanda, el último fue en Singapur.
+Pero sí, yo soy feliz porque la verdad yo asistí a todos los breakpoint, tuvieron dos ediciones en Lisboa, luego hicieron una en Ámsterdam y este año que fue en Singapur.
+Y sí, fue una locura.
+Incluso como te dije, o sea, siento que el hecho de luego quedarme aquí en España cambió mucho mi punto de vista de las cosas, ya no estaba en mi zona de confort y con personas que conocía, ya el ecosistema cripto tenía que crear un nuevo camino.
+Entonces empezamos a ir a eventos, conocer la comunidad crypto en España y como que poco a poco hacer el nombre de Solana, porque ponte que incluso Luego el año 2022 pasó el evento canónico de Solana, que no lo quiero nombrar.
+
+[Speaker 0 - 00:23:56]
+No hay que mencionarlo porque, híjole, todavía me duele.
+
+[Speaker 1 - 00:24:07]
+Cómo dice, uy, ahí te perdí.
+Que justamente eso, ahí estamos ya.
+
+[Speaker 0 - 00:24:14]
+¿No, no, si te mencionaba que hay que platicarlo porque duele y es historia, no?
+Y.
+Y es un gran hito que.
+
+[Speaker 2 - 00:24:23]
+Nos.
+
+[Speaker 0 - 00:24:23]
+Tocó a todos los usuarios, incluso al parecer ya pasó.
+
+[Speaker 1 - 00:24:28]
+Incluso hay datos importantísimos que hablan sobre esto que se pueden conseguir en público en la red de Solana y cómo funciona.
+Y me agricia que hablemos de esto porque justamente estoy aquí con el cofundador de la Familia, que es Daniel, que está por aquí abajo también conectado, que estamos haciendo un podcast porque obviamente va a tener mucho más contenido en español.
+Entonces también siguiendo un podcast de la Familia y estamos juntamente grabándole, estamos hablando de métricas que muestran como lo bien que está el estado de la red ahora comparado con esa catástrofe.
+Entonces me parece brutal, siento que ya podemos decir que we are so back, como lo dicen mucho por aquí por Twitter y eso, pues se siguió creciendo todo y a pesar de eso agarré un enfoque distinto porque ahora no era solo crear comunidad, sino también crear proyectos.
+Entonces me alié mucho con las personas de Heavy Duty Builders, que aquí abajo está Dan, que estaba en esa, también está Andrés luego por aquí abajo, que ellos son como una comunidad de desarrolladores.
+Ellos tienen una comunidad de desarrolladores, incluso ellos ganaron, si no me equivoco, un premio en el segundo hackatón de Solana, también estuvieron súper early en el ecosistema y luego de ganar este hackatón decidieron como que crear esta comunidad para formar más desarrolladores o un espacio donde distintos desarrolladores pudieran aprender en conjunto y empezamos a hacer más material educativo.
+Incluso a Solana Fundation gustó mucho esto y estuvimos desde España desde el año pasado haciendo, hicimos un tour de desarrollo donde pasamos por distintas ciudades haciendo workshops sobre cómo desarrollar con Solana.
+Ellos están haciendo bootcamp gratuitos online, literal esta semana acabe de terminar el bootcamp que tienen donde enseñan como desarrollo básico en Solana de forma gratuita, en enero van a hacer otra versión.
+Entonces como que empezamos a trabajar juntos, a crecer Solana en España de todos los ámbitos, tanto la parte de eventos, de comunidad, de desarrollo de instituciones y eso se formalizó hoy en día en lo que viene siendo la familia.
+
+[Speaker 0 - 00:26:19]
+Qué chingón, qué chingón, la neta si se me hace una iniciativa muy fregona el tema de solar en español, creo.
+
+[Speaker 1 - 00:26:27]
+Que.
+
+[Speaker 0 - 00:26:30]
+Hay pocas personas en realidad haciendo espacios, hablando exclusivamente de eso, a mí me gusta hablar de todo pero creo que hay un nicho súper grande ahí que no se ha explotado y que bueno, qué chingón que están ahorita ustedes empezando o ya trabajando para aprovecharlo y pues por lo que escucho y nos cuentas pues ya tienes años tú haciendo relaciones ahí, etcétera.
+Aquí en México creo que falta mucho uso, Latinoamérica creo que nos falta mucho el uso.
+Nosotros por acá por ejemplo hemos estado experimentando con talleres, workshops, estamos planeando uno que queremos empezar, no sé si este año el que sigue para gente que ya es más o menos desarrollador que empiece a usar código por acá, pero te soy sincero, hay muchos más desarrolladores de Solidity y de otro tipo de redes que de Solana aquí en México, al menos en mi experiencia y a mí lo que me ha tocado ver, no sé tú cómo lo veas por allá en España, pero creo que hace falta mucho, mucho contenido, muchos talleres presenciales.
+Hace poquito que vino Solana.
+En una de las conferencias muy grandes, vino Super Team, hicieron acá un bildatón, se juntó un chorro de banda, entonces eso me abrió los ojos a decir madres, a lo mejor yo también podría empezar a hacer un poquito más de contenido y más de talleres y para eso estamos empezando a hacer cosas por acá, pero el potencial lo veo enorme, enorme, enorme, enorme.
+¿Cómo fue tu proceso con el tema de NFTs?
+Si quieres al rato platicamos de todo esto de desarrollo de los planes, pero sí me gustaría ir a esas primeras etapas cuando lanzaron los NFTs, no sé si tú ya habías trabajado con NFTs o operado, transaccionado con NFTs en alguna otra red.
+A mí la verdad se me pasaron, por ejemplo los punks los vi estando ahí listos, libres, gratis, dije pinches madres cuadriculadas también feas.
+Vi los Bored Apes también en doscientos, trescientos dólares.
+Medio éter, un éter, dije no me pinches changos ojetes.
+Y ya que vi todo el pinche boom y que vi que venía también Solana haciendo, sacando como que una ola de NFTs, dije no mames, me tengo que montar, algo similar va a pasar y creo que sí lo vimos.
+¿No sé tú cómo experimentaste, si ya habías usado NFTs en alguna otra red y cuando salieron en Solana también estuviste en esa, en esa ola, en ese tren o cómo fue tu entrada con NFTs?
+Porque ahorita veo que tienes un que es uno de los que nunca he podido tener y que me encanta y se ve que la comunidad es súper activa y muy chingona y que les ha premiado también mucho.
+Pero cuéntame un poquito de tu historia con NFTs en cualquier red y luego con Solana.
+
+[Speaker 1 - 00:29:12]
+Bueno, la verdad es que sí, yo empecé en Solana desde 2020 y fue mi primera como que experiencia de lleno con los NFTs, también con los NFTs incluso me acuerdo que eso fue lo que activó totalmente lo que viene siendo mi bien a DJ, porque incluso yo siento que por lo menos el equipo de la familia está muy balanceado porque yo vengo mucho más así de las trincheras de los DJ, de los NFT, conozco muchas personas del ecosistema y mi cofundador que es Daniel que está aquí abajo, viene más de la parte técnica de desarrollo, supongo que podemos cubrir todos los frentes, pero sí, yo empecé mi camino de DJ totalmente con los NFT en su momento cuando empecé con Solana, me acuerdo que mi primer profit, bueno con NFT incluso fue con Soljama, no sé quién se acordará de eso.
+
+[Speaker 0 - 00:29:55]
+Todavía tengo un par de Sol Llamas y todavía tengo un par de pinches locura.
+
+[Speaker 1 - 00:29:59]
+Muchos proyectos que salieron, tumbas, me acuerdo.
+
+[Speaker 0 - 00:30:02]
+De las pinches tumbas esas.
+¿Cuál fue la primer colección en la que entraste?
+¿Ya fue el primero que mintiaste?
+Tocó mintear estos los DJ Names supieras.
+
+[Speaker 1 - 00:30:16]
+Que no me acuerdo cuál fue literal la primera que mintié, pero sí la primera que le saqué profit que fue la de Soljama.
+Tuve con mucho también lo de Solana Puns que salieron en su momento DJ, me acuerdo que tuve mucho estrés porque si no me equivoco fue un día, era un día que yo iba a salir de tarde y yo estaba en Venezuela, el Mint era como a las 6 de la tarde y se fue postergando una hora, una hora, una hora hasta que se hicieron las dos, tres de la mañana y yo salí.
+Y luego obviamente subió muchísimo y yo me molesté.
+Luego después eso fue lo de Aurori también me acuerdo cuando salieron, estuve muy metido en todo eso.
+Y luego este año que se reactivó todo, empezando con.
+Que creo que es una de mis.
+Equipo que levantó mucho una red y no la abandonó cuando más la necesitaba.
+Y de ahí también fue migrando mucho a las Mincoins cuando salieron las Celebrity Coins, el tema de poder año fue una locura que antes era mucho más manual.
+Siento que esto hizo que explotara todo por 20.000 la cantidad de monedas y de generarse que existía en Solana.
+Pero bueno.
+
+[Speaker 0 - 00:31:30]
+Si no, la verdad es que yo no veo mejor red como para shitcoins, comisiones baratas.
+Movimientos rápidos.
+Ya no se ha caído.
+Si, todos sus temas.
+Creo que sigue eso mejorando y que ahora con los nuevos validadores que están secando Fire Dancer va a ser mucho mejor.
+No sé si estén funcionando, pero la neta sí, sí, sí, es una red que sigo utilizando mucho, todas las semanas lo utilizo, todavía tengo miles y miles de NFTs por ahí el otro día.
+Y de eso también está interesante platicar porque mucha gente no conoce cómo funciona la red, que tienes que pagar una renta, que tienes que dejar algo de Solana bloqueado para poder almacenar información y cuando ya no necesitas esa información la puedes quitar de la red y la eliminas y te regresan ese Solana y hay un chorro de maneras de obtener ese Solana de regreso que mucha gente ni conoce.
+Hace poco tuiteé del tema y me falta escribir por ahí un artículo, pero se me hace súper interesante cómo sigue mejorando.
+Hace unos días sacaron una iniciativa donde el tamaño de los NFTs, el protocolo o el estándar de los NFTs que desarrolló Metaplex, que es una institución que hace este tipo de estándares, modificó la red para que pudieras recuperar mucho Solana.
+Yo acabé recuperando como me acuerdo, como tres o cuatro Solanas de las diferentes carteras que por ahí tenía.
+Luego les tuitearé el link al artículo para que también puedan hacer el proceso y recuperen ahí algo de lo que tienen atorado.
+¿Pero.
+Ahora que se vino El tema de NFTs, digo de memes, perdón, te has metido, te has clavado?
+¿Has estado tradeando pump phone?
+¿Te gusta el de genere o el check coinear o no?
+¿Cómo andas ahí con eso?
+
+[Speaker 1 - 00:33:34]
+Bueno, incluso sobre lo que hablabas de los estándares nuevos y todo esto de quemar, me acuerdo que eso era una cosa que no muchos sabían, lo de la renta y era súper útil porque ponte que el hecho de que Solana fuese barata en comparación con otros proyectos NFTs, otras cadenas de bloques, hacía muchos scam de que te mandaban un NFT falso, sabes, como que dale clic y tal y lo que pasa es que uno podía quemar estos NFT y recibir ganancias, era como que por.
+Por intentar cambiarme yo recibía una cantidad de Lampors.
+Eso después se cambió porque salieron los NFT comprimidos, que esto sí que no te devuelven renta porque quita mucho menos espacio, pero entonces era como un momento también cosas en Solana que se vivieron.
+Y bueno, respecto a las memecoins, creo que es un poquito lo que puedo llegar a extrañar, o sea, siempre tengo mi nena DJ y mis amigos lo saben y los que me conocen el ecosistema también, a veces sí que entro en alguna que otra cosa, pero desde que estoy ya enfocado con la familia tampoco es que tengo tanto tiempo para eso, porque uno es DJ pero uno hace un estudio, uno se sienta con sus monitores a ver cómo funciona y todo, y ahora mismo es como que estoy en eventos, viajando, organizando las cosas para la familia y siento que esto de alguna forma me llena más también.
+Entonces feliz con como mi vida también poco a poco se separa un poquito de los DJ, pero sin negar que siempre va a estar esa vena por allí.
+
+[Speaker 0 - 00:34:53]
+Yo sí estuve un rato muy muy pegado, hace poquito regresé, pero no en realidad así a dedicarle todo el tiempo que antes dedicaba, porque si es tradear shitcoins, estar pegado ahí a las gráficas, ver cuándo salen, ver los memes, te demanda mucho tiempo.
+Pero como hemos visto.
+Se ha hecho y mucha gente ha hecho mucho, mucho dinero.
+¿Cómo le ha ido a tu comunidad?
+¿Hay alguno que ha pegado así mamón ahora con este boom que?
+¿Y Crees que siga?
+¿Crees que todavía estamos empezando?
+¿En qué fase del ciclo de la shitcoin sensolana crees que estemos?
+
+[Speaker 1 - 00:35:31]
+Bueno, la verdad es que no lo sé, o sea hacia lo que te puedo hablar es justamente lo que te comentaba de los datos, o sea como que ahora mismo hay más desarrolladores que el año pasado construyo Solana, hay más nuevos proyectos, hay más nuevas personas invirtiendo en estos proyectos, instituciones y todo, moviendo dinero y cosas en Solana, así que siento que eso también mueve mucho el sentimiento que se tiene ahora mismo sobre la red.
+Entonces en cuanto a las comunidades, yo aparte de la comunidad de estar creando también he participado en distintas comunidades que sí se enfocan 100% a lo de.
+Porque ponte que por lo menos nuestra comunidad también está muy enfocado a la educación, a formar a nuevos desarrolladores, a que entiendan cómo funciona, pero a veces no nos vamos tanto por la parte del trading o mincoins y esto, hay muchas comunidades que sí, incluso para también hablar de una aquí en el Council que es una comunidad en la que formaba parte que la mayoría son españoles.
+Y ha habido muchos profits, incluso tienen como canales de profits, están todo el día, el canal está más activo que nunca, incluso tenemos como una sección de alfa que me siento mal porque no he podido mirarle mucho tiempo porque como que ya 24 horas sin parar y yo estoy aquí creando contenido en español que realmente es lo que me apasiona, pero sé que ellos siguen trabajando y que justamente es lo que yo digo, hay que mostrar que Solana hay espacio para todos, tanto para este tipo de personas como a los que quieren crear productos y todo y podemos tener un espacio donde todos estemos juntos que es justamente lo que se está creando.
+
+[Speaker 0 - 00:36:52]
+Sí, definitivo, es una de las mejores herramientas que existen.
+¿Por ahí utilizas alguna otra?
+Yo últimamente me he metido a explorar mucho el tema de las L, cuando salieron Ethereum en ese entonces en el 2021-22 todavía las comisiones estaban muy elevadas y no había tos alternativas nuevas que ahorita ya tenemos.
+¿Te has metido a explorar algo de ese ecosistema?
+¿Cómo lo ves y cómo lo compararías con Solana?
+
+[Speaker 1 - 00:37:19]
+Disculpa, ¿Cuál exactamente?
+El de las L, lo que pasa es que se me cortó un poco.
+
+[Speaker 0 - 00:37:24]
+Sí, Ethereum y todas las L, o sea Arbitrum, Optimism, Scroll, todas estas nuevas capas 2 que han salido y esta también nueva manera, no nueva pero sí distinta manera de utilizar blockchain.
+Solana tiene esa capacidad de ser una capa 1 donde puedes hacer transacciones muy baratas y muy rápidas y tiene mucha capacidad.
+Ethereum está agarrando otro tipo de manera de escalar.
+Te ha tocado analizarla un poquito más, o sea, te has metido a analizar Ethereum y su manera que está escalando con las capas 2 para poder comparar con Solana o no, o cómo está, o sea, sí.
+¿Qué tanto te has involucrado con con Ethereum?
+
+[Speaker 1 - 00:38:06]
+Bueno, incluso con Ethereum quizás no tanto como con otras blockchains por ejemplo como Aptos y SUI, por decir alguna que se me deja un poco más a como estaba construida Solana.
+Y sí, obviamente toqué Ethereum en su momento, obviamente estando desde Venezuela operar con Ethereum era imposible por nada más el hecho de la fija y tal, luego intenté aprender un poco más sobre sus L con Arbitrum, la escuché bastante, intenté probarla también, cuestiones también que acuérdate que mi momento también fue fui DJ Farmer, estuve como que plano blockchain y todo, pero al fin de cuentas siempre destiné el mínimo del 80% de mi tiempo en Solana, o sea, no sólo porque sea Solana Maxi, más que todo por un hecho que obviamente ya estaba también con la comunidad de Solana en español, entonces me preocupaba mucho por estar al día de todo lo que sucedía en el ecosistema y no probaba tanto en otras blockchain, mi parte de ACDN si la probaba de vez en cuando, pero a fin de cuentas siempre me sentí más cómodo en Solana, o sea, a nivel de proyectos, usuarios, era algo que conocía, intenté probar otras cosas también para ver qué tal iban, como fue el caso de Aptos cuando salió cuando salió SUI, que a fin de cuentas son redes que están bien, pero también siento que están como con otro foco, con otro objetivo, por lo menos ahora yo Solana la veo ahora mismo que está muy enfocada, obviamente tiene el meta de las memes, que con lo de POD y como está construida sube muchísimo, está también el meta de las memes, pero también los equipos de Solana se están enfocando mucho en lo que viene siendo pagos o lo que viene siendo productos de Pingüino que son como de infraestructura que sea física también, como es el caso de Helium por ejemplo con su web móvil, entre otras cosas.
+Entonces como que la parte desarrolladora de Solana se está enfocando en estos nichos y también está sobresaliendo el nicho de Mincoins o NFTs.
+
+[Speaker 0 - 00:39:46]
+Sí, la verdad es que es muy difícil, o al menos para mí estar muy muy metido en diferentes blockchains y analizarlas y comprenderlas, o sea ya hay tantas opciones, tantas alternativas.
+Ethereum, Bitcoin, Solana, yo me he quedado más o menos en esas, he empezado a explorar otras como Nier, he empezado a explorar otras como Hive, hace poquito entré a conocer un poquito de Hival, alguien hace poquito comentó aquí abajo, creo que fue Edimax el que comentó que por ahí.
+Cuando estabas en EOS te conoció.
+Sí, por aquí lo vi con la edad de Karma de Neos y que luego brincaron a Steam y ahora Hybe, etc.
+Pero sí es bien complicado y tú te has enfocado en Solana y qué chido.
+Cuéntame un poquito de cómo empezó el tema del contenido, sé que estabas manejando comunidad, ¿Cómo empezó por ejemplo el espacio que empezaron a hacer con Pulso Media y el proceso de luego decir OK, hasta aquí terminó mi etapa y voy a empezar algo propio?
+
+[Speaker 1 - 00:40:56]
+Si, vale.
+Incluso nosotros empezamos a hacer contenido, incluso como te dije desde el año pasado que con las personas de Ebullity Builders hacemos mucho contenido más enfocado tanto a desarrolladores, educación de cómo funcionaba la red.
+Yo también estuve muchos eventos aquí en España, entonces estaba ya también con conocimiento del ecosistema.
+En este momento me acuerdo que Pulso Media quería sacar un programa venezolano y justamente por eso nos contactan, también contactaron a Allen, no sé si lo conoce, un puertorriqueño que es súper genial, que también tiene tiempo en el ecosistema y luego como el tercer capítulo me contactan a mí justamente para esto, porque era como que la idea era conseguir personas que tuviesen mucho tiempo en el ecosistema como nosotros y que conocieran cómo funcionara para también hablar un poco traer contenido en español.
+Entonces empezamos con ellos, participaba más como que embajadores y vimos el espacio como literal tenía desde dos escuchas hasta las últimas semanas que estuve que teníamos mínimo 100 reproducciones.
+Habíamos crecido bastante, habíamos traído invitados grandísimos porque obviamente como conocíamos personas del ecosistema, traíamos a personas de estos equipos, porque ponte que uno de mis focos principales cuando estaba ya en la parte de Community Manager en Solana era siempre buscar a personas en equipos grandes del ecosistema, como sea de Backpack u otros productos grandes, buscar ahí el equipo que hablar español.
+Este fue como siempre mi foco y hablaba con ellos, les comentaba de lo importante de hacer crecer la comunidad hispana, de invitarlos a cosas para que hablen con la comunidad.
+De esta forma me enteré que el cofundador de Backpack como lo nombraste, Tristán, es mitad chileno también, que se encarga de la comunidad, Monkey que creo que fue el que vi por aquí también en México.
+Entonces hay muchas personas hispanas en proyectos grandes de Solana y siempre me enfocaba en buscarlos, entonces invitamos muchos ellos al programa.
+El programa ha ido creciendo y tenemos un contenido como que enfocado en español, pero era como que siempre nosotros queramos como yo por lo menos personalmente quería dar también un paso más, incluso estando ensuciando, que era más como que un programa enfocado en educación o en noticias más que todo, era más que todo un programa de noticias con invitados.
+Sacamos un programa también que se llamaba Memerengue, que era ya enfocado ya si el DJ Meme, que eso lo seguimos haciendo con amigos de la comunidad todos los martes, que incluso es un espacio que no se graba.
+Ahora con la familia también queremos hacer un espacio un poco distinto, o sea no queremos hacer como que un show de noticias nada más cada semana, sino que queremos hacer un espacio donde también se haga mucho shout out a los proyectos que están haciéndose comunidades hispanas, que incluso por eso por lo menos como tú que haces también espacio y a lo mejor no estás 100 % en Solana, pero sí he visto mucho contenido que has hecho de Solana en español y eso se aprecia muchísimo porque eso es justamente lo que buscamos.
+Entonces queremos hacer más un espacio enfocado en esto, en obviamente traer las conexiones que tenemos en el ecosistema a que cuenten cosas, a que enseñen.
+Justamente desaprovechar también nuestro lazo ahora con Solana Foundation para mantener a la comunidad actualizada de todo lo que va sucediendo.
+Entonces decidimos hacer esto también con la familia, que era una de las iniciativas que tenemos.
+Incluso la próxima semana va a ser el primer Space que vamos a hacer con esta dinámica que a lo mejor el primero al ser un poco especial, como vamos a tener a muchos invitados porque me gustaría también hacer una mención especial a todos los que están haciendo contenido de Solana en español.
+Solamente me lance como dos horas en ese espacio, pero seguramente va a valer la pena.
+La idea es como que vayan rotando las personas que hacen cosas en español y que todo el mundo pueda tener conciencia de lo que se está.
+
+[Speaker 0 - 00:44:12]
+Trabajando.
+Platícame de ese espacio, ¿Cuándo es?
+¿Quién va a estar?
+Ya es la próxima semana.
+Me invitaste, yo definitivamente ahí estaré.
+Pero cuéntame, ¿Ese es el primer espacio oficial de la.
+
+[Speaker 1 - 00:44:30]
+Familia?
+Sí, correcto.
+Va a ser incluso la semana que viene entre el día de mañana deberíamos estar anunciando.
+Así que también se comieron un alfa por venir al espacio.
+Va a ser el primero a las 6 de la tarde hora España, creo que en México serían viniendo las 11, las 12 si no me.
+
+[Speaker 0 - 00:44:46]
+Equivoco.
+Sí, temprano todavía, ahorita te confirmo.
+Pero Sí, creo que.
+
+[Speaker 1 - 00:44:52]
+11.
+Sí, intentamos hacer este horario porque sé que hay personas alrededor de todo el mundo que hacen contenido en español.
+Entonces el foco de este espacio va simplemente esto va a ser un espacio que vamos a hacer como algunas dos veces al mes, tampoco va a ser semanalmente.
+Y vamos a estar hablando de tanto las noticias del ecosistema, sobre las cosas que se están trabajando, por lo menos como tú me comentaste que hace falta muchas cosas en Latinoamérica.
+No sé si sabías que hace poco también hay ahora una comunidad de Argentina que ahora tiene unas oficinas allá.
+También se está haciendo mucho trabajo en México, como me comentaste, Enercon fue increíble, incluso en el evento de lanzamiento donde hicimos el lanzamiento de la familia aquí en Madrid, conocí a las personas en AirConf que estaban por aquí también.
+Entonces justamente es eso, como que hacer un shutout gigante a todas esas personas que están creando y haciendo cosas en español al ecosistema de Solana.
+No sé, en el primer capítulo queremos como que invitar a muchos de estas personas que cuenten su experiencia, en que se está trabajando.
+Incluso por aquí abajo vamos seguramente a subir a las personas de Blonka que hicieron un proyecto ganador de hackatón, a Javi que también lo conozco, en persona, la conocí en un breakpoint, fuimos juntos a un breakpoint en Lisboa y también ha hecho algunas cosas de Solana.
+Entonces me gustaría que él hablara de su comunidad, de lo que hacen.
+El caso tuyo Abraham que también lo veo aquí abajo conectado.
+El punto de junta era muchas de esas personas que están haciendo cosas en pro a la comunidad hispana y darle un espacio también como que para que la gente los mire, los siga.
+Y luego de eso también hablar obviamente del estado del arte Solana, o sea cómo está trabajando, los nuevos planes.
+Esa va a ser un poco la dinámica.
+Lo que pasa es que como para el primer capítulo que quiero que sea especial, tenemos muchísimos invitados, ya nombré algunos pero faltan algunos más para nombrar que lo anunciaremos mañana, entonces va a ser una locura.
+Seguramente sí pueden escuchar las dos horas completas de Space, que seguramente tarde, los voy a creer muchísimo, pero la idea es como que sea también rotativo, como que vayan a subir personas, van a otros que se van a tener que ir por el tiempo y llegan otros invitados.
+Incluso voy a traer a un par de invitados que crean mucho contenido de Solana en inglés y son muy conocidos en inglés, pero muchos no saben que son también de aquí de España, entonces me parece también interesante que puedan hablar en su idioma natal.
+
+[Speaker 0 - 00:46:52]
+¿Saben?
+Mira, te recomiendo, veo acá abajo conectado a Peko, tiene la foto de perfil como que dio un.
+Bueno, no está negra su foto de perfil pero su nombre es un unicornio, él tiene años en Solana también sacó y está apoyando una colección OG de los luchadores.
+Del Buen Felipe y el Luchador.
+Si se ponen en comunicación estaría chido.
+Tiene ya también muchos años.
+
+[Speaker 1 - 00:47:27]
+Ahí.
+A Peco lo conozco mucho, incluso en el espacio que te comenté de los martes que hacemos para personas más degeneradas, Peco siempre se pasa, así que sí, él también tiene su VEN.
+A DJ lo conozco, hemos compartido muchísimo y también lo invité, incluso por aquí también veo a NX que una vez participé también en su espacio que subió.
+Gaudius también si se quiere pasar está en más que invitado.
+Cualquier persona que haga algo y haya hecho ven Solana, la idea es juntarnos y que sea un espacio para también como una voz de todas estas comunidades hacia Solana directamente de que se está trabajando en español porque justamente lo que digo también aprovechar los lazos que tenemos con Foundation y todo porque están poniendo mucho en ojo en todo lo que se está haciendo.
+Tuvimos el anuncio, anunciaron La Familia oficialmente en octubre, ayer también subieron, mentira, hoy subieron un tweet también de las oficinas en Argentina.
+Entonces eso, seguir haciendo ruido en todo lo que se está creando en países hispanos.
+Que se vea que es una gran parte de toda la comunidad.
+
+[Speaker 0 - 00:48:20]
+Venezolana.
+Tengo una pregunta, creo que hay mucho potencial.
+Adelante.
+Bienvenido.
+Juan, no te había visto por acá pero pediste la.
+
+[Speaker 3 - 00:48:35]
+Palabra.
+Gracias.
+Gracias y gracias por dejarme hablar nada más.
+Tengo una pregunta sobre los eventos, ¿Son en persona o son en spaces?
+Y qué bueno que haya más cosas en español.
+Yo hablo inglés y español, pero es bueno que también haya cosas en.
+
+[Speaker 1 - 00:48:55]
+Español.
+Bueno, sí, por lo menos en el caso de La Familia, como comenté, estamos haciendo mucho contenido online porque la idea es también hacer como un gap entre España y Latinoamérica hacia Solana, hacia Soul Foundation por decirlo de alguna forma, para que noten lo que estamos haciendo.
+Entonces nosotros hacemos mucho eventos online, vamos a tener justamente estamos grabando un podcast que se viene la semana que viene empezamos con los Spaces también hacemos muchos cursos enfocados también a desarrolladores, que vi que tu perfil también pone algo sobre desarrollo con Heavy Duty Builders, hacemos bootcamps de cómo desarrollar en Solana gratuitamente.
+Entonces increíble, acabamos de terminar la última versión y la siguiente va a salir en enero.
+Entonces también activos por esa parte.
+Y en cuanto a eventos en real Life en Solana se están haciendo ahora mucho más eventos en real life en muchos países de la hispana por lo menos nosotros estamos como que haciendo eventos en toda España, incluso principalmente en Barcelona y Madrid que donde hay más comunidades.
+Pero si estás en España y quieres que tu ciudad se haga, simplemente háznoslo saber porque queremos que esto pase en cualquier ciudad.
+Y como pasa esto también hay ya personas en Argentina que están haciendo quedas en físico igual sé que en México también, en Colombia.
+Y la idea es como que se siga aumentando esta cantidad de eventos en real life.
+Por lo menos hay algo en Solana que se llama Solana Ecosistem Call, que es como una excusa que se hace el primer jueves del mes, donde se hablan de las novedades del ecosistema de Solana durante el último mes.
+Y también sirve para que las comunidades se junten en persona.
+Sé que esto lo han hecho en México igual si no me equivoco en México Rígeme, ¿En algún momento eso se hizo en la comunidad que tienen en Monterrey.
+
+[Speaker 0 - 00:50:24]
+Ustedes?
+Sí, lo hicimos una vez en Monterrey.
+Normalmente esas llamadas son muy temprano y la migramos en la tarde.
+Aquí andaba Tiago, yo me imagino que lo conoces al buen Tiago, está súper metido, brasileño, que tiene familia acá en México y que estuvo acá en Monterrey un rato.
+Ya no sé para dónde anda, pero si lo armamos con él y fíjate que voy a empezar a volverlo a armar ese ecosistema call.
+Me gusta mucho lo que hacen porque ayudan a que la gente se junte y obviamente pues están dando las noticias.
+Es una vez al mes y lo vamos a tener que repetir en Monterrey.
+Creo que una vez nada más lo.
+
+[Speaker 1 - 00:51:03]
+Hemos.
+Igual si quiere luego de esto, escríbeme un mensaje porque también te pongo en contacto para que puedan empezar a organizar también esto en médico, porque el equipo está muy activo para que se haga esto en todo el mundo.
+Incluso nosotros también no lo hacemos en vivo, pero no por el horario, porque aquí por lo menos a las 2 de la tarde no está tan temprano, pero prefiero hacerlo en diferido porque esto nos da la oportunidad también de comentar en las noticias y todo lo que se habla en español a nuestra comunidad.
+Porque ponte que la llamada en inglés, entonces hay entrevistas, hay noticias en inglés, pero si tú lo haces con la grabación, puedes tú mismo contar estas noticias en español.
+Incluso yo leí este feedback al equipo que está haciendo estas llamadas y me dijeron que está muy de acuerdo y que le encanta la idea de que sean las comunidades que lleven estas noticias a su comunidad, valga la redundancia.
+Entonces sí, ponte en contacto conmigo y vamos a esta llamada.
+Igual aquí que me escuchen en cualquier parte del mundo, que estén nosotros en la familia, vamos a apoyarlos para que se puedan hacer este tipo de llamada en la ciudad donde estén, así no estén en España, los ponemos en contacto porque al fin de cuentas algo muy importante y como te dije, o sea, cuando tú ya empiezas a unirte en personas y personas de tu círculo que están en el mismo ecosistema, la capacidad de crecer es mucho.
+
+[Speaker 0 - 00:52:10]
+Mayor.
+Sí, definitivamente es algo que tenemos que retomar y no nada más esas ecosistemas calls, vamos a empezar con talleres y sí te voy a contactar y obviamente platicaremos la próxima semana en espacios.
+Porque acá en México, fíjate que hay una historia algo extraña, ha habido varios eventos, ha venido gente, ha habido aquí en Monterrey, por ejemplo, varios equipos de Súper Team y en México en general que creo que no han hecho buen clic, creo que les ha faltado, no sé si han escogido personas.
+Con las cuales no pudieron hacer buen enlace o qué.
+Hace poquito vi, por ejemplo, una oportunidad que salió para un líder de Superteam México, si mal no recuerdo, mandé por ahí la solicitud y por ahí me postulé y todo porque sí me llamaba mucho la atención el proceso y también por qué no entrar a ver qué estaban ofreciendo y qué es lo que buscaban, etcétera.
+Pero ya no me buscaron, no me han llamado.
+Yo creo que Superteam aquí en México tiene un muy, muy grande potencial, pero creo que no lo están aprovechando.
+No sé cómo funciona bien Superteam, sé que es una institución totalmente ajena a Solana, pero que se fondea a través de grants y a través de diferentes iniciativas con la fundación.
+No sé si tú conozcas un poco y si sepas ahorita quién está manejando México, sino para echarle una llamadita y ver qué se puede organizar, porque la neta creo que no han explotado el mercado mexicano que tiene ya un par de años que crecido muchísimo y que definitivamente sí o sí vamos a traer a Monterrey un breakpoint, no sé cuándo, pero aquí yo me encargo de que pinche breakpoint llegue a Monterrey, ahí lo platicaremos más a detalle a ver si nos puedes ayudar.
+¿Pero qué Sabes de Superteam?
+¿Qué ha pasado con Superteam México?
+No sé si conozcas o en algún otro lado, pero acá definitivamente creo que les ha faltado.
+
+[Speaker 1 - 00:54:10]
+Mucho.
+Sí, o sea, yo por lo menos la comunidad Superteam la conozco muchísimo y tengo mucha buena relación con distinto Superteam.
+Por ejemplo, como comenté aquí abajo, está Lilipatía, que no sé si se quiera subir a comentar algo también, ya que ella tiene mucho lazo relacionada con el Superteam de Francia, que también los conocí en el último evento y personas increíbles.
+También tengo buenos lazos con Superteam, por lo menos en UK, en Alemania.
+Y sí, o sea, a personas de Superteam México llegué a conocerlos, pero sí he notado como que han, como que cambiaba de directiva un par de veces, entonces como que no han tenido, como que no se han conformado bien hacerle clic con la comunidad, pero creo que es algo como tú dices, un potencial que existe allí muy fuerte porque conozco muchas personas de la comunidad de México, he conocido a personas del Super Team de México también, pero de la comunidad.
+Entonces no sé, supongo que más que todo con la gestión, pero sé que como tú dices, habían abierto una posición para buscar a nuevos miembros, a nuevas personas que lo lleven.
+Entonces es interesante porque en México hay una gran comunidad.
+Pero yo lo que puedo decir es que los Superteam, al igual que la familia, son comunidades regionales de Solana, o sea que se encargan en el crecimiento de Solana en su región.
+Obviamente si son con el apoyo de Sona Foundation que es lo que lo hace casi como un poco más oficial todo, pero el caso por lo menos, quiero también traer de ejemplo el caso de Argentina, que en Argentina también se está intentando crear un Super Team si no me equivoco y no sé, por algún motivo que desconozco, como que no se lograba como que cerrar ya de una vez oficialmente.
+Y hay varias comunidades que empezaron también a hacer esto, empezaron con las ecosistem call personas del ecosistema que estaban también en Argentina y han creado esta comunidad que se llama Solana por ar, si no me equivoco, Solana ar por x algo así que justamente ayer Solana, voy a buscar aquí, Solana anunció las oficinas que crearon este equipo allá y tuvimos una llamada con ellos, estuvimos conversando también sobre estrategias de cómo pueden crecer, de llevar su comunidad regional en Solana y siento que justamente es esto también, la idea es como crearon que personas locales y que llevan las comunidades sean los responsables del crecimiento de Solana en su región.
+Esto es como un poco la visión que tiene la familia también y que en Solana, que por eso es que no como que ellos tienen Solana Argentina oficial, sino que son equipos externos y equipos que están allá en la región que saben cómo funciona lo que se encarguen del crecimiento, obviamente con el apoyo de Solana y todo, pero es como que la responsabilidad recae en estas personas.
+Entonces lo que te digo, si se puede intentar por lo de Superteam y si no, estoy seguro que cualquier forma hay una posibilidad de que Solana incremente sus actividades en México, así que lo hablamos.
+Como te dije, podemos tener un alma en cualquier momento y ayudarte a conectarte con las personas necesarias para que esto se cumpla.
+Y mira, ahí vi que Lili se subió.
+¿Qué.
+
+[Speaker 2 - 00:56:40]
+Tal?
+Hola Andrew y hola a todos.
+Todo bien, pero también me metí a Super Team México.
+Hace meses y vi que estaba un poco muerto el chat, pero lo que se está armando con la familia y todo lo que hablamos cuando estuvimos en Breakpoint me parece increíble y qué ganas de empezar ya el Space con toda la familia.
+¿Pero sí, también tengo el ejemplo de Súper Team francés, están organizando bastante cosas, se ven súper seguido y eso es lo que necesitamos, al final hacen bastantes cosas en persona, es como Andrew dijo, el lugar ideal para hacer conexiones que nos van a ayudar en el futuro, sobre todo para la gente que se está lanzando con proyectos o simplemente conocer a más gente que está en la misma comunidad como todos.
+
+[Speaker 0 - 00:57:30]
+Nosotros?
+¿No?
+Muchas gracias por subir, no sabía que estabas metida en el sistema de Super Team, ya te sigo desde hace un buen rato.
+Sí, sí, sí, esta cuenta me la.
+Ah bueno, no en esta, en la otra, no sé, ahorita checo la otra también, pero no, totalmente de acuerdo, creo que hay que explotar, platicar, las personas que estamos en el ecosistema hispano.
+No hemos aprovechado definitivamente creo que todavía hay mucho trabajo por hacer, muchas personas por conocer todas estas herramientas y plataformas.
+¿También por qué no?
+Que Entren al Casino de Genere de las Shetcoins que es divertido.
+Pero sí, México tiene mucho que ofrecer.
+De hecho aquí arriba les pinié.
+Una cuenta que tengo por ahí de Solana Monterrey, también lo dejé acá abajo como comentario por si gustan ir a Pasarla a Darle un Follow.
+Desde ahí estamos tratando e inaugurando y buscando hacer workshops para desarrolladores, que creo que es lo que más nos falta aquí en Monterrey.
+En Monterrey, no sé cómo lo vean ustedes en otros lados, ahorita les paso el micrófono, pero habemos muchas personas entusiastas y usuarios de poder, Power Users famosos que les llamamos, que estamos constantemente trabajando y utilizando estas herramientas y que traemos muchas ideas de proyectos, pero.
+No hay tantos desarrolladores.
+Eso es algo que queremos definitivamente mejorar a través de talleres, workshops, contenido, meetups, reuniones, etc.
+No sé ustedes como lo vean en otros lados, si sea algo similar o si hay más desarrolladores por allá por donde ustedes están.
+¿No sé Lili, Andrew, cómo lo.
+
+[Speaker 3 - 00:59:22]
+Ven?
+¿Yo tengo más como una pregunta sobre eso, no sé mucho sobre los eventos, yo no estoy en México, un país latino, pero quiero saber en los países que tienen tienen desarrollo, han trabajado en Solana de esos países o no importa de dónde están ubicados, con que sepan hablar el idioma español los dejan presentar o cómo es que uno puede ayudar con Super Team o con la familia en cualquier evento.
+
+[Speaker 1 - 00:59:58]
+Así?
+Bueno, por lo menos en el caso de workshops para desarrolladores o Bootcamps, nosotros desde YouTube hacemos mucho, incluso la mitad de nuestro público está en España, pero la otra mitad está en Latinoamérica, porque a fin de cuentas estamos unidos por este idioma y al hacer material educativo es como que nos sirve a todos los que podamos hablar español.
+Entonces en el caso de esto buscan online, nosotros hacemos con los que llevan el curso, tenemos un maestro, profesores que tienen tiempo en el ecosistema, incluso como te dije, Heavy Duty se formó de personas que ganaron el hackatón y que si, el segundo hackatón de Solana, que tienen mucho tiempo en la red.
+Y no sólo es que ganaron un hackatón, sino que han contribuido en parte de códigos para ciertas cosas, ya que acuérdense que es una blockchain de código abierto.
+Entonces han contribuido con personas, han trabajado con personas del equipo de Solana también son personas que tienen mucho conocimiento sobre desarrollo en Solana.
+Y además de eso solemos traer invitados también, tipo miembros de otros equipos que han ganado hackatones que hablan un poco de su experiencia, personas de proyectos grandes del ecosistema que hablan un poco también de esto.
+Entonces la idea es esto, como que hacer como un sitio donde las personas puedan de verdad aprender a desarrollar y no que sea como el típico curso que son vídeos pregrabados que tú escuchas cuando quieres y haces una prueba en cualquier momento.
+No, hacemos como que charlas en vivo en canal de Discord, dejamos el canal siempre abierto para cualquier tipo de preguntas, incluso yo he estado presenciando clases que duran más de tres horas, porque luego de la clase algunas personas tienen dudas o quieren empezar a hacer el código y lo hacen juntos y el que se quiera quedar también se queda allí viendo el código.
+Entonces siento que algo muy interesante y que ha sido uno de los motores principales de la familia, estos cursos de desarrollo.
+Y obviamente ya luego está la importancia también de hacer cosas en físico como dices tú Mexi, entonces la idea es como que cada vez trasladar de estos bootcamps también a pequeños workshops en cada país distinto para que la comunidad de desarrollo siga creciendo porque siento que esta es la forma correcta de hacerlo.
+Y obviamente conseguir apoyo en este caso de la familia, de la Fundación Venezolana, todo, porque el hecho de tener este contenido de calidad y gratuito para una persona, siento que es oro puro.
+Incluso como dije, el hecho de que un proyecto que aprendió en estos bootcamp recientemente ganó un premio en un hackatón, me parece que es increíble y también una muestra grande de lo que se puede hacer si nos unimos.
+
+[Speaker 0 - 01:02:09]
+Todos.
+Sí, acá en Monterrey vamos a empezar con workshops presenciales, porque.
+Sí yo ya quiero empezar a formar un equipo de desarrollo.
+Y creo que la presencialidad, no sé, al menos en la etapa en la que estamos acá en la comunidad nos va a ayudar mucho.
+Y si, ya tenemos a un.
+Desarrollador que es muy bueno, que se ha especializado, que ya tuvo varias certificaciones, creo que con Polkadot y con Solana y creo que la presencialidad aquí nos va a ayudar mucho también.
+Son talleres que estamos viendo como los fondeamos, porque todo eso cuesta.
+Nos hemos acercado con superteam, nos vamos a acercar con la Fundación, por ahí Andrew Lote busco para ver qué más se puede hacer, pero sí no, hace falta mucho, mucho, mucho para poder empezar a sacar proyectos, para poder empezar a ver startups.
+
+[Speaker 3 - 01:03:08]
+Latinas.
+Y cómo no puede aplicar para ser presentador o soy parte del Discord de superteam y pues seguí a la familia, también a Batman Web, pero sí tengo un interés de ayudar un poco si puedo.
+Yo tengo experiencia no nada más en Web 3, también en Web 2 de desarrollo en varias tecnologías y aprendiendo un poco más en cripto de diferentes blockchains, no nada más Solana, pero sí quería saber si eso es posible.
+Sí, sí, sí, sí.
+
+[Speaker 1 - 01:03:50]
+Sí.
+
+[Speaker 0 - 01:03:50]
+Perfecto.
+En realidad hay pocas startups y pocos proyectos que están ya levantando de capital, que tienen ya un equipo formado, que tienen clientes y que están facturando.
+Entonces bueno, hay que ver cómo lo potenciamos y definitivamente hablar de estos temas, hacer workshops, contenidos y espacios, creo que, creo que ayuda mucho.
+Voy a hacer un breve reset, ya llevamos aquí una hora, pueden todavía pasar por su coleccionable.
+Estamos hablando con Andrew de la familia, si no lo siguen, échenle un follow a todos los que están acá arriba como speakers, a Lili, Andrew, a la familia, a que no lo conozco, pero bueno, ya lo estaremos conociendo próximamente.
+Platicando a ver si se sigue conectando sus espacios, pueden coleccionar su colección, pueden pasar perdón, a reclamar su coleccionable digital, es totalmente gratuito, hay 69 disponibles, creo que todavía hay como 60 por ahí abiertos, si tienen algún problema por favor dejen sus comentarios.
+Ese coleccionable les da acceso a contenido exclusivo en el foro que estoy desarrollando y próximamente vamos a empezar a mover unas membresías, estoy desarrollando por ahí también contenido para que lo puedan accesar y es obviamente contenido token gated, ya les estaré platicando próximamente.
+Andrew, cuéntame un poquito de la familia, ¿Cuáles son los planes, a qué le tiras, o sea, cómo ves el futuro próximos cinco, no sé, tres, cinco.
+
+[Speaker 1 - 01:05:17]
+Años?
+Bueno, como te dije, con la familia ya estamos creando las bases, ya tenemos unas bases creadas y ahora queremos como que promover esta voz, por lo menos empezar ahora en toda España en más eventos en Real Life de Solana, traer más material educativo online, como te dije vamos a estar moviendo este Space, luego también vamos a estar moviendo un podcast, más cursos de desarrollo gratuitos online, todo esto viene siendo parte gratuito para la comunidad, normalmente está financiada por Solana Foundation y seguimos viendo muchas más cosas en español, que más proyectos crezcan en países hispanos, que creo que es muy importante, una métrica importante no sólo es que proyectos ganen o hackatón, sino que crezcan proyectos que puedan levantar dinero, seguir trabajando y que estén en distintas regiones, creo que este es uno de los focos principales que también se tiene.
+Y bueno, obviamente estamos aquí basados en España, pero la idea es por qué no, luego hacer conexiones con otros países y comunidades de otros países para que se pueda seguir llevando la movida de semana en español por todos estos países hispanos.
+Como tú dices, existió en Super Team México, pero hacer que realmente sea algo que haga ruido y que mueva a las personas del ecosistema como es el caso de Argentina, Colombia y cualquier otro país de Alhambra Long Short muy cercanamente vamos a estar haciendo como comenté otro curso de desarrollo en enero, pero vamos a tener varios al año, seguramente tengamos como dos o tres cursos al año, entonces van a haber varias oportunidades para que puedan participar.
+Vamos a hacer también un tour de desarrollo para hacer también estos workshops in Real Life que mencionamos anteriormente.
+¿Alrededor de España?
+Ahora alrededor de España, pero si conoces otras ciudades de todo, podemos intentar moverlo o sea, ya para México este año imposible porque estamos enfocados en España pero no descarto que en algún momento se pueda llevar a cabo porque a fin de cuentas es lo que digo, unir a las comunidades de habla español.
+Y bueno, luego también vamos a hacer otro evento no tanto enfocado a desarrollo sino comunidad.
+El problema lo llamamos Solana Day, lo estamos proyectando para marzo, donde vamos a hacer un evento donde van a poder venir distintos proyectos a mostrar su proyecto a la comunidad, mostrar un espacio de networking, cualquier locura que nos montamos para hacer el evento, porque al fin de cuentas creo que la idea es hacer un evento distinto y no el típico evento de charlas y ya.
+Hola.
+Hola, ¿Me escuchas.
+
+[Speaker 3 - 01:07:35]
+Ahí?
+Sí, sí, sí, te.
+
+[Speaker 1 - 01:07:37]
+Escuchamos.
+Sí, sí, sí, sí, que a veces me rugueo.
+Entonces sí, estos son como los planes a hacer corto tiempo para inicios del año que viene y todo, pero como te dije, a la larga la idea es establecer más lo que viene siendo Solana aquí en España, que tanto instituciones que ya están aquí den su paso blockchain, mostrar que es algo que se puede hablar mucho del caso del proyecto que nació en España y se formó desde cero y ahora pudo ganar un hackathon, siendo que algo muy importante para mostrar a las personas que hay una oportunidad en blockchain y como dije, no son oportunidades para cambiar en un casino que si te gusta también estás bienvenido, sino también oportunidades para crear tu proyecto o si quieres aprender a desarrollar y empezar a trabajar como desarrollador blockchain o simplemente si eres un artista y quieres mostrar tu arte de otra forma, tener coleccionadores, o sea, siento que el mundo de la blockchain y específicamente en Solana es algo muy amplio y siento que nuestra misión principal es transmitir esto a todas las personas de habla hispana y que puedan ver que hay distintas oportunidades.
+
+[Speaker 0 - 01:08:31]
+Aquí.
+Una duda, creo que lo alcanzaste a mencionar, pero ¿Cómo fondeas todo eso?
+¿Es la única chamba que tienes o tienes.
+Otro trabajo?
+Pareciera que estás full.
+
+[Speaker 1 - 01:08:47]
+Web.
+Sí, o sea, yo estoy full web desde que estaba en Venezuela hace unos 4 o 5 años que llevo como respiro y todo lo que es web, entonces claro, la forma de poder lograr escalar a este nivel es también tener un equipo que esté como que enfocado en esto y esto también lo sabe Foundation, obviamente todo esto viene fondeado gracias a Solana Foundation y a cómo funcionan los Superteen y los equipos regionales, pero la idea es justamente esto, seguir incluso levantando más capital del proyecto en el ecosistema para que se puedan hacer más cosas en España o en el idioma español, siento que es la clave, pero Sí, yo estoy full time en web, incluso yo mi cofundador, estamos 100% en esto, también trabajamos mucho con lo que viene siendo bounties para que también cosas que hagan falta hacer como tanto de código de diseño o de gestión de eventos, personas de la comunidad puedan participar y también ganar un bounty por esto, entonces siento que me parece que es una forma genial también de contribuir a una comunidad para que crezca y también recibir un incentivo por.
+
+[Speaker 0 - 01:09:43]
+Ello.
+¿Qué le recomendarías a alguien que no se ha metido mucho a Solana?
+¿Por dónde podría empezar?
+A mí en lo personal yo les recomendaría los espacios de Solciano, son buenos, hablan de las noticias y de diferentes cuestiones, obviamente los que va a tener la familia y todo el contenido de la familia de Andrew, pero ¿Qué más les dirías?
+¿Qué recomendaciones les podrías decir para alguien que viene totalmente nuevo o que viene a lo mejor con muy poca experiencia en Solana y que ahorita se quiere montar.
+No sé, a la ola de shitcoins o a ya empezar a desarrollar y hacer.
+
+[Speaker 1 - 01:10:26]
+Proyectos?
+Claro, la respuesta sencilla sería decir como que no, escucha todo lo de la familia, que vamos a sacar mucho contenido, únete al Discord, que en parte sí no es mentira, podemos hacer todo esto y pueden seguirnos mucho, pero yo siento que también es muy importante buscar comunidades locales que te ayuden a llevar todo esto, justamente por eso también desde la familia queremos apoyar a, como dije, si alguna persona quiere hacer una comunidad ecosistema call se ponga en contacto conmigo para yo ayudarlos a que se pueda crear esto también en otras regiones del país, porque el hecho de no meterse en un mundo que es tan tan cambiante solo es muy difícil, o sea si tú vas con una comunidad y con un grupo facilita mucho las cosas, no es lo mismo que nosotros hagamos un space hablando de Solana, que obviamente mi primera recomendación a nivel online es eso, o sea, únete a los space de Solana, por lo menos en el caso de la familia vamos a crear mucho contenido para que sea fácil para los nuevos integrarse en lo que viene siendo la blockchain, pero también es importante que consigas tu comunidad local, si pueda ser un grupo de Discord, si es la familia está bien, pero si es alguna comunidad por lo menos regional de tu país, mejor aún.
+Entonces buscar siempre una comunidad e intentar crecer juntos, siento que sería mi mayor consejo.
+Nosotros estamos aquí también podemos ayudarlo en cualquier cosa online, incluso si tú estás empezando nueva en Solana y quieres empezar tu comunidad, donde sea que estés también te podemos ayudar en eso, porque al fin de cuentas lo que nos interesa es esto, que hay un crecimiento masivo a nivel de regiones que hablan.
+
+[Speaker 0 - 01:11:48]
+Español.
+Bueno banda, ya saben, si no se han metido todavía la ecostía venezolana, creo que todavía están a tiempo, falta mucho por crecer, falta mucho por hacer aquí en Latinoamérica, creo que faltan también muchos proyectos por salir y pues bueno, algunos de nosotros estamos por ahí viendo cómo podemos aprovechar todas las iniciativas que hay y también todas las oportunidades, porque SEC que activamente están buscando gente que haga contenido, gente que haga espacios, que organice eventos, que haga este tipo de workshops, etc.
+Etc.
+Todo tiene su proceso, hay que ir conectando con la gente adecuada para poderlo fondear y poder llegar a desarrollarlo, pero creo que el camino está, habemos muchos que ya más o menos conocemos comunidades, obviamente hay otros como Andrew que está súper metido, yo no estoy tan tan tan metido ni con la fundación ni con su super team, pero poco a poco, bueno ahí voy a empezar a hacer más trabajo para conectar con ellos y hacer networking y empezar a hacer cosas acá en Monterrey.
+¿Algún otro proyecto Andrew del cual nos quieras contar?
+Ya nos quedan unos 15 minutitos de espacio, Lili también o Juan si quieren levantar la mano, hacer alguna pregunta, súper bienvenidos, pero no quisiera.
+Que nos quedáramos sin algo que tú quisieras hablar o.
+
+[Speaker 1 - 01:13:13]
+Chilear.
+Bueno, ahora mismo justamente ya creo que de manera soft o no, también he chile un poco todo lo que venía, porque aparte es lanzado Alfa que vamos a lanzar el Space la próxima semana, estoy justamente aquí, yo estoy en Barcelona, pero mi otro equipo está aquí también en las Islas Canarias, por aquí que estamos grabando un podcast para traer más actualizaciones de noticias y contenido en español, entonces se vienen esas cositas.
+También muy pendiente con el equipo de Hebility Builders que por aquí comenté en el aquí en el espacio hice un comentario sobre ellos que es nuestra parte de desarrollo de la familia, por decirlo de alguna forma.
+Estamos haciendo muchos cursos de desarrollo en español, todo es gratuito, el equipo es muy abierto, incluso si tienen muchas dudas pueden generar llamadas con ellos.
+Estoy seguro, seguro que los van a ayudar porque incluso ellos son así, llevan como que si van algunos de sus bootcamp van a ver cómo funcionan ellos, que literal es como que te llevan de la mano para que aprendas todo y no tengas ningún tipo y si tiene alguna pregunta las puedas resolver y te vayas sin ningún tipo de dudas.
+Entonces es un poco de eso.
+Hay muchos proyectos que van naciendo el ecosistema, por lo menos el hecho de que Deblo, como comenté, que es el proyecto que nació aquí en España, ganó un premio de Hackathon, me parece increíble que aquí en la comunidad.
+Incluso algo también que me gustaría mencionar es que de los resultados de Hackathon los estuve viendo y participaron más de 1.300 proyectos distintos, más de muchísimas personas, o sea, una cantidad exagerada de personas y había nada más 40 ganadores y de los 40 ganadores, 25 eran de Europa, uno de España y luego otro entre otros países de Europa.
+Entonces siento que tenemos que intentar hacer que también tanto como España como en Latinoamérica, este número crezca muchísimo y estamos como que la convicción necesaria para.
+
+[Speaker 0 - 01:14:52]
+Que.
+En lo que puede ayudar cualquier iniciativa acá en Monterrey.
+Yo encantado y pues sí, sigamos platicando porque definitivamente creo que hay mucho por.
+
+[Speaker 1 - 01:15:05]
+Hacer.
+Disculpa que se me cortó algo que dijiste, pero no escuché porque se me cortó un.
+
+[Speaker 0 - 01:15:10]
+Poco.
+Sí se me hace, mi Internet anda por acá fallando.
+No, pero decía que la neta, pues acá en México estamos, o al menos acá en Monterrey, que es donde yo puedo tener espacios y puedo tener reuniones y hacer cosas presenciales, pues sí queremos obviamente tener mucho más comunicación y más contacto con la gente de Solana.
+El próximo breakpoint yo creo que definitivamente no me lo pierdo.
+No sé si ya sepamos dónde vaya a ser de nuevo.
+
+[Speaker 1 - 01:15:37]
+Yo.
+¿Lo anunciaron, lo anunciaron va a ser en diciembre en Abu.
+
+[Speaker 0 - 01:15:42]
+Dhabi.
+El próximo año o ya este.
+
+[Speaker 1 - 01:15:47]
+Año?
+No, no, este año no, 2025 en Abu Dhabi lo anunciaron al final del de.
+
+[Speaker 0 - 01:15:51]
+Singapur.
+OK, OK, perfecto.
+No, bueno, para empezar a ahorrarle porque si se ve que esos eventos están muy, muy fregones yo me los he perdido.
+Tuve oportunidad de convivir con la gente de Solana en NFT, en YC, con algunas, algunas de las fiestas que organizaron también ahora que fui a Austin a Consensus, pero nunca he ido a un breakpoint, lo tengo por ahí todavía pendiente dentro del bucket list, pero bueno.
+
+[Speaker 1 - 01:16:22]
+Y lo que los que vaya a muchos eventos aquí internacionales también yo sé que voy a estar muy enfocado en España, así que no creo salir de aquí pronto, pero seguramente me pase por el NFT París, que también hay un superteam en Francia que hace muchas cosas con Solana, no me sorprendería ver algo por allá.
+Bueno, le tendría que preguntar a Lili, pero sé que por lo menos que hay algún proyecto de Solana que a lo mejor pueda hacer algo allá en NFT París, entonces por ahí seguramente paso yo también personalmente.
+Y de resto voy a estar aquí full.
+
+[Speaker 2 - 01:16:49]
+España.
+Sí, esa era la pregunta que tenía, que si van a estar en NFT París, ahora veo que sí vas a estar, entonces a ver qué se planea con la familia y a vernos.
+
+[Speaker 1 - 01:17:02]
+Todos.
+Que me agrada que he estado viendo en todos los breakpoint es que yo por lo menos intento siempre juntar un grupo de personas que hablan español.
+En el primero fue muy difícil, no voy a decir que no éramos como tres, cuatro personas, pero ya A partir del 2022 y 23 siempre éramos un grupo muy grande de personas que hablan español en el evento oficial de Solana y esto siempre me ha llenado muchísimo.
+Entonces vamos a ver si ahora en NFT París también montamos un grupo de gente que habla.
+
+[Speaker 0 - 01:17:31]
+Español.
+Excelente, excelente, Andrew, muchísimas gracias.
+La neta, platicar de todas las iniciativas que están sucediendo con Solana, todo lo que estás moviendo y también las oportunidades que a lo mejor muchos no conocían, por que no se han metido al ecosistema, etc.
+Veo artistas por aquí conectados, gran saludo a su Perama, veo gente que está muy metida en temas de gaming como Items Games, que también es uno de los grandes casos de uso que tiene esta blockchain, que también creo que he visto ya varios proyectos.
+Yo por ahí estuve metido, como tú decías, en Aurori, tuve uno, pero no, ese lo flipié, llegué a jugar un poco, llegué a tener un chorro de naves también de Star Atlas, pero me cansé de esperar y las acabé vendiendo a pérdida, pero Sí, creo que es una de las redes que más puede aprovechar todo el tema de gaming y que todavía le falta.
+Todavía le falta, todavía estamos empezando, hay mucho por desarrollar y mucho por hacer eventos presenciales en Monterrey también es algo que les puedo decir.
+Estamos buscando hacer definitivamente y más acercamiento con Solana y con todas las herramientas que ellos están ofreciendo y también las plataformas de Fondeo y Grants y la Fundación Super Team, etcétera.
+Entonces, bueno, esperen noticias también por ahí.
+Si no han seguido la cuenta de Solana Monterrey, aquí la dejé pineada arriba y también dejé abajo un comentario.
+Échenle un follow, vamos a estar dando noticias pronto.
+Y a Nash, por ahí mencionaste Nash y también veo por ahí al Celos que andan haciendo proyectos.
+De arte en diferentes redes.
+No sé si ya tengan algo en Solana, si no volteen a ver a Solana.
+Hay muchos coleccionistas potenciales a los cuales pueden llegar, con los cuales pueden llegar a participar.
+Échale.
+
+[Speaker 1 - 01:19:27]
+Excelente.
+Y bueno, sí, también es justamente lo que comentas, que cualquier persona que haya hecho algo en Solana o que esté moviendo cosas en Solana, que nos mande un DM aquí porque así lo podemos incluir en el espacio de la semana que viene, que me gustaría que todas las personas que hacen algo en Solana puedan tener una voz y algo, entonces también invitarlos a eso que me escribe un DM para añadirlos.
+Y ya eso, no me quería ir sin mencionar eso.
+
+[Speaker 0 - 01:19:49]
+También.
+Excelente, excelente, Lili.
+No sé si tengas algún otro comentario, Juan, Si no, yo me echo mis últimos avisos y.
+
+[Speaker 3 - 01:20:02]
+Cerramos.
+Sí, sí quería mandarte un DM, pero creo que no puedo o no me sale tu direct message a la cuenta de la.
+
+[Speaker 1 - 01:20:12]
+Familia.
+No sale.
+Déjame acomodar eso rapidito, disculpa.
+Si no, mandame también a Andrew, sin.
+
+[Speaker 3 - 01:20:20]
+Problema.
+OK.
+Gracias.
+
+[Speaker 0 - 01:20:27]
+Gracias.
+Muchas gracias.
+La verdad, muy interesante el espacio.
+Muy divertido poder platicar contigo, Andrew.
+Sigamos cotorreando.
+La siguiente semana vamos a estar en el espacio.
+Igual te voy a buscar para el siguiente Ecosystem Call y para todas las iniciativas que tenemos.
+Si nos puedes conectar ahí con la gente que está apoyando todo este tipo de cuestiones, pues estaría muy chido conectar y platicar para ver qué se puede hacer y empezar la relación finalmente.
+Creo que.
+Los que estamos aquí hablando de estos temas, generando contenidos, buscando que también se conozcan, podemos tener mucho impacto.
+Si nos unimos a hacer alianzas.
+Perdón, poder fomentar este tipo de iniciativas presenciales online, ve tú a saber.
+La neta yo sigo muy bullish en el ecosistema de Solana, sigo mencionando y creyendo que los mil están programados, los mil definitivamente están programados y que no sé si vengan en este ciclo, ojalá lo vea difícil, a lo mejor vienen en otro, pero no hay manera, no veo, no veo manera a menos de que las nuevas actualizaciones hagan que se vuelva a caer la red muchas veces, de que esto siga creciendo y que siga triunfando de la mano de Bitcoin y probablemente o no flipemos a Ethereum.
+Última duda, última pregunta para los dos.
+Andrew, Lili, ¿Qué opinan?
+¿Flipeamos o no?
+¿Vamos a flipear a Ethereum próximamente y.
+
+[Speaker 1 - 01:21:59]
+Cuándo?
+Bueno, yo en lo personal siento, tengo tiempo de que lo bueno para mi salud mental es que no estaba tan activo a estas cosas, porque al fin de cuentas como estamos activos en desarrollar cosas y hacer nuevos productos, es como que se me da un poco a veces de vista el mercado, incluso me ha pasado, me he tomado buenas sorpresas últimamente, pero más por este lío, entonces no quiero como que crezcamos, que pasemos a Ethereum en cosas que ya lo estamos pasando, como la cantidad de revenue que generamos y todo este tipo de cosas, la cantidad de proyectos que salen y son cosas en las que llamo super Ethereum y estoy feliz de.
+
+[Speaker 2 - 01:22:33]
+Ello.
+Justo hoy me pregunté ¿No debería pasar todo mi Ethereum a Solana?
+Por el momento no lo he hecho, pero a ver cómo sigue.
+
+[Speaker 0 - 01:22:48]
+Todo.
+Yo sí creo que flipeamos, no sé decir en este ciclo o en el siguiente, pero veo muchos detalles todavía de facilidad de uso, de escalabilidad, de costos, de.
+División de todo ese valor almacenado en estas redes que esté una en una, en otra, en otra, que no se comunican entre sí, todavía falta, sé que hay un camino para mejorar la experiencia del usuario, pero la experiencia de usuario Solana ya está y es buena, mucho mejor que cualquier otro sistema.
+Ya han salido algunas redes, perdón, algunas carteras, algunas wallets que han mejorado mucho la experiencia en otras redes, Metamask es una porquería, pero bueno, creo que todavía estamos ahí en esa etapa donde la gente está empezando a conocer, empezando a utilizar y dándose cuenta de las bondades y beneficios que tiene esta red Muchas gracias por estar por aquí.
+Échale Andrew, échale.
+O menos vi que levantaste la.
+
+[Speaker 1 - 01:23:58]
+Manita, levanté la mano sin querer.
+Muchas gracias por el espacio a todos los que escucharon y como dije, cualquier cosa nos pueden contactar por el Discord para cualquier tipo de tema.
+Tenemos pendiente hablar justamente para hacer lo de la Ecosistema Call en Monterrey, reactivarla, así que sí, feliz de estar.
+
+[Speaker 2 - 01:24:18]
+Aquí.
+Gracias por haberme permitido hablar también.
+Buen día a todos y hasta.
+
+[Speaker 0 - 01:24:28]
+Luego.
+Muchas gracias Lili, por ahí también te voy a buscar para ver si podemos programar también una conversación contigo, sería padre conocerte un poco más.
+La siguiente semana tenemos ya tres invitados programados, vamos a empezar el lunes con un espacio especial.
+Una muy, muy buena amiga ya de varios años, Ananá va a estar con nosotros, ella tomó un break hace poco de X, puso su cuenta como suspendida o en pausa y creo que se tardó en reactivarla y le borraron toda la información, entonces si no la no la han ido a seguir, búsquenla, está todavía con su mismo perfil, ananá NFTs y vamos a tener una plática con ella el lunes a las 6 de la tarde.
+Ando viendo el tema de horarios, ahora.
+Luego les platicaré de lo que andamos haciendo, pero ya estamos acercándonos mucho con una empresa de logística para empezar a desarrollar sistemas.
+Que pueden ser muy, muy, muy, muy buenos con blockchain y creemos que podemos tener una aplicación y probablemente las mañanas se compliquen, pero bueno, la próxima semana hay un espacio el lunes a las 6 de la tarde con Ananá, hay uno el martes también con Anita Atitoa, ya platicaremos el martes en la mañana con ella y el jueves con Eddie Espino, él está moviendo mucho el tema de Hybe en español.
+Anita Atitoa estuvo trabajando en STEPN y ahorita creo que anda buscando chamba, entonces bueno, platicaremos con ella el martes a las 12 y la próxima semana esperen noticias, ya estoy programando también los eventos.
+¿Algo querías decir.
+
+[Speaker 2 - 01:26:07]
+Liliana?
+Si no, con mucho gusto para venir a algún space y presentarles lo que estamos haciendo, un proyecto con mi esposo que se llama Solution File, ahí les dejo ver lo que es, pero es un Wallet Management y pues con gusto para explicarles todo.
+
+[Speaker 0 - 01:26:28]
+Eso.
+Claro que sí, claro que sí, te mando tu DM.
+La idea de estos espacios pues es platicar con gente que está construyendo.
+Originalmente la idea era que fueran solo en español, pero creo que tenemos que ir al mercado global y traer a invitados.
+Que no hablan español y que también están haciendo cosas chingonas.
+Entonces, bueno, por ahí, por ahí ya les traeré noticias.
+La del martes va a ser en inglés o spanglish, creo que habla poquito español, Anita.
+Entonces ya veremos cómo nos va.
+¿Pueden pasar a Banda Mexi WTF?
+A ver la agenda de todos los eventos que ya hemos hecho.
+Ahí están los coleccionables digitales que pueden reclamar gratuito y también está la agenda de todo lo que ya hemos, con la gente con la que ya hemos platicado.
+Ahí vienen los links a los espacios por si los quieren escuchar en algún momento.
+Gracias, Estamos pendientes, próximamente voy a empezar mucho contenido de Daniel Serna, un artista, un escultor regiomontano con el cual llevo trabajando ya tres años.
+Estamos relanzando la segunda fase de su colección de NFTs y esculturas y próximamente verán mucho contenido del tema.
+Vamos a tener un evento acá en Monterrey el 11 de diciembre para los holders, entonces bueno, ahí les estaré platicando más adelante.
+Muchas gracias de nuevo.
+Ya tenemos casi una hora y media.
+El coleccionable digital tienen dos minutos para reclamarlo.
+A la una y media se corta la posibilidad de reclamarlo de manera gratuita y se acabó.
+Esto fue Bandaweb 3, número 13 con Andrew José, 20 de la familia.
+Muchísimas gracias por estar por acá.
+Los dejo con Universal Mind de Liquid Tension.
+
+[Speaker 1 - 01:28:13]
+Experiment.
+Muchas gracias.
+
+[Speaker 2 - 01:28:16]
+Adiós.
+Adiós.
+Gracias.

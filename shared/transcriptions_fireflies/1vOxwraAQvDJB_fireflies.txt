@@ -1,0 +1,798 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #N/A
+Título: BandaWeb3 #024 @JoseArrietaLU
+Fecha: 2024-12-10
+Host: BandaWeb3
+Tipo: hosted
+
+Descripción:
+Community manager de @TanssiNetwork en español | Amante de la tecnología Web3 Conversaciones con @meximalist, sin guion y uno que otro anuncio.
+
+Duración: 01:25:55
+Escuchas: 60
+
+Links:
+  Space: https://x.com/i/spaces/1vOxwraAQvDJB
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+[Speaker 0 - 00:00:00]
+El día de hoy tuve un poquito de problemas para arrancar el espacio y me tuve que cambiar a otra red, pero creo que ya estamos por aquí.
+El espacio anterior me lo rogué, entonces tuve que abrir este nuevo.
+Voy a empezar a mandar invitaciones a todo mundo y voy a pinear aquí arriba también el espacio para que lo puedan compartir, lo voy a poner en mi perfil y también lo voy a poner aquí dentro de los.
+Anuncios del jumbotron.
+Muchas gracias a todos los que se vienen conectando a esta grabación.
+Buenos días, buenas tardes, buenas noches.
+Estoy a punto de comenzar con la canción, denme un segundito porque el espacio anterior me rodeó.
+Ahorita le actualizamos el nombre y todo, pero primero que nada voy a poner algo de musiquita mientras hago todas las invitaciones, cambio el título y ayudó a que todo mundo se venga para acá.
+Ya está por acá José Arrieta, vamos a invitarlo a platicar y empezamos en un momento.
+Bien, bien, manda.
+Gracias a los que se van conectando, muchas gracias por estar por aquí.
+También ya tenemos aquí arriba a José Arrieta, por ahí tuve un problema con el espacio anterior que estoy tratando de resolver, pero tuve que empezarlo aquí.
+En otro dispositivo, pero creo que ya estamos.
+Ahorita subo también a mi cuenta personal, pero muchas gracias de nuevo.
+Todos los que se van conectando aquí arriba tienen el espacio pineado, pueden dejar su like, dejar su comentario, dejar su pregunta, si le dan repost, ayuda muchísimo a llegar a otras personas.
+Voy a invitar aquí también a Sunny Network y a mi cuenta personal.
+Ya estoy mandando las invitaciones, lamentablemente el espacio anterior no sé por qué me lo rogué y se cerró solito.
+Entonces, bueno, aquí estamos en este nuevo.
+Mientras invito a la banda, voy a probar el audio.
+¿Cómo andas, José?
+Bienvenido, muchas gracias por estar por aquí el día de hoy.
+
+[Speaker 1 - 00:04:14]
+Hola, hola Mexi, un gusto estar por aquí.
+
+[Speaker 0 - 00:04:18]
+Excelente, te escucho muy bien.
+Ya estoy acá subiendo a la cuenta del co host, igual estoy invitando a todos los grupos normalmente que se conectan.
+Lamentablemente, como decía, tuve aquí un detallito con el paso anterior, pero bueno, ya estamos.
+Aceptar la invitación.
+Perfecto, creo que ya estamos por aquí.
+Listo.
+Bueno, muchas gracias por estar por aquí, mientras invito a toda la banda, podemos empezar la conversación.
+La idea del día de hoy, y.
+Estoy confirmando que tengamos el número correcto.
+Sí, voy a agregar tu nombre aquí arriba al título.
+Pero hace poquito estuve revisando información por ahí hemos estado platicando José y yo en Telegram sobre el proyecto en el que está colaborando.
+Y.
+Yo en lo personal me he puesto a investigar mucho sobre lo que me comentó, porque ahorita nos va a platicar.
+Pero hay un caso súper interesante que estuvo sucediendo o que está sucediendo en muchas redes, ¿No?
+Y en muchos protocolos estamos viendo cómo hay blockchains para distintos usos.
+Y uno de ellos, y no uno de ellos, sino que hay varias blockchains que permiten ya crear tu propia blockchain de una manera muy sencilla, muy fácil.
+Hemos visto proyectos que han sacado blockchains, hemos visto exchanges que han sacado sus propias blockchains.
+Por ahí tuvimos un espacio ayer con Manto.
+Mantle es una blockchain que está apoyando Bybit.
+Bybit es el exchange internacional asiático, si mal no recuerdo, que tiene también muchísimo volumen está base de Coinbase, esa es una blockchain también de un exchange.
+Y así hemos visto.
+Muchas maneras de lanzar diferentes cadenas usando estas tecnologías.
+Y hay varios servicios, sé que Arbitrum ofrece uno, sé que hay personas y empresas que están ofreciendo servicio de blockchain as a service que te operan tu sistema si es que así lo quieres y lo puedes personalizar como quieras.
+Y esta es otra de las alternativas por ahí que me puse a revisar y me gustó muchísimo el caso de lo que está pasando con DJ, porque, bueno, ahorita platicamos, pero tiene una historia bien interesante de una blockchain que lanzaron y la gente que le está dando el servicio por ahí tuvo problemas.
+Entonces, todo un tema y creo que hay un modelo de negocio también bien importante que al ratito lo vamos a platicar.
+Pero bueno, primero que nada agradecerle el tiempo a José que esté por aquí platicándonos de lo que está haciendo y del proyecto.
+Y comencemos.
+Muchas gracias, José, bienvenido.
+Por ahí veo también a Tansy Network en español, que me imagino que es la cuenta que tú también estás por ahí.
+Administrando.
+Veo también al Cristo Warrior, saludos al Cristo Alan Enríquez Pérez, saludos.
+Y el buen facu también, embajador de Tansy.
+Perfecto, bueno bienvenido, Muchas gracias José, ¿Cómo andas?
+
+[Speaker 1 - 00:07:16]
+Hola, hola a todos, un gusto estar por aquí.
+Andamos muy bien, un poco nerviosos porque son de las primeras veces que participo en un space, creo que es como la primera o segunda vez, entonces estoy un poco nervioso.
+
+[Speaker 0 - 00:07:31]
+No hombre, no te preocupes, muchas gracias por estar por aquí, vas a ver que en la conversación la llevamos así muy tranquila y podemos ahorita platicar de muchas cosas.
+Cuéntame un poquito sobre ti José.
+Normalmente empiezo con preguntas sobre el invitado, ¿Cómo llegaron al ecosistema?
+¿Cuál es su perfil anterior?
+¿De qué industria vienen?
+Yo en lo personal soy ingeniero, me clavé en temas de software y hardware, pero para edificios inteligentes y ahorita después de 20 años de estar por allá, ando por acá.
+¿Tú cómo llegaste a la web y cuánto tienes ya acá en el ecosistema?
+
+[Speaker 1 - 00:08:09]
+A ver, yo en el ecosistema tengo ya poquito más de cinco años, llegué en 2019 curoseando por YouTube, yo era 2019, venía saliendo ya de la parte de.
+Del colegio pensando qué hacer un poco qué hacer con mi vida, entré a la universidad, que me gusta, que no me gusta y todo esto y por casualidades de la vida entré a YouTube, dije ¿Qué es esto de cripto?
+Empecé a estudiar, empecé a invertir también, entonces bueno, en este caso invertí una pequeña cantidad de dinero, empecé a probar protocolos, diferentes protocolos, empecé con Bitcoin, empecé con Ethereum también, después plataformas DeFi, Gefarming y bueno, todo este tipo de cosas hasta llegar al punto en el que estamos hoy, que bueno, soy ahorita Community Manager en la parte de español de Tansy network.
+
+[Speaker 0 - 00:09:07]
+Excelente, excelente.
+¿Qué perfil previo tenías?
+¿Eres ingeniero?
+¿Eres técnico?
+¿Eres financiero?
+¿Cómo llegaste a cripto?
+¿Quién te platicó y cómo te enteraste de todo este ecosistema?
+
+[Speaker 1 - 00:09:22]
+¿A ver, como perfil?
+Realmente yo entré a cripto siendo prácticamente estudiante, digamos, no tengo como una carrera universitaria, tampoco entré.
+A una carrera en específico, si tenía interés, digamos por el lado de las finanzas, tal vez en el lado de la tecnología también, entonces fue algo que me llamó demasiado, demasiado, demasiado la atención.
+Cripto, la parte financiera, la parte de la programación, que bueno, no soy programador, pero me llama por ahí un poquito de atención, entonces por ese lado fue donde me atrapó Criptome.
+
+[Speaker 0 - 00:09:55]
+Excelente, excelente.
+¿Y desde cuándo estás trabajando ya en la industria?
+Porque.
+Muchas personas, y por ahí es algo que hemos platicado mucho, entran a este ecosistema, lo conocen y no hay manera creo yo de salir de él, ya que te das cuenta de las ventajas, de los beneficios, de la oportunidad y del crecimiento que está teniendo y de todas las oportunidades también que hay para las personas que estamos por acá en América Latina y que hablamos español, creo que es impresionante.
+Pero no sé si este sea.
+
+[Speaker 1 - 00:10:32]
+Tu.
+
+[Speaker 0 - 00:10:32]
+Primera chamba por ahí como dicen, o si ya habías participado con algún otro proyecto en criptomonedas.
+
+[Speaker 1 - 00:10:40]
+Realmente Tansy como tal es como mi primer trabajo, digamos ya bueno, trabajo normal y trabajo web también.
+Digamos.
+Yo entré a Tansy como un embajador normal y por participar, estar activo y todo esto, Tansy me ofreció digamos un puesto para manejar la comunidad en español, Entonces motivar también a la gente a que si buscan tal vez un trabajo web.
+Puedan participar, empaparse del ecosistema del proyecto y ofrecer valor.
+Al ofrecer valor puede ser que te tomen como un puesto de trabajo, entonces motivar a la gente que hay bastante oportunidad en todo el ecosistema web.
+
+[Speaker 0 - 00:11:26]
+Qué interesante la historia, porque creo que lo he escuchado de muchas personas.
+Obviamente en esta industria hay miles y miles de proyectos, pero cuando te clavas en uno, cuando ves que hay oportunidad también, cuando ves que la comunidad es chida, te acepta y tienes ahí oportunidad de conectar y platicar con la gente y les empiezas a ofrecer contenido de valor, contenido a lo mejor de investigación que tú has hecho, de pruebas, etcétera.
+Se da cuenta la banda, los proyectos, se dan cuenta como tú decías, creo que hay muchas historias de personas que empiezan como embajadores y luego por ese valor y por ese trabajo que han generado les ofrecen puestos como el que tú tienes ahorita de dirección y manejo de comunidad.
+Y creo que es una vía súper, súper importante para alguien nuevo que quiere empezar a trabajar o a dedicarse o vivir de esta industria.
+No sé tú qué opines, me imagino que como mencionas fue algo similar, pero no sé cuánto tiempo se tardó ese proceso para ti, porque hay procesos muy rápidos y otros un poquito más lentos.
+¿Cómo estuvo para ti el proceso ya de entrar como embajador?
+Una aprender de la red y enamorarte probablemente del sistema de la tecnología y luego empezar a generar contenido como embajador y ahora ya brincar al rol que tienes de manejo de comunidad.
+
+[Speaker 1 - 00:12:53]
+Sí, totalmente.
+A ver, yo en Tansy más o menos antes de la contratación, yo estuve más o menos como un año, un año como embajador.
+En este caso yo hacía contenido en la parte de YouTube, a mí me gusta editar vídeos, me gusta toda esa parte, entonces yo hacía ese tipo de contenidos, una que otra vez hacía un hilo por aquí y todo eso.
+Entonces después de un año de estar como embajador, ya llegó alguien del core team y me dijo que si quería ayudar con la parte en la comunidad en español y aquí estamos.
+
+[Speaker 0 - 00:13:29]
+Excelente, excelente.
+¿Y ya cuánto tienes con el rol manejando la comunidad en español?
+
+[Speaker 1 - 00:13:35]
+¿En este momento?
+Si no me equivoco, Yandro por los 7 o 8 meses por ahí, ¿No?
+
+[Speaker 0 - 00:13:43]
+Qué chido.
+Por acá abajo veo también al buen Cristo que está él como embajador y miembro de Venus Protocol, que también por ahí al rato vamos a tener una conversación con él a las 5 p.m.
+horario de ciudad de México.
+Entonces para que lo apunten y ahorita les vamos a poner por ahí los links de todo.
+Pero qué chido, qué interesante.
+José, cuéntame un poquito de Tans y cómo diste con la red y qué es qué es finalmente.
+Creo que por ahí me habías platicado que todavía está en desarrol, que todavía está en una etapa temprana, que tiene mucha oportunidad y hay varias iniciativas.
+Vamos a platicar de todo eso, pero cuéntame un poquito desde tu perspectiva.
+De dónde es el proyecto, cómo lo conociste y de qué trata un poquito.
+
+[Speaker 1 - 00:14:33]
+A ver, como yo llegué a Tansy básicamente fue por una recomendación de un amigo, que en este caso él era un embajador, él más o menos creo que estuvo uno o dos meses antes que yo, entonces me comentó el proyecto, ya me puse a estudiarlo y realmente es algo que me llamó mucho la atención porque el tema de la infraestructura, bueno, yo no soy desarrollador, pero sí sé las complejidades de la blockchain, entonces ese tema de la infraestructura creo que es algo muy, muy necesario para avanzar, digamos, tal vez ya.
+Para, ya me puse un poco nervioso, pero bueno, la infraestructura blockchain para básicamente reducir mucho el tiempo de construcción, porque sabemos que construir una blockchain no es algo fácil, tienes que buscar validadores, oráculos, endpoint, RPC, wallets, hablar con un montón de gente, entonces todo este tipo de cosas es algo que te quita demasiado, demasiado tiempo y realmente el desarrollador o los que estén haciendo el proyecto se desvían un poco de su proyecto y ya tendrían que buscar cosas de infraestructura.
+Entonces básicamente TAN si eso es lo que busca ofrecer la facilidad para que el programador o la gente se concentre directamente en su proyecto.
+
+[Speaker 0 - 00:15:54]
+Excelente, excelente.
+¿Entiendo que es una capa 2 de Ethereum, es EVM compatible y puedes usar uno Solidity y todos los demás protocolos, bueno no protocolos pero sí estándares que hay ahorita en el ecosistema o estoy equivocado?
+
+[Speaker 1 - 00:16:13]
+Sí, correcto, digamos puedes usar EVM y bueno y Substrate, digamos Tansy está centrado un poquito más en Substrate, más que todo por la modularidad, pero también puedes construir en EVM por ejemplo.
+
+[Speaker 0 - 00:16:35]
+Uy me fui.
+Ahí estamos.
+OK, perfecto.
+¿Entonces Substrate tiene entonces muy buena comunicación con todas las demás.
+Chains de Polkadot, cómo es un poquito la tecnología, de dónde son los fundadores?
+¿Cuéntame un poquito de dónde salió este proyecto, cuánto tiempo tiene ya también en desarrollo?
+
+[Speaker 1 - 00:16:57]
+A ver, el proyecto como tal si no me equivoco más o menos salió por el 2020, 2020, 2021, por ahí es donde se están compartiendo las ideas, se estaba hablando con desarrolladores también de diferentes ecosistemas buscando un poco de feedback, problemas que tenían en diferentes ecosistemas, ecosistema Polkado, el ecosistema Ethereum, Avax, diferentes L.
+Cosmos.
+Los fundadores.
+Como tal son de diferentes partes.
+Por ejemplo.
+El cofundador que es Francisco, él es de Venezuela, Katy que por aquí anda también es parte del proyecto, ella es de Perú, Hay diferentes personas de habla hispana también.
+Tiago que es el CEO de la fundación Tansy, él es de Brasil y Gorka que no sé específicamente de dónde es pero creo que habla español, me parece.
+Como el coretín de Tansy.
+
+[Speaker 0 - 00:18:05]
+Ándale.
+No sabía que había mucha gente latina de acá por esta zona en el proyecto.
+Qué chingón, qué chingón, qué chingón.
+Tienen desde 2020.
+2021 y ahorita platícame cómo está la situación en TAN.
+Si, me decías por ahí chateábamos que todavía están en una etapa de testnet, que van a próximamente a mainnet, pero ya los usuarios pueden empezar a hacer pruebas y hasta participar en protocolos o en iniciativas donde obviamente los va a ayudar la comunidad de tránsito, pero también hay algunos beneficios por participar y por hacer algunas pruebas en Testnet.
+Cuéntame un poquito cómo está la situación actual el día de hoy.
+
+[Speaker 1 - 00:18:54]
+Sí, correcto.
+En este momento Tansy está en fase de prueba en Testnet, se sacó una Season 1 en Polkadot con proyectos de Polkadot, diferentes proyectos de allá vinieron, construyeron.
+Por ahí también hubo una campaña para la gente que construye como tal, para los productores de bloques también tuvieron sus recompensas por ahí.
+Para el público en general también poder interactuar con estos protocolos, interactuar con contratos inteligentes, NFTs, plataformas de gaming, diferentes tareas, diferentes misiones para generar movimiento en la red y todo esto básicamente como prueba.
+Y Bueno, la Season 1 terminó, se repartieron unos NFTs, se dieron cuando salga la Mainnet, estos NFTs van a tener unos cuantos tokens, depende de donde hayas quedado en el ranking.
+Y ahorita estamos por empezar la Season 2 pero con proyectos de Ethereum, que básicamente va a ser lo mismo para testear la red, que el público participe, se va a premiar a los productores de bloques y bueno, todo esto.
+Entonces es importante también que la gente entre a las redes sociales tanto en inglés como en español que estamos por ahí, para que no se pierdan las noticias, tal vez tener algún beneficio extra, algún NFT, algo digamos propio de la comunidad en español o propio de la comunidad inglesa o propio de la comunidad de Brasil por ejemplo.
+
+[Speaker 0 - 00:20:30]
+Excelente, excelente.
+Oye, estoy revisando aquí por ejemplo, todavía no tienen un token o si ya tienen un token que se puede tradear.
+No veo por ejemplo, no lo veo listado por ahí en ningún lado.
+¿Cómo está el tema del token?
+¿Decías por ahí que la gente que participe y que vaya juntando puntos y NFTs podría llegar a tener beneficios, no sé si eso signifique airdrop de token o no, pero veo que no hay token todavía, verdad?
+
+[Speaker 1 - 00:20:59]
+No, el token como tal no se ha lanzado, se va a lanzar cuando ya esté la mainnet activa, que más o menos va a ser el Q de 2025.
+Estamos ya bastante, bastante próximos a poder lanzar a la mainnet, bueno, terminar la season 2 en este caso, empezar y terminar la season 2 y ya luego el lanzamiento de la mainnet, ahí cuando ya salga la mainnet es donde ya podría reclamar los tokens por la Season 1 en Polkadot por la Season 2 en Ethereum y bueno, motivar a la gente también para que participe por el airdrop.
+
+[Speaker 0 - 00:21:32]
+Si, ahorita estamos en temporada de airdrops, yo en lo personal acabo de recibir el día de hoy el de Magic Eden, es un protocolo, una marketplace que llegué a utilizar desde que inició y lo he usado mucho y me cayeron por ahí unos 780 tokens que ahorita más o menos andan como en unos 3.000, 4.000 dólares.
+La verdad muy muy bueno, nada despreciable, pero sí, definitivamente creo que es una manera súper interesante de premiar a los usuarios iniciales, de premiar también a los desarrolladores y bueno, hay casos de éxito, hay casos de fracaso, hay de todo en este tema de los airdrops, no se sabe qué puede llegar a pasar con Taxi, yo en lo personal apenas estoy empezando a entender el proceso y el sistema.
+Me encantaría poder participar en alguna de estas rondas de beneficios.
+¿Voy a rascarle un poquito más, pero cuéntame quién está ahorita probando en la testnet?
+Estoy viendo aquí uno de los diagramas que tienen del universo Tansy, lo voy a pinar acá arriba, vayan a seguir a Tansy en español y Tansy Network, ahorita les voy a poner acá arriba el gráfico, pero veo que tienes ya, o que tienen ya, perdón, oráculos, carteras, que tienen staking, que hay indexers, que hay exploradores, que ya hay herramientas para desarrolladores, memecoins, NFTs.
+Tema de gaming lo veo muy completo, veo varios juegos ahí que reconozco, infraestructura para desarrolladores DeFi, o sea, cómo se ha manejado el tema del testnet y.
+Todos estos proyectos están construyendo ya en la red.
+
+[Speaker 1 - 00:23:15]
+Sí, correcto.
+Digamos, ahí hay unos cuantos de Polkadot, por ahí está Symbioric, Lido por ejemplo, en este momento estamos por lanzar la fase en sentido de Ethereum, hay diferentes juegos, diferentes puentes, diferentes protocolos DeFi, como dices tú, rearward assets, de todo un poco en este gráfico la mayoría son de Polkadot, hay unos cuantos de Ethereum, pero por el momento.
+Probablemente veamos más protocolos, este gráfico se actualice un poco más ya, pero para proyectos de Ethereum.
+
+[Speaker 0 - 00:24:00]
+Perfecto, perfecto.
+Entonces, la temporada 2 exclusivamente para gente que quiera construir.
+IBM compatible y sistemas de ese estilo.
+¿Cuándo inicia?
+¿Cuándo inicia la temporada 2?
+
+[Speaker 1 - 00:24:15]
+Todavía no hay información sobre eso, pero ya está práctica prácticamente encima ya la season 2, o sea ya no deben quedar mucho tiempo.
+
+[Speaker 0 - 00:24:31]
+Perfecto, perfecto.
+Por aquí veo algunos creadores de contenido, perdón, veo también a personas que tienen proyectos o que están tratando de lanzar proyectos, estoy recibiendo aquí una solicitud, vamos a traer acá a Katy también para que nos cuente, la cofundadora y CMO de Tansy, Excelente, ¿No?
+Bienvenida.
+
+[Speaker 2 - 00:24:51]
+Hola, ¿Qué tal?
+Quería primero saludarlos, gracias por la invitación a José y ya que están hablando de dropear un poquito de Alfa, contarles un poquito más solo de Tansy y lo que se viene para Let's Freaking Dance.
+Tengo una reunión en cinco minutos, pero igual quise como que decir hola, pero nada.
+Para todos los que son nuevos en el ecosistema Dancy, en palabras simples es como lanzar una red, o sea, como lanzar una blockchain o un network, como lo quieran llamar, en minutos.
+El ejemplo más sencillo que les puedo dar, se acuerdan de, para los que son más que todo traitones, a ver si se acuerdan en los 90s, en los 2000, cuando tenían que lanzar una página web, ¿Se acuerdan lo que era?
+Era un tema, o sea, me acuerdo que había que contratar a un diseñador especial, a un desarrollador especial, se demoraba un montón de tiempo y luego como que se lanzaba después de un mes una página web, ¿Verdad?
+Y ahora es súper diferente, o sea, ahora entras a Wix, te creas una cuenta, cambias un poquito de cosas porque puedes hacer un montón de templates que están así súper ready to use, cambias información y listo, boom, en un día ya tienes una página diseñ con no sé cuántas páginas dentro de la página, algo más complejo y literalmente en un día.
+Es lo mismo con blockchain, o sea, yo he estado en cripto, de hecho comencé en Moonbeam hace ya en el 2019 más o menos, y he visto como que todo lo que se necesita para poder lanzar una red, entonces tan sí que para clarificar un poco de fechas, realmente comenzó como en 2022, fue que realmente comenzamos con la idea, fue luego de ver toda esta experiencia de wow, qué difícil es lanzar una red, o sea, no es solamente como que ya lanza su producto y la aplicación y ya, no, es un montón de infraestructura por debajo, entonces ahí fue cuando dijimos, no, tiene que haber una forma de hacerlo de forma permissionless, o sea que cualquiera pueda desplegar porque ese es uno de los pilares para cripto, tiene que ser descentralizado y tenemos que traer acá el UX, o sea eso es lo que le falta a Blockchain.
+Entonces.
+Así fue básicamente como nació Tansy, una forma de lanzar blockchains en literalmente minutos.
+Y yo que como dijiste, soy en marketing, no estoy ingeniería obviamente ahora tengo mucho más conocimiento técnico, pero mi naturaleza no es técnica por así decirlo, bueno, yo he lanzado como tres redes ya.
+Entonces esta acá es una súper buena, una buena puerta para tanto proyectos de web, proyectos de enterprise, proyectos que están fuera y dentro de criptomonedas para que realmente no solamente puedan tocar y disfrutar de la tecnología que blockchain ofrece, que es muy transparente, muy descentralizada, escalable, etc.
+Pero también para que puedan tapear a una nueva comunidad que es la comunidad de cripto, que es súper grande ahora.
+Entonces eso es lo que estamos haciendo, como bien lo dijo José, ahora ya no estamos expandiendo a Ethereum, ha sido como que desde septiembre que anunciamos la expansión ha sido full crecimiento y ahora estamos como que también facilitando el lanzamiento de los Symbiotic Network.
+Symbiotic es básicamente este protocolo que hace el tap into restaking, esa seguridad descentralizada.
+Entonces ahí es como Tansy está logrando que estos restake Networks ahora, no sé si habrán escuchado de Eigen Layer ABS, o sea que estos ABS sean lanzados en minutos.
+Entonces eso es lo que ahorita Tansy está haciendo.
+Y como bien dijo José, han habido algunas campañas incentivadas como Let's Forking Dance Season One, la cual tuvimos más de 100.000 participantes y ahora se viene Let's Fucking Dance Season Two, que es una celebración previa al lanzamiento de la red.
+Entonces en esta vamos a tener una experiencia mucho más gamificada, van a haber diferentes Quest para que se unan los canales de Tansy, para que creen contenido para Tansy y también para que estén ustedes mismos en la testnet y registren una cadena, practiquen staking para que se sientan más familiarizados con todo lo que Tansy ofrece y al mismo tiempo para que puedan competir para que estén en el top del leaderboard.
+Información acerca de incentivos y todo eso lo va a compartir la fundación y la siguientes semanas, así que Keep an eye open en los canales de Tansy y un poquito más de alfa, a ver qué más les puedo compartir.
+
+[Speaker 0 - 00:29:17]
+Cuenta, cuenta.
+No, gracias por subir.
+
+[Speaker 2 - 00:29:19]
+Falta un poquito más, como un mes, es algo así como un mes y algo poquito más para que realmente comience la temporada.
+Así que van a ver más opciones de entrar a un early list.
+Eso sí les puedo dar como buen alfa.
+Y mi mejor consejo es pongan una alerta en el Twitter de Tansy porque vamos a estar compartiendo muchas cosas súper buenas ahí y para que todos tengan el chance de entrar primero.
+Pero básicamente esos eran mis two cents para también saludar por acá y contarles un poquito más de lo que estamos haciendo.
+
+[Speaker 0 - 00:29:54]
+No, muchísimas gracias por subir a platicarnos.
+Sé que, bueno, mencionaste que tenías que irte, pero veo que eres cofundadora del protocolo y que hay mucha gente latina trabajando en él.
+Qué fregones.
+No sabía.
+
+[Speaker 2 - 00:30:08]
+Sí, sí, en verdad estamos por todo el mundo, hay gente de todos lados, pero definitivamente latinos somos más del 50%.
+Yo soy de Perú, Francisco es venezolano y Gorka es de España.
+Pero igual tenemos gente, de hecho hoy día entró un chico que también viene de Uruguay.
+Tenemos gente de todos lados en verdad de Latinoamérica y es súper lindo porque como que.
+Es una cultura también diferente la del trabajo y la verdad a mí me encanta, yo vivo en Estados Unidos ya varios años y volver a trabajar con una cultura que es así como latina es lo máximo.
+Así que nada, feliz, feliz de estar con el equipo.
+
+[Speaker 0 - 00:30:47]
+Excelente, excelente.
+Cuéntenme si puede, si se puede un poquito sobre la fundación, cómo está, porque últimamente me he puesto a investigar mucho el tema de gobernanza y hay fundaciones que tienen sus propios presupuestos y que tienen empleados y ayudan a la DAO, y hay DAOs que también trabajan junto con las fundaciones y luego están las herramientas, etcétera, cómo es el caso aquí con Tansy.
+
+[Speaker 2 - 00:31:10]
+Hay una fundación de Tansy, de hecho también lo pueden seguir en Twitter, está como Tansy Foundation.
+Ellos son los que están encargados de todo el desarrollo y el éxito de Tansy como network, como comunidad y como ecosistema.
+Entonces ellos se van a enfocar más que todo en lo que mencionaste, el tema de la gobernanza, el tema de la información de los tokens, el tema de la distribución de los tokens, en caso los airdrops que estamos planeando, en caso también en controlar que todo esté de forma transparente y que la comunidad sea descentralizada a largo tiempo, todo ese periodo de descentralización también lo va a estar como que monitoreando la fundación.
+Entonces yo diría que en las siguientes semanas en verdad esperen en ver más información acerca del token en la fundación.
+Yo directamente como tan.
+Yo estoy más Dan's Labs, no tengo directo un montón de información.
+Tratamos de ser bien transparentes con cómo están como que básicamente estas dos organizaciones, pero Tansy Foundation va a estar compartiendo más acerca de cualquier actividad relacionada con el token y lo que es gobernanza ya se va a ver más adelante, luego de que se lance la MINER, porque es un proceso también como que llegar a la descentralización con toda la comunidad.
+Entonces queremos hacer lo que sea mejor para que toda la comunidad pueda participar, estar activa, pero también que a largo plazo la red sea súper exitosa.
+Entonces eso es básicamente lo que va a estar viendo la fundación, que es liderada por Tiago Rudiger.
+Tiago también lo pueden seguir en Twitter, es tipazo, súper capo, ha estado como que tiene mucho background en todo lo que es vcs, builders, business development.
+Es verdad, es una persona muy capa y sobre todo que pone siempre la comunidad primero.
+Entonces nada, ahí síganos en la fundación para que puedan ver también más cositas que se vienen de ese lado.
+
+[Speaker 0 - 00:33:02]
+No, la neta se me hace súper interesante ver el crecimiento, bueno, ya tienen rato, pero el lanzamiento al mainnet y luego la fundación, perdón, la creación del tema de gobernanza, ver cómo se va formando todo eso para mí ha sido muy padre.
+Por ejemplo, una de las redes que acaba de salir, Scroll, me metí también a ver todo ese proceso y he aprendido muchísimo.
+No sé entonces aquí la gente que nos está escuchando si les interesaría en algún momento participar en alguna red o apoyar este tipo de sistemas, ¿Qué les podrían recomendar?
+Ahorita obviamente pues tienen el testnet que ya uno puede entrar a probar, pero viene en la temporada 2.
+Y luego probablemente, como tú decías, las reuniones que empiezan todo el tema de gobernanza, que inicialmente lo que me ha tocado ver a mí es van lideradas por la fundación y poco a poco se van descentralizando y en ese proceso hay un chorro de juntas y debates y oportunidad de participar, de dar tu opinión y de darle también dirección y rumbo a estas tecnologías.
+No sé si será el caso similar con Tansy, porque sí es algo que la neta recomiendo a todo mundo que haga cualquier que sea la red, si van empezando y pueden involucrarse desde un inicio es súper súper chido y hay un chorro aprendizaje.
+No sé qué opinas Katy y 100%.
+
+[Speaker 2 - 00:34:23]
+Que tipo es diferente cuando eres como un OG, o sea como que ves a la red, te pones más cerca al equipo también.
+Yo diría que hay de hecho formas en las que se pueden involucrar más con Tansy.
+Hay un programa de embajadores que ahorita está siendo rediseñado pero se va a relanzar en el siguiente mes, está liderado por Alexander que también tiene un montón de experiencia en la comunidad, entonces es una buena oportunidad para que sepan más de Tansy, para que ayuden con la creación de contenido.
+De hecho veo acá algunos embajadores que están acá con nosotros por ejemplo, hey Facundo, ahí te veo.
+Entonces es lindo tener como que ese contacto directo con nuestros embajadores, ven cómo crean contenido, traen nuevas comunidades y extienden todo lo que es el conocimiento de Tansy a más personas.
+Hemos lanzado, bueno mejor dicho la fundación lanzó el Grants Program de Tansy, así que si eres un builder que está buscando funding para desarrollar tu producto o también quieres acceder a mentoring en todo lo que es VDC, Community Marketing también te aconsejo como que ver el Tansy Grants y luego of course, como que tengan un ojo abierto a todo lo que es Let's Fucking Dance, que ya se viene todo lo que es la Season 2, más información, cómo participar, en verdad va a estar súper divertido y es una forma también de no solamente conocer más acerca de Tansy sino como que tú mismo como que poder utilizar la testnet y tener una experiencia previa a lo que se viene y en general el mensaje no solamente para Tansy sino como para todos nosotros que somos acá como que Crypto DJ.
+El éxito de una red no depende del equipo que la hace, depende de todos porque al final esa es la premisa de blockchain verdad, o sea descentralizar que todos tengan un owner hit de cierta manera en la red.
+Entonces cualquier actividad que tú hagas a la red colaborando con, no sé, pues staking, governance, como que estando al día con las noticias de lo que hace el equipo, dando sugerencias, como que no sé, pues tomando iniciativa en cosas, todo eso va a ayudar a un chain of chain, pero al final ayuda.
+Entonces eso es algo que he visto a lo largo de mi carrera en cripto.
+Es como que al final eso es lo lindo de blockchain, que todos tenemos una parte importante que jugar en las redes.
+Pero bueno, ese era mi mensaje.
+Tengo que volar una re ahorita que ya estoy recontra tarde, pero quería dejarlos con mis dos centavitos ahí de información.
+
+[Speaker 0 - 00:36:49]
+Hombre, muchísimas gracias Katy.
+Si no la habían seguido, vayan al perfil, revisen está ella como cofundadora y CMO de Tansy Network y qué interesante tener a gente latina construyendo estos protocolos, la neta se me hace bien, bien, bien chido.
+Muchísimas gracias Katy.
+Aquí le seguimos un ratito con José.
+
+[Speaker 2 - 00:37:10]
+Listo, gracias a todos, que tengan buen día.
+Chau, chau, gracias.
+
+[Speaker 0 - 00:37:15]
+Oye José, qué interesante, me llama mucho la atención como lo platicábamos, el caso de DJ, yo creo que podríamos andar por ahí platicando, saludos a todos los que se van conectando, muchas gracias por estar por aquí.
+Pero se me hizo súper interesante ese caso porque al menos en lo personal yo he tenido mucho contacto con esa moneda, fue una de las primeras memecoins que salió, bueno, ya no sé si es memecoin o de utilidad, creo que un poquito de los dos, pero salió en base y se estuvo utilizando muchísimo en la red social de Warpcast o Farcaster, la gente lo podía donar, lo podía regalar, era muy fácil transmitirlo y enviarlo y ellos en determinado momento, pues de ser un token decidieron crear una blockchain entera, la blockchain DJ, en la cual ellos iban a transaccionar, etcétera.
+Cuéntame un poquito de ese caso que la verdad me llamó muchísimo la atención porque el proyecto buscó a un tercero para proveerles la infraestructura para lanzar esta herramienta y hubo detalles por ahí en medio donde.
+No sé qué pasó ahí, pero se me hace muy interesante que no tenían acceso a las llaves de control de la red, que tenían por ahí una negociación de pagos pendientes y fue todo un tema.
+Platícanos un poquito José, por favor.
+
+[Speaker 1 - 00:38:41]
+Sí, correcto DJ.
+Digamos la blockchain como tal es un rollup, o sea, el sistema este rollup as a service, en este caso el que provide esta rollup es Conduit, el que tuvo problemas es Conduit, que básicamente retuvo, ¿Como hiciste?
+Retuvo el acceso a las claves privadas de.
+De básicamente Farcaster y bueno, DJ perdió el acceso al procesamiento, las transacciones, actualizaciones y las tarifas de secuenciación y la red estuvo así durante 54 horas.
+Eso es un gran, gran problema.
+Y bueno, claro, los usuarios tuvieron una pérdida de entre por ahí, no sé el número exacto, pero vi que entre 160 mil y 200 mil dólares tuvieron ahí pérdidas algunos usuarios de Far Caster.
+
+[Speaker 0 - 00:39:34]
+Sí, qué loco que estamos viendo ya este tipo de blockchains, cuando uno piensa que hay miles de nodos protegiendo todas estas redes, no necesariamente, hay algunas redes que tienen poquitos validadores, que tienen poquitos proveedores de bloques, en este caso en el de Djen, y veo que es un producto, que es un mercado que está ahí, o sea, el ofrecer servicio de manejo de blockchain a proyectos como DJ, o el ofrecerle el servicio de operar una blockchain a una empresa privada que necesita hacer transacciones para logística o para lo que sea su proceso interno, creo que hay un modelo súper interesante porque todo esto se puede personalizar.
+A lo que tú quieras, puedes usar el token que tú quieras para poder utilizar la red, puedes poner el tipo de gas, puedes poner el tipo de consenso, hay muchas cosas que se pueden personalizar para hacer blockchains exclusivas y únicas, y hay muchas herramientas también para hacerlos.
+Y ellos, como dices, estaban con un servicio que se llamaba.
+Uy, se me fue el nombre, pero les cobraban ¿Cuánto?
+Como unos 3.000, 4.000 dólares al mes más o menos.
+Creo que esos más o menos están cobrando.
+He escuchado números más caros todavía, pero no estoy seguro.
+
+[Speaker 1 - 00:40:55]
+Sí, correcto.
+Conduit, si no me equivoco, es el proveedor de rollup.
+De DJ en este caso.
+Y sí, claro, eso es un problema gigante, los usuarios, tanto tiempo de inactividad en la red.
+Mucho, hay mucho problema también.
+Hay un solo nodo, hay algunos rollups que sólo tienen un nodo, imagínate, se cae, hay algún problema, ¿Que pasa?
+Se pierden muchos fondos, la red se cae en sentido de centralización, los roll ups si son personalizables y todo esto, pero la centralización es un aspecto que falla mucho.
+Entonces justamente, digamos, también eso es una queja de varios desarrolladores también.
+Entonces, metiendo un poquito a Tansi, Tansy brinda la infraestructura, digamos, necesaria y la descentralización también en este sentido, en lugar de tener un solo nodo, tener diferentes nodos, digamos, en la red, en cada diferente proyecto.
+Obviamente que bueno, eso está en el documento técnico de Tansy, por si quieren ir a verlo también.
+Eso está muy interesante, el mecanismo que tienen, como los nodos, digamos, protegen la red principal, después las otras redes, digamos, que se crean en Tansy, pero no con un solo nodo, obviamente, sino brindarlo de un segundo, un tercero, un cuarto, depende qué tanta cantidad.
+De gente haya.
+
+[Speaker 0 - 00:42:26]
+La verdad sí se me hace algo súper, súper importante.
+Y mucho he escuchado recientemente, oye, ¿Sabes que?
+Vamos a utilizar herramientas blockchain, ni siquiera nos vamos a dar cuenta, ni vamos a saber cómo funcionan.
+Estoy de acuerdo, estoy de acuerdo.
+Vamos a utilizar, y ya estamos utilizando muchas herramientas blockchain que no tenemos ni idea cómo funcionan, pero casos como el de DJ te hacen.
+Te hacen pensar, a ver, analizar, oye, ¿Sabes que?
+Me voy a meter a una blockchain nueva, la de APE, la de los apes, por ejemplo, no sabemos quién está operando esa red, no sabemos si es el mismo proyecto que la opera, no sabemos si está tercerizando la operación de la red.
+Y ya hemos visto en el caso de DJ fue claro que estos proyectos que están ofreciendo estos servicios pueden secuestrar esas llaves y pueden tener el control y tener un impacto enorme en el bloqueo de la producción de bloques o en el tema de las comisiones del secuenciador, etc.
+Hay mucha lana por hacer en estas herramientas y tener un tercero ahí en discordia que te pueda llegar a cerrar de la noche a la mañana porque se enojó, porque no le pagaste, etcétera.
+Creo que es importante rascarle un poquito más, al menos ahorita los proyectos en los que estamos metiéndonos.
+Y el caso de DJ a mí me voló la cabeza.
+Yo he estado pensando muchísimo.
+Soluciones para la industria aquí en Monterrey.
+Monterrey es una zona muy industrial, donde hay mucho logística, hay mucha construcción, hay mucho manejo.
+También de información, porque hay proyectos también tecnológicos y creo que para ciertas industrias y para ciertas empresas puede llegar a funcionar muy bien una blockchain completamente personalizada para su uso.
+Me imagino que puedes hacer blockchains públicas y privadas utilizando el protocolo o solo se pueden hacer blockchains totalmente públicas y descentralizadas.
+
+[Speaker 1 - 00:44:21]
+Realmente como quieras, puedes hacer ambas.
+Igual si quieres, por ejemplo, en TAN, si quieres lanzar una blockchain que dure sólo una semana, podrías hacerlo.
+Al igual digamos, si por ejemplo, si no necesitas que haya transacciones cada tres, seis segundos, podrías ajustarlo a que sea cada 30 segundos por ejemplo, o cada un minuto, digamos, realmente es muy, muy personalizable todo esto.
+
+[Speaker 0 - 00:44:44]
+Oye, blockchains para eventos en específico, oye, sabes que voy a lanzar una blockchain, digo, no sé, todavía no hemos hablado del costo, pero voy a tener un evento masivo, necesito infraestructura personalizada y crítica durante tres días, que va a haber muchas transacciones, o sabes que quiero armar un mercado donde todo mundo acepte cripto, bueno, les voy a poner su propia blockchain, les mando tokens, hago una dinámica interesante, solo ahí estamos transaccionando los que estamos adentro de la activación física, etcétera, algo así me imagino que se puede hacer.
+¿Y qué tanto es el costo?
+¿Cuánto cuesta lanzar una blockchain totalmente nueva?
+A mí me encantaría hacer pruebas.
+Y empezar a probar y a experimentar con el sistema.
+
+[Speaker 1 - 00:45:31]
+Sí, totalmente podrías lanzar una, no sé, realmente no sé hasta qué punto porque no sé si se podría lanzar por eras digamos, en lugar de digamos, no sé qué tan extremo, pero lugar de lanzarlo en tres días, que sean sólo seis horas por ejemplo, 12 horas, alguna cosa así, pero bueno, también podría ser tres días, una semana, un año, 10 años, todo lo que quieras en sentido de precios, como no tenemos el token realmente tampoco sabemos qué tanto puede costar, pero.
+En ese sentido es como una blockchain prepago, digamos, algo así, donde tú depositas tokens tan simples al protocolo y esos tokens digamos que te sirven para 7 días, entonces eso sí tendrías que estar mirando, digamos para ver, para estar más o menos viendo para que no se te acaban estos tokens.
+Bueno, el mecanismo es que tú da los tokens, creas tu blockchain y estos tokens cuando va pasando el tiempo, cada era se van quemando, se van quemando y se van quemando, entonces bueno, si quieres lanzar tres días por ejemplo, pones tokens suficientes para que alcance para tres días, la configuras y cuando cumpla los tres días se corta y listo, o hasta que se te acaben los tokens en este caso o puedes recargar, retirar y bueno realmente es bastante, bastante interesante todo el mecanismo.
+
+[Speaker 0 - 00:46:54]
+¿Ok, OK, entonces es token de utilidad el que vas a necesitar para poder operar estos sistemas me imagino que es el mismo token que se va a operar para gobernanza.
+O es algo distinto como lo tienen pensado?
+Porque ahorita por ejemplo en testnet cómo lo están utilizando me imagino que ya tienen un token para poder hacer todas estas pruebas.
+
+[Speaker 1 - 00:47:15]
+¿Sí, correcto, hay diferentes tokens, bueno en Testnet tenemos si no me equivoco dos tokens y dos token, pero en teoría en la mainnet sería sólo un token que es el token TANSY que va a ser para hacer staking y bueno todo esto también como token utilidad como tú dijiste para ponerlo para que la gente cree sus propias blockchain y esos tokens que bloquea se van quemando durante un cierto tiempo que lo hayas configurado, no sé, una era, dos eras, un día, dos días, una semana, un año y bueno todo esto el modelo va.
+
+[Speaker 0 - 00:47:49]
+A ser similar ahora que salgan con EVM compatible?
+
+[Speaker 1 - 00:47:55]
+Sí el modelo como tal es igual, o sea el token TAN si va a ser sólo un token y va a andar por diferentes redes digamos puede estar en Ethereum, puede estar en Polkadot, puede estar en Solana, puede estar en Avalanche, puede estar en Cosmos, digamos es un token realmente que puede andar por todos los ecosistemas.
+Es un toque que anda todos los ecosistemas.
+
+[Speaker 0 - 00:48:21]
+¿Ok, OK, OK si alguien de acá quisiera empezar a hacer pruebas.
+Bajar el wallet para empezar a probar a lo mejor hacer una que otra blockchain qué les recomendarías?
+¿Por dónde pueden empezar todos los interesados en probar esta plataforma?
+
+[Speaker 1 - 00:48:45]
+A ver, la testnet la tenemos activa, la pueden, o sea aunque no esté la season 1 ni la season 2 activa digamos la testnet siempre está activa como tal entonces podrían probarla, yo que no soy desarrollador personalmente yo he hecho pruebas obviamente súper súper básicas sin integrar contratos inteligentes ni nada así por el estilo, pero yo sin tener conocimiento de informática ni de estos temas yo he podido lanzar una blockchain entonces realmente no sé qué tanto visión a futuro tal vez el proyecto para temas quizás no tan complejos se podría desarrollar como hasta un no code quizás en el futuro al pasar del tiempo digamos que ya haya suficientes contratos inteligentes suficiente para hacer un tipo específico de blockchain por ejemplo entonces ya se podría ofrecer como un no code también.
+
+[Speaker 0 - 00:49:43]
+OK, OK ahorita entonces si hay que, o sea tú no eres desarrollador, pero sí hay que ser código, me imagino que las lanzas en.
+En el command line, o sea, trabajas directo en una terminal para instalar y crear blockchains nuevas, o sea, todavía no tienen herramientas visuales tipo drag and drop y clic, etcétera.
+
+[Speaker 1 - 00:50:08]
+Por lo que entiendo no, por el momento no.
+Digamos, en este momento si vas a necesitar tener un poco de conocimiento, quizás no ser un experto.
+En programación web, pero en este momento si necesita saber programar para lanzar una red, por lo menos un conocimiento básico medio, quizás se desarrolle un no code, pero en el futuro.
+
+[Speaker 0 - 00:50:33]
+Perfecto.
+¿Entonces, para la testnet hay alguna manera de obtener tokens?
+¿Me imagino que debe haber por ahí alguna fuente, cómo es que le llaman en inglés?
+Pues sí, las fuentes estas que regalan tokens para empezar a probar.
+¿Y qué wallets nos recomiendas?
+¿Qué wallets nos recomiendas a toda la banda por aquí que está conectada?
+
+[Speaker 1 - 00:50:54]
+A ver, wallets ya hay algunas cuantas integradas, digamos en Tansi, la testnet sería Apps Tansy Network, esa es la página web y bueno, pues en Ethereum, bueno, es que literalmente puedes, puedes hacer una blockchain en esta página, en Apps Tansy Network, o sea, la podrías lanzar, lo que necesitas es conectar la billetera, hacer una que otra cosa, pero la lanzas directamente desde aquí, desde la web.
+Desde la web ya tienes tu propia blockchain, digamos, ya podrías estar generando bloques.
+
+[Speaker 0 - 00:51:28]
+OK, OK.
+Y.
+Tienes que tener obviamente el token que se va a ir quemando para poder tener esa, esa blockchain activa y es cómo consigues el token aquí mismo.
+
+[Speaker 1 - 00:51:43]
+En Apps Tansy Network.
+Hay un apartado de, bueno aquí, aquí te dice inicia construir, en qué redes quiere construir, diferentes ecosistemas, staking, puedes pedir el token también, conectar tu wallet para hacer las pruebas y bueno, realmente todo está en la página, está muy, muy bien integrado, tutoriales También, tanto en YouTube, GitHub, todo está concentrado, toda la información está concentrada en la página web.
+
+[Speaker 0 - 00:52:12]
+Excelente.
+Faucet, ya me corrigió aquí el buen Manny, la faucet está ahí directo en la página también.
+OK, perfecto.
+Me parece muy interesante el poder crear este tipo de aplicaciones y de blockchains enteras, sé que no es el único servicio que ofrece algo similar, por ahí, por ejemplo, sé que la Supernet, la Superchain Optimism tiene por ahí.
+Un development kit, un SDK para poder crear tu propia red que también está por ahí disponible.
+Arbitrum acaba de sacar un servicio también para que la gente utilice su stack de desarrollo para crear redes optimistas con ese estilo de consenso.
+Sé que Scroll, que es otra de las redes, está haciendo algo similar.
+Hay mucha competencia.
+Por lo que veo y creo que sí es un mercado y un producto que se puede comercializar el día de hoy.
+No sé si ya tengan casos de éxito estas redes, creo que sí.
+El caso es obviamente de DJ que quisieron hacer su red, que utilizaron un sistema.
+Entiendo que es optimista, como decías de la Super Chain de Optimism, pero me imagino que debe haber muchos otros proyectos que quieran lanzar sus propias redes para lanzar sus colecciones, sus tokens, algo un poco más privado, más controlado, ve tú a saber.
+Yo sí creo que hay un caso de uso ahí.
+No sé si se hayan acercado con ustedes ya algunas empresas que estén haciendo pruebas en testnet sobre el sistema que ustedes ya tienen algo, no sé, más web que quiera poco a poco ir migrando a web.
+¿Tienen algún ejemplo por ahí?
+
+[Speaker 1 - 00:53:51]
+De hecho si, hay una empresa que se llama Heaven, que básicamente.
+Esa empresa va a buscar empresas web para construir en web, digamos, es una empresa bastante grande.
+Y sobre lo que mencionabas del SDK.
+Ahí, disculpen, sobre lo que mencionabas del SDK, yo veo a Tan Si como un SDK con esteroides.
+¿Por qué?
+Porque Tan Si te ofrece el SDK más la infraestructura.
+Por eso puedes lanzar la red en minutos literalmente mientras te llega una hamburguesa que pides en Uber Eats, ya podrías tener tu blockchain funcionando.
+Eso es bastante interesante.
+
+[Speaker 0 - 00:54:34]
+¿Oye, en este caso se crean validadores por ahí en algún servidor virtual o la misma red.
+Protege todos esos movimientos?
+¿Qué tanta infraestructura necesitan crear o pagar los usuarios de estas redes para darnos más o menos una idea?
+Sé que no hay todavía una idea del costo mensual para correr esto, pero me imagino que va a tener.
+Un pago mensual, una.
+No sé si membresía o qué, pero pues es un servicio, un servicio de software que vas a tener que estar pagando mensualmente.
+Y Tan Si es la que te está cobrando pero de una manera descentralizada porque tienes el token que su precio varía, tienes obviamente la fundación y la DAO que va a estar apoyando.
+Se me hace interesante la forma en la que están deployando redes sin tener que poner tú a montar validadores.
+Hace poquito empezamos una iniciativa con Ethereum México donde estamos invitando a la gente a comprar equipos, armarlos y poner sus validadores de testnet en Ethereum para que la gente que quiera aprender sobre estos temas sepa dónde hay que moverle, que hay que hacer, cómo en realidad funcionan y cómo se protegen estas redes.
+Pero acá en este caso no necesitan ellos tener su validador, no necesitan tener infraestructura física, ni hardware, ni un data center con temperatura y humedad controlada, etcétera, etcétera.
+Todo lo hace la red y se cobra automáticamente los tokens, ¿Verdad?
+
+[Speaker 1 - 00:56:06]
+Sí, correcto.
+En este caso tan si ya tiene digamos como ya tiene sus productores de bloques, sus validadores, pero bueno, obviamente si alguien quiere montar su nodo, quiere validar, quiere producir bloques, también puede hacerlo, no hay problema.
+Pero tan si ya tiene digamos como estos productores de bloques ya listos como para por lo menos defenderse con la infraestructura, a eso me refiero.
+
+[Speaker 0 - 00:56:32]
+OK, OK, excelente, excelente.
+Por aquí arriba les pinea, voy a hacer un breve reset, estamos hablando aquí con José Arrieta, es el Community Manager de Tansy en español, por acá hace rato subió también Katy que nos estuvo platicando que es la cofundadora aquí del protocolo y también Marketing Officer.
+La verdad un placer poderla tener por aquí.
+Les dejé pineados aquí arriba tres una, el espacio donde pueden ir a ayudarnos a compartir.
+Dos, está también la red de usuarios y de proyectos que están construyendo en Tansy y 3, el caso de DJing que platicamos hace poquito, es un hilo que publicó Djem, la red, el token de base, el 7 de noviembre, donde explica cómo tuvieron problemas con Conduit XYZ, que es la empresa que les estaba dando el servicio, cómo pues hubo ya una negociación, cómo perdieron un dineral también dice esas 54 horas de tiempo perdido fueron 160 mil dólares aproximadamente.
+El volumen obviamente de los puentes dice que también disminuyó muchísimo.
+Me imagino que han de haber perdido dineral y obviamente el impacto reputacional en la red y en la comunidad haber sido muy muy grande.
+Ustedes empezaron a trabajar ya con DJ, ellos sacaron ya su red con ustedes o están experimentando o nada más es un caso así alejado de lo que puede llegar a suceder con estos proveedores de servicio.
+¿Cómo lo ves.
+
+[Speaker 1 - 00:58:03]
+Eso?
+Es un ejemplo, digamos, lo que.
+Porque DJ realmente no es la primera que pasa esto, la primera vez que pasa esto, ya hay otros rollups que han tenido problemas, entonces digamos, es como un ejemplo, digamos, de todo lo que podría pasar.
+Que bueno, claro, imagínense, te retienen tus frases, tus claves privadas de rollup, entonces bueno, ya no puedes.
+No puedes acceder al procesamiento de transacciones, ni las actualizaciones de la red, tampoco tarifas de secuenciación, todo esto realmente es un gran, gran, gran problema en la red.
+Entonces digamos, es un ejemplo de una de las cosas que podría pasar, pero como tal, DJ todavía no está con TAN.
+Si, digamos en este momento, tal vez en el futuro se llegue a un.
+
+[Speaker 0 - 00:58:50]
+Acuerdo cliente potencial crédito.
+No, no, perfecto.
+Si, la neta se me hizo muy interesante ver el caso de cómo estos operadores.
+Empresas que ofrecen este servicio, pues tienen centralizado de todas maneras el producto TAN.
+Si, lo que está buscando, por lo que entiendo, es descentralizar, que cada uno que quiera pueda subir su red y que automáticamente de ahí se cobre.
+¿No hay nadie, me imagino que te pueda bloquear, no sé ahorita como lo estén manejando, pero supongamos que yo lanzo mi blockchain en Tansy, tengo tokens suficientes como para aguantar un año, en algún punto Katherine o tú me pueden bloquear o parar?
+
+[Speaker 1 - 00:59:30]
+No, es totalmente descentralizado, nada más tendrías que estar estar viendo, digamos los token para que no se te acaben, nada más sería como el detalle.
+
+[Speaker 0 - 00:59:41]
+No había escuchado de alguna otra plataforma que sea así.
+Sé que árbitro, por ejemplo, te cobra una mensualidad y ellos te ayudan, no sé si hay alguna otra, no sé, no sé José, si tú conozcas alguna otra que ofrezca también el servicio totalmente.
+
+[Speaker 1 - 00:59:53]
+Descentralizado para lanzar tu blockchain total totalmente descentralizado.
+No, la verdad.
+
+[Speaker 0 - 01:00:03]
+OK, OK, perfecto.
+Bueno, aquí arriba les piné, como les decía, el hilo de DJ.
+También les voy a pinear el link donde pueden ir a reclamar su coleccionable.
+Normalmente hacemos coleccionables digitales para estos espacios.
+Les quedan 27 minutos para poderlo reclamar.
+Ahorita está aquí abajo comentarios y al ratito en unos segundos lo deben de poder ver aquí arriba en el Jumbotron van, entran al link, lo único que tienen que hacer es poner su nombre, poner su correo electrónico y con eso pueden recibir su coleccionable.
+Si tienen una wallet web, mejor escriban ahí la wallet, le pican coleccionar, no les va a cobrar absolutamente nada.
+El gas lo estamos pagando nosotros como banda web y también con apoyo de Unlock Protocol que es la plataforma que estamos utilizando para tokenizar, Ya está aquí arriba disponible, les quedan solo 26 minutos para poderlo reclamar, ya está piñado.
+Perfecto, pues José, normalmente estos espacios duran una hora, una hora quince.
+Estuvimos platicando un poquito de Tansy y lo que viene, si alguien quisiera buscarte, qué comunidades y qué links o qué Telegram o Discord, dónde podría la gente unirse para conocer un poquito más y empezar a explorar las herramientas que tienen en Tansy Network.
+
+[Speaker 1 - 01:01:25]
+Todos los links y bueno también importante que nos sigan en la cuenta de Twitter y en la comunidad en español, que bueno ahí siempre estamos informando, siempre estamos hablando sobre sobre Tansy, sobre las cosas que vienen uno que otro alfa por ahí en una reunión que se hace así como improvisada, tenemos también reuniones semanales hablando, haciendo resúmenes, hablando de Fundación Tansy, noticias y bueno cosas así por el estilo.
+En el perfil de Tansy en español tenemos por ahí un link del INTRI, ahí es donde puedes encontrar digamos todos los links generales, tanto del GitHub, canal de YouTube.
+En inglés también está, hay canal de YouTube en inglés, en español también, redes.
+Todas las redes están directamente en ese link y las comunidades en español también, entonces podrían ingresar desde ahí.
+
+[Speaker 0 - 01:02:18]
+Perfecto, perfecto.
+Lo estoy dejando aquí abajo como comentario, también lo voy a pinchar acá arriba, el link tree para que lo tengan disponible y.
+Listo, ahí lo tenemos aquí arriba.
+Perfecto.
+Bueno, algo adicional José que nos quieras platicar sobre el protocolo, sobre iniciativas, algo de Alfa, a lo mejor que no haya pasado esta Katherine, la neta fue bien interesante hacer la investigación durante la semana anterior de estas blockchains que están operando terceros, también el analizar el modelo de negocio de operar una blockchain a un tercero, porque como les decía me he metido mucho al tema de nodos, estamos.
+Por arrancar un proyecto donde queremos que más gente aprenda a hacer nodos validadores que también corren sus propios nodos, creo que hay mucho aprendizaje ahí y que hay también modelos de negocio bien interesantes donde las comunidades se pueden empezar a fondear sus mismos proyectos operándole nodos y operando Ether o algún otro token de otras personas, por ejemplo Ethereum México, lo que buscamos es tener una red de operadores de nodos donde la gente que quiera ir a delegar o stakear sus tokens lo puede hacer y que tenga ahí la seguridad de que están distribuidos, de que hay una red local de gente que confía protegiendo estas redes y que también obviamente están generando parte de los beneficios de hacer el staking para la red, para la comunidad y así hay una manera autosustentable de fundir 8 proyectos blockchains completamente nuevas como las que puede uno hacer con Tansy.
+También se me hace un proyecto bien interesante.
+Y de nuevo, creo que hay un caso de uso muy, muy particular para empresas enormes de logística, para negocios que necesiten su propia blockchain personalizada.
+No todo lo resuelve una blockchain, eso sí me queda muy claro.
+Pero sí creo que no hemos visto todos los casos de uso y este tipo de herramientas donde es sencillo lanzar un producto así y que de una manera descentralizada tú puedes tener ahí un inventario de tokens y de ahí mismo se va cobrando la red para que funcione, se me hace bien interesante.
+Si me voy a meter a experimentar un poquito más, me encantaría lanzar una blockchain ahora que sea compatible con Ethereum, a ver si podemos hacer ahí alguna migración de tokens, ve todo saber.
+Pero.
+También voy a analizar el caso de eso de operarles blockchains a otras personas.
+Creo que hay un modelo interesante de negocio.
+No sé qué opines, José, pero.
+
+[Speaker 1 - 01:04:53]
+Por.
+
+[Speaker 0 - 01:04:53]
+Ejemplo, yo pudiera utilizar Tansi para cotizarle un servicio de blockchain a un tercero.
+¿Me imagino que sí, no?
+Nadie me lo impide.
+
+[Speaker 1 - 01:05:03]
+Sí, totalmente, sin problema.
+También, digamos, si fueras desarrollador, podrías ofrecerle el servicio de te desarrollo tu blockchain y la tenemos en, no sé, un día, una cosa así.
+Lo podrías ofrecer como servicio.
+Utilizas TAN Si.
+Y te llevas ahí un dinerillo extra utilizando TAN Si, también.
+Realmente hay muchos, muchos casos de uso.
+
+[Speaker 0 - 01:05:28]
+Creo que hay muchos modelos de negocio que no hemos experimentado, que al menos yo en lo personal no me he puesto a analizar y que cuando vi el caso de DJ sobre estas redes que están tercerizando los servicios de administración de nodos y de creación de bloques, se me hizo bien interesante.
+Pero bueno, no, pues definitivamente creo que sí va a ser uno de los protocolos que por ahí estaré experimentando.
+¿Creo que platicamos de todo lo que traemos por ahí en el listado, no sé si se nos pasó algo José, algo adicional que quieras comentar, algún otro proyecto en el que estés involucrado que quieras ciar?
+Yo les sea el token de Magic Eden, por ahí me cayó un buen airdrop, cómprenlo Pompé en mis bolsas.
+No, no se crean, pero si estaría chido que fuera Mexiliquid cuando llegue como a 10 15.
+¿Qué más andas metido José?
+¿Qué más nos quieres platicar?
+
+[Speaker 1 - 01:06:17]
+Realmente por el momento estoy full, full metido con Tansy, realmente digamos, ahorita no estoy en otro programa de embajador tampoco así.
+Algo iba a mencionar que no se me olvidó la verdad.
+Ah bueno, tal vez digamos dar como mis perspectivas quizás de cómo yo veo Tansy, digamos, Katy habló sobre como ella lo ve como una visión como si fuera Wix, yo lo veo más de una visión tipo Shopify, por ejemplo, de montar tu tienda en línea, algo así, ahí te da todas las herramientas necesarias para que montes tu tienda en línea y comiences a hacer dropshipping, por ejemplo.
+¿Algo así lo veo yo.
+
+[Speaker 0 - 01:06:58]
+O sea, crear tu propia blockchain para.
+Manejar producto físico dices, tiene línea de producto físico?
+
+[Speaker 1 - 01:07:09]
+Podría ser, si, podría lanzar un producto físico también.
+Es que realmente por caso de uso se puede, se puede hacer de.
+Hay muchas, muchas ideas, por ejemplo, en tema de la comunidad, por ejemplo.
+Podrías crear una blockchain, lanzar NFTs, hacer un poco más dinámico todo el asunto y ofrecer rewards, algún NFT o algo digamos, pero ya basado.
+En lo que es comunidad, por ejemplo en Tansi ahorita hay, bueno, se olvide el nombre, pero bueno, hay una comunidad bastante grande en Brasil que habla sobre cripto, creo que en total tienen como 20 o 30 millones de suscriptores en total todas las redes y ellos van a lanzar con Tansy, digamos para hacer.
+Actividades y todo este tipo de cosas, pero con su comunidad.
+Entonces.
+
+[Speaker 0 - 01:08:05]
+Oye, si alguna comunidad que veo aquí, varios líderes de comunidades quisiera hacer algo parecido que te manden día me imagino.
+
+[Speaker 1 - 01:08:16]
+Sí, totalmente, ahí mis diem está abierto y bueno, si no, ahí estamos en la comunidad de Tansy en español también disponibles para cualquier ayuda, si necesitan hablar con alguien del core team, sin problemas los ayudamos.
+Temas de programación igual, cualquier cosa, nada más ahí estamos, estamos disponibles.
+
+[Speaker 0 - 01:08:37]
+Algo que yo he aprendido en este ecosistema es que una entrada temprano ayuda y dos, estar conectados con la gente que está en las fundaciones como Community Managers, participando, dándoles valor, trayéndoles gente a sus espacios, platicando de estos proyectos, creo que ayuda muchísimo.
+Creo que todos los proyectos que salen por ahí lo necesitan.
+Entonces, bueno, si de pura casualidad les gustó lo que escucharon el día de hoy o se clavan un poquito en la herramienta y quieren experimentar, pues ya saben con quién acudir.
+Este espacio fue totalmente, no fue patrocinado.
+José me buscó hace unos días y me empezó a platicar de lo que pasó con DJ, me empezó a platicar de lo que se podía hacer con Tansy, me llamó muchísimo la atención, le dije no, me vente, platiquémoslo.
+Tenemos pendiente José, una llamada para ver ya casos de negocio más acorde a las soluciones que podemos ofrecer acá en Monterrey para la industria, etc.
+Creo que está muy chido que utilicemos esos protocolos pensando en resolver problemas locales y aquí en Monterrey, pues como te digo, hay mucha industria que creo que se puede beneficiar de este tipo de registros, este tipo de aplicaciones.
+Pero bueno, muchísimas gracias de nuevo.
+Esto Fue banda número 24 con José Arrieta de Tansy Network.
+Voy a pasar a dar un poco de anuncios mientras termino, pero el próximo jueves tenemos el espacio Banda web número 25.
+Va a estar con nosotros Cristina Lostanao y Cristian Zambrano de zona 3.
+Ellos están haciendo un chorro de cosas de educación y han hecho un chorro de cosas este año.
+Para organizar hackatones, traen una aceleradora con ICP, Hub, Latam, traen programas para que la gente aprenda a desarrollar en diferentes lenguajes para diferentes blockchains.
+La verdad se me ha hecho bien interesante la iniciativa que traen ellos, educativa y vamos a estar platicando con ellos el próximo jueves a las 12 de la tarde y el próximo viernes por ahí les voy a pinar aquí arriba.
+También estoy probando la aplicación en Avalanche que se llama The Arena o de Arena.
+Es una red social muy fácil de utilizar, solo necesitan su.
+Conectar su cuenta de X, automáticamente tienen acceso a la plataforma, automáticamente les crea una cartera y automáticamente ponen a la venta tokens o tickets.
+Está padre, se maneja muy similar a lo que se hacía en Frame Tech donde la gente puede comprar y vender tickets que tienen acceso a un canal exclusivo y esos van subiendo y bajando de precio conforme la gente los compre y el creador de contenido dueño de esa red recibe un porcentaje de todo ese volumen y también hay una manera bien bien fácil de hacer donaciones tipo Farcast, tipo Wirecast, esto es en Avalanche pero tienen también la capacidad de tener Spaces, ya acaban de hace creo que una semana no le llaman Spaces, allá le llaman Stages Entonces el viernes a las 12 de la tarde vamos a estar en un stage por allá utilizando la plataforma de Avalanche y de Arena.
+Les voy a poner aquí el link de referido, si me hacen el favor de utilizar mi link para crear su cuenta, me ayudan muchísimo porque me dan un porcentaje de ese volumen, a ustedes siempre les van a dar lo mismo, usen mi link o no les van a dar ustedes lo mismo, pero si usan mi link a mí me toca un poquitito y la verdad es que he estado probando muchas de estas iniciativas que traen.
+A ver vamos a entrar aquí para pasarles el link.
+Muchas iniciativas que traen maneras de premiar a la gente que atrae usuarios a sus redes.
+Tema de comisión se me hace bien interesante, tema también de porcentajes se me hace bien interesante, muchos de los exchanges copy link, muchos de los exchanges por ahí tienen este tipo de iniciativas donde tú entras a un programa de afiliados y te dan un porcentaje de las comisiones si no se han metido y no han utilizado, el de Binance por ejemplo está muy bueno, Bitso tenía uno también muy bueno, creo que la gran mayoría de los exchanges tienen esos programas donde si usan tu código de referido y les ayudas a atraer personas al sistema, te dan ahí un porcentaje por ahí ya lo puse aquí abajo el link así listo, déjenme lo pineo, aquí arriba les dejo el link de referido por si quieren entrar al espacio el viernes, la idea es darle una oportunidad, platicar a todos los que entren, a todos los que pidan la palabra, si traen un proyecto que quieren chilear, si es en Avalanche mejor, si no también, pero vamos a tener el espacio por allá, no sé si voy a hacer una transmisión simultánea acá en X, yo creo que no, pero bueno, por ahí los voy a estar viendo el próximo viernes a las 12, ya les piné aquí arriba el link para que creen su cuenta, si utilizan mi código me avisan porque les quiero comprar tickets, en cuanto hagan su cuenta avísenme o denme 23 minutos antes de aviso para entrar y comprarles este, porque si entro compro de los primeros, compro barato y luego entran bots a comprar y vender y está padre, ya la verdad mi cuenta ha generado como 3 abax de volumen y de esos 3 me toca 1 porcentaje, pero bueno ahí seguiremos experimentando uno que otro espacio, lo haremos por allá, vamos a estar con Ricardo Oruca que es uno de los embajadores de Avalanche platicando el viernes a las 12 y también invité a Andy, Andy es una de Devrel de Avalanche, probablemente la pueda tener por allá, pero bueno, otro anuncio, el día de hoy vamos a estar a las 5 de la tarde, aquí abajo veo a Bawin Cristo Warrior de Venus Protocol y me invitó a las 5 de la tarde a un YouTube, también por aquí se los vamos a poner para que se conecten si quieren aprender un poquito sobre las noticias y sobre Venus Protocol que es un protocolo de préstamos en diferentes cadenas, un protocolo de préstamos multicadenas que está ayudando a muchas personas a poner su dinero a trabajar, a dejar colateral y pedir un préstamo para hacer lo que tú quieras con comisiones e intereses muy, muy, muy buenos.
+La verdad creo que defi en general tiene mucho futuro que no hemos visto todavía explotar, en realidad defi tuvimos una burbuja interesante hace poco, pero la lana real de los fondos y de las empresas grandes que entren a cripto van a querer buscar intereses y van a querer buscar todas estas plataformas que les permiten poner su dinero a trabajar y creo que va a tener mucho crecimiento.
+Entonces Bullish en Venus Protocol, vamos a con ellos a las 5 de la tarde el día de hoy y es todo.
+Próximamente vamos a estar haciendo, ah no mentira, se me olvidaba, eventos presenciales, si están en Ciudad de México el 19 de diciembre hay una posada que estamos organizando, ET México con Mantle y Odisea.
+En Ciudad de México y acá en Monterrey, si están en Monterrey, por ahí veo algunos que dijeron que iban a venir a las posadas, hay una posada este sábado 14 que estamos organizando, bueno ahí no estoy metido yo, está organizando de largo con espacio cripto, con Starknet y con Ethereum.
+Monterrey es el sábado 14 en la noche y el miércoles 18 de la próxima semana, ahí sí estoy yo apoyando, estamos organizando con Arbitrum, con Ethereum Monterrey y con MX una posada cripto posada el miércoles 18 a partir de las 7 de la noche, va a ser en el barrio antiguo, vamos a estar ahí hasta la una, va a haber piñata, va a haber pastel, va a haber regalos, va a haber merch, la neta nos encanta todo el tema de eventos presenciales y se pone, se pone muy bueno y sobre todo estos de Navidad, la verdad se ponen muy chidos.
+Por ahí abajo veo al profe Miselio que también por ahí anda haciendo mucho contenido en Instagram, ellos están arrancando creo que hoy o mañana el Tulum CryptoFest, entonces si andan por ahí en Tulum, muchos saludos y síganlos a José, a Tansi en español, a Mexi, mi otra cuenta meximalistivanda Web también veo acá arriba, muchas personas quisieran mandar saludos si escuchan esta grabación y no los conocen, a Cristo Water, Tori Dom que por ahí conocí en Mérida, a Lau, muchas gracias por estar por aquí, por compartir, Lau, Javi que veo por ahí que también siempre está bien presente y nos ayuda a compartir, Oliver Ganador Caro, Mar Morita que también nos ayuda siempre a compartir, el buen Tab que hace rato no veía, Manuel, el buen Manny que tiene también un espacio ahí con Embajadores Web, la neta, muchísimas gracias por estar por acá.
+Esto fue Banda web número 24 con José Arrieta.
+Nos vemos el próximo jueves.
+¿Quién quiere preguntar?
+A ver, aquí subí el profe emisario, tengo unos cinco minutitos, vamos a darle la palabra para que nos cuente un poquito allá el tolumbro CryptoFest.
+¿Qué onda, profe?
+¿Cómo andas?
+
+[Speaker 3 - 01:17:51]
+¿Qué onda?
+¿Qué onda, mi mexi?
+
+[Speaker 1 - 01:17:53]
+¿Qué tal?
+
+[Speaker 3 - 01:17:53]
+Saludos a todos los que están por acá, toda tu audiencia.
+Oye, pues aquí nada más para pasarles un alfa si se puede para aquí, para.
+
+[Speaker 0 - 01:18:01]
+Claro, por supuesto.
+Échalo, échalo.
+¿Tú ya andas allá en Tulum?
+
+[Speaker 3 - 01:18:06]
+Sí, ya el jueves empieza el Tulum Cryptofest, termina el domingo, va a estar buenísimo, digo, ya estuviste el año pasado acá, esta es temporada alta, diciembre va a volver a venir Scott Page, uno de los saxofonistas de Pink Floyd.
+Va a estar buenísimo el evento y Pues bueno, el alfa que les quiero dar acá a todos es que vamos a lanzar nuestro nuevo liquidity token de Shelva, el que teníamos anteriores Utility, pero aquí en el Tulum CryptoFest vamos a sacar ya el de liquidez, entonces pues para que estén ahí al pendiente.
+Va a ser obviamente en Solana, lo vamos a lanzar a través de dexcreener en Meteora, entonces pues bueno, ahí te paso el contrato mexicano para cuando lo tengamos ya listo, se lo pases ahí a toda tu comunidad, pero entre el viernes y sábado hacemos el lanzamiento.
+Y bueno también excelente, excelente, otro alfa para reforzarlo en el evento de Bitso, de Expo Bitso del mes pasado estuve hablando con el CEO, entonces pues casi, casi ya es un hecho, digo, obviamente todavía está en pláticas el tema de integrar nuestro token de Shelva a Bitso.
+
+[Speaker 0 - 01:19:34]
+Vámonos, vámonos, Yo soy Holder ahí, disclaimer, yo soy Holder de la colección de Gorila, estoy, tengo, tengo algo de Shelva por ahí, sé que ya es un toque que tiene mucho, mucho tiempo.
+El año pasado por cierto que estuve.
+En la segunda edición del cripto, del Fest, perdón, del Tulum Crypto Fest, lo utilizamos para comprar unas tortas.
+Tontas de chilaquile, estaban buenísimas, buenísimas por cierto, los.
+
+[Speaker 3 - 01:20:03]
+Shelbaquiles, famosos Shelvaquiles.
+Ahí vamos a tener ya nuevas cosas, ya también tenemos agua alcalina, se llama Shelva, vamos a también en el Tulum CryptoFest vamos a hacer el lanzamiento de las chanclas de sargazo que ya, pues ya lo patentamos junto con los que inventaron esto, me asocié personalmente con ellos y pues bueno, obviamente va a ser uno de los, de los productos que vamos a tener que son ambientalmente responsables y que hacen algo para poder hacer estas chanclas se tienen que mandar barcos en medio del mar a traer el sargazo fresco, procesarlo y evitar a que llegue a las costas y que genere el problema que genera, Entonces pues bueno, es uno de los productos que ya se van a lanzar en el Tulum CryptoFest, igual también filamento biodegradable para las impresoras D y pues muchísimas cosas más que se vienen que hemos estado trabajando en vida real y bueno, ya es el momento de despegar, vienen muchas, muchas cosas, pero bueno, esto es un poco del alfa que les tengo aquí para toda la banda web.
+¿No?
+
+[Speaker 0 - 01:21:18]
+Muchas gracias, profe, por subir.
+Hay que programar una llamada.
+Ojalá.
+Hay que programar un espacio con.
+Con ustedes, con Gorila, contigo, reventarnos acá toda una hora entera.
+Gracias a los que ya han pasado también por aquí veo a Lau.
+Me encantaría tenerte por acá, Lau.
+Te voy a mandar un DM luego para coordinar, pero vámonos.
+Muchísimas gracias.
+Me tengo que ir.
+Esto fue Banda web número 24 con José Arrieta.
+La neta, me encantó poder platicar de Tansy Network.
+¿Qué onda, qué onda?
+
+[Speaker 3 - 01:21:48]
+Otra última.
+Si quieren estar viendo cómo está el Tolun Cryptofest, vamos a estar transmitiendo en vivo en el canal de YouTube de Selva TV.
+Así búsquenlo en YouTube, Selva TV.
+Y también en redes sociales, en Instagram.
+En Instagram ya hay unos previews.
+Hoy voy a grabar dónde van a ser las fiestas, pero las transmisiones en vivo van a estar en nuestro canal de selva TV en YouTube.
+
+[Speaker 0 - 01:22:16]
+La neta, es uno de los eventos más chidos de los que me ha tocado ir.
+Muy diferente a otros.
+La cultura por allá y la comunidad está súper loca.
+Muy buenas fiestas, muy buenos eventos, post fiesta y afters, etcétera.
+Si andan por allá cerca de Tulum, mándenle por ahí un DM al Profe Miselius para que se puedan dar la vuelta a la tercera edición, que ahora en diciembre me imagino que va a tener mucha más participación.
+Ojalá tenga mucho éxito.
+Muchas gracias, profe, también por subir.
+Shelba es con X Xelva.
+Shelva.
+
+[Speaker 3 - 01:22:50]
+Xelva TV.
+Así estamos en YouTube y pues la página.
+Tenemos un perfil nuevo, vamos a reactivar a toda la comunidad.
+Hicimos un nuevo canal de Telegram, un nuevo canal de Discord.
+Perdón, de Telegram.
+Los de Discord los vamos a migrar al Telegram, tanto de Gorila como de Shelva.
+Hay.
+Una nueva página de que es Shelva Coin y ahí la van a identificar con el link que está en la página pineada que es Shelva Foundation.
+Org.
+Ahí van a poder ver un poquito de.
+Todavía no está al full terminada, pero ya está ahí un preview de la página y del proyecto para quienes no lo conocen.
+
+[Speaker 0 - 01:23:38]
+Nombre La próxima semana nos sentamos a platicar un poquito de la historia y de todo lo que viene, porque si, definitivamente, ahorita es cuando.
+Ahorita es cuando hay que lanzar productos, ahorita es cuando el bull market permite llegar a más personas, creo yo, donde hay que meter tercera, cuarta, quinta, buscar atraer a nuevas personas, a nuevos usuarios a estas plataformas y aprovechar que está creciendo mucho el ecosistema acá en Latinoamérica.
+Creo que hay mucho que hacer.
+
+[Speaker 3 - 01:24:08]
+Exacto.
+Estamos en el momento que todos hayamos estado esperando.
+
+[Speaker 0 - 01:24:12]
+Es ahora, es ahora o nunca.
+
+[Speaker 2 - 01:24:14]
+De acuerdo.
+
+[Speaker 0 - 01:24:15]
+Pero bueno.
+No, no es cierto.
+Habrá otro ciclo y otro ciclo, pero entre más se tardan, más difícil va a ser.
+Esto fue Banda Web 3, número 24.
+Ahora sí me voy.
+Los dejo con Universal Mind de Liquid Tension Experiment.
+Muchísimas gracias por estar por aquí.
+Aprecio muchísimo que se conecten, que ayuden a compartir, que le den like, que minteen el NFT.
+Y nos vemos el viernes por allá en Arena Social.
+Cualquiera que saque su cuenta en Arena Social y se conecte al stage va a poder subir a platicar al menos un par de minutos de lo que está haciendo.
+Lo quiero hacer así, muy interactivo y que todo el mundo pueda chiliar.
+Se queda grabado.
+Entonces va a estar chido.
+Nos vemos y saludos.

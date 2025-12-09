@@ -1,0 +1,124 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Título: BandaWeb3 - Latinos en Web3🎙️ Bitcoin Ordinals ! Que son Español Pt.3
+Fecha: 1765271100000
+Duración: 12.970000267028809 segundos
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+[Speaker 0 - 00:01:15]
+Estoy por pensar que este lunes Latinos en Web, Bitcoin Ordinals es un tema como que no puede pasarte más de 25 minutos.
+Esta es la parte 3.
+Gracias por regresar y por estar con nosotros, de verdad.
+Si quieren hacer el retweet se los agradezco, si no los entiendo, no hay problema, pero parece que a alguien no le gusta este tema mucho.
+Creo que estaban dando aquí mucho alfa, esto de estar enseñando a la gente.
+Estábamos tocando precisamente el tema que si subir esta arte estaba llenando el network y si de pronto a alguien no le gusta y esto voy a empezar a hacer un conspiracy theory aquí, una teoría, porque a lo mejor de verdad que no le gusta que estemos utilizando las redes o que le estemos enseñando a más personas cómo de pronto pueden subir su arte o cómo pueden hacer estos mints.
+Pero bueno, vamos a darle la bienvenida de nuevo a mis co host y a todos ustedes que regresaron.
+Gracias por buscar el espacio y regresar así rapidito.
+Con este tipo de cosas.
+Definitivamente nos toca adaptarnos.
+Así que Felipe, estabas hablando cuando nos cortamos en la parte número 2 al final voy a tratar de ponerlas todas juntas y subirlas, así es más fácil como seguir el hilo de la conversación, pero seguimos Felipe.
+
+[Speaker 1 - 00:02:43]
+Sí, claro, claro.
+Yo creo que estoy sospechando fuertemente que al poder centralizado no le está gustando nuestra conversación, pero no sé hasta dónde me quedé la verdad.
+
+[Speaker 0 - 00:02:56]
+Vamos si quieres entonces con De Largo, que tenía la manito levantada hace rato.
+De largo, bienvenido.
+
+[Speaker 2 - 00:03:04]
+¿Qué onda?
+Gracias por el espacio, muy buena la plática y de hecho este tema de Bitcoin Ordinals fue un tema de esos que sabes que tienes que escuchar y aprender, pero que los ignoras completamente hasta que es demasiado grande y ya no lo puedes ignorar.
+La principal persona que me causó ese FOMO fue Mexi, entonces ya vi este espacio y dije no, pues ya tengo.
+
+[Speaker 3 - 00:03:29]
+Que entrar a fuerza.
+
+[Speaker 2 - 00:03:30]
+Y yo tengo la perspectiva como de.
+Alguien que no lleva tal vez mucho en el espacio, se pudiera decir, o sea, por ejemplo, no tengo mucho conocimiento de la historia de Bitcoin y cosas así, me gustan mucho los NFTs en general de todas las redes, Ethereum, Solana, y entonces yo lo que veo con esto de Ordinals que me han cambiado mucho la opinión en este espacio, me encantó que dijeron que pues oye, un SAT literal es no fungible lo que viene siendo un NFT, ¿Verdad?
+Eso me encantó, varios puntos que tocaron aquí, sin embargo, no es un poco como counterproductive como todo esto, o sea, sí está muy padre que el artefacto digital, que el satoshi sea un NFT.
+
+[Speaker 1 - 00:04:18]
+Pero.
+
+[Speaker 2 - 00:04:21]
+Creo que en lo que he estudiado de la historia de Bitcoin es que ya se han tratado de sacar NFTs en Bitcoin, creo que nos han tratado de sacar dominios, pero no entiendo por qué esta necesidad, y como dijo Mex hace rato, o sea, estos son, lo que yo diga es solo una opinión, o sea, no es como una verdad o nada, simplemente es como lo que yo pienso, pero quiero que me digan, o sea, no estamos tal vez perdiendo el tiempo con todo esto, o sea, ¿Por qué yo veo Bitcoin como un store of value, como oro digital, ¿Por qué tenemos que invertir tanto tiempo en correr un nodo y así?
+Que está muy padre para temas de educación, me encanta, pero al final del día no se puede un mass adoption de un web en la red de Bitcoin porque de ser así no existiría Ethereum y no existirían todas estas redes escalables que estamos viendo hoy en día, no estaríamos viendo estos layer 2, no estaríamos viendo todo este crecimiento de la industria que ha tenido en los últimos años, o sea, ¿Por qué tenemos que regresar a Bitcoin otra vez?
+Que sí es la más grande de todas y siempre va a ser la más grande, o tal vez no, ¿Verdad?
+Pero ¿Por qué esa necesidad de regresar?
+¿Vi un comentario que me gustó de alguien, no me acuerdo quién, que es como meterle un brazo robótico súper dopado a un viejito, o sea, está bien que.
+Sí, pero porque no dejamos morir al viejito y dar paso a la innovación?
+Desconozco el tema, desconozco mucho el tema y por eso estoy aquí aprendiendo, pero quiero saber qué opinan de eso, ¿No es como un poco counterproductive?
+
+[Speaker 0 - 00:06:07]
+Yo me voy a meter antes para aclarar que a todos los viejitos que nos están escuchando de este tema, no vamos a dejar morir a los viejitos, team viejitos, por favor, si son team viejitos me deja un comentario ahí para estar pendiente quiénes son team viejitos, No vamos a dejar morir a los viejitos, por favor, pero ya hablando en serio, Felipe me exige.
+
+[Speaker 2 - 00:06:28]
+Sí, sorry, fue una analogía.
+Yo sé, yo sé, hombre.
+
+[Speaker 3 - 00:06:34]
+Yo ya cruzo las cuatro décadas.
+¿Dónde me dejas de largo, tacanijo, hombre?
+Bitcoin nasty.
+
+[Speaker 1 - 00:06:40]
+Yo sí lo sentí personal.
+Lo sentí personal.
+
+[Speaker 3 - 00:06:44]
+Todavía está joven, todavía está joven.
+Y esa es la gran ventaja.
+
+[Speaker 2 - 00:06:47]
+Y de cero personal.
+Cero personal.
+
+[Speaker 3 - 00:06:51]
+No, no te creas.
+Pero definitivamente creo que esta red y los probables usos y las aplicaciones que se puedan llegar a construir como esta que ya estamos viendo, están trayendo muchas personas nuevas a aprender y a utilizar.
+Yo nunca, nunca en.
+Híjole, los cinco años que llevo con la tecnología había escuchado de tantas personas que quisieran entender y correr un nodo, por ejemplo.
+Oye, ¿Cómo le hago?
+¿Cómo corro un nodo?
+¿Cómo lo bajo?
+¿Qué necesito hacer?
+Yo llegué a correr un nodo hace un par de años en una computadora que tenía por aquí, que se dañó el disco duro y ya la verdad no la renové.
+Y el uso de Bitcoin, el uso que yo le daba a Bitcoin era más, como tú decías, de largo, el guardar valor.
+Yo tengo que aceptarlo, gran parte de la mayoría, lo tengo que decir, de mi portafolio de inversión en cripto está en Bitcoin y no había tenido la necesidad de correr un nodo hasta ahorita.
+Y eso es lo que a mí me está llamando mucho la atención, que la gente se está interesando en aprender, que está regresando mucho uso a la red, que también necesitamos ver todas las aplicaciones que salgan ahí.
+Y ver si en realidad funcionan o no.
+Porque también tenemos una cosa que que.
+Cada persona que quiera usar la red, perdón, tiene que pagar su comisión de transacción.
+Y esas comisiones, si yo escojo pagar más que el de al lado, mi transacción se va a meter primero.
+Entonces creo que es un tema económico que tenemos que ver cómo en realidad se desarrolla y que si los bloques de aquí en adelante están full, probablemente ayude a que se desarrolle mucho más un Lightning Network o que se desarrolle algún otro líder, no sé.
+Yo creo que estos problemas o detalles tecnológicos que van a estar surgiendo van a ayudarnos a en realidad ver cuál es la funcionalidad, quién va a decidir cuáles transacciones se van a montar de acuerdo al costo y finalmente la misma economía y las mismas reglas de juego van a definir cómo se va a usar.
+Entonces yo creo que hay que explorarlo hay que, como decía, si la red no aguanta que subamos fotitos, ¿Cómo va a aguantar un ataque de un gobierno o de una institución enorme que tiene millones y millones y millones.
+De dólares o de poder computacional?
+Entonces hay que escalarla, hay que probarla.
+Si las reglas lo permiten hay que usar y luego saldrán ya aplicaciones nuevas que puedan llegar a mejorar, yo creo.
+
+[Speaker 1 - 00:09:21]
+Completamente de acuerdo, fuera de el chascarrillo y la broma de dejen al viejito morir, creo que justo es esto lo que hace que blockchains evolucionen como tal, pero justo esto es lo que hace que tecnologías terminen siendo adaptadas al uso masivo, o sea, definitivamente creo que esto va a ser algo que va a.
+
+[Speaker 3 - 00:09:46]
+Mejorar la red como tal.
+
+[Speaker 1 - 00:09:49]
+Y la semana pasada estaba en un space con Mexi y justo hablábamos de eso, o sea, si no aguanta que suban imágenes, ¿Qué esperamos de ella?
+Y la primera vez que mencioné esa frase mexica, como que no le estaba agarrando la onda hasta apenas este fin de semana y es verdad, dos perspectivas de este lado, una, si queremos que este sea el dinero del futuro y que este sea la red que va a empezar a guardar valor, pensemos en esta red en 100 años esta red no va a pesar 400 GB que bajamos en un nodo, van a tener millones o billones de transacciones de personas intercambiando dinero o valor y obviamente va a estar más pesada en 100 años si no encontramos una solución para que sea eficiente, rápida o simplemente aguante esa cantidad de transacciones, quizás nacen otras, es muy probable que nazcan otras y entonces Bitcoin no es lo que estábamos pensando como store of value, entonces ese es una gran, como es un playground bastante barato diría yo, no nos está atacando ningún gobierno, no es que haya por ahí una bifurcación o algo de estos ataques de 51% para hacerle overrule, definitivamente el tema de meterle más información a una red va a ayudar a que aguante estos nuevos challenges que vienen hacia el futuro.
+Y la otra que creo más importante, porque lo he visto en diferentes redes, es que justo el tema de NFTs o arte como tal.
+Completamente cierto lo que acaba de descubrir Mexi.
+En muchos años que he estado leyendo de cripto.
+Tratar de entender, ver si estoy temprano, el tema de, por ejemplo, utilizo tal vez el ejemplo de Ethereum y de Solana Ethereum fue una solución a muchas de las cosas que Bitcoin no tenía.
+La parte de ser programable, la parte de velocidad, la parte de incluir metadata.
+Y eso dio el nacimiento de Ethereum.
+Pero por el otro lado, cuando nace Solana, fue un tema de creo que puedo mejorar Ethereum.
+Y de repente empiezan a encontrar un poquito como de sabores diferentes.
+Pero tanto Ethereum como Solana sufrieron de eso, que en Solana se conoció como el Solana Summer.
+Y en Ethereum, pues toda la ola de NFTs, por eso estamos aquí muchos de nosotros, que es que los NFTs generan adopción.

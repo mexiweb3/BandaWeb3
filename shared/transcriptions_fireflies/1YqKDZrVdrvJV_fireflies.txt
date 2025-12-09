@@ -1,0 +1,750 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #N/A
+Título: BandaWeb3 #048 @ETHCincoDeMayo
+Fecha: 2025-03-27
+Host: BandaWeb3
+Tipo: hosted
+
+Descripción:
+BandaWeb3 #048 @ETHCincoDeMayo. Conversaciones con @meximalist sin guion y uno que otro anuncio. #CryptoDeMayo 📍 CDMX - 📅 1ro -4to Mayo 2025
+
+Duración: 01:25:32
+Escuchas: 84
+
+Links:
+  Space: https://x.com/i/spaces/1YqKDZrVdrvJV
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+[Speaker 0 - 00:00:00]
+Buenos días, buenas tardes, buenas noches, depende de dónde se estén conectando a esta grabación.
+El día de hoy vamos a estar con it 5-5.
+La neta.
+Es un hackatón increíble.
+El año pasado tuve el placer de estar por allá en Puebla, donde lo organizaron el año pasado se llamó IT 5 de mayo, pero lo organizaron en febrero, así que fue todo un tema interesante, divertido.
+Pero bueno, este año sí es en mayo, estamos apoyando como community partner en banda web y la neta, estoy muy emocionado de poder platicar con ellos el día de hoy.
+Vamos a poner musiquita como siempre.
+Voy a empezar con Minds of Beast, una canción que hice con Inteligencia Artificial.
+Mientras vienen nuestros invitados y mientras yo comparto en todos los grupos, les dejo dos, tres, cuatro minutitos de Minds Abyss.
+Comenzamos en breve.
+Esto es hecho con Suno, es parte de mi próximo disco.
+Vamos a andar vendiéndolo.
+Por cierto, estamos en breve.
+Uy, perdón, creo que lo quité.
+Bienvenidos, bienvenidas, ¿Cómo andan?
+Estamos empezando por aquí, estoy mandando invitaciones.
+Ya tenemos también por acá arriba, nos ayudan con un like, un comentario y a compartir este espacio nos ayuda mucho para ayudar a más personas, estar hablando con el equipo que está organizando.
+Y 5 de mayo, un hackatón en Ciudad de México que se lleva a cabo del 1º al 4 de mayo.
+Ya tenemos venue, ya tenemos mucha información por aquí, nos van a estar contando todo, Vamos a pillar mucha información aquí arriba.
+Ayúdenos de nuevo a compartir.
+Y esto fue Minds of Beast, una canción, la primera canción de nuevo disco.
+Ahora estoy entrando al tema del arte, por ahí hace poquito también que voy a andar, estoy ya experimentando con Stand Up Cripto, vamos a ver cómo nos va.
+Creo que hay que hacer mucho contenido, me gusta.
+Pero bueno, el tema del día de hoy, Probemos.
+Primero que nada, estás por ahí, nos escuchas bien, Bienvenida, muchas gracias por estar por acá.
+Sony.
+
+[Speaker 1 - 00:05:06]
+Hola, Mexi.
+Claro, por aquí andamos.
+Gracias por la invitación.
+Órale, no sabía que andabas experimentando e iniciando en este tipo de contenido.
+La neta, me da gusto.
+Ya me voy a poner ahí a ver todo lo que lances, todo lo que empieces a hacer y seguramente te va a ir muy bien porque tienes madera para esto, ¿No?
+
+[Speaker 0 - 00:05:29]
+Muchas gracias.
+Las pláticas que he estado dando en el tour que traigo y.
+Con la gente que me está escuchando le meto de repente uno que otro chiste y he visto que eso funciona mucho.
+Y luego si le meto una historia personal de que si le regalé Bitcoin a mi sobrina y lo perdió y ve tú a saber.
+Y.
+Temas también educativos los he podido creo que explicar mucho mejor metiéndole uno que otro chiste por ahí.
+Entonces he estado probando punchlines, he estado probando beats o sí, ¿Como le llaman?
+No sé, voy a experimentar con ese tipo de contenido.
+Voy a invitar también aquí a IT 5 de mayo y también está invitando a buen Eric a hablar.
+Voy a poner aquí arriba el link al espacio para que nos ayuden a compartirlo.
+Denme un segundito, empezamos en breve.
+Ya estoy experimentando mucho con inteligencia Artificial, mientras les pongo aquí el espacio les cuento, está muy divertido, Que locura.
+Los flyers que estuvimos haciendo por ahí, los estuve jugando con inteligencia artificial, también se los vamos a pinchar aquí arriba.
+Me encantó, estuvieron muy chidos.
+Ahora con el nuevo tema del diseño que traen con la nueva aplicación que sacó o funcionalidad que sacó ChatGPT, qué locura.
+Me imagino que todo esto lo vamos a ver por ahí en el hackatón, pero bueno, empecemos.
+Suri, de nuevo, muchas gracias.
+Por ahí una breve introducción a Suri la conozco desde hace muchos años, la he visto cómo ha estado construyendo muchas comunidades y muchos proyectos, me encanta lo que está haciendo el ecosistema.
+Germán también, que es el otro cofundador, también súper, súper movido, me cae muy bien, lo conozco desde hace rato a Eric, Artur, con todos he trabajado, con todos he podido colaborar, la neta, qué chido, qué fregón se ve.
+Y se está formando el evento, ya anunciaron muchas colaboraciones, ya anunciaron el venue, ya se puede empezar a inscribir la gente por ahí escuché que en un par de semanas van a empezar a llegar los avisos, Ya anunciaron Community Partners, Qué locura, o sea, qué chido.
+¿Cómo has visto todo este proceso este año comparado con el año pasado?
+¿Y al rato platicamos de los side events y todo lo que ocurrió el año pasado, Creo que también es importante recordar un poquito, pero cómo ha sido para ti ya esta segunda edición y cómo van?
+Que, ¿Qué nos puedes contar?
+
+[Speaker 1 - 00:07:54]
+Gracias, Mexi.
+Pues Sí, primero que nada, para los que no me conozcan, pues yo soy Suri Bonfil, soy co founder date 5 de mayo regresando un poquito hacia cómo inició el proyecto, pues realmente aquí fue Arthur y Germán que tuvieron esta charla, ellos como hackers del mundo que recorren literalmente varios países hackeando, sobre todo en Hackathonis de Global y con varias pláticas que tuvieron, pues dijeron ¿Por qué no hacemos en México un evento así de grande?
+Tenemos básicamente todo lo necesario, pues tenemos a Builders, tenemos un gran país, tenemos mucha comunidad, tenemos como que todos los elementos, pues solamente falta hacerlo y aparte Germán ya traía igual un proyecto.
+Justo como de 5-5, como de bordear, entonces pues ahí fusionaron ideas, invitaron posteriormente a Eric y empezaron como armar justo el proyecto y después un 5 de mayo de 2023 nos reunimos en Puebla justo para un evento que tuvimos ahí con Cripto Puebla y con.
+La comunidad de allá.
+Terminó el evento y Germán nos invitó a ver el desfile, porque en Puebla siempre hay desfile de 5 de mayo y entonces está muy bonito ahí justo en la avenida 5 de mayo y todo el rollo, entonces nos invitó y varios que estuvimos en el evento nos fuimos para allá y estuvimos ahí de que viendo el desfile, todo muy lindo y ese mismo día, un 5 de mayo, fue cuando me invitó Germán a participar en este proyecto, un 5 de mayo de 2023.
+
+[Speaker 0 - 00:09:33]
+No es cierto, en serio, en serio.
+
+[Speaker 1 - 00:09:35]
+En serio, ahí platicamos y ahí me contaron e invitaron a participar en este proyecto, o sea, esto como que estaban armando en.
+En ideas solamente y me dijeron no, pues mira, tenemos estas ideas, queremos armar un hackatón, queremos hacer este evento que reuna comunidades, o sea como que todas las ideas que tenían ahí un 5 de mayo me las compartieron y de hecho ese mismo día hicimos la cuenta de Twitter, esta cuenta de 5 de mayo fue creada un 5 de mayo de 2023, así de que en corto hicimos eso y todavía el proyecto pues maduró poco a poco y en esos meses pues fuimos como que armando varias cositas hasta que se llevó a cabo la primera edición que fue en febrero de 2022.
+Ya lo hemos comentado en otras veces, no pudimos hacerlo en 2024 en mayo, porque pues ya saben, el venio, los lugares, hay muchos acuerdos, muchas cosas que tenemos que tener previstas, entonces pues no había como que ya fechas y justo allá en Puebla, pues 5 de mayo si es un día feriado, entonces pues ni iba a estar como disponible el lugar, entonces había muchos temas de logística, entonces por eso se hizo en febrero, pero sí, justo lo fuimos planeando desde mucho tiempo atrás.
+Y pues bueno, esa fue la primera edición que tuvimos en febrero de 2024.
+Muchos de los que están aquí en el Space y de la comunidad pudieron asistir y eso es lo que también comentamos mucho, que el aporte, el valor, el apoyo de las comunidades fue un gran pilar para nuestro, para este gran evento.
+Entonces pues siempre nosotros estamos con esa visión clara de que este evento se lleva a cabo con el apoyo de las comunidades.
+Entonces ustedes, las comunidades son parte central, parte fundamental de 5 de mayo y pues por eso es que una de las cosas que empezamos a ver primero para esta edición 2025 pues fue hablar con las comunidades, invitarlas a participar y ahorita ya tenemos 30 comunidades confirmadas y tal vez lleguemos a 40 tal vez, pero estamos como viendo por el tema del lugar, de los espacios, todo eso, pero seguramente van a ser 40 comunidades confirmadas.
+Ayer tuvimos el primer espacio, el primer espacio aquí en X estuviste tú, Mexi, Estuvieron varias comunidades que se subieron a participar, que estuvieron contándonos un poquito de quiénes son, qué hacen y qué van a hacer en este evento.
+Y bueno, ahora sí, ya para darles un poquito más de información y de.
+
+[Speaker 0 - 00:12:09]
+Contexto.
+Permíteme antes de pasar a la segunda, porque sí quisiera primero que nada invitarlos a que escuchen el Space acá ya lo acabo de pinchar arriba, estuvo muy bueno y rascarle un poquito ese tema de comunidad.
+Sé que también tenemos acá Lerik, bienvenido, pero.
+Ah, y otra y a pedirte ayuda, porfa, sepárame un espacio porfa para MX se me faltó todavía agregarlo y todavía la banda acá de MX 3 está haciendo eventos, estamos haciendo muchas cosas, entonces tengo que dar de alta al ratito, pero comparando comunidad el año pasado estoy totalmente de acuerdo, ustedes desde día cero que yo empecé a escuchar del evento, empezaron comentando que era algo que querían y que se construyó finalmente con apoyo de muchas personas, voluntarios ustedes, su tiempo, obviamente gente de gobierno.
+¿Cómo has visto el cambio o la mejoría o la transición o como tú quieras?
+¿La maduración de la comunidad hace un año, a como la estás viendo ahorita?
+Me interesa mucho la perspectiva de ustedes como organizadores de un evento así tan grande y que necesita mucha gente, que necesita mucho apoyo, que necesita que todos difundamos, que necesita que pues sin sueldo, porque finalmente la idea también de este hackatón es que todo mundo done su tiempo y sea voluntario.
+Que está muy chida, la neta, me encanta.
+Pero ¿Cómo has visto la diferencia año con año?
+
+[Speaker 1 - 00:13:39]
+Sí, pues mira, el año pasado justamente contamos con lo que fue colaboración con el gobierno de Puebla, con el gobierno de Puebla y con la Secretaría de Economía, entonces obviamente desde ese lado pues sí tuvimos esa colaboración, ese apoyo y eso nos permitió tener algunas otras cosas que obviamente con gobierno siempre se manejan, como las conferencias de prensa y esas cosas un poquito más protocolarias y más formales, que la verdad nos sirvió muchísimo porque también fue mucho empuje estar saliendo en medios locales, porque así pues también las universidades podían.
+Darles esa validez todavía más grande, como los protocolos de escuela y todo eso, que cuando lo ven que salimos en periódicos, esa conferencia de prensa que tuvimos hace un año estuvo replicada en 25 medios, tanto locales como regionales, entonces eso también fue súper, súper importante.
+Y bueno, esa colaboración con gobierno pues estuvo bien manejada, la verdad.
+Nos apoyaron mucho, estuvo el secretario de Economía en la inauguración del 5 de mayo, estuvieron apoyando también desde el lado de la difusión en sus canales locales, etcétera, entonces aparte estuvo súper bien.
+Y en la parte de las comunidades.
+
+[Speaker 0 - 00:14:59]
+Perdón que te interrumpa, pero creo que es algo que yo les aprendí mucho y dije, o sea, si en algún momento toca hacer algo similar, tenemos que sí o sí encontrar manera de entrar a ver cómo apoya de alguna forma el gobierno, porque también se está beneficiando con el gentío de personas que traen el evento, que se quedan, que gastan en Airbnb, o sea, que consumen, entonces venderle al gobierno, vender la Secretaría de Economía, venderle a Secretaría de Turismo, es algo indispensable.
+¿El año pasado en Mérida no los logramos, ahora este año es prioridad para Monterrey y es algo que definitivamente yo lo vi allá en Mérida con la inauguración, como decías, estaba la gente del gobierno ahí en el evento inaugurando el tema de medios, híjole, qué locura, o sea, necesitamos eso en estos eventos Y ustedes lo consideran allá?
+¿Cómo se está viendo este año también?
+¿También traen algo similar?
+El tema de gobierno y apoyo me interesa mucho, ya nos dijeron no hay lana para.
+No sé si hablo de más, pero no hay lana para el lugar, pero hay muchas otras cosas que pueden ayudar y que están dispuestas a ayudar y eso está chido.
+
+[Speaker 1 - 00:16:16]
+Sí, en la parte de cómo fue en Puebla fue como más local en el sentido de que teníamos esa conexión, bueno porque varios son.
+Bueno, Germán que aunque es de Uruguay vive en Puebla hace 10 años y yo también soy de Puebla, entonces como que es más cercano o más.
+La conexión es mucho más posible ahora que es en Ciudad de México Si estamos teniendo también algunas conexiones, de hecho en unos pocos días, en principios de abril vamos a tener también una visita programada con personas del Senado para explicarles también del proyecto, nos van a transmitir en el canal del Senado que tal vez nadie en la vida vea, pero qué loco, qué chido, no pasa nada, está cool que lo hagan porque también son esas colaboraciones Y también Arthur no está aquí en este momento, pero después nos puede contar más cómo está llevando también ese contacto con el gobierno de Se me fue el municipio que ya es Estado de México, más cercano a donde va a ser el venue, pero también está conectando con ellos para el apoyo con la zona, con universidades y pues buscando también más conexión y la forma en la que nos puedan también apoyar.
+Si, va a haber presencia también en nuestra inauguración de algunos personajes también del ámbito político simplemente como.
+Pues como figuras que de todas maneras resultan pues son buenas colaboraciones porque al final este tipo de eventos pues justo eso queremos llegar y onboardear a gente completamente nueva, entonces pues vamos a universidades y pues ahí todos esos actos de protocolo, todos esos actos formales pues los tenemos que hacer y los hemos estado haciendo y lo seguiremos haciendo también porque pues eso es lo que nos permite llegar a ellos, que ellos también participen, entonces pues seguimos todo ese protocolo de la forma adecuada y eso es lo que estamos haciendo.
+Entonces sí es muy importante, justo como lo dice Mex, fue algo que también marcó esa.
+Esa pauta porque de repente decíamos no pues web todo descentralizado y etcétera, pero en nuestro mundo real en el que vivimos para tener esos contactos con las universidades para las visitas, para agendar, para ir a ver para acá, pues tenemos que tener esas conexiones, ese apoyo sobre todo si hay apoyo pues muy bienvenido porque es muy importante y necesario para nuestros eventos, para que también haya difusión local, para que también haya facilidad en cuanto a lo mejor permisos, cosas que necesitamos.
+Entonces es muy bueno poder conectar con esas áreas también y tener todo eso en orden y de la mejor forma para que nuestros eventos salgan lo mejor posible y sobre todo que también ellos vayan conociendo y viendo la importancia que es el hecho de que se hagan eventos de tecnología, de tecnología blockchain y eso pues da pauta para posibles eventos futuros.
+Pues ya está ahí un caminito empezado, un caminito marcado, entonces después ya alguien llega y quiere hacer algo más y ah mira, hace un año o dos años también hubo conexión aquí con tal evento, entonces eso va abriendo camino.
+Entonces creo que es importante, me encanta.
+
+[Speaker 0 - 00:19:21]
+Creo que es súper importante cómo han compartido también el proceso y cómo han hecho Open Source, muchas cosas.
+Es algo que también hemos empujado y que yo empujo en todos lados en donde me meto, porque.
+Creo que nos ayuda tener herramientas, todos ya veremos quién las usa, pero el chiste creo yo de estas nuevas industrias es crear cosas, estar hablando constantemente de ellas y ver.
+Quién vibra, quién cuadra, quién le conviene, ve tú a saber.
+Pero bueno, eso está muy chido.
+
+[Speaker 1 - 00:19:53]
+Estuvo muy padre porque también funcionamos en ese momento en Puebla, cuando se hizo la edición pasada, como ese puente entre Web 2 y Web, por ejemplo en las entrevistas que se hicieron de del canal local de TV Azteca, o sea como que Germán era de que explicaba todo y el reportero pero cuéntame más, como que si era ese puente.
+Estuvo súper padre porque justo personas que quizá pues nunca habían escuchado que es un hackatón, para empezar un hackatón, aunque no fuera blockchain, no se tenía como muy común ese término y también es como ¿Y qué se hace?
+¿Y por qué se ganan premios?
+Es difícil a veces como comprender, pero justo esa es nuestra misión de poder explicar desde qué es blockchain y después qué es un hackathon en blockchain y qué se hace ahí y qué pasa ahí Y ya invitar a participar a los universitarios y pues plantearles como que todo el panorama para que les quede muy claro, muy digerido y pues sobre todo fomentar que vayan, que participen, que se inscriban, porque siempre, incluso a mí me pasó, aunque ya llevaba un par de meses en Web, que era muy poco, pero ya sabía un poquitito de ¿Qué es esto?
+No tenía idea de que era un hackatón cuando iba a ser, cuando iba a participar en el primero que fue en IT México, el de IT Global de 2022.
+Pues sí, la verdad yo sí estaba como bien nerviosa así como de ¿Qué es eso?
+¿Aunque me explicaron y yo dije no, pero y si yo qué voy a hacer?
+Como que todas esas dudas uno tiene, entonces me imagino que los estudiantes que quizá tal vez nunca han escuchado o no han participado, pues sí les generará esa incertidumbre o esos nervios de decir ¿Qué voy a hacer ahí?
+Pero pues para eso vamos, los visitamos, les explicamos.
+Hace un año justo nos tocó ese recorrido, ahorita ya lo vamos a empezar también tal vez la otra semana a mí me tocó visitar también algunas universidades y pues es eso, ya resolverles dudas, explicarles todo y lo bonito fue ver cómo a las escuelas que fuimos después ya llegaron sus maestros con sus autobuses de alumnos o sus combis van o el medio que hayan usado para para llegar a esa vez a Cholula pues con todos sus alumnos.
+Los alumnos se la pasaron súper bien, para la mayoría fue su primera experiencia así en un hackatón.
+Nosotros de alguna forma como que ya tenemos visualizado eso de pues hemos ido algunos hackatones de IT Global, ya sabemos cómo se manejan, que hay comida, que hay espacios para hackear, que hay mentorías, o sea como que ya lo tenemos de repente medio normalizado.
+Pero para los chicos de universidades que nunca han participado pues se les hace muy buena, muy bonita experiencia para empezar están con sus amigos, están con sus compañeros en un lugar que no es su escuela, entonces desde ahí es como una experiencia muy cool y refrescante para ellos.
+
+[Speaker 0 - 00:22:38]
+El año pasado en Mérida la comitiva de Veracruz, no me imagino la comitiva de Veracruz ahora este año en Ciudad de México, qué loco, allá están haciendo cosas bien chidas con Veracruz.
+
+[Speaker 1 - 00:22:53]
+No, no, no, esas iniciativas de escuelas, de universidades, la verdad están geniales, yo también me sorprendí mucho allá en Mérida cuando llegó el profe con todos sus alumnos, que muchos de ellos fueron voluntarios en el evento, entonces me dio mucha energía verlos allí participando también siendo su primer evento y pues metiéndose de lleno.
+Muchos de ellos pues siguen o están no nada más en su comunidad, sino ya buscando más qué hacer por aquí en otras comunidades, en algún protocolo quizá como buscando ser embajadores o sea ya como que con más hambre de web, de blockchain, de conocer, explorar más el ecosistema y sobre todo de crecer dependiendo obviamente de los objetivos de cada quien, pero me da mucho gusto eso, ver eso y justo en el evento que nosotros hemos llevado a cabo queremos eso, hacer el onboarding, pero también después veremos cómo esas personas continúan en el camino.
+El año pasado un ejemplo claro de lo que se hizo con los chicos fue por ejemplo VARA, que VARA fue un sponsor del año pasado, que como protocolo que estaba muy muy activo en el trabajo con los chicos, ellos también nos acompañaron en los recorridos a universidades y ellos mismos programaron sus sus workshops con los chicos, algunos presenciales, algunos online, pero los estuvieron preparando en su tecnología como un mes o tres semanas antes del hackatón para que ya vinieran con todas las bases y cuando llegó el día del evento, el día del hackatón, o sea VARA ya tenía literal como 15 o 20 equipos armados de los que fueron recolectando de todas las universidades con las que pudieron trabajar.
+Entonces eso fue súper padre porque ahí el protocolo realmente se puso las pilas de decir voy a conseguir tantos equipos para VARA y lo hicieron eso, la verdad les admiramos mucho ese trabajo que hicieron.
+
+[Speaker 0 - 00:24:52]
+Eso de que haya involucramiento previo creo que es importantísimo que ya lleven con algo de conocimientos, que ya lleven a lo mejor con un equipito armado y si la blockchain que está patrocinando todo esto ayuda a difundir, uff qué mejor, o sea por ejemplo el caso de Oaxaca, no sé si hablaron con la banda de allá de Tlaxiaco, yo les puedo ayudar a conectar, pero traerse a Stellar, traerse toda esa banda de por allá, que se vengan los camiones a México.
+Yo creo que va a estar y puede llegar a funcionar muy bien, no sé si ya tocaron allá base con ellos, pero bueno ahí les ayudo igual me los quiero traer Monterrey.
+
+[Speaker 1 - 00:25:25]
+La verdad sí he escuchado al profe, no sé si se llama José Luis me parece el de Oaxaca, la verdad me ha gustado mucho el trabajo que ha estado haciendo y el profe de Veracruz también, entonces la verdad sí queremos eso, o sea que los conectar con esos profes súper comprometidos con sus universidades y hacer que muchísimos alumnos vengan al evento, que exploren el ecosistema, que construyan y lo que más me gusta es eso que les decimos, que muchos de ellos, así como venía contando el ejemplo de VARA, ya acabó el evento, participaron algunos, ganaron, etcétera, pero muchos siguieron conectados directamente con protocolo, oigan, yo sigo aquí, ya me metí en sus canales y siguen directamente conectados y no sé exactamente en dónde van ahorita, pero seguro muchos de ellos ya están participando más activamente, directamente con el protocolo y eso es lo importante.
+Entonces, en este caso, para esta edición queremos justo eso, que los protocolos conecten con ellos, que los chicos puedan tener ese avance, un crecimiento en su carrera, en su inicial carrera web, eso es lo que queremos que conozcan.
+Una de las metas que nos gustó mucho desde el año pasado que cumplimos, fue que el 70% de los hackers fueron universitarios, es decir, que realmente fueron personas nuevas, o sea, nuevas onboardeadas a web, nuevas conociendo este ecosistema, y esa es la meta también para esta edición, que la mayoría de los hackers sean nuevos alumnos del último año de universidad, en alguna ingeniería de software o sistemas, etc.
+Que sean completamente nuevos, que ingresen al ecosistema, que construyan proyectos y que de ahí sigan su camino, ya sea de repente hay proyectos que dicen, pues yo tengo una aceleradora, yo tengo una incubadora, entonces continúen aquí su proyecto, etcétera.
+Eso es lo que buscamos también, que además del hackatón, sigan ellos creciendo buscando esas oportunidades en el ecosistema, que es lo importante que siempre todos les decimos a los chicos, o bueno, incluso no a los universitarios, sino aquí en las comunidades cuando llegan personas nuevas.
+Justo eso es lo que queremos los que ya llevamos un poquito más de tiempo, eso es lo que queremos con los nuevos, que encuentren su camino en este ecosistema, porque hay camino para todos, hay un lugar para todos, si eres no solo desarrollador, que eso es lo que me gusta de web, sino para diseño, para marketing, para abogados, para todos puede haber un lugar aquí.
+Entonces justo eso es lo que queremos, que vayan encontrando su camino y que haya muchos más devs, que ahora sean devs o desarrolladores en web.
+
+[Speaker 0 - 00:28:01]
+Oye, pero importante, ¿Hay camino?
+¿No, o sea, si hay un tema de etapas, o sea, si vienes bien nuevo, bueno, hay comunidades, si hay grupos, si ya traes experiencia, hay aceleradoras, hay hackatones, o sea, sí hay un camino donde ya puedes luego terminar como Capa, como Bando, no?
+Avisando, como Sati, avisando que ya tienes inversión, que ya entró Ricardo Salina, o sea, hay un camino, nada más es irlo conociendo.
+Creo que hay mucha mejor estructura, como estábamos hace unos dos, tres años en México, no había tanta actividad como hace, o sea, nunca ha habido tanta actividad como hoy, ¿No?
+Nunca había habido tantos eventos, nunca había habido tantas comunidades, nunca había habido tantos problemas también.
+Y qué bueno, porque significa que estamos haciendo cosas, estamos actuando, que estamos avanzando y que pues en el camino no estamos topando, no pasa nada, cada quien ajustará, pero sí hay un camino, ¿No?
+Y se nos está cayendo.
+
+[Speaker 1 - 00:28:59]
+Eric.
+
+[Speaker 0 - 00:29:02]
+¿Qué opinas?
+
+[Speaker 1 - 00:29:03]
+Y sabes que justo ayer también en el Space decíamos justo eso, que justo las comunidades que van a estar, que van a asistir al evento y que van a tener ahí su boot para participar, justo queremos que hagan eso, o sea, que ellos puedan onboardear ahí, van a tener a todos estos estudiantes, a todas estas nuevas personas, pues que los lleven a sus comunidades, por eso es que van a estar ahí, ya sea que con los stickers, que con lo que vayan a llevar ahí, les compartan, oigan, ¿Saben que?
+Yo soy tal comunidad, me dedico a esto, este es mi trabajo, esto estamos haciendo, y pues invitarlos a formar parte de sus comunidades, desde el trabajo que están realizando cada uno, pues ya verán los chicos cuál les llama más la atención, cuál les gusta más.
+Por eso, en el caso, por ejemplo, de las comunidades de mujeres, ahorita ya tenemos inscritas algunas comunidades de mujeres como Gerdao México, y también está, se acaba de inscribir también una comunidad que no es precisamente tan web, pero es Mujeres en Gaming, que también van a estar ahí.
+Entonces estamos justo también del lado de las mujeres, tratando que haya muchas, muchas chicas que participen, que vayan a hackear y que también encuentren comunidades a donde pertenecer, a donde unirse, pues para ir buscando aquí un caminito donde, donde desarrollarse.
+Pero sí, entonces las comunidades van a tener esa chamba de contarles a los estudiantes, pues, qué están haciendo y atraerlos a invitarlos a formar parte de sus comunidades, y eso va a ser bueno.
+Entonces por eso es que estamos invitando a tantas comunidades para que se unan, para que participen.
+Y pues al final, pues lo vimos nosotros muy claro, el año pasado como Frutero estuvo muy activo cuando di un Workshop, me parece que un día antes del Hackathon, un día completo.
+De talleres y de clases para los nuevos hackers que quisieran como encaminarse ya un poquito más antes de llegar al Hackatón y ahí muchos nuevos conocieron Frutero, conocieron a Yamel, a Gistro, a Carlos, conocieron como que a todo mundo y empezaron a conectar y muchos que estuvieron ahí en IT 5-5.
+En esa ocasión, en ese evento, ingresaron a ser parte de Frutero y Frutero pues por eso este año Frutero tiene la participación especial que van a ser los mentores oficiales del Hackathon, o sea, Frutero va a ser como esa parte, ese brazo, ese pilar fuerte del evento porque van a ser los mentores oficiales, van a estar ayudando en esa parte de decir, OK, tenemos un grupo formado muy poderoso de builders que están súper top, entonces van a estar ahí con ellos, van a tener su propio, pues un boot ahí mucho más grande de decir, aquí están dos, tres, cuatro, cinco mentores que se van a ir turnando obviamente, pero que van a estar ayudando pues aparte ya saben, o sea, imagínense contar con ese nivel de mentores que son los integrantes de Frutero, de que saben súper desarrollar en muchas cosas, entonces para todos estos nuevos pues van a tener esa superventaja, esa gran oportunidad de que les ayuden.
+A mí me pasó como experiencia.
+En el segundo Hackathon que fue en Bogotá y el marco de Defcon en 2022, yo estaba participando como siempre participo en los hackatones desde Project Manager o Marketing y Diseño, entonces toda esa área, pero en nuestro equipo estaba un desarrollador súper top y una desarrolladora que estaba iniciando apenas, apenas había tomado un curso de Solidity, estaba como muy nuevecita y justo nos dimos cuenta de la importancia y del apoyo de mentores, en este caso no acudimos a mentores como oficiales del evento, pero acudimos, aquí está Eric que también está ahí en el evento, acudimos a Arturo, acudimos a un par de conocidos más, pero que nos ayudaron mucho en el equipo y entonces ahí nos dimos cuenta de eso, la importancia de los mentores y de que esta compañera pues sabía bases, pero con la ayuda de estos mentores en un día pudo aprender lo que tal vez le hubiera tomado meses o no sé cuánto tiempo le hubiera tomado aprender como desarrollador.
+A ellos le dijeron, no, pues mira, esto es así, esto se hace aquí, entonces ella misma lo dice, o sea, yo no sé cuánto tiempo me hubiera tomado aprender esto que con ellos y con su apoyo aprendí así en un día del hackatón, esa curva de aprendizaje pues es totalmente exponencial lo que pueden aprender en un hackatón en cuanto a técnicas y tips y consejos de desarrollo, entonces ahí con el apoyo de Flutero, pues vamos a tener esa ventaja, ese beneficio, ese apoyo para todos los que vayan a hackear.
+
+[Speaker 0 - 00:33:53]
+¿Oye, tengo una historia personal ahí del año pasado, tú mencionaste hace un momento una sensación de tu primer hackatón.
+Entiendo, de acuerdo a lo que platicaste, ya estabas más o menos empapada con el ecosistema, pero igual fue un tema, no?
+Fue como que un shock de ay güey, ¿Qué voy a hacer?
+¿Me pasó lo mismo en el de Puebla el año pasado, nunca había hackeado por X o Y, ya entrando casi faltando 24 horas para que se terminara, salió una oportunidad y nos pusimos a hackear, participé con ayer, con Sol, con Julieta, con Franklin, hicimos ahí una plataforma, yo me aventé un subgrafo, me ayudó mucho Eric, me ayudó mucho que ahorita vamos con él, me ayudó mucho Mel, me ayudó mucho Arthur Gistro, tú dices, no?
+¿Banda que está ahí, que se queda en la noche hackeando con uno, apoyándote por cicatoras, prestándote para laptop, me prestaron para ir a hacer la demo porque la mía de plano pues no aguantaba, o sea, yo lo vi, yo lo viví, esas últimas 24 horas de compañerismo, de apoyo, de la gente tirada por ahí en una esquina.
+Algunos durmiendo, otros hackeando y ahí se iban turnando porque tenían que entregar, o sea, es una sensación muy, muy chingona que como tú dices, no?
+Aparte de aprender muchísimo en muy poco tiempo, hace que la banda colabore, que tenga roces, que sepa cómo es que se forman muchas cosas que ya estamos viendo en proyecto, salir en proyecto, levantando capital, etcétera, o sea, ese camino como decíamos, ahí está.
+Y el tener el apoyo de gente que esté dispuesta a estar ahí día, noche, que te ayuden, o sea, los mentores, yo voy a meterme de mentor, voy a meterme de voluntario, voy a estar apoyando lo que pueda, me encanta, quiero aprender todo sobre hackatones, finalmente estamos organizando uno, septiembre, agosto, por ahí, entonces encantado.
+Pero una historia también personal con Eric, me acuerdo, me acuerdo que en Ethereum México lo conocí 2023 en Ciudad de México.
+Era uno de los que traía yo en mi lista que quería platicar.
+No me acuerdo que traías en ese entonces.
+Algo con Poaps y algo con NFCs.
+Ahí platicamos un ratito y también ha sido muy cool irte conociendo.
+Eric, ¿Cómo andas?
+Este, bienvenido.
+Gracias por estar por acá el día de.
+El día de hoy.
+¿Qué onda mexicano?
+¿Estás todo chido por acá?
+Se nos fue.
+Ahí estamos, ya está listo con los mentores.
+Sé que traes tú el tema de side events.
+Yo el año pasado organicé la carnita, creo que fue de los mejores side events que hubo.
+No lo digo yo, lo dice la gente, no sé qué opinen, pero ¿Cómo se ve este año?
+¿Cómo se ven los mentores?
+De lo que quieras, échame tú tu plática, ¿Cómo andas?
+Y bienvenido.
+¿Qué tal, Mexit?
+Pues todo chido.
+Pues sí, estamos ahí otra vez ayudando a ver cómo se organizan los side events, tratando de hacer conexiones con los protocolos para que hagan sus side events en conjunto, para que sean un poquito más grandes.
+Y pues básicamente eso.
+Ahorita ya está confirmadísimo uno de.
+Si, con Staking Day más Pizza DAO, entonces ese evento va a estar muy bueno, se están acomodando todas las cosas para que ese sea uno de los.
+De los side events principales, por así decirlo, porque si viene mucha gente top a ese evento.
+Y pues bueno, también está el de.
+El de Ed Kun Rivera que va a ser una especie de Fast Talks, de charlas rápidas de 5 minutos ahí que está organizando el buen Oukan también.
+Vamos a ver qué tal nos espera.
+Yo no estuve en la primera edición que le hicieron en Mérida, pero pues me dicen que también estuvo muy buena.
+Y sí, pues esperemos que.
+No quiero comprometerlos, pero pues a ver si se organizan también para hacer una versión 2 de la carnita asada.
+Ustedes dirán.
+Sí, fíjate que.
+Uy, no sé si me escuche, puse los audífonos.
+Si me confirman por ahí con manitas.
+
+[Speaker 1 - 00:38:09]
+O Suri si te escuchas.
+
+[Speaker 0 - 00:38:11]
+Ah, perfecto.
+Sí, híjole, este año siento que.
+No sé, te soy sincero, no sé qué onda con el Sedevent.
+El año pasado estuvo muy divertido.
+Voy a empezar a buscar, voy a empezar a preguntar.
+Para ver qué hay por ahí cerca.
+Es que, híjole, Puebla estuvo increíble que caminabas 100 metros ahí estabas en el venue, hay que ver qué hay por ahí, pero estaría muy chido, estaría muy chido organizar algo definitivamente voy a estar ahí de mentor, voy a estar ahí apoyando en lo que pueda.
+Si ustedes me dicen, yo jalo.
+Pero qué chido.
+¿Suri, cuéntame un poquito.
+Quién viene, quién ha confirmado?
+Por ahí hay partners súper fuertes como POAP, como World of Women.
+El Germán no está por aquí, el canijo me había prometido Alfa, si tú lo traes pues échalo también.
+¿Qué nos puedes decir que no le has dicho nadie todavía?
+
+[Speaker 1 - 00:39:09]
+Sí, Germán nos dijo que no podía llegar, bueno, iba a llegar un poquito tarde porque andaba como en carretera, entonces los datos no le estaban jalando muy bien que digamos, pero bueno, sí, ayer dio varios Alfas ahí para terminar lo que estaba diciendo Eric, por ahí dieron un Alfa también Herdao México, que probablemente hagan un side event, ya sea un brunch para mujeres o estaban viendo que podían traer por ahí en México dio otro Alfa que seguramente dos opciones que son probables, todavía no lo confirmaron, pero son probables, una, o que den becas para IT 5-5 o 2, que hagan una Hacker House, entonces por ahí también todavía no lo confirman, pero ya nos dijeron que existen esas dos posibilidades que son muy buenas.
+Entonces por ahí tuvimos ese Alfa también y también otro Alfa de Frutero que también mencionaron que todavía no confirman, que probablemente también haya ahí algo, tal vez una Hacker House, quién sabe.
+Entonces todavía no son noticias confirmadas, pero tenemos ahí pues esos datos de que probablemente pueda haber eso de parte de estas comunidades que pues es súper bueno.
+También por ahí justo las Community Partners confirmados que tenemos, tenemos estos protocolos internacionales que también nos están apoyando como Spoap, que la verdad estamos muy orgullosos de eso, porque como pudieron ver también por ahí el post que compartimos del parche que va a haber en este evento que está súper hermoso, entonces ese parche va a ser enviado por PUAP para este evento especialmente diseñado especialmente para el evento.
+Y como también lo ha mencionado por ahí Germán, justo ellos mismos dicen dentro de su equipo que es el parche más bonito que han hecho en toda la historia de PUAP, entonces nos sentimos muy felices por eso, muy orgullosos, la.
+
+[Speaker 0 - 00:40:54]
+Neta es de los mejores merch que han dado y que dan en los eventos, por ejemplo ahora en Denver, de la mejor merch que había esos parchecitos.
+Muy cool.
+
+[Speaker 1 - 00:41:04]
+Sí.
+Entonces pues estamos bien felices por eso.
+Y también la otra comunidad que es World of Women, que si la conocen, es una comunidad súper chida, la neta.
+Yo La conocí desde 2022 porque estaba yo todavía como empezando a entrar en el ecosistema, pero pues ya sabes que uno anda con un ojo al gato y otro al garabato, entonces a mí me encantaba como andar, o sea, siempre me ha gustado las películas y toda esa parte.
+Y entonces después vi que Madonna ya tenía su WOW, o sea, su NFT y no acuerdo que otras celebridades que tenían sus mujeres, que tenían su NFT de las WOW, y yo era así de que no, no, yo quiero uno de esos, pero en esos tiempos ni tenía yo nada de cripto, así como que apenas había abierto una que otra wallet sin nada.
+
+[Speaker 0 - 00:41:49]
+Y luego una historia de que Madonna alguna vez cantó en un evento de World of Woman también, creo que sí.
+
+[Speaker 1 - 00:41:57]
+Entonces para mí es como súper top esa comunidad y el hecho de que sean community partner y que justo nos van a mandar, ayer también dio el Alfa Germán y se los comparto también nos van a mandar 500 playeras de WoW, entonces para repartir en el evento, que justo como decía, no tenemos todavía la dinámica cómo lo vamos a hacer, pero va a haber merch exclusiva, entonces va a estar súper genial y estamos muy felices de contar con esta comunidad tan hermosa y tan bonita que se ha construido a lo largo del tiempo con esa visión de llevar el arte a más mujeres y de incluir a más mujeres en el ecosistema cripto, blockchain, etcétera.
+Entonces, pues estamos bien felices por eso.
+Y mira, aquí ya está Germán, lo llevamos con el pensamiento sur.
+
+[Speaker 0 - 00:42:41]
+Antes de ir a Germán yo tengo que dar también un aviso, 500 es mucho, yo voy a llevar merch también, la mía va a ser más exclusiva, yo voy a llevar 69 cosas, no sé qué, pero Germán, ¿Cómo andas?
+Bienvenido, nos prometiste mucha, mucha Alfa.
+Quiero también platicar contigo del concepto cripto de mayo, esa idea.
+Esa meta, ese sueño, creo que es muy divertido que lo platiquemos, pero cómo bienvenido, gracias por estar por acá.
+¿Escuchan?
+
+[Speaker 2 - 00:43:15]
+¿Escuchan o no se escucha nada?
+
+[Speaker 0 - 00:43:17]
+Sí, bien tocho.
+Excelente.
+
+[Speaker 2 - 00:43:20]
+¿Cómo van ¿Qué tal todos?
+Gracias por tomar este space, por hacerlo, por organizarlo.
+Suri que se lo notó acá llegando al venue, a ver dónde vamos a poner a los community partners, a ver dónde vamos a poner los partners, a ver dónde vamos a poner los hackers, hacer ya un mes del evento, un poquito más, un mes y una semana, ya tener todo el plotting armado para que no hayan sorpresas, etcétera, etcétera, que ya todo hermosísimo y muy lindo.
+
+[Speaker 0 - 00:43:57]
+Excelente, excelente.
+Cuando pueda publiquen fotos, sé que es un lugar que está muy cool, ayer lo platicaban, cabe muchas personas, no sé si sea la misma dinámica, eso es algo que también estamos nosotros viendo mucho y que creo que es importante.
+¿Se va a poder quedar a dormir ahí la banda?
+¿Cómo está el tema con el venio?
+Cuéntenos un poquito de eso.
+
+[Speaker 2 - 00:44:18]
+Sí se puede trasnochar en el hackatón, ya que desde viernes noche, viernes noche, sábado, se puede estar ahí como siempre con las medidas de seguridad, o sea, a partir de cierta hora solo se sale, no se entra hasta determinada hora, que es lo que se esquila, sobre todo un tema de los que pueden dormir sin estar pensando que puede entrar alguien, los que están adentro, todos correctamente.
+El otro tema es.
+Que, bueno, para venir al veño, tanto las conferencias como, bueno, para el hackatón se recomienda si se van a quedar en Ciudad de México antes de las 10 de la mañana, que es la hora que empieza.
+Excepto en el hackatón que pues es abierto porque no hay tráfico desde Ciudad de México para interlomas entre las 8 de la mañana y las 10 y media de la mañana no hay tráfico y la salida pues Después de las 7 de la tarde, que es cuando terminan las diferencias o digamos donde la gente podría llegar a pensar en volverse a su casa, los que se queda dormir, ocho, nueve, diez, no hay tráfico de vuelta porque ya todo el mundo, los que trabajan y se vienen, ya se mierda.
+Y eso está bueno, estamos justo en lo opuesto del tráfico para la ida y para la vuelta de así que si hacen bien las cosas en los horarios que tienen que hacerlas, llegan rapidísimo.
+
+[Speaker 0 - 00:45:43]
+Oye, distancia por ahí cerca, La verdad, fíjate que no he checado cómo se ve el tema, sé que va a haber muchos hacker houses, van a haber.
+
+[Speaker 2 - 00:45:51]
+Varias hacker houses, ya se van a dejar anunciar, por lo menos hay dos confirmadas, lo cual está bueno.
+Y el otro tema es el alojamiento, muy barato, es más barato que quedarse en Roma Norte, es más barato que quedarse en Condesa que en Hipódromo lo cual está bueno, y los hoteles también.
+Entonces para la cantidad de gente que va a venir en los alrededores, está perfecto.
+Aunque como les digo, quien quiera quedarse por cerca de Chapultepec, Polanco, Roma, Condesa, no hay problema porque para venirse temprano, entre las ocho y las diez y media de la mañana, llegan derechísimo sin tráfico.
+Y para irse vuelven también sin tráfico, el tráfico es en el sentido opuesto, así que hermoso.
+Igual les recomendamos quedarse cerquita de acá, que hay mucho para hacer y va mucho para hacer y muchas sorpresitas.
+
+[Speaker 0 - 00:46:51]
+Hablando de sorpresitas, bueno, ya nos pasaste un alfa, creo que esto no lo habían mencionado.
+Dos hacker houses ya confirmadas.
+Creo que eso es súper importante, güey.
+Eso es súper importante también.
+Chido.
+Es buen alfa.
+Buen alfa.
+Eso creo que hace que las cosas se aceleren más, que la banda conecte mejor, que.
+No sé, no sé.
+A mí me gustó mucho la dinámica ya en Denver, no, que había estado.
+Bueno, no, sí había estado en un hacker house, pero había sido muy distinto.
+Estuve en Mérida en el hacker house de frutero y de OpenWeb Academy.
+Estuvo muy cool aquí todo.
+Pero no sé, creo que acá eran más estrictos, creo que eran más perros.
+Creo que acá te traían más como que.
+A ver, eso es mandatorio.
+Y creo que allá también, pero acá no sé, a lo mejor por ser.
+Quién sabe, pero sí creo que se le mucho.
+Dos Hager Houses.
+Qué chido, qué chido.
+¿Qué más?
+Quiero otra.
+Suéltame algo más, Échame un poquitito más de alfa.
+
+[Speaker 2 - 00:47:52]
+Bueno, te tiro algún alfa más.
+Déjame pensar.
+Tenés que sacar tópicos.
+
+[Speaker 0 - 00:47:58]
+Bueno, para, platiquemos de cripto de mayo.
+¿Qué onda con cripto de mayo?
+Tome esa idea.
+
+[Speaker 2 - 00:48:04]
+Un super alfa.
+Bueno, nosotros vamos a estar manejando la agenda de los side events y va a estar incluido también el tema de la agenda del evento principal en Crypto de mayo.
+Ahora vamos a explicarles cómo funciona la dinámica de Cripto de mayo, pero la idea es que eso se empiece a convertir en algo permissionless de acuerdo a la adopción y a la gente que empiece a contribuir.
+¿Qué significa esto?
+Que nuestras referencias a los side events oficialmente y al calendario del evento en este año va a estar en Cripto de mayo, en este nuevo concepto, más allá que 5 de mayo es el organizador del evento y todo lo demás.
+Y esperamos que esto tome fuerza, que la comunidad entienda de qué se trata.
+Sobre todo la banda que fue Itember casi que te obligo a ir.
+Tenés que admitirlo.
+No sabía.
+
+[Speaker 0 - 00:49:05]
+Lo acepto, lo acepto.
+Me convenció.
+
+[Speaker 2 - 00:49:08]
+Germán, ¿Vas o vas?
+Para que entiendan lo que es un evento internacional grande, hagas match con partners, etc.
+Esto es lo que tenemos que hacer.
+En Latinoamérica falta.
+Hay muchas personas intentando apropiarse de la marca Latinoamérica Latam.
+Hay muchas personas diciendo que van a hacer no sé qué, no sé cuánto.
+El tema es hacerlo.
+¿Y cómo se hace?
+Es imposible hacerlo sin todo el esfuerzo de la economía unida.
+En ITCC pasa eso, es un Community Conference muy importante que se hace en Francia, Lo hicieron en Bélgica por las Olimpiadas el año pasado.
+Este año se va a hacer en Cannes.
+Se hace todo julio, Es una fecha internacional obligatoria.
+Todos los febreros.
+Es Denver, todo el mundo lo sabe.
+Es Denver en Estados Unidos y ahí todas las comunidades de Estados Unidos y demás hacen eventos y a la vez los protocolos y el mundo va para Denver.
+Hay porciones que se mueven solo en ciertos eventos.
+Es correcto.
+Pero la mayoría de las personas van a.
+Y después tenemos devcon y devconnect que va iterando por todo el mundo, que ahora va a ser en la patria de los hermanos argentinos y bueno, todo el mundo va a ir para ahí.
+Pero está bien, todo el mundo está esperando saber dónde.
+¿Qué pasa en Latinoamérica?
+No tenemos una fecha mundial como le pasa a Asia, sacando token que generalmente es por Asia, pero tiene un público muy segmentado.
+Y en África obviamente que no hay.
+Pero hagámoslo en Latinoamérica.
+Tenemos que tomar una fecha, tenemos que tomar una temporada, un mes, algo donde no haya nada, ponerlo y pujar todos juntos y pues entonces Cripto de mayo es en Latinoamérica y en este momento está siendo en México y es donde está tirando la fuerza y es a lo que queremos llegar.
+Intentamos empujar a la gente a que se sumara, pues se sumaron unos, otros no.
+Comunidades grandes quisieron, otras no quisieron, no lo vieron así.
+Estamos haciendo la propuesta igual.
+La propuesta está, la fecha está abierta, que se sumen todos y que hagan sus propios eventos en Cripto de mayo y que el año que viene todos estamos tranquilos y confiados de que en Cripto de mayo la gente ya lo tiene en el calendario mundial, en el calendario internacional y ya sabe que está esperando ver dónde va a ser el Cripto de mayo para ir.
+Porque ya sabe que va a encontrar mucha calidad, muchas cosas juntas y esa es la fuerza, porque si Temper fuera solo el min evento, no se llenaría, no conseguirían todos esos sponsors espectaculares que consiguen, no traerían toda esa gente ni CC, ni Defcon, ni del Connect.
+Entonces pues esa es la forma permissionless.
+Este año pues nosotros vamos el evento principal, porque pues es así, no hay como negarlo.
+El año que viene quién sabe si vamos a hacer el evento principal, uno secundario, terciario o.
+Pero que va a estar repleto de eventos, no tenemos ninguna duda, siempre y cuando la comunidad quiera, porque esto es algo que al final va a suceder o no va a suceder, pero no tiene fines comerciales atrás.
+Quien quiera hacer un evento comercial en Cripto de mayo puede, quien quiera hacer un evento comercial puede, pero va a ser Permisiones, creo que ya habíamos hablado de esto.
+Entonces vos traes el concepto.
+Claro, no sé qué te gustaría agregar sobre tu opinión respecto al tema.
+
+[Speaker 0 - 00:52:44]
+No, es que es una idea que cuando me la platicaste bien, cuando pudimos sentarnos a rebotar ideas y por eso tengo otros espacios un poco más largos, por eso me gusta de repente también dejarlos grabados, porque me permite a mí en lo personal tener conversaciones, entender bien el punto de vista del otro, si hay diferencias, bueno, tenemos tiempo para platicar de una manera respetuosa.
+Y cuando me explicaste, oye, es que el concepto es empezar con eventos 5 de mayo, 5 de mayo, pero adueñarnos de un mes y que ese mes se relacione con México y.
+Traemos ya el cripto.
+Bueno, yo lo había escuchado en diferentes ocasiones, es algo que por ahí ya se ha mencionado que está en el ecosistema Cripto de mayo, Cripto de mayo, madres, si todos nos unimos que lo estamos haciendo de alguna u otra forma, creo que lo estamos haciendo en el 5 de mayo, lo hicimos el año pasado en Mérida.
+A nuestra manera y cada quien poco a poco se está haciendo, pero enfocar todos en un mes, en traer a gente de todas partes del mundo y no nada más en una ciudad como tú dices, que sea México, que sea ese mes, pero que entre todos apoyemos, hacer ruido y que no sé, armemos un pop up city de cuatro semanas, un mes entero en una playa y otros armen otro evento en Monterrey, otros.
+Está muy chida la idea y si todos nos alineamos y de alguna u otra forma enfocamos las necesidades, ajustamos nuestras agendas para que le echemos energías a un mes y todas las comunidades suman y todas las comunidades hacen cosas madre, se pueden hacer cosas increíbles, ¿No?
+Traer eventos de clase mundial año con año, como tú dices, pasarlos ciudad a ciudad, está bien que estén, o sea que como es descentralizado y es permissionless, la gente que quiera hacer lana con eventos, haga lana.
+Yo creo que hay que hacer lana en algunos eventos, pero también está muy chido lo que ustedes hacen, donde todo lo mandan a premios para dar beneficios, para darle comida a la gente, etcétera.
+Seguridad, ve, todo saber, entonces.
+Sí, a mí me encanta, yo en la verdad nunca lo había entendido así, creo que nunca lo habíamos platicado así en un space y es nada más irlo posicionando la mente de la gente, ¿No?
+Por aquí veo a Superama que hace cosas chingonas con arte y que le gusta estar en eventos, veo a Max que está haciendo ya se nos cayó canijo, pero ando haciendo un musical con los nouns, veo a Revilla que está haciendo eventos, ve a Rosa que tiene comunidad, veo al Profe que también tiene una comunidad, o sea, está chido.
+A mí me gustó la idea, me gustó sumar a la narrativa, me gustó seguir hablando de esto para que se haga realidad y me gustó el poder llegar a traer un evento enorme en el año que entró Monterrey con esta nueva manera de ver las cosas.
+No sé, o sea, tiene que ser Monterrey, güey, no hay de otra.
+Ya vas a ser uno en México, ya Puebla, tienes que venir a Monterrey.
+
+[Speaker 2 - 00:55:45]
+Ya sabes que se intentó hacer en Monterrey, no se pudo.
+El año que viene.
+
+[Speaker 0 - 00:55:51]
+Oye, eso está bueno.
+Yo creo que nos podríamos aventar todo un space de manejo de comunidades, de manejo de colaboraciones, de comunicación y.
+Encontrar mejores maneras de acelerar, porque yo lo que quiero es acelerar, a veces mis formas no son las ideales, pero yo de que acelero, acelero.
+Pero bueno, denme un segundo, si me quieren contar algo, denme media segunda.
+
+[Speaker 2 - 00:56:19]
+Bueno, mientras tanto estamos acá haciendo Anfitrión Suri, ¿Qué tal estuvo?
+Hablaste bastante de las comunidades, del espacio de ayer, ¿Cómo estuvo eso?
+
+[Speaker 0 - 00:56:30]
+Es un resumencito.
+
+[Speaker 2 - 00:56:31]
+¿Se anunció algún alfa respecto a eso?
+
+[Speaker 1 - 00:56:37]
+Sí, realmente con Mexi estábamos platicando justo de eso, de las comunidades, del gran trabajo que van a hacer en esta edición.
+Del gran trabajo que también tienen de poder atraer a estos chicos para sus propias comunidades, invitarlos, encontrar las formas de poder llevarlos a sus comunidades dependiendo cada quien el trabajo que esté realizando y pues algunos alfa que dimos ayer, también algunos side events que también ya están confirmados y todo eso.
+Entonces pues sí, ya habíamos como abarcado la mayoría de cosas de lo que hablamos allá en el space con comunidades y también como contando un poquito de la parte del apoyo que vamos a tener de frutero con los mentores.
+De cómo ayudar también a los estudiantes a encontrar su camino en web, entonces pues de eso anduvimos hablando.
+
+[Speaker 0 - 00:57:29]
+Yo tengo una pregunta, ¿Cómo le hacemos para conseguir chingos de grupos de Monterrey que vayan a hackear?
+¿Yo les ayudo con universidades, podemos ir a dar pláticas?
+Sí, ayúdenme, estoy diseñando un plan pero ahí luego lo reboto con ustedes, si traen una idea ahorita, bienvenida, o sea, cómo junto un camión de 5 equipos de 5 para llevar un chorro de banda.
+¿Qué me recomienda?
+
+[Speaker 2 - 00:57:57]
+Pues lo primero es cuando empiecen las visitas a las universidades, que es ahora semana que propongas en qué universidades quieres hablar, perfectamente puedes ser un embajador del 5 de mayo, de hecho todos lo son, no necesitan que estén aprobados o no estos permissionless y más si son comunidades que ya están pre aprobadas, digamos, te pasamos cuál es el speech que hay que dar, presentas el evento el 5 de mayo, presentas a tu comunidad y pues después les vamos a mandar los protocolos interesados que quieran ir a esas universidades, la lista y pueden empezar a ir los protocolos directamente a dar los talleres ahí contigo o sin ti pasa mucho eso y lo bueno es que después los protocolos se quedan en contacto con las universidades, no nos ponemos como gatekeepers o man in the middle y ellos se quedan dando clases todo el año.
+Yo creo que sin problema van a venir unas 50 personas de Monterrey que vengan en un bus, no sé cuánto demoraría ese autobús, se me hace que muy largo, pero ahí vemos.
+
+[Speaker 0 - 00:59:03]
+Pero sí la idea es llevar un.
+
+[Speaker 2 - 00:59:04]
+Chingo de banda, ha hecho peores cosas para ver el partido de fútbol de una hora y media, así que no creo que en este caso que hay hasta premios de por medio, hasta puede ser tomado como un viaje curricular interesante, me encantaría la verdad, pero bueno, toma, seguro que vas a poder ir a hablar del 5 de mayo como embajador en las diferentes universidades y muchas gracias por eso.
+
+[Speaker 0 - 00:59:29]
+No, sí, definitivo.
+
+[Speaker 2 - 00:59:30]
+Hay que tengo un pequeño alfa.
+No es como tanto tan fuerte un alfa, pero es un avance.
+Vamos a estar haciendo el ticketing de la conferencia por un LOC.
+Ya estamos en contacto con Unlock, que son los que hacen este ticketing con NFTs y van a ser parte del evento.
+Al menos como Estela viene, que es una chica de Alemania que vive en Perú, que varios la conocen, con quien tenemos una muy buena relación.
+Estela ya confirmó que va a venir, va a ser parte de uno de los tantos paneles que hay, nos va a gratificar con todo su conocimiento y toda su experticia en áreas increíbles.
+Y quizás al LOC toma un poquito más.
+De protagonismo, pero todavía está por decir.
+Pero bueno, estamos muy contentos la verdad con las comunidades internacionales grandes que dicen pregunté porque tengo que preguntar qué es IT 5-5 en los grupos donde estoy.
+Y todo el mundo dice que le gusta, que es bonito, que hay que ir, que quieren ir, etc.
+Entonces bueno, algo muy importante que ayer en el face de las comunidades quedó claro, que también vale la pena dejar un claro acá.
+Es que it 5-5 es imposible de hacer si no es con el apoyo y la participación de las comunidades.
+Literalmente no es un agradecimiento, no es demagogia, no es intentar darles palmaditas para que se sientan contentos.
+
+[Speaker 1 - 01:01:01]
+No, no.
+
+[Speaker 2 - 01:01:02]
+Si las comunidades no apoyan el 5 de mayo, si las comunidades no promocionan Lead 5 con mayo, si no nos dan ideas, si no nos acercan partners que son la mayoría, que vienen de la comunidad por recomendación directa, si no van con nosotros a las universidades o no nos ayudan a llegar a más universidades, no sería posible.
+Entonces esto, aunque no lo parezca para algunos es resultado directo.
+Y por eso, no por otra cosa, es que las comunidades tienen lugares privilegiados.
+Tiene el mismo lugar que un partner que paga, que se gasta 15 mil dólares, que tiene cuatro pases, que tiene una mesa de dos metros, que tiene la posibilidad de dar un track y poner un boot.
+Bueno, eso lo tienen gratis, Gratis, no ganado.
+Y las comunidades que no pueden aportar tanto, pues se le apoya para que crezcan y el año que viene puedan apoyar también.
+De eso se trata.
+Así que bueno, pues a seguir metiéndole que todavía funciona.
+Va funcionando.
+
+[Speaker 0 - 01:02:09]
+A seguir metiéndole que todavía funciona, ¿De acuerdo?
+No hay que parar hasta que el cuerpo el puerco diga y uno es jefe del puerco, hay que moverlo, no hay de otra, hay que estarse moviendo, hay que estar actuando, hay que estar ejecutando, hay que estar haciendo eventos.
+Qué chido tenemos por acá, qué fregón la colaboración con Unlock, me encanta.
+Soy parte de la DAO Pop My Bags, qué chido, creo que son uno de los mejores protocolos que hay ahorita, de hecho creo yo que por andar haciendo todas mis invitaciones, todas mis invitaciones que yo estaba manejando en estos espacios que tengo que regresar pero no he podido, las minteo en Arbitrum, la gente las puede coleccionar, ahí les debo varias, las voy a sacar luego un día todas así de trancaso, pero creo que eso fue parte de lo que me ayudó y acaba con Unlock, son estas membresías que puedes usar con Unlock Protocol donde con la verdad muy muy muy barato, a veces hasta gratis puedes hacer tu contrato, puedes vender, así hemos vendido el taller, así vendimos, perdón, con un lock el taller de hardware wallets, así vendimos también la entrada a un torneo de póker el otro día, así hemos hecho todas muchas de nuestras invitaciones.
+Eventos presenciales, lo hemos usado en los eventos grandes de Tiro México, la verdad una comunidad y un adao y un protocolo tecnológico muy muy cool.
+Qué chido.
+Buena, excelente noticia, para mí es súper alfa porque te digo, disclaimer, tengo una bolsita así que gracias por pompearla.
+Pero fuera de eso creo que tienes razón en decir que las comunidades sí es evidente y no nada más este evento, creo que muchos otros.
+Híjole, es indispensable el apoyo de todos para construir cosas.
+Ahorita estoy empezando yo mucho ruido desde hace rato ya con Shock, creo que por ahí vamos a estar como patrocinadores en un track del hackatón, va a estar muy cool, digo, me digo yo porque pues ahí estoy ayudando, pero cualquiera puede ser parte de la DAO que hizo el stablecoin de Shock y ayudar, de hecho los estoy invitando a todos.
+Creo que es indispensable que toda la banda que esté aquí ayude a traer contactos, como dice Germán, que ayude a traer conexiones, que ayude a traer partners, que ayude a que haga la gente negocio, que gente consiga trabajo, hay que ser más proactivos y una de las actividades que está haciendo ellos, pues es el hackathon que me encanta, me encanta.
+¿Voy a estar hackeando?
+No sé, pero ahí estaré, ahí estaré definitivo.
+Suri, Germán, ¿Algo adicional que nos haya faltado platicar?
+Normalmente yo dura un poquito más, pero ahorita si no hay nada más y si no quiere subir alguien a hacer alguna pregunta, podemos ir cerrando el space.
+
+[Speaker 2 - 01:04:55]
+Pues genial, gracias por estas palabras, Si quieren subir alguien haciendo una pregunta, acá.
+
+[Speaker 0 - 01:04:59]
+Lo esperamos.
+
+[Speaker 2 - 01:05:02]
+Pero sí, totalmente.
+¿De hecho Estela la conozco desde Itember 2023, hackeamos juntos y en realidad la conozco desde Devcon 2022, donde en el Token Engineering Academy, Token Academy, no me acuerdo bien, estuvimos hablando de un protocolo que yo quería lanzar y hablando con sus ingenieros de tokens, me dieron muchísima información, estuvo muy divertido y después hackeamos juntos en Denver al siguiente año y ahí quedó una, una buena amistad y ahora pues se animó, se animó y viene gracias a todos los buenos comentarios que me lo dijo literalmente, más allá de que te aprecio y demás y bla bla bla, pues los buenos comentarios que recibí acerca del evento son los que me convencieron de que no me.
+
+[Speaker 0 - 01:05:51]
+Lo podía perder.
+
+[Speaker 2 - 01:05:54]
+No?
+
+[Speaker 0 - 01:05:54]
+Qué chido, qué chido.
+Voy a pinearles aquí arriba, información, tenemos el espacio del día de hoy, si todavía están por aquí y quieren apoyar, denle like, denle repost, denle un comentario, ayuda mucho a que lleguemos a más personas, ayuda mucho con el algoritmo.
+Yo por aquí tengo que comentar algunas cosas, qué locura esto de la inteligencia artificial nueva que salió para las imágenes, he estado jugando mucho con eso, por ahí tengo unos vídeos, vayan a verlos.
+Qué chido.
+Suri, ¿Algo adicional?
+¿Si no para echarme allá mis anuncios correspondientes y cerrar el space?
+
+[Speaker 1 - 01:06:32]
+Nada Mexi, pues nada más agradecerte y recordarles que las fechas son del 1 al 4 de mayo en Ciudad de México y que pues estén al pendiente de la cuenta para todos los anuncios que vamos a estar publicando y que si nos comparten, pues usen el hashtag criptodeMayo.
+Muchísimas gracias Mexi.
+
+[Speaker 0 - 01:06:50]
+No, encantados de colaborar, una de las mejores iniciativas que hay en México, No, sin duda.
+Y de los que está atrayendo muchas personas nuevas que buscan bordear gente de.
+Todos los sentidos.
+Muchas gracias también por lo que hace pero bueno, Suri, Germán, se pueden quedar, yo me quedo aquí con unos anuncios y luego les pongo la última parte de Minds Abyss que es la canción que hice con inteligencia artificial y suno varias actividades.
+Hoy hay un space.
+Mis amigos de todo de cripto tienen un space el día de hoy con ICP Hub México, se los voy a dejar pineados aquí arriba, si quieren ir a conocer qué es lo que está pasando con ICP Hub, tiene una aceleradora, mañana hay un Space global, también se los voy a poner aquí arriba, empieza a las doce y media de la tarde, vamos a estar por ahí la comunidad de México hablando de lo que está sucediendo.
+Pero ICP Hub es una iniciativa que trae Cristian Zambrano, Cristina, los Tanao que son cracks del ecosistema, están haciendo cosas bien cool en zona 3, los conozco desde hace rato, han hecho hackatones, han hecho un chorro de cosas bien interesantes.
+Ellos están trabajando con ICP que es una blockchain que pretende mejorar el Internet como lo conocemos, con una manera de almacenar información en la nube que no se podía hacer antes.
+Traen el Town Hall, se los voy a pinear aquí arriba, es el día de mañana, voy a estar ahí participando, hablando de lo que estamos haciendo, de los programas que trae ICP Hub aquí en México.
+También les voy a dejar pineado una invitación, si tienen una aplicación, si tienen un desarrollo, si tienen algún Dapp que necesiten apoyo para acelerar y quieren utilizar tecnología de ICP, obviamente pueden participar en un Ideatón que se va a llevar a cabo del jueves 10 al 12 de abril, es en línea, les voy a dejar aquí arriba el pin.
+Hay un Ideatón, primero que nada, si no tienes todavía una idea, si no tienes un negocio, si no tienes un modelo, si no sabes qué onda con la web 3, creo que esto y detones son de los más divertidos que existe para entender la tecnología, para conectar con gente entusiasta, para acercarse con mentores, como decía Suri hace un momento, es importante que haya mentoría en estos programas y sí la hay con la gente de zona 3, entonces aprende mucho, hay muy buen networking, ya se los piñé, es del 10 al 12 de abril del 2025, ideatón es una competencia de ideas y la mejor idea con el mejor pitch o el mejor video de la aplicación o la presentación es suficiente.
+Creo que no hay que hacer mucho código, entonces eso está también muy divertido.
+Creo que no está pineando aquí arriba, pero bueno, también les voy a pinear.
+El último aviso del día de hoy es un programa de aceleración que empieza el 5 de mayo, no sé si por ahí estén ellos en El Hackathon Date 5-5, creo que sí, no estoy seguro si ICP va a estar, me imagino que debe de estar, pero traen un programa donde todas esas aplicaciones y proyectos que ya a lo mejor participaron en un hackatón, que ya tienen algo de desarrollo, que a lo mejor ya tienen uno que otro cliente, que tienen código, que tienen algo funcionando, hay programas donde pueden participar para que les den mentoría, sean acelerados con técnicas, con herramientas, con conexiones, que luego pasen a un programa donde puedan platicar de su proyecto y que probablemente al final consigan un gran para poder seguir desarrollando.
+Esos grants son a fondo perdido, si mal recuerdo, o sea que no te quitan porcentaje de tu empresa o de tu emprendimiento, aunque eso no me lo crean, se los voy a confirmar, la neta ha sido muy interesante y muy divertido trabajar con ICP, está volteando a ver a México con esos programas y todos esos programas cuestan, yo les estoy cobrando una lana al mes por dar estos avisos y las métricas que me están poniendo también están fuertes, también tan padres.
+Tengo que conseguir por ejemplo 10 emprendimientos ya medio formados para el programa de aceleración.
+Entonces.
+Mucho hago con estos espacios, pero hago mucho más cara a cara en los eventos, conociendo a la gente, conociendo los startups, platicándoles de la tecnología porque a veces ni conocen, etc.
+Último aviso, Bitso, Bitso, Échale, échale.
+
+[Speaker 2 - 01:11:31]
+No tenemos todavía confirmada una carnita asada para el evento, el año pasado hubo una y entiendo que la organizaste vos, yo pensé que había organizado otro equipo, pero me dijeron que no.
+Entonces acá hay unos buenos Venus para hacer una carne asada, hay incluso un rancho, más o menos 10 minutos el rancho para hacer la carnita asada, que además tiene animales, está bien puesto y se pueden conseguir otros Venus.
+¿Que te hace falta para lanzar esa iniciativa nuevamente?
+Porque carnita asada o choripanet o como quiera llamarle, pues tienen que haber.
+
+[Speaker 0 - 01:12:14]
+Oye, el año pasado no sé qué opinas, pero creo que fue el mejor set event que hubo, yo me lo pasé chameando, pero creo fue el mejor Cd.
+
+[Speaker 2 - 01:12:22]
+Pues yo creo que con la fiesta loca anduvieron parejo y si me decís que hay que desempatar, capaz que gana la carnita por penales.
+Pero sí, estuvo lindo.
+Fue un respiro después del evento necesario.
+Fue una reunión, fue una comunión.
+Fue como una comunión en el sentido de la palabra.
+Ya todos nos vimos caras, Ya pasó lo peor, porque cuando organizas un evento así se vuelve un infierno.
+Es divertido, pero se vuelve un infierno.
+Lo disfrutan todos menos el que lo organiza.
+Pasa así como vos acabas de decir, la carnita asada.
+¿Pero bueno, de qué hace falta?
+
+[Speaker 0 - 01:13:06]
+Tendría que ser igual, tendría que ser así como de cierre, de festejo.
+No sé si esté la fecha disponible, pero sí, platiquemos, platiquemos.
+Yo tengo que mentorear y tengo que estar ahí y obviamente pues ahí.
+La echamos a volar.
+No creo que haya, pero sí me late.
+
+[Speaker 2 - 01:13:25]
+Domingo después de las 7 de la tarde podés prender el fuego.
+¿Entonces podemos decir que esto es tu alfa o todavía no?
+
+[Speaker 0 - 01:13:34]
+El aviso del aviso Probablemente.
+Déjenme hablo con el parrillero estrella que necesito que me confirme si yo organizo, yo armo y hago que las cosas sucedan, pero me acerco un poco al asador porque hay muchas otras cosas que hacer en esos eventos y ya los que han organizado habrá, Pero sí, sí, sí.
+Déjenme confirmo con ellos y a lo mejor en el siguiente space de comunidades damos el orfanato.
+
+[Speaker 2 - 01:13:59]
+Bueno, muy bien.
+
+[Speaker 0 - 01:14:00]
+El año pasado sé que fue mucho de la banda que ayudó y se acercó y eso estuvo muy cool.
+El año pasado en Puebla.
+Sí generamos algo de polémica.
+
+[Speaker 2 - 01:14:10]
+¿Te acordás?
+Yendo a buscar chorizos a mi casa.
+
+[Speaker 0 - 01:14:12]
+Tú fui a buscar los chorizos a tu casa, tú conseguiste un asador y lo trajeron.
+La gente se animó ahí, o sea, éramos Abraham, tú y yo organizando.
+No, básicamente.
+Si hubo patrocinadores, sí hubo gente, pero Abraham se aventó todo el tema de la cocina, las compras, yo, que si el espacio, que si la lana, que si la chévez, tú con la carne y otro asador y organizando y la madre pusimos, no sé, pero la gente se acercó a apoyar de la nada la otra camita asada de Mérida.
+Creo que.
+No sé, fue más estructurado, más cuadrado.
+Hay que ser más relax, que fluya un poquito más.
+Entonces veamos, veamos qué podemos hacer por DNI.
+
+[Speaker 2 - 01:14:56]
+Dale, perfecto.
+Bueno, listo, quedó ahí un alfa del alfa del alfa.
+
+[Speaker 0 - 01:15:03]
+Chido, chido, chido.
+El último, el último aviso.
+Andamos y está.
+Y me pidieron ayuda para eso también les digo, estamos colaborando y hemos colaborado con Bitsu en muchas ocasiones.
+A mí en lo personal me gusta mucho Bitsu porque es mexicano.
+Porque ha crecido aquí, porque ha ayudado a que mucha gente implemente tecnología y adopte cripto.
+Creo que las condiciones pueden mejorar, pero bueno, conozco el equipo, conozco al Ciudad de México, conozco el Ciudad Global.
+Hemos platicado muchas iniciativas, nos han apoyado hacer eventos previamente aquí en Monterrey, apoyaron el evento en Mérida con Etil México, apoyaron el evento en Ciudad de México 2023.
+Sé que van a apoyar en el 5 de mayo, creo, no sé.
+Bueno, Alfa UPS, pero traen un evento y andan buscando speakers.
+Van a hablar de stablecoins.
+Acaban de lanzar su stablecoin en Arbitrum.
+Soy embajador de Arbitrum, entonces también voy a hacer mucho ruido de ese tema.
+Igual estoy platicando con vaqueros en todas partes de México y una empresa de traslado de valores.
+Estoy viendo cómo podemos integrar esta tecnología con una industria muy tradicional de la logística y de.
+Préstamos y tema financiero, bancario, que ahorita no está permitido, pero estos bancos tienen fintechs, no sé, ahí estamos moviendo muchos temas.
+Entonces, si quieren apoyar de alguna u otra forma, creo que la mejor manera de crecer el defi mexicano es a través de una DAO que se llama la DAO.
+Ellos lanzaron una moneda estable que se llama Shock.
+Ahorita yo soy de los recientes que me acaba de pegar al proyecto.
+Pero desde hace.
+Desde primer día está Fruteros, desde día uno, está gente obviamente de la DAO que inició todo esto.
+Hay un chorro de banda metiéndole muchas horas y pensando en qué se puede hacer con el DIFA mexicano.
+Y creo que la mejor alternativa ahorita que estamos viendo un boom de stablecoins, ya sacó una iterfuse en base.
+Sabemos que Grupos Salinas tiene una en una L de Bitcoin.
+Ya anunció Bitso ayer una stablecoin MX en Arbitrum.
+Muy probablemente la metan a Solana porque también Solana está patrocinando el evento que están organizando en agosto de stablecoins.
+Les voy a dejar por aquí arriba el link si quieren ser speaker en ese evento, están buscando speakers, perdón, están buscando colaboraciones, Anótense, llenen el formulario, ahorita se los dejo por aquí, creo que va a estar muy bueno y creo que hay un mercado enorme que está creciendo ahorita mucho.
+Yo voy a hablar mucho del tema de stablecoins en México y hay cuatro, vamos a ver más, Yo estoy generándole FOMO a los bancos a ver si en algún momento ellos lanzan una, Creo que hay un dineral que hacer por ahí, el caso de Tether de estudio es increíble, lo he estudiado mucho, estudiado mucho a Circle, creo que ayuda mucho el tema de stablecoins para el tema de remesas, para hacer negocios BB, no sé, no sé, hay un marcazo ahí.
+Voy a estar hablando mucho del tema y les recomiendo si quieren ir al evento, creo que hay que comprarlo y si quieren dar una plática en el evento, hay que anotarse.
+Déjenme un segundo antes de irme, les voy a poner el pin de ese post porque sí creo que es importante y creo que nos tenemos que montar en ese tren güey.
+O sea, tracks de los hackatones, entiendo que Bitso también por ahí va a empezar a buscar desarrolladores.
+Aquí está el stablecoin de Bitso y van a empezar a hacer un chorro de ruido por ahí.
+Nosotros estuvimos viendo.
+
+[Speaker 2 - 01:18:50]
+Si, bueno, Bitso, lo puedo decir por acá, es Partner Rate 5-5, tiene su partnership, va a tener su boot y van a estar hablando del stablecoin, va a ser un gran lanzamiento durante el.
+
+[Speaker 0 - 01:19:03]
+Vámonos.
+Vámonos, traen el evento, ya anunciaron, Bitso le va a meter una buena lana a este stablecoin.
+Yo por ahí también les dejaba unos comentarios sobre los stablecoins, yo creo que vamos a ver algunas tronar, yo creo que es importante que nos demos cuenta quién está detrás de estos proyectos.
+En lo personal me gusta Bitson, no conozco los de Interfuse, no conozco los de Banco Azteca.
+Yo desde el día uno que estoy en bitso en el 2017, tengo un link de referido y lo he usado y me ha pagado a lo largo de todos estos años, o sea, disclaimer, nos han apoyado en eventos, etcétera.
+Ya creo que he hablado mucho del tema, pero creo que también acelera un chingo la opción, acelera un chingo que haya fintechs que empiecen a usar estas tecnologías, que empiecen a usar DeFi.
+Hay que ayudarlos a estos Nubanks, a estos Plata Cards, a estos.
+Puta, hay un dineral y hay mucho trabajo por hacer por integrar todas estas empresas utilizando este tipo de herramientas como las stablecoins.
+Creo que hay que hablar más del tema.
+Creo que hay que hablar más de que pueden ser bloqueadas aquí en México.
+Hay que ver cómo va a estar el contrato de stablecoin en MXN.
+No lo he analizado, ya hablaremos del tema.
+Igual ya los invité por ahí, tuve una reunión hoy en la mañana, los invité.
+A venir aquí a platicarnos al Space.
+Ya los traeré por aquí pronto.
+Pero bueno, ahora sí ya me voy bien tarde.
+Germán Suri, muchísimas gracias.
+Voy a dejar la última parte de Minds y nos vamos.
+Apago aquí el Bluetooth.
+Cierro.
+Y nos vemos la próxima semana.
+El próximo martes, ya puedo avisarles.
+Va a estar con nosotros la bandita de Happen Soho y la bandita de Blockchain Querétaro que trae un evento que se llama Ledger Leaders.
+Están por ahí participando.
+Traes pique con Soho, No sé por qué, hombre, pero sé que es de choro.
+Sí, van a estar el martes con nosotros a las 12 hablando de ese evento y van a estar el jueves.
+Voy a estar con NT de Lido.
+Enti de Lido va a venir a platicarnos todo Lido para el tema de validación.
+Yo por ahí he estado experimentando con un nodo también por ahí les hice un unboxing y un arranque del nodo de Lido que me llegó un dapno por ahí que me gané en una dinámica en navidad.
+Si tienen chance ahorita se los pineo para que le den un poquito de amor.
+También estaba haciendo últimamente contenido en vídeo y creo que ha funcionado.
+Ese.
+En específico me gustó mucho porque la neta está bien sencillo.
+Te llega, lo armas, lo montas, lo prendes, ya está funcionando, viene pre programado.
+Y creo que es importante que entendamos cómo funcionan estas máquinas.
+Finalmente las personas operan máquinas que corren software para usar blockchain.
+Alguien dice, no, es que esto no mames.
+Es gente la que está operando estos sistemas y hay que aprender a utilizarlos y hay que aprender cómo funcionan para entenderlos un poquito mejor, creo yo.
+Y al entenderlos un poquito mejor te da la oportunidad de construir con mayor Conocimiento chinga, no la encuentro.
+Ya me metí mi raquí.
+Ay, güey, es que estoy posteando un chingo, cabrón.
+Hay una disculpita, pero ando muy shit.
+Postero.
+Bueno, ahora se los reposteo, se los dejo aquí.
+Mindset, los quiero mucho.
+Muchas gracias por su tiempo.
+Normalmente estamos aquí una hora y media y ahorita estamos más o menos en eso.
+Bon vert.
+Bye.
+Ups, muchas gracias.
+Los quiero mucho.
+Gracias por estar por aquí.

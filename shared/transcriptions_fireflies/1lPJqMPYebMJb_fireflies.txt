@@ -1,0 +1,818 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #N/A
+Título: BandaWeb3 #043 @rogservin @AmpleProtocol
+Fecha: 2025-03-13
+Host: BandaWeb3
+Tipo: hosted
+
+Descripción:
+BandaWeb3 #043 @rogservin @AmpleProtocol
+
+Duración: 01:20:15
+Escuchas: 211
+
+Links:
+  Space: https://x.com/i/spaces/1lPJqMPYebMJb
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+[Speaker 0 - 00:00:00]
+Protocol por ahí.
+Yo he estado trabajando con Ro desde hace muchos años.
+Él me ayuda a generar algo de contenido.
+Él edita, él produce.
+Él es un crack, la verdad, del ecosistema.
+Trae un proyecto que nos va a platicar el día de hoy.
+Vamos a platicar de Denver.
+Les voy a platicar yo del tour que estamos haciendo por acá en toda la República Mexicana sobre traslado de valores, utilizar blockchain y traslado de valores.
+Pero por lo pronto les voy a poner una cancioncita mientras empezamos a invitar a toda la banda.
+Esto es una canción que yo hice con inteligencia artificial.
+Se llama Mind the Beast.
+Está muy chida.
+Está inspirada en la canción que antes ponía aquí en estos espacios de Liquid Tension Experiment.
+Se los dejo.
+Mindset Beast.
+Empezamos en breve.
+Uy, se paró.
+Ahí va.
+No sé qué pasó.
+
+[Speaker 1 - 00:02:44]
+Venga, venga, venga.
+
+[Speaker 0 - 00:02:45]
+Empezamos en breve.
+Hondo.
+¿Como ven?
+¿Cómo ven?
+Empezamos en breve.
+Estoy invitando toda la banda.
+Híjole, yo creo que le voy a tener que poner audio, la verdad.
+Me prende esa canción, pero hay que cantarla.
+Creo que le falta un poquito de audio.
+Musiquita.
+En un segundo.
+Empezamos en un minutito.
+Gracias por estar por aquí.
+Si nos ayudan con likes y con repos, todo suma, todo suma.
+¿Qué onda, banda?
+¿Cómo andan?
+Gracias por estar por aquí.
+Estamos regresando.
+Estos espacios, la verdad es que no había tenido chance de organizarlos porque he estado en chinga, he andado viajando mucho.
+Ahorita les voy a contar un poquito del tour que estamos haciendo.
+Pero primero que nada, déjenme conecto mi cuenta principal aquí para que también podamos compartir.
+Y confirmo que está por acá el buen Rob de Ampoll.
+Ya tenemos aquí la cuenta de rock.
+Estamos por aquí platicando con ellos.
+Denme un segundito.
+¿Cómo estás, Ronda Mex?
+
+[Speaker 1 - 00:04:57]
+Gracias por la invitación.
+Obvio, aquí te escucho bien.
+Estuvo buena la pieza que te pusiste.
+¿Quién era?
+
+[Speaker 0 - 00:05:05]
+Es una pieza hecha con inteligencia artificial.
+Es diseño mío, la verdad.
+La aplicación se llama.
+Y estuve jugando horas y horas y horas con ella.
+Le metí ahí un poco de inspiración de Liquid Tension Experiment, rock progresivo.
+Me encantó.
+Y hubo varios pedacitos que no me gustaron tanto.
+Lo estuve ajustando, le estuve moviendo hasta que salió esa canción.
+Creo que le tengo que poner algo de audio y creo que está perfecto para iniciar la conversación porque Bueno, el buen Rog el día de hoy que nos va a platicar del proyecto que trae Ampoll, está por acá arriba también, ellos están trabajando un protocolo de propiedad intelectual y la neta qué chido, hay muchas noticias, ahorita nos va a platicar todo el buen rock, pero sí, cómo es Inteligencia Artificial inspirado en Liquidation Experiment y un poquito de rock progresivo, ¿No?
+
+[Speaker 1 - 00:06:03]
+Está padrísimo, Mexi, o sea, la verdad es que pensé que era alguna rola, no sé, de los 80s, ¿Sabes?
+Y ahorita que me dices que fue una canción que tú hiciste con Inteligencia Artificial, está cañón, me vuela la cabeza.
+Y eso es Propiedad Intelectual.
+Propiedad Intelectual, por ejemplo.
+Y aquí está Mick, igual es productor y estaría padre también está saltando, está evolucionando de Web 2 a Web 3 en su contenido.
+Y.
+Ahí también pudiera hacer algo con la rolita, como ves ahí también anda para ir integrando más personas, este hermoso ecosistema.
+Y si, hay, también anda Kenny detrás de la cuenta de Apple, también está escuchando, es mi co founder, pero él habla en inglés, entonces pues también está padre poder hablar de todo esto para nosotros los latinos, para los hispanos, porque pues estamos, bueno, movemos el proyecto en Estados Unidos con Kenny y ahorita estoy bajándolo a Latinoamérica, ahí más adelante les platico cómo es nuestra estrategia de crecimiento.
+
+[Speaker 0 - 00:07:27]
+¿No?
+Qué chingón tener por aquí el buen Miki, está también, como decías, la cuenta de Apple y Kenny, muchas gracias por estar por acá.
+Hay que ver qué armamos con Mickey, definitivamente su voz y la rola puede funcionar muy, muy bien.
+Metamos Inteligencia Artificial, metamos un poquito de arte real, de alguien cantando y alguien talentoso que ya lleva un rato en el ecosistema.
+He trabajado con él también y contigo ya en un par de ocasiones por ahí tenemos ya mucho contenido hecho juntos.
+Platícanos un poquito de ti, Ro, cómo diste conmigo, cómo dimos juntos ya después de varios años de chambear juntos.
+Ahorita tú traes un proyecto y qué chingón poderte tener por acá, que nos platiques.
+Vamos a platicarles un poquito de lo que pasó en Denver, por ahí convivimos mucho el buen Rog y yo en Denver, estuvimos para participar muchos eventos, fiestas, un poquito de todo.
+
+[Speaker 1 - 00:08:21]
+Estuvo súper bueno, la verdad es que a mí me encantó la experiencia de este año.
+Todas son distintas, unos tratan de decir, no, es que fue peor o mejor.
+La verdad es que todos los eventos tienen su magia y la verdad es que fue un honor ahí andar acompañándote a tus eventos y viceversa, la pasamos súper padre y conocimos gente súper interesante.
+Ahorita me venía a la mente gente que me platicó sus proyectos de computación cuántica en un evento que tú me invitaste, Mexi, o sea, gente muy, muy, muy interesante, ¿No?
+También los raves de Mi Lady, ¿No?
+A la banda ahí por ejemplo, ahí yo veo unos ojitos de Mi Lady por ahí y pues está padre, ¿No?
+Haber convivido y si, ya varios años ya de conocerte.
+¿Cómo nos conocimos, mexicano?
+A ver, recuérdame, ¿Tú te acuerdas cómo nos conocimos?
+Si, ya son varios años, tal vez unos.
+No, ya me acordé yo dónde nos conocimos, a ver si tú te acuerdas.
+Pero sí, fue ya hace como cuatro años, cinco años.
+
+[Speaker 0 - 00:09:29]
+Sí, yo me acuerdo que estabas trabajando un rato un poco con, no sé si con de largo y luego trabajaste con Neshudo que es uno de los influencers de tecnología que más está pegando con el buen Mat, creo que también estuviste chameando un rato y en varios de los viajes que yo he hecho he tratado de experimentar con contenido por ahí hicimos videoblogs, hicimos también varios creo que videos con entrevistas, con el seguimiento de lo que yo estaba haciendo por acá.
+Estuvo muy chido también.
+Sí, pero no sé, yo me enfocaba.
+
+[Speaker 1 - 00:10:01]
+Más acá en estos espacios.
+Ahí te va.
+Donde nos conocimos, a ver si te acuerdas, fue en un grupo de NFTs donde tú hablabas mucho de tus apes, del Ape Academy y eras pues, Meximalis Sol y ya fue que ahí nos conectamos, no quiero doxear tanto, pero ahí nos conectamos en un grupo y ya fue que empezamos a conectar los hilos, no sé si te acuerdes.
+
+[Speaker 0 - 00:10:29]
+Sí, creo que sí.
+Ya ni me acuerdo qué grupo era, pero sí, sí, sí, cómo no.
+En esa época de NFTs en Solana, qué locura.
+Hermosa, hermosa época.
+
+[Speaker 1 - 00:10:39]
+Los osos, los osos de Okverse que enviaban allí, los dinosaurios, ya sabes.
+Pero bueno, si nos vamos un poquito más atrás, pues los softbirds y todo lo de esas colecciones con las que nació el ecosistema de Solana y ahí fue donde nos conectamos.
+Y si, yo llegué más como a este mundillo, pues hacíamos más o menos como en el 2018, 2019 Vídeos con Eudo de cómo comprar artículos con Bitcoin y todas esas cosas.
+Después conectamos con Mateo, con Madrid y ahí fue que generamos pues canales de televisión, canales de YouTube y ya fue que empezamos a conectar más.
+Después empecé a trabajar de largo contigo y pues poco a poco así hemos ido en el ecosistema, pero ha sido un buen camino ahí a tu lado.
+
+[Speaker 0 - 00:11:44]
+También mexicano, ya muchos años acá construyendo y bueno, el día de hoy traes un proyecto que tienes pues igual No sé si 23 años ya construyendo, se llama Apple.
+Pero antes de entrar directo a todo lo que es Apple, platícame un poquito de ti, güey, ¿Cómo diste con todo este show, como decíamos hace un momento, haces contenido, has producido influencers de ese tipo, de ese tamaño, has creado canales, si mal no recuerdo, de cientos de miles de usuarios y ahorita pues bueno, traes ya un proyecto propio, eres cofundador o CTO, no estoy seguro cuál es tu rol ahí, pero qué chingón poder platicar y poder tenerte por acá?
+Cuéntame un poquito de cómo diste con web y un poquito de tu historia.
+
+[Speaker 1 - 00:12:34]
+Sí, pues justo.
+Así, el primer acercamiento con la web.
+Pues fue haciendo el canal, prácticamente trabajando con más cripto.
+Ahí conocí muchísimo más el ecosistema, obviamente Bitcoin antes todo lo de todo lo de defi, me empiezo a meter y empiezo a.
+Pues estudié yo comunicación, soy productor de escuelas, me empiezo a meter en la parte de investigar cómo evoluciona el lenguaje en el mundo digital y ya mis ideas donde se empiezan a crear aplicaciones y todo eso.
+Cuando encuentro esta parte de la web, me acuerdo un día que estaba platicando con Mateo, traía una idea y le oye, pues ¿Cómo puedo desarrollar esta idea?
+Me dijo, pues métete a desarrollar, métete a esta academia.
+Y fue que me empecé a meter mucho en el código y ya fue que empecé a unir mi conocimiento que tenía de cripto con lo de la producción.
+El código más la tecnología.
+Ya fue que empecé a crear estas soluciones.
+Me acuerdo que.
+Hago una pequeña startup llamada Frisbee, que era un Instagram descentralizado donde se le daba un valor a like y en ese proceso conozco a mi co founder, a Kenny, en un viaje a un hacker house de Solana, porque también era complicado en esos años.
+Conseguir las piezas de código.
+También la blockchain ha ido avanzando y los desarrolladores han ido creando más módulos, pero pues antes era un poquito más complicado.
+Entonces en uno de esos viajes conozco a Kenny.
+Por mi creatividad también empiezo a crear un producto en ese proceso, una caricatura para niños para aumentar el awareness de Bitcoin, de la tecnología.
+Y Kenny tenía un streaming en ese momento, amplestream, y le oye, pues yo necesito un streaming descentralizado para poder mostrar mi caricatura que enseña el mundo descentralizado para niños.
+Ahí fue que conectamos, empezamos a platicar, yo me vuelvo partner de Ampoll en un programa para creadores.
+Y en ese momento pues ya Frisbee evoluciona también y decido poner mis esfuerzos de desarrollo a Ampol y fue que empiezo a cofundar en el año 2022 más o menos.
+Entonces así es como fue mi proceso un poquito para llegar a esto.
+Y después de estos tres años ya tenemos un mainnet en EAR y estamos haciendo un IBM con base.
+Entonces pues ha sido un largo proceso porque realmente.
+Este pues sí, es aguantar, es aguantar a que se haga el pastel, pero ahí vamos, ahí vamos una.
+
+[Speaker 0 - 00:16:02]
+Historia y pivoteando, pivoteando, tratando cosas nuevas, probando, conociendo gente, haciendo networking.
+Yo te he visto en muchos eventos donde pues creo que te han apoyado, te han ayudado a que eso suceda.
+Pero cuéntame un poquito de Apple, porque entiendo que ya tienen varias rondas levantadas, o han levantado rondas, tienen capital por ahí que han implementado para poder desarrollar la aplicación.
+Como decías, ya están funcionando, en Near tienen ya una aplicación que funciona, que te permite conectar con artistas, con los fans, que te permite mintiar y tener comunicación en cadena con las personas que están creando propiedad intelectual.
+¿Pero cómo nació?
+Y cuéntame un poquito de la historia de Apple.
+
+[Speaker 1 - 00:16:50]
+La historia de Ampoll nace.
+Cuando yo entro, ya te digo que era un streaming y.
+Pues empezamos a construir módulos, después sigo siendo productor en la música, entonces sigo viendo muchas problemáticas en la industria, muchas cosas que se pueden solucionar y ya empezamos a pivotear y cada vez le metemos más herramientas a este protocolo que está creado para hacer un toolset para creadores.
+Por ejemplo, para ti mexicano que empezaste con tu pieza musical, pues necesitas ponerle en algún lugar y es algo que te costó tiempo hacerlo, entonces lo puedes monetizar, entonces va por ahí.
+El proyecto, porque.
+Literal es seguir construyendo, de eso se trata, de seguir creando un nuevo mundo.
+Pero bueno, en cuestión de la parte del fondeo, Near nos apoyó al principio, fue un gran.
+Que se ganó al principio del proyecto como un streaming, me acuerdo en ese momento, yo no estaba.
+En Ampol todavía, pero fui parte de Nier University, entonces sabía en ese momento que esa blockchain estaba enfocada al creator economy, a soportar plataformas de streaming, a tener esa capacidad de usuarios, entonces era muy atractiva para aplicaciones, por ejemplo en ese tiempo para Frisbee y fue muy atractiva en su momento para.
+Para Kenny también, entonces fue ahí que.
+Se empieza a construir en Near y también.
+Hemos ganado hackathons y también hemos obtenido grants.
+Por ejemplo de mintbase para construir módulos open source y por ejemplo esta parte del tokenizador de propiedad intelectual.
+Se puede obtener en la paquetería de Vite Protocol.
+Entonces todos esos esfuerzos que detrás ha habido mucho equipo que ha sido el que ha ido creando esto, porque no solo es una persona ni dos, sino todas las personas, artistas, por ejemplo Mickey que ha lanzado colecciones con nosotros, que ha prestado su.
+Su imagen para poder ayudarnos a llegar a más personas, pues es parte de todo esto, Mickey es parte de esto, en su momento pues es uno de los artistas fundadores de los early users del protocolo, entonces pues definitivamente es parte, es parte de esta creación, tú eres parte, toda la gente que está escuchando es parte, entonces pues sí, ha sido.
+Ha sido un muy buen trayecto mexicano.
+
+[Speaker 0 - 00:20:00]
+Qué chingón, qué chingón.
+Les voy a poner aquí arriba, pinear varios anuncios, uno de ellos es el post de Miki, para que lo sigan, él es uno de los artistas por ahí que está apoyando, como lo menciona el buen Rock también les voy a pinear aquí arriba link al Space para que le den un retweet, por favor ayúdenos a compartir, dejen su comentario, si.
+
+[Speaker 1 - 00:20:22]
+Alguien quiere saltar también al Space a platicar con nosotros, estaría padre.
+
+[Speaker 0 - 00:20:28]
+Vámonos, vámonos, si quieren subir adelante, pidan la palabra aquí con gusto, si los conozco, si no los conozco van para abajo, no quiero andar batallando también ya dijo Roque, no hay bronca el invitado.
+Hace rato hemos pidido subir a alguien pero no lo identifica.
+Ya viene por acá el buen Lucas, a ver, vamos a ver qué quiere mi compadre.
+
+[Speaker 1 - 00:20:51]
+Pero bueno, me gustan estos spaces porque literal es como una mesa plática.
+¿Que estás tomando tú, Mexi el día de hoy?
+
+[Speaker 0 - 00:21:02]
+Cafecito.
+Acabo de desayunar.
+Al rato estoy viendo ir a un meetup por acá que va a ver de Solana, hay otro de Vara y luego tenemos en la noche un evento.
+Cuéntame un poquito del evento.
+Entiendo que la chica que va a estar por ahí cantando acá en Ciudad de México es parte también.
+De lo que andan moviendo.
+
+[Speaker 1 - 00:21:23]
+Sí, es este.
+Qué bueno que mencionas, estás aquí en la Ciudad de México.
+Mexica, qué padre que puedas venir.
+Pues tenemos el show de Ima Soul.
+Ima Soul es una artista NFT también, ella creó unos NFTs en el 2021 con Budweiser.
+Con Gary Ve.
+Entonces ella es parte de la caricatura para niños, es coproductora.
+Y pues hoy tenemos su show, está lanzando su disco.
+
+[Speaker 0 - 00:21:57]
+A ver, ya la cagó mi compañera.
+¿Como?
+Perdón que ya se fue para abajo mi compañero.
+No, échale.
+
+[Speaker 1 - 00:22:06]
+Y bueno, ella es parte de la caricatura de Wavy Valley, que es una caricatura que enseña a los niños cómo utilizar la tecnología blockchain, bitcoin, sumando, permacultura, un lenguaje muy, muy apropiado para los niños porque pues prácticamente es la próxima generación de usuarios.
+Entonces.
+Ella es parte de este movimiento, de esta creación y tiene su personaje en la caricatura, al igual que Mickey.
+Entonces también los holders de Wavy Valley pues tienen acceso gratis a sus eventos.
+Y también tenemos ahí unos shows que vamos a tener en Nueva York en enero.
+Perdón, en enero, En abril.
+A principios de abril ahí a ver si Mickey igual quiere saltar.
+Esto es como fuera de la web, pero ellos tienen el cartoon show y van a presentar el puente a la web 3 en un show allá.
+
+[Speaker 0 - 00:23:14]
+Que chingón, que chingón.
+La neta.
+Yo creo que lo he dicho en varios espacios, el arte en específico la música, tienen la oportunidad de romperla muy cabrón en este ecosistema.
+Los músicos creo que pueden monetizarte de una manera muy, muy distinta a lo que están acostumbrados.
+Yo en lo personal he invertido mucho entender este mercado musical.
+Por algo traje a Sol a México, por algo también lanzamos un curso para música web acá en.
+Bueno, allá en Monterrey porque hoy estoy en Ciudad de México.
+Al ratito les cuento un poquito de cómo va el tour.
+Pero ustedes están construyendo el protocolo que puede también ayudar a que esto suceda y hay muchos, hemos visto muchas alternativas, hemos visto muchas plataformas.
+Ahorita una de las que la está rompiendo muy fuerte y creo que son competencia de ustedes, es Story Protocol, se ha escuchado mucho sobre el tema, pero definitivamente la industria musical está rota, creo yo que está rota.
+Hay gente que dice no te metas, no hagas nada ahí, ¿Por qué?
+Porque es una mafia, porque es un desmadre, no te van a dejar hacer nada, pero yo creo que hay que meterse, yo creo que hay que estar, yo creo que hay que seguir construyendo y que hay que seguir promocionando este tipo de herramientas que le permiten a las personas y los artistas monetizar y llegar a otros lados.
+No sé qué opines, pero híjole, es un tema debatible, no genera polémica, creo.
+
+[Speaker 1 - 00:24:33]
+Yo de repente sí.
+Pues mira, de por sí el ecosistema donde ya nosotros, para nosotros es normal, es un ecosistema que genera debate en ciertos círculos, entonces ahora imagínate adentro de esos círculos meter otro ecosistema, eso es lo que está padre y eso es de lo que se trata también, o sea, de poder obtener esta información que es para todos, Yo te digo, soy productor de escuela y poder aprender que el código es como un idioma, como hablar chino o hablar portugués y aprenderlo de esa forma y poder comunicarte con una computadora y poder hacer piezas que necesitan los ecosistemas donde te mueves, creo que de eso se trata también, construir y utilizar y creo que esto está para todos, o sea, todos los que tengan curiosidad y ahora también más con la inteligencia artificial que es muchísimo más fácil aprender las cosas.
+Sirve para poder hacer estos cambios y.
+Y pues definitivamente es para también nosotros como artistas, creadores, tú ahorita creaste algo, es arte lo que acabas de crear o esa música, pues necesitas protocolos de cómo poder trackear esa pieza digital y cómo poder protegerte y cómo no dársela a X o Y persona y tener tú.
+Tus llaves y tener tú.
+Tu propiedad de tus cosas.
+De tus piezas firmadas desde tu.
+Desde tu wallet, desde tu usuario, desde tu humanidad por así decirlo también con esto de la inteligencia artificial.
+¿Y qué más?
+Lo de Story Protocol pues también es algo que valida mucho todo lo que estamos haciendo, entonces para mí yo lo tomo algo súper positivo que hay otro, o sea, este ecosistema ya es validado y es validado muy bien y hay pocos, entonces a mí me gratifica mucho y me llena de energía eso.
+Entonces pues más que una competencia también es un validador a todo lo que se está haciendo.
+También todo eso está en inglés y está en chino y bla, bla, bla.
+Y nosotros aquí podemos hablar en español para todas las personas latinas y pues que hablan español y también podemos hablar en inglés y podemos hablar en otros idiomas.
+Entonces, pues si, esto es por todo y no por los conglomerados que también hay que poner mucha atención quiénes son los que crean las plataformas, si es desde la gente o desde otros.
+Desde otros espectros.
+
+[Speaker 0 - 00:27:39]
+Definitivo.
+Creo que hay un mercado, creo que hay usuarios, creo que como dicen el famoso PMF Product Market Fit se está dando y hay varias herramientas por ahí que te permiten utilizar la propiedad intelectual de esta manera de monetizarla, de tokenizarla, obtener otro tipo de beneficios para los usuarios, etcétera.
+Y ustedes están haciendo algo similar con Apple y me encanta, me encanta.
+Platícame un poquito de Denver.
+¿Fuiste a Denver?
+¿Fuiste a buscar inversión?
+¿Fuiste a buschar networking?
+¿A qué fuiste a Denver?
+
+[Speaker 1 - 00:28:12]
+No fui definitivamente.
+¿Tú sí fuiste o no?
+
+[Speaker 0 - 00:28:17]
+Ahí anduvimos, estuvo muy divertido cómo no lo puedo negar.
+Yo iba buscando patrocinios para el evento que estamos organizando en Monterrey, por ahí en septiembre Ethereum México 2025 Viene Monterrey, vamos a estar haciendo un hackatón.
+Yo Fui a eso.
+¿Tú a qué fuiste?
+Y también por ahí estuviste repartiendo muchos stickers.
+Vi por ahí también la campaña de Get Amp.
+Cuéntame de Get Amp y el token que van a lanzar.
+
+[Speaker 1 - 00:28:47]
+Te platico ahí del token.
+El token va a ser de utilidad.
+Pero bueno, vamos primero a lo primero.
+¿Cómo estuvo Denver?
+Pues te digo, como inicié la conversación hace rato, estuvo muy bueno.
+Para mí todos son, todos son distintos y para mí este estuvo pues muy padre.
+Creo que teniendo un mercado un poquito lento, como yo lo veo, no es nada más es eso.
+No es como tan rápido como en otras ocasiones que todo mundo anda haciendo gambling y bla, bla, bla, no, ahorita es un poquito más lento, más conservador y pues obviamente afecta el precio si lo ves así, pero hay que tener en cuenta que siempre son las mismas monedas, la misma cantidad de monedas y no del precio en fiat.
+Pero bueno, pues creo que hubo personas muy interesantes que conocimos porque había gente que realmente estaba por alguna razón ahí.
+Como que siento que todos tenían esa.
+Hubo muchos eventos de esos mix de investor founder que fuimos, que tú me invitaste, que me conectaste con personas, de eso también se trata, ir a estos eventos es muy padre, donde te reúnes con personas en otras partes donde no es tu, no es tu sitio, entonces siento que es un poquito, se aprovecha muchísimo más el tiempo.
+Y bueno, personas muy interesantes.
+Creo que quiero platicar de esto, no sé si tú estés tan adentro Mexi de.
+La computación cuántica, pero de unas personas que.
+Vimos ahí en un evento que traen un proyecto de NFTs en una nube mental de una mente cooperativa.
+Entonces digo, ese tipo de personas siento que ya, o sea, piensan muchísimo más allá de la blockchain.
+Entonces es interesante, por ejemplo, ese tipo de personas que conoces o hasta tu usuario, el que le encanta tu protocolo y platica de qué es lo que haces, ya sin tener que decirle a la otra persona.
+Entonces eso es muy, muy, muy interesante.
+De todo tipo de personas.
+
+[Speaker 0 - 00:31:18]
+Pues tú.
+
+[Speaker 1 - 00:31:18]
+Ahí platica también mexicano, ahí al ratito les cuento lo de.
+Vamos a tener.
+Y un pool ahí platicando, ahí pueden tener información en la cuenta de Ampoll, pero ahorita les platico más.
+
+[Speaker 0 - 00:31:39]
+Y la neta, Denver estuvo muy padre.
+Como decía, yo iba con una misión, iba con un objetivo, Creo que eso es súper importante cuando la gente va a este tipo de eventos, que vaya con dos, tres, cuatro, cinco personas con las que quiera platicar, que traiga un producto o un servicio o una idea, pero desarrollada, no algo puntual, algo que se le puede ir a ofrecer a alguien.
+Muchos vamos o yo iba, yo me incluyo, yo he estado llenando años a lo largo de los últimos tres, cuatro años a este tipo de eventos y antes era así, me voy a la peda y me voy al desmadre.
+A veces doy pláticas, a veces no, no iba con un enfoque como el que fui en esta ocasión y como el, con, como el que he estado usando en los últimos dos años, porque sí, definitivamente sí he cambiado la dinámica y creo que sí hay que ir con esas iniciativas, con esos productos, con esos servicios.
+Si uno nada más va a ver quién se topa, híjole, creo que no está tan chido y no se aprovecha tanto.
+Denver fue, yo creo que el evento más grande el que ha existido, yo creo que comparable con Consensus en Austin el año pasado, muchos stands un chingo de gente, pero creo que seguimos en una.
+En una etapa del mercado donde todavía es muy de nicho, o sea, la realidad es que es muy, muy, muy de nicho, ya estamos viendo como Trump dice y firma órdenes ejecutivas, donde Estados Unidos está ya con reservas de Bitcoin y que dicen que van a comprar un millón en los siguientes cinco años y que vienen regulaciones de stablecoins y que la SEC está dejando de mandar.
+Hay muchos cambios en los últimos años que creo que son buenos y que creo que van a mejorar el uso y la manera en la que la gente se protege con estas plataformas, pero seguimos siendo un nicho, seguimos siendo un nicho que es una herramienta y una tecnología difícil de usar, que todavía hay muchos temas de seguridad, ¿No?
+Acabamos de escuchar de hacks enormes de 1.400 millones de dólares, entonces.
+Y otra cosa, en los eventos a los que íbamos, o al menos yo en lo personal, me topaban los mismos casi en todos lados, o sea, si éramos veintitantos mil personas allá, pero.
+Es un grupito pequeño todavía, todavía falta mucho por hacer, no sé qué opines, pero la verdad me divertí mucho.
+Uno de mis eventos favoritos fue yo creo que el de Pizza DAO, otro.
+Ese meet up pequeñito con fundadores que organizó Beat Basel, el buen Jorge de Bit Basel, que nos conectó ahí con gente de.
+Ese estuvo bueno, estuvo muy bueno.
+Petit comité, güey.
+Chiquito.
+Una plática muy interesante de lo que está haciendo Metamask con su nueva tarjeta de crédito, de débito, etcétera.
+Creo que tú pudiste conectar, ¿No?
+
+[Speaker 1 - 00:34:33]
+Ajá, eso es súper importante, ¿No?
+Por ejemplo, esos eventos donde también hay personas que, por ejemplo, tú, uno que vende o hace un servicio y puedes conectar con ese tipo de personas, por ejemplo, creo que era como un head of product de Metamask y traía la tarjeta de crédito de metal, entonces como que empiezas también a tangibilizar ideas, también hay mucha inspiración si es por ese lado, pero ahí te va, también hay que verlo, siento que como de perspectivas, creo que Hay más de 200 eventos en Denver, hablando de las 20.000.
+Pero hay eventos de todo tipo.
+De entretenimiento, de ver películas, de videojuegos, de build.
+No sé, The Investor, founder, mixers, networking, raves, o sea, y creo que la gente también, todos los asistentes van por una razón y como dices, nosotros íbamos, yo en lo personal iba por inversionistas por ángeles, entonces pues iba directo, platicaba con, Oye, ¿Qué onda?
+¿Eres investor o founder?
+Founder.
+Bueno, ahí platicamos, al rato vamos con un investor, porque hay que ir muy enfocados.
+
+[Speaker 0 - 00:36:14]
+Es lo que hay que hacer, creo.
+
+[Speaker 1 - 00:36:17]
+Sí, o sea, y uno va por la misión y uno se aferra a la misión como todo, o sea, como lo que uno debe de hacer en la vida, o sea, aferrarte a las cosas.
+Y yo me acuerdo ahí que andábamos ayudándonos mutuamente ahí en el, en la expo, él trae a Sirio Monterrey.
+Oye, pero también acá Story Protocol y ya sabes.
+Entonces eso, eso también es muy bonito.
+
+[Speaker 0 - 00:36:43]
+Fíjate que esa dinámica me gustó mucho, donde íbamos dos personas con objetivos distintos, pero con relación laboral previa y a lo mejor tú estabas hablando con alguien, yo me acercaba y me presentaba, no, mira, este güey está organizando tal, tal, tal y tal.
+Yo así, cuando yo estaba con otro, llegabas tú, mira, si este güey está haciendo esto y ahí se quedaba, no me quedaba y le seguíamos en lo nuestro, ¿No?
+Y era un tema de 10 minutos con uno, 10 minutos con otros, 10 minutos con otro y a ver qué intercambiamos de contactos.
+Hay veces que hasta links mandaba yo de los pitch decks que teníamos para lo del evento, etcétera.
+Creo que funcionó muy bien y mucho mejor que si fuera yo solo.
+No sé, ¿Tú qué opinas?
+
+[Speaker 1 - 00:37:25]
+Sí, pues sí, es más fácil una interacción cuando tienes como a un wingman de que uno nos vamos, vamos haciendo introducciones cada uno con el tipo de persona con el que es afín, con el que tiene empatía y conectamos bastante buena esa dinámica.
+Esa también.
+El año pasado que fuimos con Ampol también, Kenny fue el que se lanzó a hacer interacciones, Yo me fui con un developer, hacer el hackathon con Manuel, Manuel Rivera, que es parte de la comun también de cripto, bueno, de la web.
+Y ahora eso es muy importante.
+Lo que platicabas que dices es que es muy chiquito, pero creo que hay que ver también hacia las audiencias, hacia dónde enfocamos lo que estamos creando, hacia dónde queremos llegar.
+Por ejemplo, yo lo que ando buscando en lo personal es ya ser el chain abstraction de todo esto de protocolo para poder hacer que la plataforma sea muy, muy fácil de usar dentro.
+De esta evolución, como digo, de la web 2 a la web 3.
+Porque si tratamos de educar a todas las personas de Oye, no, o sea, es un poquito complicado.
+Creo que es mejor que nosotros que sabemos que esta tecnología puede ser abstraída y que puede ser invisible para los usuarios finales porque es una tecnología así como por ejemplo siguen existiendo.
+Estas expos de web, de clouds y no sé, ellos no están enfocados a que la masa llegue a crear cloud, sino que la gente use esto y es más o menos lo que como yo veo esa perspectiva de que nosotros como comunidades fuertes, nicho, podemos llegar a muchísimas más audiencias, a lo que vemos en nuestra vida diaria.
+
+[Speaker 0 - 00:39:30]
+Si, no, totalmente de acuerdo.
+Totalmente.
+¿Bueno, Cuál fue tu side event más chingón?
+¿Cuál te gustó más?
+
+[Speaker 1 - 00:39:39]
+Mi side event más chingón el de.
+El de Mi Lady, obvio.
+Obviamente el de Mi Lady estuvo muy.
+
+[Speaker 0 - 00:39:49]
+Bueno, no lo puedo negar, muy divertido.
+
+[Speaker 1 - 00:39:53]
+Es de los más divertidos y creo que es hasta un convertidor a muchas personas que entran a ese rabbit hole y me encanta a mí, yo creo que ese es de mis favoritos y obvio, uno debe de tener diversión, yo iba con mis objetivos pero sabía que tenía que asistir a ese rave, entonces pues para mí ese fue mi favorito en cuestión de tecnología.
+El que hicieron en Sosu House, el barbecue, a mí me encantó esa vibra donde fue que hicieron un barbecue con comida espectacular, con bebida espectacular, una vibra muy cozy porque era en una casa con fogatas, ese me encantó, me encantó y poder conectar ya con personas en esa parte también como más amigable, mucha gente de México también es súper, súper padre ver a nuestra gente, a nuestra sangre andando por allá, eso es súper padre.
+
+[Speaker 0 - 00:40:59]
+Hablando de la carga fuerza, me pones la bolita así perfecta para que le meta el hitazo.
+Y como dices, no fue en Sosu House, un hacker house que organizó Mantle con la Banda de Sosu.
+Este, por ahí está el buen Beer y el buen Dr.
+GM, la verdad dos de los host más chidos que me ha tocado experimentar.
+Por ahí estaba Ben también de Manto, el que vimos ayer acá en el evento de Bitso y que estuvo también en Monterrey.
+Yo aproveché esa carnita asada para invitar a toda la banda latina.
+Yo había cumplido años el 26 de febrero y la carne asada fue como uno o dos días después, creo que fue el 28 y que no.
+Recuerdo.
+Entonces, bueno, aprovechamos para festejar mi cumpleaños.
+
+[Speaker 1 - 00:41:50]
+Sí, sí, sí, sí, es cierto.
+Está bien.
+Estuvimos festejando tu cumpleaños por allá.
+Estuvo súper bueno eso también.
+
+[Speaker 0 - 00:41:56]
+Y la neta, la carnita la armaron muy chingón.
+Yo creo que pasó por esa casa.
+Pasaron por esa casa unas 500 personas, todas comieron.
+Al final el buen doctor J lanzó un sacó.
+Unos cortes añejos de no sé cuántos días, güey, con una temperatura así perfecta, Rosita en medio.
+Deliciosos.
+No sé si te alcanzó a ti a probar.
+Qué buena cocina.
+
+[Speaker 1 - 00:42:23]
+Yo estaba en mi networking Mex.
+O sea, yo solo comí.
+Ya no, estuvo muy rico todo.
+La verdad.
+Si disfruté mucho la comida, porque la verdad es que también en los id ben Santé.
+Bueno, ¿Sabes cuál también estuvo espectacular?
+Mexica, déjame te quiero preguntar.
+¿Cuál fue tu favorito?
+Yo sé en uno donde estaba súper feliz como niño.
+Como niño en juguetería.
+A ver, cuéntanos.
+Eso.
+
+[Speaker 0 - 00:42:53]
+Madres, madres.
+¿Cuál, güey?
+
+[Speaker 1 - 00:42:56]
+El casino Mexi.
+
+[Speaker 0 - 00:42:57]
+El póker.
+Sí, siento.
+El casino de Stellar estuvo increíble también.
+Sí, cierto.
+Estuvo muy chido.
+Fue en el Acuario.
+Separaron un área enorme en el Acuario por ahí.
+Pues yo he estado apoyando a Stellar, y soy parte del programa de embajadores en México, y estoy apoyándolos a que muchas más bandas se inscriban a la iniciativa.
+Con ellos fui a Oaxaca, con ellos fui a Tlaxiaco.
+También organizamos un meet up en Monterrey como parte del tour de Banda Borracho.
+Y si, conseguimos entradas al casino.
+Estuvo chido porque llegabas, te daban unos, creo que mil o quinientos puntos, y tenías que jugar, tenías que sentarte a jugar en la mesa de póker.
+Yo estuve jugando un rato en la mesa de póker.
+Ahí me aburrí un poquito.
+Luego me fui al Blackjack.
+Lo que más me divirtió fueron los dados.
+A mí me encanta la dinámica que se puede hacer en los dados, porque hay una persona tirando dados, pero todos los que están en la mesa, que podemos llegar a ser como diez, quince personas, podemos apostar en esos tiros.
+Y si el que está tirando el dado tiene una racha de mucha suerte, puede hacerle un dineral a todos los que están ahí.
+Entonces se hace una camaradería, se hace un tema de todo.
+Estar gritando cuando pegan y lamentarse cuando perdemos, güey.
+Estuvo muy chingón, no sé si te tocó a ti traer al Craps a la mesa de Craps, güey, pero lo padre es que con esas fichas luego ibas a intercambiar la merch y la merch estaba muy chida, no sé tú qué opines, pero estuvo chido.
+El gorrito ese de North Face de Stellar, increíble, de los mejores merch que hubo.
+
+[Speaker 1 - 00:44:38]
+Sí, es eso, ¿No?
+De que sí, también le echaron muchísimas ganas al evento, eso de poder estar jugando y tenía una fiesta dentro de un acuario, o sea, esas cosas la verdad, solo pasan en la web 3, o sea, son cosas que, por ejemplo, en NFT, en.
+Y si alguna vez me tocó una fiesta en una reserva de diamantes de Coinbase, o sea, una fiesta masiva, o sea, de miles de personas, pero en una reserva donde tenías que firmar antes de entrar, Vale la pena aprovechar este tipo de experiencias también, o sea, cada vez las Foundations son más innovadoras como cada evento, Eso es lo que yo digo, o sea, tal vez no hay tanta gente, pero los eventos también son más, más interesantes.
+¿Y si, esa, esa del casino igual, no sé, yo quiero preguntarte cuál fue tu favorito?
+¿Cuál fue tu evento favorito?
+Pero ese del casino estuvo espectacular porque la gente sí se emocionaba, o sea, yo, ¿Te acuerdas?
+Estábamos jugando en una mesa y le metimos bastante, perdió uno y gritó y todo, o sea, de que sí, sí se emociona la gente, o sea, no existe web 3, o sea, es poca, a mí me encantó, y bueno, también la comida estuvo muy buena, hamburguesas, bla, bla, bla, espectacular.
+Pero ¿Cuál fue tu favorito?
+
+[Speaker 0 - 00:46:10]
+Estoy entre la carne asada, el casino y el de mi Lady, la neta sí estuvo muy bueno en todos lados, comida gratis, en todos lados, pisto, lo que querías.
+En todos los miembros a los que iba, yo ya iba enfocado en una otra plática o una o en otra persona con la que quería platicar, y en todos pude platicar, no pude conocer al líder de Plum, que es el L que está manejando el tema de Real World Assets, en otro conocí a gente de Stellar, no sé, no sé.
+El de pizza también estuvo muy bueno, hasta porros regalaron ahí, cabrón, todo ch.
+
+[Speaker 1 - 00:46:46]
+Ese no fui, el de Pizza Dow, ese sí me lo perdí.
+Pero si, o sea, eventos, eventos muy buenos, vale la pena, pero bueno, así es cuestión de, como lo decía, todos tienen un objetivo, hay unos que entran, hay unas personas que entran y pues van a las fiestas, hay otros que van por inversión, hay otros que van a buscar equipos, a buscar colaborar en la web y también hay muchas compañías dentro de la web que van a Denver a buscar desarrolladores, gente de negocios, porque también dentro de marketing, diseñadores también es muy inspirador porque ves los boots, ves la merge y pues eso es muy inspirador para cada ojo de acuerdo a su a su rama, a su enfoque.
+
+[Speaker 0 - 00:47:42]
+¿No?
+Definitivo, creo que hay para cualquier gusto.
+Proyectos de todo tipo, me gustó mucho Kit Denver era pues casi creo y lo puedo asegurar, agnóstico de cadena, uno de los principales sponsors de las fiestas era Polkadot, otro fue otra red que tampoco se pareciera tener mucho que ver con Ethereum y todo lo compatible, entonces está padre, yo tampoco conocía la historia de ese evento, es totalmente distinto y ajeno a la fundación, totalmente distinto, ajeno a IT Global, que es otra institución privada totalmente ajena, ellos son un grupo que lleva ya años organizando ese evento y con una dinámica y una manera de manejarlo muy distinta a lo que estaba acostumbrado y eso me gustó mucho, la neta sí me gustó y yo creo que sí repetiría, no sé si tú repetirías a Denver, yo repetiría todos.
+
+[Speaker 1 - 00:48:39]
+Los eventos de cripto.
+Me encanta, me encantan, me encantan.
+Y ahí está Patrick, se acaba de conectar Flipped, también conociste a Flip, él es un artista de la vieja escuela digital también, yo lo conocí en el 2021.
+NFT NYC, nos conocimos en una fiesta de Infinite Objects cuando ellos empezaban a sacar sus marcos para los NFTs digitales y era una fiesta de jazz pequeñita.
+En la avenida Broadway en Nueva York y ahí conocí a Flipped, ahora es uno de mis mejores amigos, ya cuatro años atrás, es músico de Mickey.
+Me ha hospedado siempre Nueva York, entonces son de esas también grandes amistades y grandes personas con las que puedes vibrar y hacer una muy, muy buena relación.
+También está diseñando en Ampoll, o sea es algo grandioso, también diseñó una portada para Mickey, o sea, es increíble estas personas con las que puedes ir congeniando dentro de esta comunidades, estos ecosistemas que son en el Internet que cada vez empiezan a llegar a la realidad.
+
+[Speaker 0 - 00:50:06]
+Un saludo, un saludo al buen Flip, que por ahí estuvimos conviviendo mucho también en Denver, muy buena onda muy callado mi compadre, pero a toda madre.
+Un beso.
+Beso, Flip.
+Oigan, yo aprovecho porque ahorita que platicaba buen rock de la carnita asada, si les tengo que contar al menos un minutito de lo que me tocó experimentar por ahí en la Hacker House de Sosu.
+A ti te tocó ir, tú conociste la casa, ¿Qué opinaste?
+Ya platicaste un poquito de lo de la Carnita, pero ¿Cómo ves la posibilidad de tener una casa llena de builders, de CEO, de fundadores.
+De personas que están desarrollando, gente que está muy metida con temas de inteligencia artificial, construyendo productos?
+La neta, a mí me encantó poder conectar con toda esa banda.
+Ellos juntaron 69 personas totalmente gratis, no tuve que pagar yo absolutamente nada.
+Me quedé ahí diez días.
+Todos los días había desayuno, todos los días nos daban de comer, todos los días tenían una plática informativa que decían que era obligatorio asistir.
+Pero fuera de eso, todo el resto de tu tiempo era tuyo.
+Entonces creo que son esas oportunidades y esos espacios donde puedes llegar a conectar con gente muy chingona.
+Y es algo de lo que quiero repetir acá en allá en Monterrey, cuando armemos el evento Ethereum México 2025, tenemos que tener hacker houses patrocinados por este tipo de protocolos como Mantle, vi otro que estaba patrocinando starknet por ahí estamos escuchando también que starknet va a llegar a una Hacker House a Monterrey próximamente.
+Ese tipo de activaciones están muy chingonas a un lado de estos eventos enormes como Itember.
+Entonces, algo así tenemos que lograr conectar con el evento enorme, con la Hacker House, con el side event, que se venga banda de todo mundo, de todos lados del mundo a conectar, a construir y conocer gente local.
+La neta, me abrió la mente muchas oportunidades de lo que vamos a estar planeando próximamente.
+No sé cómo lo viste.
+
+[Speaker 1 - 00:52:09]
+Definitivamente hay que traer a la gente de Estados Unidos.
+Ahora hay que hacer que México suene.
+Y creo que.
+Eso es gracias a buenos eventos y eventos donde integran también estos protocolos a sus propias comunidades.
+Por ejemplo, este de Solana Apex, yo me acuerdo que yo en ese momento me encontraba en el Super Team Headquarter de Canadá y mucha gente del Solana de allá de Super Team Canadá estaba moviéndose para México en esa semana y conect, o sea, porque tenían muchas ganas de conocer el mercado latinoamericano.
+Entonces, pues haciendo estos buenos eventos, con buenas alianzas, ese hacker house pudiera ser colaborativo con bastantes, no sé, crear algo impresionante, mexi, o sea, algo que llame mucho la atención a todo tipo de personas y pues sí, que esté muy enfocado a construir, a desarrollar.
+Creo que eso es lo que buscan con los patrocinios.
+Que más personas construyan dentro del ecosistema.
+Entonces también es importante.
+Que las blockchains hagan ese acercamiento a sus comunidades de otros países y que hagan ese onboardeo también a estos mercados, porque somos un mercado enorme por desarrollo dentro.
+De esta web.
+
+[Speaker 0 - 00:53:46]
+Definitivo, definitivo.
+Son cosas que hay que repetir.
+
+[Speaker 1 - 00:53:51]
+Cuenta conmigo.
+Ahí hay que hacer todos los esfuerzos para crear un evento así padre, un side event padre, varios.
+Como.
+Perdón.
+
+[Speaker 0 - 00:54:13]
+No, perdón, me entró una llamadita ya.
+Pero sí, definitivamente hay que repetir lo que hemos visto, hay que fomentar ese tipo de alianzas.
+Yo lo que he visto y lo que estoy viendo últimamente es comunidades locales aliadas con protocolos, con otro tipo de iniciativas, haciendo cosas en conjunto, llamando la atención en conjunto.
+Los artistas, por ejemplo, que están haciendo alianzas con marketplaces, con el protocolo, con la blockchain, y que todos al mismo tiempo hacen ruido, son los que más están, creo yo, moviendo inventario, vendiendo arte, conectando con gente, trayendo a builders, entrando a plataformas de este tipo, etcétera.
+La verdad, sí creo que hay mucho que aprender de lo que vimos por allá en Denver y me encantó, me encantó.
+Pero bueno, platiquemos un poquito del token.
+Cuéntame del token, ¿Qué onda con eso?
+Porque es uno de los productos que traen ahorita, ya próximamente lanzado.
+
+[Speaker 1 - 00:55:07]
+Sí, ya vamos a lanzar ese token en la primera semana, segunda de abril.
+Bueno, en abril.
+En abril vamos a tener un pool.
+Ese va a estar en Foundry Fjord a fin de mes, ese va a ser abierto.
+Es un token en base que le va a dar utilidad a todo el ecosistema.
+Y también buscamos validar e incentivar a todas las comunidades a que usen el protocolo y protejan su propiedad intelectual.
+Es un proyecto que ya lleva varios años.
+Están ahí en la cuenta de Ampoll, ahí les voy a compartir el linktree, Ahí pueden ver al equipo.
+Mi co founder, Kenny, es una persona que igual ha estado ya bastantes años en la web 3 y tiene experiencia con esto.
+Mi equipo de advisors, Sheldon Deers, que es uno de los creadores de Octopus Network dentro de Near Protocol, es uno de los pensadores brillantes y siempre ha estado apoyando detrás este proyecto muy, muy fuerte.
+También en la parte de música que hace que podamos llegar a más personas, está Blue Hamilton que es un productor muy reconocido en la industria musical, literal.
+Global, con Justin Bieber y todas esas personas, entonces también nos apoya mucho en podernos dar una visión de cómo poder llegar a muchísimas más personas.
+Detrás de todo esto ha habido un equipo bastante grande, Manuel también parte de las comunidades de web y bueno, también más personas que están dentro de las comunidades de Estados Unidos trabajando con el protocolo.
+Virgil y T, creo que, no sé si los pudiste conocer, no sé si pudiste conocer a más parte del equipo de Flipped, por ejemplo, en Nueva York nos está ayudando por allá, no sé si tú pudiste conocer a más personas del equipo mexicano, pero bueno, en fin.
+El token va a salir en base y vamos a tener un pool para todas las personas que quieran colaborar.
+Hemos trabajado esta parte del token bastante, con bastante cuidado por todo lo que ha sucedido, porque sabemos lo que representa tener un token, no es simplemente lanzar una shitcoin, o sea, conocemos muy bien esos escenarios mexi, o sea, son tokens que puedes lanzar completamente rápido, o sea, pero tokens que tienen fundamentos vesting y, o sea, calendarios que favorecen mucho a los usuarios y a la comunidad, al protocolo, porque Ampol es de todos, no sólo es de una persona, ni de dos, ni de Venture Capital, ni de, o sea, es de, de la gente, literal.
+Hemos trabajado los tokenomics adecuados y coherentes para que todas las personas puedan seguir construyendo durante cinco años más Ampol.
+Entonces, bueno, viene el token en base a principios de abril y vamos a tener ya un pool que va a estar abierto para todas las personas que estén interesadas.
+Es una plataforma transparente, todo transparente.
+
+[Speaker 0 - 00:59:01]
+¿Que le recomendarías a la banda que ya le llamase la atención, que está volteando a ver, que ya se metió la página y que a lo mejor podría llegar a comprar?
+¿Qué les diría?
+
+[Speaker 1 - 00:59:11]
+Pues que se acerquen.
+Que vean que es el protocolo, que utilicen la aplicación, que nos den feedback, que nos apoyen con feedback, o sea, eso es lo más importante.
+Escuchar a todas las personas que tienen otros ojos distintos.
+Nosotros ya, nuestros ojos ya están acostumbrados de años y años de construcción.
+Entonces todas esas personas que están interesadas y que les gustó esta parte del protocolo y quieren ser parte también de Ampol, pues me pueden escribir, pueden dejar un comentario, pueden.
+Seguir a Ampoll, mandar un tweet, mandar un deme, o sea, lo que sea para seguir llegando a más personas y que se den cuenta que esta parte es para.
+Tener más poder sobre la propiedad intelectual de los creadores, que los creadores tengan más poder sobre su propiedad intelectual y que sepan dónde están sus canciones, que puedan monetizar esas canciones fácilmente.
+Y obviamente, como te decía, queremos quitar esa parte tan visual de cripto, entonces bueno, de la blockchain, por así decirlo, hacerlo muchísimo más fácil.
+También no sé si, bueno, si conociste a Oleg de Sweat Economy, no sé si viste su aplicación, es una aplicación espectacular que te paga por caminar y literal muchas personas que no están dentro de estos ecosistemas de cripto tan adentro, así como tan interesados en la tecnología, simplemente usan la aplicación porque les pagan por caminar.
+Entonces eso está bueno.
+Quería tocar este tema por la parte de Chain Abstraction, de que hay que hacer las cosas muchísimo más simples y ese es el reto.
+
+[Speaker 0 - 01:01:13]
+Oye, sí, qué buen conecte ese también muy bueno que me lo hubieras presentado y que pudiéramos conectar.
+Yo creo que podemos hacer algo muy chido con él en el futuro.
+Founder de un protocolo que ya tiene un rato y que experimentado ahí muchas cosas, platiqué un rato con él, buena onda, hablo inglés, habla español.
+Ucraniano, creo que es el señor, ¿No?
+
+[Speaker 1 - 01:01:37]
+Sí, una persona muy preparada, Oleg, él en algún momento, no sé si ahorita, llegó a ser la aplicación que generaba más transacciones en NIR, simplemente por su simpleza y pues ha sido un emprendedor, creo que también eso es muy importante, que también muchas de esas aplicaciones que vemos también han sido emprendedores que no han dejado de construir y esa es su segunda, tercera aplicación, entonces pues también por eso es tan, tan exitosa, porque cada vez vas aprendiendo más de lo que uno experimenta en sus problemáticas diarias.
+
+[Speaker 0 - 01:02:14]
+Oye, algo similar estamos viendo con tu tocayo de apellido, con el buen Felipe Servín, con Sati, ya después de dos, tres, cuatro, cinco emprendimientos está ya anunciando levantamiento de capital con Team Draper, con Ricardo Salinas y es como tú dices, lanzar cosas, probarlas, jalan, no funcionan bueno, a la chingada de lo que no funcionó y pivoteamos y sabemos otra cosa nueva, utilizando obviamente el aprendizaje de los lanzamientos anteriores.
+
+[Speaker 1 - 01:02:42]
+Me acuerdo que yo conocía a mi tocayo de apellido porque lo vi en un banner o alguien lo vio en un banner de mi equipo y me preguntó si éramos familiares en un NFT en YC, que dio una plática y entonces ahí lo fui a conocer, o sea, con que me dio curiosidad y lo fui a conocer y después nos fuimos encontrando en varios eventos y él muy enfocado siempre, pues los dos levantando capital, aunque levantar capital, levantar capital, o sea, ese era el enfoque, enfoque, enfoque y si teníamos contactos también ahí que nos pudieran servir, pum, ahí.
+Y llegas un momento donde de la noche a la mañana y creo que eso es muy importante, o sea, si es de la noche a la mañana, literal, ¿No?
+¿Ese cambio donde te mandan ese mail y pum, felicidades, pero no es de la noche a la mañana porque son, son follow ups, por ejemplo, ese que me dices, no, pues en un futuro poder hacer algo con Oleg, son follow ups de seguir y seguir y seguir y diario estar diciéndole a esa persona, oye, oye y oye y oye y oye y oye, sabes?
+Hasta que te da el sí, pero ese es un proceso de no dejar, o sea, de seguir en el camino, porque el que dice, no, pues ya valió, pues ya se salió del camino, pero pues el que sigue viendo su pastel cómo anda creándose, pues es cuando ya llegó un güey y te dice, no, pues sí me gustó tu pastel y ya después a todos les empieza a gustar tu pastel y creo que eso es lo que, lo que le está pasando a este Servín, mi apellido está chistoso, pero este, a Felipe le está sucediendo eso de que también vi en SU, en el LinkedIn que tenemos la conexión también.
+Pues no sé, o sea, ya tener nombres de estos lead capitals como Ricardo Salinas, es alguien que te valida tu idea, que, o sea, ya porque la validó tío Richie ahí 20 capitales más atrás que te va, que les gustan las ideas del tío Richie porque es un buen inversionista, entonces pues es como tirar una gran pieza de dominó y la verdad es que me inspira y me pone muy feliz haber visto también Sati, está súper bonita su plataforma, muy fácil de utilizar, es una wallet en WhatsApp, simplemente por varios comandos escribes cuántos satoshis quieres enviar y se los envías.
+Es una forma fácil de usar Bitcoin.
+Entonces es algo.
+Algo padre, innovador.
+Y felicidades al colega Felipe Servín.
+
+[Speaker 0 - 01:05:22]
+No, ya no sé por qué nos desviamos un poquito.
+Pero bueno, regresemos al punto.
+Voy a hacer un breve reset y.
+No, aquí estamos controlando.
+Sí, voy a hacer un breve reset para invitar a la banda a que visite.
+Acá arriba los pins, los tweets que están pineados.
+
+[Speaker 1 - 01:05:40]
+Está.
+
+[Speaker 0 - 01:05:42]
+De derecha a izquierda el space del día de hoy.
+Está también la cuenta de Ampoll.
+Está la cuenta de Niki para que le den follow por ahí, que está trabajando con ellos y que es un músico que me gusta mucho cómo canta.
+Al ratito, en unos 5 o 10 minutitos, vamos a platicar de el evento que está organizando ICP Hub México.
+Estoy trabajando con ICP Hop México.
+Están patrocinando las iniciativas de banda web 3 y por ahí estoy subiendo más sus espacios e invitando a la gente a que participe en las iniciativas.
+Ellos traen un evento presencial en Ciudad de México el día jueves 20 de marzo.
+Está aquí arriba pineado.
+Y también les dejé el link para zona 3.
+Zona 3 es.
+La institución que está.
+Perdón, que está.
+Que es la incubadora oficial de Internet Computer Protocol acá en Latinoamérica.
+Están dando un curso y un taller de ocho semanas de mentoría, de conexión con expertos, de acercamiento con inversionistas para revisar opciones de financiamiento, impulsar startups.
+También tienen aquí arriba el link.
+Más adelante les voy a estar mandando más información sobre estas iniciativas.
+Empieza el 5 de mayo, así que todavía tienen mucho tiempo para empezarse a preparar para acercarse con la gente de zona 3 y con la gente de ACP por si quieren construir algo para que puedan participar en esa iniciativa.
+Y también, por último, les dejé aquí arriba el link al mapa que estoy utilizando para avisar de bandaweb.
+Por ahí rápido les platico.
+Empezamos con un meetup de Stellar en Monterrey el 29 de enero.
+Luego me fui a Oaxaca, me fui a Tlaxiaco, anduve por ahí en Solana Apex el 7 de febrero.
+Estuve un rato, un rato totote allá en Denver, en el Sotsu House.
+Hoy les platicamos un poquito de So House, el hacker house de Mantle, que me hosteó.
+Más de 10 días, donde aprendí, conecté con mucha banda.
+Y el 6 de marzo empecé ya el tour de el Grupo Seguridad Industrial.
+Ellos están moviendo efectivo para los bancos acá en México.
+Les estoy platicando de Bitcoin, les estoy platicando de la nueva Regulación del Ecosistema en Estados Unidos, de lo que está sucediendo con Trump y de las stablecoins y las oportunidades de negocio que yo creo que tiene el Grupo y sus clientes.
+Ha estado muy, muy divertido.
+Continuamos con un evento en Monterrey de Mantol el 7 de marzo y el 11.
+Hace unos días estuve en Cuernavaca, ayer estuve acá en Ciudad de México con Bitso el viernes, mañana voy a estar en Cancún y la próxima semana sigue el tour ahí luego les seguiré contando.
+Yo creo que le tengo que dedicar un espacio completo a platicarles un poquito de esa iniciativa, de cuáles han sido las preguntas de los banqueros, de los clientes, las dudas que han salido.
+La verdad están aprendiendo mucho, creo yo, y me he divertido mucho para para el tour y para platicarles de todo lo que está sucediendo.
+Es una chinga, no lo puedo negar, es una putiza, pero me encanta, me encanta, la neta, ha sido algo bien enriquecedor y que creo que puede ayudar mucho a que por qué no lancemos o lancen una stablecoin.
+Yo estoy empujando porque se metan en el mercado de stablecoins, porque se meten en el mercado de los cajeros.
+Ellos ya manejan cajeros, ellos alimentan los cajeros de los bancos y mueven el efectivo en México y les manejan las bóvedas y creo que hay unas oportunidades de negocio súper interesantes para el grupo.
+Y bueno, ahí andamos moviendo ese tema en el tour de nuevo, yo creo que me tengo que sentar aquí una hora y cachito para platicarles un poquito más el detalle.
+Yo creo que después de la reunión de mañana en Cancún y de la próxima semana en Ciudad de México y en Tijuana, les tendré más información de cómo ha sido la reacción de la gente que está escuchando esas pláticas.
+Pero bueno, Ro, algo que.
+Tenemos ya servicios o existen servicios mundiales con bóvedas que están metidas por allá en una montaña, tú vas a ver dónde, que cuidan llaves privadas, que custodian activos digitales y custodian las claves de acceso para acceder a millones y millones.
+Digo, hay mucho riesgo.
+Todavía no acabamos de escuchar esos 4.400 millones de dólares que se robaron hace poco de Bybit.
+He estado platicando con la gente de Bybit, Mantle está muy alineado con Bybit, y Bybit, ayer hubo un representante de ellos en el meetup de Bitso y estuvimos platicando un chorro y Qué locura, ¿No?
+Qué locura.
+Me comentan que no les ha afectado mucho, pero qué loco.
+
+[Speaker 1 - 01:10:10]
+Te voy a complementar tu anuncio del ICP, bro.
+Este es.
+Por favor, wey, están muy buenas.
+Nosotros nos apoyó también en la construcción de Ampoll, entonces este.
+Son muy buenas.
+Cualquier gran es muy bueno para construir realmente un MVP, o sea, no tiene pie.
+Es para mostrarle a la siguiente persona.
+Algo tangible, no sólo un unos slides, porque es un poco complicado dar el siguiente paso con solo unos slides, ya que tienes ese apoyo de esos grants para poder crear, sea mucho el gran, sea poco el grant, crear algo con eso que ganaste más el apoyo.
+La blockchain también te puede seguir dando grants y te puede seguir apoyando en tu desarrollo como desarrollador, que eso es muy importante.
+Eso también es lo que buscan, que ellos no piensan solamente a corto plazo, sino que piensan a largo plazo, entonces también buscan que sigan construyéndose dentro de los ecosistemas.
+Y hay que participar en esos hackathons, en esos grants, etc.
+
+[Speaker 0 - 01:11:24]
+Definitivo, definitivo.
+Son iniciativas que yo voy a apoyar siempre y más lideradas por las personas que lo están liderando.
+En este caso la lidera Cristian Zambrano, Cristina, los Tona, que.
+No sé si te acuerdas, güey, pero cuando estuvimos en el hackathon de VARA en ITAM, ahí estuvieron, los entrevistamos, tú me ayudaste a editar esa entrevista, por ahí la tenemos en Proof of Value, cracks del ecosistema que han hecho un chingo de cosas por fomentar que haya más desarrolladores, que haya más personas fundando empresas, emprendiendo y que traen estos programas, que la neta yo se lo recomendaría.
+Participen, inscriban, son muy buenos.
+
+[Speaker 1 - 01:12:07]
+Es súper bueno eso porque sí, o sea, sí conozco, definitivamente, alguna vez platicamos, estuvimos juntas.
+Por lo mismo que estuvimos relacionados con ICP en su momento y estamos relacionados, entonces, como ampolla hablando, entonces ellos en algún momento también conocieron a Kenny, por ejemplo, estuvimos en alguna junta y son personas que sí ellos quieren apoyar a su ecosistema que es ICP, entonces pues sí, son muy valiosas esas personas y también esas personas se necesitan en otros ecosistemas para que esto se siga propagando, por así decirlo.
+Entonces.
+Hay que concursar y hay que seguir apoyando para que Latinoamérica siga creciendo.
+De eso se trata, no sólo de crecer una blockchain o una cadena, sino que se deployen todo lo que se pueda y en Latinoamérica.
+
+[Speaker 0 - 01:13:06]
+Definitivo, definitivo.
+Voy a aprovechar aquí un minutito antes de la última pregunta para saludar a Flip.
+Saludos Flip y a todos los que están por acá conectados.
+Veo a Miki que es músico, Ampol, por supuesto.
+Veo al buen Jorge que está haciendo un chorro de contenido, espacio bien chingones.
+Saludos a George Alan que siempre lo veo por acá en estos espacios, qué chingón ver por acá gente conocida.
+Al increíble Caro, un besote Caro.
+Hoy tiene ella un espacio en unas cinco o seis horas, vayan y revisen su perfil, están haciendo cosas muy chidas ahí con el Caro Show.
+Pulso Media que también tiene una serie de espacios muy, muy buenos con muchos creadores que soy fan.
+Veo a Mister Beo, a Superama.
+Superama tiene ahorita una colección enorme que están lanzando que se ha vendido como el 40%, vayan y vean el perfil de Superama, la neta la está rompiendo mi comadre.
+Veo también Alta, Alta lo conocí ahora, bueno, perdón, lo conocí desde hace rato, pero lo vi ahora que estuve por acá en Cuernavaca, nos me hostó la gente de Criptocuerna por ahí me recibieron con los brazos abiertos, me sentí como en casa, Increíble la comunidad acá de Cuernavaca.
+Un gran saludo al buen Tab.
+Hace rato por acá también veía a su amigo que ya no lo veo por ahí me platicó de un proyecto que traerá y luego lo tenemos que invitar a que vengan y participen.
+Chaps, que también hay un dúo por Denver, entiendo que participó en el hackatón y acabó ganando el track en el que participó.
+Échenle un follow al buen Chaps.
+Veo también a Happen que están haciendo una revista y una página de Internet para que la gente que está organizando eventos va y los publique en su plataforma y posicionar a más gente en el ecosistema apoyando un chorro de proyectos y a los demás que veo por ahí que no conozco, la verdad.
+Muchos, muchos saludos.
+Ro.
+Última pregunta.
+¿Cómo te puede ayudar la banda ahora que estás construyendo y que estás a punto de lanzar el token?
+¿Qué necesitas?
+
+[Speaker 1 - 01:14:59]
+Necesitamos feedback, necesitamos usuarios que usen la aplicación.
+Que nos den feedback, que nos ayuden a correr la voz y también cuenten con nosotros de este lado de Ampoll, nosotros abiertos a.
+Si uno tiene algo que aportar a Ampoll, nosotros también tenemos algo que aportarle a cada persona.
+Entonces hay que.
+Hay que hacer suceder las cosas.
+De eso se trata, de ayudarnos mutuamente.
+Entonces yo estoy para ustedes y Ampol también está para ustedes.
+Eso es todo, compañero.
+Un gusto por el espacio, amigo.
+Por darme micrófono.
+
+[Speaker 0 - 01:15:44]
+No, para esto son estas llamadas, para estos son estos espacios.
+Hace rato que no los hacía.
+Ya la verdad andaba con muchas ganas de platicar, de conectar, de hablar de Denver, güey.
+Pues convivimos mucho por allá, güey.
+Y la neta, creo que las experiencias y compartirlas creo que es súper importante para la gente que normalmente no puede ir a esos eventos o que está considerando ir así.
+Que chingona la plática.
+No estoy seguro si la semana que entra puede haber espacios.
+Yo creo que sí.
+Tengo que estar el 19 en Ciudad de México para la plática con el grupo.
+El 20 voy a Tijuana también para la plática con el grupo.
+El 21 voy a estar en Monterrey en un evento que va a durar todo el día que se llama Let Her Pitch.
+Voy a moderar un panel web entre mujeres que están emprendiendo y que están liderando la industria web en México.
+La neta, es uno de los eventos que más me está llamando la atención porque busca que empresarias y emprendedoras tradicionales aprendan de tecnología, aprendan de web, perdón, aprendan de web.
+Y va a haber una cena privada con inversionistas.
+Ella, la organizadora del evento, les ayuda a las muchachas, a las mujeres a conectar con inversión.
+Creo que ya han ayudado a levantar capital a proyectos web como el de Julieta, que trae una iniciativa ahí con los alibrijes.
+La neta, muy, muy chido lo que están haciendo.
+Van a estar en Monterrey, en el BBVA, en la Torre Park de BBVA, en el piso completito lo van a tener ahí para poder dar esas pláticas, esos talleres, esos paneles.
+La cena va a estar muy buena.
+Ahí les estaré platicando y mandando más fotos del evento el 21 de marzo allá en Monterrey.
+Pero bueno, vámonos.
+Ya es hora.
+Tengo que ir a comer.
+Y nos vemos al ratito en el concierto de imasol.
+A las 9 va a empezar el show.
+Ya por ahí tengo el acceso.
+Ando bien emocionado de ir al concierto, escuchar musiquita buena.
+
+[Speaker 1 - 01:17:42]
+La vamos a pasar genial, bro.
+Hay muy buenos artistas.
+Es un line up también de puras mujeres, entonces, muy, muy cool, muy cool.
+Let's go, bro.
+Ahí nos vemos al ratillo.
+Y bueno, también tenemos un montón de artistas por lanzar en Amphor.
+Artistas muy, muy padres.
+Ahí nos conectamos, ahí los sigo.
+Y a todos, gracias por quedarse a escuchar y por el apoyo, amigos.
+
+[Speaker 0 - 01:18:14]
+No, muchísimas gracias a los que conectaron.
+Estuvieron aquí desde el principio.
+Veo muchas caras conocidas y me encanta que apoyen este tipo de iniciativas.
+¿Finalmente lo que buscamos es difundir proyectos chingones, difundir a gente que está construyendo, que consiguen más usuarios, que consigan más apoyo, que consigan dinero, y por qué no?
+Que todos crezcamos juntos.
+Pero bueno, les dejo la última parte de Minds a una canción hecha por mí en Inteligencia Artificial.
+Próximamente voy a sacar un disco completo, estoy seguro.
+Me encanta este pedo del diseño de música y está bien divertido.
+Pero bueno, me voy.
+Nos vamos.
+Tengo hambre.
+Hasta luego.
+Esto es Mind to Be.
+Uy, algo pasó.
+A ver, tengo que bajar Rock.
+Ahí está.
+Seguimos.
+¿Mi celular se trabó?
+Sí, creo que si.
+Mi celular se trabó.
+Yo no quiero tocar la canción.
+Denme un segundito.

@@ -1,0 +1,905 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #N/A
+Título: BandaWeb3 #065 @BSmokes_ de @pistachiofi
+Fecha: 2025-06-17
+Host: @meximalist
+Tipo: hosted
+
+Descripción:
+BandaWeb3 #065 @BSmokes_ de @PistachioFi. Brian es el fundador de @PistachioFi, una aplicación para que usar e invertir en cripto activos sea muy sencillo. Acaban de lanzar su App para iOS y próximamente para Android, es un proyecto acelerado por @odisealabs.
+
+Duración: 01:10:37
+Escuchas: 67
+
+Links:
+  Space: https://x.com/i/spaces/1MYxNwdpAEbKw
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+[Speaker 0 - 00:00:00]
+Esta grabación.
+El día de hoy vamos a estar con Beastmokes de Pistacho Fi.
+Es una aplicación que te permite utilizar, comprar, vender, intercambiar.
+Transferir, hacer muchas cosas con cripto.
+Está muy sencillo, muy fácil de usar.
+La está lanzando en el App Store de Apple.
+Por aquí ya se está conectando, ahorita lo subo.
+Lo invito para todos los que están conectando esta grabación, ayúdenme con likes, con repos, comentarios, todo suma para que llegue a más personas.
+Voy a poner como siempre, Minds a Beast, la canción que normalmente pongo cuando empezamos estos espacios.
+Mientras hago invitaciones, hubo la otra cuenta, revisamos temas técnicos, comenzamos en breve.
+Gracias por estar por aquí.
+Esto es el primer sencillo de banda web hecho con inteligencia artificial.
+Bienvenidas, bienvenidos, gracias por estar por aquí.
+Empezamos en unos minutitos, estoy invitando a toda la banda.
+Si me ayudan con un like, con un repos, un comentario para llegar a más banda, todo suma.
+Edgar, Afi, saludos, la chica.
+
+[Speaker 1 - 00:03:52]
+Alan, ¿Cómo andas?
+
+[Speaker 0 - 00:03:53]
+Bienvenido.
+
+[Speaker 1 - 00:03:59]
+Empezamos en un minutito.
+
+[Speaker 0 - 00:04:00]
+Gracias por estar por aquí.
+To like Surpose to man.
+Bueno, bueno, eso fue Mindsa Beast.
+Gracias por estar desde el principio, por escuchar toda la cancioncita, espero les haya gustado.
+Vamos a probar aquí que esté todo bien comunicado.
+Brian, ¿Cómo estás?
+¿Me escuchas?
+Bienvenido, muchas gracias por estar por acá.
+
+[Speaker 1 - 00:05:35]
+¿Te escucho bien?
+¿Cómo me escuchas bien?
+Estoy usando mi micrófono nuevo, entonces ojalá que me escuchas bien.
+Este es mi primer espacio en español, entonces discúlpeme si tomo tiempo hablar algo, decir algo, es obvio, estoy muy acostumbrado a hablar en español, pero en el espacio, no sé, quizás de frente, quizás es normal.
+Vamos demos.
+
+[Speaker 0 - 00:06:06]
+No, Muchas gracias por aceptar la invitación y por venirnos a contar de tu historia, porque se me hace una historia bien interesante.
+Por ahí les puedo platicar rápido a la banda que por aquí nos escucha.
+Conocí a Brian hace creo que un par de años, después de un evento allá en Ciudad de México.
+Dos años, ¿Verdad?
+
+[Speaker 1 - 00:06:26]
+Sí, ¿Verdad?
+
+[Speaker 0 - 00:06:28]
+Y ya tienes un rato viviendo en Ciudad de México, emprendiendo y construyendo desde ahí.
+Y la neta, pues qué chido que ya hayan lanzado su aplicación, que esté ya en el App Store, por ahí la bajé y les vamos a poner aquí arriba los links para que vayan y la descarguen.
+La prueben, la utilicen.
+Es una aplicación, se llama pistachiofi, ya nos estará contando Brian, pero qué chingón, qué chingón poder ver cómo ha seguido desarrollando, ha seguido construyendo, yendo eventos, conectando con gente, haciendo alianzas y ahorita pues ya están lanzando la aplicación que se puede utilizar, que ya todo el mundo puede descargar y que creo que ya tiene números muy locos.
+Cuéntanos un poquito de ti, Brian, ¿De dónde eres?
+¿Cómo acabaste en México?
+Por supuesto.
+¿Cómo acabaste en la web?
+Un poquito de tu background, por favor.
+
+[Speaker 1 - 00:07:21]
+Hay mucho aquí, pero.
+Primero gracias por las felicidades, Tuvimos como números locos, pero todavía necesitamos mejorar, crecer y solo estamos empezando, ¿Sabes?
+Como ese es el principio.
+Pues soy de Nueva York, originalmente de una isla, se llama Long Island y estudié español en mi escuela, viajaba mucho.
+¿Y qué pasó?
+Es que fui a Eid, Bogotá hace tres años con un amigo a hacer el hackathon y íbamos a movernos allá a Colombia porque queríamos construir algo, hacer un negocio y vivir fuera del país.
+Y estamos pensando en esa, pero de repente mi amigo me llamó como Nahue, no quiero ir a Colombia, es demasiado porque estamos pensando en Medellín, es como es demasiado viajero, es demasiado fiesta, queremos algo, algo, así que podemos enfocarnos en crecer y crear y trabajar, ¿Sabes?
+Y entonces me dijo como ah, he estado viviendo en en la Ciudad de México, me encanta la energía, me encanta la gente, la gente son muy trabajadores, trabajadores.
+Y me vendió con eso.
+Yo tenía 32 años en esa época, ahora tengo 34 o 31 cuando paso y quería enfocarme como sentarme, estar más estacionado y trabajar muy enfocado.
+Y entonces sí, fuimos aquí como hace dos años y media.
+Yo iba a quedarme por seis meses, era el plan.
+Y en mi segundo día encontré con mi novia, me caí en amor y claro, me quedé.
+Entonces estoy aquí.
+Me mejoró el español muchísimo.
+Claro, creo.
+Siempre la historia es como alguien que viva fuera de su país por tanto tiempo, es como encontré.
+Un niña, una niña, un niño, lo que sea, ¿Sabes?
+Siempre es el amor que trae la gente.
+
+[Speaker 0 - 00:09:42]
+Oye, ¿Dónde es tu novia?
+¿Es mexicana?
+¿Te enamoró mexicana o de?
+
+[Speaker 1 - 00:09:46]
+Sí, sí, sí, Mexicana del sur, pero la ciudad.
+
+[Speaker 0 - 00:09:50]
+Excelente, excelente.
+No, qué chido.
+¿Siguen juntos?
+¿Cuánto lleva ya con ella?
+
+[Speaker 1 - 00:09:58]
+Pues dos años y medio.
+¿Sí sabes?
+Porque el mismo tiempo que he estado aquí solo tenía dos días.
+Libre hasta que la conocí.
+
+[Speaker 0 - 00:10:11]
+Excelente.
+No, qué chido.
+Sí, por ahí sé que desde ese entonces que estás en México estás construyendo.
+¿Cómo ha sido la experiencia de desarrollar una aplicación de este tipo.
+Desde México?
+¿Cómo has visto el tema de los conectes, el networking?
+Fuera de que si la ciudad es muy buena y que hay mucha fiesta, No sé qué es lo que a ti te guste, pero en específico en el caso del desarrollo, ¿Como lo has visto?
+
+[Speaker 1 - 00:10:38]
+Sí, es que.
+Creer construir la aplicación es dificilísimo.
+Es una de las cosas más difícil que he hecho en mi vida.
+Solo también porque solo los dos de nosotros ahora tres, pero podemos hablar de luego.
+Ese es un desarrollo nuevo.
+
+[Speaker 0 - 00:11:04]
+Venga, venga, Alfa.
+Yo me quedé en que eran dos.
+Qué bueno que ya contrataste una persona adicional.
+Excelente.
+
+[Speaker 1 - 00:11:11]
+Sí el tercero es mexicano.
+
+[Speaker 0 - 00:11:14]
+Venga, venga.
+¿Lo conocemos o no lo conocemos o todavía no nos puedes decir?
+
+[Speaker 1 - 00:11:18]
+Si, no sé, es que estamos en un trial de dos semanas, pero es un buenísimo fit por nuestro equipo.
+Tiene la mentalidad.
+Que queremos, que tenemos también como muy trabajadores y es un watching gun.
+Es como.
+Es muy.
+Es un superstar desarrollo.
+Desarrollader.
+¿Cómo se dice desarrollador?
+
+[Speaker 0 - 00:11:47]
+No todo inglés es muy bonito.
+Español.
+
+[Speaker 1 - 00:11:50]
+Si no me vas a enseñar, mejorarme también.
+Estamos aquí aprender, sabes, es como de la aplicación del español, inglés, no sabemos.
+Pero sí que me encanta de crecer aquí.
+Es que la gente está muy apoyando la comunidad web.
+Son muy apoyando.
+¿Qué pasa?
+Es como.
+Aunque soy gringón, soy el gringo chingón.
+¿Es como la gente, la gente porque yo intento asimilar la cultura, sabes?
+Es como mi español es más mexicano.
+Yo quiero vivir la cultura aquí más el güey.
+
+[Speaker 0 - 00:12:34]
+Ya traes bien dominado el güey.
+¿El güey lo usas muy bien.
+Y.
+
+[Speaker 1 - 00:12:40]
+La gente.
+Lo ve, sabes?
+Es como.
+Y ese me encanta.
+¿Es como me hace un buen venido a la cultura y estar muy emocionado por qué estoy construyendo, porque yo creo que no hay algo, una aplicación así que está enfocado en el mercado mexicano y también tiene los builders más como boots on the ground, sabes?
+Que están en la comunidad, que están con la otra gente y construyendo del dentro.
+Y eso es que me encanta.
+Me apoyan mucho.
+Ellos quieren descargar la aplicación, usarlo, ser campeones y por eso yo quiero como mi go to market está aquí.
+Es que yo quiero hacer algo por México, por los mexicanos, hacerlo más fácil.
+Es que por ejemplo es muy difícil mandar dinero a otra gente aquí en México, ¿Sabes?
+Es como.
+Mándame dinero, dame tu clave de 16 números y tu número de banco y 10.
+No mames wey, es como mejor si tienes, tienes un usuario y yo puedo mandarte el dinero por cripto, por gratis, sin impuestos, sin nada, pero es como, todavía necesitamos mejorarlo, vamos a localizar la aplicación en español todavía no es, pero va a estar pronto.
+También como quiero introducir.
+Un intercambio a los perros mexicanos dentro de la aplicación también que puedes mandar dinero a tu amigo y.
+Puedes como input pesos en vez de dólares, algo más localizado a veces como el defi es global pero la adapción es local.
+
+[Speaker 0 - 00:14:41]
+¿No?
+Y hemos visto ahorita cómo están, o sea, está empezando el hackatón de Bitso con MXNB, está empezando también una campaña o ya lleva rato una campaña con Etherfields que también son gringos chingones como tú dices, que están haciendo muchas cosas aquí y que se han metido a conocer el ecosistema, que han venido eventos, que han convivido con la comunidad y platican constantemente con ella como tú.
+Eso se me hace muy loco, que ya estamos viendo diferentes iniciativas, empezar a moverse, empezar a ver cómo mejoramos la experiencia del usuario para que entrar y salir con pesos, con una clave sea muy sencillo, que mandes una transferencia y que automáticamente te llegue el cripto en tu wallet, Que mandes una transferencia en tu wallet y automáticamente te diga tu cripto a tu banco, Cosas que antes no podíamos ver porque las plataformas eran muy complicadas y ahorita ya estamos viendo estas aplicaciones funcionando y puta, o sea, qué mejor y qué necesario era poder tener esa facilidad de uso.
+No sé tú qué opines, ¿Cómo salió la idea de la aplicación?
+¿Desde hace cuánto la estás construyendo?
+Platica un poquito ese proceso.
+
+[Speaker 1 - 00:15:47]
+Uff, es que la idea lo he tenido desde 2017, 2018, como es como yo quería crear un banco on chain, ¿Sabes?
+Y es como, porque la gente ya no ha hecho, la verdad es que la infraestructura no estaba listo y ahora sí ya es, ya está.
+Entonces nosotros empecemos construirlo como hace dos años.
+Ahora empecemos con la idea de hacer un wallet muy seguro y esa es la seguridad, es la cosa más importante de nuestra aplicación es algo que no hacemos el marketing mucho porque es como la gente no se emociona por la seguridad, es más como solo lo quieres o solo te importa cuando es necesario, cuando algo pasa.
+Entonces es algo que es como nuestra aplicación es muy seguro pero está como abajo, como under the hood, como protegerte.
+Sin que necesitas saber.
+
+[Speaker 0 - 00:17:02]
+Para mí fue muy sencillo crear mi cuenta, hice la aplicación con un correo, me di de alta, me respaldó las palabras.
+Creo que en el iCloud entiendo que es non custodial, o sea la gente tiene custodia de sus activos y lo puede mover cuando quiera, que eso también en mi opinión es crítico en estas aplicaciones.
+Perdón, pero sí, en lo personal la verdad se me hizo muy sencillo escoger el nombre de usuario, etcétera.
+Por aquí ya les piné arriba el link de una vez aprovechando.
+El anuncio vayan y descarguen la aplicación acá arriba.
+¿Perdón, continúas Brian?
+
+[Speaker 1 - 00:17:40]
+Sí, sí, sí, es que es que la visión se creció, es que queríamos hacer un boleto y de repente estamos creando un banco como algo, algo con un visión más grande y empezó como ahora que puedes hacer es puedes depositar dinero a través de otro cripto.
+Tenemos algunos rampings muy chido que todavía estamos probando, pero uno es que puedes comprar cripto en el OXXO con efectivo.
+Pero no puedo, no había pensado que yo puedo usarlo quizás porque soy americano, no sé, estoy hablando con la gente a mejorarlo a ver porque, como, porque no funciona para mí creo por los mexicanos quizás si funciona pero pronto vas a poder comprar cripto en el oxxo en el 7, en BBVA a través de un depósito de SP.
+Es como ahora pero tiene las encuestas de 3 a 4 porcentaje, es demasiado alta en mi opinión todavía.
+Y como admito, sabes, es como, es algo que quiero mejorar.
+¿Y cómo vamos a mejorarlo?
+¿Una manera es que estamos buscando integrar como quizás Coinbase un ramping que no tiene impuestos, Nana zero fees y el otro es a través de, cómo se llama?
+Bridge que compró Stripe, sabes si lo conoces.
+¿Y qué podemos hacer con ellos?
+¿Y que vamos a hacer con ellos?
+Es que tu cuenta de Pistachio va a tener una cuenta virtual de ACH, de IBAN y de SPEC de los tres, así que puedes depositar de cualquier y la apuesta es menos que un porcentaje.
+Es como al principio va a ser como 75 bases points y va a bajar a 40 bases points y.
+Bajará también.
+
+[Speaker 0 - 00:19:52]
+Entonces tú puedes oye, eso es súper poderoso porque tenemos las piezas, poco a poco se han ido armando, pero antes no estaban esas piezas.
+Esa posibilidad que cada quien tenga un SPEI en su app para transferir, cambiar de inmediato a Estable mexicano o a Estable gringo o a Ether o a lo que quiera.
+Creo que es algo que cuando lo tengas te va a ayudar mucho a mucha gente y creo que es lo que faltaba muchas veces esas rampas, esas piezas de Lego para que todo sea más sencillo y que la gente con bajo costo, porque también he visto aplicaciones que como Tú dices, el 3.4% es mucho, o sea, no chingues, tenemos que mejorar lo que hay afuera que es un 2.
+Entonces.
+Interesante ya poderlo ver en este tipo de aplicaciones.
+Con la forma tan sencilla de crear una cuenta.
+No tienes ni que wide, recuerdo, no hay KYC.
+
+[Speaker 1 - 00:20:50]
+¿Sí, por algunas cosas como para descargar la aplicación, usarlo todo un chain, depositar de su otra cuenta de Unchained, otro boleto a todo así no necesitas KYC, sabes?
+Pero si quieres un AC, un SP, esas cosas, si quieres el On and Off ramping, muy bueno, si vas a necesitar que.
+Y sí es algo que está fuera de mis manos, es algo que sí.
+
+[Speaker 0 - 00:21:21]
+No lo puedes evitar.
+De acuerdo.
+
+[Speaker 1 - 00:21:23]
+Sí, exacto.
+Es como.
+Y yo solo, yo quiero que la gente.
+Solo necesita hacerlo una vez, como lo hagas una vez y tienes todo.
+Ser honesto es difícil en el background cómo hacer esas cosas.
+Es un desafío grande, pero es algo que estamos trabajando y vamos a mejorar mes por mes como.
+Viene, solo que vas a ver, vas a ver como la la evolución de la aplicación y cómo se crece, especialmente este año, especialmente porque ahora tenemos nuestra segunda desarrollader.
+Siempre estoy diciendo mal, no puedo desarrollar, desarrollar, no desarrollar, desarRollar, whatever, pero sí que tenemos la segunda way y tiene chingón de experiencias como.
+Es muy bueno, es un muy buen tipo, vamos a crecer rápido con él y crecer algo buenísimo.
+
+[Speaker 0 - 00:22:32]
+Oye, platícame un poquito del proceso de dos fundadores crear algo así de lanzarlo.
+Entiendo que mucho es bootstrapeado, o sea, ustedes están poniendo de su lana, sé que tienen y por ahí han publicado que tienen Aceleración de Odisea, no sé si tengan algún otro tipo de apoyo.
+Platícanos un poquito de esa parte de hacer una aplicación, de lanzar una empresa.
+
+[Speaker 1 - 00:22:55]
+Es el más difícil.
+Es como solo ser dos personas.
+Es qué bueno que complementamos.
+Nos complementamos muy bueno.
+Como él es Dev, yo no soy Dev, pero yo mantengo todo esto como el financiero, las operaciones, el marketing, el crecimiento.
+Y él ha crecido toda la aplicación.
+Solo es un Dev Superstar.
+El sitio es un superstar también.
+Entonces ahora tenemos dos superiores.
+Y que es fácil.
+Es como.
+El problema que siempre existe.
+Es como puedes tener buen producto, pero también necesitas buenísima distribución.
+¿Y para nosotros, que hemos hecho?
+¿Que he hecho?
+Es como, esto es fuerte.
+Que me encanta la marca que crecimos.
+Pistachio.
+Pistache.
+Es muy fácil recordar y eso me ayuda un montón.
+Como solo necesito decir a la gente una vez Pistachio o quizás a veces dos, tres veces.
+Pero es como en general al recordar una marca, la ley es que necesitan verlo siete veces, algo así.
+Y por nuestra marca es más dos a tres veces puedes recordar y ayuda un montón.
+For the brand awareness.
+Y que he hecho es.
+Yo fui a DevCon en Bangkok.
+Yo fui.
+Denver y encontré.
+Yo hablé a 700 personas entre los dos.
+He hablado con montón, montón, montón de gente todo el tiempo hablando de Pistachio.
+Tomo sus telegramas y he crecido la marca.
+El ex de Pistachio por la fuerza, por la dedicación, como la consistencia, como llegar cada día, hacer algo cada día y crecerlo uno por uno, por uno por uno.
+Hemos hecho cosas como días cuando tenemos más viralidad y como muchos.
+Seguidores como en un día.
+¿Pero es como no es algo.
+Que permanece, sabes?
+Es como el crecimiento de cuenta.
+Es estar aquí cada día.
+Creciéndolo y.
+
+[Speaker 0 - 00:25:42]
+Pero todo eso cuesta.
+¿Como le han hecho?
+¿De dónde salió la lana?
+Cuéntame.
+La lana.
+
+[Speaker 1 - 00:25:49]
+La lana.
+¿Que es la lana?
+
+[Speaker 0 - 00:25:50]
+El dinero para pagar todo ese tiempo.
+¿Quién está fondeando el proyecto?
+¿Es de ustedes?
+¿Traen VCs?
+Este.
+Si.
+Eso me interesa.
+
+[Speaker 1 - 00:26:01]
+Es que es muy bootstrap.
+Es que el año pasado ganemos una ronda pequeñito de ángeles y como ángeles buenísimos, como de Odisea.
+El Zero Ex.
+Como uno de nuestros ángeles.
+Es The Head of defi and a few others Como tenemos muy buen ángeles, pero no era tanto dinero.
+Y es esa y bootstrapping como de nosotros hemos crecido algo increíble sin el dinero, como con muy poco dinero.
+Y es algo que.
+Lo hizo muy difícil también.
+Pero es algo que va a ayudarnos en el futuro que vamos a tener mucho más mucho más de las acciones.
+Que otros proyectos y que creemos.
+
+[Speaker 0 - 00:27:04]
+El.
+
+[Speaker 1 - 00:27:04]
+Crecimiento de VC estamos muy abiertos a esa solo que cuando el tiempo está listo y es como tenemos una aplicación listo con 600 usuarios y es más que hemos probado que podemos hacer esa y ahora podemos crecer un seed algo así directamente para inyectar efectivo proyecto y crecerlo montón sabes podemos aprobar sin casi sin dinero sin muy poco y es una ventaja que tenemos que muchos otros proyectos no tienen creo es como es como persistir a través de las llamas como.
+Forge la alma.
+
+[Speaker 0 - 00:28:02]
+Qué métrica es la que más ves o sea número de usuarios, cantidad de dinero manejado, qué es lo que están viendo los VC qué crees que es lo que te pueda dar más exposición o sea ya tienes como dice 600 usuarios me imagino que estadísticas de volumen o de cantidad de dinero o sea qué es lo que andan buscando sí.
+
+[Speaker 1 - 00:28:21]
+Es usuarios y TVL como total value locked.
+Para nosotros porque somos.
+Un banco neo banco sabes es un boleto pero pureza es como usuarios y cantidad de dinero que la gente se ponen en la aplicación entonces es que estamos buscando ahora por favor descarga la aplicación pon.
+Cantidad de dinero que sientes cómodo a crecer en los Vaults y ahora tenemos 600 usuarios como 30 mil dólares en TVL y todavía es temprano solo hemos lanzado oficialmente por una semana.
+
+[Speaker 0 - 00:29:12]
+¿Qué puede hacer la banda ahorita?
+Qué puede hacer, dónde lo puede meter, cuánto interés está dando ahorita si quiere invertir.
+USDC o alguna de esas qué tanto hay ahorita en TBL No pero.
+
+[Speaker 1 - 00:29:27]
+TVL no interese sí es USDC hay un Vault de USDC que puedes invertir ahora creo es 6 5 porcentaje y este vault es muy chido es que hace es como una agregación optimizada es un Vault optimizado qué hace es.
+Como entre AVE, Compound, fluid, Morfo y busca cuál tiene la mejor interés y se mueve las fundas a cualquier entonces hay un poquitito más riesgo con esa voz porque hay más riesgo de smart contract pero.
+Está bien es como el riesgo no está tan alto por ese tipo de bot ya tiene mucho TVL.
+Entonces hemos buscado Vaults muy seguros para usar sabes es como de una empresa muy buena se llama IPOR y si es como no necesitas mover tus fondos en pre AVE o lo que sea depende del interés siempre estás ganando la mejor interés de puro lending como de pura presta.
+Es que hay otros, es que puedo.
+
+[Speaker 0 - 00:30:53]
+Pero tengo que hacer la pregunta, ¿Tú crees que sea suficiente un 6 7 para que en realidad sea muy atractivo?
+La gente que no conoce de esto.
+
+[Speaker 1 - 00:31:06]
+Depende, bueno como depende del riesgo que quieres tomar, sabes, es como este solo es el principio, ese es nuestro falta riesgo.
+Riesgo 1, sabes, es como que hacemos, es como.
+Te decimos el riesgo de cualquier vault y que vamos a hacer es ahora tenemos dos vueltas de riesgo low, riesgo baja, vamos a tener como más de riesgo mediano, riesgo alta y es como la verdad es cuando ves los apoyos de cosas que te dan 30 porcentajes son muy riesgos, es como siempre va a ser muy riesgo.
+Algunos están haciendo leverage, haciendo cosas muy bespoke como para crecer el APY siempre es un ley de inversión, es que.
+La más alta, el APY alman la más riesgo que estás.
+Entonces.
+Que vamos a integrar muy pronto se llama Plum, Plum es un cadena nuevo que tiene, es como rwas y que vamos a hacer es integrar esas Vaults que tienen.
+Interés entre 8 y 13 porcentajes y las cosas están backed by como.
+Blackrock, blackstone, pimco, cosas así.
+Va a ser una vault riesgo media creo.
+Si necesitamos hacer.
+Las analíticas todavía pero creo que va a estar como una vuelta mediana.
+
+[Speaker 0 - 00:33:06]
+Es que está interesante porque ya puedes empezar a ofrecer todos estos productos que están saliendo en redes nuevas como Plum, yo lo he probado por ahí estoy farmeando los puntos.
+Está interesante la manera en la que te presenta la información en la que creas la cuenta.
+Está muy sencillo hacer la cuenta rápido, puedes estar haciendo puntos, el puente también que están usando está muy fácil.
+Por ahí vi que ya tienen más usuarios que tienen que están holdeando rws que la L.
+Han hecho una estrategia interesante para pompear ciertos números y empezar a empujarlos en redes.
+Se me hace muy loco lo que están haciendo ellos, fíjate los de Plum.
+Pero pues si necesitas ese tipo de aplicaciones en un neobanco, en un nuevo banco, pensando en.
+El mercado en el que estás ahorita, mexicano, medio, clase alta, que son los que tienen dinero en exceso para invertir más o menos simplificando yo creo que lo veo como algo que les tienes que ofrecer, o sea y no quedarte nada más en el dólar.
+Yo me diría, no sé si estás viendo todas estas nuevas stablecoins del peso mexicano.
+Yo creo que puede tener ahí un.
+
+[Speaker 1 - 00:34:19]
+Eventualmente todavía no, pero que queremos hacer es hacer un partnership con Bitso.
+Ya hablemos y vamos a empujar su stablecoin mexicano.
+Así que la gente puede tener pesos en su boleto.
+Pistacho también.
+
+[Speaker 0 - 00:34:36]
+Ándale.
+Sí, ahí creo que es importantísimo que lo metas.
+Está ese.
+Está el de Etherfuse.
+Sí, sí.
+Ahí.
+Ahí yo creo que te puedes montar muy fuerte en una ola de gente que están empezando a mover temas y una nueva.
+Bueno, no nueva, pero el término defi mexicano.
+Ahí está la DAO, está la gente de Bitso.
+Etherfuse también se montó ya hace poquito.
+Espacio Cripto.
+
+[Speaker 1 - 00:35:04]
+Es que me encanta todo.
+Toda esa gente también como los ways de Espacio Cripto y Bando y Chippy Pay y todo eso es que me encanta que podemos hacer es como podemos crecer con los builders de México.
+Como por ejemplo, queremos tener una aplicación como tienda de aplicaciones mini que podemos integrar cosas como GPP y si la gente no conoce GPP, es algo que puedes pagar tus utilidades en cripto como directamente en vez de necesitar tener un QR, un código QR que nunca funciona y al menos por mí nunca funcionó y tomar ese código QR.
+Al OXXO y pagar en efectivo, lo que sea.
+No, puedes pagar directamente Chip y que vamos a hacer es ponerlo directamente en Pistachio.
+Así que tenías tu dinero seguro puedes crecerlo en nuestros Vaults y sácalo y pagar tus utilidades directamente de pistas.
+Todo ya.
+
+[Speaker 0 - 00:36:17]
+Si, está muy padre.
+Que ya estamos viendo.
+Bueno, yo lo que veo es todas estas diferentes iniciativas que hay fácilmente están.
+Bueno, sí, poco a poco estamos viendo cómo empiezan a integrarse unos con otros para dar más funcionalidad a las aplicaciones que hay por ahí.
+Y sí, como tú dices, en México se está moviendo mucho el tema.
+Vienen eventos también grandes, muy interesantes donde se pueden aprovechar para bombardear un chorro de banda.
+Bitso va a tener el evento en agosto de stablecoins exclusivamente.
+Nosotros aquí en Monterrey estamos planeando nuestro evento, el Hackathon Conferencias el 31 de octubre, 1 y 2 de noviembre.
+Para toda la banda que no había escuchado.
+Si hago un breve reset aquí para invitarlos a descargar la aplicación.
+Ya les puse aquí arriba en el Jumbotron está el link para descargarlo en el App Store.
+Por acá hay algunas preguntas, ahorita también te voy a hacer las preguntas que están acá abajo, pero provecho.
+Si, el evento en Monterrey un 31 de octubre, 1 y 2 de noviembre.
+Váyanlo separando, véngase unos días antes, unos días después, va a estar muy bueno.
+Brian, espero que vengas.
+Te tengo que platicar a ver qué podemos hacer acá para aprovechar lo sencillo que es la aplicación para bombardear un chingo de banda.
+Por ahí vamos a tener acceso a mucha gente totalmente nueva que está pasando en una zona muy transitada en los fines de semana por ahí, porque por ahí vamos a estar.
+Entonces creo que hay oportunidad de probar muchas cosas, o sea, de hacer muchas activaciones con gente totalmente ajena a cripto.
+Y probar porque finalmente creo que es lo que necesita una aplicación como la tuya, gente que la use, que dé retroalimentación, que suba los canales y mejore.
+Comente sobre qué mejoras o qué nuevos usos quisiera.
+Por ahí vi que estuviste platicando con Elian sobre a lo mejor integrar.
+Lightning.
+¿Qué le pedirías a la banda que está escuchando?
+Primero que nada que la descargue, que cree su cuenta.
+¿Pero qué necesita?
+
+[Speaker 1 - 00:38:21]
+Hay muchas cosas que necesitamos.
+Para, OK, empezar.
+¿Como ya sé, la pregunta que siempre van a preguntarme es When Android?
+¿Cuando Android?
+Y.
+Pronto.
+Estamos, estamos trabajando en esa, así que podemos.
+Deliver esa, entregar esa a la gente, porque ya sé que como setenta, ochenta porcentaje de la gente mexicana usan Android, entonces estamos probando muy dedicados en esa, entregar esa.
+
+[Speaker 0 - 00:38:58]
+Sí te soy sincero, yo le tuve que pedir permiso a mi esposo de usar su Apple para bajarlo.
+Me veía así con cara de hijo de tu madre, dame el celular.
+Pero bueno, lo puedes cargar este bajo amenaza.
+Pero si yo uso Android también.
+
+[Speaker 1 - 00:39:14]
+Pues, pues gracias por descargarlo, robar el celo de tu esposa por esa reja.
+¿Y que viene?
+¿Es que creemos que necesitamos feedback, sabes?
+Es que necesitamos la gente descargar la aplicación y dime que está roto.
+Si alguien está roto, dime y vamos a arreglarlo.
+El problema es que solo puedo probarlo tanto y algunos como edge cases que yo no puedo, yo no puedo activar a veces.
+Entonces estamos arreglando, todo está muy arreglado.
+
+[Speaker 0 - 00:39:54]
+Sistemas operativos raros o celulares viejitos, todo eso ayuda.
+¿Todas esas pruebas ayudan y tú no las puedes hacer porque mucha gente dice oye, pues por qué no prueban ellos?
+Es que si prueban, pero no pueden hacer todas las pruebas que la gente puede hacer ya con diferentes dispositivos, diferentes.
+Versiones de sistema operativo.
+Me imagino todo el tema técnico.
+Ahí entra el detalle de cada aparato en específico.
+No sé.
+
+[Speaker 1 - 00:40:20]
+No, exacto.
+Es como, es como no podemos probar todo, todo, todo.
+Hay siempre hay cosas que van a descubrir y hemos estado arreglándolos y ya está y podemos mejorarlo ahora poner nuevos, nuevos features, cosas y que viene es que somos muy manejados por los usuarios.
+Entonces si tú descargas la aplicación y.
+Yo me encantaría que tiene esa.
+Es algo que vamos a decir como bahía.
+Yo lo pongo en mi lista de cosas que está preguntándome la gente e intento entregar esas cosas primero.
+Entonces Android es la cosa más pedido y la segunda creo es apoyo por Bitcoin como Bitcoin nativo.
+¿Como puedes ahora puedes comprar Bitcoin encerrado sería, no?
+¿Bitcoin like wrapped bitcoin encerrado sintético, pero.
+
+[Speaker 0 - 00:41:22]
+En ET en las redes de Ethereum, no?
+
+[Speaker 1 - 00:41:26]
+Exacto, exacto.
+Porque ahora sólo somos el ADM, pero creo no está tan difícil integrar Bitcoin nativo con nuestra NPC wallet y vamos a integrar una manera que puedes hacer intercambio descentralizado entre Bitcoin y Ethereum como entre los dos sin custodial, algo como Thorchain o.
+Creo va a ser la manera Storch o algo similar.
+
+[Speaker 0 - 00:42:00]
+Pero sí, starknet por ahí está experimentando con.
+Expertos.
+Hay varias alternativas por ahí.
+Entiendo.
+Está interesante que ya podamos integrar Bitcoin de esa manera en wallets, en servicios, en inversiones como estas.
+Qué chingón.
+
+[Speaker 1 - 00:42:15]
+Sí, starknet es poquito difícil porque.
+La idioma es y no funciona bien con el EVM.
+Es como, es más difícil si estás construyendo startnet nativo es creo más fácil, pero para nosotros nuestra arquitectura sería muy difícil.
+Crecer en ellos.
+Desafortunadamente siempre estamos buscando como apoyar cualquier red que queremos apoyar lo más que podemos.
+¿Así que tú tienes una aplicación non custodial que puedes usar en Arbitrum Base, Bitcoin, lo que sea, sabes?
+Plum.
+
+[Speaker 0 - 00:43:01]
+¿Pero.
+
+[Speaker 1 - 00:43:03]
+Es difícil cuando está tan raro de nuestra arquitectura, sabes?
+
+[Speaker 0 - 00:43:11]
+No, de acuerdo, perfecto.
+Ese es un buen punto.
+No sabía que esa integración era más complicada.
+Otra de las preguntas que por acá nos hace Edimax.
+¿Se podrá ganar Yield y usar y su apoyar cripto solo sin KYC?
+Entiendo que sí, ¿Verdad?
+Para utilizar la aplicación.
+
+[Speaker 1 - 00:43:31]
+Sí, eso todo sin KYC, puedes hacer intercambio, puedes ganar interés.
+¿Además que puedes hacer?
+Es como mandar cripto a cualquier persona sin KYC también.
+Es que si Mexi tiene una cuenta, yo busco Mexi y yo puedo mandarle cripto muy fácil sin gas.
+Esos funcionan buenísimo.
+Ahora, como peer to peer transactions, si ambas gente tiene Pistachio, es muy fácil, no necesitas preguntar tu dirección pública.
+Capear y cómo se copy paste la dirección y todo eso.
+Es como solo puedes buscar ahora en pistas o Brian y mandarme dinero.
+No lo hagas.
+Yo prefiero que te mando alguna.
+Alguna.
+
+[Speaker 0 - 00:44:27]
+Mejor busquen Maxi.
+Mejor busquen Maxi.
+Manden a mí.
+Sí, mándenme yo.
+Bienvenido.
+Venga, venga.
+
+[Speaker 1 - 00:44:36]
+Sí, exacto.
+Mando, mando Etha, Mexi y así que puede probar la aplicación mejor.
+
+[Speaker 0 - 00:44:42]
+Venga.
+Me gusta, me gusta.
+Pruébenla.
+La neta, muy fácil de usar.
+
+[Speaker 1 - 00:44:49]
+Hagamos algo como.
+Es que si alguien.
+Hacemos una promoción, Si, todo en The Audience.
+Descarga Pistachio onboard ahora y pon su usuario abajo.
+Ponemos algo en el Jumbo Trun de Mexi, todos ponen su usuario y yo mando como 200 pesos, algo así.
+
+[Speaker 0 - 00:45:25]
+Venga, venga.
+El que haga la cuenta ahorita, suba aquí arriba su usuario.
+Va a haber una dinámica para ganarse unos pesitos.
+Solo necesitamos usuario.
+Está muy padre que sea de esa manera, más sencillo de enviar y si ya tienen los dos, la aplicación pueda enviar de manera gratuita.
+¿Es on chain esa transferencia o es este?
+Sí, debería.
+¿Como es mandé como, o sea.
+Si yo te transfiero de esa manera, se hace la transferencia on chain?
+
+[Speaker 1 - 00:45:58]
+Sí, sí, todo es on chain en la cadena que quieres, como si lo mandas en base, Arbitrum, Optimism, Mantle, ¿Que más?
+Polygon y Scroll.
+Es que apoyamos ahora, y si lo mandas sin gas, todo eso.
+Entonces sí manda los usuarios cuando la gente está descargándolo y lo mando alguien 200 pesos.
+Como 10.
+10 dólares.
+Si, no.
+Venga.
+
+[Speaker 0 - 00:46:32]
+Perfecto, perfecto.
+Dejen acá su comentario todavía tienen unos 15 minutitos, tienen tiempo aquí, vamos a seguir platicando.
+Otra duda que me pone Manny Reyes, Saludos.
+Comenta, si se habla que pusieron mucha importancia en la seguridad, ¿Qué seguridad da o qué fondo de recuperación de activos se tiene en caso de que falle el smart contract?
+Uy, ahí el riesgo de smart contract.
+Si lo metes en una bóveda, pues es el mismo que todos que metieron lana ahí.
+No es tema de pistacho, pero entiendo yo.
+Pero a ver que nos platique Brian tambié.
+
+[Speaker 1 - 00:47:07]
+Si, me encantaría hablar de la seguridad.
+Es que, OK, ¿Qué hacemos?
+Es cuando.
+Creo que no he explicado este en español todavía.
+Entonces espérame mientras lo hago.
+Es que ¿Qué hacemos?
+Es un multi factor authentication para descargarlo, ¿Sabes?
+Y que empezamos con tu correo o tu SMS y ese es un.
+Check de vivencia como Liveliness check y mandamos Montaigne password.
+Hacer seguro que tú estás en control de tu cuenta y cuando descargas la aplicación, que hacemos es guardamos la clave privada a tu móvil como al keychain y hacemos una.
+No tomamos la clave, pero tomamos dos como key shares como partes de la clave.
+Una parte va a tu nube, tu cloud to icloud.
+O G Drive y la otra parte va a nuestros servers.
+Ambos están encriptados.
+Entonces si alguien te hackea tu cloud y accesa parte de clave, es encriptado.
+¿Si rompen la encriptación, todavía está inútil, sabes?
+Porque no tienes las dos mitades.
+
+[Speaker 0 - 00:48:46]
+Y.
+
+[Speaker 1 - 00:48:49]
+En una manera, if they Manage to Hackyard dos mitades y romper la encriptación en los dos, ¿Qué pasa?
+Es todavía no pueden poner los dos 1 2 y es porque el usuario necesita.
+Inicializar la recuperación.
+Así que los dos pueden, pueden unir, pueden unirse y solo puedes iniciar esa con tu correo y también con tu biométrica o PIN, uno de los dos que usas cuando descargas la aplicación.
+Entonces es muy fácil recuperar tu clave si lo pierdes, si tu móvil está robado.
+Si lo pierdes, es muy fácil recuperar tu cuenta si eres tú.
+Si no eres tú, es muy difícil.
+No voy a decir que es imposible, pero.
+Hemos hecho como dificilísimo que alguien puede hackearte.
+Y también porque la clave está en tu keychain.
+Si descargas malware, no puedes accesar la clave.
+Solo pueden accesarlo si ya tienes malware en tu móvil.
+Descargas la aplicación siempre mientras está descargado, descargándolo, pero en ese punto tu móvil ya está como.
+Explotado, ¿Sabes?
+Es como en general no estás usando un móvil exploitado.
+Sí, es como hacemos la mantenimiento de la clave y todo, y para firmar alguna transacción necesitas tu biométrico o pin.
+Entonces es como no pueden.
+No puede.
+Si alguien no puede usar tu cuenta si no es tú y no puedes recuperar la cuenta si no eres tú.
+Es como hacemos la seguridad, todo y es como hay cosas que hemos escrito que puedes leer, es como usamos una empresa, se llama Portal.
+Y puedes encontrar esos post en nuestra cuenta de Pistachio en donde ponemos los detalles que puedes leer sobre la seguridad y todo eso.
+
+[Speaker 0 - 00:51:26]
+Es muy interesante ver que estas nuevas alternativas para proteger las llaves privadas como tú dices, Portal es un servicio que da esa posibilidad, ustedes lo tienen integrado en su sistema, todo eso tiene sus riesgos definitivos, no es imposible, nada es imposible en este mundo, creo yo.
+Si tienen acceso a tu aparato, Si, ve tú a saber, no hay maneras de.
+Pero.
+No es algo tan.
+Fácil de perder como antes lo teníamos.
+Tiene sus protecciones de todas maneras hay cosas encriptadas almacenados en tus cuentas.
+O sea es un neobanco, tiene su riesgo meterle lana, algo así, tiene su riesgo, todo tiene su riesgo, hay que leer términos y condiciones, toda la documentación que haya por ahí.
+Pero bueno, muchas gracias por la explicación sobre el tema de seguridad, definitivamente creo que es súper crítico.
+Aplicaciones de este tipo y más conforme vayan creciendo el TBL, pero nadie está expuesto, nadie está exento por ahí acabamos de ver un tema con la gente de Metapool que tuvieron un tema, un contrato.
+Esta aplicación agarra contratos de Uniswap y de otros proveedores de liquidez, eso tiene su riesgo.
+Ni yo entiendo bien cómo funcionan esos contratos, pero pues sí me he metido a verlos y ahí está toda la información disponible.
+Pero bueno.
+Ya nos desviamos un poquito del tema.
+
+[Speaker 1 - 00:52:57]
+La verdad es siempre en cripto vas a tomar riesgo, sabes como diferentes sabores de riesgo.
+Si vas a usar un boleto que tiene un sí de 12 palabras, el riesgo es que lo pierdas.
+Si tu casa se quema, algo así, o lo pierdes, las palabras olvidas o guardas en tu nube y no está encriptado o la llave está encriptado como he visto gente que tienen llaves encriptados en su nube y están hackeados todavía.
+Eso es porque lo hacemos en mitad de mitad y que no puedes ponerlo juntos sin la inicialización.
+Siempre hay riesgo de smart contract.
+¿La cosa es que tienen audits que los smart contracts que usamos, por ejemplo, usamos o cuentas inteligentes de Pimlico y Zero Dev y ellos son el más como uno de los mejores en el espacio, sabes?
+Como ellos tienen como millones de cuentas y todo eso y tienen muchos auditos y están muy.
+Están muy robustos.
+Sí usamos cosas.
+Buenas, seguros de nuevo.
+
+[Speaker 0 - 00:54:33]
+No, Pero siendo realista, así es el mercado.
+Yo ahora que empecé a medio probar con hackatones y hacer byte coding y probar aplicaciones, estoy usando servicios de terceros.
+Esos servicios de terceros dependen de ellos.
+Yo estoy subcontratando un servicio que me da a lo mejor información del servidor para mi RPC, para mis transacciones, o estoy usando la wallet que me da afterweb, o la de Privy o la de portal.
+Estos bridges también son servicios de terceros que uno va integrando y son piezas de rompecabezas que uno va integrando.
+Y está muy interesante construir de esa manera, pero también tiene sus riesgos y hay que meterse a investigar sobre qué piezas están en cada aplicación.
+Y nadie está exento.
+
+[Speaker 1 - 00:55:27]
+Necesitas.
+¿Necesitas confiar la gente que está construyendo, sabes?
+Es como que ellos tienen la mente poner la seguridad primero.
+¿Y mi sitio, yo lo tomo muy en serio y mi sitio lo toma más en serio, sabes?
+Es como siempre, yo prefiero la experiencia de usuario.
+Mientras tenemos.
+Algo por la seguridad, él está más enfocado en la seguridad de experiencia.
+Entonces es una balanza que tenemos y que hemos entregado con la aplicación.
+
+[Speaker 0 - 00:56:09]
+Excelente, excelente.
+Por aquí ya nos dejaron un usuario, ya lo opiné aquí arriba, el buen Alan BK creó su cuenta en pistacho fi tiene cero amigos, Denle un follow, porfa.
+Yo, Alan, te la debo porque no me quiero meter en la bronca de volverle a pedir su celular a mi esposa, así que mañana.
+Uy, perdimos a Brian ahorita, a ver si lo podemos regresar.
+Yo luego lo seguiré cuando tenga acceso celular.
+Déjenme subo acá a Brian.
+La neta, qué chingón ha sido poder platicar con Brian de su experiencia de vivir en México, de construir desde México, de ir a eventos, hacer conexiones, cómo han manejado.
+Tema de marketing.
+Ya lo tenemos por acá arriba.
+Si alguien más crea su usuario, déjelo por acá en sus comentarios para que entren por ahí en la rifa.
+Si no, se va a ganar la lana el buen alan.
+Usuarios de iOS Android todavía no está disponible, están desarrollándolo, estén pendientes.
+Tenemos por aquí el link también arriba por si lo quieren descargar.
+Échale perdón.
+
+[Speaker 1 - 00:57:13]
+¿Qué más ha instalado?
+
+[Speaker 0 - 00:57:16]
+Hacer una pregunta, No sé.
+Tú mandas de tiempo, yo también tengo unos 5 o 10 minutitos por si alguien quiere subir, hacer una pregunta.
+Yo aprovecho para avisarles.
+Estamos planeando unos eventos próximamente en Puebla y en Ciudad de México, cuando esté Bitso armando su conferencia sobre stablecoins en.
+
+[Speaker 1 - 00:57:35]
+Agosto, creo que ellos van a estar.
+
+[Speaker 0 - 00:57:36]
+28, 29 de agosto, se paren por ahí una tardecita, me encantaría por invitarte, no sé si yo no, si, definitivamente voy a estar por allá, estamos armando ahí un side event en esas fechas y también seguimos con la planeación para ET México 2025.
+Las fechas ya las tenemos definidas, el que no las haya escuchado, 31 de octubre, 1 y 2 de noviembre son las fechas oficiales de el Hackatón Conferencia acá en Monterrey, hemos cerrado ya patrocinios y alianzas muy duras, yo creo que ya por ahí posteó Don Pepe hace poquito algunas de ellas que no habíamos dicho, le valió madre, se nos adelantó al güey, pero no está bien para generar FOMO, ahí se pueden dar cuenta más o menos de dónde van a ser los espacios, qué es lo que vamos a tener, que se está planeando por ahí si llegan uno o dos días antes, muy probablemente hay un día con una blockchain súper dura, enterito, un side evento entero de la blockchain, probablemente un día de Bitcoin también.
+Si llegan unos dos, tres días antes, entonces se paren, si tienen chance a toda esa semana haber muchas activaciones, muchas oportunidades de conectar con builders, con gente de acá de Monterrey, de todas partes del mundo, porque ya estamos viendo interés de venir de todos lados y la neta nos pone muy contentos, pero pues vayan separando unos Días antes y 31 de octubre, 1 y 2 de noviembre es Halloween, es Día de Muertos, hay mucha eco aventura y mucha montaña, hay una presa muy rica para hacer algo padre en el lago, hay mucha fiesta cerca de la zona del hackatón, mucha gente nueva en esa zona también en fin de semana una plaza así grande abierta cerca de unos museos, por ahí en el post de Dopete pueden ver cuáles son los museos.
+Poco a poco iremos lanzando más cosas, pronto van a salir las aplicaciones para que se inscriban como community partner, como media partner, como hacker, como voluntario, como speaker, como lo que quieran, sponsor, estoy yo a cargo de todo el tema de sponsors, así que si tienen algún protocolo, alguna compañía, algún startup, que quiera un espacio aquí para platicar de lo que está haciendo, también por ahí va a haber oportunidad de.
+De platicar con ustedes y ver cómo podemos colaborar.
+Sí, no, muy chido.
+Le hemos dedicado mucho tiempo a planear ese evento.
+Ahí va poco a poco, ya van a ver mucha más información próximamente, pero va a Estar muy chido.
+
+[Speaker 1 - 01:00:09]
+¿Vas a venir, Brian?
+
+[Speaker 0 - 01:00:10]
+Tienes que venir güey.
+A huevo.
+
+[Speaker 1 - 01:00:13]
+Sí Es el 31 de octubre Veo.
+Ya tengo.
+Es que tengo dos bodas en octubre que necesito ver, pero si no tengo la boda en ese fin de.
+
+[Speaker 0 - 01:00:23]
+Voy a.
+Chingón, chingón.
+No, va a haber mucha oportunidad.
+Hacer cosas muy chidas.
+Si alguien trae una idea sobre cómo quiere apoyar al evento, échenme un DM siempre abierto a platicar qué ideas locas traen para hacerlo realidad.
+Me encanta.
+Pero bueno, vamos a ver si alguien más puso aquí su número de usuario.
+Venga, venga, estríbanse todo debe tener cinco minutitos.
+Ya nos dijo Brian.
+Si descargan, dejen comentarios.
+Por ahí hay un grupo de Telegram.
+También tienen su Discord, si mal no recuerdo.
+
+[Speaker 1 - 01:01:02]
+Creo que sí tenemos un Discord.
+Tenemos.
+Un Discord y un Telegram.
+Entra los dos lo que quieres y estoy muy accesible entre los dos.
+Y si encuentras algo como un problema o algo que está roto, solo dime, por favor dime y lo reporto y lo arreglamos y va a estar bien.
+Obvio todavía estamos en beta, entonces va a estar cosas como rotito.
+Pero en general hemos.
+Está bueno, la verdad es que ahora está muy bueno que hemos arreglado tanto que ya está listo es porque lancemos.
+Porque estaba listo y.
+Para recibir más gente, recibir más dinero y ayuda a la gente a protegerlo y crecer.
+
+[Speaker 0 - 01:01:58]
+¿No?
+Qué chido.
+Ha sido muy padre ver cómo hace dos años me platicaste, ya esto está hecho una aplicación con todo el fondeo que has obtenido y pues el crecimiento también de la comunidad de tus canales.
+Qué chingón que estés viendo la integración del tema de las stablecoins mexicanas y que también te estés enfocando en el mercado y ver cómo colaboras con la gente que está haciendo cosas por acá.
+Ha estado muy padre la conversación.
+Yo de mi parte pues agradecerte que hayas pasado, que nos platiques, que respondas las preguntas y entender un poquito cómo ha sido para ti y para cualquiera de los que aquí escuchas en algún momento quiere lanzar algo, quiere un poquito más de contexto, ahí échenle un DM a Brian si tienen alguna duda, alguna pregunta.
+Creo que tenemos que seguir viendo más y más aplicaciones como esta.
+Hacerlo más fácil, personalizarlo para las comunidades.
+Hay mucho trabajo por hacer, pero ahí están las piezas, nada más es irlas acomodando y probando el mercado y obteniendo retroalimentación y mejorando el producto.
+Qué chingón tenerte por acá, Brian.
+
+[Speaker 1 - 01:03:07]
+No, claro.
+Es mi placer.
+Gracias por recibirme.
+Y si alguien está creciendo algo y necesita consejo, ayuda, algo que puedo ayudar, siempre estoy disponible.
+Me encanta ayudar a la comunidad y hablar de nuestros desafíos, las cosas que estaban difícil, porque es un.
+Es un camino muy largo, muy difícil, no es algo que mucha gente piensa que ya voy a construir mi propia empresa.
+Tener todo el tiempo en el mundo una balance de la vida.
+Nah, es que no mames, es que si quieres crecer algo tu propio, es que vas a dedicarte tu vida, años de tu vida a esa es.
+Necesitas tomarlo en serio si quieres crecerlo y tener éxito.
+La verdad, unir otra empresa es la manera fácil.
+Ganar es como crecer algo así.
+Es algo que va a ser difícil sin pagarse.
+Aún si es cripto algo en la vida, sabes, un restaurante, un café, una empresa de arquitectura, lo que sea, siempre va a ser el mismo.
+Crecer algo tu propio.
+Es el camino difícil, pero también tiene el techo más arriba.
+Es porque lo hacemos.
+
+[Speaker 0 - 01:04:43]
+Increíble.
+Poderlo escuchar desde tu punto de vista, sacando esta aplicación, desarrollándola ya a través de los años, entendiendo el mercado, viviendo México para conectar con la gente que está acá.
+Muy loco.
+Qué chido.
+
+[Speaker 1 - 01:04:56]
+Sí, exacto.
+Es porque yo siempre tengo un.
+¿Cómo se dice?
+Soft spot, como mucha empatía por los otros builders, otra gente que quieren crear algo, su propio.
+Y siempre estoy aquí dar consejo, dar feedback o proveedor, ideas, lo que sea por la gente que están en ese camino.
+
+[Speaker 0 - 01:05:25]
+¿No?
+Por acá abajo también veo mucha banda que está más o menos.
+Sí, muchos veo que están en ese camino, veo otros que hacen mucho contenido.
+Ahí échenle un DM a Brian por si quieren platicar con él.
+La neta.
+Desde que lo conocí lo he venido viendo cómo ha estado desarrollando y ahora ya te había dicho que ya te la debía el espacio.
+Qué bueno que se dio ahorita.
+Y de seguro en unos meses te seguiré invitando para que vengas a contar y nos digas cómo va, que han integrado, qué sigue.
+Estaría muy padre.
+
+[Speaker 1 - 01:05:59]
+Sí, claro.
+Me encantaría también como ojalá que pueda regresar en algunos meses, algún año, algo, lo que sea, y ser un regular y decir a la gente del éxito que tenemos.
+
+[Speaker 0 - 01:06:16]
+Muchas gracias, Brian.
+Muchas gracias a todos los que se conectaron.
+Les voy a dejar con la última parte de Minds AB y nos vamos el próximo jueves.
+Todavía no confirmo los speakers.
+Mañana yo creo que más tardar les confirmo.
+Y yo creo que la próxima semana, el martes va a ser el último espacio porque me voy de vacaciones.
+Voy a andar fuera unas semanas, desconectado.
+No vamos a dar haciendo espacios.
+Voy a seguir tuiteando todas las pendejadas que tuiteo que se me ocurren.
+Eso no lo van a poder evitar.
+Pero los espacios sí.
+Tendremos un pequeño break de unas dos, tres semanitas.
+Igual estaremos regresando finales de julio, ya con toda la energía para seguir cotorreando con la banda.
+Platicando de diferentes temas de lo que pasa aquí en el ecosistema.
+Nos vemos.
+Muchas gracias.
+
+[Speaker 1 - 01:07:06]
+Perdón.
+Échale, échale que voy a elegir la gente.
+Veo que tres personas han hecho sus cuentas.
+Alan BK, Crypto Invest, Many Race.
+He escrito.
+Solo voy a preguntar ChatGPT.
+Elegir uno es como la manera que voy a elegirlo.
+
+[Speaker 0 - 01:07:27]
+Excelente, excelente.
+¿Quieres avisarlo desde una vez aquí?
+Te.
+Avísales aquí de una vez a la que esté a ver quién le tocó.
+
+[Speaker 1 - 01:07:37]
+Y es Crypto Invest.
+
+[Speaker 0 - 01:07:39]
+Venga.
+Felicidades, Crypto Invest.
+Muchas gracias por hacer la cuenta.
+Deja tu retroalimentación, métele algo de lanita, mételo en el Bolt.
+Muchas felicidades y gracias por descargarlo finalmente.
+Ahí me avisas cuánta gente lo descargó.
+Esos son datos que me sirven a mí mucho para ver qué más podemos hacer y en realidad convertir a descargas, convertir a means, convertir a tokens, convertir actividad, un chain.
+Veamos, veamos qué significa eso.
+
+[Speaker 1 - 01:08:08]
+Perfecto.
+Estoy mandándolo ahora.
+10 dólares en USDC.
+Enviado.
+
+[Speaker 0 - 01:08:20]
+Venga, enviado.
+Gracias.
+Y cualquier cosa, echen por ahí su comentario, participen en los canales, ayúdenle a Brian a mejorar la aplicación, integremos el peso mexicano y veamos a ver cómo podemos ayudar ahí para que para que haya más usuarios.
+Muchas gracias.
+Los dejo con la canción y nos vamos.
+Gracias.

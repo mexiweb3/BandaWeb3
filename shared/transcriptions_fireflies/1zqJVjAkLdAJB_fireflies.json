@@ -1,0 +1,3771 @@
+{
+  "id": "01KC0MFNN3CV2Q7RPCYCTG5VXB",
+  "title": "BandaWeb3 - BandaWeb3 #056 @RoyalBunker dApp",
+  "date": 1765253100000,
+  "duration": 74,
+  "speakers": [],
+  "sentences": [
+    {
+      "index": 0,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Qué manda buenos días, buenas tardes, buenas noches, dependiendo de dónde se estén conectando a esta grabación.",
+      "raw_text": "Qué manda buenos días, buenas tardes, buenas noches, dependiendo de dónde se estén conectando a esta grabación.",
+      "start_time": 0,
+      "end_time": 4.8
+    },
+    {
+      "index": 1,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "El otro espacio me lo tumbó aquí la aplicación, no sé por qué.",
+      "raw_text": "El otro espacio me lo tumbó aquí la aplicación, no sé por qué.",
+      "start_time": 5.2,
+      "end_time": 9.24
+    },
+    {
+      "index": 2,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Así que vamos a arrancar este.",
+      "raw_text": "Así que vamos a arrancar este.",
+      "start_time": 9.24,
+      "end_time": 10.56
+    },
+    {
+      "index": 3,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Me voy a echar un rant y voy a onboardear a la banda para utilizar el DAP Royal Bunker.",
+      "raw_text": "Me voy a echar un rant y voy a onboardear a la banda para utilizar el DAP Royal Bunker.",
+      "start_time": 11.52,
+      "end_time": 17.56
+    },
+    {
+      "index": 4,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ayer lo terminé el domingo, lo arranqué ayer lunes.",
+      "raw_text": "Ayer lo terminé el domingo, lo arranqué ayer lunes.",
+      "start_time": 17.56,
+      "end_time": 22.52
+    },
+    {
+      "index": 5,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Hoy estuvimos por ahí resolviendo algunos temas técnicos porque nos acabamos todos los.",
+      "raw_text": "Hoy estuvimos por ahí resolviendo algunos temas técnicos porque nos acabamos todos los.",
+      "start_time": 22.52,
+      "end_time": 29.52
+    },
+    {
+      "index": 6,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Los requests que tenía para el RPC para poder hacer actividades.",
+      "raw_text": "Los requests que tenía para el RPC para poder hacer actividades.",
+      "start_time": 30.99,
+      "end_time": 34.99
+    },
+    {
+      "index": 7,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Hay ciertas aplicaciones que te cobran por uso.",
+      "raw_text": "Hay ciertas aplicaciones que te cobran por uso.",
+      "start_time": 35.07,
+      "end_time": 38.67
+    },
+    {
+      "index": 8,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Nos pasamos por mucho.",
+      "raw_text": "Nos pasamos por mucho.",
+      "start_time": 39.07,
+      "end_time": 40.19
+    },
+    {
+      "index": 9,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Gracias a todos por ayudar.",
+      "raw_text": "Gracias a todos por ayudar.",
+      "start_time": 40.27,
+      "end_time": 41.55
+    },
+    {
+      "index": 10,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Pero bueno, ahorita les voy a platicar.",
+      "raw_text": "Pero bueno, ahorita les voy a platicar.",
+      "start_time": 41.55,
+      "end_time": 42.91
+    },
+    {
+      "index": 11,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ahorita pineo aquí el espacio de la sala, lo voy a recitar, me meto con mi cuenta.",
+      "raw_text": "Ahorita pineo aquí el espacio de la sala, lo voy a recitar, me meto con mi cuenta.",
+      "start_time": 42.91,
+      "end_time": 46.27
+    },
+    {
+      "index": 12,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Gracias a todos los que están escuchando esa grabación.",
+      "raw_text": "Gracias a todos los que están escuchando esa grabación.",
+      "start_time": 46.99,
+      "end_time": 49.59
+    },
+    {
+      "index": 13,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Esto es Mind the Beast, una canción hecha con inteligencia artificial.",
+      "raw_text": "Esto es Mind the Beast, una canción hecha con inteligencia artificial.",
+      "start_time": 49.59,
+      "end_time": 53.23
+    },
+    {
+      "index": 14,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Empezamos en breve.",
+      "raw_text": "Empezamos en breve.",
+      "start_time": 53.23,
+      "end_time": 54.11
+    },
+    {
+      "index": 15,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ya estoy mandando las invitaciones que normalmente mando.",
+      "raw_text": "Ya estoy mandando las invitaciones que normalmente mando.",
+      "start_time": 283.48,
+      "end_time": 285.88
+    },
+    {
+      "index": 16,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Quién ve por ahí el buen Madrid?",
+      "raw_text": "¿Quién ve por ahí el buen Madrid?",
+      "start_time": 285.88,
+      "end_time": 288.2
+    },
+    {
+      "index": 17,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Qué onda Madrid?",
+      "raw_text": "¿Qué onda Madrid?",
+      "start_time": 288.2,
+      "end_time": 289
+    },
+    {
+      "index": 18,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Cómo andas?",
+      "raw_text": "¿Cómo andas?",
+      "start_time": 289,
+      "end_time": 289.56
+    },
+    {
+      "index": 19,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "También veo a Domínguez, Eduardo Domínguez, bienvenido.",
+      "raw_text": "También veo a Domínguez, Eduardo Domínguez, bienvenido.",
+      "start_time": 289.96,
+      "end_time": 294.77
+    },
+    {
+      "index": 20,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Cómo andas?",
+      "raw_text": "¿Cómo andas?",
+      "start_time": 294.85,
+      "end_time": 295.65
+    },
+    {
+      "index": 21,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Oigan, pues muchas gracias.",
+      "raw_text": "Oigan, pues muchas gracias.",
+      "start_time": 296.05,
+      "end_time": 298.61
+    },
+    {
+      "index": 22,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Aunque el día de hoy me rogué el espacio anterior y el link que había prometido y que había difundido, perdón, no está funcionando.",
+      "raw_text": "Aunque el día de hoy me rogué el espacio anterior y el link que había prometido y que había difundido, perdón, no está funcionando.",
+      "start_time": 299.09,
+      "end_time": 306.69
+    },
+    {
+      "index": 23,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Este es el nuevo.",
+      "raw_text": "Este es el nuevo.",
+      "start_time": 306.69,
+      "end_time": 307.57
+    },
+    {
+      "index": 24,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Entonces si me ayudan con un like, con un comentario y con un repost, va a ayudar a que lleguemos más personas.",
+      "raw_text": "Entonces si me ayudan con un like, con un comentario y con un repost, va a ayudar a que lleguemos más personas.",
+      "start_time": 307.809,
+      "end_time": 314.53
+    },
+    {
+      "index": 25,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "El otro lamentablemente me lo rodeó, pero bueno, el día de hoy les voy a platicar un poquito de lo que he estado construyendo.",
+      "raw_text": "El otro lamentablemente me lo rodeó, pero bueno, el día de hoy les voy a platicar un poquito de lo que he estado construyendo.",
+      "start_time": 314.53,
+      "end_time": 321.91
+    },
+    {
+      "index": 26,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "He estado muy, muy activo en uno que otro hackatón por ahí he visto oportunidades muy buenas.",
+      "raw_text": "He estado muy, muy activo en uno que otro hackatón por ahí he visto oportunidades muy buenas.",
+      "start_time": 321.99,
+      "end_time": 329.19
+    },
+    {
+      "index": 27,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Les voy a platicar de un par que estoy ahorita identificando.",
+      "raw_text": "Les voy a platicar de un par que estoy ahorita identificando.",
+      "start_time": 329.19,
+      "end_time": 332.59
+    },
+    {
+      "index": 28,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Una que, híjole, ya está quemarropa, pero ando viendo cómo lo he hecho volar, es el de Solana Coliseum, también por ahí está disponible todavía.",
+      "raw_text": "Una que, híjole, ya está quemarropa, pero ando viendo cómo lo he hecho volar, es el de Solana Coliseum, también por ahí está disponible todavía.",
+      "start_time": 332.59,
+      "end_time": 342.39
+    },
+    {
+      "index": 29,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Bueno, este mes creo que ya no se pueden inscribir, este mes para el hackatón de Mantle ya no se pueden inscribir, pero ahorita les platico.",
+      "raw_text": "Bueno, este mes creo que ya no se pueden inscribir, este mes para el hackatón de Mantle ya no se pueden inscribir, pero ahorita les platico.",
+      "start_time": 342.39,
+      "end_time": 351.25
+    },
+    {
+      "index": 30,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "La verdad están haciendo cosas muy chidas ellos, los conozco físicamente, los conozco IRL, hemos organizado ya un par de eventos que han patrocinado, de los que yo estoy armando, se vinieron a vivir a México, están haciendo cosas muy chingonas y ese hackatón está muy chido, la neta.",
+      "raw_text": "La verdad están haciendo cosas muy chidas ellos, los conozco físicamente, los conozco IRL, hemos organizado ya un par de eventos que han patrocinado, de los que yo estoy armando, se vinieron a vivir a México, están haciendo cosas muy chingonas y ese hackatón está muy chido, la neta.",
+      "start_time": 351.25,
+      "end_time": 369.93
+    },
+    {
+      "index": 31,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Están repartiendo 15 mil dólares al mes para la gente que entre y que cumpla, Son tres fases del proyecto.",
+      "raw_text": "Están repartiendo 15 mil dólares al mes para la gente que entre y que cumpla, Son tres fases del proyecto.",
+      "start_time": 369.93,
+      "end_time": 377.9
+    },
+    {
+      "index": 32,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Aquí les voy a poner toda la información mientras invito a la banda aquí a los grupos de WhatsApp, Ya estoy también.",
+      "raw_text": "Aquí les voy a poner toda la información mientras invito a la banda aquí a los grupos de WhatsApp, Ya estoy también.",
+      "start_time": 377.9,
+      "end_time": 383.66
+    },
+    {
+      "index": 33,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Arreglando la aplicación porque ayer voy a platicar un poquito del Royal Bunker y la aplicación por ahí que solté, la neta ayer la tronaron, ayer me ayudaron entre todos con el mucho o poco ruido que le hice, nos acabamos.",
+      "raw_text": "Arreglando la aplicación porque ayer voy a platicar un poquito del Royal Bunker y la aplicación por ahí que solté, la neta ayer la tronaron, ayer me ayudaron entre todos con el mucho o poco ruido que le hice, nos acabamos.",
+      "start_time": 385.98,
+      "end_time": 399.71
+    },
+    {
+      "index": 34,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Las llamadas que tengo al RPC con Third Web, estoy usando thirdweb también vamos a platicar un poquito de Third Web, que es una súper herramienta, que locura, la neta está muy chido.",
+      "raw_text": "Las llamadas que tengo al RPC con Third Web, estoy usando thirdweb también vamos a platicar un poquito de Third Web, que es una súper herramienta, que locura, la neta está muy chido.",
+      "start_time": 401.39,
+      "end_time": 413.79
+    },
+    {
+      "index": 35,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Voy a platicar de Third Web porque ahorita son patrocinadores el hackatón, mira ahí se va conectando Mantu Latam, vamos a ver si se quieren subir a platicar, el que quiera, la neta el día de hoy es Mike Open Mic, voy a invitar a todo mundo porque quiero onboardearlos, necesito que se inscriban, necesito que hagan su wallet social, les voy a dejar aquí el link.",
+      "raw_text": "Voy a platicar de Third Web porque ahorita son patrocinadores el hackatón, mira ahí se va conectando Mantu Latam, vamos a ver si se quieren subir a platicar, el que quiera, la neta el día de hoy es Mike Open Mic, voy a invitar a todo mundo porque quiero onboardearlos, necesito que se inscriban, necesito que hagan su wallet social, les voy a dejar aquí el link.",
+      "start_time": 414.349,
+      "end_time": 438.68
+    },
+    {
+      "index": 36,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ya está funcionando, ya le agregué saldito, se había acabado el saldito ayer se acabaron el saldo de los request que estaba haciendo.",
+      "raw_text": "Ya está funcionando, ya le agregué saldito, se había acabado el saldito ayer se acabaron el saldo de los request que estaba haciendo.",
+      "start_time": 438.84,
+      "end_time": 446.36
+    },
+    {
+      "index": 37,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Voy a poner la pantalla, está muy loco, tengo un.",
+      "raw_text": "Voy a poner la pantalla, está muy loco, tengo un.",
+      "start_time": 446.92,
+      "end_time": 450.44
+    },
+    {
+      "index": 38,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Bueno, el plan gratuito es de 100 rps o request por segundo y en determinado.",
+      "raw_text": "Bueno, el plan gratuito es de 100 rps o request por segundo y en determinado.",
+      "start_time": 451.54,
+      "end_time": 457.14
+    },
+    {
+      "index": 39,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Sí, creo que es un request por segundo determinado momento, no mentira, el plan gratuito es de 10 rps y en algún momento llegamos a 120 rps, pasamos por mucho.",
+      "raw_text": "Sí, creo que es un request por segundo determinado momento, no mentira, el plan gratuito es de 10 rps y en algún momento llegamos a 120 rps, pasamos por mucho.",
+      "start_time": 457.14,
+      "end_time": 468.82
+    },
+    {
+      "index": 40,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "El límite que teníamos permitido, entonces me bloqueó a varias, varias personas que quisieron hacer su cuenta, les estoy poniendo ya el link, estamos hablando de Royal Bunker.",
+      "raw_text": "El límite que teníamos permitido, entonces me bloqueó a varias, varias personas que quisieron hacer su cuenta, les estoy poniendo ya el link, estamos hablando de Royal Bunker.",
+      "start_time": 471.62,
+      "end_time": 480.77
+    },
+    {
+      "index": 41,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Vercel.",
+      "raw_text": "Vercel.",
+      "start_time": 485.65,
+      "end_time": 486.45
+    },
+    {
+      "index": 42,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "App, royalbunker, Vercel App, ahí les puse ya el link.",
+      "raw_text": "App, royalbunker, Vercel App, ahí les puse ya el link.",
+      "start_time": 488.37,
+      "end_time": 492.77
+    },
+    {
+      "index": 43,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Acá abajo en los comentarios, ahorita lo opineo, pueden encontrar la aplicación que bycode.",
+      "raw_text": "Acá abajo en los comentarios, ahorita lo opineo, pueden encontrar la aplicación que bycode.",
+      "start_time": 492.77,
+      "end_time": 498.29
+    },
+    {
+      "index": 44,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "La idea del día de hoy es onboardear a toda la banda que pueda y que quiera y que le llame la atención participar.",
+      "raw_text": "La idea del día de hoy es onboardear a toda la banda que pueda y que quiera y que le llame la atención participar.",
+      "start_time": 499.01,
+      "end_time": 507.42
+    },
+    {
+      "index": 45,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Vamos a ponerlo en el space, ahí está, ya lo opiné aquí arriba en el space, la página, el link, la foto.",
+      "raw_text": "Vamos a ponerlo en el space, ahí está, ya lo opiné aquí arriba en el space, la página, el link, la foto.",
+      "start_time": 507.42,
+      "end_time": 515.38
+    },
+    {
+      "index": 46,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ayer tronamos Stairweb, entonces tuve que pagar ya una membresía de 9 dólares al mes, eso me da 100 rps en lugar de los 10 request por segundo que tenía ayer y que rompimos determinado momento hasta 120 requests por segundo.",
+      "raw_text": "Ayer tronamos Stairweb, entonces tuve que pagar ya una membresía de 9 dólares al mes, eso me da 100 rps en lugar de los 10 request por segundo que tenía ayer y que rompimos determinado momento hasta 120 requests por segundo.",
+      "start_time": 515.54,
+      "end_time": 529.62
+    },
+    {
+      "index": 47,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Por ahí en la foto también pueden ver la cantidad de llamadas que hizo la banda.",
+      "raw_text": "Por ahí en la foto también pueden ver la cantidad de llamadas que hizo la banda.",
+      "start_time": 529.62,
+      "end_time": 533.8
+    },
+    {
+      "index": 48,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "En total hicieron casi 3.000 llamadas, 2.945 llamadas.",
+      "raw_text": "En total hicieron casi 3.000 llamadas, 2.945 llamadas.",
+      "start_time": 533.96,
+      "end_time": 539.4
+    },
+    {
+      "index": 49,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Por ahí estuve publicando los datos de la aplicación, por aquí se los va a opinar todo.",
+      "raw_text": "Por ahí estuve publicando los datos de la aplicación, por aquí se los va a opinar todo.",
+      "start_time": 539.96,
+      "end_time": 544.72
+    },
+    {
+      "index": 50,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "La neta está bien loco lo que ya se puede hacer con herramientas de AI, con SDKs, que son paquetes ya preestablecidos.",
+      "raw_text": "La neta está bien loco lo que ya se puede hacer con herramientas de AI, con SDKs, que son paquetes ya preestablecidos.",
+      "start_time": 544.72,
+      "end_time": 555.16
+    },
+    {
+      "index": 51,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Les voy a poner el hilo también con toda la explicación.",
+      "raw_text": "Les voy a poner el hilo también con toda la explicación.",
+      "start_time": 555.16,
+      "end_time": 557.16
+    },
+    {
+      "index": 52,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Es un MVP rápido, les voy a platicar.",
+      "raw_text": "Es un MVP rápido, les voy a platicar.",
+      "start_time": 559.31,
+      "end_time": 561.67
+    },
+    {
+      "index": 53,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Bueno, qué es Royal Bunker?",
+      "raw_text": "¿Bueno, qué es Royal Bunker?",
+      "start_time": 561.67,
+      "end_time": 562.67
+    },
+    {
+      "index": 54,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Royal Bunker es una comunidad de jugadores de torneo de Texas Holden.",
+      "raw_text": "Royal Bunker es una comunidad de jugadores de torneo de Texas Holden.",
+      "start_time": 562.67,
+      "end_time": 567.95
+    },
+    {
+      "index": 55,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "A mí me gusta mucho jugar Texas Holden.",
+      "raw_text": "A mí me gusta mucho jugar Texas Holden.",
+      "start_time": 567.95,
+      "end_time": 570.11
+    },
+    {
+      "index": 56,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Todos los martes tenemos una reunión en casa de un camarada.",
+      "raw_text": "Todos los martes tenemos una reunión en casa de un camarada.",
+      "start_time": 570.43,
+      "end_time": 574.91
+    },
+    {
+      "index": 57,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Tenemos yo creo que ya más de 15 años juntándonos a jugar baraja los martes en las noches.",
+      "raw_text": "Tenemos yo creo que ya más de 15 años juntándonos a jugar baraja los martes en las noches.",
+      "start_time": 574.99,
+      "end_time": 579.71
+    },
+    {
+      "index": 58,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Chihuahua sí se madre el otro.",
+      "raw_text": "Chihuahua sí se madre el otro.",
+      "start_time": 580.27,
+      "end_time": 582.83
+    },
+    {
+      "index": 59,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Pero eso nació a raíz de un grupo de amigos que Hace más de 10 años, en el 2007, empezamos a reunirnos.",
+      "raw_text": "Pero eso nació a raíz de un grupo de amigos que Hace más de 10 años, en el 2007, empezamos a reunirnos.",
+      "start_time": 583.6,
+      "end_time": 591.2
+    },
+    {
+      "index": 60,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Cada semana nos juntábamos a jugar torneos y llegamos a tener torneos de treinta, cuarenta personas, donde cada una de estas personas metía diez dólares o doscientos pesos.",
+      "raw_text": "Cada semana nos juntábamos a jugar torneos y llegamos a tener torneos de treinta, cuarenta personas, donde cada una de estas personas metía diez dólares o doscientos pesos.",
+      "start_time": 592.16,
+      "end_time": 602.96
+    },
+    {
+      "index": 61,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "En ese entonces jugábamos torneos de doscientos pesos y.",
+      "raw_text": "En ese entonces jugábamos torneos de doscientos pesos y.",
+      "start_time": 603.2,
+      "end_time": 607.28
+    },
+    {
+      "index": 62,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Las cuarenta personas que entraban metían sus doscientos pesos.",
+      "raw_text": "Las cuarenta personas que entraban metían sus doscientos pesos.",
+      "start_time": 609.37,
+      "end_time": 612.17
+    },
+    {
+      "index": 63,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Un porcentaje de estos doscientos pesos se iba para los premios de esa semana.",
+      "raw_text": "Un porcentaje de estos doscientos pesos se iba para los premios de esa semana.",
+      "start_time": 612.49,
+      "end_time": 616.33
+    },
+    {
+      "index": 64,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Si mal no recuerdo era como el 50% de todo lo que se juntaba durante esa semana.",
+      "raw_text": "Si mal no recuerdo era como el 50% de todo lo que se juntaba durante esa semana.",
+      "start_time": 616.73,
+      "end_time": 621.13
+    },
+    {
+      "index": 65,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Eran reuniones presenciales.",
+      "raw_text": "Eran reuniones presenciales.",
+      "start_time": 621.13,
+      "end_time": 622.49
+    },
+    {
+      "index": 66,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Teníamos mesas de pócar, profesionales, físicas, las hicimos para publicar las fotos.",
+      "raw_text": "Teníamos mesas de pócar, profesionales, físicas, las hicimos para publicar las fotos.",
+      "start_time": 622.73,
+      "end_time": 628.73
+    },
+    {
+      "index": 67,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Luego yo hice con mis propias manos las mesas, yo corté la madera, las forramos de tela.",
+      "raw_text": "Luego yo hice con mis propias manos las mesas, yo corté la madera, las forramos de tela.",
+      "start_time": 628.73,
+      "end_time": 634.89
+    },
+    {
+      "index": 68,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "La primera la hice yo solo.",
+      "raw_text": "La primera la hice yo solo.",
+      "start_time": 636.01,
+      "end_time": 637.21
+    },
+    {
+      "index": 69,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ya las otras dos o tres que hicimos ya nos juntamos grupos grandes de banda, hacer carnitas asadas y posadas, y esas posadas y carnes asadas en un terreno grande que uno de los miembros tenía.",
+      "raw_text": "Ya las otras dos o tres que hicimos ya nos juntamos grupos grandes de banda, hacer carnitas asadas y posadas, y esas posadas y carnes asadas en un terreno grande que uno de los miembros tenía.",
+      "start_time": 637.52,
+      "end_time": 654.64
+    },
+    {
+      "index": 70,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Armamos ahí toda la maquinaria, nos pusimos a hacer ahí una cadena de construcción bien interesante.",
+      "raw_text": "Armamos ahí toda la maquinaria, nos pusimos a hacer ahí una cadena de construcción bien interesante.",
+      "start_time": 655.12,
+      "end_time": 661.76
+    },
+    {
+      "index": 71,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Tenemos por ahí almacenadas en bodegas tres o cuatro, no creo, cuatro o cinco mesas todavía.",
+      "raw_text": "Tenemos por ahí almacenadas en bodegas tres o cuatro, no creo, cuatro o cinco mesas todavía.",
+      "start_time": 663.6,
+      "end_time": 668.44
+    },
+    {
+      "index": 72,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Una que otra la usamos para uno que otro torneo así casual.",
+      "raw_text": "Una que otra la usamos para uno que otro torneo así casual.",
+      "start_time": 668.44,
+      "end_time": 671.84
+    },
+    {
+      "index": 73,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Y las mesas de la banda que está jugando los martes, pero bueno, las voy a revivir.",
+      "raw_text": "Y las mesas de la banda que está jugando los martes, pero bueno, las voy a revivir.",
+      "start_time": 671.84,
+      "end_time": 677.6
+    },
+    {
+      "index": 74,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Y la idea de todo esto es tener una activación presencial con actividad en cadena.",
+      "raw_text": "Y la idea de todo esto es tener una activación presencial con actividad en cadena.",
+      "start_time": 677.76,
+      "end_time": 682.56
+    },
+    {
+      "index": 75,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Yo desde hace mucho tiempo he estado hablando mucho de construir en público.",
+      "raw_text": "Yo desde hace mucho tiempo he estado hablando mucho de construir en público.",
+      "start_time": 682.56,
+      "end_time": 685.76
+    },
+    {
+      "index": 76,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Gran parte de lo que ahorita estoy haciendo con esta aplicación es eso, ¿No?",
+      "raw_text": "Gran parte de lo que ahorita estoy haciendo con esta aplicación es eso, ¿No?",
+      "start_time": 686.24,
+      "end_time": 690.24
+    },
+    {
+      "index": 77,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Es ir probando poco a poco estas nuevas herramientas que tenemos para hacer código y como les puse aquí en el hilo, en 24 horas pude hacer un DAP, la verdad es un DAP muy sencillo, estuve usando, aquí les voy a leer un poquito de lo que usé, pero me inspiró la banda de Mantle, por ahí veo a Mantle Latam, me inspiró la banda de Mantle con el Cucatón, la neta la gente que lo está organizando son súper súper cracks K, la que está haciendo los workshops y la que está coordinando todo el tema es súper a toda madre, español, habla inglés, habla no sé cuántos idiomas, vino acá a Monterrey cuando hicimos un meetup, fuimos a la Presa, los diré a surfear.",
+      "raw_text": "Es ir probando poco a poco estas nuevas herramientas que tenemos para hacer código y como les puse aquí en el hilo, en 24 horas pude hacer un DAP, la verdad es un DAP muy sencillo, estuve usando, aquí les voy a leer un poquito de lo que usé, pero me inspiró la banda de Mantle, por ahí veo a Mantle Latam, me inspiró la banda de Mantle con el Cucatón, la neta la gente que lo está organizando son súper súper cracks K, la que está haciendo los workshops y la que está coordinando todo el tema es súper a toda madre, español, habla inglés, habla no sé cuántos idiomas, vino acá a Monterrey cuando hicimos un meetup, fuimos a la Presa, los diré a surfear.",
+      "start_time": 690.32,
+      "end_time": 732.2
+    },
+    {
+      "index": 78,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Organizamos por acá una comida con Builders, la neta conectaron muy bien con la comunidad de Monterrey cuando hicimos el meet up por ahí en inicios de marzo si mal no recuerdo, la carnita asada que hicimos ahora.",
+      "raw_text": "Organizamos por acá una comida con Builders, la neta conectaron muy bien con la comunidad de Monterrey cuando hicimos el meet up por ahí en inicios de marzo si mal no recuerdo, la carnita asada que hicimos ahora.",
+      "start_time": 733.8,
+      "end_time": 745.56
+    },
+    {
+      "index": 79,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "El final del hackatón de ID 5-5, también la patrocinó la gran mayoría Mantles, si no es que 80%, la neta están construyendo cosas muy buenas acá en México, están haciendo relaciones bien interesantes y este tipo de cookathons o hackathones mensuales donde van a estar repartiendo 15 mil dólares, están súper chidos.",
+      "raw_text": "El final del hackatón de ID 5-5, también la patrocinó la gran mayoría Mantles, si no es que 80%, la neta están construyendo cosas muy buenas acá en México, están haciendo relaciones bien interesantes y este tipo de cookathons o hackathones mensuales donde van a estar repartiendo 15 mil dólares, están súper chidos.",
+      "start_time": 747.96,
+      "end_time": 768.97
+    },
+    {
+      "index": 80,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "En el grupo del Cucazone entraron 69 personas en el primer mes, yo me imagino que van a ser, no sé, diez equipos menos, la verdad el primer mes se inscribieron pocas aplicaciones.",
+      "raw_text": "En el grupo del Cucazone entraron 69 personas en el primer mes, yo me imagino que van a ser, no sé, diez equipos menos, la verdad el primer mes se inscribieron pocas aplicaciones.",
+      "start_time": 769.85,
+      "end_time": 781.93
+    },
+    {
+      "index": 81,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "De esos 15 mil dólares los van a repartir entre los primeros tres lugares, 10 mil, creo que son 5 mil, 3 mil y 2 mil para los primeros tres lugares y los siguientes 5 mil se van a repartir entre todos los que pasen a la fase 3.",
+      "raw_text": "De esos 15 mil dólares los van a repartir entre los primeros tres lugares, 10 mil, creo que son 5 mil, 3 mil y 2 mil para los primeros tres lugares y los siguientes 5 mil se van a repartir entre todos los que pasen a la fase 3.",
+      "start_time": 782.83,
+      "end_time": 798.43
+    },
+    {
+      "index": 82,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Para pasar a la fase 3 tienes que usar Nebula, Nebula es la aplicación de inteligencia artificial que tiene Third Web.",
+      "raw_text": "Para pasar a la fase 3 tienes que usar Nebula, Nebula es la aplicación de inteligencia artificial que tiene Third Web.",
+      "start_time": 798.59,
+      "end_time": 806.99
+    },
+    {
+      "index": 83,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Todo lo que hice, todo el DAP lo hice con Terweb, SDK de Terweb utilicé, ahorita les digo que utilicé, pero pude hacer contratos, tienen un dashboard para crear contratos, hacer tokens, muy sencillo, tienen un dashboard para hacer membresías, la verdad tienen muchas aplicaciones que sin código puedes generar ya contratos, tokens verificados con todos los estándares ERC de ve tú a saber dónde, etcétera.",
+      "raw_text": "Todo lo que hice, todo el DAP lo hice con Terweb, SDK de Terweb utilicé, ahorita les digo que utilicé, pero pude hacer contratos, tienen un dashboard para crear contratos, hacer tokens, muy sencillo, tienen un dashboard para hacer membresías, la verdad tienen muchas aplicaciones que sin código puedes generar ya contratos, tokens verificados con todos los estándares ERC de ve tú a saber dónde, etcétera.",
+      "start_time": 807.07,
+      "end_time": 837.89
+    },
+    {
+      "index": 84,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ahí viene todo el código y lo pueden ir a verificar.",
+      "raw_text": "Ahí viene todo el código y lo pueden ir a verificar.",
+      "start_time": 837.89,
+      "end_time": 840.86
+    },
+    {
+      "index": 85,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Tienen también una alternativa para manejo de wallets.",
+      "raw_text": "Tienen también una alternativa para manejo de wallets.",
+      "start_time": 841.18,
+      "end_time": 846.22
+    },
+    {
+      "index": 86,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Entonces todas las wallets que ahorita se han creado, que alrededor, para la aplicación del Royal Bunker, han sido alrededor de unas cuarenta y ocho, cuarenta y casi cincuenta ya tengo yo el control, el registro de las wallets, qué wallets están registradas, a qué correo, y como pedían usar Nebula, pues lo empecé a utilizar, la verdad, para hacerla la aplicación estuvo muy padre, creas tu cuenta, te genera un ID, ese ID tú lo tienes que poner por ahí en el código de una manera segura para que nadie lo vea, lo subes a Gitcoin, todo eso yo creo que luego lo puedo hacer en un tutorial o en un artículo, yo creo que puede ser un artículo, pero la neta no fue tan complicado.",
+      "raw_text": "Entonces todas las wallets que ahorita se han creado, que alrededor, para la aplicación del Royal Bunker, han sido alrededor de unas cuarenta y ocho, cuarenta y casi cincuenta ya tengo yo el control, el registro de las wallets, qué wallets están registradas, a qué correo, y como pedían usar Nebula, pues lo empecé a utilizar, la verdad, para hacerla la aplicación estuvo muy padre, creas tu cuenta, te genera un ID, ese ID tú lo tienes que poner por ahí en el código de una manera segura para que nadie lo vea, lo subes a Gitcoin, todo eso yo creo que luego lo puedo hacer en un tutorial o en un artículo, yo creo que puede ser un artículo, pero la neta no fue tan complicado.",
+      "start_time": 846.54,
+      "end_time": 886.75
+    },
+    {
+      "index": 87,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Yo sí tengo un background técnico interesante, no lo puedo negar, yo sí hacía mucho código cuando estuve estudiando, y cuando me gradué, llegué a programar bases de datos, llegué a programar sistemas para la administración de placas, por ahí.",
+      "raw_text": "Yo sí tengo un background técnico interesante, no lo puedo negar, yo sí hacía mucho código cuando estuve estudiando, y cuando me gradué, llegué a programar bases de datos, llegué a programar sistemas para la administración de placas, por ahí.",
+      "start_time": 887.15,
+      "end_time": 903.39
+    },
+    {
+      "index": 88,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Estuve 10 años trabajando en una empresa que tenía un departamento de investigaciones bastante fuerte, y obteníamos bases de datos de esas de las que venden por ahí, no lo puedo negar, tenemos acceso a licencias de manejo.",
+      "raw_text": "Estuve 10 años trabajando en una empresa que tenía un departamento de investigaciones bastante fuerte, y obteníamos bases de datos de esas de las que venden por ahí, no lo puedo negar, tenemos acceso a licencias de manejo.",
+      "start_time": 903.39,
+      "end_time": 919.11
+    },
+    {
+      "index": 89,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Todo lo que era las credenciales de lector, bases de datos de ve tú a saber dónde para hacer investigaciones, y toda esa información eran millones y millones de registros a veces que había que verificar.",
+      "raw_text": "Todo lo que era las credenciales de lector, bases de datos de ve tú a saber dónde para hacer investigaciones, y toda esa información eran millones y millones de registros a veces que había que verificar.",
+      "start_time": 921.12,
+      "end_time": 932.16
+    },
+    {
+      "index": 90,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Entonces.",
+      "raw_text": "Entonces.",
+      "start_time": 932.24,
+      "end_time": 932.88
+    },
+    {
+      "index": 91,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Yo me dedicaba en una parte de mi trabajo, porque duré en esa empresa como 10, 11 años, a manejar toda esa información.",
+      "raw_text": "Yo me dedicaba en una parte de mi trabajo, porque duré en esa empresa como 10, 11 años, a manejar toda esa información.",
+      "start_time": 934.56,
+      "end_time": 941.52
+    },
+    {
+      "index": 92,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Entonces programaba, creo que era SQL, y programé mucho en Excel, programé C.",
+      "raw_text": "Entonces programaba, creo que era SQL, y programé mucho en Excel, programé C.",
+      "start_time": 941.84,
+      "end_time": 948.56
+    },
+    {
+      "index": 93,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Como soy electrónico, todo lo que es programación, te enseñan desde las tripas, que si los 1, y básicamente son compuertas on, nor, and si, ifs, no sé cómo explicarlo, pero las tripas de los transistores son los que hacen que todo esto funcione.",
+      "raw_text": "Como soy electrónico, todo lo que es programación, te enseñan desde las tripas, que si los 1, y básicamente son compuertas on, nor, and si, ifs, no sé cómo explicarlo, pero las tripas de los transistores son los que hacen que todo esto funcione.",
+      "start_time": 950.88,
+      "end_time": 973.6
+    },
+    {
+      "index": 94,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Todo eso lo entendíamos el lenguaje, para hablarle con el lenguaje más básico a ese tipo de dispositivos que hacían luego decisiones.",
+      "raw_text": "Todo eso lo entendíamos el lenguaje, para hablarle con el lenguaje más básico a ese tipo de dispositivos que hacían luego decisiones.",
+      "start_time": 973.76,
+      "end_time": 983.31
+    },
+    {
+      "index": 95,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Fue algo que estudié, ya ni me acuerdo.",
+      "raw_text": "Fue algo que estudié, ya ni me acuerdo.",
+      "start_time": 983.55,
+      "end_time": 985.39
+    },
+    {
+      "index": 96,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Pero ahora que lo retomé el domingo para el Cucatón y también para el hackatón de Solana, he visto que muchas compañías se están fijando mucho en eso para apoyar luego proyectos.",
+      "raw_text": "Pero ahora que lo retomé el domingo para el Cucatón y también para el hackatón de Solana, he visto que muchas compañías se están fijando mucho en eso para apoyar luego proyectos.",
+      "start_time": 987.07,
+      "end_time": 997.75
+    },
+    {
+      "index": 97,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Entonces yo había hablado mucho de construir en público, y había hablado mucho de.",
+      "raw_text": "Entonces yo había hablado mucho de construir en público, y había hablado mucho de.",
+      "start_time": 997.75,
+      "end_time": 1002.83
+    },
+    {
+      "index": 98,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "De que necesitábamos herramientas para los eventos presenciales, creo que los eventos presenciales son los que ahorita están haciendo un chorro de.",
+      "raw_text": "De que necesitábamos herramientas para los eventos presenciales, creo que los eventos presenciales son los que ahorita están haciendo un chorro de.",
+      "start_time": 1003.17,
+      "end_time": 1011.01
+    },
+    {
+      "index": 99,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Y están teniendo un chorro de impacto, pero bueno, no es cierto, creo que se ha mejorado mucho.",
+      "raw_text": "Y están teniendo un chorro de impacto, pero bueno, no es cierto, creo que se ha mejorado mucho.",
+      "start_time": 1011.01,
+      "end_time": 1017.45
+    },
+    {
+      "index": 100,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Pero cuando empezamos a hacer reuniones y eventos, la banda en realidad no utilizaba, no estaba utilizando la blockchain.",
+      "raw_text": "Pero cuando empezamos a hacer reuniones y eventos, la banda en realidad no utilizaba, no estaba utilizando la blockchain.",
+      "start_time": 1017.45,
+      "end_time": 1025.65
+    },
+    {
+      "index": 101,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Sí dábamos poaps, sí se daban poaps y luego utilizamos un log para las invitaciones.",
+      "raw_text": "Sí dábamos poaps, sí se daban poaps y luego utilizamos un log para las invitaciones.",
+      "start_time": 1025.97,
+      "end_time": 1031.27
+    },
+    {
+      "index": 102,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Sí está padre eso, pero no sé, yo siento y sentía que falta, siento todavía que falta mucho de que la gente aprenda en estos eventos presenciales a utilizar la blockchain, no nada más para emitir un poap, no nada más para llevarse una insignia de asistencia, sino para fomentar economías.",
+      "raw_text": "Sí está padre eso, pero no sé, yo siento y sentía que falta, siento todavía que falta mucho de que la gente aprenda en estos eventos presenciales a utilizar la blockchain, no nada más para emitir un poap, no nada más para llevarse una insignia de asistencia, sino para fomentar economías.",
+      "start_time": 1031.99,
+      "end_time": 1051.19
+    },
+    {
+      "index": 103,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Uno de los eventos hace poquito, uno de los events, perdón, allá en it 5 de mayo, lo organizó la banda de Celo México.",
+      "raw_text": "Uno de los eventos hace poquito, uno de los events, perdón, allá en it 5 de mayo, lo organizó la banda de Celo México.",
+      "start_time": 1052.55,
+      "end_time": 1059.83
+    },
+    {
+      "index": 104,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ellos si tuvieron una activación súper interesante, donde para poder recibir la bebida gratis tenías que bajar una wallet específica, tenías que hacer un proceso donde ellos te daban un toque, te transferían manualmente, pero la neta todavía no me gustó la experiencia de usuario, o sea, por más que te obligaban a hacerlo y si, muchos lo hicimos para poder tener la bebida gratuita, no era, no fue, ni creo que es la experiencia más sencilla en ese momento.",
+      "raw_text": "Ellos si tuvieron una activación súper interesante, donde para poder recibir la bebida gratis tenías que bajar una wallet específica, tenías que hacer un proceso donde ellos te daban un toque, te transferían manualmente, pero la neta todavía no me gustó la experiencia de usuario, o sea, por más que te obligaban a hacerlo y si, muchos lo hicimos para poder tener la bebida gratuita, no era, no fue, ni creo que es la experiencia más sencilla en ese momento.",
+      "start_time": 1059.83,
+      "end_time": 1091.59
+    },
+    {
+      "index": 105,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Entonces, con todas estas aplicaciones nuevas, que si privy, que si ThirdWeb.",
+      "raw_text": "Entonces, con todas estas aplicaciones nuevas, que si privy, que si ThirdWeb.",
+      "start_time": 1091.59,
+      "end_time": 1096.39
+    },
+    {
+      "index": 106,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Código y Programas ya predefinidos, donde tú seleccionas dos, tres cositas y tienes ya un administrador de wallets con entrada social como correo, como X, como Instagram, como Facebook, como GitHub.",
+      "raw_text": "Código y Programas ya predefinidos, donde tú seleccionas dos, tres cositas y tienes ya un administrador de wallets con entrada social como correo, como X, como Instagram, como Facebook, como GitHub.",
+      "start_time": 1099.03,
+      "end_time": 1115.99
+    },
+    {
+      "index": 107,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Está muy loco, yo creí que era muy, muy complicado, que iba a ser, que me la iba a pelar para hacer la aplicación que yo quería, que es la que por ahí está disponible, que pueden probar y ahorita le explico qué hace.",
+      "raw_text": "Está muy loco, yo creí que era muy, muy complicado, que iba a ser, que me la iba a pelar para hacer la aplicación que yo quería, que es la que por ahí está disponible, que pueden probar y ahorita le explico qué hace.",
+      "start_time": 1116.62,
+      "end_time": 1128.54
+    },
+    {
+      "index": 108,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Y si, me encantaría que se metan, si no han creado su cuenta, aquí estaría pineada royalbunker, Vercel App en este momento todos los que hagan su cuenta.",
+      "raw_text": "Y si, me encantaría que se metan, si no han creado su cuenta, aquí estaría pineada royalbunker, Vercel App en este momento todos los que hagan su cuenta.",
+      "start_time": 1129.9,
+      "end_time": 1140.62
+    },
+    {
+      "index": 109,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Lo ideal es que lo hagan con social, si lo hacen con una cartera externa, sí me aparece que son usuarios nuevos, pero no puedo ver el wallet, no sé por qué, tengo que revisar eso.",
+      "raw_text": "Lo ideal es que lo hagan con social, si lo hacen con una cartera externa, sí me aparece que son usuarios nuevos, pero no puedo ver el wallet, no sé por qué, tengo que revisar eso.",
+      "start_time": 1142.23,
+      "end_time": 1154.39
+    },
+    {
+      "index": 110,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Entonces, si crean una cuenta social, ya sea con Gmail o con email o con GitHub o con cualquiera de las otras opciones que aparece por ahí, creo que también lo pueden hacer con.",
+      "raw_text": "Entonces, si crean una cuenta social, ya sea con Gmail o con email o con GitHub o con cualquiera de las otras opciones que aparece por ahí, creo que también lo pueden hacer con.",
+      "start_time": 1154.63,
+      "end_time": 1163.83
+    },
+    {
+      "index": 111,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "De estos nuevos tokens.",
+      "raw_text": "De estos nuevos tokens.",
+      "start_time": 1166.15,
+      "end_time": 1167.35
+    },
+    {
+      "index": 112,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Cómo se llama?",
+      "raw_text": "¿Cómo se llama?",
+      "start_time": 1167.35,
+      "end_time": 1167.99
+    },
+    {
+      "index": 113,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ahorita, les digo.",
+      "raw_text": "Ahorita, les digo.",
+      "start_time": 1170.3,
+      "end_time": 1171.26
+    },
+    {
+      "index": 114,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ah se me fue el nombre pero miren aquí estoy entrando, se pueden conectar con Paskey, pueden usar Paskey que ya es la cara o la huella digital o un administrador de passwords, etcétera, ya los celulares traen esa funcionalidad y en dos patadas ya tienes un wallet, en dos patadas ya eres cliente, ya eres usuario de la Royal Bunker Dapp en 3 segundos yo ya sé que creaste tu cuenta nueva y ahorita lo que estoy haciendo, lo quería automatizar, todavía me falta, pero al menos para esta primera fase del hackathon lo que va a hacer la aplicación es lo que ven, un administrador de password social con cuenta creada automáticamente en la red de Mantol cada que ustedes entren con su correo van a entrar a esa cuenta, pueden exportar la llave privada de la cuenta por si quieren luego manejarla en algún otro wallet, eso está chido, yo no tengo acceso a ese dinero, son cuentas no custodiales, o sea yo no custodio las llaves, yo no custodio el dinero, ustedes lo custodian, ustedes pueden ir a reclamar su llave privada si así lo desean, ponerla en cualquier otro wallet y trabajar desde allá pero la neta para la funcionalidad que yo le estoy viendo, estas aplicaciones para eventos presenciales.",
+      "raw_text": "Ah se me fue el nombre pero miren aquí estoy entrando, se pueden conectar con Paskey, pueden usar Paskey que ya es la cara o la huella digital o un administrador de passwords, etcétera, ya los celulares traen esa funcionalidad y en dos patadas ya tienes un wallet, en dos patadas ya eres cliente, ya eres usuario de la Royal Bunker Dapp en 3 segundos yo ya sé que creaste tu cuenta nueva y ahorita lo que estoy haciendo, lo quería automatizar, todavía me falta, pero al menos para esta primera fase del hackathon lo que va a hacer la aplicación es lo que ven, un administrador de password social con cuenta creada automáticamente en la red de Mantol cada que ustedes entren con su correo van a entrar a esa cuenta, pueden exportar la llave privada de la cuenta por si quieren luego manejarla en algún otro wallet, eso está chido, yo no tengo acceso a ese dinero, son cuentas no custodiales, o sea yo no custodio las llaves, yo no custodio el dinero, ustedes lo custodian, ustedes pueden ir a reclamar su llave privada si así lo desean, ponerla en cualquier otro wallet y trabajar desde allá pero la neta para la funcionalidad que yo le estoy viendo, estas aplicaciones para eventos presenciales.",
+      "start_time": 1172.94,
+      "end_time": 1253.89
+    },
+    {
+      "index": 115,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "La neta no se necesita entonces si van royalbunker, Vercel App van a encontrar el app viene ahí que es un desarrollo de banda web, esa es una de las primeras aplicaciones, puta con esas herramientas, con el tiempo que tengo yo para dedicarle a esto y todas las ideas que traigo creo que puedo empezar a sacar muchas aplicaciones muy rápido pero me estoy dando cuenta que todo esto cuesta, está muy cabrón, es una lana, ayer nada más de las 46 personas que se registraron nos acabamos los request que tenía, los 3000 requests que hicieron ayer.",
+      "raw_text": "La neta no se necesita entonces si van royalbunker, Vercel App van a encontrar el app viene ahí que es un desarrollo de banda web, esa es una de las primeras aplicaciones, puta con esas herramientas, con el tiempo que tengo yo para dedicarle a esto y todas las ideas que traigo creo que puedo empezar a sacar muchas aplicaciones muy rápido pero me estoy dando cuenta que todo esto cuesta, está muy cabrón, es una lana, ayer nada más de las 46 personas que se registraron nos acabamos los request que tenía, los 3000 requests que hicieron ayer.",
+      "start_time": 1255.41,
+      "end_time": 1288.94
+    },
+    {
+      "index": 116,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Empezaron a bloquear ya request nuevos, entonces la gente quiso crear cuentas en la mañana, no pudo, ¿Por qué?",
+      "raw_text": "Empezaron a bloquear ya request nuevos, entonces la gente quiso crear cuentas en la mañana, no pudo, ¿Por qué?",
+      "start_time": 1290.7,
+      "end_time": 1296.7
+    },
+    {
+      "index": 117,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Porque mi plan estaba limitado total ya pagué los 9 dólares del plan, ahorita lo subí a un 10x muy probablemente, no sé, tengo que ver si publico, yo creo que voy a publicar una invitación después de unas pruebas hoy, a lo mejor en la tarde o mañana para Instagram, para la comunidad web 2 Degenerados de póker porque aquí hay una comunidad enorme de generados que les gusta.",
+      "raw_text": "Porque mi plan estaba limitado total ya pagué los 9 dólares del plan, ahorita lo subí a un 10x muy probablemente, no sé, tengo que ver si publico, yo creo que voy a publicar una invitación después de unas pruebas hoy, a lo mejor en la tarde o mañana para Instagram, para la comunidad web 2 Degenerados de póker porque aquí hay una comunidad enorme de generados que les gusta.",
+      "start_time": 1296.7,
+      "end_time": 1322.67
+    },
+    {
+      "index": 118,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Degenerados pero jugadores profesionales es un deporte mental.",
+      "raw_text": "Degenerados pero jugadores profesionales es un deporte mental.",
+      "start_time": 1324.27,
+      "end_time": 1327.75
+    },
+    {
+      "index": 119,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Póker es un deporte mental, la neta.",
+      "raw_text": "Póker es un deporte mental, la neta.",
+      "start_time": 1327.75,
+      "end_time": 1330.11
+    },
+    {
+      "index": 120,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Los torneos son un deporte mental, La neta.",
+      "raw_text": "Los torneos son un deporte mental, La neta.",
+      "start_time": 1330.35,
+      "end_time": 1332.75
+    },
+    {
+      "index": 121,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Sí.",
+      "raw_text": "Sí.",
+      "start_time": 1332.75,
+      "end_time": 1333.23
+    },
+    {
+      "index": 122,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ya si te metes una mesa abierta y metes dinero y puedes meter dinero y dinero y dinero, ahí sí se puede ir mucho, mucho a la basura o puedes llegar a perder muchísimo dinero.",
+      "raw_text": "Ya si te metes una mesa abierta y metes dinero y puedes meter dinero y dinero y dinero, ahí sí se puede ir mucho, mucho a la basura o puedes llegar a perder muchísimo dinero.",
+      "start_time": 1334.35,
+      "end_time": 1344.91
+    },
+    {
+      "index": 123,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Pero en un torneo no.",
+      "raw_text": "Pero en un torneo no.",
+      "start_time": 1345.47,
+      "end_time": 1347.23
+    },
+    {
+      "index": 124,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Porque en un torneo lo que haces es, tú metes una cantidad fija, ¿No?",
+      "raw_text": "Porque en un torneo lo que haces es, tú metes una cantidad fija, ¿No?",
+      "start_time": 1347.39,
+      "end_time": 1351.48
+    },
+    {
+      "index": 125,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ponle, supongamos, la entrada al torneo son $30.",
+      "raw_text": "Ponle, supongamos, la entrada al torneo son $30.",
+      "start_time": 1351.56,
+      "end_time": 1354.92
+    },
+    {
+      "index": 126,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Te dan cierto lote de fichas.",
+      "raw_text": "Te dan cierto lote de fichas.",
+      "start_time": 1355.72,
+      "end_time": 1357.4
+    },
+    {
+      "index": 127,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Tú te sientas y los torneos duran horas.",
+      "raw_text": "Tú te sientas y los torneos duran horas.",
+      "start_time": 1358.52,
+      "end_time": 1360.52
+    },
+    {
+      "index": 128,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Nosotros llegamos a jugar torneos de días.",
+      "raw_text": "Nosotros llegamos a jugar torneos de días.",
+      "start_time": 1360.52,
+      "end_time": 1363.6
+    },
+    {
+      "index": 129,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Yo llegué a jugar torneos en Las Vegas que duraban hasta seis días.",
+      "raw_text": "Yo llegué a jugar torneos en Las Vegas que duraban hasta seis días.",
+      "start_time": 1363.6,
+      "end_time": 1367.64
+    },
+    {
+      "index": 130,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Nunca llegué a jugar más del día tres.",
+      "raw_text": "Nunca llegué a jugar más del día tres.",
+      "start_time": 1368.2,
+      "end_time": 1371.56
+    },
+    {
+      "index": 131,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Si mal recuerdo.",
+      "raw_text": "Si mal recuerdo.",
+      "start_time": 1371.56,
+      "end_time": 1372.68
+    },
+    {
+      "index": 132,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "El torneo que llegue más lejos creo que duró como siete días.",
+      "raw_text": "El torneo que llegue más lejos creo que duró como siete días.",
+      "start_time": 1374.2,
+      "end_time": 1378.25
+    },
+    {
+      "index": 133,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Y yo llegué hasta el día número tres, uno de la Serie Mundial, de esos que televisaban allá en Las Vegas.",
+      "raw_text": "Y yo llegué hasta el día número tres, uno de la Serie Mundial, de esos que televisaban allá en Las Vegas.",
+      "start_time": 1378.25,
+      "end_time": 1384.13
+    },
+    {
+      "index": 134,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Pero hijo, le estoy brincando.",
+      "raw_text": "Pero hijo, le estoy brincando.",
+      "start_time": 1385.01,
+      "end_time": 1386.29
+    },
+    {
+      "index": 135,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Pero sí, finalmente hay mucha comunidad aquí en Monterrey que sabe que yo organizo buenos torneos.",
+      "raw_text": "Pero sí, finalmente hay mucha comunidad aquí en Monterrey que sabe que yo organizo buenos torneos.",
+      "start_time": 1386.85,
+      "end_time": 1394.85
+    },
+    {
+      "index": 136,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Por qué?",
+      "raw_text": "¿Por qué?",
+      "start_time": 1394.93,
+      "end_time": 1395.37
+    },
+    {
+      "index": 137,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Porque tengo mucha historia organizándolos y la única manera que van a poder acceder a estos torneos va a ser a través de estos tokens.",
+      "raw_text": "Porque tengo mucha historia organizándolos y la única manera que van a poder acceder a estos torneos va a ser a través de estos tokens.",
+      "start_time": 1395.37,
+      "end_time": 1403.09
+    },
+    {
+      "index": 138,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Estoy obligando a la gente a tener una experiencia presencial que ellos ya saben que es buena.",
+      "raw_text": "Estoy obligando a la gente a tener una experiencia presencial que ellos ya saben que es buena.",
+      "start_time": 1404.13,
+      "end_time": 1408.93
+    },
+    {
+      "index": 139,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Porque ya muchos de los que estoy invitando son de esos cuarenta, cincuenta que venían semana a semana.",
+      "raw_text": "Porque ya muchos de los que estoy invitando son de esos cuarenta, cincuenta que venían semana a semana.",
+      "start_time": 1409.17,
+      "end_time": 1415.09
+    },
+    {
+      "index": 140,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ya saben cómo son los torneos, ya saben cómo son las mesas, ya saben cómo es la dinámica, ya saben las reglas también del juego.",
+      "raw_text": "Ya saben cómo son los torneos, ya saben cómo son las mesas, ya saben cómo es la dinámica, ya saben las reglas también del juego.",
+      "start_time": 1416.05,
+      "end_time": 1424.37
+    },
+    {
+      "index": 141,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Yo creo que en esa época llegamos a juntarnos a lo largo de dos años, yo creo que unas 50, 60 veces fácil.",
+      "raw_text": "Yo creo que en esa época llegamos a juntarnos a lo largo de dos años, yo creo que unas 50, 60 veces fácil.",
+      "start_time": 1425.17,
+      "end_time": 1432.77
+    },
+    {
+      "index": 142,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "No, mentira.",
+      "raw_text": "No, mentira.",
+      "start_time": 1432.77,
+      "end_time": 1433.49
+    },
+    {
+      "index": 143,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Yo creo que más por ahí tengo las tablas.",
+      "raw_text": "Yo creo que más por ahí tengo las tablas.",
+      "start_time": 1433.49,
+      "end_time": 1435.45
+    },
+    {
+      "index": 144,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "De todas las temporadas que hicimos.",
+      "raw_text": "De todas las temporadas que hicimos.",
+      "start_time": 1436.97,
+      "end_time": 1438.41
+    },
+    {
+      "index": 145,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Porque hacíamos temporadas de 20 torneos y dependiendo de la posición en la que terminabas en el torneo, hay gente que quedaba en último lugar.",
+      "raw_text": "Porque hacíamos temporadas de 20 torneos y dependiendo de la posición en la que terminabas en el torneo, hay gente que quedaba en último lugar.",
+      "start_time": 1438.41,
+      "end_time": 1448.49
+    },
+    {
+      "index": 146,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Porque entra la gente al torneo, se sientan las 20 personas y empiezan a jugar, pum, pum, pum, PUM, PUM.",
+      "raw_text": "Porque entra la gente al torneo, se sientan las 20 personas y empiezan a jugar, pum, pum, pum, PUM, PUM.",
+      "start_time": 1448.65,
+      "end_time": 1453.77
+    },
+    {
+      "index": 147,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "El lote de fichas que tú tienes es fijo, ya no te dan más en algunos torneos.",
+      "raw_text": "El lote de fichas que tú tienes es fijo, ya no te dan más en algunos torneos.",
+      "start_time": 1454.01,
+      "end_time": 1458.74
+    },
+    {
+      "index": 148,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "En otros torneos te pueden llegar a dar unas fichas.",
+      "raw_text": "En otros torneos te pueden llegar a dar unas fichas.",
+      "start_time": 1458.98,
+      "end_time": 1461.42
+    },
+    {
+      "index": 149,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "En el caso de este torneo te van a dar un lote.",
+      "raw_text": "En el caso de este torneo te van a dar un lote.",
+      "start_time": 1461.42,
+      "end_time": 1464.42
+    },
+    {
+      "index": 150,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Si te acabas ese lote, pum, sales del torneo, ya no estás participando.",
+      "raw_text": "Si te acabas ese lote, pum, sales del torneo, ya no estás participando.",
+      "start_time": 1464.74,
+      "end_time": 1469.3
+    },
+    {
+      "index": 151,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "El dinero que tú utilizaste para entrar al torneo ya lo perdiste, ya no puedes jugar ese torneo y adiós, sales.",
+      "raw_text": "El dinero que tú utilizaste para entrar al torneo ya lo perdiste, ya no puedes jugar ese torneo y adiós, sales.",
+      "start_time": 1469.3,
+      "end_time": 1477.94
+    },
+    {
+      "index": 152,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Entonces hay una posición, hay gente, supongamos que son 20 personas, el primero que va saliendo queda en el lugar 20, y así sucesivamente.",
+      "raw_text": "Entonces hay una posición, hay gente, supongamos que son 20 personas, el primero que va saliendo queda en el lugar 20, y así sucesivamente.",
+      "start_time": 1478.02,
+      "end_time": 1486.22
+    },
+    {
+      "index": 153,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "El último, el que se queda con todas las fichas hasta el final, es el campeón del torneo.",
+      "raw_text": "El último, el que se queda con todas las fichas hasta el final, es el campeón del torneo.",
+      "start_time": 1486.78,
+      "end_time": 1491.02
+    },
+    {
+      "index": 154,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Pero hay primero, segundo, tercer lugar, hasta el veinteavo.",
+      "raw_text": "Pero hay primero, segundo, tercer lugar, hasta el veinteavo.",
+      "start_time": 1491.18,
+      "end_time": 1494.5
+    },
+    {
+      "index": 155,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Qué es lo que hacíamos en estas temporadas?",
+      "raw_text": "¿Qué es lo que hacíamos en estas temporadas?",
+      "start_time": 1494.5,
+      "end_time": 1496.46
+    },
+    {
+      "index": 156,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Asignábamos puntos.",
+      "raw_text": "Asignábamos puntos.",
+      "start_time": 1496.54,
+      "end_time": 1497.98
+    },
+    {
+      "index": 157,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "El primer lugar llevaba la mayor cantidad de puntos, el segundo menos, y así sucesivamente.",
+      "raw_text": "El primer lugar llevaba la mayor cantidad de puntos, el segundo menos, y así sucesivamente.",
+      "start_time": 1498.54,
+      "end_time": 1504.22
+    },
+    {
+      "index": 158,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Todas esas reglas estaban ya predefinidas previamente para que la gente supiera que torneo a torneo iba a haber una tabla general.",
+      "raw_text": "Todas esas reglas estaban ya predefinidas previamente para que la gente supiera que torneo a torneo iba a haber una tabla general.",
+      "start_time": 1504.38,
+      "end_time": 1514.22
+    },
+    {
+      "index": 159,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Torneo a torneo llevábamos dos, tres torneos, cuatro torneos.",
+      "raw_text": "Torneo a torneo llevábamos dos, tres torneos, cuatro torneos.",
+      "start_time": 1515.18,
+      "end_time": 1519.18
+    },
+    {
+      "index": 160,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Había una tabla general donde íbamos sumando todos los puntos que iba juntando la banda.",
+      "raw_text": "Había una tabla general donde íbamos sumando todos los puntos que iba juntando la banda.",
+      "start_time": 1519.26,
+      "end_time": 1525.5
+    },
+    {
+      "index": 161,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Y al final, después de jugar los 20 torneos, la tabla general, dependiendo de los puntos que habías generado, te decía quién era el campeón de la temporada.",
+      "raw_text": "Y al final, después de jugar los 20 torneos, la tabla general, dependiendo de los puntos que habías generado, te decía quién era el campeón de la temporada.",
+      "start_time": 1525.98,
+      "end_time": 1535.42
+    },
+    {
+      "index": 162,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Y algunas temporadas.",
+      "raw_text": "Y algunas temporadas.",
+      "start_time": 1535.58,
+      "end_time": 1536.78
+    },
+    {
+      "index": 163,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Si no es que en todas, sí, en todas las temporadas que jugamos, que si mal no recuerdo fueron como 10 temporadas, llegamos a mandar a una o dos personas a jugar a Las Vegas torneos de mil, torneos de mil quinientos dólares.",
+      "raw_text": "Si no es que en todas, sí, en todas las temporadas que jugamos, que si mal no recuerdo fueron como 10 temporadas, llegamos a mandar a una o dos personas a jugar a Las Vegas torneos de mil, torneos de mil quinientos dólares.",
+      "start_time": 1538.71,
+      "end_time": 1551.35
+    },
+    {
+      "index": 164,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Y la neta, estaba bien divertido porque tú te esforzabas mucho en jugar toda la temporada, en ir a la gran mayoría de los torneos.",
+      "raw_text": "Y la neta, estaba bien divertido porque tú te esforzabas mucho en jugar toda la temporada, en ir a la gran mayoría de los torneos.",
+      "start_time": 1552.07,
+      "end_time": 1559.99
+    },
+    {
+      "index": 165,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Porque si no ibas, eso también era otra regla, si no ibas a más de 15 torneos en la temporada, no tenías posibilidad de.",
+      "raw_text": "Porque si no ibas, eso también era otra regla, si no ibas a más de 15 torneos en la temporada, no tenías posibilidad de.",
+      "start_time": 1559.99,
+      "end_time": 1566.79
+    },
+    {
+      "index": 166,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Llevar porcentaje.",
+      "raw_text": "Llevar porcentaje.",
+      "start_time": 1568.88,
+      "end_time": 1570
+    },
+    {
+      "index": 167,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Porque ¿Qué es lo que hacíamos?",
+      "raw_text": "Porque ¿Qué es lo que hacíamos?",
+      "start_time": 1570.56,
+      "end_time": 1571.84
+    },
+    {
+      "index": 168,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Cada quien pagaba 200 pesos, 50 pesos, se iban a la bolsa de premios de final de temporada.",
+      "raw_text": "Cada quien pagaba 200 pesos, 50 pesos, se iban a la bolsa de premios de final de temporada.",
+      "start_time": 1572.8,
+      "end_time": 1579.12
+    },
+    {
+      "index": 169,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "150 pesos se quedaban para los premios de ese día.",
+      "raw_text": "150 pesos se quedaban para los premios de ese día.",
+      "start_time": 1579.44,
+      "end_time": 1583.04
+    },
+    {
+      "index": 170,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Y el campeón de ese día se llevaba su premio.",
+      "raw_text": "Y el campeón de ese día se llevaba su premio.",
+      "start_time": 1584.56,
+      "end_time": 1587.12
+    },
+    {
+      "index": 171,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Creo que eran como 3 mil pesos, ¿No?",
+      "raw_text": "Creo que eran como 3 mil pesos, ¿No?",
+      "start_time": 1587.2,
+      "end_time": 1589.2
+    },
+    {
+      "index": 172,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Hacías como un 10x.",
+      "raw_text": "Hacías como un 10x.",
+      "start_time": 1589.2,
+      "end_time": 1590.32
+    },
+    {
+      "index": 173,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "El campeón de ese día se llevaba un 10x.",
+      "raw_text": "El campeón de ese día se llevaba un 10x.",
+      "start_time": 1590.32,
+      "end_time": 1592.72
+    },
+    {
+      "index": 174,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "El segundo lugar se llevaba como un 5x.",
+      "raw_text": "El segundo lugar se llevaba como un 5x.",
+      "start_time": 1594.37,
+      "end_time": 1596.13
+    },
+    {
+      "index": 175,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "El tercer lugar se llevaba comom un 2x.",
+      "raw_text": "El tercer lugar se llevaba comom un 2x.",
+      "start_time": 1596.53,
+      "end_time": 1598.77
+    },
+    {
+      "index": 176,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Creo que premiamos 3 o 4 personas, no eran muchos premios.",
+      "raw_text": "Creo que premiamos 3 o 4 personas, no eran muchos premios.",
+      "start_time": 1599.41,
+      "end_time": 1602.77
+    },
+    {
+      "index": 177,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ellos se llevaban los 20 pelados por 150 personas.",
+      "raw_text": "Ellos se llevaban los 20 pelados por 150 personas.",
+      "start_time": 1602.77,
+      "end_time": 1608.77
+    },
+    {
+      "index": 178,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Se dividían entre esos 3.",
+      "raw_text": "Se dividían entre esos 3.",
+      "start_time": 1609.01,
+      "end_time": 1610.69
+    },
+    {
+      "index": 179,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Y los 50 por 20 se iban a la bolsa general.",
+      "raw_text": "Y los 50 por 20 se iban a la bolsa general.",
+      "start_time": 1611.01,
+      "end_time": 1613.89
+    },
+    {
+      "index": 180,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Y esa bolsa general era la que utilizábamos para pagar el vuelo, pagar la estancia, pagar la entrada del torneo.",
+      "raw_text": "Y esa bolsa general era la que utilizábamos para pagar el vuelo, pagar la estancia, pagar la entrada del torneo.",
+      "start_time": 1614.21,
+      "end_time": 1624.54
+    },
+    {
+      "index": 181,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Y la gente que jugaba esos torneos de 1000 y 1500 dólares.",
+      "raw_text": "Y la gente que jugaba esos torneos de 1000 y 1500 dólares.",
+      "start_time": 1624.54,
+      "end_time": 1628.42
+    },
+    {
+      "index": 182,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Si llegara a ganar, que varios llegaron a ganar y entrar a los premios.",
+      "raw_text": "Si llegara a ganar, que varios llegaron a ganar y entrar a los premios.",
+      "start_time": 1630.82,
+      "end_time": 1634.86
+    },
+    {
+      "index": 183,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Normalmente en estos torneos cobran el 10 % de los jugadores.",
+      "raw_text": "Normalmente en estos torneos cobran el 10 % de los jugadores.",
+      "start_time": 1634.86,
+      "end_time": 1638.18
+    },
+    {
+      "index": 184,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Si en un torneo de estos en Las Vegas se meten mil personas, al menos 100 personas se van a llevar el doble de lo que le metieron y de ahí para arriba hay torneos en los que haces 100x, hay torneos en los que haces 200x tu entrada, hay torneos donde haces 1000x tu entrada, hay tornos de 10 mil dólares que la gente ha ganado 7 millones de dólares.",
+      "raw_text": "Si en un torneo de estos en Las Vegas se meten mil personas, al menos 100 personas se van a llevar el doble de lo que le metieron y de ahí para arriba hay torneos en los que haces 100x, hay torneos en los que haces 200x tu entrada, hay torneos donde haces 1000x tu entrada, hay tornos de 10 mil dólares que la gente ha ganado 7 millones de dólares.",
+      "start_time": 1638.42,
+      "end_time": 1658.36
+    },
+    {
+      "index": 185,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ese es el más grande, el Main Event, donde se meten a jugar 8 mil personas, 6 mil personas, 6 mil por 10 mil.",
+      "raw_text": "Ese es el más grande, el Main Event, donde se meten a jugar 8 mil personas, 6 mil personas, 6 mil por 10 mil.",
+      "start_time": 1658.52,
+      "end_time": 1667.68
+    },
+    {
+      "index": 186,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Imagínense la cantidad de dinero.",
+      "raw_text": "Imagínense la cantidad de dinero.",
+      "start_time": 1667.68,
+      "end_time": 1669.12
+    },
+    {
+      "index": 187,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Entonces el primer lugar se llega a llevar, se ha llegado a llevar más de 10 millones de dólares.",
+      "raw_text": "Entonces el primer lugar se llega a llevar, se ha llegado a llevar más de 10 millones de dólares.",
+      "start_time": 1669.12,
+      "end_time": 1673.72
+    },
+    {
+      "index": 188,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "La neta son torneos donde se junta una buena lana.",
+      "raw_text": "La neta son torneos donde se junta una buena lana.",
+      "start_time": 1674.61,
+      "end_time": 1676.93
+    },
+    {
+      "index": 189,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Los torneos que nosotros jugábamos o los que llegábamos a mandar a la gente a jugar eran de mil, mil quinientos y el primer lugar eran seiscientos mil, quinientos, mil, cuatrocientos mil más o menos después de seis días de juego.",
+      "raw_text": "Los torneos que nosotros jugábamos o los que llegábamos a mandar a la gente a jugar eran de mil, mil quinientos y el primer lugar eran seiscientos mil, quinientos, mil, cuatrocientos mil más o menos después de seis días de juego.",
+      "start_time": 1677.33,
+      "end_time": 1693.17
+    },
+    {
+      "index": 190,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Entonces estos ganadores de temporada iban a Las Vegas todo pagado, jugaban el torneo y si ganaban algo de premios se dividía entre todos los que habían jugado más de 15 torneos en esa temporada.",
+      "raw_text": "Entonces estos ganadores de temporada iban a Las Vegas todo pagado, jugaban el torneo y si ganaban algo de premios se dividía entre todos los que habían jugado más de 15 torneos en esa temporada.",
+      "start_time": 1693.57,
+      "end_time": 1708.41
+    },
+    {
+      "index": 191,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Estaba muy chido porque hacíamos una economía circular ahí bien interesante donde una todos iban a jugar el torneo diario de esa temporada, supongamos temporada 1, torneo 1 jugábamos, el ganador se llevaba su lana, todos los que participaron en ese torneo aportaban para el la bolsa principal donde iban todos los jugadores a ganar ese viaje a Las Vegas y aparte apoyabas al güey que iba a ganar Las Vegas y te convenía que le fuera bien porque si al güey que iba a ganar Las Vegas ganaba, te llevabas un porcentaje de esa ganancia.",
+      "raw_text": "Estaba muy chido porque hacíamos una economía circular ahí bien interesante donde una todos iban a jugar el torneo diario de esa temporada, supongamos temporada 1, torneo 1 jugábamos, el ganador se llevaba su lana, todos los que participaron en ese torneo aportaban para el la bolsa principal donde iban todos los jugadores a ganar ese viaje a Las Vegas y aparte apoyabas al güey que iba a ganar Las Vegas y te convenía que le fuera bien porque si al güey que iba a ganar Las Vegas ganaba, te llevabas un porcentaje de esa ganancia.",
+      "start_time": 1708.49,
+      "end_time": 1745.43
+    },
+    {
+      "index": 192,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Entonces estaba muy chido, Hicimos ahí una dinámica muy interesante donde, como les decía, Llegamos a jugar 10 temporadas, llegamos a jugar más de fácilmente 100 torneos locales.",
+      "raw_text": "Entonces estaba muy chido, Hicimos ahí una dinámica muy interesante donde, como les decía, Llegamos a jugar 10 temporadas, llegamos a jugar más de fácilmente 100 torneos locales.",
+      "start_time": 1745.43,
+      "end_time": 1758.21
+    },
+    {
+      "index": 193,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Algunos los hacíamos en casas de amigos, otros llegamos a hacer en casas donde yo vivía en ese entonces.",
+      "raw_text": "Algunos los hacíamos en casas de amigos, otros llegamos a hacer en casas donde yo vivía en ese entonces.",
+      "start_time": 1758.45,
+      "end_time": 1766.45
+    },
+    {
+      "index": 194,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Mis papás nos llegaron a prestar su casa para hacer uno que otro torneo teníamos.",
+      "raw_text": "Mis papás nos llegaron a prestar su casa para hacer uno que otro torneo teníamos.",
+      "start_time": 1767.57,
+      "end_time": 1774.73
+    },
+    {
+      "index": 195,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Llegamos a tener un sótano totalmente para nosotros en la oficina de unos amigos donde hacíamos torneos.",
+      "raw_text": "Llegamos a tener un sótano totalmente para nosotros en la oficina de unos amigos donde hacíamos torneos.",
+      "start_time": 1774.73,
+      "end_time": 1780.61
+    },
+    {
+      "index": 196,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Entonces tengo una comunidad grande, bueno no tengo, pero soy parte de una comunidad grande de jugadores de torneos que sigue habiendo torneos interesantes aquí en México y veo un boom regresar interesante de la gente que está jugando póker, la verdad.",
+      "raw_text": "Entonces tengo una comunidad grande, bueno no tengo, pero soy parte de una comunidad grande de jugadores de torneos que sigue habiendo torneos interesantes aquí en México y veo un boom regresar interesante de la gente que está jugando póker, la verdad.",
+      "start_time": 1780.69,
+      "end_time": 1796.9
+    },
+    {
+      "index": 197,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Veo plataformas que están empezando a meterle mucha lana a publicidad también veo influencers de la talla de y regios influencers de aquí locales.",
+      "raw_text": "Veo plataformas que están empezando a meterle mucha lana a publicidad también veo influencers de la talla de y regios influencers de aquí locales.",
+      "start_time": 1797.299,
+      "end_time": 1806.82
+    },
+    {
+      "index": 198,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Está el Roberto Martínez que hace creativo y que tiene un podcast muy bueno, está Maurice.",
+      "raw_text": "Está el Roberto Martínez que hace creativo y que tiene un podcast muy bueno, está Maurice.",
+      "start_time": 1806.9,
+      "end_time": 1812.42
+    },
+    {
+      "index": 199,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Diek que también por ahí creo que juega el otro loco este Adrián Marcelo también es jugador de torneos y de cash, veo un boom interesante en Monterrey con el tema de los jugadores de torneos de Texas Hall de media baraja y la neta está muy muy muy padre porque hay un chorro de matemática en contar cartas, en saber qué es probablemente viene dependiendo de lo que tú tienes y de lo que crees que tiene el otro, hay un tema de psicología súper padre, hay un tema de administración de riesgo también muy muy interesante porque tienes decisiones donde a veces son 50 50 y dependiendo de la fase en el torneo que estés jugando a veces te conviene hacer ese flip y a veces no o son decisiones de 80 20 pero a lo mejor en fases muy tempranas no quieres tener el 80 20 porque existe la posibilidad de que salgas y sal en ese momento a lo mejor no conviene.",
+      "raw_text": "Diek que también por ahí creo que juega el otro loco este Adrián Marcelo también es jugador de torneos y de cash, veo un boom interesante en Monterrey con el tema de los jugadores de torneos de Texas Hall de media baraja y la neta está muy muy muy padre porque hay un chorro de matemática en contar cartas, en saber qué es probablemente viene dependiendo de lo que tú tienes y de lo que crees que tiene el otro, hay un tema de psicología súper padre, hay un tema de administración de riesgo también muy muy interesante porque tienes decisiones donde a veces son 50 50 y dependiendo de la fase en el torneo que estés jugando a veces te conviene hacer ese flip y a veces no o son decisiones de 80 20 pero a lo mejor en fases muy tempranas no quieres tener el 80 20 porque existe la posibilidad de que salgas y sal en ese momento a lo mejor no conviene.",
+      "start_time": 1814.1,
+      "end_time": 1876.1
+    },
+    {
+      "index": 200,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Entonces hay mucho tema de estrategia, hay mucho tema psicológico, hay mucho tema de administración de bankroll porque creo que es muy similar lo que hacemos normalmente acá.",
+      "raw_text": "Entonces hay mucho tema de estrategia, hay mucho tema psicológico, hay mucho tema de administración de bankroll porque creo que es muy similar lo que hacemos normalmente acá.",
+      "start_time": 1876.1,
+      "end_time": 1888.7
+    },
+    {
+      "index": 201,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "La gente que shitcoin, que hace mucho trading y que invierte en este tipo de activos riesgosos, tienes que dimensionar el tamaño de la inversión, tienes que tener un plan de entrada, un plan de salida.",
+      "raw_text": "La gente que shitcoin, que hace mucho trading y que invierte en este tipo de activos riesgosos, tienes que dimensionar el tamaño de la inversión, tienes que tener un plan de entrada, un plan de salida.",
+      "start_time": 1890.379,
+      "end_time": 1902.38
+    },
+    {
+      "index": 202,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "En el tema de los torneos es igual porque hay n torneos y dependiendo de la gente que esté inscrita en los torneos es la dificultad que puede haber, el costo, el tiempo en lo que dura, cuántas fichas te dan, Si te dan 3.000 fichas es muy diferente que si te dan 5.000.",
+      "raw_text": "En el tema de los torneos es igual porque hay n torneos y dependiendo de la gente que esté inscrita en los torneos es la dificultad que puede haber, el costo, el tiempo en lo que dura, cuántas fichas te dan, Si te dan 3.000 fichas es muy diferente que si te dan 5.000.",
+      "start_time": 1903.42,
+      "end_time": 1920.3
+    },
+    {
+      "index": 203,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Lo que pasa en estos torneos es que como te dan una cantidad fija de fichas.",
+      "raw_text": "¿Lo que pasa en estos torneos es que como te dan una cantidad fija de fichas.",
+      "start_time": 1921.82,
+      "end_time": 1926.06
+    },
+    {
+      "index": 204,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Las apuestas ciegas van subiendo siempre cada que hay una mano nueva hay dos apuestas ciegas, una chica y una grande, esos güeyes sí o sí después del dealer, el dealer es un botoncito blanco que marca dónde empieza la mano, después del dealer está la ciega chica o la ciega grande, small blind y big blind como le llaman en inglés, ellos son apuestas obligatorias y ese monto de apuestas va subiendo determinado tiempo, se llaman blinds y se llama niveles, Los niveles de las apuestas van subiendo, para qué?",
+      "raw_text": "Las apuestas ciegas van subiendo siempre cada que hay una mano nueva hay dos apuestas ciegas, una chica y una grande, esos güeyes sí o sí después del dealer, el dealer es un botoncito blanco que marca dónde empieza la mano, después del dealer está la ciega chica o la ciega grande, small blind y big blind como le llaman en inglés, ellos son apuestas obligatorias y ese monto de apuestas va subiendo determinado tiempo, se llaman blinds y se llama niveles, Los niveles de las apuestas van subiendo, para qué?",
+      "start_time": 1927.74,
+      "end_time": 1965.8
+    },
+    {
+      "index": 205,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Para que la gente se vaya saliendo, para que poco a poco fomente que la gente apueste sus fichas o las meta adentro.",
+      "raw_text": "Para que la gente se vaya saliendo, para que poco a poco fomente que la gente apueste sus fichas o las meta adentro.",
+      "start_time": 1965.8,
+      "end_time": 1975
+    },
+    {
+      "index": 206,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Del pozo por así decirlo, para ganar las de los demás y vaya más acción para que vaya saliendo la gente.",
+      "raw_text": "Del pozo por así decirlo, para ganar las de los demás y vaya más acción para que vaya saliendo la gente.",
+      "start_time": 1976.52,
+      "end_time": 1983.96
+    },
+    {
+      "index": 207,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Estos blinds o estos tiempos en los que suben la cantidad de fichas que tienes que apostar ciegamente, también afectan mucho.",
+      "raw_text": "Estos blinds o estos tiempos en los que suben la cantidad de fichas que tienes que apostar ciegamente, también afectan mucho.",
+      "start_time": 1984.68,
+      "end_time": 1992.39
+    },
+    {
+      "index": 208,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Si son blinds o niveles muy largos, el torneo puede llegar a durar días.",
+      "raw_text": "Si son blinds o niveles muy largos, el torneo puede llegar a durar días.",
+      "start_time": 1992.39,
+      "end_time": 1998.31
+    },
+    {
+      "index": 209,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Si son niveles de blinds muy cortos, puede llegar a durar horas.",
+      "raw_text": "Si son niveles de blinds muy cortos, puede llegar a durar horas.",
+      "start_time": 1998.55,
+      "end_time": 2002.709
+    },
+    {
+      "index": 210,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Y hay torneos que tú quieres que dure 4 horas, por qué?",
+      "raw_text": "¿Y hay torneos que tú quieres que dure 4 horas, por qué?",
+      "start_time": 2002.87,
+      "end_time": 2005.63
+    },
+    {
+      "index": 211,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Porque nomás tienes un día para poderlo ejecutar.",
+      "raw_text": "Porque nomás tienes un día para poderlo ejecutar.",
+      "start_time": 2005.63,
+      "end_time": 2008.51
+    },
+    {
+      "index": 212,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Entonces tienes que ajustar la cantidad de fichas que les das, tienes que ajustar la cantidad de tiempo que tiene cada nivel de apuesta ciega, etcétera, etcétera, etcétera.",
+      "raw_text": "Entonces tienes que ajustar la cantidad de fichas que les das, tienes que ajustar la cantidad de tiempo que tiene cada nivel de apuesta ciega, etcétera, etcétera, etcétera.",
+      "start_time": 2008.51,
+      "end_time": 2018.35
+    },
+    {
+      "index": 213,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Hay mucho que definir.",
+      "raw_text": "Hay mucho que definir.",
+      "start_time": 2018.43,
+      "end_time": 2019.63
+    },
+    {
+      "index": 214,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Todo eso es algo que cuando estuvimos haciendo estos eventos en el 2007, es más, voy a poner aquí el reportaje, está bien padre.",
+      "raw_text": "Todo eso es algo que cuando estuvimos haciendo estos eventos en el 2007, es más, voy a poner aquí el reportaje, está bien padre.",
+      "start_time": 2019.87,
+      "end_time": 2028.67
+    },
+    {
+      "index": 215,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Es un reportaje que sacamos que patrocinó Poker Stars, en ese entonces era la plataforma más grande, lo pagaron ellos en la revista ESPN cuando estaba peleando.",
+      "raw_text": "Es un reportaje que sacamos que patrocinó Poker Stars, en ese entonces era la plataforma más grande, lo pagaron ellos en la revista ESPN cuando estaba peleando.",
+      "start_time": 2033.15,
+      "end_time": 2044.84
+    },
+    {
+      "index": 216,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Aquí está, miren, estaba peleando Juan Manuel Márquez y Manny Pacquiao.",
+      "raw_text": "Aquí está, miren, estaba peleando Juan Manuel Márquez y Manny Pacquiao.",
+      "start_time": 2049.24,
+      "end_time": 2054.6
+    },
+    {
+      "index": 217,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Está muy chido, la neta.",
+      "raw_text": "Está muy chido, la neta.",
+      "start_time": 2055.24,
+      "end_time": 2056.76
+    },
+    {
+      "index": 218,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Poker Star se aventó una sección de 1 2 3 4 5 6 7 8 9 10 11 2 3 14 15 16 7 18 9 20 29.",
+      "raw_text": "Poker Star se aventó una sección de 1 2 3 4 5 6 7 8 9 10 11 2 3 14 15 16 7 18 9 20 29.",
+      "start_time": 2057.48,
+      "end_time": 2067.96
+    },
+    {
+      "index": 219,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Como 20, como casi 30 páginas, no más, como treinta y tantas.",
+      "raw_text": "Como 20, como casi 30 páginas, no más, como treinta y tantas.",
+      "start_time": 2068.39,
+      "end_time": 2073.83
+    },
+    {
+      "index": 220,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Y en una de esas páginas está el reportaje de el modelo Royal Bunker, que es el cómo nosotros crecimos esa comunidad, cómo llegamos a hacer esos torneos, cómo llegamos a mandar a gente a Las Vegas.",
+      "raw_text": "Y en una de esas páginas está el reportaje de el modelo Royal Bunker, que es el cómo nosotros crecimos esa comunidad, cómo llegamos a hacer esos torneos, cómo llegamos a mandar a gente a Las Vegas.",
+      "start_time": 2074.07,
+      "end_time": 2088.47
+    },
+    {
+      "index": 221,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Vienen fechas, está bien padre, la neta.",
+      "raw_text": "Vienen fechas, está bien padre, la neta.",
+      "start_time": 2089.03,
+      "end_time": 2091.99
+    },
+    {
+      "index": 222,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Y qué es lo que está sucediendo?",
+      "raw_text": "¿Y qué es lo que está sucediendo?",
+      "start_time": 2091.99,
+      "end_time": 2093.23
+    },
+    {
+      "index": 223,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Yo con el boom y con la necesidad de probar cosas nuevas en este ecosistema, obligar a la gente a vivir una experiencia de un torneo de este tipo organizado por un servidor, con la reputación que tengo organizando torneos y con la comunidad de jugadores de baraja, creo que es una buena opción.",
+      "raw_text": "Yo con el boom y con la necesidad de probar cosas nuevas en este ecosistema, obligar a la gente a vivir una experiencia de un torneo de este tipo organizado por un servidor, con la reputación que tengo organizando torneos y con la comunidad de jugadores de baraja, creo que es una buena opción.",
+      "start_time": 2093.23,
+      "end_time": 2115.59
+    },
+    {
+      "index": 224,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Hace unos meses hicimos una prueba cuando teníamos el local ahí de MX Web, tuvimos un torneo, hicimos una dinámica de igual con tokens, pero estuvo muy mal.",
+      "raw_text": "Hace unos meses hicimos una prueba cuando teníamos el local ahí de MX Web, tuvimos un torneo, hicimos una dinámica de igual con tokens, pero estuvo muy mal.",
+      "start_time": 2115.59,
+      "end_time": 2129.36
+    },
+    {
+      "index": 225,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Usamos wallets rainbow, usamos tokens normales para hacer la transmisión y recepción de los tokens.",
+      "raw_text": "Usamos wallets rainbow, usamos tokens normales para hacer la transmisión y recepción de los tokens.",
+      "start_time": 2130.32,
+      "end_time": 2137.72
+    },
+    {
+      "index": 226,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Fue un pedo, para que la gente supiera dónde mandarlos a la bóveda multifirma.",
+      "raw_text": "Fue un pedo, para que la gente supiera dónde mandarlos a la bóveda multifirma.",
+      "start_time": 2137.72,
+      "end_time": 2142.04
+    },
+    {
+      "index": 227,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Fue un pedo, la neta.",
+      "raw_text": "Fue un pedo, la neta.",
+      "start_time": 2142.04,
+      "end_time": 2143.28
+    },
+    {
+      "index": 228,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "No me gustó la experiencia.",
+      "raw_text": "No me gustó la experiencia.",
+      "start_time": 2143.28,
+      "end_time": 2144.56
+    },
+    {
+      "index": 229,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Sí tokenizamos los lotes hace meses, que hicimos el evento allá en MX, pero no estuvo chido.",
+      "raw_text": "Sí tokenizamos los lotes hace meses, que hicimos el evento allá en MX, pero no estuvo chido.",
+      "start_time": 2145.92,
+      "end_time": 2152.17
+    },
+    {
+      "index": 230,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Creo que ahora con esta aplicación que estoy haciendo nueva, creo que es mucho más sencillo.",
+      "raw_text": "Creo que ahora con esta aplicación que estoy haciendo nueva, creo que es mucho más sencillo.",
+      "start_time": 2155.28,
+      "end_time": 2161.52
+    },
+    {
+      "index": 231,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Creo que la siguiente prueba que hagamos para el siguiente torneo va a ser mucho más fácil.",
+      "raw_text": "Creo que la siguiente prueba que hagamos para el siguiente torneo va a ser mucho más fácil.",
+      "start_time": 2161.6,
+      "end_time": 2166.8
+    },
+    {
+      "index": 232,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Entonces chequen por ahí si están conectados.",
+      "raw_text": "Entonces chequen por ahí si están conectados.",
+      "start_time": 2166.88,
+      "end_time": 2170.56
+    },
+    {
+      "index": 233,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Aquí ya está pineado arriba royalbunker Vercel App y les explico rápido.",
+      "raw_text": "Aquí ya está pineado arriba royalbunker Vercel App y les explico rápido.",
+      "start_time": 2170.56,
+      "end_time": 2176.24
+    },
+    {
+      "index": 234,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Tengo.",
+      "raw_text": "Tengo.",
+      "start_time": 2176.24,
+      "end_time": 2176.72
+    },
+    {
+      "index": 235,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ah, bueno, Todavía me quedan 13 minutos.",
+      "raw_text": "Ah, bueno, Todavía me quedan 13 minutos.",
+      "start_time": 2176.8,
+      "end_time": 2178.92
+    },
+    {
+      "index": 236,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Cómo funciona el app?",
+      "raw_text": "¿Cómo funciona el app?",
+      "start_time": 2179.48,
+      "end_time": 2180.6
+    },
+    {
+      "index": 237,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "La idea y viene más o menos explicado y ya me estoy dando cuenta que me hace falta muchísimo mejorar mi storytelling porque yo creo que estoy explicando las cosas y no me explico del todo bien como quisiera, pero si van al tweet pineado de banda web van a poder ver el hilo.",
+      "raw_text": "La idea y viene más o menos explicado y ya me estoy dando cuenta que me hace falta muchísimo mejorar mi storytelling porque yo creo que estoy explicando las cosas y no me explico del todo bien como quisiera, pero si van al tweet pineado de banda web van a poder ver el hilo.",
+      "start_time": 2181.56,
+      "end_time": 2202.12
+    },
+    {
+      "index": 238,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "La idea de esta aplicación es, ahorita lo que estoy probando es solo que funcione, ¿No?",
+      "raw_text": "La idea de esta aplicación es, ahorita lo que estoy probando es solo que funcione, ¿No?",
+      "start_time": 2202.28,
+      "end_time": 2206.87
+    },
+    {
+      "index": 239,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Uy, no se ve.",
+      "raw_text": "Uy, no se ve.",
+      "start_time": 2206.87,
+      "end_time": 2207.87
+    },
+    {
+      "index": 240,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Pineado, déjamelo Pineo Carrera.",
+      "raw_text": "Pineado, déjamelo Pineo Carrera.",
+      "start_time": 2209.55,
+      "end_time": 2211.95
+    },
+    {
+      "index": 241,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Primero que funcione, ¿Qué es lo que va a pasar?",
+      "raw_text": "Primero que funcione, ¿Qué es lo que va a pasar?",
+      "start_time": 2213.47,
+      "end_time": 2216.51
+    },
+    {
+      "index": 242,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Si tú quieres entrar al torneo, tienes que pagar una cuota, luego se automatizará.",
+      "raw_text": "Si tú quieres entrar al torneo, tienes que pagar una cuota, luego se automatizará.",
+      "start_time": 2216.51,
+      "end_time": 2221.389
+    },
+    {
+      "index": 243,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Yo creo que al rato voy a meter la posibilidad de pagar cripto y con tarjeta de crédito.",
+      "raw_text": "Yo creo que al rato voy a meter la posibilidad de pagar cripto y con tarjeta de crédito.",
+      "start_time": 2221.389,
+      "end_time": 2226.27
+    },
+    {
+      "index": 244,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Falta agregarlo a la aplicación, pero por lo pronto, si tú quieres jugar el torneo, tienes que mandarme efectivo, darme el efectivo a mí físicamente y yo te mando tus tokens, tienes que hacer una transacción a mi cuenta en Mantle y ya yo verifico y agrego tus tokens, etcétera.",
+      "raw_text": "Falta agregarlo a la aplicación, pero por lo pronto, si tú quieres jugar el torneo, tienes que mandarme efectivo, darme el efectivo a mí físicamente y yo te mando tus tokens, tienes que hacer una transacción a mi cuenta en Mantle y ya yo verifico y agrego tus tokens, etcétera.",
+      "start_time": 2226.27,
+      "end_time": 2243.84
+    },
+    {
+      "index": 245,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "No te tienes que inscribir conmigo, conmigo pagas, yo te mando tus tres tokens.",
+      "raw_text": "No te tienes que inscribir conmigo, conmigo pagas, yo te mando tus tres tokens.",
+      "start_time": 2243.84,
+      "end_time": 2249.84
+    },
+    {
+      "index": 246,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ahorita son gratuitos, estoy regalando a los primeros 100.",
+      "raw_text": "Ahorita son gratuitos, estoy regalando a los primeros 100.",
+      "start_time": 2249.84,
+      "end_time": 2254.36
+    },
+    {
+      "index": 247,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Si son 333 tokens nada más, las primeras 100 personas que se inscriban con login social les voy a mandar un MNT que son como 70 centavos de dólar, entonces unos 18 pesos y tres tokens RB.",
+      "raw_text": "Si son 333 tokens nada más, las primeras 100 personas que se inscriban con login social les voy a mandar un MNT que son como 70 centavos de dólar, entonces unos 18 pesos y tres tokens RB.",
+      "start_time": 2254.36,
+      "end_time": 2270.08
+    },
+    {
+      "index": 248,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Esos tokens RB al recibirlos en su cartera les debe aparecer automáticamente el saldo.",
+      "raw_text": "Esos tokens RB al recibirlos en su cartera les debe aparecer automáticamente el saldo.",
+      "start_time": 2270.64,
+      "end_time": 2276.8
+    },
+    {
+      "index": 249,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Cuando ustedes crean una cuenta o un wallet con su correo, automáticamente les va a generar una wallet que yo ya sé, yo ya identifico cuál es tu wallet porque la tengo amarrada a tu correo, no tengo la clave privada de nuevo, esos son wallets custodiales, o sea, tú controlas esa wallet, yo no tengo el control, pero lo que estoy haciendo es, te estoy regalando gas, te estoy regalando MNT, estamos usando mantle, entonces le estoy regalando un mantle, un mnt que les alcanza para hacer como mil transacciones.",
+      "raw_text": "Cuando ustedes crean una cuenta o un wallet con su correo, automáticamente les va a generar una wallet que yo ya sé, yo ya identifico cuál es tu wallet porque la tengo amarrada a tu correo, no tengo la clave privada de nuevo, esos son wallets custodiales, o sea, tú controlas esa wallet, yo no tengo el control, pero lo que estoy haciendo es, te estoy regalando gas, te estoy regalando MNT, estamos usando mantle, entonces le estoy regalando un mantle, un mnt que les alcanza para hacer como mil transacciones.",
+      "start_time": 2277.04,
+      "end_time": 2313.19
+    },
+    {
+      "index": 250,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Entonces yo a la banda le mando el gas, le mando los tokens, la banda ya tiene gas para hacer transacciones, ya tiene los tokens que necesita para entrar al torneo, en este caso es una prueba, entonces esos tres tokens que recibes tú tienes dos opciones, o te los quedas o le picas el botón y los mandas a Nouns MX.",
+      "raw_text": "Entonces yo a la banda le mando el gas, le mando los tokens, la banda ya tiene gas para hacer transacciones, ya tiene los tokens que necesita para entrar al torneo, en este caso es una prueba, entonces esos tres tokens que recibes tú tienes dos opciones, o te los quedas o le picas el botón y los mandas a Nouns MX.",
+      "start_time": 2313.35,
+      "end_time": 2335.36
+    },
+    {
+      "index": 251,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Tu decisión tendrá consecuencias, no te puedo recomendar qué hacer, quédatelos o envíalos, no sé, las reglas del juego ya están definidas, les avisaré qué pasará, yo creo que en un par de semanas, ya que me pida subir de nivel, porque ahorita tengo 100 transacciones por segundo, si nos acabamos esas 100 transacciones por segurundo en las siguientes semanas voy a tener que pagar como 80 dólares al mes, entonces ya me va a doler un poquito más.",
+      "raw_text": "Tu decisión tendrá consecuencias, no te puedo recomendar qué hacer, quédatelos o envíalos, no sé, las reglas del juego ya están definidas, les avisaré qué pasará, yo creo que en un par de semanas, ya que me pida subir de nivel, porque ahorita tengo 100 transacciones por segundo, si nos acabamos esas 100 transacciones por segurundo en las siguientes semanas voy a tener que pagar como 80 dólares al mes, entonces ya me va a doler un poquito más.",
+      "start_time": 2338.16,
+      "end_time": 2366.83
+    },
+    {
+      "index": 252,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Nos sale barato hacer estas aplicaciones y más interweb, dependiendo del número de requests que están haciendo tus usuarios es la cantidad de dinero que tienen que pagar.",
+      "raw_text": "Nos sale barato hacer estas aplicaciones y más interweb, dependiendo del número de requests que están haciendo tus usuarios es la cantidad de dinero que tienen que pagar.",
+      "start_time": 2368.52,
+      "end_time": 2378.2
+    },
+    {
+      "index": 253,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Está bien interesante, la neta, qué chido el hackathon, que chido que nos obliguen a usar estas herramientas, porque si no las usas y no pruebas estas aplicaciones no te das cuenta de las limitaciones que tienen y cómo estimar luego proyectos un poquito más grandes.",
+      "raw_text": "Está bien interesante, la neta, qué chido el hackathon, que chido que nos obliguen a usar estas herramientas, porque si no las usas y no pruebas estas aplicaciones no te das cuenta de las limitaciones que tienen y cómo estimar luego proyectos un poquito más grandes.",
+      "start_time": 2378.28,
+      "end_time": 2393.52
+    },
+    {
+      "index": 254,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Entonces ahí estamos construyendo un pólico.",
+      "raw_text": "Entonces ahí estamos construyendo un pólico.",
+      "start_time": 2393.52,
+      "end_time": 2395.2
+    },
+    {
+      "index": 255,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Perdón, pero bueno, ¿Dónde me quedé?",
+      "raw_text": "Perdón, pero bueno, ¿Dónde me quedé?",
+      "start_time": 2395.2,
+      "end_time": 2397.86
+    },
+    {
+      "index": 256,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Ah sí, con tu wallet social, con tu correo, perdón, o con tu login social creas un usuario en el Royal Bunker dapp, cuando creas tu usuario yo tengo que hacer manualmente el airdrop y qué estoy haciendo para hacer estos airdrops?",
+      "raw_text": "¿Ah sí, con tu wallet social, con tu correo, perdón, o con tu login social creas un usuario en el Royal Bunker dapp, cuando creas tu usuario yo tengo que hacer manualmente el airdrop y qué estoy haciendo para hacer estos airdrops?",
+      "start_time": 2397.86,
+      "end_time": 2414.06
+    },
+    {
+      "index": 257,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "No mames, la aplicación que estoy usando, neta, neta, neta, neta, métanse a Nebula, aquí se los voy a opinar, creo que lo posté ayer, no mamen, métanse a Nebula thirdweb.",
+      "raw_text": "No mames, la aplicación que estoy usando, neta, neta, neta, neta, métanse a Nebula, aquí se los voy a opinar, creo que lo posté ayer, no mamen, métanse a Nebula thirdweb.",
+      "start_time": 2414.06,
+      "end_time": 2427.91
+    },
+    {
+      "index": 258,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Com, creo que es conect el wallet que quieras, puedes conectar un wallet, metamask o un rainbow, el wallet que tú quieras, lo conectas y haces transacciones diciéndole las cosas, por ejemplo los airdrops que hice, todo eso está en Mexi, está en el.",
+      "raw_text": "Com, creo que es conect el wallet que quieras, puedes conectar un wallet, metamask o un rainbow, el wallet que tú quieras, lo conectas y haces transacciones diciéndole las cosas, por ejemplo los airdrops que hice, todo eso está en Mexi, está en el.",
+      "start_time": 2428.71,
+      "end_time": 2449.02
+    },
+    {
+      "index": 259,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Uy no quiero space.",
+      "raw_text": "Uy no quiero space.",
+      "start_time": 2449.42,
+      "end_time": 2451.26
+    },
+    {
+      "index": 260,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Si está en Mexi Den II.",
+      "raw_text": "Si está en Mexi Den II.",
+      "start_time": 2451.66,
+      "end_time": 2453.42
+    },
+    {
+      "index": 261,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Sí, aquí está.",
+      "raw_text": "Sí, aquí está.",
+      "start_time": 2456.22,
+      "end_time": 2457.18
+    },
+    {
+      "index": 262,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Entonces entran a Nebula ThirdWeb.",
+      "raw_text": "Entonces entran a Nebula ThirdWeb.",
+      "start_time": 2457.26,
+      "end_time": 2459.82
+    },
+    {
+      "index": 263,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Com estoy casi seguro que es com, conectan su wallet, escogen la red que quieran utilizar, sí, ahí les puse unos videos, ahí está Nebula, Cerweb, comenzamos, ahí está Pineal Space, y les puse también unos videos de cómo estoy utilizando Nebula para hacer los airdrops, entonces esos 40 usuarios, thirdweb me da una tabla, me dice este correo tiene tal wallet, con ese correo, con esa wallet yo agarro todas las wallets, le digo a Nebula, oye Nebula quiero mandar tres tokens de este contrato a todas estas wallets, Nebul hace ahí su proceso, se pone a pensar y me dice, ah quieres hacer todas estas transacciones?",
+      "raw_text": "¿Com estoy casi seguro que es com, conectan su wallet, escogen la red que quieran utilizar, sí, ahí les puse unos videos, ahí está Nebula, Cerweb, comenzamos, ahí está Pineal Space, y les puse también unos videos de cómo estoy utilizando Nebula para hacer los airdrops, entonces esos 40 usuarios, thirdweb me da una tabla, me dice este correo tiene tal wallet, con ese correo, con esa wallet yo agarro todas las wallets, le digo a Nebula, oye Nebula quiero mandar tres tokens de este contrato a todas estas wallets, Nebul hace ahí su proceso, se pone a pensar y me dice, ah quieres hacer todas estas transacciones?",
+      "start_time": 2461.74,
+      "end_time": 2505.78
+    },
+    {
+      "index": 264,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Pum pum pum pum pum, ahí mismo en la pantalla te pone las transacciones.",
+      "raw_text": "¿Pum pum pum pum pum, ahí mismo en la pantalla te pone las transacciones.",
+      "start_time": 2506.26,
+      "end_time": 2510.74
+    },
+    {
+      "index": 265,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Mandas tanto a tal dirección, tanto a tal dirección, tanto a tal dirección, qué es lo que yo hice?",
+      "raw_text": "Mandas tanto a tal dirección, tanto a tal dirección, tanto a tal dirección, qué es lo que yo hice?",
+      "start_time": 2512.66,
+      "end_time": 2518.1
+    },
+    {
+      "index": 266,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Les mandé un MNT, les mandé tres RBs.",
+      "raw_text": "Les mandé un MNT, les mandé tres RBs.",
+      "start_time": 2518.1,
+      "end_time": 2521.7
+    },
+    {
+      "index": 267,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Le dije a Nebula que hiciera el airdrop, le di la dirección, me da las transacciones, ahí lo pueden ver, confirmo cada transacción, la firmo y en chinga, no mames, una locura neta para devs que están operando cosas, si, todavía es medio manual, estoy viendo cómo funciona la API porque lo tengo que integrar a la Royal Bunker, da para poder entrar a la fase 3, recuerden que les dije del cucato que tenías que entrar a la fase 3 para ganar esos entrar a la bolsa de 5 mil dólares mensuales, entonces para poder entrar a la fase 3 necesito integrar Nebula con el API, ando viendo cómo chidos le hago, tengo hasta el 15 de mayo para hacerlo creo, pero ha estado muy buen rato, si no pues a ver cómo lo vendo, diciendo que hice promoción y que lo usé para hacer mis airdrops, pero la neta está bien chido, pueden utilizar, creo que tienen 500 wallets, no sé cuántas blockchains, Testnet, Mainnet, pruébenlo, neta, métanse en Ébula, métanse a Testnet en Arbitrum o en Sepolia Mantul o en Sepolio normal o en el que quieran, consigan algo de tokens Testnet y hagan transacciones, no mames lo fácil, no mames lo chingón para ver, en lugar de ir a buscar el blockchain explorer.",
+      "raw_text": "Le dije a Nebula que hiciera el airdrop, le di la dirección, me da las transacciones, ahí lo pueden ver, confirmo cada transacción, la firmo y en chinga, no mames, una locura neta para devs que están operando cosas, si, todavía es medio manual, estoy viendo cómo funciona la API porque lo tengo que integrar a la Royal Bunker, da para poder entrar a la fase 3, recuerden que les dije del cucato que tenías que entrar a la fase 3 para ganar esos entrar a la bolsa de 5 mil dólares mensuales, entonces para poder entrar a la fase 3 necesito integrar Nebula con el API, ando viendo cómo chidos le hago, tengo hasta el 15 de mayo para hacerlo creo, pero ha estado muy buen rato, si no pues a ver cómo lo vendo, diciendo que hice promoción y que lo usé para hacer mis airdrops, pero la neta está bien chido, pueden utilizar, creo que tienen 500 wallets, no sé cuántas blockchains, Testnet, Mainnet, pruébenlo, neta, métanse en Ébula, métanse a Testnet en Arbitrum o en Sepolia Mantul o en Sepolio normal o en el que quieran, consigan algo de tokens Testnet y hagan transacciones, no mames lo fácil, no mames lo chingón para ver, en lugar de ir a buscar el blockchain explorer.",
+      "start_time": 2523.3,
+      "end_time": 2604.03
+    },
+    {
+      "index": 268,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "En lugar de ir a buscar el blockchain explorer, decirle a Nebula, oye Nébula ayúdame a ver cuántos tokens he enviado, a cuáles direcciones, quién me falta hacer el airdrop, no mames, toda esa información va y revisa la blockchain, tiene todas las blockchains posibles, te genera las transacciones, puedes hacer los airdrops, te da información de a quién le has dado, qué cuánto falta de darle a quién, si es que tú le das una ciertas características, te dice que si te ayuda a hacer un script para hacer esto automático, te dice que si te ayuda a hacer el app para hacer la conexión más fácil, neta está muy loco, no había visto una aplicación tan chingona como Nebula de Third Web para utilizar transacciones, para regalar tokens, para hacer airdrops, para.",
+      "raw_text": "En lugar de ir a buscar el blockchain explorer, decirle a Nebula, oye Nébula ayúdame a ver cuántos tokens he enviado, a cuáles direcciones, quién me falta hacer el airdrop, no mames, toda esa información va y revisa la blockchain, tiene todas las blockchains posibles, te genera las transacciones, puedes hacer los airdrops, te da información de a quién le has dado, qué cuánto falta de darle a quién, si es que tú le das una ciertas características, te dice que si te ayuda a hacer un script para hacer esto automático, te dice que si te ayuda a hacer el app para hacer la conexión más fácil, neta está muy loco, no había visto una aplicación tan chingona como Nebula de Third Web para utilizar transacciones, para regalar tokens, para hacer airdrops, para.",
+      "start_time": 2605.8,
+      "end_time": 2652.11
+    },
+    {
+      "index": 269,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿No sé, me falta probar defi, me falta probar un chorro de cosas, pero bueno, ahí va, poco a poco por ahí les seguiré subiendo información sobre lo que está sucediendo.",
+      "raw_text": "¿No sé, me falta probar defi, me falta probar un chorro de cosas, pero bueno, ahí va, poco a poco por ahí les seguiré subiendo información sobre lo que está sucediendo.",
+      "start_time": 2652.43,
+      "end_time": 2660.9
+    },
+    {
+      "index": 270,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Y es más, ahorita que los tengo aquí, vamos a ver quién ya hizo su cuenta, quién no tenía cuenta, voy a entrar al dashboard también si van a ver mi cuenta, estuve publicando toda la información que te da Third Web, está muy completa, cantidad de usuarios te da.",
+      "raw_text": "Y es más, ahorita que los tengo aquí, vamos a ver quién ya hizo su cuenta, quién no tenía cuenta, voy a entrar al dashboard también si van a ver mi cuenta, estuve publicando toda la información que te da Third Web, está muy completa, cantidad de usuarios te da.",
+      "start_time": 2662.5,
+      "end_time": 2680.58
+    },
+    {
+      "index": 271,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Me lo dejé aquí lo tenía.",
+      "raw_text": "Me lo dejé aquí lo tenía.",
+      "start_time": 2682.67,
+      "end_time": 2684.35
+    },
+    {
+      "index": 272,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Es que Estoy en Bandoweb 3, sí, te da cantidad de request, cantidad de usuarios te da.",
+      "raw_text": "Es que Estoy en Bandoweb 3, sí, te da cantidad de request, cantidad de usuarios te da.",
+      "start_time": 2686.67,
+      "end_time": 2693.23
+    },
+    {
+      "index": 273,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Cuántas transacciones hicieron en total, ya vamos pasando las 3000 y cachito, active Wallets por día, Social Authentication, te da la cantidad de transacciones, yo le pedí detalles del airdrop, cuántos airdrops he hecho, la gran mayoría está haciendo Social Login, está chido, pero hay gente usando Metamask, no sé por qué todavía siguen usando metamask, es una porquería, pero bueno, Metamask, Rainbow, Phantom, Rabbi, bitget, Serion, esas son las wallets que están utilizando para autenticación social, también está esa información muy chida, la gran mayoría es a Google, uno que otro usó email, otro, uno que otro Facebook y uno que otro Apple y luego también me da.",
+      "raw_text": "Cuántas transacciones hicieron en total, ya vamos pasando las 3000 y cachito, active Wallets por día, Social Authentication, te da la cantidad de transacciones, yo le pedí detalles del airdrop, cuántos airdrops he hecho, la gran mayoría está haciendo Social Login, está chido, pero hay gente usando Metamask, no sé por qué todavía siguen usando metamask, es una porquería, pero bueno, Metamask, Rainbow, Phantom, Rabbi, bitget, Serion, esas son las wallets que están utilizando para autenticación social, también está esa información muy chida, la gran mayoría es a Google, uno que otro usó email, otro, uno que otro Facebook y uno que otro Apple y luego también me da.",
+      "start_time": 2696.19,
+      "end_time": 2740.73
+    },
+    {
+      "index": 274,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Cuántas transacciones he hecho, cuántos usuarios diarios, vamos a entrar aquí a ver los usuarios, vamos a ver cuántos han registrado, nadie se ha registrado el día de hoy o todos los que están por aquí?",
+      "raw_text": "Cuántas transacciones he hecho, cuántos usuarios diarios, vamos a entrar aquí a ver los usuarios, vamos a ver cuántos han registrado, nadie se ha registrado el día de hoy o todos los que están por aquí?",
+      "start_time": 2742.25,
+      "end_time": 2753.97
+    },
+    {
+      "index": 275,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ah no, sí me parece.",
+      "raw_text": "Ah no, sí me parece.",
+      "start_time": 2753.97,
+      "end_time": 2755.45
+    },
+    {
+      "index": 276,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Sí, creo que sí se están registrando, a ver si alguien se registra, ahorita le mando el doble de tokens, vamos a ver si aquí veo el último wallet, es de Saldívar y creo que sí lo está administrando por orden, sí, vamos a ver si alguien crea su correo ahorita.",
+      "raw_text": "Sí, creo que sí se están registrando, a ver si alguien se registra, ahorita le mando el doble de tokens, vamos a ver si aquí veo el último wallet, es de Saldívar y creo que sí lo está administrando por orden, sí, vamos a ver si alguien crea su correo ahorita.",
+      "start_time": 2758.01,
+      "end_time": 2775.38
+    },
+    {
+      "index": 277,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "En royalbunker, Vercel app meta, su login social, le voy a mandar el doble de tokens RB, les vamos a mandar 6, vamos a ver aquí lo estoy monitoreando, pero bueno, entonces ¿Qué es lo que pueden hacer?",
+      "raw_text": "En royalbunker, Vercel app meta, su login social, le voy a mandar el doble de tokens RB, les vamos a mandar 6, vamos a ver aquí lo estoy monitoreando, pero bueno, entonces ¿Qué es lo que pueden hacer?",
+      "start_time": 2777.22,
+      "end_time": 2793.11
+    },
+    {
+      "index": 278,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Crean su wallet, se registran, yo al ver que se registran estoy haciendo el airdrop del MNT, el MNT lo pueden sacar, hagan con él lo que quieran, los 3 tokens RB ahí los van a almacenar, si le dan al botón naranja lo van a mandar a noun CMX, no va a haber confirmación, en cuanto ustedes presionen ese botón naranja el token se envía, Pruébenlo si quieren, no sé si les convenga, ya verán en el futuro, es parte de la dinámica que estamos haciendo aquí para encontrar usuarios con estos airdrops.",
+      "raw_text": "Crean su wallet, se registran, yo al ver que se registran estoy haciendo el airdrop del MNT, el MNT lo pueden sacar, hagan con él lo que quieran, los 3 tokens RB ahí los van a almacenar, si le dan al botón naranja lo van a mandar a noun CMX, no va a haber confirmación, en cuanto ustedes presionen ese botón naranja el token se envía, Pruébenlo si quieren, no sé si les convenga, ya verán en el futuro, es parte de la dinámica que estamos haciendo aquí para encontrar usuarios con estos airdrops.",
+      "start_time": 2793.11,
+      "end_time": 2827.27
+    },
+    {
+      "index": 279,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "También luego les voy a mandar mensajito a todos los que, o al menos un correo a todos los que hicieron su cuenta para ver si me ayudan con una entrevista así muy rápida para que me den su impresión.",
+      "raw_text": "También luego les voy a mandar mensajito a todos los que, o al menos un correo a todos los que hicieron su cuenta para ver si me ayudan con una entrevista así muy rápida para que me den su impresión.",
+      "start_time": 2827.27,
+      "end_time": 2837.63
+    },
+    {
+      "index": 280,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Tema de diseño, estoy haciendo esta aplicación, creo que no les he dicho para qué, sí para los torneos, sí para bombardear a banda de otras comunidades a la cadena, meterlos a utilizar la cadena de alguna otra forma con activaciones IRL, pero yo creo y no sé que hay un modelo aquí para activaciones y eventos presenciales.",
+      "raw_text": "Tema de diseño, estoy haciendo esta aplicación, creo que no les he dicho para qué, sí para los torneos, sí para bombardear a banda de otras comunidades a la cadena, meterlos a utilizar la cadena de alguna otra forma con activaciones IRL, pero yo creo y no sé que hay un modelo aquí para activaciones y eventos presenciales.",
+      "start_time": 2837.71,
+      "end_time": 2864.2
+    },
+    {
+      "index": 281,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ahorita estoy hablando con un par de amigos, uno tiene una convención de dermatología muy muy grande, es el presidente del.",
+      "raw_text": "Ahorita estoy hablando con un par de amigos, uno tiene una convención de dermatología muy muy grande, es el presidente del.",
+      "start_time": 2864.2,
+      "end_time": 2872
+    },
+    {
+      "index": 282,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Grupo de dermatólogos de la Asociación Dermatología Mexicana o no sé qué tiene un evento enorme ahora a finales de mayo y muy probablemente hagamos una activación con banda web.",
+      "raw_text": "Grupo de dermatólogos de la Asociación Dermatología Mexicana o no sé qué tiene un evento enorme ahora a finales de mayo y muy probablemente hagamos una activación con banda web.",
+      "start_time": 2873.62,
+      "end_time": 2884.74
+    },
+    {
+      "index": 283,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Y blockchain, y otro amigo está organizando una competencia de cerveza con él, también estamos viendo una activación utilizando blockchain y creo, no sé, yo tengo, yo tengo ahí.",
+      "raw_text": "Y blockchain, y otro amigo está organizando una competencia de cerveza con él, también estamos viendo una activación utilizando blockchain y creo, no sé, yo tengo, yo tengo ahí.",
+      "start_time": 2887.54,
+      "end_time": 2900.44
+    },
+    {
+      "index": 284,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Una leve impresión de que eventos presenciales con herramientas tan sencillas como esta, para programa de puntos, para intercambio de cerveza por token, para activaciones en redes, para hacer ruido, postea tal evento, ve y verifica o llena un formulario, te llega tu token que luego puedes intercambiar por mercancía ahí en el evento presencial, o para tener un tema de administración cashless de inventario.",
+      "raw_text": "Una leve impresión de que eventos presenciales con herramientas tan sencillas como esta, para programa de puntos, para intercambio de cerveza por token, para activaciones en redes, para hacer ruido, postea tal evento, ve y verifica o llena un formulario, te llega tu token que luego puedes intercambiar por mercancía ahí en el evento presencial, o para tener un tema de administración cashless de inventario.",
+      "start_time": 2902.04,
+      "end_time": 2935.22
+    },
+    {
+      "index": 285,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Por ahí Priscila, una amiga por acá, está haciendo algo similar pero con tarjeta de crédito y con SPEI bancario, No, yo no me quiero meter en eso, todo lo tokenizamos por allá.",
+      "raw_text": "Por ahí Priscila, una amiga por acá, está haciendo algo similar pero con tarjeta de crédito y con SPEI bancario, No, yo no me quiero meter en eso, todo lo tokenizamos por allá.",
+      "start_time": 2935.22,
+      "end_time": 2948.26
+    },
+    {
+      "index": 286,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Tengo un par de clientes que les gustó la idea cuando les platiqué.",
+      "raw_text": "Tengo un par de clientes que les gustó la idea cuando les platiqué.",
+      "start_time": 2948.26,
+      "end_time": 2951.18
+    },
+    {
+      "index": 287,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Uno de ellos es el grupo hotelero que nos nos ha patrocinado.",
+      "raw_text": "Uno de ellos es el grupo hotelero que nos nos ha patrocinado.",
+      "start_time": 2951.18,
+      "end_time": 2954.83
+    },
+    {
+      "index": 288,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Tantas veces los venues que utilizamos con ellos hemos platicado sobre programas de desayunos donde oye, en lugar del wallet que dice Royal Bunker, va a decir Hotel Millenium.",
+      "raw_text": "Tantas veces los venues que utilizamos con ellos hemos platicado sobre programas de desayunos donde oye, en lugar del wallet que dice Royal Bunker, va a decir Hotel Millenium.",
+      "start_time": 2957.07,
+      "end_time": 2969.15
+    },
+    {
+      "index": 289,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Y en lugar de un token que sea.",
+      "raw_text": "Y en lugar de un token que sea.",
+      "start_time": 2969.15,
+      "end_time": 2971.79
+    },
+    {
+      "index": 290,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Necesario para entrar a un torneo y recibir fichas, vas a la casa del restaurante.",
+      "raw_text": "Necesario para entrar a un torneo y recibir fichas, vas a la casa del restaurante.",
+      "start_time": 2973.71,
+      "end_time": 2978.59
+    },
+    {
+      "index": 291,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Y te da un desayuno, cosas así.",
+      "raw_text": "Y te da un desayuno, cosas así.",
+      "start_time": 2980.43,
+      "end_time": 2982.43
+    },
+    {
+      "index": 292,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Temas presenciales, llevarlos a la cadena y empezar.",
+      "raw_text": "Temas presenciales, llevarlos a la cadena y empezar.",
+      "start_time": 2983.15,
+      "end_time": 2986.91
+    },
+    {
+      "index": 293,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Hacer pruebas para ver luego si sirve para cadena de suministro, lo que sea.",
+      "raw_text": "Hacer pruebas para ver luego si sirve para cadena de suministro, lo que sea.",
+      "start_time": 2988.83,
+      "end_time": 2993.07
+    },
+    {
+      "index": 294,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Creo que puede haber ahí un modelo de negocio y activaciones y eventos que se pueden vender.",
+      "raw_text": "Creo que puede haber ahí un modelo de negocio y activaciones y eventos que se pueden vender.",
+      "start_time": 2993.39,
+      "end_time": 2999.47
+    },
+    {
+      "index": 295,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Yo creo que puede haber ahí una línea, como les digo, no?",
+      "raw_text": "¿Yo creo que puede haber ahí una línea, como les digo, no?",
+      "start_time": 2999.71,
+      "end_time": 3005.07
+    },
+    {
+      "index": 296,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Para cotizarle.",
+      "raw_text": "Para cotizarle.",
+      "start_time": 3005.07,
+      "end_time": 3005.87
+    },
+    {
+      "index": 297,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Este congreso dermatólogos, una activación que les ayuda a posicionarse en redes total y que aparte tengas un historial de wallets y tengas ya una evidencia.",
+      "raw_text": "Este congreso dermatólogos, una activación que les ayuda a posicionarse en redes total y que aparte tengas un historial de wallets y tengas ya una evidencia.",
+      "start_time": 3008.83,
+      "end_time": 3018.59
+    },
+    {
+      "index": 298,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Hay muchas maneras de vender esto.",
+      "raw_text": "Hay muchas maneras de vender esto.",
+      "start_time": 3018.83,
+      "end_time": 3020.35
+    },
+    {
+      "index": 299,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Creo que puede haber un negocio ahí.",
+      "raw_text": "Creo que puede haber un negocio ahí.",
+      "start_time": 3020.67,
+      "end_time": 3022.03
+    },
+    {
+      "index": 300,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "A mí me gustan los eventos presenciales.",
+      "raw_text": "A mí me gustan los eventos presenciales.",
+      "start_time": 3022.03,
+      "end_time": 3023.63
+    },
+    {
+      "index": 301,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Vengo diciendo desde hace años que necesitamos construir más público.",
+      "raw_text": "Vengo diciendo desde hace años que necesitamos construir más público.",
+      "start_time": 3024.35,
+      "end_time": 3028.67
+    },
+    {
+      "index": 302,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Vengo diciendo también desde hace años que necesitamos más aplicaciones para activaciones presenciales para que la gente vea cómo funciona, vea la rapidez, vea lo fácil, vea el costo tan barato, vea, híjole, no nada más con un tema.",
+      "raw_text": "Vengo diciendo también desde hace años que necesitamos más aplicaciones para activaciones presenciales para que la gente vea cómo funciona, vea la rapidez, vea lo fácil, vea el costo tan barato, vea, híjole, no nada más con un tema.",
+      "start_time": 3029.15,
+      "end_time": 3044.76
+    },
+    {
+      "index": 303,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "De una activación o de un pago transaccional, no nada más transaccional, sino más social.",
+      "raw_text": "De una activación o de un pago transaccional, no nada más transaccional, sino más social.",
+      "start_time": 3047.56,
+      "end_time": 3053
+    },
+    {
+      "index": 304,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Creo que tenemos que hacer estas interacciones más sociales en eventos web con.",
+      "raw_text": "Creo que tenemos que hacer estas interacciones más sociales en eventos web con.",
+      "start_time": 3053.4,
+      "end_time": 3059
+    },
+    {
+      "index": 305,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Este tipo de aplicaciones que ahorita, por ejemplo, yo les tuve que mandar un MNT.",
+      "raw_text": "Este tipo de aplicaciones que ahorita, por ejemplo, yo les tuve que mandar un MNT.",
+      "start_time": 3060.9,
+      "end_time": 3065.06
+    },
+    {
+      "index": 306,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Yo al mandarles un MNT a todas las carteras les estoy dando la posibilidad de hacer mil transacciones.",
+      "raw_text": "Yo al mandarles un MNT a todas las carteras les estoy dando la posibilidad de hacer mil transacciones.",
+      "start_time": 3065.7,
+      "end_time": 3071.1
+    },
+    {
+      "index": 307,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Cada una vale menos de.",
+      "raw_text": "Cada una vale menos de.",
+      "start_time": 3071.1,
+      "end_time": 3072.74
+    },
+    {
+      "index": 308,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Entonces si pueden hacer mil transacciones con un MNT, puta, hay un chorro que hacer.",
+      "raw_text": "Entonces si pueden hacer mil transacciones con un MNT, puta, hay un chorro que hacer.",
+      "start_time": 3073.78,
+      "end_time": 3078.58
+    },
+    {
+      "index": 309,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Pero hay otra mejor manera que todavía no encuentro cómo echar a funcionar.",
+      "raw_text": "Pero hay otra mejor manera que todavía no encuentro cómo echar a funcionar.",
+      "start_time": 3078.98,
+      "end_time": 3083.46
+    },
+    {
+      "index": 310,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "En third web yo lo que puedo hacer es fondear una cartera y decir cualquier transacción que este grupo de personas quiera hacer, ve y cobra la de acá.",
+      "raw_text": "En third web yo lo que puedo hacer es fondear una cartera y decir cualquier transacción que este grupo de personas quiera hacer, ve y cobra la de acá.",
+      "start_time": 3083.46,
+      "end_time": 3092.1
+    },
+    {
+      "index": 311,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Entonces yo les puedo patrocinar el gas también y apenas estoy haciendo pruebas.",
+      "raw_text": "Entonces yo les puedo patrocinar el gas también y apenas estoy haciendo pruebas.",
+      "start_time": 3092.5,
+      "end_time": 3095.98
+    },
+    {
+      "index": 312,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Va a estar bien interesante verlo.",
+      "raw_text": "Va a estar bien interesante verlo.",
+      "start_time": 3095.98,
+      "end_time": 3097.62
+    },
+    {
+      "index": 313,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ya que lo pueda echar a volar si es que funciona.",
+      "raw_text": "Ya que lo pueda echar a volar si es que funciona.",
+      "start_time": 3099.46,
+      "end_time": 3102.02
+    },
+    {
+      "index": 314,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Creo que hay una aplicación ahí.",
+      "raw_text": "Creo que hay una aplicación ahí.",
+      "start_time": 3102.58,
+      "end_time": 3104.18
+    },
+    {
+      "index": 315,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Creo que los eventos presenciales los tenemos que revolucionar, no nada más los web, sino que hay que buscar y voy a buscar yo cerrar estas alianzas ya se reúna, yo creo que les puedo dar el alfa, pero él el evento de dermatología todavía está complicado, no he podido convencer a mi amigo de la activación porque dice que muchos de los doctores son muy viejitos y que no van a aprender, entonces la neta había pensado un log protocol donde tenían que meter su correo y su nombre, pero no sé, no me gustó, me gusta más algo así donde.",
+      "raw_text": "Creo que los eventos presenciales los tenemos que revolucionar, no nada más los web, sino que hay que buscar y voy a buscar yo cerrar estas alianzas ya se reúna, yo creo que les puedo dar el alfa, pero él el evento de dermatología todavía está complicado, no he podido convencer a mi amigo de la activación porque dice que muchos de los doctores son muy viejitos y que no van a aprender, entonces la neta había pensado un log protocol donde tenían que meter su correo y su nombre, pero no sé, no me gustó, me gusta más algo así donde.",
+      "start_time": 3104.18,
+      "end_time": 3141.06
+    },
+    {
+      "index": 316,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Se puedan inscribir, yo les pueda fondear el gas, les pueda poner yo botones, o sea, les podría poner yo tres, cuatro botones, uno manda un token a tal dirección como lo tienen ahorita, el botón naranja que ustedes tienen ahorita está hardcodeado para que cuando tú le piques, si tienes un wallet social, si le picas el botón, el token se va inmediato, así está programado, yo no quería que te diera una alerta, si tú le picas al botón, el token se va, ¿Y a dónde se va?",
+      "raw_text": "Se puedan inscribir, yo les pueda fondear el gas, les pueda poner yo botones, o sea, les podría poner yo tres, cuatro botones, uno manda un token a tal dirección como lo tienen ahorita, el botón naranja que ustedes tienen ahorita está hardcodeado para que cuando tú le piques, si tienes un wallet social, si le picas el botón, el token se va inmediato, así está programado, yo no quería que te diera una alerta, si tú le picas al botón, el token se va, ¿Y a dónde se va?",
+      "start_time": 3142.78,
+      "end_time": 3170.36
+    },
+    {
+      "index": 317,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿La dirección que yo le puse, no?",
+      "raw_text": "¿La dirección que yo le puse, no?",
+      "start_time": 3170.36,
+      "end_time": 3171.56
+    },
+    {
+      "index": 318,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ahí está, NAOSMX ETH ¿Te va a dar beneficios mandarlo o no?",
+      "raw_text": "Ahí está, NAOSMX ETH ¿Te va a dar beneficios mandarlo o no?",
+      "start_time": 3171.56,
+      "end_time": 3176.32
+    },
+    {
+      "index": 319,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "No sé, no sé, a lo mejor te quedas con uno, a lo mejor te quedas con los tres, a lo mejor mandas dos, no sé, ya tú decidirás, esa decisión tendrá consecuencias, ya las verán en el futuro, pero.",
+      "raw_text": "No sé, no sé, a lo mejor te quedas con uno, a lo mejor te quedas con los tres, a lo mejor mandas dos, no sé, ya tú decidirás, esa decisión tendrá consecuencias, ya las verán en el futuro, pero.",
+      "start_time": 3176.32,
+      "end_time": 3188.72
+    },
+    {
+      "index": 320,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Como les decía, puede ser utilizado para una locura como estas ha sido en línea, donde con narrativa, con cuento que me falta, tengo que aceptarlo, me falta, ¿No?",
+      "raw_text": "Como les decía, puede ser utilizado para una locura como estas ha sido en línea, donde con narrativa, con cuento que me falta, tengo que aceptarlo, me falta, ¿No?",
+      "start_time": 3191.2,
+      "end_time": 3200.75
+    },
+    {
+      "index": 321,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Pero bueno, yo le doy, voy a usar, creo que se puede hacer un poquito más grande, donde a ver, les metas ahí algo de tema de decisión, de estrategia, de me conviene o no me conviene, ve tú a saber.",
+      "raw_text": "Pero bueno, yo le doy, voy a usar, creo que se puede hacer un poquito más grande, donde a ver, les metas ahí algo de tema de decisión, de estrategia, de me conviene o no me conviene, ve tú a saber.",
+      "start_time": 3201.23,
+      "end_time": 3212.27
+    },
+    {
+      "index": 322,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Entonces para activaciones en línea creo que funciona muy bien, pero para creo que donde está la clave son las actividades presenciales.",
+      "raw_text": "Entonces para activaciones en línea creo que funciona muy bien, pero para creo que donde está la clave son las actividades presenciales.",
+      "start_time": 3212.35,
+      "end_time": 3220.43
+    },
+    {
+      "index": 323,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "El tema de los dermas todavía no lo tengo confirmado, el que sí tengo confirmado es en julio, sí, julio, Festival de la Cerveza, Festival de la Cerveza en Monterrey, un evento en fundidora, que es el parque enorme donde antes era la fundidora más grande de acá del norte, que ya cerró, lo volvieron parque muy muy padre, está por ahí cerca de Sintermex, ellos reúnen a 20.000, 30.000 personas y mi amigo tiene un stand, tiene un par de stands porque él tiene una competencia, va a regalar merge y también tiene una activación ahí con una marca de cerveza que él tiene, vamos a estar por ahí con diferentes activaciones, ya les estaré contando, muy probablemente PoAp, muy probablemente Unlock, a lo mejor ya está funcionando.",
+      "raw_text": "El tema de los dermas todavía no lo tengo confirmado, el que sí tengo confirmado es en julio, sí, julio, Festival de la Cerveza, Festival de la Cerveza en Monterrey, un evento en fundidora, que es el parque enorme donde antes era la fundidora más grande de acá del norte, que ya cerró, lo volvieron parque muy muy padre, está por ahí cerca de Sintermex, ellos reúnen a 20.000, 30.000 personas y mi amigo tiene un stand, tiene un par de stands porque él tiene una competencia, va a regalar merge y también tiene una activación ahí con una marca de cerveza que él tiene, vamos a estar por ahí con diferentes activaciones, ya les estaré contando, muy probablemente PoAp, muy probablemente Unlock, a lo mejor ya está funcionando.",
+      "start_time": 3220.59,
+      "end_time": 3267.6
+    },
+    {
+      "index": 324,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "La aplicación para ellos.",
+      "raw_text": "La aplicación para ellos.",
+      "start_time": 3269.2,
+      "end_time": 3271.36
+    },
+    {
+      "index": 325,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Esta aplicación que hice para el Royal Bunker, para los torneos, obviamente se puede forkear, es muy fácil de forkearla, de hecho si quieren utilizar el código con gusto les puedo ayudar a hacer algo súper rápido, no necesitan dinero, yo con la cuenta gratis de Third Web y la cuenta gratis de Vercel lo puede deployar en chinga, lo que sí tienen que hacer es configurar sus logos, configurar sus colores, cambiar el texto en algunas cosas, las netas relativamente intuitivo y fácil y en dos, tres patadas podrían tener ustedes ya el mismo wallet con la misma funcionalidad que les da thirdweb con todas las estadísticas que te da esa madre, que son un chingo, que están buenísimas, la neta me ha volado la cabeza.",
+      "raw_text": "Esta aplicación que hice para el Royal Bunker, para los torneos, obviamente se puede forkear, es muy fácil de forkearla, de hecho si quieren utilizar el código con gusto les puedo ayudar a hacer algo súper rápido, no necesitan dinero, yo con la cuenta gratis de Third Web y la cuenta gratis de Vercel lo puede deployar en chinga, lo que sí tienen que hacer es configurar sus logos, configurar sus colores, cambiar el texto en algunas cosas, las netas relativamente intuitivo y fácil y en dos, tres patadas podrían tener ustedes ya el mismo wallet con la misma funcionalidad que les da thirdweb con todas las estadísticas que te da esa madre, que son un chingo, que están buenísimas, la neta me ha volado la cabeza.",
+      "start_time": 3271.52,
+      "end_time": 3320.18
+    },
+    {
+      "index": 326,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Por ahí lo tengo posteado en mi ex, pueden ir a ver los últimos hilos de ayer y hoy, la neta es una herramienta muy muy muy padre.",
+      "raw_text": "Por ahí lo tengo posteado en mi ex, pueden ir a ver los últimos hilos de ayer y hoy, la neta es una herramienta muy muy muy padre.",
+      "start_time": 3322.1,
+      "end_time": 3331.58
+    },
+    {
+      "index": 327,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "El token RB lo hice ahí mismo entra web, ahí mismo creé el token, ahí mismo lo sube, lo deploya, lo verifica.",
+      "raw_text": "El token RB lo hice ahí mismo entra web, ahí mismo creé el token, ahí mismo lo sube, lo deploya, lo verifica.",
+      "start_time": 3331.98,
+      "end_time": 3341.02
+    },
+    {
+      "index": 328,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Puedo mintear más, ahorita solo hay 333 tokens, ando viendo qué hago si mintió más, yo creo que lo voy a dejar así en 333 esta fase OG, entonces todavía no lo mando el control, todavía no quemo el control del token, sigue minteable, necesito ver cómo.",
+      "raw_text": "Puedo mintear más, ahorita solo hay 333 tokens, ando viendo qué hago si mintió más, yo creo que lo voy a dejar así en 333 esta fase OG, entonces todavía no lo mando el control, todavía no quemo el control del token, sigue minteable, necesito ver cómo.",
+      "start_time": 3342.7,
+      "end_time": 3362.47
+    },
+    {
+      "index": 329,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Lo pongo para que ya no sea minteable y se quede fijo, pero bueno, tiene una oportunidad de nuevo royalbunker, Vercel App, si se meten en este momento, crean su cuenta con login social, correo, gmail o lo que sea, automáticamente les va a asignar un wallet y más tardecito yo les mando un mnt y 3 rb, cada wallet dentro de los primeros 100 wallets van a recibir lo mismo.",
+      "raw_text": "Lo pongo para que ya no sea minteable y se quede fijo, pero bueno, tiene una oportunidad de nuevo royalbunker, Vercel App, si se meten en este momento, crean su cuenta con login social, correo, gmail o lo que sea, automáticamente les va a asignar un wallet y más tardecito yo les mando un mnt y 3 rb, cada wallet dentro de los primeros 100 wallets van a recibir lo mismo.",
+      "start_time": 3364.55,
+      "end_time": 3389.99
+    },
+    {
+      "index": 330,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Hasta que se acabe a las demás wallets ando viendo qué otro token les mando, porque el RB nada más hay 333, pero también les voy a mandar yo creo que un poquito menos de malto, yo creo que les voy a mandar que también les deben, les deben de servir como para 50 transacciones, entonces pues es más que suficiente para hacer las activaciones y todo lo que les quiera poner.",
+      "raw_text": "Hasta que se acabe a las demás wallets ando viendo qué otro token les mando, porque el RB nada más hay 333, pero también les voy a mandar yo creo que un poquito menos de malto, yo creo que les voy a mandar que también les deben, les deben de servir como para 50 transacciones, entonces pues es más que suficiente para hacer las activaciones y todo lo que les quiera poner.",
+      "start_time": 3393.03,
+      "end_time": 3414
+    },
+    {
+      "index": 331,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Los botones se pueden personalizar, entonces yo le puedo poner un botón que le mande a cierta dirección, puedo meter otro botón que mande otro toque en otro lado, puedo poner de display el saldo de cualquier balance, puedo hacer tablas para darles las últimas transacciones, neta está muy completo.",
+      "raw_text": "Los botones se pueden personalizar, entonces yo le puedo poner un botón que le mande a cierta dirección, puedo meter otro botón que mande otro toque en otro lado, puedo poner de display el saldo de cualquier balance, puedo hacer tablas para darles las últimas transacciones, neta está muy completo.",
+      "start_time": 3414.72,
+      "end_time": 3432
+    },
+    {
+      "index": 332,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Creo que la idea de no darle tanta opción a la gente es súper crítica, Metamask, oye que da de alta la red, oye que da de alta el token, oye que de esta pinche madre, puta qué hueva güey, entonces con tu correo te creas tu wallet, en este caso 100% mantul, no hay posibilidad de manejar otra red, yo lo harcodía para que solo puedan utilizar Mantle, ¿Por qué?",
+      "raw_text": "Creo que la idea de no darle tanta opción a la gente es súper crítica, Metamask, oye que da de alta la red, oye que da de alta el token, oye que de esta pinche madre, puta qué hueva güey, entonces con tu correo te creas tu wallet, en este caso 100% mantul, no hay posibilidad de manejar otra red, yo lo harcodía para que solo puedan utilizar Mantle, ¿Por qué?",
+      "start_time": 3434.08,
+      "end_time": 3460.01
+    },
+    {
+      "index": 333,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Porque pues el hackatón es el mantol y porque también no quería abrir esa posibilidad.",
+      "raw_text": "Porque pues el hackatón es el mantol y porque también no quería abrir esa posibilidad.",
+      "start_time": 3460.01,
+      "end_time": 3464.73
+    },
+    {
+      "index": 334,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Algo que también quiero a ver si ajusto es que no dé todas las opciones de registro, o sea no quiero que te pida o Apple o Facebook o.",
+      "raw_text": "Algo que también quiero a ver si ajusto es que no dé todas las opciones de registro, o sea no quiero que te pida o Apple o Facebook o.",
+      "start_time": 3465.69,
+      "end_time": 3474.99
+    },
+    {
+      "index": 335,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Google, no sé, todavía estoy pensando, yo creo que por lo pronto lo voy a dejar así, originalmente quería que fuera solo correo y wallet, o sea que tuvieran dos opciones, o pones tu correo o conectas tu wallet y de esa manera es la única manera que puedes transaccionar, pero al momento de quererlo ajustar, batallé, la neta se veía muy bien así completito todo.",
+      "raw_text": "Google, no sé, todavía estoy pensando, yo creo que por lo pronto lo voy a dejar así, originalmente quería que fuera solo correo y wallet, o sea que tuvieran dos opciones, o pones tu correo o conectas tu wallet y de esa manera es la única manera que puedes transaccionar, pero al momento de quererlo ajustar, batallé, la neta se veía muy bien así completito todo.",
+      "start_time": 3476.83,
+      "end_time": 3496.79
+    },
+    {
+      "index": 336,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "El deck, entonces le dije tengo chingas y así quedó, así lo voy a dejar, está muy padre porque si ustedes entran al wallet, ahí mismo en el dapp de Royal Bunker, le pican al botón gris que es donde viene el saldo en MNT, ahí pueden ver los tokens que tienen, pueden hacer transacciones, pueden ir a reclamar su llave privada, pueden también.",
+      "raw_text": "El deck, entonces le dije tengo chingas y así quedó, así lo voy a dejar, está muy padre porque si ustedes entran al wallet, ahí mismo en el dapp de Royal Bunker, le pican al botón gris que es donde viene el saldo en MNT, ahí pueden ver los tokens que tienen, pueden hacer transacciones, pueden ir a reclamar su llave privada, pueden también.",
+      "start_time": 3498.31,
+      "end_time": 3520.15
+    },
+    {
+      "index": 337,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ver los NFTs que tienen, entonces le picas el botón gris, te da un chorro de opciones, puedes administrar para comprar.",
+      "raw_text": "Ver los NFTs que tienen, entonces le picas el botón gris, te da un chorro de opciones, puedes administrar para comprar.",
+      "start_time": 3522.81,
+      "end_time": 3530.97
+    },
+    {
+      "index": 338,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Mantle con tarjeta de crédito, ya tiene todo integrado, está súper cool la verdad lo ando probando ya con mis amigos web que son los pocareros, que a lo mejor son los interesados en jugar el torneo y los que sí o sí, yo sé que la experiencia del torneo física presencial.",
+      "raw_text": "Mantle con tarjeta de crédito, ya tiene todo integrado, está súper cool la verdad lo ando probando ya con mis amigos web que son los pocareros, que a lo mejor son los interesados en jugar el torneo y los que sí o sí, yo sé que la experiencia del torneo física presencial.",
+      "start_time": 3532.57,
+      "end_time": 3551.06
+    },
+    {
+      "index": 339,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Los va a incentivar a que se inscriban, a que hagan su cuenta.",
+      "raw_text": "Los va a incentivar a que se inscriban, a que hagan su cuenta.",
+      "start_time": 3553.3,
+      "end_time": 3556.5
+    },
+    {
+      "index": 340,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Que no se me queden por ahí en el camino porque también son amigos de toda la vida, entonces les puedo meter presión para que en realidad lo prueben pero sí, esta es una primera fase de esta prueba que estoy haciendo con este tipo de wallets sociales que hasta hace unos meses no había todas las herramientas necesarias como para hacerla, o sea neta neta neta neta Nebula para programar entre Nebula, Grok.",
+      "raw_text": "Que no se me queden por ahí en el camino porque también son amigos de toda la vida, entonces les puedo meter presión para que en realidad lo prueben pero sí, esta es una primera fase de esta prueba que estoy haciendo con este tipo de wallets sociales que hasta hace unos meses no había todas las herramientas necesarias como para hacerla, o sea neta neta neta neta Nebula para programar entre Nebula, Grok.",
+      "start_time": 3558.02,
+      "end_time": 3585.55
+    },
+    {
+      "index": 341,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Gemini de Google, Chat GPT, creo que usé también cursor de GitHub, entre todas esas estuve rebotando ideas, mandando errores, oye.",
+      "raw_text": "Gemini de Google, Chat GPT, creo que usé también cursor de GitHub, entre todas esas estuve rebotando ideas, mandando errores, oye.",
+      "start_time": 3587.95,
+      "end_time": 3598.91
+    },
+    {
+      "index": 342,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Me di cuenta que chatgpt se equivocó un chingo, me proponía código, lo ponía yo y lo compilaba error, oye güey, esto no es así, Ah sí cierto, la versión que tú tienes no tiene esa aplicación y por lo tanto tienes que manejarlo de esta manera, madres, alucina Gemini muy bien, la neta para hacer código me pareció una locura, muy muy chido, si tenía las versiones actualizadas qué funcionaba con qué.",
+      "raw_text": "Me di cuenta que chatgpt se equivocó un chingo, me proponía código, lo ponía yo y lo compilaba error, oye güey, esto no es así, Ah sí cierto, la versión que tú tienes no tiene esa aplicación y por lo tanto tienes que manejarlo de esta manera, madres, alucina Gemini muy bien, la neta para hacer código me pareció una locura, muy muy chido, si tenía las versiones actualizadas qué funcionaba con qué.",
+      "start_time": 3600.62,
+      "end_time": 3625.74
+    },
+    {
+      "index": 343,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "No vi tantos errores usando Gemini Nebula me voló la cabeza como les decía para hacer transacciones también para como trae todo el SDK Nebula es de Third Web, Nebula es el AI de Third Web, Third Web es esta aplicación que tiene wallet social, que tiene contratos pregrabados para crear ERC rápido, tiene.",
+      "raw_text": "No vi tantos errores usando Gemini Nebula me voló la cabeza como les decía para hacer transacciones también para como trae todo el SDK Nebula es de Third Web, Nebula es el AI de Third Web, Third Web es esta aplicación que tiene wallet social, que tiene contratos pregrabados para crear ERC rápido, tiene.",
+      "start_time": 3628.4,
+      "end_time": 3649.2
+    },
+    {
+      "index": 344,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "También todo lo que es administración de los correos, todo lo que son analíticos, tiene un chorro de información, programa gratuito, te da 10 TPS o RPS, perdón, request por segundo, el de 9 dólares te da 100, hay otro que le sigue de 70 dólares al mes que ya no sé cuánto, pero bueno, si se necesita comprar, ya veré si lo compro a lo mejor dentro de los premios y me gano uno del hacketón lo POMB.",
+      "raw_text": "También todo lo que es administración de los correos, todo lo que son analíticos, tiene un chorro de información, programa gratuito, te da 10 TPS o RPS, perdón, request por segundo, el de 9 dólares te da 100, hay otro que le sigue de 70 dólares al mes que ya no sé cuánto, pero bueno, si se necesita comprar, ya veré si lo compro a lo mejor dentro de los premios y me gano uno del hacketón lo POMB.",
+      "start_time": 3651.12,
+      "end_time": 3677.64
+    },
+    {
+      "index": 345,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Pero si, neta le he dedicado mucho tiempo, es la cosa que no me despega de la computadora en estos momentos, voy a seguir tratando de desarrollar por ahí, vamos a ver cómo nos va en el hackatón.",
+      "raw_text": "Pero si, neta le he dedicado mucho tiempo, es la cosa que no me despega de la computadora en estos momentos, voy a seguir tratando de desarrollar por ahí, vamos a ver cómo nos va en el hackatón.",
+      "start_time": 3680.87,
+      "end_time": 3694.91
+    },
+    {
+      "index": 346,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Necesito integrar Nebula de nuevo, yo creo que le voy a meter un chatbot también ahí al DAP, aparte de tener el saldo del RB y el botón, yo creo que abajo van a tener como que una opción para chatear con Nebula y hacer transacciones o no sé, no sé, necesito ver cómo lo integro, pero sí tengo que integrarlo para poder entrar ahí a la llamada de una manera que lo quería integrar era que verificara Yo quería poner a la gente que pagara su torneo de cualquier manera y que llenara un formulario.",
+      "raw_text": "Necesito integrar Nebula de nuevo, yo creo que le voy a meter un chatbot también ahí al DAP, aparte de tener el saldo del RB y el botón, yo creo que abajo van a tener como que una opción para chatear con Nebula y hacer transacciones o no sé, no sé, necesito ver cómo lo integro, pero sí tengo que integrarlo para poder entrar ahí a la llamada de una manera que lo quería integrar era que verificara Yo quería poner a la gente que pagara su torneo de cualquier manera y que llenara un formulario.",
+      "start_time": 3694.91,
+      "end_time": 3724.46
+    },
+    {
+      "index": 347,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Cuando paga su torneo, llena el formulario, pone el hash de la transacción.",
+      "raw_text": "Cuando paga su torneo, llena el formulario, pone el hash de la transacción.",
+      "start_time": 3724.62,
+      "end_time": 3728.3
+    },
+    {
+      "index": 348,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Yo quería que Nebula viera ese hash o que viera ese formulario, lo estuviera revisando constantemente.",
+      "raw_text": "Yo quería que Nebula viera ese hash o que viera ese formulario, lo estuviera revisando constantemente.",
+      "start_time": 3728.54,
+      "end_time": 3734.09
+    },
+    {
+      "index": 349,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Si verifica que en realidad es una transacción que nadie se ha asignado, nadie se ha.",
+      "raw_text": "Si verifica que en realidad es una transacción que nadie se ha asignado, nadie se ha.",
+      "start_time": 3735.13,
+      "end_time": 3740.33
+    },
+    {
+      "index": 350,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Pues sí, nadie ha dicho es mía, que la vía era como válida y que le hiciera el airdrop de los tokens.",
+      "raw_text": "Pues sí, nadie ha dicho es mía, que la vía era como válida y que le hiciera el airdrop de los tokens.",
+      "start_time": 3741.85,
+      "end_time": 3748.449
+    },
+    {
+      "index": 351,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Pero bueno, ahí vamos en ese proceso todavía no he podido.",
+      "raw_text": "Pero bueno, ahí vamos en ese proceso todavía no he podido.",
+      "start_time": 3748.449,
+      "end_time": 3751.77
+    },
+    {
+      "index": 352,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Pero bueno, ¿Qué más?",
+      "raw_text": "Pero bueno, ¿Qué más?",
+      "start_time": 3751.77,
+      "end_time": 3754.09
+    },
+    {
+      "index": 353,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Qué más, ¿Qué más, pues sí, esperen noticias próximamente vamos a organizar el evento?",
+      "raw_text": "¿Qué más, ¿Qué más, pues sí, esperen noticias próximamente vamos a organizar el evento?",
+      "start_time": 3754.09,
+      "end_time": 3758.57
+    },
+    {
+      "index": 354,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Está enfocado en personas web 2 y esas personas web 2, de nuevo, tienen a huevo que usar.",
+      "raw_text": "Está enfocado en personas web 2 y esas personas web 2, de nuevo, tienen a huevo que usar.",
+      "start_time": 3759.31,
+      "end_time": 3764.19
+    },
+    {
+      "index": 355,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "El Dapp para poder jugar.",
+      "raw_text": "El Dapp para poder jugar.",
+      "start_time": 3765.95,
+      "end_time": 3767.39
+    },
+    {
+      "index": 356,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Si no usan el Dapp, pues no van a poder jugar.",
+      "raw_text": "Si no usan el Dapp, pues no van a poder jugar.",
+      "start_time": 3767.39,
+      "end_time": 3769.67
+    },
+    {
+      "index": 357,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Entonces vamos a experimentar de esa manera para onboardear a esa comunidad y probar que estas aplicaciones sirven para potenciar eventos.",
+      "raw_text": "Entonces vamos a experimentar de esa manera para onboardear a esa comunidad y probar que estas aplicaciones sirven para potenciar eventos.",
+      "start_time": 3769.67,
+      "end_time": 3780.51
+    },
+    {
+      "index": 358,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "De nuevo, la otra prueba, ojalá pueda cerrar el congreso de Dermatología a finales del mes y si no en julio, no, junio, en junio estará el congreso y Festival de Cerveza, él estaré publicando también información.",
+      "raw_text": "De nuevo, la otra prueba, ojalá pueda cerrar el congreso de Dermatología a finales del mes y si no en julio, no, junio, en junio estará el congreso y Festival de Cerveza, él estaré publicando también información.",
+      "start_time": 3781.07,
+      "end_time": 3797.87
+    },
+    {
+      "index": 359,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Yo creo que para el Festival de Cerveza sí convenzo a mi amigo de poder utilizar el DAP.",
+      "raw_text": "Yo creo que para el Festival de Cerveza sí convenzo a mi amigo de poder utilizar el DAP.",
+      "start_time": 3798.19,
+      "end_time": 3802.67
+    },
+    {
+      "index": 360,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ojalá podamos juntar un chingo de banda y rompamos de nuevo los límites que nos pone fairweb para tener que pedir más o justificar el uso.",
+      "raw_text": "Ojalá podamos juntar un chingo de banda y rompamos de nuevo los límites que nos pone fairweb para tener que pedir más o justificar el uso.",
+      "start_time": 3802.67,
+      "end_time": 3812.27
+    },
+    {
+      "index": 361,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ya veré a ver cómo lo maneja, lo manejo, si llega a suceder igual.",
+      "raw_text": "Ya veré a ver cómo lo maneja, lo manejo, si llega a suceder igual.",
+      "start_time": 3812.67,
+      "end_time": 3817.23
+    },
+    {
+      "index": 362,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Creo que me falta narrativa, creo que me falta explicar un poquito más la situación, porque muchos estaban creando sus cuentas y oye, ya la creé y está en saldo cero, ¿Qué hago?",
+      "raw_text": "Creo que me falta narrativa, creo que me falta explicar un poquito más la situación, porque muchos estaban creando sus cuentas y oye, ya la creé y está en saldo cero, ¿Qué hago?",
+      "start_time": 3817.23,
+      "end_time": 3826.03
+    },
+    {
+      "index": 363,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Y la idea era, pues sí ya la creaste, estás en saldo cero, ya cumpliste, o sea, ya está chido.",
+      "raw_text": "Y la idea era, pues sí ya la creaste, estás en saldo cero, ya cumpliste, o sea, ya está chido.",
+      "start_time": 3827.47,
+      "end_time": 3832.11
+    },
+    {
+      "index": 364,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Y la gente como que no entendía, no lo expliqué bien, no querían ver el airdrop inmediato y ya les tenía que decir yo, si no, el airdrop ahorita es manual, se los hago llegar en breve, etcétera, etcétera.",
+      "raw_text": "Y la gente como que no entendía, no lo expliqué bien, no querían ver el airdrop inmediato y ya les tenía que decir yo, si no, el airdrop ahorita es manual, se los hago llegar en breve, etcétera, etcétera.",
+      "start_time": 3832.43,
+      "end_time": 3843.65
+    },
+    {
+      "index": 365,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Vamos a ver a Saldívar.",
+      "raw_text": "Vamos a ver a Saldívar.",
+      "start_time": 3843.65,
+      "end_time": 3844.93
+    },
+    {
+      "index": 366,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Quién se inscribió?",
+      "raw_text": "¿Quién se inscribió?",
+      "start_time": 3844.93,
+      "end_time": 3845.77
+    },
+    {
+      "index": 367,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Miren, no he visto ni uno escrito el día de hoy.",
+      "raw_text": "Miren, no he visto ni uno escrito el día de hoy.",
+      "start_time": 3848.01,
+      "end_time": 3850.77
+    },
+    {
+      "index": 368,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿No se puede o si se puede?",
+      "raw_text": "¿No se puede o si se puede?",
+      "start_time": 3850.77,
+      "end_time": 3851.97
+    },
+    {
+      "index": 369,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Vamos a hacer la prueba.",
+      "raw_text": "Vamos a hacer la prueba.",
+      "start_time": 3851.97,
+      "end_time": 3852.97
+    },
+    {
+      "index": 370,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "A ver.",
+      "raw_text": "A ver.",
+      "start_time": 3856.33,
+      "end_time": 3856.69
+    },
+    {
+      "index": 371,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Creo que no está funcionando.",
+      "raw_text": "Creo que no está funcionando.",
+      "start_time": 3856.69,
+      "end_time": 3857.93
+    },
+    {
+      "index": 372,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Yo no veo que nadie se escriba hoy.",
+      "raw_text": "Yo no veo que nadie se escriba hoy.",
+      "start_time": 3857.93,
+      "end_time": 3859.69
+    },
+    {
+      "index": 373,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Aquí estoy hablando lo pendejo nadie me hace caso.",
+      "raw_text": "Aquí estoy hablando lo pendejo nadie me hace caso.",
+      "start_time": 3859.69,
+      "end_time": 3862.25
+    },
+    {
+      "index": 374,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "A ver, probemos.",
+      "raw_text": "A ver, probemos.",
+      "start_time": 3863.13,
+      "end_time": 3864.17
+    },
+    {
+      "index": 375,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ya está, Desconectar.",
+      "raw_text": "Ya está, Desconectar.",
+      "start_time": 3865.09,
+      "end_time": 3867.29
+    },
+    {
+      "index": 376,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Vamos a crear una cuenta nueva.",
+      "raw_text": "Vamos a crear una cuenta nueva.",
+      "start_time": 3867.29,
+      "end_time": 3868.61
+    },
+    {
+      "index": 377,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Gmail.",
+      "raw_text": "Gmail.",
+      "start_time": 3868.77,
+      "end_time": 3869.65
+    },
+    {
+      "index": 378,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "No, al parecer si está funcionando, fíjense.",
+      "raw_text": "No, al parecer si está funcionando, fíjense.",
+      "start_time": 3875.97,
+      "end_time": 3878.21
+    },
+    {
+      "index": 379,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Voy a salir al pendiente por si alguien hace una cuenta en este transcurso de la mañana.",
+      "raw_text": "Voy a salir al pendiente por si alguien hace una cuenta en este transcurso de la mañana.",
+      "start_time": 3879.57,
+      "end_time": 3883.49
+    },
+    {
+      "index": 380,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Se supone que ya está disponible.",
+      "raw_text": "Se supone que ya está disponible.",
+      "start_time": 3883.97,
+      "end_time": 3885.65
+    },
+    {
+      "index": 381,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Yo ya podía hacer una este Juvenal creo que no, es que luego se registran.",
+      "raw_text": "Yo ya podía hacer una este Juvenal creo que no, es que luego se registran.",
+      "start_time": 3886.13,
+      "end_time": 3892.29
+    },
+    {
+      "index": 382,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Está raro porque cuando entra wallets externas no puedo ver.",
+      "raw_text": "Está raro porque cuando entra wallets externas no puedo ver.",
+      "start_time": 3892.29,
+      "end_time": 3895.97
+    },
+    {
+      "index": 383,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Puedo ver nada más el número, pero no puedo ver el wallet.",
+      "raw_text": "Puedo ver nada más el número, pero no puedo ver el wallet.",
+      "start_time": 3897.81,
+      "end_time": 3900.37
+    },
+    {
+      "index": 384,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Eso está interesante, pero tengo que seguirlo viendo.",
+      "raw_text": "Eso está interesante, pero tengo que seguirlo viendo.",
+      "start_time": 3900.53,
+      "end_time": 3903.57
+    },
+    {
+      "index": 385,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Voy a tener que hacer.",
+      "raw_text": "Voy a tener que hacer.",
+      "start_time": 3904.21,
+      "end_time": 3905.25
+    },
+    {
+      "index": 386,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Un hilo un poquito más detallado, agregarle funcionalidad y automatizar muchas cosas para que la gente luego no entre y vea cero y diga que sigue.",
+      "raw_text": "Un hilo un poquito más detallado, agregarle funcionalidad y automatizar muchas cosas para que la gente luego no entre y vea cero y diga que sigue.",
+      "start_time": 3906.93,
+      "end_time": 3915.09
+    },
+    {
+      "index": 387,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Es algo que también tiene que tener una.",
+      "raw_text": "Es algo que también tiene que tener una.",
+      "start_time": 3915.41,
+      "end_time": 3917.33
+    },
+    {
+      "index": 388,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Una lógica de tiempos, etcétera, pero la neta no me da para planear tanto, entonces voy sacando, voy publicando como va saliendo y voy ajustando sobre la marcha.",
+      "raw_text": "Una lógica de tiempos, etcétera, pero la neta no me da para planear tanto, entonces voy sacando, voy publicando como va saliendo y voy ajustando sobre la marcha.",
+      "start_time": 3918.26,
+      "end_time": 3928.9
+    },
+    {
+      "index": 389,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Si les gusta y quieren utilizar la aplicación, echen un DM, les ayuda a forquear el código sin ningún problema, pueden poner ahí sus logos, todo es código abierto, está disponible, es muy fácil de forkear, nada más tienen que ser su cuenta en Third Web.",
+      "raw_text": "Si les gusta y quieren utilizar la aplicación, echen un DM, les ayuda a forquear el código sin ningún problema, pueden poner ahí sus logos, todo es código abierto, está disponible, es muy fácil de forkear, nada más tienen que ser su cuenta en Third Web.",
+      "start_time": 3929.54,
+      "end_time": 3943.08
+    },
+    {
+      "index": 390,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Yo les puedo decir dónde ir a ver el código, qué es lo que hay que cambiar para poner su foto, poner su logo.",
+      "raw_text": "Yo les puedo decir dónde ir a ver el código, qué es lo que hay que cambiar para poner su foto, poner su logo.",
+      "start_time": 3943.63,
+      "end_time": 3950.91
+    },
+    {
+      "index": 391,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Que el botón, al picarle el botón a lo mejor mande otro token, que al picarle el botón lo mande a lo mejor a otra dirección.",
+      "raw_text": "Que el botón, al picarle el botón a lo mejor mande otro token, que al picarle el botón lo mande a lo mejor a otra dirección.",
+      "start_time": 3952.51,
+      "end_time": 3959.95
+    },
+    {
+      "index": 392,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Hay muchos casos de uso que se podrían utilizar para esto, la neta.",
+      "raw_text": "Hay muchos casos de uso que se podrían utilizar para esto, la neta.",
+      "start_time": 3960.27,
+      "end_time": 3964.43
+    },
+    {
+      "index": 393,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Voy a seguir probando, voy a seguir generando contenido, creo que me va a ayudar.",
+      "raw_text": "Voy a seguir probando, voy a seguir generando contenido, creo que me va a ayudar.",
+      "start_time": 3964.59,
+      "end_time": 3968.43
+    },
+    {
+      "index": 394,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Con el hackatón.",
+      "raw_text": "Con el hackatón.",
+      "start_time": 3970.68,
+      "end_time": 3971.88
+    },
+    {
+      "index": 395,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Y veamos a ver qué podemos ganar por ahí.",
+      "raw_text": "Y veamos a ver qué podemos ganar por ahí.",
+      "start_time": 3973.8,
+      "end_time": 3975.64
+    },
+    {
+      "index": 396,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Pero bueno, por ahí, hasta ahí la dejo.",
+      "raw_text": "Pero bueno, por ahí, hasta ahí la dejo.",
+      "start_time": 3975.96,
+      "end_time": 3978.08
+    },
+    {
+      "index": 397,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Muchas gracias por estar por aquí.",
+      "raw_text": "Muchas gracias por estar por aquí.",
+      "start_time": 3978.08,
+      "end_time": 3979.32
+    },
+    {
+      "index": 398,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Madre, ya me metí hora y 10 de rand solito aquí platicando.",
+      "raw_text": "Madre, ya me metí hora y 10 de rand solito aquí platicando.",
+      "start_time": 3979.56,
+      "end_time": 3985.72
+    },
+    {
+      "index": 399,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Voy a ver si.",
+      "raw_text": "Voy a ver si.",
+      "start_time": 3985.72,
+      "end_time": 3986.52
+    },
+    {
+      "index": 400,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Tengo que bajar esta transcripción, meterle un AI y hacer un reportaje un poquito más detalladito de todo lo que hay que hacer, invitarle fotos, etcétera, y que sepa la gente que sigue, porque sí es algo que, bueno, me arranco invitando, la gente hace la activación, etcétera, y luego ya no sabe que sigue.",
+      "raw_text": "Tengo que bajar esta transcripción, meterle un AI y hacer un reportaje un poquito más detalladito de todo lo que hay que hacer, invitarle fotos, etcétera, y que sepa la gente que sigue, porque sí es algo que, bueno, me arranco invitando, la gente hace la activación, etcétera, y luego ya no sabe que sigue.",
+      "start_time": 3988.68,
+      "end_time": 4008.05
+    },
+    {
+      "index": 401,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Entonces creo que también está padre tener ahí la expectativa del que viene, pero mayor información creo que iba.",
+      "raw_text": "Entonces creo que también está padre tener ahí la expectativa del que viene, pero mayor información creo que iba.",
+      "start_time": 4008.05,
+      "end_time": 4014.93
+    },
+    {
+      "index": 402,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Bueno, muchas gracias por probarlo.",
+      "raw_text": "Bueno, muchas gracias por probarlo.",
+      "start_time": 4016.29,
+      "end_time": 4017.93
+    },
+    {
+      "index": 403,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "A los 44 van ya vamos a ver estadísticas del RPC, cuántas transacciones, cuántos.",
+      "raw_text": "A los 44 van ya vamos a ver estadísticas del RPC, cuántas transacciones, cuántos.",
+      "start_time": 4017.93,
+      "end_time": 4025.33
+    },
+    {
+      "index": 404,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Usuarios, aquí está los analíticos generales, 44 usuarios activos, 45 wallets conectadas.",
+      "raw_text": "Usuarios, aquí está los analíticos generales, 44 usuarios activos, 45 wallets conectadas.",
+      "start_time": 4026.85,
+      "end_time": 4034.13
+    },
+    {
+      "index": 405,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "16 transacciones en chain.",
+      "raw_text": "16 transacciones en chain.",
+      "start_time": 4035.73,
+      "end_time": 4038.93
+    },
+    {
+      "index": 406,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Vamos a ver el uso, todo esto está muy padre, aquí está el RPC.",
+      "raw_text": "Vamos a ver el uso, todo esto está muy padre, aquí está el RPC.",
+      "start_time": 4040.61,
+      "end_time": 4048.69
+    },
+    {
+      "index": 407,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Al parecer sigue funcionando, son 100 rps, tenemos los 1974 requests en el día de ayer, al rato me aviento un videíto, a lo mejor también en Instagram con esa bandita de por allá que es más web, a ver cuántos en realidad logro que se inscriban y creen su cuenta, a ver si lo podemos romper, pero bueno, voy a seguir publicando sobre esta aplicación, próximamente sabrán sobre el torneo, va a ser en banda web 3 el torneo, yo creo que este primer torneo lo vamos a limitar a 20 personas, muy probablemente la entrada sea de mil pesos o 50 dólares para juntar una bolsa de mil dólares a repartir.",
+      "raw_text": "Al parecer sigue funcionando, son 100 rps, tenemos los 1974 requests en el día de ayer, al rato me aviento un videíto, a lo mejor también en Instagram con esa bandita de por allá que es más web, a ver cuántos en realidad logro que se inscriban y creen su cuenta, a ver si lo podemos romper, pero bueno, voy a seguir publicando sobre esta aplicación, próximamente sabrán sobre el torneo, va a ser en banda web 3 el torneo, yo creo que este primer torneo lo vamos a limitar a 20 personas, muy probablemente la entrada sea de mil pesos o 50 dólares para juntar una bolsa de mil dólares a repartir.",
+      "start_time": 4051.42,
+      "end_time": 4096.14
+    },
+    {
+      "index": 408,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Entre eso, ese dinero si tengo que hacerlo profesional, la neta la vez pasada que lo hicimos en MX fue muy informalón, fue más como de educativo, no contraté dealers, no tenía un administrador de torneo, un manager de torneo que también es necesario, yo creo que para correr un torneo así necesito un manager, un manager de torneo y necesito tres dealers, dos que están en las mesas de repartiendo las fichas, digo, repartiendo las cartas y acomodando fichas, etcétera y uno que está de backup para los descansos de estos chavos.",
+      "raw_text": "Entre eso, ese dinero si tengo que hacerlo profesional, la neta la vez pasada que lo hicimos en MX fue muy informalón, fue más como de educativo, no contraté dealers, no tenía un administrador de torneo, un manager de torneo que también es necesario, yo creo que para correr un torneo así necesito un manager, un manager de torneo y necesito tres dealers, dos que están en las mesas de repartiendo las fichas, digo, repartiendo las cartas y acomodando fichas, etcétera y uno que está de backup para los descansos de estos chavos.",
+      "start_time": 4097.9,
+      "end_time": 4135.639
+    },
+    {
+      "index": 409,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Siempre tiene que estar en actividad la mesa, a menos que haya un break que normalmente duran 20 minutos, entonces tenemos que tener tres dealers y los dealers tienen su entrenamiento y tenemos que tener un administrador, todo eso cuesta, entonces pues bueno, con mil dólares yo creo que sí lo armamos y más en el Royal Bunker donde no pagamos, digo, perdón, Royal Bunker, Panda web local donde no estoy pagando renta, entonces bueno, ahí les estaré informando, ya no tengo tiempo para dudas o preguntas, aquí se queda esta grabación, igual el próximo jueves no sé con quién estaré hablando, yo creo que seguiré hablando de este tema que la verdad me tiene bien loco, voy a seguir desarrollando la aplicación y metiéndole funcionalidad y muy probablemente noticias próximamente para el evento de los dermatólogos o para el festival de la cerveza donde también quiero empezar a utilizarla.",
+      "raw_text": "Siempre tiene que estar en actividad la mesa, a menos que haya un break que normalmente duran 20 minutos, entonces tenemos que tener tres dealers y los dealers tienen su entrenamiento y tenemos que tener un administrador, todo eso cuesta, entonces pues bueno, con mil dólares yo creo que sí lo armamos y más en el Royal Bunker donde no pagamos, digo, perdón, Royal Bunker, Panda web local donde no estoy pagando renta, entonces bueno, ahí les estaré informando, ya no tengo tiempo para dudas o preguntas, aquí se queda esta grabación, igual el próximo jueves no sé con quién estaré hablando, yo creo que seguiré hablando de este tema que la verdad me tiene bien loco, voy a seguir desarrollando la aplicación y metiéndole funcionalidad y muy probablemente noticias próximamente para el evento de los dermatólogos o para el festival de la cerveza donde también quiero empezar a utilizarla.",
+      "start_time": 4135.639,
+      "end_time": 4186.549
+    },
+    {
+      "index": 410,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Muchas gracias por estar por aquí.",
+      "raw_text": "Muchas gracias por estar por aquí.",
+      "start_time": 4186.949,
+      "end_time": 4188.309
+    },
+    {
+      "index": 411,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Échenme porfa un like, un comentario, un repost, todo suma.",
+      "raw_text": "Échenme porfa un like, un comentario, un repost, todo suma.",
+      "start_time": 4188.309,
+      "end_time": 4194.309
+    },
+    {
+      "index": 412,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Y también suma más que hagan su cuenta, hagan su cuenta, no conecten su wallet, hagan su cuenta social, metan un correo, conecten su gmail, me ayuda mucho a ver la funcionalidad, hacer el airdrop con Nebula, obtener su retro sobre el uso si tienen chance, luego voy a estar buscando a toda la banda que se haya registrado con correo, les voy a mandar un correo para poner unas reuniones.",
+      "raw_text": "Y también suma más que hagan su cuenta, hagan su cuenta, no conecten su wallet, hagan su cuenta social, metan un correo, conecten su gmail, me ayuda mucho a ver la funcionalidad, hacer el airdrop con Nebula, obtener su retro sobre el uso si tienen chance, luego voy a estar buscando a toda la banda que se haya registrado con correo, les voy a mandar un correo para poner unas reuniones.",
+      "start_time": 4194.389,
+      "end_time": 4219.89
+    },
+    {
+      "index": 413,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "También quiero compensar, si quieres tu cuenta, te mando tres tokens RB y te mando un MNT con un dolarito, más la funcionalidad que puedan llegar a tener esos 3 RBs, no sabes que pueda haber de funcionalidad, puede que no haya, puede que sí, ve tú saber, pero a la banda que haga su cuenta, los primeros 100, pues tienen ahí un regalito.",
+      "raw_text": "También quiero compensar, si quieres tu cuenta, te mando tres tokens RB y te mando un MNT con un dolarito, más la funcionalidad que puedan llegar a tener esos 3 RBs, no sabes que pueda haber de funcionalidad, puede que no haya, puede que sí, ve tú saber, pero a la banda que haga su cuenta, los primeros 100, pues tienen ahí un regalito.",
+      "start_time": 4221.01,
+      "end_time": 4242.54
+    },
+    {
+      "index": 414,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Igual las entrevistas, si hay gente que quiere hacer una entrevista unos 15 20 minutos, igual ando viendo presupuestos y ganamos algo en el hackatón para compensarles el tiempo y que me den su retroalimentación.",
+      "raw_text": "Igual las entrevistas, si hay gente que quiere hacer una entrevista unos 15 20 minutos, igual ando viendo presupuestos y ganamos algo en el hackatón para compensarles el tiempo y que me den su retroalimentación.",
+      "start_time": 4242.94,
+      "end_time": 4254.54
+    },
+    {
+      "index": 415,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Pues lo más acorde a la realidad posible, con lo bueno, lo malo del app, a ver cómo lo mejoramos, si le entendieron, si no, sobre el proceso, la dinámica del marketing, el cómo fue la comunicación, cómo se enteraron del tema, tenían dudas, no sé, hay muchas cosas que me gustaría preguntarles sobre la experiencia de estos primeros días utilizando la aplicación, si es que la utilizan, obviamente sería compensarles ahí el tiempo con tokens o con MNT, un regalito, ya veremos qué sucede, pero bueno, muchas gracias, por ahí seguiré haciendo contenido sobre esto, ayúdenme con likes y comentarios, vean los hilos que tengo en la cuenta del Morris de Mexi, perdón, ahí está todo lo que he venido haciendo, los últimos 24 horas fueron intensos haciendo la aplicación, la me divertí mucho, vamos, y voy a con toda esta locura que tengo y estas herramientas que ya nos permiten hacer estas cosas, pos neta, neta, neta, neta, no hay límite, pero bueno, métanse, prueben, mándenme DM si hay alguna duda.",
+      "raw_text": "Pues lo más acorde a la realidad posible, con lo bueno, lo malo del app, a ver cómo lo mejoramos, si le entendieron, si no, sobre el proceso, la dinámica del marketing, el cómo fue la comunicación, cómo se enteraron del tema, tenían dudas, no sé, hay muchas cosas que me gustaría preguntarles sobre la experiencia de estos primeros días utilizando la aplicación, si es que la utilizan, obviamente sería compensarles ahí el tiempo con tokens o con MNT, un regalito, ya veremos qué sucede, pero bueno, muchas gracias, por ahí seguiré haciendo contenido sobre esto, ayúdenme con likes y comentarios, vean los hilos que tengo en la cuenta del Morris de Mexi, perdón, ahí está todo lo que he venido haciendo, los últimos 24 horas fueron intensos haciendo la aplicación, la me divertí mucho, vamos, y voy a con toda esta locura que tengo y estas herramientas que ya nos permiten hacer estas cosas, pos neta, neta, neta, neta, no hay límite, pero bueno, métanse, prueben, mándenme DM si hay alguna duda.",
+      "start_time": 4256.94,
+      "end_time": 4323.7
+    },
+    {
+      "index": 416,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Les dejo Mind the Beast de Suno, primer sencillo de Banda Web 3.",
+      "raw_text": "Les dejo Mind the Beast de Suno, primer sencillo de Banda Web 3.",
+      "start_time": 4323.7,
+      "end_time": 4329.42
+    },
+    {
+      "index": 417,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Nos vemos próximamente.",
+      "raw_text": "Nos vemos próximamente.",
+      "start_time": 4329.42,
+      "end_time": 4330.86
+    }
+  ]
+}

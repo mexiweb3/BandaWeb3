@@ -1,0 +1,192 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Título: BandaWeb3 - Latinos en Web3🎙️ Bitcoin Ordinals ! Que son Español
+Fecha: 1765253100000
+Duración: 25.219999313354492 segundos
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+[Speaker 0 - 00:00:25]
+Te lo digo con sinceridad, todo está frío como Navidad, es mejor que esto se acabe ya.
+Yo te quiero, pero es que yo me quiero más a mí.
+Es un año necesario, lo que un día fue increíble se volvió rutinario.
+
+[Speaker 1 - 00:00:48]
+Ahora.
+
+[Speaker 0 - 00:00:48]
+Es todo lo contrario.
+Fue culpa tuya, Tampoco mía, fue culpa de la monotonía, aunque dije nada, pero me dolía.
+Sabía que esto pasaría con lo tuyo.
+Yo siento lo mismo, siempre buscando protagonismo y también hasta los de mi estimo.
+
+[Speaker 1 - 00:01:38]
+GMGM Buenos días.
+Buenos días.
+Bienvenidos a otra conversación de latinos en web.
+¿Como todos los lunes, hoy vamos a estar hablando creo que del tema que ha sido el más popular en estos días, Bitcoin Ordinals, qué son?
+Es un tema que suena bastante complicado, pero la idea es que lo desglosemos un poquito el día de hoy y para eso invité a dos personas que nos van a ayudar.
+Pero antes de eso, antes de que hagamos todas las presentaciones, como siempre, este es un espacio que es en spanglish, nos enfocamos más que todo en español, pero si hay alguien que no se siente cómodo en español, they could come up if you don't feel comfortable speaking Spanish and you want to participate in the conversation, you're always welcome up and you can speak English, we could help translate.
+Así que bueno, bienvenidos, me encantaría si pueden por favor compartir el espacio, se los agradezco, así tenemos más personas que se pueden unir a la conversación y que ojalá pues le ayude.
+Tenemos hoy a Mexi, Mexi es un especialista en tecnología y seguridad, así que me alegra muchísimo tener a alguien de Monterrey aquí con nosotros que nos pueda guiar un poquito en todo esto que está pasando.
+Él es desarrollador en la blockchain y también consultor, así que Mexi, bienvenido si te quieres presentar, conocerte un poquito más adelante.
+
+[Speaker 2 - 00:03:04]
+Muchísimas gracias Lau, muchas gracias por la invitación a tu espacio, soy tu fan definitivo y creo que todo lo que haces en el ecosistema es súper chingón y pues gracias de nuevo, la verdad me presento rápido, me encanta mucho a mí todo el tema tecnológico, desde muy chiquito tuve acceso a computadora, Internet, teníamos acá en Monterrey unas ya no las tenemos, pero tenemos tiendas de computación, entonces siempre estuve muy involucrado con eso, estudié una ingeniería y luego me especialicé en temas de seguridad y Desde hace unos 5 años que entré al ecosistema, pues me ha apasionado mucho por aprender, por utilizar la tecnología y ver cuáles son las capacidades y en los últimos año y medio más o menos, pues ya he independizado con un negocio, tratando de construir en el ecosistema, tratando de ser comunidad y pues ayudándole a todos los que quieran aprender un poquito más de estas tecnologías, pero siempre con un disclaimer y lo aprovecho para mencionar ahorita, todo lo que hagamos en estos ecosistemas, lo primero que tenemos que hacer, creo yo, en mi opinión, es invertir tiempo en aprender a utilizarlo de manera segura.
+Somos responsables de cuidar y de proteger estos activos digitales con los que estamos transaccionando, pero también de protegerlos para que no se nos pierda.
+Gracias de nuevo por la invitación.
+
+[Speaker 1 - 00:04:25]
+Gracias a ti, y creo que ahí es donde uno se da cuenta cuando vamos a empezar una conversación de una manera más responsable, también recordándonos que en todo este espacio blockchain es súper importante tener ese lema de seguridad y también de responsabilidad, o sea que la responsabilidad no recae en un tercero y que por eso pues eso lleva a unos beneficios pero también va con ciertos riesgos, entonces me encanta que empieces así, bienvenido.
+Y también tenemos a Serving, no sé si quieres que te diga Servín o tu nombre, tú me dirás, pero contenta de que, o sea, lo vi y yo dije bueno, ahora no sé si es que no le gusta que le digan Felipe, Felipe está bien feliz.
+Dice que cuando las personas están aquí anónimos o no anónimos, siempre nos cuesta un poquito más, pero bueno Felipe, muchas gracias por estar aquí también, yo sé que tienes mucho que agregar, me alegra conocerte, es la primera vez que hablamos, así que bueno, bienvenido mismo porfa, una presentación así te conocemos un poquito más de tu experiencia que has hecho en el espacio y pues afuera de.
+
+[Speaker 3 - 00:05:37]
+Perfecto, gracias, ya me doxeaste, pero está muy bien.
+
+[Speaker 1 - 00:05:44]
+Exacto, exacto, o sea yo tenía el nombre de él y después yo dije, espérate, él nunca me.
+
+[Speaker 3 - 00:05:51]
+Pues como ya dijeron mi nombre es Felipe, ya pueden ver mi apellido, Felipe Servín, así que si quieren googlearme y empezar a doxear, no hay problema.
+También conocido como luchador en el mundo NFT y de manera graciosa hasta curiosa no es la primera vez que estamos en Spaces y tú fuiste parte fundamental en mi iniciación en el mundo público de los NFTs el año pasado, ya casi más de un año estuve ahí en un space contigo y con Thalía, cuando justo estaba haciendo el primer proyecto público en Solana que se se llama Criptolucha, son unos luchadores pixeleados ahí que hicieron favor darnos la patadita de inicio.
+
+[Speaker 2 - 00:06:41]
+Sí, sí, sí.
+
+[Speaker 3 - 00:06:42]
+Y ha sido una experiencia increíble, así que públicamente te agradezco por todo el apoyo.
+Ese inicial fue una bola de nieve, lanzamos los tacos, se hizo un soldado, terminó siendo las bases fundamentales de mi empresa actual que se llama Nifter, es una plataforma de no código para lanzar NFTs en Ethereum, Polygon y Solana.
+Y todo fue, o todo inició justo con sspace ahí contigo.
+Muchas gracias por la invitación.
+
+[Speaker 1 - 00:07:16]
+Wow Felipe, si me hubieras dicho cripto lucha, digo, ah sí, 100% ahí ya claro.
+Y en el momento como que no hice clic, que eras tú, así que qué lindo, qué lindo escucharte y qué bonito ver eso, o sea que realmente hemos crecido paralelamente en este espacio y que hay veces que a mí me cambian un PFP y de pronto ya no sé ni quiénes son, A mí me cambia así como que digo espérate.
+Y a veces me toca, sabes, cuando tengo duda yo me voy a los mensajes, a los DMs, yo nunca los borro como para ver yo oh my God, mira, hace no sé cuántos meses que aquí, parece que fueran 10 años y pasaron 10 meses, tuvimos esta conversación o compartimos este espacio, así que ese es como mi diario, así que bueno, bienvenido y sin más vamos a empezar a hablar del tema.
+Vi que subió Mikita.
+Mikita, buenos días, bienvenida.
+No sé si quieres empezar tú con una pregunta, te cedo la palabra o con cualquier comentario.
+
+[Speaker 4 - 00:08:15]
+Hola, hola, buenos días Laura y Mexi.
+Bueno, yo puse, me lancé siempre de atrevida cuando vi Bitcoin Ordinals, digo, ah, es que yo estoy ya me lancé con uno y soy pionera en eso.
+Entonces digo, estoy como dicen bullish con todo este tema y ahí estoy.
+También Mexi me apoyó mucho y un amigo, Eric, porque yo realmente de la tecnología, de la programación y de todo este tema no me entero mucho.
+Yo decía bueno, ahora que creo que después de un año en el espacio, creo que ya entiendo bastante de los NFT, me salen con esto y ahora no entiendo nada, pero bueno, me apoyo en los que sí entienden que es lo bueno de estar en esta comunidad y de haber creado tantos contactos y crear amigos y amistades auténticas, que bueno, yo no lo sé, pero otros si me ayudan y me sentí arropada en ese sentido, pero me lancé de lleno y ya tengo mi primer Bitcoin Ordinals en la red, así que súper contenta con eso.
+Y nada, lo sigo escuchando porque estoy aprendiendo del tema y Mexi es un gran amigo y sabe muchísimo acerca de ese tema.
+
+[Speaker 1 - 00:09:19]
+Que súper.
+Ahora te voy a hacer así como un Q A de todo lo que significa, o sea, cómo te guiaron, qué hiciste, si es tu arte o si es algo que mintiaste.
+¿Pero vamos a empezar aquí con mis co host por lo más básico, o sea, qué es un Ordinal, por qué se llama Ordinals y no un NFT y si son lo mismo realmente fundamental o no?
+
+[Speaker 2 - 00:09:44]
+¿Oigan, si gustan empiezo con Mexi, es buenísimo con este hombre, creo que es súper interesante, pero por qué Ordinal?
+Yo creo que por ahí, por ahí creo que recomendamos empezar, o menos yo recomiendo empezar.
+La semana pasada nos reunimos todos acá los jueves en Monterrey, tenemos meetups todas las semanas y justamente platicamos de este tema.
+Yo les decía.
+De niños aprendimos matemáticas, aprendimos los números, nos enseñaron en el kinder a contar y lo primero que aprendemos de niños son los números cardinales, esos son el un, dos, tres, cuatro, cinco, etc.
+Son los que utilizamos para expresar cantidad, para contar personas, para contar objetos, etc.
+Pero también existen los números ordinales o los ordinals y esos son los que se utilizan para expresar orden, o sea, el primero, segundo, tercero, cuarto, quinto, etcétera.
+Ejemplo, la posición final de una carrera de algunos corredores o no sé, los pisos en un edificio, ¿No?
+Es el primero, segundo, tercero, por eso se llama Ordinals, porque tienen un orden y denominan la posición en la que están en una lista, por así decirlo.
+Entonces creo que por ahí eso es lo ideal para empezar, por eso se llama Ordinals.
+Y también lo interesante creo yo aquí, es que es una aplicación que diseñó un desarrollador que se llama Casey, Rod Armor y todas estas nomenclaturas, todos estos nombres, toda esta terminología que probablemente estemos utilizando el día de hoy, pues es invento o designación de él.
+Por como decidió programar esto, le puso ciertos nombres, le puso cierta terminología.
+Se utiliza mucho el tema artefacto digital, ya hablaremos de eso, pero pues todo esto es algo que él diseñó y que ahorita pues todos estamos utilizando y tratando de entender.
+Entonces está muy interesante.
+
+[Speaker 1 - 00:11:40]
+Me encanta esa explicación y mira que no fue algo que tocamos, yo tuve un espacio en este tema en inglés la semana pasada, ahorita después se los pongo y esa explicación nadie la supo, así que me parece súper interesante como ver ese origen y ahorita como que irnos directamente a por qué esto es tan significativo.
+Yo había escuchado que habían como algunos NFT en Bitcoins, es más, hay una compañía en Argentina, Carnaval, que sé pero que eso estaba como en un layer 2, entonces ahorita cuando empezó el FUR, ahora están los orinals en Bitcoin y empezaba el boom, yo decía no entiendo, o sea, esto no es lo mismo que ya estaba pasando.
+Entonces como que vamos a desglosar ahí por qué esto es tan significativo, por qué es tan importante.
+Y cuál es la diferencia exactamente, digamos, entre un NFT que es de pronto lo que estamos acostumbrados ya sea a coleccionar o a crear.
+
+[Speaker 2 - 00:12:39]
+Claro, claro, si quieren pues le sigo.
+Y Felipe, interrúmpele cuando gustes porque híjole, yo me agarro.
+Mi trauma de aprender lo más que se pueda y bueno, no me calla.
+Pero sí, como tú dices, dale, dale, gracias.
+Esto es algo que ya viene sucediendo en Bitcoin desde 2014, 2015.
+Ya se empezó a trabajar con algo parecido, no es lo mismo, pero utilizaban.
+Otra manera de hacer este tipo de distinción en Bitcoin.
+Ahorita lo importante es que de acuerdo a una actualización que se hizo en Bitcoin hace un par de años de la actualización segwit y Taproot da la posibilidad de hacer este tipo de inscripciones.
+Esto es algo que.
+Al parecer y por lo que he leído mucho por ahí no sabían que se iba a poder dar con esa actualización, entonces como que sí sacó a mucha gente de sorpresa y es una manera diferente de hacer NFTs o artefactos digitales.
+¿Y cuál es la parte interesante?
+El concepto de artefacto digital es algo que se está escuchando ahorita mucho.
+La gran diferencia de un artefacto digital es que está completamente inscrito en la cadena de bloques de Bitcoin y que no necesitas un contrato inteligente para poderlo inscribir, sino que el código con la actualización que sufrió hace un par de años con Segwit y con Taproot, te permite en la Layer 1, tal cual en la L, hacer estas inscripciones.
+¿Y qué es lo que sucede?
+Tú agarras un satoshi y bueno, antes de eso yo creo que es bueno comentar que la teoría ordinal que el desarrollador inventó, Casey Rod Armor, fue nada más como que una nomenclatura y una definición de cómo ponerle un número consecutivo cada satoshi de acuerdo a cómo funciona Bitcoin y como se van creando los bitcoins nuevos.
+Cada bloque de 10 minutos.
+En cierto orden, él definió que cada uno tenía un número consecutivo.
+Y hablemos de bitcoin que son 21 millones de unidades, y hablemos de satoshis, los satoshis son 100 millones de unidades en cada Bitcoin.
+Entonces eso también es algo importante.
+Pero échale Felipe que ya estoy medio cantinfleando.
+
+[Speaker 3 - 00:15:03]
+No, no, justo, o sea, lo que quería explicar un poquito a la audiencia es el detrás de cámaras de lo que pasan en los NFTs y la diferencia real de lo que está pasando con los Bitcoin NFTs que bien describes, todo está basado en satoshis.
+Entonces tienes un bitcoin, cada bitcoin tiene 100 millones de sats y Casey justo lo que encontró fue una manera de hacerlos non fungibles, porque entonces podemos identificar cada uno de ellos y este proceso de incluir un asset a cada satoshi y luego mandarlo a la red de Bitcoin, pues se llama inscripción.
+Es diferente a lo que pasa con NFTs en Ethereum, en Solana y Polygon, porque normalmente un NFT en estas redes hace uso de un apuntador, o sea, realmente cuando compramos un NFT, parte de esa metadata en sí es nada más está apuntando a otro lugar donde estamos guardando esa imagen, donde estamos guardando el detalle de esa metadata.
+Y la gran mayoría de los NFTs que compramos son mutables.
+El contrato permite, o los contratos permiten que el creador o quien holdee la autoridad de ese contrato pueda modificar la metadata de los NFTs, no todos.
+Y hay algunos contratos que desde el principio te dan posibilidad de renunciar a ese derecho, pero la naturaleza es que nos dejan cambiarlos.
+Entonces el tema de inscripciones es en verdad nuestro primer o uno de los primeros.
+Artefactos que literal son descentralizados, son inmutables, siempre están en la cadena y son nativos a Bitcoin, a diferencia de las otras soluciones que hemos tenido, esto va a empezar a abrir conversaciones interesantes que quizás no teníamos antes porque no estaba de esa manera el funcionamiento, pero que justo hoy es como está funcionando.
+Y regreso contigo desde aquí la cabina.
+
+[Speaker 2 - 00:17:28]
+Oigan y un comentario rápido, creo que es súper interesante esto que menciona Felipe porque como no hay un contrato inteligente que tú tengas que ir a auditar, pues no dependes de que alguien haga nada, o sea, obviamente tiene las desventajas que no puedes personalizarlo y no puedes meterle programación especial, pero creo yo que esa es una de las ventajas que tiene esta tecnología y que como decía también Felipe, la información está completamente en la cadena de bloques, tú se la puedes, nadie te puede bloquear el envío, hay casos en Ethereum que están ahorita sonando y en Solana y en otras redes donde el contrato no te permite transaccionar con otra, con un marketplace que no sea el que ellos digan, hay whitelist, hay blacklist, te pueden ellos bloquear ciertas utilidades, aquí no hay manera de que ellos te bloqueen el envío o la recepción de este tipo de artefactos ni lo puedes modificar y es algo que se va a quedar ahí en esa cadena de bloques por siempre.
+Y recordemos que Bitcoin es la cadena de bloques que más seguridad tiene, más valor tiene y más usuarios tiene ahorita protegiéndolas en mi opinión, creo yo.
+Y por ahí están las estadísticas.
+
+[Speaker 1 - 00:18:39]
+OK, ahora sí me quedé la parte de que hasta ahora no hay un marketplace donde podamos ir a comprar esto, entonces ¿Cuáles son las cosas necesarias que tenemos?
+Y ahorita decimos, bueno, mira, queremos ser parte de esto, queremos comprar algo o queremos investigar más, según lo que tengo entendido, hay que entrar en un Discord, hay que tener un wallet específico que se demora un poquito de tiempo, entonces como pasar, hacer como el paso a paso y también como alertar a todos de que en este momento suena como que todavía no estamos tan avanzados, obviamente está empezando esta parte.
+Pero que todas las transacciones son como over the counter, o sea que tienes que confiar que la persona te va a mandar este activo si lo llegarás a comprar.
+
+[Speaker 2 - 00:19:26]
+Sí, eso es súper, súper importante la porque como tú dices ahorita al menos yo lo que lo que he tratado de hacer y lo que pues la campaña por así decirlo que traigo en mi Twitter es que los artistas aprendan o aprendamos a usarlo, o sea yo creo que ahorita es súper interesante aprender a subir nuestro arte, si es algo que nos llama la atención, poder dejar nuestro arte en la cadena de bloques y poseerlo.
+Ahorita es muy fácil subirlo, hay aplicaciones que te ayudan.
+Pero definitivamente no hay manera ahorita de a través de un marketplace comprarlo y venderlo, tendríamos que si algún artista llega a mintiar algo ahorita para venderlo, sí tiene que hacer una transacción de persona a persona o utilizar un servicio con un intermediario que a lo mejor con mucha confianza te ayude a hacer esa transacción, pero sí, si quisieras tú ahorita comprar alguna colección de estas hypeadas que están sonando, yo diría aguas, aguas, puede haber mucho hype y estoy lidiando yo en el ecosistema mucho FOMO, puede haber muchos scams también puede haber mucho fraude por lo mismo que no hay un marketplace que te permita hacer una transacción sin que alguien esté por ahí intermediario.
+Y también el manejo de la wallet ahorita es complicado, sé que están desarrollando al menos un par de aplicaciones que van a permitir que esto sea más sencillo, pero todavía no estamos ahí, yo creo que estamos como unas dos o tres semanas de que esto sea algo que podamos transaccionar mucho más sencillo, entonces sí hay que tener mucho cuidado en la manera que las hacemos, que los manejamos, porque podríamos llegar a utilizar el Satoshi donde está inscrito nuestro arte para pagar comisiones y lo perdemos, entonces es muy fácil si manejamos mal ahorita la tecnología poder perder el arte ya sea que lo mintiamos o que compramos, entonces sí hay que tener mucho cuidado.
+La wallet que están ahorita recomendando es una especial por ahí se llama Sparrow, yo ya la probé, funciona bien, pero sí, definitivamente todavía estamos a unas tres semanas, un mes de que esto pueda ser algo muy sencillo de utilizar creo yo.
+No sé qué opinas tú Felipe que tienes un poquito más de background.
+Si algo.
+
+[Speaker 3 - 00:21:45]
+Algo interesante que descubrí este fin de semana es que técnicamente, a ver, para dar contexto, la única manera de adquirir.
+NFT de Bitcoin es o lo creas o lo compras ahorita.
+Entonces, crearlo, ahorita entramos a la parte de cómo crearlo.
+Creo que muchos están interesados aquí en cómo hacerlo.
+Está la parte hardcore y la parte sencilla pero cara porque los costos ahorita son altos.
+Pero la manera de obtener uno, como mencionas, es peer to peer, o sea, persona a persona.
+Y lo que casi todos están hablando este fin de semana es que la primera solución de intercambio va a ser muy parecida a lo que conocemos en el web como un scrow, pues es un third party, es una tercera entidad que técnicamente le mandamos el artefacto o el NFT por un lado y por el otro lado le mandan el dinero.
+Se comprueba la parte legítima de ambas, que sí sea el dinero y que sí sea el artefacto y se hace el switch y uno lo entrega uno, el otro lo entrega el otro y esa parte intermediaria o el third party pues se llama una comisión de esa transacción.
+Suena muy antiguo, pero la gran mayoría de los holders actuales están empujando a que un escrow Bitcoin pueda ser una de las mejores soluciones para intercambio de artefactos.
+
+[Speaker 4 - 00:23:42]
+Bueno, no sé si seré yo o será Laura porque decía que había problema con la conexión.
+¿Ustedes están hablando?
+¿Me escuchan o estoy interrumpiendo?
+
+[Speaker 1 - 00:23:51]
+Lo siento.
+
+[Speaker 3 - 00:23:53]
+No, gracias.
+¿Yo también me quedé como ya nadie agarró el micrófono?
+Gracias.
+
+[Speaker 4 - 00:23:59]
+Ah, bueno, porque a mí me salió un cartelito que decía que Laura estaba teniendo problemas con la conexión y creo que está un poquito rugueada.
+Pero bueno, sigamos entonces, Mexi sigue explicando un poquito más y así a ver si le damos tiempo a que Laura se vuelva a reconectar.
+
+[Speaker 2 - 00:24:16]
+Igual yo creí que alguien estaba hablando, pero bueno, creo que es súper interesante lo que estamos viendo ahorita van más de 74.587 inscripciones en la red y cada una de las inscripciones nuevas tiene un consecutivo nuevo.
+Por aquí ahorita que hable Felipe voy a pinear un link donde están viéndose las estadísticas.
+Algo que esto está ocasionando es mayor uso de la red y en mi opinión esto es algo súper interesante porque finalmente si queremos adopción, si queremos uso, estas redes tienen que poder llegar a cierta capacidad.

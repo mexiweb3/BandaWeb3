@@ -1,0 +1,809 @@
+================================================================================
+TRANSCRIPCIÓN FIREFLIES.AI
+================================================================================
+Título: BandaWeb3 #022 @ariutokintumi.mp3
+Fecha: 1736829900000
+Duración: 85 segundos
+
+================================================================================
+TRANSCRIPCIÓN COMPLETA
+================================================================================
+
+Bienvenidos a esta grabación, gracias por pasar por aquí.
+Buenos días, buenas tardes, buenas noches.
+Dependiendo de dónde se estén conectando, escucharnos el día de hoy.
+Hoy vamos a estar platicando con Ariu talking to me, el buen Germán, un uruguayo, perdón, me va a matar cuando escuche la grabación.
+Un uruguayo que vive en México, que está haciendo cosas muy chidas.
+Voy a pinar por aquí arriba el espacio para que la banda cuando llegue nos ayude a retuitearlo.
+Denme un segundito y voy a empezar con musiquita mientras hago todas las invitaciones.
+Yo normalmente empiezo a hablar cuando arranco los espacios.
+No le doy tiempo al espacio en blanco, no me gusta.
+Pero pues si le dedico ahí algo de tiempo a postear una imagen aquí abajo, normalmente posteo Ÿousand, changuitos en pelotas.
+Ahí lo pueden ver.
+Le doy like tweet a la sala, le digo a la ronda que se venga y ahorita voy a conectar otra cuenta.
+Pero mientras hago todo eso, les pongo musiquita.
+Vamos a empezar con Liquid Tensión Experiment, como siempre, Universal mind.
+Espero que se haya escuchado bien la atención de repente no agarra bien el ritmito, se escucha medio feo.
+Voy a subir aquí, se nos cayó.
+Vamos a invitarlo de nuevo a buen Arius talking to me y me ayudan a compartir la sala, a dejar su comentario o a repostearla.
+Todos sumando.
+Vamos a empezar a platicar aquí con lo buen Germán.
+Nos va a contar todo lo que anda haciendo, sobre un chingo de cosas anda metido.
+Uy, lo estamos perdiendo.
+Va y viene.
+Estamos aquí teniendo unos detallitos.
+Ah, no, creo que ya me cambié el celular.
+¿Qué onda?
+¿Cómo andas?
+Creo que ya te escucho bien.
+Excelente, excelente.
+Se escucha lindo y claro.
+Buena música.
+Perfecto, perfecto.
+No, te estaba empezando a presentar mientras arreglamos acá los problemas técnicos el día de hoy, bueno, es el episodio número 22.
+Estamos platicando con Ario Talking to me.
+Se va a presentar, nos va a contar un poquito de dónde viene, qué anda haciendo por acá, qué está construyendo.
+Y habrá algunos disclaimers por ahí en el proceso.
+Pero la neta, desde que supe de ti, que fue cuando empezaron a organizar 5 de mayo, yo creo que había escuchado una que otra cosa, pero en realidad el 5 de mayo fue cuando cuando dije ah, cabrón, no he visto Germán y no sé qué.
+Y ya todo lo que andabas haciendo y verga, qué chingón, güey.
+Este.
+Me ha encantado todo lo que la historia después de lo que te gusta hacer y lo que estás haciendo, tu familia, güey.
+Ahorita platicamos de todo eso, pero hoy trae un tema interesante.
+Hoy trae un tema tecnológico interesante, chido.
+No, no sé, no sé, no sé por dónde empezar.
+Este disclaimer, disclaimer.
+Somos, somos por ahí socios, estamos asociados ahorita en uno de los proyectos que nos va a platicar.
+Por ahí lo he dicho en algunos lados, ya lo estoy haciendo más público.
+Invertí en una de las iniciativas que trae Germán y me gusta mucho y estoy súper bullish en lo que están haciendo en él y en su equipo.
+¿Y pues bueno, ahorita vamos a aprovechar para cilarles un poco para que sea nuestro exit liquidity, no?
+No se crean que usen nuestros, pues sí, todo lo que se va a empezar a desarrollar, que ahí voy a ver cómo ayudo a que eso suceda.
+Pero bueno, voy a seguir invitando a la gente de los grupos Ÿousand y empezamos.
+¿Germán, cómo andas?
+Bienvenidos.
+Gracias, sí, la verdad es que es un placer estar construyendo para la comunidad.
+Fue también, no fue una sorpresa la verdad, pero sí fue una noticia muy bonita saber que invertiste en el mate metaprotocol, en rola mate.
+Y yo incluso te pregunté si a veces una inversión comunitaria o qué.
+Me dijiste no, no es mía, yo me la eché.
+Yo confío en ustedes, así que muchísimas gracias por esa confianza.
+También, pues les puedo contar de que varias de las personas que habían invertido al final de la ronda duplicaron su inversión.
+Dijeron antes de que hiciera revisame y duplicaron porque les encantó.
+Así que imagínate que son buenos los updates y lo que la gente fue viendo.
+Así que estás bien posicionado ahí.
+Igual no se trata ahora de hablar de inversiones ni nada, sino de construcciones IT.
+5 de mayo se viene con todo de nuevo.
+Estoy involucrado, somos cinco personas, más otras personas que nos ayudan siempre desde afuera.
+Así que bueno, ahí vemos.
+Se puede tirar algún alfa.
+Y acá te va a estar sumando la llamada también en un ratito.
+Imagino que Kevin, este que es co founder, oficialmente co founder, le dimos ese lugar porque se lo mereció.
+Y Zweitausendein de la EVVM, del matemetaprotocol, llamémosle, es la Ethereum Virtual, Virtual Machine, que es parte de lo que vamos a estar hablando hoy también de construcciones.
+Personalmente me dedico, soy inventor, ese es mi background, inventor, así como Ciro Peraloca, como profesor chiflado, eso es lo que hago.
+Parece chiste, pero es verdad.
+Invento cosas, entre ellas historias, pero Ÿousand.
+Pero principalmente me gusta solucionar problemas o bajar la complejidad de los problemas existentes.
+Así que bueno, esa es mi expertise.
+Entonces he hecho algunos protocolos, he inventado algunos estándares.
+Me gusta mucho andar solucionando temas que veo en el ecosistema dentro de algunas cosas.
+Para hacer un breve resumen, lo primero que intenté solucionar es el problema de los metadatos en los NFTs, que cambian de información de punteros, cuando todo podría estar pareja armado.
+Entonces ahí inventé un estándar con el que fui finalista en Latino México 2022, que es para que los archivos puedan hacer data metamorfosis, metamorfosis de datos con la propia información que tiene adentro, liberando claves, usando criptografía simétrica.
+No necesita hacer criptografía simétrica, pero ofuscación.
+Entonces, bueno, básicamente lo que hace es que sea imposible desencriptar hasta que tengas las llaves.
+Es que se hoy día publicando on chain para que todo el mundo pueda ver nuevos estados de sus archivos sin necesidad de que se los cambien.
+Luego, eso para un pre revel, post.
+Revel, dígame un poquito de llantas.
+O sea, estás ya en el ecosistema.
+¿Cuál es tu background?
+Ya les platiqué o les decía que Uruguay, que estás acá en México, tienes estudias de ingeniería, estudias de finanzas.
+¿Cómo fue tu llegada también a la web tres?
+Bueno, yo llegué a la web tres de la web dos y a la web dos de la web un y a la web un desde la no web.
+Empecé a programar a los cuatro años, en el 86, pero programaba batch, hacía mis archivos en batch para poder acceder más rápido a los juegos, que me interesaba mucho eso, y rápido a poder jugar al soccer o al GP, al Grand Prix en las X.
+También empecé a programar siguiendo revistas en Spectrum, TK, siguiendo libritos de que compraba un primo que teníamos que que programaba conscientemente.
+Pues nosotros programábamos copiando y pegando código a mano de un librito a una computadora y le das enter al final y si no te equivocaste en ninguna letra, apareció un juego.
+O sea, programas un juego para poder jugarlo.
+Esa era algo muy divertido, interesante.
+Luego de eso, pues siempre tuve llegado a las computadoras, aunque nunca tuve computadora propia hasta los 20 años, siempre la computadora de la casa.
+Y bueno, ahí más o menos me fui manejando, aprendiendo.
+Siempre el que no tiene algo lo quiere más.
+Entonces iba a la casa de mis amigos y me ponía a programar, me ponía a ver cosas de Internet.
+Tuve mi primer página web a los 14 años, en 1996.
+Y empecé a hacer dinero en ese mismo año, pero no suficiente para comprar una computadora.
+Hacía $100 por mes vendiendo discos compactos en EE.UU.
+por medio de un sistema de afiliados en Geocities, se llamaba 400.º Now, 400.º Now.
+Y bueno, dejé o me dejó la secundaria del bachillerato, nunca lo terminé.
+Ya tenía una empresa de seguridad informática a partir de los 16 años, 15 años que me interioricé en Internet, que apareció, me iba a conectar a un centro comercial que habían computadoras con Internet en el 95.
+Y después empecé a pedir que pusieran la computadora en mi casa.
+Me dejaban 1 h por día Internet, a veces media hora.
+¿Me metí así como como loco, no?
+Con las BBs estuve poquito contacto por lo mismo del teléfono.
+¿Te voy a preguntar eso, te metiste en el tema de BBS?
+¿Yo estuve muy metido en eso, en los juegos estos, te detexto de colores North South de los Bulletin Board, no?
+Qué dosmilésimo.
+Sí, todo este show.
+Llegué a tratar de montar uno, pero nunca pude.
+¿Qué tanto te metiste tú ahí en eso?
+Pues solo me conectaba porque te digo que tenía muchos problemas.
+Como no éramos pudientes, digamos, la tarifa de teléfono se cuidaba mucho.
+Aunque creo que la tarifa de teléfono es algo que se cuida en la gente con dinero y sin dinero.
+¿Como que es un trauma que tenemos todos, no?
+Que ya no existe.
+Increíble.
+Como fui a estado subprime y vi que el teléfono era tarifa plana, yo no podía crearlo.
+Este es el futuro, el paraíso.
+Pero bueno.
+Entonces, pues no tenía mucho contacto con poder conectarme con cosas remotas.
+Pero bueno, sí podía bajarme algunos archivos.
+Sobre todo lo usaba para bajar esigns, revistas de programación y de hacking y de seguridad.
+Pornografía.
+Pornografía, no me digas que no.
+Zweitausendein.
+No, no, no, nada, nada de eso.
+Eso venía en los discos de los juegos.
+Casualmente, cuando uno iba a comprar juegos piratas, siempre aparecía una carpeta con algún regalo de Jenny McCarthy, sobre todo, y Pamela Anderson.
+Eran las de la moda de ese momento.
+Y me acuerdo, usamos Graphic Workshop, el GWS, [Sos/eos] que podías convertir en ejecutables las imágenes y las poníamos en el autoexcel VAT de las computadoras del colegio.
+Entonces todas cuando aprendían, te ponían ahí a Jenny McCarthy.
+Por suerte nunca nos escuchó, que somos nosotros, porque hubiera sido un relajo.
+¿Colegio católico, todas las computadoras prendidas con los niños ahí de nuestra edad, no?
+De 14 años, 13 años.
+Y de repente aparecía Jenny McCarthy.
+Hola, acabas de prender la computadora.
+Pero bueno, más allá de esas gracias, espero no me estén escuchando del colegio, si no saludo.
+Fui yo.
+Sí, lo siento.
+Pues empecé a dedicarme, so tuve mi primera startup a los 17,18 años.
+Ya como más más fuerte.
+Y de ahí estuve en esa startup que era de seguridad informática hasta los 28 prácticamente.
+Mientras a su vez hacía inversiones en Internet de temas de dominios, temas de tráfico web.
+Es que es comprar y vender visitas, hacer arbitrajes, páginas web para generar ingresos de diferentes formas.
+Nunca me metí mucho en anuncios, conocí a todo el mundo de los que hacían el porno, pero yo nunca me metí ahí en ese tipo de sitios web.
+También conocía todos los de juegos, digamos que estoy muy involucrado en todas esas comunidades y hacía conferencias parecido al 5 de mayo, pero de marketing e inversiones en Internet.
+Eran públicas, abiertas, invitaba a mucha gente, iban de 100 a 200 personas en los mejores momentos, pero era pura conferencia internacional.
+Fueron co creadores, cofundadores de Twitter, hablar personalidades grandes a nivel mundial de temas de dominios, personalmente tengo casi todos los dominios de Uruguay de una letra.
+¿Justo ahora quería mover el g ui.
+Que es tipo gai que estás vendiendo $50000, estás pidiendo por cuál?
+¿Cuál es?
+No, no, no, pido 200000, pero a ver cuál es la oferta que aparezca.
+Tiene una oferta de $30000 ahora puesta y como no sé bien de quién es este, pues me imagino que bueno, que es alguien de relación con un proyecto de estos porque está el chill guy muy fuerte ahora y se me hace que pueden ir por ahí.
+Entonces pues pido 200002 bitcoins para hacerla bien web.
+Con dos bitcoins ya se lo largo a quien sea.
+Y también tengo b ui, bueno, tengo muchos, te digo de una letra, tengo casi todas las letras de Uruguay, pues las registré hace ya casi 20 años.
+Bueno, es chido eso, pero imagínate que por ejemplo me gasté $5000 en dominios de bitcoin entre 2009, 2011, $5000 me gasté y no compré en ese momento ni un bitcoin.
+Aunque ya minábamos también por temas de simplemente de divertirnos y los dejamos en la wallet, pues no valían nada, valían menos de $0,01 un bitcoin.
+Entonces pues y nunca les presté atención.
+Siempre me llamó mucho la tecnología porque antes había un protocolo de seguridad que empecé a estudiar en el año 99,98 que es PGP Pretty good privacy, que es criptografía asimétrica.
+Me metí mucho en criptografía, de hecho escribí un par de libritos, pero eso ya es demasiado dark web, así que no se va a hacer disclosure acá.
+¿Pero si escribí como unas 400 páginas sobre criptografía de todo tipo, como anon.
+O con tu [sos/eos].
+Hashes, cómo funcionan cómo son las curvas de las funciones de criptografía simétrica, etc.
+Etc.
+Etc.
+Para fomentar un poco la privacidad usando pgp, no?
+Después salió el gpg, que es el cnu pgp y toda la filosofía atrás.
+Hay una cosa que no se ha implementado en blockchain, que debería estar implementada, que es la firma de firmas.
+Porque si a vos te firman la firma, que digamos que puede ser un poquito de los attestations que se hace ahora, pues digamos que pueden estar seguros de que vos sos vos y hay gente que te valida.
+En ese momento no se preocupaban tanto porque alguien te robe tu clave privada, porque había que entender bastante cómo funcionaba todo para usar criptografía asimétrica y PGP.
+Aunque habían clientes bastante simples que se instalaban incluso en el Outlook, pero no se supone que alguien te podía robar tu clave privada.
+Tenías que ser muy pelotudo.
+¿Además, siempre tenías que firmar con tu Sid, no?
+¿Tenías como una pequeña Sid, además del archivo que generaba tu clave privada y estaba partida siempre, no?
+O sea, que si te olvidabas de tu Sid, pues ya te quedabas sin poder firmar ni ver nada.
+Hay una función de criptografía asimétrica que casi no se usa, que funciona muy bien en blockchain y con todos los algoritmos que hay, que es que vos sabías de que si nosotros usamos tu Clave pública, o sea, tu adress para encriptar información, solo vos la podés desencriptar.
+O sea, cualquiera puede encriptarla con tu Clave pública.
+Cualquiera.
+Y solo tú lo podés encriptar con tu clave privada.
+O sea, va en dos vías.
+¿La criptografía asimétrica es con mi clave privada en cripto, no?
+Y cualquiera con mi pública puede desencriptar o firmar y verificar.
+¿Pero a su vez, cualquiera puede encriptar con tu llave pública, la que todo el mundo conoce y solo vos lo ves, no?
+Y eso se usa muy poco y tiene muchísimas funcionalidades.
+¿Digamos que el ecosistema de web y blockchain está muy SDK, no?
+Muy SDK, muy librerías, todo muy prearmado.
+Entonces, pues no, no se está aprovechando al máximo ni cerca.
+Estamos en pañales.
+Totalmente.
+¿Yo lo que me he dado cuenta en muchas cuestiones, comunidad, desarrollo, proyectos, ahorita es donde, y algo tú dijiste hace poco en un espacio o por ahí en el Telegram de Frutero, no?
+¿Me acuerdo, que tú ya viste cómo Web Uno sacó lana, cómo repartió y eso se acabó en algún punto, como Web dos también, no?
+¿Pasó?
+Hubo lana, repartieron grants, repartieron subvenciones y cosas, y eso se acabó en algún punto.
+Creo que todavía siguen cosas chiquillas.
+¿Pero tú ves un ciclo similar acá también en Web?
+Este porque sí, definitivamente creo que estamos en pañales todavía y que falta un chingo y que no le hemos sacado todo el jugo y que la funcionalidad del usuario está pésima y que seguimos teniendo problemas de multicadenas que es un pedo manejar, güey.
+¿Entiendo que pues es lo que tú estás buscando, pensando y analizando resolver, no?
+Totalmente.
+Bueno, de hecho estuvo divertido.
+¿Ya si se conecta el Arielus me va a hacer bullying, pero bueno, qué pasa acá?
+¿Nosotros para eso, bueno, personalmente y también la gente con la que me rodeo en general, les gusta solucionar problemas cuando hacemos trabajitos, no?
+Entonces acá propusimos algo para el IT global de de Bangkok, que fue solucionar lo que se le llama, que todavía no se habla, pero ya se va a empezar a hablar, se llama chain fragmentation, o sea, la fragmentación de cadenas.
+¿Qué pasa?
+La gente que experimentamos de todo es un pedo.
+O sea, todavía hay mucha opción, pero.
+No se escucha, no escuchas a nadie decir chain fragmentation, pero o poquito, pero es un problema Zweitausendein.
+O sea, ahora olvídate de la liquidez, o sea, las cadenas, tenés que cambiarte una cadena a otra, esto, lo otro.
+Ahora Metamask dice acá ya no tenés que cambiar de cadena.
+Es lo peor que pueden haber hecho.
+O sea, imagínate, estás en Sepolia 1, página que te dice que es todo de testnet, en una función te cambia a mainnet y saca todo el ETH.
+No, eso es una pelotudez gigante.
+Lo que hizo Metamask es un agujero de seguridad.
+Pero bueno, olvidémonos de eso.
+¿El tema es, ahora que existe un chain fragmentation de todos modos, entonces, cuál es el problema de chain fragmentation?
+Mientras no se puede unificar un uso, como Vitalik propone, que es un arroba no sé qué, que de hecho uno de los jueces, que fue Bingi de Optimism, que es un personaje bastante importante dentro del ecosistema V, dijo no puedo creer que están proponiendo esto.
+Y no me van a dejar mentir mis compañeros de equipo, entre ellos está el gistro Víctor Celikousand y menta, que acá no hay ninguno conectado, pero bueno, o no los vi de esto que están solucionando ustedes.
+Vitali, que estuvo hablando la semana pasada en una reunión privada y dijo tenemos que solucionar el problema de las adreces de los contratos en diferentes cadenas, porque él está empujando de una forma muy apresurada, pero está bien.
+De hecho estamos a tiempo todavía de hacer cambios de manotazo así de manubrio pa un lado y para el otro.
+Todavía podemos derrapar.
+No hay tanta adopción, se puede dejar.
+Se está debatiendo, mucha gente está opinando.
+Exacto.
+Y Vitalik dice Vitalik dice que los encerró en un cuarto a 15 personas del ecosistema.
+Literalmente cerró el cuarto y dijo hasta que no solucionemos una idea de chain fragmentation, nadie sale de acá.
+Y dijo, eso fue la semana pasada.
+Porque ellos están empujando a Count Abstraction muchísimo.
+Y Account Abstraction significa contratos.
+Pero hay un Eip que dice de que si yo inicializo un adress dándole eth y no es un contrato, eso ya queda como un externo en la uned Account.
+¿Entonces, qué pasa?
+Si vos estás usando Account Abstraction, te creas un contrato y te lo creas en optimism y luego te querés ir a Arbitrum, a mainnet o donde sea, y tenés que crear otro contrato y es otra adress.
+Cuando ya existe una función que se llama create to en solidity, que bajo ciertas condiciones que son totalmente replicables, te permiten crear un contrato con las mismas adresses para que puedas proteger también tu account abstraction, tu contract account en todas las cadenas.
+Entonces nosotros hicimos una solución con el maestro Gistro, que acá no se conectó todavía, con Menta, con Víctor y con Celic, que es un estudio legal, análisis legal espectacular sobre el problema zweitausendein, que dice que vos te conectas a doppelganger.
+Doppelganger es tu doble, tu otro yo.
+Doppelguet es nuestra sátira.
+Pueden entrar a doppet.
+Com y ahí ven el proof of concept y aleatoriamente pedí generar un contrato.
+Entonces te lo genera un adress y se fija si está libre en todas las cadenas ese adress.
+Y si está libre, apretás un botón y automáticamente te genera un contrato en todas las cadenas IBM que nosotros estamos.
+Y ya te lo deja para vos ese espacio de memoria reservado con un proxy.
+Un proxy que es totalmente upgradable.
+Entonces ese proxy después lo cambias por lo que querés.
+Puede ser tu account abstraction, puede ser tu smart wallet, puede ser tu colección de NFT.
+Todas las cadenas con la misma dirección.
+Y de esa forma te aseguras de que, por ejemplo, no estés creando tu account abstraction mainnet 1, pelotudo que te quiere hacer bullying o sin querer o lo que fuera, va y te fondea esa adres en mainnet y ya no puedes deployar y te quedaste sin tu adres en mainnet y nadie la tiene, simplemente la fondió.
+Nadie tiene la clave privada pero como ya la fondeó con un wei, ya no la vas a poder deployar 1 contrato y eso es parte de lo que solucionamos en la parte esa de de chain fragmentation desde un punto de vista de contract accounts.
+Y bueno.
+Por ahí escuché que habías platicado con él.
+¿Cómo es él que le dijiste qué pedo con ese loco?
+Bueno, el Vitalik hay que hablarlo de una forma.
+¿Yo como ya lo fui a acosar como 20 veces, yo no sé si ya me reconoce y dice otra vez este pelotudo?
+Mejor lo escucho porque me va a romper las pelotas hasta que lo escuche o lo que sea.
+Me tocó, la primera vez que hablé con él fue en Waterloo, cortito que me acuerde.
+Después en Waterloo me apareció el güey como fantasmita detrás mío en la fila de la comida.
+¿En la fila de la comida, haciendo la fila, miro para atrás y está el pelotudo así haciendo así con las manitos mirando para arriba, viste cómo hace, no?
+¿Y le digo Hola, cómo andás?
+Y nos pusimos a conversar, tuvimos 10 min hablando ahí, estuvo chido.
+Y después cuando salió lo de rola mate, que ya estábamos terminando, hablé con él también, Zweitausendein y como que tiró ahí unas ideas.
+Ahora después lo vi un par de veces más, conversé con él, todo bien.
+¿Y ahora en Bangkok ya lo agarré y le dije como a él le gusta Vitalik, puedo hablar contigo 1 min?
+Y me miró y me dijo sí, bueno, te acompaño.
+¿Y fuimos caminando y al tipo tenés que hablarle clarísimo a la oreja y no tenés que esperar a que él reaccione porque cuando él reacciona ya te dice algo, no?
+Entonces le fui prrrrrra.
+Le tiré Mirá, estamos inventando Ÿousand super super pitch así estamos haciendo un metaprotocolo porque vos estás buscando la escalabilidad de Ethereum que va en una forma muy horizontal, que es con las l o con las appchains.
+Y yo estoy buscando otra forma diferente que es haciendo una virtualización de la IBM que se deploya con smart contracts adentro de otro IBM.
+Es como tener un virtualbox donde tenés windows en windows, Linux en linux y demás.
+Entonces, otra forma de escalar puedes abstraer gas, puedes abstraer opcodes, puedes abstraer transacciones, puedes abstraer lo que quieras.
+¿Se lo dije bien, no?
+O sea, la verdad que me salió 10 puntos como yo quería decirlo.
+Y me miró y me dijo lo veo extremadamente valioso.
+Me dice sí, dice extremely valuable.
+¿Entonces le digo bien, bien, de todo un pajero, no?
+¿Entonces, te gusta?
+Me acaba de decir que este extremadamente valioso.
+¿Te gusta, te gusta?
+¿Como no sé, no sé qué pretendía, pero como emocioné y me dice, te gusta?
+¿Va a funcionar?
+Y me dice, eso lo va a decir la comunidad, tenés que deployarlo.
+Y ahí vemos que dice la comunidad.
+Pero es un feedback, fue un feedback genial.
+Cuando a alguien le interesa algo, te dice I have to think about it, i don't think so or why not using el feedback fue extremadamente valioso.
+Y después cuando le pregunté si iba a funcionar, entonces ahí no, ahí me dijo, a ver, deployalo y que la comunidad decida.
+Y está muy bien.
+¿No, no, finalmente todo esto hay que generarle una narrativa y hay que contar la historia y la gente se tiene que aganchar y empezar a usarlo y que en realidad resuelva un problema, no?
+¿Cómo, o sea, de todo ese minuto que le dijiste a Vitalik, muchos de los que estamos aquí güey a lo mejor no tenemos muy poco güey, cómo le dirías a alguien de de cinco años o alguien que apenas está entrando en cripto, que es lo que está resolviendo Rolamate, no?
+El protocolo que le pichaste a Vitalik.
+Y como decíamos, el que cree pretende resolver muchas cosas que ahorita tenemos de problema.
+Espera que le pregunto a GPT.
+Nada, mentira.
+Yo le diría que va a poder usar el blockchain sin darse cuenta que está usando blockchain.
+Porque Ÿousand, porque directamente puedes abstraer todo usando el IBBM o incluso no necesitas conectarte un nodo.
+Hoy en día podés mandar las transacciones directamente una API, o sea, en una página web usas el blockchain sin tener idea que estás usando blockchain, sin conectar un wallet, sin hacer nada.
+Es compatible con absolutamente todo lo que existe y abre las puertas de 1 millón de cosas más.
+Es realmente algo revolucionario.
+De hecho, otro de los que estuvo acá, que acá está el Eric Valle, es más, si puede darle el micrófono a Eric, no sé si él puede hablar para que él cuente lo que nos dijo Juan Bennett cuando le pichamos el Ivy.
+¿Bien, no sé, Eric, puedes hablar?
+Hace una manito si puedes hablar o hace un corazón si me la querés.
+Digo, este si querés no hablar Eric.
+Él es parte del equipo también que está desarrollando.
+¿No puede, no puede hablar Erick, pero bueno, este Juan Bennett nos dijo corazón ya se fue, ya quería que corazón no Eric, Juan Bennett.
+Qué onda?
+¿Cómo andas?
+¿Nos escuchas?
+Yo no tengo escuchar, no sé si tú lo escuchas, Germán.
+No, no, no lo escucho Erick.
+Bueno, le hablo yo entonces.
+Este, le pichamos y lo que lo que Juan dijo fue me encanta la EVBM.
+Así usó nuestro término IBVM.
+Y además de que me encanta, es el futuro de Ethereum.
+Así dijo.
+Nosotros no podíamos creer, o sea, le preguntamos qué opinaba nada más.
+Es el futuro de Ethereum.
+Ethereum debería ser EVBM, debería ser el host.
+¿Quién es ese güey?
+Juan Bennett es el founder de Protocol Labs, filecoin IPF es el número uno de Protocolo Labs y nos pidió una reunión que ya la vamos a sacar con Eric.
+Le dio a Eric su telegram directamente y le dijo escribime para una reunión que quiero verlo y a otra persona que un bordier que este no, bueno, tengo un testigo, Sasha, que habla inglés.
+A Sasha lo conocen algunos, que está muy metido en el sistema de polkadot y es también de Blockchain Buttons, un grupo que tenemos ahí de gente que no Zweitausendein, que nos encanta Blockspace, Buttons, perdón, que nos encanta spamear la memful y Blockspace.
+Estaba ahí y le dije Quédate acá porque necesito un testigo para esto.
+Quiero que alguien vea lo que me van a decir.
+Y agarré a Alex, el founder de ck Sync, el blockchain este que está muy, muy de moda, muy fuerte, que hizo un airdrop hipermillonario hace poco y dio una charla en Devcon de Appchains, [sos/eos] y layer dos para escalabilidad y hacer chain abstraction.
+Dio una charla de 40 min sobre eso.
+Explicó todo, explicó detalles, explicó cómo se usa además.
+Y cuando sale le pregunto si pabla con él y le cuento el abbm y me mira y me dice esto es mucho mejor que appchains y que l.
+Mandame un email, quiero tener una reunión con ustedes.
+Y me dio su email.
+El tipo que acaba de dar una charla explicando que ethereum iba a escalar con appchange y layer dos.
+Me dijo eso al final de su charla, cuando le expliqué la IBM, me dijo esto es otra solución mejor.
+Me dice nunca lo había escuchado.
+¿Qué es lo que hacemos nosotros?
+Para que entiendan, nosotros lo que hicimos fue creamos una máquina virtual de ethereum, una IBM, que se deploya con smart contracts en un IBM.
+O sea, no necesitamos infra.
+Lo que hacemos es deployar contratos.
+Y esos contratos son un abm.
+O sea, le pegas a, en vez de mandar a un rpc tus transacciones, o en vez de enviar a un rpc de que querés minter, un nft y eso va a la transacción del mempool y ahí construyen un bloque y demás.
+No, no, no.
+Esto está todo virtualizado.
+Para usarla ya tenés que estar en una transacción.
+O sea, pero esa transacción no la tenés por qué ejecutar vos.
+Esto es lo divertido.
+La puedes ejecutar quien sea, porque en los datos de la transacción, en el paquete de datos de la transacción, es donde va lo que se llama el payload o la carga de información.
+Entonces, todo lo que vos firmes, lo que quieras hacer, lo que quieras mintieras, va en datos.
+Y quien lo mete al blockchain, no te importa, lo puede meter cualquiera.
+Pero una vez que esos datos están en blockchain, se introducen adentro de la IBM virtual y la IBM virtual, que son los contratos, lo procesan todo.
+Pueden validar firmas, tienen un estado de cadena, tienen sus propios nonces, tiene su propio accountbook, tiene su propio estado en general.
+Lo que no tiene es un layer de ejecución, que también se podría abstraer con ciertas reglas, pero lo que no tiene es la parte del consenso.
+Entonces, no te preocupás donde deployas la IBM, vas a estar bajo las reglas de los nodos de ahí, de lo que sea que estés usando en esa parte.
+Si es optimistic, vos vas a ser optimistic.
+Si es ck, vos vas a hacer ck naturalmente, nativamente, pero no tenés que preocuparte en cigar por tener un nodo, no tenés que preocuparte por tener un servidor, no tenés que preocuparte por nada, por pagar mantenimiento.
+Vos deployaste tu IBM ahí y va a funcionar ahí.
+Y es una IBM virtual.
+Vos podés poner tus propias reglas de gas, podés poner tus propias reglas de ÿousand de lo que quieras, de quién puede transaccionar y quién no.
+Puedes poner tus propios rewards, puedes poner tu propio token nativo.
+Puede ser que aunque estés en un IBM, que eth es el token nativo, vos lo podés cambiar a maxi y el que no tenga maxi no puede usar la IBM, la Evvm.
+Entonces, pues, entonces se van a empezar a ver muchas EvVMs adentro de.
+O es solo una la que va a funcionar, o puedes personalizarlas como tú quieras.
+Como decías, creo que eso fue lo.
+Que entendí, bueno, esto es algo, esto es algo muy desde un punto de vista comercial, es una de las cosas nuevas que vamos a anunciar que es muy buena para los inversores y es que es que vamos a sacar un producto institucional.
+O sea, nosotros vamos a tener la Evvm del Mate Meta Protocol, pero ya nos dimos cuenta porque un banco se acercó a nosotros a decirnos que quiere tener su IBBM.
+Entonces, pues parece que vamos a empezar a vender el producto también para que para que ciertas corporaciones puedan tener su IV en donde prefieran.
+Entonces ya no tienen que tener muy.
+Cercano a una empresa logística que también necesita un chingo de cosas.
+Platiquemos este abuelo, abuelita Robin.
+Sí, sí, sí, sí.
+Entonces, pues ahí es donde está ahora.
+De hecho, acá no hay nadie, Chip y Pay, pero los estoy tratando de convencer de que tengan su EVBM.
+Así que bueno, vamos a lanzar Testnet, que era algo que no íbamos a hacer, pero si lo vamos a hacer y también vamos a intentar empujar que esto no se sabe cómo va a salir.
+Pero bueno, ya que estamos en este espacio de amigos y de banda, un espacio muy informal donde no se hacen declaraciones que sean para siempre, al final voy a hacer mi disclaimer de todo lo que dije puede ser usado en contra de ustedes.
+Pues vamos a ver si nos podemos comunicar con Ÿousand, con alguien de alguna fundación, sin mencionar cuál, que pueda desembolsar una buena cantidad de dinero como que para que amerite liberar el código de la IBBM de forma de que la comunidad pueda construir en él, no productos comerciales.
+Nosotros seamos los únicos que podemos vender productos comerciales, pero también para poder tener una entrada de dinero muy grande, agradecerle a nuestros inversores también con una tajada de eso que entra Zweitausendein y seguir con nuestro producto comercial que sería la IBVM de uso comercial, pero publicar una licencia que cualquier hijo de vecino, cualquier universidad, lo que sea, puede tomarlo, usarlo sin que tenga fines comerciales, que hay varias licencias de Linux que funcionan así y demás que nos parecería interesante poder explorar porque realmente tenemos un productazo.
+Si va a funcionar o no a largo plazo, no lo sé, pero es otra forma de acercarnos a la escalabilidad.
+Y para el que me dice, por ejemplo, esto estuvo interesante también otra de las charlas.
+Si estoy hablando mucho ahí me cortas.
+No, no, no, perfecto.
+Yo nomás te pregunto de vez en cuando, pero no, no, no, creo que está chingón.
+Dale, dale.
+Apareció un cabrón ahí gracias a que hizo, traía un gorrito de trae una plantita en la cabeza y apareció un cabrón ahí.
+Sí, a ver si se conecta.
+Le voy a escribir, que se conecte, porque no sé conecta también.
+¿Ya subió, no sé si puede hablar.
+Aquí lo veo como speaker, no?
+Que tiene pánico, le da como se llama esto cuando te subís y te en la altura.
+Pánico escénico.
+No, no, las alturas, tiene las alturas.
+Subió y ya le da miedo.
+Pero bueno, apareció este cabrón que no sabemos quién era y se presenta este no sé qué.
+¿Y Kevin le dice, nos pregunta qué están haciendo por el hackatón?
+Y Kevin le dice, estamos destruyendo Ethereum.
+Bien así este sensacionalista.
+Y el tipo dice, me interesa, yo soy cordev de Ethereum.
+¿Qué?
+Sí, sí, yo soy cordev, soy del equipo de cordev de Ethereum, de programo, programo en el consenso.
+Ah, mira, le digo, entonces vamos a hablar en serio.
+Y me puse a hablar con él, estuvimos hablando 10 min sin parar, le expliqué toda la IBM, la ibbm, todo, todo lo que hacemos, cómo lo hacemos, por qué esto, lo otro.
+¿Y el tipo es de los que pica código ahí, no?
+Es lo que pica código.
+Y después, como pregunté por Emigion, es de los más reconocidos de los Cordevs.
+No lo voy a boxear porque no sé si quiere.
+Y la cosa es que me quiso hacer cuatro preguntas, no con mala leche, pero así como tirándome abajo el proyecto.
+Y se las contesté todas y quedó como, wow, tiene sentido.
+¿Y la pregunta más fuerte que me hizo es la pregunta más fuerte que me hizo fue de que de que cómo puede ser que nosotros seamos más baratos que la propia IBM si estamos sobre el IBM, no?
+Y entonces, pues que eso es prácticamente imposible.
+Entonces le digo, no, lo que pasa es que ustedes tienen mínimos de gas.
+Y me dice, sí, lo que pasa es que se puede escribir.
+Me dice, cuando vos necesitas escribir en algo, tenés que actualizar un nous, tenés que actualizar un estado, siempre tenés que sacar dinero de una cuenta y meterlo en otra y demás.
+Y eso tiene un gasto fijo.
+Y si haces cinco transacciones, lo tenés que hacer cinco veces.
+Y yo digo, no, si haces cinco transacciones lo haces solo una vez, porque el que ejecuta la transacción en la EvM es uno.
+Pero dentro del estado de los mappings, que tienen diferentes costos según lo que vos querés hacer, pues esos son simplemente mappings dentro de un contrato, ya no son cuentas external owned.
+Y vos ahí estás abstrayendo eso y lo estás optimizando para que escribas menos en la parte de consenso y escribís más en las partes de storage.
+Y me dijo, wow, tenés razón, quiero verlo.
+Y ese fue un cordero de consenso, güey.
+Yo sé que te estás moviendo, platicando con todo el mundo.
+Yo sé también y lo veo que hace falta muchísima experimentación, que no hemos llegado al producto final que va a resolver los problemas.
+No hemos visto como desarrollos de Ethereum se están implicando ya en otras redes, como desarrollo de otras redes se aplican también en Bitcoin.
+Todo se está mezclando porque finalmente es lo que buscamos, resolver broncas.
+Estamos en muy verde todavía.
+No sé si tú lo veas así como tú decías.
+¿Bueno, pues sí, finalmente fue lo que dijiste, pero qué falta?
+¿O sea, que cuando el testnet que podemos hacer para probar esto, cómo está ese show?
+Cómo te puede ayudar la gente también que está escuchando aquí que dice Oye, yo quiero probar algo así.
+¿Qué onda?
+En este momento está el Kevin haciendo todos los fuse y las pruebas de pentesting básicas que ya están al 100, pero hicimos algunos ajustes.
+Entonces hay que rehacer, sobre todo en la parte del staking del Smate que nos adelantamos bastante.
+Ya está resuelta hasta la parte de staking y distribución de rewards para los que tengan el token mate de forma completa, incluso con cálculos on chain.
+Lo hicimos un poco súper avanzado en el sentido del determinismo, pensando en que se puede ejecutar de esa forma.
+Y pues yo creo que es cuestión de menos de un mes para poder tenerlo.
+Así que pues ahí abróchense los cinturones, sean pacientes.
+Vamos a ver dónde vamos a deployar.
+Queremos dar unas reuniones primero también con algunos protocolos a ver cuál es el que nos da el abrazo más fuerte.
+Oye, justo esa es la pregunta.
+¿Tienes que deployar en alguna blockchain?
+¿No?
+¿No sé si sea la ideal o están buscando Ls o en dónde, en donde deployarías un testnet así?
+Yo deployaría la test net porque es una testnet en el protocolo que le interese más patrocinar esto desde un punto de vista tecnológico y decir que fueron los principales padrinos de la hora de probar todo esto.
+Que van a fallar cosas, seguro, que van a resultar mal algunas cosas, seguro, como todos los proyectos, pero por eso es una testnet y lo vamos a corregir estructuralmente, arquitectónicamente y todo lo demás funciona, está validado.
+Entonces, pues ahí tenemos esa certeza, esa tranquilidad de saber que la comunidad de Mad no es mala.
+La comunidad al revés, es muy de sumar.
+Entonces cualquier fallito que haya va a ser simplemente un tema de ajustar código y algún bug que pueda haber por ahí.
+Aunque, aunque de todos los scripts que le hemos pasado de buscar vulnerabilidades de todos los que existen, le pasamos absolutamente todos los que existen, de todos los protocolos, de todos los de las super empresas de seguridad que liberan algunos para mostrarte, no se encontró ni una vulnerabilidad, lo cual significa que las vulnerabilidades que haya van a estar a un nivel un poquito más bajo, pueden ser más peligrosas.
+Pero bueno, yo me gustaría que suba Kevin a hablar de eso, pero ahí se conectó Kevin, si querés verlo el micrófono para que cuente de todas, incluso la documentación está muy avanzada, está todo muy documentado.
+Kevin ha hecho paquetes para que la gente lo pueda probar incluso en su propia testnet local, en su propia blockchain local.
+Me gustaría que Kevin, co founder de la IBVM, también se suba a contar un poquito de todo lo que hay.
+Y bueno, pues eso, eso es lo que lo que estamos buscando.
+¿Cómo ha sido el proceso de qué tanto se han tardado una en formar el equipo de trabajo?
+No sé si se conocían desde antes o se acaban de conocer hace poco.
+¿Cómo fue el proceso de formar el grupo que está desarrollando todo esto y cuánto tiempo llevan?
+Pues estamos de hace un año y medio con Artur y Eric y Víctor se sumó a hacer la parte de diseño, que nos cambió la imagen, el logo y demás, que ha quedado muy bien.
+Luego está Kevin que se sumó para hacer la parte de programación, que también ha quedado muy bien.
+Y Jean que también se ha sumado a picar código.
+Artur ha sido el CTO de la empresa, ha estado como en la parte de edición de tecnología y demás.
+Y Eric también ha ayudado en la parte más relacionada con web y ahora esperando también darle la nueva forma a la empresa para reajustarnos todos en las nuevas posiciones, sumando auditores externos de seguridad ahora para la última fase.
+Pero la verdad es que Kevin ha hecho un trabajo espectacular en cuanto a la parte de chequear todo.
+Y me gustaría volver a la pregunta anterior de cómo está hecho la parte de seguridad, las pruebas que hemos hecho y la documentación y darle el micrófono a Kevin un poquito para que le puedas preguntar.
+¿Él es digamos que el core dev de la IBVM además y tiene, él sabe bien que puede decir y que no, no?
+Bienvenido Kevin.
+El Kevin yo lo conozco, ha dado un chorro de talleres, le encanta hablar de blockchain, es embajador de arbitrum o desarrollador de arbitrum, ya ni sé qué tanto está haciendo ya con ellos, creo que es embajador.
+¿Bienvenido Kevin, cómo andás?
+Hola, hola.
+¿Se me escucha?
+¿Se me escucha, no?
+Chido, perfecto.
+Bien, bien, bien.
+Aquí Zweitausendein, encantado por estar acá en ese space.
+Y bueno, encantado de responder cualquier pregunta.
+Cuéntanos, cuéntanos cómo ha sido parte del proceso, lo que te decía Germán sobre las pruebas, el testnet, todo lo que estás desarrollando, cómo ha sido para ti toda esta experiencia de ganar el hackathon de IT global no sé dónde, etc.
+Etc.
+Bueno, realmente yo me sumé a la parte de rola mate ya más adelantito, ya después de que bueno hermanos y los demás hayan ganado el hackathon, pero pues si me encargué de toda la parte más de los smart contracts que es por esta parte.
+Igual pues hablando un poquito de la seguridad y de todo ello, pues realmente el proceso de probabilidad es simple podríamos decirlo en el sentido de teoría, pero obviamente conforme van creciendo más cosas hay que comenzar a meter un poquito más de complejidad.
+Entre ellas pues serían como las pruebas unitarias donde tú tienes un input esperado y sacas otro input out, perdón, que se supone que tiene que esperar y todo esto tiene que salir correctamente.
+No solamente es la cuestión de pruebas correctas, sino incluso hacer pruebas unitarias donde tú sabes que ciertos datos de input o ciertas cosas que tú vas a hacer dentro de una función van a literalmente explotar.
+Entonces esa es la parte de las pruebas unitarias.
+Por la parte de Fuzz es literalmente lanzar un montón de cosas al azar hasta que en algún momento llegue a explotar algo, no sabes en qué momento por lo mismo a la teoría, una disculpa, pero con esto puedes hacer un poquito más pruebas reales porque si bien con una prueba unitaria tú directamente tienes esa cuestión de que ok, yo sé qué inputs voy a esperar, las pruebas de tipo fuzz o fushing es más como ÿousand emulando al usuario final porque al fin y al cabo pues uno desarrolla algo y es como de ok, yo sé que así va a funcionar y yo sé que tiene que funcionar de esta manera y que los usuarios tienen que usarlo de esta manera, pero al fin y al cabo el usuario final o el desarrollador final lo va a usar de otras maneras diferentes que tú jamás tuviste la menor idea o que jamás llegaste a pensar Ÿ que los iba a implementar.
+Es casi casi como que tú pones la puerta, empujen y mágicamente ellos jalan y se abre, si funciona, se abre correctamente, si llega la cosa, pero no esperabas ese tipo de manera de abrir la puerta, claro está.
+Entonces para eso sirven exactamente ese tipo de programas forcing, para que automáticamente con esa leturidad zweitausendein puedas probar que tu protocolo funcione correctamente.
+Luego están otros tipos de prueba, ahorita se me olvida el nombre, pero para resumirlo en pocas palabras, son un conjunto de scripts en el cual existen ciertos patrones los cuales te pueden evocar a ciertos problemas a futuro y por lo general son muy, muy, muy comunes.
+¿Es como por así decirlo si fuera un un doctor ese script y literalmente leyendo tu código y probando ciertas cositas o viendo ciertos patrones que tú repites directamente te puede decir sabes que mira, ten mucho cuidado con esto porque a lo mejor puedes tener un problema de reentranza o sabes que mira, esto lo habíamos visto y es un problema muy grave, por lo tanto tienes que modificarlo, no?
+A veces incluso hasta la misma documentación de Ÿousand de ese tipo de pruebas te dice ok, mira, hay un error, eso se debe y esto es lo que tú tienes que hacer en teoría.
+Muchas veces pueden llegar a ser falsos positivos o bueno, sí, falsos positivos realmente o bueno, no sé cómo decir el nombre, se me olvidó, pero bueno, creo que se me entiende en lo cual es pues a lo mejor dices bueno, hay problemas de reentranza, pero sabes exactamente cómo funciona bien tu código ÿousand o sabes que hay problemas de esta cuestión y ves si es como de ok, si parece serlo, pero conforme tú lo que estuviste haciendo de los esquemas con todo lo que tú esté haciendo del algoritmo, te das cuenta que si bien está así de esa misma manera, no significa que tienes que hacerle completamente caso y eso también es una parte también importante analizar y pensar bien si de verdad esto está dando un un falso o si de verdad tienes que traer mucho en consideración esa cuestión.
+¿Igual pues en la documentación también me toca por ahí más porque a mí me gusta más esto que otra cosa o cualquiera, no?
+¿Hay devs que les gusta mucho documentar, he escuchado o cómo ves tú eso?
+Sí, honestamente sí me ha tocado escuchar veces que muchas veces los devs es como de saben, ya hicimos todo el código, está entre comillas legible para que ellos puedan entender y luego hay nombres de variables bien extrañas y bizarras y es como si así lo dejamos, nada, documentamos un poquito cómo funciona esto y listo.
+Eso la verdad sí se me hace horrible, sobre todo pues muchos de los que veo por aquí alrededor del Space creo que han participado en hackatones y han visto que cuando intentamos leer las documentaciones, documentaciones de ciertas cosas, luego a veces es horrible, no te da a entender y luego tienes que ir a preguntarles a los mismos Corvettes o a las personas que están en este protocolo y luego dice no, déjame preguntarle a tal tipo porque él desarrolló esta cosa y la verdad llega a ser muy molesto, llega a ser pues si te llega a detener muchísimo no voy a decir nombres de protocolos, pero hay uno en el cual si me he peleado bastante y la verdad se me hace muy, muy, muy, muy horrible como documentan.
+Y bueno, por esa parte pues también es lo que yo también quiero solucionar.
+A mí me gusta mucho documentar, a mí me gusta escribir mucho sobre este tipo de documentaciones técnicas y me gusta tanto que casi lo considero como un arte de una cierta manera y me gusta explicar exactamente cómo funciona todo.
+¿Si hay algo que trae más devs, tú crees que esto ayude?
+¿O sea, que una muy buena documentación ayuda a que tengamos más developers?
+¿Yo creo que sí, no?
+Sí, sobre todo cuando resulta ser un, este, una documentación muy importante.
+¿No sé, por ejemplo, voy a nada más así dar un ejemplo de vuelo, no?
+Ethereum, aunque no tiene mucha buena documentación, voy a ser honesto, muchas veces hay documentación externa o bueno, de otras personas que han hecho Research y que documentan absolutamente todo muy bien hecho.
+De hecho, bueno, yendo es un poquito para también como tipo un bordeo.
+Solidity es uno de los documentaciones de web más, más completas de todas.
+Realmente me quito el sombrero ante ellos porque realmente te documentan absolutamente todo lo que se supone que se tiene que hacer, lo que tienes que Zweitausendein, esperar.
+Y muchas veces incluso se te ponen ejemplos externos de gente que ha desarrollado ejemplos para que puedas implementar.
+Y vaya, si hubiera más ese tipo de documentaciones sería mucho más sencillo para desarrolladores, tanto gente que ya está involucrada en desarrollo desde hace años como aquella persona que apenas está entrando a codear, no importa si sea web o web dos, eso no importa.
+¿El chiste es que entre directamente a este tipo de ecosistemas se le hace mucho más sencillo de comprender, se le hace mucho, mucho, mucho más sencillo y sobre todo no llegan a ese tipo de complejidad tan extraña que muchas veces las documentaciones como que te hacen sentir muy tonto, no?
+Por ahí viene, oye, platíquenme del tema de las auditorías.
+¿Esto se puede auditar?
+¿Se va a auditar?
+¿Yo he visto mucho que son servicios que son caros, no?
+Una auditoría no es barata.
+¿Han analizado ese tema?
+Pues sí, estuvimos hablando con Quanstamp, con Halborn y algunas más y sí, el costo es de 30000 a $60000 Zweitausendein, pero con estas pruebas que hicimos, como que nos vamos a saltar esa parte y vamos a hacer testnet y con eso digamos que tenés un margen para después hacer auditorías un poco más complejas.
+Aunque estuvimos hablando con algunos auditores, personas que trabajan en estas empresas, en Quantum directamente, porque yo fui becado por Quantum para ir al IPCC del año pasado en París, el 90 % de lo que hacen es lo que estamos haciendo ahora nosotros.
+Y el otro 10 % es la parte de que se pone un humano súper experto en seguridad a revisar todo el código, a ver si él encuentra alguna cosa que no pueda encontrar, las pruebas Fus, las unitarias y la inteligencia artificial, ÿousand.
+Entonces venimos bien, vamos a tener que hacer solo el trabajo de ese 10 % y pues nada, digamos que va a ser más barato y la comunidad también nos va a estar ayudando mucho a encontrar alguna vulnerabilidad y alguna cosa que pueda haber por ahí.
+Y tenemos dos personas interesadas en hacer una auditoría con nosotros, ÿ, de forma externa, que trabajan en estas empresas, que los vamos a contratar ya cuando tengamos todo lo nuestro, digamos, limpio, entre comillas, de forma tal que sea muy fácil para ellos auditarnos.
+El código está ordenado, las secciones están muy comentadas, toda la documentación está, digamos que bien hecha, nos hemos portado bien como desarrolladores, Ÿousand.
+Entonces, este, sí viene una auditoría, una grande, de las de $60000, solo si recibimos una inversión muy grande que lo amerite, este, el gasto, porque estamos haciendo la tarea, no es que la queremos saltar.
+Y la auditoría de un genio experto hacker va a estar, pero va a costar mucho menos porque porque ya todas estas pruebitas y todo este tema de correr miscript y mirando funcioncita, ya lo estaba haciendo muy bien Kevin, que dice, Ÿousand, que tomó la iniciativa incluso de hacerlo, no se lo pedimos porque era algo de lo que él no tenía expertise, solito se capacitó en eso, solito lo vio, vio cómo eran los procesos y le empezó a correr pruebas a todo.
+Así que hay unos, unos aplausos bien grandes para Kevin también.
+Kevin, y gracias también por contarnos esa parte, porque hemos visto cómo han salido muchas plataformas, muchos L, muchas soluciones de escalabilidad, temas de rista y cada quien saca su idea, la implementa, luego la prueba.
+Obviamente en Testnet hay que trabajar y todo eso cuesta tiempo.
+¿Es un chingo de gente la que está desarrollando constantemente y hay mucha lana también que se está repartiendo para gente que está desarrollando cosas así, no?
+Entonces, qué bueno que están buscando alguna l que quiera apoyar esta iniciativa, que fonde ahí con un granto o algo.
+¿Hay algunas aceleradoras, no sé si están aplicando también para aceleradoras, veo que en vez hay unas que mantuvtra y otras que hay lana, no?
+Para todo.
+Todas las personas que quieren empezar a desarrollar iniciativas como eso, yo creo que puede, puede ser algo interesante participar, pero no sé cómo lo ven ustedes.
+¿Ya dijeron sobre las l, este, ojalá alguna de esas apoye, no?
+Para también ser la que ÿ inicie toda esta cadena.
+Este, pero también hemos visto como todos estos desarrollos luego sacan un token y ya tú mencionaste también el token.
+¿Cómo qué pedo con eso de token?
+Hablemos de token un poquito.
+Para que la gente toque un poco ahí, que toque, toque liquidez.
+El token va a ser de uso del Mate Meta Protocol, el nuestro exclusivamente, el matemeta protocol es, va a ser la primera IBVM en donde se van a poder construir un montón de servicios, va a haber abstracción de gas, transacciones principalmente.
+El token nativo va a ser cualquiera, no va a haber token nativo en sí, pero con el mate token se van a poder acceder a ciertas funcionalidades, servicios que si no van a estar restringidos, como por ejemplo el name service y algunos más.
+¿Es necesario hacer staking para generar rewards?
+Esos rewards se generan a partir de todo el yield que va a estar depositado en el metaprotocolo.
+Y bueno, digamos que no es nuestra intención tener un token para que la gente compre y venda, sino tener un token para generar rewards, que es todos los beneficios del metaprotocolo en sí.
+Entonces quien quiera tener beneficios por apoyar el meta protocolo y usarlo, puede comprar esos tokens o los puede generar.
+Esos tokens se generan como premios, es como si fuera un minado, este, que utiliza halvings dentro de los Tokenomics, que nos estuvo ayudando una persona que se llama Mati Tokenomics, que es el que escribió el libro Tokenomics 101.
+Es una persona, un máster en Tokenomics a nivel mundial.
+Le pueden buscar Mati Tokenomics con doble T.
+Nosotros hacemos halvings.
+Además tenemos por medio de una votación de DAO que el halving, ahí habló Eli, opinó también mi hijo de un año, los halvings pues pueden pararse cuando ya está el 99, 99 % de los tokens ya minados para que sea para siempre ese reward, ÿousand.
+Así evitamos el problema del colapso que va a tener bitcoin cuando ya no haya rewards, que seguramente lo van a corregir.
+Y con esos tokens, al hacer el staking, uno recibe proporcionalmente el yield generado por todo el metaprotocolo para generar los tokens.
+Uno puede ser Fisher, que es ser un relayer que está capturando transacciones en las diferentes mempools o con un API y va y las ejecuta en el meta protocolo de esa forma.
+Como un nodo validador más o menos.
+Sí, pero abstraído, porque acordate que nosotros no tenemos capa de consenso, pero sí de ejecución abstraída y de state.
+¿Entonces, por ejemplo, vos mexi dice, yo voy a hacer relayer fisher de rolamate, acá tienen mi API, no?
+Péguenme acá sus transacciones que yo se las proceso a todos gratis.
+Vos vas a estar pagando el gas de esas transacciones, que va a ser muy bajo.
+Vas a andar procesando de a 50 transacciones, si querés en modo batch, en una sola transacción metes 50 y vas a cobrar 50 rewards por hacer eso.
+Y le avisas a tu usuario, miren, yo demoro, yo mando las transacciones cada 5 min.
+¿Si no tienen apuro, me las dejan ahí y yo se las ejecuto, no?
+Por decirlo, obviamente que no es así, pero.
+¿Pero es simplemente un API, no?
+Y además, este servicio de API, ya sea para mempool o para tenerla, o sea, un fichero de Mempool o un API para que te peguen directamente, van a estar disponibles en un proyecto open source, que también es de mate, para que vos lo puedas correr y ejecutar sin problema.
+No tenés que programar tu propio nodo, digamos.
+Y vamos a tener en un futuro, que ya estemos hablando con Chuby, un módulo para dapnode para que en tu note puedas correr un ficher para la ibbm sin problema.
+Así haciéndole tres clics, como se dice.
+Ya, ya, ya.
+¿Sí, porque sí, por lo que entiendo, si necesitas infraestructura adicional para que esto funcione y obviamente, pues eso hay que correrlo, hay que, como dices, no?
+Ver cómo se implementa, etc.
+Y que tenga beneficios, ÿousand, porque finalmente, pues están apoyando también a que la red funcione.
+¿Qué otra rol hay también ahí que no hayas mencionado?
+¿Cómo?
+No escuché cuál fue la pregunta.
+O sea, aparte de los features y los usuarios y la gente que esté programando, ya con eso puede correr el protocolo donde lo montes, la testnet o no sé, indexers.
+Ya estamos escuchando palabras de.
+No palabras, sino tipos de sistemas que están adicionándose a todas estas infraestructuras para que funcionen.
+¿Algo adicional falta ahí?
+Pues digamos que la conexión con el generador de jil, esa parte la está definiendo Arthur, el lil code, el cero x vato, que es donde vamos a estar generando el yield, que hay varios agregadores.
+Está ave que nos ha apoyado, porque hay que recordar que ave nos dio un gran.
+Y que se van a poder hacer préstamos de go con cualquier colateral dentro de la ibvm de forma gasless.
+Y bueno, esta generación de yield que se va a ir dando luego, eso va a ser un proveedor tercero y se va a estar repartiendo como el producto, las ganancias de todos los que estén haciendo staking.
+¿Entendíamos que ese es otro rol, no?
+Zweitausendein.
+Y hay un tema de dao, o sea, esto lo estás viendo como una tipo dao, la dao decide dónde meter la lana para el yield o algo así como lo que sucede con Metapool.
+¿En principio esto es una doctadura, no?
+Pero la idea sí es liberar esto.
+Esto se va a liberar todo en dos o tres años.
+Va a estar la Mate Fundation y va a haber varias cosas más.
+Entonces eso está dentro del roadmap para el Mate metaprotocol en sí.
+Así que bueno, eso por ahí, por ahí va.
+Así que entre la IBVM que se corre y queda deployada en cualquier cadena, los fishers y los usuarios, más el generador de yield, digamos que esto queda funcionando solo como una hiperestructura, que es lo que es, y nadie la va a poder apagar, digamos, se va a quedar funcionando solita.
+¿Así que bueno, ahí más o menos como que cerramos el ciclo operativo de todo, no?
+Qué chingón, la neta.
+Desde que me platicaste, que vi la presentación y el pitch y obviamente el utilizar los sistemas, te das cuenta que se tienen todavía problemas, que vienen esas fragmentaciones de liquidez multicadenas de wallets que necesitan mejorar muchísimo, que todavía hay mucho que desarrollar.
+¿Este, cómo te puede dar la banda para específicamente rolamate?
+¿Qué le pedirás a la gente?
+¿Nos está escuchando?
+Sí.
+¿Qué ocupas?
+¿Cómo te ayudamos?
+Pues estaría muy bueno que sigan el proyecto de cerca, que sigan el twitter de rola mate, que pronto ya va a cambiar el nombre a mate, que estén atentos a la ibvm, que empiecen a utilizarlo apenas lancemos el testnet.
+Y todos los que son desarrolladores que me contacten directamente porque les vamos a dar un acceso, digamos, premium para que puedan probar la testnet con tokens testnet de mate que son necesarios para hacer Fisher.
+No cualquiera puede ser Fisher.
+Y otra cosa muy importante que ÿ, que no es un detalle menor, es que la EvVM está pensada para hacer permissionless.
+¿Entonces, porque vos me dirás, ok, hay un Fisher, hay un relayer, cómo hago para para utilizarla sin ellos?
+¿No?
+¿Porque qué pasa si me quieren hacer una ignoración general?
+No, pues vos podés ir directamente como usuario y ejecutar tus transacciones en abbm siempre, pero no recibís rewards.
+O sea, si querés ser Fisher y recibir rewards, tenés que hacer un staking de matetoken que los vas a tener que comprar o tener ahí dropeados, pero si no, igual podés ir y procesar tus propias transacciones.
+O sea, es totalmente permissionless esto.
+Pero bueno, en definitiva eso.
+Ahora lo que buscamos es desarrolladores y usuarios que quieran estar atentos y bueno, les vamos a dar acceso preferencial.
+Va a haber Airdrop, pero solo para desarrolladores que estén construyendo y ese va a ser el airdrop que vamos a hacer cuando saquemos el live.
+Así que atentos a eso también.
+Y bueno, la ronda de inversión ya cerró.
+Si hay interesados, lo siento mucho, pero se va a abrir la ronda dos, que va a ser una cotización 10 x de la ronda un.
+Así que eso es una buena noticia para los que se vayan a querer salir así.
+Los Paper Hands, [sos/eos] de la ronda un, pues van a ser su 10 x si es que hay gente interesada en la ronda dos.
+Pero ahí vamos a ver.
+Por mi parte, pues eso es todo.
+También me gustaría saber, Kevin, antes de.
+Que te vayas, así tengas tiempo de platicarnos del 5 de mayo.
+Ah, ese podemos hacer otro fade.
+Bueno, está bueno, ya está.
+Última semana de abril, primera de mayo.
+Resérvensela en sus calendarios en ciudad de México.
+Ok, eso lo sabía.
+Ok, ciudad de México, finales de abril.
+1 de mayo, hackatón con un cupo máximo de 1000 personas.
+A ver cuánta gente va, pero ese es el cupo máximo.
+Y conferencia también para un cupo máximo de 1000 personas.
+A ver cómo nos va.
+Y nada.
+¿Y a ver, Kevin, Kevin, qué quiere de la comunidad para la Ibbm?
+¿Qué quiere?
+¿Qué quiere ver en la testnet que haga la gente?
+Pues así, siendo honesto y sinceramente honesto, que bueno, realmente cosas que se llegan a utilizar no solamente en el ecosistema web, sino que también se pueda usar de manera en general, que incluso, no sé, siendo un poquito exagerados, que incluso en algún momento, no sé, alguna abuelita lo está usando sin tener que saber que lo esté usando.
+Eso sería muy, muy interesante de ver.
+¿Se necesitan wallets, desarrollar wallets para que esto funcione o las wallets que ya existen pueden funcionar?
+¿Cómo se manejaría el tema de la interfaz con el usuario?
+Mira, acá contesto yo eso porque es muy interesante.
+Para la evvm no necesitas una wallet nueva.
+Puedes estar en la wallet actual, pero ni siquiera necesitas wallets.
+Y no tengo que programar nada raro, solamente hacer algunos cambios en la Ibbm que quieras configurar y automáticamente vas a poder utilizarla.
+Poder usar en IBM claves de bitcoin o lo que sea.
+Perdón, que está Eli, ya mi hijo chico, un poco inquieto, pero básicamente esa es la respuesta.
+Perfecto, perfecto.
+Bueno, no, muchísimas gracias Gistro, Eric, creo que el buen Eric por ahí no puedo hablar.
+¿Alguno, alguna otra cosa que quieran comentarnos, que quieran platicar aquí a la banda?
+Me encantó de nuevo, creo que es algo que han estado trabajando desde hace rato.
+Yo por ahí me gustó, invertí disclaimer no pumping my bags.
+Ojalá entren ustedes a probar y que sean mi ex liquidity cuando, cuando quiera vender a 100, no 1000, vea, busquemos 1000 x 1000 x.
+Yo creo que un 100 es factible.
+Este no sé.
+No es cierto.
+Guarden, guarden, tengan cuidado, no, todo, todo esto tiene su riesgo.
+Obviamente es experimental y estás desarrollándose y se va a empezar a probar.
+La verdad es que creo que hace falta mucho este tipo de pruebas y experimentos porque no se han resuelto muchos problemas y seguimos batallando con cosas de costos y de facilidad de usuario, etc.
+Etc.
+Etc.
+Y hay muchos modelos que vamos a empezar a ver para manejar estas, estas inversiones de manera distinta y estos sistemas de manera distinta, que me encanta y lo he visto a lo largo de los últimos siete años que he estado metido, clavado en este tema.
+Zweitausendein, Ariu, Germán, Gistro, muchas gracias.
+¿Algo adicional que quieran mencionar antes de empezar con los anuncios y despedirnos?
+Pues muchas gracias por el espacio, por la oportunidad para contar todo esto.
+Un abrazo y bueno, siempre pendientes de todos tus bandas web.
+Tres muchas gracias y pronto hacemos otro para el 5 de mayo con todo el team, si te parece.
+Sí, definitivo, definitivo.
+Hay que empezar a hablar del evento.
+Me gustaría involucrarme más.
+El año pasado ahí platicamos a ver cómo igual les puedo ayudar allá con temas de patrocinios o con conectes o de todos saber dar una plática.
+Ahí vemos.
+Pero si la neta me encantó lo que hicieron en Puebla, la iniciativa con el gobierno, juntar a toda esa banda, empezar y arrancar algo así allá.
+Creo que verlo fue increíble, ver a los chavos también como festejaban cuando ganaban los premios, toda, toda la experiencia fue Ÿousand, fue impresionante.
+Las comunidades tuvimos ahí un espacio para hablar.
+Me imagino que va a ser y van a superar lo que hicieron en Puebla, Ciudad de México, pues es obviamente una comunidad enorme y qué buena decisión hacerlo ahora sí en mayo, no 5 de mayo, en mayo, pero no es cierto.
+Gistro, muchísimas gracias también.
+Gracias por estar por acá.
+¿Algo adicional que nos quieras comentar?
+No, no, no, nada.
+Agradecido por estar aquí y es un honor estar por acá.
+Zweitausendein no, muchas gracias.
+Banda, avisos rápidos, vamos a tener más actividad este fin de mes en Monterrey, va a haber muchas dinámicas, va a haber todavía varios espacios por ahí quedan dos espacios pendientes con Ethereum México.
+Con Ethereum México estamos empezando unos espacios los lunes a las 4:00 p.m.
+el lunes anterior tuvimos Unlock Protocol a Estella Archenbach, ella es la Lead Stuart del Arau de Unlock Protocol.
+Unlock Protocol son las herramientas que utilizo para tokenizar estas estas invitaciones que hago para estos espacios.
+De hecho no se las he chileado todavía, les queda, perdón, les quedan 15 min todavía para que puedan reclamar su coleccionable.
+Se los voy a poner aquí arriba, solo les quedan 15 min.
+A los 15 min, o sea a la 1:30 se me atoró la galleta ya no se pueden reclamar.
+Estamos haciendo dinámicas con esos con esos tokens.
+Hay contenido exclusivo también que estoy poniendo por ahí en Chambers por si luego se quieren dar la vuelta, por ahí están los links.
+No lo he hecho mucho ruido porque todavía estoy preparando muchas cosas, pero la verdad el protocolo me ha gustado muchísimo para eventos ÿousand, para tener comunicación con clientes, para tokenizar este tipo de interacciones y a ver no lo encuentro donde quedó, dame 1 s aquí lo va a tener, se voy a peinar el link para que lo mucho más fácil y mejor hacer tele.
+Entonces vayan por ahí al perfil y reclamen su coleccionable digital, es gratuito, no tienen que pagar absolutamente nada.
+Igual estamos utilizando ese protocolo para las invitaciones.
+Ya la encontré, voy a poner aquí arriba en el JumboTron.
+Estamos realizando estas mismas invitaciones para Ethereum México y la verdad y la realidad es que está muy fácil, está muy chido, no tienes que pedirle permiso a nadie.
+Últimamente he estado escuchando mucha gente quejarse de plataformas que te dan tokens de presencia de que fuiste algún evento como Poap y que han tenido problemas por aceptarse los emisarios.
+Es una locura que tengan que aceptar y autorizar.
+Yo entiendo que hay un modelo de negocio ahí que tienen que fundar toda esa pues toda esa infraestructura, pero creo que no han encontrado con un producto que resuelva y que puedan vender este un lock protocolo que está haciendo descobrando.
+¿Cuando tú haces eventos y NFTs gratuitos no pagas absolutamente nada a menos que quieras hacer airdrops, o sea si pagas el gas, pero puedes hacer lo que quieras no?
+Certificaciones, membresías, etc.
+Estuvimos platicando con ellos el lunes pasado, está padre, soy delegado, me voy a meter un poquito más, apliqué para ser embajador porque me gusta lo que están haciendo y cuando vendes algo por ahí.
+¿Ellos monetizan con un 1 % cada que alguien vende un boleto, una invitación, Merch, lo que sea, no?
+Puedes vender cualquier cosa a través del protocolo.
+Puedes escoger hasta 14 cadenas distintas, puedes escoger el token en el que quieres que te paguen.
+También tiene muchas funcionalidades y es totalmente abierto, no tienes que permiso a nadie para lanzar NFTs y sacar coleccionables.
+Te lo recomiendo mucho.
+Estaré haciendo próximamente un workshop para que la gente aprenda a utilizarlos ahí.
+Zweitausendein en colaboración con Ethereum México, ya luego les avisaré, pero está muy chido y está creciendo mucho y la verdad le veo mucho potencial.
+Hay gente padre, hay gente que está respondiendo a los requests, que te ayuda, que está activa, la DAO también está muy movida, etc.
+La próxima semana, el lunes a las cuatro vamos a estar con Ethereum México y con Soho, que por aquí ve abajo.
+Saluditos a mi comadre Soho con la gente de mantle y Odisea.
+Va a estar Ben de Mantle Business Development de Mantle, que anda dando el tour en Latinoamérica, que estaban arrancando Mantle Latam y va a estar también Kush de Odisea, que están lanzando una aceleradora con apoyo de un chorro de banda súper pesada.
+Vi la lista por ahí de gente que está apoyando, se ve muy chido.
+Entiendo que van a premiar a seis o siete ÿousand, yo no estoy seguro, creo que ocho proyectos con $20000 de los que entran a la aceleradora solo para Latinoamérica.
+Entonces vayan y vean lo que está haciendo Kush con Odisea.
+Dimantol.
+Les vamos a platicar obviamente el lunes la fecha límite para para entrar a la aceleradora, creo que es el nueve o 10, entonces echen un ojo por ahí.
+Lo voy a retuitear al rato, pero vamos a estar el martes, lunes 4:00 p.m.
+de la semana que entra y con banda web tres.
+Mañana estoy con don Pepe a las 12.
+Vamos a estar platicando de muchas cosas, sobre todo de un post que publicó hace poquito del Economista.
+Si no lo han visto, vayan a verlo, está muy bueno, puso gráficas, puso por ahí alguien me dijo y por ahí está acá abajo Natalia, saludos a Natalia, me dijo no hagamos famosos a gente pendeja.
+No sé si estoy de acuerdo.
+Creo que eso ayuda a que se genere un poquito más de debate, polémica y ojos y atención.
+No sé, ahí, ahí veré.
+Zweitausendein, hace rato que no hablo con él, estamos peleados porque hubo un tema por ahí era muy amigo mío.
+Ojalá, ojalá en algún momento se monte y quiera subir a unos espacios de estos a platicar.
+Sí me gustaría tenerlo.
+Yo creo que sería la única vez o la única ocasión en la que podía regresar a hablar con él para aprovechar sus y tener un debate interesante, porque si no hubo un distanciamiento bueno, pero está muy bueno el tweet, Ÿousand.
+Mañana le platicaré, le preguntaré de eso.
+Don Pepe es un og del ecosistema.
+Va a estar mañana a las 12.
+Tiene desde el 2011 por acá en la web tres.
+Tenía un grupo de Facebook de los primeros.
+Yo creo que en Latinoamérica que salieron 2011 por ahí, que también lo hizo crecer mucho desde que iniciamos en Xbox tres.
+Está en todas las reuniones apoyando, sumando.
+Se metió fuerte con el tema de nodos.
+Está como delegado ya en varios protocolos Arbitrum, Optimism, Scroll.
+Andan arrancando por ahí algo súper interesante para operar nodos que se va a.
+No sé si puede hablar de eso.
+Creo que no, pero sí creo que sí.
+Por ahí lo han hablado, pero la neta se ha movido mucho.
+Es Og del ecosistema.
+Me encanta lo que nos platica, el contenido que publica.
+Está liderando también el tiro de México.
+Entonces mañana platicaremos con él y las posadas.
+Madre, muchos avisos.
+Gracias a los que siguen por acá.
+Posadas.
+Me faltó ahorita hablarles de un evento que va a suceder el sábado.
+Si quieres.
+Ojo, déjenme invito.
+Todavía tengo unos 10 min.
+La voy a invitar por si quiere platicarnos de lo que va a suceder el sábado, pero posadas acá en Monterrey.
+El 14 de diciembre vamos a estar con con con el espacio cripto de tiro en Monterrey y Starnet en una posada acá en Monterrey.
+No sé si venga gente de Starling, creo que sí.
+Y el 18 de diciembre vamos a estar en el barrio antiguo, en el Open.
+También otra posada con apoyo de espacio cripto, perdón, espacio cripto, burro de tiro en Monterrey y árbitro.
+Al ratito les avisamos cómo va a estar, pero hay eventos por acá por si quieren venir, darse la vuelta, cotorrear.
+Vamos a estar toda la comunidad reunida y el sábado.
+Déjenme ver bien cómo está lo del sábado, porque vamos a tener el happen jam número dos.
+Denme un segundito y aquí lo busco.
+Todavía tengo un poquito de tiempo.
+Vamos a darles la información completa sobre lo que va a suceder el sábado, porque la neta está muy chido.
+Va a haber varios proyectos que van a estar en una transmisión en vivo y denme 1 s para platicarles hoy ya lo encontré.
+Aquí está.
+Por ahí se está armando la agenda ahí hay cosas muy chidas.
+Es de 10 a 12 y media ciudad de México, hora de México.
+Este sábado.
+¿Sábado si estoy cagando y luego me les avis, pero va a estar chido, no?
+Van a estar varias comunidades platicando y con Soho, conmigo, con todos hablando de lo que están haciendo, de cómo queremos crecer comunidad, de temas diversos.
+Ahí luego les pasarán la agenda, pero eso va a ser este sábado y probablemente andamos viendo si armamos también un taller de nodos para armar nodos y operarlos acá en Monterrey el 13 de diciembre, Ÿousand.
+Entiendo que va a venir Chuy y andamos viendo si hay interés y si hay lugar y si hay equipo para armarnos un tallercito.
+Hay un movimiento fuerte acá en México desde hace rato que empezó Chuy con Etiro México para operar nodos y cuando salió la oportunidad de tener nodos distribuidos, donde ya no tienes que tener 32 ethers en un solo equipo sin sino que puedes tener ahí una red de nodos o computadoras que están protegiendo esta red y ser un validador.
+Varias personas pueden ser un solo validador y de esa manera generar recompensas, etc.
+Está bien interesante ese tema.
+Ya tiene el proyecto trabajando de Ethereum México DBT varios meses, ya tienen varias certificaciones.
+¿Está muy chingón la neta lo que están haciendo y queremos incentivar que haya más personas aprendiendo a poner su nodo a operando, ÿ.
+Finalmente estos sistemas funcionan porque hay gente operándolos, no?
+Ya me corrigieron por aquí, perdón.
+14, 14 de diciembre.
+14 de diciembre.
+El Happen tertulia ya 14 de diciembre.
+Así le ando embarrando este.
+Pero bueno, ahora sí ya me toque.
+Muchas gracias a los que siguen por aquí.
+Si nos ayudan con un like, con un reposo, todo suma.
+La próxima semana vamos a estar platicando.
+Por aquí lo vi conectado, José.
+Ay, mira, no lo sigo.
+Si no, mentira, no me estoy equivocando.
+No, sí, aquí está.
+No sé por qué no se ve a Comanda Botella, no sabía.
+Con José Arrieta lo pueden ver abajo conectado.
+¿El martes vamos a estar platicando con él sobre algo que está sucediendo y que hay una cosa bien loca, no?
+Ya, ya, ya.
+Hay temas como ŸOusand o la que le sucedió a DJ.
+No sé si se plantea DJ en una moneda que tenía una blockchain que estaba operada por ciertas personas, un grupo.
+Pero bueno, tuvieron detalles ahí que si las firmas, etc.
+Ya les contaremos toda la historia.
+Pero hay servicios ya de profesionales que te operan tu blockchain, que te ayudan a levantar de una manera rápida y sencilla y no tan cara una blockchain entera para que hagas pruebas, para que tengas tu propio sistema, etc.
+Vamos a estar platicando con el martes y el jueves de la próxima semana va a estar Cristina lostenado platicándonos de todo lo que está haciendo con ICP y el ICP hub.
+Bueno, mucha actividad, gracias por participar, gracias por estar por acá.
+Conéctense y ayúdenme a difundir, porfa.
+Esto se queda aquí grabado.
+Esto fue banda web tres número con ayuta King to me.
+Nos vemos mañana a las 12 ÿousand.
+Esto les dejo Universal Mind de Liquid Tension Experiment para despedirnos.
+Denme un segundito.
+Muchísimas gracias.

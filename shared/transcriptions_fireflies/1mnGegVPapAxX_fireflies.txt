@@ -1,0 +1,662 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #N/A
+Título: BandaWeb3 #055 @btcnetworkmty
+Fecha: 2025-05-08
+Host: BandaWeb3
+Tipo: hosted
+
+Descripción:
+BandaWeb3 #055 @btcnetworkmty. Invitados @visionario_btc @kapitalex. Adrián y José nos contarán sobre Bitcoin Network Monterrey y debatiremos sobre el límite de OP-RETURN en Bitcoin.
+
+Duración: 01:22:48
+Escuchas: 100
+
+Links:
+  Space: https://x.com/i/spaces/1mnGegVPapAxX
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+[Speaker 0 - 00:00:00]
+Buenas noches.
+Dependiendo de dónde se estén conectando a esta grabación, el día de hoy vamos a tener a Adrián y José.
+Y no, no es un grupo norteño, no es Farafara, no son dos.
+Pelados cantando norteñas, son bitcoineros, son maxis.
+Están arrancando una iniciativa muy, muy chida que se llama Bitcoin Network Monterrey.
+Ya van llegando por aquí, los voy a ir subiendo.
+Pero primero que nada, igual que todos los días, vamos a empez Universal Mind, una canción inspirada en Universal Mind, hecha con inteligencia artificial, se llama Minds Abyss, es el primer sencillo de Banda Web 3, el disco nuevo que vamos a lanzar próximamente.
+Pero voy a subir aquí a la banda, invitar a todos los que normalmente invito.
+Empezamos en breve.
+Esto es Mindset.
+Gracias por andar por aquí.
+Episodio 55 de Banda Web.
+Si me ayudan a invitar a la banda, manden likes, repos, comentarios, todo suma.
+Empezamos en breve.
+Vamos a irle bajando, esa ya es la parte para terminar.
+Muchas gracias por estar por aquí invitando a mi cuenta.
+Estoy tratando de subir también a Capital.
+
+[Speaker 1 - 00:04:48]
+X, ahorita lo vamos a tener por.
+
+[Speaker 0 - 00:04:49]
+Acá arriba, pero ya tenemos acá Adrián, creo que ya está por aquí ali arriba.
+Ayúdenos por favor con likes, comentarios y repos para llegar a más banda.
+Ya estoy mandando mensajes a los grupos de Telegram, pero ya tenemos acá.
+Buen Adrián, visionario, ¿Cómo andas?
+Bienvenido.
+
+[Speaker 2 - 00:05:08]
+Gracias por invitar.
+Deja la esto para llegar a más gente.
+
+[Speaker 3 - 00:05:17]
+Venga.
+
+[Speaker 0 - 00:05:17]
+Ahorita también hago un post en Insta para invitar a toda la banda.
+Igual ahí si me ayudan con un repost estaría chido.
+Pero el día de hoy vamos a hablar de Bitcoin.
+Ayer tuvimos una reunión y la organizó José y la organizó Adrián aquí de Bitcoin Network Monterrey y yo, Macy y Banda Web, estamos apoyando estas iniciativas de la forma en la que podamos.
+Somos Community partners o como le quieran llamar.
+Y parte de esa difusión y de ese dar a conocer esta nueva iniciativa, estos nuevos eventos que se van a llevar a cabo.
+Ya nos contarán qué tan seguido acá el buen Adrián y buen José.
+Primero que nada quisiera que se presenten, que nos platiquen un poquito de su historia por acá en Bitcoin y qué es lo que están haciendo, porque los he visto súper activos y la neta creo que hacía falta por ahí.
+Ayer estuvo el buen Manuel Flores de Bitcoin Monterrey, que empezó hace chingos y chingos y años, yo creo que hace más de 10 años a ser comunidad de hacer eventos acá en Monterrey, pero la pandemia la verdad es que mató muchas cuestiones y regresando de pandemia empezamos a reunirnos después de Blockchain Land y de ahí han salido muchas iniciativas.
+Ahorita la nueva que estamos moviendo y apoyando el día de hoy, pues es Bitcoin Network Monterrey.
+José, ya nos escuchas por ahí, ¿Cómo andas?
+Bienvenido.
+
+[Speaker 1 - 00:06:34]
+Hola, ¿Cómo estás, Mexi?
+Sí, sí, te escucho bien, Pues gracias por tenernos aquí en este espacio y platicarles un poco de esta iniciativa, este que faltaba ya en Monterrey para organizarnos todos los bitcoineros.
+
+[Speaker 0 - 00:06:50]
+Increíble ver gente nueva, eso vamos al detalle, pero salen por ahí todavía acá en Monterrey grupos y personas que están súper metidas, que están corriendo, no están minando, con las cuales no habíamos conectado.
+Entonces la importancia de seguir haciendo estos eventos, de seguir empujando el mensaje, de seguir tratando de atraer a esas personas que están por ahí metidas y que quieren construir finalmente todos los que llegaron por ahí quieren hacer networking, quieren hacer relaciones, quieren esos eventos, les gustó platicar de Bitcoin, el debate que estamos todo chido, no sé qué opinas, pero qué chingón, ¿No?
+
+[Speaker 2 - 00:07:26]
+Sí, sí, o sea, sí, sí me sorprendió bastante que llegó gente nueva, llegaron creo que dos, tres, cuatro personas que si no me equivoco era su primer miro, pues su primer evento.
+Sí, en Monterrey.
+Y sí, fue.
+Qué bueno, la verdad, o sea, qué bueno, como que lo escucharon por algún lado y yo creo que, por ejemplo, muchos yo creo que estaban en igual y se enteraron de uno que otro evento cripto, pero al estar más enfocados en Bitcoin, pues decidieron, una vez que vieron un evento enfocado en Bitcoin, decidieron unirse y sí, básicamente empezamos BTC Network Monterrey, como sí, como esta iniciativa, ya que en Monterrey pues hay mucha comunidad, está muy chida la comunidad aquí en Monterrey, pero si hace falta como una iniciativa puramente enfocada en Bitcoin.
+Claro, obviamente respeto todo lo demás, pero sí, o sea, hace falta como un espacio para hablar solamente de Bitcoin, para discutir cosas sobre Bitcoin.
+Y sí, yo creo que será el primer meetup, la primera juntada de muchos más.
+
+[Speaker 0 - 00:08:33]
+Increíble, increíble.
+La neta estuvo muy chido estar por ahí, platicar, me perdí la plática por tener un tema por ahí bastante, bastante interesante, pero bueno, platíquenos un poquito ustedes.
+Adrián, te he visto con una serie de vídeos ya desde hace rato que últimamente, no sé si sea últimamente o ya tienes rato, pero madres, chingos de likes, chingos de comentarios, como que la gente le está gustando un chingo tu contenido.
+¿Platícanos un poquito de ti, cómo llegaste a Bitcoin y ahorita nos vamos con José y cómo también decidiste empezar a hacer contenido y luego terminar haciendo ya esta nueva asociación y organizando eventos, no?
+
+[Speaker 2 - 00:09:13]
+Pues no hombre, empecé a hacer contenido sobre Bitcoin en 2022 desde, empecé escribiendo, yo creo que empecé, pero ¿Cuál es tu background?
+
+[Speaker 0 - 00:09:23]
+¿Tú estudias alguna ingeniería, o sea, cómo con todo esto?
+
+[Speaker 2 - 00:09:26]
+Fíjate que no, puramente autodidacta, o sea, simplemente leyendo libros, educándome, porque toda la información está allá afuera, dudo que, claro, tú puedes estudiar algo que te dé un edge, que te dé una ventaja muy fuerte, pero al final del día, pues ninguna carrera universitaria te va a preparar para Bitcoin.
+Pero no, lo que sí, básicamente empecé leyendo, empecé básicamente obsesionándome y dije, sabes que, pues tengo que hacer algo al respecto, tenía tanta información en mis manos que yo creía que era tan valiosa que dije que es necesario hacer algo al respecto y dije, empecé a hacer contenido, empecé escribiendo a principios de 2022 y luego, luego me di cuenta que era el formato incorrecto, o sea, si nadie me conoce, nadie va a leer lo que escribo, por lo tanto decidí empezar a hacer videos, un amigo me convenció a la fuerza, yo no, yo me.
+
+[Speaker 0 - 00:10:21]
+Perdona que te interrumpa, déjame primero confirmar, no sé José, si tú lo escuchas bien, yo lo estoy escuchando entrecortado, la banda que nos está escuchando acá abajo nos puede dejar un comentario a ver si escucha bien.
+Adrián, ¿Tú cómo lo escuchas?
+
+[Speaker 1 - 00:10:31]
+Yo solo escuché bien.
+No salió de.
+
+[Speaker 0 - 00:10:36]
+Más.
+Se me hace que soy yo ahorita quito el wifi y si no entro en otro dispositivo, pero no, continúa.
+
+[Speaker 2 - 00:10:46]
+Adrián, perdón, Sí, pues bueno, empecé a hacer contenido en 2022 y pues bueno, fue yo creo que el primer video corto que hice tuvo mejores resultados que meses de escribir todos los días, así que yo creo que me di cuenta luego, luego que es la mejor forma de hacer contenido, al menos para mí, y claro, el resto es historia.
+Empecé a trabajar como un año después con Blink Wallet, que originalmente es Bitcoin Beach Wallet, que empezó en El Salvador, en El Zonte, que fue básicamente el primer proyecto de economía circular de Bitcoin como reconocido a nivel mundial, que luego de hecho esa economía circular de Bitcoin inspiró a Nayib Bukele a ser Bitcoin moneda de curso legal y claro, hasta la fecha se sigue usando, se sigue usando mucho en El Zonte, tú vas al Zonte y casi todos los lugares aceptan Bitcoin.
+Con Blink, que antes era Bitcoin Beach Wallet, Claro, si, empecé a trabajar con ellos y sí, pues el resto es historia.
+No ha parado a hacer vídeos, es algo que disfruto muchísimo también es, yo creo que la mejor forma de aprender, o sea, una gran parte de lo que he aprendido en toda esa trayectoria ha sido gracias a hacer videos, yo creo que como que la mejor forma de aprender es enseñar, así que sí, y sí, aprendí muchísimo en el camino.
+
+[Speaker 0 - 00:12:09]
+Oye Adrián, ¿Qué tanto te ha ayudado ese contenido a traer esas oportunidades, a traer conexiones, a traer networking, o sea, a mí mucho, no sé ustedes?
+
+[Speaker 2 - 00:12:19]
+Sí, pues completamente, o sea, yo creo que tener, yo creo que por ejemplo en esta industria tu Twitter es el LinkedIn, así que sí, o sea, de hecho yo no conocía casi nadie Monterrey hasta 2024, hasta que en 2024 me invitaron a la Bitcoin Week.
+Y obviamente pues no hubiera sido posible conocer a la raza de, por ejemplo, fue este Don Pepe el que me contactó, como que había hablado con él varias veces, pero yo no conocía la comunidad de Monterrey hasta antes de 2024, hasta el Bitcoin Week que me invitaron de ponente y pues a partir de ahí pues ya conocí a toda la comunidad, pero claro, 100% el contenido digamos que es como el proof of work, es básicamente el producto, es mi trabajo, le dedico yo creo que 4 horas a cada video al menos, y sí, claro, trato de ofrecer la mayor cantidad de valor posible, trato de identificar lo más posible qué es lo que quiere la gente, cuáles son las necesidades.
+Que falta hay de educación qué dudas hay.
+Y claro, también los sponsors lo han hecho más sostenible, lo han hecho más posible y pues ha hecho posible que pueda trabajar de esto.
+
+[Speaker 0 - 00:13:36]
+¿No?
+Qué chingón, qué chingón, la neta, desde que te conocí acá en Monterrey hace no sé, ya como un año cacho, me ha gustado un chingo tu contenido y he seguido de cerca lo que estás haciendo y me encanta, la neta, definitivo necesitábamos eventos bitcoiners 100% en Monterrey, yo estoy metido en todo, pero en realidad 99% maxi, no es que tengo 1% shitcooner, lo acepto, si no, pues.
+
+[Speaker 2 - 00:14:04]
+Todos tienen un maxi adentro y probablemente un shitcoin adentro también, pero si, la idea pues es la idea obviamente de Bitcoin Network no es restar sino sumar, o sea, no venimos a criticar, venimos a sumar a lo que ya está, así que sí, sí, pues gracias por.
+
+[Speaker 0 - 00:14:24]
+Reconocer mi contenido nombre, encantado de apoyar en lo que pueda.
+José, platícanos un poquito de ti, de Capital X, de la empresa que estás ahorita representando y de la historia, porque ya tienes desde el 2016 por lo que veo en la página, trabajando con estas tecnologías y apoyando a Bitcoiner mexicanos a que entran al ecosistema.
+Cuéntanos un poquito de tu historia.
+
+[Speaker 1 - 00:14:47]
+Sí, pues mira, la verdad es que yo siempre digo que la aplicación la hice para mí, o sea, yo me considero un bitcoinero de corazón y pues siempre he tratado de vivir en el Bitcoin estándar, obviamente pues no es fácil, entonces poco a poco fuimos desarrollando este producto para que cualquiera pueda vivir en el Bitcoin estándar, pero la verdad que bien contento con Adrián porque pues como dicen zapateros o zapatos y no le puedes andar haciendo a todo y yo estaba bien concentrado pues desarrollando acá el producto de capitales, pero me daba cuenta de la cantidad de mala información que había allá afuera.
+Igual no, pues tratando de escribir y recomendando libros a los chavos, pero ya los chavos casi nadie lee este, como que les gustan más formatos más cortos tipo Tik Tok, entonces creo que Adrián le dio al clavo en esa parte y pues la verdad súper agradecido con todo lo que está haciendo para educar o informar de la manera correcta a la gente de qué es Bitcoin, por qué Bitcoin y más importante de todo es pues cómo usarlo de la manera correcta para evitar fraudes y estafas y todo eso que pues ha pasado mucho en México.
+Entonces pues bien contento de ver a la comunidad creciendo, ver cada vez más gente interesada.
+Entonces pues ahí en Capital X básicamente son tres productos.
+El primero es poder interactuar con el mundo fiat de manera sin fricción, Entonces puedes tanto comprar o vender Bitcoin con una transferencia SPEI y también puedes vender Bitcoin y usar digamos el fiat en una tarjeta Visa.
+Y para mí el negocio que más me gusta a mí, que yo personalmente lo uso y creo que le da mucho más valor a Bitcoin como un instrumento para guardar valor, al menos por ahora, es los créditos respaldados en Bitcoin, que me dejan el Bitcoin en garantía, les prestamos pesos mexicanos y pues prácticamente pues es una manera para la gente que ya tiene muchos años ahorrando en Bitcoin, que quiere diversificarse un poco, pues de esta manera nunca vendes el activo, por lo tanto no pagas impuestos y pues obviamente todo el mundo sabemos que esto va a seguir subiendo, entonces no lo quieres vender.
+Entonces prácticamente esos son los.
+Acceso al sistema fiat, acceso a créditos con Bitcoin y procesar pagos.
+Son las tres cosas que ofrecemos ahí en Capital.
+Y pues obviamente lo que nos apasiona es la parte de educación y de conciencia de la gente de la importancia de Bitcoin para la humanidad.
+Y pues por eso estamos apoyando todo este tipo de eventos y programas para pues que la gente esté un poquito más enterada, porque todo mundo necesita Bitcoin, nomás que hay unos que no saben, ¿Verdad?
+
+[Speaker 0 - 00:17:47]
+No, totalmente de acuerdo, en algún punto lo van a usar sin saberlo y lo van a necesitar.
+Y ya creo que estamos llegando a ese límite o ese punto en la balanza donde se viene todo el uso, la adopción, el apoyo obviamente de muchas instituciones, gobiernos, personas, no sé, bueno, sí apoyo y se me hace bien raro decirlo, pero está loco lo que está sucediendo últimamente, creo que es muy, muy bullish, pero bueno, ya platicaremos un poquito más adelante.
+Adrián y José suena grupo norteño, pero no es un grupo norteño, son los líderes de Bitcoin Network Monterrey.
+Platíquenos cómo es el rol de cada uno de ustedes y cómo nació la idea de generar esto y qué sigue, cuáles son sus planes, cuáles son sus objetivos.
+Ayer hablaban de lo que buscan, de la idea de crear un grupo y una serie de eventos así como esta, pero platíquenos un poquito de su idea y cómo juegan ustedes el rol entre ustedes dos en la comunidad.
+
+[Speaker 2 - 00:18:48]
+OK, pues básicamente la idea surgió simplemente hablando de.
+Se formó la Asociación Bitcoin de México, el presidente es José y estamos hablando de, OK, pues falta algo de comunidad aquí en Monterrey, o sea, no tenemos nada, digamos, enfocado en Bitcoin aquí en Monterrey, así que estamos hablando y le dije, ¿Sabes qué necesitamos?
+Necesitamos ser comunidad, o sea, alguien lo tiene que hacer.
+Y pues dije, no, pues lo hacemos, va.
+Al principio iba a ser como algo, iba a tener que ver con la asociación y luego dijimos, sabes qué, mejor hacemos una marca desde cero, hacemos una marca, una nueva comunidad desde cero para no tener ninguna, para no estar ligado, digamos, a una institución que no va a tener que ver con Monterrey específicamente.
+Así que si, me puse, me aventé toda la talacha, me puse a hacer el logo, ahí pregunté pues qué nombre les gusta más, Terminaron votando Bitcoin Network Monterrey, habían varias ideas tipo Satoshi Monterrey, cosas así.
+Y sí, así terminó.
+Y claro, pues nada hubiera sido posible sin su apoyo de Mexi, por ejemplo, de Rai, de Coderal y obviamente José que pues ahí estuvieron aconsejándome, estuvieron apoyándome con, por ejemplo, el lugar.
+Y sí, pues la idea es, la idea es seguir haciendo eventos, seguir haciendo meetups, obviamente hacerlo de forma sostenible, encontrar la forma de hacerlo sostenible para que no sea un problema, para que no sea, Para que no sea una carga, digamos, y que sea, digamos que sea algo más fácil.
+Y que lo ideal es que la comunidad también contribuya, o sea, que no solo sea un trabajo de una o dos personas y pues de esa forma se pueda aportar entre toda la comunidad.
+Y bueno, si, el próximo meetup sería el Pizza Day.
+Sería el Pizza Day y sería pues en colaboración con todas las otras comunidades de Monterrey, tanto MX si no me equivoco, Ethereum Monterrey también, si, va a ser como una colaboración y sí, ese sería el siguiente meetup.
+
+[Speaker 0 - 00:21:04]
+Ya estoy, todavía no sé si voy a estar aquí en Monterrey, muy probablemente esté en Nueva York en el evento de Solana, pero sí he visto que han estado trabajando un chorro para preparar todo con Pizza Dao ahí.
+Sí, soy parte de esa DAO y ahí estoy apoyando lo que necesite.
+Por ahí organizamos un evento hace poquito y la neta hacen cosas muy chingonas al repartir tanta lana en todas las ciudades del mundo, bueno, no todas, pero la gran mayoría, muchas, muchas, muchas.
+José, cuéntame tú.
+
+[Speaker 1 - 00:21:32]
+Este, pues sí, mira, yo me gustaría agregar a lo que dijo Adrián que la misión o la visión.
+De la comunidad aquí de Monterrey es justo como decían, que yo cada vez me estoy dando cuenta que hay muchos bitcoineros, simplemente no estamos conectados, no nos conocemos entre nosotros, estamos como aislados, entonces la idea es conectarnos, al final, como saben, el poder y el valor de Bitcoin es.
+El efecto de red donde cada vez hay más gente, entonces pues de la misma manera queremos hacer una red de personas para estar todos en comunicación, por ejemplo, nos ha pasado mucho donde empieza a haber fraude y lo encuentra uno y luego luego les avisamos a todos, entonces es más fácil prevenir ese tipo de cosas y obviamente pues estar en comunicación y estar todos en el mismo canal porque creemos que falta mucha.
+Como, no le diría presión, pero sí hasta de que toda la comunidad bitcoinera mexicana pues tenemos que empezar a ir a las universidades, tenemos que ir con el gobierno, con las empresas, hacer conciencia, hacer conciencia de qué es Bitcoin, cómo usarlo de la manera correcta y bueno, también mencionar que que es un sin fines de lucro, o sea, toda esta comunidad es sin fines de lucro, este, por lo mismo como decía Adrián, pues el tema de hacerlo sustentable, estamos ahorita analizando ahí varias opciones porque pues nosotros no tenemos un token que podemos crear y sacar lana de ahí para financiar estos meetups, entonces pues.
+
+[Speaker 0 - 00:23:12]
+Ni tesorerías ni enormes grupos ¿No?
+Buscando todo esto.
+
+[Speaker 1 - 00:23:19]
+Exacto, entonces pues la idea es, o sea, acá no vamos a regalar nada, o sea, no va a haber ni pizza ni cerveza gratis porque obviamente se vuelve insostenible y luego ya se vuelve un tema de que pues nada más andas promoviendo sponsors porque estás buscando quien te financie, entonces acá la idea es enfocarnos exclusivamente en Bitcoin y no vamos a cobrar la entrada pero tampoco vamos a regalar nada, ¿No?
+Este, Adrián tenía una idea ahí de hacer un tipo de crowdfunding y a lo mejor con eso pagar una parte de las cervezas o lo que sea ahí, pero pues la idea es no regalar nada, que es parte de la filosofía de Bitcoin, del proof of work, de que pues si vas, tienes que pagar y para valorar también las cosas, porque luego siento que la gente nada más va por el merch o por la pizza y no le ponen atención realmente lo que está pasando ahí.
+Entonces, pues sí, esas dos cosas, que es sin fines de lucro y por lo mismo, pues todos los que estén escuchando, que quieran unirse a la comunidad y les guste participar, pues la idea es que sea un trabajo entre todos.
+Aquí es como Bitcoin, no hay un líder, no hay una persona que diga hacia dónde va la comunidad.
+La idea es que entre todos nos organicemos y pues promovamos Bitcoin aquí en Monterrey.
+
+[Speaker 0 - 00:24:39]
+Y promover Bitcoin creo que suma para todas los ecosistemas, todas las blockchains.
+Si a Bitcoin le va bien, a todos los demás se ve que les va bien y se montan en la ola, y cuando a Bitcoin le va mal también a los otros les va peor.
+Entonces, híjole, qué importante tener una comunidad así, que haga eventos, que conecte, que esté enfocada 100% en este activo, que en lo personal yo estoy pero vuelto loco desde que lo conocí bien en el 2017.
+Y mi tesorería también lo.
+Y la demanda web también lo demuestra.
+Pero bueno.
+Qué chingón, qué chingón.
+Yo por ahí tengo mucha historia, mucha experiencia de hacer eventos insostenibles, les voy a pasar muchos tips, pero qué chido que estén buscando desde el día cero esa iniciativa comunitaria donde todo el mundo aporte y que haya.
+Un gusto y una inversión, no inversión, pero sí un.
+Probablemente sea inversión la palabra correcta, porque van a sacar mucho, conexiones, etc.
+Proof of work.
+Totalmente, totalmente.
+Oiga, Pues qué chingón.
+¿Cómo les pareció ayer?
+¿De qué hablaron ayer?
+Platíquenos un poquito del evento de ayer, de lo que dijeron y de la respuesta de la banda.
+
+[Speaker 2 - 00:25:56]
+Primero quiero recalcar eso que mencionó José del proof of work.
+Yo creo que es muy importante el proof of work, o sea que básicamente que no hay ningún lonche gratis, o sea, no existe lonche gratis, así que si vas a encontrar esa forma de hacerlo sostenible, estaría muy bien.
+Obviamente estamos viendo soluciones.
+Y básicamente ayer lo que hicimos básicamente fue hacer primero una plática de introducción de Bitcoin Network Monterrey, básicamente introducir qué es, por qué se formó, cuál es la idea, básicamente la razón, como ya les mencionamos, es que no había una comunidad enfocada en Bitcoin aquí en Monterrey, hay en todo México, hay en todo el mundo, en casi cualquier ciudad importante del mundo te vas a encontrar una comunidad de Bitcoin y aquí hacía falta y alguien lo tenía que hacer, así que lo hicimos.
+Bueno, hicimos esa introducción y luego me aventé una plática que me.
+O sea, lo hice completamente.
+Por amor al juego, que fue porque Bitcoin, básicamente explicar la razón de ser detrás de toda esta industria, o sea, el por qué, o sea, por qué, por ejemplo, el porqué del maximalismo de Bitcoin, por ejemplo, o sea, por qué enfocarte 100% en Bitcoin cuando igual y puede ser, te podría ir mejor en cuanto a rentabilidad en otras monedas.
+Claro, mucho más riesgo, pero hay mucha raza que se va, si quieres hacer dinero, probablemente te llame la atención el resto de la industria mucho más que Bitcoin.
+Y claro, así que hice como una introducción a qué es el dinero, cómo ha sido la evolución del dinero, cómo ha sido su historia, qué es el dinero fiat, cómo surgió y por qué el dinero fiat, por qué fracasó el oro y lo que significa Bitcoin, lo que significa el nacimiento de Bitcoin, pues para el futuro del dinero, para el futuro, digamos, de la propiedad digital.
+Y sí, pues traté de mantenerlo, digamos, también tanto para principiantes como para personas ya avanzadas, o sea, para personas que ya llevan rato aquí en la comunidad pero están enfocados en otras cosas, como también tener un refresh, como tener un recordatorio de lo que significa ser Bitcoiner, cuál es la misión, cuál es el propósito detrás de todo el movimiento.
+
+[Speaker 1 - 00:28:22]
+También por ahí tuvimos una.
+Te iba a decir que también hablamos del tema del up return, ¿No?
+Que es un tema súper candela ahorita y pues sí, prácticamente esas fueron.
+Las tres secciones del evento.
+
+[Speaker 0 - 00:28:40]
+Ese es un temazo, hay que entrar ya, yo creo que, no sé si ya, pero platiquemos de eso porque sí.
+Bueno, primero que nada les iba a decir, aquí arriba les piné el space para que le den like y repost y comenten, no he visto ni un comentario.
+Dejen su comentario, dejen su pregunta, capa la banda, el grupo de Telegram también está muy bueno, ahorita se los voy a pinar por ahí no lo veo, fíjense, pero si no se lo dejamos ahorita en comentarios.
+Se puso muy buena la discusión ayer sobre el return y lo que está sucediendo con eso.
+Hay gente a favor, hay gente en contra.
+Estos cambios en Bitcoin creo que son importantes.
+Cuando entró Reynolds atrajo a muchas personas nuevas y mucho dinero movió, se movió hacia Bitcoin y yo creo que le ayudó mucho.
+Ahorita están medio muertos, no lo podemos negar, pero cambios así, vamos a seguir viendo funcionalidad nueva, vamos a seguir viendo, a lo mejor en dos, tres meses encontramos que, ay güey, ahora podemos hacer algo con el código como ya existe, ¿No?
+Lo mismo que sucedió con Ordinals, ahora podemos hacer jpgs en cadena, bueno, a lo mejor al rato encontramos otra cosa nueva, otra tecnología, ve tú a saber.
+Y esto es algo constante que estamos viendo, no nada más en Bitcoin, sino en muchas otras blockchains.
+Entonces tener un grupo donde la gente pueda debatir, platicar, conocer y acercarse con gente súper crack como ustedes, como Rafa Cárdenas, que está full desarrollando en Bitcoin con stacks, o sea, hay una comunidad bien fuerte, técnicamente bien sólida aquí en Monterrey, creo yo, no está, veo por acá abajo a Don Ray que también está súper metido, Fermax que está probando de todo lo que puede en Lightning, o sea, Monterrey tiene una comunidad liconera bien, bien, bien dura y eso me pone muy, muy bullish.
+Platíquenos un poquito de esa discusión y de si es algo que va a ser constante en la comunidad, el aprendizaje, el debatir ideas, el poner puntos a favor o en contra y encontrar un punto medio o no y acabar acordando en que no estamos de acuerdo, pero pues Bitcoin así es y como tú decías, José, el mercado finalmente es el mercado y ese es el que va a decidir, la lana es la que manda, No sé qué opina.
+
+[Speaker 1 - 00:30:43]
+Así es, totalmente de acuerdo contigo.
+Este, yo creo que aquí, pues número uno demuestra la diferencia entre Bitcoin y las demás, donde no es una decisión unilateral, es una decisión de la comunidad y al final, pues el libre mercado es el que va a decidir qué va y que no va.
+Yo desde mi perspectiva que comentábamos ayer, para mí el cambio en sí no lo veo, pues no es un cambio tan radical, obviamente tiene ventajas y desventajas, pero no es un cambio así que pueda hacerle cambiar mucho la estructura de Bitcoin.
+Pero sí, a mí lo que más me preocupó de todo fue las formas en la que los core developers trataron de hacer el cambio, a mí eso fue lo que más me preocupó, cómo fue, oye, pues va a ser este cambio y aquí no hay discusión y bloqueamos a los que no estén de acuerdo.
+Entonces toda esa dinámica creo que al final pues nada más robustece a Bitcoin y a la descentralización, creo que era algo que estaba destinado a pasar donde los core developers y los mantainers del repo pues digamos que se fueran ros, que rompieran filas, ¿No?
+Entonces pues ya lo estamos viendo pasar, para mí era de las últimas cosas que le faltaba a Bitcoin, este probar que alguien lo atacará por ese vector, entonces pues ya lo estamos viendo ahorita y gracias por los nodos, son los que tienen la última palabra, entonces pues para todos los que están escuchando, prácticamente el que esté a favor actualiza su nodo en la nueva versión y el que no, se puede quedar en la versión anterior o puede instalar nots, entonces de esa manera pues el mercado es el que va a decidir.
+Digo, creo que hay muchos puntos a favor y en contra y como todo pues depende quién le preguntes, pero para mí lo más padre es ver cómo la descentralización de Bitcoin, verla en vivo y a todo color y para mí eso es pues solamente robustece a Bitcoin y pues encantado de que tenga estos ciclos, estas etapas que lo hacen más fuerte y más resistente a los ataques.
+
+[Speaker 0 - 00:32:58]
+¿Como es Adrián?
+¿Opinas similar o no?
+
+[Speaker 2 - 00:33:01]
+Sí, fíjate, a mí sí me interesa mucho el aspecto técnico del debate, yo creo que el debate es más que nada una discusión técnica contra una discusión cultural, o sea, mucha raza está diciendo, es como el lado ideológico te dice, no, la raza, la raza purista es no, no quiero shitcoins, no quiero, no quiero spam, no quiero jpegs en la blockchain de Bitcoin porque pues ese no es el, digamos, el propósito inicial de Bitcoin, ese es el lado inicial, perdón, ideológico, digamos el lado cultural que digamos, puede que ese no sea el propósito de Bitcoin y se me hace un argumento, digamos, algo aceptable, pero por otro lado está el lado técnico, que el lado técnico, digamos, si hay varios argumentos a favor de aumentar el límite del up return, por ejemplo, uno de los problemas es la centralización de la mempool de la minería.
+Nada más para que sepan esto del up return, o sea, este límite del up return existe solamente en la parte de relay policy, o sea que sólo existe en la parte de que por ejemplo un nodo, los nodos tienen el límite de lo return, existe pero solamente para transmitir información, tú puedes mandarle a un minero directamente tu transacción porque la mayoría de los nodos no la van a aceptar, así que se la mandas tú directamente al minero y el minero te la puede minar sin un límite en el up return, o sea que esto del spam ya se puede hacer y ya se está haciendo, o sea básicamente este límite ya se sobrepasa, pero el problema es que se está sobrepasando pero directamente con los mineros así que está está estableciendo un precedente donde.
+Está incentivando la privatización de la mempool, o sea está incentivando que la gente mande directamente las transacciones a los mineros ignorando la mempool que debería ser pública y por ejemplo algo como Lightning, o sea muchas funcionalidades que se pueden hacer encima de Bitcoin dependen de una mempool, digamos una mempool descentralizada, que el mercado de tarifas sea libre y que tú puedas ver básicamente todas las transacciones y lo que estamos viendo es que se está centralizando las transacciones y se están mandando directamente a los mineros y esto puede crear una situación descentralización por ejemplo, si por ejemplo una pool ignora el spam como Ocean digamos, y luego hay otra pool que tiene contacto directo y tiene deals con gente de shitcoins, de ordinals, de jpegs, de lo que sea, va a ser más rentable y va a tener una exclusividad a esas transacciones y por lo tanto las personas van a estar más incentivadas a unirse a ese pool porque van a ser más rentables, así que un pool que esté conectado directamente con la raza de ordinals, digamos de spam.
+Va a tener una ventaja y eso no sería posible si la mempool fuera mucho más libre, los nodos digamos.
+Transmitieran las transacciones sin el límite del up return, porque si lo hicieran no sería necesario mandarlo directamente a los mineros y.
+Tampoco surgiría esta situación donde.
+Las señales de precio en las fees de la mempool son incorrectas porque no tienes toda la información de las transacciones que se van directo a la mempa, a los pools.
+
+[Speaker 0 - 00:36:36]
+Es algo complicado.
+Ayer había personas que estaban en contra que decían no es mugrero, Bitcoin no se hizo para eso.
+Lo estamos.
+Utilizando de una manera de la cual no se inventó, no se había definido en un principio.
+Para mí todo eso es finalmente el código es el código, si el código lo permite y hay un proceso donde hay este tipo de cambios para mejorarlo, se van a seguir dando lloren, bricker o pataleen, entonces se me hace muy interesante poder tener un espacio para entrar más en lo técnico, para entrar más en ese detalle.
+Yo ayer en la plática y en la discusión aprendí muchísimo, yo no sabía que sí sabía que tú te puedes ir a sentar con un minero a minar bloques así como tú los quieres, como el que minó Frank de, digo.
+Cuando sacaron la colección de Ordinal, se pusieron de acuerdo, pagaron un dineral, etcétera, o sea, hay cosas que se pueden hacer que tú, yo en lo personal no sabía y después de la plática como que me puse a leer y entendí en ese momento y creo que es bien importante tener ese tipo de conversaciones para la gente que está construyendo y que quiere a lo mejor entrar a conocer un poquito más de las tripas de cómo funciona todo esto.
+¿Qué opinas?
+Sí.
+
+[Speaker 2 - 00:37:55]
+Y definitivamente sí es un debate complicado, también hay, digamos, también hay argumentos en contra de aumentar el límite, o sea, yo no estoy ni a favor ni en contra, ahorita estoy más neutral, pero sí, definitivamente hay argumentos de ambos lados, pero un lado es mayormente como cultural, ideológico de lo que debería ser Bitcoin filosóficamente y el otro lado es más técnico y creo que por eso ha creado tanto conflicto.
+Este, pero sí, pues es un tema complicado y yo creo que no se puede resumir así, yo no sabría resumirlo la verdad, porque es muy complicado también.
+Y sí, pues para eso es el debate, para hacer una batalla de ideas a ver quién gana.
+
+[Speaker 1 - 00:38:43]
+A mí lo más padre de Bitcoin es que ni siquiera es un debate en el sentido de que pues al final cada quien va a hacer lo que quiera en su nodo, ¿No?
+Y eso es lo más bonito de todo esto.
+Yo el mejor argumento que escuché ayer y me encantó, o sea, se me hizo una gran solución a todo este debate es pues prácticamente ahorita de cuenta el filtro que tiene es, está prendido, o sea, tú, cualquier persona que haga, baje su, el Bitcoin core y tenga su nodo y no sea muy técnico donde sepa cómo apagar el filtro, viene prendido por automático, ¿No?
+Entonces una solución que yo encontré ayer es oye, ¿Por qué me obligas a quitar los filtros si Bitcoin es de todo de libre mercado?
+Pues si quieres de default déjalo apagado, pero no le quites el filtro, deja que cada quien decida si le prende o le apaga.
+Entonces como que ese tipo de propuestas a mí se me hacen mucho mejores donde pues tenemos que dejar que el libre mercado decida y no con código porque muchas veces, pues por ejemplo en Bitcoin la gran mayoría de los usuarios no tienen su propio nodo, entonces pues poca gente tiene tiene votos sobre lo que va a pasar ahí.
+Entonces la idea es, OK, pues vamos a dejarlo que cada nodo decida y el mercado irá diciendo pues a qué nodo les va mejor, a qué minero les va mejor y de esa manera pues el mercado le das oportunidad de que con el tiempo vaya diciendo qué es lo que quieren.
+Yo el argumento más válido o más importante que he escuchado en contra de este cambio es pues que obviamente cuando tú le empiezas a poner otro tipo de datos que no son transacciones monetarias al blockchain de Bitcoin, lo que pasa eventualmente es que se hace más caro y más difícil ser un nodo y eso le afecta a la descentralización de Bitcoin.
+Entonces la gente, el argumento que a mí se me hace un argumento súper válido es decir, oye, entre más limpio y más chico mantengamos el blockchain más, más descentralizado va a ser Bitcoin.
+Entonces, por ejemplo, ahorita esta plática que estamos teniendo, pues los nodos van a decidir qué se va a hacer, pero si nosotros mañana le abrimos a la llave y para hacer un nodo de Bitcoin validador vas a tener que estar guardando X cantidad de información donde ya te hace mucho más caro el entrar a hacer un nodo, pues le va a afectar a la descentralización y obviamente pues la gente con más dinero va a poder tener más nodos y afectar la red, algo similar a lo que pasa en Ethereum.
+Entonces, pues bueno, ese es el otro argumento y como todos los argumentos de los humanos, yo creo que nunca nadie está bien ni está mal, simplemente son puntos de vista diferentes.
+Por eso yo creo que esa solución que propusieron ayer se me hizo excelente decir, oye, pues para qué le quitas el filtro, déjalo por default apagado y el usuario que diga, oye, yo por principio no quiero, yo lo voy a prender, pues que lo prende el que quiera ¿Verdad?
+Y de esa manera dejas que el libre mercado haga su chamba y no forzas un resultado que para mí creo que eso es lo más importante.
+
+[Speaker 0 - 00:41:48]
+Si se platicó un poquito ayer del proceso de cambio de esta persona que decidió en algún punto, no sabemos, yo en lo personal no sé por qué decir se va a cambiar, si generó algo de debate el que tuviera esa persona ese poder para tomar esa decisión, pero así suceden muchas cosas en otras redes, o sea, estos cambios tienen procesos donde se debate a veces o no, no sé, cada una de las redes tiene situaciones distintas, acabamos de experimentar un upgrade en Ethereum donde metieron PECTRA y también tiene su proceso distinto y tiene todo su roadma, en este caso Bitcoin no tiene un roadmap como si al menos yo no lo he visto, estoy muy metido, no sé ustedes qué opinen, pero es normal, estos sistemas van migrando poco a poco, lo importante como no sé si por ahí lo mencionaron, era que tuvieran o que tengan posibilidad de seguir corriendo nodos con versiones anteriores y es algo que se ha mantenido.
+Entonces entrar a las tripas y conocer esos procesos a mí en lo personal se me hace muy interesante para aprender sobre cómo funcionan y en realidad qué se puede hacer en el futuro para hacer algunos cambios.
+No sé Adrián, tú cómo lo has visto, si te has sentado a lo mejor a ver contra otras blockchains, cómo es el proceso distinto, pero en este caso particular sí generó algo de polémica esta persona que lanzó la propuesta, ¿Qué opinas?
+
+[Speaker 2 - 00:43:15]
+Pues sí, mira, algo que sí, algo que sí estoy viendo que digamos es algo positivo es que.
+Se está.
+La gente se está dando cuenta que solo, realmente solo se usaba una implementación del cliente de nodo de Bitcoin que es Bitcoin Core, o sea, técnicamente pues Bitcoin Core no le puede obligar a nadie a correr su software, pero mucha gente pues está confiando libremente en Bitcoin Core.
+Lo que estamos viendo es que digamos.
+El quitar el límite pues digamos si está fundamentado técnicamente, técnicamente si está fundamentado, pero hay mucha raza que no está de acuerdo culturalmente, filosóficamente.
+Y habiendo habiendo muchísimo debate que empuje en el cambio luego luego, pues definitivamente fue una mala señal, fue una bandera roja.
+Pero por suerte ellos no, o sea, por ejemplo Bitcoin Core no tiene el roadmap, nadie tiene un roadmap, cada quien tiene una idea diferente de lo que es el futuro de Bitcoin y el mercado lo va, el mercado pues es el que decide, o sea, no es ninguna democracia.
+Así que algo positivo que sí está pasando, que por ejemplo Ethereum si tiene varios clientes, si no me equivoco tiene como cinco clientes como más o menos bien distribuidos cuando, Y Bitcoin pues tiene uno y nots que hace un mes yo creo que tenían menos del 1% de los nodos de Bitcoin y ahorita ya se están acercando entre el 5 y el 7.8%, o sea que Bitcoin no se está agarrando mucho más dominancia y yo creo que es algo positivo, o sea, la diversificación de clientes para que digamos, no solo para que no todos confíen ciegamente pues en Bitcoin Core.
+Yo creo que el equipo de Bitcoin Core es muy bueno, es muy competente, cada quien tiene sus razones para criticarlo obviamente, pero sí se me hace una buena señal que hay algo más de diversificación en los clientes.
+
+[Speaker 0 - 00:45:20]
+Cuéntenme un poquito de nots para la gente que no sepa qué es NOTS.
+Increíble que han agarrado ya casi cinco, seis o siete vi por ahí de porcentaje de todos los no.
+
+[Speaker 2 - 00:45:35]
+Nots.
+Es básicamente un cliente de nodo de Bitcoin, así como está Bitcoin Core, tú puedes descargar nodes y la diferencia principal es que tiene filtros, tiene filtros, o sea, no propaga transacciones que incluyan spam, básicamente esa es la idea.
+También un pequeño detalle es que es mantenido por una sola persona que es fan según ellos.
+
+[Speaker 0 - 00:45:59]
+¿Cómo, cómo, o sea, mencionas la palabra spam, pero es spam según los creadores del cliente?
+
+[Speaker 2 - 00:46:07]
+Sí, o sea, claro, no sé exactamente cómo funciona, pero sí, o sea, ellos no propagan transacciones que consideran spam, esa es básicamente la idea de nots, pero también un pequeño detalle es que es mantenido por una sola persona que es Luk Das Jr.
+Claro, el GitHub ahí está, está abierto, pero básicamente lo controla ahorita lo controla básicamente una persona y claro, es un detalle a considerar, probablemente cambie en el futuro, probablemente hayan más mantenedores en el futuro, pero esto que por ejemplo nots, un detalle importante a saber es que tú correr no va a detener a los mineros de minar transacciones con spam, o sea, no, lo único que hace es detiene la propagación, o sea, todos los nodos propagan información, se lo pasa un vecino, se lo pasa a otro vecino, se lo pasa a un vecino, se lo pasa a otro vecino, se propaga la información entre nodos y ellos lo que están haciendo es simplemente ignorar esa información, pero la información está circulando por la red siempre y cuando la gente corra, por ejemplo, Bitcoin Core y siempre, incluso si el 99% de la gente corriera Bitcoin NOTS, alguien puede mandarle transacciones directamente a los mineros y NOTS no puede aceptar, o sea, tiene que aceptar un bloque con spam, no puede ignorar los bloques, puede ignorar la propagación de las transacciones que todas no se confirman, pero no puede ignorar un bloque sin importar si tiene un ordinal de 4 megabytes, la van a tener que aceptar.
+Así que básicamente la diferencia principal está en la propagación de los bloques, perdón, de las transacciones no confirmadas y realmente no solucionan a profundidad este problema del spam.
+
+[Speaker 1 - 00:47:52]
+¿Sí, yo como.
+
+[Speaker 0 - 00:47:55]
+Termina la idea, perdón.
+
+[Speaker 1 - 00:47:57]
+Te digo, yo como describiría NOTS?
+Es prácticamente, o sea, el código de Bitcoin es abierto, ¿No?
+Entonces.
+Cualquiera puede copiarlo y por ejemplo tú Mexi podrías hacer tu GitHub y hacer un nuevo cliente de Bitcoin, o sea, copia en base a ese mismo código.
+Obviamente no puedes cambiar nada que rompa el consenso porque en ese momento pues ya te conviertes en otra cadena, entonces son dos implementaciones del mismo código donde tienen poquitos cambios, pero nunca, o sea, siempre están en consenso, entonces tú puedes decidir cuál usar.
+Y para mí lo más padre de esto es pues que en vivo, o sea, ahorita en vivo nosotros nos podemos meter a ver cuántos nodos están corriendo, ¿No?
+Cuántos nodos están corriendo, qué versión de Bitcoin Core, y pues es una manera de señalarle, y creo que es de las primeras veces que nos encontramos con este tema donde señalas a la comunidad, pues qué es lo que el mercado, o al menos el mercado de los nodos es lo que quiere, ¿Verdad?
+
+[Speaker 0 - 00:48:58]
+Que como decían, tienen mucho poder porque hay un balance entre minería, entre nodos, entre usuarios, o sea, está muy interesante el cómo esto se auto medio regula y sigue funcionando y tiene ya 15 años trabajando, quién sabe qué pasa en el futuro.
+Eso es algo que chingón poder tener la oportunidad y una comunidad y un grupo de personas que estén full dedicadas a eso para poderlo ir a debatir y preguntar.
+Porque yo he visto que mucha gente se quiere meter más en lo técnico, en las tripas de esta información, en correr nodos.
+Por ejemplo, ayer veíamos gente nueva que ya tienes un nodo y que estuvo minando y yo en lo personal corrí un nodo, ahorita estoy corriendo un nodo pero de Ethereum, estoy ya instalando en otra máquina uno de Bitcoin ya para retomar a esa actividad y empezar a meterme más a las tripas de Bitcoin, que lo dejé un poco.
+¿Pero no sé, en lo personal creo que está muy interesante que cualquiera pueda llegar a implementar su propia versión, que tenga los filtros que se le antoje, no?
+A lo mejor solo quiero ver Ordinals y me valen más las transacciones.
+Bueno, pues crea.
+Tu cliente y a ver si el mercado lo acepta porque esa es la clave, no nada más es crearlo, sino que la verdad lo utilicen y NOT ya lleva el 7%.
+Está loco que tenga tanto, tanto uso, en mi opinión, pero para mí eso.
+
+[Speaker 1 - 00:50:16]
+Es una señal, ¿No?
+Es una señal de que los nodos, muchos de los nodos no están de acuerdo, ¿Verdad?
+Por eso se están migrando hacia nots.
+Pero bueno, pues lo iremos viendo.
+Al final Bitcoin es un teenager, lo estamos viendo crecer, nos está tocando la fortuna de verlo crecer y madurar y pues hacerse más robusto.
+Entonces pues digo, no me extrañaría nada que los medios tradicionales saquen alguna fake news o manipulen esto para meter miedo al mercado, pero para mí es súper bullish, es algo súper bueno que le esté pasando ahorita Bitcoin a esta escala, en este nivel, para resolver los problemas aquí en chiquito antes de que de que estemos, antes de que Bitcoin esté en todo el mundo.
+
+[Speaker 0 - 00:51:03]
+Totalmente de acuerdo, totalmente de acuerdo.
+Lo mismo que sucedió con Ordinals, con los BRC 20, ahora con las runas, creo que son pruebas, son pruebas de estrés al sistema.
+Creo que son también pruebas al tema de consenso y a las reglas que tiene Bitcoin desde que inició la guerra de bloques que experimentó hace unos años.
+Ya luego platicaremos de eso si quieren pero todo esto le ayuda, le sirve y creo que es súper necesario experimentarlo para en realidad darnos cuenta si es la herramienta que nos va a llevar en el futuro como pensamos y creemos que lo va a hacer.
+Por lo pronto lo ha logrado, como dices, tiene 15 años el pinche correo, Internet, el correo electrónico cuando tenía 15 años era una porquería usar, era complicadísimo y eso lo mismo está experimentando Bitcoin y otras tecnologías donde va mejorando la experiencia de usuario poco a poco y ahorita usamos el correo sin darnos cuenta ni saber cómo fregas funciona.
+Pero hay unos que sí les gusta meterse las tripas y creo que es súper importante porque son finalmente los que pueden acabar desarrollando aplicaciones que mucha banda use.
+Entonces estos debates pues sí, yo creo que es muy chingón poderlos tener de manera presencial y también aquí digital para que todo mundo los escuche.
+¿Tú qué opinas Adrián?
+¿Tú corres tu nodo?
+¿Estás minando?
+Cuéntenme un poquito de su experiencia con la red y la parte técnica, el operar estos sistemas.
+
+[Speaker 2 - 00:52:24]
+Pues sí, yo corro mi nodo es Bitcoin Core.
+¿Qué versión exactamente?
+No estoy muy seguro, pero digamos si es que la siguiente versión de up return.
+Si es que en la siguiente versión se aumenta el límite de up return, yo me esperaría.
+No lo actualizaría luego.
+Pero sí, básicamente mi experiencia creo que el primer no que corrí fue en 2023, fue en una laptop, fue en una laptop vieja que tenía ahí básicamente en Windows fue un desastre, me tardé muchísimo, batallé mucho y de hecho no fue hasta que este José, de hecho José me mandó un Umbrell, básicamente un nodo plug and play que es muchísimo más fácil de manejar, de tipo 2 terabytes y ahorita estoy usando ese y lo uso para manejar mi wallet, o sea, por ejemplo, yo en mi wallet solamente confío en mi nodo, o sea, no estoy conectado a ninguna mempool, a ningún explorador de bloques, confío solamente en mi nodo y eso pues te da muy buena seguridad y privacidad y claro, te da como un tipo de.
+Como un tipo de voz en la red, ¿No?
+Yo creo que si no corres, yo creo que te hace un doble clic.
+
+[Speaker 0 - 00:53:40]
+A eso de correr tu nodo y de tener tu wallet conectada solo tu nodo, porque la gente normalmente usa sus wallets y los conecta, ve tú a saber a dónde, a donde la wallet dirija, pero tú puedes personalizar esto para tener todo el control absoluto.
+
+[Speaker 2 - 00:53:53]
+Sí, sí, claro, más que nada por ejemplo el beneficio para el usuario es básicamente la privacidad.
+Si tú tienes por ejemplo Bitcoin sin KYC también puedes conectar tu wallet a tu nodo, por ejemplo la wallet sería Sparrow Spyro es una hot wallet aquí en la computadora en donde tú puedes usar tu cartera fría, casi cualquier cartera fría puede ser una multifirma también y tú lo conectas directamente a tu nodo y así pues no dependes de ningún intermediario, no dependes de ningún solo intermediario, confías exclusivamente en tu nodo y no.
+
+[Speaker 0 - 00:54:26]
+Le das por ejemplo, porque tus transacciones van a tu nodo y tu nodo lo propaga, tu nodo es el que se encarga de.
+
+[Speaker 1 - 00:54:32]
+Sí, o sea, yo lo que agregaría aquí Mexi es por ejemplo si tú estás usando una Trezor o estás usando una wallet, una aplicación, esa cartera se conecta al nodo, por ejemplo en el caso de Trezor, pues se conecta al nodo de Trezor.
+Entonces el momento que tú mandas una transacción, postres tiene tu ipadres y tiene tu utxo y tiene mucha información que te quita privacidad, ¿Verdad?
+Entonces para eso cuando tú usas tu propio nodo y mandas una transacción, pues no hay nadie que pueda ligar un iPadres a esa transacción y esa es la ventaja de la privacidad.
+
+[Speaker 2 - 00:55:08]
+Si, también por ejemplo, si tú conectas tu wallet, por ejemplo al nodo de Blockstream o de Mempool Space, tú conectas tu wallet, automáticamente puede ver tu expo, que es básicamente tu clave pública maestra y puedes saber cuáles son todas sus direcciones.
+Básicamente ligar todas tus, o sea tú en tu cartera de Bitcoin funciona, tiene un modelo de huchos de utxos, utxos y básicamente conectándote un nodo, el nodo puede saber tu IP address y pues puedes saber todo lo que hay en tu cartera, todos los utxos que tienes en tu cartera, aunque los manejes independientemente, los utxos que.
+No es para el usuario promedio, aunque tú los manejes muy bien, pues digamos el nodo sabe cuál es tu cartera y cuál es tu iPadres, así que teniendo tu nodo, la red simplemente sabe que esta dirección tiene esta cantidad de Bitcoin y esta otra dirección tiene otra cantidad de Bitcoin y no las une en una sola cartera.
+Así que pues es una muy buena solución de privacidad.
+
+[Speaker 0 - 00:56:16]
+Si no, ya todo el detalle técnico es súper crítico para la gente que le interesa temas de privacidad, que le interesa que no rastreen cuánto Bitcoin tienen.
+Yo creo que todos nos deberíamos de preocupar por eso.
+Yo en lo personal.
+Lo he descuidado poco y lo voy a retomar ahora que ya tenemos, ya hay una comunidad con la cual acercarse.
+Antes también creo que había muchas personas que te pueden ayudar, pero creo que es más sencillo así, con gente 100% enfocada en la tecnología, en apoyar a la gente, a conocerla, en organizar estos eventos, etcétera.
+Qué chido, qué chido, la neta.
+Voy a hacer un breve reset para invitarlos a todos a seguir acá, nuestros invitados por aquí también piné arriba el link o el tweet de Bitcoin Network Monterrey para que vayan a ver la liga de Y sigan a la cuenta de X.
+Por ahí también están en Instagram y entiendo que Tú estás en TikTok, ¿Verdad, Adrián?
+Creo que Bitcoin todavía no, pero bueno, perfecto.
+
+[Speaker 2 - 00:57:17]
+Sí, pues en su respectivo.
+Yo en mi bio tengo toda mi información y en el bio de Bitcoin Network Monterrey está toda la información también.
+Y también de José.
+
+[Speaker 0 - 00:57:27]
+No sé, yo todavía tengo aquí unos diez, quince minutitos.
+No sé si la banda quiera subir a hacer alguna pregunta.
+Les damos esa oportunidad para que suban, Si no, pues aquí seguimos un ratito.
+Cocodrilo.
+
+[Speaker 1 - 00:57:40]
+Sí, excelente idea.
+Los que tengan preguntas, yo lo único que mencionaría ahí, pues ya, como vieron todos, tiene muchas ventajas ser tu propio nodo.
+Entonces, obviamente, entre más barato y más fácil sea tener un nodo, yo creo que es mejor.
+Y esa es parte del argumento, ¿No?
+Si le cargas muchos datos al blockchain de Bitcoin, pues al rato se vuelve algo que solo un profesional con mucho dinero lo puede hacer y pues rompe con el concepto de la descentralización de Bitcoin, ¿Verdad?
+Pero bueno, nada más quería mencionar eso.
+Y por favor, preguntas bienvenidas.
+
+[Speaker 0 - 00:58:16]
+Igual, igual hay banda por aquí que a lo mejor no es tan técnica.
+Yo soy ingeniero, sí tengo un background un poquito más técnico y me encanta meterme a las tripas de toda esta información.
+Creo que es súper importante y creo que tenemos que hacerlo más.
+Creo que ha faltado mucho esa parte donde la gente pueda llegar a subir, preguntar, hay muchos espacios que he visto que lo permiten y todo, pero exclusivamente de Bitcoin.
+Fíjate que pues está el space de los ordinales, pero ellos están muy clavados con todo lo que es el checoineo y los jpegs en cadena.
+Nunca había visto yo algo así o alguna comunidad así local que pudieras acercarte, tener toda esta información.
+Y pues en lo personal que chido, que chido que lo están haciendo, qué chido que la comunidad se animó ayer a ir, qué chido también que veo que hay mucha unión entre otras comunidades bitcoiners, vi por ahí a la casa de Santoshi, veo por acá abajo también otras comunidades que sé que hacen contenido exclusivo de Bitcoin.
+¿Cómo ha sido el recibimiento y la comunicación con otros líderes de opinión, con otros influencers o creadores de contenido, otras comunidades para lo que están ustedes logrando?
+Y hay alguna colaboración chingona que nos puedan platicar aparte obviamente la de banda web.
+
+[Speaker 2 - 00:59:39]
+Sí, nombre, pues hasta ahora muy bueno, Obviamente con la casa de Satoshi tenemos mucho, mucho contacto, tenemos contacto también con los de Guadalajara, creo que más que nada este José.
+Los de Mérida si no me equivoco, bueno, creo que no hemos escuchado de ellos de parte de Bitcoin Network Monterrey, pero digamos si está algo bien conectada a la comunidad de México también, por ejemplo los de Guatemala, un amigo está liderando los.
+Los meetups en la capital de Guatemala, alguna raza, El Salvador también.
+Claro, si hay raza, todo el mundo que le gusta la idea de que finalmente se haga una, o sea que empiece la comunidad de Bitcoin en una ciudad, porque básicamente en casi cualquier ciudad importante del mundo vas a encontrar una comunidad de Bitcoin, Bitcoin only casi siempre.
+Y pues sí, ya hacía falta aquí en Monterrey.
+
+[Speaker 1 - 01:00:35]
+Sí, justo como menciona Adrián, a través de la Asociación de Bitcoin de México, esa idea nació porque hay una asociación de Bitcoin de El Salvador, entonces nos inspiramos justo en ellos para hacer la parte de México también es sin fines de lucro y la idea es conectar a toda la banda, por ejemplo, justo lo que decía ahorita Adrián, pues la banda de Mérida, los de Guadalajara y cada vez están saliendo más lugares en Mazatlán, entonces pues la idea es tener algún canal que es la sesión de Bitcoin de México para conectarnos todos y hacer lo mismo que hace cada comunidad a nivel ciudad, pues expandirlo un poco a nivel país y luego de ahí a nivel Latinoamérica y así nos vamos a ir creciendo la red y sumando esfuerzos.
+
+[Speaker 2 - 01:01:24]
+Sí, claro, y obviamente colaborar con otras comunidades estaría muy bien.
+Yo creo que para eso tendría que haber eventos, por ejemplo, habiendo un evento grande en alguna parte de México, alguna conferencia, obviamente sería la mejor oportunidad para hacer más colaboraciones, por ejemplo con Casa de Satoshi, obviamente son yo creo que con los que más queremos colaborar y sí se tiene que dar la oportunidad para que también sea el momento oportuno, que haya mucha gente.
+Y sí.
+
+[Speaker 0 - 01:01:58]
+Pues ayer como lo platicamos, viene un evento muy grande en Monterrey, yo creo que podemos aprovechar para hacer mucho ruido, vamos a organizar un hackatón, se llama Ethereum México 2025, pero queremos tener una semana llena de actividades.
+Por ahí veo a algunos miembros del equipo de Ethereum México, veo a Karen que por ahí hace poquito empezó a minar con su beat Axel, por ahí ella también ha estado metida con el tema de nodos, muy metida en la parte técnica y de las trip del sistema, que es también obviamente ella parte del equipo de aquí de T México.
+Como ven, ayer lo platicábamos, yo creo que es una muy buena oportunidad con algunos meses de anticipación ir planeando un día Bitcoin, por aquí hace poquito tuvimos Bitcoin Week que organizó Priscila, por ahí estuvo ayer también Priscila y no sé, no sé, yo creo que hace falta más contenido, yo voy a apoyar en lo que pueda con más contenido, con esas entrevistas, me falta platicar con muchos bitcoineros súper, super cracks y la verdad he descuidado eso y poco a poco he regresado.
+A platicar más de estos temas y a meterme más de lleno, como cuando Ordinal salió me hizo regresar, ahorita todos estos debates y esta comunidad creo que me va a hacer regresar también.
+
+[Speaker 2 - 01:03:10]
+Sí, sí, definitivamente.
+¿Sí, pues como dijiste, se viene, se viene Etéreo México a Monterrey, si no me equivoco, cuando era?
+¿En octubre?
+
+[Speaker 0 - 01:03:20]
+Octubre, noviembre, por definir, pero en tres o dos meses.
+
+[Speaker 2 - 01:03:23]
+Sí, sí, básicamente la idea sería hacer un side event de Bitcoin y pues nosotros lo podemos organizar.
+De hecho aquí estoy viendo que aquí está Milton, que es justo embajador de este Rootstock.
+Estaría muy bien hacer, por ejemplo, Rootstock es básicamente una sidechain, probablemente la sidechain más popular.
+De Bitcoin, bueno, aparte Liquid, pero es una sidechain basada en el EVM, o sea, por ejemplo, los contratos inteligentes de Ethereum funcionan en Rootstock y yo he usado Rootstock, he usado la plataforma de Tropicus que es una que es finanzas descentralizadas, básicamente puedes pedir préstamos, o sea, justo me pedí un préstamo para comprar más Bitcoin ahí en Tropicus sin intermediarios y si estaría muy bien hacer un evento de con Rootstock o alguien así también alineado con la filosofía de Bitcoin acá en México, aquí en Monterrey.
+
+[Speaker 0 - 01:04:26]
+Definitivo, definitivo.
+Por ahí, por ahí invité al buen Milton, me hace falta invitarlo acá a una entrevista para que nos platique completamente de todo lo que está haciendo Rustal, por ahí lo vi hace poquito en Ciudad de México, un saludo allá donde quiera que estés.
+Subió también Carlos a ver si tiene alguna duda.
+Vamos con él.
+Bienvenido Carlos.
+
+[Speaker 3 - 01:04:45]
+Hola, ¿Cómo están?
+Muy buenas tardes.
+Sí, fíjate que a mí me nació una pequeña duda y escuchando ahorita todo esto de los nodos, la verdad yo no soy tan técnico, yo estudié economía ni la acabé, verdad, yo intentamos darle por ahí, pero no se logró y me sale la duda de ahorita escuché, date cuenta que decía del plug and play de de los nodos, esto qué es como un hardware que uno compra y lo instala así como si fuera un servidor o cómo es que funciona un poco más para la raza que no tenemos tanto conocimiento.
+Esta parte de hacer ahora sí o manejar tu propio nodo.
+
+[Speaker 2 - 01:05:29]
+Sí, básicamente el plug and play te lo hace extremadamente fácil, o sea, tú puedes, en este caso, este José me mandó un Umbrella, un Umbrella cuesta, yo creo que, yo creo que debería estar como en 8 mil, 9 mil pesos ahorita, lo compras, lo instalas, lo conectas y dentro del Umbrella, o sea, te conectas al Umbrella desde tu computadora y lumbre tiene una App Store, tiene una tienda de aplicaciones donde tú simplemente descargas Bitcoin Core o Bitcoin Nots, lo que quieras correr y ya, y ya está listo, lo descargas, se sin queda la blockchain, yo creo que no tarda más de un día y ya literalmente está muy sencillo, es tipo un Apple TV.
+
+[Speaker 1 - 01:06:14]
+O sea, es un aparatito así chiquito que lo conectas a la luz y al Internet y ya te puedes conectar remoto desde tu computadora y ahí le puedes bajar muchos tipos de aplicaciones y por ejemplo, si quieres correr Lightning de una manera soberana, pues tienes que tener tu propio nodo, tus propios canales.
+Ojo, Umbrella también tiene su sistema operativo, es de código abierto, entonces si tienes una compu viejita también le puedes borrar todo el operativo y le pones 1 y es exactamente lo mismo.
+¿Obviamente Umbrella tiene la opción donde ellos te venden un hardware súper bueno la verdad, y no tiene ninguna falla, pues obviamente es bastante más caro, pero también lo puedes hacer en o sea, puedes instalar el mismo sistema operativo en cualquier computadora, verdad?
+
+[Speaker 3 - 01:07:02]
+OK, OK, OK.
+Ya un poco más Claro, entonces sí viene siendo prácticamente como tener un servidor propio donde tú corres ahí tus aplicaciones.
+
+[Speaker 2 - 01:07:11]
+¿Correcto?
+Sí, sí, más o menos.
+
+[Speaker 0 - 01:07:15]
+Una de las aplicaciones que hay también existe DAPNO, creo que hay otras que tienen sistemas similares donde tú compras ya el aparato, ya viene preinstalado información y tú descargas la aplicación.
+En este caso puedes en el de, por ejemplo, puedes correr uno Ethereum o de Gnosis o de Bitcoin o de ve tú a saber, tiene un chorro de opciones así, hay muchas.
+Sí, creo que es importante si en algún punto quieren correr o no, obviamente que le echen un ojo porque también las puedes descargar, como decías, bajas el software y lo instalas en tu máquina, si cumple con las capacidades pues ya empiezas a probar si funciona y creo que hay un buen de aprendizaje en eso, técnico en cuanto a redes, en cuanto sistemas, en cuanto comunicación, en cuanto a equipo electrónico, manejar Linux.
+Hace años que yo no manejaba Linux, no lo instalaba y ahora que empecé a correr nodos lo retomé y ha habido muchos cambios en los últimos años y también ha sido muy padre verlo porque te abre una perspectiva a lo que en realidad está sucediendo y lo que en realidad le cuesta a la gente correr estas aplicaciones y estos sistemas.
+¿Porque nosotros creemos, o yo hace mucho creer, no?
+Sí, que la blockchain funciona sola y todo es automático.
+No mames.
+Es gente operando estos nodos, es gente operando validadores, son datacenters enteros que tienen software que se tiene que estar actualizando, que constantemente hay parches, que tiene uno que estar pegado, si se cae, si no se cae, que si se calentó, que si no se calentó, bla, bla, bla, bla, bla.
+En realidad ver cómo operar un nodo a mí en lo personal me abrió mucho la mente y creo que fue muy, muy, muy interesante ver, pero bueno, no hemos recibido ninguna otra solicitud para subir, abro 5 segundos de oportunidad para que alguien levante la mano y si no, pues bueno, vamos, vamos con Carlos de nuevo a ver si tiene alguna otra duda o nos vamos despidiendo que ya me quedan unos cinco minutitos.
+¿Carlos, cómo viste?
+
+[Speaker 3 - 01:09:07]
+No, sí ya me queda un poco más claro y si tengo otra duda que me ha estado ahí perturbando la mente ya de tiempo.
+Es diferente.
+El tema es en cuanto a las cold wallets, mi duda es qué tanta información reciben, haz de cuenta en este caso los nodos o cualquier otra persona que haga.
+Pues ahora sí una transferencia o un movimiento con una persona, haz de cuenta, si yo uso mi cold storage wallet y le mando, no sé, a Adrián o a José una transferencia, ellos qué tanta información pueden recibir de mi cold storage, o sea, me refiero, pueden saber de dónde viene el dinero, o sea, de dónde viene, me refiero a qué país estoy o a qué ciudad inclusive, o no sé.
+¿Mi duda es en general, qué información en la que se recibe cuando uno hace una transferencia de este estilo?
+
+[Speaker 2 - 01:10:03]
+Mira pues así por ejemplo, yo como no tengo acceso a la base de datos de los intercambios, los intercambios por ejemplo, tienen un software que se llama Chainalysis, hay varias marcas, digamos, hay varias compañías que se dedican a eso y ellos si tienen un registro de básicamente que ellos pueden directar, o sea, pueden, pueden conectar tu dirección, por ejemplo, con tu identidad, si tú compraste Bitcoin con KYC, ellos pueden ligar tu Bitcoin con tu identidad, pero la mayoría de la gente pues no sabe de dónde viene tu Bitcoin, tiene que buscar de alguna forma relacionar esa dirección, digamos que tú tienes con tu identidad, si no, pues no pueden saber nada, por ejemplo.
+¿También, por ejemplo, es importante manejar los UTXOs, o sea, los huchos básicamente que son como los pedazos de Bitcoin, o sea, cada vez que recibes una transacción se crea un hucho y cada vez que digamos, y si tú por ejemplo, recibes varios huchos y los gastas al mismo tiempo en una misma transacción, se va a ver como esas mismas, esas tres transacciones pertenecían a la misma persona, así que es muy complicado, digamos, el rastreo de las transacciones en la blockchain, pero.
+Sí, si tú tienes privacidad, digamos, y si no compartes muchos datos personales, si tienes cuidado donde compras solamente el KYC, pues a veces es inevitable.
+Pero si la mayoría de las personas no sabrán decirte de dónde viene tu Bitcoin ni a quién pertenece tu dirección.
+Yo.
+
+[Speaker 1 - 01:11:41]
+Lo que le agregaría es, o sea que hay digamos dos stakeholders o dos participantes, entonces por ejemplo en el ejemplo que pusiste tú, donde tú de tu, digamos que usas Trezor y usas la suite de Trezor, usas Trezor con Sparrow, que no está conectado tu propio nodo, entonces cuando tú me mandas, por ejemplo, le mandas Bitcoin a Adrián, Adrián lo único que puede ver es.
+Del UTXO que le mandaste a él, puede ver ese UTXO y de ahí para atrás no puede ver tus demás balances, entonces eso es la persona que recibe lo que puede ver, pero el nodo de Trezor si puede ver todas tus, todos tus depósitos, todos tus movimientos y de que hay piadres estás mandando las transacciones, entonces donde en verdad hay ese riesgo pues es más que nada y no, entonces por eso la importancia de tener tu propio nodo, suponiendo que tú tuvieras tu propio nodo y nos mandas Bitcoin amigo Adrián, pues lo único que podemos ver es lo que nos mandaste de esa, de ese balance, entonces por ejemplo si tú, tú recibiste cinco Bitcoins, uno en una dirección, otro en otro, otro en otro, otro en otro, o sea tiene cinco Bitcoins y tú me pagas a mí un Bitcoin, pues yo cuando yo recibo la transacción yo voy a poder ver solamente un Bitcoin, yo no puedo ver que tienes los otros cuatro, entonces por eso como dice Adrián, lo importante del manejo de los UTXOs es muy importante, porque si hubieras tenido los 5 en una sola dirección y me mandas a mí uno, pues yo puedo ver que tienes otros cuatro, verdad?
+
+[Speaker 3 - 01:13:15]
+Ya claro, OK, lo entiendo bien.
+¿Y por último con lo del IP address, quiere decir que ahí sí podrías identificar más o menos de qué zona viene o bueno el país me queda claro, pero ciudad inclusive o algo así.
+
+[Speaker 1 - 01:13:31]
+Pues ahí depende quién esté preguntando, pero si está preguntando el gobierno de EEUU pues hasta pueden saber.
+Tu tipo de sangre y todo, o sea, literalmente pueden saber todo, o sea, ya una vez teniendo el ipadres pues van con la persona que te da el Internet y saben a nombre quién está y con qué tarjeta se paga y en dónde está la dirección y de más verdad?
+
+[Speaker 3 - 01:13:53]
+Ya claro, OK, claro como el agua, Ahora sí.
+
+[Speaker 0 - 01:14:00]
+Excelente, excelente, vas para abajo, compadre muchas gracias por subir.
+Te invito a que nos sigas a todos.
+Vamos a ir cerrando.
+Así que.
+Uy, tenemos otra solicitud, ni modo, ya no hay tiempo.
+José, Adrián, muchas Gracias por venir.
+¿Algo adicional que nos quieran platicar, que necesitan?
+¿Que aquí invitarían a la banda?
+Y nos vemos el 22 de mayo, Bitcoin Pizza Day acá en Monterrey, patrocinado y apoyado por Bitcoin Network Monterrey y muchas otras comunidades.
+Ya verán pronto el flyer, se va a poner muy, muy divertido.
+
+[Speaker 2 - 01:14:30]
+Si se viene bueno el Pizza Day.
+Vamos a hacer el anuncio uno de estos días.
+Y si no, pues nada, los que estén en Monterrey, anímense, tomen iniciativa, vengan a los meetups, métanse al chat de Telegram que está en el link en el perfil de.
+De aquí de Twitter de Bitcoin Network Monterrey.
+Y pues nada, si quieren participar, participen, tomen iniciativa y también si están en otras partes de México, participen en la comunidad local o también pueden crear una desde cero como nosotros.
+
+[Speaker 1 - 01:15:05]
+¿Sí?
+Muchas gracias por tu tiempo, Mexica, la verdad, excelente.
+Y pues yo a los principiantes los invito a que estudien Bitcoin y a los intermedios a que corran su nodo de Bitcoin y que vengan a Pizza Day a platicar, conocernos y resolver cualquier duda.
+
+[Speaker 2 - 01:15:21]
+¿Sí?
+Muchas gracias.
+
+[Speaker 0 - 01:15:22]
+Mexicano.
+Nombre.
+Muchas gracias ustedes por traer a sus audiencias y platicar de esos temas.
+Educar a la banda creo que es súper importante en esta etapa en la que estamos.
+Colaboremos, sigamos colaborando.
+Como decíamos, hay que armar una semana blockchain en Monterrey increíble, donde tengamos un día exclusivo de Bitcoin, a lo mejor un día exclusivo para.
+Emprendimientos de mujeres, a lo mejor un día exclusivo para hacer un bildatón un poquito más menos técnico para que luego la banda que vaya al hackatón más técnico pueda tener un poquito más de historia y de experiencia y de conocimiento en algunos de estos sistemas y protocolos.
+Creo que hay mucho que hacer acá en Monterrey y en todas partes de México.
+Igual forma invitaría a la banda que formen sus comunidades por ahí.
+Ahora que estuve en Ciudad de México en el hackatón de 5 de mayo, vi gente que está haciendo comunidades en San Luis, que está haciendo comunidades en Tijuana, que está haciendo comunidades en Mexicali, en Bajío está creciendo muchísimo el ecosistema se refleja también en los protocolos que están volteando a ver el mercado latino, el mercado mexicano en específico.
+Vienen activaciones súper potentes en Ciudad de México y en Monterrey estos siguientes meses.
+Este mes todavía faltan varias activaciones en Ciudad de México.
+Sigue pendiente o sigue, perdón, programado y haciendo mucho ruido Ledger Leaders Week que va a ser del 19 al 22.
+Por ahí hay Pizza Day en muchas ciudades de México.
+Si mal no recuerdo ya son como seis o siete u ocho.
+Entonces ahí es el momento perfecto, creo yo.
+Acérquense, vayan a alguna de estas fiestas, platiquen con los Bitcoin Maxis que vamos a estar por ahí.
+En cualquier parte del mundo.
+A lo mejor yo soy Nueva York, a lo mejor Monterrey, todavía no sé, pero definitivamente creo que falta mucho más contenido sobre estos temas, más contenido sobre la operación de los sistemas, de los nodos, de los mineros.
+Ahí lo me voy a traer a Karen, que por cierto tengo pendiente al buen RAI para que nos hablen de lo que están haciendo con wallets físicas, talleres para armar tu propia wallet para que compres mineros así caseros y a lo mejor en algún momento pueda llegar a minar un bloque y ganarte esos 3 bitcoins que ahorita están de recompensa y quién sabe si en el futuro o si alcancen a minar esos tres o ya les toque el halving.
+Pero bueno, es un volado, está muy chido.
+Creo que ayuda a que se descentralice la situación ahí.
+Luego les traemos un panel completo de minería casera o de minería más profesional.
+Yo en algún momento lo hice miné ET, terminé Bitcoin y fue todo un aprendizaje increíble.
+Le perdí mucha lana mirando Ether porque le calculé mal cuando iban a hacer el cambio.
+Yo creí que se van a tardar más y no se tardaron tanto.
+Entonces ya no le saqué retorno de inversión a las máquinas y ahorita afortunadamente tienen demanda porque se está requiriendo para inteligencia artificial, entonces ahí las estamos vendiendo.
+Pero bueno, mucho detalle que luego podemos platicar de nuevo.
+Adrián, José, Adrián y José no es un grupo norteño, son Bitcoin Maxis que están creando Bitcoin Network Monterrey y haciendo comunidad y eventos mensuales y la neta, qué chingón.
+Avisos la próxima semana les estaré informando los invitados.
+Yo creo que mañana o el sábado más tardar vamos a tener espacio el martes y el jueves y.
+No hay eventos más que el 22.
+Sí, creo que el siguiente evento, Carmen Torres el 22 de mayo, Bitcoin Pizza Day va a ser en La Curaduría, una pizzería por acá en Santa Catarina, cerca de la montaña.
+La verdad está muy, muy padre.
+Hemos hecho muchos eventos ahí y los invitamos a todos.
+Están en Monterrey o en cualquier otra parte del mundo.
+Va a haber muchos eventos en todas las partes del mundo.
+Con esto por aquí hacia abajo, hace ratito, Vía Caro, ahí está organizando un evento en Puerto Rico.
+Sé que se está organizando en Veracruz, Guadalajara, Ciudad de México, entiendo que también Mérida.
+Al rato les paso el listado completo de todas las ciudades que están organizando eventos de Bitcoin Pizza Day con Pizza Dow.
+Disclaimer, yo soy parte de Pizza Dow.
+Estoy, estoy, estoy ahí metido en ese tema.
+Ellos van a empezar a comprar bienes raíces con toda la lana que están recibiendo de patrocinios.
+Patrocinios y de la gente que está comprando las cajas de pizza para entrar a la DAO.
+Esa DAO fondea estos eventos, reparte 650 dólares a cada ciudad y aparte cada ciudad puede conseguir sponsors adicionales para participar en estos Bitcoin Pizza Days.
+Ya es el quinto que organiza la DAO.
+Y la neta, creo que es una de las DAOs más exitosas junto con la Enounce.
+Esas dos yo creo que son de las que más éxito han tenido.
+Que bueno, es debatible porque las daos todavía creo que les falta mucha experimentación.
+Pero bueno, me callo.
+Ahora sí me voy.
+Muchísimas gracias, Adrián, José.
+Me encantó tenerlos por acá.
+Muchas felicidades por Bitcoin Network Monterrey y la comunidad y todo el esfuerzo que eso va a tener, que le van a tener que dedicar para que eso funcione.
+Obviamente los voy a ayudar en lo que pueda, pero, híjole, eso de hacer eventos todas las semanas lo experimenté dos años.
+Es una chinga.
+Bienvenidos y felicidades.
+
+[Speaker 2 - 01:20:29]
+Si no, muchas gracias por invitarnos, Mexi.
+Nos vemos.
+Gracias.
+Buen día a todos y gracias a todos por escuchar.
+
+[Speaker 0 - 01:20:36]
+Les dejo con Minds Abyss, el primer sencillo de banda web.
+Viene un disco muy, muy interesante.
+Yo creo que va a ser un disco completo, conceptual, con una historia a lo largo de todas las canciones.
+Ya lo estoy maquinando, pero bueno, ahí les paso luego la información más detallada.
+Es el primer sencillo, la última parte lo pueden ir a ver completo.
+La canción a mi cuenta de Instagram, por ahí les estaré posteando el link más adelante lo dejo.
+Hasta luego, muchas gracias, nos vemos la próxima seman.

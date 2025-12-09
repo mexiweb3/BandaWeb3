@@ -1,0 +1,441 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #N/A
+Título: BandaWeb3 #056 @RoyalBunker dApp
+Fecha: 2025-05-13
+Host: BandaWeb3
+Tipo: hosted
+
+Descripción:
+BandaWeb3 #056 @RoyalBunker dApp. @meximalist estará platicando de su nueva iniciativa y estará onbordeando a la banda a nuestra nueva dApp. Les platicará de @thirdweb y el cookathon de @0xMantleLatAm @0xMantleDevs.
+
+Duración: 01:14:04
+Escuchas: 25
+
+Links:
+  Space: https://x.com/i/spaces/1zqJVjAkLdAJB
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+[Speaker 0 - 00:00:00]
+Qué manda buenos días, buenas tardes, buenas noches, dependiendo de dónde se estén conectando a esta grabación.
+El otro espacio me lo tumbó aquí la aplicación, no sé por qué.
+Así que vamos a arrancar este.
+Me voy a echar un rant y voy a onboardear a la banda para utilizar el DAP Royal Bunker.
+Ayer lo terminé el domingo, lo arranqué ayer lunes.
+Hoy estuvimos por ahí resolviendo algunos temas técnicos porque nos acabamos todos los.
+Los requests que tenía para el RPC para poder hacer actividades.
+Hay ciertas aplicaciones que te cobran por uso.
+Nos pasamos por mucho.
+Gracias a todos por ayudar.
+Pero bueno, ahorita les voy a platicar.
+Ahorita pineo aquí el espacio de la sala, lo voy a recitar, me meto con mi cuenta.
+Gracias a todos los que están escuchando esa grabación.
+Esto es Mind the Beast, una canción hecha con inteligencia artificial.
+Empezamos en breve.
+Ya estoy mandando las invitaciones que normalmente mando.
+¿Quién ve por ahí el buen Madrid?
+¿Qué onda Madrid?
+¿Cómo andas?
+También veo a Domínguez, Eduardo Domínguez, bienvenido.
+¿Cómo andas?
+Oigan, pues muchas gracias.
+Aunque el día de hoy me rogué el espacio anterior y el link que había prometido y que había difundido, perdón, no está funcionando.
+Este es el nuevo.
+Entonces si me ayudan con un like, con un comentario y con un repost, va a ayudar a que lleguemos más personas.
+El otro lamentablemente me lo rodeó, pero bueno, el día de hoy les voy a platicar un poquito de lo que he estado construyendo.
+He estado muy, muy activo en uno que otro hackatón por ahí he visto oportunidades muy buenas.
+Les voy a platicar de un par que estoy ahorita identificando.
+Una que, híjole, ya está quemarropa, pero ando viendo cómo lo he hecho volar, es el de Solana Coliseum, también por ahí está disponible todavía.
+Bueno, este mes creo que ya no se pueden inscribir, este mes para el hackatón de Mantle ya no se pueden inscribir, pero ahorita les platico.
+La verdad están haciendo cosas muy chidas ellos, los conozco físicamente, los conozco IRL, hemos organizado ya un par de eventos que han patrocinado, de los que yo estoy armando, se vinieron a vivir a México, están haciendo cosas muy chingonas y ese hackatón está muy chido, la neta.
+Están repartiendo 15 mil dólares al mes para la gente que entre y que cumpla, Son tres fases del proyecto.
+Aquí les voy a poner toda la información mientras invito a la banda aquí a los grupos de WhatsApp, Ya estoy también.
+Arreglando la aplicación porque ayer voy a platicar un poquito del Royal Bunker y la aplicación por ahí que solté, la neta ayer la tronaron, ayer me ayudaron entre todos con el mucho o poco ruido que le hice, nos acabamos.
+Las llamadas que tengo al RPC con Third Web, estoy usando thirdweb también vamos a platicar un poquito de Third Web, que es una súper herramienta, que locura, la neta está muy chido.
+Voy a platicar de Third Web porque ahorita son patrocinadores el hackatón, mira ahí se va conectando Mantu Latam, vamos a ver si se quieren subir a platicar, el que quiera, la neta el día de hoy es Mike Open Mic, voy a invitar a todo mundo porque quiero onboardearlos, necesito que se inscriban, necesito que hagan su wallet social, les voy a dejar aquí el link.
+Ya está funcionando, ya le agregué saldito, se había acabado el saldito ayer se acabaron el saldo de los request que estaba haciendo.
+Voy a poner la pantalla, está muy loco, tengo un.
+Bueno, el plan gratuito es de 100 rps o request por segundo y en determinado.
+Sí, creo que es un request por segundo determinado momento, no mentira, el plan gratuito es de 10 rps y en algún momento llegamos a 120 rps, pasamos por mucho.
+El límite que teníamos permitido, entonces me bloqueó a varias, varias personas que quisieron hacer su cuenta, les estoy poniendo ya el link, estamos hablando de Royal Bunker.
+Vercel.
+App, royalbunker, Vercel App, ahí les puse ya el link.
+Acá abajo en los comentarios, ahorita lo opineo, pueden encontrar la aplicación que bycode.
+La idea del día de hoy es onboardear a toda la banda que pueda y que quiera y que le llame la atención participar.
+Vamos a ponerlo en el space, ahí está, ya lo opiné aquí arriba en el space, la página, el link, la foto.
+Ayer tronamos Stairweb, entonces tuve que pagar ya una membresía de 9 dólares al mes, eso me da 100 rps en lugar de los 10 request por segundo que tenía ayer y que rompimos determinado momento hasta 120 requests por segundo.
+Por ahí en la foto también pueden ver la cantidad de llamadas que hizo la banda.
+En total hicieron casi 3.000 llamadas, 2.945 llamadas.
+Por ahí estuve publicando los datos de la aplicación, por aquí se los va a opinar todo.
+La neta está bien loco lo que ya se puede hacer con herramientas de AI, con SDKs, que son paquetes ya preestablecidos.
+Les voy a poner el hilo también con toda la explicación.
+Es un MVP rápido, les voy a platicar.
+¿Bueno, qué es Royal Bunker?
+Royal Bunker es una comunidad de jugadores de torneo de Texas Holden.
+A mí me gusta mucho jugar Texas Holden.
+Todos los martes tenemos una reunión en casa de un camarada.
+Tenemos yo creo que ya más de 15 años juntándonos a jugar baraja los martes en las noches.
+Chihuahua sí se madre el otro.
+Pero eso nació a raíz de un grupo de amigos que Hace más de 10 años, en el 2007, empezamos a reunirnos.
+Cada semana nos juntábamos a jugar torneos y llegamos a tener torneos de treinta, cuarenta personas, donde cada una de estas personas metía diez dólares o doscientos pesos.
+En ese entonces jugábamos torneos de doscientos pesos y.
+Las cuarenta personas que entraban metían sus doscientos pesos.
+Un porcentaje de estos doscientos pesos se iba para los premios de esa semana.
+Si mal no recuerdo era como el 50% de todo lo que se juntaba durante esa semana.
+Eran reuniones presenciales.
+Teníamos mesas de pócar, profesionales, físicas, las hicimos para publicar las fotos.
+Luego yo hice con mis propias manos las mesas, yo corté la madera, las forramos de tela.
+La primera la hice yo solo.
+Ya las otras dos o tres que hicimos ya nos juntamos grupos grandes de banda, hacer carnitas asadas y posadas, y esas posadas y carnes asadas en un terreno grande que uno de los miembros tenía.
+Armamos ahí toda la maquinaria, nos pusimos a hacer ahí una cadena de construcción bien interesante.
+Tenemos por ahí almacenadas en bodegas tres o cuatro, no creo, cuatro o cinco mesas todavía.
+Una que otra la usamos para uno que otro torneo así casual.
+Y las mesas de la banda que está jugando los martes, pero bueno, las voy a revivir.
+Y la idea de todo esto es tener una activación presencial con actividad en cadena.
+Yo desde hace mucho tiempo he estado hablando mucho de construir en público.
+Gran parte de lo que ahorita estoy haciendo con esta aplicación es eso, ¿No?
+Es ir probando poco a poco estas nuevas herramientas que tenemos para hacer código y como les puse aquí en el hilo, en 24 horas pude hacer un DAP, la verdad es un DAP muy sencillo, estuve usando, aquí les voy a leer un poquito de lo que usé, pero me inspiró la banda de Mantle, por ahí veo a Mantle Latam, me inspiró la banda de Mantle con el Cucatón, la neta la gente que lo está organizando son súper súper cracks K, la que está haciendo los workshops y la que está coordinando todo el tema es súper a toda madre, español, habla inglés, habla no sé cuántos idiomas, vino acá a Monterrey cuando hicimos un meetup, fuimos a la Presa, los diré a surfear.
+Organizamos por acá una comida con Builders, la neta conectaron muy bien con la comunidad de Monterrey cuando hicimos el meet up por ahí en inicios de marzo si mal no recuerdo, la carnita asada que hicimos ahora.
+El final del hackatón de ID 5-5, también la patrocinó la gran mayoría Mantles, si no es que 80%, la neta están construyendo cosas muy buenas acá en México, están haciendo relaciones bien interesantes y este tipo de cookathons o hackathones mensuales donde van a estar repartiendo 15 mil dólares, están súper chidos.
+En el grupo del Cucazone entraron 69 personas en el primer mes, yo me imagino que van a ser, no sé, diez equipos menos, la verdad el primer mes se inscribieron pocas aplicaciones.
+De esos 15 mil dólares los van a repartir entre los primeros tres lugares, 10 mil, creo que son 5 mil, 3 mil y 2 mil para los primeros tres lugares y los siguientes 5 mil se van a repartir entre todos los que pasen a la fase 3.
+Para pasar a la fase 3 tienes que usar Nebula, Nebula es la aplicación de inteligencia artificial que tiene Third Web.
+Todo lo que hice, todo el DAP lo hice con Terweb, SDK de Terweb utilicé, ahorita les digo que utilicé, pero pude hacer contratos, tienen un dashboard para crear contratos, hacer tokens, muy sencillo, tienen un dashboard para hacer membresías, la verdad tienen muchas aplicaciones que sin código puedes generar ya contratos, tokens verificados con todos los estándares ERC de ve tú a saber dónde, etcétera.
+Ahí viene todo el código y lo pueden ir a verificar.
+Tienen también una alternativa para manejo de wallets.
+Entonces todas las wallets que ahorita se han creado, que alrededor, para la aplicación del Royal Bunker, han sido alrededor de unas cuarenta y ocho, cuarenta y casi cincuenta ya tengo yo el control, el registro de las wallets, qué wallets están registradas, a qué correo, y como pedían usar Nebula, pues lo empecé a utilizar, la verdad, para hacerla la aplicación estuvo muy padre, creas tu cuenta, te genera un ID, ese ID tú lo tienes que poner por ahí en el código de una manera segura para que nadie lo vea, lo subes a Gitcoin, todo eso yo creo que luego lo puedo hacer en un tutorial o en un artículo, yo creo que puede ser un artículo, pero la neta no fue tan complicado.
+Yo sí tengo un background técnico interesante, no lo puedo negar, yo sí hacía mucho código cuando estuve estudiando, y cuando me gradué, llegué a programar bases de datos, llegué a programar sistemas para la administración de placas, por ahí.
+Estuve 10 años trabajando en una empresa que tenía un departamento de investigaciones bastante fuerte, y obteníamos bases de datos de esas de las que venden por ahí, no lo puedo negar, tenemos acceso a licencias de manejo.
+Todo lo que era las credenciales de lector, bases de datos de ve tú a saber dónde para hacer investigaciones, y toda esa información eran millones y millones de registros a veces que había que verificar.
+Entonces.
+Yo me dedicaba en una parte de mi trabajo, porque duré en esa empresa como 10, 11 años, a manejar toda esa información.
+Entonces programaba, creo que era SQL, y programé mucho en Excel, programé C.
+Como soy electrónico, todo lo que es programación, te enseñan desde las tripas, que si los 1, y básicamente son compuertas on, nor, and si, ifs, no sé cómo explicarlo, pero las tripas de los transistores son los que hacen que todo esto funcione.
+Todo eso lo entendíamos el lenguaje, para hablarle con el lenguaje más básico a ese tipo de dispositivos que hacían luego decisiones.
+Fue algo que estudié, ya ni me acuerdo.
+Pero ahora que lo retomé el domingo para el Cucatón y también para el hackatón de Solana, he visto que muchas compañías se están fijando mucho en eso para apoyar luego proyectos.
+Entonces yo había hablado mucho de construir en público, y había hablado mucho de.
+De que necesitábamos herramientas para los eventos presenciales, creo que los eventos presenciales son los que ahorita están haciendo un chorro de.
+Y están teniendo un chorro de impacto, pero bueno, no es cierto, creo que se ha mejorado mucho.
+Pero cuando empezamos a hacer reuniones y eventos, la banda en realidad no utilizaba, no estaba utilizando la blockchain.
+Sí dábamos poaps, sí se daban poaps y luego utilizamos un log para las invitaciones.
+Sí está padre eso, pero no sé, yo siento y sentía que falta, siento todavía que falta mucho de que la gente aprenda en estos eventos presenciales a utilizar la blockchain, no nada más para emitir un poap, no nada más para llevarse una insignia de asistencia, sino para fomentar economías.
+Uno de los eventos hace poquito, uno de los events, perdón, allá en it 5 de mayo, lo organizó la banda de Celo México.
+Ellos si tuvieron una activación súper interesante, donde para poder recibir la bebida gratis tenías que bajar una wallet específica, tenías que hacer un proceso donde ellos te daban un toque, te transferían manualmente, pero la neta todavía no me gustó la experiencia de usuario, o sea, por más que te obligaban a hacerlo y si, muchos lo hicimos para poder tener la bebida gratuita, no era, no fue, ni creo que es la experiencia más sencilla en ese momento.
+Entonces, con todas estas aplicaciones nuevas, que si privy, que si ThirdWeb.
+Código y Programas ya predefinidos, donde tú seleccionas dos, tres cositas y tienes ya un administrador de wallets con entrada social como correo, como X, como Instagram, como Facebook, como GitHub.
+Está muy loco, yo creí que era muy, muy complicado, que iba a ser, que me la iba a pelar para hacer la aplicación que yo quería, que es la que por ahí está disponible, que pueden probar y ahorita le explico qué hace.
+Y si, me encantaría que se metan, si no han creado su cuenta, aquí estaría pineada royalbunker, Vercel App en este momento todos los que hagan su cuenta.
+Lo ideal es que lo hagan con social, si lo hacen con una cartera externa, sí me aparece que son usuarios nuevos, pero no puedo ver el wallet, no sé por qué, tengo que revisar eso.
+Entonces, si crean una cuenta social, ya sea con Gmail o con email o con GitHub o con cualquiera de las otras opciones que aparece por ahí, creo que también lo pueden hacer con.
+De estos nuevos tokens.
+¿Cómo se llama?
+Ahorita, les digo.
+Ah se me fue el nombre pero miren aquí estoy entrando, se pueden conectar con Paskey, pueden usar Paskey que ya es la cara o la huella digital o un administrador de passwords, etcétera, ya los celulares traen esa funcionalidad y en dos patadas ya tienes un wallet, en dos patadas ya eres cliente, ya eres usuario de la Royal Bunker Dapp en 3 segundos yo ya sé que creaste tu cuenta nueva y ahorita lo que estoy haciendo, lo quería automatizar, todavía me falta, pero al menos para esta primera fase del hackathon lo que va a hacer la aplicación es lo que ven, un administrador de password social con cuenta creada automáticamente en la red de Mantol cada que ustedes entren con su correo van a entrar a esa cuenta, pueden exportar la llave privada de la cuenta por si quieren luego manejarla en algún otro wallet, eso está chido, yo no tengo acceso a ese dinero, son cuentas no custodiales, o sea yo no custodio las llaves, yo no custodio el dinero, ustedes lo custodian, ustedes pueden ir a reclamar su llave privada si así lo desean, ponerla en cualquier otro wallet y trabajar desde allá pero la neta para la funcionalidad que yo le estoy viendo, estas aplicaciones para eventos presenciales.
+La neta no se necesita entonces si van royalbunker, Vercel App van a encontrar el app viene ahí que es un desarrollo de banda web, esa es una de las primeras aplicaciones, puta con esas herramientas, con el tiempo que tengo yo para dedicarle a esto y todas las ideas que traigo creo que puedo empezar a sacar muchas aplicaciones muy rápido pero me estoy dando cuenta que todo esto cuesta, está muy cabrón, es una lana, ayer nada más de las 46 personas que se registraron nos acabamos los request que tenía, los 3000 requests que hicieron ayer.
+Empezaron a bloquear ya request nuevos, entonces la gente quiso crear cuentas en la mañana, no pudo, ¿Por qué?
+Porque mi plan estaba limitado total ya pagué los 9 dólares del plan, ahorita lo subí a un 10x muy probablemente, no sé, tengo que ver si publico, yo creo que voy a publicar una invitación después de unas pruebas hoy, a lo mejor en la tarde o mañana para Instagram, para la comunidad web 2 Degenerados de póker porque aquí hay una comunidad enorme de generados que les gusta.
+Degenerados pero jugadores profesionales es un deporte mental.
+Póker es un deporte mental, la neta.
+Los torneos son un deporte mental, La neta.
+Sí.
+Ya si te metes una mesa abierta y metes dinero y puedes meter dinero y dinero y dinero, ahí sí se puede ir mucho, mucho a la basura o puedes llegar a perder muchísimo dinero.
+Pero en un torneo no.
+Porque en un torneo lo que haces es, tú metes una cantidad fija, ¿No?
+Ponle, supongamos, la entrada al torneo son $30.
+Te dan cierto lote de fichas.
+Tú te sientas y los torneos duran horas.
+Nosotros llegamos a jugar torneos de días.
+Yo llegué a jugar torneos en Las Vegas que duraban hasta seis días.
+Nunca llegué a jugar más del día tres.
+Si mal recuerdo.
+El torneo que llegue más lejos creo que duró como siete días.
+Y yo llegué hasta el día número tres, uno de la Serie Mundial, de esos que televisaban allá en Las Vegas.
+Pero hijo, le estoy brincando.
+Pero sí, finalmente hay mucha comunidad aquí en Monterrey que sabe que yo organizo buenos torneos.
+¿Por qué?
+Porque tengo mucha historia organizándolos y la única manera que van a poder acceder a estos torneos va a ser a través de estos tokens.
+Estoy obligando a la gente a tener una experiencia presencial que ellos ya saben que es buena.
+Porque ya muchos de los que estoy invitando son de esos cuarenta, cincuenta que venían semana a semana.
+Ya saben cómo son los torneos, ya saben cómo son las mesas, ya saben cómo es la dinámica, ya saben las reglas también del juego.
+Yo creo que en esa época llegamos a juntarnos a lo largo de dos años, yo creo que unas 50, 60 veces fácil.
+No, mentira.
+Yo creo que más por ahí tengo las tablas.
+De todas las temporadas que hicimos.
+Porque hacíamos temporadas de 20 torneos y dependiendo de la posición en la que terminabas en el torneo, hay gente que quedaba en último lugar.
+Porque entra la gente al torneo, se sientan las 20 personas y empiezan a jugar, pum, pum, pum, PUM, PUM.
+El lote de fichas que tú tienes es fijo, ya no te dan más en algunos torneos.
+En otros torneos te pueden llegar a dar unas fichas.
+En el caso de este torneo te van a dar un lote.
+Si te acabas ese lote, pum, sales del torneo, ya no estás participando.
+El dinero que tú utilizaste para entrar al torneo ya lo perdiste, ya no puedes jugar ese torneo y adiós, sales.
+Entonces hay una posición, hay gente, supongamos que son 20 personas, el primero que va saliendo queda en el lugar 20, y así sucesivamente.
+El último, el que se queda con todas las fichas hasta el final, es el campeón del torneo.
+Pero hay primero, segundo, tercer lugar, hasta el veinteavo.
+¿Qué es lo que hacíamos en estas temporadas?
+Asignábamos puntos.
+El primer lugar llevaba la mayor cantidad de puntos, el segundo menos, y así sucesivamente.
+Todas esas reglas estaban ya predefinidas previamente para que la gente supiera que torneo a torneo iba a haber una tabla general.
+Torneo a torneo llevábamos dos, tres torneos, cuatro torneos.
+Había una tabla general donde íbamos sumando todos los puntos que iba juntando la banda.
+Y al final, después de jugar los 20 torneos, la tabla general, dependiendo de los puntos que habías generado, te decía quién era el campeón de la temporada.
+Y algunas temporadas.
+Si no es que en todas, sí, en todas las temporadas que jugamos, que si mal no recuerdo fueron como 10 temporadas, llegamos a mandar a una o dos personas a jugar a Las Vegas torneos de mil, torneos de mil quinientos dólares.
+Y la neta, estaba bien divertido porque tú te esforzabas mucho en jugar toda la temporada, en ir a la gran mayoría de los torneos.
+Porque si no ibas, eso también era otra regla, si no ibas a más de 15 torneos en la temporada, no tenías posibilidad de.
+Llevar porcentaje.
+Porque ¿Qué es lo que hacíamos?
+Cada quien pagaba 200 pesos, 50 pesos, se iban a la bolsa de premios de final de temporada.
+150 pesos se quedaban para los premios de ese día.
+Y el campeón de ese día se llevaba su premio.
+Creo que eran como 3 mil pesos, ¿No?
+Hacías como un 10x.
+El campeón de ese día se llevaba un 10x.
+El segundo lugar se llevaba como un 5x.
+El tercer lugar se llevaba comom un 2x.
+Creo que premiamos 3 o 4 personas, no eran muchos premios.
+Ellos se llevaban los 20 pelados por 150 personas.
+Se dividían entre esos 3.
+Y los 50 por 20 se iban a la bolsa general.
+Y esa bolsa general era la que utilizábamos para pagar el vuelo, pagar la estancia, pagar la entrada del torneo.
+Y la gente que jugaba esos torneos de 1000 y 1500 dólares.
+Si llegara a ganar, que varios llegaron a ganar y entrar a los premios.
+Normalmente en estos torneos cobran el 10 % de los jugadores.
+Si en un torneo de estos en Las Vegas se meten mil personas, al menos 100 personas se van a llevar el doble de lo que le metieron y de ahí para arriba hay torneos en los que haces 100x, hay torneos en los que haces 200x tu entrada, hay torneos donde haces 1000x tu entrada, hay tornos de 10 mil dólares que la gente ha ganado 7 millones de dólares.
+Ese es el más grande, el Main Event, donde se meten a jugar 8 mil personas, 6 mil personas, 6 mil por 10 mil.
+Imagínense la cantidad de dinero.
+Entonces el primer lugar se llega a llevar, se ha llegado a llevar más de 10 millones de dólares.
+La neta son torneos donde se junta una buena lana.
+Los torneos que nosotros jugábamos o los que llegábamos a mandar a la gente a jugar eran de mil, mil quinientos y el primer lugar eran seiscientos mil, quinientos, mil, cuatrocientos mil más o menos después de seis días de juego.
+Entonces estos ganadores de temporada iban a Las Vegas todo pagado, jugaban el torneo y si ganaban algo de premios se dividía entre todos los que habían jugado más de 15 torneos en esa temporada.
+Estaba muy chido porque hacíamos una economía circular ahí bien interesante donde una todos iban a jugar el torneo diario de esa temporada, supongamos temporada 1, torneo 1 jugábamos, el ganador se llevaba su lana, todos los que participaron en ese torneo aportaban para el la bolsa principal donde iban todos los jugadores a ganar ese viaje a Las Vegas y aparte apoyabas al güey que iba a ganar Las Vegas y te convenía que le fuera bien porque si al güey que iba a ganar Las Vegas ganaba, te llevabas un porcentaje de esa ganancia.
+Entonces estaba muy chido, Hicimos ahí una dinámica muy interesante donde, como les decía, Llegamos a jugar 10 temporadas, llegamos a jugar más de fácilmente 100 torneos locales.
+Algunos los hacíamos en casas de amigos, otros llegamos a hacer en casas donde yo vivía en ese entonces.
+Mis papás nos llegaron a prestar su casa para hacer uno que otro torneo teníamos.
+Llegamos a tener un sótano totalmente para nosotros en la oficina de unos amigos donde hacíamos torneos.
+Entonces tengo una comunidad grande, bueno no tengo, pero soy parte de una comunidad grande de jugadores de torneos que sigue habiendo torneos interesantes aquí en México y veo un boom regresar interesante de la gente que está jugando póker, la verdad.
+Veo plataformas que están empezando a meterle mucha lana a publicidad también veo influencers de la talla de y regios influencers de aquí locales.
+Está el Roberto Martínez que hace creativo y que tiene un podcast muy bueno, está Maurice.
+Diek que también por ahí creo que juega el otro loco este Adrián Marcelo también es jugador de torneos y de cash, veo un boom interesante en Monterrey con el tema de los jugadores de torneos de Texas Hall de media baraja y la neta está muy muy muy padre porque hay un chorro de matemática en contar cartas, en saber qué es probablemente viene dependiendo de lo que tú tienes y de lo que crees que tiene el otro, hay un tema de psicología súper padre, hay un tema de administración de riesgo también muy muy interesante porque tienes decisiones donde a veces son 50 50 y dependiendo de la fase en el torneo que estés jugando a veces te conviene hacer ese flip y a veces no o son decisiones de 80 20 pero a lo mejor en fases muy tempranas no quieres tener el 80 20 porque existe la posibilidad de que salgas y sal en ese momento a lo mejor no conviene.
+Entonces hay mucho tema de estrategia, hay mucho tema psicológico, hay mucho tema de administración de bankroll porque creo que es muy similar lo que hacemos normalmente acá.
+La gente que shitcoin, que hace mucho trading y que invierte en este tipo de activos riesgosos, tienes que dimensionar el tamaño de la inversión, tienes que tener un plan de entrada, un plan de salida.
+En el tema de los torneos es igual porque hay n torneos y dependiendo de la gente que esté inscrita en los torneos es la dificultad que puede haber, el costo, el tiempo en lo que dura, cuántas fichas te dan, Si te dan 3.000 fichas es muy diferente que si te dan 5.000.
+¿Lo que pasa en estos torneos es que como te dan una cantidad fija de fichas.
+Las apuestas ciegas van subiendo siempre cada que hay una mano nueva hay dos apuestas ciegas, una chica y una grande, esos güeyes sí o sí después del dealer, el dealer es un botoncito blanco que marca dónde empieza la mano, después del dealer está la ciega chica o la ciega grande, small blind y big blind como le llaman en inglés, ellos son apuestas obligatorias y ese monto de apuestas va subiendo determinado tiempo, se llaman blinds y se llama niveles, Los niveles de las apuestas van subiendo, para qué?
+Para que la gente se vaya saliendo, para que poco a poco fomente que la gente apueste sus fichas o las meta adentro.
+Del pozo por así decirlo, para ganar las de los demás y vaya más acción para que vaya saliendo la gente.
+Estos blinds o estos tiempos en los que suben la cantidad de fichas que tienes que apostar ciegamente, también afectan mucho.
+Si son blinds o niveles muy largos, el torneo puede llegar a durar días.
+Si son niveles de blinds muy cortos, puede llegar a durar horas.
+¿Y hay torneos que tú quieres que dure 4 horas, por qué?
+Porque nomás tienes un día para poderlo ejecutar.
+Entonces tienes que ajustar la cantidad de fichas que les das, tienes que ajustar la cantidad de tiempo que tiene cada nivel de apuesta ciega, etcétera, etcétera, etcétera.
+Hay mucho que definir.
+Todo eso es algo que cuando estuvimos haciendo estos eventos en el 2007, es más, voy a poner aquí el reportaje, está bien padre.
+Es un reportaje que sacamos que patrocinó Poker Stars, en ese entonces era la plataforma más grande, lo pagaron ellos en la revista ESPN cuando estaba peleando.
+Aquí está, miren, estaba peleando Juan Manuel Márquez y Manny Pacquiao.
+Está muy chido, la neta.
+Poker Star se aventó una sección de 1 2 3 4 5 6 7 8 9 10 11 2 3 14 15 16 7 18 9 20 29.
+Como 20, como casi 30 páginas, no más, como treinta y tantas.
+Y en una de esas páginas está el reportaje de el modelo Royal Bunker, que es el cómo nosotros crecimos esa comunidad, cómo llegamos a hacer esos torneos, cómo llegamos a mandar a gente a Las Vegas.
+Vienen fechas, está bien padre, la neta.
+¿Y qué es lo que está sucediendo?
+Yo con el boom y con la necesidad de probar cosas nuevas en este ecosistema, obligar a la gente a vivir una experiencia de un torneo de este tipo organizado por un servidor, con la reputación que tengo organizando torneos y con la comunidad de jugadores de baraja, creo que es una buena opción.
+Hace unos meses hicimos una prueba cuando teníamos el local ahí de MX Web, tuvimos un torneo, hicimos una dinámica de igual con tokens, pero estuvo muy mal.
+Usamos wallets rainbow, usamos tokens normales para hacer la transmisión y recepción de los tokens.
+Fue un pedo, para que la gente supiera dónde mandarlos a la bóveda multifirma.
+Fue un pedo, la neta.
+No me gustó la experiencia.
+Sí tokenizamos los lotes hace meses, que hicimos el evento allá en MX, pero no estuvo chido.
+Creo que ahora con esta aplicación que estoy haciendo nueva, creo que es mucho más sencillo.
+Creo que la siguiente prueba que hagamos para el siguiente torneo va a ser mucho más fácil.
+Entonces chequen por ahí si están conectados.
+Aquí ya está pineado arriba royalbunker Vercel App y les explico rápido.
+Tengo.
+Ah, bueno, Todavía me quedan 13 minutos.
+¿Cómo funciona el app?
+La idea y viene más o menos explicado y ya me estoy dando cuenta que me hace falta muchísimo mejorar mi storytelling porque yo creo que estoy explicando las cosas y no me explico del todo bien como quisiera, pero si van al tweet pineado de banda web van a poder ver el hilo.
+La idea de esta aplicación es, ahorita lo que estoy probando es solo que funcione, ¿No?
+Uy, no se ve.
+Pineado, déjamelo Pineo Carrera.
+Primero que funcione, ¿Qué es lo que va a pasar?
+Si tú quieres entrar al torneo, tienes que pagar una cuota, luego se automatizará.
+Yo creo que al rato voy a meter la posibilidad de pagar cripto y con tarjeta de crédito.
+Falta agregarlo a la aplicación, pero por lo pronto, si tú quieres jugar el torneo, tienes que mandarme efectivo, darme el efectivo a mí físicamente y yo te mando tus tokens, tienes que hacer una transacción a mi cuenta en Mantle y ya yo verifico y agrego tus tokens, etcétera.
+No te tienes que inscribir conmigo, conmigo pagas, yo te mando tus tres tokens.
+Ahorita son gratuitos, estoy regalando a los primeros 100.
+Si son 333 tokens nada más, las primeras 100 personas que se inscriban con login social les voy a mandar un MNT que son como 70 centavos de dólar, entonces unos 18 pesos y tres tokens RB.
+Esos tokens RB al recibirlos en su cartera les debe aparecer automáticamente el saldo.
+Cuando ustedes crean una cuenta o un wallet con su correo, automáticamente les va a generar una wallet que yo ya sé, yo ya identifico cuál es tu wallet porque la tengo amarrada a tu correo, no tengo la clave privada de nuevo, esos son wallets custodiales, o sea, tú controlas esa wallet, yo no tengo el control, pero lo que estoy haciendo es, te estoy regalando gas, te estoy regalando MNT, estamos usando mantle, entonces le estoy regalando un mantle, un mnt que les alcanza para hacer como mil transacciones.
+Entonces yo a la banda le mando el gas, le mando los tokens, la banda ya tiene gas para hacer transacciones, ya tiene los tokens que necesita para entrar al torneo, en este caso es una prueba, entonces esos tres tokens que recibes tú tienes dos opciones, o te los quedas o le picas el botón y los mandas a Nouns MX.
+Tu decisión tendrá consecuencias, no te puedo recomendar qué hacer, quédatelos o envíalos, no sé, las reglas del juego ya están definidas, les avisaré qué pasará, yo creo que en un par de semanas, ya que me pida subir de nivel, porque ahorita tengo 100 transacciones por segundo, si nos acabamos esas 100 transacciones por segurundo en las siguientes semanas voy a tener que pagar como 80 dólares al mes, entonces ya me va a doler un poquito más.
+Nos sale barato hacer estas aplicaciones y más interweb, dependiendo del número de requests que están haciendo tus usuarios es la cantidad de dinero que tienen que pagar.
+Está bien interesante, la neta, qué chido el hackathon, que chido que nos obliguen a usar estas herramientas, porque si no las usas y no pruebas estas aplicaciones no te das cuenta de las limitaciones que tienen y cómo estimar luego proyectos un poquito más grandes.
+Entonces ahí estamos construyendo un pólico.
+Perdón, pero bueno, ¿Dónde me quedé?
+¿Ah sí, con tu wallet social, con tu correo, perdón, o con tu login social creas un usuario en el Royal Bunker dapp, cuando creas tu usuario yo tengo que hacer manualmente el airdrop y qué estoy haciendo para hacer estos airdrops?
+No mames, la aplicación que estoy usando, neta, neta, neta, neta, métanse a Nebula, aquí se los voy a opinar, creo que lo posté ayer, no mamen, métanse a Nebula thirdweb.
+Com, creo que es conect el wallet que quieras, puedes conectar un wallet, metamask o un rainbow, el wallet que tú quieras, lo conectas y haces transacciones diciéndole las cosas, por ejemplo los airdrops que hice, todo eso está en Mexi, está en el.
+Uy no quiero space.
+Si está en Mexi Den II.
+Sí, aquí está.
+Entonces entran a Nebula ThirdWeb.
+¿Com estoy casi seguro que es com, conectan su wallet, escogen la red que quieran utilizar, sí, ahí les puse unos videos, ahí está Nebula, Cerweb, comenzamos, ahí está Pineal Space, y les puse también unos videos de cómo estoy utilizando Nebula para hacer los airdrops, entonces esos 40 usuarios, thirdweb me da una tabla, me dice este correo tiene tal wallet, con ese correo, con esa wallet yo agarro todas las wallets, le digo a Nebula, oye Nebula quiero mandar tres tokens de este contrato a todas estas wallets, Nebul hace ahí su proceso, se pone a pensar y me dice, ah quieres hacer todas estas transacciones?
+¿Pum pum pum pum pum, ahí mismo en la pantalla te pone las transacciones.
+Mandas tanto a tal dirección, tanto a tal dirección, tanto a tal dirección, qué es lo que yo hice?
+Les mandé un MNT, les mandé tres RBs.
+Le dije a Nebula que hiciera el airdrop, le di la dirección, me da las transacciones, ahí lo pueden ver, confirmo cada transacción, la firmo y en chinga, no mames, una locura neta para devs que están operando cosas, si, todavía es medio manual, estoy viendo cómo funciona la API porque lo tengo que integrar a la Royal Bunker, da para poder entrar a la fase 3, recuerden que les dije del cucato que tenías que entrar a la fase 3 para ganar esos entrar a la bolsa de 5 mil dólares mensuales, entonces para poder entrar a la fase 3 necesito integrar Nebula con el API, ando viendo cómo chidos le hago, tengo hasta el 15 de mayo para hacerlo creo, pero ha estado muy buen rato, si no pues a ver cómo lo vendo, diciendo que hice promoción y que lo usé para hacer mis airdrops, pero la neta está bien chido, pueden utilizar, creo que tienen 500 wallets, no sé cuántas blockchains, Testnet, Mainnet, pruébenlo, neta, métanse en Ébula, métanse a Testnet en Arbitrum o en Sepolia Mantul o en Sepolio normal o en el que quieran, consigan algo de tokens Testnet y hagan transacciones, no mames lo fácil, no mames lo chingón para ver, en lugar de ir a buscar el blockchain explorer.
+En lugar de ir a buscar el blockchain explorer, decirle a Nebula, oye Nébula ayúdame a ver cuántos tokens he enviado, a cuáles direcciones, quién me falta hacer el airdrop, no mames, toda esa información va y revisa la blockchain, tiene todas las blockchains posibles, te genera las transacciones, puedes hacer los airdrops, te da información de a quién le has dado, qué cuánto falta de darle a quién, si es que tú le das una ciertas características, te dice que si te ayuda a hacer un script para hacer esto automático, te dice que si te ayuda a hacer el app para hacer la conexión más fácil, neta está muy loco, no había visto una aplicación tan chingona como Nebula de Third Web para utilizar transacciones, para regalar tokens, para hacer airdrops, para.
+¿No sé, me falta probar defi, me falta probar un chorro de cosas, pero bueno, ahí va, poco a poco por ahí les seguiré subiendo información sobre lo que está sucediendo.
+Y es más, ahorita que los tengo aquí, vamos a ver quién ya hizo su cuenta, quién no tenía cuenta, voy a entrar al dashboard también si van a ver mi cuenta, estuve publicando toda la información que te da Third Web, está muy completa, cantidad de usuarios te da.
+Me lo dejé aquí lo tenía.
+Es que Estoy en Bandoweb 3, sí, te da cantidad de request, cantidad de usuarios te da.
+Cuántas transacciones hicieron en total, ya vamos pasando las 3000 y cachito, active Wallets por día, Social Authentication, te da la cantidad de transacciones, yo le pedí detalles del airdrop, cuántos airdrops he hecho, la gran mayoría está haciendo Social Login, está chido, pero hay gente usando Metamask, no sé por qué todavía siguen usando metamask, es una porquería, pero bueno, Metamask, Rainbow, Phantom, Rabbi, bitget, Serion, esas son las wallets que están utilizando para autenticación social, también está esa información muy chida, la gran mayoría es a Google, uno que otro usó email, otro, uno que otro Facebook y uno que otro Apple y luego también me da.
+Cuántas transacciones he hecho, cuántos usuarios diarios, vamos a entrar aquí a ver los usuarios, vamos a ver cuántos han registrado, nadie se ha registrado el día de hoy o todos los que están por aquí?
+Ah no, sí me parece.
+Sí, creo que sí se están registrando, a ver si alguien se registra, ahorita le mando el doble de tokens, vamos a ver si aquí veo el último wallet, es de Saldívar y creo que sí lo está administrando por orden, sí, vamos a ver si alguien crea su correo ahorita.
+En royalbunker, Vercel app meta, su login social, le voy a mandar el doble de tokens RB, les vamos a mandar 6, vamos a ver aquí lo estoy monitoreando, pero bueno, entonces ¿Qué es lo que pueden hacer?
+Crean su wallet, se registran, yo al ver que se registran estoy haciendo el airdrop del MNT, el MNT lo pueden sacar, hagan con él lo que quieran, los 3 tokens RB ahí los van a almacenar, si le dan al botón naranja lo van a mandar a noun CMX, no va a haber confirmación, en cuanto ustedes presionen ese botón naranja el token se envía, Pruébenlo si quieren, no sé si les convenga, ya verán en el futuro, es parte de la dinámica que estamos haciendo aquí para encontrar usuarios con estos airdrops.
+También luego les voy a mandar mensajito a todos los que, o al menos un correo a todos los que hicieron su cuenta para ver si me ayudan con una entrevista así muy rápida para que me den su impresión.
+Tema de diseño, estoy haciendo esta aplicación, creo que no les he dicho para qué, sí para los torneos, sí para bombardear a banda de otras comunidades a la cadena, meterlos a utilizar la cadena de alguna otra forma con activaciones IRL, pero yo creo y no sé que hay un modelo aquí para activaciones y eventos presenciales.
+Ahorita estoy hablando con un par de amigos, uno tiene una convención de dermatología muy muy grande, es el presidente del.
+Grupo de dermatólogos de la Asociación Dermatología Mexicana o no sé qué tiene un evento enorme ahora a finales de mayo y muy probablemente hagamos una activación con banda web.
+Y blockchain, y otro amigo está organizando una competencia de cerveza con él, también estamos viendo una activación utilizando blockchain y creo, no sé, yo tengo, yo tengo ahí.
+Una leve impresión de que eventos presenciales con herramientas tan sencillas como esta, para programa de puntos, para intercambio de cerveza por token, para activaciones en redes, para hacer ruido, postea tal evento, ve y verifica o llena un formulario, te llega tu token que luego puedes intercambiar por mercancía ahí en el evento presencial, o para tener un tema de administración cashless de inventario.
+Por ahí Priscila, una amiga por acá, está haciendo algo similar pero con tarjeta de crédito y con SPEI bancario, No, yo no me quiero meter en eso, todo lo tokenizamos por allá.
+Tengo un par de clientes que les gustó la idea cuando les platiqué.
+Uno de ellos es el grupo hotelero que nos nos ha patrocinado.
+Tantas veces los venues que utilizamos con ellos hemos platicado sobre programas de desayunos donde oye, en lugar del wallet que dice Royal Bunker, va a decir Hotel Millenium.
+Y en lugar de un token que sea.
+Necesario para entrar a un torneo y recibir fichas, vas a la casa del restaurante.
+Y te da un desayuno, cosas así.
+Temas presenciales, llevarlos a la cadena y empezar.
+Hacer pruebas para ver luego si sirve para cadena de suministro, lo que sea.
+Creo que puede haber ahí un modelo de negocio y activaciones y eventos que se pueden vender.
+¿Yo creo que puede haber ahí una línea, como les digo, no?
+Para cotizarle.
+Este congreso dermatólogos, una activación que les ayuda a posicionarse en redes total y que aparte tengas un historial de wallets y tengas ya una evidencia.
+Hay muchas maneras de vender esto.
+Creo que puede haber un negocio ahí.
+A mí me gustan los eventos presenciales.
+Vengo diciendo desde hace años que necesitamos construir más público.
+Vengo diciendo también desde hace años que necesitamos más aplicaciones para activaciones presenciales para que la gente vea cómo funciona, vea la rapidez, vea lo fácil, vea el costo tan barato, vea, híjole, no nada más con un tema.
+De una activación o de un pago transaccional, no nada más transaccional, sino más social.
+Creo que tenemos que hacer estas interacciones más sociales en eventos web con.
+Este tipo de aplicaciones que ahorita, por ejemplo, yo les tuve que mandar un MNT.
+Yo al mandarles un MNT a todas las carteras les estoy dando la posibilidad de hacer mil transacciones.
+Cada una vale menos de.
+Entonces si pueden hacer mil transacciones con un MNT, puta, hay un chorro que hacer.
+Pero hay otra mejor manera que todavía no encuentro cómo echar a funcionar.
+En third web yo lo que puedo hacer es fondear una cartera y decir cualquier transacción que este grupo de personas quiera hacer, ve y cobra la de acá.
+Entonces yo les puedo patrocinar el gas también y apenas estoy haciendo pruebas.
+Va a estar bien interesante verlo.
+Ya que lo pueda echar a volar si es que funciona.
+Creo que hay una aplicación ahí.
+Creo que los eventos presenciales los tenemos que revolucionar, no nada más los web, sino que hay que buscar y voy a buscar yo cerrar estas alianzas ya se reúna, yo creo que les puedo dar el alfa, pero él el evento de dermatología todavía está complicado, no he podido convencer a mi amigo de la activación porque dice que muchos de los doctores son muy viejitos y que no van a aprender, entonces la neta había pensado un log protocol donde tenían que meter su correo y su nombre, pero no sé, no me gustó, me gusta más algo así donde.
+Se puedan inscribir, yo les pueda fondear el gas, les pueda poner yo botones, o sea, les podría poner yo tres, cuatro botones, uno manda un token a tal dirección como lo tienen ahorita, el botón naranja que ustedes tienen ahorita está hardcodeado para que cuando tú le piques, si tienes un wallet social, si le picas el botón, el token se va inmediato, así está programado, yo no quería que te diera una alerta, si tú le picas al botón, el token se va, ¿Y a dónde se va?
+¿La dirección que yo le puse, no?
+Ahí está, NAOSMX ETH ¿Te va a dar beneficios mandarlo o no?
+No sé, no sé, a lo mejor te quedas con uno, a lo mejor te quedas con los tres, a lo mejor mandas dos, no sé, ya tú decidirás, esa decisión tendrá consecuencias, ya las verán en el futuro, pero.
+Como les decía, puede ser utilizado para una locura como estas ha sido en línea, donde con narrativa, con cuento que me falta, tengo que aceptarlo, me falta, ¿No?
+Pero bueno, yo le doy, voy a usar, creo que se puede hacer un poquito más grande, donde a ver, les metas ahí algo de tema de decisión, de estrategia, de me conviene o no me conviene, ve tú a saber.
+Entonces para activaciones en línea creo que funciona muy bien, pero para creo que donde está la clave son las actividades presenciales.
+El tema de los dermas todavía no lo tengo confirmado, el que sí tengo confirmado es en julio, sí, julio, Festival de la Cerveza, Festival de la Cerveza en Monterrey, un evento en fundidora, que es el parque enorme donde antes era la fundidora más grande de acá del norte, que ya cerró, lo volvieron parque muy muy padre, está por ahí cerca de Sintermex, ellos reúnen a 20.000, 30.000 personas y mi amigo tiene un stand, tiene un par de stands porque él tiene una competencia, va a regalar merge y también tiene una activación ahí con una marca de cerveza que él tiene, vamos a estar por ahí con diferentes activaciones, ya les estaré contando, muy probablemente PoAp, muy probablemente Unlock, a lo mejor ya está funcionando.
+La aplicación para ellos.
+Esta aplicación que hice para el Royal Bunker, para los torneos, obviamente se puede forkear, es muy fácil de forkearla, de hecho si quieren utilizar el código con gusto les puedo ayudar a hacer algo súper rápido, no necesitan dinero, yo con la cuenta gratis de Third Web y la cuenta gratis de Vercel lo puede deployar en chinga, lo que sí tienen que hacer es configurar sus logos, configurar sus colores, cambiar el texto en algunas cosas, las netas relativamente intuitivo y fácil y en dos, tres patadas podrían tener ustedes ya el mismo wallet con la misma funcionalidad que les da thirdweb con todas las estadísticas que te da esa madre, que son un chingo, que están buenísimas, la neta me ha volado la cabeza.
+Por ahí lo tengo posteado en mi ex, pueden ir a ver los últimos hilos de ayer y hoy, la neta es una herramienta muy muy muy padre.
+El token RB lo hice ahí mismo entra web, ahí mismo creé el token, ahí mismo lo sube, lo deploya, lo verifica.
+Puedo mintear más, ahorita solo hay 333 tokens, ando viendo qué hago si mintió más, yo creo que lo voy a dejar así en 333 esta fase OG, entonces todavía no lo mando el control, todavía no quemo el control del token, sigue minteable, necesito ver cómo.
+Lo pongo para que ya no sea minteable y se quede fijo, pero bueno, tiene una oportunidad de nuevo royalbunker, Vercel App, si se meten en este momento, crean su cuenta con login social, correo, gmail o lo que sea, automáticamente les va a asignar un wallet y más tardecito yo les mando un mnt y 3 rb, cada wallet dentro de los primeros 100 wallets van a recibir lo mismo.
+Hasta que se acabe a las demás wallets ando viendo qué otro token les mando, porque el RB nada más hay 333, pero también les voy a mandar yo creo que un poquito menos de malto, yo creo que les voy a mandar que también les deben, les deben de servir como para 50 transacciones, entonces pues es más que suficiente para hacer las activaciones y todo lo que les quiera poner.
+Los botones se pueden personalizar, entonces yo le puedo poner un botón que le mande a cierta dirección, puedo meter otro botón que mande otro toque en otro lado, puedo poner de display el saldo de cualquier balance, puedo hacer tablas para darles las últimas transacciones, neta está muy completo.
+Creo que la idea de no darle tanta opción a la gente es súper crítica, Metamask, oye que da de alta la red, oye que da de alta el token, oye que de esta pinche madre, puta qué hueva güey, entonces con tu correo te creas tu wallet, en este caso 100% mantul, no hay posibilidad de manejar otra red, yo lo harcodía para que solo puedan utilizar Mantle, ¿Por qué?
+Porque pues el hackatón es el mantol y porque también no quería abrir esa posibilidad.
+Algo que también quiero a ver si ajusto es que no dé todas las opciones de registro, o sea no quiero que te pida o Apple o Facebook o.
+Google, no sé, todavía estoy pensando, yo creo que por lo pronto lo voy a dejar así, originalmente quería que fuera solo correo y wallet, o sea que tuvieran dos opciones, o pones tu correo o conectas tu wallet y de esa manera es la única manera que puedes transaccionar, pero al momento de quererlo ajustar, batallé, la neta se veía muy bien así completito todo.
+El deck, entonces le dije tengo chingas y así quedó, así lo voy a dejar, está muy padre porque si ustedes entran al wallet, ahí mismo en el dapp de Royal Bunker, le pican al botón gris que es donde viene el saldo en MNT, ahí pueden ver los tokens que tienen, pueden hacer transacciones, pueden ir a reclamar su llave privada, pueden también.
+Ver los NFTs que tienen, entonces le picas el botón gris, te da un chorro de opciones, puedes administrar para comprar.
+Mantle con tarjeta de crédito, ya tiene todo integrado, está súper cool la verdad lo ando probando ya con mis amigos web que son los pocareros, que a lo mejor son los interesados en jugar el torneo y los que sí o sí, yo sé que la experiencia del torneo física presencial.
+Los va a incentivar a que se inscriban, a que hagan su cuenta.
+Que no se me queden por ahí en el camino porque también son amigos de toda la vida, entonces les puedo meter presión para que en realidad lo prueben pero sí, esta es una primera fase de esta prueba que estoy haciendo con este tipo de wallets sociales que hasta hace unos meses no había todas las herramientas necesarias como para hacerla, o sea neta neta neta neta Nebula para programar entre Nebula, Grok.
+Gemini de Google, Chat GPT, creo que usé también cursor de GitHub, entre todas esas estuve rebotando ideas, mandando errores, oye.
+Me di cuenta que chatgpt se equivocó un chingo, me proponía código, lo ponía yo y lo compilaba error, oye güey, esto no es así, Ah sí cierto, la versión que tú tienes no tiene esa aplicación y por lo tanto tienes que manejarlo de esta manera, madres, alucina Gemini muy bien, la neta para hacer código me pareció una locura, muy muy chido, si tenía las versiones actualizadas qué funcionaba con qué.
+No vi tantos errores usando Gemini Nebula me voló la cabeza como les decía para hacer transacciones también para como trae todo el SDK Nebula es de Third Web, Nebula es el AI de Third Web, Third Web es esta aplicación que tiene wallet social, que tiene contratos pregrabados para crear ERC rápido, tiene.
+También todo lo que es administración de los correos, todo lo que son analíticos, tiene un chorro de información, programa gratuito, te da 10 TPS o RPS, perdón, request por segundo, el de 9 dólares te da 100, hay otro que le sigue de 70 dólares al mes que ya no sé cuánto, pero bueno, si se necesita comprar, ya veré si lo compro a lo mejor dentro de los premios y me gano uno del hacketón lo POMB.
+Pero si, neta le he dedicado mucho tiempo, es la cosa que no me despega de la computadora en estos momentos, voy a seguir tratando de desarrollar por ahí, vamos a ver cómo nos va en el hackatón.
+Necesito integrar Nebula de nuevo, yo creo que le voy a meter un chatbot también ahí al DAP, aparte de tener el saldo del RB y el botón, yo creo que abajo van a tener como que una opción para chatear con Nebula y hacer transacciones o no sé, no sé, necesito ver cómo lo integro, pero sí tengo que integrarlo para poder entrar ahí a la llamada de una manera que lo quería integrar era que verificara Yo quería poner a la gente que pagara su torneo de cualquier manera y que llenara un formulario.
+Cuando paga su torneo, llena el formulario, pone el hash de la transacción.
+Yo quería que Nebula viera ese hash o que viera ese formulario, lo estuviera revisando constantemente.
+Si verifica que en realidad es una transacción que nadie se ha asignado, nadie se ha.
+Pues sí, nadie ha dicho es mía, que la vía era como válida y que le hiciera el airdrop de los tokens.
+Pero bueno, ahí vamos en ese proceso todavía no he podido.
+Pero bueno, ¿Qué más?
+¿Qué más, ¿Qué más, pues sí, esperen noticias próximamente vamos a organizar el evento?
+Está enfocado en personas web 2 y esas personas web 2, de nuevo, tienen a huevo que usar.
+El Dapp para poder jugar.
+Si no usan el Dapp, pues no van a poder jugar.
+Entonces vamos a experimentar de esa manera para onboardear a esa comunidad y probar que estas aplicaciones sirven para potenciar eventos.
+De nuevo, la otra prueba, ojalá pueda cerrar el congreso de Dermatología a finales del mes y si no en julio, no, junio, en junio estará el congreso y Festival de Cerveza, él estaré publicando también información.
+Yo creo que para el Festival de Cerveza sí convenzo a mi amigo de poder utilizar el DAP.
+Ojalá podamos juntar un chingo de banda y rompamos de nuevo los límites que nos pone fairweb para tener que pedir más o justificar el uso.
+Ya veré a ver cómo lo maneja, lo manejo, si llega a suceder igual.
+Creo que me falta narrativa, creo que me falta explicar un poquito más la situación, porque muchos estaban creando sus cuentas y oye, ya la creé y está en saldo cero, ¿Qué hago?
+Y la idea era, pues sí ya la creaste, estás en saldo cero, ya cumpliste, o sea, ya está chido.
+Y la gente como que no entendía, no lo expliqué bien, no querían ver el airdrop inmediato y ya les tenía que decir yo, si no, el airdrop ahorita es manual, se los hago llegar en breve, etcétera, etcétera.
+Vamos a ver a Saldívar.
+¿Quién se inscribió?
+Miren, no he visto ni uno escrito el día de hoy.
+¿No se puede o si se puede?
+Vamos a hacer la prueba.
+A ver.
+Creo que no está funcionando.
+Yo no veo que nadie se escriba hoy.
+Aquí estoy hablando lo pendejo nadie me hace caso.
+A ver, probemos.
+Ya está, Desconectar.
+Vamos a crear una cuenta nueva.
+Gmail.
+No, al parecer si está funcionando, fíjense.
+Voy a salir al pendiente por si alguien hace una cuenta en este transcurso de la mañana.
+Se supone que ya está disponible.
+Yo ya podía hacer una este Juvenal creo que no, es que luego se registran.
+Está raro porque cuando entra wallets externas no puedo ver.
+Puedo ver nada más el número, pero no puedo ver el wallet.
+Eso está interesante, pero tengo que seguirlo viendo.
+Voy a tener que hacer.
+Un hilo un poquito más detallado, agregarle funcionalidad y automatizar muchas cosas para que la gente luego no entre y vea cero y diga que sigue.
+Es algo que también tiene que tener una.
+Una lógica de tiempos, etcétera, pero la neta no me da para planear tanto, entonces voy sacando, voy publicando como va saliendo y voy ajustando sobre la marcha.
+Si les gusta y quieren utilizar la aplicación, echen un DM, les ayuda a forquear el código sin ningún problema, pueden poner ahí sus logos, todo es código abierto, está disponible, es muy fácil de forkear, nada más tienen que ser su cuenta en Third Web.
+Yo les puedo decir dónde ir a ver el código, qué es lo que hay que cambiar para poner su foto, poner su logo.
+Que el botón, al picarle el botón a lo mejor mande otro token, que al picarle el botón lo mande a lo mejor a otra dirección.
+Hay muchos casos de uso que se podrían utilizar para esto, la neta.
+Voy a seguir probando, voy a seguir generando contenido, creo que me va a ayudar.
+Con el hackatón.
+Y veamos a ver qué podemos ganar por ahí.
+Pero bueno, por ahí, hasta ahí la dejo.
+Muchas gracias por estar por aquí.
+Madre, ya me metí hora y 10 de rand solito aquí platicando.
+Voy a ver si.
+Tengo que bajar esta transcripción, meterle un AI y hacer un reportaje un poquito más detalladito de todo lo que hay que hacer, invitarle fotos, etcétera, y que sepa la gente que sigue, porque sí es algo que, bueno, me arranco invitando, la gente hace la activación, etcétera, y luego ya no sabe que sigue.
+Entonces creo que también está padre tener ahí la expectativa del que viene, pero mayor información creo que iba.
+Bueno, muchas gracias por probarlo.
+A los 44 van ya vamos a ver estadísticas del RPC, cuántas transacciones, cuántos.
+Usuarios, aquí está los analíticos generales, 44 usuarios activos, 45 wallets conectadas.
+16 transacciones en chain.
+Vamos a ver el uso, todo esto está muy padre, aquí está el RPC.
+Al parecer sigue funcionando, son 100 rps, tenemos los 1974 requests en el día de ayer, al rato me aviento un videíto, a lo mejor también en Instagram con esa bandita de por allá que es más web, a ver cuántos en realidad logro que se inscriban y creen su cuenta, a ver si lo podemos romper, pero bueno, voy a seguir publicando sobre esta aplicación, próximamente sabrán sobre el torneo, va a ser en banda web 3 el torneo, yo creo que este primer torneo lo vamos a limitar a 20 personas, muy probablemente la entrada sea de mil pesos o 50 dólares para juntar una bolsa de mil dólares a repartir.
+Entre eso, ese dinero si tengo que hacerlo profesional, la neta la vez pasada que lo hicimos en MX fue muy informalón, fue más como de educativo, no contraté dealers, no tenía un administrador de torneo, un manager de torneo que también es necesario, yo creo que para correr un torneo así necesito un manager, un manager de torneo y necesito tres dealers, dos que están en las mesas de repartiendo las fichas, digo, repartiendo las cartas y acomodando fichas, etcétera y uno que está de backup para los descansos de estos chavos.
+Siempre tiene que estar en actividad la mesa, a menos que haya un break que normalmente duran 20 minutos, entonces tenemos que tener tres dealers y los dealers tienen su entrenamiento y tenemos que tener un administrador, todo eso cuesta, entonces pues bueno, con mil dólares yo creo que sí lo armamos y más en el Royal Bunker donde no pagamos, digo, perdón, Royal Bunker, Panda web local donde no estoy pagando renta, entonces bueno, ahí les estaré informando, ya no tengo tiempo para dudas o preguntas, aquí se queda esta grabación, igual el próximo jueves no sé con quién estaré hablando, yo creo que seguiré hablando de este tema que la verdad me tiene bien loco, voy a seguir desarrollando la aplicación y metiéndole funcionalidad y muy probablemente noticias próximamente para el evento de los dermatólogos o para el festival de la cerveza donde también quiero empezar a utilizarla.
+Muchas gracias por estar por aquí.
+Échenme porfa un like, un comentario, un repost, todo suma.
+Y también suma más que hagan su cuenta, hagan su cuenta, no conecten su wallet, hagan su cuenta social, metan un correo, conecten su gmail, me ayuda mucho a ver la funcionalidad, hacer el airdrop con Nebula, obtener su retro sobre el uso si tienen chance, luego voy a estar buscando a toda la banda que se haya registrado con correo, les voy a mandar un correo para poner unas reuniones.
+También quiero compensar, si quieres tu cuenta, te mando tres tokens RB y te mando un MNT con un dolarito, más la funcionalidad que puedan llegar a tener esos 3 RBs, no sabes que pueda haber de funcionalidad, puede que no haya, puede que sí, ve tú saber, pero a la banda que haga su cuenta, los primeros 100, pues tienen ahí un regalito.
+Igual las entrevistas, si hay gente que quiere hacer una entrevista unos 15 20 minutos, igual ando viendo presupuestos y ganamos algo en el hackatón para compensarles el tiempo y que me den su retroalimentación.
+Pues lo más acorde a la realidad posible, con lo bueno, lo malo del app, a ver cómo lo mejoramos, si le entendieron, si no, sobre el proceso, la dinámica del marketing, el cómo fue la comunicación, cómo se enteraron del tema, tenían dudas, no sé, hay muchas cosas que me gustaría preguntarles sobre la experiencia de estos primeros días utilizando la aplicación, si es que la utilizan, obviamente sería compensarles ahí el tiempo con tokens o con MNT, un regalito, ya veremos qué sucede, pero bueno, muchas gracias, por ahí seguiré haciendo contenido sobre esto, ayúdenme con likes y comentarios, vean los hilos que tengo en la cuenta del Morris de Mexi, perdón, ahí está todo lo que he venido haciendo, los últimos 24 horas fueron intensos haciendo la aplicación, la me divertí mucho, vamos, y voy a con toda esta locura que tengo y estas herramientas que ya nos permiten hacer estas cosas, pos neta, neta, neta, neta, no hay límite, pero bueno, métanse, prueben, mándenme DM si hay alguna duda.
+Les dejo Mind the Beast de Suno, primer sencillo de Banda Web 3.
+Nos vemos próximamente.

@@ -1,0 +1,4248 @@
+{
+  "id": "01KC15SAN1MT1P652ZWNWHDXYW",
+  "title": "BandaWeb3 - BandaWeb3 #050 @entigdd @LidoFinance",
+  "date": 1765271100000,
+  "duration": 67.87000274658203,
+  "speakers": [],
+  "sentences": [
+    {
+      "index": 0,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Buenas tardes, buenas noches, depende de dónde se estén conectando a esta grabación.",
+      "raw_text": "Buenas tardes, buenas noches, depende de dónde se estén conectando a esta grabación.",
+      "start_time": 0.32,
+      "end_time": 5.84
+    },
+    {
+      "index": 1,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "El día de hoy vamos a estar platicando con NT del IDLE a presentar en un momento por aquí lo vamos a tener.",
+      "raw_text": "El día de hoy vamos a estar platicando con NT del IDLE a presentar en un momento por aquí lo vamos a tener.",
+      "start_time": 6.4,
+      "end_time": 12.24
+    },
+    {
+      "index": 2,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Pero primero que nada, como todos estos espacios, vamos a empezar con algo en musiquita Les voy a poner la canción que siempre pongo Minds Abyss de Liquid Tension Experiment No, perdón, perdón, este no es de Liquid Tension Experiment, estaba inspirada en una canción de Liquidation Experiment pero esta la hice con inteligencia artificial en SUNO y aquí estoy preparando una nueva manera de.",
+      "raw_text": "Pero primero que nada, como todos estos espacios, vamos a empezar con algo en musiquita Les voy a poner la canción que siempre pongo Minds Abyss de Liquid Tension Experiment No, perdón, perdón, este no es de Liquid Tension Experiment, estaba inspirada en una canción de Liquidation Experiment pero esta la hice con inteligencia artificial en SUNO y aquí estoy preparando una nueva manera de.",
+      "start_time": 12.72,
+      "end_time": 40.39
+    },
+    {
+      "index": 3,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Que se escuche mejor esto, vamos a ver si lo logramos el día de hoy, en un momento va a estar por aquí en TI Gracias por estar por aquí, les piné aquí arriba el espacio, perdón si me ayudan con likes y con repos, todo sumando vamos a estar platicando de staking casero, vamos a estar platicando de unos cursos que está organizando en TI sobre un programa de estudios de Ethereum y muchas, muchas otras actividades por ahí que nos va a platicar el buen NT.",
+      "raw_text": "Que se escuche mejor esto, vamos a ver si lo logramos el día de hoy, en un momento va a estar por aquí en TI Gracias por estar por aquí, les piné aquí arriba el espacio, perdón si me ayudan con likes y con repos, todo sumando vamos a estar platicando de staking casero, vamos a estar platicando de unos cursos que está organizando en TI sobre un programa de estudios de Ethereum y muchas, muchas otras actividades por ahí que nos va a platicar el buen NT.",
+      "start_time": 42.07,
+      "end_time": 69.28
+    },
+    {
+      "index": 4,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Les dejo aquí.",
+      "raw_text": "Les dejo aquí.",
+      "start_time": 69.36,
+      "end_time": 70.16
+    },
+    {
+      "index": 5,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Minds of Beast, empezamos en breve.",
+      "raw_text": "Minds of Beast, empezamos en breve.",
+      "start_time": 71.68,
+      "end_time": 74
+    },
+    {
+      "index": 6,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Muchas gracias.",
+      "raw_text": "Muchas gracias.",
+      "start_time": 278.09,
+      "end_time": 278.65
+    },
+    {
+      "index": 7,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Muchas gracias.",
+      "raw_text": "Muchas gracias.",
+      "start_time": 278.65,
+      "end_time": 279.37
+    },
+    {
+      "index": 8,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Hoy no tengo mi ser tradicional, así que una disculpa si no se escuchó bien la canción.",
+      "raw_text": "Hoy no tengo mi ser tradicional, así que una disculpa si no se escuchó bien la canción.",
+      "start_time": 279.69,
+      "end_time": 284.77
+    },
+    {
+      "index": 9,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Eso fue Mind the Beast, una canción hecha con inteligencia artificial, de hecho estoy en una zona con un poco de ruido, ahorita me muevo para que se escuche un poquito mejor, pero voy a mandar invitaciones a los grupos que normalmente invito si me ayudan a compartir, a dejar su comentario, nos ayuda a llegar a más personas.",
+      "raw_text": "Eso fue Mind the Beast, una canción hecha con inteligencia artificial, de hecho estoy en una zona con un poco de ruido, ahorita me muevo para que se escuche un poquito mejor, pero voy a mandar invitaciones a los grupos que normalmente invito si me ayudan a compartir, a dejar su comentario, nos ayuda a llegar a más personas.",
+      "start_time": 284.77,
+      "end_time": 300.93
+    },
+    {
+      "index": 10,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "El día de hoy estamos con de Lido Finance, nos va a platicar de muchas iniciativas que traen en este momento para hacer staking casero de hecho hoy en la mañana tuvimos hubo un workshop donde entró platicando de una nueva aplicación que se puede utilizar con Lido para poder tener un nuevo validador en tu casa sin tener que dejar en respaldo los 32 Ether que pide el sistema.",
+      "raw_text": "El día de hoy estamos con de Lido Finance, nos va a platicar de muchas iniciativas que traen en este momento para hacer staking casero de hecho hoy en la mañana tuvimos hubo un workshop donde entró platicando de una nueva aplicación que se puede utilizar con Lido para poder tener un nuevo validador en tu casa sin tener que dejar en respaldo los 32 Ether que pide el sistema.",
+      "start_time": 300.93,
+      "end_time": 329.92
+    },
+    {
+      "index": 11,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ahorita nos va a platicar todo el detalle, voy a subir aquí a mi cuenta personal, pero muchas gracias ¿Cómo andas.",
+      "raw_text": "Ahorita nos va a platicar todo el detalle, voy a subir aquí a mi cuenta personal, pero muchas gracias ¿Cómo andas.",
+      "start_time": 329.92,
+      "end_time": 336.56
+    },
+    {
+      "index": 12,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "El día de hoy?",
+      "raw_text": "El día de hoy?",
+      "start_time": 336.56,
+      "end_time": 337
+    },
+    {
+      "index": 13,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Bienvenido.",
+      "raw_text": "Bienvenido.",
+      "start_time": 337,
+      "end_time": 337.28
+    },
+    {
+      "index": 14,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Me escuchas bien?",
+      "raw_text": "¿Me escuchas bien?",
+      "start_time": 337.28,
+      "end_time": 338.08
+    },
+    {
+      "index": 15,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "¿Todo bien?",
+      "raw_text": "¿Todo bien?",
+      "start_time": 340.24,
+      "end_time": 340.8
+    },
+    {
+      "index": 16,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Se me escucha bien a mí también.",
+      "raw_text": "Se me escucha bien a mí también.",
+      "start_time": 341.04,
+      "end_time": 342.32
+    },
+    {
+      "index": 17,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Perfecto, muchísimas gracias.",
+      "raw_text": "Perfecto, muchísimas gracias.",
+      "start_time": 344.48,
+      "end_time": 346
+    },
+    {
+      "index": 18,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ahí de nuevo, no es en ser tradicional y estoy probando una nueva manera de que la canción se escuche un poquito mejor al ratito hago más pruebas porque creo que no he dado con el clavo, pero bueno, saludos a Alan, Mister Be, Yael, por ahí la cuenta personal no quiere subir, ahorita la volvemos a invitar, pero si, te escucho muy bien, muchas gracias por estar por acá.",
+      "raw_text": "Ahí de nuevo, no es en ser tradicional y estoy probando una nueva manera de que la canción se escuche un poquito mejor al ratito hago más pruebas porque creo que no he dado con el clavo, pero bueno, saludos a Alan, Mister Be, Yael, por ahí la cuenta personal no quiere subir, ahorita la volvemos a invitar, pero si, te escucho muy bien, muchas gracias por estar por acá.",
+      "start_time": 346.4,
+      "end_time": 369.37
+    },
+    {
+      "index": 19,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Cómo andas el día de hoy?",
+      "raw_text": "¿Cómo andas el día de hoy?",
+      "start_time": 369.37,
+      "end_time": 370.29
+    },
+    {
+      "index": 20,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Cómo te fue?",
+      "raw_text": "¿Cómo te fue?",
+      "start_time": 370.29,
+      "end_time": 370.85
+    },
+    {
+      "index": 21,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Cómo viste el taller?",
+      "raw_text": "¿Cómo viste el taller?",
+      "start_time": 371.01,
+      "end_time": 372.05
+    },
+    {
+      "index": 22,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Es una nueva aplicación que estabas dando por ahí, creo que lo van a publicar pronto.",
+      "raw_text": "Es una nueva aplicación que estabas dando por ahí, creo que lo van a publicar pronto.",
+      "start_time": 373.01,
+      "end_time": 376.29
+    },
+    {
+      "index": 23,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Cómo ves?",
+      "raw_text": "¿Cómo ves?",
+      "start_time": 377.17,
+      "end_time": 377.97
+    },
+    {
+      "index": 24,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "¿Todo bien por acá?",
+      "raw_text": "¿Todo bien por acá?",
+      "start_time": 380.05,
+      "end_time": 381.01
+    },
+    {
+      "index": 25,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "La verdad ha sido un día bastante intenso.",
+      "raw_text": "La verdad ha sido un día bastante intenso.",
+      "start_time": 381.41,
+      "end_time": 383.45
+    },
+    {
+      "index": 26,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Esta es como mi tercera.",
+      "raw_text": "Esta es como mi tercera.",
+      "start_time": 383.45,
+      "end_time": 385.09
+    },
+    {
+      "index": 27,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Mi tercera.",
+      "raw_text": "Mi tercera.",
+      "start_time": 386.04,
+      "end_time": 386.56
+    },
+    {
+      "index": 28,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Como mi cuarta, quinta llamada hoy.",
+      "raw_text": "Como mi cuarta, quinta llamada hoy.",
+      "start_time": 386.56,
+      "end_time": 388.6
+    },
+    {
+      "index": 29,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Pero bueno, bien igual para estas cosas es que uno.",
+      "raw_text": "Pero bueno, bien igual para estas cosas es que uno.",
+      "start_time": 390.76,
+      "end_time": 394.76
+    },
+    {
+      "index": 30,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Uno se presta y estuvo divertido, estuvo bastante bien.",
+      "raw_text": "Uno se presta y estuvo divertido, estuvo bastante bien.",
+      "start_time": 395.88,
+      "end_time": 399.8
+    },
+    {
+      "index": 31,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Es una herramienta de Nethermind para correr nodos que me parece que está bastante buena y pues queríamos darle un poco de visibilidad porque bueno, que la gente sepa que hay opciones y que sepa que es bastante fácil usarlos también.",
+      "raw_text": "Es una herramienta de Nethermind para correr nodos que me parece que está bastante buena y pues queríamos darle un poco de visibilidad porque bueno, que la gente sepa que hay opciones y que sepa que es bastante fácil usarlos también.",
+      "start_time": 401.16,
+      "end_time": 414.36
+    },
+    {
+      "index": 32,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Uy, no sé si, perdón, de repente.",
+      "raw_text": "Uy, no sé si, perdón, de repente.",
+      "start_time": 429.03,
+      "end_time": 432.63
+    },
+    {
+      "index": 33,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Creo que No me desmutié.",
+      "raw_text": "Creo que No me desmutié.",
+      "start_time": 432.63,
+      "end_time": 434.55
+    },
+    {
+      "index": 34,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Ya me escucho?",
+      "raw_text": "¿Ya me escucho?",
+      "start_time": 434.55,
+      "end_time": 435.11
+    },
+    {
+      "index": 35,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Sí, creo que sí.",
+      "raw_text": "Sí, creo que sí.",
+      "start_time": 435.11,
+      "end_time": 436.15
+    },
+    {
+      "index": 36,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Sí, ahora sí.",
+      "raw_text": "Sí, ahora sí.",
+      "start_time": 436.15,
+      "end_time": 437.03
+    },
+    {
+      "index": 37,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ah, perfecto.",
+      "raw_text": "Ah, perfecto.",
+      "start_time": 437.19,
+      "end_time": 437.99
+    },
+    {
+      "index": 38,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "No, sí, la neta, por ahí estuve escuchando el taller.",
+      "raw_text": "No, sí, la neta, por ahí estuve escuchando el taller.",
+      "start_time": 437.99,
+      "end_time": 440.87
+    },
+    {
+      "index": 39,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ahí luego lo podemos compartir.",
+      "raw_text": "Ahí luego lo podemos compartir.",
+      "start_time": 444.44,
+      "end_time": 445.88
+    },
+    {
+      "index": 40,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Qué chido, qué chido tenerte por acá, que nos platiques un poquito de tu experiencia.",
+      "raw_text": "Qué chido, qué chido tenerte por acá, que nos platiques un poquito de tu experiencia.",
+      "start_time": 446.52,
+      "end_time": 452.04
+    },
+    {
+      "index": 41,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Te he visto muy activo últimamente por ahí hemos hecho algunas colaboraciones donde yo como parte, y por aquí también veo a Yael, algunos del equipo como parte de T México.",
+      "raw_text": "Te he visto muy activo últimamente por ahí hemos hecho algunas colaboraciones donde yo como parte, y por aquí también veo a Yael, algunos del equipo como parte de T México.",
+      "start_time": 454.12,
+      "end_time": 464.76
+    },
+    {
+      "index": 42,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Estamos buscando iniciativas como las que ustedes traen.",
+      "raw_text": "Estamos buscando iniciativas como las que ustedes traen.",
+      "start_time": 464.92,
+      "end_time": 467.8
+    },
+    {
+      "index": 43,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Nuki lo armamos hace como unos meses, por ahí hay un.",
+      "raw_text": "Nuki lo armamos hace como unos meses, por ahí hay un.",
+      "start_time": 489.2,
+      "end_time": 491.84
+    },
+    {
+      "index": 44,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Y hace poquito me llegó un dupnote que me gané en una rifa que se realizó ahora en diciembre.",
+      "raw_text": "Y hace poquito me llegó un dupnote que me gané en una rifa que se realizó ahora en diciembre.",
+      "start_time": 492.8,
+      "end_time": 498.62
+    },
+    {
+      "index": 45,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Y la neta, pues ha sido muy padre también ver cómo la diferencia de armarlo tú solo, a que te llegue ya empaquetado, que te llegue ya con el software y con todo lo necesario nada más para conectar, prender y listo.",
+      "raw_text": "Y la neta, pues ha sido muy padre también ver cómo la diferencia de armarlo tú solo, a que te llegue ya empaquetado, que te llegue ya con el software y con todo lo necesario nada más para conectar, prender y listo.",
+      "start_time": 498.7,
+      "end_time": 510.86
+    },
+    {
+      "index": 46,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ha sido muy, muy interesante.",
+      "raw_text": "Ha sido muy, muy interesante.",
+      "start_time": 510.94,
+      "end_time": 512.54
+    },
+    {
+      "index": 47,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Pero bueno, empecemos por ti.",
+      "raw_text": "Pero bueno, empecemos por ti.",
+      "start_time": 512.54,
+      "end_time": 514.54
+    },
+    {
+      "index": 48,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Cómo te llamas?",
+      "raw_text": "¿Cómo te llamas?",
+      "start_time": 515.34,
+      "end_time": 516.14
+    },
+    {
+      "index": 49,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿De dónde eres?",
+      "raw_text": "¿De dónde eres?",
+      "start_time": 516.14,
+      "end_time": 516.94
+    },
+    {
+      "index": 50,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Cómo llegaste a este ecosistema?",
+      "raw_text": "¿Cómo llegaste a este ecosistema?",
+      "start_time": 518.14,
+      "end_time": 519.74
+    },
+    {
+      "index": 51,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Qué perfil de estudios tienes?",
+      "raw_text": "¿Qué perfil de estudios tienes?",
+      "start_time": 519.9,
+      "end_time": 521.82
+    },
+    {
+      "index": 52,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Cuéntanos un poquito de.",
+      "raw_text": "Cuéntanos un poquito de.",
+      "start_time": 522.7,
+      "end_time": 523.82
+    },
+    {
+      "index": 53,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "De tu historia y cómo ha sido tu proceso para entrar acá en la web.",
+      "raw_text": "De tu historia y cómo ha sido tu proceso para entrar acá en la web.",
+      "start_time": 524.21,
+      "end_time": 529.33
+    },
+    {
+      "index": 54,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Híjole, no sé si escuchemos.",
+      "raw_text": "Híjole, no sé si escuchemos.",
+      "start_time": 553.02,
+      "end_time": 555.5
+    },
+    {
+      "index": 55,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Yo de repente como perdí señal.",
+      "raw_text": "Yo de repente como perdí señal.",
+      "start_time": 555.5,
+      "end_time": 557.22
+    },
+    {
+      "index": 56,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Dame a ver.",
+      "raw_text": "Dame a ver.",
+      "start_time": 557.22,
+      "end_time": 559.02
+    },
+    {
+      "index": 57,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "No, ahí escuchan a Entin.",
+      "raw_text": "No, ahí escuchan a Entin.",
+      "start_time": 573.42,
+      "end_time": 575.18
+    },
+    {
+      "index": 58,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Yo no lo alcanzo a escuchar.",
+      "raw_text": "Yo no lo alcanzo a escuchar.",
+      "start_time": 575.18,
+      "end_time": 576.1
+    },
+    {
+      "index": 59,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Voy a entrar en otra cuenta a ver si es mío señal.",
+      "raw_text": "Voy a entrar en otra cuenta a ver si es mío señal.",
+      "start_time": 576.1,
+      "end_time": 578.59
+    },
+    {
+      "index": 60,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Si no, de plano no alcanzo a escuchar.",
+      "raw_text": "Si no, de plano no alcanzo a escuchar.",
+      "start_time": 593.15,
+      "end_time": 595.47
+    },
+    {
+      "index": 61,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Se me hace que te voy a bajar y te vuelvo a subir, a ver si con eso podemos arreglar aquí el tema.",
+      "raw_text": "Se me hace que te voy a bajar y te vuelvo a subir, a ver si con eso podemos arreglar aquí el tema.",
+      "start_time": 596.35,
+      "end_time": 602.15
+    },
+    {
+      "index": 62,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Denme un segundito.",
+      "raw_text": "Denme un segundito.",
+      "start_time": 602.15,
+      "end_time": 603.23
+    },
+    {
+      "index": 63,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ahorita lo volvemos a tratar de subir.",
+      "raw_text": "Ahorita lo volvemos a tratar de subir.",
+      "start_time": 612.74,
+      "end_time": 614.66
+    },
+    {
+      "index": 64,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "De hecho está fallando esto.",
+      "raw_text": "De hecho está fallando esto.",
+      "start_time": 614.98,
+      "end_time": 616.3
+    },
+    {
+      "index": 65,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Mi cuenta tampoco he logrado entrar aquí con.",
+      "raw_text": "Mi cuenta tampoco he logrado entrar aquí con.",
+      "start_time": 616.3,
+      "end_time": 618.9
+    },
+    {
+      "index": 66,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "La de Meximalist, pero ahorita volvemos a intentar.",
+      "raw_text": "La de Meximalist, pero ahorita volvemos a intentar.",
+      "start_time": 620.58,
+      "end_time": 622.7
+    },
+    {
+      "index": 67,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Vamos a volver a invitar a Enti y ahorita denme un segundito.",
+      "raw_text": "Vamos a volver a invitar a Enti y ahorita denme un segundito.",
+      "start_time": 622.7,
+      "end_time": 626.98
+    },
+    {
+      "index": 68,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Aprovechamos aquí para pinear algunas cosas arriba.",
+      "raw_text": "Aprovechamos aquí para pinear algunas cosas arriba.",
+      "start_time": 627.22,
+      "end_time": 630.99
+    },
+    {
+      "index": 69,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Estoy pineando el espacio del día de hoy.",
+      "raw_text": "Estoy pineando el espacio del día de hoy.",
+      "start_time": 631.07,
+      "end_time": 632.83
+    },
+    {
+      "index": 70,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "También les voy a pinear.",
+      "raw_text": "También les voy a pinear.",
+      "start_time": 632.83,
+      "end_time": 633.95
+    },
+    {
+      "index": 71,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "A ver si ahora sí.",
+      "raw_text": "A ver si ahora sí.",
+      "start_time": 636.35,
+      "end_time": 637.47
+    },
+    {
+      "index": 72,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ahí estamos ya.",
+      "raw_text": "Ahí estamos ya.",
+      "start_time": 637.87,
+      "end_time": 638.83
+    },
+    {
+      "index": 73,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Creo que sí.",
+      "raw_text": "Creo que sí.",
+      "start_time": 638.83,
+      "end_time": 639.79
+    },
+    {
+      "index": 74,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Sí me oyes?",
+      "raw_text": "¿Sí me oyes?",
+      "start_time": 640.19,
+      "end_time": 641.39
+    },
+    {
+      "index": 75,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Sí, ya estamos.",
+      "raw_text": "Sí, ya estamos.",
+      "start_time": 644.59,
+      "end_time": 645.55
+    },
+    {
+      "index": 76,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Oye, bueno.",
+      "raw_text": "Oye, bueno.",
+      "start_time": 647.07,
+      "end_time": 648.11
+    },
+    {
+      "index": 77,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Bueno, vuelvo desde arriba.",
+      "raw_text": "Bueno, vuelvo desde arriba.",
+      "start_time": 650.51,
+      "end_time": 651.79
+    },
+    {
+      "index": 78,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Me llamo Isaac realmente, aunque todos acá en el espacio digital me conocen como NT y la Historia.",
+      "raw_text": "Me llamo Isaac realmente, aunque todos acá en el espacio digital me conocen como NT y la Historia.",
+      "start_time": 653.23,
+      "end_time": 663.07
+    },
+    {
+      "index": 79,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Eso es un nombre que usaba para jugar o para estar, no sé, para.",
+      "raw_text": "Eso es un nombre que usaba para jugar o para estar, no sé, para.",
+      "start_time": 663.07,
+      "end_time": 669.95
+    },
+    {
+      "index": 80,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Sí, para cosas de Internet.",
+      "raw_text": "Sí, para cosas de Internet.",
+      "start_time": 670.27,
+      "end_time": 671.47
+    },
+    {
+      "index": 81,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y pues así estaba mi cuenta de Discord, que estaban servidores con amigos.",
+      "raw_text": "Y pues así estaba mi cuenta de Discord, que estaban servidores con amigos.",
+      "start_time": 671.95,
+      "end_time": 676.11
+    },
+    {
+      "index": 82,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y demás.",
+      "raw_text": "Y demás.",
+      "start_time": 677.79,
+      "end_time": 678.43
+    },
+    {
+      "index": 83,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y de repente comienzo a entrar servidores de cripto y pues salgo con el nombre de Andy y pues fue agarrando fuerza y bueno, dije, ya fue, me lo dejo puesto que está lindo y ya está.",
+      "raw_text": "Y de repente comienzo a entrar servidores de cripto y pues salgo con el nombre de Andy y pues fue agarrando fuerza y bueno, dije, ya fue, me lo dejo puesto que está lindo y ya está.",
+      "start_time": 679.23,
+      "end_time": 691.55
+    },
+    {
+      "index": 84,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Entonces eso, ¿Cómo entré en cripto?",
+      "raw_text": "Entonces eso, ¿Cómo entré en cripto?",
+      "start_time": 693.87,
+      "end_time": 698.11
+    },
+    {
+      "index": 85,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Qué perfil traes tú?",
+      "raw_text": "¿Qué perfil traes tú?",
+      "start_time": 698.51,
+      "end_time": 700.27
+    },
+    {
+      "index": 86,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿De dónde eres?",
+      "raw_text": "¿De dónde eres?",
+      "start_time": 700.27,
+      "end_time": 700.91
+    },
+    {
+      "index": 87,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Este habla muy bien español, obviamente eres latino.",
+      "raw_text": "Este habla muy bien español, obviamente eres latino.",
+      "start_time": 701.07,
+      "end_time": 703.95
+    },
+    {
+      "index": 88,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Eso, eso está chingón, poder platicar en español de estos temas y que nos cuentes todo lo que están haciendo.",
+      "raw_text": "Eso, eso está chingón, poder platicar en español de estos temas y que nos cuentes todo lo que están haciendo.",
+      "start_time": 705.07,
+      "end_time": 709.35
+    },
+    {
+      "index": 89,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Pero sí.",
+      "raw_text": "Pero sí.",
+      "start_time": 709.35,
+      "end_time": 711.23
+    },
+    {
+      "index": 90,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Qué estudiaste de joven?",
+      "raw_text": "¿Qué estudiaste de joven?",
+      "start_time": 713.72,
+      "end_time": 716.08
+    },
+    {
+      "index": 91,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Qué es lo que te gustaba?",
+      "raw_text": "¿Qué es lo que te gustaba?",
+      "start_time": 716.08,
+      "end_time": 717.16
+    },
+    {
+      "index": 92,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Eres ingeniero?",
+      "raw_text": "¿Eres ingeniero?",
+      "start_time": 717.4,
+      "end_time": 718.28
+    },
+    {
+      "index": 93,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Eres técnico?",
+      "raw_text": "¿Eres técnico?",
+      "start_time": 718.52,
+      "end_time": 719.16
+    },
+    {
+      "index": 94,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Eres marquetero?",
+      "raw_text": "¿Eres marquetero?",
+      "start_time": 719.16,
+      "end_time": 720.12
+    },
+    {
+      "index": 95,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Por dónde va?",
+      "raw_text": "¿Por dónde va?",
+      "start_time": 720.52,
+      "end_time": 721.24
+    },
+    {
+      "index": 96,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Bueno, soy dominicano, vivo aquí en Santo domingo, República Dominicana.",
+      "raw_text": "Bueno, soy dominicano, vivo aquí en Santo domingo, República Dominicana.",
+      "start_time": 722.44,
+      "end_time": 727.16
+    },
+    {
+      "index": 97,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Me crié, aunque me crié realmente en Madrid hasta los 13, algo así más o menos.",
+      "raw_text": "Me crié, aunque me crié realmente en Madrid hasta los 13, algo así más o menos.",
+      "start_time": 727.48,
+      "end_time": 732.44
+    },
+    {
+      "index": 98,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Pero sí es curioso, yo lo que estudié fue sonido, soy técnicamente ingeniero en sonido y demás.",
+      "raw_text": "Pero sí es curioso, yo lo que estudié fue sonido, soy técnicamente ingeniero en sonido y demás.",
+      "start_time": 736.04,
+      "end_time": 746.01
+    },
+    {
+      "index": 99,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y digo que es curioso.",
+      "raw_text": "Y digo que es curioso.",
+      "start_time": 747.37,
+      "end_time": 748.81
+    },
+    {
+      "index": 100,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Primero me parece que no es una carrera tan común, por lo menos acá no lo es.",
+      "raw_text": "Primero me parece que no es una carrera tan común, por lo menos acá no lo es.",
+      "start_time": 748.89,
+      "end_time": 753.53
+    },
+    {
+      "index": 101,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "También, no sé, la gente se sorprende mucho cuando digo que estudié eso, pero también porque cuando era pequeño me dice mi mamá que yo odiaba el ruido y pues decidí dedicarme a él.",
+      "raw_text": "También, no sé, la gente se sorprende mucho cuando digo que estudié eso, pero también porque cuando era pequeño me dice mi mamá que yo odiaba el ruido y pues decidí dedicarme a él.",
+      "start_time": 754.17,
+      "end_time": 764.25
+    },
+    {
+      "index": 102,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Imagínate tú.",
+      "raw_text": "Imagínate tú.",
+      "start_time": 764.65,
+      "end_time": 765.69
+    },
+    {
+      "index": 103,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Mira cómo dicen.",
+      "raw_text": "Mira cómo dicen.",
+      "start_time": 765.85,
+      "end_time": 766.89
+    },
+    {
+      "index": 104,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "¿Cómo es que se dice?",
+      "raw_text": "¿Cómo es que se dice?",
+      "start_time": 769.26,
+      "end_time": 770.22
+    },
+    {
+      "index": 105,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "A tus amigos cerca y a tus enemigos todavía más cerca.",
+      "raw_text": "A tus amigos cerca y a tus enemigos todavía más cerca.",
+      "start_time": 772.54,
+      "end_time": 775.18
+    },
+    {
+      "index": 106,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Lo llevé bastante a rajatabla eso.",
+      "raw_text": "Lo llevé bastante a rajatabla eso.",
+      "start_time": 776.06,
+      "end_time": 778.78
+    },
+    {
+      "index": 107,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y pues tenía.",
+      "raw_text": "Y pues tenía.",
+      "start_time": 781.18,
+      "end_time": 783.66
+    },
+    {
+      "index": 108,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Un amigo en la.",
+      "raw_text": "Un amigo en la.",
+      "start_time": 785.58,
+      "end_time": 787.26
+    },
+    {
+      "index": 109,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "No sé cómo le digan ustedes, bachillerato.",
+      "raw_text": "No sé cómo le digan ustedes, bachillerato.",
+      "start_time": 787.42,
+      "end_time": 789.34
+    },
+    {
+      "index": 110,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Secundaria, que se yo.",
+      "raw_text": "Secundaria, que se yo.",
+      "start_time": 789.34,
+      "end_time": 790.54
+    },
+    {
+      "index": 111,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y.",
+      "raw_text": "Y.",
+      "start_time": 793.1,
+      "end_time": 793.5
+    },
+    {
+      "index": 112,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Pues siempre le gustó programar y demás y lo hacía como por hobby o lo que sea.",
+      "raw_text": "Pues siempre le gustó programar y demás y lo hacía como por hobby o lo que sea.",
+      "start_time": 795,
+      "end_time": 799.88
+    },
+    {
+      "index": 113,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y de repente me dice, chequéate este foro que hay muchas cosas interesantes, no sé qué.",
+      "raw_text": "Y de repente me dice, chequéate este foro que hay muchas cosas interesantes, no sé qué.",
+      "start_time": 800.04,
+      "end_time": 805.96
+    },
+    {
+      "index": 114,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y el foro resulta que es un foro donde hay muchas cosas, pero también la gente ofrece servicios de desarrollo de varias cosas y pagaban en Bitcoin o Ethereum.",
+      "raw_text": "Y el foro resulta que es un foro donde hay muchas cosas, pero también la gente ofrece servicios de desarrollo de varias cosas y pagaban en Bitcoin o Ethereum.",
+      "start_time": 805.96,
+      "end_time": 817.56
+    },
+    {
+      "index": 115,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y pues yo no sé, bueno, estaba.",
+      "raw_text": "Y pues yo no sé, bueno, estaba.",
+      "start_time": 819.56,
+      "end_time": 821.64
+    },
+    {
+      "index": 116,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Estaba en la.",
+      "raw_text": "Estaba en la.",
+      "start_time": 824.88,
+      "end_time": 825.52
+    },
+    {
+      "index": 117,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "¿Me puse a mirar, me puse a ver y cuando me fijo pues tengo cripto en la mano, no?",
+      "raw_text": "¿Me puse a mirar, me puse a ver y cuando me fijo pues tengo cripto en la mano, no?",
+      "start_time": 827.04,
+      "end_time": 831.52
+    },
+    {
+      "index": 118,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Igual no entendía nada, así que después de un tiempo me cansé, no hice nada más, para mí era como un paypal o alguna forma de pago 10.000 veces más complicada y que se movía de presa, no tenía sentido.",
+      "raw_text": "Igual no entendía nada, así que después de un tiempo me cansé, no hice nada más, para mí era como un paypal o alguna forma de pago 10.000 veces más complicada y que se movía de presa, no tenía sentido.",
+      "start_time": 833.12,
+      "end_time": 846
+    },
+    {
+      "index": 119,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Lo dejé y pues seguí estudiando y fui a la universidad y demás.",
+      "raw_text": "Lo dejé y pues seguí estudiando y fui a la universidad y demás.",
+      "start_time": 846.64,
+      "end_time": 851.11
+    },
+    {
+      "index": 120,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "¿Y después de unos años pues estaba usando una aplicación, no sé si la conoces, como Audius se llama?",
+      "raw_text": "¿Y después de unos años pues estaba usando una aplicación, no sé si la conoces, como Audius se llama?",
+      "start_time": 854.47,
+      "end_time": 862.39
+    },
+    {
+      "index": 121,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Sí, claro, claro.",
+      "raw_text": "Sí, claro, claro.",
+      "start_time": 863.11,
+      "end_time": 863.91
+    },
+    {
+      "index": 122,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "En Solana.",
+      "raw_text": "En Solana.",
+      "start_time": 863.91,
+      "end_time": 864.71
+    },
+    {
+      "index": 123,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Exacto.",
+      "raw_text": "Exacto.",
+      "start_time": 865.59,
+      "end_time": 866.31
+    },
+    {
+      "index": 124,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Pues justamente.",
+      "raw_text": "Pues justamente.",
+      "start_time": 867.43,
+      "end_time": 868.15
+    },
+    {
+      "index": 125,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Pues como es todo esto, el sonido y demás, me gusta bastante la música y andaba ahí, siempre me gusta probar aplicaciones nuevas y ver cómo, por dónde se mueve eso.",
+      "raw_text": "Pues como es todo esto, el sonido y demás, me gusta bastante la música y andaba ahí, siempre me gusta probar aplicaciones nuevas y ver cómo, por dónde se mueve eso.",
+      "start_time": 869.75,
+      "end_time": 879.39
+    },
+    {
+      "index": 126,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y justo comencé a usar Audius al principio y un día, como un año después dicen, ah, mira, somos web y de repente tengo tokens de nuevo y como que ahí cae con el hoyo de nuevo.",
+      "raw_text": "Y justo comencé a usar Audius al principio y un día, como un año después dicen, ah, mira, somos web y de repente tengo tokens de nuevo y como que ahí cae con el hoyo de nuevo.",
+      "start_time": 879.63,
+      "end_time": 889.07
+    },
+    {
+      "index": 127,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Esto ya es.",
+      "raw_text": "Esto ya es.",
+      "start_time": 889.63,
+      "end_time": 890.39
+    },
+    {
+      "index": 128,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Estamos hablando finales 2020.",
+      "raw_text": "Estamos hablando finales 2020.",
+      "start_time": 890.39,
+      "end_time": 892.99
+    },
+    {
+      "index": 129,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Sí, finales 2020, principios 2021.",
+      "raw_text": "Sí, finales 2020, principios 2021.",
+      "start_time": 893.389,
+      "end_time": 895.71
+    },
+    {
+      "index": 130,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Ahí me pongo en contacto de nuevo con mi amigo que teníamos unos años que no hablábamos y él estaba trabajando en cripto también y digamos me ayudó a bajar un poco en el rabbit hole, aprender y pues de ahí.",
+      "raw_text": "Ahí me pongo en contacto de nuevo con mi amigo que teníamos unos años que no hablábamos y él estaba trabajando en cripto también y digamos me ayudó a bajar un poco en el rabbit hole, aprender y pues de ahí.",
+      "start_time": 896.51,
+      "end_time": 910.92
+    },
+    {
+      "index": 131,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Desde ahí estamos acá.",
+      "raw_text": "Desde ahí estamos acá.",
+      "start_time": 912.92,
+      "end_time": 914.12
+    },
+    {
+      "index": 132,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Chingón, chingón.",
+      "raw_text": "Chingón, chingón.",
+      "start_time": 914.84,
+      "end_time": 916.04
+    },
+    {
+      "index": 133,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿La neta me gusta que nos platique la gente, digo lo que quiera, pero pues de dónde, de dónde entendió, dónde conoció, cuándo hizo ese clic?",
+      "raw_text": "¿La neta me gusta que nos platique la gente, digo lo que quiera, pero pues de dónde, de dónde entendió, dónde conoció, cuándo hizo ese clic?",
+      "start_time": 916.12,
+      "end_time": 924.56
+    },
+    {
+      "index": 134,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Porque creo yo que ya que uno entra y en realidad se pone a, le dedica tiempo a aprender sobre estas tecnologías, se clava y para mí en lo personal ha sido dificilísimo salir y creo que esas historias ayudan a que la banda entienda o vea cómo todos hemos de alguna u otra forma acabado por acá y tratando de construir.",
+      "raw_text": "Porque creo yo que ya que uno entra y en realidad se pone a, le dedica tiempo a aprender sobre estas tecnologías, se clava y para mí en lo personal ha sido dificilísimo salir y creo que esas historias ayudan a que la banda entienda o vea cómo todos hemos de alguna u otra forma acabado por acá y tratando de construir.",
+      "start_time": 924.56,
+      "end_time": 944.77
+    },
+    {
+      "index": 135,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Bueno, ya tú ya tienes un rato haciendo cosas chidas, traes ahí un programa muy, muy interesante, cómo entras con la IDO, o sea, cómo te enteras de toda esta disrupción que hay en DeFi con el tema de staking.",
+      "raw_text": "Bueno, ya tú ya tienes un rato haciendo cosas chidas, traes ahí un programa muy, muy interesante, cómo entras con la IDO, o sea, cómo te enteras de toda esta disrupción que hay en DeFi con el tema de staking.",
+      "start_time": 945.33,
+      "end_time": 957.97
+    },
+    {
+      "index": 136,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Cómo entras a Lido?",
+      "raw_text": "¿Cómo entras a Lido?",
+      "start_time": 958.29,
+      "end_time": 959.49
+    },
+    {
+      "index": 137,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Cómo es ese proceso?",
+      "raw_text": "¿Cómo es ese proceso?",
+      "start_time": 959.49,
+      "end_time": 960.29
+    },
+    {
+      "index": 138,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Pues después de DevCon en Bogotá, como que.",
+      "raw_text": "Pues después de DevCon en Bogotá, como que.",
+      "start_time": 963.26,
+      "end_time": 968.38
+    },
+    {
+      "index": 139,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Una buena cantidad de los que andábamos haciendo meetups locales en varios países nos reuníamos y demás, no me acuerdo, creo que cada dos semanas o una vez al mes o así.",
+      "raw_text": "Una buena cantidad de los que andábamos haciendo meetups locales en varios países nos reuníamos y demás, no me acuerdo, creo que cada dos semanas o una vez al mes o así.",
+      "start_time": 970.3,
+      "end_time": 985.1
+    },
+    {
+      "index": 140,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "¿Y en una sale un chico y pregunta bueno y que si corremos nodos en nuestras comunidades?",
+      "raw_text": "¿Y en una sale un chico y pregunta bueno y que si corremos nodos en nuestras comunidades?",
+      "start_time": 987.47,
+      "end_time": 992.99
+    },
+    {
+      "index": 141,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y como que hicimos un pequeño grupito de trabajo y comenzamos a investigar porque habían como asuntos de seguridad relacionados y qué sé yo.",
+      "raw_text": "Y como que hicimos un pequeño grupito de trabajo y comenzamos a investigar porque habían como asuntos de seguridad relacionados y qué sé yo.",
+      "start_time": 993.39,
+      "end_time": 1002.11
+    },
+    {
+      "index": 142,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "No sé cómo me gustó el tema, fui cayendo por ahí y.",
+      "raw_text": "No sé cómo me gustó el tema, fui cayendo por ahí y.",
+      "start_time": 1002.27,
+      "end_time": 1007.79
+    },
+    {
+      "index": 143,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Lo que decidimos hacer era, bueno, no estábamos todavía al nivel y justamente por ahí se acababan de anunciar y estaban saliendo como DVT y demás.",
+      "raw_text": "Lo que decidimos hacer era, bueno, no estábamos todavía al nivel y justamente por ahí se acababan de anunciar y estaban saliendo como DVT y demás.",
+      "start_time": 1009.55,
+      "end_time": 1020.52
+    },
+    {
+      "index": 144,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Dijimos bueno, esto de DBT está bueno, puede ser la respuesta a los problemas que estábamos.",
+      "raw_text": "Dijimos bueno, esto de DBT está bueno, puede ser la respuesta a los problemas que estábamos.",
+      "start_time": 1020.52,
+      "end_time": 1024.52
+    },
+    {
+      "index": 145,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Viendo.",
+      "raw_text": "Viendo.",
+      "start_time": 1026.12,
+      "end_time": 1026.84
+    },
+    {
+      "index": 146,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y mientras salía eso de DBT, mientras nosotros mismos practicábamos, pues hacíamos como bastantes, procurábamos.",
+      "raw_text": "Y mientras salía eso de DBT, mientras nosotros mismos practicábamos, pues hacíamos como bastantes, procurábamos.",
+      "start_time": 1027.4,
+      "end_time": 1035.96
+    },
+    {
+      "index": 147,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Procuramos conectar con proyectos, les escribíamos, decíamos hey mira pues esto es Latinoamérica, esto tal, así, tal asá, deberían de prestar un ojo a Latinoamérica.",
+      "raw_text": "Procuramos conectar con proyectos, les escribíamos, decíamos hey mira pues esto es Latinoamérica, esto tal, así, tal asá, deberían de prestar un ojo a Latinoamérica.",
+      "start_time": 1038.289,
+      "end_time": 1052.689
+    },
+    {
+      "index": 148,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y ahí pues llegamos a hacer algún Twitter space, alguna actividad, alguna que otra cosa con un par de proyectos en el espacio staking.",
+      "raw_text": "Y ahí pues llegamos a hacer algún Twitter space, alguna actividad, alguna que otra cosa con un par de proyectos en el espacio staking.",
+      "start_time": 1054.049,
+      "end_time": 1061.569
+    },
+    {
+      "index": 149,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y justamente por ahí llega Laido y dice bueno, estamos buscando, estamos a punto de volver el protocolo permissionless, a punto entre comillas.",
+      "raw_text": "Y justamente por ahí llega Laido y dice bueno, estamos buscando, estamos a punto de volver el protocolo permissionless, a punto entre comillas.",
+      "start_time": 1063.91,
+      "end_time": 1074.15
+    },
+    {
+      "index": 150,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "El producto lo habían anunciado pero todavía faltaba bastante tiempo, desarrollo.",
+      "raw_text": "El producto lo habían anunciado pero todavía faltaba bastante tiempo, desarrollo.",
+      "start_time": 1074.39,
+      "end_time": 1078.07
+    },
+    {
+      "index": 151,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Pero eso, o sea, querían gente que comenzara a trabajar con ellos.",
+      "raw_text": "Pero eso, o sea, querían gente que comenzara a trabajar con ellos.",
+      "start_time": 1078.79,
+      "end_time": 1082.63
+    },
+    {
+      "index": 152,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Para esto.",
+      "raw_text": "Para esto.",
+      "start_time": 1085.51,
+      "end_time": 1086.15
+    },
+    {
+      "index": 153,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y pues me lo pensé bastante, honestamente, si te soy sincero, incluso la forma en la que estaba presentado, pensé que iba a ser otra cosa, pensé que iba a tomar menos tiempo, pensé que completamente diferente porque tenía mi trabajo como quiera.",
+      "raw_text": "Y pues me lo pensé bastante, honestamente, si te soy sincero, incluso la forma en la que estaba presentado, pensé que iba a ser otra cosa, pensé que iba a tomar menos tiempo, pensé que completamente diferente porque tenía mi trabajo como quiera.",
+      "start_time": 1086.95,
+      "end_time": 1101.6
+    },
+    {
+      "index": 154,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Pero igual me mandé.",
+      "raw_text": "Pero igual me mandé.",
+      "start_time": 1103.04,
+      "end_time": 1104.32
+    },
+    {
+      "index": 155,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Al final resulta que no, que era más demandante de lo que pensaba.",
+      "raw_text": "Al final resulta que no, que era más demandante de lo que pensaba.",
+      "start_time": 1104.32,
+      "end_time": 1107.68
+    },
+    {
+      "index": 156,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Me tocó elegir y la verdad es que me gusta bastante el tema.",
+      "raw_text": "Me tocó elegir y la verdad es que me gusta bastante el tema.",
+      "start_time": 1108.32,
+      "end_time": 1111.76
+    },
+    {
+      "index": 157,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Así que acá estamos.",
+      "raw_text": "Así que acá estamos.",
+      "start_time": 1111.76,
+      "end_time": 1113.28
+    },
+    {
+      "index": 158,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Uy, de repente, a ver.",
+      "raw_text": "Uy, de repente, a ver.",
+      "start_time": 1122.81,
+      "end_time": 1124.89
+    },
+    {
+      "index": 159,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Estoy aquí batallando un segundito.",
+      "raw_text": "Estoy aquí batallando un segundito.",
+      "start_time": 1126.81,
+      "end_time": 1129.53
+    },
+    {
+      "index": 160,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Creo que te estoy escuchando, pero ahí estamos.",
+      "raw_text": "Creo que te estoy escuchando, pero ahí estamos.",
+      "start_time": 1133.13,
+      "end_time": 1135.21
+    },
+    {
+      "index": 161,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Cuánto llevas ya en Lido y cuál es tu rol?",
+      "raw_text": "¿Cuánto llevas ya en Lido y cuál es tu rol?",
+      "start_time": 1135.21,
+      "end_time": 1138.57
+    },
+    {
+      "index": 162,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Porque sé que estás encargado de todo lo que es Home Staking, pero no sé si seas tu única responsabilidad o tengas.",
+      "raw_text": "Porque sé que estás encargado de todo lo que es Home Staking, pero no sé si seas tu única responsabilidad o tengas.",
+      "start_time": 1138.57,
+      "end_time": 1146.04
+    },
+    {
+      "index": 163,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Algunos otros temas que estés revisando.",
+      "raw_text": "Algunos otros temas que estés revisando.",
+      "start_time": 1147.56,
+      "end_time": 1149.28
+    },
+    {
+      "index": 164,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Sé que das muchos workshops, hemos estado mucho en pláticas para ver cómo se colabora, acá con la gente en Latinoamérica.",
+      "raw_text": "Sé que das muchos workshops, hemos estado mucho en pláticas para ver cómo se colabora, acá con la gente en Latinoamérica.",
+      "start_time": 1149.28,
+      "end_time": 1155.72
+    },
+    {
+      "index": 165,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Pero.",
+      "raw_text": "¿Pero.",
+      "start_time": 1156.2,
+      "end_time": 1156.6
+    },
+    {
+      "index": 166,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "De qué te encargas?",
+      "raw_text": "De qué te encargas?",
+      "start_time": 1158.52,
+      "end_time": 1159.44
+    },
+    {
+      "index": 167,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Cuál es tu rol en lado?",
+      "raw_text": "¿Cuál es tu rol en lado?",
+      "start_time": 1159.44,
+      "end_time": 1160.84
+    },
+    {
+      "index": 168,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Qué es lo que estás haciendo?",
+      "raw_text": "¿Qué es lo que estás haciendo?",
+      "start_time": 1160.92,
+      "end_time": 1161.96
+    },
+    {
+      "index": 169,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Y qué te gustaría que la banda que nos está escuchando el día de hoy ¿Cómo podía colaborar contigo y con la compañía?",
+      "raw_text": "Y qué te gustaría que la banda que nos está escuchando el día de hoy ¿Cómo podía colaborar contigo y con la compañía?",
+      "start_time": 1162.92,
+      "end_time": 1170.78
+    },
+    {
+      "index": 170,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "La mejor forma de colaborar conmigo, con LADO y con Ethereum es corriendo un nodo.",
+      "raw_text": "La mejor forma de colaborar conmigo, con LADO y con Ethereum es corriendo un nodo.",
+      "start_time": 1172.62,
+      "end_time": 1176.94
+    },
+    {
+      "index": 171,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Eso de entrada no hay ni que pensárselo mucho.",
+      "raw_text": "Eso de entrada no hay ni que pensárselo mucho.",
+      "start_time": 1177.98,
+      "end_time": 1180.38
+    },
+    {
+      "index": 172,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Pero bueno, en Lido.",
+      "raw_text": "Pero bueno, en Lido.",
+      "start_time": 1181.82,
+      "end_time": 1184.62
+    },
+    {
+      "index": 173,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Mi primera reunión así formal fue en diciembre del 23, o sea que tengo poco más de un año.",
+      "raw_text": "Mi primera reunión así formal fue en diciembre del 23, o sea que tengo poco más de un año.",
+      "start_time": 1186.3,
+      "end_time": 1194.63
+    },
+    {
+      "index": 174,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y por ahora, justamente recién.",
+      "raw_text": "Y por ahora, justamente recién.",
+      "start_time": 1197.43,
+      "end_time": 1200.91
+    },
+    {
+      "index": 175,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Oh, justamente recién un año.",
+      "raw_text": "Oh, justamente recién un año.",
+      "start_time": 1200.91,
+      "end_time": 1202.55
+    },
+    {
+      "index": 176,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Estoy sirviendo como el coordinador de los Community Lifeguards, que es este equipo de equipo.",
+      "raw_text": "Estoy sirviendo como el coordinador de los Community Lifeguards, que es este equipo de equipo.",
+      "start_time": 1204.23,
+      "end_time": 1213.15
+    },
+    {
+      "index": 177,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Somos dos personas, pero estamos encargados de.",
+      "raw_text": "Somos dos personas, pero estamos encargados de.",
+      "start_time": 1213.15,
+      "end_time": 1216.47
+    },
+    {
+      "index": 178,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Estamos en gran parte encargados de crecer y mantener engage a los operadores independientes en Lido mediante actividades, workshops, como el que viste esta mañana.",
+      "raw_text": "Estamos en gran parte encargados de crecer y mantener engage a los operadores independientes en Lido mediante actividades, workshops, como el que viste esta mañana.",
+      "start_time": 1219.76,
+      "end_time": 1235.76
+    },
+    {
+      "index": 179,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Pero también hay, no sé, hay grants, intentamos hacer otras cosas, intentamos armar algunos programas, etcétera, etcétera.",
+      "raw_text": "Pero también hay, no sé, hay grants, intentamos hacer otras cosas, intentamos armar algunos programas, etcétera, etcétera.",
+      "start_time": 1236.4,
+      "end_time": 1243.12
+    },
+    {
+      "index": 180,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Si, la neta.",
+      "raw_text": "Si, la neta.",
+      "start_time": 1244.73,
+      "end_time": 1245.49
+    },
+    {
+      "index": 181,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Por ahí yo les puedo platicar un poquito.",
+      "raw_text": "Por ahí yo les puedo platicar un poquito.",
+      "start_time": 1245.49,
+      "end_time": 1247.69
+    },
+    {
+      "index": 182,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Bueno, primero que nada, me escucho bien, ya puse audífonos y a veces me escucho muy bajito.",
+      "raw_text": "Bueno, primero que nada, me escucho bien, ya puse audífonos y a veces me escucho muy bajito.",
+      "start_time": 1247.85,
+      "end_time": 1252.09
+    },
+    {
+      "index": 183,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Perfecto.",
+      "raw_text": "Perfecto.",
+      "start_time": 1252.89,
+      "end_time": 1253.29
+    },
+    {
+      "index": 184,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ya cuando salgo de mi casa siempre hincho el setup en los hoteles.",
+      "raw_text": "Ya cuando salgo de mi casa siempre hincho el setup en los hoteles.",
+      "start_time": 1253.29,
+      "end_time": 1258.09
+    },
+    {
+      "index": 185,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Pero.",
+      "raw_text": "Pero.",
+      "start_time": 1258.41,
+      "end_time": 1258.81
+    },
+    {
+      "index": 186,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Yo empecé a correr nodos hace como unos cinco años.",
+      "raw_text": "Yo empecé a correr nodos hace como unos cinco años.",
+      "start_time": 1260.33,
+      "end_time": 1263.85
+    },
+    {
+      "index": 187,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Yo empecé con un nodo de Bitcoin en una máquina toda vieja.",
+      "raw_text": "Yo empecé con un nodo de Bitcoin en una máquina toda vieja.",
+      "start_time": 1263.93,
+      "end_time": 1267.45
+    },
+    {
+      "index": 188,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Alcancé a poner una.",
+      "raw_text": "Alcancé a poner una.",
+      "start_time": 1267.69,
+      "end_time": 1269.45
+    },
+    {
+      "index": 189,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Sí.",
+      "raw_text": "Sí.",
+      "start_time": 1272.75,
+      "end_time": 1272.95
+    },
+    {
+      "index": 190,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Instalé también Lightning, abrí canales, empecé a probar mucho eso.",
+      "raw_text": "Instalé también Lightning, abrí canales, empecé a probar mucho eso.",
+      "start_time": 1272.95,
+      "end_time": 1275.99
+    },
+    {
+      "index": 191,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Por qué?",
+      "raw_text": "¿Por qué?",
+      "start_time": 1275.99,
+      "end_time": 1276.43
+    },
+    {
+      "index": 192,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Yo soy ingeniero en electrónica.",
+      "raw_text": "Yo soy ingeniero en electrónica.",
+      "start_time": 1276.43,
+      "end_time": 1277.91
+    },
+    {
+      "index": 193,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Teníamos, cuando yo estaba niño, joven igual, cuando tú decías carrera, bachillerato, entre esas épocas, tiendas de máquinas de computadoras, de software, de juegos de Nintendo, teníamos módems de esos viejitos.",
+      "raw_text": "Teníamos, cuando yo estaba niño, joven igual, cuando tú decías carrera, bachillerato, entre esas épocas, tiendas de máquinas de computadoras, de software, de juegos de Nintendo, teníamos módems de esos viejitos.",
+      "start_time": 1277.91,
+      "end_time": 1290.63
+    },
+    {
+      "index": 194,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Yo empecé a jugar estos juegos que eran puro texto.",
+      "raw_text": "Yo empecé a jugar estos juegos que eran puro texto.",
+      "start_time": 1290.63,
+      "end_time": 1293.83
+    },
+    {
+      "index": 195,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "No sé si les tocó alguno de los que nos escuchan, los Bulletin Board System, que le picabas norte y caminabas al norte, cast, spell, todo con CI, command line, interface, colores, puntos, no sé.",
+      "raw_text": "No sé si les tocó alguno de los que nos escuchan, los Bulletin Board System, que le picabas norte y caminabas al norte, cast, spell, todo con CI, command line, interface, colores, puntos, no sé.",
+      "start_time": 1293.83,
+      "end_time": 1307.41
+    },
+    {
+      "index": 196,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Siempre me gustó mucho este tema de tecnología y los fierros.",
+      "raw_text": "Siempre me gustó mucho este tema de tecnología y los fierros.",
+      "start_time": 1307.41,
+      "end_time": 1310.21
+    },
+    {
+      "index": 197,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Y cuando conocí bitcoin En el 2017, dije madres, me voló la cabeza.",
+      "raw_text": "Y cuando conocí bitcoin En el 2017, dije madres, me voló la cabeza.",
+      "start_time": 1310.29,
+      "end_time": 1313.85
+    },
+    {
+      "index": 198,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Me metí, me clavé, empecé con el nodo, puse temas de Lightning, terminamos de repente pusimos unos nodos de minería en una oficina de un hermano.",
+      "raw_text": "Me metí, me clavé, empecé con el nodo, puse temas de Lightning, terminamos de repente pusimos unos nodos de minería en una oficina de un hermano.",
+      "start_time": 1313.85,
+      "end_time": 1324.29
+    },
+    {
+      "index": 199,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Acabamos luego comprando unas máquinas súper potentes.",
+      "raw_text": "Acabamos luego comprando unas máquinas súper potentes.",
+      "start_time": 1324.69,
+      "end_time": 1327.71
+    },
+    {
+      "index": 200,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Cuando era proof of work, la pusimos a jalar, yo creí que se iba a tardar más el cambio, te soy sincero, yo creí que se iba a tardar más el cambio de proof of work a proof of stake y no le pudimos sacar retorno, cambió a proof of stake y ahí están las máquinas, ya las estamos vendiendo como partes para inteligencia artificial, pero ha sido un proceso bien interesante de entender cómo funciona la tecnología y que no son sistemas totalmente autónomos, o sea, es gente la que está corriendo y operando estos nodos.",
+      "raw_text": "Cuando era proof of work, la pusimos a jalar, yo creí que se iba a tardar más el cambio, te soy sincero, yo creí que se iba a tardar más el cambio de proof of work a proof of stake y no le pudimos sacar retorno, cambió a proof of stake y ahí están las máquinas, ya las estamos vendiendo como partes para inteligencia artificial, pero ha sido un proceso bien interesante de entender cómo funciona la tecnología y que no son sistemas totalmente autónomos, o sea, es gente la que está corriendo y operando estos nodos.",
+      "start_time": 1327.71,
+      "end_time": 1356.19
+    },
+    {
+      "index": 201,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "También yo uso mucho el contexto de que trabajé 11 años construyendo y dándole mantenimiento a data centers en Monterrey y en Querétaro, en todo el mundo, pero madres, es un dolor de cabeza, o sea, no es sencillo correr un data center, tienes temas de redundancia, tienes temas de control de temperatura, humedad, etcétera y mucho de lo que estamos viendo ahorita es ya cómo esos requisitos y todas esas pues imposibilidades técnicas se van disminuyendo, se van eliminando y ahorita tú ya con poca inversión puedes tener un nodo validador que esté generando pues la verdad un rendimiento interesante.",
+      "raw_text": "También yo uso mucho el contexto de que trabajé 11 años construyendo y dándole mantenimiento a data centers en Monterrey y en Querétaro, en todo el mundo, pero madres, es un dolor de cabeza, o sea, no es sencillo correr un data center, tienes temas de redundancia, tienes temas de control de temperatura, humedad, etcétera y mucho de lo que estamos viendo ahorita es ya cómo esos requisitos y todas esas pues imposibilidades técnicas se van disminuyendo, se van eliminando y ahorita tú ya con poca inversión puedes tener un nodo validador que esté generando pues la verdad un rendimiento interesante.",
+      "start_time": 1356.75,
+      "end_time": 1394.7
+    },
+    {
+      "index": 202,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Cómo has visto tú para ti cómo ha sido ese proceso de.",
+      "raw_text": "¿Cómo has visto tú para ti cómo ha sido ese proceso de.",
+      "start_time": 1395.74,
+      "end_time": 1398.299
+    },
+    {
+      "index": 203,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "No sé por dónde entraste, si conociste Bitcoin y luego Ethereum, etcétera, pero el tema de proof of work, proof of stake y ahorita lo que está haciendo Lido que tiene pues entiendo la mayor cantidad de Ether en staking protegiendo la red?",
+      "raw_text": "No sé por dónde entraste, si conociste Bitcoin y luego Ethereum, etcétera, pero el tema de proof of work, proof of stake y ahorita lo que está haciendo Lido que tiene pues entiendo la mayor cantidad de Ether en staking protegiendo la red?",
+      "start_time": 1400.22,
+      "end_time": 1413.35
+    },
+    {
+      "index": 204,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Platícame un poquito de cómo has visto, cómo ha sido para ti ese proceso de cambios y qué finalmente es lo que está haciendo ahorita Laido porque Lido es un monstruo en la industria enorme, que tiene.",
+      "raw_text": "Platícame un poquito de cómo has visto, cómo ha sido para ti ese proceso de cambios y qué finalmente es lo que está haciendo ahorita Laido porque Lido es un monstruo en la industria enorme, que tiene.",
+      "start_time": 1413.51,
+      "end_time": 1426.15
+    },
+    {
+      "index": 205,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Mucho TBL y creo que es una de las mejores aplicaciones que existen ahorita para hacer este tipo de liquid staking.",
+      "raw_text": "Mucho TBL y creo que es una de las mejores aplicaciones que existen ahorita para hacer este tipo de liquid staking.",
+      "start_time": 1428.47,
+      "end_time": 1435.38
+    },
+    {
+      "index": 206,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Bueno, o sea.",
+      "raw_text": "Bueno, o sea.",
+      "start_time": 1441.61,
+      "end_time": 1442.33
+    },
+    {
+      "index": 207,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "A ver, a ver, porque hay como un par de preguntas ahí, es un poco de información condensada.",
+      "raw_text": "A ver, a ver, porque hay como un par de preguntas ahí, es un poco de información condensada.",
+      "start_time": 1445.69,
+      "end_time": 1451.37
+    },
+    {
+      "index": 208,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Pero.",
+      "raw_text": "Pero.",
+      "start_time": 1452.89,
+      "end_time": 1453.29
+    },
+    {
+      "index": 209,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Pues justamente yo como que entré a trabajar tiempo completo.",
+      "raw_text": "Pues justamente yo como que entré a trabajar tiempo completo.",
+      "start_time": 1455.45,
+      "end_time": 1460.09
+    },
+    {
+      "index": 210,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "A cripto unos meses antes del merch y fue una locura, o sea, fue una locura nada más entrar a trabajar en cripto, pero también como.",
+      "raw_text": "A cripto unos meses antes del merch y fue una locura, o sea, fue una locura nada más entrar a trabajar en cripto, pero también como.",
+      "start_time": 1461.7,
+      "end_time": 1471.14
+    },
+    {
+      "index": 211,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "En ese momento preciso porque.",
+      "raw_text": "En ese momento preciso porque.",
+      "start_time": 1472.66,
+      "end_time": 1474.74
+    },
+    {
+      "index": 212,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Primero era un montón de información, me acuerdo que la primera semana.",
+      "raw_text": "Primero era un montón de información, me acuerdo que la primera semana.",
+      "start_time": 1477.06,
+      "end_time": 1480.18
+    },
+    {
+      "index": 213,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Honestamente me rendí, dije bueno entro mi amigo, me pasó mucha documentación, la leo y digo bueno gracias por la oportunidad, lo mejor a mí, nos vemos después, chao.",
+      "raw_text": "Honestamente me rendí, dije bueno entro mi amigo, me pasó mucha documentación, la leo y digo bueno gracias por la oportunidad, lo mejor a mí, nos vemos después, chao.",
+      "start_time": 1482.34,
+      "end_time": 1491.6
+    },
+    {
+      "index": 214,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Me leí, él trabajaba para un protocolo que había deployado un par de cosas, un exchange, gobernanza, no sé qué, pues me leí todo eso y la cabeza me explotar y después como las dos o tres semanas me hizo clic, volví, pues ahí agarré fuerza pero era un montón de cosas y después vienen y me dicen, hey, la cadena sobre la que está corriendo todo esto va a cambiar todo, o sea lo que sabes muy bien pero olvídalo.",
+      "raw_text": "Me leí, él trabajaba para un protocolo que había deployado un par de cosas, un exchange, gobernanza, no sé qué, pues me leí todo eso y la cabeza me explotar y después como las dos o tres semanas me hizo clic, volví, pues ahí agarré fuerza pero era un montón de cosas y después vienen y me dicen, hey, la cadena sobre la que está corriendo todo esto va a cambiar todo, o sea lo que sabes muy bien pero olvídalo.",
+      "start_time": 1492.72,
+      "end_time": 1519.77
+    },
+    {
+      "index": 215,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Así que fue bastante intenso pero igual yo nunca estuve tan.",
+      "raw_text": "Así que fue bastante intenso pero igual yo nunca estuve tan.",
+      "start_time": 1521.45,
+      "end_time": 1526.17
+    },
+    {
+      "index": 216,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Quizás tan cerca, nunca llegué a ver tan de cerca el asunto de proof of work o proof of stake, ninguno de los dos, hasta esto que te digo, después que digo, bueno, ahora es mucho más fácil sí que obviamente cuando entré había visto lo de minar y había puesto, habían como unas páginas web que te ponían a minar en la computadora y escuchabas cómo se encendía el abanico a mil y qué sé yo, me acuerdo de.",
+      "raw_text": "Quizás tan cerca, nunca llegué a ver tan de cerca el asunto de proof of work o proof of stake, ninguno de los dos, hasta esto que te digo, después que digo, bueno, ahora es mucho más fácil sí que obviamente cuando entré había visto lo de minar y había puesto, habían como unas páginas web que te ponían a minar en la computadora y escuchabas cómo se encendía el abanico a mil y qué sé yo, me acuerdo de.",
+      "start_time": 1528.41,
+      "end_time": 1557.829
+    },
+    {
+      "index": 217,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Esas apps, cabrón.",
+      "raw_text": "Esas apps, cabrón.",
+      "start_time": 1557.829,
+      "end_time": 1558.87
+    },
+    {
+      "index": 218,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Eso es todo lo.",
+      "raw_text": "Eso es todo lo.",
+      "start_time": 1560.39,
+      "end_time": 1561.07
+    },
+    {
+      "index": 219,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Que sabía y dije bueno, si puedo hacer dinero, hago dinero y está, que se yo, hice algunos centavos y no me sirvió de nada.",
+      "raw_text": "Que sabía y dije bueno, si puedo hacer dinero, hago dinero y está, que se yo, hice algunos centavos y no me sirvió de nada.",
+      "start_time": 1561.07,
+      "end_time": 1566.95
+    },
+    {
+      "index": 220,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y pues después con esto que te digo, siempre me gustaron los sistemas, supongo que esa es la razón por la que incluso estudié sonido, lo que yo estudié realmente hice una secundaria técnica, la secundaria técnica hice electrónica y después la terminé en sonido, como que no sé, me interesaba cómo las ondas sonoras pasaban a ser digitales y viceversa y cómo todo se movía y pues igual siempre donde he trabajado, como he tenido ese interés y al final ese interés me llegó a la génesis de las blockchains como en el caso de Ethereum es el proof of stake.",
+      "raw_text": "Y pues después con esto que te digo, siempre me gustaron los sistemas, supongo que esa es la razón por la que incluso estudié sonido, lo que yo estudié realmente hice una secundaria técnica, la secundaria técnica hice electrónica y después la terminé en sonido, como que no sé, me interesaba cómo las ondas sonoras pasaban a ser digitales y viceversa y cómo todo se movía y pues igual siempre donde he trabajado, como he tenido ese interés y al final ese interés me llegó a la génesis de las blockchains como en el caso de Ethereum es el proof of stake.",
+      "start_time": 1570.08,
+      "end_time": 1611.84
+    },
+    {
+      "index": 221,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "El core, lo que lo mantiene vivo.",
+      "raw_text": "El core, lo que lo mantiene vivo.",
+      "start_time": 1613.84,
+      "end_time": 1615.44
+    },
+    {
+      "index": 222,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y entonces en el caso de Lido específicamente pues sí, Laido es ahora mismo el protocolo de staking más grande, Ethereum tiene aproximadamente 27.28% del market share dividido entre un buen par de cientos de operadores.",
+      "raw_text": "Y entonces en el caso de Lido específicamente pues sí, Laido es ahora mismo el protocolo de staking más grande, Ethereum tiene aproximadamente 27.28% del market share dividido entre un buen par de cientos de operadores.",
+      "start_time": 1617.36,
+      "end_time": 1639.88
+    },
+    {
+      "index": 223,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y la idea un poco de Lido es como.",
+      "raw_text": "Y la idea un poco de Lido es como.",
+      "start_time": 1641.48,
+      "end_time": 1643.56
+    },
+    {
+      "index": 224,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Bueno, a ver.",
+      "raw_text": "Bueno, a ver.",
+      "start_time": 1645.88,
+      "end_time": 1646.68
+    },
+    {
+      "index": 225,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Hay ecosistemas, sobre todo ecosistemas más nuevos que están diseñados diferentes, que tienen staking nativo, no sé qué, y pues en Ethereum por alguna razón se decidió no hacerlo y Lido viene y creo que podría definir, por lo menos en mi opinión el valor de dos formas, es como por un lado es construir esa capa de staking que Ethereum no, que la IE en general no hizo de forma nativa pero también y eso implica como hacerla bien, pensarla bien, ir despacio y con mucha cabeza pero también hacerlo de una forma pragmática para poder competir contra.",
+      "raw_text": "Hay ecosistemas, sobre todo ecosistemas más nuevos que están diseñados diferentes, que tienen staking nativo, no sé qué, y pues en Ethereum por alguna razón se decidió no hacerlo y Lido viene y creo que podría definir, por lo menos en mi opinión el valor de dos formas, es como por un lado es construir esa capa de staking que Ethereum no, que la IE en general no hizo de forma nativa pero también y eso implica como hacerla bien, pensarla bien, ir despacio y con mucha cabeza pero también hacerlo de una forma pragmática para poder competir contra.",
+      "start_time": 1648.85,
+      "end_time": 1695.02
+    },
+    {
+      "index": 226,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Entidades que se benefician mucho de de economías de escala y demás como centralized exchanges tipo Coinbase, Binance, okex y también otra clase de operadores.",
+      "raw_text": "Entidades que se benefician mucho de de economías de escala y demás como centralized exchanges tipo Coinbase, Binance, okex y también otra clase de operadores.",
+      "start_time": 1697.1,
+      "end_time": 1708.47
+    },
+    {
+      "index": 227,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Es como que intentar salvaguardar.",
+      "raw_text": "Es como que intentar salvaguardar.",
+      "start_time": 1708.71,
+      "end_time": 1711.47
+    },
+    {
+      "index": 228,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Es una posición complicada porque.",
+      "raw_text": "Es una posición complicada porque.",
+      "start_time": 1711.47,
+      "end_time": 1713.35
+    },
+    {
+      "index": 229,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y bueno esto es un tema, esto es un tema largo pero mucha gente critica la posición de Lido, pero Lido está en esa posición.",
+      "raw_text": "Y bueno esto es un tema, esto es un tema largo pero mucha gente critica la posición de Lido, pero Lido está en esa posición.",
+      "start_time": 1718.39,
+      "end_time": 1727.35
+    },
+    {
+      "index": 230,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Para proteger otras cosas como que no ganas ninguna y.",
+      "raw_text": "Para proteger otras cosas como que no ganas ninguna y.",
+      "start_time": 1729.03,
+      "end_time": 1734.31
+    },
+    {
+      "index": 231,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "No, si genera polémica eso que mencionas, el tema de pensamos que tiene que estos sistemas, yo cuando entré había mucha.",
+      "raw_text": "No, si genera polémica eso que mencionas, el tema de pensamos que tiene que estos sistemas, yo cuando entré había mucha.",
+      "start_time": 1734.31,
+      "end_time": 1743.75
+    },
+    {
+      "index": 232,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Sueños de descentralización, de todo se mueve.",
+      "raw_text": "Sueños de descentralización, de todo se mueve.",
+      "start_time": 1745.43,
+      "end_time": 1748.87
+    },
+    {
+      "index": 233,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Entiendo, entiendo que genera polémica y que siempre es un tema que está ahí por la cantidad de Ether que tienen y por lo que eso a lo mejor representa.",
+      "raw_text": "Entiendo, entiendo que genera polémica y que siempre es un tema que está ahí por la cantidad de Ether que tienen y por lo que eso a lo mejor representa.",
+      "start_time": 1750.71,
+      "end_time": 1761.52
+    },
+    {
+      "index": 234,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Pero yo lo que he visto es una tendencia hacia encontrar maneras de que eso no se centralice y de que se pueda proteger por diferentes operadores sin tener que pedir permiso Y es un proceso, no es algo que se va a hacer de la noche a la mañana, yo lo he visto cómo sacan aplicaciones, cómo sacan nuevas versiones, cómo prueban testnets, cómo dejan de ir algunas tenés ya acabamos de ver.",
+      "raw_text": "Pero yo lo que he visto es una tendencia hacia encontrar maneras de que eso no se centralice y de que se pueda proteger por diferentes operadores sin tener que pedir permiso Y es un proceso, no es algo que se va a hacer de la noche a la mañana, yo lo he visto cómo sacan aplicaciones, cómo sacan nuevas versiones, cómo prueban testnets, cómo dejan de ir algunas tenés ya acabamos de ver.",
+      "start_time": 1761.84,
+      "end_time": 1784.81
+    },
+    {
+      "index": 235,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Algunos nodos que tenía yo de tener los tuve que cerrar porque de plano ya dijeron pues ya no se les va a dar soporte.",
+      "raw_text": "Algunos nodos que tenía yo de tener los tuve que cerrar porque de plano ya dijeron pues ya no se les va a dar soporte.",
+      "start_time": 1787.21,
+      "end_time": 1792.09
+    },
+    {
+      "index": 236,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Es un proceso que va poco a poco, no sé tú cómo lo veas.",
+      "raw_text": "Es un proceso que va poco a poco, no sé tú cómo lo veas.",
+      "start_time": 1792.17,
+      "end_time": 1795.13
+    },
+    {
+      "index": 237,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Sí bueno por suerte ya digamos supongo que el sentiment de la gente hacia lado me parece que ha mejorado un poco porque ven el esfuerzo pero.",
+      "raw_text": "Sí bueno por suerte ya digamos supongo que el sentiment de la gente hacia lado me parece que ha mejorado un poco porque ven el esfuerzo pero.",
+      "start_time": 1796.81,
+      "end_time": 1811.04
+    },
+    {
+      "index": 238,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Es justamente eso no, o sea hay protocolos que bueno son sobre el papel serán perfectos o lo que sea súper descentralizados y demás pero lamentablemente no pueden competir contra Coinbase, entonces es como encontrar ese balance es complicado y ser fiel a ese balance es complicado también hubiese sido mucho más fácil la IDO como protocolo el staking, los protocolos de staking como tal no son necesariamente tan complicados, no son sencillos tampoco pero no son tan complicados y laido viene y te arma un arma toste que es bastante complejo solo para procurar mantener ese balance y poco a poco ir cumpliendo con esas promesas en diferentes niveles, con diferentes.",
+      "raw_text": "Es justamente eso no, o sea hay protocolos que bueno son sobre el papel serán perfectos o lo que sea súper descentralizados y demás pero lamentablemente no pueden competir contra Coinbase, entonces es como encontrar ese balance es complicado y ser fiel a ese balance es complicado también hubiese sido mucho más fácil la IDO como protocolo el staking, los protocolos de staking como tal no son necesariamente tan complicados, no son sencillos tampoco pero no son tan complicados y laido viene y te arma un arma toste que es bastante complejo solo para procurar mantener ese balance y poco a poco ir cumpliendo con esas promesas en diferentes niveles, con diferentes.",
+      "start_time": 1813.04,
+      "end_time": 1858.79
+    },
+    {
+      "index": 239,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Mecanismos para intentar proteger o mitigar las preocupaciones.",
+      "raw_text": "Mecanismos para intentar proteger o mitigar las preocupaciones.",
+      "start_time": 1862.86,
+      "end_time": 1867.02
+    },
+    {
+      "index": 240,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "De todo el mundo, los posibles riesgos.",
+      "raw_text": "De todo el mundo, los posibles riesgos.",
+      "start_time": 1868.86,
+      "end_time": 1870.78
+    },
+    {
+      "index": 241,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y sí, eso me parece que la gente está viendo el trabajo, la gente está viendo que se cumple lo que se promete, así que por ahí bien.",
+      "raw_text": "Y sí, eso me parece que la gente está viendo el trabajo, la gente está viendo que se cumple lo que se promete, así que por ahí bien.",
+      "start_time": 1874.22,
+      "end_time": 1884.14
+    },
+    {
+      "index": 242,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Fíjate que sí, yo estoy, recuerdo el sentimiento hace algunos meses escuchaba y leía yo mucho del tema que no sé, a veces a lo mejor los Bitcoin, Maxis o alguno, algún maxi de alguna otra red que está bien que busquen los probables riesgos, las probables fallas, los puntos flojos, digo, hemos visto cómo.",
+      "raw_text": "Fíjate que sí, yo estoy, recuerdo el sentimiento hace algunos meses escuchaba y leía yo mucho del tema que no sé, a veces a lo mejor los Bitcoin, Maxis o alguno, algún maxi de alguna otra red que está bien que busquen los probables riesgos, las probables fallas, los puntos flojos, digo, hemos visto cómo.",
+      "start_time": 1884.79,
+      "end_time": 1907.59
+    },
+    {
+      "index": 243,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Hay sistemas que no conocemos del todo y de repente hay noticias como la de FTX, hackearon a una persona y por eso se robaron y solo a través de, o sea, creo que hay todavía muchos temas que tenemos que seguir experimentando y que probablemente vayan a seguir saliendo porque esa tecnología tiene 15 años nada más, o sea, estamos en ese proceso de irla mejorando, de ir construyendo, de ir poco a poco, yo lo he vivido con con los cambios que he visto en los nodos en los últimos meses, pero no sé, creo que siento que a veces la gente que no dimensiona, no dimensiona todo el paquete y todo el rollo que hay que hacer, no es tan fácil.",
+      "raw_text": "Hay sistemas que no conocemos del todo y de repente hay noticias como la de FTX, hackearon a una persona y por eso se robaron y solo a través de, o sea, creo que hay todavía muchos temas que tenemos que seguir experimentando y que probablemente vayan a seguir saliendo porque esa tecnología tiene 15 años nada más, o sea, estamos en ese proceso de irla mejorando, de ir construyendo, de ir poco a poco, yo lo he vivido con con los cambios que he visto en los nodos en los últimos meses, pero no sé, creo que siento que a veces la gente que no dimensiona, no dimensiona todo el paquete y todo el rollo que hay que hacer, no es tan fácil.",
+      "start_time": 1911.76,
+      "end_time": 1949.93
+    },
+    {
+      "index": 244,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Sí, la verdad que si fuese tan fácil no estaríamos acá, los que estamos acá es porque nos gusta el problema.",
+      "raw_text": "Sí, la verdad que si fuese tan fácil no estaríamos acá, los que estamos acá es porque nos gusta el problema.",
+      "start_time": 1952.97,
+      "end_time": 1959.37
+    },
+    {
+      "index": 245,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Demasiado complicado, hubiese sido más fácil, no sé, comprar.",
+      "raw_text": "Demasiado complicado, hubiese sido más fácil, no sé, comprar.",
+      "start_time": 1959.69,
+      "end_time": 1963.9
+    },
+    {
+      "index": 246,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Cualquier token tonto y hacer bolsa millonario aquí estoy volviendo más pobre todos los días.",
+      "raw_text": "Cualquier token tonto y hacer bolsa millonario aquí estoy volviendo más pobre todos los días.",
+      "start_time": 1965.74,
+      "end_time": 1971.58
+    },
+    {
+      "index": 247,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Mentira.",
+      "raw_text": "Mentira.",
+      "start_time": 1972.62,
+      "end_time": 1973.26
+    },
+    {
+      "index": 248,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Definitivo, definitivo.",
+      "raw_text": "Definitivo, definitivo.",
+      "start_time": 1975.18,
+      "end_time": 1976.38
+    },
+    {
+      "index": 249,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Concuerdo, concuerdo que.",
+      "raw_text": "Concuerdo, concuerdo que.",
+      "start_time": 1978.46,
+      "end_time": 1979.98
+    },
+    {
+      "index": 250,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Se empieza con un producto, se escucha, la gente se va retroalimentando, se va ajustando, es algo que yo he visto y no sé, me imagino que estos módulos de community staking son en base a esa retroalimentación y también para fomentar que haya más personas protegiendo, más personas participando, más personas aprovechando los beneficios de poder hacer staking y de poder tener un retorno.",
+      "raw_text": "Se empieza con un producto, se escucha, la gente se va retroalimentando, se va ajustando, es algo que yo he visto y no sé, me imagino que estos módulos de community staking son en base a esa retroalimentación y también para fomentar que haya más personas protegiendo, más personas participando, más personas aprovechando los beneficios de poder hacer staking y de poder tener un retorno.",
+      "start_time": 1983.1,
+      "end_time": 2008.33
+    },
+    {
+      "index": 251,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Hemos visto ya algunos proyectos buscar este tipo de iniciativas como para fondear bienes públicos, eso es algo que la neta me voló la cabeza cuando escuché un tipo Octant, un tipo no sé, Rancho State por ahí está haciendo cosas así.",
+      "raw_text": "Hemos visto ya algunos proyectos buscar este tipo de iniciativas como para fondear bienes públicos, eso es algo que la neta me voló la cabeza cuando escuché un tipo Octant, un tipo no sé, Rancho State por ahí está haciendo cosas así.",
+      "start_time": 2008.57,
+      "end_time": 2021.7
+    },
+    {
+      "index": 252,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Nosotros aquí en México estamos haciendo pruebas también para entender primero cómo funciona subir luego a Mainet y luego tratar de explicarle a las demás comunidades para que también lo apliquen y ha sido un proceso de meses, si no es que años.",
+      "raw_text": "Nosotros aquí en México estamos haciendo pruebas también para entender primero cómo funciona subir luego a Mainet y luego tratar de explicarle a las demás comunidades para que también lo apliquen y ha sido un proceso de meses, si no es que años.",
+      "start_time": 2021.7,
+      "end_time": 2033.38
+    },
+    {
+      "index": 253,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Y no es fácil, o sea, el operar un nodo, que la banda decida dedicarle un poco de tiempo a la semana, ponle 4 horas a la semana, entender a flashear un drive, podemos poner muchos tecnicismos, pero sí hay que operarlo, o sea, sí hay que meterse a moverle los fierros, a moverle el software, chatear con chatgpt que te ayude a resolver problemas, o sea, somos personas operando estos sistemas.",
+      "raw_text": "Y no es fácil, o sea, el operar un nodo, que la banda decida dedicarle un poco de tiempo a la semana, ponle 4 horas a la semana, entender a flashear un drive, podemos poner muchos tecnicismos, pero sí hay que operarlo, o sea, sí hay que meterse a moverle los fierros, a moverle el software, chatear con chatgpt que te ayude a resolver problemas, o sea, somos personas operando estos sistemas.",
+      "start_time": 2033.54,
+      "end_time": 2063.6
+    },
+    {
+      "index": 254,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Entonces, en lo personal se me hace muy interesante ver esa transición a que más gente pueda entrar, a que más gente pueda participar y me gustaría que me platicaras un poquito de eso, o sea, cómo están estructurando eso.",
+      "raw_text": "Entonces, en lo personal se me hace muy interesante ver esa transición a que más gente pueda entrar, a que más gente pueda participar y me gustaría que me platicaras un poquito de eso, o sea, cómo están estructurando eso.",
+      "start_time": 2064,
+      "end_time": 2078.45
+    },
+    {
+      "index": 255,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Sé que ya hay gente que está utilizando estas tecnologías para hacer staking en comunidad, pero todavía no es como que abierto a todo mundo, no es abierto al público, por así decirlo.",
+      "raw_text": "Sé que ya hay gente que está utilizando estas tecnologías para hacer staking en comunidad, pero todavía no es como que abierto a todo mundo, no es abierto al público, por así decirlo.",
+      "start_time": 2078.45,
+      "end_time": 2091.05
+    },
+    {
+      "index": 256,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Cómo va ese proceso?",
+      "raw_text": "¿Cómo va ese proceso?",
+      "start_time": 2091.05,
+      "end_time": 2092.33
+    },
+    {
+      "index": 257,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "¿Dices en Lido o en general?",
+      "raw_text": "¿Dices en Lido o en general?",
+      "start_time": 2093.21,
+      "end_time": 2095.13
+    },
+    {
+      "index": 258,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Sí, y en general, en general, porque he visto diferentes iniciativas, diferentes proyectos, están haciendo cosas similares pero cada uno con su.",
+      "raw_text": "Sí, y en general, en general, porque he visto diferentes iniciativas, diferentes proyectos, están haciendo cosas similares pero cada uno con su.",
+      "start_time": 2096.179,
+      "end_time": 2104.179
+    },
+    {
+      "index": 259,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Con su tecnología distinta.",
+      "raw_text": "Con su tecnología distinta.",
+      "start_time": 2104.419,
+      "end_time": 2105.939
+    },
+    {
+      "index": 260,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "¿Bueno, o sea, en general creo que.",
+      "raw_text": "¿Bueno, o sea, en general creo que.",
+      "start_time": 2108.099,
+      "end_time": 2111.379
+    },
+    {
+      "index": 261,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Como que se podría dividir en dos pues están saliendo bastante, bastante no?",
+      "raw_text": "Como que se podría dividir en dos pues están saliendo bastante, bastante no?",
+      "start_time": 2113.059,
+      "end_time": 2119.659
+    },
+    {
+      "index": 262,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Están saliendo algunos proyectos que te permiten compartir.",
+      "raw_text": "Están saliendo algunos proyectos que te permiten compartir.",
+      "start_time": 2119.659,
+      "end_time": 2123.55
+    },
+    {
+      "index": 263,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Las recompensas, pero tampoco tienes que correr un nodo, no sé.",
+      "raw_text": "Las recompensas, pero tampoco tienes que correr un nodo, no sé.",
+      "start_time": 2125.39,
+      "end_time": 2128.75
+    },
+    {
+      "index": 264,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Unos chicos propusieron en Lido hacer eso y hay como una plataforma ahora con un par de ONGs que tú puedes usar tu Ether, stackearlo y decir bueno, de mis recompensas le demandas X por ciento.",
+      "raw_text": "Unos chicos propusieron en Lido hacer eso y hay como una plataforma ahora con un par de ONGs que tú puedes usar tu Ether, stackearlo y decir bueno, de mis recompensas le demandas X por ciento.",
+      "start_time": 2132.91,
+      "end_time": 2148.03
+    },
+    {
+      "index": 265,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y pues también está Octan que tenía su propia infraestructura, pero creo que la movieron o la querían mover.",
+      "raw_text": "Y pues también está Octan que tenía su propia infraestructura, pero creo que la movieron o la querían mover.",
+      "start_time": 2150.07,
+      "end_time": 2157.11
+    },
+    {
+      "index": 266,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Recuerdo que hicieron como un anuncio con D VA, pero D VA todavía no ha salido a Mainnet, también es eso, ¿No?",
+      "raw_text": "Recuerdo que hicieron como un anuncio con D VA, pero D VA todavía no ha salido a Mainnet, también es eso, ¿No?",
+      "start_time": 2157.35,
+      "end_time": 2163.03
+    },
+    {
+      "index": 267,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Diva todavía no sale a Mainnet, Hay como un par de proyectos todavía que están ahí.",
+      "raw_text": "Diva todavía no sale a Mainnet, Hay como un par de proyectos todavía que están ahí.",
+      "start_time": 2163.03,
+      "end_time": 2166.55
+    },
+    {
+      "index": 268,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Cocinándose, pero también hay proyectos que.",
+      "raw_text": "Cocinándose, pero también hay proyectos que.",
+      "start_time": 2170.07,
+      "end_time": 2173.83
+    },
+    {
+      "index": 269,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Que están creciendo bastante y bueno, la respuesta obvia podría ser la ido, pero también, no sé, hasta Rocket Pool está pusheando unas actualizaciones que están bastante buenas.",
+      "raw_text": "Que están creciendo bastante y bueno, la respuesta obvia podría ser la ido, pero también, no sé, hasta Rocket Pool está pusheando unas actualizaciones que están bastante buenas.",
+      "start_time": 2175.32,
+      "end_time": 2185.64
+    },
+    {
+      "index": 270,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "No están en vivo todavía creo, pero deberían de venir por ahí.",
+      "raw_text": "No están en vivo todavía creo, pero deberían de venir por ahí.",
+      "start_time": 2187.72,
+      "end_time": 2191.4
+    },
+    {
+      "index": 271,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Lo único que por varias razones, ya sea porque algunos fueron primero y pues ser primero viene con sus ventajas y desventajas.",
+      "raw_text": "Lo único que por varias razones, ya sea porque algunos fueron primero y pues ser primero viene con sus ventajas y desventajas.",
+      "start_time": 2192.44,
+      "end_time": 2203.1
+    },
+    {
+      "index": 272,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y no sé, un ejemplo es Rocket Pool.",
+      "raw_text": "Y no sé, un ejemplo es Rocket Pool.",
+      "start_time": 2204.94,
+      "end_time": 2207.7
+    },
+    {
+      "index": 273,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Rocket Pool en cuanto a permission les fue primero, pero eso también quiere decir que es un poco más complicado.",
+      "raw_text": "Rocket Pool en cuanto a permission les fue primero, pero eso también quiere decir que es un poco más complicado.",
+      "start_time": 2207.7,
+      "end_time": 2212.94
+    },
+    {
+      "index": 274,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "La.",
+      "raw_text": "La.",
+      "start_time": 2215.82,
+      "end_time": 2216.06
+    },
+    {
+      "index": 275,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Forma en la que está construido es un poco más complicado, entonces es un poco más difícil como construirle cosas arriba, hacer cosas arriba de eso.",
+      "raw_text": "Forma en la que está construido es un poco más complicado, entonces es un poco más difícil como construirle cosas arriba, hacer cosas arriba de eso.",
+      "start_time": 2216.06,
+      "end_time": 2224.06
+    },
+    {
+      "index": 276,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Lido, Bueno, pues para bien o para mal se ha tenido el tiempo de observar todo y como que tomar decisiones en base a lo que funciona o no y pues ahí por lo menos el CCM es bastante simple y cualquiera puede entrar y no sé, si quieres correr nodos con tu comunidad, puedes usar OBOL o SSB, correrlos.",
+      "raw_text": "Lido, Bueno, pues para bien o para mal se ha tenido el tiempo de observar todo y como que tomar decisiones en base a lo que funciona o no y pues ahí por lo menos el CCM es bastante simple y cualquiera puede entrar y no sé, si quieres correr nodos con tu comunidad, puedes usar OBOL o SSB, correrlos.",
+      "start_time": 2225.98,
+      "end_time": 2252.27
+    },
+    {
+      "index": 277,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y pues con el CCM es bastante fácil.",
+      "raw_text": "Y pues con el CCM es bastante fácil.",
+      "start_time": 2254.03,
+      "end_time": 2257.07
+    },
+    {
+      "index": 278,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Es casi igual, prácticamente igual que correr un nodo normal de.",
+      "raw_text": "Es casi igual, prácticamente igual que correr un nodo normal de.",
+      "start_time": 2258.85,
+      "end_time": 2263.33
+    },
+    {
+      "index": 279,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ethereum.",
+      "raw_text": "Ethereum.",
+      "start_time": 2263.33,
+      "end_time": 2263.97
+    },
+    {
+      "index": 280,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y es un poco la idea, de hecho se llama así, CCM es el Community Staking Module, como que invitar a gente.",
+      "raw_text": "Y es un poco la idea, de hecho se llama así, CCM es el Community Staking Module, como que invitar a gente.",
+      "start_time": 2267.65,
+      "end_time": 2274.45
+    },
+    {
+      "index": 281,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Invitar a entidades, ya sean individuos o o grupos que no están precisamente corriendo, que su motivación principal para correr nodos es aportar Ethereum, no necesariamente como ganar dinero, y con ganar dinero me refiero a hacer un negocio, ¿No?",
+      "raw_text": "Invitar a entidades, ya sean individuos o o grupos que no están precisamente corriendo, que su motivación principal para correr nodos es aportar Ethereum, no necesariamente como ganar dinero, y con ganar dinero me refiero a hacer un negocio, ¿No?",
+      "start_time": 2278.29,
+      "end_time": 2296.74
+    },
+    {
+      "index": 282,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Tampoco es que las cosas se hacen completamente gratis o una pérdida.",
+      "raw_text": "Tampoco es que las cosas se hacen completamente gratis o una pérdida.",
+      "start_time": 2296.74,
+      "end_time": 2301.02
+    },
+    {
+      "index": 283,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Es un poco la idea de.",
+      "raw_text": "Es un poco la idea de.",
+      "start_time": 2304.06,
+      "end_time": 2306.14
+    },
+    {
+      "index": 284,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Pues de todo, ¿No?",
+      "raw_text": "Pues de todo, ¿No?",
+      "start_time": 2307.9,
+      "end_time": 2308.94
+    },
+    {
+      "index": 285,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Sí es verdad también que es bastante reciente, entonces cada vez está.",
+      "raw_text": "Sí es verdad también que es bastante reciente, entonces cada vez está.",
+      "start_time": 2309.58,
+      "end_time": 2314.06
+    },
+    {
+      "index": 286,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Bastante reciente, entonces la experiencia no es tan prolija, no es tan fina todavía en muchos sentidos, pero también la verdad es que en este último año ha mejorado un montón, entonces esperaría que este año también por ejemplo la experiencia de hacer staking hoy y hacer staking a final de año seguro cambia dramátic radicalmente no, definitivamente.",
+      "raw_text": "Bastante reciente, entonces la experiencia no es tan prolija, no es tan fina todavía en muchos sentidos, pero también la verdad es que en este último año ha mejorado un montón, entonces esperaría que este año también por ejemplo la experiencia de hacer staking hoy y hacer staking a final de año seguro cambia dramátic radicalmente no, definitivamente.",
+      "start_time": 2317.98,
+      "end_time": 2340.82
+    },
+    {
+      "index": 287,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Hace meses.",
+      "raw_text": "Hace meses.",
+      "start_time": 2340.82,
+      "end_time": 2341.62
+    },
+    {
+      "index": 288,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Que yo empecé, sí he visto un cambio definitivo en la experiencia del usuario, del operador, el que tiene que armar el equipo o el que compra un equipo ya armado y le instala el software y lo corre, o sea, hay que configurarlo, hay que generar llaves privadas, hay que seleccionar ciertos campos y copiarlos, o sea, no es todavía súper automático donde se instala y corre y listo, o sea, tienes que meterte a veces al command line a escribir y si lo he visto mejorar mucho.",
+      "raw_text": "Que yo empecé, sí he visto un cambio definitivo en la experiencia del usuario, del operador, el que tiene que armar el equipo o el que compra un equipo ya armado y le instala el software y lo corre, o sea, hay que configurarlo, hay que generar llaves privadas, hay que seleccionar ciertos campos y copiarlos, o sea, no es todavía súper automático donde se instala y corre y listo, o sea, tienes que meterte a veces al command line a escribir y si lo he visto mejorar mucho.",
+      "start_time": 2343.54,
+      "end_time": 2372.06
+    },
+    {
+      "index": 289,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Cómo lo ves?",
+      "raw_text": "¿Cómo lo ves?",
+      "start_time": 2372.38,
+      "end_time": 2373.18
+    },
+    {
+      "index": 290,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Como tú dices, en un año va a mejorar mucho, pero va a llegar un punto donde no sé, digo, soñando podemos tener a lo mejor nuevos validadores en el celular, cosas así.",
+      "raw_text": "Como tú dices, en un año va a mejorar mucho, pero va a llegar un punto donde no sé, digo, soñando podemos tener a lo mejor nuevos validadores en el celular, cosas así.",
+      "start_time": 2373.58,
+      "end_time": 2383.42
+    },
+    {
+      "index": 291,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "O ya en aparatos súper sencillos, no voy a tener un refrigerador con mi nodo, saber a dónde vamos a llegar.",
+      "raw_text": "O ya en aparatos súper sencillos, no voy a tener un refrigerador con mi nodo, saber a dónde vamos a llegar.",
+      "start_time": 2386.3,
+      "end_time": 2393.52
+    },
+    {
+      "index": 292,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Pues fíjate qué.",
+      "raw_text": "Pues fíjate qué.",
+      "start_time": 2399.28,
+      "end_time": 2401.44
+    },
+    {
+      "index": 293,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Es una muy buena pregunta de hecho, y fíjate que como se están moviendo las cosas últimamente, no sé si tengo la respuesta porque, y lo digo porque pues creo que cuando entré a Ethereum en general.",
+      "raw_text": "Es una muy buena pregunta de hecho, y fíjate que como se están moviendo las cosas últimamente, no sé si tengo la respuesta porque, y lo digo porque pues creo que cuando entré a Ethereum en general.",
+      "start_time": 2404.08,
+      "end_time": 2420.57
+    },
+    {
+      "index": 294,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Sí, como que la idea era eso, volver a la cadena stateless para que no tuviese que almacenar tanta información que pudieses como participar desde una patata, prácticamente pudieses validar una patata, pero.",
+      "raw_text": "Sí, como que la idea era eso, volver a la cadena stateless para que no tuviese que almacenar tanta información que pudieses como participar desde una patata, prácticamente pudieses validar una patata, pero.",
+      "start_time": 2423.53,
+      "end_time": 2438.25
+    },
+    {
+      "index": 295,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Me parece que los tiros, ahora.",
+      "raw_text": "Me parece que los tiros, ahora.",
+      "start_time": 2441.05,
+      "end_time": 2444.17
+    },
+    {
+      "index": 296,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Si te digo que sé hacia dónde van, te miento.",
+      "raw_text": "Si te digo que sé hacia dónde van, te miento.",
+      "start_time": 2446.84,
+      "end_time": 2448.76
+    },
+    {
+      "index": 297,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "No tengo ni idea de qué va a pasar, porque es que también ahora, pues no estamos solos con todo esto de Solana que ha pasado y demás, es como que hay un sentimiento de urgencia por también escalar ethereum, la capa 1.",
+      "raw_text": "No tengo ni idea de qué va a pasar, porque es que también ahora, pues no estamos solos con todo esto de Solana que ha pasado y demás, es como que hay un sentimiento de urgencia por también escalar ethereum, la capa 1.",
+      "start_time": 2450.36,
+      "end_time": 2464.52
+    },
+    {
+      "index": 298,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y escalarla lo más probable es que signifique que la patata no puede correrla, entonces es como que estamos como en esa conversación, supongo, y digo estamos, supongo que todos, yo no he hablado directamente con nadie al respecto, pero como que el sentimiento y las conversaciones de los researchers, de la EF y otros equipos y demás, se ven así.",
+      "raw_text": "Y escalarla lo más probable es que signifique que la patata no puede correrla, entonces es como que estamos como en esa conversación, supongo, y digo estamos, supongo que todos, yo no he hablado directamente con nadie al respecto, pero como que el sentimiento y las conversaciones de los researchers, de la EF y otros equipos y demás, se ven así.",
+      "start_time": 2466.6,
+      "end_time": 2489.77
+    },
+    {
+      "index": 299,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y creo que todavía no hay consenso, excepto porque eso, en lo que sí hay consenso es que se debe escalar la layer 1 que urge, ¿No?",
+      "raw_text": "Y creo que todavía no hay consenso, excepto porque eso, en lo que sí hay consenso es que se debe escalar la layer 1 que urge, ¿No?",
+      "start_time": 2491.45,
+      "end_time": 2501.14
+    },
+    {
+      "index": 300,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Claro, pero entonces ahí entras como en una pelea medio como la que hubo con los mineros, porque también los stakers que estamos ahora no queremos desplazarnos.",
+      "raw_text": "Claro, pero entonces ahí entras como en una pelea medio como la que hubo con los mineros, porque también los stakers que estamos ahora no queremos desplazarnos.",
+      "start_time": 2501.86,
+      "end_time": 2512.5
+    },
+    {
+      "index": 301,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y.",
+      "raw_text": "Y.",
+      "start_time": 2515.14,
+      "end_time": 2515.54
+    },
+    {
+      "index": 302,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Es un asunto complicado, porque ellos.",
+      "raw_text": "Es un asunto complicado, porque ellos.",
+      "start_time": 2519.14,
+      "end_time": 2523.66
+    },
+    {
+      "index": 303,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Complicados.",
+      "raw_text": "Complicados.",
+      "start_time": 2523.66,
+      "end_time": 2524.42
+    },
+    {
+      "index": 304,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "No, definitivamente hemos visto los reportajes o los artículos que escribe Vitalik, y luego hay comentarios, los cambios que hemos visto también en la fundación, en la manera que están estructurando estas nuevas organizaciones como Etherealize, que están buscando, no sé, en mi opinión, salir a vender, ayer los vi creo que en una foto en la Casa Blanca, o sea, definitivamente la gente se ha quejado, los usuarios nos hemos quejado y entendible, o sea, las L han ocasionado y resuelto muchos problemas, pero también han traído mucha fragmentación en el ecosistema, comunidades divididas, muchas fundaciones repartiendo lana, haciendo muchas cosas por todos lados, o sea, siento que sí hace falta, o que como tú dices, ese consenso y ese debate y esa polémica que puede generar algo así, todavía no sabemos cómo.",
+      "raw_text": "No, definitivamente hemos visto los reportajes o los artículos que escribe Vitalik, y luego hay comentarios, los cambios que hemos visto también en la fundación, en la manera que están estructurando estas nuevas organizaciones como Etherealize, que están buscando, no sé, en mi opinión, salir a vender, ayer los vi creo que en una foto en la Casa Blanca, o sea, definitivamente la gente se ha quejado, los usuarios nos hemos quejado y entendible, o sea, las L han ocasionado y resuelto muchos problemas, pero también han traído mucha fragmentación en el ecosistema, comunidades divididas, muchas fundaciones repartiendo lana, haciendo muchas cosas por todos lados, o sea, siento que sí hace falta, o que como tú dices, ese consenso y ese debate y esa polémica que puede generar algo así, todavía no sabemos cómo.",
+      "start_time": 2526.51,
+      "end_time": 2578.23
+    },
+    {
+      "index": 305,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Cómo va a estar uno, dos y mucho menos cinco años, y está bien interesante porque creo yo que los que decidimos meter nuestro tiempo a opinar, a hacer, probablemente programar cosas nuevas, podemos darle dirección y podemos influenciar el rumbo de lo que agarra esta tecnología, eso está bien interesante, las pruebas que hacemos en nuestras casas, sé que hay herramientas que obtienen información toda esa información se analiza y en base a eso luego surgen todos esos cambios.",
+      "raw_text": "Cómo va a estar uno, dos y mucho menos cinco años, y está bien interesante porque creo yo que los que decidimos meter nuestro tiempo a opinar, a hacer, probablemente programar cosas nuevas, podemos darle dirección y podemos influenciar el rumbo de lo que agarra esta tecnología, eso está bien interesante, las pruebas que hacemos en nuestras casas, sé que hay herramientas que obtienen información toda esa información se analiza y en base a eso luego surgen todos esos cambios.",
+      "start_time": 2580.4,
+      "end_time": 2612.42
+    },
+    {
+      "index": 306,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Pero de la noche a la mañana esto puede cambiar.",
+      "raw_text": "Pero de la noche a la mañana esto puede cambiar.",
+      "start_time": 2612.82,
+      "end_time": 2614.66
+    },
+    {
+      "index": 307,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Trump mañana dice, nos vamos allí en Solana y madres, quién sabe qué pase.",
+      "raw_text": "Trump mañana dice, nos vamos allí en Solana y madres, quién sabe qué pase.",
+      "start_time": 2614.82,
+      "end_time": 2619.3
+    },
+    {
+      "index": 308,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Entonces sí, sí se me hace súper interesante el ver cómo la gente, la comunidad, los protocolos, el mismo Vitalik y las fundaciones que están detrás de todo esto van poco a poco ahí escuchando y cambiando y debatiendo cosas nuevas.",
+      "raw_text": "Entonces sí, sí se me hace súper interesante el ver cómo la gente, la comunidad, los protocolos, el mismo Vitalik y las fundaciones que están detrás de todo esto van poco a poco ahí escuchando y cambiando y debatiendo cosas nuevas.",
+      "start_time": 2619.78,
+      "end_time": 2636.81
+    },
+    {
+      "index": 309,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Hace poquito escuché o leí un reportaje, un artículo de Vitali que decía ya no le llamemos public goods a las cosas, ya no fondeamos public goods, fondeamos open source goods, narrativas que cambian de la noche a la mañana porque el mercado cambió, porque la situación, porque la gente se siente de una manera, etcétera.",
+      "raw_text": "Hace poquito escuché o leí un reportaje, un artículo de Vitali que decía ya no le llamemos public goods a las cosas, ya no fondeamos public goods, fondeamos open source goods, narrativas que cambian de la noche a la mañana porque el mercado cambió, porque la situación, porque la gente se siente de una manera, etcétera.",
+      "start_time": 2636.81,
+      "end_time": 2655.45
+    },
+    {
+      "index": 310,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Híjole, difícil para decir, como tú dices, pero interesante ver los esfuerzos hacia el rumbo que está tomando por ejemplo, Lido y las otras organizaciones.",
+      "raw_text": "Híjole, difícil para decir, como tú dices, pero interesante ver los esfuerzos hacia el rumbo que está tomando por ejemplo, Lido y las otras organizaciones.",
+      "start_time": 2656.89,
+      "end_time": 2666.05
+    },
+    {
+      "index": 311,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Qué opina?",
+      "raw_text": "¿Qué opina?",
+      "start_time": 2666.05,
+      "end_time": 2666.53
+    },
+    {
+      "index": 312,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Sí, o sea, en general, como quiera, creo que la noción de poder, de que cada uno pueda verificar la cadena es un valor muy importante en Ethereum, es como parte fundamental de la propuesta de valor.",
+      "raw_text": "Sí, o sea, en general, como quiera, creo que la noción de poder, de que cada uno pueda verificar la cadena es un valor muy importante en Ethereum, es como parte fundamental de la propuesta de valor.",
+      "start_time": 2668.69,
+      "end_time": 2685.25
+    },
+    {
+      "index": 313,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Entonces no me parece que eso vaya a cambiar.",
+      "raw_text": "Entonces no me parece que eso vaya a cambiar.",
+      "start_time": 2686.22,
+      "end_time": 2688.22
+    },
+    {
+      "index": 314,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Pero lo que está en cuestión es como también qué tan fácil va a ser.",
+      "raw_text": "Pero lo que está en cuestión es como también qué tan fácil va a ser.",
+      "start_time": 2691.42,
+      "end_time": 2695.26
+    },
+    {
+      "index": 315,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Pero también la verdad, si me preguntas a mí personalmente, honestamente, una cadena que quiere, que queremos que maneje la economía mundial, que te cueste menos de mil dólares el equipo, no sé si hace tanto sentido.",
+      "raw_text": "Pero también la verdad, si me preguntas a mí personalmente, honestamente, una cadena que quiere, que queremos que maneje la economía mundial, que te cueste menos de mil dólares el equipo, no sé si hace tanto sentido.",
+      "start_time": 2697.1,
+      "end_time": 2711.02
+    },
+    {
+      "index": 316,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Bueno, que sí yo hay que manejar un balance y después pues hay like clients y demás, que eso pues para la patata, quizás la patata no puede validar, pero puede seguir verificando la cadena e igual ayer, ayer o antes de ayer, no me acuerdo, hubo una reunión, la primera llamada pública del equipo de research de la IE, no la vi, pero entiendo que lo que hablaban era un poco de eso.",
+      "raw_text": "Bueno, que sí yo hay que manejar un balance y después pues hay like clients y demás, que eso pues para la patata, quizás la patata no puede validar, pero puede seguir verificando la cadena e igual ayer, ayer o antes de ayer, no me acuerdo, hubo una reunión, la primera llamada pública del equipo de research de la IE, no la vi, pero entiendo que lo que hablaban era un poco de eso.",
+      "start_time": 2713.4,
+      "end_time": 2739.85
+    },
+    {
+      "index": 317,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y uno de los researchers, de los lead researchers de la IE, lo que propone también es como quizás separar.",
+      "raw_text": "Y uno de los researchers, de los lead researchers de la IE, lo que propone también es como quizás separar.",
+      "start_time": 2739.85,
+      "end_time": 2746.05
+    },
+    {
+      "index": 318,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Trabajos.",
+      "raw_text": "Trabajos.",
+      "start_time": 2747.97,
+      "end_time": 2748.77
+    },
+    {
+      "index": 319,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "En la cadena.",
+      "raw_text": "En la cadena.",
+      "start_time": 2750.45,
+      "end_time": 2751.25
+    },
+    {
+      "index": 320,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Entonces no sé, podrías tener como algunos servidores ultra pesados haciendo una cosa, podrías tener la comunidad haciendo otra para la cadena y como que separas un poco los trabajos en vez de tener a todo el mundo realizando lo mismo.",
+      "raw_text": "Entonces no sé, podrías tener como algunos servidores ultra pesados haciendo una cosa, podrías tener la comunidad haciendo otra para la cadena y como que separas un poco los trabajos en vez de tener a todo el mundo realizando lo mismo.",
+      "start_time": 2751.25,
+      "end_time": 2764.21
+    },
+    {
+      "index": 321,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Entonces, bueno.",
+      "raw_text": "Entonces, bueno.",
+      "start_time": 2766.05,
+      "end_time": 2766.85
+    },
+    {
+      "index": 322,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Me acuerdo lo que te decía al principio de que los protocolos de staking son simples, son simples, lo que no es simple es que se mueve todo abajo siempre.",
+      "raw_text": "Me acuerdo lo que te decía al principio de que los protocolos de staking son simples, son simples, lo que no es simple es que se mueve todo abajo siempre.",
+      "start_time": 2768.53,
+      "end_time": 2776.37
+    },
+    {
+      "index": 323,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Entonces cada vez que hay un hard fork o lo que sea.",
+      "raw_text": "Entonces cada vez que hay un hard fork o lo que sea.",
+      "start_time": 2776.53,
+      "end_time": 2779.17
+    },
+    {
+      "index": 324,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Te cuesta bastante esfuerzo nada más actualizar el protocolo para acomodarte el hard fork, eso sin hablar de nuevas funcionalidades.",
+      "raw_text": "Te cuesta bastante esfuerzo nada más actualizar el protocolo para acomodarte el hard fork, eso sin hablar de nuevas funcionalidades.",
+      "start_time": 2781.09,
+      "end_time": 2789.73
+    },
+    {
+      "index": 325,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Esto es como un poco, un poco eso.",
+      "raw_text": "Esto es como un poco, un poco eso.",
+      "start_time": 2789.73,
+      "end_time": 2792.01
+    },
+    {
+      "index": 326,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Ahora imagínate si cambian todo el esquema.",
+      "raw_text": "Ahora imagínate si cambian todo el esquema.",
+      "start_time": 2792.01,
+      "end_time": 2796.09
+    },
+    {
+      "index": 327,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "De.",
+      "raw_text": "De.",
+      "start_time": 2796.09,
+      "end_time": 2796.49
+    },
+    {
+      "index": 328,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Cómo correr nodos o el consenso que de repente oye, sabes que ya se descubrió una nueva, lo que era con.",
+      "raw_text": "Cómo correr nodos o el consenso que de repente oye, sabes que ya se descubrió una nueva, lo que era con.",
+      "start_time": 2798.81,
+      "end_time": 2806.01
+    },
+    {
+      "index": 329,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Tecnología de CK o ve tú a saber, que si el sharding, que si hay muchas palabras por ahí que han salido y el caso lo vimos ahora que cambió.",
+      "raw_text": "Tecnología de CK o ve tú a saber, que si el sharding, que si hay muchas palabras por ahí que han salido y el caso lo vimos ahora que cambió.",
+      "start_time": 2808.01,
+      "end_time": 2817.05
+    },
+    {
+      "index": 330,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "La actualización de Petra con el testnet de Joleski, o sea, hubo un cambio ahí, entiendo que faltó en algunos clientes ajustar ciertas cuestiones y finalmente acabaron matando la cadena y qué bueno que existan esas cadenas de prueba, pero como tú dices, no sabes qué va a pasar con la siguiente actualización, si lo que tú tienes ya desarrollado te va a funcionar con los cambios que estamos viendo, porque son hard force completos que de repente meten nuevas aplicaciones o nuevos usos que no tenían contemplado y pues eso tiene que funcionar de una u otra forma, cómo.",
+      "raw_text": "La actualización de Petra con el testnet de Joleski, o sea, hubo un cambio ahí, entiendo que faltó en algunos clientes ajustar ciertas cuestiones y finalmente acabaron matando la cadena y qué bueno que existan esas cadenas de prueba, pero como tú dices, no sabes qué va a pasar con la siguiente actualización, si lo que tú tienes ya desarrollado te va a funcionar con los cambios que estamos viendo, porque son hard force completos que de repente meten nuevas aplicaciones o nuevos usos que no tenían contemplado y pues eso tiene que funcionar de una u otra forma, cómo.",
+      "start_time": 2818.68,
+      "end_time": 2855.21
+    },
+    {
+      "index": 331,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Por ejemplo ahora que cambió y que mataron o que está muriendo Joleski y que nace la nueva testnet.",
+      "raw_text": "Por ejemplo ahora que cambió y que mataron o que está muriendo Joleski y que nace la nueva testnet.",
+      "start_time": 2857.45,
+      "end_time": 2864.81
+    },
+    {
+      "index": 332,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Juli se llama, creo.",
+      "raw_text": "Juli se llama, creo.",
+      "start_time": 2865.53,
+      "end_time": 2866.81
+    },
+    {
+      "index": 333,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Para ustedes qué tanto relajo fue, o sea, cómo les afecta algo así?",
+      "raw_text": "¿Para ustedes qué tanto relajo fue, o sea, cómo les afecta algo así?",
+      "start_time": 2868.09,
+      "end_time": 2872.01
+    },
+    {
+      "index": 334,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Pues fue, va por lo que escuché, pero también no estoy en el equipo que manejó todo eso, pero fue algo intenso, primero porque fue repentino, es como que bueno, dame un segundo porque nosotros necesitamos, nosotros y todo el mundo necesitamos una cadena de pruebas funcional para probar cosas, bueno, es para eso y sobre todo ahora que se viene PECTRA y eso, es como que nos vas a dejar en el limbo sin probar nada, no tiene sentido.",
+      "raw_text": "Pues fue, va por lo que escuché, pero también no estoy en el equipo que manejó todo eso, pero fue algo intenso, primero porque fue repentino, es como que bueno, dame un segundo porque nosotros necesitamos, nosotros y todo el mundo necesitamos una cadena de pruebas funcional para probar cosas, bueno, es para eso y sobre todo ahora que se viene PECTRA y eso, es como que nos vas a dejar en el limbo sin probar nada, no tiene sentido.",
+      "start_time": 2876.17,
+      "end_time": 2903.86
+    },
+    {
+      "index": 335,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Creo que se pidió una prórroga para hacerle sunset a Joleski, como que no haya tanta prisa.",
+      "raw_text": "Creo que se pidió una prórroga para hacerle sunset a Joleski, como que no haya tanta prisa.",
+      "start_time": 2906.9,
+      "end_time": 2913.94
+    },
+    {
+      "index": 336,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y después de eso a mí me sorprendió bastante la verdad.",
+      "raw_text": "Y después de eso a mí me sorprendió bastante la verdad.",
+      "start_time": 2916.58,
+      "end_time": 2918.98
+    },
+    {
+      "index": 337,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Después se lanzaron hoodie y al par de días creo, como mucho a la semana ya estaba todo el aire montado.",
+      "raw_text": "Después se lanzaron hoodie y al par de días creo, como mucho a la semana ya estaba todo el aire montado.",
+      "start_time": 2919.38,
+      "end_time": 2926.74
+    },
+    {
+      "index": 338,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Fui.",
+      "raw_text": "Fui.",
+      "start_time": 2926.74,
+      "end_time": 2927.19
+    },
+    {
+      "index": 339,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y como te digo, Lido es un protocolo grande, o sea, fíjate que tienes, tienes todo de gobernanza, que la gobernanza de Lido está montada sobre el Aragón Viejo, que es horrible, o sea, para sus tiempos era muy bueno, pero o sea, es un pedazo de infraestructura pesado.",
+      "raw_text": "Y como te digo, Lido es un protocolo grande, o sea, fíjate que tienes, tienes todo de gobernanza, que la gobernanza de Lido está montada sobre el Aragón Viejo, que es horrible, o sea, para sus tiempos era muy bueno, pero o sea, es un pedazo de infraestructura pesado.",
+      "start_time": 2929.18,
+      "end_time": 2948.46
+    },
+    {
+      "index": 340,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Tienes lo que la e se llama el staking router, tienes tres módulos, ahora viene un cuarto, tienes como mucha infraestructura, tienes oráculos, tienes monitoreo, o sea, es un montón de cosas y prácticamente al toque dejaron todo lo que estaban haciendo y lo pasaron a hoodie.",
+      "raw_text": "Tienes lo que la e se llama el staking router, tienes tres módulos, ahora viene un cuarto, tienes como mucha infraestructura, tienes oráculos, tienes monitoreo, o sea, es un montón de cosas y prácticamente al toque dejaron todo lo que estaban haciendo y lo pasaron a hoodie.",
+      "start_time": 2950.78,
+      "end_time": 2967.38
+    },
+    {
+      "index": 341,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Para mí van a durar más o menos un mes, pero imagínate tú, lo metieron una semana.",
+      "raw_text": "Para mí van a durar más o menos un mes, pero imagínate tú, lo metieron una semana.",
+      "start_time": 2969.38,
+      "end_time": 2973.62
+    },
+    {
+      "index": 342,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Me pareció bastante, bastante diligente por la parte del equipo que estaba manejando, eso.",
+      "raw_text": "Me pareció bastante, bastante diligente por la parte del equipo que estaba manejando, eso.",
+      "start_time": 2974.1,
+      "end_time": 2980.82
+    },
+    {
+      "index": 343,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Sí, sí fue un tema.",
+      "raw_text": "Sí, sí fue un tema.",
+      "start_time": 2981.46,
+      "end_time": 2983.14
+    },
+    {
+      "index": 344,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Yo tenía un nodo corriendo de Noleski y cuando empezó todo este show.",
+      "raw_text": "Yo tenía un nodo corriendo de Noleski y cuando empezó todo este show.",
+      "start_time": 2983.46,
+      "end_time": 2988.93
+    },
+    {
+      "index": 345,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "La velocidad, la RAM, o sea, el consumo energético y de recursos de la máquina madre se fue así, pero para arriba, final, ahí estuvimos nosotros ahí en el equipo, en el grupo que tenemos los noderos de tiro en México, platicando.",
+      "raw_text": "La velocidad, la RAM, o sea, el consumo energético y de recursos de la máquina madre se fue así, pero para arriba, final, ahí estuvimos nosotros ahí en el equipo, en el grupo que tenemos los noderos de tiro en México, platicando.",
+      "start_time": 2990.69,
+      "end_time": 3006.93
+    },
+    {
+      "index": 346,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Finalmente decidimos matarlo y ahorita estamos en ese proceso de instalar las nuevas aplicaciones en Duplo para correr Uli, que si están, que si no están, que si hay que esperar que las suba, o sea, estaba bien interesante ver cómo funciona todo esto, ya más en las tripas y más en lo técnico.",
+      "raw_text": "Finalmente decidimos matarlo y ahorita estamos en ese proceso de instalar las nuevas aplicaciones en Duplo para correr Uli, que si están, que si no están, que si hay que esperar que las suba, o sea, estaba bien interesante ver cómo funciona todo esto, ya más en las tripas y más en lo técnico.",
+      "start_time": 3007.33,
+      "end_time": 3023.18
+    },
+    {
+      "index": 347,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "No he podido entrar esas llamadas, yo creo que la siguiente no me la pierdo.",
+      "raw_text": "No he podido entrar esas llamadas, yo creo que la siguiente no me la pierdo.",
+      "start_time": 3023.9,
+      "end_time": 3027.54
+    },
+    {
+      "index": 348,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Y de hecho tú traes por ahí un programa para empezar a platicar estos temas en español.",
+      "raw_text": "Y de hecho tú traes por ahí un programa para empezar a platicar estos temas en español.",
+      "start_time": 3027.54,
+      "end_time": 3031.86
+    },
+    {
+      "index": 349,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ya lo opiné aquí arriba, si quieren ir a inscribirse, hay una sesión, la primera sesión que está organizando en TI Isaac es en español, está el Luma ya pineado aquí arriba, empieza ahorita, les digo, el miércoles 9 de abril a la una de la tarde Ciudad de México, de 1 a 2.",
+      "raw_text": "Ya lo opiné aquí arriba, si quieren ir a inscribirse, hay una sesión, la primera sesión que está organizando en TI Isaac es en español, está el Luma ya pineado aquí arriba, empieza ahorita, les digo, el miércoles 9 de abril a la una de la tarde Ciudad de México, de 1 a 2.",
+      "start_time": 3031.86,
+      "end_time": 3051.04
+    },
+    {
+      "index": 350,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Cuéntame un poquito de este programa.",
+      "raw_text": "Cuéntame un poquito de este programa.",
+      "start_time": 3051.44,
+      "end_time": 3053.2
+    },
+    {
+      "index": 351,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Y lo importante.",
+      "raw_text": "Y lo importante.",
+      "start_time": 3055.36,
+      "end_time": 3057.04
+    },
+    {
+      "index": 352,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Para la gente que le gusta la parte técnica, que yo como ingeniero me encanta, no lo puedo negar, pero definitivamente no es para todos, pero qué se va a ver en el programa, que la gente puede aprender.",
+      "raw_text": "Para la gente que le gusta la parte técnica, que yo como ingeniero me encanta, no lo puedo negar, pero definitivamente no es para todos, pero qué se va a ver en el programa, que la gente puede aprender.",
+      "start_time": 3058.72,
+      "end_time": 3067.92
+    },
+    {
+      "index": 353,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Obviamente los invitamos a que se inscriban, yo ya me inscribí, voy a estar por ahí escuchando y aprendiendo porque me encanta, pero veo a mucha banda por aquí que algunos de los que tienen nodos o quieren empezar a correrlos y también que están muy metidos en el tema de ethereum y capas 2, como embajadores, dando pláticas, etcétera, pero siento que siempre ayuda ver un poquito más técnicamente cómo funciona todo esto.",
+      "raw_text": "Obviamente los invitamos a que se inscriban, yo ya me inscribí, voy a estar por ahí escuchando y aprendiendo porque me encanta, pero veo a mucha banda por aquí que algunos de los que tienen nodos o quieren empezar a correrlos y también que están muy metidos en el tema de ethereum y capas 2, como embajadores, dando pláticas, etcétera, pero siento que siempre ayuda ver un poquito más técnicamente cómo funciona todo esto.",
+      "start_time": 3068,
+      "end_time": 3090.64
+    },
+    {
+      "index": 354,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Qué opina?",
+      "raw_text": "¿Qué opina?",
+      "start_time": 3090.64,
+      "end_time": 3091.12
+    },
+    {
+      "index": 355,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Bueno, primero gracias por compartirlo.",
+      "raw_text": "Bueno, primero gracias por compartirlo.",
+      "start_time": 3095.76,
+      "end_time": 3097.6
+    },
+    {
+      "index": 356,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y pues esto es un programa que realmente lleva la fundación, la IE.",
+      "raw_text": "Y pues esto es un programa que realmente lleva la fundación, la IE.",
+      "start_time": 3099.28,
+      "end_time": 3105.76
+    },
+    {
+      "index": 357,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y pues un día dije, bueno, qué sé yo, o sea, está bien, yo quería hacer el programa, pero por tiempo tampoco lo puedo llevar, el programa es un poco más intenso.",
+      "raw_text": "Y pues un día dije, bueno, qué sé yo, o sea, está bien, yo quería hacer el programa, pero por tiempo tampoco lo puedo llevar, el programa es un poco más intenso.",
+      "start_time": 3108.48,
+      "end_time": 3118.96
+    },
+    {
+      "index": 358,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y dije, bueno, también, no sé, no veo tanta gente como de este lado del mundo que se esté metiendo en el programa y demás.",
+      "raw_text": "Y dije, bueno, también, no sé, no veo tanta gente como de este lado del mundo que se esté metiendo en el programa y demás.",
+      "start_time": 3119.2,
+      "end_time": 3126.37
+    },
+    {
+      "index": 359,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Bueno, comencé haciendo un Telegram.",
+      "raw_text": "Bueno, comencé haciendo un Telegram.",
+      "start_time": 3126.45,
+      "end_time": 3128.85
+    },
+    {
+      "index": 360,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y como, no sé, dije, bueno, quien esté llevando el programa que le interese, pues que se, que entre y de ahí podemos charlar y que se yo, bastante tranqui.",
+      "raw_text": "Y como, no sé, dije, bueno, quien esté llevando el programa que le interese, pues que se, que entre y de ahí podemos charlar y que se yo, bastante tranqui.",
+      "start_time": 3131.25,
+      "end_time": 3140.53
+    },
+    {
+      "index": 361,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "¿Y en una pues también dije, bueno, puedo armar alguna sesión?",
+      "raw_text": "¿Y en una pues también dije, bueno, puedo armar alguna sesión?",
+      "start_time": 3142.53,
+      "end_time": 3147.01
+    },
+    {
+      "index": 362,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y hablamos un poco así de viva voz y vemos, vemos qué onda.",
+      "raw_text": "Y hablamos un poco así de viva voz y vemos, vemos qué onda.",
+      "start_time": 3147.25,
+      "end_time": 3150.53
+    },
+    {
+      "index": 363,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Por suerte sí soy familiar con una buena parte de los conceptos que están dando en el curso.",
+      "raw_text": "Por suerte sí soy familiar con una buena parte de los conceptos que están dando en el curso.",
+      "start_time": 3151.2,
+      "end_time": 3156.96
+    },
+    {
+      "index": 364,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Este curso, el curso de este año es un poco más extenso que el curso el año pasado, de todas formas.",
+      "raw_text": "Este curso, el curso de este año es un poco más extenso que el curso el año pasado, de todas formas.",
+      "start_time": 3158.16,
+      "end_time": 3163.84
+    },
+    {
+      "index": 365,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y también es como eso, ¿No?",
+      "raw_text": "Y también es como eso, ¿No?",
+      "start_time": 3166.08,
+      "end_time": 3167.52
+    },
+    {
+      "index": 366,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Pues hablo mucho con operadores de nodos, o gente con este perfil.",
+      "raw_text": "Pues hablo mucho con operadores de nodos, o gente con este perfil.",
+      "start_time": 3167.52,
+      "end_time": 3172.4
+    },
+    {
+      "index": 367,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "De gente muy involucrada, o sea, si llegas a correr un nodo o algo así por el estilo, porque de verdad estás bastante metido.",
+      "raw_text": "De gente muy involucrada, o sea, si llegas a correr un nodo o algo así por el estilo, porque de verdad estás bastante metido.",
+      "start_time": 3175.28,
+      "end_time": 3181.03
+    },
+    {
+      "index": 368,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y la mayoría de gente pues le interesa saber más, me parece que está bueno que sepan más.",
+      "raw_text": "Y la mayoría de gente pues le interesa saber más, me parece que está bueno que sepan más.",
+      "start_time": 3183.51,
+      "end_time": 3188.31
+    },
+    {
+      "index": 369,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y pues eso, siempre nos quedamos en Twitter mirando sin entender nada o opinando, pero sin sentir que se nos escucha.",
+      "raw_text": "Y pues eso, siempre nos quedamos en Twitter mirando sin entender nada o opinando, pero sin sentir que se nos escucha.",
+      "start_time": 3188.47,
+      "end_time": 3198.31
+    },
+    {
+      "index": 370,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y pues es una pequeña, poniendo mi granito de arena a ver si más gente se anima a tomar el curso.",
+      "raw_text": "Y pues es una pequeña, poniendo mi granito de arena a ver si más gente se anima a tomar el curso.",
+      "start_time": 3200.23,
+      "end_time": 3207.16
+    },
+    {
+      "index": 371,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y después el curso.",
+      "raw_text": "Y después el curso.",
+      "start_time": 3207.16,
+      "end_time": 3208.24
+    },
+    {
+      "index": 372,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "El curso lo que te prepara es para el fellowship, que el fellowship ya es un programa más estructurado, para el fellowship seleccionan a un par de personas que le dan hasta un subsidio mensual para que se puedan dedicar a eso, y trabajan en un proyecto de investigación o desarrollo en Ethereum.",
+      "raw_text": "El curso lo que te prepara es para el fellowship, que el fellowship ya es un programa más estructurado, para el fellowship seleccionan a un par de personas que le dan hasta un subsidio mensual para que se puedan dedicar a eso, y trabajan en un proyecto de investigación o desarrollo en Ethereum.",
+      "start_time": 3210,
+      "end_time": 3229.28
+    },
+    {
+      "index": 373,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Que igual, o sea, el programa es decir, pero a mí me parece que lo que te da realmente son las herramientas para entender blockchains y que después de ahí, si te quieres trabajar una aplicación, pues puedes irte a trabajar una aplicación y hacerla bien.",
+      "raw_text": "Que igual, o sea, el programa es decir, pero a mí me parece que lo que te da realmente son las herramientas para entender blockchains y que después de ahí, si te quieres trabajar una aplicación, pues puedes irte a trabajar una aplicación y hacerla bien.",
+      "start_time": 3230.88,
+      "end_time": 3244.82
+    },
+    {
+      "index": 374,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y nada, lo que esperar, que se yo, o sea, eso tampoco me sobra el tiempo, lamentablemente.",
+      "raw_text": "Y nada, lo que esperar, que se yo, o sea, eso tampoco me sobra el tiempo, lamentablemente.",
+      "start_time": 3247.22,
+      "end_time": 3252.58
+    },
+    {
+      "index": 375,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Entonces mi plan es hacerlo un poco más informal, es como nada más habilitar el espacio, hacer alguna agenda, quizás para esta primera sesión como que intento hacer algo más estructurado para dar contexto, y después si nos seguimos reuniendo, pues sería un poco más eso, como un espacio abierto, quizás leemos en vivo algo en cada sesión, no sé, todavía no tengo muy seguro, pero es eso, tener el espacio y ver si de ahí por lo menos sale uno.",
+      "raw_text": "Entonces mi plan es hacerlo un poco más informal, es como nada más habilitar el espacio, hacer alguna agenda, quizás para esta primera sesión como que intento hacer algo más estructurado para dar contexto, y después si nos seguimos reuniendo, pues sería un poco más eso, como un espacio abierto, quizás leemos en vivo algo en cada sesión, no sé, todavía no tengo muy seguro, pero es eso, tener el espacio y ver si de ahí por lo menos sale uno.",
+      "start_time": 3253.06,
+      "end_time": 3282.39
+    },
+    {
+      "index": 376,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Que siga ese camino.",
+      "raw_text": "Que siga ese camino.",
+      "start_time": 3286.63,
+      "end_time": 3287.59
+    },
+    {
+      "index": 377,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ojalá se animen algunos de los que están por acá escuchando, ya está pineado aquí arriba Luma para que se inscriban.",
+      "raw_text": "Ojalá se animen algunos de los que están por acá escuchando, ya está pineado aquí arriba Luma para que se inscriban.",
+      "start_time": 3288.87,
+      "end_time": 3294.39
+    },
+    {
+      "index": 378,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Qué tanto puede llegar a, o sea, supongamos.",
+      "raw_text": "¿Qué tanto puede llegar a, o sea, supongamos.",
+      "start_time": 3294.79,
+      "end_time": 3297.27
+    },
+    {
+      "index": 379,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Alguien súper técnico que quiere llegar a tener mucha influencia y a lo mejor trae ideas que puede implementar?",
+      "raw_text": "Alguien súper técnico que quiere llegar a tener mucha influencia y a lo mejor trae ideas que puede implementar?",
+      "start_time": 3299.67,
+      "end_time": 3305.51
+    },
+    {
+      "index": 380,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Qué tanto está abierta la fundación y todos estos protocolos?",
+      "raw_text": "¿Qué tanto está abierta la fundación y todos estos protocolos?",
+      "start_time": 3306.23,
+      "end_time": 3309.99
+    },
+    {
+      "index": 381,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Gente que se ponga a estudiar, que luego a lo mejor llega obtener un fellowship, o sea, ¿Qué sigue?",
+      "raw_text": "Gente que se ponga a estudiar, que luego a lo mejor llega obtener un fellowship, o sea, ¿Qué sigue?",
+      "start_time": 3311.36,
+      "end_time": 3318.36
+    },
+    {
+      "index": 382,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Puede conseguir trabajo, ¿Puede entrar ya desarrollador core full time a la fundación o alguna de estas instituciones?",
+      "raw_text": "¿Puede conseguir trabajo, ¿Puede entrar ya desarrollador core full time a la fundación o alguna de estas instituciones?",
+      "start_time": 3318.36,
+      "end_time": 3324.64
+    },
+    {
+      "index": 383,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Qué camino le ves a la banda que se quiere meter full, full, full, no nada más a correr el nodo, sino ya no sé, hacer blockchains como tú decías, o aplicaciones, etc.",
+      "raw_text": "¿Qué camino le ves a la banda que se quiere meter full, full, full, no nada más a correr el nodo, sino ya no sé, hacer blockchains como tú decías, o aplicaciones, etc.",
+      "start_time": 3325.12,
+      "end_time": 3334.16
+    },
+    {
+      "index": 384,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Es una.",
+      "raw_text": "Es una.",
+      "start_time": 3335.36,
+      "end_time": 3335.8
+    },
+    {
+      "index": 385,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Buena pregunta porque claro, es importante saber el valor agregado?",
+      "raw_text": "Buena pregunta porque claro, es importante saber el valor agregado?",
+      "start_time": 3335.8,
+      "end_time": 3340.24
+    },
+    {
+      "index": 386,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "A ver, yo no tengo nada que ver con la IEF, así que tampoco es que puedo prometer nada, pero.",
+      "raw_text": "A ver, yo no tengo nada que ver con la IEF, así que tampoco es que puedo prometer nada, pero.",
+      "start_time": 3341.04,
+      "end_time": 3345.12
+    },
+    {
+      "index": 387,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "La mayoría de gente que han hecho el fellowship pasado, creo que este es el cuarto año o el tercer año.",
+      "raw_text": "La mayoría de gente que han hecho el fellowship pasado, creo que este es el cuarto año o el tercer año.",
+      "start_time": 3347.04,
+      "end_time": 3353.68
+    },
+    {
+      "index": 388,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Han.",
+      "raw_text": "Han.",
+      "start_time": 3356,
+      "end_time": 3356.28
+    },
+    {
+      "index": 389,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Conseguido trabajo en algún equipo de cliente, en la IEF, en algún otro protocolo.",
+      "raw_text": "Conseguido trabajo en algún equipo de cliente, en la IEF, en algún otro protocolo.",
+      "start_time": 3356.28,
+      "end_time": 3360.56
+    },
+    {
+      "index": 390,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y además, pues si algo he aprendido, si algo estoy seguro es que este es el espacio más meritocrático que hay.",
+      "raw_text": "Y además, pues si algo he aprendido, si algo estoy seguro es que este es el espacio más meritocrático que hay.",
+      "start_time": 3363.92,
+      "end_time": 3372.85
+    },
+    {
+      "index": 391,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Si apareces y no sé, o sea, el fellowship de hecho pasa en el servidor de Discord de la IEF para Research y Development, o sea, está rodeado de todos, entonces tienes ojos arriba y acá en Ethereum en general no he visto nadie que que ponga el esfuerzo y demuestre competencia y que eventualmente no sea recompensado de alguna forma.",
+      "raw_text": "Si apareces y no sé, o sea, el fellowship de hecho pasa en el servidor de Discord de la IEF para Research y Development, o sea, está rodeado de todos, entonces tienes ojos arriba y acá en Ethereum en general no he visto nadie que que ponga el esfuerzo y demuestre competencia y que eventualmente no sea recompensado de alguna forma.",
+      "start_time": 3372.85,
+      "end_time": 3399.75
+    },
+    {
+      "index": 392,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Así que me parece que si a alguien le interesa, definitivamente me parece que es una muy buena ruta además porque estamos viendo como, no sé, ahora Estados Unidos con Trump adoptando mucho más cripto y demás, me parece que nos está matando al corto plazo, pero de una forma u otra, a largo plazo.",
+      "raw_text": "Así que me parece que si a alguien le interesa, definitivamente me parece que es una muy buena ruta además porque estamos viendo como, no sé, ahora Estados Unidos con Trump adoptando mucho más cripto y demás, me parece que nos está matando al corto plazo, pero de una forma u otra, a largo plazo.",
+      "start_time": 3399.75,
+      "end_time": 3420.73
+    },
+    {
+      "index": 393,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Creo que va a crecer todo mucho y pues son oportunidades que hay que capturarlas temprano porque si no las captura otro.",
+      "raw_text": "Creo que va a crecer todo mucho y pues son oportunidades que hay que capturarlas temprano porque si no las captura otro.",
+      "start_time": 3422.33,
+      "end_time": 3430.81
+    },
+    {
+      "index": 394,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Sí, definitivamente, yo creo que estamos en una etapa crítica, bueno, no crítica, pero sí en un parteaguas interesante, súper importante.",
+      "raw_text": "Sí, definitivamente, yo creo que estamos en una etapa crítica, bueno, no crítica, pero sí en un parteaguas interesante, súper importante.",
+      "start_time": 3432.25,
+      "end_time": 3439.85
+    },
+    {
+      "index": 395,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "En la industria, en el ecosistema.",
+      "raw_text": "En la industria, en el ecosistema.",
+      "start_time": 3441.77,
+      "end_time": 3443.61
+    },
+    {
+      "index": 396,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Todos los casos de uso que están viendo ahora con estas fundaciones e instituciones enormes, ya vemos a BlackRock, vemos estos fondos de inversión enormes a los bancos voltear a ver esas tecnologías.",
+      "raw_text": "Todos los casos de uso que están viendo ahora con estas fundaciones e instituciones enormes, ya vemos a BlackRock, vemos estos fondos de inversión enormes a los bancos voltear a ver esas tecnologías.",
+      "start_time": 3447.24,
+      "end_time": 3459
+    },
+    {
+      "index": 397,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ahorita yo estoy dando una plática acá en México con banqueros también locales y como que les vuela la cabeza cuando uno les habla de stablecoins, el costo, la rapidez, todas las ventajas que tienen algunas de esas herramientas y digo, o sea, madre, somos todavía poquitos, o sea, sí la comunidad ha crecido, sí el ecosistema ha crecido, sí México y creo que en general Latinoamérica en los últimos dos, tres años ha tenido un repunte muy, muy, muy fuerte, pero falta, o sea, siento yo que apenas están volteando a ver estas instituciones, grandes protocolos, blockchains, el mercado y apenas están empezando a apoyarlo con eventos, con lana, con iniciativas.",
+      "raw_text": "Ahorita yo estoy dando una plática acá en México con banqueros también locales y como que les vuela la cabeza cuando uno les habla de stablecoins, el costo, la rapidez, todas las ventajas que tienen algunas de esas herramientas y digo, o sea, madre, somos todavía poquitos, o sea, sí la comunidad ha crecido, sí el ecosistema ha crecido, sí México y creo que en general Latinoamérica en los últimos dos, tres años ha tenido un repunte muy, muy, muy fuerte, pero falta, o sea, siento yo que apenas están volteando a ver estas instituciones, grandes protocolos, blockchains, el mercado y apenas están empezando a apoyarlo con eventos, con lana, con iniciativas.",
+      "start_time": 3459,
+      "end_time": 3498.24
+    },
+    {
+      "index": 398,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Pero creo que es el momento perfecto para que alguien que quiera aprender o meterse ya full, full, full y conseguir trabajo a lo mejor en esta industria, lo haga a través de estos programas y la neta, qué chido que los estés llevando a cabo y ojalá que la banda se anime y participe porque sí siento que faltan más personas técnicas, sí decidiendo, sí haciendo programación, pero hablando, o sea, como tú, que vienen, hacen espacios, que hacen workshops, que están activos en redes, que construyen en público, gente técnica que hable, que enseñe, que dé pláticas, que de workshops.",
+      "raw_text": "Pero creo que es el momento perfecto para que alguien que quiera aprender o meterse ya full, full, full y conseguir trabajo a lo mejor en esta industria, lo haga a través de estos programas y la neta, qué chido que los estés llevando a cabo y ojalá que la banda se anime y participe porque sí siento que faltan más personas técnicas, sí decidiendo, sí haciendo programación, pero hablando, o sea, como tú, que vienen, hacen espacios, que hacen workshops, que están activos en redes, que construyen en público, gente técnica que hable, que enseñe, que dé pláticas, que de workshops.",
+      "start_time": 3499.9,
+      "end_time": 3534.41
+    },
+    {
+      "index": 399,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Uy, creo que nos faltan, por acá veo a Gwen Gistro, le mando un saludote, crack de cracks.",
+      "raw_text": "Uy, creo que nos faltan, por acá veo a Gwen Gistro, le mando un saludote, crack de cracks.",
+      "start_time": 3534.41,
+      "end_time": 3540.45
+    },
+    {
+      "index": 400,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Aquí también en el ecosistema veo también algunos embajadores como Tori, creadores de contenido como GZ, como Caro, Yael, Richie, Mr.",
+      "raw_text": "Aquí también en el ecosistema veo también algunos embajadores como Tori, creadores de contenido como GZ, como Caro, Yael, Richie, Mr.",
+      "start_time": 3540.45,
+      "end_time": 3548.93
+    },
+    {
+      "index": 401,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "B, o sea Banda, Looper, todos los que están por acá conectados, esa gente que ya tiene años.",
+      "raw_text": "B, o sea Banda, Looper, todos los que están por acá conectados, esa gente que ya tiene años.",
+      "start_time": 3548.93,
+      "end_time": 3552.97
+    },
+    {
+      "index": 402,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Qué les dirías?",
+      "raw_text": "¿Qué les dirías?",
+      "start_time": 3553.91,
+      "end_time": 3554.63
+    },
+    {
+      "index": 403,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Qué les recomendarías?",
+      "raw_text": "¿Qué les recomendarías?",
+      "start_time": 3554.79,
+      "end_time": 3555.87
+    },
+    {
+      "index": 404,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Una, primero que nada yo sí les recomendaría Corran un Nodo, está muy muy interesante, es mucho aprendizaje, hay que dedicarle tiempo y sí, se aprende mucho y entiende uno cómo funcionan muchos de estos sistemas y creo que te da un panorama mucho mejor de cómo es el ecosistema y de cómo irlo mejorando poco a poco.",
+      "raw_text": "Una, primero que nada yo sí les recomendaría Corran un Nodo, está muy muy interesante, es mucho aprendizaje, hay que dedicarle tiempo y sí, se aprende mucho y entiende uno cómo funcionan muchos de estos sistemas y creo que te da un panorama mucho mejor de cómo es el ecosistema y de cómo irlo mejorando poco a poco.",
+      "start_time": 3555.87,
+      "end_time": 3574.79
+    },
+    {
+      "index": 405,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Pero.",
+      "raw_text": "Pero.",
+      "start_time": 3575.19,
+      "end_time": 3575.59
+    },
+    {
+      "index": 406,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Estos programas más técnicos también creo que son muy importantes.",
+      "raw_text": "Estos programas más técnicos también creo que son muy importantes.",
+      "start_time": 3577.11,
+      "end_time": 3579.83
+    },
+    {
+      "index": 407,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ojalá que se anime la onda.",
+      "raw_text": "Ojalá que se anime la onda.",
+      "start_time": 3581.6,
+      "end_time": 3582.88
+    },
+    {
+      "index": 408,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Bueno, ¿Qué les diría?",
+      "raw_text": "Bueno, ¿Qué les diría?",
+      "start_time": 3586.64,
+      "end_time": 3588.24
+    },
+    {
+      "index": 409,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Sí, ¿Qué le recomiendas a la gente?",
+      "raw_text": "Sí, ¿Qué le recomiendas a la gente?",
+      "start_time": 3594.96,
+      "end_time": 3596.48
+    },
+    {
+      "index": 410,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Cómo te podemos ayudar?",
+      "raw_text": "¿Cómo te podemos ayudar?",
+      "start_time": 3596.48,
+      "end_time": 3597.6
+    },
+    {
+      "index": 411,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Como le podemos ayudar al Idle, a Ethereum, a la red en general?",
+      "raw_text": "¿Como le podemos ayudar al Idle, a Ethereum, a la red en general?",
+      "start_time": 3597.6,
+      "end_time": 3602.56
+    },
+    {
+      "index": 412,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Creo que lo perdimos un segundo o se mutió.",
+      "raw_text": "Creo que lo perdimos un segundo o se mutió.",
+      "start_time": 3610.57,
+      "end_time": 3615.45
+    },
+    {
+      "index": 413,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Uy no, de repente te perdí.",
+      "raw_text": "Uy no, de repente te perdí.",
+      "start_time": 3626.81,
+      "end_time": 3628.81
+    },
+    {
+      "index": 414,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "No sé si a lo mejor bajándote.",
+      "raw_text": "No sé si a lo mejor bajándote.",
+      "start_time": 3630.73,
+      "end_time": 3632.57
+    },
+    {
+      "index": 415,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Denme un segundito.",
+      "raw_text": "Denme un segundito.",
+      "start_time": 3645.59,
+      "end_time": 3646.55
+    },
+    {
+      "index": 416,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "De aire, vamos a.",
+      "raw_text": "De aire, vamos a.",
+      "start_time": 3648.23,
+      "end_time": 3649.15
+    },
+    {
+      "index": 417,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Ver.",
+      "raw_text": "Ver.",
+      "start_time": 3649.15,
+      "end_time": 3649.43
+    },
+    {
+      "index": 418,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Para irnos despidiendo, pasamos un poquito del tiempo.",
+      "raw_text": "Para irnos despidiendo, pasamos un poquito del tiempo.",
+      "start_time": 3651.27,
+      "end_time": 3654.07
+    },
+    {
+      "index": 419,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Oigan, yo mientras por aquí veo a lo subimos despertico, estoy en Guadalajara, ayer estuve por acá con la comunidad, fuimos a cenar, ya lo tengo por acá, se me esforzó, muy divertido, al rato les cuento.",
+      "raw_text": "Oigan, yo mientras por aquí veo a lo subimos despertico, estoy en Guadalajara, ayer estuve por acá con la comunidad, fuimos a cenar, ya lo tengo por acá, se me esforzó, muy divertido, al rato les cuento.",
+      "start_time": 3665.28,
+      "end_time": 3678.64
+    },
+    {
+      "index": 420,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Listo, ahí estamos.",
+      "raw_text": "Listo, ahí estamos.",
+      "start_time": 3681.68,
+      "end_time": 3682.72
+    },
+    {
+      "index": 421,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Listo.",
+      "raw_text": "Listo.",
+      "start_time": 3683.12,
+      "end_time": 3683.6
+    },
+    {
+      "index": 422,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "¿Bueno, a ver, decía primero me tengo que ir a otra reunión, pero igual avisé que me.",
+      "raw_text": "¿Bueno, a ver, decía primero me tengo que ir a otra reunión, pero igual avisé que me.",
+      "start_time": 3684.43,
+      "end_time": 3690.35
+    },
+    {
+      "index": 423,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Que me den unos minutos y creo que lo que me preguntabas era como qué les podría decir a la gente que está acá, no?",
+      "raw_text": "Que me den unos minutos y creo que lo que me preguntabas era como qué les podría decir a la gente que está acá, no?",
+      "start_time": 3692.75,
+      "end_time": 3700.43
+    },
+    {
+      "index": 424,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Sí, obvio, invitarlos a correr nodos y a participar en el programa de estudios, pero qué más, qué más puede hacer la banda?",
+      "raw_text": "¿Sí, obvio, invitarlos a correr nodos y a participar en el programa de estudios, pero qué más, qué más puede hacer la banda?",
+      "start_time": 3701.55,
+      "end_time": 3707.99
+    },
+    {
+      "index": 425,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Y gracias por estar por aquí, ya.",
+      "raw_text": "Y gracias por estar por aquí, ya.",
+      "start_time": 3707.99,
+      "end_time": 3709.19
+    },
+    {
+      "index": 426,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Estamos cerrando también y bueno.",
+      "raw_text": "Estamos cerrando también y bueno.",
+      "start_time": 3709.19,
+      "end_time": 3711.74
+    },
+    {
+      "index": 427,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "No sé si soy el que está.",
+      "raw_text": "No sé si soy el que está.",
+      "start_time": 3713.42,
+      "end_time": 3715.02
+    },
+    {
+      "index": 428,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "No sé, no suelo dar tantos consejos, no sé si soy el que está mejor para dar consejos también porque qué sé yo, es como creo que gracias.",
+      "raw_text": "No sé, no suelo dar tantos consejos, no sé si soy el que está mejor para dar consejos también porque qué sé yo, es como creo que gracias.",
+      "start_time": 3716.62,
+      "end_time": 3725.66
+    },
+    {
+      "index": 429,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "A Dios.",
+      "raw_text": "A Dios.",
+      "start_time": 3727.58,
+      "end_time": 3728.22
+    },
+    {
+      "index": 430,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Al universo, como quieran, he tenido bastante suerte.",
+      "raw_text": "Al universo, como quieran, he tenido bastante suerte.",
+      "start_time": 3728.22,
+      "end_time": 3732.94
+    },
+    {
+      "index": 431,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Pero.",
+      "raw_text": "Pero.",
+      "start_time": 3736.07,
+      "end_time": 3736.31
+    },
+    {
+      "index": 432,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Nada, eso me parece que lo que hay es que tener es mucha convicción.",
+      "raw_text": "Nada, eso me parece que lo que hay es que tener es mucha convicción.",
+      "start_time": 3738.23,
+      "end_time": 3741.43
+    },
+    {
+      "index": 433,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Educarse bastante, investigar bastante y como formar sus propias conclusiones y después.",
+      "raw_text": "Educarse bastante, investigar bastante y como formar sus propias conclusiones y después.",
+      "start_time": 3743.51,
+      "end_time": 3750.71
+    },
+    {
+      "index": 434,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Es un espacio en qué.",
+      "raw_text": "Es un espacio en qué.",
+      "start_time": 3752.23,
+      "end_time": 3753.67
+    },
+    {
+      "index": 435,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Esa clase de apuestas pagan.",
+      "raw_text": "Esa clase de apuestas pagan.",
+      "start_time": 3757.43,
+      "end_time": 3760.15
+    },
+    {
+      "index": 436,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y por eso me parece que merece mucho la pena involucrarse bastante y ya después cada quien tendrá su forma de involucrarse.",
+      "raw_text": "Y por eso me parece que merece mucho la pena involucrarse bastante y ya después cada quien tendrá su forma de involucrarse.",
+      "start_time": 3763.12,
+      "end_time": 3769.68
+    },
+    {
+      "index": 437,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Pues a mí soy un poco más técnico, soy como quizás como de tu perfil similar, más ingeniero y demás, como que me gustan esas cosas, pero quizás hay gente que es más emprendedora y lo que quiere es pues armar una aplicación aunque no sepa programar una línea o hay gente que quizás es, tu apuestas con, no sé, algún rol no técnico tipo marketing o algo así y pues creo que estas historias son bastante populares acá, como que historias.",
+      "raw_text": "Pues a mí soy un poco más técnico, soy como quizás como de tu perfil similar, más ingeniero y demás, como que me gustan esas cosas, pero quizás hay gente que es más emprendedora y lo que quiere es pues armar una aplicación aunque no sepa programar una línea o hay gente que quizás es, tu apuestas con, no sé, algún rol no técnico tipo marketing o algo así y pues creo que estas historias son bastante populares acá, como que historias.",
+      "start_time": 3769.92,
+      "end_time": 3802.27
+    },
+    {
+      "index": 438,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "De éxito y que de todas formas, para bien o para mal es un espacio inherentemente técnico, entonces esas cosas como correr un nodo o quizás no tan lejos como correr un nodo, pero entender cómo funcionan muchas de estas cosas también te puede llevar.",
+      "raw_text": "De éxito y que de todas formas, para bien o para mal es un espacio inherentemente técnico, entonces esas cosas como correr un nodo o quizás no tan lejos como correr un nodo, pero entender cómo funcionan muchas de estas cosas también te puede llevar.",
+      "start_time": 3804.11,
+      "end_time": 3819.72
+    },
+    {
+      "index": 439,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Bastante lejos, es como, bueno, si trabajas para, aunque hagas, no sé, aunque qué sé yo, aunque limpies los baños de las oficinas de Google, te conviene saber cómo funciona Google, como que son empresas grandes y creo que nosotros, Ethereum como ecosistema o cripto como ecosistema eventualmente acabará siendo de tamaños parecidos.",
+      "raw_text": "Bastante lejos, es como, bueno, si trabajas para, aunque hagas, no sé, aunque qué sé yo, aunque limpies los baños de las oficinas de Google, te conviene saber cómo funciona Google, como que son empresas grandes y creo que nosotros, Ethereum como ecosistema o cripto como ecosistema eventualmente acabará siendo de tamaños parecidos.",
+      "start_time": 3821.4,
+      "end_time": 3846.05
+    },
+    {
+      "index": 440,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "No sé me compliqué mucho, pero es una pregunta complicada.",
+      "raw_text": "No sé me compliqué mucho, pero es una pregunta complicada.",
+      "start_time": 3846.85,
+      "end_time": 3850.53
+    },
+    {
+      "index": 441,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "No, no, definitivo, definitivo.",
+      "raw_text": "No, no, definitivo, definitivo.",
+      "start_time": 3851.41,
+      "end_time": 3853.25
+    },
+    {
+      "index": 442,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Sí es algo que necesitamos más banda que lo haga, creo yo, y que hable más de estos temas, o sea, que sea más público, que platique lo que le gusta.",
+      "raw_text": "Sí es algo que necesitamos más banda que lo haga, creo yo, y que hable más de estos temas, o sea, que sea más público, que platique lo que le gusta.",
+      "start_time": 3853.25,
+      "end_time": 3861.81
+    },
+    {
+      "index": 443,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Sí, esos perfiles técnicos haciendo contenido, creo que al menos en Latinoamérica lo he visto de algunas personas, pero sí, sí siento que nos ayudaría a tener a más bandas haciendo todos estos temas.",
+      "raw_text": "Sí, esos perfiles técnicos haciendo contenido, creo que al menos en Latinoamérica lo he visto de algunas personas, pero sí, sí siento que nos ayudaría a tener a más bandas haciendo todos estos temas.",
+      "start_time": 3863.41,
+      "end_time": 3876.04
+    },
+    {
+      "index": 444,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Oye, Tino, pues muchas gracias por estar por acá.",
+      "raw_text": "Oye, Tino, pues muchas gracias por estar por acá.",
+      "start_time": 3876.2,
+      "end_time": 3878.28
+    },
+    {
+      "index": 445,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Disculpe.",
+      "raw_text": "Disculpe.",
+      "start_time": 3879.16,
+      "end_time": 3879.72
+    },
+    {
+      "index": 446,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Temas técnicos, no estoy en mi set up tradicional, ando viajando, ahorita me voy a dar la plática con los banqueros acá en Guadalajara, pero bueno, sigamos platicando.",
+      "raw_text": "Temas técnicos, no estoy en mi set up tradicional, ando viajando, ahorita me voy a dar la plática con los banqueros acá en Guadalajara, pero bueno, sigamos platicando.",
+      "start_time": 3881.4,
+      "end_time": 3891.04
+    },
+    {
+      "index": 447,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Me encantaría tenerte en algunos meses ya que todo esto mejore en cuanto a la experiencia del usuario, que se decidan muchas cosas que ahorita se están decidiendo.",
+      "raw_text": "Me encantaría tenerte en algunos meses ya que todo esto mejore en cuanto a la experiencia del usuario, que se decidan muchas cosas que ahorita se están decidiendo.",
+      "start_time": 3891.04,
+      "end_time": 3900.08
+    },
+    {
+      "index": 448,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Va a ser bien interesante seguirle la pista a lo que está haciendo lado, lo que están haciendo también con el módulo de staking en comunidad y obviamente estos talleres y sesiones de estudios para aprender sobre Tidium.",
+      "raw_text": "Va a ser bien interesante seguirle la pista a lo que está haciendo lado, lo que están haciendo también con el módulo de staking en comunidad y obviamente estos talleres y sesiones de estudios para aprender sobre Tidium.",
+      "start_time": 3900.32,
+      "end_time": 3914.48
+    },
+    {
+      "index": 449,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "De nuevo, muchas gracias.",
+      "raw_text": "De nuevo, muchas gracias.",
+      "start_time": 3914.56,
+      "end_time": 3915.76
+    },
+    {
+      "index": 450,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "¿Algo adicional que se te haya pasado comentar?",
+      "raw_text": "¿Algo adicional que se te haya pasado comentar?",
+      "start_time": 3915.76,
+      "end_time": 3918.56
+    },
+    {
+      "index": 451,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Si, no, pues ya nos despedimos.",
+      "raw_text": "Si, no, pues ya nos despedimos.",
+      "start_time": 3918.72,
+      "end_time": 3920.1
+    },
+    {
+      "index": 452,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "No, la verdad no, pues mantenerse al tanto un poco de todo lo que estamos trabajando en Lido y pues animar a todo el mundo a.",
+      "raw_text": "No, la verdad no, pues mantenerse al tanto un poco de todo lo que estamos trabajando en Lido y pues animar a todo el mundo a.",
+      "start_time": 3922.89,
+      "end_time": 3931.61
+    },
+    {
+      "index": 453,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Mantenerse bullish a pesar de las condiciones del mercado.",
+      "raw_text": "Mantenerse bullish a pesar de las condiciones del mercado.",
+      "start_time": 3933.53,
+      "end_time": 3937.13
+    },
+    {
+      "index": 454,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Y nada, gracias a ti Mexi por el espacio de una cualquier cosa, tú o quien sea que está acá me pueden, me pueden escribir, me gusta hablar, así que eso no es nunca un problema.",
+      "raw_text": "Y nada, gracias a ti Mexi por el espacio de una cualquier cosa, tú o quien sea que está acá me pueden, me pueden escribir, me gusta hablar, así que eso no es nunca un problema.",
+      "start_time": 3937.61,
+      "end_time": 3949.72
+    },
+    {
+      "index": 455,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "En privado o hasta acá, cualquier cosa, estamos a la orden y bueno, mucha suerte allá con los Banqueros de Guadalajara.",
+      "raw_text": "En privado o hasta acá, cualquier cosa, estamos a la orden y bueno, mucha suerte allá con los Banqueros de Guadalajara.",
+      "start_time": 3952.52,
+      "end_time": 3959.72
+    },
+    {
+      "index": 456,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "No, muchas gracias.",
+      "raw_text": "No, muchas gracias.",
+      "start_time": 3960.76,
+      "end_time": 3961.759
+    },
+    {
+      "index": 457,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Por acá abajo está Tori que está empezando a hacer espacios, está Caro que tiene años haciendo espacios, Vince y la gente de Pulso Media también, Beba G.",
+      "raw_text": "Por acá abajo está Tori que está empezando a hacer espacios, está Caro que tiene años haciendo espacios, Vince y la gente de Pulso Media también, Beba G.",
+      "start_time": 3961.759,
+      "end_time": 3970.2
+    },
+    {
+      "index": 458,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Hay muchos creadores de contenido de Yael, por supuesto, ahí en Ethereum México estamos constantemente platicando de estos temas, si gustan, pues ahí está el contacto, echen un DM para que programen una llamadita, invítenlos a su espacio.",
+      "raw_text": "Hay muchos creadores de contenido de Yael, por supuesto, ahí en Ethereum México estamos constantemente platicando de estos temas, si gustan, pues ahí está el contacto, echen un DM para que programen una llamadita, invítenlos a su espacio.",
+      "start_time": 3970.28,
+      "end_time": 3982.27
+    },
+    {
+      "index": 459,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Todo placer platicar contigo en ti, conocerte un poquito más.",
+      "raw_text": "Todo placer platicar contigo en ti, conocerte un poquito más.",
+      "start_time": 3983.63,
+      "end_time": 3986.35
+    },
+    {
+      "index": 460,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Poder compartir de lo que están haciendo ahí en lado y de lo a lo mejor en el futuro viene.",
+      "raw_text": "Poder compartir de lo que están haciendo ahí en lado y de lo a lo mejor en el futuro viene.",
+      "start_time": 3987.95,
+      "end_time": 3992.35
+    },
+    {
+      "index": 461,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Está cabrón atinarle y es bien interesante verlo, pero pues bueno, aquí vamos a seguirlo platicando.",
+      "raw_text": "Está cabrón atinarle y es bien interesante verlo, pero pues bueno, aquí vamos a seguirlo platicando.",
+      "start_time": 3993.23,
+      "end_time": 3999.15
+    },
+    {
+      "index": 462,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Muchas gracias a todos.",
+      "raw_text": "Muchas gracias a todos.",
+      "start_time": 3999.62,
+      "end_time": 4000.5
+    },
+    {
+      "index": 463,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Hoy no hay musiquita de salida porque decía el cero está medio complicado pero lo voy a rubiar así de bueno primero.",
+      "raw_text": "Hoy no hay musiquita de salida porque decía el cero está medio complicado pero lo voy a rubiar así de bueno primero.",
+      "start_time": 4000.5,
+      "end_time": 4009.7
+    },
+    {
+      "index": 464,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Bueno, gracias, nos vemos por ahí.",
+      "raw_text": "Bueno, gracias, nos vemos por ahí.",
+      "start_time": 4010.98,
+      "end_time": 4012.94
+    },
+    {
+      "index": 465,
+      "speaker_name": null,
+      "speaker_id": 1,
+      "text": "Chao.",
+      "raw_text": "Chao.",
+      "start_time": 4012.94,
+      "end_time": 4013.86
+    },
+    {
+      "index": 466,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Muchas gracias banda, estamos platicando ahí nos vemos el próximo martes con Suápido, va a estar por acá en banda web el CEO de Suápido nos va a platicar de la aplicación que tiene para convertir Bitcoin a pesos de manera sencilla y el próximo jueves Oma Cash, que es otra aplicación similar para convertir a pesos con un bot de WhatsApp.",
+      "raw_text": "Muchas gracias banda, estamos platicando ahí nos vemos el próximo martes con Suápido, va a estar por acá en banda web el CEO de Suápido nos va a platicar de la aplicación que tiene para convertir Bitcoin a pesos de manera sencilla y el próximo jueves Oma Cash, que es otra aplicación similar para convertir a pesos con un bot de WhatsApp.",
+      "start_time": 4014.42,
+      "end_time": 4036.32
+    },
+    {
+      "index": 467,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Está muy interesante lo que está pasando acá en Latinoamérica con el tema de las rampas y las maneras para gastar y utilizar cripto.",
+      "raw_text": "Está muy interesante lo que está pasando acá en Latinoamérica con el tema de las rampas y las maneras para gastar y utilizar cripto.",
+      "start_time": 4036.32,
+      "end_time": 4044.32
+    },
+    {
+      "index": 468,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ahí.",
+      "raw_text": "Ahí.",
+      "start_time": 4044.48,
+      "end_time": 4044.96
+    },
+    {
+      "index": 469,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Pasaré más información.",
+      "raw_text": "Pasaré más información.",
+      "start_time": 4046.48,
+      "end_time": 4047.6
+    },
+    {
+      "index": 470,
+      "speaker_name": null,
+      "speaker_id": 0,
+      "text": "Ahora sí, los dejo, ya ve bien tarde y bye.",
+      "raw_text": "Ahora sí, los dejo, ya ve bien tarde y bye.",
+      "start_time": 4048.32,
+      "end_time": 4053
+    }
+  ]
+}

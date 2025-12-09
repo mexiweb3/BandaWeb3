@@ -1,0 +1,678 @@
+{
+  "id": "01KC0MA9PRD20S89EM43CA05AM",
+  "title": "BandaWeb3 - Latinos en Web3🎙️ Bitcoin Ordinals ! Que son Español Pt.2",
+  "date": 1765252800000,
+  "duration": 21.809999465942383,
+  "sentences": [
+    {
+      "text": "Bueno, bienvenidos de nuevo.",
+      "speaker_name": null,
+      "start_time": 78.76
+    },
+    {
+      "text": "No sería Twitter Spaces ni un espacio en vivo si no nos rugueamos de vez en cuando.",
+      "speaker_name": null,
+      "start_time": 80.52
+    },
+    {
+      "text": "Latinos en web.",
+      "speaker_name": null,
+      "start_time": 85.24
+    },
+    {
+      "text": "Gracias por regresar.",
+      "speaker_name": null,
+      "start_time": 87
+    },
+    {
+      "text": "Realmente todo esto fue planeado, era para ver quién estaba poniendo atención, a ver si se durmieron, si se conectaron y nada más así para que uno crea que están conectados.",
+      "speaker_name": null,
+      "start_time": 88.04
+    },
+    {
+      "text": "Entonces, no, mentira, pero ya hablando en serio, qué pena, de verdad que me hubiera encantado que hubiera sido el mismo espacio así de corrido.",
+      "speaker_name": null,
+      "start_time": 96.97
+    },
+    {
+      "text": "Pero bueno, vamos a seguir con la conversación.",
+      "speaker_name": null,
+      "start_time": 105.29
+    },
+    {
+      "text": "Gracias de nuevo Felipe Macy y a todos los que están aquí.",
+      "speaker_name": null,
+      "start_time": 110.97
+    },
+    {
+      "text": "Si por favor, por favor, podemos compartir este nuevo espacio, así nos encuentran.",
+      "speaker_name": null,
+      "start_time": 115.61
+    },
+    {
+      "text": "Yo sé que cuando a veces nos rugueamos ya se nos pierde el hilo y nos perdemos por completo de la siguiente parte, así que de verdad se los agradecería y ya sea con un comentario aquí en la cajita a mano derecha moradita o retituando y también pues compartiendo el cuarto, obviamente.",
+      "speaker_name": null,
+      "start_time": 121.7
+    },
+    {
+      "text": "Así que vamos a seguir resumiendo la conversación.",
+      "speaker_name": null,
+      "start_time": 141.94
+    },
+    {
+      "text": "Todo sobre Ordinals, así que no sé dónde nos quedamos mexicano en ese momento y se cortó.",
+      "speaker_name": null,
+      "start_time": 145.68
+    },
+    {
+      "text": "No, gracias.",
+      "speaker_name": null,
+      "start_time": 155.76
+    },
+    {
+      "text": "Definitivamente los que de repente estamos en este tipo de espacios sabemos que esto es algo que sucede, no pasa nada, es normal.",
+      "speaker_name": null,
+      "start_time": 157.12
+    },
+    {
+      "text": "Y sí, lo que les comentaba ahorita son un poquito el tema de los números, ahorita estamos viendo ya más de 75 mil inscripciones en la red.",
+      "speaker_name": null,
+      "start_time": 164.48
+    },
+    {
+      "text": "Ahorita que hable Felipe aprovecho para poner aquí el link donde pueden llegar a ver esta información.",
+      "speaker_name": null,
+      "start_time": 173.94
+    },
+    {
+      "text": "Creo que es muy valiosa porque lo que definitivamente está sucediendo es que se está usando mucho esta tecnología y el uso de la tecnología obviamente.",
+      "speaker_name": null,
+      "start_time": 179.38
+    },
+    {
+      "text": "Trae ciertas aplicaciones y ciertas implicaciones en la red.",
+      "speaker_name": null,
+      "start_time": 190.98
+    },
+    {
+      "text": "¿Qué es lo que está sucediendo en la red?",
+      "speaker_name": null,
+      "start_time": 196.1
+    },
+    {
+      "text": "Las cuotas que la gente está pagando para hacer este tipo de inscripciones han estado subiendo exponencialmente.",
+      "speaker_name": null,
+      "start_time": 198.43
+    },
+    {
+      "text": "Los mineros están recibiendo mucho más dinero por el uso y eso es algo súper importante, creo yo.",
+      "speaker_name": null,
+      "start_time": 204.51
+    },
+    {
+      "text": "También las comisiones para transaccionar con la red han estado subiendo, como lo hemos podido ver en otras redes y definitivamente también en Bitcoin.",
+      "speaker_name": null,
+      "start_time": 209.31
+    },
+    {
+      "text": "Entre más gente esté tratando de utilizar estas redes, utilizar para hacer transacciones, para hacer inscripciones o lo que sea.",
+      "speaker_name": null,
+      "start_time": 219.07
+    },
+    {
+      "text": "Hay un incremento de comisión.",
+      "speaker_name": null,
+      "start_time": 229.54
+    },
+    {
+      "text": "El Bitcoin en específico Tiene bloques de 10 minutos, cada red es diferente.",
+      "speaker_name": null,
+      "start_time": 232.02
+    },
+    {
+      "text": "Esto también es creo que importante, pero yo creo que sí conviene platicar un poquito de la parte técnica.",
+      "speaker_name": null,
+      "start_time": 237.14
+    },
+    {
+      "text": "En específico, Bitcoin Tiene bloques de 10 minutos y cada bloque al día de hoy tiene un límite máximo de 4 megabytes que puede llegar a tener de información cada uno de estos bloques.",
+      "speaker_name": null,
+      "start_time": 242.34
+    },
+    {
+      "text": "Entonces, algo que también hemos estado viendo es que a partir del inicio de febrero, que en realidad empezó a utilizarse la red, los bloques de Bitcoin muchos están casi al doble de como venían estando en enero del año de este año o de años pasados.",
+      "speaker_name": null,
+      "start_time": 253.98
+    },
+    {
+      "text": "Entonces toda esta información, el tema de comisiones que sube, como los mineros han estado viendo las transacciones y cómo se han beneficiado de ellos y todo.",
+      "speaker_name": null,
+      "start_time": 269.94
+    },
+    {
+      "text": "Y después todo lo que puede llegar a esto implicar en el futuro, creo que es súper interesante discutir y platicar porque ha generado muchísima polémica.",
+      "speaker_name": null,
+      "start_time": 280.4
+    },
+    {
+      "text": "Entonces, en mi opinión, yo qué digo, yo por ahí tuiteé hace un momento un comentario que me gustó mucho, es que creemos y queremos que Bitcoin sea una de las redes que más se utilice para intercambiar valor.",
+      "speaker_name": null,
+      "start_time": 287.92
+    },
+    {
+      "text": "Y definitivamente los estados, los países, los gobiernos y muchas instituciones probablemente no les guste esto.",
+      "speaker_name": null,
+      "start_time": 305.04
+    },
+    {
+      "text": "Y si no aguanta un par o tres o cuatro o veinte o setenta y cinco mil inscripciones y la red truena, pues entonces no es la red que queremos.",
+      "speaker_name": null,
+      "start_time": 310.96
+    },
+    {
+      "text": "Hay que probarla, hay que calarla, hay que exprimirle lo más que se pueda y ver hasta dónde llega y cuáles son las posibilidades de uso.",
+      "speaker_name": null,
+      "start_time": 319.47
+    },
+    {
+      "text": "Entonces hay gente que dice, no, que esto no debería ser así, que estamos subiendo información que es basura.",
+      "speaker_name": null,
+      "start_time": 326.19
+    },
+    {
+      "text": "Pues perspectiva personal de cada quien.",
+      "speaker_name": null,
+      "start_time": 331.59
+    },
+    {
+      "text": "Yo sí creo que estas redes tienen que ser exploradas, tiene que ser utilizadas, tienen que tratar de.",
+      "speaker_name": null,
+      "start_time": 334.83
+    },
+    {
+      "text": "Sacarle el mayor jugo posible y la única manera es utilizándolas a prueba y error.",
+      "speaker_name": null,
+      "start_time": 341.52
+    },
+    {
+      "text": "Y con este tipo de aplicaciones y experimentos.",
+      "speaker_name": null,
+      "start_time": 345.92
+    },
+    {
+      "text": "Yo creo que se tocan fibras sensibles.",
+      "speaker_name": null,
+      "start_time": 350.88
+    },
+    {
+      "text": "Aquí creo que es interesante mencionar que la cultura de Bitcoin tradicionalmente arrastra como dos principios.",
+      "speaker_name": null,
+      "start_time": 355.28
+    },
+    {
+      "text": "No está escrito, no es parte del contrato, es más que nada algo que los mismos maxis de Bitcoin, pero también desarrolladores y la gente que estuvo muy temprana cree.",
+      "speaker_name": null,
+      "start_time": 366.22
+    },
+    {
+      "text": "Entonces hay dos tradiciones, Una ya la mencionaste, es, digo en inglés dicen don't shovel.",
+      "speaker_name": null,
+      "start_time": 376.94
+    },
+    {
+      "text": "Unrelated crap.",
+      "speaker_name": null,
+      "start_time": 385.42
+    },
+    {
+      "text": "Entonces es como no le metas.",
+      "speaker_name": null,
+      "start_time": 386.86
+    },
+    {
+      "text": "Mierda a la Bitcoin, al blockchain, que no está relacionado a lo que hacemos.",
+      "speaker_name": null,
+      "start_time": 390.7
+    },
+    {
+      "text": "Mantén la blockchain tan pequeña como sea posible para que sea fácil para todos en el mundo correr un nodo, formar parte del cómputo y ayudar a que Bitcoin sea descentralizado.",
+      "speaker_name": null,
+      "start_time": 397.43
+    },
+    {
+      "text": "Esa es una de las tradiciones de Bitcoin.",
+      "speaker_name": null,
+      "start_time": 411.27
+    },
+    {
+      "text": "Pero por el otro lado está el de pues permite que todos usen Bitcoin como mejor les haga fit, como mejor les parezca y les sirva, que sea esto algo abierto y que sea un sistema permissionless, que no haya bloqueos para pedir permiso para hacer algo con la red.",
+      "speaker_name": null,
+      "start_time": 414.47
+    },
+    {
+      "text": "Entonces se está generando este dilema, si deberíamos empezar a preocuparnos porque la red empiece a ser pesada.",
+      "speaker_name": null,
+      "start_time": 436.01
+    },
+    {
+      "text": "Para darles un poquito de contexto y el por qué todo el mundo se está rasgando aquí las vestiduras, es que para inscribir un Bitcoin para crear un artefacto, la única manera realmente es que corra su propio nodo.",
+      "speaker_name": null,
+      "start_time": 447.93
+    },
+    {
+      "text": "Entonces, correr tu propio nodo involucra un montón de cosas, pero la parte sencilla, bajas un archivo que ahorita creo que va por ahí de los 400 GB, casi medio tera, lo bajas en tu compu, bajas el core de Bitcoin o el programa, lo corres y lo que va a hacer es desde donde lo bajaste hasta la actualidad, va a empezar a sincronizarlo los otros cuantos GB que te faltaron para bajar toda la bitácora de todas las transacciones que han pasado en Bitcoin.",
+      "speaker_name": null,
+      "start_time": 466.24
+    },
+    {
+      "text": "Ya que lo tienes, entonces puedes empezar a correr este programa que inventó Casey que se llama Ordinals y de una manera muy sencilla, a través de línea de comandos, corres los tres comandos y tienes tu primer NFT en Bitcoin.",
+      "speaker_name": null,
+      "start_time": 499.97
+    },
+    {
+      "text": "Ahora, hasta ahí fácil.",
+      "speaker_name": null,
+      "start_time": 515.42
+    },
+    {
+      "text": "Ahorita que somos los primeros, el problema se da cuando pues Mexi ya subió su primer NFT.",
+      "speaker_name": null,
+      "start_time": 517.58
+    },
+    {
+      "text": "Digo aquí spoiler, los criptoluchas tenemos un par de NFTs en Bitcoin que estamos por liberar, Mikita ya subió el suyo y entonces ahí ya hablamos de un mega, dos megas, tres megas, multiplicado por los casi 70 mil, casi 80 mil NFTs que se han creado en los últimos días, va a empezar a pesar más esa información que necesitamos bajar para correr un nodo.",
+      "speaker_name": null,
+      "start_time": 526.94
+    },
+    {
+      "text": "Entonces, ¿Cuál es su opinión, Lau Mexi, acerca de que si hacemos, si le metemos imágenes a la red, la vamos a hacer más pesada y entonces pues no le metas unrelated crap into the blockchain?",
+      "speaker_name": null,
+      "start_time": 551.77
+    },
+    {
+      "text": "La verdad es que estoy ahora como así como procesando todo esto y no lo había pensado de esa manera.",
+      "speaker_name": null,
+      "start_time": 572.63
+    },
+    {
+      "text": "Entonces claro, va a haber muchas personas que no están conformes, o sea, están contentas con esto.",
+      "speaker_name": null,
+      "start_time": 579.31
+    },
+    {
+      "text": "Creo que era un argumento que no había ni siquiera considerado y no lo había escuchado y he estado tratando de empaparme en el tema y aprender más y entender todo esto porque yo creo que definitivamente no es algo que uno se va a aprender de una sola y no sé, pienso que muchos queremos como aprender y de pronto como ser parte de esta historia.",
+      "speaker_name": null,
+      "start_time": 584.55
+    },
+    {
+      "text": "Y estamos poniendo crap en el sistema, ¿Sabes?",
+      "speaker_name": null,
+      "start_time": 609.44
+    },
+    {
+      "text": "En el blockchain, pero nunca lo había visto así, lo veía más como que no pasa nada, o sea, ya después de que de que hagas toda la parte difícil no afecta pero sí creo que es algo que va de la mano con todo esto de que no es de nadie, o sea, esto no lo puede controlar nadie.",
+      "speaker_name": null,
+      "start_time": 612.48
+    },
+    {
+      "text": "Si de verdad es permissionless y de verdad todos tenemos acceso, entonces ¿Qué nos vamos a poner ahora?",
+      "speaker_name": null,
+      "start_time": 632.19
+    },
+    {
+      "text": "Hola, por favor no me llenen la red, como que no podemos hacer una campaña, no me llenen la red de basura, así para ti sea basura, de pronto es algo muy objetivo, de pronto para ti hay un arte que te parece wow, la tercera, no sé, la décima maravilla del mundo y yo digo, wow, qué horrible cómo puso esto en su casa esta persona.",
+      "speaker_name": null,
+      "start_time": 639.11
+    },
+    {
+      "text": "Entonces por más opiniones que hayan, creo que a la final, OK, así fuera de verdad basura, ¿Quién determina eso y cómo lo controlamos?",
+      "speaker_name": null,
+      "start_time": 658.86
+    },
+    {
+      "text": "Pero la realidad es esa, es que no había escuchado como que ese argumento está ahorita.",
+      "speaker_name": null,
+      "start_time": 669.5
+    },
+    {
+      "text": "Me gustaría también ir a donde me quito ahorita, pero antes quería preguntar rapidito ¿Qué son los satoshis?",
+      "speaker_name": null,
+      "start_time": 674.62
+    },
+    {
+      "text": "¿Porque lo habíamos mencionado brevemente en la parte número uno del espacio, pero sí quería como aclarar eso porque creo que con todos estos nombres que de pronto ustedes dos estamos acostumbrados a lidiar, para una persona que no esté en este tema le parece chino todo esto y confuso, entonces como que vamos a irnos por ese lado y vamos enseguida con Mikita.",
+      "speaker_name": null,
+      "start_time": 681.02
+    },
+    {
+      "text": "No?",
+      "speaker_name": null,
+      "start_time": 708.12
+    },
+    {
+      "text": "Y muy importante porque definitivamente algo que tiene Bitcoin a diferencia de algunas otras redes es obviamente sus reglas definidas, sus reglas ya fijas en el protocolo que para cambiar pues es un problemón, pero dentro de esas reglas se define cómo se está creando nuevo Bitcoin y dentro de esas reglas define también que sólo hay 21 millones de unidades, sólo va a haber 21 millones de bitcoins en toda la existencia, pero esas reglas también definen la cantidad o el.",
+      "speaker_name": null,
+      "start_time": 708.32
+    },
+    {
+      "text": "La unidad mínima divisible de Bitcoin que es el satoshi.",
+      "speaker_name": null,
+      "start_time": 746.06
+    },
+    {
+      "text": "Entonces cada bitcoin tiene 100 millones de satoshis, si multiplicamos 21.",
+      "speaker_name": null,
+      "start_time": 749.66
+    },
+    {
+      "text": "Bitcoins, 21 millones de bitcoins por los 100 millones de satoshis que tiene cada bitcoin, bueno, pues ahí estamos hablando de una cantidad de arriba de los cuatrillones de satoshis.",
+      "speaker_name": null,
+      "start_time": 757.9
+    },
+    {
+      "text": "Esto es súper importante.",
+      "speaker_name": null,
+      "start_time": 766.48
+    },
+    {
+      "text": "Imaginemos ahorita el dólar, no el dólar ahorita la manera más fácil o más entendible de dividir estos 100 centavos aquí un bitcoin son 100 millones de satoshis.",
+      "speaker_name": null,
+      "start_time": 767.8
+    },
+    {
+      "text": "Creo que eso es súper importante.",
+      "speaker_name": null,
+      "start_time": 781.16
+    },
+    {
+      "text": "Y sí, definitivamente.",
+      "speaker_name": null,
+      "start_time": 782.56
+    },
+    {
+      "text": "Lo que utiliza esta tecnología es agarra cada uno de esos satoshis o agarra uno y en un satoshi hace la inscripción completa de la imagen o de la foto.",
+      "speaker_name": null,
+      "start_time": 785.96
+    },
+    {
+      "text": "Pueden subir también páginas de Internet, se puede subir MP, he visto por ahí que subieron completito el juego de Doom, no sé, al menos en mi época que empecé a utilizar las computadoras, súper, súper, pues cuando salieron ese juego era de los que más se utilizaba y ya está completo arriba en la blockchain.",
+      "speaker_name": null,
+      "start_time": 796.42
+    },
+    {
+      "text": "Entonces vamos a ver un chorro de aplicaciones nuevas inscritas en estos satoshis.",
+      "speaker_name": null,
+      "start_time": 817.46
+    },
+    {
+      "text": "Muchas gracias Mexica.",
+      "speaker_name": null,
+      "start_time": 826.62
+    },
+    {
+      "text": "Creo que sí, que eso es importante como también tener esa idea y como lo explicaba era eso, que son como unas, digamos que las moneditas y ahí vamos a poner lo que vayamos a hacer, ya sea un arte digital o algo escrito, pero que van en este satoshi y que hay que tener mucho cuidado entonces cuando lo vayamos a transferir a otra persona, porque podemos de pronto mandar una de estas y si no tenemos cuidado, como que podemos terminar mandando algo que tenga digamos el ordinal o el NFT inscrito en ese satoshi.",
+      "speaker_name": null,
+      "start_time": 827.74
+    },
+    {
+      "text": "No sé si me expliqué, de pronto no me expliqué, pero ayúdame.",
+      "speaker_name": null,
+      "start_time": 861.15
+    },
+    {
+      "text": "No, y es creo que algo súper interesante.",
+      "speaker_name": null,
+      "start_time": 865.83
+    },
+    {
+      "text": "Imaginemos que tenemos 50 penis, los centavos de dólar, tenemos 50 centavos de dólar,- agarramos uno de ellos y en la cara, en una de las caras me pongo yo a hacer una firma o le pido supongamos a un artista súper famoso, a ver, firma mi penny, no, pues ya lo firma yo lo tengo en mi bolsa, si yo agarro esa bolsa de 50 penis y pago los chicles con ello y le doy a la tienda el penny que firmó Shakira por así decirlo, considerando la canción que pusimos o que pusiste la principio, pues ya lo pierde.",
+      "speaker_name": null,
+      "start_time": 868.47
+    },
+    {
+      "text": "Entonces es súper importante el manejo de esos satoshis, de esas unidades mínimas que podemos llegar a tener nuestras carteras, porque si la podemos perder si la utilizamos para pagar comisiones o algún otro servicio.",
+      "speaker_name": null,
+      "start_time": 902.43
+    },
+    {
+      "text": "Es increíble porque justo este fin de semana le estaba explicando, obviamente lo pasé todo el fin de semana en la computadora y pues mi esposa me regañó por qué se supone que íbamos a salir, ¿Qué estás haciendo?",
+      "speaker_name": null,
+      "start_time": 913.47
+    },
+    {
+      "text": "Y así fue como le expliqué el tema de NFTs en Bitcoin, o sea igualito es.",
+      "speaker_name": null,
+      "start_time": 927.24
+    },
+    {
+      "text": "Imagínate el dólar, tenemos 100 penis y cada penny es un satoshi, nada más que alguien terminó o descubrió la manera de ponerle una imagen o una firmita a cada uno de los tenis y te lo firman.",
+      "speaker_name": null,
+      "start_time": 932.52
+    },
+    {
+      "text": "En el momento en que ese tenis firmado o pintado, lo que tú quieras, intervenido artísticamente, se vuelve no fungible, pero bien puedes ir a tiendita y si pagas por tu café a la hora que entregas todos los penis se te va el que te firmaron.",
+      "speaker_name": null,
+      "start_time": 948.8
+    },
+    {
+      "text": "¿Pues qué pasó?",
+      "speaker_name": null,
+      "start_time": 966.26
+    },
+    {
+      "text": "¿Sigue siendo arte?",
+      "speaker_name": null,
+      "start_time": 968.34
+    },
+    {
+      "text": "Esa es una gran pregunta que creo que antes de seguir a ella ya llevaba un rato Mikita ahí con la mano arriba y luego de largo.",
+      "speaker_name": null,
+      "start_time": 970.02
+    },
+    {
+      "text": "¿Pero la pregunta que quiero traer es esto que está pasando ahora con NFTs en Bitcoin?",
+      "speaker_name": null,
+      "start_time": 977.18
+    },
+    {
+      "text": "¿Hace Bitcoin que se vuelve dinero?",
+      "speaker_name": null,
+      "start_time": 982.93
+    },
+    {
+      "text": "¿Los NFT ahora los memes me van a dejar pagar por mi café, pero al mismo tiempo puedo transaccionarlos y revenderlos?",
+      "speaker_name": null,
+      "start_time": 986.61
+    },
+    {
+      "text": "Bueno, pasamos con mi kita.",
+      "speaker_name": null,
+      "start_time": 994.49
+    },
+    {
+      "text": "Sí, no, precisamente, mira, cuando yo entré al mundo de los NFT yo lo había entendido así, como que cada NFT era como la imagen de un billete, así era como yo lo capté de primera y creo que ahora esto le da como ese toque más como yo lo veía entonces, pero que realmente es como los que coleccionan moneda, en ese caso ya a las personas que coleccionan monedas antiguas, esa no la van a pagar por un café, esa moneda va en un sitio especial.",
+      "speaker_name": null,
+      "start_time": 997.01
+    },
+    {
+      "text": "Entonces creo que a ese punto tenemos que llegar.",
+      "speaker_name": null,
+      "start_time": 1023.14
+    },
+    {
+      "text": "Estas monedas son especiales, estas monedas no las movemos de ahí, estas monedas tienen un valor extra y ya no es el valor inicial, sino ya toma un valor artístico o un valor antiguo en este caso porque lo que decían de saturar la red supongo que en algún momento digan hasta aquí puede ser que digan va a haber un límite de cantidad de artefactos que se pueden mint como mismo hay un límite de Bitcoin.",
+      "speaker_name": null,
+      "start_time": 1025.94
+    },
+    {
+      "text": "Entonces creo que ahí es donde está la exclusividad de los que lo hagan primero.",
+      "speaker_name": null,
+      "start_time": 1053
+    },
+    {
+      "text": "Mira, yo lo hice y a mí el número me encantó así que yo hice el mío y el número quedó perfecto, precioso.",
+      "speaker_name": null,
+      "start_time": 1058.52
+    },
+    {
+      "text": "Se 60 3 7 3 7 3 Así quedó redondito, bonito Y creo que.",
+      "speaker_name": null,
+      "start_time": 1064.28
+    },
+    {
+      "text": "Pero que eso, que a lo mejor llega un momento en que digan pues vamos por consenso porque como decía Mexi al final Bitcoin no es tan caótico ni tan.",
+      "speaker_name": null,
+      "start_time": 1070.67
+    },
+    {
+      "text": "Hay reglas, hay normas y entonces creo que la comunidad o las personas, los desarrolladores llegarán a un consenso portal de que no vaya a afectar la red y quizás digan pues habrá un límite porque realmente hay tantas colecciones que son colecciones de 10.000 se imaginan 10.000 tal, 10.000 tal, 10.",
+      "speaker_name": null,
+      "start_time": 1081.63
+    },
+    {
+      "text": "000 tal.",
+      "speaker_name": null,
+      "start_time": 1098.964
+    },
+    {
+      "text": "Claro que también lleva un costo que cada vez va aumentando también porque al principio era muy barato y ahora va subiendo de precio porque también.",
+      "speaker_name": null,
+      "start_time": 1099.46
+    },
+    {
+      "text": "Y también la calidad de la imagen, si es una imagen más nítida, con más resolución también tienes que pagar extra por subir esa imagen.",
+      "speaker_name": null,
+      "start_time": 1106.779
+    },
+    {
+      "text": "Pero bueno, creo que en sentido general es algo novedoso, es algo que estar nada más que en la calle de Bitcoin que para mí es como la madre de todas las otras criptomonedas y bueno, es algo.",
+      "speaker_name": null,
+      "start_time": 1116.06
+    },
+    {
+      "text": "Ser pionero en eso creo que para el futuro será relevante realmente.",
+      "speaker_name": null,
+      "start_time": 1129.76
+    },
+    {
+      "text": "Y antes de ir con de largo y luego con lo también para comentar lo que preguntaba Felipe y mucho va de la mano de lo que comentaba Laura.",
+      "speaker_name": null,
+      "start_time": 1134.92
+    },
+    {
+      "text": "Podemos tener opiniones encontradas, podemos decir esto es basura, podemos decir lo que queramos, podemos pensar que no debería estar esa información ahí o sí finalmente no importa lo que pensemos, no importa lo que queramos, no importa, lo único que importa es lo que el código permite, si el código permite utilizarlo de una u otra manera, eso es lo importante.",
+      "speaker_name": null,
+      "start_time": 1144.6
+    },
+    {
+      "text": "Si queremos llegar a cambiar eso, bueno, hay un proceso, hay un relajo.",
+      "speaker_name": null,
+      "start_time": 1165.42
+    },
+    {
+      "text": "Si conocemos un poquito de la historia de Bitcoin, el tema del tamaño de los bloques ha sido algo que se ha discutido muchísimo, se ha tratado de cambiar mucho y por X o Y está funcionando como funciona hoy.",
+      "speaker_name": null,
+      "start_time": 1170.14
+    },
+    {
+      "text": "Yo creo que vamos a ver en el futuro también muchas discusiones sobre si hay que bloquear esta aplicación, si hay que limitar el espacio que se usa para esto.",
+      "speaker_name": null,
+      "start_time": 1182.46
+    },
+    {
+      "text": "Y todo eso tiene sus implicaciones.",
+      "speaker_name": null,
+      "start_time": 1192.22
+    },
+    {
+      "text": "La gente que está protegiéndolo, los mineros, se tienen que poner de acuerdo.",
+      "speaker_name": null,
+      "start_time": 1195.34
+    },
+    {
+      "text": "Podríamos entrar ya en detalles un poquito más técnicos, pero yo creo que no va por ahí la conversación.",
+      "speaker_name": null,
+      "start_time": 1199.9
+    },
+    {
+      "text": "Pero sí, definitivamente, las reglas están fijas, hay ciertas condiciones y el código es ley.",
+      "speaker_name": null,
+      "start_time": 1203.74
+    },
+    {
+      "text": "En el blockchain el código es ley.",
+      "speaker_name": null,
+      "start_time": 1210.45
+    },
+    {
+      "text": "Bueno, nada más para cerrar esa parte.",
+      "speaker_name": null,
+      "start_time": 1215.01
+    },
+    {
+      "text": "Perdón, pero ya sorprendió.",
+      "speaker_name": null,
+      "start_time": 1217.65
+    },
+    {
+      "text": "Nada, para cerrar esa parte, la gran mayoría de los maxis.",
+      "speaker_name": null,
+      "start_time": 1221.65
+    },
+    {
+      "text": "Incluso los desarrolladores iniciales, tienen por ahí ya pruebas de que a Satoshi no le gustaba esto.",
+      "speaker_name": null,
+      "start_time": 1229.09
+    },
+    {
+      "text": "Dicen, bueno, ¿Cómo sabían?",
+      "speaker_name": null,
+      "start_time": 1239.28
+    },
+    {
+      "text": "Hay un foro que se llama bitcointalk.",
+      "speaker_name": null,
+      "start_time": 1241.52
+    },
+    {
+      "text": "Org, que es como los primeros foros donde se tuvieron esas conversaciones cuando se estaba construyendo el código.",
+      "speaker_name": null,
+      "start_time": 1245.36
+    },
+    {
+      "text": "Y hay dos comentarios que siguen saliendo en esta narrativa de si deberíamos hacerlo o no y si esto va a terminar empujando una bifurcación del blockchain.",
+      "speaker_name": null,
+      "start_time": 1252.96
+    },
+    {
+      "text": "Quizás van a crear un blockchain exclusivo para el tema de artefactos o de NFTs.",
+      "speaker_name": null,
+      "start_time": 1265.49
+    },
+    {
+      "text": "Hay un cuate que se llama Gengeeks, lo pueden buscar por ahí.",
+      "speaker_name": null,
+      "start_time": 1273.01
+    },
+    {
+      "text": "Esto data del 2010.",
+      "speaker_name": null,
+      "start_time": 1278.29
+    },
+    {
+      "text": "Y la primera pregunta fue ¿Qué opinan o cómo se sienten acerca de agregar cosas extra en el blockchain de Bitcoin?",
+      "speaker_name": null,
+      "start_time": 1280.53
+    },
+    {
+      "text": "66% de ellos, que en ese momento eran 40 personas, 66% de ellos dijeron n, 23% dijeron depende y nada más 4 personas dijeron sí.",
+      "speaker_name": null,
+      "start_time": 1288.98
+    },
+    {
+      "text": "Pero una de las más votadas en ese entonces fue la de Jengibre, que decía, bueno, Bitcoin is for money.",
+      "speaker_name": null,
+      "start_time": 1300.66
+    }
+  ]
+}

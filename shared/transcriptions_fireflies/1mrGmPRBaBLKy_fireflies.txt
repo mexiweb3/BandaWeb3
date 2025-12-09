@@ -1,0 +1,615 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #N/A
+Título: BandaWeb3 #062 @juvenwho de @SherryProtocol
+Fecha: 2025-06-03
+Host: @meximalist
+Tipo: hosted
+
+Descripción:
+BandaWeb3 #062 @juvenwho de @SherryProtocol. Juvenal nos cuenta sobre Sherry, un protocolo para convertir cualquier publicación en un app Web3 interactiva. El 6 de junio empieza su Minithon: 10 días, 3 tracks, $8k USD en premios.
+
+Duración: 01:12:53
+Escuchas: 41
+
+Links:
+  Space: https://x.com/i/spaces/1mrGmPRBaBLKy
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+[Speaker 0 - 00:00:02]
+GMG.
+
+[Speaker 1 - 00:00:03]
+¿Banda, cómo andan?
+Buenos días, buenas tardes, buenas noches, dependiendo de dónde se estén conectando a esta grabación.
+El día de hoy vamos a estar hablando con Juvenal de Sherry Protocol.
+Nos va a estar contando sobre todo lo que se puede hacer con Sherry y el hackatón que va a empezar el 6 de junio en unos días.
+Por ahí estamos apoyando con Banda Web para reunir a muchos participantes en el hackatón.
+Ya nos estará contando cómo se va a llevar a cabo.
+Va a estar muy interesante la plática.
+Pero primero que nada, vamos a poner Mindset Beast mientras invito a la banda que normalmente invito y también mientras subo acá a nuestro invitado y conecto la cuenta de Banda Web.
+Muchas gracias por estar por aquí.
+¿Ivón, ya vio el V?
+No lo subo.
+Empezamos en breve.
+Gracias por estar por aquí.
+Ya estoy enviando las invitaciones.
+Vamos a tratar de subir aquí a.
+Banda Web.
+De repente esto falla, pero creo que ya está mandando las invitaciones.
+Si nos ayudan con un comentario, con un like, con un repost, todo suma, todo suma.
+La idea es que más personas se enteren de lo que está sucediendo con este Minit y lo que está haciendo share protocol.
+¿Cómo estás?
+¿Me escuchas por ahí?
+Bienvenido.
+
+[Speaker 0 - 00:05:07]
+¿Cómo estáS?
+¿Todo bien?
+Aquí ando.
+
+[Speaker 1 - 00:05:10]
+Excelente, excelente.
+Muchas gracias por estar por acá.
+Encantado de poder platicar contigo por ahí.
+Bueno, hemos, Yo en lo personal he estado viendo muy, muy, muy desde hace rato lo que está sucediendo y lo que han estado haciendo con Sherry Protocol.
+Por ahí participé en una dinámica, si mal no recuerdo, en Denver y.
+Disclaimer, creo que gané, si mal no recuerdo, gané por ahí creo que eran 100 dolaritos, estuvimos tomando fotos, no me acuerdo cómo era.
+Ahorita platicamos de eso.
+Pero bueno, ya tienen un rato platicando de lo que están haciendo.
+Y ahorita empiezan el 6 de junio con un minitón, como le llaman, que es un hackathon para utilizar Share Protocol y todo lo que eso conlleva.
+Hay tres tracks, hay ocho mil dólares en premios.
+Ahorita vamos a estar platicando de Share, pero me gustaría empezar un poquito por ti, Jue, o sea, preséntate porfa, para la banda que no te conozca.
+¿Cuánto tiempo tienes el ecosistema?
+¿Cómo entraste a esto de la web?
+¿Tienes construyendo ya desde hace rato o es tu primer emprendimiento?
+Platícanos un poquito de ti, Juvenal.
+Te digo Juve, cómo te digo, primero que nada.
+
+[Speaker 0 - 00:06:28]
+¿Qué onda?
+¿Está bien para los compas?
+Sí, mira, yo llevo aproximadamente cinco años ya en el ecosistema.
+Yo entré desde antes de que fueran los del defi Summer.
+A mí me tocó.
+Ver todo ese movimiento Khrushchev, obviamente todavía no construí en ese entonces, pero me llamó mucho la atención como todas las posibilidades que existía.
+El crecimiento de Sushi, Uniswap, todo eso.
+Primero como que invertí y después como que oye, cómo funcionan fundamentales, por qué Bureau Finance está creciendo tanto y como que me apasionó muchísimo.
+Como contexto, un poco antes de todo esto, como ya estaba en el ecosistema para ese entonces, yo soy de Ciudad de México, yo estudié en el ITAM y ahí fui un diplomado de tecnología.
+Y ahí me acuerdo que muchos lo conocerán.
+Anthony Chávez.
+Anthony Chávez que llegó a ir a la escuela y nuestro profesor que era el doctor en blockchain, nos mira, sabes qué hay muchos casos que se pueden hacer en blockchain.
+Yo les enseñaré los fundamentos de qué es un hash, cómo funciona una blockchain, sistemas como Hyperledger, que también es como para negocios más centralizados.
+Entonces, pero algo que sí tienen que saber es cómo funciona este mundo de criptomonedas y por eso les traigo a esta invitada.
+Llevo Anthony, estuvimos un poco con Metamask, nos explicó un poco de Ethereum, cómo funcionaba, que era una wallet, todo eso.
+Como que cada paso que di como que me fue metiendo más y más.
+En México, hace también como cuatro años aproximadamente estuvo Stellar en combinación con Techstars en un evento que hicieron como de tal cual de ideas y que llegaras como a un pitch.
+Ahí participé solo.
+Y con unos amigos que fuimos, pero al final terminé solo y me junté con un equipo.
+Desde ese entonces digamos que me volví builder.
+Ya tuve como.
+Ya también había colaborado con otras personas, Arthur del ecosistema, que seguramente lo conocen como Serio Kid, ya había colaborado con.
+Con él, ya habíamos hecho algunas cosas ahí con Bloom, que nos lo ubicaban de círculos de ahorro todo un rato como diseñador de experiencia, porque también me metí muy de lleno en ese campo.
+Nada, full, full a construir.
+Después de eso, en ese entonces recuerdo haber construido un protocolo de seguridad como para cuando se te perdieron las llaves y para poder migrar tus activos.
+Hoy en día creo que se retoma un poco con toda la actualización que hay de PECTRA.
+De hecho estuve hackeando ahorita en el de Praga y un caso fue justo como en temas de seguridad, de cómo mover todos sus fondos, me llamó mucho la atención, pero en ese entonces todavía no se hablaba tanto, de hecho Crowd todavía está muy joven, toda esta idea por un tema de adopción y un tema como de nadie está pensando que se va a morir o que va a perder, full gave.
+Entonces ahí vi que no había como mucho market fit.
+Terminé ese emprendimiento, seguí con otro emprendimiento más fintech y al final como que hice una pausa en mi vida y dije mira, sabes qué quieres construir, pero siento que te faltan, hablando internamente, te faltan habilidades un poco más de desarrollo.
+Tomé un bootcamp de programación para entender un poco más cómo funcionaba a nivel desarrollo y seguí obviamente en el ecosistema.
+Estuve en Ethereum México, estuve en el Ethereum México después de que ya lo hizo Global.
+He estado muy presente construyendo en defcon también, en Avalanche he estado muy presente también desde muy joven, que es el ecosistema que yo creo que más conozco, todo lo que han salido, las ideas que han salido, cómo la infraestructura de Avalanche ha evolucionado también.
+Y nada, el año pasado estaba trabajando un poco ya también en el mundo web, trabajé como business developer de una startup que hace fulfillment, para los que no saben qué es eso, es como logística para e commerce.
+Me apasionó bastante e commerce y decidí como entre todas las cosas que había de los pain points, muchos eran relacionados a los Kios, los T Opinion Leader y cómo las marcas batallaban mucho con toda esta parte de saber si realmente estaban convirtiendo, de que no tenían muy buen seguimiento, pero querían como, como poner en los paquetes como para saber si había referido, referido, estaban como tratando de hacer ciertas estrategias, no logran identificar y nada, fue cuando yo al final termino en cubo y digo, bueno, sabes qué, yo siempre quiero emprender, creo que ahora tengo un background más sólido, tanto de desarrollo, negocios, de industria, quiero hacer una solución que justo se encuentre en este balance entre mi conocimiento de e commerce, mi conocimiento de desarrollo, mi conocimiento de todo lo que ha pasado.
+En cripto, tanto en infraestructura como en protocolos y así nace Share.
+Bueno, la primera versión o el B de lo que podría ser Share, una plataforma para ayudar a kyobells a medir sus métricas y a conocer su impacto.
+
+[Speaker 1 - 00:11:50]
+Para e commerce originalmente.
+Interesante eso porque creo que hay una bronca fuerte, o sea, ese problema.
+A mí me han contratado, digo, disclaimer, yo he hecho trabajos de KOL, he hecho trabajos de embajador, he hecho trabajos de.
+He probado diferentes roles que esta industria de repente te puede llegar a ofrecer, pero siento que es complicado a veces esa conversión.
+Los protocolos, los apps, me imagino que también los e commerce lo que quieren es venta, los protocolos quieren es usuario, lo que quieren es volumen, pero creo que todavía estamos en ese punto donde no hemos sabido bien cómo tratar o cómo hacer un marketing con KOL.
+Ya estamos viendo temas como el infofi que postea y después te premiamos.
+Digo, no sé si va muy de la mano con eso.
+No sabía que esa era la primera versión.
+O que había sido la primera iniciativa.
+¿Hace cuánto?
+¿Hace cuántos lanzaron la B?
+La B, como tú dices, la B.
+
+[Speaker 0 - 00:12:58]
+Yo creo que fue alrededor de marzo del año pasado.
+Se empezó, bueno, empecé junto con un amigo que también muy desarrollador, empezamos a trabajar como con todo este POC de Proof of concert, de lo que era esta vez más como un CRM más allá de como ahorita lo conocen que es como más.
+Más hacia el lado de infraestructura de blockchain, más hacia un CRM más con incentivos de que la plataforma escalara a partir de blockchain para que fuera una plataforma global.
+Ese era más como el trasfondo de cripto.
+Y ahorita que comentas todo esto, justo que vi también tu Twitter Space pasado, que también estuvo muy bueno y los invito a los que no lo hayan oído sobre Kite, sobre todo esto de infofi que está jalando muy fuerte.
+Si tiene un contexto shérif para allá, pero digamos que va por pasos y ahorita explico bien cómo va esta evolución.
+Pero sí, fue como por marzo realmente.
+¿Después.
+Bueno, para los que no sepan y por qué también muchos se preguntarán por qué está con Avalanche, por qué hay tanto Chet de Avalanche?
+Es porque bueno, cuando nosotros aplicamos a lo que fue la Innovation House, que es una casa que era tres meses prácticamente para que te dedicaras a codear y en septiembre quedamos, entonces en septiembre nos fuimos y fuimos trabajando muy de cerca de Avalanche para toda esta idea que teníamos ya desarrollando como unos cinco, cuatro o cinco meses, ya teníamos como ahí un MVP, tenía idea, faltaban muchas cosas, sobre todo toda la parte blockchain.
+Ahí también es la relación que hay con Avalanche y que siempre nos ha apoyado desde el minuto uno y por qué también decidimos construir ahí.
+Ahora estamos en Codebase, que es la incubadora oficial de Avalanche.
+El 5, es decir, el jueves tenemos como la presentación final, que fue un programa de 10 semanas también para los que estén construyendo, que les interesen, van a abrir convocatorias.
+Para mí yo creo que es una cosa que también nos cambió, nos cambió un poco la perspectiva de cómo estamos construyendo y que nos va a impulsar muchísimo más.
+Nos dimos cuenta antes y después de Covid, tanto por el programa como por las oportunidades que te abre el programa.
+Entonces.
+Nada, joven no es el único.
+
+[Speaker 1 - 00:15:17]
+No, o sea, este programa yo si mal no recuerdo por ahí el año pasado que participamos en el Hackatón de Puebla de 5 de mayo, estaba más o menos en las fechas.
+Fue Leandro, fue esta.
+Uy, se me olvidó el nombre de Andy.
+
+[Speaker 0 - 00:15:35]
+Andy.
+Andy.
+
+[Speaker 1 - 00:15:36]
+Estaba Andy.
+Sí, sí, sí, sí.
+Estaba también.
+Pues no sé, había un track de Avalanche, platicamos con ellos, les gustó el proyecto que en ese entonces habíamos diseñado ahí con Sol y con Julieta de Ciudad de México.
+Aplicamos a Codebase, no entramos, pero así ha habido varias y no nada más es la única que he visto.
+Ya estamos viendo programas con Mantle, estamos viendo programas con Baby, estamos viendo programas con diferentes iniciativas, algunos ya 100% enfocados en Latinoamérica, en el mercado latino e hispano.
+¿Qué opinas?
+Me imagino que te ayudó, pero híjole, dale, dale un poquito más de Véndelo un poquito más, porque siento que es algo que muchos no están aprovechando todavía y que creo que se pueden beneficiar un chorro de esas iniciativas.
+Yo el año pasado, No, mentira, este año me tocó ir a un Hacker House en Denver con la banda de Mantle, Sawsu House se llamaba, y la neta me conectó con un chorro de gente, me inspiró a empezar a construir el tema de ViveCoding, ahí me lo explicaron y a partir de eso empecé a hacer aplicaciones, o sea, creo que son oportunidades que mucha banda no aprovecha del todo y no sé tú cómo lo veas, pero me imagino que te ha ayudado mucho a entender el mercado, entender la industria, entender a conocer a más personas y.
+Y a desarrollar lo que ahorita ya están desarrollando.
+¿Qué opinas?
+
+[Speaker 0 - 00:17:00]
+Sí, en el tema de.
+Bueno, Coybase en general es como un programa que ellos lo venden a sí mismo como MBA de web.
+Creo que está un poco.
+A ver, sí un MBA dura dos años, esto dura diez semanas.
+Pero lo que sí es una realidad es que te da muchas conexiones desde la semana 1, y les voy a contar un poco cómo estuvo para que también entiendan cómo estuvo.
+Desde que te aceptan, bueno, te mandan todo lo que es contrato formal y todas las cosas, porque al final todo esto te da de entrada 50 mil dólares.
+Esos 50 mil dólares para que tú refines, tengas que hacer lo que tengas que hacer para crecer tu proyecto.
+Después de eso, la primera semana es una semana donde te llevan a un lugar a conocer a los otros equipos.
+Yo lo que más considero que sirve Codebase es para crear buenas relaciones.
+Porque digamos que todo lo que está sucediendo en torno a blockchain es que están haciendo muchos protocolos.
+Esos mismos protocolos se apoyan entre estos mismos protocolos.
+Entonces para mí Codebase es como una evolución de Y Combinator hacia la infraestructura descentralizada y hacia todo lo que es tener a una organización detrás que te va a apoyar en cada movimiento y que te va a poder dar más como difusión.
+Apoyo tanto en Business Development, en Avalanche, que yo creo que es como lo que tiene muy fuerte la parte de tecnología, muy buen protocolo, pero también tiene muy buen equipo de venta y todas esas tácticas que te llevan a las mejores personas como de ventas para explicarte cómo es un proceso de venta.
+Y como los protocolos son muy diversos, como mi protocolo es BB, tengo otro protocolo BC, otro BB, entonces como que son distintas.
+La primera semana es más como para darte un ¿Qué necesitas?
+A ver dónde, quién eres, ¿Qué necesitas?
+Te voy a dar obviamente narrativa, storytelling, como para que tu producto lo puedas vender mejor, dar como toda esta identidad y también posicionarlo.
+Pero más allá de eso es un programa que puedes aprovecharlo o desaprovecharlo si no pides.
+Entonces acá no ¿Sabes que?
+Yo quiero.
+Estoy inventando, quiero lanzar un token.
+Bueno, te voy a llevar expertos de tokenomics para que lo lances.
+Fundamental.
+Quiero.
+Ahorita estoy batallando porque necesito encontrar creadores de contenido.
+Bueno, te voy a traer a este creador de contenido para que te presente a su red y puedas generar estas sinergias.
+Quiero que alguien me dé feedback sobre mi proyecto y mi target son empresas de alimentos.
+Bueno, te vamos a traer a este experto en la empresa de alimentos para que hables con él y literalmente preguntes o le expongas y que te des tu opinión.
+Ese tipo de approach es muy difícil conseguir porque es un programa muy.
+Como no son tantos equipos, es muy.
+Cómo decirlo, muy hecho a la medida, entonces entienden el mercado en el que estás, te van a ayudar a darte esas herramientas y a lo largo de todo el programa siempre vas a tener acompañado, obviamente semanal, semana a semana, juntas con el director y alguien técnico para resolver cualquier cosa.
+Y también otra junta de Margo, que es una experta en storytelling que a veces funciona como coach espiritual y hasta psicóloga, porque es un programa muy fuerte que crees que estás en competencia, tienes muchas cosas que hacer, el camino founder es pesado también.
+Entonces todo eso durante 9 semanas, muy bien estructurado para que tengas una parte tanto técnica, te conectan con distintos protocolos como tailweb, dándonos una charla.
+Entonces, muy bueno, la verdad, yo sí lo recomiendo y obviamente hay mucha gente que está viendo lo que está sucediendo cuando estás ahí en demode, la gente va, tanto bicis como los futuros van.
+Ahí.
+
+[Speaker 1 - 00:20:55]
+De repente te escucho un poco lejos, como que al final no sé si estás.
+No sé, de repente ahí al final como que no te alcancé a escuchar.
+Escucha un poquito bajito, pero no, de acuerdo, totalmente de acuerdo que.
+Esos programas para las personas que ya traen una idea, que ya traen un proyecto, que ya desarrollaron alguna aplicación o que están intentando lanzarla al mercado o probar diferentes maneras, a lo mejor hasta pivotear, porque pues bueno, tú empezaste y me gustaría que nos platicaras un poquito de este proceso de empezar con una idea, ir a través de estos programas, escuchando a las personas que los están mentoreando, de conectar con otros protocolos como tú dices, con los cuales ahora me imagino que ya estás colaborando.
+¿Cómo llegaron a lo que ahorita es sharing?
+¿Cómo estuvo este proceso?
+
+[Speaker 0 - 00:21:45]
+Este proceso es un poco una mezcla de esfuerzos de varias personas.
+Lo he contado desde mi experiencia.
+Desde mi experiencia, estábamos en Argentina, esto es importante, el contexto argentino es muy importante porque lo que está pasando en Argentina creo que es algo que puede traer mucho cambio a nivel del enfoque.
+¿Que grandes protocolos le ponen ojo a este lado del mundo?
+Y este lado del mundo me refiero a todo la OTAN.
+No solo Argentina.
+Bueno, Crecimiento, toda la Innovation House se dio septiembre, octubre y noviembre estaba pasando.
+Bueno, a su vez el Avalanche Summit se iba a lanzar, que el Avalanche Summit es como la cumbre de Avalanche para dar sus updates y como podría ser defcon para Ethereum, ese es el de Avalanche.
+Y coincidió con Crecimiento, que es como estaban ahí abriendo pop up city como de varios proyectos y estaba todo el movimiento Dales.
+Entonces desde que llegamos a Argentina, lo primero que llegué a hacer fue a hackear en el hackatón d'.
+Aleph.
+Hackeamos con una cosa totalmente distinta, con mi sitio OK Gilberts.
+Hackeamos una.
+Algo como un rápido centralizado nada más.
+Fuimos probando algo que también era muy importante.
+Yo siempre trabajé con Gilverse a distancia de Chile, yo soy de México.
+Como que nunca eres tan consciente a veces de las capacidades de alguien cuando está tan remoto y más cuando son dos campos totalmente distintos.
+Yo como que en ese hackatón como que me di cuenta que Gilverse tenía una capacidad técnica mayor a lo esperado.
+Y eso nos sirvió, a mí principalmente, que yo como que llevo como esta parte de producto, primero felicitarlo y decirle vamos en camino, podemos hacer cosas grandes, pero también atrevernos a hacer cosas más interesantes.
+Entonces toda la evolución fue a mitad de la casa, a mediados de octubre estábamos en.
+Y ya estábamos escuchando mucho por esas fechas otros protocolos de miniapps en específico.
+Por ejemplo, ahí estuvo muy fuerte el tema de Solana y Solana Blinks.
+Y a mí me llamó mucho la atención porque nosotros la primera vez lo escuché, dije, ah, estaba interesante.
+La segunda vez lo escuché, bueno, ya voy a ver qué es esto.
+Y nosotros mucho de este registro que estábamos haciendo de share con los e commerce, estábamos usando mucho tracking y analítica de links.
+Es como una cosa muy fuerte que teníamos para saber exactamente quién convertía y quién no.
+Cuando yo me entiendo la lítica de qué.
+Perdón, de los links.
+Como de los links.
+Entonces teníamos como muchas cosas que usábamos links y que trackeamos información y podíamos conectar, por ejemplo, de dónde le habías dado clic, a dónde te había llevado, cuánto tiempo había quedado en esa página, todas esas cosas las teníamos.
+Entonces eso fue lo que a nosotros como que nos permitía entender exactamente qué campañas convertían y qué campañas no, y un poco de ese estilo.
+Cuando llega toda esta parte de Blinks y yo veo que también están relacionados con links, a mí me llamó más la atención.
+¿Y también había un tema de, bueno, nosotros entendíamos un poco e commerce, pero no eran apasionados, o sea, muchos de los que me siguieron y agradezco siempre mi primer desarrollador siempre confió mucho en mí, bueno, sabe qué está haciendo?
+¿Y también Gilbert como que en su momento siempre fue como, bueno, me dejo guiar.
+Y en cierto punto como que nosotros tuvimos como el primer code, de hecho nosotros fuimos rechazados de la segunda corte de code y cuando nosotros nos rechazan, como que para mí fue como por qué nos están rechazando?
+Y como que hablé con varias personas que estaban con el mundo de DC, que eran cercanas a mí y a mí me explicaron algo que, que fue como, mira, es que tú estás construyendo un proyecto de e commerce global, pero tu target o tu público objetivo, lo que tú conoces es un mercado latinoamericano que todavía está en crecimiento.
+Si tú llegas a Estados Unidos pidiendo fondo de LATAM, te los van a dar, pero si tú como Latam llevas pidiendo fondos porque estás haciendo algo global, no te lo van a dar.
+Y es así, y es como se funciona la industria.
+Y eso como que dije, bueno, tiene un poco de sentido, porque entonces esperan que tú conozcas la industria global para poder desarrollar una cosa global.
+Y por eso es que la mayoría, y esto es importante, la mayoría de los protocolos como Stripe, todas esas cosas vienen de una misma red que es YC y se ayudan entre ellos y de ahí salen otras corrientes, todo lo que es la paypal, mafia, todas esas cosas.
+Entonces dije, bueno, sí es cierto.
+Quizás no es ecommerce el camino, y además de que e commerce no es el camino, hay una forma donde yo puedo abstraer toda esta lógica, toda esta complejidad.
+Y cuando vimos links dijimos, esto no está en la EVM, o sea, de primera dijimos links no existe en la EVM.
+Ahora, no es algo trivial, no es como que lo que íbamos a hacer era como, ay bueno ya le forquéas el código y lo traes a la IBM y listo, ya quedó.
+Se tenían que hacer muchas cosas, pero mucho de la parte como de analítica ya lo teníamos construido, mucho de la parte de entender cómo funcionaban varios de la infraestructura, ya lo teníamos claro y nosotros teníamos muy claro todo lo que se podía desarrollar en IBM.
+Y es cuando nosotros decimos, bueno, en lugar de decir, hagamos campañas para e commerce, construyamos la infraestructura para que esto funcione sin importar cuál es la industria, si es blockchain y es un protocolo, pueda servir para los protocolos, si es para e commerce, alguien pueda construir una solución de miniapp para ponerlo sobre eso.
+Entonces así fue cuando nace como todo este cambio, este shift de lo que es ahora Sherry y cómo decidimos migrar como a una capa más baja, donde teníamos mucho más skills, donde también teníamos más conocimiento DVR y donde cierta manera había más Product Market Fit.
+Y va a estar raro porque decir no lanzaste, ¿Cómo sabías que había Product Market Fit?
+Y es algo curioso porque cuando yo iba, cuando pasó lo de la.
+Yo ya no vendía Sherry porque ya había pasado un mes, ya habíamos hecho cambios.
+Yo ya no vendía Sherry como ah, la solución descentralizada para la analítica de tus K.
+Sino que mi discurso inicial era, estamos haciendo Blockchain Links para la IBM y que tu protocolo convierta más o genere más interacción.
+La respuesta inmediata de la gente que estaba cuando escuchaba eso, hay una respuesta como de la gente cuando sabes que algo te interesa y cuando quieres saber más y quieres conectar.
+Y para mí eso fue cierta validación de decir, vamos por el buen camino.
+Obviamente después ya tuvimos, obviamente tuvimos más iteraciones, tuvimos más cosas, pero siempre como que notamos como ese momento.
+Caliente de la industria de qué es lo que la industria necesita y qué es lo que la industria a veces no es que el producto sea malo, es que no estás vendiéndolo bien.
+Y creo que ahí me di cuenta.
+Entonces teníamos muchas de las cosas que funcionaban y Blockchain Links funcionaba, o lo que es Lynx funcionaba porque lo estaba vendiendo bien, porque lo estaba haciendo nativo a blockchain.
+Y algún tema que era no hay conversión y hay una experiencia muy mala de usuario.
+Entonces.
+Yo soy experto de producto, he trabajado.
+En UX mucho tiempo como research, como todo.
+Y también Gilbert ha trabajado mucho desde cerca con Toolkit.
+Bueno, él trabaja como Chainlink Developer Expert.
+Entonces ha trabajado más de cuatro años en talleres conociendo cómo eran estas pláticas.
+Entonces.
+Al final nos sirvió para poder desarrollar esta solución, al menos un POC donde después bueno, ganamos el Avalanche Hackathon, después de eso ya entramos en Codebase y a partir de ahí hemos tenido mucha tracción más como desde el lado de gente de negocios, no más BB, hemos tenido digamos tracción BC que no hemos lanzado, pero inclusive diría que este hackatón tiene cierto BC.
+Interesante BC viéndolo como lo developer, siento que sí hemos tenido buena adopción.
+Y eso también es bueno, entonces eso también valida un poco todo esto que estamos haciendo.
+Y bueno, como tú dices, no es un trabajo que viene de hoy, es un trabajo que ha llevado como ven más de un año si lo ves desde el principio y bueno, a ti te tocó participar en lo que fue las primeras versiones ya como más MVP de lo que es este, este protocolo y bueno, vamos a seguir obviamente creciendo y haciendo otros features porque como es infraestructura no hay spin, no hay fin de esto.
+
+[Speaker 1 - 00:30:57]
+Sí, interesante escuchar el proceso.
+De una idea, de desarrollarla, de escuchar retroalimentación, de ir cambiando hasta que a lo mejor puedes ir a encontrar ahí una solución para algún problema.
+Yo creo que el tema de la experiencia de usuario es súper importante, por ahí me he clavado mucho con Tere Web y ahora que lo mencionas me parece una herramienta poderosísima que permite hacer cosas ya con sin que la gente pague absolutamente nada de gas, tú lo fundés todo sin que tenga que aprenderse las doce, catorce, veinticuatro palabras para tener acceso a ciertas aplicaciones, o sea, muy, muy, muy.
+He visto muchas iniciativas y muchos proyectos que han estado enfocados en ese tema y entiendo que también Sherry está enfocado en eso también.
+¿Creo que no sé si va de la mano con lo que hemos visto en Farcaster ahora con sus mini apps que también traen mucho ese tema y definitivamente de Solana que también lo he probado, pero fíjate que no he visto y no sé si tenga en realidad mucha atracción.
+En este momento ahorita qué se puede hacer con Sherry?
+Porque empieza el hackatón, como decíamos, hay un hackatón de 10 días que empieza el 6 de junio, que la idea es que la banda que está por aquí y a todos los que conozcan los inviten a participar, que hagan sus propias aplicaciones, que utilicen el protocolo, que lo prueben, que obviamente le den retroalimentación Juve y al equipo para que lo mejoren en el futuro, pero bueno, también pueden llegar a ganar 8 mil dólares en premios.
+¿Qué se puede hacer ahorita?
+¿Qué redes sociales?
+¿En qué redes sociales puedo usar las aplicaciones?
+¿Qué blockchains puedo utilizar?
+Porque me decías que están desarrollando en Avalanche pero que es compatible con IBM.
+Cuéntanos un poquito más de lo que se puede hacer hoy y del objetivo del hackathon.
+
+[Speaker 0 - 00:32:58]
+Mira, explico desde el lado un poco más a largo plazo.
+Nosotros vemos Siri como un protocolo de distribución, tiene un punto.
+¿Por qué lo llamo un protocolo de distribución?
+Porque más allá de tú mencionabas ahorita Frames y lo interesante de Frames es que te da una experiencia de usuario muy fácil dentro de un contexto muy cerrado que es Farcaster y toda la red de Farcaster.
+Creemos que realmente el futuro no va en crear nuevas plataformas que compitan con el de status quo.
+Sí puedes crear un nuevo Twitter y suerte queriendo onboardear a toda la gente que está en Twitter para que se unan a eso.
+Y claro, hay un discurso y yo también estoy a favor de la data descentralizada.
+Pero hay caminos y hay un camino que es un camino por así decirlo como.
+Como ofensivo, que es como yo construyo mi propia solución y trato de morder a todos y después te mato Twitter o hago más como nosotros, yo veo más a Sherry como un caballo de Troya que te puede llamar la atención cuando lo veas en X y entonces digas ¿Qué es esto?
+Y entonces a partir de eso digas ah bueno, hagámoslo de esta manera.
+Y entonces después lo estés utilizando en Twitch, lo estés utilizando en Discord, lo estás utilizando en todo lado.
+Hoy en día por eso nos llamamos como nav lata, un protocolo de distribución.
+Y una distribución no solamente radica en crear mini apps como le llamamos nosotros, le llamamos triggers, porque como tal no consideramos que somos mini apps, porque las mini apps, te digo, viven en ese contexto cerrado.
+Nosotros hacemos que vivan en todos lados, construyéndolo una vez tú lo puedes poner en cualquier lado y que también funcione, no solamente para desarrolladores, que siento que a veces es un tema que le pasa mucho al ecosistema, de crear un nuevo protocolo que solamente luce el desarrollador y listo, sino creamos un protocolo que esté pensado para todos.
+Si tanto eres creador y quieres utilizar estas mini apps para tu generar revenue a partir de ellas, o si eres una plataforma social o eres como otro protocolo que quieres integrar a lo mejor un caso de uso, otro protocolo porque hace sentido, lo puedas hacer y lo puedas también traer a tu plataforma o si eres creador lo puedas construir de forma muy fácil desde un creador.
+Digamos no coast como se conoce hoy en día.
+Todo eso que les menciono todavía no está, lo vamos a lanzar próximamente para los que sean creadores y que estén aquí, vamos a tener módulos para poder ejecutar.
+De los protocolos que la gente ya conoce pero o de las mini apps que se estén generando nuevamente de este hackathon también los vamos a impulsar para que crezcan más.
+¿Y bueno, la idea detrás de esto es, hoy en día lo que se puede es en Twitter, en Twitter está optimizado para Twitter cómo funcionamos?
+Y les explico un poco.
+Lo que nosotros estamos haciendo básicamente es modificar el DOM para los que no son técnicos es como si nosotros agarráramos el Internet y modificábamos la capa que ve el usuario entonces desde un lado.
+Pero si tú lo ves en tu computadora se convierte en una miniatura que funciona perfectamente y que conecta directamente con tu wallet sin necesidad de hacer mucho salirte de ahí mismo, eso es como funciona.
+Entonces cuando tú haces un post y quieres compartir un post de hey.
+Vamos a hacer un nuevo meme coin y este ladress depositan aquí, en lugar de mandarlos a una plataforma externa literalmente la puedes usar ahí oye, estoy haciendo un pop por este Twitter Space, vayan todos a minutearlo, Lo van a poder hacer directamente ahí sin tener que salir de la red social y sin tener que salir de otra plataforma externa.
+La idea es, nosotros tenemos que tener una extensión, la extensión te sirve para aumentar las plataformas que están disponibles, en este caso es Twitter, pero después va a ser, si ya quisieras utilizarlo, por ejemplo eres streamer y quieres que te den donaciones, estás haciendo un partnership con un juego, estás vendiendo ítems y quieres donar de ahí, también lo puedes hacer utilizando la extensión y que la gente decirle descarguen la extensión y usen el aquí en el link está.
+Entonces también esa distribución llega por varias maneras, por creadores de contenido, por nuevas plataformas que nos integren nativamente o por la extensión que creamos propiamente para que todo el mundo lo pueda ver desde ahí.
+También estamos creando una librería de componentes mobile que próximamente va a estar, que es para que también la gente lo pueda ver desde celular y lo pueda hacer toda la experiencia desde ahí.
+Eso también es lo que estamos haciendo, pero eso todavía no está.
+¿El hackathon para qué es?
+El hackathon hoy en día es nosotros, bueno, estas acciones que probablemente van a sugerir y que van a ser como para que otros construyan.
+Nosotros queremos como primero que cualquier persona pueda llegar y crear una plataforma si es técnica, es decir, si yo ya tengo un protocolo de DeFi, puedo crear una mini app y pueda entender cómo hacer ese flujo a partir de la documentación.
+Entonces nuestra documentación es muy fácil, es una de las documentaciones que tiene guía tanto en español como en inglés.
+Tenemos un vídeo en YouTube donde explicamos en inglés y en español cómo se integra, cómo puedes crear por así decirlo un trigger de tu misma aplicación.
+Y es como también para un poco ver un poco cuestiones de feedback de los desarrolladores, decir oye, no estoy entendiendo esta parte, creo que me gustaría ver esto otro.
+Aquí me perdí un poco.
+Todo eso nos va a servir para irla mejorando, pero también nos sirve mucho para entender qué tipo de mini aplicaciones están generando y también cuáles podrían ser mucho más fáciles de acceder en un público que genere esa viralidad.
+Algo que estaba hablando con creadores de contenidos que luego invitan a la gente a Twitter Spaces y se ponen a hablar muy técnico como lo hice ahorita, pero güey, es Twitter, la gente no se quiere aburrir, la gente quiere escuchar gente, cosas divertidas o quieren saber cómo van a ganar, no les interesa.
+Y a veces también siento que si ponemos cosas que no les interesa a la gente ver en Twitter pues no va a hacer mucho sentido.
+Entonces incitamos a hacer minijuegos, cosas así, minijuegos, cosas de viralidad, mercados de predicciones, cualquier cosa que sea divertida y que crees que pueda explotar como casos de éxito.
+Por ejemplo vemos el caso de Believe, Anchorbot, Cor, son como casos muy famosos de plataformas que se han viralizado en Twitter y hay mucho.
+Entonces ahí también un poco ver la creatividad de los desarrolladores.
+Y bueno.
+En todo este stack de cosas que se puede hacer en Shenry nosotros tenemos seis tipos de acciones.
+Las acciones digamos un poco técnico, pero la acción que más que ahorita estamos como por así decirlo premiando que es la que va a ser para que funcione es la que se conoce dynamic action, que la dynamic action básicamente es para crear una mini app no necesitas saber nada de frontend, necesitas solamente saber backend y tener contrato inteligente y tener o crear un contrato inteligente.
+Tener me refiero a que puedes agarrar de otro protocolo pero vas a necesitar hacer lógicas en tu backend de análisis de precio, de alguna otra cosa.
+Verificar información, cualquier cosa que tengas que utilizar en el backend.
+Para conectar ese backend y que ese backend te dé una respuesta y poder detonar la acción.
+Entonces.
+Solamente esas son las acciones que estamos ¿Y por qué?
+Porque tenemos Transfer action que básicamente deposítame esta wallet y básicamente es una acción que haces en un clic, no necesitas conocimiento técnico para eso.
+La otra es Blockchain action que es si ya tienes un contrato inteligente que existe on chain porque es público, puedo agarrar el contrato de Uniswap, llevármelo a la documentación y crear una mini app de eso, tampoco tiene mucho sentido porque es algo público que no requieres hacer ningún cambio más que traerte la función.
+Está la otra que es transfer blockchain y la flow action que básicamente es, hasta las mini apps tienen como la forma de que puedes llamar a varias consecutivas, es decir, yo puedo decir voy a hacer un swap, después ese swap lo voy a hacer un depósito en un farm y después voy a pedir un préstamo por dar acciones claras de blockchain.
+Puedes hacer esos flujos y puedes crear, puedes hacer flujos que te funcionen para casos de uso en específico.
+Pero también vuelvo a lo mismo, es llamar una función y después llamar a otra función y después llamar a otra función.
+Entonces no es tan complejo, inclusive diría que programar en Sherry es muy fácil.
+Lo difícil realmente es haber hecho tu protocolo, haber tenido todo lo demás y después cómo llamas ese backend para la miniatura.
+Y bueno para el roadmap tenemos por ahí también dos tipos de acciones, HTTP action que básicamente lo pueden ver como si tienes un form, haces una llamada a una API desde otro lado las puedas hacer, puedes conectar un poco web con web y después HTML actions que lo podemos ver como ahorita en Paraguay hicimos un proof of concept de eso que básicamente es hacer juegos, hacer juegos HTML, porque bueno juegos hay muy difíciles pero HTML, los clásicos minijuegos que veías en Praga.
+Así como caso curioso hicimos un criptosumo que básicamente tú haces un stake y dependiendo tu monto de stake, eres un sumo de un tamaño, es como una bolita y si depositas más, eres más grande, estás en un círculo y el punto de no salirte con las flechitas, te mueves para sacar a los demás y sacarlos de la red y al final es quien gane más, quien queda al final o quienes quedan al final más cerca del centro, ganará una recompensa.
+Y bueno, como este caso de uso, pues puede haber miles de juegos tan bobos, sencillos, pero que nos divierten y que hoy en día no usamos porque ya no estamos tan acostumbrados a.
+Ya estamos acostumbrados a juegos más divertidos, pero qué tal que veo por ahí un Pou divertido, veo que se puede ganar dinero y me apasiono, o estoy haciendo un stream y tengo este minijuego para mantener a la NASA, un pretenido también es válido.
+Entonces todavía no están.
+Disponibles porque se requiere hacer bastante desarrollo.
+Para parte de vincular ahí blockchain con HTML Action, porque el HTML Action por sí solo no tiene tanto sentido, pero bueno, eso es algo que viene también para el roadmap de Shell.
+
+[Speaker 1 - 00:43:52]
+Oye juego, ¿Ustedes ya tienen alguna aplicación o hay.
+Algún post en Twitter que se pueda ya probar para que la gente lo vaya y vea cómo funciona o es algo que se va a desarrollar ahorita en el hackathon y ya lo vamos a ver Después tenemos, ya.
+
+[Speaker 0 - 00:44:12]
+No hemos lanzado nada por razones de seguridad principalmente porque obviamente, a ver, todas estas mini apps que salen es una infraestructura abierta?
+Nosotros tenemos, cualquiera puede desarrollar un.
+De hecho ya vimos la primera mini app que la hizo Alfredo, alguien de la comunidad de Meca, que está haciendo por ahí una wallet de Bitcoin.
+De Bitcoin en WhatsApp, entonces hizo su primera minia, siguió el tutorial, hizo una miniatura, no sé de qué tipo lo vimos porque lo subí en un post, pero nosotros tenemos un semáforo.
+Entonces ¿Un semáforo por qué?
+Porque tenemos acciones que están verificadas, de que los contratos están verificados, de que está todo bien y después tenemos otro de que nos tienen que compartir quizás un poco más de información de qué han pasado auditorías de seguridad.
+Que nos dan información completa y estructurada de su protocolo Y con todo esto digamos que se hace un halo verde dentro de la mini app o dentro del trigger para darle más seguridad al usuario de que lo que está creando, la acción que está creando es segura, Es segura hasta unos parámetros donde la gente establece como segura que pasan auditorías, que eso ya quiere decir que un agente externo te lo revisó también, cuánto tiempo lleva el protocolo, todas estas informaciones.
+¿Estamos creando como todo este, cómo decirlo?
+Un protocolo interno de seguridad para que la gente esté más segura y si no está verificado y nada, pues no.
+Entonces nosotros no hemos querido lanzar mini apps propias que se vean también por una razón de no queremos que la gente nos asocie con algo que pueda ser un scam o que alguien crea una mini app y sea.
+Entonces todavía, y de hecho es algo que les recomiendo, es no ha lanzado, inclusive después del Caton, vamos a revisar varios de estos minions que lancen para hacer un anuncio después punto masificado y que todo el protocolo lance junto con auditorías claras para que sean casos de uso que la gente pueda confiar.
+Algo muy importante en cripto es la confianza y no queremos lanzar nada más por lanzar, es un protocolo que requiere más.
+Nosotros estamos haciendo unas mini apps que están también con temas de.
+De auditorías de seguridad, estamos en eso y vamos a ir comunicando quién lo hizo, quién nos auditó.
+Para que también vean, no en sí el estándar, porque el estándar en sí no te va a hackear, pero nosotros como también estamos creando propias mini apps que vean que el código de esos códigos está todo seguro.
+Entonces pues sí es algo que también consideramos que es muy relevante.
+Próximamente, la que lanzamos de Chomexi también, por eso decíamos que tú probaste, fue como este es un experimento, estamos probando.
+Gracias por confiar, es un POAP, lo puedes ver.
+Pero no, la verdad es que.
+Tiene que.
+Hemos trabajado mucho en smart contract, sabemos la seguridad, pero sabemos que hay mucha gente que sí es como nana, ¿No?
+Y tampoco queremos hacerle más daño al ecosistema.
+
+[Speaker 1 - 00:47:23]
+Oye, y con la posibilidad que tiene la gente entonces de hacer diferentes aplicaciones, juegos, ya mencionaste muchas ideas para que la gente pueda construir, ¿Cómo es el modelo de negocio para ustedes?
+¿Ustedes llevan ahí un porcentaje o por usar su aplicación.
+Cómo ustedes hacen?
+
+[Speaker 0 - 00:47:46]
+¿Lana?
+Vale, primera, nosotros somos infraestructura abierta, lo que quiere decir que no cobramos.
+No cobramos y tampoco nos metemos como esa parte.
+Tú creas tu mini app siguiendo la documentación, la vas a publicar.
+Nosotros tenemos un modelo también ahí tenemos dos tipos de modelo, un BB para protocolos más serios donde ellos nos pagan por justamente todo este canal de distribución y que tengamos como más incentivos a seguir, ¿De acuerdo?
+Ahí estamos pensando un rango de rate limit de la API, al final nuestra ester consume la API cuando alguien interactúa con una API y podemos ver exactamente cuántos clics dio y cuántas mini apps están creando de su protocolo.
+Y la otra es nosotros de nuestros casos de uso, uno de nuestros casos de uso que vamos a crear es que también por si están pendientes es vamos a lanzar como un pipot.
+Recomendación de trades que es el que estamos auditando.
+¿Cómo funciona esto?
+Tenemos en esta plataforma, nosotros tenemos, no me voy a meter en detalles porque no los quiero confundir, pero los triggers, tenemos triggers maestros por así decirlo.
+¿Qué son esos triggers maestros?
+Son como acciones que ya la gente conoce como un default, es decir, un swap, un mint, son acciones como ya predefinidas y donde existen mil protocolos distintos para hacer esto.
+Entonces lo que estamos haciendo es que nosotros estamos montando como un paywall por así decirlo en cierta manera, para que ese paywall le pague a los influencers.
+¿Entonces si tú quieres hacer un post, bueno, oye a mí me gusta este token nuevo que va a salir, ya hice el due diligence, la gente confía en mí, yo voy a lanzar este post, pero por qué no me llevo ahí un pequeño fee por todo el alfa que le estoy lanzando?
+Ese es el fable que nos estamos lanzando y de ahí generar un revenue sobre ese fee que tú estás cobrando.
+Entonces más que nada es como un tema un poco como lo que es KAITO en ese sentido, como el modelo de monetización donde bueno, no tan agresivo como ellos, donde el creador que hace la distribución se lleve más y nosotros nos llevemos como un porcentaje de lo que se lleva esa distribución.
+Entonces también somos un protocolo como les digo, que va a estar muy de la mano con los creadores, todas las minas que se recomienden o que se creen en este hackatón también las vamos a estar incentivando para crear esa masificación y bueno, esos son los pasos que tenemos para generar este tipo de tracción en redes sociales y que más personas contribuyan y puedan ir sumando a la causa pero sí cualquier aplicación puede ser gratis, nosotros no cobramos de ahí por qué nos conviene también.
+También el hecho de que sea open source hace que más mini apps creadas, nosotros también vamos a tener más transacciones, más protocolos van a querer montarse sobre nosotros, más protocolos montados sobre nosotros, más información para llevarlo a más creadores de contenido, más creadores de contenido, más interacciones y así.
+Entonces nosotros lo vemos un modelo donde todos, como que todos ganan.
+Suena raro pero porque el protocolo quiere más interacciones, el creador quiere monetizar de cierta manera.
+Y por eso te decía que yo también todavía voy ahí como una especie de socialfi, infofi.
+Nosotros tenemos un spec registry como le llamamos, que es como un directorio de estas acciones, de estas, de esos triggers.
+Nosotros tenemos toda esa data de qué se está consumiendo y después funciona como Infofile, nosotros sabemos qué vende, qué no vende, qué tipo de post genera, qué tipo de post no.
+Y después las plataformas que nos quieren integrar generan retención porque van trayendo más minias que al final es como un poco la superar lo que pasa en China.
+Si tú le metes más funcionalidades a tu protocolo o más acciones, vas a crecer porque hay más posibilidades.
+De acuerdo al tipo de red social que seas, vas a querer integrar unas mini apps u otras miniars.
+Entonces también tenemos ahí un modelo para que otras redes sociales nos integren como totalmente nativo y sin mucho drama.
+Muy fácil.
+
+[Speaker 1 - 00:52:07]
+OK, OK, excelente, excelente.
+¿Tienes competencia?
+¿Hay alguien más haciendo algo similar?
+La verdad hablábamos hace rato de los frames en parcaster, yo me metí a probarlos, están interesantes, pero como tú dices, se queda ahí, no es algo que puedes llevar a otros lados.
+Y sí siento que.
+Cerrarnos a ciertas plataformas cuando vamos a ver muchas salir en el futuro, no sé si va por allá, hay mucha gente ya aquí.
+Creo que la gran mayoría de la comunicación.
+De los entusiastas que estamos metidos en esto y queremos información, venimos a Twitter o X, pero hay apps como de arena, etc.
+¿Ves tú a otro o hay algo por ahí en el mercado que esté haciendo algo similar?
+Yo no, la verdad no he visto.
+
+[Speaker 0 - 00:52:57]
+Mira, yo diría que.
+A ver, y esto es muy impresión mía, lo que pasó en Frames, lo que acaba de pasar Frames con.
+No sé si se dieron cuenta, para los que no saben, Frames tuvo una versión 2 y después ahorita de repente llegó base y dijo oigan, yo me llamo Minikit, Hola, soy el nuevo hijo de Frames.
+Pero ahora lo va a llevar a Base.
+Y Minikit lo llevaba Base.
+¿Y qué es Minikit?
+Una base de componentes que se pueden utilizar para todo el ecosistema de Base.
+Y también es compatible con Frames.
+Y ahora todos los que hicieron algún Frame, mírenlo acá, si no tienen como lógica tan compleja, lo pueden ir migrando poco a poco.
+Para mí eso es Minikit y para mí eso es como la competencia que voy a tener que realmente va muy de la mano con Base.
+Entonces no es un producto, la verdad, versus lo que como estuvimos ya nosotros versus lo que ellos hicieron, están todavía muy verdes.
+Pero la verdad es que hay una diferencia.
+Estamos hablando del equipo de Base.
+También.
+Estamos hablando.
+Entonces sí, yo diría que Minikit es como el canal que apenas se está construyendo.
+Pero solamente, y vuelvo a lo mismo y creo que es otra vez el tema relevante de por qué nosotros inclusive tenemos.
+Más libertad de cierta manera.
+Porque vuelvo a lo mismo, Mini Hit funciona para Base, únicamente para base.
+Nosotros estamos pensando, o sea, nacimos en Avalanche pero somos una infraestructura cross chain abierta.
+Si quieres llamar de un lado a otro, puedes utilizarlo.
+Estamos desplegados en Ethereum, estamos desplegados en Celo.
+Si los desarrolladores nos llegan y nos oye, ¿Sabes que?
+Yo quiero hacer en Arbitrum, en Optimism, en lo que sea, desplegamos los contratos.
+Y también eso es un poco lo que vamos a ir viendo, que dónde están desplegadas estas aplicaciones y qué nos van pidiendo.
+Porque al final del día no estamos en una infraestructura cerrada.
+En este hackathon, como tuvimos gran apoyo de Avalanche, dijimos bueno, para que la gente también conozca un poco Avalanche porque.
+Siendo transparente, si tiene cosas como una finalidad instantánea, cosas que realmente hacen la experiencia todavía más fluida en todo el ecosistema blockchain.
+Digo, bueno, para que la gente al menos pruebe y que diga, ah, mira, si es cierto lo que dice Frey, pero no estamos cerrados a Avalanche y de hecho Follow Days tampoco nos cierra Avalanche Y es un poco lo que hablamos y el discurso de nosotros somos portables sin importar la red social, sin importar la blockchain.
+Entonces eso es como también una de las ventajas que tenemos.
+Pero bueno, Solana tiene Blinks, tampoco tiene tan pensado muchas de las cosas pero también ya tiene bastante la infraestructura que podrían migrar para allá sobre todo para este tema de recomendación.
+Siendo que pensando en un futuro hay protocolos como Teneo, Kaito que tienen este modelo y que si llegara a funcionar también podrían optar por algo así.
+Mucha gente se queja justo de estas comisiones que están desproporcionadas que está generando contenido que realmente no sabes si estás convirtiendo y entonces ahora quieres saber exactamente en qué convierte esto.
+Es como exactamente el flujo que podría ir para allá.
+Todavía sigue.
+¿Cómo decirlo?
+El concepto es muy ambicioso, el concepto es muy.
+Nuevo.
+Entonces como que tampoco hay mucha gente haciéndolo.
+Hay mucha gente hablando de miniapps, pero como muy en otro aspecto, no como lo estamos pensando nosotros.
+Y por eso te digo, no nos reordemos así porque no compartimos muchas de las cosas que son estas cosas, otras sí.
+Y a veces es fácil si entiendes eso, como decir, bueno, parecidos pero mejor porque más portables para redes que sí conoces.
+Pero bueno, va a ir evolucionando.
+Tú sabes, el ecosistema cripto evoluciona muy rápido.
+Tereware también está lanzando por ahí cosas relacionadas a gente de inteligencia y tiene algo que se llama Nebula.
+Claro.
+
+[Speaker 1 - 00:57:00]
+Muy cañón.
+Está muy cañón.
+
+[Speaker 0 - 00:57:03]
+Si.
+Tengo competidores que sí digo como bueno, estoy compitiendo con Terwift, Base Worldcoin, pero bueno, habrá noticias.
+Stay tuned porque hay buenas noticias.
+Pero todavía no puedo dar muchos avisos.
+Pero nos está yendo.
+Estamos teniendo atracción.
+Entonces parte de esta atracción también la queremos explotar.
+Nosotros nacimos en Latam.
+Algo que le lleva a mi equipo es.
+Todo mi equipo es de Latam.
+Yo lo que les digo es nuestra forma de demostrarle al mundo que somos capaces y si algo a mí me gusta es que somos mucho mejores, mucho más eficientes y que conocemos en un mercado que realmente tiene la necesidad.
+No nos conocen.
+Y nosotros hoy en día, quieras que no, en el ecosistema de Avalanche estamos poniendo pauta.
+¿Hay otro equipo también que es de Latam y decir oye, nosotros estamos poniendo la vara y nosotros como que tenemos que dar todo para que?
+Para representar bien porque esta es una oportunidad para nosotros que el día de mañana es para más proyectos Latam y que más fondos internacionales volteen a ver a la región y en general crezca más y más y más Entonces yo también como meta o misión como humano, como persona es crecer la región.
+Entonces también.
+Y bueno, y potenciar que exista más talento también.
+Por eso me interesa que que todo esto siga adelante y también invitar a más desarrolladores, builders, como tú dices, hay mucha gente que los ve, no se anima por miedo, no se anima por rechazo.
+Me rechazaron una vez, no se me hace que esto no es para mí.
+Creo que esta historia cuenta que me rechazaron varias veces, tuve como muchos pivots y no he parado.
+Y eso como que realmente no va a ser a la primera, no va a ser a la segunda, no va a ser a la tercera, pero si realmente tu misión es emprender, pues bueno, es un camino duro, pero es un camino que al final va a retribuir porque vas a aprender mucho y vas a empezar a encontrar, quieras que no, market fit y si no lo encuentras, pues al final del día la experiencia estuvo ahí.
+
+[Speaker 1 - 00:59:16]
+Sí, definitivo.
+Es un mercado muy joven y que apenas estamos empezando a ver estas maneras más sencillas de que la gente utilice la tecnología, mini apps, abstracción de cuentas, ya no tener que manejar el tema de las palabras, que con una red social puedas generar un wallet automático, que alguien más pague por tu gas.
+Son cosas que no existían hace unos años, hace unos meses y siguen mejorando la tecnología para tener más abstracción, para tener más facilidad de usuario.
+Definitivamente.
+En ese proceso.
+Como lo has mencionado, has encontrado diferentes iniciativas donde encuentras apoyo, encuentras que hay mentores que te están ayudando, que a través también de los programas hay conexiones que también han generado, me imagino, colaboraciones y si no es este, al rato vas a pegar.
+Finalmente.
+Creo que muchos estamos por aquí buscando lo mismo, tratando de crecer el ecosistema, algunos a través de arte, veo por acá abajo Superama, otros a través de temas de gaming, veo a la gente de Items, que a lo mejor sería usted iniciativa de Hackathon, algo muy interesante para ellos, para que entren a hacer algo de código.
+Veo a Caro por ejemplo, que hace espacios, que también está haciendo entrevistas con personas, que están haciendo proyectos, hablando de iniciativas web.
+Creo que muchos de los que estamos por aquí reunidos, Ada, Ato, Alan, o sea, traemos esa idea en mente.
+Algunos estamos haciendo contenido, otros estamos haciendo código.
+Yo estoy en proceso de seguir aprendiendo Vive Coding y me interesó mucho la manera en que están planteando la iniciativa de que podamos utilizar la blockchain en estas redes sociales y que sea mucho más sencillo para cualquiera de los que nos está siguiendo.
+Y fíjate que no sabía el tema de las métricas y estadísticas, que es algo que también yo he estado viendo mucho, cómo podemos llegar a convertir más, cómo los espacios o los post o los artículos que uno hace, etc.
+Atraen a que la gente se inscriba a hackatones.
+Yo siento que todavía falta mucha experimentación para que más personas estén desarrollando cosas y ahora las herramientas que tenemos, híjole, creo que ayudan muchísimo a que cualquiera, cualquier idea pueda ya empezar a desarrollar cosas así.
+Sí siento que es un proceso, sí siento que en ese proceso una hay que disfrutarlo y hay que aprender de él.
+Y no necesariamente vas a triunfar en el camino, pero en el proceso vas a encontrar a lo mejor el camino que te va a llevar a esa aplicación o esa solución que puede llegar a romperla en algún momento.
+Voy a hacer un breve reset aquí arriba piné link para que se inscriban al Minitón, ya está el registro.
+También está el link para que entren al Discord de Sherry.
+Estamos hablando de que empieza el 6 de junio en unos cuantos días, dura 10 días, del 6 al 15 de junio, 8 mil dólares en premios, va a haber sesiones en vivo, va a haber soporte técnico del equipo.
+También les piné aquí arriba el artículo de Sherry donde habla del protocolo de las aplicaciones, está muy completo.
+Y también les piné el space del día de hoy por si quieren darle un like o un repost para que más gente llegue a escuchar este espacio, que entienda qué es lo que está construyendo Juve con Sherry y que se inscriba finalmente de nuevo.
+¿Para qué hacemos esto?
+Bueno, para que gente conozca protocolos, para gente, se inscriba en estos programas, que los aproveche, que haga conexiones, que haga equipos.
+Por ahí repito mucho últimamente una frase que creo que le escuché a Mel de Frutero, que hay un proceso, o al menos que yo lo he visto, de muchas personas que estamos por aquí, de entusiastas.
+Usuarios ya de poder, no a power users y luego a lo mejor brincar a hackers para después.
+Brincar a founder y a lo mejor luego levantar capital.
+Muchos estamos aquí generando comunidades pero esas comunidades luego necesitan usar aplicaciones, necesitan usar soluciones y creo que de las personas que estamos aquí pueden llegar a salir muchas iniciativas.
+Entonces bueno, participen, inscríbanse, empieza ya en unos días.
+Disclaimer, yo estoy apoyando como banda web a que la banda se inscriba.
+
+[Speaker 0 - 01:03:51]
+¿Por qué?
+
+[Speaker 1 - 01:03:51]
+Porque también hay un tema de comisión.
+Entonces veo algunos creadores que a lo mejor les puede interesar ese programa, no sé si gustas platicar de él.
+¿Cómo está la iniciativa de que si se inscriben y llegan a ser una aplicación que cumpla con ciertos requisitos y vienen referidos por algún KOL o alguna comunidad, pueden llegar a obtener beneficios?
+Muy probablemente algunos les interese.
+Si quieres platicarnos rápido de eso.
+
+[Speaker 0 - 01:04:15]
+Sí, mira, la idea era apoyar el protocolo de Share nace también del tema Share, de compartir en general.
+Ahorita estamos queriendo también ayudar más a las comunidades porque sabemos que hay muchas comunidades tanto en Latam como en otras partes del mundo que hacen grandes sacrificios para bombardear a más developers, creadores, lo que sea, inclusive solamente para que se enteren.
+Y bueno, nuestra idea era como, bueno, a través de estos canales dar incentivos para que sus comunidades puedan crecer.
+Entonces damos ya para esta, la verdad ya está cerrada, ya cerramos como inscripciones, pero básicamente es a partir de una cantidad de proyectos que veamos de tu comunidad, va a haber un código de referido en este caso, ahí tú les podrás dar tu código de referido de la comunidad y quien construya una mini app con dynamic action, con todo esto que vienen las reglas, el workshop ya está disponible por si quieren irlo a ver, ir a ver si van a poder, si no van a poder, que puedan ir aprendiendo de una vez también para que se vayan animando y vayan investigando de una vez.
+Yo creo que son 10 días, así no sepas tanto de desarrollo, si te animas la puedes armar, la puedes lanzar.
+Pero sí, en siguientes ocasiones vamos a tener más programas, les digo, más o menos por julio, finales de julio, vamos a lanzar nuestra, nuestro módulo de creación de miniapps por medio de no code.
+Ahí esa va a ser más abierta todavía para que cualquiera pueda participar y vamos a hacer dinámicas similares.
+Entonces si hay creadores que están creciendo su comunidad y quieren seguir colaborando de cierta manera, mándenme un DM, lo vamos viendo, lo vamos trabajando.
+Todavía no tengo nada para decirles porque es una campaña que apenas vamos a lanzar a publicar, pero básicamente es la plataforma que han podido ver si entran a las redes de share y lo van a ver.
+Y bueno, también tiene ahí bastante de que obviamente está totalmente ligado con nuestras miniapps para que puedan compartirlas y hacerlas masivas.
+Entonces inscríbanse al hackathon, usen el código de referido, ese se va a poner en el submission básicamente al final cuando entré.
+Y pues nada, muchas gracias por el espacio Mexi, muy chido lo que haces, me gusta mucho, tienes temas muy diversos pero en tendencia.
+Gracias a todos los que se conectaron también si lo pueden difundir estaría buenísimo Y si eres desarrollador y también quieres entender qué puedes construir, también mándame un DM para ayudarte.
+
+[Speaker 1 - 01:06:56]
+Sí yo te voy a estar molestando.
+Ando ahí probando varias iniciativas que estoy probando en eventos presenciales, por ahí lo he platicado y creo que algo así puede ayudar mucho porque.
+Creo que tenemos que seguir experimentando con alternativas.
+Incentivar a la gente que no conoce a crear y a probar este tipo de aplicaciones donde a lo mejor si ya tienes una red social y la puedes utilizar rápido, creo que creo que ayudan muchísimo y sí, definitivamente a lo mejor lo que yo por ahí tengo en mente con todos los hackatones por lo que últimamente me he metido para ahí te estaré molestando para que me ayudes y me atoro, no sé jue.
+¿Algo adicional que le quieras comentar a la gente?
+La neta, muy buena la plática, me encanta entrar en el tema técnico, a veces creo que es importante también hablar de todo y sí, como tú dices, ahorita está a punto de empezar el hackatón, me gusta que muchas más personas puedan llegar a conocerlo y que entren.
+Finalmente creo que entre más personas estemos desarrollando y siguiendo construyendo y probando estas iniciativas, mejor para los que están construyendo finalmente.
+No sé si se nos pasó algo.
+¿Algo más que quieres comentar?
+
+[Speaker 0 - 01:08:19]
+Creo que cubrimos todo, nada más también decirles que bueno, cualquier duda yo siempre he sido mentor en general es algo que a mí me gusta, entonces también sé que mucha gente está construyendo aplicaciones quizás un poco más complejas que no saben si esto entra o no, podemos revisarlo, me gusta ayudar mucho en temas de producto, entonces también aunque no esté relacionado totalmente con esto, están haciendo otra cosa y quieren como algún tipo de feedback.
+Son muy bienvenidos a Manarmundem y también los voy a contestar.
+Muy accesible y creo que impulsar a la comunidad en general es buenísimo, apoyen con el talento que tengan y nada, seguir adelante construyendo y creando estos espacios.
+
+[Speaker 1 - 01:09:08]
+Muchísimas gracias Joe por aceptar la invitación, por venirnos a platicar de lo que están construyendo.
+Igual y después del hackatón, ya que tengas a los ganadores podemos por ahí invitarlos también para que nos platiquen cómo fue la experiencia, estaría padre ver desde el punto de vista del hacker cómo lo experimentaron, creo que es algo que no he experimentado, no he explorado mucho con estos hackatones en los que he participado, voy a empezar a invitar a más gente de las que se está inscribiendo, yo creo que también contar las historias de ellos va a estar interesante y divertido, pero bueno, muchísimas gracias y estamos platicando.
+
+[Speaker 0 - 01:09:41]
+Échale, échale.
+Sí, a ver si también tenemos de todo el mundo entonces.
+Sí, yo creo que alguien de Latam, sí tengo más soporte de Latam y espero que muchos de Latam ganen, pero estaría buenísimo para una segunda edición.
+
+[Speaker 1 - 01:09:55]
+Excelente, excelente.
+Habrá más ediciones, si gustan mándenle un DM, síganlo por acá, también está arriba la cuenta de Sherry Protocol y inscríbase, el hackatón empieza ya en unos cuantos días, por ahí está pineado el link al Luma, también el Discord, ahí pueden resolver todas sus dudas, igual mándenle un DM si tienen alguna alguna pregunta, cualquier iniciativa, aquí está yo también pendiente por si necesitan ayuda, de todas maneras.
+Voy a participar y ya les estaré contando, ya les estaré contando.
+Muchas gracias.
+
+[Speaker 0 - 01:10:30]
+Muchas gracias.
+
+[Speaker 1 - 01:10:31]
+Avisos El próximo jueves voy a estar con Luan Bris, Luan Bris está a punto de lanzar una colección de NFTs en Solana, por ahí tiene ya algunos avances de lo que ha estado haciendo con su arte, nos va a venir a contar un poco de su historia.
+Ella es una artista que he estado siguiendo desde hace ya más de un año, empecé a colaborar con ella recientemente y estamos ahí viendo diferentes iniciativas.
+La neta creo que no sé, en lo personal a mí me gusta mucho su estilo, ella pinta pixel art físico, pero también tiene por ahí una colección grande de stamps que son.
+Que es arte en bitcoin que no se puede quitar de la blockchain, a diferencia de los Ordinals.
+Ya nos estarán platicando un poquito de su historia y de cómo conoció la tecnología, cómo entró al tema del arte en blockchain.
+Próximo jueves estaremos por aquí a las 12 y la próxima semana.
+No, todavía no los puedo confirmar.
+A lo mejor hay un invitado o invitada por ahí interesante.
+Pero bueno, los dejo con la última parte de Minds a Beast.
+Esto fue Banda web número 62 con Juvenil Who de Sherry Protocol.
+Inscríbanse al Hackatón, estamos por ahí en contacto.

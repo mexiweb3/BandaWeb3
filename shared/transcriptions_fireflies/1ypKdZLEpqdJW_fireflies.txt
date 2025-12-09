@@ -1,0 +1,708 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #N/A
+Título: BandaWeb3 #054 Embajadores @arbitrum
+Fecha: 2025-05-06
+Host: BandaWeb3
+Tipo: hosted
+
+Descripción:
+BandaWeb3 #054 Embajadores @arbitrum. Speakers: @_nathcortez @ToryDomK @iRobZ23 @garosan1 @EmaCr1pto @arbitrum_esp. Todo sobre la participación de las y los embajadores en el hackathon de @ETHCincoDeMayo en CDMX #CryptoDeMayo.
+
+Duración: 01:20:51
+Escuchas: 104
+
+Links:
+  Space: https://x.com/i/spaces/1ypKdZLEpqdJW
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+[Speaker 0 - 00:00:00]
+Dependiendo de dónde se estén conectando a escuchar esta grabación.
+Gracias por estar por aquí.
+Estamos empezando un episodio de Banda web, el número 54.
+Vamos a estar platicando con los embajadores de árbitro.
+La verdad estuvo muy divertido este último, este último evento en el que participamos.
+ID 5-5 organizó un super hackatón, ahorita vamos a estar platicando un poquito de ellos.
+Ya está por acá Rob, está Emma, ahorita viene Tori, viene Nat, viene Joao de Arbitrum Foundation.
+Vamos a estar platicando de todo lo que sucedió con el hackatón del track que estuvimos jueceando de Arbitrum, La gente que participó y los proyectos que participaron también los hackers, los embajadores, perdón, estuvieron hackeando y muchos ganaron premios muy, muy, muy interesantes.
+Entonces va a estar súper cool que nos platiquen.
+Empezamos en breve, voy a empezar a subir a la gente que está por acá, muchísimas gracias, bienvenidos.
+Empezamos en dos minutitos.
+Esto es Mind the Beast, el primer sencillo de el disco de Banda Web 3.
+El primer disco de Banda Web 3 ya tiene su primer sencillo, se llama Minds Beast, es hecho con inteligencia artificial.
+Al ratito vamos a hacer algo más diferente.
+Esto es un rock progresivo, pero bueno, estamos en breve.
+¿Qué onda, qué onda?
+Está conectando la gente, Vamos a bajarle aquí tantito.
+Eso fue Minds Abyss, el primer sencillo de Banda Web 3, el nuevo disco que vamos a sacar próximamente.
+Rock progresivo inspirado en Universal Mind de Liquid Tension Experiment.
+Ya verán que estará sucediendo por aquí.
+Veo muchas caras conocidas, gente que conocí en el hackathon.
+Vamos a bajarle aquí a todo ya esto.
+Muchísimas gracias.
+Primero que nada, todos los que están por acá, ayúdenme por favor antes de empezar, dejen su comentario, denle un like al espacio, los voy a pinear aquí arriba, ayúdenme por favor también a comentar y a darle repost en este momento se los pineo, va a estar aquí arriba.
+Y como comentario, la idea del día de hoy es que la gran mayoría de los que fueron a el hackatón puedan participar, puedan escuchar, que veamos la perspectiva de los embajadores de Arbitrum que estuvieron por allá trabajando en el evento.
+La neta, una súper, súper chambota.
+Tori, Rob, Emma, que no sé por qué no lo puedo subir por acá estaba también Garo San, que también estoy invitando, veo acá arriba de Nat y a Joao también.
+Ahorita vamos a platicar con ellos.
+Emma, Gistro, por ahí estuvo Gistro en Chinga también dando talleres y dando pláticas informativas, ayudando a los hackers.
+Por aquí no lo podemos tener el día de hoy.
+Si vienen los.
+Yo mi cuenta también estoy bateando para subirla, pero bueno, probemos.
+¿Cómo andan?
+Bienvenidos, muchas gracias por estar por acá.
+Nat, Tori, Joao, Robs, ¿Cómo andan?
+Gracias.
+
+[Speaker 1 - 00:05:27]
+Bien, súper bien.
+
+[Speaker 2 - 00:05:31]
+Bien.
+¿Cómo están todos?
+Andamos puestísimos.
+
+[Speaker 3 - 00:05:37]
+Feliz, feliz.
+Es mi primera vez en un Space de Banda Web.
+Me siento súper, súper honrada.
+Siempre he admirado mucho esta comunidad, así que estoy muy contenta y muy contenta de estar acá con ustedes.
+
+[Speaker 0 - 00:05:48]
+Por supuesto.
+Excelente.
+Y qué mejor manera de arrancar a muchos en estos espacios juntos con sus compañeros de embajadores, de árbitro.
+Me encantaría y estoy seguro que luego cada uno de ustedes va a estar por acá con nosotros solo, aunque no sé, a lo mejor Tori, Rob, estaría padre tenerlos juntos, la neta.
+La historia de Super Crack Power Couple apoyando en Arbitrum.
+Pero bueno, empecemos.
+Ya está por acá el Garo, ya está Emma, saludos a Alan que ve por acá.
+Suri, un besote a Suri.
+Ari, Talking, tú mi buen Germán.
+Ada, Miguel, que también por ahí lo conocí ahora.
+Gabriel Amena de Scroll, muchísimas gracias por estar por acá de nuevo.
+Like, repost, comentarios, todo suma, todo suma.
+Pues bueno, empecemos.
+La neta, muy divertido.
+¿Por dónde empezar?
+La verdad no sé, Yo creo que estos últimos días aprendí muchísimo.
+Yo en lo personal les puedo platicar mi historia antes de ir con los demás muy rápido.
+Creo que aprendí muchísimo.
+Me encantó ver a mucha gente nueva, me encantó ver a comunidades participando en conjunto, a un chorro de voluntarios que he visto ayudar en varios eventos.
+Ya hay una red de voluntarios que viaja a todos estos eventos y eso se me ha hecho bien loco.
+Por ahí veo al disidente, veo también.
+Quién más está de voluntario por ahí.
+Creo que Miguel por ahí anduvo de voluntario un rato y si no estuvo hackeando.
+Alan, por supuesto que también anduvo de voluntario ahí con los speakers, gente con la que hemos convivido mucho en línea.
+Y luego ver lo presencial ha sido bien loco.
+Me gustaría empezar por ahí, no sé qué opinan, pero en lo personal este tipo de eventos lo mejor que podemos hacer y lo que mejor se puede hacer y lo mejor que se hace es hacer networking.
+Yo siempre lo recomiendo, siempre le sugiero a la gente que se acerque.
+Creo que fue increíble en ese sentido.
+Ya platicaremos de los side events, de la carnita asada, chismecito, hay un poco de todo, pero bueno, nada.
+Joao, primero que nada, muchas gracias.
+Yo sé que ustedes no pudieron ir y quisiera ir primero que nada con ustedes, preguntarles cómo lo vieron desde afuera.
+Sé y me cansé de escuchar que se murieran de FOMO, la neta me daba mucho gusto que se murieran de FOMO.
+Si no estoy generando FOMO, no estoy haciendo bien mi chamba, es una realidad.
+¿Pero cómo andan?
+Yo voy a donar.
+Bienvenidos.
+Muchas gracias.
+¿Cómo lo vivieron Uds?
+¿Así de lejos?
+
+[Speaker 4 - 00:08:14]
+Hola, hola a todos.
+Gracias Mexic por invitarnos acá.
+Un gusto estar acá con ustedes.
+Bueno, creo que el FOMO es la palabra correcta, como desde nuestro lado, desde mi lado al menos desde Brasil.
+Yo vi un montón de fotos, un montón de postres por acá en X y Twitter y bueno, varias cosas que están pasando en la comunidad de México me parecen muy, muy buenas.
+Yo no estoy seguro todavía, pero estoy con muchísimas ganas de ir en el próximo evento porque me quedé muy.
+Me quedé triste que no estaba en NIF 5-5, entonces en la próxima no puedo perder.
+
+[Speaker 0 - 00:08:55]
+Excelente, excelente.
+Esa era la idea.
+Nada, ¿Tú cómo lo viste?
+
+[Speaker 3 - 00:08:59]
+Bueno, la verdad es que tenía demasiadas ganas de llorar, quería estar allá.
+Esto empezó, el FOMO empezó desde la semana antes del evento, de estar viendo cómo se estaban formando las comunidades, cómo habían colaboraciones.
+Agradezco acá veo a Suri, veo a Germán, que son dos personas que estuvieron súper atentas a nosotros apoyarnos a que pudiéramos ser parte del evento como el programa de embajadores.
+Y la verdad es que siento que lo viví porque ustedes estaban teniendo una participación activa todos los días, que cada vez que entraba EX era como que ver a Gistro dando un workshop, ver a Mex hablando con las personas, ver a Emma, Tori, Rob, Garo y todo siendo parte.
+La verdad es que mucha emoción de este lado, mucha emoción.
+Y yo sí ya estoy viendo de qué manera nos vemos pronto porque puntualmente México, la comunidad de México, la comunidad web, es una comunidad a la que le tengo muchísimo cariño.
+No solo el programa de Embajadores, sino Ethereum México, heardao y muchas otras comunidades que siempre han estado ahí pendientes de cómo podemos hacer colaboraciones.
+Así que el FOMO a mí no se me ha acabado.
+Así que tu trabajo lo has hecho muy bien.
+
+[Speaker 0 - 00:10:11]
+No, muchas gracias, excelente.
+Esa era la idea también.
+Obviamente queríamos demostrar y enseñarle a todos en el mundo a través de redes, a través de la gente que vino, que hay unión, que hay fuerza, que estamos trabajando en conjunto, que cuando estos eventos se organizan, ya sea Germán, Suri, Selika, Eric, Artur o Ethereum México o cualquier otra comunidad, todos nos vamos a sumar a hacer ruido, a ir a participar, a hackear, enseñarle a la gente.
+Híjole, ver a gente nueva hackeando estudiantes de universidad por primera vez, participando y ganando premios y brincando de alegría cuando se anunciaban, era.
+Fue para mí muy, muy enriquecedor.
+Me llenó el cora de puro amor y la neta, qué chido, qué chido.
+Ya estaremos platicando más a detalle con los organizadores porque está cañón estar bien cansados.
+Yo en lo personal estoy madreadísimo.
+Ayer antier tuvimos la carnita asada, ayer viajé a Monterrey y ay, canijo, me hacen falta unos cuantos días de descanso.
+Pero bueno, estamos aquí.
+Emma, Rob, Tori, Garo.
+Tori, platícame tú, vamos contigo primero.
+¿Qué opinaste?
+¿Cómo te fue?
+¿Así en general?
+Además, preséntense.
+Creo que no yo creo que todos los conocen, pero sí platícanos un poquito de su experiencia, así como introducción.
+
+[Speaker 2 - 00:11:35]
+Bueno, primero que nada quiero comentar algo que comparto mucho con Nat.
+Para mí también es un privilegio y un honor estar aquí en tu canal.
+Hace meses, no sé si te acuerdas, en un evento que hubo de Bitso, estuvimos hablando No, pues algún día deberíamos de hacer un space.
+Y pues gracias a Dios.
+Gracias por invitarme, por invitarnos a todos, la verdad.
+Y quiero decirte que para mí.
+El haber estado ahí con todos fue algo que simplemente me voló la cabeza.
+Como ya sabes, compartimos estar ahí como jueces y para mí, de verdad, uno de los.
+De hecho creo que lo tengo en vídeo, próximamente vamos a subir ahí un par de vídeos compartiendo las experiencias que tuvimos.
+Pero uno de los chicos que participaron presentando un.
+Programa como de educación con una certificación utilizando blockchain, no tienen idea de cómo lo presentaron, con una pasión que contagia, con una inspiración que te dejan marcado.
+Y la verdad es que a mí me encantó verlos y cuando recibieron la noticia, porque resulta que creo que tuvieron ahí un tema que no les llegó el correo, pero vieron el nombre en la pantalla y se pusieron eufóricos y están mega felices, la verdad es que eso me pareció wow, o sea, no hay precio para ver cosas de este tipo, me pareció increíble.
+Y también ver a todos los chicos.
+Siguiendo sin importar si sabían o no, ellos seguían construyendo, preguntando.
+Para mí fue definitivamente algo increíble que me deja mucho aprendizaje en lo personal.
+¿No?
+
+[Speaker 0 - 00:13:29]
+Y Tori, Rob, Garo, hackearon y acabaron ganando, Ya les preguntaremos un poquito de eso, pero aparte Tori y yo estuvimos de jueces también escuchando los pitches de los participantes, escuchando las historias, verificando que hubieran cumplido con los requisitos, dándoles retro para que a lo mejor en ese momento ajustaran X o Y cosa ahí en su pitch y pudiera darles más puntos.
+No sé, en lo personal todo fue muy rápido, muy divertido.
+Ya les estaré preguntando sobre el tema del hackatón y los premios que ganaron, pero Rob, Garo, Emma, ¿Qué opinan?
+
+[Speaker 5 - 00:14:07]
+Bueno, Mexica, ¿Qué tal?
+La verdad para mí ha sido una experiencia bastante enriquecedora y bueno, yo como les dije a varios ahí dentro del evento, yo inicialmente no esperaba ir, pero al final.
+Me motivaron y decidí ir y la verdad puedo decirlo que una de las mejores experiencias que he tenido desde los side events hasta el evento principal de las conferencias y todo.
+He de admitir que si tienen la oportunidad de ir a algún evento de este tipo, la verdad aprovéchenlo, no se van a arrepentir.
+Conocí a muchísima gente, pues ahora sí que de todas partes del país, de la comunidad de Ethereum Baja, como está aquí Alan, Kamax, varia gente que aquí está Miguel, la verdad ha sido un privilegio, sinceramente un gran privilegio y la verdad como tú bien dices Mexi, el networking que hace es, y sobre todo yo creo que la gente que conoces, la calidad de gente que conoces creo que es totalmente invaluable desde mi punto de vista.
+
+[Speaker 0 - 00:15:17]
+Rob, Garo, ¿Cómo les fue a ustedes?
+
+[Speaker 6 - 00:15:21]
+Hola, hola.
+Bueno, gracias.
+No Pues rápidamente nada más privilegio, yo creo que es muy buena esa palabra que usa Emma.
+Me dio un chorro de gusto también conocer a tanta gente con la que he estado platicando por ahí por Telegram, por X, pues poder ponerles caras y personalidades a todos los emojis con los que.
+A los profetics con los que hablamos siempre.
+Pues nada, simplemente dos cosas que para mí fueron nuevas.
+Yo ya había ido a varios hackatones, pero esta es la primera vez que me eché, bueno junto con mi compañero nos echamos el proyecto entre los dos a las espaldas, fue hacer de todo, hacer el pitch, o sea no nada más programar o no nada más que el front, el back, es ahora sí hacer el pitch, buscar la manera de encontrar datos de negocios Y pues sí, fue la primera vez que piché a los jueces, a finalista no quedamos, pero fue una experiencia la verdad es que genial, aprendí muchísimas cosas de lo que te pueden llegar a preguntar cuando ya te tomas en serio el llevar esto más allá de un hackatón.
+Entonces una experiencia singular la verdad.
+Y pues gracias a todos por estar acompañando ahí.
+
+[Speaker 0 - 00:16:40]
+Venga, venga.
+
+[Speaker 1 - 00:16:43]
+Perdónenme.
+
+[Speaker 0 - 00:16:44]
+Ahí estamos ya.
+Sí Robs, échale.
+
+[Speaker 1 - 00:16:47]
+Sí, gracias, gracias Maxi por la invitación también.
+Yo cada que ve un invitado dije Maki, puro crack y estar aquí también gracias por la invitación también ahí Suri que nos está escuchando allí 10 de 10 en la organización del evento, fue un evento bastante grande, bastante impresionante y toda la organización ahí mis respetos.
+Y antes del evento principal hubo unos eventos alternos y ahí como embajador de Arbitrum nos invitaron desde el miércoles a dar una plática, también Germán que fue uno de los que estuvo organizando el evento principal, nos buscaron para dar una plática y dije no pues yo creo que no estoy listo para dar una plática en estos niveles, pero pues hay que aventarnos.
+Y desde el miércoles tuvimos participación con el evento de Desai México, aprendimos un buen de cosas y tuvimos la oportunidad de platicar acerca del programa, acerca de la tecnología de árbitro también.
+Cuando llegamos al evento hay algo chistoso que nos pasó, nosotros también tenemos una participación hasta el día sábado, pero cuando llegamos nosotros, nosotros llegamos el jueves y el viernes tenemos unos minutos para hablar acerca del programa de embajadores.
+Pero cuando llegamos el jueves a registrarnos nos bueno, dale sus gafetes de speakers porque hoy a las 2 van a tener una plática y nosotros cómo ¿De qué hablas?
+Sí, una plática de 40 minutos.
+Y pues ahí fue algo imprevisto, pero también mucho nervio, pero pues sí, claro, ahí tomamos la oportunidad y subimos ahí junto con Mexi, Gistro, Tori, ahí también pasamos, platicamos acerca de Arbitrum, platicamos acerca de los premios que estaba dando Arbitrum y también de las cosas que más estoy agradecido es hacer esto que me apasiona junto con Tori, o sea, es una de las cosas que me vuelan la cabeza, estar haciendo algo junto con ella y que estemos ahí platicando, preparándonos para las pláticas, haciendo nuestras presentaciones ahí poniéndonos de acuerdo para el hackatón, también participamos juntos, es algo que me vuelve la cabeza estar haciendo esto juntos.
+
+[Speaker 0 - 00:19:11]
+No, increíble, la verdad hacen una pareja muy, muy chingona, no nada más en lo amoroso y personal, sino en el trabajo, colaborando para llevar esto adelante, la neta.
+Qué chido.
+Buena, buena, buena cuestión ahí el de la plática y vamos a ver si le podemos bajar algo de información aquí a nadie, a Joao, que nos pasen chismecito porque Germán nada más se quedó callada y no me dijo nada, tampoco le insistí mucho.
+Pero cuéntenos cómo fue esta colaboración con ID 5-5, cómo se dio, cómo logramos o lograron, porque tenía un rol súper, o sea, Arbitrum tuvo un rol súper, súper fuerte, estaba en medio de las etiquetas que estábamos todos poniéndonos en nuestra.
+Para entrar los gafetes, tuvimos la plática, obviamente, el track, los jueces, etcétera.
+¿Pero cómo se dio todo esto y cómo lo vieron ahí desde afuera?
+Ya nos platicaron un poquito, pero cuéntenos un poquito el chismecito porque sí, sí nos agarró ahí ese día de que sí plática, si le damos conozco.
+
+[Speaker 4 - 00:20:16]
+Vale.
+
+[Speaker 0 - 00:20:16]
+Claro, claro, claro.
+
+[Speaker 4 - 00:20:17]
+Sí, de verdad que hubo un montón de cosas de árbitro en el evento.
+Bueno, y creo que fue muy bueno porque todo se pasó de diferentes verticales, la verdad es que árbitro estaba involucrado de diferentes maneras en el evento, había un montón de esfuerzos desde el programa de embajadores, haciendo un montón con los chicos y todos que estaban por acá charlando antes de mí.
+También había una participación grande de árbitro DAO porque los chicos consiguieron, lograron aprobar una propuesta dentro de Arbitrum Domain Locator Program para hacer como para tener una participación de eventos y eso era muy bueno porque en este año Arbitrum tiene un enfoque grande, como Arbitrum en general tiene un enfoque grande en Latinoamérica.
+Y bueno, me gustó mucho que lograran aprobar esa propuesta antes del evento para tener toda esta participación, no sólo con el BUF, pero con el credenciamiento también.
+Y bueno, el hackathon también como estaba mencionando.
+Yo también estoy buscando un poco más sobre el hackathon porque me gustó mucho ver algunos de los proyecto, yo sé que algunos desde acá también participaron creando proyectos y es muy muy bueno eso me deja demasiado feliz.
+Y no sólo eso, pero también participamos junto con Bitso en el evento.
+A los que estaban por allá pueden decir mejor que yo, pero un esfuerzo grande que estamos haciendo este año dentro de Arbitrum es stablecoins.
+Y Bitso justo lanzó una stablecoin que es MX utilizando toda la infraestructura de Arbitrum Y también estaba el evento.
+Otras cositas también van a pasar con esto.
+Entonces estábamos a todo, a todas las frentes por el programa de embajadores, por el árbitro DAO, por árbitro en general, con Bitso también.
+Entonces sí, sí, la única cosa que es mala es que yo no estaba en el evento, pero me pareció muy bueno que árbitro también esté más presente en Latinoamérica Y espero que eso solo crezca cada vez más en otros eventos, otras participaciones y también con, bueno, otras activaciones también que estamos planeando para este año.
+Pero creo que sí eso no.
+
+[Speaker 0 - 00:22:25]
+No continúa.
+Si, no, yo le sigo.
+
+[Speaker 4 - 00:22:28]
+¿No, no, para decir también que me gustaría mucho después escuchar también como, qué les pareció del hackathon?
+Como yo sé que estamos hablando de eso, de los proyectos, de las personas que estamos construyendo, de las personas que empezaron.
+Pero una cosa que quería saber y es para que nosotros desde Arbitrum también cada vez más mejoremos en eso, es ¿Que le sienten falta desde Arbitrum en el hackathon?
+Entonces algo que yo tengo como desde mi lado es tener más material en español y también en portugués, claro, para latón de material más técnico de Arbitrum.
+Pero también me gustaría mucho escuchar a ustedes chicos que estaban participando, que les hice falta, que podríamos mejorar también porque como siempre digo, estamos, como siempre dijo, estamos para acá para hacer que la experiencia sea mejor.
+A los poquitos vamos mejorando todo.
+Entonces si alguien tiene algo así puede decir acá o también después escribirme por favor.
+Que quiero trabajar más eso también porque sé que por acá tenemos una barrera grande de idioma, del lenguaje y quiero que eso también sea cada vez mejor para.
+
+[Speaker 0 - 00:23:32]
+Sí, increíble, increíble el involucramiento de varias verticales como decías, Bitso con su stablecoin que también tenían un track el cual participó mucha banda, la neta estuvo muy interesante ver cómo pedían los tokens en Testnet para poder mover el mx cómo necesitaba nether también en Arbitrum, Sepolia, por ahí estuvimos apoyando con eso, cosas que funcionaron muy bien, tener alguien súper técnico como Magistro dando talleres y explicándole a la banda 2 que sea una red, perdón, un hackatón que incluía otras L también, entonces lo que hacían en un lado se podía dividir y participar acá en otro, en árbitro creo que se ayudó mucho.
+Ahorita vamos con los otros embajadores para que nos digan que hoy de oportunidades para mejorar, pero también subió por acá Germán y bueno, vamos con él Germán, echa el chismecito, ya nos echó un poquito, yo hago el chismecito de cómo se dio, de todo esto y cómo estuvimos por ahí.
+Pero a ver, cuéntanos tu perspectiva, ¿Cómo lo viste Germán?
+
+[Speaker 7 - 00:24:29]
+Buenas, buenas, ¿Cómo están?
+Gracias a todos, gracias por hacer este Space Mexi, gracias Nat por coordinar todo este desmadre, Gracias al árbitro Undao por el apoyo gigante que dieron también a los embajadores.
+Y pues la verdad es que.
+
+[Speaker 0 - 00:24:49]
+Lo.
+
+[Speaker 7 - 00:24:49]
+Que me decía alguien el otro día es gracias por hacer todo esto.
+Yo le decía no, hay que agradecer a todos.
+Y me dicen no, eso es falsa humildad.
+No sé qué no es falsa humildad, de verdad parecería, pero no.
+Lo único que aceptamos los organizadores como que si es gracias a nosotros es que si falla como dijo Plato en un tweet, pues nosotros vamos a hacer los culpables.
+¿Pero como no falló, la verdad es que eso era lo único, porque todo el evento.
+Que a su vez es lo más difícil, que me preguntaba qué es lo más difícil de hacer en el evento?
+Y yo decía, el evento es difícil, siempre va a ser difícil, pero lo más difícil es algo que no nos cuesta nada a nosotros, que no nos ha costado casi nada y es lo más difícil de todo y es súper difícil y es que todo el mundo ayude, todo el mundo, todos los asistentes, todos los que van de partners, todos los que van de comunidades, todos los que van de speakers, todos están ayudando y realmente están ayudando, si ven que hay algún detalle, en lugar de venir a decirnos a nosotros, lo arreglan.
+La cantidad de detalles que arreglan la gente que va.
+Bueno, vos principalmente te tocó arreglar un montón de cosas en el buen sentido, este mexicano de hecho arreglaste la carnita asada que era algo que no se iba a hacer y yo probablemente fui que me encargué de intentar gestionar eso y no, no sabía bien con quién había que gestionarlo porque no me acordaba quién lo había organizado y como me acordé que fuiste vos, que lo hizo un pueblo el año pasado con apoyos, claro que sí, pero vos fuiste el organizador principal, pues te dije y me dijiste sí, me la aviento.
+Y eso es un evento pseudo oficial, aunque lo hizo Ethereum México, Mantle y Bandawel 3, nosotros lo consideramos algo oficial porque era algo que no podía faltar.
+Y yéndonos al propio evento, pues los chicos de los embajadores que les comentamos, bueno, recibimos un apoyo de la DAO.
+¿Quieren ustedes manejar el BOOT o lo hacemos nosotros?
+Lo hacemos sin problema.
+¿Usted quiere manejar el premio?
+¿Pueden o lo hacemos nosotros?
+Capacidades sobran, obviamente fue tipo no, lo hacemos nosotros.
+
+[Speaker 0 - 00:27:10]
+Dando un montón de información.
+
+[Speaker 7 - 00:27:11]
+Asesoría, se echaron un panel para hablar de árbitro espectacular Kevin con dos workshops increíbles que le enseñó a la gente a hacer un setup de un orbit básico en 50 minutos, bueno, en 15 minutos ya lo tenían mandando varios nos dijeron esto, nosotros nos había llevado horas, no lo hemos entendido y ahora pues lo hicimos en nada.
+Pues.
+Pues si, cuesta, si es un trabajo grande, es una chambota, pero la verdad es que estar ahí, ver que todo el mundo está colaborando, eso es lo más difícil y no nos cuesta nada ¿Por qué?
+Y pues yo creo que como somos 5 miembros del core team y todos venimos de perfiles y partes diferentes de la web 3, pero es un ecosistema bastante pequeño, todos nos llevamos bien con alguien y ese alguien intenta ayudar también para que le vaya bien a esa persona del team con la que se lleva bien y además de lo que representa el evento.
+Entonces bueno, Cripto de mayo, no se olviden, ID de mayo es una parte de lo que es Cripto de mayo que se viene con todo el próximo año.
+Todavía no terminó Cripto de mayo acaba de empezar pero creo que no se agarra un poco en curva ahora el 2026.
+Prepárense porque cripto de mayo va a ser algo mundial y no por el 5 de mayo nada más, sino por todo lo que va a ocurrir ese mes en Latinoamérica, México y bueno, eso también va a ser algo hermoso que vamos a ver.
+
+[Speaker 0 - 00:28:41]
+¿No?
+Muchas gracias Germán.
+La verdad, por supuesto que íbamos a apoyar.
+Yo te dije antes de irme, toda la semana es tuya, mi tiempo es tuyo, úsame.
+Ay hijo de tu madre, como me usaste.
+Pero bueno, ahí estamos, ahí estamos.
+Muy divertido lo neto, si, la carne asada, la pizza.
+Estuvimos apoyando en lo que se pudo.
+Me encantó.
+Yo iba a aprender.
+
+[Speaker 7 - 00:29:02]
+Pero vos sos de pizza DAO, entonces no cuenta.
+Creo que somos los únicos dos que estamos ahí, que somos 100% de Pizza Dao.
+No estoy seguro.
+Holders.
+Yo no pude llegar a la pizza, me tuve que dar con mis niños.
+En Puebla y vos te hiciste cargo de la pizza.
+De hecho ahí yo quedé mal.
+Bueno, por suerte está el buen gistro que me tapó de varios agujeros y fue speaker, que yo tenía que ser speaker al evento de Nodos.
+Pero lo más importante era Las dos.
+Las dos, las dos.
+Pero gracias por ejecutar también lo de la pizza.
+
+[Speaker 0 - 00:29:37]
+No, por supuesto.
+Como decía, yo iba a aprender.
+Obviamente que estamos aprendiendo y yo en lo personal nunca había participado así tan, tan, tan metido en un hackatón.
+Sí había hackeado el año pasado hackeé en IT 5-5 y apoyé con Side Events, pero no había sido juez, no había escuchado pitches, no había sido mentor, aprendí muchísimo.
+Híjole, créanme, créanme, si les gustó la carnita, si les gustó ID 5-5, Ethereum Monterrey, digo, Ethereum México en Monterrey, Ahora en el 2025, finales de año, va a estar espectacular.
+Pero bueno, vamos a ir con los embajadores o NAT.
+¿Qué opinas?
+
+[Speaker 3 - 00:30:13]
+Natalie, una pregunta.
+Tengo una pregunta que es para ti Mexi, por favor.
+¿Cómo haces tú?
+Porque tú siempre apoyas a todas las comunidades que puedes, incluso comunidades fuera de México.
+¿Cómo hace Mexi?
+¿Cómo es un día de Mexi cuando tiene este tipo de eventos?
+¿Cómo se divide, ¿Cómo se organiza?
+Porque de verdad es de admirar.
+En cada lugar que veía yo estaba Mexi presente, estaba banda web presente y en cada cosa web que yo veo últimamente estás tú, entonces yo quiero saber, tengo esa gran duda y quisiera que nos contara.
+
+[Speaker 0 - 00:30:50]
+Yo les soy sincero, por ahí lo mencioné en el panel de comunidades y que por ahí estuve grabando.
+Tengo 30 años participando en comunidades online, o sea, no es algo.
+Que nací con él, sino que lo he practicado mucho, muy joven tuve acceso a Internet y desde ese entonces he estado viendo cómo esto está cambiando y transformando el mundo y definitivamente la web.
+La industria que va a transformarlo todo, creo yo me divierto muchísimo, me gusta andar en chinga, me gusta forzar el cuerpo al límite, no lo puedo negar, o sea, yo cuando siento que ya las estoy dando y que no puedo más, mi cabeza siempre dice no manches, o sea, has hecho cosas peores, dale y pues le damos y la neta me divierto mucho.
+Sí, no, pero no hablemos de mí, hablamos de los embajadores, platíquenos un poquito qué fue lo que más les gustó, pero sobre todo más importante, y creo que es un súper punto y una súper pregunta, ¿Qué podríamos mejorar como árbitro, como envasadores, como partes del programa, como DAO?
+Yo soy parte de la DAO, soy delegado, voto, tengo muy poquitos votos, me he enfocado mucho más en aprender sobre gobernanzas en otros ecosistemas que están apenas empezando, pero híjole, qué increíble, es algo que platicamos muchísimo al final con Tori, con Rob y con los embajadores cuando hablamos con los chavos, esto no se acaba aquí, esto continúa.
+La DAO tiene apoyos, la DAO está buscando constantemente proyectos nuevos, emprendimientos, emprendedores, empresas que quieran ser unicornios para fondearlas, etcétera.
+Híjole, creo que a lo mejor en lo personal yo diría eso faltó empujarlo más.
+Sí me hubiera gustado empujar más todo lo que viene después del hackatón, los apoyos que puede haber para mentorías, la tesorería y el proceso de cómo pedir un apoyo futuro.
+Por ahí, por ahí daría yo mi recomendación, ahorita se me ocurre alguna otra, pero Rob, Tori, ¿Ustedes qué opinan?
+¿Qué les recomendarían?
+Ahorita vamos a platicar del hackatón, pero esa pregunta nos encantó.
+
+[Speaker 2 - 00:32:50]
+Sí, yo creo que eso es de hecho algo muy importante porque muchos proyectos se sumaron, de hecho tuvimos más de 20 proyectos evaluar, terminamos una hora y cuarto, una hora veinte después de que se cerrara el tiempo para pichar, pero había mucha gente que quería construir con el amaranto, haciendo liquid staking, creando plataformas de educación y tal vez para complementar y animar más a todos los builders, a los hackers a sumarse.
+Estaría buenísimo que tenga en los futuros podamos tener esa parte de puedes aplicar un gran aquí, puedes sumarte aquí, presenta tu proyecto aquí y armar como, no sé si un post event en donde la gente pueda realmente seguir conectando y hacer crecer su proyecto, eso sería genial porque vimos varios, varios proyectos que tienen mucho, mucho potencial y que sumaría al TVL de Arbitrum a que sea más de 240 mil millones, estaría genial.
+Y también porque hay muchas personas tener ese espacio adicional en donde las personas pueda constantemente estar preguntando del programa Embajadores, porque no sé si vieron lo que el vídeo que subí hace, no me acuerdo ya porque también hacke, no me acuerdo si estoy en el hoyo, en el mañana o en el futuro, pero ese vídeo había un buen de jóvenes queriéndose sumar al programa Embajadores, no me acuerdo cuántos eran en el vídeo, alguien que los cuente, pero 100% había gente súper motivada a sumarse, tenían dudas, querían empezar, no sabían cómo y que mejor decirles que pues aquí tenemos el apoyo de Nada de Joao para podernos impulsar y a veces hace falta esa esa segunda palanca de apoyo para que otros se sumen.
+Igualmente tener esos fondos de Sepolia.
+O tener también una herramienta de cómo obtener Sepolia de árbitro.
+Que estaría súper bien y pues seguir teniendo o abrir grupo especial latín latino en español en Telegram de la gente que se quiere sumar o que quiere saber más de Arbitrum, estaría genial, yo armaría eso porque ahorita de lo que me da mi mente dormida es lo que me da, pero yo creo que ahí Garo quiere comentar también algo.
+
+[Speaker 6 - 00:35:27]
+Sí, gracias, gracias.
+De lo que quería comentar también lo que mencionaba Joao, siento que sí hay un área de oportunidad muy grande en materiales para aprender Solidity, para dar los primeros pasos en cuanto a codear en español.
+Yo creo que todos conocemos unas plataformas top en inglés, pero falta poder adaptar esos recursos a nuestro mercado latino.
+Conocí a mucha gente y me dio mucho gusto que vi gente que llegó sin saber absolutamente nada, pero nada, y que fue capaz de desplegar un contrato, por ejemplo, a lo mejor les faltó verificarlo a lo mejor les faltó crear un frontend, pero ya dieron un paso grandísimo, entonces me gustaría a mí también, honestamente me lo tomo muy en serio, que quiero ser parte de esa gente que ayude a sentar las bases para poder crear materiales de educación en soliti.
+Honestamente yo tengo un sueño que probablemente no va a poder ser este año, pero sí quiero crear material escrito muy muy a fondo que ayude a las personas a llegar así desde cero a poder crear un producto mínimo viable por ejemplo en web.
+Y algo que les quiero comentar también, he visto mucha gente que sigue un poco intimidada por el código, pero de repente cada vez me topó más gente, por ejemplo el Lowkan shout out a Lowcan que él dice que no programa nada y sé que él no estudió una carrera o no se dedica a programación, pero si vieran los productos tan chingones que hace con inteligencia artificial, es de verdad increíble ver lo que puedes llegar a lograr utilizando inteligencia artificial.
+Y ya nada más por último dejarles la visión de que no necesitan tampoco estudiar cuatro años de código para poder participar en crear herramientas o en crear aplicaciones, pero sí es muy importante que puedan quizás entender la arquitectura a alto nivel de cómo funcionan, primero de cómo funciona una aplicación web básica y luego de cómo funciona una aplicación web.
+Siento que esto traería bastante valor para quien quiera entrar como Product Manager, como Project Manager, como Arquitecto, quizás el que pueda entender lo que se necesita para crear un frontend, para crear un backend, para conectarlo con contratos, Entonces pues sí, yo me llevo de tarea eso, el empezar a ver cómo podemos crear más materiales en español para que la gente pueda participar más fácilmente.
+
+[Speaker 0 - 00:37:55]
+Rob Seman, ¿Cómo vieron?
+¿Qué le recomendarían a la DAO, al programa Embajadores?
+Me encanta a mí escuchar retroalimentación constructiva de la gente, yo en lo personal me encantó escuchar o leer que mucha gente hizo su primer pitch con nosotros, Tori por ahí lo estuve leyendo, o sea el primer pitch en su historia de cualquier cosa para algún hackatón, algún proyecto se lo aventaron aquí, híjoles qué loco tener la responsabilidad de darle reto, esa banda que va empezando, qué chido también, esperemos que también se suelten porque como decía Garo, hay gente que todavía tenía un poco de miedo, pero también como decía Garo, he visto como algunos otros que ya tienen a lo mejor uno o dos eventos se han soltado no es la primera, también creo que es algo que hay que mencionar y que la banda nueva está aprendiendo a irse soltando poco a poco, no va a ser rápido, no va a ser la primera.
+Yo no pude soltarme así a la primera, yo hackeé hasta la segunda o tercera vez que fui a un hackatón.
+Entonces va poco a poco, no hay que continuarlo en ETIRO Monterrey, en ETIRO México, ahora en Monterrey.
+Pero bueno, Emma, Rox, ¿Qué le recomendarían aquí a Joao, a Germán, a los asistentes?
+Sí, cualquier retro.
+
+[Speaker 5 - 00:39:07]
+Bueno, yo lo que les podría recomendar es que se atrevan como.
+Bueno, yo no me atreví esta vez por ejemplo, a.
+Hackear, sin embargo sí me atreví a ir al evento y como dije en un principio.
+Yo por lo menos no esperaba tanto.
+Pues el hackeo o algo así por el estilo, yo me quedé nada más hasta las conferencias.
+Y algo que estoy muy de acuerdo con Garo, con Tori por ejemplo, es de que por lo menos yo la vez que estuve en el booth de Arbitrum, igual reforzando lo que dijo Tori, yo igual vi bastante animada la gente de saber un poco más sobre el tema del programa de embajadores de Arbitrum, no solamente de la gente no técnica, sino de gente que pues ahora sí que tiene conocimientos en programación y pues ahora sí que abrirles la puerta en ese sentido de que.
+Pues también pueden dar aportes, dar valor tanto en temas no técnicos como técnicos, que bueno, todavía, aunque hay mucho contenido en español hoy por hoy y más que hace unos años, ¿No?
+Pero todavía falta, todavía falta más contenido, más gente que construya aquí, gente que se atreva más a.
+Darle esos primeros pasos a la gente.
+Esa es mi visión y bueno, yo también estoy tratando de dejar mi granito de arena para toda esa gente que sepa que realmente hay un espacio, no importa cuál sea tu rol que tengas en web, puedes dar un valor aquí en web.
+
+[Speaker 0 - 00:41:02]
+Sí, definitivamente.
+Yo he visto el cambio de EMA a lo largo de estos últimos meses, Rob, Tori, Garo, Híjole, o sea, yo me fijo en muchas cosas, no hablo de todo lo que me fijo, pero en realidad he notado un cambio increíble haciendo contenido, estando más expuesto a hacer espacios en público, hablar en público, a dar este tipo de charlas y creo que todo eso ayuda muchísimo.
+Yo lo mencioné en el panel de comunidades y al rato lo subo.
+Creo que nos falta mucha gente hablando de las pasiones que tiene y obviamente invitando a los demás a inspirarlos a que a lo mejor participen.
+Pero bueno, hablemos de Hackathon y de sus proyectos.
+Ganaron, muchos ganaron.
+Tori por ahí estuvo hackeando, no participó en el track de Arbitrum, creo que es importante mencionarlo porque estaba de juez, pero ganó primer lugar, por ahí leí, creo que Garo también ganó un primer lugar por ahí en algún track.
+Tori, Ro, platícanos un poquito rápido del proyecto.
+
+[Speaker 1 - 00:41:58]
+Sí, sí, gracias.
+Hay nada más quería comentar muy rápido de las cosas, como dices, cuáles son las áreas de oportunidad, pero yo creo que también lo que hicimos muy bien ahí con Emma, con Mexi, con Tori, con Garo, siempre estuvieron dispuestos a hacer las cosas, eso quería recalcarlo y también ahí en especial a Natalie, porque a pesar de que estaba lejos, estuvo ahí cada minuto con nosotros, estaba al pendiente de todo y también Nat, muchas gracias por estar al pendiente de todo lo que sucedía.
+
+[Speaker 0 - 00:42:32]
+Rob, ahí nomás despido, Nat que tenía un compromiso y se nos tiene que ir.
+Muchísimas gracias Nat por pasar por acá arriba.
+Échale Ro.
+
+[Speaker 3 - 00:42:42]
+Quiero resaltar algo rapidito y no me quería quedar con eso, Ro menciona algo muy importante y es el atreverse cuando uno no ha hecho las cosas nunca es la primera vez que sé que muchos de ustedes fueron parte, fueron sus primeras veces, que como tú bien lo mencionaste, Mexi ha tenido un crecimiento al igual que todos acá dentro del programa y no quería dejar de expresar también el agradecimiento hacia ustedes porque hicieron un trabajo increíble y lo afortunada que me siento de ser parte del equipo en el que estamos todos.
+Gracias, gracias chicos y suerte en todo siempre.
+
+[Speaker 0 - 00:43:20]
+Continuamos con Teor, porfa.
+
+[Speaker 1 - 00:43:22]
+Listo.
+Sí, del Hackatón.
+Pues ahí de los tres tracks que participamos ganamos los tres, dos en primer lugar y uno en tercer lugar.
+La verdad superó las expectativas que traíamos, yo invité a dos amigos con los que trabajé en web y yo los animé, tuvimos sesiones previas donde yo les explicaba los conceptos básicos, o sea fue una preparación para llegar hasta ese día.
+Ahí nos juntamos con todo el equipo para ver la idea, para refinar la idea y fue una preparación, hicimos semanas antes para llegar, para que no llegáramos en cero y todos supiéramos en qué íbamos a estar participando y en qué íbamos a estar enfocándonos cada uno.
+
+[Speaker 0 - 00:44:10]
+Llegamos.
+
+[Speaker 1 - 00:44:10]
+Con una idea y lo que nos ayudó mucho fue a ir con cada uno de los mentores y les platicamos nuestra idea, les platicamos nuestra propuesta de solución y nos hacían ver cosas que no veíamos, nos ayudaban a validar nuestra idea y también adaptarnos muy rápido, tuvimos ahí varias dificultades pero lo que nos ayudó y el equipo.
+Los aplausos para el equipo porque nos adaptamos, tuvimos ahí que cambiar varias cosas pero todos se adaptaron muy rápido y pues sí, el resultado fue mejor de lo esperado y muy agradecido.
+
+[Speaker 0 - 00:44:51]
+Estuvieron jugosos los premios la verdad el primero que se llevó.
+¿Ahorita platicamos de los premios que por ahí Tori y yo decidimos para Arbitrum y los proyectos pero me gustaría que nos contara Garo que también participó en varios tracks, ganó?
+Cuéntanos.
+
+[Speaker 6 - 00:45:06]
+Sí claro, la verdad es que sí estoy muy emocionado con esto.
+Les cuento rápido que yo estoy participando con la DAO que es pues una DAO que está tratando de impulsar el defi mexicano entonces junto con Jaibo que es de los que lo lleva más adelante, Mexi también está ahí en la DAO y mucha gente bien talentosa la verdad.
+¿Primero que nada curioso yo como llegué a la DAO fue porque alguien en alguno de los canales de Telegram dijo aquí vamos a abrir un un meet para el que se quiera unir yo me metí sin saber ni qué era y cuando vi toda la gente que estaba ahí metida, bueno yo quiero participar porque sé que esta raza son brillantes y andan con todo entonces ya tengo varios meses ahí ayudando como les digo con esto del defi mexicano Y pues Jaibo había mencionado sobre crear una aplicación de tandas que fue algo que a mí también me llamó la atención entonces ya teníamos rato platicando de que queríamos hacer eso pero no habíamos aventado nada de código así que decidimos usar el hackatón para decir bueno a ver ahora sí cómo le hacemos, qué necesitamos y pues ya nos pusimos, la verdad es que salió algo bastante, bastante raw como siempre que es un hackatón verdad?
+Bien a huevo pudimos hacer un flujo básico pero lo importante es que ya salió la idea y pues básicamente es eso, es una aplicación donde puedes hacer como las típicas tandas de la abuela, de la tía con los amigos pero en lugar de que el dinero esté ahí nada más estacionado mientras la gente.
+Hace uso de su dinero pues poderlo meter en web y tenemos más adelante pensado utilizar diferentes opciones de riesgo para meter esos activos en web mientras le toca a cierta persona.
+Pero sí, la verdad es que otra de las cosas estoy viendo cada vez más clara la visión de lo que queremos hacer y es que por ejemplo, Jonathan de Capa también está pensando en implementar CETES dentro del ecosistema de la DAO y de Shock, entonces estaría muy chingón que nosotros podamos integrar esto con lo que está haciendo Jonah, por ahí también Edgar Afi está creando algo donde quiere implementar con Shock, Ouken tiene un agente de AI.
+Entonces los invito a todos también si luego quieren tirar de M o algo, yo apenas estoy empezando a entender, pero lo que quiero es encontrar la manera en la que todos podamos participar este ecosistema y a todos se nos haga fácil crear un lego, crear una pieza para después empezar a armar cosas bien chingonas y que todo sea bajo este branding de DeFi mexicano.
+Entonces pues chingón, ahí luego platicamos de cómo podemos hacer crecer eso.
+
+[Speaker 0 - 00:47:50]
+Sigan a todos los que están acá arriba, primero que nada banda, si no lo siguen, échenles un follow, mándenles un DM, estoy seguro que los van a apoyar en lo que necesitan.
+¿Tori, qué opinas?
+
+[Speaker 2 - 00:48:00]
+Muchas gracias.
+Quiero comentarles también cómo se llama nuestro proyecto, porque se me va la onda durísimo y no lo dijimos.
+Se llama Alcancía de IA de Inteligencia Artificial.
+No es un chatbot, es un agente de inteligencia artificial.
+¿Cuál es la diferencia?
+Para empezar, un chatbot te responde a preguntas determinadas, pero un agente te da toda la información, aprende de ello y va mejorando cada día más.
+Entonces nosotros creamos como tal un agente de inteligencia artificial que se llama Don Jaimito, el cual te va a ayudar a ahorrar de manera conjunta cada Tú puedes armar un grupo de amigos, familiares y decir oigan, ¿Por qué no nos metemos?
+La gente te arma personalmente a cada miembro un sistema o un plan estratégico para poder ahorrar de acuerdo a tus ingresos, gastos, etc.
+Y no lo vas a ver nadie, pero si van a saber si no cumples con ese programa, con ese plan, con ese pago que tienes que hacer depósito mejor dicho, porque no es un pago y vamos a decir que tú no cumples, el resto de los demás les va a llegar un mensaje de Sutanito pie y no cumplió.
+Entonces el rendimiento que se haya generado en ese periodo se le va a repartir a tus amigos.
+Entonces esto es increíble porque aparte el dinero que estás metiendo también tiene un yield, entonces bueno, eso es como un doble, un doble 100%.
+Entonces la verdad estamos bien felices porque pudimos crear esto con gente web onboardeada porque Beto y que también están mega emocionados, o sea, es que a mí me voló la cabeza que no solo lo que se aventaron de valientes, sino que también como al final el sabor de boca que tuvieron de la experiencia, quieren estar súper ya, seguir participando como tal en hackatones, ser parte de la comunidad, entonces eso deja marca.
+¿Y por qué les comento esto?
+Porque quiero hacerles la invitación de que se animen hackear en el siguiente 5 de mayo en el que se enteren, háganlo porque eso les va a cambiar la vida, les va a dar esa seguridad frente a otros proyectos profesionalmente su background va a cambiar, su seguridad al expresarse va a cambiar y no saben algún golpe de suerte que pueden tener.
+Para poder seguir siendo parte de, ¿No?
+Entonces, ¿Qué tal si alguien quiere participar en dar algún tipo de incentivo para poder crecer su proyecto?
+Entonces pues también queremos.
+Invitarlos a que sigan construyendo en Arbitrum porque como mencionan, yo creo que pronto ahí nos estaremos juntando y poder hacer un tipo de información de Árbitrum para poder ayudarlos a incentivar su proyecto en Árbitrum con un gran.
+Entonces yo ahorita obviamente, pues yo no participé en Árbitrum, pero yo sé que tiene cosas muy buenas y pues obviamente, este, eso era mi participación.
+No sé si se me olvidó algo, pero si se me olvidó.
+Más adelante más te lo digo.
+
+[Speaker 0 - 00:51:06]
+Tori, hablemos de los tres ganadores.
+De los 20 proyectos, oía proyectos súper interesantes, ya mencionaste tú uno que tenía registros para temas educativos.
+Había otro que tenía un agente de inteligencia artificial que te dejaba chatear con él y hacía transacciones.
+Estaba enfocado en personas.
+Con habilidades distintas para leer o para.
+Personas con capacidades distintas.
+Había otro que también te permitía hacer pagos a pesos rampa, se veía muy, muy complejo, de hecho fue el único que utilizó programación de stylus, aunque no pudo verificar su correo porque el compilador que tenía y que.
+Perdón, el contrato, porque el compilador que tenía no había funcionado.
+Pero ¿Cuál fue de los que más te gustó?
+
+[Speaker 2 - 00:51:56]
+Mira, el que ganó, el que el que ganó primer lugar es peer to peer, utilizó stylux que es el lenguaje más complejo que tiene Arbitrum y la verdad mis respetos, cuando le dijimos así de que incluso el Míster Máster de Gistro le dijimos que usaron stylus, dijo no manches, o sea, eso está en otro nivel también.
+Ese fue un proyecto, bueno, hubo una mención honorífica que no me acuerdo cómo será su proyecto, pero es una chica que entró hackear con Vibe Coding, entonces ella metió, empezó y ella sabía de propiedad intelectual y metió ahí su proyecto.
+Ese me llamó la atención, el que mencionas.
+Totalmente, que fue muy difícil porque aparte había proyectos muy interesantes de Amaranto, de lo que se pueden imaginar.
+Era de unos chicos que solamente con hablarle a la plataforma automáticamente le decían abre mi wallet, no se deposita esto para la wallet tal.
+Entonces simplemente hablando para las personas que tal vez no ven que tienen una discapacidad, ellos simplemente crearon eso.
+Entonces tú veías proyectos bien interesantes, la mayoría de los más creativos para mí fueron de los jóvenes.
+Había también una que el buen Constantino creó que era como participar, no sé, comprando en blockchain propiedades.
+Había otro también que era WAPA, que es el que te referías, yo creo que era para poder interactuar por medio de WhatsApp, depósitos, etcétera, súper interesantes.
+Pero a mí les juro que por cómo me contaron el proyecto estos chicos, que aparte se me olvida cómo se llama porque fueron más de 20 proyectos, pero que hablaron de la educación, les voy a contar por qué me impactó tanto.
+Pues resulta el chismecito acá de los jueces, que ellos estudian en una universidad y había una empresa que les ofrecía clases de inglés por 4 mil pesos, entonces hay varios estudiantes, muchísimos estudiantes dieron ese dinero.
+Resulta que esta escuela que llegó a su escuela para dar estas clases de inglés, tomaron el dinero, se escabulleron y nadie recibió clases.
+Entonces de ahí sale una idea, en total la suma que dijeron que les robaron fueron más de 33 millones de pesos.
+Entonces ellos pensando en esa situación que resuelve realmente un problema, crearon esa alternativa de poder hacer clases en blockchain para tener la seguridad.
+Entonces esas son las clases de proyectos que a los jueces nos llama la atención porque creemos que sí ofrecen un valor, si bien utilizaron el lenguaje, al final no lo pudieron deployar, por eso quedaron en el pool price, pero es un valor increíble lo que aportaron estos estudiantes y que para propiedad intelectual puede ser algo inmenso.
+Igual proyectos de una que se llama algo de Patita Paul, no me acuerdo qué, pero que hablaba de tener todos los registros de nuestras mascotas en blockchain para poder consultar si tienen algún mal, si necesitan un medicamento, si ya tomaron ese medicamento, radiografías, estudios y poder pagar aparte con cripto.
+Entonces hubo proyectos realmente bonitos, impactantes.
+Y yo la verdad, no sé tú, pero fue sumamente difícil.
+Tuvimos que armar así de que, así de quién ocupó totalmente todos los requisitos, que eso es algo muy importante.
+¿Cuando hackeen, asegúrense de hacer un mapa, un tracking de a ver, quiero hacer este proyecto, con cuáles patrocinios puedo aplicar?
+¿Entonces, cuál es el tracking que debo de seguir?
+Y asegurarte de ese checklist para ver si cumple, si lo está haciendo, porque evidentemente quien se lleva la prioridad no es a veces la mejor idea, sino quien cumplió con todos, porque tienen, es una misión, vamos a decir, una misión que se tiene que cumplir, como en un juego de árbitros, tienes que cumplir una misión, entonces tienes que seguir esto.
+Entonces probablemente no te lleves al primer lugar, tal vez te lleves un pool price o tal vez algunos van a decir, no, si no cumplió, pues no aplica.
+Entonces, ojito ahí para poder cumplir con los requerimientos, que eso sí se me hace importante.
+Pero te digo, a mí fue muy difícil, fue inspirador y a la vez me volaba la cabeza de ver todo.
+Vimos chavitos que necesitaban un consejo, lo recibían con un ánimo, con una, Con un hambre.
+Y ese es mi punto de vista, que tú aparte fuiste de mucha ayuda.
+Me gustó mucho porque tú decías una cosa, yo decía otra cosa, complementábamos ideas, veíamos puntos de vista diferentes, para mí fue totalmente enriquecedor.
+No sé qué opinas Mex.
+
+[Speaker 0 - 00:56:40]
+Sí, definitivo, encantó escuchar las ideas, Mucha gente nueva, como decías, haciendo código, verificando contratos, haciendo su primer y deployando su primer contrato en la historia y haciendo sus primeros pitches.
+Si, la verdad me encantó poder apoyar en lo que se podía.
+Creo que el enfoque de atraer y hacer un boarding a banda totalmente nueva es muy, muy bueno, pero creo.
+Y otro punto de retroalimentación también para los equipos, híjoles, algunos ni siquiera se acercaron a picharnos y luego me acabaron preguntando, oye, ¿Por qué no me escogiste pues si, no sé de ti.
+Cómo le hago?
+Había que ir a pichar, o sea, si no ibas a picharle a los sponsors era difícil que te vieran, si no escogías el track de los sponsors también era complicado a veces que pudieras participar.
+Hay detallitos ahí que para los nuevos creo que, creo que.
+Van a aprender mucho, ¿No?
+Van a aprender mucho y en el siguiente les va a ir mucho mejor, estoy seguro.
+¿Me hubiera gustado, te soy sincero, ver modelos de negocio más completos, o sea, gente que le tire a ser unicornios, gente que le tire a ser una empresa mundial enorme, o sea, esa visión creo que es algo que también tenemos nosotros como organizadores de estos eventos, ver, y hay algunos eventos que pueden ser 100% para onboarding y otros que a lo mejor son para otro tipo de nivel, gente que ya esté lista para sacar a lo mejor un emprendimiento y que nada más necesita un empujoncito de lana, pero para ir con la DAO y con cualquier otro de esos fondos que a lo mejor están apoyando, pues tienes que tener ya una historia, una reputación, un equipo sólido, que te conozca la gente, etcétera, no?
+Hay que seguir trabajando.
+Pero híjole, he visto un crecimiento increíble en los últimos dos, tres años en cuestión de las comunidades mexicanas, de los eventos mexicanos, de los hackatones en México.
+Será impensable ver un evento de esta calidad y de esta magnitud de hace un par de años.
+¿Entonces ahí vamos, ahí vamos poco a poco, no?
+Perdón, por ahí levantaste la mano, Tori, ibas a comentar.
+
+[Speaker 2 - 00:58:44]
+Ah, no, creo que me equivoqué.
+Lotón y era un corazón.
+
+[Speaker 0 - 00:58:46]
+No, no, increíble, increíble.
+¿No sé, híjole, platicamos ya de los proyectos en los que ustedes participaron, se llevaron muy buenos premios, ya nos contó también por ahí el Garo de su proyecto que nos fichó y justo entró en el prize pool de Arbitrum, muchos otros entraron en el prize pool, ahí te comento Tori, creo que también le faltó a los y se los escuchan por aquí algunos, que bueno acercarse con los jueces y con los sponsors previamente, no nada más estar desarrollando y luego ir a pichar, no, acérquense, platiquen, que la gente los identifique, que les vea las caras, que por ahí hay un tip súper bueno que pasa, Germán?
+De repente, aunque sepan todo y sepan hacer lo mejor, váyanse y acérquense háganse güeyes, pregunten, o sea es networking, es identificar caras, es ver cómo está.
+Equipos, echa leche de Germán, ¿Cómo es, cómo es?
+
+[Speaker 7 - 00:59:44]
+Hay varias trampas, las iba a decir pero después como que no las dije.
+Hazte el que no entiendes, no, siempre hazte el que no entiendes, Voy a hablar en uruguayo, lo siento.
+Hacerte el que no entiendes.
+Les preguntas cosas que ya sabes hacer y les va mostrando el progreso y ya te identifican como una persona que aprende, que aprende rápido, que tiene interés y va a seguir.
+Programando ahí porque como que ven que adoptaste su tecnología y que la estás entendiendo bien.
+¿Por otro lado, haz soluciones interesantes para ellos, que tu implementación de la tecnología de cada partner les resulte interesante para que otras personas puedan utilizarlo, o sea que dejarías abierto el código y lo meterías en el repo y por otro lado que sea parte de sus objetivos, pregúntales qué les gustaría ver y acomodas un poquito tu proyecto a eso eventualmente no?
+A ver mi amor, perdón que estoy acá con mis hijos ya con mis frutas, ¿Quieres más fruta, cereal?
+Ya no, perdón, ya listo.
+Que están en la previa a la comida y comieron serial de almuerzo y ahora un poco de fruta y después les hago ese consejo, los que tienen hijos que primero la fruta y después la comida, vos Mexique, ya sabes, por la digestión dicen.
+Bueno, siguiendo, ir a mostrarles tu progreso constantemente.
+Y una cosa muy importante que yo no la sabía del todo, que más o menos lo sospecho, pero ya vi que es un requerimiento porque ahora nos ayudó Juan Giraldo, que él está en IT Global, es muy importante que empiecen a hacer su repo desde el día uno y lo vayan actualizando, Yo eso realmente no lo hacía y muchas veces me preguntaba no, porque no fui finalista o porque no sé, no gané un premio en cosas que me parece que está muy bien hechas y casualmente esos proyectos tienen un repo muy mal hecho o que lo hago al final y Juan comentó, miren el repo y otros que han sido jueces de otros hackatones que estaban ahora porque me tocó ser juez por primera vez, una experiencia buenísima con Robin.
+Me decían pues hay que mirar los repos, ¿No?
+Miren los repos que tengan y pues bueno, esa parte yo no la sabía, ya la saben, no es un hack pero si actualicen su repo constantemente.
+Entonces los hacks para hacer trampa en los hackatones, entre comillas.
+Vender el producto aunque no lo tengas terminado, a ver si se dan cuenta o no, eso es importantísimo, hace una presentación genial, hace todo lo que tengas que hacer, el front, todo siempre aunque no esté funcionando y después lo hace funcionar.
+Preguntales cosas a los partners aunque no tengas dudas y averigua qué es lo que ellos quieren ver para que se los hagas, porque ellos, los partners tienen objetivos, los partners van a los hackatones también como para demostrarle a sus empresas que lo lograron, porque no van los dueños de las empresas, generalmente van los devreales, van algunos que se encargan de onboardear comunidad, se van pues ese tipo de personas y necesitan mostrar resultados, entonces ayúdenlos a ellos a hackear a sus jefes y con eso pues posiblemente también se lleven premios.
+Bueno, eso básicamente, la verdad fue un placer, fue un placer ver que el 95 % de las personas levantaron la mano cuando hicimos la inauguración del hackathon a las 6 de la tarde con la sala llena, todos levantaron la mano o el 95 por ciento de que era su primer hackatón, eso es una locura y el nivel que hubo, yo estoy asombradísimo, no sé ustedes en Árbitrum que nivel recibieron, me alegra que haya sido más de 20 proyectos los que se hayan hecho submission, pero qué nivel que hubo, tuvimos que meter 15 finalistas del tamaño nivel que hubo, espectacular y me encantaron los proyectos que solucionaban cosas para sus propias escuelas, esos me encantaron, uno de los que mencionaron ustedes y otro que fueron finalistas pero no pudieron hacer la demo los primeros pues no se organizaron bien, salió mal su proyección, ahí no pudieron, pero era para usar tokens a la vez era un mix entre web 2 y web para usar tokens, para reservar objetos de laboratorio o salones o lugares en salones y saber exactamente, además de los créditos que tenés, poder usarlos y evitar la burocracia, saber quién rompió lo que se rompió porque fue el último que lo usó, cosas solucionando sus propios problemas, esas cosas me encantaron y estoy seguro que las van a.
+
+[Speaker 0 - 01:04:27]
+Implementar.
+Muy buenos tips, te soy sincero en esta ocasión me encantó ser juez, aprendí muchísimo, pero no nos pudimos basar ni en el vídeo, o sea, yo no tuve chance de ver ni un vídeo, teníamos grupo, tras grupo, tras grupo, tras grupo, entonces era súper importante el pitch y el código, que cumplieran los requisitos, oye, si te dicen verifica el contrato, verifica el venta o contrato, si te dicen usas stylus, bueno si usas stylus te va a dar más puntos, etcétera, etcétera.
+Creo que mucha gente no se daba cuenta de esos en esos.
+Detallitos.
+¿Sí, definitivamente, como decía Germán, el nivel estuvo increíble, pero también tuvimos hackers muy, muy pro no?
+Constantino tiene años en el ecosistema, Gar también tiene años en el ecosistema, Tori, Rob, hay gente que tiene años en el ecosistema que está hackeando y también es importante que los nuevos se midan contra ese tipo de proyectos y ese tipo de personas que ya tienen un poquito más de experiencia y creo que hay mucho aprendizaje.
+Pero bueno, muchas gracias a todos los que se han subido por acá a platicar, sé que tenemos ya poquito tiempo, vamos a ir ya con comentarios de cierre y nos despedimos.
+Muchísimas gracias.
+El próximo martes estoy tratando de invitar a organizadores de Side Events para que nos cuenten cómo les fue, porque no nos tocó ahorita platicar y definitivamente esas personas que van iniciando nuevos que apenas están aprendiendo y estoy seguro se van a quedar, los vamos a bienvenir, les vamos a dar la super bienvenida a el siguiente hackatón acá en Monterrey para que sigan desarrollando todo lo que quieran.
+Wow.
+Emma, Rob, muchísimas gracias.
+Vamos primero con ropa que nos despidamos.
+Muchísimas gracias por estar por acá, a todos de nuevo les pido likes, comentarios y repos a este Space para que llegue a más banda, queremos que más personas participen en estos programas de embajadores.
+Yo como les decía hace un par de días, no es el único que hay, hay muchos otros y cada uno tiene su dinámica, su.
+Grupo, su administración, su filosofía distinta.
+Acérquense, participen, aprendan, si les gusta, quédense, si no busquen otro, no pasa nada, para eso están todas estas tecnologías y todas estas herramientas.
+Échenle quién empieza.
+
+[Speaker 1 - 01:06:42]
+Despidiéndose.
+¿Sí, muchas gracias Mexi también ahí pues el último comentario es que se avienten, a mí me mandó mensaje Germán, me dice oye te interesa dar una plática en el evento principal?
+Y dije no, espérate, no creo que lo pueda hacer porque a mí me pasa como Drake y Josh, como George que está dando las noticias del clima y empieza a sudar y los tics a tope, dije no, yo creo que no.
+También ahí cuando me invitaron a lo de Design México, que no, creo que no, pero también con Kari que me ayuda y le ¿Como ves?
+¿Nos invitaron?
+No, pues hay que aventarnos.
+Y yo pues sí, hay que aventarnos.
+Y gracias a Dios salió muy bien todo.
+Y en el hackatón también, obviamente fue mi primer hackatón, también hay que comentarlo y también tenía mis dudas, pero nos aventamos y mi mensaje final es aviéntense.
+
+[Speaker 0 - 01:07:38]
+No.
+Háganlo con miedo, pero háganlo.
+Yo les soy sincero, cuando me paré la primera vez en el Flash to cotorreo, el primer side event que hubo, yo iba a platicar de Ethereum México, el evento en Monterrey, pero primero iba a platicar del tour que hice y por X o Y me pusieron primero la presentación de Ethereum México y me mandó a la fregada, me puse nervioso, me puse a sudar, hablé todo mal, todavía me pasa, es normal.
+Ya después me aliviané, pero nada más ese cambiecito me hizo.
+Patinar, pero pues con miedo me lamenté, no pasó nada.
+Y qué bueno que te aventaste Ro, la neta, yo jamás noté que estuvieras nervioso ni con incertidumbre, o sea, te escuché perfecto, muchas felicidades y pues chido que te animaste.
+Tori Emma, ¿Qué.
+
+[Speaker 2 - 01:08:32]
+Opina?
+Pues muchas gracias por permitirnos compartir esta experiencia.
+Creo que trabajar o hacer carrera en web es la mejor experiencia o de las mejores que he vivido en toda mi vida.
+Tan es así que mi primer evento que fue el año pasado en Mérida con Ethereum, justo de voluntaria, me cambió la vida y no me voy a cansar de decirlo, vayan a un evento de voluntarios porque de verdad es el primer paso y les va a cambiar la vida, su pensamiento, van a encontrar gente brillante, increíble, de verdad.
+Y creo que ese sería mi consejo para cerrar.
+Aviéntate, no tengas miedo, decide desarrollar tus habilidades porque a veces tenemos, ya sabes, el síndrome del impostor y no me dejarán mentir varios que alguna vez nos hemos sentido la persona menos lista, la persona menos de todo, pero créanme que dar el primer paso es avanzar ya la mitad del camino.
+Yo estoy admirando mucho a muchos, pero a Rob, este mi esposo, la verdad es que me encantó ver el crecimiento exponencial en un par de días que tuvo en todo, porque él es tímido, no es tan fácil para el hablar, pero se hizo un trabajo estupendo en el panel, en el pitch, yo decía wow, o sea, de verdad mis respetos.
+Y así como todos nosotros te hemos tenido temas para expresarnos, pero gracias a Dios que nos dan estas oportunidades, que hay gente como Germán, como Suri creando eventos, el muchos que ni siquiera mexicano, entre otros y que se avientan a hacer esto, porque chicos, esto es para crecer en comunidad, así que aviéntense, vamos a buscar nosotros también, arroparlos para que puedan caer en blandito y puedan seguir teniendo de cada uno, tal vez en algunos mucho mejor, mucha más experiencia que nosotros, pero siempre vamos a estar ahí.
+Entonces esas serían mis palabras y muchas gracias por invitarnos de verdad Mexi, es un placer haber estado contigo de jueves y haberte conocido un poquito.
+
+[Speaker 0 - 01:10:40]
+Más.
+No, igualmente estoy igual.
+Que tampoco conocía a Garo, ya lo conozco desde hace rato, pero increíble, increíble.
+También Germán, Sui, Celic, Artur, todo el equipo de Frutero, toda la banda de Colombia, por acá veo al buen Alex el Palat, qué crack, se llevaron también un premio Choncho, la verdad, en el hackatón, hackearon, apoyaron a hackear la banda de Medellín.
+No manches, es que neta, neta.
+Pam que veo por acá abajo que también estuvo organizando un día y que.
+Se divirtió mucho en la carnita, a todos nos divirtió mucho en la carnita, ya les platicaremos el próximo jueves porque ya no nos alcanzó el tiempo el día de hoy para hablar de side events.
+Pero Emma, Joao, ¿Qué opinan?
+¿Nos vamos?
+Germán también ahorita se.
+
+[Speaker 5 - 01:11:29]
+Despide.
+Nombre.
+Gracias Mexi, realmente para mí es muy, muy feliz estar aquí, compartir el espacio, la verdad, como te lo dije en el side event de Freshteco Torreo, sin tu ayuda en el tema de mi primera plática en la universidad, pues la verdad creo que no hubiera llegado tan lejos o no estaría aquí, la verdad para mí ha sido un gran, gran placer y un gran honor poder compartir espacio con la demás gente con la que estuve allí en el evento, la verdad espero poder ir a Ethereum México, seguir viendo a la demás gente pues así que la que conocí de Ethereum Baja de Cripto N, de todas las comunidades y realmente espero poder estar ahí.
+Gracias y pues nos estaremos viendo en la siguiente o nos estaremos escuchando en la siguiente.
+
+[Speaker 0 - 01:12:27]
+Space.
+Vámonos, vámonos.
+Increíble, increíble.
+Un placer apoyar a todos los que traen iniciativas para comunicar en sus universidades o en sus comunidades locales que quieren hacer comunidades propias.
+Uno de los chavos que nos pichó, de hecho el primero, el que dijo que era su primer pitch, está armando una comunidad en San Luis, se me hizo muy bueno su proyecto que también incluimos ahí en el prize pool, pero qué chido, qué chido verlos hackear, qué chido acercarse a pedir mentoría, qué chido seguir desarrollando proyectos y generar esos equipos que antes no estaban formados y que estoy seguro que van a hacer cosas padres.
+Veo por acá abajo también a Ada, saludos a ADA que vino también acá a México, entiendo desde Medellín, a Disidente, a los chicos de Items que están haciendo temas de gaming, yo por ahí lancé un parche con un POAP para temas de gaming en Árbitrum, pronto les estaré dando más informes, pero les soy sincero, si les encanta el casino, les va a gustar mucho esto también.
+Yo soy jugador de pócar, en algún momento hice crecer una comunidad enorme de jugadores de póker en línea que nos llegó ir muy bien, pero bueno, eso se murió mucho hace años y lo voy a revivir, así que bueno, ahí le estaré pasando noticias.
+Joao, ¿Algo adicional que quieres comentar?
+Muchas gracias primero que nada por estar por acá, por apoyar estas iniciativas y de parte de la fundación estar al pendiente de todo lo que está pasando acá en.
+
+[Speaker 4 - 01:13:49]
+México.
+No, no, gracias a ustedes, gracias por recibirnos, a todos los embajadores también que hicieron un trabajo buenísimo en el evento, a los organizadores también, Germán, todos que están también apoyando el ecosistema de México.
+Desde Brasil estoy viendo todo con buenísimos ojos, con un aprendizaje tremendo para.
+
+[Speaker 5 - 01:14:09]
+Todo que se puede por acá, mucho.
+
+[Speaker 4 - 01:14:13]
+De lo que estábamos hablando, lo que estaban hablando para la comunidad de Brasil también, para que podamos hacer cosas buenas en conjunto, apoyar y crecer para llegar más lejos.
+Y bueno, espero que en la próxima, espero poder en la próxima estar allí con ustedes participando y aprovechando un montón.
+Y bueno, gracias también a todos.
+
+[Speaker 0 - 01:14:35]
+Los que nos escucharon.
+Octubre, noviembre, Monterrey, ya sabes, súper bienvenido, ahí te busco para hacerte una invitación más formal y los encantaría colaborar ahora en el evento que ya toda la carne se va al asador para Monterrey, ya le metimos todos los kilos a Ciudad de México, al menos yo de mi parte creo que hicimos un buen trabajo por allá, Sigue enfocarse en Monterrey, sigue enfocarse en el hackatón que estamos organizando por acá y darle mucha promoción y mucha ayuda.
+Y espero y ojalá y estoy segurísimo que todas las comunidades que apoyaron por allá van a estar por acá apoyando de alguna u otra forma y que vamos a lograr crecer este ecosistema y acelerarlo lo más rápido posible.
+Germán, vamos contigo y luego ya me echo mis comentarios de.
+
+[Speaker 7 - 01:15:24]
+Cierre.
+Pues bueno, felicidades a todos, felicidades a Arbitrum, a los embajadores, que para ellos la verdad es que hicieron un Dream Team y no tan solo Dream Team de embajadores, sino que hasta ganaron premios, ganaron premios y fueron destacadísimos en el evento.
+Parecería que no dormían porque estaban siempre ahí en el boot, estaban siempre disponibles por todos lados, en todos los eventos se los veía también, o sea, impresionante.
+Muchas gracias Mexi, también por el apoyo y qué bueno, y ojalá que como decís, pues la línea continúe por ahí por el evento que va a ser Ethereum México.
+Y bueno, yo solo me despido con algo que creo que entendés y que tenemos que empezar a trabajar un poco en estos siguientes meses, que es.
+
+[Speaker 0 - 01:16:17]
+Hashtag criptodemayo 2026, cripto de mayo, todas las comunidades unidas, todos los esfuerzos posibles, toda Latinoamérica haciendo ruido.
+No puedo decir más, la neta es una iniciativa súper chingona que cuando me la platicaron yo dije, no mames, esto es, esto es lo que hay que hacer, a esto hay que sumarse, agarremos un mes entero para que todo el ecosistema en español sepa que va a haber actividades todos los años de aquí en adelante hasta que termine y acabemos de.
+Colonizar o no colonizar, sino.
+Ándale la palabra de Satoshi.
+Muchas gracias a todos los que estuvieron por acá, muchísimas gracias a los embajadores, al programa de embajadores de árbitro que brindó todas las facilidades para poder llevar a cabo este hackatón como parte de todos los demás patrocinadores, Obviamente no podemos dejar de agradecer a Mantle, a CK Sync, a Scroll, a Hyperlane, a Camp, Híjoles, por ahí se me olvidan algunos muy pro, al Mitso Astar.
+La Dao que también estuvo dando premios, etc.
+Por ahí pueden ver toda la información en la página.
+El año que entra va a estar increíble, Ethereum México 2025 en Monterrey va a estar espectacular, no se lo pierdan.
+Muy, muy, muy.
+Contento de estar participando y echarle todos los kilos a los adoradores evento.
+Pero bueno, vámonos el próximo jueves, vamos a estar platicando muy probablemente y ahorita más adelante les confirmo con los organizadores y todas las personas que asistieron a los event.
+Yo quiero contarles varias historias de la carnita que estuvo muy, muy divertida, por ahí el mejor taller que hubo en toda la semana y nadie me puede desmentir, El buen Carlitos de Astar, Jumini Stock estuvo y de Frutero estuvo por ahí partiendo salsa 101 en la carnita asada, nos puso a bailar a todos.
+Increíble el taller.
+Hay que hacer un side event exclusivo de baile en Monterrey, ya lo estoy planeando, Estamos planeando también un side event para ver si armamos un Karate Combat o algo similar.
+Germán ya me dijo que no se ponen los guantes culo, pero ando viendo quién más se anima, así que ya veremos qué pasa.
+Nos vemos próximamente les voy a dejar con el primer sencillo del primer disco de banda web 3.
+Se llama Minds Abyss, hecha con inteligencia artificial y nos vemos el próximo jueves.
+Muchas gracias por estar por aquí, ya luego los estaré buscando, tengo un chorro de gente a la que tengo que invitar luego me encantaría tenerlos uno a uno a cada uno de los que está por aquí, pero bueno, ahí vamos poco a poco.
+Nos vemos, hasta luego, los amo y.
+Uy.
+¿Qué pasó?
+Se supone que debería seguir la canción.
+Démosle un segundito.

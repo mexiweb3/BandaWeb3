@@ -1,0 +1,399 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #N/A
+Título: BandaWeb3 #038 @fservin de @HolaSati y @LosOrdinales
+Fecha: 2025-02-04
+Host: BandaWeb3
+Tipo: hosted
+
+Descripción:
+BandaWeb3 #038 @fservin de @HolaSati y @LosOrdinales. Conversaciones con @meximalist - sin guion y uno que otro anuncio. Nos contará todo sobre Sati y su reciente participación en el demo day de BitcoinFi de @TimDraper y Boost VC.
+
+Duración: 00:42:09
+Escuchas: 58
+
+Links:
+  Space: https://x.com/i/spaces/1vOxwrdjvMdJB
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+[Speaker 0 - 00:00:39]
+GMGM Banda Comando En el día de hoy estamos empezando el episodio número 38 de banda web 3 con el increíble crack de cracks, Felipe Servín.
+Comenzamos en un momento.
+Les voy a pasar una introducción por acá.
+Creo que ya la tenemos arriba, pero mientras invito a toda la banda a que se conecte.
+Voy a dejar aquí una canción que se llama Minds Abyss, hecha con inteligencia artificial.
+Inspiración en la otra que ponía de Liquid Tension Experiment.
+Pero ya estamos listos, denme un segundito.
+Uy, tengo los audífonos prendidos.
+
+[Speaker 1 - 00:01:16]
+Empezamos en breve.
+Banda Web 3, número 38 con Felipe Servín.
+Gracias por estar por aquí el día de hoy.
+Para los que se van conectando, saluditos.
+Si nos ayudan con likes y con repos, todo suma.
+Por ahí hay una dinámica también súper interesante que el buen Felipe nos va a estar platicando.
+Empezamos en breve.
+Esto es Minds Abyss, hecha con inteligencia artificial inspirada por.
+Liquid Tension Experiment, Universal Mind.
+A ver, denme un segundo.
+¿Que crees que se muy bajito porque tenía los audífonos?
+Me voy a bajar y vuelvo a volver a subir, pero en un segundito comenzamos.
+Muchas gracias por estar por aquí.
+Felipe, ¿Me escuchas?
+Se escucha bajito.
+Va, Creo que me tengo que bajar.
+
+[Speaker 2 - 00:03:16]
+GM, GM, ¿Cómo andas?
+¿Cómo andas?
+Oye, no sé si son mis audífonos.
+Este se escucha bajito.
+Se escucha bajito.
+Órale, órale.
+
+[Speaker 1 - 00:04:06]
+Ando ya por aquí.
+Creo que ya escucha mejor.
+
+[Speaker 2 - 00:04:08]
+Ay caray.
+Sí, a este le Tuve que bajar.
+¿Cómo estás?
+Oye, qué placer, qué placer.
+Después de.
+
+[Speaker 0 - 00:04:16]
+Le damos unos 30 segunditos más a.
+
+[Speaker 1 - 00:04:17]
+La canción para que se escuche algo y ahorita comenzamos.
+Gracias a todos por estar por acá.
+Si nos ayudan con likes o con reposts para que la banda se conecte y comparta este espacio aquí con Gwen.
+Felipe, ahorita comenzamos.
+Listo, listo, ya estamos por aquí.
+Ya se escucha bien.
+Ahorita me pongo los audífonos.
+Felipe me escucha muy bien.
+Ya confirmamos.
+Gracias a todos los que están conectando, la neta.
+El día de hoy vamos a estar platicando con el increíble Felipe Servín.
+Les platico un poquito de cómo lo conocí y nuestra relación a lo largo de los años como introducción, pero la neta lo considero como uno de los mentores más importantes que he tenido en web.
+Él tiene ya una historia de mucho emprendimiento, de muchas.
+Lanzamientos, de muchos productos que ha por ahí experimentado.
+Ahorita está construyendo web, ya ha hecho varias cosas en web, no es la primera por ahí que organiza y la neta me ha encantado poder platicar con él y aprender a lo largo de estos últimos años que lo conozco, lo conozco presencialmente, hemos hecho muchas colaboraciones.
+Me encanta lo que están haciendo, me encanta que está súper metido en el ecosistema de Bitcoin y no nada más de Bitcoin, ya nos platicará todo lo que trae Sati, porque pues bueno, están construyendo un banco, un banco web para toda la región, bueno, para todo el mundo, pero en especial para las regiones de alto crecimiento como es Latinoamérica, Asia, África, etcétera.
+Creo que la oportunidad que permite Sati de poder mandar y recibir satoshis de cualquier parte del mundo, cualquier parte del mundo en WhatsApp está increíble, la funcionalidad es muy sencilla y creo que lo que están haciendo está muy chido y.
+Y recientemente estuvo en una aceleradora con Tim Draper, uno de los grandes inversionistas de este ecosistema y de todo el ecosistema W, W, etcétera.
+Y por ahí nos va a estar contando todo lo que por ahí experimentaron, estuvieron presentando Sati, creo que por ahí también ya son socios de Team Draper y su aceleradora.
+Y pues encantado de tenerte por acá Felipe, Muchísimas gracias por aceptar la invitación y gracias a todos los que están conectando.
+De nuevo, si nos ayudan con un like y con un repost, todo suma, todo suma.
+En unos 30 minutitos les voy a estar compartiendo el link para que puedan coleccionar su artículo digital que estamos regalando constantemente en estas llamadas.
+Pero empecemos.
+¿Bienvenido Felipe, cómo andas el día de hoy?
+
+[Speaker 2 - 00:07:59]
+GMGM, ¿Cómo estás?
+
+[Speaker 0 - 00:08:01]
+¿Cómo estás?
+
+[Speaker 2 - 00:08:01]
+Oye, ¿Qué tal?
+¿Me escuchas por aquí?
+Ahora resulta que mi vecino anda haciendo como demoliciones masivas, espero y no escuchen, como que se nos cae la pared encima.
+
+[Speaker 1 - 00:08:13]
+Sí, acá también en la casa hay mucha construcción, pero bueno, ya me encerré un poquito para que no se escuche mucho el relajo.
+
+[Speaker 2 - 00:08:20]
+¿Todo bien?
+¿Cómo anda Felipe?
+
+[Speaker 1 - 00:08:22]
+¿Dónde te conectas?
+
+[Speaker 2 - 00:08:23]
+¿Estoy ahorita Buenos Aires Sorpresa para los que no me han seguido por ahí en redes sociales tengo qué será una semanita por acá en Buenos Aires, una locura cruzar toda América Latina para llegar al otro lado del sur, como siempre una ciudad que te da la bienvenida muy cálidamente, gente construyendo cosas súper interesantes en Bitcoin, en stablecoins y en todo lo relacionado a blockchain y bueno pues aprendiendo de todos los.
+Todos los proyectos argentinos y algunos de ellos brasileiros para también entender cómo está, otros sabores y otras perspectivas del mundo blockchain por acá por estos lados?
+
+[Speaker 0 - 00:09:21]
+¿No?
+
+[Speaker 1 - 00:09:22]
+La neta sí te he visto que has estado viajando mucho y qué bueno que estés conociendo otras comunidades, que estés conociendo también a otros constructores por ahí sé que estuviste en la Bitcoin en Argentina hace unos meses y ahorita estás de regreso, es bien diferente ¿No?
+El ecosistema por allá.
+Creo que por necesidad y por la situación económica de Argentina ellos han tenido que refugiarse muchísimo en todo lo que es cripto, sobre todo en stablecoins y creo que el avance y el desarrollo y las personas que están involucradas en el coste son mucho más, o sea, ya tienen mucho más años de haberlo conocido, haber entrado y creo que estamos un poquito retrasados acá en México, no sé tú cómo lo veas comparado con Argentina, con Brasil, que creo que son los dos más fuertes acá en Latinoamérica.
+
+[Speaker 2 - 00:10:10]
+Sí, definitivamente creo que hay un cambio de perspectiva, o sea, sin aburrir y siendo concisos yo lo resumiría en un tema de necesidad, así como lo mencionas, más que nada.
+La creación de protocolos, de soluciones o de ideas pegadas ahí al norte, hablando específicamente de México, van un poco más al tema a veces yo lo veo como.
+Innovación defi l o todo lo relacionado a cómo empujas un poquito más esa idea futurista de cómo utilizar blockchain y en Argentina por ejemplo, es un tema de los proyectos que más tracción tienen son aquellos que están solucionando un problema pues de la vida cotidiana, no quiero decir un problema real porque hay muchos problemas que existen, simplemente no los tocamos nosotros, pero acá se siente, o sea, llegas, vas a una tienda y el de la tiendita te dice bueno, el precio por este producto es de lo equivalente a 20 dólares, pero si me lo das en cash te ofrezco 30% de descuento, entonces esto así es como súper shockeante que una ejecución comercial pueda tener tanto, tanto descuento, o sea, quizás le suena sencillo, ¿No?
+Bueno, pues es que te dan descuento porque, porque no quieren pagar impuestos, pero no, va mucho más profundo, empiezan a entrar soluciones que estén relacionadas a stablecoins y entonces hay oportunidades impresionantes para todos los que son fanáticos del arbitraje, pues de arbitraje, imagínate a los negocios les empiezas a ofrecer que acepten stablecoins, obviamente de un madrazo tienes 30%.
+Pues de ventaja o de amplitud para hacer cositas y con ese 30% puedes generar diferentes tipos de negocios, o sea, en ese 30% caben muchos jugadores para mejorar logística, pagos, velocidad cobrada, división de divisas, o sea, muchas, muchas, muchas cosas.
+Y normalmente en México pues estamos hablando de quizás a veces las rampas, el protocolo, proveer liquidez, un L, ¿No?
+Y acá es cómo le hago para seguir pagando cosas y también para poder acceder a un objeto que no se devalúe literal de un día para otro, ahí entra Bitcoin, obviamente entran las stablecoins representando dólares, pero los sabores los empiezas a ver diferentes, es como problemas futuristas versus problemas de todos los días, pero quizás estoy traigo prejuicio por la gente que he estado hablando por acá, ese sería como mi resumen.
+
+[Speaker 0 - 00:13:29]
+Me puse los audífonos, espero que me escuchen, si no por ahí me ayudas.
+Felipe, ¿Todo bien?
+
+[Speaker 2 - 00:13:34]
+Todo bien.
+
+[Speaker 0 - 00:13:35]
+Ah, perfecto.
+
+[Speaker 1 - 00:13:36]
+No, sí, la verdad es que si.
+
+[Speaker 0 - 00:13:38]
+Van muy avanzados, mucho más avanzados que acá, creo que el tema de las stablecoins es crítico, crítico, crítico para esas economías.
+Ya estamos viendo cómo salen stablecoins en otros países, no nada más en Estados Unidos, por ahí veo y he estado leyendo sobre uno en Argentina, sé que vienen varios acá en México del peso y definitivamente en Estados Unidos según lo que he escuchado y lo que ha dicho Trump, lo va a seguir fomentando, no se quieren quedar por lo que entiendo con el USDT que ya se emigró a Salvador, ni con USDC que existe tiene base en Estados Unidos, sino que me imagino que otras empresas y monstruos web 2 y a lo mejor hasta los bancos van a empezar con estos temas y creo que va a ser una locura, no vamos a empezar a ver muchas stablecoins de muchos países fondeadas, creo yo, por empresas privadas y respaldadas por empresas privadas y pues bueno, puede haber algo de riesgo ahí, creo yo, no sé, no sé, no sé si podamos esperar otro Luna o no, pero depende mucho de la reglamentación y cómo lo lo manejen en Estados Unidos.
+No sabemos todavía, están haciendo por ahí un análisis, pero bueno, la neta, qué chido Felipe, que conozcas por allá, como decíamos, otras comunidades, otras economías, otras industrias o otra parte de la industria web, pero que se mueve diferente en otros países.
+Creo que en México este año va a ser muy importante para todo lo que es cripto.
+Veamos a ver qué lanzan los grandes jugadores como Bitso, como Grupo Salinas, que sé que por ahí ha estado haciendo muchas cosas, obviamente Sati también, que ya tienen varios años en el mercado y han entrado fuertísimo en México.
+Platícame un poquito cómo ha sido tu experiencia con Sati, porque empezaron con Bitcoin, empezaron con Satoshis hace algunos meses y ya no nada más se quedaron así.
+Cuéntame cómo ha sido la experiencia de crear Sati y de llegar al punto donde están ahorita, donde ya están en aceleradoras, donde están con inversión y con socios como Team Draper y Boost BC, etcétera, etcétera.
+
+[Speaker 2 - 00:15:37]
+Sí, bueno, la historia, algunos de los que están por acá la conocen, o pedazos de ella.
+Realmente fue una evolución de mi camino por web.
+Hay muchas cosas que compartir acerca de cuáles son las diferencias en cuestión de levantamiento de capital, crear equipos, manejo de expectativas de socios, de inversionistas, de estructura de negocio y de no sé, hasta de producto.
+Hay una diferencia grande en crear cosas en web 2 y en web.
+Esto lo digo porque soy o vengo del tema web.
+Empecé mi carrera en Silicon Valley, en San Francisco hace ya casi 14 años, o sea, ya, ya.
+Ya no entro en tu lista prospecto de esos de 30, debajo de 30, ahí ya no entra.
+
+[Speaker 1 - 00:16:37]
+Ya llovió, ya llovió.
+
+[Speaker 0 - 00:16:38]
+Oye, hablando de eso, les quiero pasar así un super alfa de eso, ya estuve investigando, rescándole más cobran por estar en esa pinche lista, así que olvídense.
+
+[Speaker 2 - 00:16:46]
+Claro, claro.
+Se trata de media, que de hecho esa fue una de mis, fue quizás la primera empresa que puedo considerar escalable.
+Lancé en el 2012 una empresa que estaba haciendo análisis de datos para crear comunidades, o sea, estuvo bien loco porque terminé estudiando en Reino Unido una maestría de negocios digitales pero tienes que generar.
+Una investigación académica bastante, bastante fuerte.
+Te empuja fuertísimo ahí la gente de UK a algo que le entregue un avance a tu industria, en este caso computer science.
+Y estaba haciendo análisis de cómo podías armar un algoritmo para calcular cuando dos personas desarrollan empatía digital.
+Entonces, esa fue mi investigación.
+Eso hablo ya de un retote 2011, pero termina siendo una empresa que fue fondeada en Silicon Valley.
+Long story short.
+Creíamos que íbamos a vender data a empresas justo de media.
+Me suena gracioso esto que acabas de decir, porque empieza a encontrar todos los secretos que suceden en los medios de comunicación.
+Creíamos que íbamos a vender eso como data y por accidente uno de los inversionistas nos oye, ¿Por qué no prueban ese algoritmo y hacen un caso de estudio y con eso prueban que funciona la tecnología?
+Gran idea.
+Dicho eso.
+Seis meses después teníamos una comunidad de cinco millones de personas, que un año después se volvió una comunidad de 50 millones de personas.
+50 millones de hispanohablantes, estaba toda Latinoamérica allí, la gran mayoría mujeres.
+Nos enfocamos específicamente a temas de la mujer.
+Y empezamos a encontrar un montón de cosas súper curiosas en el mercado, en cómo se generan tribus, cómo empiezas a identificar comportamientos tribales en general.
+Pero ya cuando lo ves en una masa de decenas de millones de personas, otros como factores empiezan a aparecer ahí.
+Obviamente nos enteramos que.
+A ver, les voy a pasar una.
+Espero y no decepcione.
+Muchos, este va a ser su momento de Santa Claus no existe y los Reyes Magos tampoco.
+Pero les vengo a contar que todas las series de TV que ustedes son fanáticos, e incluso películas en los últimos 10 años, estas series de TV son creadas para venderles ads.
+El proceso creativo de eso no empieza.
+Tengo una idea, voy a contar la historia de cómo un policía sobrevive al ataque zombie y Vamos a sacar 11 temporadas de ello.
+No, así no es como funciona The walking dead realmente.
+¿Como funciona la creación de todas estas series?
+Estas empresas gigantes medios dicen necesitamos llenar todos estos espacios comerciales con comerciales y necesitamos la atención de la gente.
+Entonces se diseña un producto basado en una audiencia que está completamente relacionada con las marcas que quieren pagar en ese espacio de tiempo.
+Entonces, Si son las 8 de la noche, la audiencia es muy probable que sean personas que están entre los 25 y 35 años, que les gustan los cómics, los videojuegos y los deportes.
+¿Cuáles ideas creativas tenemos que hacer match con esto y cuál puede ser el próximo hit para que se queden enganchados los próximos dos años?
+Porque estas negociaciones suceden multianuales.
+Una vez que se hace todo eso dicen, ah, muy bien, firmen a todos esos anunciantes y ahora sí tráete a los creativos a que rellenen lo demás de atención.
+Todo esto es análisis de datos, entonces no.
+Es una decisión de Game of Thrones.
+Es una gran, gran historia creativa y por eso revolucionó la industria.
+No, no es cierto, es simplemente la serie de televisión que podía llenar más espacios comerciales basados en data y bueno, así empieza mi carrera con ese tipo de cosas.
+Temo decirte que La lista de 30 debajo de 30 también es un producto de los medios de comunicación.
+
+[Speaker 0 - 00:21:36]
+10.000 dolaritos vale nada más no ligan a nadie, así que si ven esas listas por ahí de repente que saca, no les hagan mucho caso o estén conscientes que la gente pagó por estar ahí, pero bueno, es parte de.
+Es parte de.
+Qué bueno que nos platiques un poquito más de.
+Del detalle de eso porque sí se me hizo una locura, o sea yo, oye, poquito.
+Hubo todo un tema, ustedes lo mencionaron por ahí en los ordinales, no sé si quieras comentarlo.
+Me gustó mucho la postura y la neta sí creo que hace falta reconocer a la banda que está súper activa.
+¿Les doy un poquito de background ahí con eso de las listas, el año, todos los años no saca la gente sus listados y que los constructores, pero bueno, siempre hay sesgos ahí en ese sentido, no sé, no sé si está medio, medio raro la manera que a veces los manejan Y a dónde vas?
+
+[Speaker 2 - 00:22:28]
+No, no, a ver, creo que hay compromisos comerciales todo el tiempo.
+Es bastante ingenuo pensar que esas listas son 100 % neutrales o imparciales.
+Nosotros como participantes del ecosistema tendremos que tener más bien el objetivo de empujar porque existan más listas y más rankings y más competencia, pero pues tratar de hacer que una sola entidad tenga la verdad de lo que está pasando en la región es difícil, o sea, quizás Binance va a sacar su propia lista, Bitso sacará su propia lista, la gente que está liderando comunidades va a sacar banda web va a sacar su propia lista, pero esto pues a ver, hay gente que lo ve desde el lado comercial y ahí hay compromisos, hay gente que lo ve más del lado de periodismo, que hay un poquito más de investigación, y ahí cuando se combinan las dos cosas, pues es difícil.
+No, o sea, ¿Quién dijo qué, con qué tipo de argumentos?
+Pero vaya, vaya, vaya, no vamos a entrar en controversia.
+Mejor te cuento de.
+
+[Speaker 1 - 00:23:42]
+Sati.
+Sí, sí.
+
+[Speaker 0 - 00:23:45]
+Sí.
+Ya no desviamos mucho.
+Cuéntame, cuéntame.
+Continúo.
+
+[Speaker 2 - 00:23:48]
+Porfa.
+Bueno, el conector de eso que les conté de esta empresa con millones de usuarios a web se llama Covid.
+Entonces evoluciona mucho esa empresa evolucionó mucho.
+Fui afortunadamente de los primeros latinos que pudo levantar diferentes millones de dólares en Silicon Valley.
+La historia cliché completa, El latino que viene de.
+Familia humilde, que terminó estudiando, que ganó esta beca, lo mandó para este lado y bueno, llegó y le dieron inversión, así de cliché completo.
+Ahí fue donde empezamos a ver que había cosas diferentes, que el ecosistema en Silicon Valley no respeta esto que en Latinoamérica le damos tanta importancia, justo los rankings, los cuadros de honor, ser el primer lugar en la escuela, o sea, todo esto es muy cultural, algo que sucede en Latinoamérica otra vez.
+Y cuando llegas a empezar a competir en Silicon Valley, te das cuenta que todos eran del cuadro de honor, que todos fueron el número uno, que todos empezaron a programar a los siete, ocho años, y entonces pues eres parte de un círculo de gente que creció así, y entonces pues eso que te dijo tu mamá de que es que eres especial, porque quizás en tu pueblo o si eras el líder acá es como no, no, no, estás compitiendo con el chino, que también dijeron que era especial, con el indio que también dijeron que era especial.
+Y estos dos brothers tienen muchísima más hambre que tú, y con hambre me refiero a vengo a romperle, en México lo decimos, ¿No?
+Vengo a romper la madre a todos, a todos, o sea, voy por todos.
+Se levantan más temprano, comen mejor, se meten nootropics, estas drogas inteligentes para mantener el foco más que tú, o sea, vienen con enhancements, vienen mejorados y eso son tu competencia.
+Ahí aprendí un montón de cosas en Silicon Valley llega pandemia, obviamente esa empresa iba así como cohete.
+Pandemia mata un montón de cosas, otro día les cuento cómo moría esa empresa, Pero pandemia se vuelve mi fase de regreso a los orígenes, porque cuando vas evolucionando como founder o como emprendedor, haces menos y menos las cosas que te llevaron ahí o que te gustan.
+Ya no programaba, ya no hacía producto, ya no me metía a los challenge.
+Se convertía en más contratos, checar.
+Bueno, anda por acá, Lu.
+Salud, Salu.
+Pero yo odio los contratos.
+Quizás lo no, pero yo sí.
+Y es más tiempo de meterte a cosas legales y estar haciendo entrevistas de gente.
+Entonces te vuelves recursos humanos.
+Hay muchos cambios, Covid me hace como un reseteo.
+Entonces todo se fue al cacahuate, ya se fue a la mierda todo, Reinvent nuevamente, Web cambia mi vida y pasan un montón de cosas en medio.
+Criptolucha, una colección de luchadores pixeleados, Nifter, diferentes experimentos en Bitcoin.
+Termina Sati siendo como un conjunto de todo lo que venía siendo entre entender comunidades masivas.
+Cosas descentralizadas, la creación de comunidades web y movimiento de dinero o de generación de valor.
+Entonces así empieza la historia de cómo se junta todo con Sati.
+Y fíjate, esta parte la tengo que decir públicamente.
+Échale.
+
+[Speaker 0 - 00:27:56]
+Échalo.
+No, no te quiero.
+
+[Speaker 2 - 00:28:00]
+Interrumpir.
+No, no, no.
+Esta parte estuvo chido porque cuando todo estaba como dando vueltas y ah, OK, esto jala separado de esto y esto separado de esto, pero como que se están juntando.
+Hubo un episodio, no sé si fue un episodio o fue un tweet y esto quizás no lo sabe él, pero Notas, Notas aquí, pásenle el clip a notas.
+Notas publica algo así como ah, en África hay unos amigos que están mandando y recibiendo Bitcoin con SMS.
+Entonces ya los había escuchado pero no sabía quiénes eran y ya tenía una idea de cómo solucionar la parte de pagos.
+Lo quería hacer como con una app, pero luego tiran este tweet o no me acuerdo si es episodio.
+Empiezo a investigar un montón de las cosas que están pasando en África con Empesa, que es dinero móvil amarrado a tu número celular y veo machancura, ¿No?
+Esto que te deja enviar Bitcoin por ese mes.
+Y dije, es eso, es eso lo que estaba pensando de pagos.
+Pero que junta las piezas nada más que en Latinoamérica utilizamos WhatsApp ahí, o sea, así vamos a solucionar.
+Porque venía del tema de, ah, bueno, venmo y la gente tiene apps en Estados Unidos o WeChat Pay.
+WePay, pero pues no tenemos WeChat acá.
+Pero entonces WhatsApp está lejos porque no tiene wallet, todavía no lanzaba con fuerza telegram Wallet.
+Y nace Sati.
+Y nace Sati.
+Hace ya año y medio.
+En una ponencia de la Bitcoin en Argentina cerramos el círculo y lo propongo como solución a pagos entre personas en mercados emergentes.
+Todo el mundo fue así de no, pues sí, claro, hace sentido.
+¿Pues sí, pero le hace sentido a que jale?
+Tardamos un año en construir todo lo demás, pero ha sido una experiencia increíble trabajar con diferentes comunidades, diferentes profesionales, la verdad es que ha sido bastante grato y ahora estamos entrando a la fase, a la fase seria ya como tú dices, con inversión, con partners de grandes ligas, con un montón de sorpresas que vienen para los próximos meses, pero contentos.
+Si me hubieran dicho que íbamos a estar aquí el año pasado no hubiera llorado tanto.
+Cada mes este meme de un día en la vida de un emprendedor y estás en la esquina llorando.
+Es tan real esa madre.
+El meme de Elian.
+Sí, sí, sí.
+Es complicado la construcción, pero una vez que pasas el túnel empieza a salir diferentes lucecitas.
+Entonces ha sido muy, muy divertido.
+Se me cayó la mitad del cabello, me salieron el triple de canas.
+Pero ahí vamos, ahí.
+
+[Speaker 0 - 00:31:06]
+Vamos.
+Oye Felipe, platicaste así muy superficial de dos proyectos previos, Nifter y Los Luchas.
+¿Cómo te ayudaron esa experiencia, esas dinámicas, ese emprendimiento?
+¿No sé si llamarle emprendimiento o no, pero esos lanzamientos y esos proyectos para lo que están haciendo.
+
+[Speaker 2 - 00:31:23]
+Ahorita?
+Pues no sé si ahí nos conocimos, Cierto, o sea, fue el inicio.
+De la amistad que fue empezar a crear comunidades web.
+Creo que sin esos dos proyectos esto no sería real.
+Específicamente.
+Tengo mucha apreciación, agradecimiento eterno y sobre todo.
+O sea, sí es algo que me levanto casi todos los días a hacer mi sesión de gratitud.
+La gente con la que me topé en el tema de criptolucha.
+Criptolucha para los que no saben es un proyecto hoy liderado por Rods y Peco, casi casi que fue un community takeover después de ver Market, fue difícil, pero recién lo lanzamos un proyecto en Solana, era la típica colección de NFTs.
+Primer proyecto en web, estaba calientísimo el tema NFTs y logramos hacer que 4200 assets se vendieran, pero un montón de cosas pasaron en medio, ¿No?
+La expectativa de lo lanzas y se vende todo.
+No hombre, tardamos meses en que esas cosas se movieran.
+A veces hasta los regalábamos porque oye, si compras uno, te damos dos, si compras tres te damos así, hacemos promociones.
+Se intentó de todo para crecer esa comunidad.
+Se llegó al objetivo, se lanzó con el dinero recaudado.
+Lanzamos la primera.
+El primer sistema de staking donde ponías a tu luchador, a tu luchita a stackear.
+Nosotros le decíamos entrenamiento, lo pones a entrenar y pues por cada día que pasara entrenando te entregaba tacos y los tacos fue una idea que tenía muchísimo, una visión muy, muy grande.
+Queremos hacer muchas cosas con esos tacos.
+Nunca fue una moneda de especulación, lo hicimos más del lado como de utilidad.
+Y pues también ahí aprendimos muchísimo.
+¿Qué se necesita para provisión de liquidez?
+¿Cómo es que los diferentes jugadores del ecosistema holders se vuelven inversionistas y al mismo tiempo Community members?
+Pues hay un montón, un montón de cosas.
+El de no prometas, no digas nada.
+Si eres uno de los creadores de un producto web o colecciones, no digas nada que no esté al alcance del roadmap o que esté encima de los seis meses de creación.
+¿Por qué?
+Porque una vez que lo dices se vuelve una promesa.
+Oye, pero ni siquiera lo tenemos documentado, no es un contrato, nada.
+Una vez que lo dices es promesa y tus holders van a esperar que lo entregues.
+Entonces sí, sí, sí, me enseñó muchísimas cosas.
+Después con esa educación logramos lanzar Nifter, que fue una plataforma para lanzar este tipo de proyectos, más enfocada hacia marcas y comunidades ya seteadas.
+Y ahí lanzamos 80 proyectos o ayudamos a 80 entidades diferentes.
+Más de medio millón de NFTs creados y vaya sí eso fue como Agarramos toda la curva completita.
+Lo que salía, se vendía, a nuestros partners les iba muy bien, tuvimos nuestros primeros rocks, gente que trabajó con nosotros que terminó no entregando su promesa rápidamente.
+No voy a mencionar NFT Monterrey porque aquí lloramos todos, pero pues también nos escamearon.
+También nos tocó ahí con ellos muchas, muchas otras iniciativas.
+Si, no quiero decir nombres porque los únicos que me acuerdo de bote pronto son casi todos los latinos que terminaron haciendo un slow rock o esta promesa que nomás nos entregó.
+A la larga es bien difícil.
+La verdad es que hacer colecciones y sobrevivir más de dos años es casi imposible, pero algunos lo hicieron y de hecho fue algo que me dio muchísimo aprendizaje a mí y al equipo, que después obviamente lo estamos utilizando para evadir todos esos problemas en SATI, pero aún así seguimos haciendo un error tras error.
+Expertos en regarla decimos por.
+
+[Speaker 0 - 00:36:15]
+Acá.
+Es que es la única manera de aprender, cagándola, o sea, si no actúas, si no ejecutas, si no creas, si no experimentas, cómo aprendes, cómo sabes qué funciona, cómo no funciona y más en una industria que apenas tiene 12, 13 años, que está creciendo, 15, no sé, ya vamos por 15.
+Definitivamente, creo que sí, definitivo, fuck around, find out, no hay de otra, no hay de otra.
+Por aquí veo muchos creadores de proyectos y líderes de comunidades, iniciativas que traen y creo que la gran mayoría pueden compartir ese mismo sentimiento y qué chido, qué chido que se aventaron a hacer cosas, que experimentaron, que aprendieron y que ahorita ya están aprovechando todo ese conocimiento para lanzar SATI y seguir construyendo, porque ya no están como tú decías, en las ligas menores, ya están en otro nivel, ya tienen una inversión, ya tienen un requerimiento de inversionistas, como tú decías.
+De mucho poder y que los pueden conectar y que los pueden ayudar a crecer.
+Me imagino que el modelo de negocio ha cambiado, me imagino que la oferta de valor ha cambiado, me imagino que han agregado productos, como ya lo decíamos, empezaron con Bitcoin, ya están los stablecoins, ya tienen varias redes.
+¿Cómo ha sido y qué sigue?
+Platícame un poquito de ese proceso, de cuándo te sentiste tú ya que subieron a otro nivel, no sé si fue esta aceleradora o alguna otra anterior, ¿Cómo lo ves.
+
+[Speaker 2 - 00:37:44]
+Tú?
+Fíjate que esa parte es súper curiosa porque.
+El nivel nunca sube realmente lo determinas tú con la ejecución que trae el equipo y con equipo te hablo de cuatro o cinco personas, o sea, tampoco es que seamos gigantescos.
+Incluso hacemos bromas acerca de esto de que.
+Dos, tres personas pueden mover el destino de todo lo que estamos haciendo sin problema, y ese nivel lo determinas tú solo, o sea.
+Es una combinación bien rara porque.
+Puedes ejecutar como si fueras hippie de Tulum.
+Sin afán de ofender a ningún hippie en Tulum.
+O puedes ejecutar como si fueras corredor de bolsa experto en Nueva York, a tope con Adderall en la sangre con tres Red Bull, y tratar de sacar todo en tiempo récord, o sea, puede ser el.
+
+[Speaker 0 - 00:38:53]
+Chingo de.
+
+[Speaker 2 - 00:38:54]
+Cocaína.
+O sea, puedes meterte lo que traigas, lo que quieras de enhancers o simplemente trabajar, seguir todos los consejos del, del libro de Tim Ferriss del 8 hours world week de trabajar 8 horas a la semana y lo determinas tú, o sea, lo haces tú.
+Eso repercute directamente en la cantidad de tiros que tienes, no repercute en la cantidad de éxito que tienes, repercute en la cantidad de balitas que traes.
+Entonces entre más balas tengas, más tiros puedes echar, más cosas puedes fallar.
+No es acerca como de ir más rápido, sino algo que aprendí en San Francisco es que una mi primer mentora de empresas de tecnología.
+Saludos, cambié mi vida, se llama Beatriz Infante, si quieren echarle búsqueda, ella.
+Fue Chief Operating Officer o Jefe Supremo de Operaciones de Oracle y llegar a esos puestos en los 80s, 90s, siendo una mujer latina, habla pues de la cantidad de esfuerzo profesional que tenían que hacer para poder estar encima de todos los demás y esa parte sí cambió mi vida, o sea, que tengas acceso a un mentor sí acelera tu carrera profesional, lo recomiendo ampliamente.
+Oye, pero quisiera que me mentoreara Michael Saylor.
+¿Pues quizás sí, no?
+Quizás se puede, pero pues empieza con otro porque es muy probable que todavía no traigas el nivel para esa frase, una única frase que te va a decir Michael Saylor que no vas a poder ejecutar.
+Y uno como mentor, ya una vez con un poquito de experiencia y trata de mentear gente, no tienes tiempo para explicarle todo lo que va a pasar, entonces tienes que tratar de crear un escenario donde estás apostando positivamente a que la va a hacer y que esa frase que le estás dando es la que va a ser el tipping point donde se va a hacer la bifurcación de decisiones para tu mentorí para quien estás mentoreando y es tienes que hacer esto o le tiras la frase no es esta.
+Y si no tiene suficiente IQ para procesar lo que le acabas de decir, pues nada, está de tu lado que trataste de pasarle esa experiencia.
+Si tiene suficiente IQ, la va a tratar de escarbar y es muy probable que lo va a entender ahí o que no lo va a entender, que es lo que me pasaba mucho a mí, que es como si entiendo lo que me estás diciendo, pero no exactamente qué tan profundo, me estás dando este conocimiento y hay algunas cosas que.

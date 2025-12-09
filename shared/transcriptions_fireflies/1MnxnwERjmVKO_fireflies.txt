@@ -1,0 +1,839 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #N/A
+Título: BandaWeb3 #066 @LaDAO_Club y @FruteroClub
+Fecha: 2025-06-19
+Host: @meximalist
+Tipo: hosted
+
+Descripción:
+BandaWeb3 #066 @LaDAO_Club y @fruteroclub. Ya empezó el hackathon con @mxnb_token, @arbitrum y @Bitso. Hay 23 ideas en la plataforma, las analizaremos a detalle.
+
+Duración: 01:24:58
+Escuchas: 86
+
+Links:
+  Space: https://x.com/i/spaces/1MnxnwERjmVKO
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+[Speaker 0 - 00:00:00]
+Buenas tardes, buenos días, buenas noches, dependiendo de dónde se estén conectando a esta grabación.
+El día de hoy vamos a tener a Mel y a Sergio Robar.
+Vamos a estar platicando con ellos.
+Ellos son parte de la DAO y de Frutero Club.
+Y el espacio de hoy está dedicado al hackatón de mxmb, el stablecoin del peso mexicano que está lanzando Bitso en árbitro.
+Nos van a platicar de.
+Vamos a platicar de ideas sobre.
+Sobre qué hackear.
+Vamos a analizar los proyectos que ya están por ahí para rotearlos.
+Vamos a ponernos mamones con los proyectos, a ver cómo se pone la discusión.
+La idea es que suban todos los que quieran participar en el hacketón, o que estén pensando o que escuchen también esta grabación y aprovechen.
+Voy a subir aquí a Sergio, que ya llegó.
+Ahorita que llegue Mel también lo subimos.
+Por lo pronto voy a arrancar con Minds of This, la canción que normalmente pongo para invitar a la banda, darle a la gente que se conecte, que nos ayuden ahí con comentarios, likes y repos.
+Todo suma.
+Todo suma.
+Empezamos en breve.
+Les dejo la canción mientras subo a los invitados y terminan invitando.
+Muchas gracias a toda la banda que se viene conectando.
+Ya está por acá arriba los invitados.
+Empezamos en un par de minutitos.
+Fue un minuto lo que se acaba la canción.
+Ya subimos a todos.
+Si me ayudan con un comentario, con un like y con un repost, suma mucho para que el sostén escuche la banda.
+La idea es subir a todos los que vayan a hackear, todos los que tengan ya un proyecto, los que tengan todavía dudas si quieren o no hackear, sobre cómo van a hackear, súbanse, vénganse, platiquen, empecemos en un minuto.
+Si nos ayudan con like, repost y comentario, ayuda mucho para ayudar más banda.
+Todo suma.
+De nuevo, gracias a los que van llegando.
+Veo para el julio, Carlos Melgar, bienvenido.
+Hay que luego te escribo para tenerte por acá.
+Irobs, bienvenido.
+Sé que van a hackear algún lado.
+
+[Speaker 1 - 00:04:50]
+Está.
+
+[Speaker 0 - 00:05:44]
+Eso fue Mindset hecho con inteligencia artificial, el primer sencillo de Banda Web.
+Muchas gracias por estar por aquí de nuevo.
+Ya tenemos acá arriba nuestros invitados.
+Tenemos a Sergio, tenemos a Mel.
+Vamos a platicar un poquito de ellos, un poquito de la DAO de Frutero.
+Y vamos a entrar al tema.
+Estamos hablando ahorita del hackatón.
+La verdad es uno de los hackatones que más estaba esperando.
+Ya arrancó, ya se pueden inscribir, vamos a estar piniando por aquí arriba los links para que puedan participar.
+Es con Bitso, es utilizando mxnb.
+Ahorita hemos escuchado todo un relajo y todo un tema y la verdad creo yo, avance muy muy fuerte en tema regulatorio, avance muy muy fuerte en que ya escuchamos de empresas enormes que están pensando utilizar esta tecnología y sacar su stablecoin para mejorar sus servicios, para ahorrarse millones y probablemente miles de millones.
+Ya veremos qué sucede.
+Pero en México hay varias alternativas, una de ellas es esta nueva que está lanzando Bitso con MXNV, pero no es la única.
+Está también por ahí MX de Etherfuse que ya está funcionando en Bayes y que entiendo que quiere migrar a otras redes.
+Está también por supuesto el stablecoin algorítmico de la DAO, que en un momento platicamos de eso con Shock, que también la idea es ver cómo integramos todo lo que ya existe, todas estas piezas del rompecabezas defi mexicano y cómo en realidad las activamos para que la gente las use, aproveche los beneficios, pueda meter su dinero a generar intereses, a prestarlo o a pedir prestado dejando colateral a cambio.
+Hay un chingo de maneras de que esta tecnología se pueda utilizar que creo yo que no se está usando, que no hemos llegado en realidad a los millones y millones de personas que esto puede beneficiar.
+Y a lo mejor es un tema de interfaz de usuario, a lo mejor es un tema de.
+No sé, hay muchas cosas que pueden y se deben mejorar para que esto llegue a muchos millones de personas.
+Pero para eso son estos hackatones, ¿No?
+Ya hablé mucho, vamos con Mel.
+Qué onda Mel, Bienvenido.
+Muchas gracias por estar por aquí a la invitación.
+¿Has visto el tema del hackatón?
+Y que díganos un poquito de que has pesado y sí, échale.
+Gracias.
+
+[Speaker 2 - 00:07:51]
+Gracias Maxi.
+Oye, quiero primero empezar.
+Qué buena está esa rola, qué cool que la IA pueda hacer este tipo de.
+
+[Speaker 0 - 00:08:01]
+De cosas.
+
+[Speaker 2 - 00:08:02]
+No había escuchado como rock o hard metal y hard rock más bien.
+Y la neta me gustó mucho así los solillos que se aventaba, entonces quería abrir con eso, fue una agradable sorpresa.
+¿Entonces cuando lances el primer sencillo ahí me avisas para comprarlo, no?
+
+[Speaker 0 - 00:08:20]
+Gracias, gracias.
+Sí, es inspirada en una canción de rock progresivo de Liquid Tension Experiment.
+Se los recomiendo.
+El disco está buenísimo.
+
+[Speaker 2 - 00:08:27]
+Liquid Tension Experiment.
+Tenía un buen rato que no escuchaba esa banda.
+Buenísima.
+Échenle un ojo.
+Sí, Bueno, primero me presento rápido.
+Soy Mel, uno de los co founders de Frutero Club.
+Y realmente ahorita muy emocionado con lo que está pasando en el ecosistema en cadena de México específicamente.
+Digo, en general de todo, pero ahorita hablando específicamente de México, porque pues están, como dices, saliendo muchas y muchas proyectos, mucha infraestructura.
+Y bueno, una corrección que voy a hacer también de la moneda estable de la DAO, que es Shock Xocholatl, no es algorítmica, es colateralizada.
+Es una distinción.
+
+[Speaker 0 - 00:09:15]
+Dije algorítmica, pendejo.
+No, sorry, sorry, chiquita.
+
+[Speaker 2 - 00:09:20]
+Pero importante en el contexto, porque sí, sí, las algorítmicas son.
+Experimentales todavía.
+Muy experimentales.
+Digo, si todo esto es experimental, las algorítmicas no se diga, no quiero tocar más temas porque se asusta la gente.
+
+[Speaker 0 - 00:09:36]
+Si no, no recordamos Luna Terra.
+Y si no saben, investiguenlo.
+Sí, creo que es un buen punto que revisar.
+
+[Speaker 2 - 00:09:43]
+Es una buena.
+Es una buena cosa para la gente que está empezando, investigar un poco más de stablecoins.
+La verdad es que.
+Un documento que Bitso lanzó cuando estaban justamente anunciando MXNV.
+Es muy buena guía como para arrancar.
+Entonces no sé, no la tengo a la mano, a ver si alguien quiere rifar y compartirla.
+Pero sí, muy emocionado por el hackathon.
+Yo ya me inscribí, me registré desde hace un par de semanas y ahí estaba preguntando, bandita, hay mucha emoción.
+Y bueno, pues lo más emocionante de este ecosistema, personalmente, parte de las razones por las cuales para mí es un llamado de vida en construir en cadena es la composability.
+No sé cómo se dice en español, me disculpan.
+El chiste es que podemos armar con bloques de Lego.
+Diferentes cosas, entonces no tienes que construir, te puedes parar sobre los hombros de gigantes, en pocas palabras.
+Y si tú construyes algo, lo puedes integrar fácilmente.
+Entonces, para mí este hackathon es la oportunidad perfecta para introducirse al mundo de cripto, porque.
+Los tracks que hay son casos de uso, son realmente cosas que ya están más cercanas a nosotros y que se facilitan gracias a las monedas estables del peso mexicano específicamente.
+Entonces, esa es mi intro, Mexi, igual le paso la palabra, te la regreso y ahí para que nos diga si va Sergio, cómo sigue.
+
+[Speaker 0 - 00:11:16]
+No, no, la neta estoy totalmente de acuerdo y antes o hasta el día de hoy creo que no había habido un momento tan tan.
+Tan fácil o no, bueno, no diría fácil porque tiene su complejidad, pero sí con todas esas piezas de Lego que ya te incluyen casi toda la parte de la experiencia del usuario, desde el peso mexicano con SPE, hasta ya meterlo en algún protocolo DeFi, por ejemplo, ya hay muchos Legos que te dicen, oye, te doy tu SPEI y tú le puedes dar SPEI a todos tus clientes y si lo mandan a esta dirección ya se convierte en cripto automático.
+Ah cabrón, todo eso no existía hasta hace muy poco y ya poderlo integrar y poder aprovechar todo lo que hemos venido construyendo en cuanto a marca personal, en cuanto a proyectos, en cuanto a sistemas y ya utilizar estas piezas de Lego para armar algo que le agregue valor a la gente y que puedas monetizar madres, o sea, es como tú dices, el momento perfecto.
+Pero vamos con Sergio.
+Sergio, bienvenido, muchas gracias por estar por acá.
+
+[Speaker 2 - 00:12:14]
+¿Cómo anda?
+
+[Speaker 0 - 00:12:16]
+¿Qué onda?
+
+[Speaker 3 - 00:12:17]
+¿Qué onda?
+Buenas tardes.
+Pues muchas gracias por la invitación, Mexi, primero que nada y pues con mucho gusto, aquí estamos, yo tengo algo de años, algunos años trabajando en el sector bancario, de hecho es a lo que me dedico, entonces pues muy interesado en seguir aprendiendo aquí los colegas criptos, tema sobre todo defi, creo que con la nueva llegada de esta adopción que se está dando de las estables del peso mexicano, sin duda vamos a poder ayudar, sobre todo muchos negocios, pequeñas empresas que por ahí no tienen acceso a ciertos servicios, creo que es lo interesante, el tema de préstamos es lo que a mí me gusta mucho, yo me dedico mucho al tema de préstamos para empresas dentro de la banca, entonces aquí estamos, creo que es una excelente oportunidad que está dando Bitso por medio del hackatón de mxnb, entonces para ver qué ideas trae la gente y pues aportar un poquito del lado financiero, que es lo que yo me dedico, pero desde la banca tradicional.
+Y pues qué gusto y como bien dice el buen mail, excelente rola que tuviste.
+
+[Speaker 0 - 00:13:18]
+No, no, el disco completo va a estar bueno, ya van a ver.
+Ese es nada más el primer sencillo, yo creo que lo voy a dejar instrumental, pero bueno, sí no, qué chingón poder tener por acá, que estés interesado también y que estés metido en este tema de las DAOs.
+Eso es algo que yo en lo personal he experimentado mucho, explorado mucho, he tratado de participar en muchas, sé que hay mucho por hacer todavía, pero de ahí se han salido cosas muy interesantes como Shock y es una parte, creo yo muy importante o puede llegar a ser una parte muy importante en todo este ecosistema DeFi mexicano donde tenemos herramientas centralizadas con ciertos beneficios como el USDC, USDT, etcétera.
+Estamos viendo cómo ya está empezando a implementar allá, como ya está hablando Walmart y Amazon de hacer cosas con esto, por ahí leí también JP Morgan que está avisando que va a usar base para su stablecoin, para sus clientes institucionales, o sea, toda esa narrativa es parte de lo que podemos nosotros aprovechar para platicar con la gente, platicar con los negocios.
+Y que implementen finalmente estas herramientas que vamos a empezar a ver desarrollar en estos hackatones.
+Qué chido que ya se puede usar también el peso mexicano para muchas cosas, muchas cosas, todavía le tienen miedo usar dólares, puede que sea más sencillo usar pesos aquí localmente y puede que sea más fácil para que la banda entre y utilice estas herramientas.
+Yo creo que sí, definitivamente creo que hay ya muchas herramientas como decía, que te van a permitir pasar a pesos de inmediato, cobrar en cualquier cripto y que te llegue en tu cuenta bancaria y tú ya lo manejes como tú quieras, eso ya se puede hacer hoy, pero bueno, hay que desarrollarlo y hay que probar y hay que hacer la campaña de marketing y de nuevo el hackathon, creo que es oportunidad perfecta para muchos que están empezando, quieren desarrollar algo, ibas a decirle interrúmpenme cuando quiera yo me pongo a hablar.
+
+[Speaker 3 - 00:15:11]
+Perfecto, y sobre todo que Mexan B.
+¿A lo que tengo entendido que sí va a ser una manera muy fácil de hacer on y off ramp, entonces pasar convertir pesos a digitales y viceversa, pues va a ser muy sencillo, no?
+Todavía en el nadado por medio de Shock, ya tenemos el on ram, pero estamos ahí todavía trabajando en el tema de cómo pasarlo pesos, si bien no es sencillo, entendemos que los negocios es importante que puedan acceder a los pesos fiat, entonces también por ahí creo que es algo bien importante lo que se está haciendo por medio de mxnb y que sin duda va a lograr una adopción muy interesante.
+
+[Speaker 0 - 00:15:49]
+Empecemos a hablar de ideas.
+Ahorita les piné aquí arriba el link para que se puedan inscribir en el hackatón en el Jumbotron.
+Tienen el primer pin, tweet o post pineado es el link para la descripción.
+El segundo es una plática que tuvieron Liz y Karen de Tiro México con la bandita de Bitso que está organizando el hackatón.
+Échenselo también si están hackeando o quieren hackear, ahí hay ideas, ahí hay muchas conversaciones que pueden servir mucho para darse una idea de qué hacer.
+Y en el tercer link vienen las ideas que vamos a revisar ahorita, la documentación técnica y las preguntas frecuentes.
+En el último link pineado más de 40 mil pesos en premios.
+Pero bueno, cómo ves, Mel, yo por ahí puse una idea.
+Les platico rápido de mi idea.
+Vamos a rostearla, Ayúdenme a rostear mi idea.
+Creo que estoy alucinando, no sé.
+Pero el que quiera también subir a platicarnos su idea o tenga alguna duda, ya pueden empezar a pedir la palabra sin problema.
+Empezamos aquí el cotorreo.
+Pero yo les platico rápido mi idea.
+Yo estoy viendo ahorita mucho una plataforma que se llama thirdweb.
+De estas piezas de Lego que podemos utilizar, yo empecé a experimentar una que otra fairweb me ha gustado cómo sirve.
+Estoy pagando una mensualidad de 10 dólares al mes y me da ciertas actividades, cierto número de acciones on chain, etcétera.
+Puedo pagarle el gas a la gente.
+Entonces yo lo que pensaba hacer es una plataforma donde ellos con un correo puedan crear su cuenta, que si la gente les paga en algún stablecoin, en este caso vamos a usar MX en Arbitrum, yo les voy a pagar el gas de todas las transacciones que hagan con ese token.
+Y la idea es empezar a ver si podemos empezar a utilizarlo de esa manera, donde ellos no van a pagar nada, lo pueden mandar luego una cuenta que automáticamente se le va a pasar a pesos y cuando ellos reciban el dinero y lo quieren enviar, no van a pagar absolutamente nada.
+Nunca tienen que meter éter, etcétera, siempre va a ser patrocinado.
+Y luego la idea es ver cómo se integra eso con un botoncito para meter Oye, ¿Sabes qué?
+¿Quieres una cuentita de ahorro?
+Bueno, aparte de tener el gas gratis, puedes meterlo en un botón y ahí te va a meter un ahorro de no sé, un 10% no sé, probando y así.
+Una idea que yo tenía como lo he estado manejando.
+¿Rosten la qué opinan?
+¿Qué le falta, qué le cuesta, qué le duele?
+
+[Speaker 2 - 00:18:12]
+Bueno, para empezar así como pichada es.
+Me perdiste, llegó un punto que me perdiste, o sea, no tanto.
+Del contenido y que no sirva, sino que no te entendiera, sino tiene que ser más digerible, o sea, usaste muchos términos.
+Que son muy, muy, digo, estamos hablando de pitches, ¿No?
+¿Que son muy técnicos o son muy de nicho de cripto, entonces para mí sería como, a ver, házmelo más fácil que me lo entienda mi mamá, entonces te la reboto y para que?
+Para ver cuál sería.
+
+[Speaker 0 - 00:18:52]
+No, no, buen punto, buen punto.
+Si, no Estoy de acuerdo, ¿Qué recomiendas?
+¿Por ejemplo?
+Ya hay varios proyectos que están arriba, yo ya subí el mío, el mío dice yo lo estoy pichando, ¿Cómo lo picha aquí en inglés?
+Ah, no, pero nada más no le puse nada, solo le puse un.
+Título, dice Gasless Point of Sale, dice mi idea, no tiene más detalles, pero voy a mejorarla, voy a mejorarla.
+
+[Speaker 2 - 00:19:18]
+Buena retro, soy franco, no encuentro el link y como estoy en la compu.
+
+[Speaker 0 - 00:19:25]
+Este, no, no puede poner aquí abajo en comentarios, Tornado, déjenme les pongo acá comentario en el space para que si quieren ir a la página pueden ver las ideas que ya hay ahí.
+Esta era la mía, déjenme.
+
+[Speaker 2 - 00:19:42]
+OK, ya entré.
+OK, teams, vale, si, este, bueno, creo que para empezar quizás podamos comentar sobre los tracks, hay tres tracks, uno es el de pagos, el segundo es el de defi y el tercero es Openbuild on Arbitrum.
+Mi página está en inglés al parecer, entonces yo creo que es categoría abierta mientras construyes en Arbitrum.
+Entonces yo entiendo por pagos, pues la idea que tú mencionaste, simplemente el poder facilitar pagos entre personas, Entre personas y comercios, Entre comercios y comercios, que puedas aceptar diferentes monedas, que puedas aceptar cripto, simplemente settlement payments.
+En Settlement DeFi ya es más, ¿Qué haces una vez que las personas suben.
+Con una rampa con MXNB y ahí, perdón por estos MXNBT acrónimos, pero esa es la moneda estable del peso mexicano de Bitso?
+El punto es, te subes a cripto.
+Cuando decimos las rampas, ¿Qué significa?
+Normalmente estamos, nosotros vivimos en el status quo actual, que es utilizar fiat, los pesos que manejamos, los dólares si estás en Estados Unidos, euro en la Unión Europea, real en Brasil, etc.
+Y cuando queremos entrar a cripto necesitamos una un canal que nos permita utilizar nuestros pesos para convertirlo a criptomonedas.
+Eso es una rampa.
+Es una rampa, ese es el on ramp, te enrampas, subes y las rampas también cuando bajas es el off ramp, es lo mismo, no tienes cripto, puede ser pesos como mxnb o Shock y puede ser cripto normal, Ether, Bitcoin, yo que sé.
+Y conversa Bitso.
+Crypto por medio de Bitso, por ejemplo, es una rampa, un exchange es una rampa.
+En este caso este exchange de Bitso es rampa y aparte exchange.
+Entonces en DeFi lo que necesitas es que suba.
+Ya que esté la gente arriba con cripto, ¿Qué haces con esas criptos que les permite hacer finanzas, finanzas personales, que puede ser desde ahorro, puede ser préstamos, créditos, yo que sé?
+Yo personalmente no soy muy bueno en defi y es parte de lo que quiero experimentar en este hackathon, es una de las razones por las que existen los hackathons.
+Entonces DeFi pues será en Arbitrum probablemente y ahorita voy a tocar algunos detalles, pero lo padre de crypto es que puedes moverte donde quieras ya que estás arriba.
+Y el último Open Build on Arbitrum es categoría abierta mientras construyes en Árbitrum.
+Yo aquí tengo una idea, seguramente vamos a ver porque mi idea va para allá.
+Es una idea, no, si la voy a construir, pero no me sorprendería en lo absoluto ver agentes que estén haciendo educación en DeFi, educación en pagos, educación en cripto, plataformas para ganar dinero de recompensas, todo lo que no sea pagos o defi, pues para cae ahí ya si los van a aceptar o no como ganadores pues es cosa de los jueces.
+Esos son los tres tracks y entonces el tuyo va directo a pagos.
+Mexi Un punto de venta es con lo que entendí, entonces yo diría es un punto de venta que te permite aceptar pesos y.
+Yo diría, y es una idea parecida a la que yo voy a construir, yo le llamé feria.
+Entonces te voy a dar mi ejemplo.
+Xperia es la plataforma para crear tu cuenta para recibir pagos digitales en cualquier moneda en tres minutos.
+Ese es mi pitch, digo, está muy así medio nuevo igual, pero es simplemente un punto de venta en el cual tú le mandas depósitos, tú pagas y puedes sacar al final del día tu dinero.
+No es liquidez inmediata, pero sí al final del día.
+Entonces ya voy a pasar.
+Mi idea es si quieren quemarla y si no, igual nos podemos mover.
+Ya abrí aquí los equipos, entonces para poder empezar a.
+
+[Speaker 0 - 00:24:10]
+No, es que es buen punto.
+Yo me brinqué esa parte de los tracks y sí, gracias por platicarlo.
+Les platico también los premios en estos dos tracks, como decía mel, Payments y DeFi, no pagos DeFi.
+El primer.
+El premio número uno, perdón.
+Bueno, hay cuatro premios en estos dos tracks.
+Estos dos tracks tienen cuatro premios.
+El cuarto premio se lleva mil dólares de créditos en Pizzo Business.
+El tercer lugar se va $3.000, el segundo lugar se va $5.000 y el primer lugar se lleva $7.000.
+Y acceso a la Stablecoin Conference, que va a ser en octubre, no, en 28 y 29 de agosto, si mal no recuerdo, por ahí estaba leyendo.
+Incluye vuelo, incluye estancia, incluye entrada para el equipo para la Stablecoin Conference, que se ve que va a estar muy buena.
+Entonces, aparte de los siete mil pesos, échenle otros que dos mil viáticos de dos, tres personas.
+Está interesante esos dos tracks, el de Payments y el de defi, y el de Open Build de Arbitrum, que entiendo y por lo que me han dicho, pueden construir lo que se les antoje en árbitro.
+Y ahí la fundación, me imagino, o la DAO, no sé quién va a decidir, pero los jueces decidirán quién gana de acuerdo a como ellos decidan.
+Y normalmente aquí es lo que a ellos les guste.
+Entonces, pues pueden construir lo que quieran.
+Pueden ser gaming, puede ser social, puede ser infofi, ahora que está muy de moda, agentes, como decía Mel, el tema de los agentes creo que es una de las herramientas, aparte de estos legos que ya te permiten.
+Integrar cuentas clave, envío a una clave que se convierte automáticamente en cripto y que tú envías cripto a una wallet que se convierte automáticamente en fiat y te llega a tu banco.
+Son cosas que ya se pueden usar y que le ayudan a entrar y a salir a la gente muy rápido.
+Entonces me imagino, Mel, que feria tendría que tener algo así, ¿No?
+Que te dé, ¿Sabes qué quieres convertir pesos en mxmb, envíalos a esta dirección y pum?
+¿Automáticamente tú nomás envías los pesos en un SPEI y lo vas a ver en tu cuenta como MXNV, algo así estaba yo pensando, me gustó mucho más el pitch tuyo definitivo voy a tener que volver a escuchar la grabación para ver cómo lo expliqué, pero están muy buenos los premios, están muy buenas las ideas que hemos platicado Sergio, tú qué opinas?
+Por allá nos decías alguna idea, ahorita empezamos a rotear las demás.
+
+[Speaker 3 - 00:26:34]
+Sí, sí, sí, fíjate que algo que yo veo bien importante y un área de oportunidad al menos financieramente es sobre todo yo vivo en Baja California, acá es frontera, entonces hay mucho turista con tarjeta de débito o crédito que paga pues aquí en México pesos y veo mucho problema de que luego el americano no reconoce la compra, entonces los negocios cuando viene un turista y paga con su tarjeta americana se ponen a temblar porque no tienen la certeza de que el pago va a ser bueno, entonces el americano con mala o buena fe puede siguiente semana llegar a su casa y reportar al banco que él no hizo la compra y la verdad es un rollo que el banco pueda ganar esa operación muchas veces termina pues afectando el negocio, entonces hay un tema de pagos para precisamente clientes americanos o extranjeros en negocios mexicanos, ahí sí es como un tip que yo, un área de oportunidad que yo veo, entonces puede ser eso algo defi también.
+Sin duda, a mí me interesa mucho el tema de préstamos, tema de colateralizar, por ejemplo yo pues invierto en Bitcoin y no lo quiero gastar y pues nos enfrentamos en el día a día problemáticas de que no tenemos, no tenemos liquidez, los préstamos bancarios pues la verdad sí son algo altos y no sabemos cómo utilizarlos, las tarjetas de crédito, entonces por ahí es algo que me interesa mucho ver qué proyectos hay, a ver qué dice la gente, pero esos dos puntos es sobre todo lo que a mí me llama mucho la atención Sergio.
+
+[Speaker 0 - 00:28:08]
+El tema de pedir préstamos antes y creo que.
+El pedir préstamo y que te den dólares para un mexicano que gana en pesos tiene su riesgo, porque aparte del riesgo.
+Del cripto tienes el riesgo de tipo de cambio al dólar, entonces ¿Cómo crees que ayude el tener ya estos activos mexicanos estables al mexicano para que fomente el tema de que la gente pida préstamos?
+
+[Speaker 3 - 00:28:35]
+Sí claro, mira sin duda, por ejemplo aquí en la banca no damos un crédito en dólares si la empresa sus ingresos no son en dólares, entonces sí es suicida la verdad, pedir un préstamo en una moneda que no es la tuya.
+No, yo definitivamente no pidiera un préstamo ni en dólares, ni en Bitcoin, ni en Ethereum, solamente en pesos, porque pues yo gano pesos, yo soy un empleado y me pagan con fiat.
+Entonces creo que en este nuevo uso que le estamos dando a las stablecoins mexicanas tenemos que aprovechar de ahí este.
+Ahorita por ejemplo en Shock tenemos el protocolo Alux que está pues podemos pedir prestado, tenemos, podemos pedir prestado ya sea Shock MX, digo, nomás hay que revisar desde luego la tasa que esté cobrando es volátil, de acuerdo, oferta demanda, pero por ahí hay muchos protocolos que nos pueden ayudar a pedir prestados a tasas muy baratos, por ejemplo nos hemos encontrado tasas de 1 % en moneda estable del peso, entonces ahí creo que sí es una muy buena oportunidad cuando un préstamo personal por ahí debe andar en un 30-40%, una tarjeta de crédito en un 80-100%, entonces la verdad tenemos que aprovechar esas.
+
+[Speaker 0 - 00:29:42]
+Oportunidades.
+Sí, definitivo, para tema defi ayuda mucho para tema de gente que hace trading también de FX también me imagino que debe ser algo muy que les ayude mucho.
+Si hay mucha liquidez, échale.
+
+[Speaker 2 - 00:29:59]
+Algo.
+Si alguien hace algo de para gente que gana en dólares y necesita pesos, ahí avísenme porque yo en parte la idea de feria es mucho de poder administrar yo mis criptos, yo soy un usuario que necesita eso, entonces ahí si quieren también se necesitan un poco de pruebas de usuario y están abiertos, estoy abierto, perdón, a echar ahí feedback y bueno, si no lo saben, igual en Frutero hay muchas, muchas personas que son súper cracks, entonces también créanme, es algo que puede ser algo, Un tip, una sugerencia para los que van a hackear, busquen a la gente que va a ser su usuario final, realmente pueden tener la mejor idea del mundo, pueden ser, sí, mira, tengo un pinche, Perdón, tengo un sistema de point of sale súper bueno que te acepta cualquier moneda y no sé qué, y al final como dice Sergio, yo uso pesos, aceptas pesos, entonces aquí en México no va a jalar, es una exageración, es hiperbolesto, pero aproveche para hablar con usuarios potenciales y van a ver que es así como van a tener más éxito en el hackathon.
+Esto es, yo no es por presumir también he tenido la fortuna de ganar algunos hackatones, algunas bounties y finalista en otros y siempre esos que ganan es porque estoy resolviendo un problema, es un problema con el cual el cual puedo rebotar con personas que me dicen sí, eso me serviría, o sea, es que no, eso es mucho rollo y te ahorras un feature completamente porque tres, cuatro personas dijeron eso no me importa y te quitas 8 horas encima, vámonos, un hackatón, eso es clave.
+Bueno, ahorita tenemos un hackathon de un mes, pero es el mismo principio y.
+
+[Speaker 3 - 00:31:46]
+Perdón.
+Y sobre todo creo que tenemos que aprovechar y tratar de solucionar problemas reales.
+Muchas de las críticas que a veces tenemos es que pues trabajamos en proyectos que no necesariamente resuelven un problema grande, entonces tenemos que ver qué es lo que le duele al sistema financiero tradicional y sobre agarrar oportunidades, muchas veces en el sistema financiero está la exclusión de ciertas personas que no pueden tener acceso a todos los servicios.
+Entonces creo que es eso, aquí en cripto realmente todos tenemos las mismas oportunidades, los mismos acceso, pero sí tenemos que darle un beneficio a las personas, ¿Por qué usarían nuestros productos cuando pueden a lo mejor contratarlo con un banco, con una Sofipo, que en teoría son un poquito más seguros, al menos en nombre?
+Entonces sí ponernos del lado de los clientes para ver qué es lo que.
+
+[Speaker 0 - 00:32:35]
+Conviene.
+Como decía Mel y estoy totalmente de acuerdo, ya vi muchas piezas del rompecabezas de ese Lego que pueden utilizar para construir, aviéntense la parte técnica, ahorita vamos con julio que tiene aquí la manita, aviéntense esa parte técnica, vean cuáles son esas piezas de Lego, a lo mejor pueden construir otra pieza adicional de Lego o utilizar las que ya existen para armar alguna solución para ustedes, creo que ya hay muchas alternativas.
+Ahorita a ver qué nos recomienda julio, qué trae de él pensado ver si va a hackear o no y pensamos a rostear los demás proyectos, ahorita déjenme escojo uno mientras julio nos da su comentario.
+
+[Speaker 1 - 00:33:17]
+Échale.
+Julio, ¿Que ha habido, ¿Cómo.
+
+[Speaker 0 - 00:33:19]
+Andan?
+Bienvenido, bienvenido.
+Si alguien más quiere subir, pide la palabra por.
+
+[Speaker 2 - 00:33:23]
+Favor.
+Gusto en saludarte.
+
+[Speaker 1 - 00:33:25]
+Julio.
+Igual.
+Cuánto tiempo.
+
+[Speaker 2 - 00:33:27]
+Mel.
+Ya sé, te escribo.
+
+[Speaker 1 - 00:33:29]
+Después.
+Claro.
+Oigan, aprovechando, digo, quería complementar un poquito un comentario que hizo Sergio y después darles ahí un par de preguntarles a ver qué opinan.
+No había considerado hackear pero ya me.
+
+[Speaker 0 - 00:33:41]
+Animé.
+
+[Speaker 1 - 00:33:43]
+Venga.
+¿Creo que algo bien importante, dando un poco de contexto, yo también vengo de la banca tradicional, de la banca de inversiones y la parte de garantías creo que me ha tocado y tengo el feeling mucho del usuario final al final de cuentas varios años ahí dando back to backs a clientes qué es lo que les gusta, qué es lo que no les gusta y algo que yo les recomendaría al plantear tema de garantías es número uno hay que poner manzanas con manzanas porque pensar un crédito personal 30-40 % de tasas cuando tú lo compartes contra alguien dices hoy aquí una tasa de 1% 2% a lo mejor dices oye, pues es un no brainer verdad?
+Pero a final de cuentas no estás comparando peras con peras porque un back to back dentro del mundo tradicional tú puedes dejar un CETE en garantía, literal CETES tal cual que te está pagando ahorita el 8% 850 y te están cobrando una banca de inversiones barata te está cobrando tie 3% ese es el más bien ese es el más caro, te sale 12% contra algo en garantía sin riesgo que dejas que te paga un 8 realmente te está costando 4% ese crédito utilizarlo.
+Entonces creo que aterrizarlo contra una tasa de un 30-40% no estás haciendo manzanas con manzanas.
+¿Ahí solamente les dejaría eso como como comparativa no?
+Justo hace poquito platicaba con un chavo que dicen oye, yo te recibo Bitcoin y te doy un crédito back to back está bien barato, tie más 20% comparado contra una tasa de crédito personal está bartísimo y le dije y si le p y no le pierdes güey, o sea qué pedo, es carisisísimo y le dije no mames, yo te ofrezco tie más 3% y déjame CETES no Bitcoin.
+Entonces eso creo que sería algo muy interesante de ponerlo sobre la mesa.
+Y algo que digo por último, lo interesante sería cuál es, no solamente tasas, cuál es el aforo que vas a pedir, cuánto quieres pedir, cuánto vas a dejar en garantía contra cuánto te van a prestar.
+En un banco tradicional el CETE otra vez La comparación más tradicional conservadora es de 1.2, quieres un millón de pesos, déjame un millón 200 en garantía, cuando son en acciones es como de 1.4, quieres una línea de un millón de pesos, Déjame un millón 400 y tienes más fluctuación, sí, pero pues también eso te está generando mayor rendimiento si no te lo quieres gastar.
+Creo que esa realmente es la comparativa correcta contra una garantía de criptomonedas en este caso y que te lo den en pesos, justamente como lo dice Mexi, es lo más importante, al menos aquí en México, ¿No?
+Que no esté dolarizado, la otra es que dejes en garantía algo dolarizado, entonces pues ahí también puedes estar neteando un poquito, eso sería en la parte préstamos.
+Mi idea para hackear, no sé si entra dentro de defi y eso es algo que le estaba dando la vuelta últimamente, como que tengo varias soluciones con exchanges, pero no sé, sigue siendo centralizado, no descentralizado y no sé si exista una alternativa real que tal vez si no existe, pues ya tengo una buena idea para trabajar.
+Si alguien, digo, ahorita estamos hablando todo el tema de stablecoins es entrar al mundo de cripto, pero luego qué vas a hacer con ese dinero cripto, o sea, ya todo mundo quiere que le digas en dónde metes la lana, ¿No?
+¿Oye, o lo dejo en un stablecoin, estoy a uno a uno al dólar, o lo dejo en Bitcoin o lo dejo en la que quieras, no?
+No, es recomendación de inversión, o sea, ¿Y qué hago después con ese dinero?
+Pues termina siendo responsabilidad del mismo usuario en que lo invierte y todo el riesgo de equivocarte y pues comprar y meterte y hacer swaps y que te roben tu lana.
+¿Mi propuesta sería a lo mejor un estilo de poder construir descentralizadamente un contrato discrecional o no discrecional, o sea, donde tú me puedes decir a mí lo que te platicaba el otro día Mexica, o sea, yo te puedo dar una recomendación de inversión o tanto que tú lo muevas o que yo lo pueda mover, pero que yo no tenga acceso a retirar de tu cuenta los fondos, o sea, puedo comprar y vender las cripto que quiera, pero no puedo retirar los recursos a mis propias wallets, digamos, entonces creo que eso es el siguiente paso es primero ahorita estar construyendo las rampas definitivamente, pero después de la rampa, OK, ya tengo cripto, now what?
+¿Cómo voy a moverme?
+Lo voy a usar como inversión, lo voy a usar como reserva de valor, lo voy a utilizar como para pagarle a alguien más algo que le debo súper fácil del otro lado del mundo.
+Entonces no sé qué opinan con esa idea, si vale la pena echarle coco o está todavía no tan.
+No es para este proyecto específicamente para.
+
+[Speaker 0 - 00:38:49]
+Este hackathon.
+¿Sí Melio, hay creo que una gente, no sé tú.
+
+[Speaker 2 - 00:38:54]
+Qué opinas?
+¿Sí, de hecho justo iba a decir eso.
+No sé si hayan echado un vistazo a banker, bankerbot creo que se llama la cuenta y es algo, o sea, tiene rato sí entrado, pero no me acuerdo del dominio, usen dominios fáciles porque este es justamente eso, simplemente a base de chats y de prompts, o sea, ni siquiera prompts complejos, es como chat, te maneja tu lana en defi, cuál es la realidad?
+Es que pues está todo para el mercado americano, probablemente es una oportunidad para México, entonces yo digo que sí es una buena oportunidad.
+Julio, es una buena idea.
+
+[Speaker 0 - 00:39:35]
+Sí un tema de copy trading con bots, o sea, si entendí bien la idea, tú haces las transacciones a lo mejor con tu cuenta y se repican a lo mejor en otras cuentas de otros clientes donde lo que tú hagas acá en las tuyas afecta lo de la otra para trading, pero para sacarlo.
+
+[Speaker 1 - 00:39:51]
+O no, la verdad Mexica sería más un tema más personalizado, o sea, yo poder decir, oye yo tengo la cuenta de Mexi, de Meli, de Sergio y a cada quien le doy su propia recomendación, no es un bot que haga copia de lo que yo hago, sino oye, yo te conozco a ti, yo sé que tú quieres, no quieres riesgo, pero si quieres algo de Bitcoin, tienes tanto porcentaje en riesgo y tanto seguro y yo ya te voy dando tu asesoría de OK, por ahí te recomiendo que hagas esto y como te decía, puede ser discrecional o no discrecional, que tú me des carta abierta de hacer los cambios o que yo te mando una notificación y que se haga, pero todo on chain, hoy por hoy Binance Wealth me da esa opción, pero está todo dentro de un exchange y lo que no quisiera es que esté dentro de.
+
+[Speaker 0 - 00:40:40]
+Un exchange.
+Si está chida la idea, me imagino algo donde ellos les llegue la recomendación y que tengan ellos un sí, un no, dos botoncitos y con eso ellos aprueben el invertir o rechacen para los que quieran ese nivel de control y el otro como tú dices, no, que tú les mandes y pum.
+Ejecute fácil, yo creo que sí tendría un buen uso, o sea, y.
+Gente que nada más vea las señales y decida si sí o si no ejecutarlas le facilita mucho la vida para invertir y más si ya traes tú una buena historia de como decías el otro día, los 12 años de banca, la reputación de tener inversión, de haber manejado.
+Sí, es un tema de confianza también, o sea la marca del fondo de inversión o de, no sé si sea una empresa, un fondo o cómo se manejaría, pero sí, sí, o una DAO a lo mejor puede ser, pero está buena la solución.
+
+[Speaker 1 - 00:41:38]
+Me gusta.
+Claro, justamente la intención es esa, la confianza porque como lo manejo ahorita con algunos clientes yo tengo las claves de sus criptos y me tienen toda la confianza para que yo las maneje, pero qué sucede cuando lo escalas es, oye pues a lo mejor yo sí quisiera contratar a alguien que me ayude a hacer esto, pues yo no le voy a dejar las wallets, las claves privadas de mi cliente ni de pedo, ¿Verdad?
+Entonces pues es aquí la confianza de que yo te puedo asesorar, yo te puedo recomendar pero yo no tengo acceso a tus recursos, que es exactamente como funciona hoy, o sea, como banquero en un banco de banca tradicional yo puedo operar tus inversiones, yo te hago las recomendaciones pero yo no tengo acceso a.
+
+[Speaker 0 - 00:42:22]
+Tu chequera.
+Si, no, si se puede y creo que no es tan complicado con estos, ¿Como se llama?
+Estas piezas de Lego, según yo con thirdweb puede ser algo muy sencillo de hacer y cada que tú les mandes una recomendación les actualizas la página a las cuales ellos quieren entrar, les ponen los botones, los botones van a tener las transacciones que quieres que aprueben o uno que nada más ignore.
+Sí güey, está chido, está chido, hasta el gas les puedes pagar para que no tengan que meter.
+
+[Speaker 1 - 00:42:54]
+Ether, etc.
+Y pues bueno, esa era mi.
+
+[Speaker 2 - 00:43:00]
+Idea buenísima julio, no, sí, y bueno, para los que si necesitan, no sé si está abierta pero ya te voy a aventar.
+Julio, feedback.
+Bueno, ahorita en este tema de pagos y finanzas, tanto julio me ha dado un feedback buenísimo en Etilo México del año pasado y Sergio también está en banca, entonces aprovechen, aprovechen.
+Y sí, buenísima idea.
+
+[Speaker 0 - 00:43:22]
+Sin duda.
+Oye y también el tema de que para un inversionista él analiza tal cual lo que tú dices, ¿No?
+Pone CETES, les dan el 11, les piden, o sea, para tener mucho volumen hay que ganarle a esos intereses que ya existen en el mercado tradicional, que a lo mejor no todos tienen acceso, eso también es otra, ¿No?
+No todos tienen acceso a un banquero como tú, julio, no todos tienen el dinero necesario para entrar a esos temas, o sea.
+
+[Speaker 1 - 00:43:48]
+Tiene sus.
+Es que no todos lo tienen en la banca tradicional, pero esto te va a poner al mismo nivel que el güey que tiene 20 millones en la banca tradicional, aunque tenga 100 dólares.
+Eso es lo más chingón de esto, por eso estoy muy, muy emocionado con todo esto que está sucediendo y pues si alguien se quiere unir a mi proyecto ahorita lo voy a redactar aquí, ya me metí a la página para registrarme el hackatón o si alguien le gustaría feedback de alguien dentro de la banca tradicional también con.
+
+[Speaker 0 - 00:44:19]
+Todo gusto.
+Mel.
+
+[Speaker 2 - 00:44:22]
+¿Qué opina?
+¿Buenísimo, no?
+Sí, yo además para decir igual movernos un poco más a hacer.
+
+[Speaker 0 - 00:44:29]
+Un poco.
+
+[Speaker 2 - 00:44:30]
+De roasting.
+La de julio pues el roasting fue muy positivo, entonces si alguien se quiere subir ahora es cuando y si no, pues nos movemos.
+Aquí a buscar algunas, algunas de las ideas o proyectos que ya.
+
+[Speaker 0 - 00:44:47]
+Están arriba.
+Vayamos a.
+No todas traen mucho detalle, ahorita ya tengo aquí un par que tienen ya mucho, pues sí tienen suficiente como para rostearlos, si van y buscan We Pocket, lo voy a poner aquí en el Face como comentario, si quieren ir también un segundo y aquí está el link, ya se postea en breve.
+Déjenme les platico.
+Ellos buscan, bueno, no, mentira, dice We Pocket es una billetera digital construida sobre stablecoins como MXNB y USDC, donde cualquier persona puede ahorrar, transaccionar y generar rendimientos diarios.
+Sin depender de bancos ni pagar comisiones.
+Queremos construir la infraestructura más simple, segura y accesible para transferencias nacionales e internacionales en blockchain usando MXNB.
+Ya tienen su página de Internet.
+Ah, mira, con ellos ya platiqué.
+Ramiro, platiqué con Ramiro el otro día.
+Según yo, ellos ya tienen mucho desarrollado, no sé qué vayan a integrar ahorita, me imagino que el token de MXNV si mal no recuerdo son X, Bitso también ellos, entonces va a ser un buen competidor.
+De lo que me habían platicado, creo que justamente tenían ya el tema de las claves, entonces iban a poder recibir Space y convertirlo a USDC, no sé si vayan a integrar el tema de convertirlo a pesos, pero es algo similar a lo que platicábamos Mel, ellos traen.
+USD Coin, según yo traen ya inversión también, por ahí había visto que les habían metido alguna ronda o dos, creo que Bitso, no me acuerdo que me comentó este chavo, pero bueno, va a ser un buen competidor.
+
+[Speaker 2 - 00:46:32]
+Cómo ve.
+Si esta, se ve una, o sea se ve muy trabajada la idea, el pitch se ve muy bien.
+Need Picking sería como billetera digital, creo que la mayoría de las personas lo entienden, entonces.
+Una cuenta de banco, o sea una cuenta financiera, no necesariamente de banco, aunque ellos parece que sí lo van a hacer y sobre todo los beneficios que es lo que me gusta, te dice que es en un enunciado muy corto y luego cuáles son los beneficios o qué puede ser, puedes ahorrar, transaccionar y generar rendimientos diarios sin depender de bancos ni pagar comisiones.
+Muy claro, este es un buen pitch, creo que no hay nada que quitarle, no sé ustedes si opinan algo al respecto, quedó muy claro y.
+
+[Speaker 3 - 00:47:25]
+Sobre todo creo que debemos de buscar cosas muy simples, cosas simplificadas que no generen problemas para el usuario, que no batalle, porque muchos de los usuarios pues creo que es una de las problemáticas reales, muchas veces es bien complicado depositar, retirar, hacer swaps, entonces tenemos que buscar ese tipo de proyectos simples, al menos simples en la.
+
+[Speaker 2 - 00:47:47]
+Parte operativa.
+Si, algo que rápido paréntesis, hoy recibí alguien de la DAO, le mandaron un feedback brutal, no tan brutal pero sí fuerte de este nuevo mercado que estamos sacando, el de Alush, y si fue de no, pues tiene razón, sí está complejo, entonces háganlo sencillo.
+Sí, buena idea, buena idea, no tengo más comentarios, por acá tengo.
+
+[Speaker 0 - 00:48:18]
+Otra que me llamó, oye, sí no yo por último, wepoke por ahí también menciona, digo ya que los estamos rosqueando, digamos que necesitan, buscan developers web, smart contracts, integraciones con mxnb, Dev, Frontend o Mobile Native Web y Flutter, diseñadores UX UI con enfoque en accesibilidad, personas interesadas en productos fintech inclusivos en Latinoamérica.
+Ahí está la página we diagonal medio pocket punto com, Échenle uno ahorita la opinión aquí arriba.
+
+[Speaker 2 - 00:48:49]
+También, échale.
+No, no, perfecto, gracias por agregarlo, Sí, perfecto.
+Credil.
+Registro público descentralizado de deuda entre personas, Pitch, una web app que permite registrar y gestionar préstamos entre personas con respaldo en blockchain y pagos automatizados en mxnb u otras criptomonedas.
+¿Cómo funciona?
+Usuario A presta pesos a usuario B, se firma un contrato inteligente con condiciones de pago y plazo.
+Bitso puede ejecutar pagos automáticos vía SPEI en fecha de corte.
+Sistema de reputación descentralizada para confianza entre partes.
+¿A ver, mira, tecnologías y sobre todo que ponen al final?
+Innovación.
+Nadie ha creado un buró de crédito Open Source para deudas personales entre usuarios.
+Eso me gustó mucho más que todo lo que acabo de decir.
+¿Qué.
+
+[Speaker 0 - 00:49:51]
+Les pareció?
+Justo lo estoy pillando aquí arriba, es otra de las que también tiene muchos comentarios, de las pocas el equipo Yadiel Rosales, Alfredo Juárez Espinosa, Camila Ramírez, mexicanos, no sé, está interesante, o sea.
+No sé qué significa el registrar y gestionar, o sea, qué incluye.
+Dice un contrato inteligente para las condiciones de pago.
+
+[Speaker 2 - 00:50:25]
+Pero pues.
+Lo de hasta abajo para mí fue lo que me dio mejor, o sea, me dio.
+
+[Speaker 0 - 00:50:33]
+Más claridad.
+¿Nadie ha creado un buró de crédito Open.
+
+[Speaker 2 - 00:50:38]
+Source?
+Interesante.
+Buró de crédito open Source, yo creo que le ajustaría, entiendo que es como préstamos peer to peer.
+Pero el tema, la clave es el sistema de reputación descentralizada, entonces esa parte de buró de crédito.
+Para deudas personales entre usuarios, creo que ese sería el pitch más bien, al menos a mí me queda más claro así.
+¿Si, esto de firmar el contrato inteligente con condiciones de pago y plazo.
+O sea, lo firmas y luego cuál es el problema?
+El contrato en sí no me afirmarlo como que X, más bien es la reputación, ahí sí eso es mucho más valioso y creo que ahí está algo que exploramos el año pasado en Credit Talent utilizando el Talent Score de el Builder Score, disculpen, de Talent Protocol, y nuestra idea es como que tuvieran un wall of Shame, no tuviéramos también, no nos alcanzó, no nos dio el tiempo para armarla, pero pues que tuvieras ese muro de la vergüenza donde están los morosos, entonces eso ya es más la parte del Buró de crédito para deudas personales, eso está interesante, es algo bastante innovador.
+Estoy de acuerdo, todo lo del principio, hay que trabajar ese pitch porque no.
+Está tan tan claro cuál es la propuesta de valor verdadera.
+Y.
+
+[Speaker 3 - 00:52:05]
+Al final.
+Perdón, y sobre todo qué incentivos le das a los que van a prestar su lana, que van a meter lana.
+Cómo determinan la ganancia o bien por qué meter nuestro.
+
+[Speaker 2 - 00:52:19]
+Recurso ahí.
+Sí también eso siempre denlo muy claro en el pitch, como dice Sergio, que sea fácil entender, ah mira, pues aquí puedo, o sea, si yo presto puedo ganar lana, porque para prestar mejor le presto.
+La verdad prestar es muy complicado, pero justamente si ofrecen los beneficios claros es más positivo.
+¿Otra que hayan visto por ahí, Sergio, tú no quieres escoger alguna idea que te.
+
+[Speaker 3 - 00:52:49]
+Haya llamado?
+Yo estoy en el celular, entonces ando medio limitado aquí.
+
+[Speaker 0 - 00:52:53]
+Al acceso.
+Hay una persona que está sugiriendo poder utilizar MXNV para invertir en CETES, pero no da más información.
+A esa me interesa.
+Fíjate, algo así estamos viendo ya en Solana y creo que vamos a ver en base con la gente de Italfieuse, verlo también en Arbitrum con MXNB estaría padre, hay que ver el esquema y a ver cómo, porque sé que Interfuse ya tiene una dinámica legal muy muy muy estructurada que lo permite, hacen KYC, ya tienen para onboardear estas rampas que decíamos, ellos ya tienen, mandas una transferencia y te llegan los CETES o te llega el estable mexicano que ellos tienen y así igual para salir.
+Entonces algo así estaría padre con MXNB en Arbitrum, pero no hay mucho que rostear porque no dan mucha información.
+Déjame busco otro.
+Por aquí tenía también interesante Enerpay, este sí trae algo de información, vamos a, ahorita lo opineamos acá abajo también.
+Enerpay dice una plataforma sencilla que permite a cualquier cliente de CFE pagar su luz, uso, recibo de luz utilizando MXNB a través de una interfaz amigable y segura, aprovechando la API de Bitso Business.
+El objetivo es democratizar el acceso a pagos digitales para medios de mexicanos.
+Como ven.
+
+[Speaker 2 - 00:54:16]
+Solo CFE.
+Me gusta porque es muy claro con lo que van, es muy específico, eso siempre ayuda para los que están escuchando, que tienen una idea, que están pensando algo que hackear.
+Sugerencia, siempre enfóquenlo en el mercado más específico que puedan porque así van a saber con quién hablar y va a ser muy clara su propuesta de valor.
+Oye, pues aquí con esto.
+
+[Speaker 1 - 00:54:41]
+Puedo pagar.
+
+[Speaker 2 - 00:54:42]
+La luz.
+Utilizando mxnb.
+Este sí se escucha muy, para.
+Gente que está en cripto.
+Está bien, no le veo, es un buen hack, no le veo demasiada, o sea, ya existe algo en el mercado, no voy a decir que no, entonces con pesos mexicanos también en cripto, entonces pueden echarse un vistazo y ver qué está sucediendo allá.
+¿Yo acabo de pagar mi luz justamente hace poco, es un buen caso de uso, entonces tienen que esforzarse mucho en la experiencia de usuario.
+Pero me gusta que la idea es sencilla y tienen muy claro lo que quieren hacer, eso sería.
+
+[Speaker 3 - 00:55:35]
+Mi feedback.
+Igual y también creo que los proyectos tienen que buscar que sean rentables.
+De qué manera generarían ingreso pues los desarrolladores?
+Me queda claro que tal vez una comisión por pago, pero pues no sé si sea suficiente si es tan, tan limitado los usos que le vamos, que le pudieran dar, ¿No?
+Entonces también por ahí buscar la rentabilidad de todos los proyectos, al final pues todo debe.
+
+[Speaker 2 - 00:56:02]
+Ser negocio.
+Cien por ciento y bueno, quizás ahorita en este sí estamos asumiendo que supongo que cobran alguna comisión o realmente.
+No lo dicen.
+Definitivamente.
+Eso que mencionaste Sergio de tener un modelo de negocio claro es un plus muy grande para las evaluaciones de los jueces por lo regular, porque ya no es nada más de le damos el premio y gana el hackathon, esto es algo que puede tener piernas para estar viviendo un rato en el ecosistema, entonces si no tienen un modelo de negocio claro, te sugiero que y quieren ganar un premio para empezar sí que lo piensen bien, si es la idea correcta, si es algo para experimentar, para divertirse, para aprender, pues ya será otra historia, pero sí, ténganlo en cuenta en.
+
+[Speaker 0 - 00:57:01]
+Todo momento.
+Yo sí agregaría que a lo mejor si lo enfocan más en negocios, o sea, para que los negocios acepten mxnb y luego lo puedan usar para apagar la luz, algo así.
+Y beneficios, no sé qué le, o sea, por qué alguien a lo mejor sí, obviamente los usuarios de MX considerando que son, que en algún punto ya ser muchos, pues bueno, que tengan una alternativa para directamente apagar la luz está bien, pero híjole, yo creo que ahorita no hay suficientes usuarios para que esto funcione como modelo de negocio, entonces sí, sí como itero alguna otra parte que ayude a que la gente use MSNB, que lo pueda utilizar ahí, no sé, diciendo que el mercado está muy muy chiquito, pero bueno, está bien, está chido, es una alternativa, No sé cómo lo harían, no explica la parte técnica, pero me gusta, me gusta.
+Uy, se nos cayó por ahí Sergio, ahorita vemos que lo subimos.
+Oye Mel, no sé cómo andas de tiempo.
+Hay otra idea por aquí, si quieren nos vamos con esta última de.
+
+[Speaker 2 - 00:58:03]
+Don Bankster.
+Le damos.
+
+[Speaker 0 - 00:58:05]
+Le damos.
+
+[Speaker 2 - 00:58:06]
+Traes una.
+¿Cómo se llama.
+
+[Speaker 0 - 00:58:08]
+La idea?
+Se llama Baltium.
+Baltium.
+Ahorita ya les piné aquí arriba la última que revisamos, que es la de Enerpay.
+Échenle un ojo, déjenle su like, déjenle un comentario.
+Esto creo que también es importante, invitar a la banda que está por ahí hackeando a que deje su comentario, que opine en proyectos de los demás, Creo que eso es chido, ver engagement en ese tipo de aplicaciones y tienes una idea que les puedas dar, pues déjasela ahí.
+Me voy a poner a comentar un ratito, pero el último que traemos es Baultium de Don Bankster, ahorita lo opineo.
+Dice, to create a defi vault.
+A ver, lo voy a traducir.
+Quieren crear una bóveda, un servicio de bóveda para mxnb.
+Les quieren ofrecer a los usuarios opciones dependiendo de su perfil de riesgo, opciones de inversión dependiendo su perfil de riesgo.
+La plataforma va a aprovecharse de estrategias DeFi para generar intereses atractivos permitiéndole a la gente prestar, pedir prestado con sus propios depósitos.
+OK, es toda una plataforma de préstamos.
+Crear un sistema de lending basado en mxmp.
+OK, vamos a ponerlo.
+
+[Speaker 2 - 00:59:27]
+Aquí arriba.
+Siento que es medio IA la generación de este de esto porque yo no entiendo bien si van a ser la parte de préstamos o la parte de inversión, porque una cosa es depósitos y préstamos que lo menciona basado en mxnb y además al principio mencionan que son opciones de inversión de acuerdo a tu perfil de riesgo.
+Como que falta definir bien la propuesta de valor realmente a lo mejor es una plataforma DeFi completa, es tu banco en línea o tu banco en cripto donde ahorras, pides prestado y también permites que la gente pueda invertir en otras opciones de defi.
+Si, está muy.
+Amplio para mí, no sabía ni por dónde empezar.
+¿Cómo vas a facilitar los préstamos?
+¿Sabes los préstamos cómo te da rendimiento o cómo los puedes cobrar quién va a poner ese capital o vas a generar algo que hacemos en cripto, en la DAO con Xocolatl, con shock, es pues depositas y ahí es como puedes acuñar una nueva moneda que es shock?
+Entonces supongo que va a usar mxnb, pero necesitarías ese capital, tú necesitas esa liquidez, ¿De dónde la vas a conseguir?
+No termino de entender, le falta refinar este pitch.
+
+[Speaker 0 - 01:01:01]
+Para mí.
+Sí quiere abarcar muchas cosas, Digo, no sé si ya tenga algo desarrollado, yo por ahí lo he visto interactuando en algunos espacios y haciendo contenido.
+A Don Baxter le mandamos un saludo, no lo veo por ahí, pero sí, sí está muy amplio, fíjate la idea y se ve que mucha chamba, ¿No?
+Vamos a ver qué más sube y si suena mucho a.
+Estoy de acuerdo, estoy.
+
+[Speaker 2 - 01:01:28]
+De acuerdo.
+Bueno, está buscando desarrolladores, programadores, que es lo mismo, y usuarios DeFi avanzados.
+Una plataforma enfocada en bóvedas DeFi.
+Sí, sí es mucho.
+Tienes que si está por ahí o si lo quieres escuchar después, dame cuál es ese MVP.
+El MVP, la primera cosa que vas a hacer y ya después de ahí te saltas a ver si te da tiempo, porque aunque es un mes.
+Suena complejo, al menos en este punto de.
+
+[Speaker 0 - 01:02:08]
+La idea.
+Vamos a abrir la oportunidad.
+Si alguien quiere subir a platicar una idea que quiere hackear o quiere preguntar sobre el hackatón y opinar sobre el hackatón, por ahí veo a Ramiro, déjame lo invito, que es uno de los líderes por ahí de We Pocket, a ver si tiene chance de subir y si no, no pasa nada.
+Emma, ¿Cómo andas?
+Bienvenido, embajador de Arbitrum, Por ahí vi Rob también que era embajador de Arbitrum, es embajador de Arbitrum y que entiendo que también van a hackear.
+Y veo Basaire, Cripto Monterrey, allí saludos ahí a la bandita Crypto Invest, ¿Qué onda?
+¿Cómo andas?
+Anthony también por ahí que acaba de dar follow.
+Saludos a Anthony para la renova.
+Sergio, julio, ¿Algo adicional que quiera platicar mientras alguien se anima a subir?
+Si es que tienen chanza y quieren rebotar ideas, la neta, el hackathon tiene muy buenos premios y utilizar y tener la capacidad de hacer Todas esas estrategias DeFi, préstamos pagos, pero con un activo paridad uno a uno al peso mexicano, sí elimina mucho riesgo de los que invierten, perdón, de los que ganan en pesos y quieren invertir en este tipo de estrategias, si es una alternativa para no tener tanto riesgo contemplando por ejemplo que uses el dólar o alguna otra herramienta, entonces también permitir a la gente utilizar para recibir y cobrar y pagar por algo.
+En Estados Unidos acaban de legalizar o pasar una ley que va a permitir que esto explote, ¿Por qué?
+Porque hay mucho beneficio para los negocios, mucho, mucha mejor rapidez, va a haber ahorros increíbles para los bancos y las plataformas que usen esta herramienta.
+Ya estamos escuchando cómo lo está volteando a ver Walmart, Amazon, JP Morgan, por ahí Bank of America ya dijo que iba a lanzar una paypal, tiene una mercado, dar los casos es, hay muchos casos de uso, hay mucha optimización para los negocios, participen, métanse, inscríbase, échenle al hackatón, ahorita voy a subir a Cryptinvest también que está pidiendo la palabra, pero todavía quedan 25 días, todavía hay tiempo, métanse por favor a los grupos, pregunten si tienen alguna duda en frutero por ahí Mela está haciendo contenido muy constantemente, si tienen algún mensaje para él, échenle un DM.
+Nosotros como en Ethereum México andamos viendo si empezamos unas Office Hours también por si alguien quiere hackear y necesita alguna ayuda técnica que se meta al Office Hours, que platique con alguien técnico que le ayude, que lo guíe.
+Si estamos metiendo mucha.
+Perdón, me fui, creo que regresé.
+Vamos.
+
+[Speaker 2 - 01:05:04]
+Con julio.
+Bueno, dale julio si quieres.
+
+[Speaker 1 - 01:05:07]
+Este mientras.
+Claro, sí, de hecho creo que ahorita justo lo que dice Mexican, todo el tema de la regulación que está pasando en EEUU que existan este tipo de hackatones en México ahorita creo que uno de los retos más importantes de las rampas actualmente y probablemente que todos los tenerlo en mente va a ser muy bueno es el tema de comisiones, porque últimamente me había estado topando eso, o sea si tú le recomiendas a alguien que entre al mundo de cripto pues tienes opciones de exchanges, tienes opciones como Bando ahorita por ejemplo, pero muchas veces termina siendo bueno ¿Y quién me cobra menos por entrar al mundo cripto?
+¿Porque antes al ser tan limitado era un negocio realmente ser una rampa, pero mientras más jugadores están entrando se vuelve como este tema de competencia perfecta en donde ya espero yo en un futuro no sea un tema de cuánto te va a costar, si el 1% el 2, el 3, hay quien cobra hasta el 6% por meterte a cripto o hasta más si es desde cash, verdad?
+¿Bueno, los KY va a ser un reto, pero el considerar el tema de comisiones creo que es algo bien importante porque si eso va a ser mucho menos fricción al momento de entrar y que te digan, oye bueno pues es que me está costando tanto, pues mejor ni para qué me meto, verdad?
+Cuando en el sistema financiero tradicional entrar a invertir en algún activo, si ya lo tienes dentro de una banca tradicional, no te cobran por entrar a ese mundo, ¿Verdad?
+Bueno, hay otras comisiones ya de compras y ventas, pero ese es algo que hay que tener en mente, las comisiones de entrada, porque pues sí creo que eso va a ser la diferencia y a lo mejor ponerlo aquí sobre la mesa todos, si eres el que menos cobra, a lo mejor no vas a ser el más eficiente, pero siendo el que menos cobra y tal vez por volumen te vas a llevar a todos y eventualmente vas a ser el más eficiente o el más atractivo.
+Y un comentario aquí para, digo yo nunca he entrado un hackatón cómo jala, si yo me voy a estar metiendo ahorita y quiero poner mi idea, tengo que llegar ya con algo construido o es la pura idea, o sea, ¿Cuáles son esos pasos iniciales para alguien que es su.
+
+[Speaker 2 - 01:07:21]
+Primer hackatón?
+Buena pregunta, si, primeros pasos, depende, si es tu primer hackatón, bueno como dices, la idea es lo primero, probablemente en tu caso, entiendo, te conozco, sé que no eres técnico y quieran o no necesitan un equipo multifuncional, es muy raro y sí existen los tipo unicornios, builders que hackean solo los solo hackers y que ganan, entonces yo les recomiendo que busquen un equipo.
+Siempre es positivo, todos aportan desde su.
+El otro día escribí esa frase, todos aportamos desde nuestra especialidad, desde nuestras fortalezas, entonces hay que buscar equipo, creo que sería algo muy bueno que pudiéramos hacer.
+Mexi quizás la siguiente semana.
+Una sesión de formación de equipos y pues ya es realmente empezar, mucho de hackear es encontrarle cómo, entonces si no sabes cómo empezar, pues pregunta, para eso están los grupos como Frutero Club, en el Filo México también hay muchos builders destacados.
+Yo estoy seguro que en cualquier grupo dentro de cripto debes de conocer algún builder pesado que te va a poder al menos dirigir hacia dónde encontrar ese recurso que necesitas y es mucho preguntar, no tengan miedo a preguntar, a verse tontos.
+O sentir que van atrasados, es comunicación 100 %, los grandes éxitos en el mundo, llámale como quiera, tecnología, comercio, relaciones internacionales, todo es comunicación.
+Entonces si no saben, pregunten, si están atorados, avísenle a su equipo, hay que encontrar la manera de hacerlo.
+Y pues hay muchos tutoriales, hay muchos recursos buenos, vean las documentaciones, o sea la documentación de cada partner, estoy bastante seguro que Arbitrum tiene una cantidad absurda de recursos para cómo empezar a construir ahorita en este mundo de vive coding con las herramientas de IA, con herramientas como mencionó Mexi Third Web, o sea, realmente tenemos todo pero nadie nos lo va a traer en bandeja de plata, eso no va a pasar, es esfuerzo que sepan que van a tener que dedicarle, yo diría no menos de ocho horas a la semana para que tengan algo de lo que se sientan orgullosos de trabajar.
+Y por último, ya nada más para cerrar esta idea, también manejen sus expectativas, es algo que me costó mucho trabajo aprender en los hackatones, es probable que no ganen en su primer hackathon, no se sientan presionados por ganar aquí, sobre todo que su primero es mucho de aprender.
+Acérquense con hackers que ya han pasado por esto y créanme que les vamos a tender la mano con todo gusto invitarlos a este mundo loco con el que estamos, de que ustedes ya son parte, nada más que van a entrar más a la locura de de este torbellino de.
+
+[Speaker 0 - 01:10:38]
+Hackear.
+
+[Speaker 2 - 01:10:39]
+Y construir.
+Eso.
+Ya respondieron tu pregunta.
+
+[Speaker 1 - 01:10:45]
+Quería mucho rollo.
+No.
+
+[Speaker 0 - 01:10:48]
+No, muchas gracias.
+Sí, mucho va de la mano de, como decía Mel, encontrar uno, yo creo que con dos es un muy buen inicio, o sea, uno solo que no sea técnico es difícil, yo soy medio técnico y medio me metí, pero fueron horas y horas y horas de aprender y ahí puede sacar algo que funciona, pero yo sí traigo un background técnico, creo que sí es importante encontrar a ese.
+Co founder o eres muy muy técnico y a lo mejor te falta lo financiero y lo de marketing.
+No todos tienen el perfil, yo no lo tengo ni.
+Entonces ahí sí es encontrar a uno o dos que te ayuden y también podemos hacer cosas que ayuden a la gente a conectar, creo que falta dinámicas para que la gente conecte y arme equipos y pruebe.
+Vamos con Crypto Invest que tiene la manita, échale Crypto Invest.
+Buenas, buenas.
+Pues nada, te quería preguntar para una persona que es no técnica pero que quiere realmente aprender y desde cero, es decir, en qué grupos debe estar, qué libros tiene que leer, o sea.
+Qué tutoriales o qué workshops tiene que ver Exactamente.
+Para empezar.
+Yo te puedo recomendar tres comunidades, dos están aquí arriba, la DAO Club tiene un grupo de Telegram, Frutero Club tiene grupo de Telegram, te recomendaría la comunidad también de Ethereum México que tiene otro grupo de Telegram para este hackator en específico, participa en los office spaces que va a haber.
+De Tilu México, próximamente estaremos avisando, Lutero no sé si vaya a tener actividades ahorita, Ben los podrá decir, pero si, esos tres para empezar yo creo que.
+Son personas que están enfocadas en construir el tema de stablecoins y todo lo que es Ethereum, entonces para empezar yo creo que es muy muy buena alternativa.
+Ahorita les dejamos.
+Estoy buscando ahorita los links para que se.
+Para que se metan estas tres comunidades, ahorita los pongo aquí en los comentarios.
+Pero si, estas tres son las que.
+
+[Speaker 2 - 01:13:03]
+Yo te recomendaría.
+Si, nosotros como tal, no así oficial de por ahí estuvimos rebotando pero no sé, no hubo avance, entonces así específico no, pero no está fuera de un, un DM o algo que me manden y veamos cómo los podemos ayudar.
+¿Participen en las office hours, ahí de nuestra parte sí podemos quizás echar la mano ahí a los de Tiro México, pero o sea, es que un libro es muy difícil, realmente no hay otra más que hacerlo, es como dice Yoda, no es intentar, es.
+
+[Speaker 1 - 01:13:41]
+Clávate.
+
+[Speaker 2 - 01:13:42]
+Y tienes todo.
+Toda tu disposición, abre tu chat GPT, abre tu club, lo que utilices y pregúntale, oye y cómo hago esto?
+¿Quiero hacer esto?
+¿Y van a sufrir, no tengan duda de eso, más que sufrir, corrección, van a presentarse desafíos mientras ustedes lo aborden sin sufrimiento y con el saber de oye, pues estoy aprendiendo, estoy en algo nuevo, disfruten ese proceso y así como les dice Mexica, pregunten con la gente que ya está construyendo, nada más no lleguen, es muy difícil, es muy difícil decir qué tengo que hacer?
+¿Pues qué sabes hacer?
+Así nada más yo apuntarte que soy franco, como debrel, como alguien que sabe y que ha trabajado relaciones con desarrolladores, no es agradable cuando tengo que hacer, No, no, es que no va por ahí, si no tienes tú algo que ya hayas investigado, que ya sepas, que tengas claro hacia dónde tienes que hacerlo.
+
+[Speaker 0 - 01:14:55]
+Es.
+
+[Speaker 2 - 01:14:55]
+Difícil ayudarte.
+Entonces.
+Primer paso para ver chat GPT y pregúntale qué onda es tengo esta idea, rebótalo, de verdad.
+
+[Speaker 1 - 01:15:03]
+Así.
+
+[Speaker 2 - 01:15:03]
+Inician muchas cosas.
+Y no es por ser grosero, espero que no se transmita así, pero es traer algo como al menos la idea y un diagrama, yo siempre es lo que me gusta, una idea con un diagrama de cómo funciona para que al menos yo vea que pues ya le pensaste a la idea y cómo funcionaría, cuáles son los componentes que quieres involucrar para que ahí sí yo ya ah OK, quieres utilizar MXNB, ah, quieres utilizar CETES en cadena, pusiste que quieres CETES, ya existe CETES en Interfuse y ahí te puedes ir, están en Solana, bueno, puedes ver qué tan técnico eres, puedes ver si lo puedes puentear, puedes crear el puente tú, ese sería un buen hat y ahí vas descubriendo, pero todo parte de lo que tú puedas enseñar.
+Que traes trabajado.
+Realmente es aventarte al agua, cómo vas a aprender a nadar, sí puedes tomar mucha teoría, pero hasta que no te eches al clavado no vas a validarlo.
+Entonces esa.
+
+[Speaker 0 - 01:16:10]
+Sería mi respuesta.
+Yo te recomendaría utilizar una de estas piezas que ya está muy estructurada, que ya tiene dashboards muy sencillos, sin mucho código, que te he probado varias, yo ahorita no es comercial pagado porque no me están pagando, pero Thorware me gustó mucho para que tú puedas darle a, o sea, yo pensando en una aplicación que usen muchas personas o que la gente pueda crear su cuenta y usar lo que yo quiera permitirles hacer de una manera muy sencilla, te ayuda a hacer una cuenta, te ayuda a que ellos mismos hagan su cuenta con social, que tú les administres a lo mejor el pago, o sea, yo sí te recomendaría, clávate un poquito en Tweb para alguien que viene totalmente nuevo, a mí es lo que me sirvió.
+Lo puede hacer muy sencillo el tema de aprender a usar Visual Code, no, Visual Studio Code también, o sea, échate un par de videitos de Visual Studio Code, esa herramienta en específico me gusta mucho y Vercel, con esas tres puedes hacer maravillas.
+Con Vercel puedes hacer páginas de Internet que solitas agarren el código y empiecen a funcionar.
+Con Visual Studio Code puedes editar código y ahí tiene herramientas de inteligencia artificial para hacer mucho bancoding.
+Y con Third Web puedes hacer contratos inteligentes, puedes permitirle a los usuarios crear sus cuentas muy sencillo, puedes ponerles botones para que ellos hagan transacciones.
+Esas tres en específico yo es lo que recomendaría.
+Hay más, hay muchos terwebs, hay muchas otras plataformas, pero esas tres yo creo que son un buen inicio.
+Tarde son algunos comentarios adicionales.
+Sergio, julio, Mel, muchísimas gracias por aceptar la invitación, por platicarnos de su experiencia de rostear a los proyectos.
+Ojalá los que están haciendo proyectos los escuchen, nos rosten de regreso.
+Yo tengo que mejorar mucho mi pitch, estoy de acuerdo, pero de nuevo el hack, la oportunidad es muy buena, neta, neta es muy buena.
+Creo que tenemos que aprovechar estas opciones que hay.
+Si no tienen equipo, hagan lo posible por conectar en grupos y busquen trabajar con alguien, a lo mejor les van a caer mal, no sé, o sea, pierden el miedo a trabajar con alguien nuevo, pierden el miedo a platicar sus ideas y a buscar quién les ayuda.
+Eventos presenciales ayudan mucho para conectar con gente que puede llegar a ser un co founder.
+Si no eres técnico, hay pocos, no lo puedo negar, no hay muchos por ahí, Entonces véndales muy bien su idea y a lo mejor los convencen de ir a colaborar con ustedes, pero sí hay que chambearle para conseguir esa persona que los ayude a desarrollar.
+Si es que no son técnicos y son técnicos y buscan ideas que desarrollar, pues ahí hagan match.
+Pero bueno, Sergio julio, si no pongo la cancioncita.
+
+[Speaker 3 - 01:19:18]
+Y nos vamos.
+Pues muchas gracias por la invitación, Maxi, un gusto estar aquí con todas las personas y pues qué excelente que este tipo de oportunidades como este hackatón que sin duda pues tiene muy buenos premios y pues es muy buen incentivo por chambear en algo que nos puede beneficiar a todos.
+Entonces pues igual ahí andamos conectados, andamos ahí en la DAO, en Ethereum México, igual pues yo no soy técnico, yo soy banquero, entonces pues en lo que puedo apoyar, pues.
+
+[Speaker 1 - 01:19:46]
+Con mucho gusto.
+Igualmente también aquí yo me colé aquí a este space, pero igual como dice Sergio, como la banca ya está entrando aquí de lleno al espacio cripto, y pues yo no soy nada técnico.
+Tienes razón.
+Entonces por ahí sí me les pegaré más a los que sí le saben.
+Y pues gracias también por este espacio, que.
+Si no existieran este tipo de apoyos de convocatorias, pues se quedaría.
+
+[Speaker 2 - 01:20:19]
+Todo en ideas.
+Me encantó esa frase.
+Sí, aquí es el momento de transformar esa cosa etérea que tienes en tu cabeza y al menos ver qué salió de eso.
+Ya no te vas a quedar con la duda de ¿Y si hubiera?
+Y se.
+
+[Speaker 0 - 01:20:37]
+Siente bien, créanme.
+Muchas gracias de nuevo por aceptar la invitación a todos los que subieron.
+Julio, Sergio, Mel, Crypto Invest, que también hizo una pregunta a los que rusteamos.
+Upsi, no todo es con el corazón.
+A mí me fue más o menos Yo tengo que mejorar mi pitch, estoy de acuerdo.
+Tengo que mejorar también la propuesta de valor.
+Ahorita lo que se me ocurrió fue eso en base a lo que yo he utilizado y que sé que puedo hacer rápido porque me voy de vacaciones pero no hay muchas oportunidades, la neta.
+Voy a ver si la próxima semana yo agarro también un espacio ahí dentro de las office hours para platicarles de lo que pueden hacer con Terweb.
+Creo que es muy sencillo y para alguien que no es tan técnico, no es tan complicado.
+Neta, neta, sí lo veo como una herramienta que les va a ayudar a entender cómo funcionan todas esas Legos, todas esas piecitas que hay.
+Creo que va a ser mucho más sencillo en el futuro.
+Creo que vamos a tener herramientas, no código con drag and drop para meter módulos de a ver, módulo de ingreso social, módulo de stablecoin.
+Va a ser muy sencillo en el futuro, hacia allá va todo este desarrollo, vamos a tener agentes que nos hagan todo y va a ser mucho más fácil hacer aplicaciones y programar cosas.
+La neta yo lo veo como algo que está a la vuelta de la esquina, o sea, a la vuelta de la esquina cualquiera va a poder hacer aplicaciones súper locas, muy fáciles de usar.
+Entonces algo que yo también recomiendo mucho, crezcan una marca personal, crezca en un proyecto, crezcan una comunidad, crezcan algo que luego con todas estas piezas cuando ya sea muy sencillo de usar y que tú literalmente como Lego lo puedas armar y puedas sacar productos que bastan, estamos a nada de distancia de eso.
+Conocerlos desde ahorita, cómo funciona, meterse un poquito más en las tripas técnicas te va a dar mucha ventaja cuando ya esto sea mucho más sencillo, porque vas a tener muchas pruebas de cómo funciona el mercado, cómo salir a lanzar un producto, qué tan bien responde la gente cuando lanzas una aplicación, qué retroalimentación te dan cuando hay problemas donde no es tan sencillo.
+Hay mucho aprendizaje en lanzar un MVP, lanzar algo que funcione y que la gente lo pueda utilizar, seas técnico o no, hay un chingo de aprendizaje ahí.
+Se lo recomiendo.
+Vámonos ya porque si no, no llego a la junta.
+Les dejo la última parte de Minds Aviz.
+Neta, neta, neta.
+Ojalá les haya servido esta plática para que se animen.
+Por ahí julio nos dijo que ya lo inspiramos.
+Esperemos que desarrolle algo chingón y que consiga con quién desarrollar.
+Igual échense DM entre ustedes si quieren hacer alguna aplicación, si tienen oportunidad de conectar, denle.
+Los dejo.
+Esto es Mindse, la última parte.
+Nos vemos el próximo martes.
+¿Uy, qué pasó?

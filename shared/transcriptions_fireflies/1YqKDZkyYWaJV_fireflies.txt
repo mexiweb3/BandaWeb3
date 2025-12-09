@@ -1,0 +1,771 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #N/A
+Título: BandaWeb3 #068 @donald_glonk
+Fecha: 2025-07-31
+Host: @meximalist
+Tipo: hosted
+
+Descripción:
+BandaWeb3 #068 AMA @donald_glonk. El X-Space de este jueves es patrocinado por el equipo de desarrollo de la memecoin $GLONK lanzada hace 2 meses en @pumpdotfun. Mkt Cap: 1.7 M USD, ATH Mkt Cap: 2.1 M USD. Pasa a preguntarles lo que se te antoje.
+
+Duración: 01:25:55
+Escuchas: 52
+
+Links:
+  Space: https://x.com/i/spaces/1YqKDZkyYWaJV
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+[Speaker 0 - 00:00:01]
+Bienvenidos, buenos días, buenas tardes, buenas noches, dependiendo de dónde se encuentren escuchando esta grabación.
+El día de hoy vamos a tener al equipo de Donald Glock, una moneda meme, una memecoin que está en Solana, que por ahí me contactó a través de uno de sus colaboradores y quieren llegar al mercado mexicano a platicar de lo que están haciendo.
+Yo en lo personal, pues los quiero conocer, quiero ver que es lo que andan haciendo.
+Ya tienen algunos meses con la moneda, ahorita los vamos a subir, se vienen conectando por acá, vamos a invitarlos a platicar, pero mientras invito a toda la banda y mando los mensajes que normalmente envío.
+Voy a poner la canción Esto es Mindset, hecha con inteligencia artificial.
+Con esta arrancamos, empezamos en breve.
+Bienvenidos a todos los que se van conectando.
+Si nos pueden ayudar a dejar un comentario, un like y un repost.
+Oh, suma anyone that's connecting.
+¿Do you like?
+It'll help a lot.
+If you can leave a like, a message or a repost, we'll start in a few minutes.
+Thank you for being here.
+Gracias.
+Gracias de nuevo por estar por aquí.
+Sigo invitando a algunos grupos, Vengo regresando de vacaciones, estuve unos cuantos días fuera, unas tres semanas para ser exactos, pero el día de hoy regresamos con este space número 68 de banda web con la banda de Donald Glock.
+Vamos a ver si nos escuchan por ahí.
+Y a todos los que se vienen conectando, bienvenidos, gracias por estar por acá.
+Si pueden dejar un comentario, un like y un reposting.
+Todos llegar más personas, ¿Cómo andan?
+Bienvenidos.
+¿How are you?
+
+[Speaker 1 - 00:05:51]
+Hola, hola Mexi, ¿Cómo estamos?
+
+[Speaker 0 - 00:05:56]
+¿Qué onda?
+Muy bien, ¿Cómo me escuchas?
+¿Todo bien?
+
+[Speaker 1 - 00:05:59]
+Todo bien, ¿Todo bien ustedes?
+
+[Speaker 0 - 00:06:01]
+Excelente, excelente.
+Aquí andamos regresando de vacaciones y muy contentos de tenerlos por acá, poder platicar, poder también invitar a la banda que suba, que haga preguntas.
+Esto se va a poner muy interesante.
+Vamos a estar por aquí una hora, una hora y cachito sin ningún problema.
+Tenemos para platicar de cómo les ha ido, cómo entraron al ecosistema, que nos platiquen obviamente el proyecto de qué va y todo lo que están planeando para estos días.
+Y pues qué es lo que sigue con Donald Glock.
+Últimamente hemos visto muchas monedas salir, hay toda una.
+Un furor muy grande por la manera en que estamos utilizando estos mercados y definitivamente le veo un caso de uso muy interesante de las memecoins y la de ustedes en lo personal me ha llamado mucho la atención como ya lo mencionamos por ahí en algunos post, bueno este es un espacio que es patrocinado, pero pues encantado tenemos por acá quién anda por ahí en la cuenta, bienvenido.
+
+[Speaker 1 - 00:07:01]
+¿Qué tal?
+Habla Crypto, Prácticamente soy uno de los devs de Donald Lang y bueno pues te platico un poco de cómo surge, qué es lo que se buscaba con la esencia del proyecto y pues también los retos que estamos enfrentando actualmente para poder crecer.
+Entonces Donald Glock precisamente nace de la idea de pues obviamente enfocarnos un poco en las memecoins al ser, he visto a través del tiempo yo como analista financiero y on chain que muchos de los proyectos que precisamente son proyectos.
+Pues legit coins o altcoins no precisamente por ser proyectos.
+De empuje o que están considerados que tienen buena referencia, que tienen buena referencia dentro del ecosistema, pues precisamente generan retornos altos, sino que he visto algunos proyectos estancarse, no quiero hablar de ninguno de ellos, pero bueno hemos visto como muchas de las monedas que comúnmente salen si tienen un pump pero de ahí quedan estancadas.
+Entonces cuando se lanza Donald Gloom, la esencia de sacar Donald Blanc empieza por querer tener o juntar dos cosas muy disruptivas, los memecoins y uno de los referentes en cripto o es una de las personas que más mediáticas han estado por el tema de ser el presidente de Estados Unidos por tener mucha injerencia conforme a reformas dentro del sector económico de cripto que pues es Donald Trump, pero pues si tú volteas a ver y te metes a temas de monedas que se han lanzado con el nombre Trump, pues hay miles, entonces nosotros dijimos bueno sí vamos a darle como el honor pero nos vamos a ir por el Donald que es el nombre y no el Trump como para gestionarlo.
+Entonces empieza ya esta cuestión de trabajar con el meme y encontramos precisamente un meme que se llama.
+Que prácticamente nace de la idea de un muñequito un tanto grotesco que prácticamente lo que decía era pues no haces nada absolutamente y mueres entonces nosotros lo transgredimos a decir con la esencia precisamente de lo que es hacer un holder, es no hacer nada y ganar.
+Entonces el lema es dos noticias wins y lo cambiamos pues este por el de dos noticias, entonces pues obviamente de ahí nace como esa estructura de fusionar Donald y Long y pues obviamente pues queda como Glock el referente de la moneda.
+¿Como ves?
+
+[Speaker 0 - 00:09:51]
+¿Qué interesante, he visto en lo personal varios memes como.
+Que han pegado.
+Acá porque me estará escuchando doble?
+Ahí estamos.
+Sí, hemos visto como en lo personal he visto como.
+Ya de nuevo invito a toda la banda darle like, darle repos para que llegue a más banda, es una IMEI así que cualquiera va a poder subir, hacer alguna pregunta.
+Si, si así lo deseas, lo considera necesario, con gusto.
+Estaría muy padre que subieran a conocer al equipo y todo, pero bueno, platícame un poquito de Glom porque es un meme que ya existía, que ya tenía una cierta característica, un cierto reconocimiento, lo unen con la imagen de Donald Trump que definitivamente es uno de los personajes, si no es que el personaje más mediático que existe en este momento, como muchos lo podrán imaginar y también que está súper involucrado en el ecosistema cripto, ahorita está haciendo mucho contenido, está publicando y su equipo de trabajo están publicando regulaciones, están publicando y aprobando leyes.
+Qué padre la mezcla de estos dos.
+¿Conocen al equipo de GLONK?
+¿Cómo fue?
+¿Por qué esa moneda en específico?
+¿Por qué les llamó tanto la atención?
+Obviamente creo que pues el nombre, el apellido Trump Glon va muy muy de la mano, creo que es algo muy muy muy lógico el poderlos juntar, pero interesante cómo han visto la comunidad de Donald Trump, se han montado la comunidad Donald Trump apoyar, sé que hay una comunidad grande con el nuevo proyecto que lanzaron de World Divert y han estado haciendo mucho ruido con su stablecoin.
+Interesante la mezcla.
+
+[Speaker 1 - 00:11:45]
+Sí, sí, sí, sí, precisamente tenía, era esta cuestión de jugar, jugar con los nombres, jugar con la estructura, tratar de que la gente pues generara pertenencia desde varios ámbitos.
+Yo considero que uno de los beneficios regularmente cuando tú entras a comprar una criptomoneda es tratar de estar sabiendo quién está detrás, entonces era lo que precisamente queríamos hacer, somos unas personas que no nos interesa como tal tanto el anonimato, desde la semana pasada queríamos hacerlo de esa forma.
+Te voy a platicar ciertamente también lo que ha pasado.
+¿Tuvimos el día de hoy justamente un problema con una de las ballenas que decidió salir y nos dumpió y dijimos sabes que?
+Nosotros no nos interesa mantener el anonimato porque van a pensar que la intención de nosotros es irnos con el dinero de la gente y no es así, sino son gente que no tenemos el control de ellos que deciden tomar decisiones de venta y pues en este momento pues nos han afectado el token.
+Sin embargo, precisamente buscamos estos esta palabra dentro de estos AMAS para que la gente entienda de que es un proyecto a largo plazo, que no queremos dejarlo morir, que nuestra intención no es a corto plazo solamente sacar liquidez e irnos ya que pues incluso en su momento se bloquearon hasta 200 mil dólares en long para que la moneda siguiera creciendo y viera la gente que están bloqueados ahí, ¿No?
+Pero que la gente viera que realmente estamos comprometidos con el proyecto en hacerlo crecer a largo plazo.
+
+[Speaker 0 - 00:13:27]
+Oye, interesante esto de la Ballena, ¿No?
+No.
+Había percatado cómo está el market price ahorita.
+Yo ayer que estuve posteando como en.
+
+[Speaker 1 - 00:13:37]
+1.7 de verdad que fue un madrazo.
+Esto tiene que ver porque lamentablemente también vimos desde dónde era o desde dónde venía el chingadazo porque una de las ventajas que hicimos y te lo comparto era buscar gente o personas que que se comprometieran con el proyecto desde el principio.
+Entonces pues les dimos el call, se les avisó que se iba a lanzar y pues obviamente son gente que en este momento decidieron tomar su dinero e irse.
+Entonces precisamente ahorita es la búsqueda y qué bueno que pasa en este momento porque solamente imagínate que tu gente o que la gente que haya llegado a Lama pues en el momento después de esta.
+Hayan entrado y que la Ballena haya vendido los afectaría pues obviamente la reputación es muy importante tanto para ti como para mí, para el equipo y pues obviamente queremos ser bien transparentes siempre en lo que pasa con todo esto porque lamentablemente aunque sepamos de dónde viene y todo esto, no podemos controlar esas situaciones.
+Entonces pues qué bueno que pasó antes del AMA y no después porque ahí este, obviamente yo sé que también es una repercusión para la comunidad y lo que no buscamos o para tus comunidades, ¿Sabes?
+
+[Speaker 0 - 00:14:58]
+Oye, qué difícil el liderar un proyecto, No sé cómo fue tu ingreso al ecosistema, si es el primer proyecto que lanzan.
+Me han dado ganas de lanzar varias cosas, pero por X o Y me he frenado.
+Y bueno, hablando de otros proyectos, pero eso es un mercado bien duro, ¿Como lo has visto?
+
+[Speaker 1 - 00:15:20]
+¿Sí, sí, sí, precisamente es todo un reto, sabes?
+Es una integración lo que yo siempre he visto en cripto.
+Sí, y por ahí los buenos amigos de Crispy que fueron los que nos hicieron la interacción contigo, tenemos por ahí otros proyectos y lo que me he dado cuenta es de que todo o absolutamente todo lo que, lo que ya existe se puede tokenizar o se puede pasar a, a web 3 o que tengan que ver con cripto, porque al final del día es un nuevo ecosistema y de alguna forma cuando yo llego a este proyecto precisamente me buscan a mí como desarrollador, o sea, me buscan como, como yo ya tenía un poco de interacción con cripto, no sabía sinceramente nunca cómo hacer una cripto y literal pues me doy cuenta que no es tan difícil, lo difícil tiene que ver cómo liderar el proyecto para que la gente crea y también se dé cuenta que tiene un potencial.
+Entonces es trabajar mucho esta parte de la marca personal, de trabajar con post, de trabajar con información que de alguna forma a la gente le haga sentirse como en casa y genere pertenencia.
+Entonces desde ese ámbito, pues en su momento se hicieron giveaways, hicimos giveaways de.
+De dinero en el cual la persona que se tatuara el logo de Glock, que si hubo quien lo hizo, se ganó cerca de 30 mil pesos.
+Hubo gente que estuvo trabajando en el ámbito de.
+Ahorita tenemos de hecho lanza, mandamos a hacer unas chamarras personalizadas para que sea el branding y yo creo que lo más seguro es que se van a brandear para poder hacer todo esto.
+Entonces, este, pues bueno, es también darle a la comunidad herramientas para que se den cuenta qué.
+Más allá de lo que está pasando.
+Pues el proyecto va a seguir creciendo y que vamos a seguir tratando, vamos a buscar que este proyecto no muera.
+Entonces son cuestiones que pasan, son situaciones que en algún momento nos ponen en hack, pero al final del día.
+Este, pues ahí están, ahí están y son para crecer.
+
+[Speaker 0 - 00:17:41]
+Finalmente como tú decías, antes era más complicado lanzar un token, hacer un SEO, había que hacer un contrato inteligente, había que auditarlo.
+¿Ahorita ya hay muchas plataformas, en este caso bueno, ustedes utilizaron Pump Fun para lanzar el token, que te permiten ya hacer un lanzamiento muy sencillo, muy rápido, no necesitas conocer mucho, mucho de código, pero la clave está como tú dices, en qué dinámicas qué herramientas, qué contenido, cuánta gente haciendo memes, cuánta gente posteando del tema, cuántos son los que en realidad están compaginando y están conectando con el proyecto, con la idea, que piensan a largo plazo?
+Porque estos proyectos hemos visto cómo nacen y en días, a veces horas.
+Acaban destruyendo, ustedes ya llevan meses, eso es algo que en lo personal yo veo como bueno, interesante.
+Pero bueno, acaban de tener ahorita como dices, no lo he visto la gráfica, ahorita me pongo a verla, nos acaban de golpear feo madres y que vengan a subir aquí ahorita y a platicar también se me hace la verdad, den la cara, que estén hablando del tema y que digan aquí seguimos y son los planes también muy interesantes.
+Muy interesante.
+
+[Speaker 1 - 00:18:57]
+Si, al final del día hablamos desde la perspectiva de que cripto todavía hay falta de regularizaciones, es tierra de nadie, es un comercio abierto, entonces pues hubo gente que aprovechó en su momento, creyó en el proyecto y bueno, es parte de tomar ganancias.
+Entonces hay veces que cuando tú volteas a ver un Dogecoin, un Shiba Inu, yo veía una gráfica y digo también fui parte, yo creo que también una de las cuestiones de terminar haciendo un token cripto en memecoins fue porque en su momento, te voy a ser sincero, muchas monedas que yo me hicieron ganar dinero fueron precisamente memecoins, entonces fue como tomar un poco de eso, de decir oye creo que mucha gente entra a las memecoins con él, con la búsqueda de enriquecerse en los proyectos y tener una ganancia.
+Entonces en este proceso ahorita lo que pasó pues digo, es un golpe muy fuerte porque obviamente ni nosotros habíamos tomado ganancias, no hemos vendido nada del token, incluso estábamos bloqueando liquidez y que una persona venga, se lleve todo.
+Es algo radical, ¿Sabes?
+¿Pero en este proceso pues obviamente es como reestructurarte y decir bueno, qué cosas se pueden tomar?
+Yo lo veo así, en este en este momento hubo mucha gente que nos buscó para querer entrar, no había podido entrar por él, por una u otra cosa, otros están esperando una caída y yo creo que esta es la caída perfecta en el hecho de saber que ya se depuraron las ballenas, que solamente estaban buscando la liquidez inmediata, pero que van a venir la oportunidad de ahorita poder comprar un token a un precio casi de salida y que obviamente esto se trata de comunidad de gente que diga sabes qué vamos a recuperar el precio pero ya desde aquí en adelante no vamos a buscar que la moneda llegue a su máximo ATH como lo que pasó y la vamos a volver a dumpear, sino que vamos a buscar seguir escalando cada vez más, cada vez más.
+Entonces es la búsqueda de esas comunidades que quieran estar en contacto con nosotros que digan oye qué más van a hacer, en qué se puede sumar, qué podemos hacer más allá de poner dinero y que esto pues se genera una sinergia para que el resultado pues sí sé que en algún momento se tiene que vender, se toma que tenga que tomar ganancias pero que no venga de que el proyecto pumpe y ahora el que viene seamos nosotros los devs los que vendamos.
+Sino que sea pues un cambio más que nada de la cuestión.
+Yo lo he visto, el hecho de ver gente que te diga oye ya pagué el mes de renta, tengo un amigo por ejemplo que en su momento me dijo y uriel este metidos 22 mil pesos y con los 2 mil pesos hice 84 mil pesos gracias al proyecto.
+Wow.
+Eso para mí es como el sueño es generar una economía para que la gente que confía en los proyectos que se hacen y no más que nada y no en la cuestión brandeado de la personal sino en Glunk en general haya sido el referente para cubrir una situación financiera de otra persona que es como yo lo veo que se deberían de manejar muchos de los activos.
+
+[Speaker 0 - 00:22:28]
+Mira ya pude poner aquí la gráfica, m máquina estaba fallando ayer, antier que lo vimos estaba como en 1.7 madre 16.
+De market cap.
+Está madra, está duro el madrazo está fuerte.
+Una ballena fue la que ocasionó esto.
+
+[Speaker 1 - 00:22:47]
+Sí, si te das cuenta siguen 259 holders de los 293 que habían.
+Entonces digo, no sé si sea un grupo, no sabemos quién haya sido en concreto, pero pues obviamente también hay que entender una parte de que.
+El precio se basa en la liquidez y no en el precio actual.
+Algo que aprendí un poco es que el algoritmo pues conforme va aumentando el ingreso de capital aumenta el precio más que nada de la moneda.
+No es de que se hayan ido un millón y tantos de dólares, sino que fue una persona que sacó una buena cantidad de su liquidez y por eso ahorita se ve tan horrendo el gráfico.
+
+[Speaker 0 - 00:23:33]
+Si no, estos contratos inteligentes y en específico la curva que tiene Pump Fun.
+Si alguien está metido por ahí en Pump Fun y no lo entiende o no sabe cómo funciona, yo no sé qué está haciendo ahí.
+Porque sí, como tú dices, si hay gente comprando solito el precio va ajustando y va subiendo.
+Pero si de repente hay una venta como la que acabo, que veo que cuentas qué pasó, pues sí, definitivamente no le sacaron un millón de dólares al token, sino que vendieron los tokens que tenían y sacaron la liquidez que había en el contrato que solito va ajustando los precios.
+Pero sí es importantísimo saber cómo está funcionando, cómo funciona la herramienta.
+Muchos inversionistas entran sin saber, sin conocer y definitivamente es algo que en lo personal me ha pasado muchas veces en muchos proyectos He visto caer 98%, 99% algunos proyectos, pero verlo para alguien nuevo, no sé, me imagino que algunos de los usuarios que tenían ahí, a lo mejor amigos de ustedes eran nuevos y no conocen un poco del sistema, bueno, híjole, ¿Qué les dirían?
+Yo le diría aprendan.
+
+[Speaker 1 - 00:24:36]
+Precisamente más que el madrazo es hacerlos consciente.
+Yo creo que mucha gente entró temprano o afortunadamente se les habla de forma directa.
+Esto es una inversión, no controlamos el precio, la promesa es seguir trabajando y precisamente pues hoy toca hacer muchos zooms, hacer llamadas para que la gente esté bien instruida de que nosotros no somos, que si siguen confiando en el token, pues es el momento perfecto para hacer DCA y volver a empezar, porque al final del día no queremos dejar morir esto que se le ha puesto tiempo, esfuerzo y que de alguna forma, pues como te lo vuelvo a decir, se pone la cara.
+Se pone la cara porque queremos literal que sea una memecoin disruptiva, pero más allá de decir, oye, me hicieron ganar en Donald glock, no sé, 10 mil, 20 mil dólares, cuando recuperemos el precio, pues sea la cuestión de, oye.
+La parte de los desarrolladores que estuvieron detrás dieron la cara, recuperaron el precio, hicieron coordinación de solicitudes para que se apoyara con marketing y desarrollo.
+Entonces es más que nada eso, ¿Sabes?
+Es más que nada eso.
+
+[Speaker 0 - 00:25:54]
+¿Cuánta gente hay detrás del equipo?
+¿Cómo manejan el tema de la comunicación?
+¿Qué le dirías a estas personas que a lo mejor ahorita nos están escuchando, que van a escuchar la grabación, que van y ven la gráfica cómo subió de el inicio hace un par de meses de lo que normalmente arranca Pump, que son creo que 4.000, 5.000 dólares de market cap, subir hasta los 2 millones y ahorita estar en 17, 17.000 dólares, o sea, está cabrón?
+¿Cómo recuperas esa confianza o cómo le generas la confianza a alguien nuevo para meterse en algo así?
+Después de ver la gráfica No está fácil.
+¿Con qué están planeando?
+Imagino que están ahorita, se está planeando.
+
+[Speaker 1 - 00:26:34]
+Ahorita ocupar mucho marketing de influencers, se está planeando precisamente hablar con gente que maneja comunidades grandes, decirle saben que, miren aquí está el token, acaba de pasar esto, ser bien frontal con las situaciones.
+Y pues obviamente decirle saben que, aquí hay un toque desgastado que nos acaba de pasar eso y bueno, está la confianza en de que hay personas detrás de él y que no vamos a estar dumpeando, no vamos a vender, podemos buscar la forma de que se traquen las wallets que que tienen los devs, todo eso creo que en cualquier negocio más allá de sea digital, sea tradicional, creo que tiene que ver con el tema de confianza y de comunicación.
+Entonces es lo que buscamos, comunidades que quieran tener la comunicación con nosotros, de que se quieran sumar y más allá no del tema de una cuestión financiera, sino de saben que este es un token en el cual si las comunidades entran temprano se pueden beneficiar porque nos acaba de pasar esto y es prácticamente un reinicio del token.
+Pero más allá de eso, pues también es una cuestión de querer.
+Pues resarcir el daño también con la gente que ya estaba.
+Entonces es búsqueda tras búsqueda de influencers por ahí ya afortunadamente digo pasó ayer contactamos por ahí un cuate que se llama Magnus, maneja puro estilo de vida y va a estar por una semana ahí publicando sobre el token, yo ya había hablado con él, nos dijo que nos iba a dar como incluso eso es bueno, que vengan influencers y que digan OK mira me late tu proyecto, te voy a dar la prueba de una semana de cómo trabajo y ya después vemos si hay un pago.
+Pero pues eso también a mí me genera como el empuje de oye no te desanimes, es son situaciones que pudieron haber pasado y quizá qué bueno que pasaron antes de esta, de estos amas, porque yo también, yo sé que tienes mexi buena comunidad o gente que es fiable y qué bueno que pasó ahorita y no pasó después y que después digan, miren, estos cabrones nada más vinieron a hablar de su tema y valió, ¿No?
+Así es.
+
+[Speaker 0 - 00:29:05]
+Oye, híjole, qué situación tan complicada.
+Ahorita voy a publicar la foto de la gráfica a ver si eso atrae un poquito más de ojos.
+Normalmente hay inversionistas que ven este tipo de cuestiones, a lo mejor pueden estar interesados en ver la historia, ver que ya tuvieron algo de éxito con el market cap, llegando los 2 millones y no sé, no sé, se me hace muy complicado, te soy sincero, es un reto.
+Pero bueno, aquí estás platicando y dando la cara y ojalá esta conversación te ayude a encontrar esas comunidades, esas personas.
+¿Pero cómo ha reaccionado la gente?
+¿Cómo han reaccionado tus amigos?
+¿Cómo reaccionado los?
+
+[Speaker 1 - 00:29:50]
+Fíjate que precisamente el día de hoy estaba hablando con gente que metió arriba de 3 mil dólares, 4 mil dólares y dijeron, bro, tranquilo que nosotros aguantamos.
+¿Cuánto Hay que meterle?
+¿Sabes?
+¿Ahora cuánto metemos?
+Afortunadamente también creo que tiene que ver con la marca personal, no perderla y saber que hay un responsable detrás o personas que están dando la cara para que hacer crecer este proyecto.
+¿Y creo que eso me da tranquilidad, sabes?
+Después de lo que acaba de pasar, es como de miren, esta es una situación.
+Obviamente siempre que una persona, por lo menos desde m persona, metió dinero, sabía que había un riesgo.
+Pero pues obviamente esto también ayuda a blindarte un poco en decir, sabes que, Se va a hacer lo que se pueda.
+Está el compromiso de buscar más influencers, buscar medios donde hablar de nosotros y poder llegar y hasta ahí no sabes.
+
+[Speaker 0 - 00:30:49]
+Mira, he visto como en esos casos de repente hay investigaciones, hay gente que se mete a buscar la blockchain, a escarbarle, a ver de dónde obtuvo el dinero la ballena que compró, si está a lo mejor.
+Con alguna relación con alguno de los devs o parte del equipo, todo eso les puede meter ahí un poco más.
+Una dinámica distinta.
+Por lo que veo, los montos, el monto que se llevó el chavo o la ballena esta que vendió son como 200 solanos, no son millones de dólares.
+Y a veces los investigadores no se meten a ver temas pequeños.
+Pero.
+Que han hablado entre ustedes, tienen, tienen.
+No miedo, pero sí el tema de que a ver si los empiezan a investigar y les arman un caso, o sea que se ponga esto legal en algún punto porque hemos visto cómo acaban en problemas legales, tipo de cuestiones.
+
+[Speaker 1 - 00:31:50]
+Mira fíjate, la verdad es que no hemos pensado en eso, sino ahorita encontrar una solución para recuperar el precio para que la gente esté tranquila y de alguna forma pues también creo que estos espacios funcionan para hacerle entender a la gente que una es ya se diluyó el precio y nadie está dando la cara y es un toque más quemado a nosotros de oye, sabes que acaba de pasar esto, estas son las situaciones que estamos enfrentando.
+¿Qué podemos hacer para resarcir el daño y lo estamos tratando de tomar como una empresa afortunadamente creo que te vuelvo a repetir, es dar la cara en no resolver diciendo a la gente oye mira aquí tengo de m dinero te doy porque solamente ni siquiera habíamos sacado un beneficio pero si es esta parte de estamos haciendo esto.
+Pues de alguna forma es buscar eso, los medios de cómo recuperar el token con lo que tenemos entonces se van a buscar de nuevo influencers, en su momento por ahí tuvimos a MatCrypto hablando de nosotros porque obviamente confía en m persona, tuvimos por ahí a Soy m Rey hablando de nosotros, entonces de alguna forma es hacerles saber que que pues este token en su momento también si creció pues fue una cuestión de confianza por ya las cosas que tratamos de siempre hacer bien las cosas desde la parte de los desarrolladores y por eso también esas personas que ya traen marketing, que traen proyección, pues obviamente sabemos que no con cualquier persona busca nada más llegar a hablar y OK, te acepto hablar del tema entonces es buscar lo mismo, volver a buscar gente que esté inmiscuida, que quiera aportar al proyecto y pues bueno, ojalá que esto se logre?
+
+[Speaker 0 - 00:33:44]
+Sí estoy revisando, fíjate la cartera de la ballena.
+Interesante el movimiento, tiene movimiento, inactividad desde hace meses, ha estado metido en varios proyectos de Pumpfun, en algún momento llegó a tener 300 millones de tokens que fueron los que vendió y en ese momento valía, digo valor token por precio de mercado casi medio millón de dólares, pero obviamente pues no es lo que sacó de la liquidez porque no tenía el contrato suficiente tanta liquidez como sacar medio bien.
+¿Pero quién es?
+¿Saben quién es?
+¿Cuando compró?
+¿Quién le avisó que comprara?
+
+[Speaker 1 - 00:34:23]
+Mira, creemos dos cosas.
+Puede ser una persona interna de las que nosotros hayamos invitado o puede ser una persona que vio el proyecto, lo vio fiable, aguantó.
+Y es que también te soy sincero, Mexi, nosotros esos 2 millones de dólares los alcanzamos como en 15 días, ¿Sabes?
+Entonces estuvimos, después de esos 15 días, estuvimos aguantando, aguantando, aguantando hasta que ahorita nos pasa esto, ¿Sabes?
+De hecho, de hecho rompimos el ATH, si ustedes se dan cuenta, después de subir una corrección cerca de lo del medio millón, nos dumpearon y de ahí subimos de nuevo a 2 millones de dólares.
+
+[Speaker 0 - 00:35:12]
+Entonces hoy mismo, fíjate que eso no lo he visto porque.
+Sí, sí, sí veo unas compras fuertes, veo.
+Después del dump.
+
+[Speaker 1 - 00:35:20]
+Sí, o sea, después del dump, si te das cuenta, el dump más fuerte llegó el 30 de junio, estamos hablando hace un mes, se dumpea y empieza de nuevo una corrida alcista en comprar la moneda.
+Hasta llegar casi al millón, a los dos millones cien más o menos.
+Y de ahí pues obviamente hubo esta corrección por parte de esa ballena que decide abandonar el proyecto.
+No sé si lo esté haciendo de manera.
+Táctica, no sé si después, incluso si sea un speaker latino, bueno, un inversor latino, un inversor gringo que nos pueda escuchar porque también tenemos planeado hablar ahorita en otros podcast en inglés.
+Entonces pues obviamente no sé, no sé si decida regresar, no sé si que hagan.
+Simplemente lo que tenemos ahorita el equipo de nosotros es buscar una solución de cómo se sigue hablando el proyecto y decir aquí estamos, no nos vamos a ir, No es la intención.
+El proyecto creo que se le ha puesto empeño, creo que si tú volteas a ver el sitio web, las dinámicas de conversación que hay en los grupos de Telegram, las cuestiones que se manejan todos los días en EX, de que mantener contenido, de explicarles qué está pasando a la gente, pues obviamente ahí está.
+Este es el trabajo que se hace día a día para que una persona, dos personas confíen en el proyecto y pongan un poco más de capital, ¿Sabes?
+
+[Speaker 0 - 00:36:47]
+Entonces yo no había visto a Mat ni a m Rey hablando del tema.
+Cuando empezaron a postear, ¿Cómo consiguieron ese contacto con ellos?
+Ellos tenían tokens.
+Breve disclaimer, yo nunca he tenido.
+
+[Speaker 1 - 00:37:01]
+Ellos tenían tokens, entonces.
+Yo los busqué, obviamente ya me conocen también, entonces pues decidieron.
+Decidieron confiar en el proyecto y pues ellos.
+Te voy a.
+Voy a buscar oportunidad, te voy a decir las fechas en las cuales postearon.
+Me parece que postearon desde el 18 de mayo, a los tres días posteo Mat Crypto y déjame ver si te puedo dar la relación de cuando posteó los demás, que era.
+Oportunidad.
+Déjame ver si tengo por aquí el de.
+Es que fue en su.
+Fue en su WhatsApp, Soy Mi Rey Publicó en su WhatsApp que tiene de inversión, pero déjame ver porque no estoy muy inmiscuido en redes.
+Grupo de WhatsApp.
+OK.
+Y soy m Rey Publicó.
+Me da hasta el 2 de julio, porque también fue en junio que lo hizo.
+A ver si lo encuentro aquí en WhatsApp en conversaciones privadas.
+
+[Speaker 0 - 00:38:27]
+Interesante.
+Si estoy viendo como.
+El primer mes de vida llegaron hasta el 1.8, luego estuvo lateral y veo el D.
+Bueno, no fue un dump tan grande, se fue poco a poco, fueron vendiendo por.
+
+[Speaker 1 - 00:38:42]
+Ahí de julio mencionas justamente el 19 de mayo.
+Al día siguiente Mat publica, creo que el 18 y el 19 este soy m Rey entra a hablar del proyecto.
+
+[Speaker 0 - 00:39:00]
+¿Les pagaron a ellos por hablar?
+¿Cuántos token les tocó?
+¿Cómo estuvo esa negociación?
+
+[Speaker 1 - 00:39:07]
+La negociación se dio a través de token, obviamente cada uno cobró una cierta cantidad que.
+Digo, no sé si sea bueno mantener anonimato, no sé si tú.
+
+[Speaker 0 - 00:39:19]
+Me dirás como quieras, lo que tú quieras.
+Yo ya platiqué de cuánto había cobrado yo por el Space, como les decía, es un Space patrocinado, es.
+Pagado y yo con gusto me los aviento, pero yo no tengo guión, yo pregunto de todo y yo rasco y si me responde chido y si no, pues tú sabes si me respondes o no.
+Pero si me interesa porque son personas que tienen mucho alcance, tienen cientos de miles de seguidores.
+Yo no estoy, Te voy a decir.
+
+[Speaker 1 - 00:39:49]
+La verdad, no es porque quiera denigrar el trabajo ni nada, pero yo considero que salió barato, más que nada por la cuestión personal que teníamos de que hemos hecho otras cosillas por ahí juntos, que yo he respondido de buena manera.
+Entonces también ellos la verdad creo que fueron muy cordiales por la cuestión de confiar en que no se iba a hacer ninguna mamada.
+Entonces yo sé que ellos traen otros números, me lo ha dicho Soy Mi Rey, ustedes saben el alcance que ellos tienen y yo considero que nos salió barato, no, está bien, pero personalmente también yo vi que ellos siguieron comprando, sabes, o sea, a mí me enseñó, tuve escenas con Soy Mi Rey, tuve acercamiento con Maddy y me dijeron el proyecto está chido, no, o sea, puede crecer a más, Entonces pues ahorita por ahí se va a buscar de nuevo, contactar a MAT, quiero volver a platicar con él, pues obviamente para que, no sé si tenga comunidad inmersa, vi que después de que él publicó y dio el super pump, mucha gente de su comunidad salió, pero pues también si hay algunos cuantos, pues obviamente yo no quiero generar ningún problema a ningún influencer a que piensen que los únicos ganones fueron ellos, sino que también una cuestión aislada a todos nosotros, lo que acaba de pasar y si tú te das cuenta, es una sola ballena la que la que se llevó dos, tres carteras de por medio, entonces pues es entendible.
+
+[Speaker 0 - 00:41:17]
+Definitivo, he visto como, digo, no sé si a mí me llegue algo, pero no creo, yo de nuevo, repito, yo no he hold, no lo he tradeado, ahorita me voy a poner a verlo porque ya me están dando ganas de entrar.
+Así como lo veo, siempre hay oportunidad cuando hay estos dos enormes, voy a estar al pendiente de que están haciendo ustedes también, pero bueno, con todo gusto.
+Es.
+Una cuestión de alto riesgo, o sea, si ahorita alguien de los que está escuchando decide entrar después de la plática, después de ver la gráfica y de todo lo que pasó, es bajo su propio riesgo, tengan cuidado.
+¿Yo a lo mejor compro, no puedo asegurar si voy a comprar o no, pero he visto como estas historias después de estos dumps pueden llegar a ser 1 2 3x, que 1 2 3x es recuperar un pequeño porcentaje de lo que estaba, pero 1 2 3 x nadie te los da, no?
+Entonces son mercados altamente especulativos, con mucha manipulación y sin la historia completa y el panorama completo, sin saber quién compró cuándo todos estos influencers, cuántos compraron, qué tanto se los hilaron a su comunidad, si ellos son los que vendieron y si ahorita van a volver a comprar, o sea, no sabemos, no sabemos, no.
+
+[Speaker 1 - 00:42:38]
+Creo que ellos hayan comprado, ellos hayan vendido, que soy sincero, la verdad es de que una de las ventajas de ser analista on chain y saber, saber ya algo de cripto, me da la posición de yo traquear las billeteras que en algún momento me dieron saber con las personas que interactuó en su momento porque pues también gracias, la verdad una de las cosas que agradezco es de que mucha gente me dijo, oye Uriel, este te mando el dinero en Solana o te mando el dinero en efectivo, yo compro y bueno, este, cuando yo les mandaba, pues yo puedo rastrear ahí, ¿No?
+De mira, este dinero quizá la pasa, la cambiaron de cuenta, pero viene desde aquí.
+Entonces en su momento me pasó, no te voy a mentir, yo vi por ahí una caída un poco fuerte, no se llevó mucho la persona que yo había invitado y yo le dije, ese dinero te está llevando a la liquidez de nuestra gente y no es el acuerdo que llegamos, si no te pago tu dinero y vete, pero vuelves a hacer eso y yo te saco de todos los grupos de difusión, de todos los grupos donde estamos pasándoles información privilegiada porque hasta eso teníamos grupos en español, aparte del telegram, en la cual nosotros les decíamos, miren va, ya va a postear más, ya va, ya hoy habla m meximalist.
+Entonces bro, eso para cualquier comunidad es como decirles, oye, el día de mañana salen Binance, el día de mañana salen tal, ¿Por qué?
+Porque al final del día es marketing y es entrada de dinero para la moneda, ¿Sabes?
+
+[Speaker 0 - 00:44:05]
+También te puede llegar a meter en problemas esto que mencionas, o sea, no, no, no, digo, sí era un arma.
+
+[Speaker 1 - 00:44:11]
+De doble filo, ¿Sabes?
+
+[Speaker 0 - 00:44:13]
+Si, no, definitivo.
+Mira, está pidiendo la palabra alguien de nuevo, les doy la oportunidad a todos, si quieren subir a preguntar algo, súper bienvenidos, la neta pues es un estar platicando con alguien del equipo que de una moneda que acaba de experimentar un 98 % de caída hace unas horas, este, no es algo que me.
+Había.
+Muchas preguntas, muchas dudas de qué opinan, de que les han dicho, de cómo lo ha manejado los grupos en los que están, esos grupos donde están esas ballenas y esos amigos, híjole, como han reaccionado, pueden ir encima, quién sabe, pero bueno, qué interesante poderlo platicar ahorita, ahorita pido la palabra, Crispy no se bajó, si alguien quiere subir, pida la palabra porfa.
+Cualquier duda, pues aquí todavía tenemos un ratito para platicar.
+¿Oye, y.
+Cómo ha reaccionado la gente en los grupos?
+Ahorita me meto al Telegram, esos grupos que les había pasado alfa previo, ¿Qué dicen ahorita.
+Amigos que tengas por ahí adentro?
+Sinceramente estar pasando bien, mira, yo.
+
+[Speaker 1 - 00:45:23]
+Creo que mucha gente ni siquiera se ha dado cuenta, entonces obviamente yo me voy a adelantar hoy zoom informativo, explicarles qué es lo que acaba de pasar, decirles qué decisiones están tomando para lanzar esto y quien tenga la confianza de hacer DCA pues adelante.
+Creo que aquí ya puede ser hasta un DCA más agresivo porque prácticamente nos acaban de diluir el precio por completo y es un reset del token, entonces creo que eso va a funcionar bastante.
+
+[Speaker 0 - 00:45:55]
+Bien.
+El que haya caído ya un 98% hace un par de horas no significa que no pueda volver a caer otro 98%, entonces también es algo que la gente que degenerada que esté considerando entrar ahorita lo tiene que tener en cuenta, o sea, pueden meterle 100 y mañana puede valer 2 de nuevo, el límite para abajo no.
+
+[Speaker 1 - 00:46:18]
+Existe.
+Sí, sí, sí, eso lo tenemos bien consciente, te digo, hay que ser crudos, hay que pasar la información directa sin ninguna promesa.
+De no es que nosotros lo vamos a llevar a tal, no te metas o no, no, o sea, no es un, no es un blofeo, es esto es lo que estamos haciendo, esto lo que vamos a buscar para recuperar el token y de ahí en fuera pues yo también ahorita terminado la llamada, hacer llamadas a influencers, a gente que confía que pues obviamente en su momento me acerqué para decirles oye mira el proyecto está diluido o bueno ya está creciendo y que muchos decían oye Uriel, es que ya el proyecto ya llegó a un crecimiento muy fuerte cuando pues obviamente yo Considero que GLON 2 millones no es nada, o sea, podemos llegar a, he visto proyectos que no tienen nada que ofrecer, por ejemplo el SPI 500 de este Murat no es por tirar, pero pues vale 500 millones de dólares y la moneda no te ofrece nada, o sea, no ha regalado nada, es simplemente marketing, ¿Sabes?
+Entonces nosotros sí estamos buscando generar integración de los.
+
+[Speaker 0 - 00:47:25]
+Clientes.
+Definitivamente necesitas viralizar, definitivamente necesitas atención, necesitas que entren pues los casi 300, o no ahorita confirmo bien, pero casi 300 solanas que sacó esta persona para que vuelva a subir, pero en esa subida lo que pasa y lo que me ha tocado a mí ver es que en esa subida después de una caída tan, tan grande, los que no vendieron ahorita cuando empieza a subir van a empezar a vender, entonces va a ser más complicado volver a llegar al punto en el que estaban porque de alguna manera algunos ya perdieron la confianza, quieren medio recuperar algo del dinero que a lo mejor le habían metido, entonces se vuelve más complicado llegar al All Time.
+
+[Speaker 1 - 00:48:09]
+High.
+Al final del día, como vuelvo a repetir, no buscamos sacar ganancia a corto plazo, quisiéramos ver qué tan lejos podemos llegar.
+¿No lo hicimos por dinero, prácticamente lo hicimos al principio como por un experimento, obviamente buscamos una recompensa, pero creo que tiene que ver mucho a veces con lo que ya logras externamente porque no lo ves por dinero, sabes, o sea, no lo ves como de ay cuánto voy a ganar?
+Ya cuando lo ganas, pues obviamente 50, 100.000 dólares.
+No.
+Quiero regresar el token al all time high para decir ahora vamos nosotros.
+¿Por qué?
+Porque sinceramente hasta considero que se le ha metido más al token de lo que ahorita se.
+
+[Speaker 0 - 00:48:58]
+Llevaron.
+¿No?
+Casos así he visto donde los equipos le meten horas, le meten semanas de trabajo, le meten dinero de su bolsa para estas este Spice, este Space, costó la colaboración con MAT, costó la colaboración con otros influencers, cuesta.
+He visto cómo sí, definitivamente los equipos también pueden salir perdiendo, no nada más el inversionista, sino el creador del proyecto y las ballenas son las que se acaban a veces llevando la lana.
+Eso es algo que sucede, eso es una realidad.
+Pero interesante que estén aquí platicando del tema.
+¿Tú crees que más?
+¿Rey que otros influencers regresen o vuelvan a platicar del proyecto después de lo que.
+
+[Speaker 1 - 00:49:43]
+Pasó?
+Voy a hacer un espacio para platicar con ellos de la forma más personal posible, explicar la situación, obviamente considero también que puede que hasta les interese porque de alguna forma es reiniciar el token y que sus comunidades se beneficien al ser los primeros en entrar y después hablar ellos.
+Entonces sería una cuestión como de trabajar esa parte de qué comunidades entran, cómo van entrando, que las comunidades de unas personas no sean el exiliquidity de otras y generar una armonía primero.
+Ahorita pues si hay caos, no te voy a mentir, pero bueno, es parte.
+
+[Speaker 0 - 00:50:26]
+De.
+Resto del equipo del proyecto, ¿De dónde es?
+¿Son mexicanos?
+Todos son mexicanos.
+Somos.
+
+[Speaker 1 - 00:50:36]
+Mexicanos.
+Todos somos mexicanos, Todos tenemos por ahí a.
+Pronto si quieren les pasamos por ahí hasta hacemos una publicación, tenemos un muy buen programador que nos ayudó toda la parte de íbamos a sacar de hecho hasta e commerce ahorita yo creo que lo vamos a retrasar un poquito porque ya estamos volteando a sacar chamarras, sacar patinetas de Glock merch, entonces pero tenemos ahí prácticamente somos tres personas los que hemos estado trabajando y estas tres personas somos los responsables del proyecto y estamos firmes, estamos firmes en que tenemos que levantar esto de.
+
+[Speaker 0 - 00:51:14]
+Nuevo.
+Definitivamente yo te recomendaría no gastes en merge, ya paren ese sangrado, utilicen el presupuesto que tienen porque todo esto se acaba, estos proyectos en algún momento.
+La gran mayoría acaba abandonando porque no hay dinero, porque no hay atención, porque ya no hay suficiente personas comprando, puede que le suceda, puede que no, ojalá y no ahora que los tengo por aquí, pero sí definitivamente los recursos que les quedan, si la idea es de alguna u otra manera recuperar la confianza de la gente tienen que ver cómo los van a aprovechar porque pues se acaba de nuevo y muchos de nuevo acaban.
+
+[Speaker 1 - 00:52:00]
+Abandonando.
+¿Definitivamente lo vamos a hacer.
+No, sí, sí te digo definitivamente no se va a buscar, lo digo a título personal, tengo amigos, familiares que confiaron en el proyecto, que no metieron tres pesos en el proyecto, entonces he pasado por situaciones similares en otro tipo de negocios y siempre es ser bien frontal y pues obviamente ver la forma de recuperar esto, entonces.
+Pues son situaciones que obviamente uno no espera, espera siempre ir a más, pero vuelvo a repetir qué bueno que pasó ahorita y no en un precio más alto, que esta persona haya holdido por más tiempo y diga ahora sí vale la pena la bolsa de llevar un millón y medio, dos millones, entonces veamos, vamos a ver qué tal también con el apoyo de la gente que tengo, tengo, te digo, tengo gente dispuesta a meterle, entonces nada más vamos a ir haciendo el escalonado porque también este, la búsqueda va a ser eso no?
+Buscar qué activos nos puedan hacer crecer, bueno qué inversiones se puedan ir colocando de manera estratégica para que también no vayan saliendo la gente, yo creo que pues tenemos, hay mucho trabajo que hacer, demasiado trabajo de aquí en adelante y creo que lo podemos.
+
+[Speaker 0 - 00:53:16]
+Lograr.
+De nuevo, de nuevo para mí es algo que no me había sucedido, poder platicar con alguien que esté en esta situación que esté experimentando horas de que haya sucedido como tú dices, el market cap de 17 millones a caer hasta los K, es una caída del noventa y tantos por ciento, pero no es la primera ni va a ser la última.
+A la gente que nos escucha, que a lo mejor compró alto y ahorita su dinero ya vale, pues muy poco, les diría aprendan, aprendan de madrazo, aprendan de la experiencia, aprendan de que en estos mercados y en específico en estas plataformas como Pump Fun, es algo que sucede diario, diario, diario.
+Esas gráficas yo las veo salir de monedas que salen hoy y a los dos, tres horas ya están así, esta se tardó meses, ya lleva un par de meses y bueno, hay un equipo detrás.
+Normalmente cuando sucede esto, borran cuentas, borran páginas, eliminan post, eliminan grupos de Telegram, se van y ahí queda la situación.
+Aquí al menos tienen alguien con quien pueden ir a preguntar, que bueno, tampoco es mucho.
+Consuelo, pero pues bueno, algo es algo, de lo menos la.
+
+[Speaker 1 - 00:54:44]
+Idea es esto de estar en contacto con la gente, gente de que sepan qué es lo que se va a hacer, que lo próximo que sigue, que vamos a buscar, porque pues sí, definitivamente es un golpe duro para el ecosistema y para la moneda, credibilidad y todo, pero vaya, queremos ser totalmente transparentes de que no fue una cuestión interna, no es de que no somos un LUNA, no somos.
+¿Que otra moneda pudiera ser?
+Hay muchas monedas que se han ido llevándose todo el dinero y terminas dándote cuenta que fueron los deps, entonces este no es el caso, pueden ver el DEP está intacto, durante las salidas no se vendió nada del DEP, entonces para que se den cuenta que no iniciamos nosotros el DUMP.
+
+[Speaker 0 - 00:55:29]
+Sabes.
+Si estoy, estoy, te puedo llegar a creer y en este momento te creo porque no tengo información para desmentirlo, pero híjoles, o sea, LUNA.
+De todas maneras llegó a ser un dos, tres, cuatro X después del Dump, Aguas, aguas.
+Hay gente que muy probablemente recuerde esa situación o recuerde algunos otros proyectos, quiera meter, no quita que esto vuelva a caer un 98%, o sea, de esos 17 mil, al rato puede estar en 1700, no.
+
+[Speaker 1 - 00:56:05]
+No.
+No creo, eso sí les prometo que yo me encargo de buscar la liquidez para que entre, o sea, te digo, ahorita es llamadas, hablar con gente, gente que ya en su momento estaban esperando entrar y los quisimos, afortunadamente los quisimos parar o les dije espérense tantito porque no sé cómo vaya a resolver, porque pues obviamente crecimos muy rápido en términos prácticos.
+Este, entonces, pues yo espero que con él, con la credibilidad que tengo en otro tipo de negocios, esto lo.
+
+[Speaker 0 - 00:56:42]
+Recuperemos.
+¿Esto es algo que tú esperabas?
+¿Tú sabías que iba a pasar?
+¿Tenía indicios de que esta ballena iba a golpear de esa.
+
+[Speaker 1 - 00:56:51]
+Manera?
+Sinceramente no.
+Sinceramente no me esperaba para nada de esto.
+Pues obviamente estábamos emocionados porque si te das cuenta y estábamos en 1.7.
+Yo dije bueno, con este su, con este ama, pues yo creo que rompemos el ATH, que se vea la estructura de la gente cómo está creciendo después de los canales o la integración de lo que tenemos Y bueno, este, nos pasa esto horas antes.
+De hecho yo me contacto con él, con el equipo que nos contactó contigo y explicar la situación.
+Hoy acaba de pasar esto, yo quiero hablar de la manera de lo que acaba de pasar y voy a hacer simplemente neutral.
+No quiero, no quiero, este, que la gente entra en pánico porque al final del día es un proyecto que se empezó y yo le he puesto tiempo, le he puesto m persona, No, no estoy hablando a través de tras bambalinas.
+La gente puede, tú les puedes pasar incluso m.
+Ex, le puedes pasar mis redes sociales, ya más o menos me conoces, me identificas quién soy y no es de que me esté queriendo hacer de dinero nada más para dumpear cada rato, No.
+
+[Speaker 0 - 00:57:57]
+Sabes.
+Qué loco, qué loco.
+Me gustaría ver si hay alguien por aquí en la audiencia que haya comprado, que haya entrado, que quisiera hacer alguna pregunta y si no veo algunos conocidos si quieren subir a hacer una pregunta aquí a Uriel acaba de experimentar su moneda, una caída del 98% porque una ballena vendió una muy buena cantidad y de los 17 millones de market que estaba ahorita están en 17 mil.
+Qué difícil situación en la que estás, no te lo voy a negar.
+No, no, no te envidio en lo absoluto, pero pues bueno, estás dando la cara, estás platicando del tema.
+Voy a estar al pendiente de cómo se desarrolla el proyecto.
+Les dije que a lo mejor compro, no sé, no sé, yo siempre soy muy transparente al día de hoy nunca hemos tenido una de esas monedas.
+No me pagaron este space en la moneda, me pagaron en dólares, pero, pero este caos y este incertidumbre a veces trae oportunidades, pero esas oportunidades también se pueden ir a cero.
+
+[Speaker 1 - 00:59:02]
+¿No?
+Hay que trabajar en.
+
+[Speaker 0 - 00:59:06]
+Ello.
+No, pues tienes un buen de chamba enfrente de ti.
+Me imagino que va a haber muchas preguntas que.
+Los mismos usuarios del token y amigos clientes que compraron, que confiaron, que ahorita probablemente estén muy, muy abajo en su inversión, pues vayan a estar preguntándote ¿Qué sigue, ¿Cuáles son los planes, ¿Cómo piensan recuperarlo?
+Me imagino que habrá comunicación ahí, estaremos al pendiente de eso.
+De nuevo abro la oportunidad para que alguien suba la mano y que se venga y pregunte.
+En lo personal no había tenido yo la oportunidad de hablar con un dev que haya experimentado algo así y mucho menos de un equipo de mexicanos.
+Qué difícil, qué difícil.
+Ojalá no llegue a un tema legal, Yo lo he visto llegar, pero por los montos a lo mejor.
+Pues no, no es el caso, pero madres.
+Qué loco, qué loco.
+¿Qué dicen tus otros equipos del, equipo del, o sea las otras dos personas que están dentro del, del equipo de.
+
+[Speaker 1 - 01:00:08]
+Desarrollo?
+Pues lo están tomando pues con un tanto de preocupación, Sin embargo te comparto.
+Son gente ya empresaria, son gente que.
+Trabaja en otras cuestiones y pues obviamente te digo, lo vemos como un negocio más que necesita reestructura, que son cuestiones que te ayudan a reestructurarte para saber qué es lo que tienes que hacer ahora para poder recuperar la confianza, para poder ahora con que influencer vamos tener que hablar y explicar de la forma más transparente qué es lo que acaba de pasar.
+Pero también ayuda bastante en el tema de la integración, ¿Sabes?
+Vamos a ir buscando la integración de.
+Personas que traigan comunidades que realmente sean holders y que nos ayuden a duplicar la.
+No quiero sonar religioso, pero que quieren replicar la palabra de Glock en el sentir de decir sabes que aquí está el token, nosotros seguimos aquí firmes, creemos en el proyecto, sabemos que podemos llegar a más si trabajamos en equipo.
+Entonces pues también aquí la verdad es de que es como una depuración de ver quién, qué gente nada más estaba como rapiña queriendo sacarle dinero del token cada vez que subía y quién se va a quedar, hacer que esto explote a.
+
+[Speaker 0 - 01:01:29]
+Millones.
+Ahorita estoy viendo la tabla de los holders, déjame nada más aquí reviso mientras alguien a ver si se anima a subir, todavía tenemos aquí unos 10 minutitos por si quieren platicar de algún tema, pero estoy viendo aquí una tabla, tenemos ya bajó a 16.9, veo que la wallet del DEV tiene 10% de los tokens, me dices que son los que no han vendido.
+
+[Speaker 1 - 01:02:00]
+¿Verdad?
+No, y aparte tenemos incluso ahí tenemos el contrato de cuando se, de cuando se bloquearon cerca de 200 mil.
+
+[Speaker 0 - 01:02:09]
+Dólares.
+Mira, estoy viendo compras de.
+
+[Speaker 1 - 01:02:18]
+Solanas.
+
+[Speaker 0 - 01:02:20]
+Ha habido más ventas estos últimos mientras hemos estado aquí en el Space, la última hora ha habido tres ventas y dos compras, en volumen es un poquito más, bueno, no, como cuatro veces más en ventas, pero qué loco, qué loco, veo la gráfica, hay holders, vamos a ver el mobile map, la verdad es que todo esto se puede investigar mucho detalle y se puede ver de dónde sacó el dinero, la moneda, de dónde sacó el Solana inicial para comprar el token o si alguien le mandó el token, o sea, se puede llegar hasta muy, muy profundo, a menos que sean muy conocedores de estrategias para ocultar.
+Las relaciones entre las wallets, pero madres, qué fuerte, qué fuerte, sí veo que fueron aproximadamente como 60 mil dólares lo que se la ballena al vender hace un par de horas dentro de sus tres mil, no, que tres, trescientos millones de tokens que tenía.
+Lo pudo cambiar por pues la gran mayoría de liquidez que tiene el contrato ahorita el contrato tiene.
+Déjenme les digo.
+Aquí no lo, me cambiaron un poquito la manera de ver este token.
+Market cap, el precio por moneda también cayó increíblemente, pero bueno, el all time high, 21 millones ahorita están a 98.99% abajo del all time high.
+Qué duro, qué fuerte.
+No veo ninguna solicitud de personas que quieran subir.
+¿Qué le dirías a la banda que nos escuche?
+¿Veo algunos personas que son influencers, veo personas que tienen sus espacios, veo por ahí una compañía de medios, veo caro, o sea, veo a gente que está bien involucrada en el ecosistema latino mexicano.
+De Puerto Rico, de Venezuela, de Colombia, de todos lados, muy probablemente nunca habían escuchado el proyecto.
+Gente que está muy activa haciendo contenido que está pegado aquí en X, que a lo mejor en algún punto puede llegar a, no sé, no sé Qué les dirías?
+¿Que les dirías a toda la.
+
+[Speaker 1 - 01:04:40]
+Banda?
+Nada, que nos contacten, que somos personas abiertas a dialogar, obviamente que nos conozcan, que obviamente creo que cada negocio que se hace tiene que ver con la persona que hay detrás, más que casarse con un toque.
+Y pues que si les vibra, que lo que se les propone, que lo así tan crudo como digo, ahorita yo pudiera haberte dicho, no, es que nos vamos a millones y ya hablé con tal persona, no, esto acaba de pasar y bueno, hay que.
+
+[Speaker 0 - 01:05:13]
+Ver.
+No, definitivamente también.
+Mucho respeto el que hayas venido a platicar acá sin guión, como yo le dije a la persona que nos puso en contacto, las preguntas que yo voy haciendo van saliendo de acuerdo a cómo va la conversación y a cómo va el proyecto.
+Definitivamente te iba a preguntar de temas de grupos privados, ya nos contaste un poco, te iba a preguntar sobre influencers, ya nos platicaste un poco, pero cuando empecé el Space, yo no sabía que había caído tan fuerte, no había.
+
+[Speaker 1 - 01:05:48]
+Visto.
+Antes de hacer el Space, yo también hablé con.
+Yo hablé con mucha gente.
+Y una de ellas fue la persona que nos contactó.
+Dije, bueno, si yo quiero ser completamente transparente, les aviso lo que acaba de pasar porque no quiero que se sorprendan de que ahorita terminamos el Space y Oye, ¿Qué pasa?
+¿Por qué me estás mandando?
+Al igual y hasta tú te negabas a hablar con nosotros y digo, no es la intención como que se malverse.
+Por ahí vi que Punto i punto uno por ahí decía que los devs acaban de llevar el dinero y la realidad es que no, tú puedes ir a ver el deporte, nunca nos llevamos nada, no se ha vendido nada, incluso se bloqueó y pues digo, la cuestión es ahorita entregar resultados buscando capital de nuevo, pues de amigos y familiares que creen más que en el proyecto de nosotros, en otras cosas que hemos hecho.
+Entonces ojalá se pueda.
+
+[Speaker 0 - 01:06:47]
+Lograr.
+Mira, yo definitivamente si hubiera sabido de la caída, de todas maneras hubiera tenido, porque con mucha mayor razón me dan ganas de hacerte estas, las preguntas que te hice, de poder escucharlo debido a voz del equipo de trabajo que acaba de experimentar que una ballena haya dumpeado de esa manera también se me hace súper loco.
+Y bueno, aquí estás, aquí estás.
+Y entiendo también definitivamente el punto de o el comentario de Durman es bueno, es entendible que la gente crea que o los influencers o ustedes o algún amigo de ustedes al cual le avisaron que comprara temprano, haya sido el que se haya llevado esa lana.
+Totalmente entendible.
+También entendible que los holders del proyecto se reúnan, probablemente hacer una investigación más profunda y en algún punto.
+No sé si haya por ahí alguno que quiera proceder con un tema legal porque tienes que estar consciente que eso puede llegarte cabrón, o sea, eso te puede llegar a caer.
+Entonces bueno, va a ser interesante ver cómo, cómo se desarrolla y que vengas y que nos platiques de lo que ha sucedido y cómo lo han manejado también en lo personal.
+Te lo reconozco.
+¿Por ahí Jesús García pregunta Mexi el proyecto tiene una comunidad identificada con el mismo, cómo es?
+¿Cómo es a tu comunidad, a los que se han quedado y los crees que se van a quedar y no van a vender?
+Si sientes que están identificados, sientes que pueden llegar a.
+Sinceramente sigue haciendo ruido porque los necesitas a todos.
+¿La banda que tiene el token que ruido y que deja la.
+
+[Speaker 1 - 01:08:26]
+Atención?
+¿Pues de hecho yo lo veo en la parte de los rides, teníamos rights en X que cada vez que alguien hablaba de gloria se activan los raids para que fueran y comentarán, repostearán y todo y fue como hemos llegado a cerca de 800 personas, sabes?
+Cerca de 800 personas, 400 personas de manera orgánica en X.
+Entonces pues son gente que sabemos que están comprometidos con el proyecto y que de alguna forma también te vuelvo a repetir, una de las ventajas que tuvimos siempre fue que se prometía y lo que se les daba, pues lo que se les prometía que iba a pasar, pasaba ¿No?
+Entonces incluso te digo, como tú dices, un arma de doble filo, en su momento se, hasta se les dijo que iban a entrar ballenas y tenían la posibilidad, decíamos en dos horas entran ballenas y digo para los que no sepan eso era una oportunidad de hora porque era como decirte mete tu dinero antes que todos porque va a entrar liquidez.
+Entonces yo creo que también de eso depende mucho ahorita no generar tanto caos ni tanto ruido.
+Obviamente también yo sé que muchas de la gente que entró por m persona ni se ha dado cuenta, entonces ahorita es empezar a llamar, terminando los, terminando esta llamada y hacerlos conscientes acaba de pasar esto, esta fue la situación, miren, no hemos vendido nada, entonces pues que le metan.
+
+[Speaker 0 - 01:09:49]
+Más.
+No te envidio, no envidio tu situación.
+Que complicado, qué duro, que fuerte, que qué bueno que sigues aquí platicando del tema, que no se han ido, que no han borrado redes y que.
+De continuar, finalmente creo que los folders es lo que van a querer.
+
+[Speaker 1 - 01:10:11]
+Escuchar.
+
+[Speaker 0 - 01:10:12]
+Claro.
+Pero de nuevo.
+Que haya gente que haya perdido tanto en tan poco tiempo va a hacer que regresar al más difícil.
+¿Por qué?
+Porque cada que alguien haya, cada que alguno de estos influencers nuevos que puedan llegar a conseguir compre, va a haber gente dumpeando porque se va a querer salir para recuperar algo de dinero.
+Va a ser más complicado.
+No te envidio tampoco las pláticas que vas a tener con los.
+
+[Speaker 1 - 01:10:37]
+Inversionistas.
+
+[Speaker 0 - 01:10:38]
+Claro.
+Pero bueno, es parte de experimentar, es parte de lanzar estas, usar estas herramientas para lanzar.
+
+[Speaker 1 - 01:10:47]
+Tokens.
+Espero de verdad que.
+Todo lo que vayamos a hacer y trabajar en este nuevo mes que ya viene y todo lo que venga, pues después volver a tener otra plática y que el escenario sea diferente.
+Porque la verdad es que no nos vamos a.
+
+[Speaker 0 - 01:11:05]
+Ir.
+Perfecto, excelente.
+Me quedan unos dos, tres minutitos.
+No hay nadie que haya levantado la palabra a los comentarios que nos hicieron acá abajo.
+Ya los comentamos, ya respondimos.
+Bueno, ya respondiste, yo también ya lo saqué aquí a la luz de nuevo.
+Qué difícil, qué fuerte.
+Algo de lo que estás mencionando, te soy sincero, te podría llegar a meter en problemas porque estás básicamente comentando que les avisabas previo y se puede llegar malinterpretar o no malinterpretar, sino interpretar como pump and dump.
+A ver, déjame subo aquí a Durman Sierra que quiere platicar.
+Vamos a subir lo que todavía tenemos un poquito de tiempo, pero aguas con la comunicación también es lo que yo te recomendaría.
+Aguas con cómo mencionas todo eso, porque finalmente.
+Sucede.
+Sabemos que sucede, sabemos que hay grupos privados donde la gente habla y opina y les dice, oye, ya viene alguien, van a comprar, prepárense y pueden aprovechar para vender y sacar provecho.
+Y así se maneja, así es esto también hablarlo así abiertamente, calzón quitado.
+Creo que es importante porque sucede y va a seguir sucediendo en todos los proyectos.
+Pero bueno, Durmán, gracias por subir.
+Bienvenido.
+Platícanos qué opinas del proyecto, qué opinas ¿Qué le dirías que al buen.
+
+[Speaker 2 - 01:12:30]
+Uriel.
+El Gran.
+
+[Speaker 0 - 01:12:33]
+Mexi?
+¿Cómo están.
+
+[Speaker 2 - 01:12:34]
+Todos?
+Feliz tarde.
+¿Qué tal brother?
+Mira hermano, no creo que, no sé si malinterpretarte lo que había escrito.
+Una pregunta, una pregunta porque, porque ¿Qué es lo que pasa hermano?
+Mira, ahorita estamos en un momento del ecosistema donde está llegando mucha gente con dinero, mucha gente nueva también que no se conoce nada de las criptomonedas y esto también trae un montón de gente que aprovecha la ola de.
+Alzheeso para.
+Aprovecharse de estos proyectos y robarle la liquidez.
+¿Que te aconsejo yo hermano?
+De verdad es que mira, ya cuando, cuando un proyecto le ocurre esto, la confianza se va siempre, en la mayoría de los casos la confianza desaparece, la gente no creen en los desarrollos desarrolladores y muy pocas veces logra uno volver a levantar capital o no estoy diciendo que sea tu caso, no estoy diciendo que ustedes se hayan llevado la liquidez, pero sí, pero sí digo, te lo digo como de manera de consejo, trata de ser lo más transparente posible porque si te consigue gente como yo, yo siempre voy a decir, porque conozco la programación de que, de que los Dev tienen la culpa y si no tienen la culpa ellos tienen algo que ver porque hay mecanismos para que estas cosas no sucedan desde la programación hay mecanismos para evitar que la ballena te.
+
+[Speaker 1 - 01:13:58]
+Venda.
+Aquí la cuestión yo creo que tiene que ver bro, que se lanzó desde Ponfund obviamente.
+Entonces, obviamente tú sabes que es un mercado abierto Ponfun, entonces, pero sabes.
+
+[Speaker 2 - 01:14:13]
+Que lo que pasó también, que no podemos justificarnos por eso, no, no, no.
+Recibe otra raya más.
+Entonces la gente dice, ah no, yo no voy a migrar para Cristo porque mira, acaban de robar un montón de gen, quizás era los únicos ahorros que tenían de su vida y lo metieron en una moneda confiando en un amigo y mira, resulta que ahora metió 100 y tiene menos 10, ¿Me entiendes?
+¿Entonces ahí es donde yo, donde yo le explico, oye, hay que tener mucho cuidado cuando hay lanzamiento en panfound, es una máquina de scan, tú lo conoces?
+Porque ahí ha ocurrido un montón de.
+
+[Speaker 1 - 01:14:43]
+Locuras.
+Sí, sí, ahorita nos acaba de pasar.
+Obviamente es lo que también como puede pasar, ¿No?
+Este, y soy consciente, ahorita, ahorita yo no sé si llega una ballena y diga oye, ahorita voy a meterle ahora no sé, de los 50 le meto 100 y me quedo con un porcentaje de arriba del 30% del DEP.
+
+[Speaker 2 - 01:15:04]
+Y puede pasar.
+Eso también puede ocurrir.
+
+[Speaker 1 - 01:15:08]
+Eso también puede ocurrir, entonces son situaciones que por eso te digo ahorita es voy a buscar yo ser frontal como tú dices, ser frontal a la gente nunca se le ha mentido, ahorita es dar la cara, por eso estamos aquí hablando del tema, es un tema que quise sacar a la luz porque al final del día la gente iba a tener cuestionamientos de quién está, por qué pasó y pues que ellos y una de las ventajas de cripto es de que todo es transparente, ustedes pueden ir a.
+
+[Speaker 2 - 01:15:33]
+Ver.
+Exactamente, ahí es donde iba a la transparencia y es que también parto de que hermano hay que cuidarnos entre todos, hay que evitar que esta cosa pase.
+Claro porque hermano a mí de verdad me duele cuando esta cosa pasa.
+
+[Speaker 1 - 01:15:47]
+Porque entonces la gente empieza en el.
+
+[Speaker 2 - 01:15:50]
+Ecosistema latino ladrones, me entiendes, o sea si somos una comunidad hispana la idea es que no nos ocurre estas cosas y si no ocurra entre todos hermano yo por ahí tengo, yo trabajo uno también si te hace falta y te lo pongo a la orden tenemos mecanismos de cómo rastrear dinero, wallet, tenemos aplicaciones que nos ayudan a traquear muchísimas cosas si está interesado me tira un D.
+
+[Speaker 1 - 01:16:10]
+Por ahí Gracias, gracias sinceramente mira está súper bien eso y digo en algún momento lo vamos a hacer yo creo, pero creo que ahorita toda nuestra energía tiene que estar en ver cómo recuperamos el precio, sabes, o sea ahorita aunque encuentra la persona no nos va a regresar el dinero, no es como ya.
+
+[Speaker 2 - 01:16:33]
+Tener porque es un mecanismo legal, se está llevando el dinero pero de manera legal, no te está robando, no está hackeando, o sea eso es.
+
+[Speaker 1 - 01:16:41]
+Legal.
+
+[Speaker 2 - 01:16:41]
+Exactamente.
+Claro, pero si quiere por ahí sabe quién es bueno, me tira por ahí.
+
+[Speaker 1 - 01:16:46]
+Cuadra.
+Dale hermano, me parece muy bien, gracias, gracias por la interacción.
+Gracias.
+Por.
+
+[Speaker 0 - 01:16:55]
+Seguir.
+Qué loco, qué loco, qué loco, no estaba esperando una plática de este tipo que no había visto la pero la neta escucharlo y que estén aquí que sigan pues eso les debe dar algo de información a los holders, yo los holder les diría aguas, esto puede volver a caer otro 99% así como puede hacer un DX, lo he visto, hay regenerados que van a entrar ahorita y que van a vender cuanto esto se triplique y de nuevo, creo que eso te va a ocasionar que sea mucho más difícil regresar al All Time High, pero bueno, traen un buen de chamba para poderlo lograr y les deseo lo mejor.
+Les deseo lo mejor, mucha.
+
+[Speaker 1 - 01:17:39]
+Suerte.
+Bueno, te agradezco mucho y pues cualquier cosa, pues aquí andamos, vamos a ver qué dinámicas ocupamos, vamos a seguir posteando en redes sociales para que la gente se integre y pues esperemos tener un buen resultado a corto plazo de que se den cuenta que nos pasó, pero aquí estamos, no vamos a dejar morir.
+
+[Speaker 0 - 01:18:01]
+Esto.
+En lo personal ya me llame, ya me siento involucrado con la historia.
+Yo encantado de volverlos a tener aquí en un mes o dos para que nos platiquen como.
+Ahí lo seguiré buscando a ver si siguen, porque también es algo que la gente tiene que estar consciente.
+Ahorita tienen muchas intenciones, hablan, hablas y comentas que le van a echar muchos kilos, pero.
+La consistencia está dura.
+No es fácil, no es.
+
+[Speaker 1 - 01:18:32]
+Fácil.
+Sí, sí, sí, es todo un reto, vamos a ver cómo pasa.
+Les digo, no tenemos intenciones de borrar páginas, vamos a tener intenciones de borrar sitio web.
+Ahí está en Telegram, está el Telegram abierto, no hemos bloqueado mensajes, nada, todo transparente.
+Entonces, y va a seguir así, eso tengan 100% la.
+
+[Speaker 0 - 01:18:58]
+Certeza.
+Perfecto, perfecto.
+Bueno, esto fue el episodio número 68 de banda web 3 con el equipo de Tony Glock.
+Nos contaron de la situación en la que están ahorita experimentando con una caída del 99% del valor de la capitalización de mercado de su moneda.
+Este space fue un space patrocinado por el equipo Donald Gloom.
+Me pagaron en dólares, yo nunca he holdeado el token hasta este segundo, hasta este momento.
+Ahorita estoy analizando a ver si entro o no, porque muy probablemente pueda haber oportunidad cuando hay este tipo de caídas, siempre hay en río Revuelto, hay oportunidad de pescador, entonces bueno, ya es bajo m propio riesgo y asumo las consecuencias y esto vuelve a caer otro 99% pero sí voy a estar muy pegado considerando que es un equipo que es mexicano, que también por ahí nos fue en contacto un amigo con el cual he colaborado mucho y en el cual confío mucho, entonces me imagino que tiene buenas referencias de ustedes.
+Qué dura situación, que dura.
+
+[Speaker 1 - 01:20:00]
+Situación.
+Dale, mexi pues encantado de haber platicado nuestra perspectiva, espero les vuelvo a decir, no buscamos endulzarles el oído, simplemente pues les venimos a platicar también la experiencia que estamos presentando porque obviamente somos un equipo que acaba de lanzar este proyecto no hace mucho y es nuestro primer proyecto, no es como que nos dedicamos a hacer esto, sino fue una cuestión de ver qué podría pasar si lo hacíamos, iba muy bien y pues obviamente esto nos pone en jaque, entonces esperemos que con la misma respuesta y la confianza que han tenido la gente pues regresemos esa a hacerle ver a la persona que se acaba de ir que estaba equivocado, que ese proyecto no era nada más para entrar y.
+
+[Speaker 0 - 01:20:43]
+Salir.
+Definitivo, definitivo, tienen mucho trabajo por delante, les deseo lo mejor, de nuevo les voy a estar dando seguimiento y me encantaría tenerlos por aquí en un mes o dos para ver cómo está la.
+Gente, claro que sí, pero bueno, los dejo, esto es Mindset, la canción hecha con inteligencia artificial que estoy utilizando para sus espacios.
+Por ahí publiqué ya un vídeo, no lo he mencionado mucho y ahorita les paso el alfa.
+Me puse a jugar ayer con Sora y con la nueva aplicación de base y ya le dije que sí a crear m Content Coin, madres, de hecho m Content Coin el día de hoy tiene el mismo market cap que Donald Glock, está como en K, así que aguas porque esa es una manera también de sacar tokens bien lowcast para los creadores.
+Y el vídeo que subí en Sora también ya tiene su moneda.
+Publiqué el Flyer del Space el día de hoy también ahí en Sora para ver cómo funciona y también ya le creó su moneda esa madre.
+Voy a estar experimentando con eso de los Creator Coins y Content Coins y viendo cómo funciona ese sistema porque también me ha llamado mucho la atención cómo ha pompeado el precio, cómo ha subido el precio de Sora por lo mismo, entonces ahí yo creo que voy a tratar de conseguir a alguien del equipo de Sora para que nos venga a platicar un poquito de la Iniciat, de cómo lo han pensado, de la posibilidad de que cada pieza de contenido tenga su moneda, que cada creador tenga su moneda, se me hace algo muy interesante, un experimento muy loco que creo que no va a resultar bien, pero bueno, ya veremos cómo funciona.
+Yo por m parte si quieren m Content Coin por ahí está disponible.
+Farcaster, m usuario es Mexi mex y en m perfil de Sora, también está el video de.
+Minds a Beast, la canción que ya llevo poniendo un buen rato el vídeo, yo creo que al rato lo subo también a Instagram y aquí a X para que lo puedan ver y les pongo el link para que lo puedan ir a adquirir para generar ahí algo de dinerito, a ver cómo se mueve.
+Es un experimento, muy probablemente se vaya a ir a cero, pero si no experimentamos y no picamos botones nunca vamos a aprender.
+Los dejo, esto es MySabis, nos vemos el próximo martes.
+Muchas gracias, este fue el episodio 68, nos vemos.

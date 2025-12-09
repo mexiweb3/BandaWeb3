@@ -1,0 +1,780 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #N/A
+Título: BandaWeb3 #064 @eliandecrypto
+Fecha: 2025-06-10
+Host: @meximalist
+Tipo: hosted
+
+Descripción:
+BandaWeb3 #064 @eliandecrypto. Elian es un og del ecosistema, creador de contenido, co-host de @LosOrdinales, ex @bitso y mucho más. Nos contará sobre su experiencia en Bitcoin Las Vegas del mes pasado y del proyecto @ASICGenesis.
+
+Duración: 01:29:32
+Escuchas: 68
+
+Links:
+  Space: https://x.com/i/spaces/1lDxLzMOqlvGm
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+[Speaker 0 - 00:00:00]
+Dependiendo de dónde se estén conectando a esta grabación.
+Estamos a punto de iniciar, este es el episodio 64 de banda web y el día de hoy vamos a estar hablando con un súper camarada, OG del Ecosistema, metido en un chorro de proyectos, nos va a platicar de su experiencia en Las Vegas, en la conferencia que acaba de terminar ahora en abril, Elian de Cripto va a estar con nosotros en unos momentos, nos va a platicar de varios proyectos en los que está participando ASIC Genesis que es una colección de NFTs que te da acceso a mining y también hola Sati por ahí que anda desarrollando, pero antes que nada les pongo la canción de inicio mientras subo aquí a Lean que ya veo por ahí, también está por ahí el buen Bios X, lo conocía, ahorita le damos follow, pero bueno esto es Minds a Beast, empecemos en breve.
+Breve comenzamos, si quieren dejar su comentario, su like y su repos para que más banda llegue, de todo suma, sigo invitando a la banda, en dos minutitos comenzamos.
+¿Bienvenidos, bienvenidas todos los que están por aquí, gracias por estar aquí en este espacio, este es el número 64 y vamos a estar platicando con un gran amigo, un súper crack, OG del Ecosistema, ha estado metido en diferentes empresas, trabajando con ellas, colaborando, es exbitso, está trabajando ahorita colaborando con Sati, también por ahí trae un proyecto el que nos va a platicar ASIC Genesis, pero híjole lo que yo quiero saber y también que nos cuentes ahora que Bitcoin está rompiendo máximos históricos, cómo le fue en Las Vegas?
+Por ahí hubo una conferencia y un evento bastante, bastante interesante en abril donde él estuvo por ahí participando, por ahí también veo el buen Felipe Servín de Sati que anunciaron hace poquito una súper colaboración con xverse, por aquí estoy, híjole, ojalá esta semana pudiéramos tener a Felipe y a WEN, me encantaría platicar con ellos, por ahí ando coordinando un space también para que nos platiquen, pero el día de hoy nos va a platicar todo lo que estuvo sucediendo el WEN.
+¿Elian cómo andas?
+¿Bienvenido, me escuchas bien?
+
+[Speaker 1 - 00:06:35]
+¿Gm?
+¿GM Loud and Clear, me escuchas bien?
+Probando, probando, 3232, todo chido, todo chido.
+
+[Speaker 0 - 00:06:43]
+Muchas gracias por aceptar la invitación y qué chingón fuerte tener por acá.
+Primera vez que estás por acá en Vanguard 3.
+Ya hacía falta, ya hacía falta, ya me había tardado.
+
+[Speaker 1 - 00:06:53]
+Oye.
+No, y aparte muy bien, buen timing, justo después de la conferencia de Bitcoin, que muy, muy cabrón.
+Aparte Vegas, te conté que yo nunca había ido y wow, esa ciudad, qué onda.
+Entonces excelente timing para venir aquí a platicar.
+Aparte con Bitcoin rozando all time highs, muy buen timing, muy buen timing para venir aquí a cotorrear.
+
+[Speaker 0 - 00:07:18]
+No, increíble la verdad lo que se está viendo con Bitcoin, lo que he escuchado del evento, increíble.
+Por ahí vi algunas fotos con personajes que están haciendo mucho ruido.
+El buen Michael Saylor acaba de sacar.
+
+[Speaker 1 - 00:07:32]
+Un.
+
+[Speaker 0 - 00:07:34]
+Podcast de una Waricacho con Jordan Peterson del cual me he puesto a escuchar y no lo he terminado, pero qué loco ese Michael Selber y cómo ha movido tantas cosas y el impacto que ha tenido, no sé si tuviste chance de platicar con él, ya nos estarás contando por aquí, pero no, muchas gracias por andar por acá, bienvenido y un placer poderte tener acá y más ahorita, como dices, el timing es perfecto.
+Nos vamos a la luna próximamente parece, quién sabe, ya estaremos viendo.
+Pero qué chido, qué chido.
+
+[Speaker 1 - 00:08:06]
+Oye, qué bueno que mencionas a Michael Saylor.
+Es una gran forma de arrancarnos porque justo ya llegó a Las Vegas, no sé qué, estábamos haciendo el check in, estoy con un compa y vamos caminando y me dice, güey, no mames, ahí está Michael Saylor.
+Y yo lo veo un señor, no, sí, medio parecido.
+Digo, no, güey, no es, o sea, como que me asomo bien, lo veo, no lo examino, no es güey, no es Michael Saylor.
+Y ya como que el güey lo ve, dice, ah, sí, verdad, no es Michael Saylor.
+Pasó, hacemos el check in, no sé qué, vamos caminando, nos quedamos en el Venetian que es en donde fue la conferencia y bueno, ya estamos caminando hacia el cuarto, entrando como a la parte de los elevadores y de repente sale Michael Saylor y le digo, no mames, güey, ese sí es Michael Saylor.
+Y ya todos, michael no sé qué, Sailor, una foto.
+Obviamente el güey así, ya sabes, lo abordamos así, el güey puso una cara de verga, estos güeyes se van a saltar las llaves privadas.
+Y ya se dejó tomar la foto así.
+Nosotros estamos súper extasiados pero fue una gran, gran primer momento en el Venetian en Las Vegas, gran conferencia, más de 35 mil personas estuvieron por ahí.
+Esto fue el martes 27, miércoles 28 y jueves 29.
+Y bastante impresionante.
+Esta es la tercera conferencia de Bitcoin a la que yo he ido.
+La primera fue Miami 2021, la segunda fue Nashville 2023 y ahora Vegas 2024.
+Y muy impresionante la verdad, como te platico un poquito y le platico aquí a la audiencia y a los que nos van a escuchar después en repetición.
+El espacio de la conferencia dominado por la industria de minería de Bitcoin es impresionante ver la cantidad de stands.
+Yo creo que poco más de la mitad de toda la conferencia es sobre minería de Bitcoin, ya sea de las empresas que producen los chips, de las empresas que crean la infraestructura para almacenar las máquinas o los.
+¿Como decirlo?
+Como en la Fiebre del Oro, los que vendían las palas.
+Entonces, por ejemplo, estaba Shell, que conocemos a Shell porque vende gasolina, pero en ese caso en particular vende aceite mineral para el enfriamiento de las máquinas.
+Y así como eso, un montón, o sea, los que te venden las turbinas para enfriar, los que te venden los contenedores para almacenar las máquinas, cables, o sea, como que todas las partes de la operación de minería ahí reunidas.
+Creo que eso fue de lo que más me sorprendió y que también lo vi el año anterior en Nashville, que la mitad de la conferencia es relacionado con minería de Bitcoin.
+Pero muy padre, muy padre.
+
+[Speaker 0 - 00:11:03]
+Qué loco, si escuché y si leí ese comentario y.
+No para de subir el Hash Power, no para de subir tampoco el precio.
+No sé cuál fue de las conferencias que más te interesa, platicaremos de eso, pero no.
+Yo no esperaba ver tanto ruido, ver tanta gente, no decías treinta y tantos mil personas, madres.
+Sí se veía grande, pero no sabía que estaba tan, tan, tan grande.
+Pláticas de gente muy loca.
+Creo que por ahí estuvo también el vicepresidente dando una conferencia.
+Si mal no recuerdo, o no, el segundo día.
+
+[Speaker 1 - 00:11:46]
+Sí, sí estuvo DJ Pence.
+
+[Speaker 0 - 00:11:50]
+Qué loco lo que está pasando con la regulación allá en Estados Unidos.
+Qué loco también que la SEC ya está hablando de temas de DIF.
+No sé, o sea, son tantas cosas, están sucediendo que no sé esto dónde va a acabar, pero no sé, es lo que muchos habían dicho, vienen los bancos, vienen los gobiernos.
+Tú me acuerdo que lo mencionabas años.
+¿Qué sientes al verlo ya como que hacerse una realidad, cabrón?
+No sabe, o sea, no sé, no sé.
+¿Tú qué opinas?
+¿Qué opinas ya de, del punto en el que estamos ahorita y como estábamos hace seis, siete años más o menos que entraste tú al ecosistema 8, ya ni sé cuánto?
+
+[Speaker 1 - 00:12:36]
+Fíjate que es interesante porque sí veo el cambio y lo platiqué en el espacio que hacemos los martes de los ordinales, veo, noto este cambio en el discurso de la primera conferencia de Bitcoin a la que yo fui, había un discurso un poco más cypherpunk, por así decirlo, y seguramente quien es más viejo que yo dirá no güey, Eso era súper mainstream, tendrías que haber ido por allá del 2016-15 para escuchar este discurso muy cypherpunk, muy contra sistema o antisistema.
+Y la realidad es que hoy el discurso es muy institucional, es muy mainstream.
+La cantidad de personas de traje va en aumento, lo cual me genera una especie como de sentimientos encontrados, porque por un lado tienes esta visión de Bitcoin de ser una alternativa al sistema financiero tradicional, que digamos, va en contra o anti muchas de las prácticas viciosas del sistema financiero tradicional y hoy ves como pues más bien el sistema financiero tradicional le está entrando con todo y desde todos los ángulos.
+Entonces es interesante, digo, creo que al final así se ve la adopción masiva, desafortunadamente, digo, un poco lo que la teoría nos decía es que primero iban a ser las personas las que iban a adoptar Bitcoin, después iban a ser las empresas o las instituciones a K.
+Michael Saylor y hasta el final iban a ser los estados.
+Lo que veo un poco es que las empresas, las instituciones y los estados se les están, se están adelantando al promedio, Juan, como tú, como yo, que podría beneficiarse de Bitcoin.
+Entonces sí es un poco, hay un cambio de paradigma y te digo, creo que así es como se ve la adopción.
+Un poco el año pasado en Nashville, que fue Trump, que de hecho esa conferencia fue previa a la elección de Trump y pues todavía no había, todavía estaba Biden en el poder, todavía había un clima bastante anticripto en el gobierno de los Estados Unidos, que bueno, al final es quien mueve mucho la batuta de la regulación global y de los mercados.
+Y hoy en esta edición, ya con Trump en el poder.
+Con el vicepresidente ahí, pues sí, sí es notorio este cambio en la narrativa, en el ánimo también.
+Creo que, digo, en general la gente que está en Bitcoin se da cuenta que sí, así es, así se ve la adopción.
+Tal vez no es como la imaginamos, en donde los plebeyos como tú y como yo no les íbamos a adelantar a las grandes empresas como Saylor y a los países como Estados Unidos.
+Y más bien es Saylor y es el gobierno de los Estados Unidos el que se les va a adelantar a todos los flex.
+Pero pues sí, creo que, digo, es un poco desde una visión muy pragmática, así es como se ve la adopción.
+35.000 personas en Vegas, muy grande.
+Yo creo que en el espacio de la conferencia fue casi el poquito, casi que el doble del espacio que hubo en Nashville.
+Y bueno, Las Vegas, claro, mucho más mainstream, todo luz, sonido neón.
+Entonces, bueno, muy interesante la verdad.
+¿Que otros highlights hubo de la conferencia?
+Una parte de arte muy interesante.
+El arte es algo que siempre ha estado presente en Bitcoin y no necesariamente ordinals como NFTs o arte digital en Bitcoin, sino arte físico, piezas muy padres de arte físico.
+Temas de escalabilidad en Bitcoin, que es un poco Layer 2, capas secundarias, sidechains, muchos stands alrededor de estas alternativas de escalabilidad en Bitcoin, de layers 2 en Bitcoin.
+Y otro fenómeno muy interesante que es, les platico un poquito.
+La industria de la minería históricamente ha tendido a la centralización.
+Hoy por hoy son tal vez seis empresas las que crean las máquinas ASIT, los chips de minería, y una es la dominante que es Bitmain.
+Y más o menos seis, siete pools de minería controlan probablemente el 70% del hashing power.
+Es una industria muy tecnificada, no es fácil de entrar a la industria de la minería porque requieres un alto nivel de tecnificación.
+Y aquí China domina en la producción de los chips, por ejemplo.
+Entonces es una industria que ha tendido históricamente a la centralización.
+Pero empezamos a ver un fenómeno muy interesante que es el de la minería casera.
+No sé si han visto por ahí los bid axes y yo he posteado ahí un par y de hecho estamos muy prendidos con esto de los beat y ahorita les voy a platicar un poquito ¿Por qué?
+Y ahí va a entrar un poco también Sati en la historia.
+Es básicamente tener una pequeña máquina de minería en tu casa que no genera ruido y que funciona como una especie de lotería en donde cada 10 minutos tienes una posibilidad en 100 millones de encontrar un bloque de Bitcoin que contiene 3.1 bitcoins, alrededor de 310 mil dólares.
+Y pareciera que esto es una tendencia que yo escuché acerca de estas máquinas de minería casera en Nashville, no les presté mucha atención, pero les seguí un poco el paso.
+Y hoy ya después de Las Vegas y un poco viendo lo que está sucediendo, creo que es una tendencia que vamos a ver en donde, bueno, pues más y más personas van a tener una pequeña Mac, de hecho aquí tengo una que son bellísimas porque es un excelente souvenir de escritorio, un pequeño chip ahí que está dándole un terahash de poder de procesamiento a la red de minería de Bitcoin.
+Y como comparación, bueno, es un TeraHash, una máquina digamos ya industrial, tiene por arriba de los 220 terahashes, entonces realmente es tener un pedacito, digamos, aportar un pedacito de ese poder de procesamiento a la red de minera de Bitcoin.
+Entonces, bueno, esa es una tendencia bastante interesante que vi y nada sigue.
+Bitcoin es la criptomoneda más grande, la que ha tenido mayor adopción o reconocimiento a nivel global.
+Y bueno, creo que la conferencia y el discurso, lo que se escucha desde el mainstream en la conferencia refleja mucho eso.
+
+[Speaker 0 - 00:19:14]
+Oye, un par de temas que mencionas, Medillo cuenta también mucho la narrativa cómo cambia.
+Yo no pude ir a Las Vegas, me hubiera encantado, fui a Nueva York, tengo un hermano por allá, entonces tengo estancia muy barata y fui al evento de Solana y había mucho, la gran mayoría de.
+Bueno, pues sí, yo creo que la gran mayoría de los estuvieron por ahí platicando que si legisladores, gente que está proponiendo leyes en sus estados, personas que están metidas en temas bancarios, o sea, trat pie pero fuerte, duro y como tú decías, gente de gobierno y del estado, muchos obviamente también.
+Djens, pero ellos están enfocados en otros temas y definitivamente la narrativa está cambiando y no sé, yo siento que es difícil.
+
+[Speaker 1 - 00:20:09]
+La persona.
+
+[Speaker 0 - 00:20:09]
+Común aguante, yo siento que estas instituciones y a lo mejor estas personas están a lo mejor más acostumbradas, temas de inversión pueden llegar a ser hasta más Diamond Hand que uno.
+No sé.
+Si igual me genera sentimientos encontrados el ver cómo se está esto implementando.
+Yo creo que iba a tardar más, pero de que es un hecho, es un hecho, de que estamos viendo como los gobiernos lo están comprando y adquiriendo, como estas empresas enormes están cada vez replicando más el modelo de Michael Saylor, acumulando a lo loco.
+Híjole, no sé.
+No sé, siento que la narrativa y como habíamos pensado muchos que esto iba a suceder es muy, muy distinto.
+Y bueno, es lo que es y hay que irse ajustando, no hay otra.
+No sé, No sé, siento que si nos están comiendo el mandado a retail, al retail que entró, al que se dio cuenta, al que llegó por el precio y luego se quedó aprendiendo de macroeconomía, aprendiendo de historia humanitaria, aprendiendo de teoría de juegos.
+No sé, siento que ellos están mucho más preparados que a lo mejor uno normal para holdear y aguantar estos ciclos enormes y toda la volatilidad.
+Pero ya veremos cómo se desarrolla.
+No sé qué opinas.
+
+[Speaker 1 - 00:21:34]
+Si pareciera que.
+A ver, no parece, es la realidad.
+Las instituciones tienen una una visión temporal mucho más amplia.
+No están pensando a un año, están pensando a una década y eso les da una ventaja.
+Y digo, a ver, si estás escuchando este espacio y has comprado un poquito de Bitcoin y estás aquí en el ecosistema, date una palmada porque sí estamos temprano, no sé hasta qué momento vamos a dejar de decir no estamos súper early, estamos muy temprano.
+No sé cuál va a ser la cosa, el momento, el catalizador que va a decir.
+¿Vamos a decir, ya no estamos temprano, ya vamos tarde, este pedo ya, ahora sí ya zarpó?
+No lo sé.
+Algo que veo es que hay un escenario que no me gusta nada, pero estamos caminando un poco hacia allá, que es en donde la gente holdea Bitcoin sin holdear Bitcoin.
+Y lo que tiene es un par de IOUs de boletitos que dicen tú tienes X cantidad de acciones de Bitcoin en X empresa, pero nadie holdea Bitcoin.
+Y ese es un escenario medio catastrófico porque la red necesita que las personas la usen para sobrevivir.
+Y si la gente tiene exposición vía ETF o vía acciones de empresas que compran Bitcoin pero las personas no tienen Bitcoin es un escenario que no queremos, no deberíamos empujar por ese escenario, pero.
+Sí veo un poco que la adopción masiva se ve de esa forma.
+Entonces.
+Creo que digamos.
+No sé cómo va a ser el próximo año, yo los invito, vayan a Las Vegas, aparte de Las Vegas, que todas Las Vegas, yo no conocía Las Vegas, es como se ve, es una ciudad de genere, hubo una noche que se nos perdió un compa, yo dije, madres, va a regresar el güey con un tatuaje en la cara y sin un diente.
+Muy divertido, muy impresionante esta ciudad es un gran antro, un gran antro, centro comercial, muy recomendado, pero creo que atrae mucha atención hacia Bitcoin y hacia la industria.
+Entonces, bueno, creo que al final eso es positivo.
+No sé cómo se va a ver el espacio dentro de un año, sin duda creo que más empresas van a hablar acerca de que están acumulando Bitcoin, veremos otros países hablar al respecto, Estados Unidos se está posicionando y en particular la familia Trump se está posicionando para tener.
+Un rol bastante predominante alrededor de cripto, de Bitcoin en general.
+Entonces bueno, no sé cómo se va a ver esto de aquí a un año, sin duda va a ser más grande, sin duda va a crecer y creo que en ese sentido, bueno, eso es positivo, que crezca como a nosotros nos gustaría o sobre tal vez las ideas que nos atra, que a mí me atrajeron, por ejemplo, en un primer momento alrededor, sabes, soberanía monetaria, del control de tus finanzas, de de ser tu propio banco, no sé si se va a ver de esa forma y tal vez los que pensamos así nos convertiremos en una minoría, pero bueno, así digamos, desde el punto de vista muy pragmático que busco, así se ve.
+No voy a poner a decir si es malo, es bueno, podré decir cómo me gustaría que fuera la opción, pero sí veo que va hacia otro lado.
+
+[Speaker 0 - 00:25:18]
+Sí está muy loco.
+Yo como creo que va más rápido de lo que esperaba, o sea, llegar a este punto donde ya el presidente, el vicepresidente están hablando en esas conferencias, no lo veía en esta etapa hace unos meses o hace un año y pico cuando Trump todavía no empezaba a hablar de estos temas, pero sí, definitivamente la gente que está comprando ahorita, la familia Trump, los bancos, BlackRock, todas estas ETF, estos grandes fondos no están comprando para vender en 2-3x mañana o en 2-3 meses, o sea, como tú decías, estoy totalmente de acuerdo, están pensando a largo plazo, siento todavía como tú dices que sí podemos decir que estamos early todavía, que es temprano, pero híjole, eso puede cambiar muy, muy rápido, o sea, hemos visto días y creo que vamos a seguir viendo días de a lo mejor 10 mil dólares en un día, 20 mil dólares en un Día, no sé si lleguemos a 100 mil dólares en un DONA, cuando.
+En un ataque de FOMO, Elon Musk pelea con Beto a saber quién y le mete mil millones de dólares.
+Quién sabe, quién sabe, está muy loco.
+¿Me interesa mucho el tema de las broncas que se ven en el futuro porque ya se está empezando a escuchar mucho sobre los cambios que están sucediendo a Bitcoin ahora, la nueva.
+Polémica que ha habido sobre los cambios que hizo Bitcoin Core, también el tema de la escalabilidad y estas nuevas L, no sé si se comentó también el tema de la minería, creo que tú lo comentaste, que necesitamos que la gente haga transacciones para que los mineros hagan dinero y que es una industria enorme, híjole eso no sé si se discutió, si se platicó durante la conferencia.
+Porque el futuro es como tú dices, es incierto, pero no asegura que el Bitcoin que tenemos hoy sea tal cual como lo tenemos, eso probablemente vaya a cambiar, ya estamos escuchando desde hace rato temas de computación cuántica, ve tú a saber qué tanto se tocaron los futuros riesgos de esta tecnología, de esta habló, Quien en específico en la conferencia?
+
+[Speaker 1 - 00:27:35]
+Pues te digo, creo que hay como dos visiones de lo mismo, una visión te digo, como que busca que las personas holdeen Bitcoin, tengan exposición, lo usen como una forma de ahorro, como una forma de fondo, ahorro para el retiro, o lo usen como dinero incluso para las personas que tienen estas vidas un poco más nómadas y hay tradición que realmente no le interesa, llámale BlackRock, llámale Vanguard, llámale cualquier fondo que está acumulando, no tiene esa visión, su visión.
+No necesariamente está alineada con la que podemos tener nosotros, entonces creo que es algo importante de tomar en cuenta, no son nuestros amigos.
+Estamos utilizando el mismo asset, pero no necesariamente estamos alineados en incentivos o en intereses, pero bueno, te digo, creo que es algo que va a continuar.
+Es un poco acumulemos mientras podamos con lo que tengamos porque esta gente no va a parar, o sea, Sailor está comprando de a mil bitcoins por semana, son unos números que dices a su madre, el güey ya tiene más del 2% de todo el supply y los fondos en acumulado llevan como 2 millones, o sea en verdad que están acumulando, un paso.
+Sorprendente y luego vienen los países, no hemos llegado a esa parte, no hemos llegado a la parte de la adopción en donde son los países los que están acumulando Bitcoin, en donde son las empresas paraestatales de energía las que están minando Bitcoin, no hemos llegado a ese punto, pero vamos a llegar, o sea, mi teoría es que, y se acordarán de mí, veremos si tengo razón o no, que va a tomar un par de años, pero la CFE aquí en México va a estar minando Bitcoin, todas las empresas de energía nacionales en el mundo van a estar minando Bitcoin, entonces no hemos llegado ahí y desde ese punto de vista estamos temprano pero esto sigue avanzando entonces creo que la parte interesante como usuarios comunes corrientes como tú, como yo es acumular lo que podamos, o sea, recordar que si tienes menos de 30 años no te vas a jubilar, no vas a tener una pensión y si no acumulas algo hoy que te sirva para tener algo en el futuro vas a terminar en calzones y yo me lo digo esto diario así como de voy a acabar en calzones si no acumulo algo hoy, entonces Bitcoin en ese sentido es la mejor opción que tenemos.
+Y bueno.
+
+[Speaker 0 - 00:30:16]
+¿Recomendarías la estrategia igual DSA poco a poco lo que te sobre cada mes un poquito, un poquito, velo aguardando, no.
+
+[Speaker 1 - 00:30:25]
+Lo muevas sin pensarla, o sea, lo que te gasta en una peda, méteselo a Bitcoin, no pasa nada sabes.
+La otra vez fui a, di una plática con chavos de 19?
+18.
+19 años y me di cuenta que eso fue lo que les, o sea, lo que, lo que hizo que me prestaran atención fue cuando les dije, banda no van a tener nada, se van a quedar en calzones si no empiezan a hacer algo hoy entonces creo que tenemos que verlo así porque bueno, es inevitable el paso del tiempo y la adopción de Bitcoin, lo que vemos hoy nos dice que la opción de Bitcoin es inevitable en el largo plazo.
+¿Entonces, bueno, creo que sí es irresponsable no tener exposición a Bitcoin, básicamente.
+No?
+
+[Speaker 0 - 00:31:13]
+Totalmente de acuerdo, totalmente de acuerdo.
+Ibas representando un par de empresas.
+Tuvieron, entiendo por ahí mucha participación.
+Platíqueme un poquito de Asic Genesis y también de Sati, porque también hubo una noticia súper fuerte con Sati.
+Xverse, Cuéntame, cuéntame lo que sepas.
+Está bueno ese Alfa.
+
+[Speaker 1 - 00:31:34]
+Sí, claro.
+Bueno, Asic Genesis comenzó como una operación de minería en Paraguay hace dos años ya, casi tres años.
+Y bueno, pues allá tenemos máquinas, minamos en algún momento vendimos máquinas a clientes y las hosteamos por ellos allá en Paraguay.
+¿Por qué Paraguay?
+Porque tiene la segunda presa hidroeléctrica más grande del mundo, que se llama.
+Es la presa de Itaipú.
+Entonces Paraguay produce más energía de la que consume y entonces el costo energético es muy bajo, es muy competitivo.
+Y bueno, pues empezamos a minar por allá.
+Después, conforme el precio de Bitcoin comenzó a subir, el precio de las máquinas también comenzó a subir y lo que hicimos fue sacar como tokens NFTs en Bitcoin ordinals, que representan una parte del poder de procesamiento de una máquina.
+Entonces básicamente lo que hacemos es fraccionalizar el poder de procesamiento de una máquina en varios tokens y las personas pueden comprar estos tokens y tener acceso a las recompensas de Bitcoin sin tener que comprar una máquina, porque bueno, hoy ya son bastante caras si las quieres comprar nuevas.
+Entonces, muy padre.
+La verdad es que tuvimos un stand ahí en la conferencia, mucho interés por parte de personas que quieren tener exposición a la minería, pero que no saben por dónde empezar, entonces fue bastante padre.
+Tenemos el artista detrás de ASIC Genesis, es Jamex, Les voy a compartir acá, les voy a opinar, bueno, se los pongo en los comentarios.
+El güey ha estado explorando cañón con inteligencia artificial y con creación de vídeo, entonces, bueno, le metió bastante, bastante cool trabajo ahí a todo lo que es el arte detrás de.
+Se los voy a pinchar acá para que lo vean.
+Es arte hecho con inteligencia artificial, el güey está así explotando todas las plataformas que encuentra y bueno, pues él hizo el arte para la colección.
+Es una colección de 4.000 pases, todavía no sale.
+Primero sacamos 200.
+Vendimos esa primera parte y luego vamos a sacar 4.000.
+Pero estamos así como de a poquito.
+Entonces muy bien, el stand estuvo muy padre, llamó mucho la atención, lo cual está padre porque la industria de la minería es muy aburrida, no tiene diseño, no tiene arte, no tiene nada.
+Es una industria muy técnica así pura y dura.
+Entonces tener a James ahí metiéndole estuvo muy, muy padre.
+Fuimos con Luis también, que él es parte del equipo.
+¿Marcelo y quién más estuvo por allá?
+
+[Speaker 0 - 00:34:27]
+¿Quién más tuvo?
+
+[Speaker 1 - 00:34:27]
+Alguien más tuvo pero no me acuerdo.
+
+[Speaker 0 - 00:34:29]
+Oye, la banda entonces está minando, o sea, a través de la iniciativa que ustedes traen ellos van a estar recibiendo satoshis, no sé, mes a mes, año con año.
+¿Cómo es el tema de la distribución?
+
+[Speaker 1 - 00:34:40]
+¿Cada dos semanas?
+Cada dos semanas los pases cuestan alrededor de 400 dólares y cada semana recibes como 20 dólares de en Bitcoin y cada dos semanas es el reward.
+Tenemos un pool de minería en donde están todas las máquinas que están asociadas a estos pases de las personas que los tienen y la idea es poco a poco ir como incrementando ese pool de personas que tienen estos fases y que tienen pues sí, exposición a las recompensas de minería de Bitcoin sin tener que preocuparse por el hosting, el mantenimiento, la seguridad, porque bueno, sí es.
+No es una industria fácil.
+Entonces un poco el objetivo de ASIC Genesis es hacerla fácil o un poco más accesible para las personas que quieren tener esa.
+Que es lo padre es que es una forma de dollar cost average básicamente cada dos semanas estás recibiendo un poquito de Bitcoin.
+Y de esta forma pues vas acumulando.
+Entonces esa es un poco la idea de ASIC Genesis.
+
+[Speaker 0 - 00:35:41]
+Qué chido, qué chido.
+Sí, yo por ahí hace años estuve, puse una máquina a minar, la verdad es un tema, o sea, estas máquinas, estos sistemas, la gente los tiene que operar, ¿No?
+Viven en data centers que necesitan energía, que necesitan enfriamiento, que necesitan gente constantemente ahí prendiendo, apagando máquinas, que algo se desconectó, que ya se cayó un sistema que hay que revivir, o sea, me he metido mucho con el tema también ahora recientemente de proof of stake para operar nodos y también, o sea, no es sencillo, si necesitas conocimiento técnico, necesitas saber de command line, o sea, la interfaz esta del comando, poner comandos de texto, entonces abstraer toda esa tecnicidad y todo ese conocimiento para meterle todo proyecto y estar recibiendo constantemente los beneficios.
+Creo que está muy, muy, muy interesante.
+No sé si sea similar a los bit access, por acá hay una persona en Monterrey, el buen Ray Iron Rai que los ha chileado desde hace un buen rato y la verdad no le hemos hecho caso muchos, yo no he comprado, pero ya con lo que me dices ya me dan ganas.
+Digo, no sé si ese también es nada más esa rifa de a lo mejor minar un solo bloque con uno de esos, que ya ha habido varios casos que he escuchado que esos redaxes han minado, pero también lo puedes meter a un pool.
+Entonces bueno, son diferentes maneras de experimentar el ecosistema, de ver cómo funciona, de entenderlo un poco más para la gente que le gusta la parte técnica, pero si no, la verdad operarlo no es sencillo.
+Entonces está muy chingón que se pueda tener esa exposición a través de este proyecto.
+¿Cuándo lanzas la siguiente ronda?
+Porque yo me perdí la primera, sí le voy a meter la segunda definitiva.
+
+[Speaker 1 - 00:37:27]
+No tengo fecha, creo que por ahí estaban el equipo estaba diciendo que septiembre, o sea, como que estamos a unos meses todavía ahí te voy a avisar cuando salga.
+Pero sí está padre porque justo es como recibir esas recompensas por la operación de minería de Bitcoin.
+Bueno y aquí un poco como comparación, un Bitax te da un TeraHash, el Bitax Gamma que es el más básico, te da un TeraHash.
+No recuerdo cuál es el número de computaciones por segundo que representa un TH, pero casi creo que es.
+A ver, un mega hash son MC, un GH son 10.000, un TH son 100.000 computaciones por segundo, puedo estar equivocado, podrían o son más, pero es número de computaciones por segundo.
+Pero digamos que un bitax es un terahash, un pase de minería de ASIC Genesis son 10 terahashes, es como si tuvieras 10 bitaxes.
+Y hay esas dos modalidades.
+¿Bueno, en el caso de ASIC Genesis recibes recompensas cada dos semanas porque estamos dentro de un pool de minería, en el caso de Bitax puedes hacerlo así, pero pues imagínate, vas a recibir 2 dólares al mes porque es un terahash o puedes hacerlo directamente como para recibir todo el bloque?
+Pero nuevamente es una lotería, o sea, puedes.
+Te digo que creo que.
+Creo que.
+No sé, es una posibilidad dentro de 100 millones cada 10 minutos, lo cual, bueno, pues es una lotería literal, es una lotería descentralizada en donde le estás poniendo un gran.
+Literal, es un granito de arena de contribución al poder de procesamiento de la red de Bitcoin.
+Entonces creo que tiene un poco más una característica y medio entre altruista o de amor al arte, la verdad.
+No hay que verlo como una inversión, sabes, o sea, si me voy a comprar un Vitax, ¿En cuánto tiempo recupero mi inversión?
+¿Ochocientos años tal vez?
+
+[Speaker 0 - 00:39:32]
+Bueno a lo mejor, o sea uno en 100.000.
+Yo he ganado manos de póker que no sé si estén por ahí, pero de que si necesitas un milagro casi y llega la posibilidad está abierta y no te quita las ganas de de meterle el neta, yo sí me han dado ganas de comprar por ahí hace poquito Karen del equipo de Tiro México también compró uno y nos estuvo platicando, igual acá Rai anda muy metido en esos temas y creo que anda vendiendo, entonces si hay en Monterrey alguien o por aquí quiere uno, pues ahí le puede poner el connect, pero qué chingón el proyecto, ahí nos avisas cuando salga, igual lo promocionamos y sí ahí si me quiero meter de alguna u otra forma regresar a minar Bitcoin ya sea a través de asistenes o de estos vracs.
+
+[Speaker 1 - 00:40:27]
+Sabes qué ahorita que lo dices se me ocurre y se lo voy a decir al equipo para que lo planemos de regalar un pase para la comunidad de banda web, entonces bueno ya lo dije, ya me comprometí señores, ahí los vamos a tener al tanto de qué dinámica vamos a hacer aquí con Mexi para regalar un pase para que puedan tener acceso a minería, entonces sí les voy a estar avisando.
+Y la otra es con Sati, la verdad estuvo bien chido Sati, también tuvimos un stand ahí.
+En la expo, en la conferencia, llamó mucho la atención Sati como esta manera de enviar Bitcoin a través de Lightning Network en WhatsApp fue muy.
+¿Yo estuve un rato así como que dividido ahí entre los dos boots y fue muy interesante ver el interés de la gente por órale, a poco Bitcoin en WhatsApp?
+Que fíjate que yo pensaba que la gente no usaba WhatsApp en Estados Unidos y sí, me parece que no al grado de lo que lo usamos aquí en América Latina porque ya usan mucho SMS de iPhone, pero sí hay gente que utiliza WhatsApp y llamó mucho la atención y el gran announcement fue que bueno, hay una wallet que no sé si conocen que se llama xverse, que es la wallet líder en el ecosistema de Ordinals que es en donde trabaja WEN y se lanzó, se anunció la integración de Lightning Network.
+A xverse vía Sati, lo cual está muy chido porque básicamente se le da acceso a utilizar Lightning Network a 15 millones de usuarios que tiene Xbers, entonces bueno para Sati es un gigagolazo, entonces bueno fue ese announcement y pues muy padre la verdad como ser parte de eso.
+Y la otra también que está relacionado con el tema de la minería de Bitcoin es que bueno, este profile picture que traigo ahorita es de una colección que se llama Ordinal Maxiviz que lanzó un pool de minería y le regaló Bit Access a todos sus holders, a mí me mandaron primero uno que está creo que atorado en Aduanas de México, váyanse a la mierda, pichi aduana y me están por enviar otro que ya les dije no me lo manden a mí, mándenselo a un compa en California y ya yo me arreglo con él para que sea como alguna forma de correo mucho más traqueado porque pincha aduana, pero es básicamente un pool de minería en donde cualquiera puede apuntar su poder de procesamiento y las recompensas de este pool de minería se pagan en Lightning Network utilizando la tecnología de Sati, entonces bueno, este también fue como un gran announcement y bueno son unos duros, la comunidad de los Ordinal Max TV son muy duros, gente muy pesada.
+Bitcoiners muy chidos, entonces bueno fueron como los dos que sucedió una semana antes, pero bueno también fue lo que estuvimos ahí platicando durante la conferencia y un poco chileando ahí la conexión con Ordinal Max CV y Sati como forma de pagar recompensas de minería de Bitcoin.
+
+[Speaker 0 - 00:43:41]
+La neta Ixberg la ha estado rompiendo con los anuncios por ahí que integren Lightning, es algo que por ahí yo había visto, muchos se los habían solicitado, yo por ahí también había preguntado muchas veces, voy a opinar aquí, ya encontré, no lo encontraba el anuncio, lo voy a opinar aquí arriba para que le echen un ojo, por ahí me decía Felipe que ya está funcionando de manera privada para pruebas, cuándo sale ya para disponibilidad a todos.
+
+[Speaker 1 - 00:44:10]
+No tengo la fecha, según yo ya estamos como a la vuelta de la esquina, estaban como afinando ahí algunos temas de UI, de la experiencia de usuario para utilizarlo, que estuviera como más amigable, pero ya estamos, digo, ya se anunció, ya no hay vuelta atrás, es un hecho.
+Xver se va a integrar con Lightning Network, lo cual eso creo que también es algo que hay que destacar de la conferencia.
+Lightning Network está avanzando a pausagigantados.
+Es hoy por hoy.
+El mecanismo de escalabilidad más adoptado que hay en Bitcoin, que permite.
+Cientos de miles o incluso millones de transacciones por segundo a un costo súper bajo.
+Y si no han utilizado Lightning Network, es magia recibir o enviar una transacción en Lightning.
+Es verdad, es impresionante la velocidad para utilizarlo.
+Aún tiene ciertos retos desde el punto de vista de la custodia de fondos, de la usabilidad, pero bueno, es hoy por hoy el mecanismo de escalabilidad que más se ha adoptado en Bitcoin.
+Entonces, bueno, muy interesante ver en la conferencia un poco la confirmación de que sí, Lightning Network va a continuar creciendo y hay mucho interés de construir sobre Lightning.
+De hecho, Tether, bueno, Bitfinex ha anunciado por ahí que están construyendo un USDT en Lightning, entonces eso va a ser un killer app muy cabrón, tener transacciones de tetra.
+La velocidad de Lightning Network sobre Bitcoin va a ser un giga.
+Killerat.
+Anunciaron también que van a sacar un layer one.
+Tether está ahí muy clavado.
+Pero sí, sí, eso creo que también es algo importante a destacar de la conferencia.
+
+[Speaker 0 - 00:46:01]
+Que loco.
+Si, es algo que había escuchado que veríamos pronto.
+Stablecoins han estado haciendo un chingo de ruido en todas las redes.
+Yo creo que es uno de los grandes casos de uso de blockchain.
+Ahorita estamos viendo también cómo salen algunas mexicanas.
+No sé, siento que eso va a crecer muchísimo este año.
+El defi en México creo que va a crecer mucho este año.
+Ya estamos viendo como UNICEF viene para acá.
+Tether igual está haciendo un chorro de cosas para integrarlo a Lightning, como decías.
+No sabía lo de la L.
+Fíjate qué loco, Va a estar interesante ver este experimento.
+
+[Speaker 1 - 00:46:38]
+Es una Layer 1 de tether en donde el gas se paga en USDT y las transferencias de USDT entre de peer to peer no tienen costo.
+Lo anunciaron la semana pasada.
+Muy interesante, ¿No?
+
+[Speaker 0 - 00:46:57]
+El modelo de negocios de ellos es increíble, increíble.
+Haciendo un dineral con 100 personas.
+Creo que cada persona por empleado.
+Creo que están haciendo, por ahí lo leí el otro día, como 80 millones de dólares al año.
+¿No?
+Según yo es más que OnlyFans, güey.
+Según yo te tran.
+Creo que el doble, por ahí vi el dato, creo que OnlyFans estaba haciendo como 40 millones de dólares por empleado y según yo, si mal no recuerdo, la última, bueno, crean, créanme lo que le dijo, me dijo chat GPT, este era como del doble, pero una locura.
+
+[Speaker 1 - 00:47:34]
+Una locura, está muy cabrón, está muy.
+
+[Speaker 0 - 00:47:36]
+Muy cabrón verlo en Lightning, va a ser muy interesante porque sí, definitivamente ese caso de uso es algo que la puede llegar a romper.
+¿Qué opinas de todas estas L?
+Creo que apenas estamos viendo.
+El boom empezar, ahora que estuve en Nueva York, conocí a la banda de Semi Jeff Garc, por ahí contó una historia también bien loca que había regalado, creo que es uno de los super OGs del ecosistema que está metido en este tema.
+También conocí el chavo, al técnico que está desarrollando la aplicación, contó una historia de que había regalado él como 20.000 bitcoins hace no sé cuántos años, una historia así similar a la del Pizza Day, Wow, ya no pude platicar con él, pero por ahí anduvo patrocinando el evento de Pizza DAO en Nueva York, estuvo muy cool también para platicar con la banda técnica, le decía yo, y le preguntaba el chavo, oye, ¿Qué opinas?
+Por qué creo que están usando el stack de, un stack de, no sé si es de OP o de Arbitrum, alguno de esos stacks para meter la IBM en Bitcoin, ¿Por qué no usar CK?
+No, pues es que esto lo empezamos a desarrollar hace dos, tres años y sí, y le preguntaba, ¿Tú crees que vengan L, que estén utilizando estas nuevas tecnologías de Zero Knowledge proof?
+Me dijo, sí, no, ahí vienen y es un tema, pero yo creo que le faltan todavía años, o sea, no sé, no sé, estoy bullish en todo el desarrollo que se puede llegar a ver de estas líneas, pero igual creo que va a haber una, no sé, una división de atención y también de liquidez interesante que a ver cómo resulta.
+¿Tú cuál es la que más estás usando ahorita, por ejemplo?
+
+[Speaker 1 - 00:49:19]
+Fíjate que es un tema interesante porque sí, como bien dices, y es algo que hemos visto, creo que Ethereum ha sido como el, un poco el mayor experimento de layer 2 que tenemos hasta el momento y por un lado es una competencia por liquidez de la Layer 1, en donde todas las Layer 2 están compitiendo por liquidez, y esto lo estamos viendo también en Bitcoin, en donde las layer one, más bien las layer 2 están compitiendo por jalarse la liquidez del layer 1, lo cual fragmenta la tensión y puede tender, y creo que es algo que hemos visto en Ethereum, que es un proceso interesante, que es este proceso de canibalización de la liquidez en donde yo como usuario, ¿Para qué usaría el layer 1 si puedo utilizar el layer 2?
+Y eso pues el impacto puede llegar a ser negativo porque entonces nadie está usando el layer 1.
+Y aquí un poco la teoría nos dice, bueno, a ver, pues es que el layer 1 no se va a utilizar para que te mande los 50 dólares que te debo.
+Se va a utilizar para transacciones financieras entre instituciones de cientos de miles de millones de dólares.
+Entonces, bueno, por eso quieres el layer 1.
+Es un poco la teoría también en Bitcoin, en donde bueno, pues en el futuro no vas a pagar tu café con el layer 1, sino que vas a utilizar el Lightning Network o alguna alternativa.
+Pero si compras una casa con Bitcoin, pues vas a utilizar el layer 1.
+Entonces es un poco esa teoría también, dejar la capa primaria para las transacciones más grandes de mayor liquidez y utilizar la capa secundaria para transacciones más pequeñas.
+Creo.
+Bueno, digo, tú sabes, yo estoy como más cercano al ecosistema de Bitcoin, pero veo que ese proceso que ha sucedido en Ethereum en donde tienes un montón de proyectos compitiendo por atención y liquidez, está sucediendo en Bitcoin también.
+Y bueno, yo creo que al final la competencia es buena.
+Creo que no es una.
+En el futuro no va a haber un solo layer 2, sino que va a haber varios compitiendo y cada uno va a tener sus pros y sus contras y sus diferentes formas de implementar la tecnología.
+Y te digo, van a tener sus trade offs cada uno de ellos.
+Y hoy lo vemos en Bitcoin muy claro entre sabes, tienes por ahí a Lightning Network, tienes a Liquid, tienes a Stacks, tienes a.
+¿Qué otro hay por ahí?
+Bueno, en los últimos dos años han salido un montón.
+Ha salido Fractal, ha salido Atomics, ha salido ICP, sacó su versión sintética de Bitcoin.
+De hecho, por ejemplo, starknet está sacando también ahí como un sintético, con Solana también están sacando un sintético.
+Entonces estos sintéticos terminan funcionando como una especie de Layer 2 que corren en la otra cadena y los equipos en Solana han avanzado mucho en ese sentido.
+Yo creo que la competencia es buena y como usuarios es bueno experimentar y probar un poco de todo, porque todos tienen, te digo, tienen sus traders, algunos van a tener una mejor experiencia de usuario, algunos van a ser más líquidos, algunos van a estar más integrados.
+Entonces, pero sí creo que es algo también inevitable.
+Hay un debate ahorita sucediendo en Bitcoin acerca de una nueva de limitar o no la capacidad de almacenamiento que pueden tener las transacciones y eso puede generar.
+Mayores experimentos alrededor de escalabilidad, pero también trae como su lado negativo en donde puede hacer que la cadena se congestione.
+Entonces, bueno, creo que hay que ver estas cadenas como seres vivos en donde estamos constantemente experimentando y se están probando nuevas cosas y creo que esa es la vida, o sea, hay quien dice no, no toquen la cadena, déjenla en paz, no se metan con mi dinero.
+Esa es una visión, yo no la comparto porque creo que el cambio es inevitable.
+Y te digo, sí creo que más bien vamos a ver diferentes enfoques, pero todos apuntando hacia cómo hacemos que esto pueda escalar a miles de millones de personas.
+Creo que es un poco la idea, porque si el día de si ahorita medio planeta quiere hacer una transacción de Bitcoin al mismo tiempo, no, nadie va a poder, las transacciones se nos van a 200 dólares por transacción y nadie la va a poder lograr.
+Mismo en Ethereum, o sea, todas las cadenas eventualmente van a sufrir de eso en la medida en la que son adoptadas.
+Entonces sí creo que estos procesos de escalabilidad y de experimentación pues son inevitables y como usuarios tenemos que estar atentos tanto de los trade offs qué me da una cosa por sobre la otra y cuáles se adaptan mejor a mis.
+
+[Speaker 0 - 00:54:15]
+Necesidades y las probables oportunidades o riesgos que esto vaya a traer.
+Lo hemos visto en Ethereum cómo estas nuevas L han creado redes enormes de miles de millones de dólares, pero también otras como han le han hecho perder mucho, mucho lana a la gente y es un tema de años, va a ser un tema de años donde veamos en realidad cuáles son las que van a funcionar.
+Entonces hay mucho riesgo, pero también va a haber mucha oportunidad, gente que se quede y sobreviva en el ecosistema y siga experimentando y probando todas estas nuevas L o alguna de otra que le guste porque tampoco se puede todas, puede llegar a tener también un retorno ahí bastante interesante.
+Como tú decías, todavía podemos decir que es temprano, o sea, le falta mucho a esa tecnología para poder asegurar, Lightning va a ser lo que escale, o Heemi o Stacks o ve tú a saber.
+Todas estas nuevas que hay que hemos visto, muchas van a morir definitivo, como lo hemos estado viendo también en Ethereum, de repente hacen promociones y hay mucho uso, pero luego se mueren, hay cadenas muertas que tienen dos, tres transacciones por segundo, eso ya va, no sé, o sea, está muy interesante, está muy chido poder.
+Ver cómo se está desarrollando todo esto, pero creo que ahorita que puede llegar a estar barato es buena oportunidad para seguir acumulando esto es algo que sí me gustaría darle doble clic, o sea, si te convence, si estás convencido que esta tecnología va a durar, que híjole, si no estás convencido a lo mejor te falta leer, creo yo, pero de que vamos a ver mucha más oportunidad.
+Opciones que salgan y que haya que probar, yo creo que definitivo lo.
+
+[Speaker 1 - 00:56:01]
+Vamos a estar viendo.
+100%, o sea, esto no hay para atrás, no, o sea, creo que solo hay para adelante y no hay forma de deshacer lo que se ha logrado, lo que se ha hecho en los últimos años y esto solo va a continuar increchendo, eso no me queda la menor duda.
+
+[Speaker 0 - 00:56:21]
+¿Sabes?
+¿Una pregunta.
+Quiero ver tu opinión, qué opinas de las runas?
+¿Qué opinas de los ordinals?
+¿Ya se murieron, no se murieron?
+¿Van a revivir?
+¿No reviven?
+¿Cómo es?
+¿Yo sigo bullies, yo por ahí.
+Sigo colgando muchos de los que tengo, siento que todavía le falta mucho desarrollar ese tema, pero qué opinas?
+¿Ahorita está muy, muy fregado, no?
+
+[Speaker 1 - 00:56:46]
+Muy jodido, súper jodido.
+¿Yo he perdido mucho dinero, afortunadamente también he ganado dinero a través de airdrops y cosas que me han caído por estar participando en la cuestión tema, pero creo que la parte interesante es lo que viene después, o sea, no, a ver, a mí me gusta ver como ya después, después de algún par de ciclos me doy cuenta que son ciclos de especulación, que generan liquidez, que generan innovación, que se traduce en adopción, que genera especulación y volvemos a empezar, no?
+¿Esto y esto, bueno, esto no es como único de cripto, no?
+O sea, esto se vivió en el Internet, o sea, la burbuja del dotcom fue un periodo de especulación que generó muchísima liquidez, que generó innovación, que generó adopción y que nos lleva al punto en donde hoy nos encontramos en el Internet.
+Esto que hoy conocemos como Internet no hubiera sucedido sin un ciclo de especulación exuberante, irracional que fue la burbuja del dotcom, y eso mismo pasa en cripto pero en periodos mucho más cortos.
+Entonces creo que mucho de la exuberancia irracional que vimos con los mercados de runas y de ordinals ha apuntado hacia experimentos que están acelerando la adopción o que van a acelerar la adopción, entonces creo que es lo positivo.
+Lo negativo es que hemos perdido mucho dinero, eso no lo voy a negar, hemos perdido mucha lana, hemos hecho lana afortunadamente también, pero bueno, de que ha habido mucha gente, muchas cosas que se han ido a cero, eso es un hecho.
+También.
+Creo que el arte en bitcoin y los NFTs en bitcoin para los artistas o la gente que quiere almacenar algo de por vida, por toda la eternidad, hace sentido cuando descubres que los NFTs de tu colección favorita no están en cadena, sino que están en algún servidor, en el mejor de los casos un interplanetario file system o un Airwave, en el peor de los casos un Amazon Web Services, hace sentido que una pieza de arte se encuentre dentro de la cadena de Bitcoin para preservarlo por la eternidad.
+Creo que algunas de las colecciones más top dentro de Bitcoin no van a morir sino que van a ir evolucionando y son comunidades muy fuertes.
+Y eso no va a cambiar, pero bueno, creo que en el camino mucho se ha ido a cero, un poco como el ciclo pasado que vimos de NFTs en Ethereum, en donde tienes hoy por hoy hay algunas colecciones muy puntuales que han innovado, que han avanzado, que han mantenido el valor de esos activos y tienes un cementerio del tamaño de un país lleno de colecciones que valen cero y de tokens que valen cero.
+Los tokens en Ethereum no son pasa lo mismo que en los tokens en Bitcoin, tienes ahí algunos muy puntuales que han avanzado, que han evolucionado, que hoy valen cientos de millones y tienes un cementerio gigantesco de cosas que no valen nada.
+Entonces, bueno, hay esa similitud sin duda.
+Y creo que eso va, o sea, nos va, pasarán los años y veremos el resultado de esa experimentación porque al final muchos de esos experimentos o de esos tokens van a resultar en dinámicas, por ejemplo, de DeFi en Bitcoin.
+Entonces necesitamos de eso, de esos experimentos fallidos un poco para poder llegar a nuevas herramientas o nuevas.
+Pues, casos de uso para Bitcoin.
+Y creo que este en particular, el de Bitcoin DeFi, es uno que va a crecer mucho hacia el futuro.
+
+[Speaker 0 - 01:00:45]
+Y como tú dices, aparte de esos experimentos, esos DJ que le meten esa lana que.
+Ayuda a que haya ese desarrollo, que haya esa innovación o esa liquidez para los proyectos, entonces la entrada, esa lana que muchos hemos perdido, pues no sé, considérenle como donación para el crecimiento de la tecnología y el ecosistema.
+Yo creo que vendérsela a sí mismo es como que más fácil de llevar.
+
+[Speaker 1 - 01:01:15]
+100 %.
+100 % has ayudado a la evolución y la adopción de estas tecnologías y por eso hay que darse un.
+
+[Speaker 0 - 01:01:23]
+Abrazo mutuo.
+Digo, está el otro caso que yo siempre le digo a la gente muy probablemente todo lo que hagas en el siguiente año sea de, OK, no, a lo mejor vas a aprender mucho si mejor metes hoy tu dinero en Bitcoin y no lo mueves, a lo mejor en un año va a tener más lana casi el 99.9% de las veces.
+Es correcto.
+Entonces, bueno, ahí se las dejamos, ¿No?
+A veces mucho mejor nada más comprar Bitcoin, no tocarlo, que andar experimentando.
+Pero bueno, estás ayudando, como tú decías, para que la tecnología crezca y creo que es parte fundamental del ciclo.
+Creo que lo vamos a seguir viendo ahora con estas L.
+Así que tengan cuidado y no le metan más de lo que no estén dispuestos a perder y acumulen satoshis, vayan.
+
+[Speaker 1 - 01:02:12]
+Acumulando satoshis.
+Si, eso es algo que es un hecho.
+Iban a ver aquí, incluso con los activos en Bitcoin, si yo no hubiera hecho nada y todo el dinero compraba en cripto, cripto así de big thing y sólo hubiera comprado Bitcoin y no hubiera hecho nada, tendría más dinero, o sea, eso no hay duda.
+Y si te van a venir a vender que no, este es el próximo Bitcoin y que es más rápido y tiene más transacciones por segundo y la programabilidad y los contratos inteligentes y bla, bla, bla.
+Pero la experiencia, o sea, dolorosamente me ha enseñado que there is no second best.
+Y táchenme de maximalista, que me da mucha risa, güey, porque entre mis amigos altcoiners me dicen que soy un Bitcoin maximalista, entre mis amigos verdaderamente Bitcoin maximalista me dicen que soy un shitcoiner y yo la verdad, estoy en todos lados y ya hoy me cago de risa, me pito, pero es real, o sea, there is no.
+
+[Speaker 0 - 01:03:19]
+Second best.
+Sí, definitivo.
+Yo todavía.
+Que platico de esto, me acuerdo de un fondo que hice con unos amigos donde juntamos hace, me acuerdo cuántos, cinco o seis años, como tres, cuatro bitcoins que ya se volvieron mierda por andar metiéndolo a shitcoin, por andar metiéndolo en proyectos, por andar metiéndolo en tokens, etcétera.
+Es parte del aprendizaje y uno a.
+
+[Speaker 1 - 01:03:48]
+Madrazos aprendió.
+Como lo más difícil es no hacer nada.
+Nada, solo tenías que sentarte en las manos y hacer nada.
+Es lo.
+
+[Speaker 0 - 01:04:02]
+Más difícil.
+Siempre dejen ese acumulado, ese DCA, creo yo, la recomendación, acumulen poco a poco, no lo toquen.
+Yo por ahí diseñé, pude lograr un esquema donde.
+El Bitcoin que tengo a largo plazo si es complicadísimo moverlo, entonces mejor, mejor para no andar tentado a meterme en pendejadas, pero bueno.
+Oye, qué chido lo de Sati, qué chingón.
+Génesis, también estás haciendo espacios con Ordinals, con los Ordinales, perdón.
+Tienes los martes a las 4, ya van por el episodio, creo que pasaron los 100.
+
+[Speaker 1 - 01:04:46]
+Qué chingón.
+Hoy tenemos el.
+
+[Speaker 0 - 01:04:50]
+Episodio 90.
+Ah.
+
+[Speaker 1 - 01:04:51]
+90, excelente.
+90.
+Sí, sí, todavía nos falta un poquitín para llegar al 100, pero sí, muy contentos.
+La verdad es que es algo que hacemos por amor al arte, porque nos encanta el ecosistema, porque la comunidad de Ordinals en español es muy activa y hay gente de todo el mundo muy entrona y muy, ¿Sabes?
+Como buscando explorar lo que está sucediendo en Bitcoin.
+Entonces, bueno, si quieren conocer más, sigan a Osordinales.
+De hecho les voy a poner aquí el espacio al rato, por si quieren caerle todos los martes a las 4.
+Y muy contentos porque, bueno, tenemos un sponsor que se llama Ordinals Bot, que es una plataforma de inscripción en Bitcoin, y bueno, ellos nos apoyan un montón.
+Entonces.
+¿Cómo se llama?
+Pues todos los martes estamos ahí hablando acerca de todo lo que está pasando en el ecosistema de Bitcoin con Gwen, con Felipe, entonces.
+Espérame, ¿Dónde está?
+Aquí está.
+Bueno, ahorita se lo va a opinar.
+Pero sí, muy padre la verdad como poder conectar con más personas del ecosistema de Ordinals, que es un espacio interesante porque sí como que se mezcla un poco, por un lado se mezcla Bitcoin, se mezcla NFTs, entonces tiene como de todo el espacio de Ordinals y encontrar a más personas que están como involucradas.
+Ha sido muy padre.
+Se los voy a.
+
+[Speaker 0 - 01:06:17]
+Poner.
+
+[Speaker 1 - 01:06:17]
+Aquí.
+En el space para que le pongan ahí sus recordatorios y si quieren escucharnos al ratito por ahí vamos a andar de 4 a 6 hablando todo acerca de lo que está pasando en el ecosistema de Bitcoin y sí, es muy padre la verdad.
+Si, yo me la paso.
+
+[Speaker 0 - 01:06:35]
+Re bien en el espacio, igual.
+Como tú dices, amor al arte, poder conocer gente nueva, poder platicar también de proyectos de otras personas, iniciativas que estamos trayendo en el ecosistema siempre ayuda.
+Y en español, siempre me encanta que el contenido que hacen es en español, que han ayudado a muchas personas a conocer más sobre Bitcoin, sobre todo lo que está saliendo a ganar voy a perder dinero, pero bueno, ya eso es tema de cada quien, pero sí creo que hacen falta más personas haciendo contenido en español y hablando de Bitcoin, creo que son.
+De los pocos mexicanos que están súper, súper clavados.
+Hay mucha gente de otras partes por acá en Monterrey hay un par de personas que están haciendo ya una asociación en México, sé que hay un chorro de banda también, pero pocos hacen espacio de estos temas.
+Muy interesante.
+Te quiero invitar Elian, en octubre, fíjate que yo he estado muy metido en eventos, me encanta y vamos a hacer uno ahora en octubre, queremos que sea una semana entera de actividades, por ahí vamos a anunciar próximamente una colaboración muy muy fuerte.
+Con un venio así súper cabrón, por ahí estoy viendo si podemos llegar a tener, si alguien se anima de la comunidad acá en Monterrey para organizar un día entero de Bitcoin, un Bitcoin Day, yo creo que es la semana del 26 al 31 de octubre este año, no sé cómo ande tu agenda, por ahí la dejo y se la dejo a todos.
+Estaría muy chido poder tener una exposición de arte, poder tener acá Ordinal, poder tener stands, que por ahí veo a Lou que acaba de sacar una colección de Solana, si no han ido a ver su perfil vayan y verla, pero sí queremos hacer algo artístico y obviamente tenemos que tener arte de Bitcoin y por qué no a lo mejor un día entero donde platiquemos de todo lo que está sucediendo en el ecosistema, no sé cómo andes en esas fechas, ahí si quieres luego lo podemos seguir detallando, pero estaría chido tenerlos por acá en Monterrey en esa semana de la Blockchain Week Monterrey que.
+
+[Speaker 1 - 01:08:46]
+Queremos llamarle.
+Obvio, obvio, obvio que sí.
+Oye y es también se va, es ethereum México, ¿No?
+¿Cuándo va a ser?
+Digo, buena serie México.
+
+[Speaker 0 - 01:08:55]
+En Monterrey.
+Si Hacemos Ethereum México 2025, la tercera edición es en Monterrey el 31 de octubre, 1 y 2 de noviembre.
+Queremos que ese sea el cierre de la semana, entonces por ahí estamos viendo cómo llenamos la semana de actividades y sí, definitivamente me encantaría que un día sea exclusivamente de Bitcoin.
+Estamos cerrando también un museo donde queremos hacer una exposición de arte, tenemos por ahí, hace rato estaba acá Mr.
+Justice que tiene una colección increíble de de arte.
+Súper, súper OG x copies, tiene punks, está muy loco, nos está ayudando ahí con muchas conexiones y él quiere hacer ahí un tema artístico bien, bien interesante y creo que tenemos que tener sí o sí, definitivamente arte en Bitcoin también en la expo, entonces ahí le estaré pasando más datos ya que firmemos, falta nada más firmar, pero estamos a días, a días de firmar, el venio a firmar, la colaboración va a estar muy, muy buena.
+Ahí se las dejo porque si estamos ya empezando a subirle el nivel al ruido, a la promoción, vamos a necesitar y querer speakers de todo, de todo, de todo, Vamos a estar buscando voluntarios, community partners, media partners, etcétera.
+
+[Speaker 1 - 01:10:08]
+Etcétera.
+Pronto.
+Sign me up de una, ya luego nos escribimos para ver.
+
+[Speaker 0 - 01:10:14]
+Los detalles.
+Excelente, excelente.
+Hace rato había alguien que quería pedir la palabra, ya se nos fue libre acción.
+Un saludito.
+No sé cómo anda el tiempo, yo todavía me queda unos 5 minutitos, no sé si algún tema se nos haya pasado, si alguien quiere subir igual hacer una pregunta.
+Igual voy a invitar aquí a Lu por si quiere platicarnos un poquito de lo que ando haciendo.
+Veo por allá Caro, saludos a Caro allí que también hacen espacios, saludos a la Caro Show, está lo, está RGB, veo también por ahí al buen Mr.
+B que también tiene su vida por aquí lo puso abajo, está minando en un pool, me decía, no sé cuánto esté haciendo diario ahí o a la semana, a ver si nos puede comentar, dice que tiene su pool en Parasite, el pool de los OMB.
+Excelente, es el pool en.
+
+[Speaker 1 - 01:11:08]
+Donde en donde Sati realiza los estándares, está instalado, bueno, está ahí como la configuración para cuando se hagan payouts sean a través de Sati vía.
+
+[Speaker 0 - 01:11:17]
+Lightning Network.
+Excelente, excelente, va a ser muy muy chido verlo ya funcionar, ojalá lo puedan lanzar pronto, que terminen todos los temas de la experiencia del usuario, súper importante que eso esté bien, bien detallada porque híjole, un lanzamiento así, pero no, qué chingón el anuncio.
+Por acá hace rato estaba también el buen Felipe, muchas felicidades al equipo Felipe, todo su equipo, obviamente a ti que andas ahí también colaborando con ellos, Qué loco, qué loco ver estas empresas mexicanas, latinas con.
+Inversionistas billonarios como el loco.
+De Ricardo Salinas ya colaborando con.
+Wallets así mundiales como Iceberg, que por ahí también un gran saludo.
+A la crack de WEN que anda haciendo una súper chamba con xbers para bombardear a artistas y todo.
+Me imagino que les ha de estar pegando el tema de los ordinals y las runas, ha de ser un negocio difícil, pero ahora con Lightning y con la integración que están haciendo con starknet seguro, seguro van a agarrar mucho más usuario y están desarrollando mucha tecnología nueva.
+Qué chido, qué chido verlo, qué chido que veamos también a gente latina trabajando en estas empresas y colaborando con esos.
+
+[Speaker 1 - 01:12:35]
+Protocolos enormes.
+100%, 100%.
+Creo que la verdad es que es muy padre ver como el nivel de las personas que estamos colaborando y haciendo cosas cada vez más alto y bueno, pues Latinoamérica no se queda atrás.
+Entonces, bueno, pues la verdad es que es un gusto, un honor poder ser parte de esta comunidad y de todos los que están, sabes, ser como colega, amigo, host, co host de la banda que está construyendo es un.
+
+[Speaker 0 - 01:13:06]
+Gran honor.
+Oye, una pregunta.
+Que tengo por aquí.
+Yo he visto mucho últimamente del sistema Ethereum migrar o venirse a Latinoamérica.
+Sabemos que muchos de estos L que platicábamos tienen tesorerías enormes por haber lanzado un token, por haber hecho un pre sale, por tener inversionistas, ve tú a saber.
+Y mucha gente está empezando a contratar personas en México, en todas partes de Latinoamérica en específico, country managers, gente de comunidad, gente que hace contenidos.
+Veo yo un flujo de dinero muy distinto en el ecosistema para eventos, para iniciativas de proyectos nuevos.
+¿Como lo ves en Bitcoin?
+¿Tú crees que alguna vez tendremos algo similar en Bitcoin?
+¿A lo mejor con esta CL en el futuro?
+Yo todavía no lo veo, no sé tú cómo lo veas, pero, híjole, siento que por ser tan descentralizado y no tener estas fundaciones con estas tesorerías enormes, puede llegar a ser más complicado.
+Pero no sé, a lo mejor es lo que falta es emprender utilizando la tecnología para que empiecen a contratar personas acá en México, en Latinoamérica.
+¿Es un tema por ahí que he pensado mucho y no sé, tú qué opinas?
+¿Cómo lo has visto?
+¿Sientes que eso es algo que.
+
+[Speaker 1 - 01:14:29]
+Puede cambiar?
+Sí, a ver, creo que como bien dices, Bitcoin es mucho más descentralizado, no hay una fundación Bitcoin como tal, pero estamos viendo que sí hay empresas que han levantado capital vía inversión de BCS o vía levantamientos de, bueno, más bien ventas de tokens.
+Y el interés creo que todavía no está al punto de donde está el interés, por ejemplo, en el ecosistema de Ethereum.
+Creo que no hay tanta gente construyendo en Bitcoin, la realidad es mucho más limitado porque hay menos capital de riesgo para aventar a los que están construyendo.
+Pero hay menos.
+Pero ha ido en crecimiento.
+Y pongo un ejemplo.
+Bitcoin Fi es la aceleradora de Team Draper.
+Team Draper es un Silicon Valley Mogul, inversionista de meta de Facebook, de Coinbase, y él lanzó la primera generación de Bitcoin Fi.
+Sati participó en esta primera generación, ahora ya va para la segunda.
+Y ejemplos como ese creo que se van a ir replicando.
+Entonces, sí creo, digo, hay que recordar, Bitcoin es un activo de, no sé, te voy a dar el dato exacto, pero es que es casi 2 trillones de dólares, estamos hablando.
+Sí, 2.1 trillones.
+
+[Speaker 0 - 01:16:03]
+De dÓlares.
+Sí, ya lo pasamos, o sea, all time high hace semanas, por lo que veo de.
+
+[Speaker 1 - 01:16:10]
+Market cap.
+Sí.
+2.1 trillones de dólares como referencia, Ethereum es un activo de 3 trillones, entonces estamos hablando de que es un activo 6 veces más grande.
+Potencialmente, potencialmente, y esto es algo que lo pongo así, como estamos a la espera de ver, mucho de ese capital va a llegar a manos de emprendedores, de builders, de comunidades.
+Es una tradición diferente, es un ecosistema distinto donde la creación de tokens no es el estándar y eso hace, eso limita la capacidad o más bien el capital de riesgo disponible.
+Pero yo creo que va hacia allá.
+Hay que estar atentos, hay que estar atentos de aquellos protocolos que se den cuenta, Digo, Teter es uno de ellos.
+Teter sabe que América Latina es un bastión de la adopción para Bitcoin y stablecoins en el mundo.
+Y creo que eventualmente más y más protocolos se van a dar cuenta de ello.
+A la Uniswap, a la Arbitrum, a la Optimism, a todos los protocolos de Ethereum que se han dado cuenta que Latinoamérica es un bastión de la adopción de criptomonedas.
+Entonces creo que estos procesos se replican y potencialmente en el caso de Bitcoin, pues bueno, pueden tener un alcance muy, muy grande dado el tamaño.
+
+[Speaker 0 - 01:17:38]
+Del activo.
+Sí, definitivo.
+Yo creo que si vamos como meses o a lo mejor un añito, dos.
+Pero siguiendo el mismo camino, Siguiendo el mismo camino y seguro, seguro lo vamos a.
+Y sí, como tú dices, definitivamente si lo he visto fluir, si lo he visto cambiar, si he visto como los ojos de estos protocolos están volteando a ver el ecosistema mexicano, latino en general.
+Ahora con DevConnect en Argentina, creo que va a ser una locura, vamos a ver qué pasa, pero si ve un poco más retrasado y si, creo yo, lo vamos a tener que ver.
+Creo que como tú dices, falta.
+Más emprendimiento, más emprendimiento local.
+Lo que está haciendo Sati similar.
+Hay que fomentarlo de alguna otra forma, creo yo.
+Pero bueno, ¿Cuando rompemos el all time high?
+¿Hoy, mañana, pasado?
+Ya estamos a nada, por lo que veo, todo tiende a.
+Parece que lo rompemos pronto.
+¿Qué.
+
+[Speaker 1 - 01:18:42]
+Opinas?
+Cuándo.
+Este.
+Yo creo que vamos a andar aquí en el lateral un ratillo.
+Vamos a andar entre los, ya sabes, así 111.000, 105.000, 106.000, a 112.000, a 105.000.
+Así creo que nos vamos a quedar aquí un rato y eso espero porque pues así nos da más tiempo de acumular.
+A mí los all time highs me generan como.
+Como un poco de la palabra como no tristeza, pero como que me ponen, o sea, no me encanta sentimental o por qué, por qué de que lo vi, lo vi en tres baros güey y ahora ya se me fue las manos y no tengo suficiente, la realidad es que no tengo suficiente Bitcoin, entonces me gustan, es como, y por otro lado no tengo suficiente, ¿Sabes?
+Pero bueno, aquí andamos, si no tenemos ningún lugar a dónde ir.
+
+[Speaker 0 - 01:19:38]
+Entonces por aquí seguiremos, nadie tiene suficiente, ni el pinche Michael Selber tiene suficiente, sigue comprendiendo y compren trozos de mil.
+¿Sabes?
+Si su estrategia le funcione a largo plazo, si sea una bruja que truene o no, ojalá y no, pero última pregunta, ¿Super ciclo o.
+
+[Speaker 1 - 01:19:59]
+No?
+¿Superciclo?
+Sí, sí, superciclo, creo que el superciclo se ve diferente de como nos los imaginamos, nos imaginamos un super ciclo en donde esto se dispara a un millón de dólares en un año y más bien creo que, creo que el superciclo se ve con los países adoptando, se ve en una carrera, en un, sabes, como una carrera por acumular en donde nosotros como plebeyos estamos totalmente fuera del juego desafortunadamente.
+Se ve con Apple compitiendo versus Microsoft, versus las empresas de petróleo minando, versus los países.
+
+[Speaker 0 - 01:20:51]
+Minando.
+
+[Speaker 1 - 01:20:52]
+Versus.
+Se ve por ejemplo, y es algo que es una opinión medio controversial, se ve con el gobierno de Estados Unidos confiscando Bitcoin de MicroStrategy por decir algo, por X o Y razón a la tipo 1932 cuando el gobierno confiscó el oro, o sea, el super ciclo se ve.
+Es un proceso en donde la gente común y corriente queda totalmente fuera de la jugada, es un, sabes, como una competencia de los grandes poderes fácticos y no fácticos del planeta por acumular más Bitcoin y de aquí a allá lo que nos queda es acumular Satsu, o sea, pero así, pero de forma furiosa, furiosa porque sí veo que hay un punto en donde, y que es la parte que te digo que es desafortunada, ¿No?
+Porque un poco esa utopía o esa idea de Bitcoin es para todos, shalala, ¿No?
+¿Y soberanía monetaria y vamos.
+A separar el estado del dinero, no sé qué tanto se cumple en un super ciclo, o sea, el súper ciclo no va a ser empujado por las personas, desafortunadamente, va a ser empujado por las grandes instituciones y por los países y entonces nosotros como personas si no estamos posicionados vamos a quedar súper fuera de la jugada, entonces cuándo es cuestión de, o sea, sí creo que estamos a años, años de ver estos catalizadores muy cabrones que ya hemos visto.
+No se acuerdan, pero cuando, digo, cuando comenzó la guerra de Ucrania contra Rusia, Ucrania levantó no sé cuántos fueron, 300 millones de dólares vía cripto.
+Eso no se habló mucho, pero eso es como estos momentos en donde Bitcoin y las criptomonedas se convierten en elementos geoestratégicos del planeta y eso va a pasar más y más, o sea, vamos a escuchar de una guerra por Bitcoin, vamos a escuchar de un país bombardeando los búnkers de algún otro para apañarse sus frases semillas?
+Sí, creo que vamos hacia allá y no, no es, no es bonito, ¿Sabes?
+No sé, estoy tripeando, no.
+
+[Speaker 0 - 01:23:29]
+Lo sé, igual estoy totalmente equivocado, no, pero madres, o sea.
+Sí, sí, no lo había pensado, no había pensado en.
+Guerras para.
+Ir tras del oro o del bitcoin de otro país, qué loco, le voy a tener que meter horas.
+A ese escenario porque sí, sí, sí, sí, total, obvio, lo veo cabrón, ya lo estamos viendo con EEUU y su reserva que la quieren crecer con pura incautación de.
+Los criminales, ¿Quién le impide que luego se vayan tras de saber.
+
+[Speaker 1 - 01:24:13]
+Quién por?
+¿No viste la ley que proponieron, una propuesta de ley en California de que si no tocas tus criptos en el exchange en tres años lo incautan, cierto, es 1934 y el gobierno de Estados Unidos apañándose el oro de la gente, no es un escenario bonito, ¿Sabes?
+Si las personas guardan su Bitcoin en Bitso, y saludos a Bitso porque me queda increíble, pero se la van a pelar, o sea, esa es la realidad, si lo guardan en Coinbase, se la van a pelar, se lo guardan en Binance, se la van a pelar, o sea, si no aprendemos a custodiar nuestro Bitcoin, no las vamos a pelar, entonces no es un escenario bonito, ¿Sabes?
+Es el pedo que le.
+
+[Speaker 0 - 01:24:57]
+Veo a la hiper bitcoinización.
+Híjole, creo que con eso tenemos que cerrar.
+Hay que meterle horas, hay que meterle horas.
+
+[Speaker 1 - 01:25:10]
+Aprender sobre esto, definitivamente hay que meterle.
+
+[Speaker 0 - 01:25:12]
+Horas, hay que meterle horas, No es sencillo.
+Sobrevivir en este ecosistema, comprar y guardar y no tocarlo y sentarse sus manos, de repente hay muchas tentaciones que te llevan a gastarlo o a invertirlo si tú quieres verlo en otros lados y a veces es mejor dejarlo quieto.
+Pero bueno, ya veremos cómo se desarrolla.
+Estaremos aquí definitivamente platicando de eso.
+Lian tiene espacio a las 4, vayan a escucharlo por ahí voy a estar escuchando el espacio de hoy.
+Muchas gracias Lian por pasar, por venirnos a contar de lo que pasó en Las Vegas.
+Qué loco que era tu primera vez y que te tocó experimentarlo exponiendo con Asic, Genesis con Sati, es un sí, es una ciudad de locos.
+Ya tengo yo mis boletos para el geraño que entra.
+Hubo una oportunidad de sacarlos gratis, no me lo voy a perder ni de pedo.
+Este sí ya me urgen viajecito Las Vegas me encanta, la neta, hay que echar dado, hay que echar ruleta, hay que echar un pocarito.
+Allá estaremos los que quieran, vayan apuntándose.
+Creo que todavía oportunidad de conseguir boletos en descuento, pero sí, ese evento se vio este año increíble y el año que entra me imagino que va a estar.
+
+[Speaker 1 - 01:26:30]
+Mucho mejor.
+Pues muchísimas gracias, qué gusto, qué gusto la invitación, un gusto estar por acá.
+Saludos a todos los que nos escuchan ahorita en vivo y en repetición.
+Métanle las horas, métanle los pesos.
+Siempre digo, bueno, una frase que me gusta antes de invertir dinero, inviertan tiempo.
+Bitcoin es inevitable.
+Y nada, muchísimas gracias, denme un follow, cualquier cosa, ya saben que ando por acá, lo que les pueda apoyar siempre es un gusto y nos escuchamos en la.
+
+[Speaker 0 - 01:26:58]
+Próxima seguro.
+No, increíble y gracias por aceptar la invitación.
+Por acá arriba les dejé pineado el Space por si quieren dar un like, un repost, todavía se puede, esto nos ayuda a llegar a más banda.
+Está también el arte de Jamex, que soy súper coleccionista de Jamex, me encanta lo que hace y sí, ahora con lo que está haciendo con Inteligencia Artificial y estos videos, está bien, bien loco, siempre en la vanguardia.
+Les puse también por acá el anuncio de Sati de xvers, donde se están.
+Anunciando la colaboración para incluir Lightning con Sati.
+Y también les puse por aquí, Ah no, lo opiné dos veces.
+Y está el Space en el último pin que empieza en una.
+No, dos horas y media ordinales, 90 noticias, drops y mucho más.
+Gwen, Elian y el buen Felipe Servín de Sati, muchísimas gracias, Increíble que sigan haciendo y que sigamos muchos por acá haciendo contenido.
+Muchos se han ido, muchos aquí seguimos, pero yo como tú lo hacemos por amor al arte.
+A mí me encanta platicar estos temas, tener aquí a gente que está haciendo cosas chingonas.
+El próximo jueves, fíjense que todavía no tengo invitado, yo creo que probablemente mañana les avise quién estará por acá con nosotros.
+Pero bueno, me voy, Tengo junta ahorita a las dos, no, a la una y media.
+Ya les dejo la última partecita de Mindset y nos vamos.
+Muchas gracias.
+Saludos.
+
+[Speaker 1 - 01:28:25]
+A todos.
+Un beso, Abrazo, Maxi, abrazo.

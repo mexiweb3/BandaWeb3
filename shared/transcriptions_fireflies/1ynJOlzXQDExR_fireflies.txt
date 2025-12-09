@@ -1,0 +1,995 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #N/A
+Título: BandaWeb3 #052 @gustavojfe @SwapidoBTC
+Fecha: 2025-04-17
+Host: BandaWeb3
+Tipo: hosted
+
+Descripción:
+BandaWeb3 #052 @gustavojfe de @SwapidoBTC. Con Swapido puedes pagar cuentas bancarias en México con Bitcoin en segundos. Ideal para vender tu crypto, remesas o para tus gastos diarios.
+
+Duración: 01:22:48
+Escuchas: 72
+
+Links:
+  Space: https://x.com/i/spaces/1ynJOlzXQDExR
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+[Speaker 0 - 00:00:03]
+GM, GM Banda, buenos días, buenas tardes, buenas noches, dependiendo de dónde se estén conectando a esta grabación.
+El día de hoy vamos a tener a Gustavo Flores por aquí viene llegando, ya lo voy a subir, estoy empezando, denme un segundito.
+Todos los que se van conectando, los que pueden irnos ayudando.
+Le pueden dar un like, puede dejar un post y dejar su comentario.
+Estoy cambiando aquí el nombre, título del espacio para.
+No sé por qué no lo había puesto el nombre Gustavo.
+Vamos a poner aquí Gustavo JF.
+Vamos a subir a Gustavo, comencemos.
+¿En breve les voy a dejar esta canción, la que siempre estoy poniendo es.
+Mind, sabéis?
+Hecha con inteligencia artificial y Juno.
+Mientras invito a la banda, hacemos los likes, repos, comentarios y mando las invitaciones que normalmente mandan los grupos.
+Vamos a subir aquí, Gustavo, Gracias por estar por aquí, Gustavo.
+Empezamos a ver.
+Eso fue Minds a Beast, una canción hecha con inteligencia artificial.
+Ya tenemos por acá a Gustavo.
+Yo estoy tratando de subir con mi cuenta, pero no me está permitiendo.
+Yo creo que ya con el celular desocupándolo de la canción, ya lo me va a permitir.
+Muchas gracias a toda la banda que está por aquí.
+Saludos a mi increíble amiga Superama.
+Web a Mr.
+Durman Sierra, muchas gracias por estar por acá.
+Web.
+¿Que dice?
+Webco madre, no alcanzo a leer tu nombre.
+Durman.
+Vamos a entrar.
+Web con calle, venga.
+No lo alcanzaba.
+Ya tenemos por acá.
+¿Como cojo Gustavo?
+Creo que yo ya con mi cuenta voy a poder subir.
+Gustavo, ¿Cómo andas?
+Bienvenido.
+¿Me escuchas?
+
+[Speaker 1 - 00:05:30]
+Hola, ¿Cómo estás?
+Sí, muy bien, gracias, ¿Y tú?
+
+[Speaker 0 - 00:05:34]
+Excelente, excelente.
+Ya estoy acá entrando con mi cuenta.
+Oigan, el día de hoy estoy muy contento de tener aquí a Gustavo.
+Mientras entro aquí con la cuenta, creo que ya puedo entrar de speaker.
+Híjole, una historia.
+Por ahí estaba participando y voy a estar participando en una serie de espacios, mañana vamos a tener uno, de hecho justo vamos a hablar.
+Del tema de hoy, Bitcoin.
+Me encanta, me encanta poder platicar de lo que ha sucedido con Bitcoin, las empresas que están trabajando y participando con Bitcoin.
+Hace poquito tuvimos a Felipe Servín que está construyendo aplicaciones para enviar y recibir satoshis con WhatsApp.
+Nos platicó de lo que estaba haciendo, del levantamiento de capital de la iniciativa y de cómo la han construido.
+Y poco a poco hemos visto muchos proyectos salir y también comunidades, iniciativas distintas, inocadas, 100% bitrion, obviamente están los ordinales, saludos a Gwen, a Elian y también a Felipe que están hable y hable de estos temas, pero creo que poco a poco vamos a ir viendo muchas alternativas para poder trabajar ese Bitcoin.
+Por ahí veo también al buen Abraham que está construyendo con bando un protocolo para gastar cripto.
+No sé si vayan a integrar Bitcoin, hay que ponernos a comunicar ahí con la banda de Swapido, podría ser, hay una buena colab.
+No sé, pero qué chido, qué chido tener aquí a Gustavo, que nos platique un poquito de su historia y de lo que está construyendo.
+Es uno de los de las empresas y de las plataformas e iniciativas que ahorita están teniendo mucho auge y que obviamente pues quieren salir a mercado, que la gente los use, que haya retroalimentación, que mejoren poco a poco y pues bueno, encantado de tenerlo aquí a Gustavo por aquí.
+¿Cómo andas Gustavo?
+Bienvenido.
+Muchas gracias por la aceptar la invitación de venir a platicar.
+
+[Speaker 1 - 00:07:32]
+Muy bien, es un gusto estar por aquí desde hace rato ya veo viendo lo que lo que haces y pues me da mucho gusto que me hayas invitado.
+Muchas gracias.
+
+[Speaker 0 - 00:07:43]
+No, qué chido, qué chido.
+Como decía, constructor en Bitcoin tiene ya un rato en el ecosistema.
+Me gustaría que me platicaras un poquito de tu historia.
+Siempre es bueno conocer cómo entró la gente a este ecosistema, cómo supo de Bitcoin en específico.
+A mí yo me centro mucho en Bitcoin últimamente, lo he dicho, cada ciclo me hace más maxi, después de ver todo lo que pasa con estas share coins y con la gente que utiliza estas herramientas para lanzar diferentes tipos de monedas y capas, unos capas, dos capas, enes.
+Híjole.
+Creo que hay mucha experimentación, todavía estamos viendo ahorita pena salir dos, tres cosas, pero bueno, hay ya funcionalidad muy, muy interesante y tener gente que hable y construya en Bitcoin ha sido para mí súper padre verlo y mucha gente de Latinoamérica y de este lado de la parte hispana, no sé, me imagino que por Argentina, por Venezuela, por todo lo que han sufrido y lo que creo que podemos llegar a experimentar y hemos experimentado muchos países que aunque ahorita México esté más estable pero bienvenido.
+Más de nuevo.
+¿Cómo llegaste a este ecosistema?
+Platícame un poquito de ti.
+Ya hablé mucho.
+
+[Speaker 1 - 00:08:57]
+Claro, claro que sí.
+Bueno, yo soy peruano, nací en Perú, pero crecí en Montreal, Canadá.
+También soy canadiense y fíjate, no sabía.
+
+[Speaker 0 - 00:09:05]
+Yo creí que eras, no sabía de dónde eras.
+Ni idea.
+
+[Speaker 1 - 00:09:08]
+No, soy mexicano, vivo en la Ciudad de México ahora, pero si, no, soy mexicano en Canadá.
+Cuando tenía, bueno, en la universidad a los 18 años en realidad estaba buscando cosas como maneras de ganar dinero en línea, ¿No?
+Entonces caes en el clásico.
+Responde tales preguntas y ganas créditos de 5 dólares, cosas así.
+Pero también vi algo que decía mina Bitcoin, minería de Bitcoin, pero no le presté mucha atención.
+Pero después, eso habrá sido en 2014.
+En 2015, un año después conocimos.
+Mi mejor amigo, Mache, que bueno, ahora es parte de la comunidad mexicana también de Bitcoin.
+Él trabajaba en un restaurante donde conoció a alguien que conocía al fundador de Podcoin, que supuestamente hace una cripto para la industria de marihuana legal en Canadá, justo en 2015, cuando es por ahí que se legaliza un poquito después, entonces él nos dice compren Podcoin, pero pues.
+
+[Speaker 0 - 00:10:14]
+2016-15 fue.
+Sí, sí, yo creo que entré una versión 2 de esa, creo que no.
+
+[Speaker 1 - 00:10:20]
+Entré esa seorías de como la industria de marihuana.
+
+[Speaker 0 - 00:10:27]
+Oye, pero antes de eso, o sea, tú eres técnico, eres financiero, eres, o sea, ¿Por dónde, por dónde fuiste en este mundo y cómo llegaste a eso?
+
+[Speaker 1 - 00:10:39]
+Comencé, comencé como programador, pero bueno, a este punto, sí, sí, eso ya han pasado 10 años, entonces ya manejo bastante bien casi todos los lados de esta industria, este negocio, pero para no alargar tanto la historia, pues íbamos a, comenzamos a comprar Podcoin, pero rápidamente nos dimos cuenta, oye, en esto de criptomonedas existe este Bitcoin y ya había escuchado hablar de ese que se puede minar y eso, entonces comenzamos a comprar Bitcoin también, pero aquí nuestro objetivo era solo ganar dinero rápido, la idea, lo que pensábamos que era, no entendíamos nada más profundo que eso.
+También éramos muy jóvenes entonces, y no es como si entendía la tecnología tampoco.
+
+[Speaker 0 - 00:11:24]
+Oye, pero también depende cuándo entres en el mercado y qué es lo que te enseña el mercado.
+Yo cuando entré, Por ejemplo, octubre 2017 era up only, o sea, octubre noviembre, diciembre fue de 6.000 a 20.000 en mes, o sea, eso me enseña.
+Cuando yo entro digo madre, si así es esto, renuncio todo y le meto la casa, ¿No?
+
+[Speaker 1 - 00:11:44]
+Pero no sé.
+No, pero es lo que me pasó a mí también, porque en 2015 era como el mejor momento para entrar en ese momento era como el bottom del mercado bajista y pues 2017, dos años después que yo ya estoy ahí, pues creo que soy un genio, ¿No crees que tenía 20 años, tenía más dinero que todo el mundo conozco, es como, ah, pues voy a lanzarme al 100% en esto?
+Entonces abandoné la universidad, renuncié a mi trabajo y partimos con un proyecto de minería, alquilamos un espacio industrial, instalamos un sistema eléctrico y de ventilación, pero muy precipitado cuando el Bitcoin está en 20.000 y el mes siguiente está en 10.
+Entonces salió, no salió más.
+No salió tan mal, pero no salió tan bien.
+Pero digamos que aprendiste mucho.
+
+[Speaker 0 - 00:12:42]
+Aprendiste mucho.
+
+[Speaker 1 - 00:12:44]
+Aprendí mucho y me.
+Y creo que los mercados bajistas son interesantes porque si te quedas, aprendes bastante, gente solo se va a ir, es como abandono, se acabó.
+Pero si te quedas, es el momento que aprendes más porque el mercado alcista pues es solo manía y pues vamos, es solo empezar el dinero, pero si en el mercado bajista te quedaste es porque es más allá que solo por volverte rico.
+Entonces creo que en 2018 sí comencé.
+
+[Speaker 0 - 00:13:13]
+Y creo que la gente lo nota, eso que dices, eso que mencionas, yo creo que la gente se da cuenta y lo toma como información para decidir en el futuro con quién colaboro.
+No sé, yo creo, yo creo que eso suma y afecta.
+
+[Speaker 1 - 00:13:28]
+Yo también creo, yo también creo.
+Entonces 2018-2019 ya comencé a entenderlo más.
+Después lancé otra empresa que se llama Verify en Canadá, que terminó siendo un intercambio de Bitcoin en Canadá y ese sí fue el más exitoso.
+Hicimos eso unos cuantos años y después trabajaba en otras compañías.
+Bullbitcoin, que es un intercambio de Bitcoin en Canadá, Wasabi, que fue una cartera de privacidad de Bitcoin, probablemente la más grande de privacidad y ahora también su escritor en un boletín.
+
+[Speaker 0 - 00:14:02]
+Wasabi, me acuerdo usar wasabi.
+¿Estuviste ahí?
+¿Qué hacías?
+
+[Speaker 1 - 00:14:07]
+Era bueno, yo digamos que después de ser programador sobre todo lo que últimamente he estado haciendo es ser escritor técnico.
+Entonces en Wasabi, tengo varias publicaciones que hice con ellos y en el marketing en general, las comunicaciones.
+Entonces escribía artículos sobre explicando las tecnologías, cómo funcionan las tecnologías ahí.
+Y hoy en día soy escritor también en el boletín informativo Bitcoin Uptech, que es como un boletín informativo recurrente cada semana que habla de las noticias técnicas de Bitcoin.
+Entonces las agregaciones que se hacen a Bitcoin Core y a los sistemas que se usan por toda la industria.
+Entonces sí, en Wasabi yo hacía eso, pero Wasabi cayó.
+Eso fue hace un año exactamente que Wasabi completamente cerró sus puertas después de que sus competidores fueron arrestados y extraditados.
+EEUU Samurai, pues Wasabi cerró por miedo de terminar igual.
+
+[Speaker 0 - 00:15:05]
+Oye, algo hemos estado viendo que se está revirtiendo un poquito esa tendencia de ir a atacar a esas entidades.
+Veo que han dado órdenes ejecutivas liberando a gente y perdonando, no sé.
+Qué interesante ver ese cambio también.
+Pero sí, de acuerdo.
+Estuvo una época bien dura, ¿No?
+Porque se mencionó mucho el ataque que sentíamos algunos, pues me imagino que los que ellos mismos no sintieron y obviamente era.
+
+[Speaker 1 - 00:15:33]
+No estuvo duro, pero ya parece que está cambiando.
+Pero bueno, siempre con.
+Hay que tener cuidado porque nunca nos parece algunas cosas lo que están noticias.
+Después vamos a ver lo que dicen las personas de Samuráis siguen arrestadas, siguen en juicio, pero parece que van a tener un tratamiento mejor que el bajo Biden.
+Pero bueno, aún no se decía al 100%.
+
+[Speaker 0 - 00:15:59]
+No, continúan, continúan.
+Qué interesante.
+El cómo.
+Todos los puntos y los proyectos en los que estás involucrado.
+Te han traído aquí.
+¿Como estás?
+Continúa.
+
+[Speaker 1 - 00:16:15]
+Sí, sí.
+Entonces, bueno, sí.
+Entonces cuando después de Verify, después de trabajar en estas empresas, bueno, entre todo esto me mudé a México hace como 4 años ya, justo durante el Covid, que honestamente en Canadá se me hacía insoportable vivir en esta época.
+Y bueno, entonces fuimos, comencé a descubrir, oye, fue justo.
+
+[Speaker 0 - 00:16:38]
+Perdón que te interrumpa, pero híjole, me gustaría darle doble clic ahí un poquitito.
+Platícanos de eso.
+Escuché mucho de que el control del gobierno fue increíble y que la gente ya empezó a migrar mucho a Bitcoin, por eso no sé qué tan cierto sea.
+
+[Speaker 1 - 00:16:53]
+Sí, definitivamente.
+Entonces pasaron varias cosas, ¿No?
+Primero estaban las medidas, creo que de Canadá era uno de los países más extremos, digamos, nosotros teníamos toque de queda todos los días de las 8 de la noche a las 8 de la mañana y la multa era de 2000 dólares y salías a la calle, no podías ni salir.
+Creo que la única excepción es si tenías un perro y lo hacías caminar, pero bueno, eso no.
+Y además, además que ya el invierno pega fuerte, además que hace menos 30 grados en Montreal y el sol anochece a las 3 de la tarde, además no puede salir de tu casa, además en Navidad y en Año Nuevo estaba prohibido de ir a ver a tus familiares, había toque de queda también.
+Entonces eso y después ya comenzó a ver hasta el pasaporte vacunal que no podías entrar.
+En un momento anunciaron que se iba a suspender la salud pública a la gente que no estaba vacunada.
+Canadá siempre fue reconocido como el país donde la salud pública accesible a todo el mundo de buena calidad, pero decían, ah no, eso se va a suspender a los que no están vacunados no se les va a dejar, no se les deja entrar a Walmart, a lo que sea, ya era un sistema doble.
+Pero bueno, yo al comienzo creo que en el segundo invierno que comenzó de otra vez toque queda, otra vez no vamos a poder ni salir a ver nuestros familiares o amigos en cualquier situación.
+Pues me dije, pues tengo amigos que están en México y en Costa Rica voy a ir a ver, ¿No?
+Al menos también en invierno.
+Entonces en Canadá en invierno te hagan decirte a Costa Rica, México, donde hace calor.
+Entonces fui a ver a Costa Rica, fui a ver a México.
+
+[Speaker 0 - 00:18:33]
+Oye, pero bien diferente, ¿No?
+Acá les nos valía madre comparado con allá con Canadá, bien diferente.
+A mí me tocó Panamá, yo viajaba mucho en esa época a Panamá por un contrato que teníamos con un hospital y era un caos, o sea, encerrado en el aeropuerto no te dejaron salir, perdón, en el hotel no te dejaron salir.
+Ejército en las calles, cabrón.
+Y México no, como si nada.
+
+[Speaker 1 - 00:18:58]
+¿Sí, en realidad México era uno de los países más libres, por eso creo que era parcialmente para la industria del turismo, no?
+¿Para que?
+No, pero también, bueno, creo que al final la gente no se dio como.
+No sé, no sé, pues yo no sé, hay gente que tiene diferentes perspectivas, hay gente que me dice, no, en tal parte de México si era mucho más controlado, entonces si variaba, pero al menos en Playa del Carmen donde yo fui al comienzo era súper libre y pues era mucho más a gusto estar ahí que en Canadá, en el frío Entonces, bueno, ahí fui, ahí me fui mudando a México.
+Me gustó.
+No, pues regresé a Canadá y el Covid y las cosas seguían como así.
+Y también no era sólo eso, después que como te abre los ojos un poco, creo que viajar y vivir en diferentes lados.
+Claro que México tiene muchos problemas, pero.
+Y la gente trata, suele ver de aquí hacia allá como Canadá fuera un lugar perfecto, pero no lo es.
+Es un lugar donde la cultura ha cambiado bastante y la mayoría de gente es muy deprimida y muy triste y muy cerrada.
+Entonces ahí te das cuenta que en realidad si está bueno para oportunidades de estudio y trabajo.
+Pero ahora que yo estoy trabajando en la industria Bitcoin, puedo trabajar de donde sea, pues ya no, ya no se me hacía tan interesante.
+
+[Speaker 0 - 00:20:17]
+El frío está muy cabrón.
+
+[Speaker 1 - 00:20:21]
+Exacto.
+
+[Speaker 0 - 00:20:25]
+¿No?
+¿Y en México cómo te ha ido?
+Porque ya te he visto en varios lados, estás ahorita también me gustaría que nos platicaras de la casa de Satoshi y todo lo que andan muriendo por allá.
+Pero cuéntame qué pasa cuando llegas a México.
+
+[Speaker 1 - 00:20:38]
+Claro, claro.
+Entonces llego a México, bueno, en 2021, solo de viaje a ver Playa del Carmen y otros lugares ahí.
+Después regreso en septiembre 2021, voy a San Miguel de Allende, Querétaro, Puerto Vallarta y algunas otras partes Y vivo en Querétaro como un año y medio.
+Pues no sé por qué tanto en realidad, solo que me quedé ahí y vivo en la Ciudad de México ahora desde hace un año y medio.
+Y pues a mí me encanta México.
+Creo que de una cierta manera cuando me fui de Perú muy joven, no como descubrí tanto mi lado latino.
+Pero al regresar a México, bueno, al regresar a Latinoamérica y mudarme a México, creo que he descubierto eso más y me gusta.
+Pero bueno, México me ha tratado muy bien, obviamente que, que sé que tiene muchos problemas y lugares muy malos, pero yo he ido, a mí me han tratado muy bien.
+Y aquí, bueno, desde que me mudaron, una razón por la cual creé suápido es porque yo ya, yo ya estaba metido en Bitcoin, me pagaban en Bitcoin ya y no se me hacía tan fácil gastar mi Bitcoin día a día.
+Y sé que hay gente que dice, ah, no gastes tu Bitcoin.
+Claro, si estás, si estás sobre todo ganando en pesos o en dólares y tienes Bitcoin de ahorro, es diferente.
+Yo no tengo pesos ni dólares, solo tengo Bitcoin.
+No tengo nada más, no tengo ninguna acción o nada de bolsa de valores, nada así, entonces tengo que gastar mi disco porque no tengo nada más.
+Entonces ahí es cuando vi, pues podría crear esta aplicación, su apido que te permite en una etapa convertir Bitcoin a pesos en vez de tener que depositar, cambiar y después retirar la cuenta, puedo hacer todo en una etapa.
+Entonces sí, de ahí viene la historia de Swapdo.
+Y bueno, también justo cuando me mudé aquí a la Ciudad de México, bueno, vimos que hay bastante comunidad aquí y justo en ese momento conocí unos cuates de aquí que fundaron este lugar, la casa de Satoshi, justo estoy aquí ahorita en este momento, trabajo aquí todos los días, es un espacio de trabajo compartido para proyectos Bitcoin y también es un lugar de eventos dos veces al mes, al comienzo y al final del mes hablamos de temas relacionados al Bitcoin también.
+
+[Speaker 0 - 00:22:55]
+Oye, interesante el punto que mencionas sobre gente como tú que no tiene nada más que Bitcoin por una u otra cosa.
+Yo tengo un poquito de todo, pero fiat no tengo, no tengo acciones, mi esposa es la que tiene otras cosas, yo en lo personal.
+No uso más que estas herramientas, digo, también recibo de cualquier forma, pero luego todo acaba pasando para acá y poco a poco creo que hemos visto cómo hay más personas que migran 100 % o a lo mejor la gran mayoría de su porcentaje a estas herramientas, estas plataformas, ya sea a través de stablecoins o exclusivamente Bitcoin o ve tú a saber.
+¿Tú qué opinas y cómo has visto esa situación cuando migraste tú 100% a utilizar ya estas.
+
+[Speaker 1 - 00:23:49]
+Herramientas?
+Yo creo que migre 100% más o menos en 2020 21.
+Si, justo algo que preguntaste de Canadá, que el Covid empujó a la gente a moverse a Bitcoin, pues tal vez voy a justo yo ahí es tal vez el momento que me convierto al 100% y quiero tal vez hablar de un poco esa historia.
+¿Que pasó exactamente ahí?
+Entonces después, creo que Esto fue en 2000, ya después dos años después de que había comenzado el Covid, ya tres inviernos consecutivos de toque, de queda, de todo eso, bueno, la gente ya comenzó a cansarse, sobre todo los.
+Creo que no, si era sobre todo la gente que no, que.
+
+[Speaker 0 - 00:24:26]
+Conducía.
+Hubo un tema con los.
+
+[Speaker 1 - 00:24:30]
+Traileros.
+Claro, los traileros.
+Exacto, los traileros iban de Estados Unidos, iban a Estados Unidos, iba a Canadá, tenían problemas porque cuando regresaban a Canadá, Estados Unidos, tenían que estar en su casa tres semanas aislados, mientras que recibían el test, cosas así.
+Entonces no podían trabajar bien, ya se les estaba impidiendo de trabajar.
+Y entonces los traileros se fueron a la capital, Ottawa y comenzaron a hacer una manifestación, una protesta y bastante gente se unió a ellos, pero el gobierno declaró ley marcial, primera vez que se declara desde los años 70, en 50 años.
+Y en los años 70 se.
+
+[Speaker 2 - 00:25:08]
+Declaró.
+
+[Speaker 1 - 00:25:09]
+Porque.
+Un grupo guerrillero comunista asesinó a un ministro.
+Esta vez no había pasado nada, era solo una protesta.
+Y bueno, el gobierno declaró ley marcial y confiscó las cuentas de banco de toda la gente que estaba implicada en recibir los fondos para financiar la protesta.
+Y bueno, ahí es cuando bastante gente que apoyaba la protesta se dice, bueno, qué pedo con el gobierno, que número uno, declara la ley marcial por algo, por una protesta bien simple y número 2, ya está confiscando cuentas de banco.
+Digamos, tú envíe, tu, digamos, enviaste 20 dólares para apoyar, para pagar el.
+Almuerzo de alguien que está ahí protestando porque hacía menos 30 grados, no eran en pleno invierno.
+Entonces, OK, tú envías $30, al día siguiente te das cuenta que tu cuenta de banco, tu fondo, desde inversión, todo está congelado.
+El gobierno federal congeló todo y estás investigado por apoyo al terrorismo, nada que ver cuando enviaste 20 dólares para pagar el almuerzo de alguien que el gobierno le impide trabajar.
+Entonces ahí creo que bastante gente se dio cuenta, OK, hay una alternativa al control del gobierno, algo que no puede ser censurado, confiscado.
+Y ahí es cuando la gente comenzó a moverse a Bitcoin.
+Justo hay una conferencia, la conferencia canadiense de Bitcoin, y justo al año que seguía yo fui y estaba lleno de gente que dijo, yo escuché hablar de esto, por eso es por esto que estoy.
+
+[Speaker 0 - 00:26:45]
+Aquí.
+Definitivo, la necesidad y la problemática, o sea, el caso en Venezuela, Argentina, es obvio ese también.
+Yo creo que es súper, súper crítico hablarlo.
+Y qué bueno que lo mencionas y que loco que lo viviste, Yo lo vi así de lejos.
+Vamos a llegar en algún punto, ¿No?
+Por X o Y, los países ejercen el poder a su antojo.
+Por X o Y narrativa siempre a lo mejor hay la anda de por medio, ve tú a saber.
+Pero qué locura, qué locura.
+Definitivo.
+Hay muchos que estamos muy, muy, muy convencidos.
+Dejarles el poder, no darles esa oportunidad a los gobiernos de llegar a esos niveles de oye, te bloquean tu cuenta bancaria y no tienes alternativa a menos que conozcas estas herramientas.
+Creo que es.
+
+[Speaker 1 - 00:27:41]
+Importante.
+Exacto, exactamente.
+Porque también la gente se dio cuenta.
+OK, entonces ¿Cómo podemos hacerle llegar dinero a la gente que está protestando?
+OK, Bitcoin es una manera que les podemos llegar a hacer llegar ese dinero porque digamos, GoFundMe, una plataforma de donaciones, habían suspendido todo ese dinero, creo que miles de millones de dólares, tal vez como 5 millones de dólares que se había donado esta causa que fueron confiscados.
+Entonces la gente encontró que Bitcoin una manera de llegarles el dinero y una manera que no te, no te confisca tu dinero o no quedarte sin nada con el gobierno.
+Entonces si, eso fue, eso fue muy, muy interesante.
+Obviamente que digamos, lo que yo he visto en México y lo comparado a Canadá, veo que está mucho más avanzado, está mucho más, Canadá está mucho más en el futuro y creo que México le faltan unas etapas, pero se va hacia ahí.
+Creo que México ha tenido mucha suerte de tener mucha estabilidad económica en los últimos años comparados Venezuela o comparado a los años ochenta, noventa en México.
+Pero eso no.
+
+[Speaker 0 - 00:28:53]
+Garantiza.
+Mucha gente no se acuerda, no vivió que le quitaron tres ceros al peso hace poco.
+Tres pinches cerdos se quitaron al.
+
+[Speaker 1 - 00:29:02]
+Peso.
+Exacto.
+Y eso, digamos, justo un caso que acaba de pasar es el de Bolivia.
+En Bolivia, en junio del año pasado comenzaron a imponer controles de capital.
+Si tú tenías una cuenta en dólares, si tenías un millón de dólares, una cuenta en dólares en Bolivia no puedes retirar más de 150 dólares al mes.
+Si tú quieres enviar dinero al extranjero, no puedes enviar más de 150 dólares al mes.
+Eso es un clásico ejemplo de controles de capitales cuando hay inflación, pero el gobierno no quiere admitirla, lo que hace es poner controles de capitales.
+Y en ese momento, de la noche a la mañana, yo hablé con un boliviano hace unos meses, me dice inmediatamente todo el mundo se volteó a los stablecoins y al Bitcoin, sobre todo a los stablecoins, porque si en estas épocas el Bitcoin es volátil y no quieres perder 20% de tu dinero en unas horas, entonces los stablecoins sirven para.
+
+[Speaker 0 - 00:29:57]
+Eso.
+¿Qué opinas tú de los stablecoins?
+Yo he estado hablando mucho de esos temas y he estado investigando y leyendo mucho el tema.
+Está muy, muy interesante y definitivamente es un caso de uso increíble que está rompiendo mercado y que le está ganando en transacciones ya Visa, Mastercard.
+Pero existe la posibilidad de que te bloqueen la lana.
+Eso siempre está ahí.
+
+[Speaker 1 - 00:30:22]
+Presente.
+Sí.
+Entonces.
+Bueno, número uno, pienso que es inevitable.
+Está pasando, va a seguir pasando.
+Yo creo en un principio económico que como austriaco de la economía austriaca, que es una filosofía monetaria que el dinero, el mercado de dineros es monopolista.
+Si tienes un mercado libre de dinero, el mejor dinero gana.
+Entonces el dólar sigue siendo la mejor moneda de los gobiernos a nivel internacional.
+Y la razón por la cual no es usada en todas partes es porque hay leyes y fronteras.
+Pero los stablecoins permiten romper un poco esas fronteras porque pueden ser usados en cualquier parte del mundo solo con un celular.
+No necesitas aplicar por una cuenta de banco en dólares que no les dan a cualquiera.
+En México no te dan a cualquiera una cuenta de dólares y en Bolivia aún menos.
+Entonces creo que.
+Pero a la vez no es Bitcoin y si se puede confiscar.
+No creo que siendo un boliviano promedio tengas que preocuparte de eso.
+Pero si pones cantidades fuertes, sí podrías preocuparte por.
+
+[Speaker 0 - 00:31:33]
+Eso.
+
+[Speaker 1 - 00:31:34]
+Porque.
+Porque sí puede ser confiscado.
+Es completamente centralizado.
+Entonces alguien puede.
+Si te identifican con ese dinero o si digamos, hackean un exchange y tienes la mala suerte de que te envíe un dólar de ese dinero hackeado a tu cartera, va a ser confiscado, va a ser anulado al instante.
+Y eso nunca puede pasar con Bitcoin.
+Entonces al final del día, Bitcoin sigue siendo la mejor reserva de valor por ser imposible censurar y confiscar.
+Pero los tablecoins claramente tienen product market fit, tienen y encajan con las necesidades de mercados que tienen controles de capitales o inflación.
+Y creo que de más en más nos vamos hacia ahí.
+De más en más.
+Creo que es lo que quiere hacer también Trump y su gente.
+Ya es su plan porque Luke es secretario de comercio con Trump, es uno de los principales inversionistas en Tether y uno de los principales proponentes de toda esta.
+De este cambio.
+Y Besen también.
+Entonces es parte de su plan.
+Y ellos esperan o tal vez hasta van a provocar inflación en otros países para que se volteen al dólar para que la gente compre dólares directamente y Tether respalde esos dólares con bonos de Tresor.
+Entonces eso está pasando y son No significa que Bitcoin no va a seguir monetizando y creciendo, pero que la gente no va a estar usando Bitcoin las calles en Venezuela y Bolivia en los próximos años.
+Si el dólar se cae ahí ya es como, OK, ya sólo queda Bitcoin en mi opinión, si se caen las monedas de esos países y después el dólar se cae.
+
+[Speaker 0 - 00:33:18]
+También.
+Cuando el dólar se caiga, nada es.
+
+[Speaker 1 - 00:33:22]
+Infinito.
+Exacto, cuando el dólar se cae, pero no sabemos.
+
+[Speaker 0 - 00:33:28]
+Cuándo.
+Pero sí, definitivamente estoy de acuerdo contigo que lo van a seguir empujando y les conviene Estados Unidos que sea más el dólar, sea como sea, sea stablecoin, mejor para ellos mejor porque llega más personas, rompe barreras, es más rápido, más barato, o sea, definitiva hay un mercado, hay un mercado que se está comiendo de los.
+
+[Speaker 1 - 00:33:48]
+Stablecoins.
+Fue bullish claramente no, Obviamente es el momento de entrar a los stablecoins.
+
+[Speaker 0 - 00:33:55]
+Claramente.
+¿Qué opinas del mexicano, o sea el del dólar?
+Lo entiendo perfectamente, sé que lo estaba empujando Estados Unidos, sé que otra cosa no sé, por ahí lo estoy mencionando yo en las reuniones que tengo ahí con el tour que ando dando, la orden ejecutiva que firmó Trump en enero prohíbe la CBDC, eso se me hizo loco, pero fomenta y quiere regular para que las empresas privadas las lancen.
+Vamos a ver muchas.
+Yo sí creo que puede haber una burbuja interesante de stablecoins en México, ya la estamos viendo, sé que tiene que hay dos o tres o cuatro ya por ahí en el mercado, pero no sé cómo lo es el tema de las stablecoins locales, o sea, pensemos la mexicana, la colombiana, la peruana, ve tú a saber.
+¿Hay o no hay mercado para.
+
+[Speaker 1 - 00:34:46]
+Eso?
+No es claro aún, obviamente creo que si hay un poco de mercado para eso y si vale la pena intentarlo y creo que el peso es una de las mejores monedas del mundo, aunque sea difícil de creer.
+Siento mexicano parece que no es buena, pero es mejor que casi la mayoría en Latinoamérica.
+Creo que sí he mercado para eso, pero no bueno, creo que sí vale la pena probarlo, no estoy seguro cuánto tiempo va a durar.
+Sí, sí, pero claramente ya lo están haciendo.
+Creo que Brasil es probablemente el país en Latinoamérica con más que está avanzando más rápido en esto.
+Colombia y México, bueno, justo Bitso tiene una conferencia de stablecoins en julio, creo y es lo que se va a empujar bastante en los próximos meses y años.
+Pero yo no estoy convencido al 100%, ¿No?
+Todo depende cómo va México.
+Si se mantiene estable el peso, pues probablemente el stablecoin va a mantenerse muy bien también, ¿No?
+Pero si es el caso de que México cae como cayó Argentina, Venezuela, ahora Bolivia y probablemente uno de los siguientes podría ser Colombia porque tiene varios más problemas de inflación que aquí.
+Entonces ahí es cuando se rompe el caso del stablecoin.
+Nadie quiere tener un stablecoin de una moneda que tiene muy alta inflación.
+Entonces depende de la política fiscal y monetaria del país que hasta ahora está mostrando que no está tan.
+
+[Speaker 0 - 00:36:18]
+Mal.
+Si, el caso de BB lo ha pensado mucho.
+No sé si a lo mejor algo con.
+Con empresas en China.
+Por ahí escuché de varios que ya como que traían clientes locales y chinos que podrían empezar a utilizar este.
+Finalmente lo que necesitas es mucho emitir, mucho para eso, ponerlo a trabajar en bonos.
+A ver dónde.
+El caso de negocio de Tether es increíble.
+140 mil millones de dólares generando un 4.5% generan 6 mil millones de dólines de prueba ganancia entre.
+Son 100 personas.
+¿Cuando les platico el caso de negocio a los banqueros, como que se sacan de onda y no entienden a ver cómo respaldan uno a uno y cómo está el tema de las colateralización y eso lo prestan?
+No lo prestan.
+Bueno, se lo prestan al gobierno.
+Ha sido interesante entender y platicar con ellos y ver que no han entendido ni han leído un poquito del tema.
+Está bien.
+
+[Speaker 1 - 00:37:22]
+Loco.
+Es muy interesante.
+Si, vi que vas y hablas en club de Banqueros, ¿No?
+Está muy interesante eso.
+Y pues creo que toda.
+Justo hace una semana tuvimos una reunión aquí en la casa de Satoshi donde hablamos de Bitcoin en Wall Street y la financialización de Bitcoin.
+Y hay varios.
+Los stablecoins es el principal y sobre todo con el modelo de Tether reproducirlo en varios países en los próximos años se va a ver.
+Se va a ver un ah, somos el teter mexicano y el téter brasilero.
+Y se va a ver.
+Pero también lo que creo que está pasando ya es los Micro Strategies.
+El MicroStrategy es una empresa de EEUU que compra Bitcoin, que se ha vuelto.
+Una abstracción al Bitcoin.
+Ellos compran Bitcoin y tú compras acción y sobre todo está especulando el precio del Bitcoin, es como un derivado de Bitcoin.
+Y bueno, en Japón ya tienen uno también, Meta Planet y ahorita va a salir uno en Brasil.
+Entonces tampoco me sorprendería que hay un México, una empresa mexicana en la bolsa de valores que se diga, ah, pues Yo soy el MicroStrategy mexicano y vamos a comprar miles de Bitcoin en esta empresa, o un ETF de Bitcoin en México, en Brasil o en Perú también.
+Entonces los ETFs, las monedas estables, los micro strategies son todas tácticas que usan mercados públicos o estrategias financieras avanzadas para poder acumular Bitcoins y poder pues tener un proyecto que atrae a inversionistas sobre cosas que no son directamente Bitcoin.
+Hay gente que dice Bitcoin yo no lo quiero invertir, pero pues en una empresa de stablecoins que como Tether, ahí se le invierte, o un microstrategy si le invierto, o un ETF.
+Entonces creo que propone alternativas para los inversionistas que tal vez más tradicionales que al Bitcoin no, pero en este método derivado.
+
+[Speaker 0 - 00:39:17]
+Sí.
+Sí, la neta sí se me hace bien loco lo que estamos viendo, cómo todas estas personas están experimentando diferentes formas de tener más Bitcoin.
+Que Michael Seller tenga 500.000 es una locura.
+Que Estados Unidos quiera comprar un o que quiera adquirir o ver cómo consigue un millón en los siguientes cinco años también.
+Son noticias que te sacan de onda y que no sabes cómo las llevarán a cabo.
+Ahorita dicen que ahora los aranceles, por ahí algo leí, no, puros rumores, que a lo mejor los aranceles los usan para eso.
+Otra estrategia que he visto es que van a utilizar, o algo que dice la orden ejecutiva, que van a utilizar estrategias neutrales a presupuesto, entonces a lo mejor cambian oro, a lo mejor viene raíces por Bitcoin, ve tú a saber.
+Definitivamente van a seguir incautando, creo que ahí se va a ver algo bien duro.
+Incautaciones de todos los criminales que están usando esta tecnología se van a ir sobre ellos, creo yo, y no sé, definitivamente va a subir el uso, no hay otra alternativa más que creo yo tokenizar y la única solución que tienen los gobiernos a resolver los problemas es imprimiendo lana, o sea devaluando la moneda.
+Está programado y no es sustentable, yo creo que no es sustentable, No sé si los modelos de micro estrategias sean sustentables tampoco madres, la neta no entiendo todavía lo que está haciendo ese loco.
+¿Pero qué.
+
+[Speaker 1 - 00:40:43]
+Opina?
+¿Claro, yo tampoco sé, yo no estoy diciendo de invertir en estas cosas, lo que estoy diciendo es que esto está pasando y bastante gente está viendo, OK, qué tal si hago esto en Brasil?
+También.
+Parece que se está haciendo en Japón, ya se hizo.
+Entonces no estoy diciendo que es ostentable que inviertan en esto, yo solo tengo mi dinero en Bitcoin porque es la única manera que estoy seguro de que no puede ser confiscado, censurado o alguien puede imprimir más de eso, pero creo que igual el de Microsoft no está tan.
+Porque son los términos de sus deudas son como en cuatro, cinco, seis años, entonces sí son plazos más largos de que si hay una variación del precio no afecta tanto el corto plazo, pero lo que digo es que esto está pasando, la financialización de derivados de Bitcoin como empresas en bolsas de valores como MicroStrategy, ETF, empresas de stablecoins en otros países.
+Es un poquito la moda que está comenzando y que y que va a seguir en los años que se.
+
+[Speaker 0 - 00:41:45]
+Vienen.
+Definitivo, definitivo.
+Hay un gran, gran caso poco a poco hemos visto también cómo va a entrar DeFi a Bitcoin, que eso es todo otro tema que la verdad no termino todavía de entender bien, pero platíqueme un poquito de lo que han vivido en su apido en el mercado mexicano, o sea, que han visto, ya tienen un rato operando, ahorita les voy a dejar el link aquí arriba para que los que no tengan cuenta se inscriban, utilicen su apoyo, yo ya tengo un link de referido, me ayudan si utilizan mi link por ahí estamos dividiendo las comisiones, creo que es 50-50 en los siguientes 3 años, algo así es el acuerdo y creo que el acuerdo está abierto para todos los que quieran participar.
+Platícanos un poquito de eso.
+Pero bueno, ya fueron varios temas, pregunt.
+¿Primero que nada, cómo está el mercado?
+¿Cómo les ha ido?
+¿Qué han visto?
+¿La neta yo ya lo utilicé y he visto los vídeos de otros.
+Personas que no han utilizado, súper rápido y sencillo, o sea, qué onda?
+¿Cómo les ha ido en.
+
+[Speaker 1 - 00:42:47]
+México?
+Claro, entonces solo para los que no sepan, Swap te permite cambiar Bitcoin a pesos al instante, en una etapa no más.
+Entonces y con la redlining, entonces las preguntas siempre la gente dice ¿Cuál es la diferencia con bits?
+¿Donde ahí puedo vender mi Bitcoin?
+Bueno, la principal diferencia es que se hace en una etapa.
+En vez de poner depositar cripto trade y retirar a cuenta de banco, lo único que haces es, lo haces en una etapa y te dice, OK, paga este invoice, esta dirección desde tu cartera, la pagas de tu cartera y la cuenta de banco es pagada.
+Entonces, para alguien como yo que vive con Bitcoin y gasto Bitcoin varias veces al día, bueno, se me hace mucho más práctico esto que hacer todas esas etapas varias veces.
+Pero si tú compras cripto y lo quieres vender después de un año y solo haces la transición de venta cada año, no hay mucha diferencia.
+Entonces es más para gente como yo.
+Y al comienzo, bueno, yo pensaba que había sobre todo extranjeros aquí viviendo así se escucha al menos se cree que México es un destino para extranjeros que sacaron un montón de lana en cripto y se mudan México.
+Si, es algo que pasa, pero pensé que era un poquito más, que lo era.
+La mayoría de nuestros clientes son mexicanos, no son extranjeros.
+Aunque sí tenemos un poco de expats también.
+Y bueno, creo que les gusta la simplicidad del útil, la rapidez Y bueno, el hecho que estamos enfocados en Bitcoin también para varios es importante.
+Entonces creo que vemos crecimiento mes tras mes.
+Claro, no tanto como lo esperábamos al comienzo porque yo pensaría, pues tal vez pensaba que el mercado estaba más cercano al, digamos, el mercado canadiense o el mercado estadounidense, australiano, aunque hay mucha diferencia aún.
+Pero estoy convencido que se va hacia ahí y va desarrollándose de más en más y un día va a llegar a ser igual o aún más avanzado que en esos países.
+Entonces creo que lo que hemos construido va a ser útil hoy y va a ser útil para los años que se vienen también y demás en más.
+Pero además, claramente queremos agregar más cosas.
+Nuestro próximo producto va a ser comprar Bitcoin directamente a tu cartera en una etapa también algo que ya se ha visto, pero tenemos unos truquitos, después les muestro cuando lo tenga listo de por qué se me hace más rápido y más simple lo que vamos a construir y lo que estamos construyendo y vamos a avanzar.
+Y bueno, en general nos ha tratado muy bien el país y la comunidad.
+Justo aquí bastante gente viene, nos habla en persona en la casa de Satoshi.
+Entonces eso también es muy interesante.
+No es solo como estar en línea y y hablar por la gente en línea, pero también la gente viene a los eventos y tenemos la oportunidad de hablarles en persona.
+Tenemos un programa de embajadores afiliados.
+Creas tu cuenta y después vas a una opción en el menú de afiliados y puedes crear un enlace que si la gente crea una cuenta con tu enlace, compartimos las ganancias mitad mitad.
+Entonces está disponible para quien sea.
+Y también otra promoción que hacemos, que hicimos más al comienzo y ahorita un poco menos, pero sigue disponible.
+Si creas una cuenta con suápido, si haces una transacción con suápido y publicas un video de la transacción, te devolvemos lo que gastaste hasta 750 pesos.
+Entonces si te vas a cenar a un restaurante que acepta transferencia y pagas con suápido, te devuelvo y lo publicas el video en tus redes, te devuelvo el dinero que gast hasta 750 pesos.
+Eso creo que está bastante bueno.
+En realidad yo si no fuera.
+
+[Speaker 0 - 00:46:44]
+El.
+Oye, oye, espérame, espérame, espérame.
+Solo si usan banda web 3, canijos.
+Solo si usan banda web 3 tienen que usar el link.
+Ya se los puse aquí arriba.
+Ya me estoy arrepintiendo de firmar nada más tres años, güey.
+Este.
+Sí, no, no, pero no, no es cierto.
+Qué chido, qué.
+
+[Speaker 1 - 00:47:00]
+Chido.
+Sí.
+Entonces eso, esas, esas promociones las ponemos porque justo pues queremos beneficiar la gente que nos apoya.
+Yo creo que es muy importante dar y recibir.
+Si recibes, das o das antes y recibes después.
+Entonces eso, eso creo que le ha gustado bastante gente que si sólo pones un vídeo en tus redes, puede ser una playera, un almuerzo o un corte de cabello.
+No, hay bastante gente que ha hecho diferentes cosas y pues más, entre más original el vídeo, mejor y más original la idea.
+Pero bueno, entonces eso es la.
+
+[Speaker 0 - 00:47:36]
+Historia.
+Oye, pagar un servicio de consultoría arriba en la cumbre de un cerro o un servicio de fotografía, A lo mejor un servicio me puedo llevar a mi amigo fotógrafo y le pago ahí arriba en la cumbre del.
+
+[Speaker 1 - 00:47:46]
+Cerro.
+Claro que sí, está buenísimo.
+Exacto.
+Ese tipo de ideas es la que, es la que me gusta, ¿No?
+Porque todos, la mayoría de vídeos han sido sobre vamos al restaurante y está chido también, pero, pero eso pues me encanta.
+Entonces esa es más o menos la.
+
+[Speaker 0 - 00:48:01]
+Historia.
+Oye, cuéntame un poquito de cómo lanzar esto.
+Tienes lana de inversionistas.
+Hay mucha gente que sé que está lanzando y quiere lanzar proyectos.
+¿Cómo fue para ti esa experiencia?
+Todavía tenemos unos minutitos, no sé tú cómo andas de tiempo.
+Yo puedo quedarme aquí un.
+
+[Speaker 1 - 00:48:16]
+Ratito.
+Yo también, yo también.
+No tengo nada más que hacer.
+Entonces no, esto ha sido nuestro propio dinero, no hemos gastado tanto porque tengo tres socios que por el momento son anónimos porque tienen otros trabajos y no quieren conflicto, pero tengo tres socios, uno que es el CTO, como el jefe de desarrollo, que es un muy buen ingeniero tecnologista, otro que es diseñador, desarrollador, diseñador y otro que me ayuda con el marketing, con las redes sociales, los eventos.
+Entonces tenemos un equipo y he tenido suerte de tener socios que me han que cubrimos todos los frentes, entonces no necesitamos contratar otras personas por el momento.
+Lo que sí ha sido un reto ha sido la cuestión legal.
+México no es tan complicado como uno piensa y en eso estamos.
+Aún no hemos terminado 100% la regularización de nuestra estatus legal, porque operamos nuestra empresa es panameña por el momento, pero ya estamos en proceso de crear una empresa aquí, regularizar nuestro legalmente aquí para poder ofrecer más cosas donde nosotros somos directamente el transmisor de dinero, por ejemplo, cosas así.
+Y lo que yo daría como consejo número uno es algo que la infraestructura.
+OK, eso es algo muy importante.
+México tiene buena infraestructura cripto y es gracias a Bitso.
+Bitso tiene una plataforma BB que te permite hacer cualquier, casi cualquier cosa en México, intercambiar en el intercambio y la recepción de dólares de pesos en cuentas de banco y el envío de peso a cuenta de banco.
+Hay tres opciones que uno tiene para enviar o recibir pesos a cuentas de banco de manera programática, que es lo que buscas con una aplicación, es Bitso, Arcus y STP.
+STP es el clásico sistema que los bancos usan, Arcus es Mastercard y Bitso es Bitso, es la empresa que ya conocen.
+¿Entonces yo lo que aconsejaría es, OK, cuál es la infraestructura que quiero usar?
+Por ejemplo, si quieres lanzar una rampa de subida y bajada, Bitsu es probablemente la mejor opción.
+También está Nonco, que es otra empresa que te da, te permite como que es de liquidez, entonces puramente quieres tener la mejor tarifa cuando compras cantidades altas, digamos veinte, cincuenta mil dólares o más de bitcoin o stablecoins.
+¿Nonco es el que te da el mejor precio, no?
+¿Como punto 4% por $100.000 de pesos a Bitcoin, ellos te pueden hacer una tarifa, algo así, no?
+¿Entonces con Bitso, Nonco y unos, lo de los costos legales no son tan altos tampoco, depende de los abogados, pero no, tal vez unos cinco, diez, veinte mil dólares, no?
+Bastante es dinero.
+Pero comparado a, digamos en Canadá lo mismo te cuesta un millón de dólares, en Europa también.
+
+[Speaker 0 - 00:51:21]
+Doce.
+Pero es por lo que mencionas que ya hay mucha infraestructura, digo, aparte de los costos de esos servicios, pues igualmente son más baratos.
+Pero.
+Lo de Bitso ya lo conocía, no sé si la gente lo conocía ese detalle, pero los demás no los había.
+
+[Speaker 1 - 00:51:37]
+Escuchado.
+Sí, en realidad México es uno, te diría después de Brasil y tal vez Argentina, es el país que tiene ya más infraestructura que te permite construir negocios y aplicaciones y no comenzar de cero.
+Por ejemplo, si vas a Honduras, porque justo he investigado todos los países de Latinoamérica y he comparado sus infraestructuras y sus reglas en Honduras, número uno, el gobierno está súper contra.
+Número dos, los bancos jamás te van a abrir una cuenta de banco.
+Número tres, no existen otras APIs o BB, proveedores BB que te van a dar infraestructura, entonces no existe nada aquí.
+La recepción legal es mucho mejor, es bastante buena y la infraestructura ya está.
+Las cuentas de banco no son tan difíciles unos que otros, que más que otros.
+Entonces ya es un país mucho más fácil para desarrollar este tipo de cosas que en otros.
+
+[Speaker 0 - 00:52:36]
+Lugares.
+Digo, no sé qué tan grande sea la comunidad Honduras, pero me imagino que debe ser más grande la de.
+
+[Speaker 1 - 00:52:42]
+Acá.
+Claro, la de acá es más grande, pero es sobre todo es el dinero también aquí la han invertido.
+Bitso no quiere está aquí porque es un mercado más grande, entonces hay más potencial.
+Honduras pues es un mercado más chiquito, no vale la pena construir, se cree que no vale la pena construir infraestructura para que otras empresas construyan.
+¿Entonces tenemos suerte aquí en México de tener buena infraestructura, un buen tamaño de mercado, estabilidad legal.
+Un mínimo de estabilidad legal y financiera y monetaria que permite dar una buena base para crear algo.
+
+[Speaker 0 - 00:53:21]
+Así.
+No?
+Definitivo.
+Es algo que, híjole, como han construido me parece increíble a través de los socios y probando poco a poco.
+Y sí, definitivamente hay algo que probablemente se use mucho a futuro, que tiene un exponencial increíble de crecimiento.
+Y definitivamente yo estoy de acuerdo contigo en que tenemos que usar, bueno, no que tengamos, pero sí creo que para que triunfe Bitcoin la gente lo tiene que usar, se lo tiene que gastar, lo tiene que mover.
+A través de ya sea Lightning, digo, al rato va a salir alguna otra cosa, ve tú a saber.
+Pero sí creo que sí hay y es muy importante que la gente lo utilice, lo use, se mueva para que eso triunfe, si no, quién sabe, No sé ¿Qué opinas de.
+
+[Speaker 1 - 00:54:13]
+Eso?
+Bueno, mira, al final del día yo creo que el Bitcoin sigue en lo que llamamos la fase de monetización.
+Entonces que se está comiendo el mercado de monedas y eso va a durar aún diez, veinte años.
+Yo creo que el Bitcoin se va, ahorita está en 85 mil, yo creo que se va a 10 millones de dólares en 10 a 20 años.
+Y mientras tanto, la gente sobre todo quiere ahorrar en Bitcoin, quiere guardarlo, no quiere gastarlo.
+Y no todo el mundo tiene la suerte de que le paguen en Bitcoin monedas estables.
+La mayoría de gente tiene trabajos que solo le pueden pagar en su moneda local, en su cuenta de banco, entonces no, no tiene sentido de convertirse tal vez al 100% al Bitcoin.
+¿Entonces, como en mi caso, donde me pagan en eso?
+Y bueno, entonces ahí yo digo que hay bastante gente que no lo va a gastar, la mayoría de gente no lo va a gastar, lo va a ahorrar, pero ya cuando termine la fase de monetización, 10 a 20 años aquí y si pasa lo lo que dijimos que el dólar cae, yo creo que podría, bueno, ahí la gente se da cuenta que lo que el único que va a quedar es Bitcoin, ¿No?
+Y ahí la gente lo va a comenzar a gastar.
+Pero entonces no es como si, creo que es lo que se tiene que hacer de más en más, pero no se va a hacer de un golpe, no va a ser algo muy transitorio que va a completarse en años, tal vez décadas.
+Y yo estoy satisfecho con el estado del mercado, yo creo que las cosas están yendo bien a la vez.
+Tal vez si solo lees las noticias como de.
+Las más grandes, solo creerías que es solo Microstrategy y Trump están comprando Bitcoin cuando no es el caso.
+Es usado por gente en el mundo entero, pobre o rica, de cualquier color, de raza.
+No, no.
+Sí está cumpliendo sus funciones en ese sentido y se está trabajando bastante para poder expandir los casos de uso y el poder que tienen, por ejemplo, la gente dice es lento, no es privado, no es programable.
+Pues está cambiando.
+Digamos, la red Lightning es una capa 2 que permite hacer transiciones instantáneas y hoy en día ya está disponible en Binance, Coinbase, Bitso, Nu.
+Como 500 millones de usuarios tiene accesos por sus plataformas a la red Lightning.
+Entonces.
+Y hay otras capas dos que se vienen, hay cambios que se vienen al Bitcoin que van a permitir aún más capas 2, aún más programabilidad.
+Hablo específicamente del cambio de los covenants y los rollups que se vienen a Bitcoin.
+Entonces esas.
+
+[Speaker 0 - 00:57:01]
+Cosas.
+Los covenant es esto que trae op.
+Esta.
+
+[Speaker 1 - 00:57:07]
+Colección.
+Exacto.
+Entonces un covenant, un convenio en español, es una manera de programar cómo se puede gastar un Bitcoin.
+Por ejemplo, yo te mando Bitcoin a tu dirección y tú cuando has creado esa dirección la has especificado que sólo puede gastarse ese Bitcoin a tu otra cartera.
+Así digamos, alguien te hackea, tú el hackeado, el hacker, el hacker no lo puede llevar a su propia cartera, solo lo podría gastar hacia tu otra cartera o hacia la cartera de tu.
+Hacia tal exchange o hacia la cartera de tu amigo.
+Entonces puedes poner reglas de cómo se gasta ese Bitcoin y eso permite de crear capas 2 más avanzadas.
+Hay un montón de casos de usos relacionados a los convenios y es.
+
+[Speaker 0 - 00:57:59]
+Como la Si crees que se aplique, o sea, si crees que sea algo que se adopte y que necesita para.
+
+[Speaker 1 - 00:58:05]
+Pasar.
+Sí, sí, sí, sí creo que se va a adoptar.
+Se está moviendo hacia ahí.
+Cambiar Bitcoin es un proceso muy complicado, muy largo y muy debatido.
+Entonces esta discusión comenzó ya hace años pero sigue y siempre está avanzando.
+Ya se están.
+Ya hay como dos propuestas sobre la mesa, opcat y OPCTV.
+Opcat te sales más poderoso que OPTCB, pero es más.
+Tiene más riesgos también.
+Pero lo que yo veo es que está avanzando la discusión.
+Hay consenso que algo así se.
+Hay casi consenso en la comunidad técnica.
+Después es importante tener cuidado cuando uno va a Twitter, a veces vas a caer controls y gente que no sabe nada de esto y te decir no, nunca, Bitcoin nunca va a cambiar.
+Pero las discusiones técnicas donde hay gente científica hablando, si se está hablando de esto y ese es el objetivo.
+Entonces yo sí creo que en dos o tres años esto se adopta, cambia el protocolo bitcoin para agregar convenios que son como contratos inteligentes restringidos, pero igual son contratos inteligentes y esto va a permitir mucho más programabilidad, nuevas capas 2, bridges más seguros, cosas así.
+Entonces, yo soy muy optimista que en 10 años el bitcoin va a verse transformado.
+En un ecosistema con capas 2 que tengan aplicaciones DeFi con capacidades de anonimato o capas 2 de sistemas de pagos muy avanzados también.
+Pero guardando lo esencial de Bitcoin, que es que sólo pueden haber 21 millones, que no puede ser censurado, confiscado y que es descentralizado y que es muy.
+
+[Speaker 0 - 00:59:56]
+Seguro.
+¿Tú crees que llegamos en una etapa donde se puede usar Bitcoin.
+Miles de transacciones por.
+
+[Speaker 1 - 01:00:06]
+Segundo?
+Si, yo estoy seguro de eso.
+Hablando de capas 2, pero sí, yo estoy.
+
+[Speaker 0 - 01:00:15]
+Seguro.
+Eso Lightning ya lo permite.
+
+[Speaker 1 - 01:00:17]
+¿No?
+Exacto, Lightning ya lo permite.
+No es lo más fácil, digamos.
+Lightning no es como.
+Aún faltan varias cosas que arreglar, pero Lightning ya lo permite.
+Entonces hay uno nuevo que se viene.
+Hay dos.
+Hay dos que se vienen que van a estar tan fuertes que van a salir.
+Ya están saliendo uno que se llama ARC, que es como.
+Es muy.
+Honestamente, es muy difícil de explicar, pero son transacciones instantáneas y microtransacciones también similar a Lightning, pero simplifica unos problemas que estaban en Lightning.
+Entonces.
+Ark, eso es muy interesante.
+Y el otro que tiene nombre parecido, Spark, que esta empresa, Lightspark, que es probablemente la empresa con más inversión en Bitcoin.
+Lightspark fundada por David Marcus.
+David Marcus era el líder de Messenger y como el CEO de paypal también y después también fue el CEO de Libra, no sé si te acuerdas cuando Facebook trató de lanzar su propia cripto.
+Bueno, David Marcus era el líder de eso, pero no funcionó y pues se volteó 100% Bitcoin, lanzó su startup Lightspark, recibieron 150 millones de dólares de inversión y se dedican a infraestructura empresarial para Lightning.
+Pero van a lanzar su capa 2 Spark, que está interesante, honestamente.
+Vamos, es de pagos también, pero también puede que haya stable coins encima.
+Entonces, todas tantas cosas se vienen y a veces es difícil de acceder a esta información, pero yo les comento que, bueno, yo soy muy optimista sobre esto y creo que en este año se van a ver muchas nuevas cosas.
+
+[Speaker 0 - 01:02:08]
+Más.
+Sí, definitivo.
+Hemos visto como la gente regresa a Bitcoin.
+Creo que Ordinal tuvo mucho que ver.
+Creo que.
+Las runas un poquito no tanto, pero Ordinals, los BRC 20 si.
+Esta nueva funcionalidad han atraído diferentes empresas.
+No sabía que David me ha costado atrás de esa.
+Sí, sí, sí.
+Me acuerdo la historia de Libra que el gobierno le puso un alto y por eso él decidió si hago algo más que no sea Bitcoin, me van a bloquear, me lo van a prohibir, me lo van a ilegalizar mejor.
+Y en base a esa historia decidió construir en Bitcoin.
+Qué interesante que tenga este emprendimiento con una L.
+No sabía, Voy a echar un.
+
+[Speaker 1 - 01:02:53]
+Ojo.
+Sí.
+Entonces la historia es interesante porque él se da cuenta trabajando dentro de Facebook y con los gobiernos y con las más grandes organizaciones del mundo, que el sistema siempre va a estar controlado.
+Si lo haces a través de esos sistemas, el gobierno siempre te va a bloquear, siempre va a haber una ley, siempre va a haber algo que te va a impedir desarrollar el potencial de una moneda internacional de pagos.
+Y creo que eso es ahí.
+Y ahí se da cuenta que bueno, sólo puede ser el Bitcoin porque es la única que no puede ser censurada.
+De una cierta manera.
+Claro que es un espectro la descentralización y Ethereum es más centralizado que Libre y que el dólar.
+Pero igual Ethereum es más centralizado que Bitcoin porque tiene una fundación detrás que es una organización legal en Suiza que puede ser atacada o Vitalik puede ser secuestrado o arrestado.
+No va a pasar, pero puede.
+Satoshi desapareció.
+Pero es lo que digo, hay puntos de vulnerabilidad que en el Bitcoin hay menos.
+Entonces David Marcus llegó a la conclusión que bueno, tiene, si quiere construir algo así, tiene que hacerlo en Bitcoin.
+Y es por eso que está haciendo estas cosas que creo que van a ser muy influyentes en los tiempos que se.
+
+[Speaker 0 - 01:04:14]
+Vienen.
+Muy bien, voy a hacer un breve reset aquí para invitar a la banda a dar un like, un repost a el tweet que está pineado.
+El primer tweet que está pineado es el link al espacio.
+Ayúdenme a compartir.
+El siguiente es el link para que usen y creen su cuenten Swapido app suápido com bandaweb.
+Ahí lo pueden ver en el segundo pin.
+Y en el tercer pin tenemos también.
+Ah, bueno, es el mismo link para que si quieren probar, usen su cuenta.
+Creen su cuenta con mi link, suban un vídeo divertido, ya nos platicó Gustavo la promoción que hasta 750 creo que por ahí nos comentó, si hacen un vídeo y lo publican se les va a regresar, está muy buena, ya tengo yo mi idea, ahora que vaya a la montaña me estaré aventando el pago allá en vivo para el vídeo y todo, pero bueno.
+Gustavo, ¿Qué te gustaría de la banda por aquí?
+¿Si en algún punto cualquiera de los que está afuera de México quiere pagarle algún mexicano con Bitcoin lo puede hacer con su apido, con Lightning, porque finalmente pues nada más nosotros les daríamos una cuenta clave, ustedes hacen su aplicación, se registran, hacen su KYC, mandan el dinero a una dirección donde les va a decir súpido y automáticamente les va a llegar a la cuenta clave, o sea en pesos a tu cuenta bancaria.
+
+[Speaker 1 - 01:05:41]
+Eso está muy loco, qué chido, entonces eso es algo muy interesante, suápido puede ser usado por extranjeros también, no necesitas una identificación mexicana, puedes usarlo con digamos un pasaporte europeo, canadiense, sudamericano, entonces alguien que quiere enviar dinero a México que no es mexicano, que nunca venía a México puede hacerlo usando su apido y la transacción se hace manera instantánea, entonces eso es una muy buena alternativa para las remesas o los pagos transfronterizos porque no hay costos, digamos el sistema bancario tiene costos más altos, sobre todo dura, dura más tiempo, entonces el dinero llega en un día, dos días en vez de segundos, con nosotros llegan segundos, entonces es una alternativa, es un buen caso de uso como yo dije para mí por gastos diarios porque estoy dentro del Bitcoin, pero para otras personas puede ser para las remesas o solo para vender tu Bitcoin, no?
+Digamos a veces hay gente que también dice he llegado a mi límite de lo que puedo gastar en Bitso al mes, entonces pueden usar su apido para vender su cripto si llegaron al límite en bits también hay ese caso de uso, yo, bueno, muchas gracias por escuchar a todos y les comento, les repito de otra vez la promoción que tenemos sobre si hacen un vídeo usando su apido, les devolvemos los sats que gastan los bitcoins que gastan hasta 750 pesos, pero tienes que compartir el vídeo en tus redes también y otra cosa que quería comentar es que ayer, no el lunes, el martes perdón, lanzamos, pueden verlo en mi perfil es el tweet que está pinned como está, es el primero que vas a ver en mi perfil, un útil que se llama sovereigntools.
+Com.
+Ahí es una aplicación web que te permite comparar carteras Lightning, entonces justo están escuchando a pues Lightning, ¿Cómo uso Lightning?
+OK, bueno, ahí vas a ese sitio web y vas a ver varias opciones de carteras Lightning, las principales, está en español y en inglés y comparamos todas las carteras en 43 criterios diferentes, entonces es como el útil más, el mejor útil para comparar carteras bitcoins que he visto, justo lo lanzamos esta semana y pues les podría interesar si quieren comenzar con Lightning, es un buen lugar para descargar una.
+
+[Speaker 0 - 01:08:11]
+Cartera.
+Increíble, increíble.
+Yo creo, no sé, podríamos, si alguien, si alguien quiere pagar 750 pesitos por el Space el día de hoy, les mando mi clave, le hacen el video, se lo justifican a Gustavo, nos regresa la lana, probemos a ver si funciona, échenme 10, les mando mi clave para que me lleguen pesitos a mi cuenta, no pasa n.
+Claro que sí, claro que sí, Venga, venga, ya se pudo.
+Oye, no, pues muchas gracias Gustavo, la neta qué chido poder platicar, que nos cuentes de lo que te ha tocado experimentar y cómo te has dado cuenta de que Bitcoin es una de las herramientas o la herramienta que nos puede llegar a, o nos está salvando y nos está permitiendo tener control absoluto de nuestro valor y qué loco que nunca lo habíamos tenido, que siempre había habido control, poco a poco la gente se está dando cuenta y qué chingón que hay herramientas como Swap para poder utilizar ese Bitcoin que muchos tenemos y que muchos almacenamos y creemos que todavía tiene potencial de seguir comiéndose el mercado financiero y mercado monetario, como decías.
+Ojalá, ¿Por qué no llegar a los 10 millones?
+El millón está programado, los 10 millones, híjole, qué rico.
+Pero bueno, ya veremos, ya veremos qué pasa, ya.
+
+[Speaker 1 - 01:09:37]
+Veremos.
+Bueno, muchas gracias a ti, mexicame invitado, me la pasé muy bien y gracias todos por haber escuchado.
+Quiero decir que si alguien quiere hablar conmigo, mis díams siempre están abiertos, me pueden escribir, me pueden mandar un correo, lo que sea y yo siempre estoy dispuesto a colaborar, ayudar, si quieren lanzar un proyecto en México, en Latinoamérica, dicen, tal vez Gustavo, tal vez sabes algo de como un detalle de infraestructura o de ley yo les puedo ayudar con lo que sea, he investigado esto y a mí me gusta ser muy transparente y ayudar bastante y colaborar, entonces no duden si quieren escribirme, están bienvenidos a.
+
+[Speaker 0 - 01:10:17]
+Hacerlo.
+Muchas gracias, muchas gracias.
+Por aquí subió Qwerty, a ver, no sé si tengas tiempo por una pregunta, si alguien quiere preguntar, levante la manita, vénganse, si no ya nos vamos despidiendo, pero bienvenido Qwerty, ¿Cómo.
+
+[Speaker 2 - 01:10:32]
+Andas?
+Aquí saludos desde México.
+Oigan, hablando de la utilidad y proyectos, ¿Saben si hay alguien trabajando.
+
+[Speaker 0 - 01:10:44]
+En.
+
+[Speaker 2 - 01:10:46]
+Préstamos sobrecolateralizados de Bitcoin en moneda mexicana o algo así?
+Porque por ejemplo está HODL, HODL.
+Pero pues te prestan USDT, ¿No?
+Y la verdad es que si, por ejemplo, si trabajas en México o si ganas pesos y se te va el precio, el tipo de cambio entre pesos y dólares, pues o sea, te come el préstamo, ¿No?
+Entonces estoy interesado en saber si conocen a alguien que hace préstamos que te den pesos de alguna manera y les des Bitcoin para no tener que.
+
+[Speaker 1 - 01:11:28]
+Venderlo.
+Sí, sí, sí conozco de una muy buena pregunta y sí conozco de una empresa que hace eso con Bitcoin, se llama Capital X, ellos creo que es la única empresa que hace eso directamente con Bitcoin en México.
+Entonces puedes usar Capital X para hacer eso, tiene un servicio, creo que su servicio se llama Lonex, creo que tienen su tarifa si es un poquito alta, creo que es 25% de interés anual, pero tal vez te puede ser útil.
+Entonces está eso, pero creo que justo lo que estamos hablando es un rato de los table coins, es un muy buen caso de uso para este tipo de.
+De uso, ¿No?
+¿Por ejemplo, si uno puede usar tal stablecoin para pedir, en vez de pedir préstamo en USDT, lo piensen MX.
+Pues puedes usar eso sin hasta sin que wai si no?
+Entonces pues está Capital X, pero estoy seguro que ahorita con los TV Coins mexicanos se van a lanzar muchas más unas soluciones de este.
+
+[Speaker 0 - 01:12:29]
+Tipo.
+Muchas gracias, Gustavo.
+Mira, te lo pineo aquí, yo conozco a.
+Está en Monterrey, el chavo que trae Capital X, la neta por ahí andan haciendo cosas chidas.
+De hecho es capital x así con KAPITALEX.
+COM te prestan 24 a 24 27 % de intereses madres al año.
+Está interesante.
+No le pierden.
+Yo sé que hay una.
+Bueno, no sé, estoy por ahí apoyando y estoy metido ahí en una DAO, en la DAO Club, ellos tienen el stablecoin mexicano sobrecolateralizado con Shock y creo que todavía no podemos meter colateral algún sintético de Bitcoin, ni Rob BTC ni el CV BTC, voy a ver, pero si estaría chido, si estaría chido usarlo como colateral.
+Ahí hay una stablecoin mexicana sobre colateralizada más o menos paridad como lo que es DAI entonces podría ser una opción.
+Déjame revisar qué se necesita para meter Bitcoin, pero sería interesante también usarlo porque sí, poco a poco el mercado de defi mexicano va creciendo, hay varios que están empujando mucho, Yo en lo personal estoy buscando mucho para que eso crezca y hay que ayudarlo, hay que ayudarlo a crecer poco.
+
+[Speaker 2 - 01:13:58]
+A poco.
+Y disculpe, ¿Saben qué empresas están haciendo stablecoins de.
+
+[Speaker 1 - 01:14:06]
+Moneda mexicana?
+Sí, bueno, la principal, las que he escuchado han habido en el pasado, ¿No?
+Como Tether una vez lanzó MXNT pero no funcionó bien, pero las últimas dos que he visto que están funcionando, bueno, una que sólo ha sido anunciada es MXNB MX, esa es la de Bitso.
+Bitso ha lanzado una empresa que se llama Juno para poder como lanzar esta stablecoin MXNB y no me acuerdo cuál, hay una de Kappa creo, o de Etherfuse que ha sido muy popular últimamente en Arbitrum creo, creo que es MXNP, no estoy seguro cómo termina.
+
+[Speaker 0 - 01:14:50]
+Pero eso también he visto MXN y está en Solana y está en Beige.
+Pero si, Ricardo Salinas tiene una pero no le han hecho mucho.
+
+[Speaker 1 - 01:14:58]
+Ruido con grupos Salinas va a sacar la suya pronto, la de VAX que se va a llamar Mexa Starta, esa también creo que aún andan preparando la aplicación pero el momento que están listos para lanzar bucks al mercado van a.
+Van a hacer.
+
+[Speaker 0 - 01:15:16]
+Fuerte promoción.
+OK, se los.
+
+[Speaker 1 - 01:15:20]
+Agradezco mucho.
+Claro que sí.
+
+[Speaker 0 - 01:15:23]
+Con gusto.
+Era por acá abajo, ya dejé el link a Capital X Com diagonal init para que veas cuánto te pueden prestar.
+Está alta, está alta la tasa de interés, hasta me dan un miedo prestar algo de Bitcoin interés, pero.
+
+[Speaker 2 - 01:15:37]
+Bueno, en Feral Huddle están en.
+Pues va cambiando conforme el mercado, ¿No?
+Pero ahorita estaba como en 14.15% pero pues está en dólares entonces si se te mueve el dólar, pues ya no importa, no importa.
+
+[Speaker 0 - 01:15:51]
+Tu interés.
+Sí falta, falta mucho desarrollo al defi mexicano.
+Vamos a ver este año mucho crecimiento.
+Yo creo que también vamos a ver muchas stablecoins salir de México, no creo que todas triunfen, vamos a ver una burbujita por allá.
+Lo he dicho de stablecoins porque es un negociazo, pero si se administra bien y si, los reportes de transparencia también hechos y si la lana en realidad la meten donde dicen, o sea, hay mucho riesgo todavía ahí, creo yo.
+Ha habido mucho FUD a Tether, increíblemente siguen activos, bueno, no increíblemente porque creo que están haciendo una gran labor, un dineral, pero bueno, viene también el lanzamiento público de Circle, me interesa invertirle a ese por ejemplo, pero bueno, quién sabe.
+Vámonos despidiendo, Qwerty.
+Muchas gracias, Gustavo.
+Muchas gracias.
+Algo adicional que quieran mencionar, yo me echo unos avisos y.
+
+[Speaker 1 - 01:16:46]
+Nos vamos.
+Muchas gracias, Mexi.
+No, solo ya dije todo lo que tenía que decir, muchas gracias a todos y bueno, ahí está Suápido.
+Si gustan y como dije siempre me pueden escribir para lo que.
+
+[Speaker 0 - 01:16:58]
+Sea.
+Gracias.
+Excelente, excelente.
+Mañana voy a andar en un espacio justo hablando de Bitcoin.
+Va a estar por ahí Chica Web.
+Durman, No, por ahí tengo el guión, déjame ver quién está coordinando.
+Siempre tengo la información aquí a la mano ahorita y la memoria me falla, pero mañana a las 10 voy a estar con Pulso Media.
+Vamos a estar la chica 3, Cryptocino MX o Mar Espejel.
+Qué chingón, Espejel.
+Omar.
+Con la banda, el host es Uy, no vine aquí.
+Me quedó en la hojita que me dieron.
+El host no lo veo.
+Es Durman, ¿No?
+¿Quién es el host?
+Mac Y no.
+Pero Sí, a las 10 de la mañana voy a estar por ahí, va a estar chido.
+Vamos a hablar de Bitcoin.
+Es una serie que están haciendo exclusivamente de DeFi.
+Drew, Drew, Drew, Drew, Drew, Drew, Drew, Drew, Drew.
+Porque lo.
+Perdón, chingaro les digo.
+Bueno, no está.
+Vamos a estar hablando de Bitcoin de.
+Es un episodio, creo que son seis series, seis episodios en la serie.
+Ya hubo uno la semana pasada, mañana es el segundo y siguen en los siguientes 5.
+Viernes a las 10 a.m.
+horario Ciudad de México.
+La neta está padre cómo están armando la dinámica.
+Mañana va a estar bueno el cotorreo.
+Pasen si quieren por ahí a escuchar.
+Y la próxima semana, el martes, voy a estar con Oma Cash.
+OMA Cash es otra de estas startups mexicanas que está también obteniendo mucho, mucho apoyo de diferentes iniciativas.
+Por ahí han ganado varios premios y varios accesorios.
+Acaban de ganar un concurso de pitch con ICP, Les fue muy bien.
+Mi buen amigo Isra y su equipo nos van a estar platicando de OMA Cash, que también son aplicaciones que te permiten cambiar cripto a pesos mexicanos directo a tu banco.
+La neta, eso ha estado muy interesante, ver cómo hemos estado viendo diferentes iniciativas que te ayudan a usar tu criptomoneda.
+Yo por ahí hice un post hace poco, medio mamón, la neta, lo tengo que aceptar, pero pues bueno, creo que sigue siendo válido, que a mí me gustaría hacer proyectos que te ayuden a multiplicar tu cripto, pero también se necesitan proyectos que te ayuden a gastarlo, cómo no.
+Pero bueno, vámonos.
+Les dejo la última parte de Universal Mind, una canción que hice con Inteligencia Artificial.
+No, perdón, puta madre.
+Minds of East, no, es la otra que pone.
+Nos vemos el próximo martes con la gente de Macash.
+Y hay eventos muy interesantes.
+Primero que nada, del 1 al 4 de mayo, vamos a estar por ahí en 5 de mayo.
+Es un hackatón y conferencias que está organizando la banda de Ciudad de México y de otras comunidades como Puebla, Cuernavaca, por ahí hay mucha banda metida súper top haciendo el hackatón allá en Ciudad de México en el foro Interlomas del primero al cuatro de mayo.
+Si quieren información, mándenme un DM y les puedo mandar por ahí los links.
+Y también va a haber un evento del 19 al 23 de mayo en Ciudad de México.
+Ese va a ser a lo largo de varios días, pero son varios venues.
+Hay que estar por ahí al pendiente de la agenda.
+Son side events y cierran con un evento también allá en Ciudad de México el 25, 3 de mayo, con los que organizan foro blockchain, se llama Ledger Leaders.
+Si, están en Ciudad de México y van a estar por ahí.
+Va a haber un side event de Happen el 22.
+Va a haber un side event de Blockdemi y Etino México el 19.
+Ese va a ser en el BBVA.
+El de Happen no estoy seguro dónde es, pero al ratito les doy reposo al evento.
+Va a estar muy interesante y creo que es importante ir a este talento.
+Está chido la neta se necesita que estemos más de cerca, colaboremos más, esto creo que ayuda.
+Pero bueno, me voy.
+La última parte de Minds of Nos vemos el próximo martes.
+Si no se deja.
+Tendré que cerrar porque se trabó el celular.
+¿Qué pasó?

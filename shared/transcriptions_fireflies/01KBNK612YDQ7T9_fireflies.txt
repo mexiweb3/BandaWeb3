@@ -1,0 +1,795 @@
+================================================================================
+TRANSCRIPCIÓN FIREFLIES.AI
+================================================================================
+Título: BandaWeb3 #074 Hackathon @ETHGlobal 🇦🇷 EVVM.mp3
+Fecha: 1764882600000
+Duración: 91.31999969482422 segundos
+
+================================================================================
+TRANSCRIPCIÓN COMPLETA
+================================================================================
+
+[Mexi BandaWeb3 - 1.7s]
+GMGM.
+Banda, ¿Cómo andan el día de hoy?
+Buenos días, buenas tardes, buenas noches, dependiendo de dónde se estén conectando a esta grabación.
+El día de hoy vamos a tener la parte 2 del resumen de lo que sucedió en Argentina durante Connect, durante el hackatón de ETH Global, durante los múltiples side events, durante todo lo que nos quieran platicar por llegando Libre Acción, ahorita lo invitamos para ver si se puede subir en un momento debe estar con nosotros el buen Germán de EVVM de Rolamate, ya nos estará platicando un poquito de cómo les fue en Argentina, porque tuvieron un track en el hackatón, tuvieron por 20 mil dólares en premios.
+La EVVM, el producto que están ahorita promocionando, puedes virtualizar blockchains dentro de otras blockchains, está bien interesante.
+Yo por ahí estuve hackeando con un proyecto que ya les platicaré, pero bueno, empecemos con música, ahorita subimos a toda la banda, el que quiera aquí subir a platicar, el que no pueda no pasa nada.
+Pero bueno, voy a empezar con el segundo sencillo de banda web, esto es Crimson Orbit, hecho con inteligencia artificial.
+El primero es Mindset, no sé si se acuerdan, es el segundo sencillo.
+Empezamos en breve, Muchas gracias por estar por aquí, ya apreciamos likes, los repos, los comentarios, todo suma.
+Voy a invitar a toda la banda a decir que ya estamos por aquí mientras ponemos la canción.
+Empezamos en breve.
+Bienvenidas, bienvenidos, muchas gracias por estar por aquí.
+Ya tenemos aquí al co host, ya tenemos aquí algunos speakers.
+Voy a seguir invitando a la banda, a todos los que vea que hackearon.
+Ya llegó Germán, vamos a invitarlo acá de cojos también, denme un segundito, ya mandé las invitaciones a quien normalmente invito, El que pueda subir chido, el que no, No pasa nada.
+¿Cómo andan?
+Probemos.
+¿Me escuchas Gera?
+AxlCast, ¿Cómo andan?
+Qué chingón verlos por acá, qué chingón conocerte por allá.
+AxlCast, un placer y también a toda la banda de Guatemala, pero a ver, ¿Cómo me escuchan?
+¿Cómo andan?
+Bienvenido.
+
+[Gerardo CriptoUNAM - 294.3s]
+¿Qué onda?
+¿Qué onda Mexi?
+Bien, bien, se escucha súper bien.
+Emocionado de estar aquí compartiendo espacio, compartiendo experiencias de ETH Global Hackatón y pues a darle con todo.
+
+[Mexi BandaWeb3 - 309.2s]
+Excelente, bienvenido.
+Gracias Gera.
+Yo soy también el Alex, AxlCast C.
+Bienvenido.
+
+[German EVVM - 316.2s]
+¿Qué onda?
+Bro, ¿Cómo andas?
+¿Todo bien por aquí?
+¿Todo chido?
+
+[Mexi BandaWeb3 - 321.6s]
+Excelente, excelente.
+Platiquemos con el que quiera subir, a todos los que yo por ahí vi en Argentina, voy a estar invitando al que quiera, bienvenido, el que no pasa nada, el que no invite, pida la palabra si estuvo por acá, La idea es conectar con los que estuvieron allá desarrollando en el hackatón.
+La idea es platicar de hackatón, ahorita que suba Germán nos estará contando todo lo que estuvo sucediendo con la EVVM.
+Pero bueno, empecemos.
+Yo estuve hackeando, les platico rápido el espacio anterior, por aquí se los voy a pinear arriba.
+Platicamos un poquito del evento, platicamos un poquito de la dinámica que yo y que vimos como asistentes en Argentina, Platicamos del tema de los pagos, de las aplicaciones para pagar.
+Que está involucrado mucho el sistema de mercado pago con un tema de QR y con una aplicación con USDC puedes pagar.
+Hablamos mucho de esos temas.
+El día de hoy podemos tocarlos también porque tenemos invitados nuevos que están por acá arriba platicando.
+Pero sí me quería enfocar más en el hackatón, en la experiencia de ETH Global.
+En lo personal fue mi primer hackatón con ETH Global, he asistido a yo creo que unos 5 o 6 hackatones, he participado como unos 4.
+Empezamos últimamente a organizarlos también acá en Monterrey con ETH México.
+Creo que son parte fundamental del proceso de aprendizaje, de creación de comunidad, de creación de proyectos, de que se encuentren founders para hacer startups y que en algún punto pueden ser unicornios.
+Creo que son parte fundamental.
+En lo personal me he involucrado mucho, veo aquí Alex también, se han involucrado mucho, han participado mucho en Hackathon, es Gera, está participando en, creo que todos los que.
+Los que he visto con cryptonam está con madre, están ganando premios.
+Entonces bueno, pues enfoquemos la plática en eso, en esa experiencia.
+Yo como les decía, hacke, tengo un proyecto muy web, pero creo que tiene una aplicación o un adicional que le podemos agregar a un servicio que estamos ofreciendo con.
+Tecnología web, por ahí es un startup que estamos trabajando, que estamos haciendo una prueba de mercado, que estamos ya platicando con clientes, que estamos haciendo pruebas con restaurantes y con tiendas de conveniencia, que finalmente ese es nuestro mercado.
+Ya les platicaré un poquito más a detalle, pero lo metí al hackatón.
+mira, viene la.
+Vamos a invitar a la EVVM de Cohost a ver si se puede montar como co host y como speaker y participé con la EVVM.
+Ya les platicaré un poquito por acá, Germán, sobre la EVVM y todo lo que están construyendo, pero me gustó mucho desde , o sea, ¿Qué nivel de evento?
+Empecemos por ahí para darle la palabra aquí a los invitados.
+¿Qué nivel de evento?
+¿Qué nivel DE organización?
+El venue sea muy bueno, los espacios para hackear increíbles, el Internet con sus fallas de repente, pero bien, la comida riquísima, puedes estar ahí 24 7 te atendían durante todas esas horas.
+No sé, a mí en lo personal me voló la cabeza y sí va a ser como que punto de referencia para futuros eventos que estemos organizando, al menos nosotros acá en México, no sé qué opinen.
+Alex, ¿Cómo andas?
+Bienvenido.
+No hemos ido contigo, gracias por estar por acá.
+
+[Alex Soto - 514.2s]
+Gracias a ti por convocar.
+Nada más confirmando que me escuchan bien porque ando ahí en el celular, pero.
+Sí.
+Pues nada, digo, ahora sí que abro la conversación dando contexto.
+Este fue mi segundo ETH Global y justo como comentas, me voló la cabeza la primera vez que lo viví y lo que me.
+Sino la consistencia.
+La primera vez fue en Cannes, en ECC.
+Creo que lo que tiene muy bien ETH Global como organización de hackatones es que tienen súper estandarizado el proceso, los protocolos de todo al pie de la letra, tienen manuales, tienen merge, tienen roles de todo tipo, los voluntarios son remunerados, como que tienen súper bien montada la.
+La estructura y entonces eso permite que cada mes estén replicando las cosas súper bien.
+Digo, me quedo ahí para no monopolizar, pero resueno con el hecho de que es modelo a seguir y punta de lanza en cuanto a hackatones en web.
+
+[Mexi BandaWeb3 - 596.1s]
+¿No?
+Definitivo.
+La cantidad de premios, la cantidad de sponsors, de booths, de sponsors, de mentores de hackers, la comida, tecnología con los brazaletes que estaban bien duros con eso y se me hizo bien interesante.
+Si, no, de acuerdo, por ahí seguí invitando Suri y pareja que.
+Estuvo por ahí hackeando, Estuvimos hackeando los dos esos días.
+Ojalá pueda subir a contarnos, pero ya tenemos acá a EVVM, me imagino que es.
+Germán, ¿Me escuchas, Germán?
+¿Cómo andar?
+¿No sé si la cuenta de EVVM nos está escuchando por ?
+Creo que no, pero bueno, de nuevo, mientras resolvemos por ahí el tema con Germán, estamos platicando del Hackatón, de IT Global, de todo lo que experimentamos por ahí, lo que hackeamos.
+Quería subir y ahorita veo si puedo subir a el buen Germán con la EVVM porque ellos tuvieron un track, tuvo mucha participación con ellos.
+Pero Gera, platícanos un poquito de tu experiencia en hackatones, tú ya tienes muchos hackatones, no sé si este fue tu primero global o no, han ganado ya en varios, vinieron acá a Monterrey a hackear, el hackatón de Ityrio México.
+Platícanos un poquito de cómo lo viviste tú y de tu experiencia en hackatones.
+
+[Gerardo CriptoUNAM - 680.8s]
+Ya.
+Sí, buenísimo.
+Pues en general pues los Hackatones son pues una experiencia bien padre porque aprendes, conectas y pues sobre todo los de ETH Global son los que más me han gustado.
+Este fue mi tercero, mi tercer global y fue el primer global en donde ganamos algo.
+Estuvimos igual desarrollando sobre la evolución de bloques que todavía seguimos mejorando y pues en general estuvo súper cool, creo que los Hackatones Global son los que, los que he visto que son mejor organizados, eso de las pulseritas, de que te puedes quedar en el baño a dormir, de que te dan comida rica y todo, creo que está súper cool la experiencia.
+En este viaje de Argentina pues estuvimos participando en tres hackatones, en el de Polkadot, en el de Stellar y en el de ETH Global, entonces pues estuvimos pues a todo lo que da curso al fallo y estuvo súper, súper interesante, súper cool, sobre todo porque también como mencionas hay un montón de sponsors y de tecnologías nuevas que puedes implementar en tus proyectos, entonces pues , anduvimos, fue una experiencia súper chida porque aprendimos un montón de cosas, estuvimos hackeando con Naye y con Fer que están por aquí y pues nada, estuvo súper cool, nos encantan los hackatones y pues andamos dándole con todo.
+
+[Mexi BandaWeb3 - 773.0s]
+¿Cuánto estás pagando de cursor güey?
+Tres hackatones.
+Yo les voy a platicar algo que me tocó a mí vivir y experimentar, porque he pagado muchas ias y las he usado mucho, pero ahora que estuve yo hackeando, estuve bailando, estuve hackeando solo como les decía, una aplicación para registrar bien, vamos a ver si la podemos subir, a ver si ya nos escucha una aplicación para registrar información en la blockchain para que haya trazabilidad de procesos de cadena de frío, refrigeradores y congeladores que están muy monitoreados con sensores de temperatura y humedad que se necesitan registrar para temas de trazabilidad, logística, etcétera.
+Es muy web.
+Conozco un poco, bueno, un poco para que les digo mentiras, conozco la industria porque estuve 20 años en ella y creo que hay un servicio ahí y con todo lo que es Vive Coding, con todo lo que ya tengo de posicionamiento de mejor alcance, dije bueno, vamos a lanzarnos a ver este producto y este servicio para ese mercado.
+Y bueno, lo estamos probando.
+Total, para no hacerles el cuento largo, me recomienda Ocan bajar y utilizar Claude Code.
+Empecé a pagar La membresía normal, 20 dólares, tiene sus límites, vamos a ver si ya podemos subir a EV como speaker, tiene sus límites, ¿No?
+Te permiten determinar, te hace las aplicaciones, prueba los sistemas, te compila, te sube los contratos a la red, sí, pero todo eso se toma su tiempo, no es inmediato y también se va consumiendo ese.
+Esa cantidad de tokens que tienes por determinado tiempo.
+Entonces tuve que pagar 20 dólares adicionales y ya vi cómo está el mercado y con razón están haciendo el dineral que están haciendo, no sé ustedes cómo lo vean.
+Alex, Axel, Cas, Gera, mientras subimos aquí al que no sé por qué no se deja.
+¿Cuánto pagan de IaaS al mes tú Gera, para tres hacatones?
+¿Cómo lo manejas?
+
+[Gerardo CriptoUNAM - 882.5s]
+Sí, pues sí, o sea, sí combino varias IA, ahorita la que estoy pagando es Cursor, el Pro, y con ese pues si me da chance de combinar diferentes modelos de guía.
+Y también estoy pagando Gemini, también ese me gusta como para las imágenes, los vídeos, todo ese tipo de recursos gráficos, me gusta Gemini y también tengo otro IDE que estoy pagando que se llama Trae, que es muy parecido a Cursor, pero está más barato igual es muy, muy parecido, entonces de repente se me acaba los créditos con Cursor, me paso al otro IDE que es el de Trae y pues ahí ando como que cambiando de guías y preguntándole también algunas cosillas como para optimizar los créditos que tengo ahí con Concursor.
+Pero sí, al final es como combinar todas estas herramientas de inteligencia artificial para poder desarrollar un buen producto y sobre todo pues para que lo hagamos en.
+
+[Erik Valle - 942.9s]
+Tiempo, récord.
+
+[Gerardo CriptoUNAM - 947.5s]
+De tiempo.
+Entonces, pues más que nada para eso.
+
+[Mexi BandaWeb3 - 952.0s]
+Alex, ¿Tú cómo está tu setup?
+¿Cuánto estás pagando?
+Eso es algo que me he puesto a platicar mucho con la gente, porque cada quien tiene sus perfiles, sus preferencias, su estilo distinto y ahí hay un chorro de herramientas que han salido, que si Vault, que si no sé qué, que si Cloud Code, que si Coursor, que.
+¿Cómo lo manejas tú?
+
+[Alex Soto - 974.4s]
+Mira, siendo muy transparente, por supuesto, en esta ocasión al menos el apoyo técnico se lo llevó sobre todo Mel.
+Entonces él con sus magias, no sé realmente cuánto él pague de cursor, pero sé que estuvo ahí.
+Yo personalmente cuando he tenido que sacar algo por mi cuenta, pues trato más bien de brincar de herramienta gratuita en herramienta gratuita.
+Todavía no acabo de definir a cuál apostarle.
+Las que he usado sobre todo es B.
+Pero también.
+Por ejemplo, Dorian me enseñó The Lovable.
+Bueno, he aprendido así como dos o tres más de bytecoding.
+Y como decía Gerardo, creo que voy brincando de un output de una herramienta, se lo doy a la siguiente y se lo doy a la siguiente y como que hago un Frankenstein medio bizarro, pero bueno, tal vez por falta de conocimiento y capacidad de contratar o de comprometerme con una.
+
+[Mexi BandaWeb3 - 1041.6s]
+Sí, bien interesante.
+Por ahí, por ejemplo, Eder, estuve hackeando a un lado con él.
+Él me recomendó una de.
+Kir, creo que se llama, ahorita les digo bien, pero no, no, de plano no me hallé.
+Definir cuál era la que iba a usar.
+Y ahora Okan me dijo, no, usa Cloud Code y usa Visual Studio code.
+Ponle la D.
+A Visual Studio Code, configúralo y con eso tienes.
+Y sí, güey, con madre, la neta, o sea, me voló la cabeza lo que puede hacer ya.
+Con dos, tres prompts.
+
+[German EVVM - 1083.9s]
+Hola, hola, Hola.
+
+[Mexi BandaWeb3 - 1085.0s]
+Ahí está.
+¿Quién habla?
+Germán, ¿Cómo andas?
+
+[German EVVM - 1089.4s]
+Habla IBB desde la cuenta de Germán.
+
+[Mexi BandaWeb3 - 1093.0s]
+Excelente.
+IBBM, ¿Cómo andas?
+IBM desde la cuenta de Germán, Qué bueno tenerte por acá.
+Ya tenemos a Eric Valle también.
+Excelente.
+
+[German EVVM - 1100.1s]
+Muy bien, muy bien.
+No sé qué pasa, ¿Quién va a inventar un producto para X que haga que los space no se reguen?
+No entiendo cómo todavía no sale sí.
+
+[Mexi BandaWeb3 - 1111.4s]
+Seguimos dependiendo del buen Mielón y de plano no ha podido ni arreglar los spaces, ni arreglar el pinche Search que es una porquería, ni meter a Groka.
+Pero aquí seguimos y aquí hay banda y aquí escuchas, así que pues bueno, lo que hay.
+¿Valentín, qué onda?
+Bienvenido.
+¿Eric también, cómo andas?
+
+[German EVVM - 1132.1s]
+¿Germán, estuve escuchando un poquito la conversación, qué buen tópico ese de cuánto pagas por IA, No se me había ocurrido la verdad, pero sí, claro, ante un uso fuerte, un uso rudo, pues toca pagar, no?
+
+[Mexi BandaWeb3 - 1148.7s]
+Si no pagas, creo que estás limitado, la neta, o sea, así como yo estuve viendo con Cloud Code, en determinado punto me acabé los tokens, creo que son tokens por determinado momento, o sea, ocho horas, tienes tantos toques, bueno, te los chingas si quieres seguir trabajando.
+Tuve que meter 20 dólares adicionales y le dije cuando me acabe mi límite predefinido de la serie que ya tengo, bueno, usa ese presupuesto, pero sí se lo estaba tragando.
+¿Y en el retorno de inversión creo que valió la pena, no?
+Pagué, creo como 30 dólares y de premios 250.
+Bueno, ahí se fue.
+Muy bien.
+¿Valentín, qué onda?
+¿Cómo andas?
+Bienvenido, gracias por estar por acá.
+
+[Vale Creativo - 1190.4s]
+¿Qué onda amigos?
+¿Cómo andan?
+Buenas, buenas tardes.
+Solo quiero sumar, no es comercial, pero no sé si ya vieron Antigravity, el nuevo de Google, es una locura, así genuinamente me voló la cabeza.
+Es un IDE, un editor de código, es gratuito, tiene Gemini 3 Pro como modelo y si se te acaba Gemini 3 Pro, puedes cambiar de modelo a todas 5 y el rate limit está absurdo.
+Yo pago de 20 dólares, pago ChatGPT de 20 dólares también, que ese me da acceso a codecs, no sé si sabían eso.
+Los que pagan ChatGPT, que pueden instalar.
+
+[Alex Soto - 1237.9s]
+En su Yo sigo esperando ese tutorial, Valentín, porque ya vi que sí lo tengo.
+
+[Vale Creativo - 1243.5s]
+Está fácil.
+En el editor de código de tu preferencia, Visual Studio Cursor, te vas a la tienda de extensiones y buscas códecs y lo instalas, inicias sesión con tu cuenta de chatgpt y ya tienes un editor de código powered by chatgpt 5, el modelo 5.0, o sea, ya el mercado está fregoncísimo.
+Pero Antigravity es el que yo he estado usando ayer, salió esta semana, no es comercial, pero sí es comercial para todos, amigos hackers, hablando de hackatones, está impresionante, o sea, genuinamente Cloud Code, se me acabaron los créditos y dices, porque además se queda en medio contexto, como que no, ya no sabes muy bien hacia dónde moverte, tienes que pagar más y este sí te saca, está súper generoso con los rate limit y es gratuito y además ya tiene Nanobanana Pro incluido, entonces además te hace las imágenes y así, está loquísimo.
+Solo así.
+Brevario Cultural.
+
+[Mexi BandaWeb3 - 1308.5s]
+¿No?
+
+[Gerardo CriptoUNAM - 1308.9s]
+Exacto.
+
+[Mexi BandaWeb3 - 1309.8s]
+Gracias por subir a darnos el Alfa, no lo había visto y sí me vuela la cabeza la cantidad de herramientas que hay y la potente que ya son y cómo.
+Mejoran en semanas, o sea, está muy loco, está muy loco.
+Eric, ¿Nos escucha por ahí el Eric?
+¿Si, no?
+Un poquito del track, Germán, platícame un poquito de cómo se dio que la IBBM tuviera un track en el hackatón.
+Creo que la gran mayoría estamos por acá arriba, hackeamos en ese track, ya platicaremos un poquito de eso, cada quien cómo lo lo vivió y lo utilizó.
+El tema del EVVM bien, pero se me hizo bien chingón verlo como uno de los patrocinadores más grandes del hack, con los mayores premios, tuvieron a los mentores durante toda la duración del hackatón, siempre había alguien en el stand, a diferencia de otros stands que a veces los vi solos.
+Sí.
+Platícanos un poquito de la historia de esto y de EVvM para que la gente conozca ahorita que empecemos a platicar de los proyectos.
+
+[German EVVM - 1372.1s]
+Bueno, IBBM como saben, nace desde Unit Global con un proyectito que era Pagos Gasless.
+Para hacer ese proyectito necesitamos hacer un Core Component, porque dentro de este perfeccionismo o ganas de hacer permissionless, decentralized, deterministic, todo lo que se pueda, basándonos en esos principios de blockchain que ya muchas empresas son como el MS de Scooby Doo, que le sacan la máscara y ahí atrás está un servicio centralizado que se cae y se cae media WordPress.
+Bueno, lo que evita IBBM es eso, quiere hacer eso para que la gente pueda jugar haciendo sharding, relaying, etcétera, sin darnos cuenta.
+Pues se transforme el producto.
+Nosotros queríamos hacer el sistema de pagos nada más con estas características, necesitamos ese Core Component.
+Ese Core Component terminó siendo una blockchain virtual metida en smart contracts, que lo hicimos sin querer y en el momento que detectamos que teníamos como 60.000 líneas de código, teníamos un componente que servía para hacer muchísimas más cosas además de lo que queríamos.
+Cambiamos el rumbo, fue como bueno, rola mate como tal, es interesante, sirve el Mate Metaprotocol empezaba cada vez a tener más sentido.
+Pero a su vez nos dimos cuenta de que no era solo el Mate Meta Protocol, estábamos permitiendo que cualquiera pudiera tener su propio Matemeta Protocol.
+Y sale el concepto IBBM, que es la Ethereum Virtual Machine, que le permite a cualquiera, muchos que están acá, tener su propia blockchain virtual adentro de blockchain.
+Al final ese es el producto que lo utilizamos nosotros lo utilizamos que podemos hacer desarrollos con ese, pues es el objetivo, pero ahora cualquiera también va a poder hacerlo.
+Entonces, básicamente, EV bien permite que cualquier persona tenga una blockchain virtual en segundos, tan solo deployándola, utilizando unos comandos, etc.
+¿En qué nos enfocamos?
+Pues llevamos seis meses tratando de ir al mercado.
+Desde ID de mayo que patrocinamos el primer hackathon con un track pequeño, detectamos que nos faltaba para ir al mercado.
+De hecho el producto fue muy difícil de usar, aunque había documentación, pues omitíamos muchas cosas, que no teníamos facilidades para los desarrolladores.
+Y ahí empezamos a mejorar, como quien dice, el Developer Experience.
+Además de que el producto seguía arreglándose, encontrando algunos bugs, sobre todo temas de usabilidad y demás, y alguna funcionalidad nueva que se viene que va a estar interesante.
+Nos pusimos en Elite Online, estuvo mucho mejor el resultado.
+Buscábamos que alguien hiciera un Fisher, se logró.
+Buscamos que alguien implementara los nonces, se logró.
+Y buscamos que alguien hiciera un producto general.
+Y no sólo se logró, sino que como ya conocemos al buen Oukan, que es bytecoder, cada vez es más coder que bycoder, pero todavía sigue bycodeando mucho, aunque quizás ese sea su expertise final, es muy Bueno.
+¿Hizo un Roll Amate, o sea, tal cual Roll Amate de It Waterloo 2023, pero se lo hizo solo en un fin de semana o en tres días?
+No importa si fue jueves o fin de semana, mejor.
+Iba codeando nada más.
+Pues eso, ¿Cuál fue nuestra sensación al ver eso?
+Pues fue, lo logramos.
+
+[Vale Creativo - 1609.3s]
+¿Por qué?
+
+[German EVVM - 1610.2s]
+Porque justamente la IBB se hizo como tal para que pudiéramos nosotros hacer Rolamate de forma fácil, de forma permissionless, descentralizada, etcétera, etcétera, y que venga alguien que no sabe programar y logre, y que funcione, y que lo haga lindo.
+Significa que aunque vos lo sabes, tu producto se valida por otro lado.
+Eso nos dio muchas ganas de continuar porque todavía no estaba confirmada nuestra participación en Argentina, aunque sí estaba en los papeles, podíamos retirarla sin problema.
+Teníamos una conversión muy abierta con IT Global y nos impulsó a decir, OK, vemos.
+Este.
+Paypal USD, vemos el Fisher, vemos este otro producto de otros chicos que hicieron algo interesante con los nonces, hagámoslo.
+Mejoramos más todavía la documentación, hicimos más librerías, hicimos todo un entorno gráfico, un UI para los que no probamos mucho, un template para que cualquiera pueda tener su propia dapp rapidísimo.
+Agregamos un par de servicios nuevos, como un swap para los que querían hacer defi.
+Y bueno, nos pusimos todos en mentalidad de somos mentores, vamos de hackers para hackers, no vamos a faltar al boot, vamos a poner muchos prices, vamos a dejar bien claro qué es lo que queremos, vamos a tener un pequeño wishlist, etc.
+Y lo logramos.
+Logramos tener los productos que queríamos Dentro de los ganadores de los tracks y los segundos, terceros, cuartos puestos, hubieron muchos productos que íbamos a ver.
+Un objetivo principal de la EVBM en el Hackathon no era solamente dar premios y ver cómo el ecosistema se desarrollaba, sino que estamos en un punto en el cual necesitamos ejemplos y casos de uso.
+Entonces nosotros del Hackathon sacamos muchísimos casos de uso.
+Y previo al Hackathon, acá un paréntesis, y gracias a Frutero, a Mobile y a Flash Cotorreo, sacamos un día de capture de Flag también se hicieron cinco días de talleres, tuvimos un venue, pero eso igual lo podemos hablar aparte.
+Pero en el capture de Flag también estuvo muy bueno la dinámica, porque eran más o menos 10 personas o 15, y se deployó la IBBM en 10 cadenas diferentes, dentro de las cuales, por ejemplo, Circuit.
+Estamos agendando una llamada porque llamó la atención del CEO del Founder y del CTO de Circuit esto de que la IBM haya sido deployada .
+Ellos se acercaron a nosotros en una convención que tuvimos en DevConnect a invitarnos.
+A su llamada de Builders Global para que muestren cómo funciona el IBBM.
+Y eso fue gracias a Ariel que eligió Circuit para deployar.
+Y después que bueno que a ellos les interesó mucho lo que estamos haciendo.
+Y así yo creo puede pasar con otras cadenas, porque deployaron en Monad, deployaron en Todo, deployaron en Avalanche, deployaron en Polygon, deployaron en cksync, deployeron por todas las cadenas que te puedas imaginar.
+Y eso pues abre muchas puertas también base, etc.
+Y nada, y salieron buenos proyectos.
+Uno que, bueno, nos gustaron mucho a todos, no quiero ser injusto, pero uno que me gustó mucho, que yo lo estaba buscando con mucha fuerza, muchos en realidad, voy a ser injusto porque en realidad todos me gustaron mucho, pero era el X mejorado con EV bien, porque este nuevo estándar que todo mundo está hablando del X.
+Se puede hacer con EVM y de forma más fácil, más rápida y más directa, haciendo una implementación propia.
+Y eso pasó, lo hizo Anthony, uno de los varios Antoni que tenemos en el ecosistema, y fue un éxito.
+Tenemos un pequeño gusto amarguito, muy chiquito, pero existe, y es que los jueces de los proyectos IBBM para finalistas, que nos hubiera encantado tener un proyecto de finalista, aunque pues al final de cuentas nos suma nada como empresa, pero hubiera sido lindo, es que en vez de preguntarles a los hackers de EV bien sobre su producto, les preguntaban sobre la IBB.
+Y bueno, eso ya lo pasaremos en el feedback global de que pues los jueces tienen que estudiar los proyectos, porque también los hackers merecen que les pregunten sobre su producto y no sobre la tecnología que están usando.
+Pues eso creo que engloba un poco general.
+Si, hubieron muchos participantes de la comunidad, eso nos encantó, algunos de la comunidad decían no, no queríamos porque pensamos que había conflicto de interés.
+¿Y realmente pues los entiendo, podría pensarse así si uno no hace un análisis riguroso, pero en realidad pensemos que la comunidad IBBM y nuestra comunidad están muy mezcladas, porque si no sería como decir que la comunidad starknet no puede ir a hackear un hackatón de starknet, no?
+Pues no, son los primeros invitados y los primeros que tienen que ir a tirarse de cabeza.
+Así que bueno, nos quedamos ahí con ganas de que más participaran, pero participaron muchísimos, fue un orgullo, fue muy lindo y para mí fue como un cierre de una fiesta.
+Creo que todos ayudaron a la IBBM a que sea relevante, se logró y creo que la ABBM pues les retribuyó a todos con diferentes tipos de alegrías, que cowork, que fiesta latina, espacios para tomar un café de tarde, premios en el hackatón basado en la todos tuvieron como su cuota de felicidad con la.
+Entonces pues nada, eso y no sé si querés ir algún punto.
+Más interesante o más específico.
+
+[Mexi BandaWeb3 - 1982.9s]
+No, excelente, excelente.
+No te quise interrumpir porque mucha información y definitivamente era lo que quería platicar.
+Es un protocolo.
+Latino que tiene ya algunos años haciendo mucho ruido, que definitivamente usuarios necesita, casos de uso, todo eso pues es parte de lo que estos proyectos y protocolos buscan y necesitan.
+Y la retroalimentación que dan los hackers va a ser muy buena, me imagino.
+Yo por ahí uno de los tracks que llegué a ganar fue por retroalimentación, ahí la IA me ayudó mucho, pero no, no es cierto.
+Entiendo, todos los hackers que están por acá arriba participaron con la BBM, me gustaría ir con Eric que estuvo de mentor, que nos platique un poquito cómo lo vio desde el lado del mentor hacia la gente que estuvo hackeando, qué fueron las dudas que más les costó a las personas que estuvieron participando en el track.
+No sé, platícanos y después vamos con los hackers.
+Uy, no sé si escuchen a Eric, yo no lo escucho.
+
+[German EVVM - 2054.9s]
+No, a ver Eric, entra, salí, entra de nuevo de tu casa como me dijiste.
+¿Además Eric es el devrel de IBBM y actualmente en lo que entra y sale, te comento que está contactando con todos los hackers, tanto del capture de flag, con los que quisieron hacer el freestyle, que es un desafío un poco más complejo, que son tres, para ver si quieren terminarlo, que los vamos a estar ayudando con mentorías, con todo el apoyo que se necesite y por otro lado con todos los hackers de IT Global, los proyectos que quieran terminarlo, que quieran entrar en otra fase o lo que fuera, también les está consultando uno por uno para darle seguimiento, o sea, se trata de seguir, no?
+
+[Mexi BandaWeb3 - 2102.6s]
+Sí, definitivamente, al menos el caso de uso que yo le busqué y el problema que yo quise resolver, pues sí, hay que seguirlo desarrollando, hay que probarlo y llevarlo mercado y que se use y definitivamente eso le ayuda al protocolo.
+Disclaimer estoy, ya lo he dicho muchas veces, ya saben, y se nos cayó Eric, ahorita mientras vuelve a subir vamos con Gerardo.
+Gerardo, no hay bien escuchas.
+No, seguimos ahí con detalles.
+No le pregunté a casi el hackeo, no sé, no lo vi por ahí hackeando, pero Eric no nos escucha.
+Un, dos, tres, Eric.
+No, creo que no.
+Vamos con Gerardo.
+Gerardo, tú estuviste hackeando la IBB, ¿Cómo fue tu experiencia?
+
+[Gerardo CriptoUNAM - 2162.1s]
+Sí, sí, sí, ahí estuvimos hackeando un poquito, pues la verdad es que fue muy novedoso todo.
+No había yo tenido la oportunidad de conocer bien a fondo cómo funcionaba la IBB.
+Y la verdad es que sí, pues quedé sorprendido porque todo lo que se puede hacer, la manera en la que se puede desplegar muy fácil la parte del Fisher y todos los comandos, creo que es muy amigable para los desarrolladores.
+Igual yo no soy programador, le meto igual al bycodeo duro, pero tratando de mejorar.
+Y estuvimos dándole al IBBM, tratamos de construir un explorador de bloques para que podamos a través de este explorador acceder al historial de todas las transacciones que se generen en las diferentes blockchains.
+Como mencionó German, pues la EV bien se puede desplegar en un montón de blockchains, entonces iríamos nosotros a resolver este problema de que tú para conocer las transacciones de tu EV bien, pues tenías que ir al explorador de bloques o al escáner de, digamos, de la blockchain nativa donde desplegaste.
+Y lo que quisimos resolver es que la EV bien tuviera un propio explorador de bloques en donde pudiéramos ver las transacciones de las diferentes blockchains de las diferentes EV bien desplegadas.
+Entonces, bueno, pues igual estuvimos usando otra tecnología que fue AMP de The Graph, que es una tecnología que, bueno, si no conocen de Graphic, es básicamente como un indexador de data, Te indexa data de la blockchain y ya la puedes tú consumir para tus proyectos.
+Y lo que hace AMP es que aparte de indexar la data, te genera ya las bases de datos.
+Entonces el problema igual que tuvimos ahí un poquito fue que AMP lo que hace es escuchar los eventos de los contratos, de las funciones y.
+Y la IBBM pues creo que no tenía como eventos, entonces estuvimos como bycodeando algunos contratos de la IBBM para poder usar esta tecnología, pero igual ya con un poco de feedback y ya tratando de usar no sólo The Graph, sino pues enfocarnos más en la funcionalidad y que realmente funcione el explorador de bloques, a lo mejor pues usamos pues otra tecnología que no sea AMP, pero bueno, estuvimos construyendo eso, nos gustó un montón, fue la primera vez que tuve interacción con la IBBY y con también estas bases de datos.
+Entonces creo que aprendí un montón, la verdad es que sí aprendí un buen y es lo que más me gusta de los hackatones, que más que ganar y eso obviamente está chido, pero creo que siempre aprendo algo nuevo y es lo que me gusta.
+Y bueno, qué mejor estar colaborando y construyendo sobre la IBBN, que este proyecto de gente de LATAM y toda la comunidad.
+
+[Mexi BandaWeb3 - 2348.4s]
+Definitivamente, definitivamente, proyectos que salen locales, que ya tienen años y que han hecho muchas cosas, como todo lo que ha hecho el BBM, yo creo que hay que apoyarlos.
+A mí me gusta mucho el.
+Y para resumir un poquito, y no resumir, sino tratar de simplificar mucho, a ver si me doy a entender.
+Con los contratos que hace la IB bien, tú puedes generar tu propia base de datos con las reglas que tú quieras, entonces para el sistema que tú quieras, lo diseñas a la medida y lo despliegas y no necesitas equipo para correr nodos, sino que los nodos que ya existen y la infraestructura que existe es la que usas.
+Entonces, como tú decías Gerald, algo que yo vi, si necesitamos herramientas y algo que también vi durante el hackatón y que por estuvo platicando Germán, necesitamos herramientas para verificar esa información, esos dashboards que hicieron para poder ver tu propia base de datos que tú creaste con las reglas que tú hiciste, eso que están haciendo ustedes para ver solo las transacciones de la base de datos que tú hiciste, la IBBM, tu propia blockchain con tus características, ver esa información, analizarla, luego desplegarla para poder tomar decisiones en el futuro.
+Son herramientas que no están diseñadas y que hay que irle diseñando poco a poco para que tenga mejor funcionalidad para el usuario.
+Y definitivamente creo que sí arregla muchos, o sea, sí resuelve muchos, muchos problemas, porque rápido puedes desplegar, rápido puedes probar, rápido puedes salir a mercado y no necesitas infraestructura física con nodos, etcétera.
+No sé.
+Pero bueno, Eric, creo que ya tenemos por acá.
+
+[German EVVM - 2447.7s]
+Perdón, una acotación ahí Mexi.
+Lo interesante también de esto es que el propio desarrollador principal o promotor principal de AMP, que es Marcus de The Graph, que es de VREL.
+Quiere él continuar con este proyecto de Gerardo también van a estar en contacto, pero también Marcus le va a meter muy fuerte porque quieren que sea uno de los primeros casos de uso de ejemplo un explorador de EV bien hecho in house incluso por The Graph.
+Entonces ahí Gerardo ya te contactó Eric me imagino para continuar con tu proyecto, ver qué tanto querés, que tanto podés.
+Pero Marcus específicamente que tuvimos una comida con él el lunes me dijo, o sea, tuvimos una comida ahí entre grupos de latinos y Marcus que vino que ya se iba, que fue ahí cerca de la evidencia a comer.
+Quiero que el explorador de bloques de la EVDM sea un caso de uso de los primeros y de éxito de AMP.
+
+[Gerardo CriptoUNAM - 2519.6s]
+Uff, buenísimo.
+Pues sí, vamos a seguir dándole, la verdad es que sí nos gusta un montón, queremos seguir aprendiendo de esta tecnología y pues sí, que mejor usar esta tecnología para seguir potenciando la IBBY.
+Buenísimo.
+
+[Mexi BandaWeb3 - 2539.2s]
+Vamos a ver si ya está Eric por ahí.
+¿Qué onda Eric?
+¿Cómo andas?
+
+[Erik Valle - 2542.4s]
+¿Qué onda?
+¿Qué onda, Ya me escuchan Ahora sí eso, listo?
+Sí, tuve que salir de mi casa y volver a entrar.
+Pues sí, básicamente a mí me tocó estar en el turno nocturno ahí ayudando a los proyectos, obviamente tuve muy poco trabajo porque pues a esas horas ya están bien cansados, ya no quieren saber gran cosa, pero sí algunos puntos donde casi todos los proyectos tenían problemas que estaban implementando sus servicios es que sus smart contracts.
+No los podían adaptar para meterlos como servicios dentro del ABBM, dentro de su propio.
+Entonces con ayuda de Gistro y con ayuda de UCAN los pudimos estar orientando en cómo hacer ese tipo de adecuación de sus smart contracts.
+Es básicamente lo que estuve ahí ayudándoles.
+
+[Mexi BandaWeb3 - 2599.5s]
+En el hackathon.
+También te tocó andar jueceando, ¿Cómo estuvo el jueceo que fue el juez de los proyectos que estuvieron en la IBB?
+
+[Erik Valle - 2609.9s]
+No, los jueces fueron Oukan, Germán, Gistro.
+Gistro fue de los principales y.
+El Manu, ellos fueron los cuatro jueces.
+Yo nada más estuve escuchándolos y me parecieron ahí interesantes, todos los que los que logré escuchar estuvieron geniales ahí.
+
+[Mexi BandaWeb3 - 2633.2s]
+Sí, pero vi muchos pitches que estuvieron participando.
+Valentín, tú cuéntame que estuviste hackeando, también estuviste en la EV.
+Bien, por ahí ya nos platicó Gerard sobre el explorador que creo que es una herramienta muy buena que se necesita para que eso funcione un poquito mejor.
+No sé ¿Qué opinas tú Valentín?
+
+[Alex Soto - 2652.5s]
+¿Cómo anda?
+
+[Vale Creativo - 2654.5s]
+¿Qué onda, qué onda?
+Bueno, uno, yo quiero aprovechar que están aquí Germán, Eric y no está el resto del equipo, el Panos, el Víctor, el Gistro, pero así, reconocimiento público, gracias por el trabajo que hicieron.
+Hicieron, ya lo mencionaron, pero colectivamente con Frutero hicimos un coworking de una semana, iniciativa de Germán.
+Increíble, o sea, fue un espacio donde todos los hackers nos reunimos, bueno, todos los latinos, se sentía como la casita donde nos levantábamos así, vamos a desayunar todos juntos.
+Y hubo talleres, hubo conferencias, hubo espacios de mucho diálogo, mucha planeación, y eso fue IBB impulsando, diciendo venga, esto es en Latinoamérica, latinos, hagámonos presentes.
+Eso por un lado.
+Segundo, cosa que reconozco que me pareció impresionante, fue lo del capture de flag que le decía Germán, que no sé si fue algo como planeado o fue como hagámoslo y ya, pero de cualquier forma, yo desde una visión más estratégica y desde mi puesto en Frutero, que me toca analizar estrategias y operaciones y tal, lo observé como un mecanismo previo a un Ethereum Global para evaluar qué tan fácil estaba la tecnología para los hackers y hackers amigos, o sea, hackers que sí te vamos a decir, oye, esto no lo entiendo, esto no funciona, esto tal.
+Y también para evaluar cómo los mentores.
+Se desempeñaban frente a un grupo cuidado de hackers que hablamos español, porque obviamente en Ethereum Global pues estaban los chinos, los indios, los italianos.
+Entonces yo lo vi como una estrategia brillante, muy buena.
+
+[Mexi BandaWeb3 - 2770.7s]
+Porque eso no era público.
+
+[Vale Creativo - 2773.7s]
+Ah, bueno.
+Pues lo vi como una estrategia brillante.
+De cara a tenemos uno de los tracks más importantes en Ethereum Global, vamos a planear, vamos a ver qué está fallando, qué podemos mejorar y tal.
+Y lo más impresionante de todo fue que sí tomaron el feedback y para Ethereum Global los pain points, los puntos como difíciles, si lo resolvieron.
+Entonces eso te habla de compromiso y lo agradecí muchísimo.
+Coma.
+Yo lo que hackeé, que fue un caso, fue probar como, bueno, los que me conocen saben que me gusta hacer cosas acá, medio de guerrillero, impacto.
+Entonces lo que hice fue un mecanismo para hacer denuncias para periodistas, gobernadores, investigadores, etcétera, que estuviera totalmente.
+Privado, encriptado, ZK, pues, Zero Knowledge.
+Entonces las personas podían registrar su correo corporativo, su correo de periodista, su correo de gobernador, eso se verificaba con B layer y de ahí podían subir denuncias o subir evidencia.
+Sin poner en riesgo su vida, pensando por ejemplo en el caso del Gobernador que asesinaron hace un par de hace un mes, o periodistas en Palestina o etc.
+Ya posteriormente Eric me decía bueno estaría interesante que lo orientáramos a ICE, por ejemplo a migrantes latinos que tienen que hacer denuncias de dónde están los de ICE, o sea que podría ser un mecanismo de resistencia social para qué utilicé la IBBM para proteger todavía más la identidad de las personas y para hacer transacciones gasless.
+
+[Mexi BandaWeb3 - 2887.2s]
+Y.
+
+[Vale Creativo - 2887.5s]
+Que todo estuviera registrado y poder cuidar la trazabilidad.
+Que observé de la IBBM.
+Hicieron un trabajo espectacular con la tecnología.
+Es un comando, de hecho en Capture the Flag, yo también soy vive coder, digo ya un poquito más antaño yo usaba chat GPT y editaba archivo por archivo.
+Pero en el Capture de Flag justo no uses chat GPT, o sea tú solito con tus manitas ve cómo implementas una EVBM, lo cual me dio.
+Una perspectiva de entender que aunque yo no tenga un trasfondo de ingeniero en software o tal, puedo desplegar una EVBM sigo las instrucciones que están en su documentación, lo cual está maravilloso porque muchas otras tecnologías si te requiere tener entendimiento de lo que estás haciendo y aquí no, aquí te dice paso 1, instala esto, paso 2, corre esto, paso 3, ponle nombre, ya sabes, está maravilloso.
+
+[Mexi BandaWeb3 - 2950.0s]
+Y bueno te verifica contrato, te compila, te sube todo güey, todo.
+
+[Vale Creativo - 2959.1s]
+Está fabuloso, literalmente es un comando, o sea es instala, corre un comando, funciona, ya sabes, ponle nombre, está muy chido.
+Y el tercer reconocimiento público que quiero hacer es el apoyo al talento latino, porque justo hubo otros proyectos, otras tecnologías que no estuvieron tan atentos, bueno estamos en México, en Argentina, estamos en.
+En países de habla hispana deberíamos de tener mentores que hablen español, ¿Sabes?
+Y me pasó eso en BNB, también fui mentor de BNB y yo era el único mentor que hablaba español y decía bueno, pero querías convocar a los argentinos y los argentinos.
+El nivel de inglés por la distancia geográfica pues no es tan desarrollado como en algunas regiones en México que estamos obligados a hablar inglés y allá veías un montón de argentinos que incluso cuando yo me acercaba a ellos me decían.
+¿Hablas español?
+Y yo decía sí y decía gracias, por favor, necesitaba mentor que hablara español.
+Y en el caso de BBM en Ethereum Global pasó lo mismo, tú te acercabas a cualquier otro y eran angloparlantes, te acercabas acá y estaban cotorreando con su tendedero de sus playeras de esta remera me la trajo alguien que me quiere mucho y con esta vibra como muy familiar que te daba gusto estar .
+Yo incluso hubo un rato donde me senté a trabajar ahí en el stand de ellos, o sea creo que hicieron un gran trabajo.
+Reconocimiento público, agradecimiento público y bueno por sumarme al intro de esta conversación.
+Ethereum Global es fabuloso, nunca había tenido la oportunidad de hackear en uno de estos, fue mi primero, estoy sorprendido de cómo manejan las cosas tan.
+Frictionless, tan sencillo pues.
+Y bueno, el hecho de que EBM hoy sea uno de los sponsors principales.
+De Ethereum Global pues te habla, te da mucho orgullo, al menos a mí me da mucho orgullo y también que veo que los miembros del equipo son todos los miembros más activos de Frutero, entonces como que es súper así de genial.
+Es mucho orgullo que de aquí salgan estos proyectos tan que están trascendiendo fronteras y teniendo conversaciones importantes en las mesas importantes entonces chido, jueguitos para la EBBM, para Ethereum Global y para todos ustedes amigos.
+
+[German EVVM - 3128.6s]
+Gran apoyo de Frutero ahí.
+Reconocimiento, perdón, Mexi a Frutero con los días de cowork que sí los patrocinó la IBBM, colaboró también 5 de mayo pero fue 90% frutero, el otro 10% bueno Ibn pagó pero bueno al final pagar sí es reconocible, es un esfuerzo grande pero pues el que pone el trabajo es lo más importante, no puede pagar, paga cualquiera el trabajo, hay gente que no lo quiere hacer ni aunque le paguen y además no cobro nada Frutero, ojo, pago IBM el lugar, pagó los desayunos, pero Frutero también eso lo hizo de forma Super Bowl, o sea fue un engagement orgánico.
+5-5 igual, difusión y apoyar ahí un poquito organizando porque estuvo enfocado en otras cosas pero eso no el famoso cumpleaños que venimos festejando a cada rato que es la comunidad, festejando que es una comunidad y siendo una comunidad, no una obligación.
+
+[Mexi BandaWeb3 - 3204.7s]
+Yo me perdí esas primeras días de la hacker house, de el cowork, de la reunión que hicieron por ahí donde estuvo Cande y estuvo Rinne, creo que estuvo por ahí Sol.
+Sí llegué yo el lunes 17 pero bueno, sí me dio mucho FOMO.
+Sí, lo vi y creo que.
+Está muy chido, o sea, definitivamente poder tener ese tipo de activaciones previas, durante y post evento, creo que posicionan muy bien la comunidad, los proyectos, los protocolos, etcétera.
+¿Antes de ir con Alex, sí me gustaría preguntarte Germán, está muy chido con un comando como decía Valentín, puedes Uy, viene Okan, vamos a subir Ocan, puedes desplegar, no lo había visto, puedes.
+Hacer la EVM de inmediato, pero por qué usar la EVM y no hacer un contrato totalmente independiente en esa red, o sea, por qué virtualizar?
+Y luego les explico y luego vamos con OCAN o el que quiera ocaner, el que guste.
+Esa duda me surgió ya con las herramientas que vi de Biocoding, que te compila, te verifica, te hace todo, porque si la vi bien y no un contrato normal, directo en la blockchain.
+¿Cuéntenme un poquito, quién me puede responder?
+
+[German EVVM - 3282.3s]
+Bueno, si vos querés hacerte 120.000 líneas de código para tener todo lo que te da un IBBM en un contrato, pues también lo vas a poder lograr, vas a crear una blockchain virtual de igual forma, o también te puedes crear tu calculadora en vez de usar la calculadora que hay, pues eso en realidad es un tema de preferencia.
+No va mucho más allá de eso.
+¿Además contás con que obviamente el código está optimizado, que no tenés que preocuparte por hacer eso, pues son horas de trabajo, o sea, tipo ya lo tenés hecho, para qué lo vas a hacer?
+¿Se llama un poco la filosofía de las hiperestructuras, si algo funciona y está hecho.
+Para que lo vas a repetir si no lo estás mejorando?
+Y si lo estás mejorando puedes mejorarlo sobre lo que ya existe o sentís que lo que existe está mal, entonces tenés que hacerlo diferente.
+Pues la IBBYM tiene esa filosofía de hiperestructura, o sea, cada uno puede tener su propia blockchain virtual, o vas a poder usar el Matemeta Protocol ya quede en mainnet, llamémosle, que es nuestra propia IBBM oficial que va a tener su propia red de features, pero si no lo puedes usar vos para tus objetivos y la puedes modificar, que es parte también de la IBBM, o sea, por qué mejor no haces un deployas un IBM y haces un servicio o la modificas para que haga lo que vos querés, porque si no quisiéramos que se modifique, pues no estaría en Solidity y está hecha en Solidity justamente para que Byte codeandola la podés modificar sin ni siquiera saber programar.
+Es parte de el objetivo de la BBM, es ser extremadamente fácil de customizar, de agregarle cosas, de modularizar y además el tema este, de hecho acaban de publicar Kevin y el equipo desarrollo un servicio de ejemplo que era una de las cosas que llegaron mucho de feedback para que cualquiera pueda hacer un servicio qué es un servicio justamente un contrato que usa la EV bien la tuya propia, de la manera en la que vos quieras para dar otro tipo de funcionalidades si es que no querés modificar el Core Component.
+Entonces, pues básicamente eso, o sea, si vos necesitas un contrato que solamente te haga gas abstraction y vas a estar haciendo pues duplicando o haciendo igual a lo que hace la IBBM con toda la parte del manejo de signatures, etcétera, etcétera, etcétera, pues lo podés hacer, nada más que vas a tener que tomar en cuenta todas las condiciones de seguridad, todas las medidas de optimización, etcétera que ya tiene la IBBM, pues la puedes reproducir, cuánto tiempo te lleva, cuántos recursos te lleva, puestá tu qué es lo que preferís hacer, si deployar o no.
+No sé si eso te contesta la pregunta o querés ahondar algo en algún otro punto.
+
+[Mexi BandaWeb3 - 3476.4s]
+Sí no, sí, y me gustaría ir con Ouka que fue el que desarrolló la aplicación para con un solo comando desplegar todo, verificar contratos, etcétera, etcétera, etcétera.
+¿Como andas o que?
+Bienvenido.
+¿Que tranza?
+¿Que tranza?
+Si ¿Se me escucha?
+Todo bien, Todo bien.
+
+[Oucan - 3495.9s]
+Pues vaya.
+Como tal el Wizard fue nada más el grapear todo lo que ya hacía el Shell Command que hizo Gistro, pero la idea era justamente para que pudieran desplegar su propia EVDM todos los participantes de ser necesario.
+Y pues nada, la neta es que le echamos muchos huevos, muchas ganas, mucho cariño para entregar las mejores herramientas para el desarrollo.
+Creo que eso se ve reflejado con los 22 participantes, 22 equipos que decidieron usar EVDM como base tecnológica de sus proyectos.
+Nada, bastante contento y orgulloso de haber tenido casi el 5% de todos los Submissions de Global utilizando EVVM.
+
+[Mexi BandaWeb3 - 3545.1s]
+Cuáles fueron de sus favoritos Eric, Germán ya nos contó Valentín, Alex, Alex, tú nos has contado.
+Cuéntanos un poquito antes, antes de ir con los favoritos, ¿Cómo lo usaste tú, Alex?
+
+[Alex Soto - 3558.9s]
+Yo en realidad fui de las pocas excepciones que por decisiones propias no construí sobre la EVVM, me arrepiento un poco.
+Pero bueno, es porque ya tenía ahí un enfoque muy particular al que tenía un compromiso personal.
+Igual digo, para hacer un comentario más general y también ir cerrando, algo que también resaltó en términos de ETH Global, pero también de la EVVN, es justo lo que decía Germán sobre el seguimiento.
+Yo creo que este tema de no duplicar esfuerzos, el tema de realmente aprovechar toda la energía que le dedicamos a construir estos MVP para que no se queden nada más ahí en un documento borrador, sino que realmente puedan implementarse, creo que eso es clave.
+Obviamente hay gente que va a hackatones a ganarlos y no quiero tampoco tirar ahí ese perfil farmer, pero en términos personales creo que hay mucho más valor en darle continuidad a las cosas.
+En lo personal, el proyecto que hackee con Mel, por ejemplo, un mini alfa, tiene que ver con cómo aprovechamos comunidades como Futero, como la EVVM para generar mecanismos de préstamos y de oportunidades internas.
+Entonces trataremos de darle seguimiento para que podamos seguir transformando nuestras vidas en lo concreto. Check, check.
+
+[Mexi BandaWeb3 - 3656.7s]
+
+Excelente, excelente.
+Gracias Alex.
+Interesante, todo un tema.
+Podemos escarbarle al tema de los farmers, de hackatones comparado o versus los que buscan desarrollar un startup o un proyecto, una empresa, nos podemos meter ese hoyo negro, pero creo que no.
+OK.
+¿Quisiera que nos platique de todo lo que él vio o Eric y Germán, qué fue lo que más les gustó?
+Ya Germán nos platicó de un par de aplicaciones.
+OK.
+¿Cuáles son tus favoritas?
+
+[Oucan - 3695.8s]
+Yo voy a ser muy, muy honesto.
+La neta es que.
+Casi todo, yo me atrevo a decir que un 90% de los proyectos que presentaron con nosotros tenían características que me agradaron mucho.
+Desde flowevvm que utiliza los bots de arbitraje de Uniswap como Fishers para ejecutar transacciones, el X-402 simplificado y remasterizado, Gasless por parte de Tuni y por supuesto el Catán por parte de Gilbert, Guti y.
+El nombre del otro paisano, del otro Mexa, siendo por aquí.
+Saludos y me sorprendió mucho que hubieran cosillas de iot como tu proyecto MEX, también unos chicos de creo que de Nigeria que se armaron un s
+upply chain tracker utilizando sensores también de domótica para medir la sanidad de las mercancías.
+Los chicos de recetas médicas utilizando EV bien para consolidar las firmas o los certificados de.
+Cédulas profesionales internacionales para que todos pudiéramos recibir ayuda médica en de manera internacional, la neta es que ese fue un pedo, al menos para los que nos llegamos a enfermar en Argentina, entonces creo que soluciona un problema.
+Y.
+Dex, creo que así se llama, que hizo una red social para hackers, creo que todavía no hemos llegado a ese punto de tener una red social para hackers, para juntarnos, para convivir, organizar hacker houses, igual el consolidador de de gastos para pagos con agentes que hizo se llama REH el proyecto.
+Entonces la neta o cierto, igual una chica que se armó una plataforma de streaming de los tippings, las propinas son gasles utilizando la tecnología de bien, entonces la neta no puedo irme por un favorito, se me hace muy complicado, creo que todos los proyectos aportaron valor y nuevas ideas e ideas locas al ecosistema web en general, pero sobre todo dar a conocer y mostrar que se puede montar un servicio, una aplicación utilizando EVVM bien para las bondades que tiene Gasless que utiliza la infraestructura que ya está establecida, entonces la neta para mí es complicado.
+Y si, los que andan por aquí, felicitaciones, la neta, que chido por haber confiado en nosotros.
+
+[Mexi BandaWeb3 - 3870.5s]
+Muchas gracias.
+Nos diste un resumen de casi todos los proyectos.
+Si, participaron 22, ahí mencionaste de perdido unos 20.
+Qué chido que hubo diferentes perspectivas para manejar estos sistemas.
+Para toda la banda que está acá abajo y que no sabe de lo que estamos platicando de un track y un hackatón, el hackatón de ETH Global en Buenos Aires hace unas semanas por .
+El protocolo EVVM bien que es hecho de latinos para latinos y para el mundo, estuvo con unos premios de aproximadamente casi 19.000, 20.000 dólares.
+Tenemos a los hackers acá arriba que estuvieron participando dentro del track que ganaron, a los mentores, a los jueces, a los creadores del protocolo.
+Y nos está platicando de las bondades Eric Ocan, Artur, ¿Qué le dirían a la banda que quiere construir, que trae un MVP que está participando en hackatones, que está viendo dónde construye, qué construye y cómo lo construye, por qué le recomendarían la EVVM y a dónde los mandarían?
+Qué link es el bueno, qué vídeo hay que ver, Yo por me aventé el workshop que dio Kevin y Oucan en Argentina, por trabado en YouTube, igual ahorita lo busco y se los retuiteo, se los pineo, me basé con ese, me aventé ese vídeo, me aventé, creo que es EVVM.dev o EVVM.info, no estoy seguro cuál, seguí los pasos y pum.
+Fácil, fácil.
+¿La verdad fue más complicado dejar la computadora y el software listo para correr los comandos con todo lo que había que instalarle previo, creo que ahí hay.
+Un tema, este, creo que en el hackathon fue lo más complicado estar listo ya para empezar a bicodear, ya lo podemos platicar de eso, que hay cosas que podemos hacer para que la experiencia sea más sencilla para estar listo, pero bueno, sí, que le dirían a la banda?
+Que le dirían a la banda que.
+
+[German EVVM - 3993.2s]
+Vienen varias cosas.
+¿Mexi quería comentar un caso que me gustó mucho igual, pero contestado tu pregunta para no perder el hilo, Se vienen los deployers visuales, es algo que tenemos para pronto.
+Unos meses, vas a poder desplegar una EVVM no code, o sea directamente entrando wizard visual, como casi que crear una cuenta de lo que sea con clics y rellenando formulario, vas a poder tener tu propia EVVM bien pensada en cuál es el uso que le vas a dar, porque todavía no vimos algunos casos de uso queremos, que es juegos, que es muy importante.
+
+[Mexi BandaWeb3 - 4037.8s]
+Y.
+
+[German EVVM - 4038.1s]
+Defi un poquito más.
+Porque bueno, dicho, o sea, como el caso este no?
+El hecho de que un EVVM ya traía desde hace por lo menos dos años, un año y medio para no exagerar, la capacidad de hacer lo que hace el X y mucho más rápida, mucho más optimizada y permissionless para que cualquiera pueda tenerlo, pues habla de que en realidad lo que está faltando es que nos conozcan más y así seguimos.
+Muchos upgrades de Ethereum pues ya estaban implementados en lo que es la EVVM y los que se vienen, los nonces asincrónicos se vienen en cualquier momento y eso la EVVM ya lo tiene desde hace más de dos años.
+El tema de los executors en las transacciones también es algo que se va a venir y eso ya lo tiene la EVVM.
+Y así varias cositas más.
+A mí una cosa que me gusta mucho.
+Que pasó en DevConnect es m
+e tocó ser speaker en un evento de EIP Summit de básicamente las propuestas para mejorar Ethereum.
+Cómo se realizan, tanto de los cambios en el core como cambios en estándares de tokens o nuevos estándares o consenso y demás.
+estuvimos hablando unas cinco personas desde lo más profundo y lo de más bajo nivel a lo más superficial.
+A mí me tocó hablar de lo más superficial que es cómo crear una propuesta, cómo crear un EIP desde cero sin haberlo hecho nunca antes, básicamente porque yo lo acababa de hacer y pasé por todo el proceso hasta el punto en el cual quedas de vamos a ver si lo incluimos o no.
+Entonces me tocó explicar eso, pero antes de mí habló uno de los core developers que más bien está encargado de analizar las propuestas heavy, las propuestas que cambian el funcionamiento de Ethereum a nivel de clientes, a nivel de consenso, a nivel de EIPs que ya se implementan en el protocolo y no son código de Solidity o estándares a seguir prácticas en contratos.
+Y me dijo él que era algo que nosotros proponíamos, que la EVVM es muy buena para poder testear EIPs de funcionamiento Core sin tener la necesidad de tanta configuración, de tanta vuelta, de tanta coordinación, porque basta con que un core developer agarre un EVVM, bien, la customice en Solidity, obviamente no va a quedar tan optimizada, pero va a quedar funcional con lo que quiera hacer, simular el nuevo EIP, la deploya por ejemplo en Sepolia y simplemente le dice a los otros developers, a los otros testers que vayan y prueben y no necesitan hacer todo un entorno de pruebas privado, pasarse millones de configuraciones, alinearse, organizarse, etcétera.
+Y eso es muy buen uso que es el de sandbox para también mejorar Ethereum, o sea que la EVVM es un arenero en donde los propios core developers van a poder jugar y se les va a ser mucho más fácil testear funcionalidades.
+Y este es un uso totalmente diferente al cual fue el propósito de hacerla, pero que somos conscientes de que existía.
+Y el hecho de que una de estas personas que ya tengo contacto directo y estamos conversando, diga que lo va a analizar para proponerlo también, digamos que es algo muy positivo que nos llevamos.
+
+[Mexi BandaWeb3 - 4270.4s]
+Excelente, excelente.
+Te vi muy activo y justo no habíamos platicado de ese evento de los EIP, Sí vi que estuviste participando.
+Que chingón que la gente de los Core Developers lo está viendo de esa manera y que lo pueden utilizar de esa manera manera.
+Eso sí no lo he escuchado. Eric, Oucan qué le dirían ustedes a la banda que está pensando en desarrollar?
+
+¿A dónde los mandan, qué vídeo hay que ver y qué link hay que buscar para empezar a trabajar con EVVM?
+
+[Erik Valle - 4302.9s]
+Bueno, pues ahí está el sitio.
+Este sitio evvm.org, están varios vídeos de charlas de Germán y de Jistro, documentación y evvm.info,
+está todo bien clarito, el Jistro y Oucan hicieron un gran trabajo en esa parte.
+Y si necesitan algo más específico, pues contáctenos directo a Germán, a Jistro, a Eric, Oucan, cualquier duda los podemos canalizar, los podemos orientar.
+Entonces pues sí, básicamente eso.
+
+[Mexi BandaWeb3 - 4342.2s]
+Excelente, excelente.
+¿Oca, Valentín, Axel, Kast, Germán, algo adicional?
+Tenemos 10 minutitos.
+
+[German EVVM - 4360.9s]
+No, todo bien, muy contento, gracias por este space, La verdad que ya se dijo bastante para que la gente pueda interiorizarse un poquito más en la EVVM, sean parte de esta comunidad, que simplemente estando en las comunidades latinas ya se es gran parte.
+Tenemos por un Telegram, un grupo de Telegram que lo pueden buscar, es evvmorg todo junto, que es el grupo devs, que también pueden entrar, ver upgrades, updates.
+Todo lo que tenga que ver con el desarrollo de updates, más preguntar dudas, etc.
+Tenemos a Eric que es nuestro Dev rel, estoy yo que también estoy para cualquier consulta, que estoy más a cargo de dirigir un poco el proyecto.
+Tenemos a Kevin que es nuestro CTO, está Oucan que está apoyando con todo lo que es inteligencia artificial, AI y desarrollos en general.
+También está Manu que está de full stack por y Artur que no pudo participar ahora que nos está ayudando con toda la parte de confidencialidad, porque estamos desarrollando una versión de la EVVM que permite hacer transacciones confidenciales en redes públicas, utilizando algo que se llama Full Homomorphic Encryption.
+Y usando los Fishers, nuestros relayers nativos del protocolo, con un poquito más de seguridad, que eso es más bien para instituciones financieras bancarias que les interesa tener ahí o full confidencialidad o un híbrido.
+Pero bueno, eso ya es un poquito más avanzado y nada, esperando que la EVVM se vuelva mainstream.
+Es importante saber que todavía somos una empresa de garage que está intentando asomar la cabeza, seguimos siendo un grupo de desarrolladores intentando llegar a a la división internacional y ojalá se nos dé pronto porque sí pues es lo que buscamos y siempre con la filosofía esa de apoyar el ecosistema, no es que sean latinos first y después dejamos afuera todos, pero sí sabemos que hay mucho talento latino que está pues desaprovechado porque no miran para acá otros protocolos y pues nosotros también aprovechando eso como empresa de todo el talento que hay disponible pues que vengan para casa.
+
+[Mexi BandaWeb3 - 4518.1s]
+Ya nos están volteando a ver desde hace rato.
+Yo creo que ya nos están volteando a ver y ya se dieron cuenta del potencial y por eso están buscando contratar gente.
+Por ahí hay una conversación también muy buena que podemos tener sobre el tema de sueldos.
+Por ahí vi el grupo en Frutero, la conversación, qué buena conversación y sí, qué buenos puntos, hay que seguir platicando.
+Yo encantado de poseerlos aquí cuando gusten.
+Me encanta lo que hace EVVM, lo que hace Germán, lo que hace la empresa.
+Disclaimer, ya lo he dicho, estoy invertido en la empresa, tengo participación, me gusta lo que hacen y por eso apoyo.
+Pero bueno, transparencia total, Frutero también me encanta lo que están haciendo, cuando gusten venir, súper, súper bienvenidos.
+
+[German EVVM - 4563.0s]
+No, pues está bien, gracias por aclarar eso de que tenés ahí tu bolsita, que invertiste, pero para la audiencia que sepa que invirtió cuando todavía estábamos en prototipo y prototipando y entrando a tener un producto, fue una inversión de riesgo, así que muchísimas gracias Mexi por ese apoyo en etapas tan tempranas que fue súper importante.
+
+[Mexi BandaWeb3 - 4588.9s]
+No, yo encantado y los había visto ya desde hace años trabajando y haciendo cosas chingonas y bueno, para eso estamos.
+Por veo también a muchas personas que estuvieron hackeando, que estuvieron en Argentina, veo también por allá Diego que estuvo también, que está con el que estoy emprendiendo, Koilen, ya se los presentaré un poquito más a detalle el próximo martes.
+El próximo martes vamos a estar con Diego, ahorita les platico, Quiero primero terminar.
+¿Oucan, Eric, Axel, algo adicional?
+Nos caíste.
+OK, ya estás de regreso.
+
+[Oucan - 4624.5s]
+LATAM en el puto mapa.
+
+[Vale Creativo - 4631.9s]
+Hell yeah.
+Oigan chico bueno, equipo EVVM.
+Yo tengo una pregunta, igual es alfa igual y no es apropiada para este space, pero ¿Qué se viene para el 2026?
+Ethereum Global tiene cinco locaciones ETH 5 de mayo, seguramente, digo, conociéndolo, seguramente van a armarse su hackatón.
+No sé si es prudente echar el Alfa a 4 de diciembre de 2025.
+Si no me lo quieren contestar, pueden no decirlo y nos quedaremos pendientes porque obviamente pues yo lo decía en la Frutero Talk del martes, que ya me volví súper fan, incluso en todas mis participaciones públicas.
+En Argentina traía la playerita de EVVM, entonces salgo en una foto de BNB con la playera de EVVM, en el panel que moderé de logos también traigo mi playera de EVVM, en la Frutero me puse mi playerita.
+Yo ya estoy 100% bombardeado, la neta, lo único, de hecho lo único, digo, celebra en público y da como feedback en privado, pero lo único que yo sugeriría o me gustaría decirles es que el Git para los que estamos hackeando, como obviamente hay una.
+Una regla de que no puedes empezar a hackear antes del tiempo del hackatón, si tú usas el wizard, tiene el git de colaboradores de todo el equipo de EVVM y tiene commits de hace un mes, de tres semanas, etc.
+Lo único que yo como que ahorita me detiene para construir todo en EVVM ese detalle, porque justo tengo que demostrar que empecé de cero, que estoy solito, etc.
+Entonces eso es como lo único feedback que podría dar, que sería chido para futuras ocasiones.
+No tengo idea de cómo se maneja el tema de Git para que quiten los colaboradores o los commits anteriores, sin que se borren los commits, obvio.
+Pero bueno, eso es como mi único, mi único feedback.
+La tecnología me encantó, soy súper fan y por lo mismo repito la pregunta, ¿Qué se viene para el 2026?
+Hay 5 Ethereum Global, un 5 de mayo, probablemente, Unite México entonces, y muchas otras hackathones que seguramente van a ver y que seguramente van a ver oportunidades para que tengan presencia.
+
+[German EVVM - 4790.5s]
+¿Hiciste cumpleaños a Mexi?
+Esa pregunta es típica de él para prender fuego todo, ahora ya te quedas como el perrito de memes con todo prendido fuego, ya querés saber dónde va a estarlo dividiendo.
+¿Qué pasa con ETH 5 de Mayo también de paso le preguntaste si ETH México va a hacer algo como quien no quiere la cosa, o sea, todo prendido fuego?
+Pero de frutero no dijiste nada.
+
+[Mexi BandaWeb3 - 4815.2s]
+Me encanta.
+Platiquemos, platiquemos.
+Hay muchas cosas por hacer juntos.
+
+[German EVVM - 4818.7s]
+¿Qué hacemos, Mexi?
+Le retrucamos con y empezamos con frutero o se le contesta algo.
+Ah, mira, ya me tiró.
+
+[Vale Creativo - 4835.0s]
+Dale, dale, 2026.
+Estamos también aprovechamos para tener conversaciones con un montón de protocolos y como ya vimos que EVVM se puede desplegar en varios protocolos, o sea, las colaboraciones van a estar excelente.
+
+[German EVVM - 4849.5s]
+Así que se viene.
+La frutería, se vuelve también verdulería.
+Buenísimo, era lo que estábamos esperando.
+Bueno, EVVM va a seguir explorando.
+Caminos para abrirse a más desarrolladores.
+También vamos a incorporar un poco instituciones al enterprise.
+Vamos a buscar cómo ser todavía más fácil desplegar un aire con propósito.
+Estamos de hecho, analizando todos los feedbacks, todavía no se terminan de analizar todos los feedbacks, fue mucho y todavía las puertas que abre un feedback con otro.
+Vamos a incluir unos servicios nuevos muy interesantes como para personas como Mexi y como otros más como vos, que necesitaban guardar información y están usando la EVVM para gasless, pero a su vez estaban utilizando otros protocolos para guardar información que no necesariamente tenía que ser mucha.
+Entonces, un alpha es que va a haber un servicio que va a ser tanto para guardar información como para poder hacer inscripciones estilo ordinal en EVVM o en Ethereum.
+No es tan complejo desde un punto de vista técnico, es más bien que la implementación tiene que ser espectacular para que funcione bien y sea muy útil y muy abierta.
+Y en eso estamos trabajando.
+Estamos trabajando en una implementación muy optimizada que permite utilizar una EVVM, el storage de una EVVM como base de datos para casos específicos, que también va a abrir puertas de Real World Assets y algunas cositas más.
+Yo estuve haciendo unas investigaciones por que se llama Apeiron Protocol, que por lo pueden ver, que nunca lo terminé desarrollar al 100 como un EIP, que todavía tengo ganas de eso, pero como research fue muy bueno.
+De hecho, acabo de postear la charla de EIP, la puse acá en el grupo, la compartí, la acaban de poner por si alguien quiere darle un vistazo para entender cómo se hace una EIP, Alex, te la dedico a vos, que andamos por queriendo aprender eso.
+Y bueno, con ETH Global es conversar. ETHGlobal se viene con unos eventitos interesantes.
+
+Lamentablemente dejaron afuera a México, que estuvimos hablando bastante el año pasado con ellos y estaban con todas las ganas buscando venue y demás.
+Todavía no terminamos de entender qué pasó.
+Teníamos muchas ganas de que se hiciera acá.
+Ya lo damos por hecho por todas las averiguaciones que tuvimos que hacer.
+Buscarles el Venue, una lista de requerimientos muy perfecta, muy linda, todo ordenadito.
+Yo creo que lo dejaron para el año que viene.
+No sé si es la situación política o qué, pero bueno, no sucedió ahí.
+Tenemos un trabajo que hacer entre todos para seguir empujando.
+Y depende de qué es lo que vaya a hacer ETH Global, porque se van a concentrar, que esto no es un alfa que yo tenga, sino que es algo que es medio público ya mucho necesita. ETH Global va a empezar a.
+
+Por eso es el ETHCONF de Nueva York enfocado 100 % en institucional.
+Van a llamar a bancos, van a llamar a empresas, van a intentar mezclar un poquito los devs y los servicios que existen con lo tradicional.
+Entonces no se lo pierdan.
+El ETHConf de Nueva York si pueden ir porque va a ser un pequeño giro en lo que estamos acostumbrados a ver en la industria. ETH Cindo de Mayo.
+
+
+Pues no tengo autorización o algo para hablar ahora a nombre del equipo, nada más les puedo decir que estamos trabajando justamente en el 2026.
+Y EVVM, pues eso, como comenté un poquito, hacer cada vez más fácil que desplegar una EVVM sea posible.
+Que optimice algún proceso que no sea solo desplegarla por.
+Por querer desplegarla.
+Y se viene el Mate Meta protocol, que el Mate Metaprotocol va a ser la EVVM bien general para que todo el que no quiera desplegar un EVVM pero quiera gozar de todos sus beneficios, puede utilizar e incluso contribuir a ese ecosistema virtual obteniendo rewards.
+Así que bueno, se vienen.
+
+[Mexi BandaWeb3 - 5115.6s]
+Cositas.
+Yo les puedo decir que el Mundial hay posibilidades de.
+Bueno, Bitso viene.
+Bitso va a estar en el Mundial.
+Por ahí anda mucha gente viendo qué se puede hacer en esas fechas del Mundial en Ciudad de México sé que.
+Y escuché rumores de que ETH Latam quiere venir a México, ojalá vengan a Ciudad de México o a Monterrey, no sé, estaría chido tener e ETH Latam por acá y también está México Tech Week en Ciudad de México, esa semana que es la de octubre, 31 de octubre, 1 y 2 de noviembre, nos ha gustado mucho.
+Celebrar en esa fecha, Día de Muertos, Halloween, etc.
+No sé todavía esas fechas están por ahí al aire, yo diría, sentémonos a platicar, tenemos que sumar esfuerzos, o sea, creo que podemos hacer cosas mucho más chingonas si subamos esfuerzos, si platicamos de los planes.
+Hacemos un plan para que venga ETH Global en el 2027, ETH Global 2027, DevConnect 2027, o sea, empecemos a platicar de eso también, creo que es algo que podemos hacer que suceda, no estamos tan lejos y creo que ayudaría muchísimo y tenemos mucha capacidad, muchos usuarios, mucha gente, el crecimiento nada más es mayor, lo vemos en todos lados.
+Pero bueno, ahora sí tengo que irme, hard stop, 3 minutos, veo por ahí abajo a Billions, saludos a Billions, veo por ahí abajo a MOCA también, son proyectos que quiero tener por acá, que nos platiquen, que sé que están haciendo cosas chidas ahí, luego los tendré por acá.
+Diego Benítez, como les decía, está acá abajo, @DiegoBC28, si no lo han seguido, síganlo, vayan a ver su perfil, por tengo yo no he puesto en mi perfil el link de Koilen, ya hicimos una cuenta de X para Koilen, que es el servicio que.
+Estamos desarrollando para todo lo que es iot, climas, perdón, iot para restaurantes y tiendas de conveniencia, monitoreo, alerta y control de refrigeradores y climas.
+Yo trabajé 22 años en la industria, literalmente de sistemas electrónicos que monitorean equipos que alertan cuando hay fallas, primero en seguridad, luego en automatización de edificios, finalmente lo que veía eran los centros de control, los instrumentos de los centros de control para manejar data centers, para manejar corporativos, para manejar edificios.
+Creo que hay un mercado grande.
+Tiendas de conveniencia en restaurantes pequeños que no tienen equipos monitoreados y que están perdiendo mucho dinero cuando fallan, por estamos analizando ese mercado, ya les platicaremos el próximo martes de Koilen, que es el startup que Diego y yo estamos desarrollando.
+Diego Benítez por ahí trabajó con la gente de Talentland cuando vino Blockchain Land, coordinando a los speakers.
+Luego arrancamos en mxweb3 acá en Monterrey hace unos años con él.
+También tenía un podcast que se llama Proof of Value, entrevistamos a mucha gente y ahorita nos estamos asociando para desarrollar Koilen y el servicio web que tiene Koilen de registro de datos.
+Qué chingón, Germán.
+¿Que andan desarrollando aplicaciones como para aprovechar la base de datos o la infraestructura descentralizada que existen en estas redes?
+Yo creo que hay mucho uso ahí.
+Yo lo he explorado con un par de empresas, una de logísticas de movimiento efectivo, otra para el proyecto que estamos desarrollando.
+Yo creo que para cadena de suministro hay muchas soluciones, para IoT hay muchas aplicaciones que no hemos visto y que podemos empezar a ver.
+Y con las herramientas de inteligencia artificial ya se pueden desarrollar muy rápido.
+Entonces probar mercado, sacar productos rápido, probar con clientes y si no, bueno, pivotear y ya entré en esa dinámica.
+Me ha gustado mucho aprender sobre evaluaciones, sobre nunca había emprendido, nunca habías hecho un startup hecho y derecho.
+Y ahorita estamos en eso.
+Ya les platicaremos un poquito.
+El próximo martes a las 12 estoy de regreso.
+Martes a las 12, jueves a las 12, platicando con proyectos.
+Por ahí les estaré avisando próximamente de quién nos estará visitando.
+Me tengo que ir, los dejo.
+Muchísimas gracias a todos.
+Germán.
+OK, Eric, AxlCast, Valentín por acá subió también Alex, subió Gera, nos estuvieron platicando de lo que estuvieron haciendo, platicamos también de la EVVM, de todo lo que viene con EVVM.
+Y bueno, sigamos platicando.
+Señores, muchísimas gracias.
+Los dejo con una cancioncita hecha con inteligencia artificial y nos vamos, nos vemos el próximo martes.
+Muchísimas gracias.
+Esto es.
+Crimson or.
+En tres, dos.
+Hijo de.
+Madre.
+Uno.
+Likes, comentarios, repos, todo suma.
+Nos vemos, los amo.
+Bye.

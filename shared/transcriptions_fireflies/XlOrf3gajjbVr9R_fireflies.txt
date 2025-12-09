@@ -1,0 +1,206 @@
+================================================================================
+TRANSCRIPCIÓN FIREFLIES.AI
+================================================================================
+Título: Entrevista a BandaWeb3 | Zona Tres Labs
+Fecha: 1736974800000
+Duración: 18 segundos
+
+================================================================================
+TRANSCRIPCIÓN COMPLETA
+================================================================================
+
+[mexi web3 - 1.4s]
+¿Qué tal?
+¿Bueno, cómo están?
+
+[Adrián Darío Hidalgo Flores - 4.1s]
+¿Qué tal?
+¿Bien, y tú?
+
+[mexi web3 - 7.5s]
+A ver, aquí estamos ya.
+Sí, muy bien, súper bien.
+
+[Adrián Darío Hidalgo Flores - 12.5s]
+¿Qué tal, Mexi?
+¿Cómo estás?
+
+[mexi web3 - 14.1s]
+Bien, bien.
+Aquí.
+Mucho gusto.
+Creo que no los conocíamos, nos conocíamos.
+
+[Adrián Darío Hidalgo Flores - 19.6s]
+Por ahí, no hemos coincidido en algunos espacios.
+Tampoco soy muy la persona más activa en Next como para ser muy relevante, pero sí he estado ahí detrás de ICP zona tres.
+Ah, ya he dicho.
+Vale.
+
+[mexi web3 - 30.7s]
+Sí, perdón.
+
+[Adrián Darío Hidalgo Flores - 32.1s]
+Te explico un poco el mecanismo porque tenemos 20 min para este.
+Estamos startup tras startup.
+Perdona que nos quedamos corriendo, pero es un primer acercamiento, después podemos extendernos más.
+Esta sesión la tenemos y Diana, por un lado, que Diana Torres, pues ya tuviste contacto con ella, ella es la coordinadora del programa de labs, es decir, es con quién empiezan y con que terminan y es quienes acompañan todo el trayecto y los está comunicando, ya sea para las sesiones que vamos a tener con speakers, con los mentores.
+Y es como esa persona que está orquetando que todo salga bien.
+Y de mi lado, pues yo estoy en la parte de dirección, que es más la parte estratégica, es decir, definiendo cómo es a los programas, en qué fechas, alineando con Diana las necesidades, viendo cómo nos fue en otras ediciones para ver cómo podemos mejorarlo y así.
+Y bueno, no se diga de Cristina.
+Cristina que los conoces ya muy bien, pero ellos ya están no tan involucrados en el proceso, sin embargo, pues obviamente están al tanto de cómo estamos ejecutando todo este trayecto.
+El objetivo de la sesión, pues es conocerte a ti, obviamente conocemos de tu canal y todo eso, pero más en esa parte emprendedora de tu lado, conocer a tu emprendimiento, que es el que te gustaría meter a la incubadora y obviamente al equipo con el cual estarías.
+Esto, esa es como la primera parte.
+Segundo, ya me imagino que tú ya sabes un poco más sobre programas de Gran, sin embargo, te explicaremos un poco más en cómo aplican los gran, específicamente en ICP y el proyecto de incubación y a ver si se logra alinear pues también a tu expectativa y ver cómo podemos trabajar en este zoom.
+Pues bueno, la primera pregunta, creo que una de las más importantes que tenemos aquí es en qué consiste el proyecto que quieres traer a la incubadora y que nos ve un poquito de dónde nace, cómo es que surge esta idea.
+
+[mexi web3 - 139.0s]
+Si mal no recuerdo, inscribimos o inscribí el proyecto de Defi mexicano, la DAO, por ahí he involucrado últimamente con ellos.
+Les voy a ser súper sincero, no sé si la gente en realidad se vaya a animar a participar, siendo este ecosistema diferente al que están acostumbrados.
+No, lo que pasa es que la DAO es un grupo de Ahorita somos 7,8 personas que ya tienen un token estable sobre colateralizado en optimism, en polygon y en base se usa mucho más en base que en los otros dos.
+Ahorita estamos entrando en polygon, pero yo creo que podríamos también utilizarlo y ser enlace para que haya algún puente o algo con ICP.
+No he visto mucho desarrollo en ICP.
+Me ha gustado mucho lo que me han contado los que hablan del tema.
+¿Yo la verdad lo he usado muy poco, no?
+Sí, sí tengo ya algunos nfts.
+Entré a lo de plebes con el bairo.
+Me llamó muchísimo la atención que se puede usar bitcoin para para transaccionar en la red.
+Entonces eso está muy interesante, pero si va más enfocado en Defi y en la stablecoin.
+No es algorítmica, pero sí sobrecolateralizada.
+Conjunto a eso, estamos también en la DAO muy enfocados o viendo, volteando a ver el tema de agentes de inteligencia artificial.
+¿Para qué?
+Para que se use el token, para que se pueda mover, para que facilite la experiencia del usuario que lo necesite.
+Y escuché que en ICP es este como que lo he escuchado de dos, tres personas que respeto mucho, como que la cadena perfecta para lanzar este tipo de aplicaciones por las cuestiones tecnológicas y cómo se maneja.
+Entonces me llama mucho la atención ese tema también de los agentes y va muy de la mano, no defi con agente de inteligencia artificial.
+¿Pero pues sí quería platicar primero con ustedes, entender bien el proceso para tratar de ver si convenzo, o sea, no tratar de ver, tratar de convencer a la gente, porque si ahorita te soy sincero, si están enfocados mucho en el ecosistema de IBM, pero bueno, yo ando viendo alternativas y no nada más para eso, sino que también hay mucha comunidad aquí en Monterrey que creo que le puede beneficiar un programa así, no?
+Entonces tratar también de tender un poquito más y buscar que se inscriban y que participen y que pitcheen proyectos, etc.
+
+[Adrián Darío Hidalgo Flores - 291.9s]
+Vale, vale, vale.
+Si quieres te explico un poco.
+Creo que contigo parte de entrevista nos podemos contar porque mucho está enfocado a que conoces los grants y todo eso y explicarte un poquito.
+Hay como dos cosas.
+Uno, sabes perfectamente que los gran, lo que buscan todas las blockchain, o sea, todas cuando juegan un proyecto gran es traer usuarios hacia su misma blockchain y eso se da por varias formas.
+Uno, porque pues bueno, lo utilizas como tu tecnología core o porque hay ciertas funcionalidades que complementan tu proyecto y que al final lo traen, ya sea porque estás usando, por ejemplo, temas de identidad, creando identidades a través de la de la blockchain, porque estás haciendo transacciones, porque estás lanzando tokens o neteases o lo que sea, pero que en su producto ya tenga eso.
+Entonces acá con ICP, espero no redundar en las cosas que ya sabes, pero ICP es una blockchain que más allá que sea solamente un tipo como ledger de donde puedo ver transacciones y todo eso, va en un enfoque que es infraestructura descentralizada, que hasta ahorita es única en su estilo.
+¿Creo que por ahí hay otra que medio está intentándolo, pero todavía no ha logrado eso, ese nivel al final como infraestructura, qué significa?
+Que puedes tener aplicaciones 100 % descentralizadas, ya no tu frontend en Amazon Web Services o tu backend con express en Google Cloud y aparte tu NFT o tu token está en una blockchain.
+Entonces acá lo que busca es que haya una solución 100 % en Chain.
+Dentro de esa alineación, pues tiene otras cosas que obviamente lo típico de una blockchain, pues tiene su propio token nativo, tiene formas de que tú puedas lanzar tus propios tokens, tus propios, ya sea criptos o NFTs o lo que sea que tú quieras ahí.
+Pero una de las propuestas de valor que trae, aparte de la parte de infraestructura que ya es un montón, es la interoperabilidad con blockchains.
+Hay algunos ejercicios que han sucedido en ICP, que es, por ejemplo, utilizar ICP como un coprocesador de EVMs.
+Normalmente la IBM tiene dos limitaciones grandes sin importar el leyer en el que nos encontramos.
+Por un lado, que es caro, aunque reducen costos.
+Por ejemplo, si estuvieras directo con Ethereum, sigue siendo caro en ciertos aspectos.
+Por otra es la computación limitada que solamente te da unas cuantas cantidades de tiempo para poder hacer ejecuciones de programas y si no, pues ya se murió.
+¿Entonces, cómo lo suelen a día de hoy?
+¿Pues bueno, pues tienen, cómo se llama?
+Tenemos desarrollos web que están usando algún bridge ahí o por ejemplo, si el contrato quiere comunicarse con algo web, pues ahí tiene que haber un oráculo y bueno, como todo un montón de cosas ya hacen más complejo la idea de desarrollo, hacen más lento y tiene como hay ciertos temas.
+Entonces icp lo que tiene es que puede comunicarse con otras blockchains a nivel protocolo, es decir, ya quitamos la necesidad de tener bridges.
+Esa es la primera parte si queremos conectarnos con la web, también tiene su propio mecanismo a nivel de protocolo que quita la necesidad de oráculos también.
+Y al final de cuentas, pues te da este todo ese set de herramientas que a nivel de desarrollo faltan cuando tú quieres tener más una aplicación descentralizada, realmente llamarlo una aplicación descentralizada.
+Aunado a eso, pues hay otros temas específicos que también tiene el reverse gas model.
+El desarrollador paga por el gas que se va a estar consumiendo.
+Entonces el usuario reduce esa fricción del usuario, pues ya sabes, tiene que crearse la wallet, tiene que pagar, no entiende por qué tiene que hacer eso y está un desmadre.
+Entonces, al final lo que busca es tener un modelo que sea muy parecido a cómo funciona logo, sin dejar de ser una blockchain.
+Entonces el usuario lo percibe como una aplicación de toda la vida, inclusive hasta para las identidades, porque no necesitas una wallet.
+Por ejemplo, ahí tienes sus desarrollos de Internet Identity, que te permite hacer una identidad solo con datos biométricos de tu dispositivo, por ejemplo, y ya tienes una identidad blockchain.
+Y con esa misma identidad, pues puedes hacer todo lo que ya te dije, puedes inclusive tener una wallet de Ethereum, puedes tener una wallet de Bitcoin, por ejemplo, de Solana.
+¿Están expandiendo todavía la cantidad de blockchains con las cuales se puede hacer interoperabilidad, cómo se llama?
+Por hacer login con Google, por ejemplo, con un correo, con un teléfono.
+Entonces ahí como que está más pensado para que tu usuario siga usando blockchain, pero lo perciba como una aplicación de toda la vida con la que, no sé, los últimos 20 años han interactuado los usuarios.
+Entonces hacia allá va ese camino.
+Entonces igual podemos profundizar muchísimo más sobre eso.
+No es la intención de esto, pero sí que es darte como un panorama quizá más amplio que después ya podemos detallar por si al final de cuentas su interés es continuar con una implementación de ICP.
+Hay mucho que pueden analizar por detrás y precisamente parte de la incubación es enseñarles ciertas tecnologías que pueden ayudarles.
+Aquí en el tema de incubación, que es lo que tenemos, es un programa que guía a desarrolladores y guía a emprendedores.
+¿Por un lado, emprendedores, oye, cómo vas a planear tu desarrollo y cómo vas a estarlo elaborando, haciendo el modelo de negocio?
+¿Cómo vas a estar definiendo el MVP?
+¿Cómo vas a gestionar eso?
+Y por otro lado, desarrolladores, tengo un montón de materiales de desarrollo que les ayuda a irse aprendiendo cómo desarrollar dentro de ICP, que al final de cuentas, ya para terminar, son lenguajes de programación de toda la vida de la mayoría de desarrolladores.
+¿Por qué?
+Porque ICP soporta desarrollo con Typescript, por ejemplo, JavaScript, desarrollo con Python, desarrollo con Rust y tienen su propio lenguaje de programación si es que eliges el suyo como que es Motoco, casi como tiene Solidity, es ICP Ten de Motoco.
+Pero si te das cuenta, está muy ideado para disminuir la curva de aprendizaje de desarrolladores y también optimizar la adopción a través de mecanismos que ya los usuarios comunes ya conocen.
+Claro que a partir de ahí ya puedes empezar a subir el nivel dependiendo a quiénes va dirigido, hacer quizá cosas más complejas que ya ahora sí usuarios avanzados podrían necesitar.
+
+[mexi web3 - 672.8s]
+Sí, mucho he visto de lo que he utilizado que está muy, muy buena la abstracción de cuentas, que es bien fácil entrar.
+¿El otro día, pues sí, creo que conecté el twitter, ya tenía una cuenta, no?
+Ya tenía bitcoin ahí.
+Eso es lo que me llama mucho la atención.
+También eso que comentas de la posibilidad de interactuar con otras blockchains.
+Ahí fue donde yo dije madres, o sea, no lo había usado, pero ya que lo, no sé si se desarrolla eso reciente o ya tiene rato.
+También creo que eso es interesante.
+Pero sí, sí, yo sí traigo la idea de seguir platicando con la banda del equipo.
+Si tenemos desarrolladores, pero son de Solidity, este, y también gente que está diseñando el producto y que si un préstamo, etc.
+No todo lo que se puede hacer con una stablecoin, pero sí, sí, sí me interesa a mí en lo particular.
+
+[Adrián Darío Hidalgo Flores - 721.3s]
+¿Este, por ejemplo, un caso, eso que a mí se me ocurre que pueden, eso lo pueden aprender ya en el trayecto, es tú con una entidad ICP puedes hacer transacciones dentro de un bien, puedes firmar transacciones de una bien, ya sea porque quieres hacer un, cómo se llama?
+¿Quieres transferir alguna propiedad de un NFT, por ejemplo, o quieres literalmente hacer este, cómo se llama?
+Hacer envío de algún token para algo más défi.
+Entonces ahí obviamente el usuario pues sí tiene que tener los fondos, pero la forma en que interactúa con esos fondos es menos wallet y más integrado dentro de una interfaz ya más como web app.
+Entonces ahí hay como varias posibilidades.
+Yo les invitaría primero, desarrolladores, conozcan nuestra documentación.
+Diana de hecho tiene todo un git book que les puede compartir ahí zweitausendein y ustedes pueden ver pues más documentación sobre lo que te dije, un poquito más profundo.
+También tenemos una serie de videos de bootcamps que hemos dado.
+¿De hecho, ahorita estamos dando uno de especialización en NFTs en ICP y de, cómo se llama?
+De interoperabilidad también, que es esta semana y la siguiente.
+Eso está enfocado 100 % a desarrolladores.
+Ahí si les interesa, pues también podríamos ver qué se puede hacer y se pueden ir documentando porque sí es importantísimo que para cuando inicie la incubación uno ya tengan cierto conocimiento básico, porque estamos partiendo de que hay un cierto conocimiento básico.
+¿A diferencia de otras ediciones, hemos partido desde cero, no?
+¿Esta edición específicamente parte de que ya conocen algo que para ustedes ya tienen una barrera bastante, digo, un porcentaje bastante avanzado, porque los que no saben nada de blockchain es la parte más complicada, no?
+¿Ustedes ya tienen eso, no?
+Entonces, digamos que nada más tienen ese 10 % de verlo de ICP, empezar a pensar cómo podrían utilizarlo para cuando entren en la incubación.
+Es esa mentoría de irlo aterrizando a un desarrollo.
+Al finalizar esta incubación, lo que tienen que tener es un proyecto en Mainnet.
+Ese proyecto en Mainnet ya tiene que ser parcialmente funcional para que puedan solicitar el gran, que ahí va la pata donde los queremos llevar.
+La incubación los prepara para que tengan los elementos necesarios para ser más elegibles en el gran.
+Nosotros no decidimos el gran, porque eso lo decide Definitiv, que es la fundación detrás de ICP.
+Sin embargo, ya tenemos experiencia mentoreando startups que aumentan la probabilidad a que si tú llegas desde cero y le pides a la fundación, ya sabes que muchas veces rechaza y no sabes por qué lo rechazas, no tienes mucho feedback o no tienes esa preparación.
+Nosotros sí los ya encaminamos hacia allá.
+Inclusive les damos feedback sobre la aplicación del documento que tienen que mandar a la fundación.
+¿Ya de ahí, de fuera de ahí, pues ya es totalmente decisión de definitiva si lo acepta o no lo acepta, no?
+
+[mexi web3 - 892.0s]
+Suena muy interesante.
+Y sí, sí me platicó Chris y Cristian de la iniciativa.
+¿Yo tengo una pendiente, una llamada con ellos porque me invitaron también como a ser promotor, no?
+Y que más gente lo participe.
+Pero bueno, ahí lo cierro luego con ellos el detalle.
+Yo sí no sé qué serían los siguientes pasos.
+¿Con eso que me dices, voy a regresar con el equipo, seguirles platicando que sí está disponible, pero hay que pasar cierto proceso, no?
+
+[Adrián Darío Hidalgo Flores - 921.8s]
+Claro, sí, sí, sí.
+
+[mexi web3 - 923.1s]
+Es algo.
+
+[Adrián Darío Hidalgo Flores - 924.1s]
+Los siguientes pasos, pues es diana te pasa la documentación, cualquier duda que tengas se la puedes pasar, Yana, y ya acuda a quien pueda darle una mejor respuesta para lo que tú tengas de duda, si es que ya no tiene cómo respondértelo.
+¿Y si están, si siguen interesados en el trayecto, Ÿousand, pues empezamos y algo, no?
+
+[mexi web3 - 943.7s]
+27 de enero y el tracto dura ocho semanas, así que termina como el 24 de marzo.
+Ok.
+
+[Adrián Darío Hidalgo Flores - 953.5s]
+Y en este trayecto, pues bueno, tenemos serie de charlas, tenemos gente especialista en ciertas secciones, igual algunos temas, ustedes conocen proyectos, por ejemplo, de ciberseguridad para el lanzamiento de tokens, de tokenomics, modelos de negocio, que seguramente esa parte ya lo conocen de web, pero bueno, quizá pueden ver otras vertientes de cómo lo idean otras personas y obviamente el networking que tendrían acercamiento con otras startups que están ahí y la visibilidad tanto dentro de nuestra comunidad para mostrar sus proyectos como también visibilidad hacia Dfinity, porque al final de cuentas esos proyectos que se gradúan dentro de nuestra incubación son presentados a definitiva y de antemano ya tienen un conocimiento de su startup, inclusive antes de la Aplicación del gran Este.
+Pues no sé si tengas más dudas, este, Mexy, al respecto.
+
+[mexi web3 - 1006.6s]
+No, yo tengo reunión con ellos la próxima semana.
+¿Sí, sí, es un tema de discusión cómo aprovechar todo lo que hemos construido en IBM acá, no?
+Para, como tú dices, o sea, sí, sí, sí, yo puedo pagar el gas, la gente se puede conectar con su equis o con su Gmail y poder empezar a hacer transacciones sin que sepan que yo están usando eso.
+Sí, sí, lo vi con Bitcoin plebes y me llamó la atención y lo voy a tomar como punto ahí de gancho para comenzar la banda y pues ahí los voy avisando.
+
+[Adrián Darío Hidalgo Flores - 1042.3s]
+Va, súper bien.
+Entonces, Diana te pasa la información y quedamos al pendiente de a ver qué resuelven la próxima semana.
+Listo, súper bien.
+Un gustazo, Mexi, haber platicado contigo y nos estamos hablando.
+Espero que muy pronto.
+
+[mexi web3 - 1056.1s]
+Gracias.

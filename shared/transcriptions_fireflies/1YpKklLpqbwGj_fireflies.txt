@@ -1,0 +1,797 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #N/A
+Título: BandaWeb3 #018 @laChicaWeb3
+Fecha: 2024-11-26
+Host: BandaWeb3
+Tipo: hosted
+
+Descripción:
+CRIPTO & WE₿3 👩‍💻⛓️🪙🌐 #bitcoin #cripto #criptomoneda #blockchains #Web3 #NFT #DeFi #metaverso #DAO #WAGMI Facts+Opinión linktr.ee/chicaweb3.eth Conversaciones 1 a 1 con @meximalist, sin guion y uno que otro anuncio.
+
+Duración: 01:30:32
+Escuchas: 63
+
+Links:
+  Space: https://x.com/i/spaces/1YpKklLpqbwGj
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+[Speaker 0 - 00:00:00]
+GMGM banda, buenos días, buenas tardes, buenas noches, depende de dónde se estén conectando a esta grabación.
+El día de hoy vamos a platicar con la chica web, ella es una de las creadoras de contenido que más.
+Me gusta, que hace más cosas chidas en el ecosistema, la verdad me gusta mucho lo que hace, tiene un newsletter, tiene un podcast, tiene por ahí también mucho contenido en Instagram, está posteando constantemente por allá, miren, viene llegando, vamos a invitarla por aquí a platicar, pero mientras hago las invitaciones, pineo aquí los coleccionables y el link al espacio también para que nos ayuden a compartir.
+Les voy a poner un poquito de musiquita.
+Esto es Universal Mind de Liquid Tension Experiment.
+Empezamos en breve.
+Listo, listo, ya hice, creo que ya estamos por aquí, vamos a probar si nos escucha Chicago, pero antes de eso les piné aquí arriba el link al espacio, si nos ayudan ahí con un like, con un comentario y con un repost, suma mucho para llegar a más personas.
+También les piné aquí arriba una promoción que Hay ahorita con Mantu Latam, con MX Web.
+Estamos apoyando a difundir el inicio, el arranque de Mantu Latam, una L que está muy alineada con Bybit, más o menos como veis con Coinbase, entiendo.
+Entonces traen muchas iniciativas, un exchange grande detrás, entonces está interesante y muchos grants y muchas oportunidades de participar.
+Quieren empezar a hacer eventos, por ahí vienen algunas posadas, va a haber noticias muy, muy, muy próximamente.
+Pueden usar cualquiera de los códigos de referido, Ethereum México está utilizando uno, GTH México MX tiene MX por ahí, creo que los de Pulso también tenían su código referido.
+Y creo que otras comunidades también estaban por ahí ofreciendo código referido para que la gente se anotara.
+Entiendo que les iban a llegar un pequeño airdrop a todos los que se apunten.
+Creo que hoy es el último día, ya mañana arrancan oficialmente.
+Creo que trae una aceleradora ahí con la banda que estuvo ayudando a Base, o sea Kush y Odisea, van a tener ahí una aceleradora con ellos.
+Traen varias iniciativas interesantes, la banda de Mantle y está entrando fuerte a toda Latam, Entonces les piné ahí arriba el link para que se registren, usen el código MX o el código su comunidad favorita, eso ayuda también para que estas redes, conozcan el impacto y qué tanta comunidad se está metiendo a picar clic a links, a registrarse, a apoyar a su comunidad usando esos códigos, les ayuda mucho, es data muy, muy importante, entonces es bien importante que ayuden a la comunidad con la que ustedes compaginen para que pongan ahí su código y ellos se den cuenta de que estamos haciendo ruido por acá en Latinoamérica.
+El coleccionable, también tienen un coleccionable aquí arriba estamos utilizando un log protocol, tienen desde que publiqué el link para claimearlo, es totalmente gratuito, le dan clic al link que viene por ahí de la invitación de Chico Web, ponen su correo, ponen su nombre y un wallet, si no tienen wallet, con el puro correo el sistema les crea un wallet y les hace llegar el coleccionable y para un futuro ya veremos qué haremos con esos coleccionables, pero para todos los episodios los estamos sacando y luego se termina el episodio y se acaba la oportunidad de claimearlos, entonces ya los únicos que habrá disponibles pueden pasar a que sería opinión.
+¿Pero bueno, ahora sí, bienvenida chica web, cómo andas el día de hoy?
+Ahorita probamos.
+
+[Speaker 1 - 00:05:23]
+¿Hola Maxi, súper bien, cómo estás tú?
+
+[Speaker 0 - 00:05:27]
+Muy bien también aquí con detalles técnicos, espero que me escuchen bien y haya buena señal, pero normalmente hago estos espacios en el wifi y en la oficina, hoy hubo un percance vehicular con con mi esposa y me tuve que venir aquí a apoyar a ver temas del seguro, pero creo que agarró buena señal y que estoy en una buena área, entonces muy chido, muy chido, pero ahí andamos resolviendo.
+
+[Speaker 1 - 00:05:52]
+Te escucha bien, excelente.
+
+[Speaker 0 - 00:05:54]
+No pues muchas gracias chica por aceptar la invitación.
+Di una breve introducción, al principio mencionaba que tienes un podcast que me encanta para cualquier nivel de entusiasta, que tienes un newsletter también que es muy bueno, que haces mucho contenido y lives en Instagram, me encanta cómo estás tú por allá trabajando en esa red y que en lo personal te conozco ya desde hace más de un año.
+A través de De Largo, que es un buen amigo mutuo, nos recomendó reunirnos en.
+Creo que fue en Sten YC 2020.
+
+[Speaker 1 - 00:06:32]
+Sí.
+Ah no, mentira.
+23.
+23, sí, sí, el año pasado ahí.
+
+[Speaker 0 - 00:06:38]
+Conectamos, estaba De Largo, estuvo chingona esa vez y volvimos a conectar el año pasado, entonces ya tenemos rato de platicar, de ser amigos y de compartir y la neta me encanta, me encanta tu contenido, me encanta lo que haces y pues bienvenida.
+¿Cómo ves el mercado?
+Sé que eres súper Bitcoin Bull, platiquemos así de generalidades del mercado.
+Yo por ahí postease poquito algo que me hizo recapacitar y que creo que era un momento bueno para recapacitar que boletemos a ver cómo nos sentimos cuando vemos todas estas subidas y caídas y ahorita lo vemos bajar, quién sabe cómo esté sintiendo la gente.
+¿Tú en lo personal cómo te he visto?
+
+[Speaker 1 - 00:07:19]
+Sí, no, yo estoy tranquila, a mí me parece, o sea, era obvio de que a los K no íbamos a llegar fácil.
+Ahí iba a haber una corrección por todo el apalancamiento que hay y bueno ahorita hay más que nada obviamente hay nuevos jugadores entonces el mercado está un poco menos simple, digamos, está ahí, hay jugadores que son un poco más.
+¿Cómo se dice la palabra?
+Son como más evolucionados, digámoslo así.
+Antes los traders éramos nosotros mismos, ahora que Wall Street tiene el pellejo ahí pues entonces hay mucho apalancamiento, hay mucho dinero entrando y bueno los movimientos son bruscos porque todavía sigue siendo un mercado bien volátil y con poca liquidez.
+Pero bueno, nada, yo tranquila, me dio mucha risa porque yo sí de verdad me ilusioné de que íbamos a tener eso K cuándo fue como el sábado pasado, el viernes pasado y yo sí estaba ilusionada, yo decía aquí no nos equivocamos, ya estaba en 99.8 y dije está siendo como muy fácil y bueno ahí vino la corrección y ahorita bueno, se liquida uno y eso es efecto bola de nieve y ahorita llegamos a los 92 y se volvieron a liquidar más y ahorita quién sabe si baja de 91.87, podríamos ver a Bitcoin en 80 otra vez, que yo en lo particular estoy contenta porque tenía un capital que me iba a llegar más tarde en este trimestre, así que si me llega a final de año y Bitcoin está todavía a precios bonitos de 80 o 90 yo estoy contenta, pero bueno no de que esto va para arriba o para arriba, estas son correcciones normales.
+¿Tú cómo lo ves?
+¿Mexica?
+
+[Speaker 0 - 00:09:06]
+Sí, yo sí veía ya necesario y justo y que hacía falta una caída mucha euforia mucha gente preguntando si no estamos creo que todavía en el top top del bull.
+No, o sea, esos amigos que acaban de entrar que te dicen ya voy 20x, bueno, esos todavía no llegan.
+Al rato que lleguen yo ahí sí hay que, hay que tener más cuidado.
+Pero sí, sí veía que necesitaba ya una corrección al menos de un, pues de lo que la estamos experimentando yo creo que todavía un poco más.
+Pero pues es algo que al menos los que estamos acá en este ecosistema hemos visto porque los ciclos son muy rápidos.
+Tú tienes analizando mercados desde antes de cripto, entonces también tu perspectiva es súper, súper interesante para mí porque acá se mueve mucho más rápido y bueno, así es normalmente, pero que vamos para arriba y que todavía falta, no me queda duda, falta que entre Trump, falta que empiecen a hacer cambios, no sé por dónde.
+Yo sé que eres súper bully, estás súper metida con todo el ecosistema en Estados Unidos y te gusta hablar de temas regulatorios.
+¿Cómo ves el futuro ahora que ganó Trump?
+¿Querías que ganara?
+¿Votaste?
+No sé si quieras tocar temas políticos, pero de repente también prende ese tema.
+¿Qué opinas?
+
+[Speaker 1 - 00:10:29]
+Bueno, temas políticos no me gusta tocar.
+Yo no voto porque aunque Llevo viviendo en Estados Unidos 11 años, todavía no soy estadounidense.
+Menos mal que no voto porque de verdad que ya mucho tenemos nosotros los venezolanos con nuestros problemas en Venezuela para yo ponerme ahorita a meterme en la política de los Estados Unidos.
+Mira, la verdad es que obviamente no cabe duda de que es bullish que Trump haya ganado las elecciones.
+Ya yo veía, o sea, a mí sí, yo soy antisistema mexi, entonces como que para mí Bitcoin es quitarle el poder a los gobiernos, entonces para mí ya yo veía que el bull iba a pasar y bueno, obviamente los indicadores, no es que yo veía la visionaria, pero siempre Bitcoin sube, el mercado siempre entra en bull market luego de las elecciones siempre hay una inyección de liquidez brutal antes de las elecciones obviamente están gasto, gasto, gasto para ganarlas y bueno, ya coincide también con, o sea, viene siempre el halving cada cuatro años las elecciones Estados Unidos coinciden con el halving, siempre hay una inyección de liquidez.
+Esta vez la liquidez llegó más tarde, estábamos esperando que llegara antes y bueno, la arruga se fue moviendo porque la Reserva Federal no subía no bajaba las tasas de interés, entonces la gente estaba, por eso es que vimos el mercado, ¿Se acuerdan que el mercado se quedó en 60 después del halving?
+Creo que vimos como un 70 y algo y después estaba rebotando ahí 60 60 70 60 70 no sé qué, de repente cayó 50 pero no hacía nada y la gente empezó es que el bull market no va para ninguna parte, no sé qué, y yo pensando la inyección de liquidez, todo esto son ciclos macroeconómicos, inyección de liquidez, inyección de liquidez y bueno para eso que me dijiste yo sí llevo mucho tiempo invirtiendo en el mercado tradicional y aunque el mercado cripto hipotéticamente no debería tener tanta correlación con el mercado tradicional pues la tiene, la correlación todavía sigue siendo muy alta, entonces la gente sigue viendo Bitcoin cripto como un mercado bastante riesgoso y obviamente para los maximalistas, para los maximalistas Bitcoin, Bitcoin no tiene ningún riesgo, esto es como oro digital, entonces la gente dice pero Bitcoin debería ser un hedge para la, o sea un respaldo para la inflación más no el resto de las de las criptos que se ven más como acciones de tecnología, las que de verdad tienen fundamento y las otras puede, o sea, la diferencia entre, digo, la correlación entre el SP que son las mayores empresas de tecnología que cotizan en la bolsa estadounidense y cripto, las altcoins y Bitcoin es muy muy muy estrecha, o sea es como, bueno en algún momento fue como de 0.9 o sea que es una correlación muy estrecha, ahorita está como en 0,70 y pico pero sigue siendo más que 0,5, o sea hacia donde se vayan las acciones bursátiles de tecnología se va cripto, entonces es fácil entre comillas, aunque yo siempre digo que cripto es como un mercado tradicional en cocaína, o sea es fácil porque siguen los mismos trends, ya yo sabía que venían cuestiones macroeconómicas, entonces hasta que no se muevan las variables macroeconómicas, no haya liquidez, la gente no va a tener plata para invertir, entonces bueno, nada, obviamente se veía que esto iba a pasar independientemente quién ganara las elecciones, obviamente el hecho que ganó Trump y hubo tanto apoyo de la cripto comunidad o la Bitcoin comunidad más que nada en su campaña hubo, no me acuerdo, tú tienes la cifra de cuánto hubo de donación de parte de la comunidad cripto, yo sé que fueron más de la docena de millones, está no sé si llegó a los 100 millones de dólares, pero bueno, hubo unos churupos ahí significativos, Obviamente había lobby, nunca habían donado.
+
+[Speaker 0 - 00:14:21]
+Tanto, eso sí estoy seguro, nunca habían donado tanto y creo que era hasta como a la par, un poquito más de las donaciones tradicionales, eso se los debo, se los voy a confirmar, pero creo que sí era muy, muy elevado y parejeando a las donaciones tradicionales, sí.
+
+[Speaker 1 - 00:14:38]
+O sea, algo tenía que hacer él y bueno, obviamente su discurso fue bastante, tocó bastante cripto, Bueno, al ir a la Bitcoin conferencia yo lo vi allá a Trump y obviamente yo volteaba los ojos, ¿No?
+Porque, o sea, yo no les voy a hablar aquí de que si yo estoy de acuerdo o no estoy de acuerdo, sino porque ¿Por qué tenemos un político ahí pompeándolo tanto?
+Pues sabes, esa es mi posición, o sea, si Bitcoin es antisistema, ¿Por qué le jalamos tanto mecate para no decir la palabra.
+A los políticos?
+Pero bueno, ya para eso otro tema.
+En fin, ¿Que es bullish que él haya ganado?
+Claro que sí, porque muchas promesas él hizo y bueno, muchas donaciones hubo y bueno, sí se ve que la industria, no solamente cripto, pero la industria tecnología es algo que va a definir el gobierno de Trump y cosa que yo creo que ya se veía venir, o sea, con toda la revolución de la inteligencia artificial.
+Más a una cripto, o sea, los cambios están pasando tan rápido que la verdad lo único que voy a decir es que sí considero que es bueno que haya ganado un presidente que está como.
+O sea, que está onboard, no sé cómo decirlo, que está, sí, que le va a echar para adelante esos proyectos porque de verdad que los demócratas hasta ahora en verdad no habían hecho una buena campaña y se queda mucho en las cuestiones del pasado, las políticas son muy basadas en temas del pasado y bueno, independientemente de lo que debería o no debería ser, o lo que beneficia o no beneficia a las minorías, a las mayorías, lo que usted esté de acuerdo con que quiera apoyar, lo que sí es verdad es que usualmente cuando hay ciclos económicos en donde durante un gobierno, sobre todo en Estados Unidos, es algo que he evaluado bastante, cuando hay una inflación muy alta, el gobierno siguiente siempre paga las consecuencias, o sea, son pocas o contadas las veces en que luego de recesión.
+Bueno, aunque no lo llamamos recesión, sí hubo dos periodos negativos de GDP, de GDP, de PIB, de crecimiento en Estados Unidos.
+Pero bueno, cambiamos las reglas.
+Aquí todo el mundo se gaslighting, ¿No?
+Ahorita eso no se considera recesión porque XYZ, en fin, como sea que lo quieran llamar, hubo de verdad un periodo de tiempo en donde la inflación, sobre todo la inflación, fue un problema grandísimo.
+Y aunque el desempleo no reflejaba.
+Existe una relación inversa entre desempleo e inflación.
+La inflación fue altísima, mucho más alta de lo que los números decían.
+Y también está bien, la inflación volvió a un dígito y está cerca del target que es 2%.
+Chévere.
+Pero la moneda ya se depreció.
+Entonces la moneda se depreció un 40 % durante el gobierno de Biden.
+Y eso es algo que la gente sigue sintiendo en los bolsillos porque los salarios no han crecido de igual manera.
+Entonces la gente está molesta.
+¿Qué haces tú cuando estás molesto?
+Vas a castigar al gobierno actual y vas a votar en contra de ese gobierno.
+Entonces eso ya también se esperaba que Trump iba a ganar por eso.
+Entonces, bueno, sí.
+¿Que veo para el futuro?
+Sí, yo creo que esto fue como.
+Un catapultamiento del criptomercado ahorita que vamos a tener regulaciones un poco más.
+Friendly, más amigables.
+Ojalá Gensler se vaya de ahí.
+Yo creo que ya se.
+
+[Speaker 0 - 00:18:20]
+Va.
+Ya dijo.
+Ya dijo que se.
+
+[Speaker 1 - 00:18:21]
+Iba.
+Ya dijo que se iba.
+Que se iba el 15 de enero, creo que es la cosa.
+Pero vamos a ver, y vamos a ver cómo se mueve la industria.
+Pero la verdad es que sí estoy bastante optimista con el tema.
+¿Cómo lo veo el próximo año?
+Mira, la verdad es que al menos que hay una contracción de liquidez, es decir, toda la plata que pusieron ahorita, al menos que la Reserva Federal vaya a decir, mira, vamos a volver a subir los tasa de interés porque la inflación otra vez se salió al control.
+Que hay mucha gente que dice que eso podría pasar.
+Si eso pasa, el ciclo va a ser un poco más corto.
+Yo tengo un poquito de miedo.
+A ver, esto es opinión personal.
+La gente me ha dicho, chica.
+Me ando fuera del.
+Pero.
+No estamos de acuerdo.
+Está bien, pero es una hipótesis.
+Yo espero que no sea correcta.
+Pero yo siento que la rotación de capital, esa que estamos tanto esperando, que viene Bitcoin, después vienen las altcoins, luego vienen las low coins y lo sé qué lo vamos a ver más corto, o sea el ciclo, la explosión de Bitcoin va a ser muy pronunciada por un periodo corto, o sea sabemos que marzo abril es cuando, bueno, más marzo que abril, en marzo yo veo que, bueno, no es que yo veo la visionaria de nuevo, estos son basados en historial, Bitcoin alcanza su punto más alto en el ciclo un año después del halving, sabemos que el halving fue el veintipico, el veinte, veintiuno de abril, entonces estamos esperando que en un año sea el punto más alto del ciclo.
+¿Qué pasa siempre en abril de este ciclo, o sea de los ciclos de cuatro años, en abril siempre la gente vende, hay un capitulation porque necesitamos pagar taxes aquí en Estados Unidos los impuestos, es una cosa que te quita el sueño, entonces bueno, sobre todo la gente que tuvo ganancias de capital que me imagino que mucha gente va a capitular cuando vea Bitcoin en su all time high, obviamente no se sabe quién va a vender a tiempo, pero bueno, eso va a pasar en abril, vamos a ver una caída bastante fuerte porque mucha gente va a vender y después vuelve a subir, pero en ese momento la gente entra como en pánico, se acabó el ciclo, no sé qué, ya vi con el caso de su all time high, estamos mal y bueno, eso siempre va a pasar porque ahí vemos, si ven el grafiquito, siempre hay una bajada, entonces bueno, si ustedes quieren liquidar pues adelante, si tiene que pagar taxes pues se van a ver obligados y si no sigan holdeando porque esto vuelve a subir después de esa?
+Ahora, ¿Qué pasa?
+Como Bitcoin es el que está moviendo la batuta hasta el mercado, yo sigo diciendo, esta es mi hipótesis, Mex, interrúmpeme porque yo.
+Entonces yo hablo burda como Bitcoin el que está moviendo la batuta, no solamente porque siempre ha sido el que mueve la batuta y ahorita sigue teniendo una dominancia muy grande, sino que ahorita las instituciones que están, que son los nuevos jugadores en este ciclo que no estuvieron el ciclo pasado, solamente pueden invertir en cuestiones que tengan ETF, o sea Bitcoin, Ethereum y los posibles ETF en donde le puede meter a través de veces, o sea, como que hay como inversión paralela, pero todo lo que no sea.
+Que tenga un gran market cap, yo no siento que va a pompear tanto y si eso pasa, si esa rotación de capital pasa, solamente va a ser por nosotros, no va a ser por las instituciones, las instituciones no se van a meter a djens, las instituciones no se van a poner a invertir en altcoins que son de lower market cap, sino se van a quedar en estas que le estoy diciendo ETF o que tienen un market cap grande que ya posiblemente puedan entrar en un posible ETF para el próximo año.
+Estamos hablando Solana de repente, XRP de repente AVAX, entre otras, Optimism es otra también que se está hablando ahí por ahí de un posible ETF, pero el resto, yo creo que el ciclo va a ser ocasionado por nosotros.
+Iba a ser corto, esa es mi hipótesis, de repente puede ser el ciclo de altcoins y de lower caps, puede ser una cosa así como un mes, como cinco semanas, puedo estar completamente equivocada, ¿Por qué?
+Porque cuando esto explota, explotar muchísimo y me van a decir checaba 3, te pelaste, estamos viendo las altcoins en, no sé, 300% de crecimiento, Bitcoin se está en 200, o sea, vamos a tener ese momento de euforia y vamos a sentir que eso no se va a acabar nunca.
+Entonces esas cuatro semanas, cinco semanas, siete semanas de repente no va a aparecer como forever, pero hay que saber cuándo capitular.
+Entonces para los que están aquí en el mercado, para bueno, la estrategia aquí yo creo que es, vamos a aprovecharnos de esto cada cuatro años no está la teoría de que esto es como un guiño de aprobación de que Bitcoin teníamos razón, Bitcoin cada cuatro años tiene un nuevo time high, su ciclo es explosivo, ta, ta, ta.
+Esto es así como que para nuestro ego, ya sabemos, los que acumulamos Bitcoin ya sabemos que esto va por alguna parte, entonces un bullmaker es como decirte good job, lo hiciste bien, eres un genio, sabes que esto vale perfecto, ¿Qué pasa con.
+
+[Speaker 0 - 00:23:39]
+El?
+Una duda, una duda ahí porque se escucha mucho de repente que puede llegar en algún punto un superciclo, ese famoso super ciclo donde se monten las empresas y los países y que no sepamos que se rompa eso, ese historial que hemos visto a lo largo de los cuatro años que se viene repitiendo como tú dices, cada determinado tiempo después del halving, cada determinado tiempo antes del halving, también hay como que una correlación de puntos bajos para alguien que ya tiene dos, tres ciclos creo que es más fácil aprovechar, pero para alguien que viene pensando nuevo también como que madre, ¿Será este el super ciclo o no?
+Siempre.
+
+[Speaker 1 - 00:24:19]
+Hay.
+Toda la razón y buena pregunta, yo sigo pensando que el súper ciclo es el 2028, no creo que sea este, ¿Por qué?
+Porque veo la economía muy fregada, mexica la veo muy muy fregada, capaz estoy siendo pesimista.
+Pero yo no creo que ese vamos a todos a bordo va a ocurrir en este ciclo por cómo veo que están pasando las cosas ahora que con Tron por lo menos no el próximo año, sino tal vez en el 2026-2027 cuando ya veamos que va un VER, el VER puede ser no tan pronunciado como lo hemos visto, o sea, si perdemos, no sé, hasta 90% del valor de nuestras altcoins que lo vimos el VER pasado y el antepasado, capaz mira, vamos a perder 60% y capaz Bitcoin va a seguir subiendo, es decir, el superciclo sigue pasando, o sea, el superciclo va a pasar, yo lo veo solo con Bitcoin y no lo veo tan súper ciclo, o sea, no lo veo que Bitcoin va a ir, mira de 250 a 300, 500, 400, yo creo que podría llegar al medio millón o sí, como que Bitcoin sí, si tú me dices que en el 2027 Bitcoin está en 2 millones de dólares, si te digo, es posible, pero no lo veo como que esto va a pasar en este ciclo, no veo que este ciclo es el que va a catapultar el súper ciclo, lo veo como hay muchas cosas que tienen que pasar después de este ciclo para que veamos que la gente ya tiene confianza, porque no creo que vaya a ser este por temas macroeconómicos, todavía estamos muy correlacionados a cómo se mueve el mercado tradicional.
+Si tú me dijeras que ya la gente entendió que esto es otra cosa, de que el debasement of the currency, sabes que la devaluación de la moneda es una cosa inminente, que ya la gente está abriendo los ojos, que ya hasta las empresas abrieron los ojos, que no sé qué, yo te digo sí ya estamos aquí, pero siento que todavía falta y ya como este ciclo está por terminar, no lo veo, pero puedo estar completamente equivocada, o sea, ojalá, ojalá estoy completamente equivocada y bueno, si estoy completamente equivocada voy a vender mucho antes de que veamos ese.
+
+[Speaker 0 - 00:26:34]
+Supercíclopa.
+Yo estoy de acuerdo contigo y por lo que mencionas y porque también creo que por usabilidad falta mucho, o sea, por mejorar la experiencia del usuario, por tener esas aplicaciones que jalen a los millones y millones, ya hemos visto algunas, pero creo que sí falta.
+Entre toda esta gente que va a entrar ahorita, que se queden desarrollando algunas cosas y sí se me hace más probable el siguiente, como tú dices, definitivo.
+De Bitcoin sabemos que te encanta, hablas mucho del tema, ¿Tienes alguna otra inversión por ahí?
+Sé que también has hablado muy bien de Solana, Ethereum, ¿Cómo lo ves?
+¿Alguna de las otras que vienen?
+El nuevo Solana, su por ahí preguntaron acá abajo cómo anda tu portafolio de lo que nos puedas y quieras contar en shitcoins y.
+
+[Speaker 1 - 00:27:25]
+Altcoins.
+Sí, bueno, yo creo que en Twitter yo sí, bueno en X hablo mucho más de mi lado DJ cuando soy chica web, en Instagram sí me baso mucho en Bitcoin.
+Porque Instagram está hecho por los normis, los DJ estamos aquí en X, entonces claro, yo creo, me gusta crear la convicción de Bitcoin, Bitcoin es el que lleva la batuta, Bitcoin es el que nos va a salvar de la inflación y yo como soy economista me gusta como seguir esa retórica si les hablo desde aquí.
+Claro, mi portafolio está más que nada Bitcoin y Solana, entre Bitcoin, Solana y Ethereum, pero Ethereum en menos porcentaje tengo el 80% de mi capital en cripto, que la verdad, y esto es un disclosure que no se lo recomiendo a nadie, pero yo estoy tranquila tomando ese riesgo, es más de el 40 % de mi capital total de vida.
+Que es bastante, yo empecé 5% y tal, ahorita, ahorita, entre mis inversiones tradicionales, entre bueno, todas las cosas que he trabajado en mi vida y que he sido bendecida, gracias a Dios, tengo 40% de mi capital.
+
+[Speaker 0 - 00:28:44]
+En criptomonedas.
+¿Qué le dirías?
+Está empezando, o sea, porque muchos sabemos y tenemos ya años leyendo, estudiando y aprendiendo y estamos súper convencidos y tenemos ese nivel de tolerancia al riesgo también, pero fue un proceso de años.
+Ha sido un proceso de años, no.
+
+[Speaker 1 - 00:29:04]
+Es este.
+Ah claro, perdí muchísimos ciclos y por eso lo dejé, por eso lo dejé en 5% por mucho tiempo.
+Claro, al que está comenzando, obviamente, por eso siempre hablo de Bitcoin, Bitcoin es el que lleva la batuta y si estás comenzando ahorita, ¿Sabes cuál es el problema?
+La gente que está comenzando ahorita, lo que yo tengo miedo es que como quieren crecer su capital rápido, si obviamente tú estás comenzando con 100 dólares, tú dices, OK, ¿Cómo convierto 100 dólares en mil dólares?
+¿Y después cómo lo convierto en 10 mil?
+Claro, tú dices, me voy a meter en las monedas que pueden explotar de la noche a la mañana, memecoins, o sea, obviamente mayor riesgo, mayor rendimiento.
+Entonces claro, lo que yo esperaría es que si tú estás entrando nuevo, tú tienes que estudiar primero este ciclo, es como les digo, una manera de decir egoicamente, miren, cada cuatro años tenemos esta súper oportunidad aquí no somos genios ninguno, simplemente tenemos esta bendición del cielo y de Satoshi que nos está dando un ciclo de cuatro años en donde podemos decir, chévere, la acumulación de Bitcoin que hiciste por estos tres años te funcionó fino, vas a tener un futuro brillante, pero también tienes este mercado increíble de DJ en donde puedes multiplicar tu capital mucho.
+Si tú entiendes que son dos cosas distintas y tú entiendes que es Bitcoin, tú tienes que es Bitcoin versus altcoins y alcohol versus memecoins y tú dices, voy a crecer mi capital de estos 100 dólares, lo voy a multiplicar, bienvenido que así es como se comienza, o sea, obviamente no vas a poner esos 100 dólares en bitcoin si tú quieres jugar ese juego.
+¿Qué pasa?
+La mayoría de la gente entra con la euforia, no entiende, le dijo el vecino que comprara algo, no sé qué, entonces mi recomendación iba a ser muy tradicional, muy conservadora y muy de abuela.
+Pero si estás entrando en el mercado, estudia por qué Bitcoin lleva la batuta, qué es Bitcoin y cuál es la diferencia entre el mercado de vamos a aplaudir que Bitcoin hizo un all time high ahorita y el mercado de.
+Blockchains que actúan como empresas de tecnología y memecoins y shitcoins que son una forma de pompear el mercado que existe, no está regulado y todavía tenemos esta mágica oportunidad.
+Entonces, número uno, estudiar.
+Una vez que uno estudia, tú vas a decir ya va, espérate lo que sé que yo vaya a hacer tengo que por lo menos poner de estos 100 dólares por lo menos 20 en bitcoin y cuando yo gane en este juego que actúa como un casino, si yo meto estos 80 dólares en chill guy memecoin y veo que se me pompea hasta 120, saco esos 20 y lo invierto en otra cosa o saco esos, Sabes, digo esos 80 y lo invierto en otra cosa Actuar como si fuera dinero en la casa, un casino Por eso es que tienes que estudiar bien cuál es la estrategia para no volverse ambicioso, pensar de que eres la persona más conocedora del ambiente y perder toda tu oportunidad de verdad construir riqueza porque si es posible hacerlo.
+El punto es, tienes que educarte, no puedes no invertir en Bitcoin, o sea, eso está como un no, no, así sean los 20 dólares de tus 100 dólares así sea un 20% de lo que estabas invirtiendo y jugar esto como si fuera un casino con dinero de la casa o hasta que esto se pompea 20% lo saco y lo meto en otra cosa y así vas pero tienes que estar dedicado, o sea, y si este no es tu ciclo, entonces estudia para el próximo ciclo por lo menos tienes que entender que este ciclo pasa cada cuatro años y que podría estar cambiando pero por lo menos saber en dónde estás metiendo tu dinero sería mi recomendación Y sí, sí es posible crecer tu capital de 100 dólares a 1000 dólares y de 1000 dólares a 10 mil dólares pero tienes que estar ahí, tienes que estar ahí aprendiendo, viendo dónde está la oportunidad.
+Esto no es un mercado, si tienes un trabajo a tiempo completo, esto es un mercado si de verdad quieres volverte DJ, eso es.
+
+[Speaker 0 - 00:33:16]
+Posible hacerlo.
+Fue la mejor recomendación Si no, definitivamente.
+El tener que meterle, el tener que operar, el meterse en realidad a picar botones, hacer compras, ventas.
+Yo veo el futuro, yo ya lo vi varias veces y algo que yo creo que les va a pasar a todos porque a mí me ha pasado siempre en todos los ciclos y me van a se van a acordar de mí cuando les pase, se van a meter a Shade Coins, se van a meter a Memecoins, se van a meter a Dino Coins, se van a meter a.
+Todo está chido.
+Experimenten, aprendan, sobre todo véanlo desde una experiencia donde cada wallet es distinta, la experiencia de usuario es distinta, en pensar en cómo se está, qué tan fácil es, van a acabar comprando y vendiendo de todo al final de cuentas creo que lo que deben de ver de objetivo es si todos esos movimientos y todo ese tiempo que invirtieron en operar el mercado y en aprender, si lo comparan en valor contra Bitcoin, si lo hubieran dejado en Bitcoin muy probablemente tendrían más dólares, ¿No?
+Más pesos, más dinero en realidad, entonces creo que creo que.
+El aprendizaje está chido, ¿No?
+Pero al final se van a dar cuenta, si lo hubiera metido todo eso a Bitcoin, lo hubiera dejado ahí, tendría más lana, ¿Por qué?
+Porque Bitcoin normalmente es el estándar que hay que ganarle, no le podemos ganar al dólar porque el dólar se va depreciando cada rato, Bitcoin se va apreciando, no sé qué opines, pero si, yo todos mis movimientos los trato de comprar contra Bitcoin y el objetivo siempre es hacer.
+
+[Speaker 1 - 00:34:54]
+Más Bitcoin.
+Exacto, ese es mi objetivo siempre, yo siempre que capítulo lo meto en Bitcoin, o sea, al menos que tenga unas deudas terribles que sí me ha pasado que he tenido que vender para pagar para pagar mis deudas, yo todo lo que opero es para acumular más Bitcoin, entonces cuando capitulo en el ciclo por otros altcoins o cuando hago dinerito de memecoins, todo va para Bitcoin, o sea, el propósito es Bitcoin estándar, ese es tal cual el propósito, porque a dólares no lo voy a cambiar y lo otro es que Bitcoin es lo único que sé que es seguro en el largo plazo, entonces estoy de acuerdo contigo, estoy de acuerdo contigo ahorita así sí vamos a hablar no en X, mi primera recomendación y lo que le digo a todo el mundo, a mis amigos que volvieron otra vez a preguntarme, mira, ¿Y esto de Bitcoin qué es?
+¿Haz DCA, no?
+Compra pequeñas cantidades de Bitcoin todos los meses y yo lo hago, yo lo hago, mira, lo llevo haciendo desde el 2022 todos los meses, cada dos semanas, no, mentira, cada semana, ahorita cada dos semanas era el principal.
+Compro una pequeña cantidad de Bitcoin compraba una pequeña cantidad de Ethereum, compraba una pequeña cantidad de solana durante el bear bear bear market 2022 al principio era solamente Bitcoin y después dije bueno, tengo que acumular para el bull y así y así y lo que uno va acumulando no tiene sentido.
+Yo me he sorprendido de ver mi cartera y decir wow, o sea, si yo no hubiese hecho estos pequeños sacrificios mensuales, pues sabes, es el efecto compuesto, pues el compound efecto del que todos hablamos, los hábitos, pequeños hábitos que llevan a cosas grandes.
+Bueno.
+Esta es lo más grande.
+Yo creo que un pequeño hábito me ha llevado, si recuerdo una vez que paré, si paré los, estaba muy corta de liquidez y paré los, los withdrawals mensuales.
+Pero bueno, más que nada es eso, como que si tienes cómo hacer el sacrificio, hazlo porque esto va a pagar en el futuro.
+Entonces la primera recomendación es eso desea con Bitcoin por lo menos así sean dos dólares a la semana, cinco dólares a la semana, tres dólares el café que te tomas el fin de semana, no sé, el fin de semana sales a comer afuera dos veces, bueno, come una sola vez afuera y pon esto en Bitcoin porque porque te va a dar fruto.
+Recomendación que estoy dando, ese.
+
+[Speaker 0 - 00:37:22]
+Es mi estándar, una cena salte con tu familia, una cena donde esté buena, un buen restaurante, evítala y eso que te ahorras por esa cena, mételo cada mes.
+Eso creo que es un.
+
+[Speaker 1 - 00:37:34]
+Buen estándar.
+Si no, perfecto.
+Yo siempre hablo del café, la acumulación de café es en la semana, pero yo tomo café como si no hay mañana y bueno, me compré mi cafetera para hacerme el café lo más bonito porque a mí me encantaba salir a caminar, tomarme un café y tal y empecé a acumular y dije imposible, puedo estar ahorrando todo esto en Bitcoin y bueno, obviamente cambiar hábitos así.
+Recuerdo cuando durante el ver Ethereum estaba en 580 y yo estaba planeando un viaje y dije, sabes cómo es la cosa, yo no me voy a ir de viaje y voy a meter esto en Ethereum porque yo nunca en la vida volver a ver en 580 y no sé si lo volveremos a ver, pero no lo he vuelto a ver y yo soy, o sea, yo soy una persona que las experiencias son lo que más valoro, entonces yo me hubiese agarrado ese viaje en otro momento, pero algo me dijo, mira chica web, te vas a hacer ese viaje más tarde porque hay que aprovechar esas oportunidades, pero claro, esas oportunidades uno las ve después estudiar, sabes que eso va a volver a popear, uno no puede meter los churupos en cualquier cosa que esté baja.
+Te iba a decir otra cosa, Mexi, una última que voy a escribir en newsletter al respecto también la recomendación que estoy dando, porque hay mucha gente que escribe de eso y Michael Saylor en la Bitcoin Conferencia este año lo dijo, entonces quiero usar como los indicadores que él dio o las hipótesis para decir que solamente necesitas 0.1 bitcoin para retirarte en el 2040.
+2040.
+2045 y él ahí tiene todo el análisis porque es solamente 0,1 bitcoin, entonces para los que están entrando ahorita en el mercado que dicen ya estoy tarde, no sé qué, ¿Cómo hago?
+Le digo, pana, solamente necesitas 0.01 bitcoin, si vas a meter capital, si quieres olvidarte de eso, no quieres ver cómo va a estar el mercado, no quieres hacer nada, tú inviertes esa broma y la ves en 20 años, solamente necesita 0.01 bitcoin, o sea, haz el esfuerzo para llegar ahí.
+En algún momento 0.1 bitcoin eran 7500, obviamente ahorita son 9000, sigue siendo mucha plata, pero de repente, por lo menos mi familia agarraron todos, hicieron una vaca, una vaca, cada uno puso lo que podía y lo repartieron ahí y yo se los estoy manejando, pero dijeron bueno, entre todos tenemos 0.01 bitcoin y bueno, tengo una familia bien grande por eso está entre todos.
+Y bueno, esa es la otra recomendación que estoy dando, no es.
+
+[Speaker 0 - 00:40:06]
+Que está con madre ver el análisis pensando que esto pueda llegar a triunfar como muchos dicen y muchos creemos que puede llegar a lo que puede llegar a ser.
+Michael Saylor es como tú dices, uno de los grandes Bitcoin, maxis, bulls, está compra y compra y compra, acaba de comprar ahora que estuvo en 97 va a comprar si cae a 80 y va a seguir comprando el loco ese porque está haciendo un dineral y una estrategia bien, bien loca que pareciera demasiado buena para ser verdad y ahorita que lo sacas no sé qué opines.
+O sea, es la fuente de dinero infinita o en algún punto eso puede tronar porque obviamente si a Bitcoin le va mal y se viene para abajo y tiene un BO o lo que sea, pues obviamente todo ese dinero se pierde.
+Pero pues entre más tiempo estamos funcionando con el sistema y más gente entra más fuerte y más poder computacional tiene protegiéndolo, menos probabilidad de que esto falle.
+Entonces ¿Qué opinas de esa estrategia.
+
+[Speaker 1 - 00:41:03]
+De Sailor?
+Sí, yo estoy sign off en esa.
+Bueno, claro, mi estrategia ahorita tengo otras, pero yo digo como si eres nuevo en esto, es una excelente estrategia y tienes toda la razón con lo que dices que ahorita el mercado obviamente tiene todavía poca liquidez, somos menos del 10%, aunque yo creo que ya somos el 10%.
+Yo creo que las estadísticas a final de año de las empresas estas que hacen el sondeo de cuánta gente está en cripto, yo creo que va a salir cercano a 10 % de la población mundial.
+Pero bueno, todavía seguimos siendo pocos y es un mercado que tiene muchas ballenas y es un mercado que se mueve mucho, es muy volátil por movimientos bruscos.
+También estamos viendo ahorita por el apalancamiento, estamos viendo como las cosas se fueron para abajo de la noche a la mañana.
+Eso en un mercado con mucha liquidez, con mayor participante no pasa.
+Entonces mientras más personas entren en el juego, pues va a ser menos volátil, más confianza va a haber.
+A lo que iba con la estrategia mexica es que lo que a mí me frustra de este mercado es que la gente claro, es como que ahorita estamos visibles otra vez por tres años, esto es un scam, se fue a la nada, Bitcoin no sirve.
+Lo que siempre escuchamos Bitcoin ha muerto o cripto ha muerto Y claro, llega ahorita otra vez este ciclo y la gente dice ahorita creo que sí le voy a echar un vistazo.
+Entonces claro, ya entran en el ciclo cuando las cosas ya están altas.
+Entonces ¿Qué va a pasar?
+¿Van a comprar estos precios y está bien, va a haber un boom en los próximos tres, cuatro meses, después volverá a bajar y entonces se van a dar cuenta de que concha, le compraron tarde y esto se fue otra vez, sabes?
+Tuvo pérdidas de 70 % hasta el próximo ciclo, si es que no hay un super ciclo y entonces otra vez vuelven a perder la confianza y no sé qué.
+Entonces yo creo que por lo menos nos falta una más de esa mexi.
+Yo no creo que super ciclo vaya a venir porque la gente sigue teniendo esa idea de que cripto solamente existe cuando está en bull market.
+¿Si me explico?
+Es como.
+Entonces eso frustra porque bueno, yo que creé mucho contenido en bear market era todo, o sea, yo hablando que si inflación no sé qué, ¿Por qué esto es importante, por qué esto volver ahí?
+Y más como de los fundamentos, porque mientras tú hablas y hablas y hablas y hablas, la gente te dice, ¿Pero cómo va a ser mejor que el dólar si sabes, hay una volatilidad muy heavy de la noche a la mañana?
+Yo no puedo estar contando de que yo lo voy a pagar alguien en Bitcoin y entonces es la mitad del salario del mes pasado o dos veces más.
+Entonces no tiene sentido.
+Esto no es un hedge con la inflación.
+Está bien, hipotéticamente esto es lo que es, pero si tú no lo entiendes en mercado ver y solamente los entendés en el mercado bull, no vas a ver el beneficio y los nervios no te van a dar para sobrevivir a este mercado.
+Entonces eso es lo que a mí me frustra.
+No sé cómo hacer para cambiar eso porque está bien, vamos a tener más confianza en el futuro y en el interín qué.
+Y mire, quiero decirle hola a todos los que están aquí.
+Qué bonito verlos, bro.
+Superama, Lisette, que te di, que te conectaste al principio, Vayan a escuchar el último episodio del podcast que es con Liseth.
+Donde hablamos de ir.
+Está increíble.
+Vince, ¿Cómo estás?
+Jen, ¿Qué tal?
+Luco, qué fino verte por aquí.
+Jorge y a todos los demás, bienvenidos.
+Tenía que decirlo porque me.
+
+[Speaker 0 - 00:44:31]
+Encanta verlos por acá.
+Sí, saludos al Bros que va a estar por acá con nosotros el miércoles, no, el jueves de esta semana, en dos días.
+Lisette también hay que, hay que.
+Hay que programar la tuya.
+Tengo que programar la de Jorge.
+Superama.
+Me falta programar una con Superama.
+Por ahí ando viendo la gente de la próxima semana.
+Pero sí, un gran saludo a mi cupido Eluco.
+Hace poquito hoy, hoy vi un drop muy chido de NFT NYC.
+Creo que son poquitos, al rato lo voy a postear, pero está un gratis.
+Está Judasaca.
+Vi a Judasaca, vi a Yusapata, vi a una chica de One Love Dao gratis.
+Ya puedes conectar tu cartera y luego se los paso para que lo vean porque si se ve.
+Y me encanta poder platicar también con los artistas y que nos cuenten un poquito de este ecosistema, pero bueno, saludos a todos los que se van conectando.
+Chica Web, una duda por ahí, estuvimos hace poquito en Nueva York y fuimos a varios eventos y mucho de lo que vi en Nueva York sobre Bitcoin fue Ordinals, fue ir a conocer a Casey Rodarmore, fue ir a ver el tema de las runas, bueno no, en esto todavía no había runas, BRC 20, etcétera.
+Pero qué opinas de todo eso que está sucediendo en Bitcoin, de todo ese crecimiento de nuevas aplicaciones, de loco este de Casey también que por.
+
+[Speaker 1 - 00:45:55]
+Ahí conociste y conocimos.
+Perdón que te interrumpí, pero me estoy acordando que tú me tomaste la foto con Casey en el evento ese de mujeres, él estaba ahí todo chill en su laptop, me dio mucha risa, mira, estuvo interesantísimo en este NYC.
+Mucho Djen Movement qué es lo que opino, lo que está pasando en el entorno, bueno.
+O sea, Djens have to degen a mí me parece, bueno, no sé, yo cuando la primera vez que vi a Casey Rodemort me pareció interesantísimo lo que habló, pero después lo vi en la vista en conferencia, claro, cuando tú lo pones en un entorno de Gens en la nftyc, pues yo creo que vi más.
+Sus colores reales, sus true colors, no sé si eso se dice, su personalidad real.
+Él creó esto porque quería ver cómo se podía hacer para que Bitcoin también tuviese esas funcionalidades que vemos en otras blockchains, pero cuando yo lo vi en la Bitcoin conferencia que habló, de verdad que habló tan mal de los DJ y la gente que está haciendo esto y hasta usó groserías, fue demasiado mal.
+Cuando yo lo vi hablar de esto era como, yo entiendo que le estás hablando maximalistas porque en general la mayoría de las personas que van a la videoconferencia son Bitcoin, Maxis, no sé si la mayoría de las personas que van, pero por lo menos los speakers no hablan de cripto, ahí siempre se dice no digan la palabra que empieza por C, o sea, hay todo un chiste al respecto.
+Casey está diciendo, bueno, si ellos quieren ser djems, entonces claro, queremos que el dinero se venga para la única blockchain que debería existir que es Bitcoin, tal y así como que ¿Qué le pasa a este?
+Pero bueno, nada, prácticamente lo que hizo fue crear ese mercado para que hubiese ese movimiento en Bitcoin y bueno, sí ha traído el ecosistema para Bitcoin y obviamente hemos visto cómo ha crecido también ese aspecto.
+Pero al principio, recuérdate que las runas fueron lanzadas en el mismo momento del halving.
+Y bueno, obviamente ahí vimos cómo se estaba.
+¿Cómo se dice?
+Trancando.
+¿Cuál es la palabra?
+Congestionando la red de Bitcoin y entonces la gente estaba quejándose y tal, entonces claro, obviamente para los Bitcoin maxis y siendo Bitcoin solamente la que estaba como pompeando en ese momento, no fue muy popular.
+Pero mira, a mí me parece chévere, o sea, mi opinión es que sabes lo más que podamos hacer en Bitcoin, pues bienvenido.
+Me gusta mucho en realidad el arte que se ha creado con los ordinals me fascina, Superama aquí ha creado nuevo arte en Bitcoin y a mí me parece que me llama más la atención que el arte en otras blockchain.
+Capaz Solana me gusta porque ahorita tiene el boom de los meme coins y bueno, son baratas los fees, entonces hay mercado por allá.
+Pero yo creo que si quieres algo que sea timeless, o sea, yo sí creo que los Bitcoiners podemos admirar cómo tú puedes tener algo registrado en tu blockchain favorita que sea un arte, que sea tu.
+¿Cómo se dice?
+Tu.
+Ay, ¿Cómo se le llama a los nombres?
+Tu, o sea, el com.
+Que está el punto Bitcoin, se.
+
+[Speaker 0 - 00:49:31]
+Me olvidó.
+
+[Speaker 1 - 00:49:32]
+La palabra.
+Tu dominio.
+Tu dominio, gracias.
+Tu dominio, sí, yo tengo Chicaweb, BTC y OR en ordinal y me pareció fantástico tenerlo ahí.
+En fin, yo soy, o sea, estoy de acuerdo con ese mercado ahorita al principio sí estaba, yo hasta quería minar runas mexi, me acuerdo que cuando llegó el boom yo dije por lo menos tengo que meterme y tal y en verdad sí estaba más emocionada, pero como se han calmado las aguas, en verdad no me he vuelto a meter.
+¿Hay tanto en lo que pensar ahorita que no estoy de lleno con runas, como sé que están Gwen y Elian y no sé si tú.
+
+[Speaker 0 - 00:50:11]
+Tú estás en eso?
+Sí, sí, abrimos un fondo, le entramos por ahí, le íbamos a meter entre varios una buena cantidad, finalmente le metimos un, creo que un 10% de lo que tenemos destinado.
+Creo que fue buena decisión, Fue un relajo, ¿No?
+Cuando salieron, identificar que iba a ser bueno que no.
+El tema de las comisiones también, o sea, dentro de las inversiones y compras que hicimos, había que contabilizar el costo en ese momento y eso era variable.
+Entonces estuvo muy loca la experiencia.
+Creo que todavía no vamos arriba.
+Si por un punto íbamos a estar como 3x o 4x arriba, ahorita ya bajó, pero no vendimos.
+La idea es eso, dejarlo allá años.
+Entonces va a estar interesante.
+A mí sí me llama mucho la atención el poder inscribir y tener protocolos arriba de Bitcoin.
+Creo que son buenas pruebas también para estresar la red y que son súper necesarias que las sigamos haciendo.
+Si en realidad esto va a funcionar como la red y la base de datos pública que nos va a ayudar, todo lo que decimos que va a ayudar, pues bueno, tiene que aguantar esas pruebas, esos usos y creo que las pasó muy bien.
+Entonces también está chido que los mineros están papeando que tiene más usuarios, que jaló a un chorro de gente.
+Comunidad también regresó mucho, desarrolladores también.
+Y este nuevo tema de las L, que por ahí sería mi siguiente pregunta.
+¿Qué opinas de lo que está pasando también como lo que estamos viendo en Ethereum con L de Bitcoin?
+Stacks.
+Cor, ahí ya un chorro y al rato ya están diciendo que van a sacar algo con.
+Verificaciones de cero.
+Knowledge Cardano, ayer creo que Charles Hoskinson, el cofundador de Cardano, dijo que estaban convirtiendo para una L de Bitcoin.
+Yo creo que todavía falta un chorro, apenas estamos viendo todos esos casos de uso.
+¿Pero qué opinas de una L y todas estas nuevas redes que.
+
+[Speaker 1 - 00:52:24]
+Están montando sobre Bitcoin?
+Sabes que creo que justamente mi primera Bitcoin conferencia creo fue el 2022, ya estaba el concepto de las L por encima de Bitcoin, pero porque querían antes de la Green Network, eso es lo que ellos estaban tratando de solucionar con las L.
+Pero recuerdo haber visto muchas, o sea, no creo que sea algo tan nuevo.
+Pero ahorita lo que sí creo que es nuevo mexi, es el tema de que quieren ver si se puede hacer protocolos defi.
+Esa iba a ser la pregunta que te quería hacer, porque recuerdo que se lo hicieron a Casey y dijo por ahora él no lo ve posible, pero obviamente no lo ve improbable.
+Porque si estamos hablando de que vamos a poder hacer todo con Bitcoin o eso es lo que se quiere lograr.
+Los protocolos defi cómo eso está muy difícil de que funcione y bueno, a ver si a través de las layer 2 se puede como conseguir una solución, pero lo veo muy difícil.
+Obviamente yo no tengo ese cerebro de saber el por qué, pero si a mí me dice la lógica es que si tomó tanto tiempo algo tan simple como tratar de hacer mímica en un contrato inteligente.
+Un DeFi Protocol es como un poco más complejo.
+Ojalá si se pueda, está súper interesante, pero no sé, no sé qué tanto, que tanta cabeza o tanto cambio en la red se necesita hacer porque sabemos que Bitcoin se optimiza regularmente.
+No sé si le has dado coco a eso o si has.
+
+[Speaker 0 - 00:53:56]
+Escuchado de algo más.
+Me pegué mucho con el tema de la actualización que le llaman UP, daría mucho más funcionalidad.
+Se ve lejos, se ve lejos todavía.
+Core es una de las que estoy viendo de cerca también porque tiene una manera de proteger la red y de stakear Bitcoin donde también se puede usar con temas DeFi.
+Yo sí creo que.
+Mucho del DeFi se va a ir a ser colateralizado por Bitcoin, o sea, sí o sí tenemos que como colaterales mucho más líquido que bienes raíces, mucho más líquido que otros activos.
+He escuchado también mucha gente que dice que en algún punto esto va a ser clave, o sea parte básica de todo lo que es préstamos, el tema de Bitcoin, pero sí lo veo lejos, o sea, sí como las llevan un rato, pero comunidad no vean en realidad jalado ni eventual ni liquidez hacia gente que está haciendo eventos presenciales.
+Había visto hasta recientemente con el tema de Ordinals y todo lo que eso trajo.
+Stack Score hay muchas, pero sí se está viendo al menos más dinero, acercarse a líderes de comunidades para hacer eventos y activaciones y así mido yo mucho también cómo se va muy bien el cueste más, pero sí, definitivamente no lo veo todavía cercano.
+
+[Speaker 1 - 00:55:26]
+Creo que todavía falta.
+Sí, pregúntame ya me escuchas bien.
+OK.
+Porque yo me estoy escuchando mi propia voz, no sé por qué.
+OK, la pregunta que Te quería hacer ¿Tú crees que veamos reservas de Bitcoin.
+Las reservas de los países empezando por Estados Unidos u otros?
+¿Crees que eso es algo que se diera en el corto plazo o que mucho tiene que cambiar.
+
+[Speaker 0 - 00:55:58]
+Para que eso pase?
+No, yo sí creo que en este ciclo entra.
+Ya dijo Trump que no iban a vender el 1 % que tienen.
+Dijo por ahí, si mal no recuerdo, que también iban a comprar.
+He leído también un poquito sobre algunos estados también que están viendo y analizando esa iniciativa y otros países como Rusia.
+Pero bueno, mucho ya no sabes qué creer, la verdad.
+A veces si me hace falta hacer una investigación más profunda, pero sí, definitivamente sí veo que la tesorería de los países va a crecer.
+El meme de Alemania es buenísimo, Yo creo que ese la eternidad lo van a estar retuiteando cada que suban.
+¿Cuánto hubiera tenido Alemania?
+Pero sí creo que van a empezar a comprar y más con él tema de Trump haciendo ruido.
+No sé si convencimiento.
+Me interesa también mucho ver cómo la dinámica Elon Musk le mete.
+La variable política también ese loco con el famoso Dodge.
+Creo que va a afectar muchísimo el precio de esa moneda, entonces va a ser interesante esperarla.
+Pero sí, sí, definitivamente veo países, veo más empresas y veo tesorerías.
+No sé si en unos dos años el doble de lo que tenemos aquí, pero más o menos.
+Yo sí creo que viene una ola de opción más institucional y lo hemos visto a lo largo de la historia de los ETFs.
+Creo que ha sido el producto más exitoso, el lanzamiento más grande que ha tenido en engaños los mercados tradicionales.
+Pero bueno, creo que ahí también va a haber una corrección.
+No sé cuándo, pero yo creo que también viene una en esa gráfica de entrada de ingreso de capital hacia ese tipo de instrumentos.
+No sé, esperemos que, no sé, pero sí, estados y países.
+Este año entra el año.
+El.
+
+[Speaker 1 - 00:58:06]
+Año que entra.
+2025.
+2025.
+Sí va.
+Sí.
+Bueno saberlo.
+Tu opinión, Mexi Estoy teniendo problemas, no sé con el audio.
+¿Está bien si me salgo y vuelvo a entrar?
+Es que no, o sea, tengo que escucharte desde el auricular, que es muy raro, no sé por qué, no sirve ni siquiera el.
+
+[Speaker 0 - 00:58:27]
+Speaker.
+¿Me das un segundito?
+Sí, baja, baja sin problema.
+Yo aquí les voy platicando.
+Acá arriba, un breve reset.
+Estamos platicando con Chica Web ahí.
+Disculpen, pero por una emergencia personal me tuve que mover.
+Ya voy de regreso a la oficina por si escuchan ruidito o de repente algo de audio de aire.
+Perdón, nos platicaba el Chicago que trae ahorita un va a sacar un newsletter nuevo exclusivo para recomendaciones para gente que está entrando en el ecosistema.
+Si no se han suscrito, vayan a su perfil, denle follow.
+También aquí arriba tenemos el link al espacio, si nos ayudan ahí con un comentario, con un like y con un repost para llegar a más personas y que escuchen esta conversación de lo que opina Chica del ecosistema, de lo que viene, del ciclo.
+Ha hablado mucho de el futuro de el ciclo, de cómo lo ve y que piensa que todavía falta un poco por subir.
+De todas maneras tienen media hora todavía.
+Sí, media hora más para reclamar el coleccionable que también está aquí arriba.
+Con un correo entran a la página de online, su nombre y un wallet.
+Es una experiencia tipo POAP donde no pagan nada.
+Van a recibir un coleccionable en árbitro y ese coleccionable ya les está dando beneficios para ver contenido exclusivo.
+Token Gated.
+Acá en el foro que tenemos de Banda Web, el foro es Foro Mexi WTF.
+Espero que me estén escuchando bien porque cada que me subo al carro y se intenta conectar el wifi, a veces me disminuye mucho el audio.
+Voy a tratar de subir De nuevo a Chicago 3.
+¿Ahí me escuchas?
+
+[Speaker 1 - 01:00:25]
+Yo te escucho muy.
+
+[Speaker 0 - 01:00:25]
+Bien.
+¿Tú me escuchas perfecto?
+Ah, excelente.
+No, muchas gracias.
+Sí, de repente esto nos buguea.
+Yo cuando.
+Aquí ya llegó el ajustador ya.
+Del taller ya me pude mover, voy a la oficina de regreso.
+Pero platicábamos un poco de Bitcoin, platicábamos de tu newsletter que va a salir próximamente, dónde se pueden ir a inscribir, ¿Está en tu perfil pineado en X?
+¿Cada cuántos estás escribiendo?
+Platícanos un poquito del newsletter.
+¿Lo estás monetizando?
+¿Estás buscando monetizarlo?
+¿Tienes patrocinios?
+Yo por ahí he pensado en arrancar algo así, no sé si para Banda Web, para Ethereum México o para mí, pero ¿Cómo te ha ido a ti.
+
+[Speaker 1 - 01:01:08]
+En el proceso del newsletter?
+Sí, vale, está brutal.
+Eso me parecería que deberías escribir, deberías lanzarte porque a mí me gustaría leer tu opinión.
+Siempre tienes buenos insights y además eres un Community Builder muy apreciado y tienes esta plataforma que escuchas a todo el mundo, entonces puedes tener como una visión general.
+Yo lo leo, así que tú dale.
+Mira, lo tengo en Substack, está en mi perfil aquí en X tengo el linktree, entonces en el linktree pueden ir a newsletter y ahí les va a pedir para entrar si no se quieren suscribir, si no quieren pagar, le dan crucecito a todo y ahí está la cuestión, gratis obviamente sería chévere si se suscribieran, si estoy monetizando.
+¿Mira Mexi, no lo vas a creer pero he tenido mucha gente que ha donado, sabes que?
+Como que Substack te permite hacer donaciones, entonces por ahora sí estoy monetizando, de verdad que estoy orgullosa, que es mucho más de lo que esperaría, pero no estoy cobrando todavía.
+Mi meta con esto es crear esa comunidad base, vamos a ver si llego a la mil personas por lo menos que están suscritas y comenzaría a hacerlo más seguido.
+Pues una cosa que estaba hablando por aquí, por allá, que todavía no lo he hecho formal es que ya voy a renunciar de mi vida web 2 y me voy a dedicar a la web 3 con mi chico, vamos a ir de una y una de nuestras.
+Nuestras ambiciones es escribir el newsletter, entonces bueno, si ya ya tenemos como ese con Chicaweb sería genial.
+A mí lo que más me gusta, yo antes de meterme en tecnología yo era researcher, trabajé en research, pasantías, yo trabajé en el Banco Central de Venezuela, todo era la parte de research, entonces a mí me encanta sentarme a ver mis indicadores, a escribir al respecto, o sea, la parte de análisis fundamental me fascina y por eso yo creo que el newsletter me lo disfruto muchísimo, entonces le pongo mucho cariño, no escribo solo por escribir y la verdad tenía mucho tiempo que no lo escribía, o sea, mucho tiempo, yo creo que saqué como 7 ediciones el año pasado y este año estuve demasiado floja haciendo otras cosas también como empecé en el podcast lo dejé un poco de lado, pero ahora que he hecho mucho análisis lo que estoy es posteando, posteando, posteando, o sea, cuando me sale algo lo escribo rápido y bueno, creo que vamos a ver mucho más de Minusletter a final de año, es más, creo que voy a postear uno para Thanksgiving, o sea en dos días que voy a tener un poquito de tiempo para terminarlo y bueno, de verdad muy feliz y emocionada, le pongo mucho cariño, lo hago.
+Yo ahorita me considero que soy como pseudo, pseudoanónima, pseudo altruista, o sea, mi anonimato está ahí, pero muchos me conocen la cara, a veces digo que si cuándo es mi cumpleaños, entonces el que me quiera buscar me va a encontrar, pero seudo altruista porque todavía no trabajo con marcas, me han llegado marcas, plataformas, hay unas de apuestas que están por ahí siempre mandándome emails que me pagan por hacer dos, tres videos al día mes y no sé qué y tal, pero yo cuando monetice esto de lleno lo quiero hacer bien y solamente voy a trabajar con marcas que yo estoy 100% de acuerdo, que yo trabajo con ellas, que confío, porque obviamente.
+Mi propósito con crear Chicago era eso, crear un safe environment, un ambiente seguro para personas que quieran entrar en esta mercado que es volátil, que lo entiendan lo más que puedan y que se aprovechen de la revolución Bitcoin que es lo que viene, entonces todo lo que los aleja de eso no me interesa.
+Y bueno el tema de plataformas de intercambio hay muchos que chévere en bull markets, pero no sabemos en bear market, entonces no me gustaría como ser imagen de eso.
+¿Y también otras me han dicho que me tengo que doxear, o sea queremos que sea así, queremos que sea la imagen de nuestra esta plataforma, pero necesitas mostrar la cara y yo pero ya cuál es Canbures?
+¿Como que.
+Esto soy yo, yo soy anónima, cómo me vas a querer a mí sin mi anonimato?
+Y bueno nada, en eso ando.
+Mexi Pero de verdad que sí se vienen proyectos grandes, ya quiero que se acabe el año, ya estoy ya mi carta.
+Renuncia.
+Viene pronto.
+No, bueno, sabes que uno no puede contar los pollos antes de nacer, yo lo voy a comunicar cuando pase, pero muchas cosas se tienen que poner, se tienen que alinear para que eso pase.
+Pero va a pasar muy pronto, va a pasar muy pronto, más pronto de lo que creen, estoy manifestando lo todo, pero sí ya de seguro el año que viene, principios del año que viene, q trimestre 1 ya yo estaré en la web 3, es lo único que les puedo.
+
+[Speaker 0 - 01:06:15]
+Decir, nombres y todo el contenido que haces, todo lo que creo que es aportado con el tiempo que tienes, si le enfocas el 100 a esto, qué chido, que chido.
+Muchas felicidades y disfrútalo, disfrútalo.
+¿Siempre ha.
+
+[Speaker 1 - 01:06:34]
+Sido Godín o estado trabajando?
+Es la primera vez que.
+
+[Speaker 0 - 01:06:39]
+Siempre ha sido Godín Emprendes.
+OK.
+Yo tuve un shock y sigo aprendiendo después de 20 años de Godín y es bien divertido, eso sí te puedo decir, es muy divertido.
+No regresaría.
+Bueno, nunca digas nunca, pero sí, sí es padre empezar ya pues algo propio, ¿No?
+Trabajar para alguien más, tener el control de tu tiempo.
+También es cierto, nine to five se convierte.
+
+[Speaker 1 - 01:07:10]
+En 8 to pero bueno.
+Sí, estoy de acuerdo, pero siempre he sido Godín, pero siempre, siempre he querido aprender.
+Lo que pasa es que para mí la forma más fácil de crear capital había sido siendo Godín, porque yo también soy, o sea, yo soy muy intelectual de que a mí me encanta, si tú me pagarías por esta estudiar, yo estudiaría toda la vida.
+Entonces basado en eso yo dije yo quiero estudiar, yo quiero tener una carrera tradicional y no sé qué, y por eso empecé así, o sea, si yo hubiese sido, yo tengo un hermano que él estudia mi misma carrera y él toda la vida ha sido de negocios, no quiere que nadie le diga qué hacer y él ha hecho su vida bastante distinta a la mía y a mí, o sea, es cuestión de personalidad.
+A mí siempre me había gustado como quedarme en mi cabeza y en los conocimientos y tal.
+Por eso te digo que siempre había sido researcher y había trabajado para compañías en donde yo les hacía research y embajadas y instituciones gubernamentales y ahorita aquí, bueno, le metí a la programación pero es todo más como el tema intelectual intelectual y me gustaba hacerlo.
+Entonces claro, tienes un trabajo nine to five, te pagan por eso, ahorras, inviertes, puedes hacer tus viajes, una vida un poco bastante más ordenada, pero no me hace feliz, ya antes me hacía mucho más feliz que ahorita.
+¿Ahorita quiero hacer mi propia cosa, quiero arriesgarme, quiero levantarme con propósito, ya lo que hago no me gusta, ya no me quiero quedar en la cabeza, ya quiero, sabes?
+Hacer cosas con las manos y bueno, quiero abrir mi consultoría web, quiero hacer otras cosas.
+¿Ah, sí me escuchan?
+¿Aló?
+¿Aló?
+Yo sí te escucho, ¿Tú me escuchas.
+Gente?
+Thompson, si nos escuchan.
+Ay.
+
+[Speaker 0 - 01:08:59]
+No nos escuchan.
+¿Aló?
+¿Aló?
+Ándale, creo que ya regresé, por ahí como que un segundito te perdí, pero creo.
+
+[Speaker 1 - 01:09:25]
+Que ya estamos de regreso.
+Listo.
+Si, nos están diciendo que si nos escuchan.
+Si me escuchas.
+Creo que ustedes me escuchan, pero Mexi no.
+Bueno, de nuevo agradecerles por estar.
+
+[Speaker 0 - 01:09:46]
+Aquí.
+Sí me escuchas Mexi.
+¿Dónde nos quedamos?
+Muchas gracias a los que por ahí están con las manitas.
+Normalmente duramos una hora y media estos espacios, ya llevamos acá setenta minutos, nos quedan unos diez, quince minutitos.
+La neta, como decía y como, como por ahí lo estuve posteando, eres de mis creadores de contenido favoritas, que ahora tengas la oportunidad pronto de dedicarte al 100 a esto va a estar también muy interesante.
+Pero tengo una duda de todo lo que tú podrías llegar a estar haciendo en el ecosistema, me imagino que harás mucho más ahora que tengas más tiempo, pero ¿Por qué te ha gustado y por qué te has enfocado en la creación de contenido, el platicar, el podcast, el newsletter, el?
+Se nota la pasión y la.
+Como que tu misión dentro del ecosistema de educar, de ayudar, de dónde viene, dónde proviene, ¿Te gusta, te llena eso?
+¿Y obviamente, no sé, me imagino que lo ves también como una oportunidad de negocio o no?
+¿Qué opinas del tema del creador de contenido, del líder de opinión, la palabra que le qui quieras.
+
+[Speaker 1 - 01:11:00]
+Llamar al rol que juegas?
+Sí, mira, a ver, la verdad es que mi principal propósito no era.
+Hacer dinero de esto al principio, obviamente cuando yo hice esto por mí, entendí el mercado y todo y después claro, yo aprendí fue a los trancazos, o sea, yo tuve muchas pérdidas, después tuve, tuve ganancias y cuando le di como el queso a la tostada fue cuando dije OK, creo que tengo que compartir esto, sobre todo cuando entendí Bitcoin, y claro, cuando digo cuando entendí Bitcoin, yo entendí Bitcoin luego de entender Ethereum, siempre digo esto, cuando entendí la diferencia entre una blockchain, que lo que hace es como una nueva versión de Internet, tienes contratos inteligentes, no es de limited supply, no sé qué, yo dije, ya va, espérate, si esto es Ethereum, entonces Bitcoin es esto.
+Y ahí fue cuando me explotó la cabeza.
+Entonces una vez que yo entendí como la diferencia de este mercado látil, porque yo obviamente invertía en Bitcoin como 5%, en cripto como 5% parte de mi portafolio, me metí a Djen, lo hacía de noche, luego el trabajo, o sea, yo prácticamente lo hacía como algo fun, o sea, a mí me encantaba, me encantan mis inversiones tradicionales, entonces decía bueno, vamos a meternos en las criptomonedas.
+Y bueno, cuando la entendí y cuando en verdad entendí que era.
+Yo tengo un historial como venezolana y también creo que como economista y como altruista que también soy un poquito el tema de la desigualdad de la riqueza a mí siempre es algo que me ha molestado increíblemente y yo que trabajo y cuando hablo de desigualdad de riqueza, la gente piensa que estoy hablando de, no sé, marxismo y tal, así que vamos a ponerle freno ahí.
+Cuando hablo de desigualdad, hablo de igualdad de oportunidades y también el abuso de poder que no solamente tienen los gobiernos, que lo sabemos bien, sino las grandes instituciones, los bancos, y yo que trabajo con grandes bancos en Estados Unidos, que he trabajado con instituciones gubernamentales en Venezuela, que he trabajado.
+Yo hice una pasantía en el IMF, en el Fondo Monetario Internacional, o sea, he visto como en varios lugares.
+Instituciones que creemos que son tan.
+Altruistas o poderosas o una mezcla de ambas, que tú crees por lo menos que el Fondo Monetario Internacional es alguien que nos ayuda a salir de crisis en nuestros países cuando nuestros gobiernos no están haciendo las cosas bien.
+Eso es pura mentira.
+Hay un episodio mío del episodio 8 del del podcast que les hablo bastante de eso, con mucha propiedad porque yo estuve ahí.
+Pero en fin, después de ver tanta injusticia en tantas partes y para los místicos yo soy libra, como saben la injusticia es una broma que no va conmigo, o sea, no va, es más allá de mí, soy economista también.
+¿Entonces para mí qué es economía?
+Bueno, la economía es distribución, la riqueza de una manera eficiente, distribución de los recursos una manera eficiente, estudiando todos los modelos, viendo cómo esto en verdad nunca es posible.
+Cuando yo descubrí Bitcoin me voló la cabeza, entonces.
+Estando en tantos lugares en donde hay tanta injusticia, en donde el sistema de verdad nunca nos va a llevar a esa eficiencia, fue ahí cuando dije yo tengo que compartir esto y de verdad sí lo hice del estado más puro y altruista de mi ser y dije lo tengo que explicar para dummies, pero al mismo tiempo tengo que tener los buenos fundamentos.
+Entonces me ha costado desde el principio tratar de explicarlo de una manera más simple y no ser tan técnica, que a mí también me gusta ser técnica y bueno, nada mexica y empecé y yo creo que con los años he mejorado un poco el mensaje, la forma en la que explico las cosas, entonces ese ha sido mi recorrido, ahorita eventualmente como ya me quiero meter en web, sé que esto es algo que ya tengo como más propiedad para explicar, me apasiona, yo paso mis días en la computadora haciendo mi trabajo que tengo que hacer para tener mi salario y distraí a cada rato viendo cómo escribo esto, cómo les averiguo esto, cómo creo contenido aquí, entonces esa es mi pasión, mi pasión es hacer mi propio research, entonces ya una vez que yo estaba haciendo mi propio research para mis mi beneficio decía bueno si ya lo hice lo va a compartir y después entre compartirlo me he dado cuenta también que con Chicaweb Mexi yo he aprendido más de lo que yo enseño porque las preguntas que me hacen me hacen volver y decir espérate yo necesito más criterio para responder esta pregunta o de repente cuando durante mercados bajistas, cuando salgan todas estas noticias de que sabes, todas estas noticias falsas también, noticias que te hacen dudar, tú dices si yo estoy dudando que tengo esta convicción, no me imagino al resto, entonces déjame crear el criterio para yo saber cómo refutar esto, entonces uno se va educando más y más y más y más y más, entonces yo le debo a Chicaweb, le debo la convicción y la estrategia que yo he usado en mi vida personal para manejar mi convicción y mis inversiones en cripto, entonces yo creo que goes both ways, ¿No?
+Y ya lo veo como una pasión, entonces por allá van los tiros, la verdad es que uno nunca sabe para dónde va, pero te estoy diciendo cómo empezó y cómo ha evolucionado y es mi pasión, o sea esto es lo que me.
+
+[Speaker 0 - 01:16:35]
+Levanta en la mañana pues digámoslo así, se nota que te gusta, que lo disfrutas, que estoy de acuerdo, no estoy de acuerdo en el que generar contenido y tener estos debates o pláticas, entrevistas, me pone luego a rascarle a muchos otros temas de lo que platicamos aquí o de lo que me toca ver, imagino te pasa igual como lo mencionas.
+Entonces pues muchas gracias.
+Muy buena la entrevista, no sé si hay algo adicional que se nos haya quedado por mencionar que quieras también comentar, algún otro problema, proyecto tu cuenta de Instagram, ahorita lo voy a opinar aquí arriba también para que vean el contenido que por allá está haciendo muchos lives, Yo por ahí he participado en uno o.
+
+[Speaker 1 - 01:17:20]
+Dos si mal no recuerdo.
+Sí, de la NFT.
+Gracias Mexi, te agradezco mucho por el espacio y por promover el contenido, de verdad se aprecia y a todos los que estuvieron aquí conectados, de verdad que.
+Está muy chévere poder tener un espacio así para que hablemos.
+Lo que iba a decir, bueno, estoy muy bullish con SUI, no sé si le has visto, le has dado a su entre Solana, yo creo que son en donde voy a sacar más dinero en este bull market, vamos a ver qué tal, pienso capitular en esas.
+AVAX, estoy muy bullish también aquí que veo vía Jen por aquí conectada en algún momento.
+El tema de gaming en AVAX aquí por lo menos EEUU está pegando muchísimo, mucha gente no sabe ni siquiera que ese juego está en la blockchain, así se los pongo, los gamers están súper emocionados con esto y ahí es donde yo veo la adopción, cuando la gente ya no sepa si esto es cripto o si esto es web, ahí es cuando me siento más bullish qué otra cosa.
+Bueno, nada, a seguir los mercados, estar paciente, controlar las emociones y nada, estamos a la orden por allá.
+Y Mexicana, súper agradecida contigo, espero que podamos coincidir muy pronto.
+Voy a ver a Superama, a Naná, a Luco ahorita en Arbazel la semana que.
+
+[Speaker 0 - 01:18:55]
+Viene, entonces estoy también feliz.
+Yo no sé, no sé, todavía lo estoy meditando, pero por el tema del libro yo creo que sí voy a hacer.
+
+[Speaker 1 - 01:19:07]
+Lo posible, pero está cañón.
+Debería.
+Si no, bueno, ahí te mandamos fotos del evento en donde va a salir el libro de woman of web 3 que mexi tiene ahí una publicación súper chida, siempre apoyando a las mujeres.
+Te queremos Mexi.
+¿Qué otra cosa les quería decir?
+¿Ah no, te quería preguntar qué eventos tienes pendientes para ir?
+¿Pues si no es Art Basel, tienes algún evento blockchain que podamos coincidir?
+No sé si vas a la nftyc el año que viene, no sé si tienes alguna.
+
+[Speaker 0 - 01:19:43]
+Conferencia, Consensys, algo, todo lo que sea aquí cerquita.
+Yo creo que sí voy a aprovechar Austin es uno que repite, aunque creo que ya no viene buscar otro consensus en Austin, creo que ahora van a brincar otro lado NFT.
+Me gustó el cambio de fechas más hacia verano, creo que es mucho más fácil a lo mejor hacer algo familiar.
+Me encantaría llevar a los niños a un evento de esos.
+La neta.
+El año pasado Diego por ahí una de sus obras la digitalizamos, la mandamos y estuvo presta.
+Entonces que él vuelva a hacer ese proceso y que mande y a lo mejor lo escogió y lo vaya y lo vea, estaría chido y creo que cuadra perfecto con las vacaciones de ellos.
+Entonces yo creo que sí.
+Sí, sí.
+Va a estar interesante ir a NFT.
+El año que entra creo que es 20 pico.
+Monterrey, queremos traer algo grande.
+Ahorita vamos a cerrar con unas posadas.
+El 7 de diciembre y el 14 de diciembre.
+No sé si en algún punto tu agenda vengas a Monterrey, hay que planear alguna visita.
+Sería chido que vinieras.
+Marzo probablemente hagamos algo, Queremos hacer un evento en el municipio de Santiago.
+Por ahí con Santiago hemos tenido muchos acercamientos, hace poco casi lanzábamos algo con ellos con realidad aumentada y una experiencia con NFTs ahí en la plaza, pero se vino abajo por temas políticos.
+Pero bueno, creo que nos podemos volver a acercar porque se quedó el mismo alcalde, entonces ahí te estaré avisando.
+Pero si.
+
+[Speaker 1 - 01:21:18]
+Queremos hacer algo grande acá en Monterrey, me encantaría.
+Quiero ir.
+
+[Speaker 0 - 01:21:23]
+A Monterrey desde hace tiempo.
+Sí, sí, sí, la neta sí.
+Creo que es una ciudad muy padre.
+Y si necesita ya un evento grande.
+¿Tú qué estás planeando?
+
+[Speaker 1 - 01:21:34]
+¿Qué ves en el camino?
+Mira, por ahora es salir de mi vía web, estoy vendiendo todo, estoy tal cual.
+No solamente es que voy a saltar a la web, es que me voy a mudar de Estados Unidos, es que vamos a comenzar una nueva vida.
+Es así.
+Entonces estoy súper concentrada en eso.
+Y ya después, mira, lo primero que haré cuando ya salga de esto es hacer mi estudio de mercado y saltar a distintos países a ver en dónde uno puede empezar el crypto business que tenemos en mente mi chico y yo.
+Que por cierto, el próximo episodio del podcast lo voy a entrevistar a él.
+Primera vez que quiere mostrarse.
+Él trabaja en wealth management, en gestión.
+De activos de riqueza, digámoslo así.
+No sé cómo se traduce wealth management en español, pero él trabaja para uno una gran compañía, lleva casi ya más de 20 años ahí.
+Y bueno, él conoce bastante cómo se mueve los portafolios de los millos.
+Entonces me gustaría entrevistarlo para darles el beta o el Alfa en Venezuela hicimos el beta, pero ustedes dicen el Alfa de qué es lo que se espera para los boomers, digamos así, para los inversores tradicionales, más que nada no institucionales, sino tradicionales con altas carteras de riqueza.
+Él tiene un enfoque muy cool y me gustaría entrevistarlo para eso.
+Entonces, bueno, esperemos.
+Eso.
+Esos son sus clientes.
+Y bueno, nada, súper emocionada.
+Espero que él colabore más conmigo en este porque bueno, estamos planeando eso, saltar.
+De verdad que muy chévere tener a alguien que le gusta la web también para poder hacer esto juntos.
+Así que eso se viene.
+Ojalá.
+Espero que Chico Web esté publicando también cosas en el no muy lejano futuro.
+Otra el próximo, después de ese episodio, tenemos un episodio de defi y.
+Seguridad en la Blockchain que voy a entrevistar a Jazz y a Brenda de Novec, muy queridas y apreciadas en este ecosistema.
+Yo sé, Mexi, que tú tienes una admiración por Jazz, que yo también, entonces estoy súper, súper emocionada.
+Es más, lo voy a grabar ahorita en dos horas, pero bueno, ya va a salir más tarde.
+Y bueno, nada, eso es lo que se viene.
+Estoy tratando de crear con lo más rápido que puedo, pero bueno, eso es lo que se viene para mí mexicano.
+No tengo todavía planeado qué conferencia voy a ir ni nada de eso, pero si me invitas alguna o si por aquí sale una, por favor no se olviden en tocar mi puerta, que.
+
+[Speaker 0 - 01:24:30]
+Yo podría estar bastante interesada.
+Definitivamente Jazz y Brenda Novec son cracks, muy amigas, muy cercanas.
+Que chido.
+Tengo que programar también un espacio con ellas para que nos vengan a platicar de todo lo que vienen haciendo.
+El podcast con tu chavo.
+Él ya estaba un bordeado, tú lo haste.
+Qué chido, qué chido que empiecen a hacer contenido juntos y que también él esté hablando del ecosistema desde la perspectiva que también es súper diferente.
+Creo que enriquecedora para nosotros porque yo lo veo con mis papás, ellos están entrando, ya entraron y ahorita que les está yendo bien, andan viendo que si ven, que si no ellos les gusta.
+La neta, pues yo les paso recomendaciones y todo.
+Pero bueno, finalmente decisión de ellos.
+Lo voy a escuchar a ver qué dice, para ver qué les recomiendo.
+Y.
+El podcast de nuevo, me encanta.
+Si no han seguido a Chicago, denle su follow, tiene por ahí su link tree.
+Entren al link tree, vean todo lo que está por ahí.
+Ella está el Instagram, está el newsletter, tiene el podcast de Cripto con Visión y los el grupo de Telegram.
+No sabía que tenías un grupo Telegram.
+Google sites, Gmail y YouTube por ahí.
+Todo en el link tree de Chicago 3.
+También piné aquí, aquí arriba.
+Link a su Instagram.
+Échenle un follow por allá en Instagram.
+Está haciendo live, haciendo contenido.
+La neta me gusta muchísimo y que luego me pases tips de edición y de.
+Hay que meterle mucha más inteligencia artificial por ahí.
+Tengo pendiente una llamada con Jorge para automatizar mucho para todos.
+
+[Speaker 1 - 01:26:15]
+Nosotros los.
+
+[Speaker 0 - 01:26:15]
+Creadores de contenido.
+Creo que.
+Nos ayudaría mucho utilizar.
+Yo me meto poco a poco cada día más, pero bueno, ahí voy, ahí voy.
+Si tú tienes algún tip, alguna herramienta, me encantaría luego que me.
+
+[Speaker 1 - 01:26:27]
+La compartas para irla probando.
+Claro que sí, podemos hacer una llamada de eso porque de verdad que ahorra mucho tiempo.
+Por eso yo ahorita estoy creando contenido más rápido.
+Es gracias a la que te puede crear imágenes simplemente con audio.
+Está bien brutal.
+Y bueno, obviamente nos beneficia a todos.
+Así que cuando quieras hacemos una llamada.
+Es más, podemos incluir a más gente, cualquiera que esté interesado aquí la podemos cuadrar.
+Vayan a Mexica.
+El que lleva la batuta de cómo traer comunidades a web.
+Es increíble.
+Mexica te admira mucho y bueno, sigue así que te apreciamos y te queremos en este ecosistema de Twitter x como le queramos llamar.
+Bueno, un placer de verdad agradezco mucho este espacio, Agradezco a todos.
+Cualquier cosa, estamos a la orden.
+Mis DMs aquí, mis DMs en Instagram están más a la orden porque creo que me la paso más allá que acá.
+Pero bueno, donde sea, a mí me gusta mucho conversar con ustedes, lo que sea que pueda ser de ayuda.
+Como saben, pseudo altruista, chica web, hasta que empiece a monetizar en esto.
+Así que aprovéchenme hasta que le dedique full time, porque ahora esto es como mi hobby, ya después no va a tener tiempo.
+Bueno, Mexi.
+
+[Speaker 0 - 01:27:41]
+Te quiero mucho.
+Un abrazote.
+Muchísimas gracias.
+Chicago 3.
+Esto fue el episodio número 18 de Banda Web 3 con Chicago 3.
+¿Esperamos tenerla en un par de meses o más para que nos cuente, ya que estamos en el mero mero tope que vendamos que nos cuente si vendió o no y cómo y cuándo, no?
+Pero si, la idea es traer los y las invitadas que han estado viniendo para que sigamos contando su historia y la neta encantado.
+También de cualquiera que quiera participar échenle un mensajito.
+Tengo pendiente programar un chorro de llamadas, ya he tenido muchas personas por aquí.
+Veo a Giz que también ya estuvo por acá hace rato estaba conectada soho de Happen.
+Ah bueno, a la gente Happen que también ya anduvo por acá.
+Me falta mucha gente por platicar, pero el jueves viene Bros Rodríguez, él es un DJ regiomontano, bueno sí creo que es aquí de Monterrey, que anda tocando por todos lados, ha tocado festivales enormes, está súper metido en la web, nos va a platicar de toda su experiencia a lo largo de los últimos años trabajando con Audius y otras plataformas.
+Y el viernes va a estar con nosotros Isabela.
+Isabela tiene un proyecto bien chido que se llama BTC Isla, ella está en si mal no recuerdo si Las Mujeres o Cozumel, voy a tener el dato para el viernes que viene.
+Ella está onboardeando uno a uno los negocios, a los turistas, tiene también un chorro de contenido, soy muy fan de lo que está haciendo por allá, onboardeando a toda la banda de la isla y creo que hace más gente falta haciendo eso, hasta ganas me dan de irme a Puerto Escondido a hacer eso.
+Miren por ahí veo Al Tavo que se viene conectando también andamos viendo una entrevista con él próximamente, pero bueno, los dejo, ya me tengo que ir.
+Banda web 3 número 18, la chica web 3.
+Esto es universal Mind Liquid Tension Experiment.
+Muchísimas gracias, los amo.

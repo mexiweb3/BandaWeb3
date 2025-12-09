@@ -29,11 +29,11 @@ def load_fireflies_api_key():
     return None
 
 def get_all_transcripts(api_key):
-    """Obtiene la lista de todos los transcripts disponibles"""
+    """Obtiene la lista de todos los transcripts disponibles usando paginación"""
     
     query = """
-    query Transcripts {
-        transcripts {
+    query Transcripts($limit: Int, $skip: Int) {
+        transcripts(limit: $limit, skip: $skip) {
             id
             title
             date
@@ -47,70 +47,79 @@ def get_all_transcripts(api_key):
         "Authorization": f"Bearer {api_key}"
     }
     
-    payload = {
-        "query": query
-    }
+    all_transcripts = []
+    limit = 50
+    skip = 0
     
-    try:
-        response = requests.post(GRAPHQL_ENDPOINT, headers=headers, json=payload, timeout=30)
+    while True:
+        payload = {
+            "query": query,
+            "variables": {
+                "limit": limit,
+                "skip": skip
+            }
+        }
         
-        if response.status_code == 200:
-            result = response.json()
-            if 'errors' in result:
-                print(f"❌ Error en GraphQL: {result['errors']}")
-                return []
-            return result.get('data', {}).get('transcripts', [])
-        else:
-            print(f"❌ Error HTTP: {response.status_code}")
-            return []
-    except Exception as e:
-        print(f"❌ Error: {e}")
-        return []
+        try:
+            print(f"   ⏳ Solicitando batch (skip={skip})...")
+            response = requests.post(GRAPHQL_ENDPOINT, headers=headers, json=payload, timeout=30)
+            
+            if response.status_code == 200:
+                result = response.json()
+                if 'errors' in result:
+                    print(f"❌ Error en GraphQL: {result['errors']}")
+                    break
+                
+                batch = result.get('data', {}).get('transcripts', [])
+                if not batch:
+                    break
+                    
+                all_transcripts.extend(batch)
+                print(f"   ✅ Recibidos {len(batch)} transcripts")
+                
+                if len(batch) < limit:
+                    break
+                    
+                skip += limit
+                time.sleep(0.5)  # Breve pausa para no saturar
+            else:
+                print(f"❌ Error HTTP: {response.status_code}")
+                break
+        except Exception as e:
+            print(f"❌ Error: {e}")
+            break
+            
+    return all_transcripts
 
 def get_transcript_details(transcript_id, api_key):
     """Obtiene los detalles completos de un transcript"""
     
     query = """
-    query Transcript($transcriptId: String!) {
-        transcript(id: $transcriptId) {
+    query Transcript($id: String!) {
+        transcript(id: $id) {
             id
             title
             date
             duration
+            speakers {
+                id
+                name
+            }
             sentences {
-                text
+                index
                 speaker_name
                 speaker_id
-                start_time
-                end_time
-            }
-            summary {
-                overview
-                keywords
-                action_items
-                outline
-                shorthand_bullet
-            }
-            topics {
                 text
+                raw_text
                 start_time
                 end_time
-            }
-            participants {
-                name
-                email
-            }
-            speaker_time {
-                speaker_name
-                total_time
-                percentage
             }
         }
     }
     """
     
     variables = {
-        "transcriptId": transcript_id
+        "id": transcript_id
     }
     
     headers = {
@@ -140,99 +149,109 @@ def get_transcript_details(transcript_id, api_key):
 
 def find_space_id_by_title(title):
     """Busca el space_id en los upload records por título"""
-    upload_records = list(UPLOAD_RECORDS_DIR.glob("*_upload_record.json"))
-    
-    for record_file in upload_records:
-        try:
-            with open(record_file, 'r', encoding='utf-8') as f:
-                record = json.load(f)
-                if record.get('title') == title:
-                    return record.get('space_id')
-        except:
-            continue
+    try:
+        upload_records = list(UPLOAD_RECORDS_DIR.glob("*_upload_record.json"))
+        
+        for record_file in upload_records:
+            try:
+                with open(record_file, 'r', encoding='utf-8') as f:
+                    record = json.load(f)
+                    if record.get('title') == title:
+                        return record.get('space_id')
+            except:
+                continue
+    except Exception as e:
+        print(f"⚠️ Error buscando space_id: {e}")
+        return None
     
     return None
 
-def generate_formatted_transcript(transcript_data):
-    """Genera un archivo TXT formateado con la transcripción"""
+def load_database():
+    """Carga la base de datos de episodios para obtener metadatos"""
+    try:
+        with open("shared/episodes_database.json", "r") as f:
+            return json.load(f)
+    except Exception as e:
+        print(f"⚠️  No se pudo cargar episodes_database.json: {e}")
+        return {}
+
+def find_episode_in_db(space_id, db_data):
+    """Busca un episodio en la BD usando el space_id"""
+    if not space_id:
+        return None
+    if not db_data or "episodes" not in db_data:
+        return None
+        
+    for ep in db_data["episodes"]:
+        url = ep.get("space_url") or ""
+        if space_id in url:
+            return ep
+    return None
+
+def generate_formatted_transcript(transcript_data, episode_metadata=None):
+    """Genera un archivo TXT formateado con la transcripción y metadatos"""
     lines = []
     
-    # Header con información del episodio
+    # 1. Header estilo Deepgram (con metadatos enriquecidos si existen)
     lines.append("=" * 80)
-    lines.append("TRANSCRIPCIÓN FIREFLIES.AI")
+    lines.append("INFORMACIÓN DEL EPISODIO")
     lines.append("=" * 80)
-    lines.append(f"Título: {transcript_data.get('title', 'N/A')}")
-    lines.append(f"Fecha: {transcript_data.get('date', 'N/A')}")
-    lines.append(f"Duración: {transcript_data.get('duration', 'N/A')} segundos")
+    
+    if episode_metadata:
+        ep_id = episode_metadata.get('id', 'N/A')
+        title = episode_metadata.get('title', transcript_data.get('title', 'N/A'))
+        date = episode_metadata.get('date', 'N/A')
+        host = episode_metadata.get('host', 'N/A')
+        type_ = episode_metadata.get('type', 'hosted')
+        desc = episode_metadata.get('description', '')
+        duration = episode_metadata.get('duration', 'N/A')
+        listeners = episode_metadata.get('live_listeners', 'N/A')
+        
+        lines.append(f"Episodio: #{ep_id}")
+        lines.append(f"Título: {title}")
+        lines.append(f"Fecha: {date}")
+        lines.append(f"Host: {host}")
+        lines.append(f"Tipo: {type_}")
+        lines.append("")
+        lines.append("Descripción:")
+        lines.append(desc)
+        lines.append("")
+        lines.append(f"Duración: {duration}")
+        lines.append(f"Escuchas: {listeners}")
+        lines.append("")
+        lines.append("Links:")
+        if episode_metadata.get('space_url'):
+            lines.append(f"  Space: {episode_metadata.get('space_url')}")
+    else:
+        # Fallback si no hay metadatos de BD
+        lines.append(f"Título: {transcript_data.get('title', 'N/A')}")
+        lines.append(f"Fecha: {transcript_data.get('date', 'N/A')}")
+        lines.append(f"Duración: {transcript_data.get('duration', 'N/A')} segundos")
+    
     lines.append("")
-    
-    # Resumen
-    if transcript_data.get('summary'):
-        summary = transcript_data['summary']
-        lines.append("=" * 80)
-        lines.append("RESUMEN")
-        lines.append("=" * 80)
-        
-        if summary.get('overview'):
-            lines.append(summary['overview'])
-            lines.append("")
-        
-        if summary.get('keywords'):
-            lines.append("🏷️  KEYWORDS:")
-            lines.append(", ".join(summary['keywords']))
-            lines.append("")
-        
-        if summary.get('action_items'):
-            lines.append("✅ ACTION ITEMS:")
-            for item in summary['action_items']:
-                lines.append(f"  - {item}")
-            lines.append("")
-        
-        if summary.get('shorthand_bullet'):
-            lines.append("📝 PUNTOS CLAVE:")
-            lines.append(summary['shorthand_bullet'])
-            lines.append("")
-    
-    # Temas
-    if transcript_data.get('topics'):
-        lines.append("=" * 80)
-        lines.append("TEMAS DISCUTIDOS")
-        lines.append("=" * 80)
-        for topic in transcript_data['topics']:
-            start = topic.get('start_time', 0)
-            lines.append(f"[{start:.1f}s] {topic.get('text', '')}")
-        lines.append("")
-    
-    # Métricas de participación
-    if transcript_data.get('speaker_time'):
-        lines.append("=" * 80)
-        lines.append("MÉTRICAS DE PARTICIPACIÓN")
-        lines.append("=" * 80)
-        for speaker in transcript_data['speaker_time']:
-            name = speaker.get('speaker_name', 'Unknown')
-            time_val = speaker.get('total_time', 0)
-            percentage = speaker.get('percentage', 0)
-            lines.append(f"{name}: {time_val:.1f}s ({percentage:.1f}%)")
-        lines.append("")
-    
-    # Transcripción completa
     lines.append("=" * 80)
-    lines.append("TRANSCRIPCIÓN COMPLETA")
+    lines.append("TRANSCRIPCIÓN")
     lines.append("=" * 80)
     lines.append("")
     
+    # Transcripción con speakers
     if transcript_data.get('sentences'):
         current_speaker = None
         for sentence in transcript_data['sentences']:
-            speaker = sentence.get('speaker_name', f"Speaker {sentence.get('speaker_id', 'N/A')}")
+            speaker = sentence.get('speaker_name') or f"Speaker {sentence.get('speaker_id', 'N/A')}"
             text = sentence.get('text', '')
             start = sentence.get('start_time', 0)
+            
+            # Format time as HH:MM:SS
+            m, s = divmod(start, 60)
+            h, m = divmod(m, 60)
+            timestamp = f"{int(h):02d}:{int(m):02d}:{int(s):02d}"
             
             # Agrupar por speaker
             if speaker != current_speaker:
                 if current_speaker is not None:
                     lines.append("")
-                lines.append(f"[{speaker} - {start:.1f}s]")
+                lines.append(f"[{speaker} - {timestamp}]")
                 current_speaker = speaker
             
             lines.append(text)
@@ -250,6 +269,9 @@ def main():
     if not api_key or api_key == "tu_api_key_aqui":
         print("❌ Por favor configura tu FIREFLIES_API_KEY en el archivo .env")
         return
+    
+    # Cargar base de datos de episodios
+    db_data = load_database()
     
     # Obtener lista de transcripts
     print("🔍 Consultando transcripts disponibles en Fireflies...")
@@ -269,7 +291,7 @@ def main():
     
     # Descargar cada transcript
     downloaded = 0
-    skipped = 0
+    updated = 0
     failed = 0
     
     for i, transcript in enumerate(bandaweb3_transcripts, 1):
@@ -278,20 +300,24 @@ def main():
         
         # Buscar space_id
         space_id = find_space_id_by_title(title)
-        if not space_id:
-            print(f"[{i}/{len(bandaweb3_transcripts)}] ⚠️  No se encontró space_id para: {title[:50]}...")
-            space_id = transcript_id[:15]  # Usar parte del ID como fallback
         
-        # Verificar si ya existe
+        # Si no lo encontramos por título exacto en records, intentar buscar en DB
+        
+        # Fallback Logic existing
+        if not space_id:
+             # Try extracting from title if it looks like an ID? No, usually not in title.
+             # Just use fallback ID for file, but try to find metadata anyway.
+             print(f"[{i}/{len(bandaweb3_transcripts)}] ⚠️  No se encontró space_id para: {title[:50]}...")
+             space_id = transcript_id[:15]
+        
+        # Buscar metadatos del episodio
+        episode_metadata = find_episode_in_db(space_id, db_data)
+        
         output_file = OUTPUT_DIR / f"{space_id}_fireflies.json"
         txt_file = OUTPUT_DIR / f"{space_id}_fireflies.txt"
         
-        if output_file.exists() and txt_file.exists():
-            print(f"[{i}/{len(bandaweb3_transcripts)}] ⏭️  Ya existe: {title[:50]}...")
-            skipped += 1
-            continue
-        
-        print(f"[{i}/{len(bandaweb3_transcripts)}] 📥 Descargando: {title[:50]}...")
+        # SIEMPRE redescargar para asegurar speaker_id y datos frescos
+        print(f"[{i}/{len(bandaweb3_transcripts)}] 🔄 Procesando: {title[:50]}...")
         
         # Obtener detalles completos
         details = get_transcript_details(transcript_id, api_key)
@@ -301,28 +327,28 @@ def main():
             with open(output_file, 'w', encoding='utf-8') as f:
                 json.dump(details, f, indent=2, ensure_ascii=False)
             
-            # Guardar TXT formateado
-            formatted_text = generate_formatted_transcript(details)
+            # Guardar TXT formateado usando metadatos
+            formatted_text = generate_formatted_transcript(details, episode_metadata)
             with open(txt_file, 'w', encoding='utf-8') as f:
                 f.write(formatted_text)
             
-            print(f"            ✅ Guardado: {space_id}")
-            downloaded += 1
+            meta_status = "✅ Metadatos" if episode_metadata else "⚠️ Sin Metadatos"
+            print(f"            ✅ Guardado y actualizado ({meta_status})")
+            updated += 1
         else:
-            print(f"            ❌ Error al descargar")
+            print(f"            ❌ Error al descargar detalles")
             failed += 1
         
         # Pausa para no saturar la API
-        time.sleep(1)
+        time.sleep(0.5)
     
     print()
     print("=" * 80)
-    print("📊 RESUMEN DE DESCARGA")
+    print("📊 RESUMEN DE ACTUALIZACIÓN")
     print("=" * 80)
-    print(f"✅ Descargados: {downloaded}")
-    print(f"⏭️  Ya existían: {skipped}")
+    print(f"🔄 Total procesados/actualizados: {updated}")
     print(f"❌ Fallidos: {failed}")
-    print(f"📁 Total procesados: {len(bandaweb3_transcripts)}")
+    print(f"📁 Transcripts de BandaWeb3: {len(bandaweb3_transcripts)}")
     print()
     print(f"📂 Archivos guardados en: {OUTPUT_DIR}")
 

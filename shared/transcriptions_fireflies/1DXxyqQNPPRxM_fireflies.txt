@@ -1,0 +1,630 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #N/A
+Título: BandaWeb3 #050 @entigdd @LidoFinance
+Fecha: 2025-04-03
+Host: BandaWeb3
+Tipo: hosted
+
+Descripción:
+BandaWeb3 #050 @entigdd. Enti es lider de community staking en @LidoFinance, líderes en staking liquido. Enti nos contará sobre home staking, programa para correr validadores en casa.
+
+Duración: 01:07:40
+Escuchas: 48
+
+Links:
+  Space: https://x.com/i/spaces/1DXxyqQNPPRxM
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+[Speaker 0 - 00:00:00]
+Buenas tardes, buenas noches, depende de dónde se estén conectando a esta grabación.
+El día de hoy vamos a estar platicando con NT del IDLE a presentar en un momento por aquí lo vamos a tener.
+Pero primero que nada, como todos estos espacios, vamos a empezar con algo en musiquita Les voy a poner la canción que siempre pongo Minds Abyss de Liquid Tension Experiment No, perdón, perdón, este no es de Liquid Tension Experiment, estaba inspirada en una canción de Liquidation Experiment pero esta la hice con inteligencia artificial en SUNO y aquí estoy preparando una nueva manera de.
+Que se escuche mejor esto, vamos a ver si lo logramos el día de hoy, en un momento va a estar por aquí en TI Gracias por estar por aquí, les piné aquí arriba el espacio, perdón si me ayudan con likes y con repos, todo sumando vamos a estar platicando de staking casero, vamos a estar platicando de unos cursos que está organizando en TI sobre un programa de estudios de Ethereum y muchas, muchas otras actividades por ahí que nos va a platicar el buen NT.
+Les dejo aquí.
+Minds of Beast, empezamos en breve.
+Muchas gracias.
+Muchas gracias.
+Hoy no tengo mi ser tradicional, así que una disculpa si no se escuchó bien la canción.
+Eso fue Mind the Beast, una canción hecha con inteligencia artificial, de hecho estoy en una zona con un poco de ruido, ahorita me muevo para que se escuche un poquito mejor, pero voy a mandar invitaciones a los grupos que normalmente invito si me ayudan a compartir, a dejar su comentario, nos ayuda a llegar a más personas.
+El día de hoy estamos con de Lido Finance, nos va a platicar de muchas iniciativas que traen en este momento para hacer staking casero de hecho hoy en la mañana tuvimos hubo un workshop donde entró platicando de una nueva aplicación que se puede utilizar con Lido para poder tener un nuevo validador en tu casa sin tener que dejar en respaldo los 32 Ether que pide el sistema.
+Ahorita nos va a platicar todo el detalle, voy a subir aquí a mi cuenta personal, pero muchas gracias ¿Cómo andas.
+
+[Speaker 1 - 00:05:36]
+El día de hoy?
+
+[Speaker 0 - 00:05:37]
+Bienvenido.
+¿Me escuchas bien?
+
+[Speaker 1 - 00:05:40]
+¿Todo bien?
+Se me escucha bien a mí también.
+
+[Speaker 0 - 00:05:44]
+Perfecto, muchísimas gracias.
+Ahí de nuevo, no es en ser tradicional y estoy probando una nueva manera de que la canción se escuche un poquito mejor al ratito hago más pruebas porque creo que no he dado con el clavo, pero bueno, saludos a Alan, Mister Be, Yael, por ahí la cuenta personal no quiere subir, ahorita la volvemos a invitar, pero si, te escucho muy bien, muchas gracias por estar por acá.
+¿Cómo andas el día de hoy?
+¿Cómo te fue?
+¿Cómo viste el taller?
+Es una nueva aplicación que estabas dando por ahí, creo que lo van a publicar pronto.
+¿Cómo ves?
+
+[Speaker 1 - 00:06:20]
+¿Todo bien por acá?
+La verdad ha sido un día bastante intenso.
+Esta es como mi tercera.
+Mi tercera.
+Como mi cuarta, quinta llamada hoy.
+Pero bueno, bien igual para estas cosas es que uno.
+Uno se presta y estuvo divertido, estuvo bastante bien.
+Es una herramienta de Nethermind para correr nodos que me parece que está bastante buena y pues queríamos darle un poco de visibilidad porque bueno, que la gente sepa que hay opciones y que sepa que es bastante fácil usarlos también.
+Uy, no sé si, perdón, de repente.
+
+[Speaker 0 - 00:07:12]
+Creo que No me desmutié.
+¿Ya me escucho?
+Sí, creo que sí.
+
+[Speaker 1 - 00:07:16]
+Sí, ahora sí.
+
+[Speaker 0 - 00:07:17]
+Ah, perfecto.
+No, sí, la neta, por ahí estuve escuchando el taller.
+Ahí luego lo podemos compartir.
+Qué chido, qué chido tenerte por acá, que nos platiques un poquito de tu experiencia.
+Te he visto muy activo últimamente por ahí hemos hecho algunas colaboraciones donde yo como parte, y por aquí también veo a Yael, algunos del equipo como parte de T México.
+Estamos buscando iniciativas como las que ustedes traen.
+Nuki lo armamos hace como unos meses, por ahí hay un.
+Y hace poquito me llegó un dupnote que me gané en una rifa que se realizó ahora en diciembre.
+Y la neta, pues ha sido muy padre también ver cómo la diferencia de armarlo tú solo, a que te llegue ya empaquetado, que te llegue ya con el software y con todo lo necesario nada más para conectar, prender y listo.
+Ha sido muy, muy interesante.
+Pero bueno, empecemos por ti.
+¿Cómo te llamas?
+¿De dónde eres?
+¿Cómo llegaste a este ecosistema?
+¿Qué perfil de estudios tienes?
+Cuéntanos un poquito de.
+De tu historia y cómo ha sido tu proceso para entrar acá en la web.
+Híjole, no sé si escuchemos.
+Yo de repente como perdí señal.
+Dame a ver.
+No, ahí escuchan a Entin.
+Yo no lo alcanzo a escuchar.
+Voy a entrar en otra cuenta a ver si es mío señal.
+Si no, de plano no alcanzo a escuchar.
+Se me hace que te voy a bajar y te vuelvo a subir, a ver si con eso podemos arreglar aquí el tema.
+Denme un segundito.
+Ahorita lo volvemos a tratar de subir.
+De hecho está fallando esto.
+Mi cuenta tampoco he logrado entrar aquí con.
+La de Meximalist, pero ahorita volvemos a intentar.
+Vamos a volver a invitar a Enti y ahorita denme un segundito.
+Aprovechamos aquí para pinear algunas cosas arriba.
+Estoy pineando el espacio del día de hoy.
+También les voy a pinear.
+
+[Speaker 1 - 00:10:36]
+A ver si ahora sí.
+
+[Speaker 0 - 00:10:37]
+Ahí estamos ya.
+Creo que sí.
+¿Sí me oyes?
+Sí, ya estamos.
+
+[Speaker 1 - 00:10:47]
+Oye, bueno.
+Bueno, vuelvo desde arriba.
+Me llamo Isaac realmente, aunque todos acá en el espacio digital me conocen como NT y la Historia.
+Eso es un nombre que usaba para jugar o para estar, no sé, para.
+Sí, para cosas de Internet.
+Y pues así estaba mi cuenta de Discord, que estaban servidores con amigos.
+Y demás.
+Y de repente comienzo a entrar servidores de cripto y pues salgo con el nombre de Andy y pues fue agarrando fuerza y bueno, dije, ya fue, me lo dejo puesto que está lindo y ya está.
+Entonces eso, ¿Cómo entré en cripto?
+
+[Speaker 0 - 00:11:38]
+¿Qué perfil traes tú?
+¿De dónde eres?
+Este habla muy bien español, obviamente eres latino.
+Eso, eso está chingón, poder platicar en español de estos temas y que nos cuentes todo lo que están haciendo.
+Pero sí.
+¿Qué estudiaste de joven?
+¿Qué es lo que te gustaba?
+¿Eres ingeniero?
+¿Eres técnico?
+¿Eres marquetero?
+¿Por dónde va?
+
+[Speaker 1 - 00:12:02]
+Bueno, soy dominicano, vivo aquí en Santo domingo, República Dominicana.
+Me crié, aunque me crié realmente en Madrid hasta los 13, algo así más o menos.
+Pero sí es curioso, yo lo que estudié fue sonido, soy técnicamente ingeniero en sonido y demás.
+Y digo que es curioso.
+Primero me parece que no es una carrera tan común, por lo menos acá no lo es.
+También, no sé, la gente se sorprende mucho cuando digo que estudié eso, pero también porque cuando era pequeño me dice mi mamá que yo odiaba el ruido y pues decidí dedicarme a él.
+Imagínate tú.
+Mira cómo dicen.
+¿Cómo es que se dice?
+A tus amigos cerca y a tus enemigos todavía más cerca.
+Lo llevé bastante a rajatabla eso.
+Y pues tenía.
+Un amigo en la.
+No sé cómo le digan ustedes, bachillerato.
+Secundaria, que se yo.
+Y.
+Pues siempre le gustó programar y demás y lo hacía como por hobby o lo que sea.
+Y de repente me dice, chequéate este foro que hay muchas cosas interesantes, no sé qué.
+Y el foro resulta que es un foro donde hay muchas cosas, pero también la gente ofrece servicios de desarrollo de varias cosas y pagaban en Bitcoin o Ethereum.
+Y pues yo no sé, bueno, estaba.
+Estaba en la.
+¿Me puse a mirar, me puse a ver y cuando me fijo pues tengo cripto en la mano, no?
+Igual no entendía nada, así que después de un tiempo me cansé, no hice nada más, para mí era como un paypal o alguna forma de pago 10.000 veces más complicada y que se movía de presa, no tenía sentido.
+Lo dejé y pues seguí estudiando y fui a la universidad y demás.
+¿Y después de unos años pues estaba usando una aplicación, no sé si la conoces, como Audius se llama?
+
+[Speaker 0 - 00:14:23]
+Sí, claro, claro.
+En Solana.
+
+[Speaker 1 - 00:14:25]
+Exacto.
+Pues justamente.
+Pues como es todo esto, el sonido y demás, me gusta bastante la música y andaba ahí, siempre me gusta probar aplicaciones nuevas y ver cómo, por dónde se mueve eso.
+Y justo comencé a usar Audius al principio y un día, como un año después dicen, ah, mira, somos web y de repente tengo tokens de nuevo y como que ahí cae con el hoyo de nuevo.
+Esto ya es.
+Estamos hablando finales 2020.
+Sí, finales 2020, principios 2021.
+Ahí me pongo en contacto de nuevo con mi amigo que teníamos unos años que no hablábamos y él estaba trabajando en cripto también y digamos me ayudó a bajar un poco en el rabbit hole, aprender y pues de ahí.
+Desde ahí estamos acá.
+
+[Speaker 0 - 00:15:14]
+Chingón, chingón.
+¿La neta me gusta que nos platique la gente, digo lo que quiera, pero pues de dónde, de dónde entendió, dónde conoció, cuándo hizo ese clic?
+Porque creo yo que ya que uno entra y en realidad se pone a, le dedica tiempo a aprender sobre estas tecnologías, se clava y para mí en lo personal ha sido dificilísimo salir y creo que esas historias ayudan a que la banda entienda o vea cómo todos hemos de alguna u otra forma acabado por acá y tratando de construir.
+Bueno, ya tú ya tienes un rato haciendo cosas chidas, traes ahí un programa muy, muy interesante, cómo entras con la IDO, o sea, cómo te enteras de toda esta disrupción que hay en DeFi con el tema de staking.
+¿Cómo entras a Lido?
+¿Cómo es ese proceso?
+
+[Speaker 1 - 00:16:03]
+Pues después de DevCon en Bogotá, como que.
+Una buena cantidad de los que andábamos haciendo meetups locales en varios países nos reuníamos y demás, no me acuerdo, creo que cada dos semanas o una vez al mes o así.
+¿Y en una sale un chico y pregunta bueno y que si corremos nodos en nuestras comunidades?
+Y como que hicimos un pequeño grupito de trabajo y comenzamos a investigar porque habían como asuntos de seguridad relacionados y qué sé yo.
+No sé cómo me gustó el tema, fui cayendo por ahí y.
+Lo que decidimos hacer era, bueno, no estábamos todavía al nivel y justamente por ahí se acababan de anunciar y estaban saliendo como DVT y demás.
+Dijimos bueno, esto de DBT está bueno, puede ser la respuesta a los problemas que estábamos.
+Viendo.
+Y mientras salía eso de DBT, mientras nosotros mismos practicábamos, pues hacíamos como bastantes, procurábamos.
+Procuramos conectar con proyectos, les escribíamos, decíamos hey mira pues esto es Latinoamérica, esto tal, así, tal asá, deberían de prestar un ojo a Latinoamérica.
+Y ahí pues llegamos a hacer algún Twitter space, alguna actividad, alguna que otra cosa con un par de proyectos en el espacio staking.
+Y justamente por ahí llega Laido y dice bueno, estamos buscando, estamos a punto de volver el protocolo permissionless, a punto entre comillas.
+El producto lo habían anunciado pero todavía faltaba bastante tiempo, desarrollo.
+Pero eso, o sea, querían gente que comenzara a trabajar con ellos.
+Para esto.
+Y pues me lo pensé bastante, honestamente, si te soy sincero, incluso la forma en la que estaba presentado, pensé que iba a ser otra cosa, pensé que iba a tomar menos tiempo, pensé que completamente diferente porque tenía mi trabajo como quiera.
+Pero igual me mandé.
+Al final resulta que no, que era más demandante de lo que pensaba.
+Me tocó elegir y la verdad es que me gusta bastante el tema.
+Así que acá estamos.
+
+[Speaker 0 - 00:18:42]
+Uy, de repente, a ver.
+Estoy aquí batallando un segundito.
+
+[Speaker 1 - 00:18:53]
+Creo que te estoy escuchando, pero ahí estamos.
+
+[Speaker 0 - 00:18:55]
+¿Cuánto llevas ya en Lido y cuál es tu rol?
+Porque sé que estás encargado de todo lo que es Home Staking, pero no sé si seas tu única responsabilidad o tengas.
+Algunos otros temas que estés revisando.
+Sé que das muchos workshops, hemos estado mucho en pláticas para ver cómo se colabora, acá con la gente en Latinoamérica.
+¿Pero.
+De qué te encargas?
+¿Cuál es tu rol en lado?
+¿Qué es lo que estás haciendo?
+Y qué te gustaría que la banda que nos está escuchando el día de hoy ¿Cómo podía colaborar contigo y con la compañía?
+
+[Speaker 1 - 00:19:32]
+La mejor forma de colaborar conmigo, con LADO y con Ethereum es corriendo un nodo.
+Eso de entrada no hay ni que pensárselo mucho.
+Pero bueno, en Lido.
+Mi primera reunión así formal fue en diciembre del 23, o sea que tengo poco más de un año.
+Y por ahora, justamente recién.
+Oh, justamente recién un año.
+Estoy sirviendo como el coordinador de los Community Lifeguards, que es este equipo de equipo.
+Somos dos personas, pero estamos encargados de.
+Estamos en gran parte encargados de crecer y mantener engage a los operadores independientes en Lido mediante actividades, workshops, como el que viste esta mañana.
+Pero también hay, no sé, hay grants, intentamos hacer otras cosas, intentamos armar algunos programas, etcétera, etcétera.
+
+[Speaker 0 - 00:20:44]
+Si, la neta.
+Por ahí yo les puedo platicar un poquito.
+Bueno, primero que nada, me escucho bien, ya puse audífonos y a veces me escucho muy bajito.
+Perfecto.
+Ya cuando salgo de mi casa siempre hincho el setup en los hoteles.
+Pero.
+Yo empecé a correr nodos hace como unos cinco años.
+Yo empecé con un nodo de Bitcoin en una máquina toda vieja.
+Alcancé a poner una.
+Sí.
+Instalé también Lightning, abrí canales, empecé a probar mucho eso.
+¿Por qué?
+Yo soy ingeniero en electrónica.
+Teníamos, cuando yo estaba niño, joven igual, cuando tú decías carrera, bachillerato, entre esas épocas, tiendas de máquinas de computadoras, de software, de juegos de Nintendo, teníamos módems de esos viejitos.
+Yo empecé a jugar estos juegos que eran puro texto.
+No sé si les tocó alguno de los que nos escuchan, los Bulletin Board System, que le picabas norte y caminabas al norte, cast, spell, todo con CI, command line, interface, colores, puntos, no sé.
+Siempre me gustó mucho este tema de tecnología y los fierros.
+Y cuando conocí bitcoin En el 2017, dije madres, me voló la cabeza.
+Me metí, me clavé, empecé con el nodo, puse temas de Lightning, terminamos de repente pusimos unos nodos de minería en una oficina de un hermano.
+Acabamos luego comprando unas máquinas súper potentes.
+Cuando era proof of work, la pusimos a jalar, yo creí que se iba a tardar más el cambio, te soy sincero, yo creí que se iba a tardar más el cambio de proof of work a proof of stake y no le pudimos sacar retorno, cambió a proof of stake y ahí están las máquinas, ya las estamos vendiendo como partes para inteligencia artificial, pero ha sido un proceso bien interesante de entender cómo funciona la tecnología y que no son sistemas totalmente autónomos, o sea, es gente la que está corriendo y operando estos nodos.
+También yo uso mucho el contexto de que trabajé 11 años construyendo y dándole mantenimiento a data centers en Monterrey y en Querétaro, en todo el mundo, pero madres, es un dolor de cabeza, o sea, no es sencillo correr un data center, tienes temas de redundancia, tienes temas de control de temperatura, humedad, etcétera y mucho de lo que estamos viendo ahorita es ya cómo esos requisitos y todas esas pues imposibilidades técnicas se van disminuyendo, se van eliminando y ahorita tú ya con poca inversión puedes tener un nodo validador que esté generando pues la verdad un rendimiento interesante.
+¿Cómo has visto tú para ti cómo ha sido ese proceso de.
+No sé por dónde entraste, si conociste Bitcoin y luego Ethereum, etcétera, pero el tema de proof of work, proof of stake y ahorita lo que está haciendo Lido que tiene pues entiendo la mayor cantidad de Ether en staking protegiendo la red?
+Platícame un poquito de cómo has visto, cómo ha sido para ti ese proceso de cambios y qué finalmente es lo que está haciendo ahorita Laido porque Lido es un monstruo en la industria enorme, que tiene.
+Mucho TBL y creo que es una de las mejores aplicaciones que existen ahorita para hacer este tipo de liquid staking.
+
+[Speaker 1 - 00:24:01]
+Bueno, o sea.
+A ver, a ver, porque hay como un par de preguntas ahí, es un poco de información condensada.
+Pero.
+Pues justamente yo como que entré a trabajar tiempo completo.
+A cripto unos meses antes del merch y fue una locura, o sea, fue una locura nada más entrar a trabajar en cripto, pero también como.
+En ese momento preciso porque.
+Primero era un montón de información, me acuerdo que la primera semana.
+Honestamente me rendí, dije bueno entro mi amigo, me pasó mucha documentación, la leo y digo bueno gracias por la oportunidad, lo mejor a mí, nos vemos después, chao.
+Me leí, él trabajaba para un protocolo que había deployado un par de cosas, un exchange, gobernanza, no sé qué, pues me leí todo eso y la cabeza me explotar y después como las dos o tres semanas me hizo clic, volví, pues ahí agarré fuerza pero era un montón de cosas y después vienen y me dicen, hey, la cadena sobre la que está corriendo todo esto va a cambiar todo, o sea lo que sabes muy bien pero olvídalo.
+Así que fue bastante intenso pero igual yo nunca estuve tan.
+Quizás tan cerca, nunca llegué a ver tan de cerca el asunto de proof of work o proof of stake, ninguno de los dos, hasta esto que te digo, después que digo, bueno, ahora es mucho más fácil sí que obviamente cuando entré había visto lo de minar y había puesto, habían como unas páginas web que te ponían a minar en la computadora y escuchabas cómo se encendía el abanico a mil y qué sé yo, me acuerdo de.
+
+[Speaker 0 - 00:25:57]
+Esas apps, cabrón.
+Eso es todo lo.
+
+[Speaker 1 - 00:26:01]
+Que sabía y dije bueno, si puedo hacer dinero, hago dinero y está, que se yo, hice algunos centavos y no me sirvió de nada.
+Y pues después con esto que te digo, siempre me gustaron los sistemas, supongo que esa es la razón por la que incluso estudié sonido, lo que yo estudié realmente hice una secundaria técnica, la secundaria técnica hice electrónica y después la terminé en sonido, como que no sé, me interesaba cómo las ondas sonoras pasaban a ser digitales y viceversa y cómo todo se movía y pues igual siempre donde he trabajado, como he tenido ese interés y al final ese interés me llegó a la génesis de las blockchains como en el caso de Ethereum es el proof of stake.
+El core, lo que lo mantiene vivo.
+Y entonces en el caso de Lido específicamente pues sí, Laido es ahora mismo el protocolo de staking más grande, Ethereum tiene aproximadamente 27.28% del market share dividido entre un buen par de cientos de operadores.
+Y la idea un poco de Lido es como.
+Bueno, a ver.
+Hay ecosistemas, sobre todo ecosistemas más nuevos que están diseñados diferentes, que tienen staking nativo, no sé qué, y pues en Ethereum por alguna razón se decidió no hacerlo y Lido viene y creo que podría definir, por lo menos en mi opinión el valor de dos formas, es como por un lado es construir esa capa de staking que Ethereum no, que la IE en general no hizo de forma nativa pero también y eso implica como hacerla bien, pensarla bien, ir despacio y con mucha cabeza pero también hacerlo de una forma pragmática para poder competir contra.
+Entidades que se benefician mucho de de economías de escala y demás como centralized exchanges tipo Coinbase, Binance, okex y también otra clase de operadores.
+Es como que intentar salvaguardar.
+Es una posición complicada porque.
+Y bueno esto es un tema, esto es un tema largo pero mucha gente critica la posición de Lido, pero Lido está en esa posición.
+Para proteger otras cosas como que no ganas ninguna y.
+
+[Speaker 0 - 00:28:54]
+No, si genera polémica eso que mencionas, el tema de pensamos que tiene que estos sistemas, yo cuando entré había mucha.
+Sueños de descentralización, de todo se mueve.
+Entiendo, entiendo que genera polémica y que siempre es un tema que está ahí por la cantidad de Ether que tienen y por lo que eso a lo mejor representa.
+Pero yo lo que he visto es una tendencia hacia encontrar maneras de que eso no se centralice y de que se pueda proteger por diferentes operadores sin tener que pedir permiso Y es un proceso, no es algo que se va a hacer de la noche a la mañana, yo lo he visto cómo sacan aplicaciones, cómo sacan nuevas versiones, cómo prueban testnets, cómo dejan de ir algunas tenés ya acabamos de ver.
+Algunos nodos que tenía yo de tener los tuve que cerrar porque de plano ya dijeron pues ya no se les va a dar soporte.
+Es un proceso que va poco a poco, no sé tú cómo lo veas.
+
+[Speaker 1 - 00:29:56]
+Sí bueno por suerte ya digamos supongo que el sentiment de la gente hacia lado me parece que ha mejorado un poco porque ven el esfuerzo pero.
+Es justamente eso no, o sea hay protocolos que bueno son sobre el papel serán perfectos o lo que sea súper descentralizados y demás pero lamentablemente no pueden competir contra Coinbase, entonces es como encontrar ese balance es complicado y ser fiel a ese balance es complicado también hubiese sido mucho más fácil la IDO como protocolo el staking, los protocolos de staking como tal no son necesariamente tan complicados, no son sencillos tampoco pero no son tan complicados y laido viene y te arma un arma toste que es bastante complejo solo para procurar mantener ese balance y poco a poco ir cumpliendo con esas promesas en diferentes niveles, con diferentes.
+Mecanismos para intentar proteger o mitigar las preocupaciones.
+De todo el mundo, los posibles riesgos.
+Y sí, eso me parece que la gente está viendo el trabajo, la gente está viendo que se cumple lo que se promete, así que por ahí bien.
+
+[Speaker 0 - 00:31:24]
+Fíjate que sí, yo estoy, recuerdo el sentimiento hace algunos meses escuchaba y leía yo mucho del tema que no sé, a veces a lo mejor los Bitcoin, Maxis o alguno, algún maxi de alguna otra red que está bien que busquen los probables riesgos, las probables fallas, los puntos flojos, digo, hemos visto cómo.
+Hay sistemas que no conocemos del todo y de repente hay noticias como la de FTX, hackearon a una persona y por eso se robaron y solo a través de, o sea, creo que hay todavía muchos temas que tenemos que seguir experimentando y que probablemente vayan a seguir saliendo porque esa tecnología tiene 15 años nada más, o sea, estamos en ese proceso de irla mejorando, de ir construyendo, de ir poco a poco, yo lo he vivido con con los cambios que he visto en los nodos en los últimos meses, pero no sé, creo que siento que a veces la gente que no dimensiona, no dimensiona todo el paquete y todo el rollo que hay que hacer, no es tan fácil.
+
+[Speaker 1 - 00:32:32]
+Sí, la verdad que si fuese tan fácil no estaríamos acá, los que estamos acá es porque nos gusta el problema.
+Demasiado complicado, hubiese sido más fácil, no sé, comprar.
+Cualquier token tonto y hacer bolsa millonario aquí estoy volviendo más pobre todos los días.
+Mentira.
+
+[Speaker 0 - 00:32:55]
+Definitivo, definitivo.
+Concuerdo, concuerdo que.
+Se empieza con un producto, se escucha, la gente se va retroalimentando, se va ajustando, es algo que yo he visto y no sé, me imagino que estos módulos de community staking son en base a esa retroalimentación y también para fomentar que haya más personas protegiendo, más personas participando, más personas aprovechando los beneficios de poder hacer staking y de poder tener un retorno.
+Hemos visto ya algunos proyectos buscar este tipo de iniciativas como para fondear bienes públicos, eso es algo que la neta me voló la cabeza cuando escuché un tipo Octant, un tipo no sé, Rancho State por ahí está haciendo cosas así.
+Nosotros aquí en México estamos haciendo pruebas también para entender primero cómo funciona subir luego a Mainet y luego tratar de explicarle a las demás comunidades para que también lo apliquen y ha sido un proceso de meses, si no es que años.
+Y no es fácil, o sea, el operar un nodo, que la banda decida dedicarle un poco de tiempo a la semana, ponle 4 horas a la semana, entender a flashear un drive, podemos poner muchos tecnicismos, pero sí hay que operarlo, o sea, sí hay que meterse a moverle los fierros, a moverle el software, chatear con chatgpt que te ayude a resolver problemas, o sea, somos personas operando estos sistemas.
+Entonces, en lo personal se me hace muy interesante ver esa transición a que más gente pueda entrar, a que más gente pueda participar y me gustaría que me platicaras un poquito de eso, o sea, cómo están estructurando eso.
+Sé que ya hay gente que está utilizando estas tecnologías para hacer staking en comunidad, pero todavía no es como que abierto a todo mundo, no es abierto al público, por así decirlo.
+¿Cómo va ese proceso?
+
+[Speaker 1 - 00:34:53]
+¿Dices en Lido o en general?
+
+[Speaker 0 - 00:34:56]
+Sí, y en general, en general, porque he visto diferentes iniciativas, diferentes proyectos, están haciendo cosas similares pero cada uno con su.
+Con su tecnología distinta.
+
+[Speaker 1 - 00:35:08]
+¿Bueno, o sea, en general creo que.
+Como que se podría dividir en dos pues están saliendo bastante, bastante no?
+Están saliendo algunos proyectos que te permiten compartir.
+Las recompensas, pero tampoco tienes que correr un nodo, no sé.
+Unos chicos propusieron en Lido hacer eso y hay como una plataforma ahora con un par de ONGs que tú puedes usar tu Ether, stackearlo y decir bueno, de mis recompensas le demandas X por ciento.
+Y pues también está Octan que tenía su propia infraestructura, pero creo que la movieron o la querían mover.
+Recuerdo que hicieron como un anuncio con D VA, pero D VA todavía no ha salido a Mainnet, también es eso, ¿No?
+Diva todavía no sale a Mainnet, Hay como un par de proyectos todavía que están ahí.
+Cocinándose, pero también hay proyectos que.
+Que están creciendo bastante y bueno, la respuesta obvia podría ser la ido, pero también, no sé, hasta Rocket Pool está pusheando unas actualizaciones que están bastante buenas.
+No están en vivo todavía creo, pero deberían de venir por ahí.
+Lo único que por varias razones, ya sea porque algunos fueron primero y pues ser primero viene con sus ventajas y desventajas.
+Y no sé, un ejemplo es Rocket Pool.
+Rocket Pool en cuanto a permission les fue primero, pero eso también quiere decir que es un poco más complicado.
+
+[Speaker 0 - 00:36:55]
+La.
+
+[Speaker 1 - 00:36:56]
+Forma en la que está construido es un poco más complicado, entonces es un poco más difícil como construirle cosas arriba, hacer cosas arriba de eso.
+Lido, Bueno, pues para bien o para mal se ha tenido el tiempo de observar todo y como que tomar decisiones en base a lo que funciona o no y pues ahí por lo menos el CCM es bastante simple y cualquiera puede entrar y no sé, si quieres correr nodos con tu comunidad, puedes usar OBOL o SSB, correrlos.
+Y pues con el CCM es bastante fácil.
+Es casi igual, prácticamente igual que correr un nodo normal de.
+
+[Speaker 0 - 00:37:43]
+Ethereum.
+
+[Speaker 1 - 00:37:47]
+Y es un poco la idea, de hecho se llama así, CCM es el Community Staking Module, como que invitar a gente.
+Invitar a entidades, ya sean individuos o o grupos que no están precisamente corriendo, que su motivación principal para correr nodos es aportar Ethereum, no necesariamente como ganar dinero, y con ganar dinero me refiero a hacer un negocio, ¿No?
+Tampoco es que las cosas se hacen completamente gratis o una pérdida.
+Es un poco la idea de.
+Pues de todo, ¿No?
+Sí es verdad también que es bastante reciente, entonces cada vez está.
+Bastante reciente, entonces la experiencia no es tan prolija, no es tan fina todavía en muchos sentidos, pero también la verdad es que en este último año ha mejorado un montón, entonces esperaría que este año también por ejemplo la experiencia de hacer staking hoy y hacer staking a final de año seguro cambia dramátic radicalmente no, definitivamente.
+
+[Speaker 0 - 00:39:00]
+Hace meses.
+Que yo empecé, sí he visto un cambio definitivo en la experiencia del usuario, del operador, el que tiene que armar el equipo o el que compra un equipo ya armado y le instala el software y lo corre, o sea, hay que configurarlo, hay que generar llaves privadas, hay que seleccionar ciertos campos y copiarlos, o sea, no es todavía súper automático donde se instala y corre y listo, o sea, tienes que meterte a veces al command line a escribir y si lo he visto mejorar mucho.
+¿Cómo lo ves?
+Como tú dices, en un año va a mejorar mucho, pero va a llegar un punto donde no sé, digo, soñando podemos tener a lo mejor nuevos validadores en el celular, cosas así.
+O ya en aparatos súper sencillos, no voy a tener un refrigerador con mi nodo, saber a dónde vamos a llegar.
+
+[Speaker 1 - 00:39:59]
+Pues fíjate qué.
+Es una muy buena pregunta de hecho, y fíjate que como se están moviendo las cosas últimamente, no sé si tengo la respuesta porque, y lo digo porque pues creo que cuando entré a Ethereum en general.
+Sí, como que la idea era eso, volver a la cadena stateless para que no tuviese que almacenar tanta información que pudieses como participar desde una patata, prácticamente pudieses validar una patata, pero.
+Me parece que los tiros, ahora.
+Si te digo que sé hacia dónde van, te miento.
+No tengo ni idea de qué va a pasar, porque es que también ahora, pues no estamos solos con todo esto de Solana que ha pasado y demás, es como que hay un sentimiento de urgencia por también escalar ethereum, la capa 1.
+Y escalarla lo más probable es que signifique que la patata no puede correrla, entonces es como que estamos como en esa conversación, supongo, y digo estamos, supongo que todos, yo no he hablado directamente con nadie al respecto, pero como que el sentimiento y las conversaciones de los researchers, de la EF y otros equipos y demás, se ven así.
+Y creo que todavía no hay consenso, excepto porque eso, en lo que sí hay consenso es que se debe escalar la layer 1 que urge, ¿No?
+Claro, pero entonces ahí entras como en una pelea medio como la que hubo con los mineros, porque también los stakers que estamos ahora no queremos desplazarnos.
+Y.
+Es un asunto complicado, porque ellos.
+Complicados.
+
+[Speaker 0 - 00:42:06]
+No, definitivamente hemos visto los reportajes o los artículos que escribe Vitalik, y luego hay comentarios, los cambios que hemos visto también en la fundación, en la manera que están estructurando estas nuevas organizaciones como Etherealize, que están buscando, no sé, en mi opinión, salir a vender, ayer los vi creo que en una foto en la Casa Blanca, o sea, definitivamente la gente se ha quejado, los usuarios nos hemos quejado y entendible, o sea, las L han ocasionado y resuelto muchos problemas, pero también han traído mucha fragmentación en el ecosistema, comunidades divididas, muchas fundaciones repartiendo lana, haciendo muchas cosas por todos lados, o sea, siento que sí hace falta, o que como tú dices, ese consenso y ese debate y esa polémica que puede generar algo así, todavía no sabemos cómo.
+Cómo va a estar uno, dos y mucho menos cinco años, y está bien interesante porque creo yo que los que decidimos meter nuestro tiempo a opinar, a hacer, probablemente programar cosas nuevas, podemos darle dirección y podemos influenciar el rumbo de lo que agarra esta tecnología, eso está bien interesante, las pruebas que hacemos en nuestras casas, sé que hay herramientas que obtienen información toda esa información se analiza y en base a eso luego surgen todos esos cambios.
+Pero de la noche a la mañana esto puede cambiar.
+Trump mañana dice, nos vamos allí en Solana y madres, quién sabe qué pase.
+Entonces sí, sí se me hace súper interesante el ver cómo la gente, la comunidad, los protocolos, el mismo Vitalik y las fundaciones que están detrás de todo esto van poco a poco ahí escuchando y cambiando y debatiendo cosas nuevas.
+Hace poquito escuché o leí un reportaje, un artículo de Vitali que decía ya no le llamemos public goods a las cosas, ya no fondeamos public goods, fondeamos open source goods, narrativas que cambian de la noche a la mañana porque el mercado cambió, porque la situación, porque la gente se siente de una manera, etcétera.
+Híjole, difícil para decir, como tú dices, pero interesante ver los esfuerzos hacia el rumbo que está tomando por ejemplo, Lido y las otras organizaciones.
+¿Qué opina?
+
+[Speaker 1 - 00:44:28]
+Sí, o sea, en general, como quiera, creo que la noción de poder, de que cada uno pueda verificar la cadena es un valor muy importante en Ethereum, es como parte fundamental de la propuesta de valor.
+Entonces no me parece que eso vaya a cambiar.
+Pero lo que está en cuestión es como también qué tan fácil va a ser.
+Pero también la verdad, si me preguntas a mí personalmente, honestamente, una cadena que quiere, que queremos que maneje la economía mundial, que te cueste menos de mil dólares el equipo, no sé si hace tanto sentido.
+Bueno, que sí yo hay que manejar un balance y después pues hay like clients y demás, que eso pues para la patata, quizás la patata no puede validar, pero puede seguir verificando la cadena e igual ayer, ayer o antes de ayer, no me acuerdo, hubo una reunión, la primera llamada pública del equipo de research de la IE, no la vi, pero entiendo que lo que hablaban era un poco de eso.
+Y uno de los researchers, de los lead researchers de la IE, lo que propone también es como quizás separar.
+Trabajos.
+En la cadena.
+Entonces no sé, podrías tener como algunos servidores ultra pesados haciendo una cosa, podrías tener la comunidad haciendo otra para la cadena y como que separas un poco los trabajos en vez de tener a todo el mundo realizando lo mismo.
+Entonces, bueno.
+Me acuerdo lo que te decía al principio de que los protocolos de staking son simples, son simples, lo que no es simple es que se mueve todo abajo siempre.
+Entonces cada vez que hay un hard fork o lo que sea.
+Te cuesta bastante esfuerzo nada más actualizar el protocolo para acomodarte el hard fork, eso sin hablar de nuevas funcionalidades.
+Esto es como un poco, un poco eso.
+Ahora imagínate si cambian todo el esquema.
+
+[Speaker 0 - 00:46:36]
+De.
+Cómo correr nodos o el consenso que de repente oye, sabes que ya se descubrió una nueva, lo que era con.
+Tecnología de CK o ve tú a saber, que si el sharding, que si hay muchas palabras por ahí que han salido y el caso lo vimos ahora que cambió.
+La actualización de Petra con el testnet de Joleski, o sea, hubo un cambio ahí, entiendo que faltó en algunos clientes ajustar ciertas cuestiones y finalmente acabaron matando la cadena y qué bueno que existan esas cadenas de prueba, pero como tú dices, no sabes qué va a pasar con la siguiente actualización, si lo que tú tienes ya desarrollado te va a funcionar con los cambios que estamos viendo, porque son hard force completos que de repente meten nuevas aplicaciones o nuevos usos que no tenían contemplado y pues eso tiene que funcionar de una u otra forma, cómo.
+Por ejemplo ahora que cambió y que mataron o que está muriendo Joleski y que nace la nueva testnet.
+Juli se llama, creo.
+¿Para ustedes qué tanto relajo fue, o sea, cómo les afecta algo así?
+
+[Speaker 1 - 00:47:56]
+Pues fue, va por lo que escuché, pero también no estoy en el equipo que manejó todo eso, pero fue algo intenso, primero porque fue repentino, es como que bueno, dame un segundo porque nosotros necesitamos, nosotros y todo el mundo necesitamos una cadena de pruebas funcional para probar cosas, bueno, es para eso y sobre todo ahora que se viene PECTRA y eso, es como que nos vas a dejar en el limbo sin probar nada, no tiene sentido.
+Creo que se pidió una prórroga para hacerle sunset a Joleski, como que no haya tanta prisa.
+Y después de eso a mí me sorprendió bastante la verdad.
+Después se lanzaron hoodie y al par de días creo, como mucho a la semana ya estaba todo el aire montado.
+
+[Speaker 0 - 00:48:46]
+Fui.
+
+[Speaker 1 - 00:48:49]
+Y como te digo, Lido es un protocolo grande, o sea, fíjate que tienes, tienes todo de gobernanza, que la gobernanza de Lido está montada sobre el Aragón Viejo, que es horrible, o sea, para sus tiempos era muy bueno, pero o sea, es un pedazo de infraestructura pesado.
+Tienes lo que la e se llama el staking router, tienes tres módulos, ahora viene un cuarto, tienes como mucha infraestructura, tienes oráculos, tienes monitoreo, o sea, es un montón de cosas y prácticamente al toque dejaron todo lo que estaban haciendo y lo pasaron a hoodie.
+Para mí van a durar más o menos un mes, pero imagínate tú, lo metieron una semana.
+Me pareció bastante, bastante diligente por la parte del equipo que estaba manejando, eso.
+
+[Speaker 0 - 00:49:41]
+Sí, sí fue un tema.
+Yo tenía un nodo corriendo de Noleski y cuando empezó todo este show.
+La velocidad, la RAM, o sea, el consumo energético y de recursos de la máquina madre se fue así, pero para arriba, final, ahí estuvimos nosotros ahí en el equipo, en el grupo que tenemos los noderos de tiro en México, platicando.
+Finalmente decidimos matarlo y ahorita estamos en ese proceso de instalar las nuevas aplicaciones en Duplo para correr Uli, que si están, que si no están, que si hay que esperar que las suba, o sea, estaba bien interesante ver cómo funciona todo esto, ya más en las tripas y más en lo técnico.
+No he podido entrar esas llamadas, yo creo que la siguiente no me la pierdo.
+Y de hecho tú traes por ahí un programa para empezar a platicar estos temas en español.
+Ya lo opiné aquí arriba, si quieren ir a inscribirse, hay una sesión, la primera sesión que está organizando en TI Isaac es en español, está el Luma ya pineado aquí arriba, empieza ahorita, les digo, el miércoles 9 de abril a la una de la tarde Ciudad de México, de 1 a 2.
+Cuéntame un poquito de este programa.
+Y lo importante.
+Para la gente que le gusta la parte técnica, que yo como ingeniero me encanta, no lo puedo negar, pero definitivamente no es para todos, pero qué se va a ver en el programa, que la gente puede aprender.
+Obviamente los invitamos a que se inscriban, yo ya me inscribí, voy a estar por ahí escuchando y aprendiendo porque me encanta, pero veo a mucha banda por aquí que algunos de los que tienen nodos o quieren empezar a correrlos y también que están muy metidos en el tema de ethereum y capas 2, como embajadores, dando pláticas, etcétera, pero siento que siempre ayuda ver un poquito más técnicamente cómo funciona todo esto.
+¿Qué opina?
+
+[Speaker 1 - 00:51:35]
+Bueno, primero gracias por compartirlo.
+Y pues esto es un programa que realmente lleva la fundación, la IE.
+Y pues un día dije, bueno, qué sé yo, o sea, está bien, yo quería hacer el programa, pero por tiempo tampoco lo puedo llevar, el programa es un poco más intenso.
+Y dije, bueno, también, no sé, no veo tanta gente como de este lado del mundo que se esté metiendo en el programa y demás.
+Bueno, comencé haciendo un Telegram.
+Y como, no sé, dije, bueno, quien esté llevando el programa que le interese, pues que se, que entre y de ahí podemos charlar y que se yo, bastante tranqui.
+¿Y en una pues también dije, bueno, puedo armar alguna sesión?
+Y hablamos un poco así de viva voz y vemos, vemos qué onda.
+Por suerte sí soy familiar con una buena parte de los conceptos que están dando en el curso.
+Este curso, el curso de este año es un poco más extenso que el curso el año pasado, de todas formas.
+Y también es como eso, ¿No?
+Pues hablo mucho con operadores de nodos, o gente con este perfil.
+De gente muy involucrada, o sea, si llegas a correr un nodo o algo así por el estilo, porque de verdad estás bastante metido.
+Y la mayoría de gente pues le interesa saber más, me parece que está bueno que sepan más.
+Y pues eso, siempre nos quedamos en Twitter mirando sin entender nada o opinando, pero sin sentir que se nos escucha.
+Y pues es una pequeña, poniendo mi granito de arena a ver si más gente se anima a tomar el curso.
+Y después el curso.
+El curso lo que te prepara es para el fellowship, que el fellowship ya es un programa más estructurado, para el fellowship seleccionan a un par de personas que le dan hasta un subsidio mensual para que se puedan dedicar a eso, y trabajan en un proyecto de investigación o desarrollo en Ethereum.
+Que igual, o sea, el programa es decir, pero a mí me parece que lo que te da realmente son las herramientas para entender blockchains y que después de ahí, si te quieres trabajar una aplicación, pues puedes irte a trabajar una aplicación y hacerla bien.
+Y nada, lo que esperar, que se yo, o sea, eso tampoco me sobra el tiempo, lamentablemente.
+Entonces mi plan es hacerlo un poco más informal, es como nada más habilitar el espacio, hacer alguna agenda, quizás para esta primera sesión como que intento hacer algo más estructurado para dar contexto, y después si nos seguimos reuniendo, pues sería un poco más eso, como un espacio abierto, quizás leemos en vivo algo en cada sesión, no sé, todavía no tengo muy seguro, pero es eso, tener el espacio y ver si de ahí por lo menos sale uno.
+Que siga ese camino.
+
+[Speaker 0 - 00:54:48]
+Ojalá se animen algunos de los que están por acá escuchando, ya está pineado aquí arriba Luma para que se inscriban.
+¿Qué tanto puede llegar a, o sea, supongamos.
+Alguien súper técnico que quiere llegar a tener mucha influencia y a lo mejor trae ideas que puede implementar?
+¿Qué tanto está abierta la fundación y todos estos protocolos?
+Gente que se ponga a estudiar, que luego a lo mejor llega obtener un fellowship, o sea, ¿Qué sigue?
+¿Puede conseguir trabajo, ¿Puede entrar ya desarrollador core full time a la fundación o alguna de estas instituciones?
+¿Qué camino le ves a la banda que se quiere meter full, full, full, no nada más a correr el nodo, sino ya no sé, hacer blockchains como tú decías, o aplicaciones, etc.
+Es una.
+
+[Speaker 1 - 00:55:35]
+Buena pregunta porque claro, es importante saber el valor agregado?
+A ver, yo no tengo nada que ver con la IEF, así que tampoco es que puedo prometer nada, pero.
+La mayoría de gente que han hecho el fellowship pasado, creo que este es el cuarto año o el tercer año.
+
+[Speaker 0 - 00:55:56]
+Han.
+
+[Speaker 1 - 00:55:56]
+Conseguido trabajo en algún equipo de cliente, en la IEF, en algún otro protocolo.
+Y además, pues si algo he aprendido, si algo estoy seguro es que este es el espacio más meritocrático que hay.
+Si apareces y no sé, o sea, el fellowship de hecho pasa en el servidor de Discord de la IEF para Research y Development, o sea, está rodeado de todos, entonces tienes ojos arriba y acá en Ethereum en general no he visto nadie que que ponga el esfuerzo y demuestre competencia y que eventualmente no sea recompensado de alguna forma.
+Así que me parece que si a alguien le interesa, definitivamente me parece que es una muy buena ruta además porque estamos viendo como, no sé, ahora Estados Unidos con Trump adoptando mucho más cripto y demás, me parece que nos está matando al corto plazo, pero de una forma u otra, a largo plazo.
+Creo que va a crecer todo mucho y pues son oportunidades que hay que capturarlas temprano porque si no las captura otro.
+
+[Speaker 0 - 00:57:12]
+Sí, definitivamente, yo creo que estamos en una etapa crítica, bueno, no crítica, pero sí en un parteaguas interesante, súper importante.
+En la industria, en el ecosistema.
+Todos los casos de uso que están viendo ahora con estas fundaciones e instituciones enormes, ya vemos a BlackRock, vemos estos fondos de inversión enormes a los bancos voltear a ver esas tecnologías.
+Ahorita yo estoy dando una plática acá en México con banqueros también locales y como que les vuela la cabeza cuando uno les habla de stablecoins, el costo, la rapidez, todas las ventajas que tienen algunas de esas herramientas y digo, o sea, madre, somos todavía poquitos, o sea, sí la comunidad ha crecido, sí el ecosistema ha crecido, sí México y creo que en general Latinoamérica en los últimos dos, tres años ha tenido un repunte muy, muy, muy fuerte, pero falta, o sea, siento yo que apenas están volteando a ver estas instituciones, grandes protocolos, blockchains, el mercado y apenas están empezando a apoyarlo con eventos, con lana, con iniciativas.
+Pero creo que es el momento perfecto para que alguien que quiera aprender o meterse ya full, full, full y conseguir trabajo a lo mejor en esta industria, lo haga a través de estos programas y la neta, qué chido que los estés llevando a cabo y ojalá que la banda se anime y participe porque sí siento que faltan más personas técnicas, sí decidiendo, sí haciendo programación, pero hablando, o sea, como tú, que vienen, hacen espacios, que hacen workshops, que están activos en redes, que construyen en público, gente técnica que hable, que enseñe, que dé pláticas, que de workshops.
+Uy, creo que nos faltan, por acá veo a Gwen Gistro, le mando un saludote, crack de cracks.
+Aquí también en el ecosistema veo también algunos embajadores como Tori, creadores de contenido como GZ, como Caro, Yael, Richie, Mr.
+B, o sea Banda, Looper, todos los que están por acá conectados, esa gente que ya tiene años.
+¿Qué les dirías?
+¿Qué les recomendarías?
+Una, primero que nada yo sí les recomendaría Corran un Nodo, está muy muy interesante, es mucho aprendizaje, hay que dedicarle tiempo y sí, se aprende mucho y entiende uno cómo funcionan muchos de estos sistemas y creo que te da un panorama mucho mejor de cómo es el ecosistema y de cómo irlo mejorando poco a poco.
+Pero.
+Estos programas más técnicos también creo que son muy importantes.
+Ojalá que se anime la onda.
+
+[Speaker 1 - 00:59:46]
+Bueno, ¿Qué les diría?
+
+[Speaker 0 - 00:59:54]
+Sí, ¿Qué le recomiendas a la gente?
+¿Cómo te podemos ayudar?
+¿Como le podemos ayudar al Idle, a Ethereum, a la red en general?
+Creo que lo perdimos un segundo o se mutió.
+Uy no, de repente te perdí.
+No sé si a lo mejor bajándote.
+Denme un segundito.
+De aire, vamos a.
+
+[Speaker 1 - 01:00:49]
+Ver.
+
+[Speaker 0 - 01:00:51]
+Para irnos despidiendo, pasamos un poquito del tiempo.
+Oigan, yo mientras por aquí veo a lo subimos despertico, estoy en Guadalajara, ayer estuve por acá con la comunidad, fuimos a cenar, ya lo tengo por acá, se me esforzó, muy divertido, al rato les cuento.
+Listo, ahí estamos.
+Listo.
+
+[Speaker 1 - 01:01:24]
+¿Bueno, a ver, decía primero me tengo que ir a otra reunión, pero igual avisé que me.
+Que me den unos minutos y creo que lo que me preguntabas era como qué les podría decir a la gente que está acá, no?
+
+[Speaker 0 - 01:01:41]
+¿Sí, obvio, invitarlos a correr nodos y a participar en el programa de estudios, pero qué más, qué más puede hacer la banda?
+Y gracias por estar por aquí, ya.
+
+[Speaker 1 - 01:01:49]
+Estamos cerrando también y bueno.
+No sé si soy el que está.
+No sé, no suelo dar tantos consejos, no sé si soy el que está mejor para dar consejos también porque qué sé yo, es como creo que gracias.
+
+[Speaker 0 - 01:02:07]
+A Dios.
+
+[Speaker 1 - 01:02:08]
+Al universo, como quieran, he tenido bastante suerte.
+
+[Speaker 0 - 01:02:16]
+Pero.
+
+[Speaker 1 - 01:02:18]
+Nada, eso me parece que lo que hay es que tener es mucha convicción.
+Educarse bastante, investigar bastante y como formar sus propias conclusiones y después.
+Es un espacio en qué.
+Esa clase de apuestas pagan.
+Y por eso me parece que merece mucho la pena involucrarse bastante y ya después cada quien tendrá su forma de involucrarse.
+Pues a mí soy un poco más técnico, soy como quizás como de tu perfil similar, más ingeniero y demás, como que me gustan esas cosas, pero quizás hay gente que es más emprendedora y lo que quiere es pues armar una aplicación aunque no sepa programar una línea o hay gente que quizás es, tu apuestas con, no sé, algún rol no técnico tipo marketing o algo así y pues creo que estas historias son bastante populares acá, como que historias.
+De éxito y que de todas formas, para bien o para mal es un espacio inherentemente técnico, entonces esas cosas como correr un nodo o quizás no tan lejos como correr un nodo, pero entender cómo funcionan muchas de estas cosas también te puede llevar.
+Bastante lejos, es como, bueno, si trabajas para, aunque hagas, no sé, aunque qué sé yo, aunque limpies los baños de las oficinas de Google, te conviene saber cómo funciona Google, como que son empresas grandes y creo que nosotros, Ethereum como ecosistema o cripto como ecosistema eventualmente acabará siendo de tamaños parecidos.
+No sé me compliqué mucho, pero es una pregunta complicada.
+
+[Speaker 0 - 01:04:11]
+No, no, definitivo, definitivo.
+Sí es algo que necesitamos más banda que lo haga, creo yo, y que hable más de estos temas, o sea, que sea más público, que platique lo que le gusta.
+Sí, esos perfiles técnicos haciendo contenido, creo que al menos en Latinoamérica lo he visto de algunas personas, pero sí, sí siento que nos ayudaría a tener a más bandas haciendo todos estos temas.
+Oye, Tino, pues muchas gracias por estar por acá.
+Disculpe.
+Temas técnicos, no estoy en mi set up tradicional, ando viajando, ahorita me voy a dar la plática con los banqueros acá en Guadalajara, pero bueno, sigamos platicando.
+Me encantaría tenerte en algunos meses ya que todo esto mejore en cuanto a la experiencia del usuario, que se decidan muchas cosas que ahorita se están decidiendo.
+Va a ser bien interesante seguirle la pista a lo que está haciendo lado, lo que están haciendo también con el módulo de staking en comunidad y obviamente estos talleres y sesiones de estudios para aprender sobre Tidium.
+De nuevo, muchas gracias.
+¿Algo adicional que se te haya pasado comentar?
+Si, no, pues ya nos despedimos.
+
+[Speaker 1 - 01:05:22]
+No, la verdad no, pues mantenerse al tanto un poco de todo lo que estamos trabajando en Lido y pues animar a todo el mundo a.
+Mantenerse bullish a pesar de las condiciones del mercado.
+Y nada, gracias a ti Mexi por el espacio de una cualquier cosa, tú o quien sea que está acá me pueden, me pueden escribir, me gusta hablar, así que eso no es nunca un problema.
+En privado o hasta acá, cualquier cosa, estamos a la orden y bueno, mucha suerte allá con los Banqueros de Guadalajara.
+
+[Speaker 0 - 01:06:00]
+No, muchas gracias.
+Por acá abajo está Tori que está empezando a hacer espacios, está Caro que tiene años haciendo espacios, Vince y la gente de Pulso Media también, Beba G.
+Hay muchos creadores de contenido de Yael, por supuesto, ahí en Ethereum México estamos constantemente platicando de estos temas, si gustan, pues ahí está el contacto, echen un DM para que programen una llamadita, invítenlos a su espacio.
+Todo placer platicar contigo en ti, conocerte un poquito más.
+Poder compartir de lo que están haciendo ahí en lado y de lo a lo mejor en el futuro viene.
+Está cabrón atinarle y es bien interesante verlo, pero pues bueno, aquí vamos a seguirlo platicando.
+Muchas gracias a todos.
+Hoy no hay musiquita de salida porque decía el cero está medio complicado pero lo voy a rubiar así de bueno primero.
+
+[Speaker 1 - 01:06:50]
+Bueno, gracias, nos vemos por ahí.
+Chao.
+
+[Speaker 0 - 01:06:54]
+Muchas gracias banda, estamos platicando ahí nos vemos el próximo martes con Suápido, va a estar por acá en banda web el CEO de Suápido nos va a platicar de la aplicación que tiene para convertir Bitcoin a pesos de manera sencilla y el próximo jueves Oma Cash, que es otra aplicación similar para convertir a pesos con un bot de WhatsApp.
+Está muy interesante lo que está pasando acá en Latinoamérica con el tema de las rampas y las maneras para gastar y utilizar cripto.
+Ahí.
+Pasaré más información.
+Ahora sí, los dejo, ya ve bien tarde y bye.
