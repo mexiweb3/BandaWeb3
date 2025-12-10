@@ -12,23 +12,55 @@
     ],
     "website": "https://bandaweb3.com",
     "twitter": "@BandaWeb3",
-    "last_updated": "2025-12-07",
-    "total_episodes": 981,
+    "last_updated": "2025-12-09",
+    "total_episodes": 982,
     "statistics": {
-      "total_episodes": 981,
-      "total_duration": "1931:08:27",
+      "total_episodes": 982,
+      "total_duration": "1931:09:57",
       "average_duration": "01:58:35",
-      "total_listeners": 338149,
-      "average_listeners": 348.25,
+      "total_listeners": 338338,
+      "average_listeners": 348.44,
       "episodes_with_listener_data": 971,
       "breakdown_by_type": {
-        "hosted": 256,
+        "hosted": 257,
         "Spoken": 584,
         "co-hosted": 141
       }
     }
   },
   "episodes": [
+    {
+      "number": "075",
+      "title": "BandaWeb3 #075 Emprendiendo @KoilenAI",
+      "date": "2025-12-09",
+      "time": "12:00 PM CST",
+      "space_url": "https://x.com/i/spaces/1yoJMPVEEzeGQ?s=20",
+      "audio_url": "",
+      "flyer_urls": [
+        "075.png"
+      ],
+      "guests": [
+        "Diego Benitez"
+      ],
+      "guest_links": {
+        "Diego Benitez": "https://x.com/diegobc28"
+      },
+      "duration": "",
+      "description": "BandaWeb3 #075 Emprendiendo @KoilenAI. Martes 9 Dic 2025 - 12 pm🇲🇽. Invitado: Diego Benitez @diegobc28. Nos conocimos en Blockchain Land (MTY2022)… y hoy estamos lanzando un startup juntos. 🔥 Esta es la historia real detrás de 🧊 Koilen",
+      "topics": [
+        "Koilen",
+        "AI",
+        "Startup",
+        "Emprendimiento",
+        "Blockchain Land"
+      ],
+      "status": "scheduled",
+      "transcript_available": true,
+      "content_generated": false,
+      "type": "hosted",
+      "host": "@meximalist",
+      "is_numbered": true
+    },
     {
       "number": "074",
       "title": "BandaWeb3 #074 Hackathon @ETHGlobal 🇦🇷 EVVM",
@@ -51,7 +83,7 @@
         "Blockchain"
       ],
       "status": "published",
-      "transcript_available": false,
+      "transcript_available": true,
       "content_generated": false,
       "type": "hosted",
       "listeners": 573,
@@ -104,7 +136,9 @@
       "duration": "01:10:10",
       "space_url": "https://x.com/i/spaces/1ZkJzZEjPbwJv",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1ZkJzZEjPbwJv/web3-en-espanol-x-billionsft-at-meximalist-y-at-anananfts",
-      "number": "20251112.1"
+      "number": "20251112.1",
+      "transcript_available": true,
+      "description": ""
     },
     {
       "number": "20251103",
@@ -161,7 +195,9 @@
       "duration": "01:12:46",
       "space_url": "https://x.com/i/spaces/1vOxwdpjNDDKB",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1vOxwdpjNDDKB/ep-03-creatividad-vs-data-que-pesa-mas-en-el-marketing-web3",
-      "number": "20251025"
+      "number": "20251025",
+      "transcript_available": true,
+      "description": ""
     },
     {
       "type": "Spoken",
@@ -857,7 +893,7 @@
       "host": "@Pizza_DAO",
       "listeners": 179,
       "date": "2025-05-20",
-      "speakers": 17,
+      "speakers": [],
       "duration": "01:24:00",
       "space_url": "https://x.com/i/spaces/1yNxaLmAQPbJj",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1yNxaLmAQPbJj/2-days-until-the-global-pizza-party",
@@ -1302,7 +1338,7 @@
       "host": "@TheMiamiApe",
       "listeners": 75,
       "date": "2025-04-02",
-      "speakers": 4,
+      "speakers": [],
       "duration": "01:12:00",
       "space_url": "https://x.com/i/spaces/1ZkJzYoAXZNGv",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1ZkJzYoAXZNGv/web3-en-espanol-ft-joao-latam-community-arbitrum",
@@ -2286,18 +2322,6 @@
     },
     {
       "type": "Spoken",
-      "title": "Banda web 3 en la movida con el gran meximalist",
-      "host": "@lamovidacrypto",
-      "listeners": 44,
-      "date": "2025-01-15",
-      "speakers": 0,
-      "duration": "00:52:00",
-      "space_url": "https://x.com/i/spaces/1jMJgBmZDpMGL",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1jMJgBmZDpMGL/banda-web-3-en-la-movida-con-el-gran-meximalist",
-      "number": "20250115"
-    },
-    {
-      "type": "Spoken",
       "title": "BandaWe3 en La Movida Crypto",
       "host": "@lamovidacrypto",
       "listeners": 17,
@@ -2331,6 +2355,20 @@
       "space_url": "https://x.com/i/spaces/1ynJODBeaewxR",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1ynJODBeaewxR/at-losordinales-75",
       "number": "20250115.3"
+    },
+    {
+      "type": "Spoken",
+      "title": "Banda web 3 en la movida con el gran meximalist",
+      "host": "@lamovidacrypto",
+      "listeners": 44,
+      "date": "2025-01-15",
+      "speakers": 0,
+      "duration": "00:52:00",
+      "space_url": "https://x.com/i/spaces/1jMJgBmZDpMGL",
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1jMJgBmZDpMGL/banda-web-3-en-la-movida-con-el-gran-meximalist",
+      "number": "20250115",
+      "transcript_available": true,
+      "description": ""
     },
     {
       "number": "033",
@@ -2874,13 +2912,13 @@
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [
-        "flyer_20241205_S7.jpg"
+        "1eaKbavOLYqxX.png"
       ],
       "listeners": 327,
       "spacesdashboard_url": "https://spacesdashboard.com/space/1eaKbavOLYqxX/100k-today",
       "analytics_source": "spaces_dashboard_excel",
       "type": "hosted",
-      "host": "@meximalist"
+      "host": "@EmbajadoresWeb3"
     },
     {
       "title": "Echoes of Frida: Reimaginando un Legado en Arte Generativo",
@@ -3179,7 +3217,7 @@
       "host": "@digitalizadosco",
       "listeners": 52,
       "date": "2024-11-21",
-      "speakers": 8,
+      "speakers": [],
       "duration": "01:11:14",
       "space_url": "https://x.com/i/spaces/1kvKpbalmBdJE",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1kvKpbalmBdJE/retos-tecnologicos-de-las-rampas-cripto-con-capa",
@@ -3400,27 +3438,6 @@
       "host": "BandaWeb3"
     },
     {
-      "number": "20241107",
-      "title": "Ethereum Mexico 🇲🇽",
-      "date": "2024-11-07",
-      "duration": "00:52:00",
-      "guests": [],
-      "guest_links": {},
-      "space_url": "",
-      "description": "Co-hosted Space: Ethereum Mexico 🇲🇽",
-      "topics": [],
-      "status": "archived",
-      "transcript_available": false,
-      "content_generated": false,
-      "flyer_urls": [],
-      "listeners": "42",
-      "type": "co-hosted",
-      "host": "@ethereum_mexico",
-      "flyers": [
-        "flyer_ethereum_mexico_generic.png"
-      ]
-    },
-    {
       "title": "Castalia, DeSci Pop-Up City & Hackathon.🔬👨‍💻",
       "date": "2024-11-07",
       "duration": "00:52:00",
@@ -3438,6 +3455,27 @@
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
       "number": "20241107",
+      "flyers": [
+        "flyer_ethereum_mexico_generic.png"
+      ]
+    },
+    {
+      "number": "20241107",
+      "title": "Ethereum Mexico 🇲🇽",
+      "date": "2024-11-07",
+      "duration": "00:52:00",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Ethereum Mexico 🇲🇽",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "42",
+      "type": "co-hosted",
+      "host": "@ethereum_mexico",
       "flyers": [
         "flyer_ethereum_mexico_generic.png"
       ]
@@ -3749,7 +3787,7 @@
       "host": "@Kalipssoh",
       "listeners": 170,
       "date": "2024-09-29",
-      "speakers": 12,
+      "speakers": [],
       "duration": "01:37:00",
       "space_url": "https://x.com/i/spaces/1MnxnDyyPlNGO",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1MnxnDyyPlNGO/cryptobrunchlatam-ep53-impulsa-tu-proyecto-vol8",
@@ -4008,7 +4046,7 @@
       "host": "@abrahamrivv",
       "listeners": 30,
       "date": "2024-08-27",
-      "speakers": 8,
+      "speakers": [],
       "duration": "01:04:00",
       "space_url": "https://x.com/i/spaces/1vAxROeqnEXKl",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1vAxROeqnEXKl/colorin-colorado-esta-ronda-de-grants-se-ha-acabado",
@@ -4045,7 +4083,7 @@
       "host": "@tododecripto",
       "listeners": 141,
       "date": "2024-08-22",
-      "speakers": 9,
+      "speakers": [],
       "duration": "01:09:00",
       "space_url": "https://x.com/i/spaces/1MYxNMvzjWoJw",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1MYxNMvzjWoJw/todo-de-sati-enviar-y-recibir-bitcoin-desde-whatsapp",
@@ -4057,7 +4095,7 @@
       "host": "@marcrypted",
       "listeners": 235,
       "date": "2024-08-21",
-      "speakers": 11,
+      "speakers": [],
       "duration": "01:22:00",
       "space_url": "https://x.com/i/spaces/1RDGlyDWekRJL",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1RDGlyDWekRJL/mpdao-grants-8-discussing-proposals-with-ambassadors",
@@ -4069,7 +4107,7 @@
       "host": "@NacionBlackFlag",
       "listeners": 44,
       "date": "2024-08-19",
-      "speakers": 16,
+      "speakers": [],
       "duration": "01:02:00",
       "space_url": "https://x.com/i/spaces/1kvJpbgWBwoKE",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1kvJpbgWBwoKE/hackathon-frutal-web-house",
@@ -4081,7 +4119,7 @@
       "host": "@Kalipssoh",
       "listeners": 157,
       "date": "2024-08-18",
-      "speakers": 5,
+      "speakers": [],
       "duration": "01:25:00",
       "space_url": "https://x.com/i/spaces/1vAGROjeLqRJl",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1vAGROjeLqRJl/cryptobrunchlatam-ep50-rumbo-a-eth-mexico-merida-y-aniversario",
@@ -4139,7 +4177,7 @@
       "host": "@meta_pool",
       "listeners": 188,
       "date": "2024-08-14",
-      "speakers": 9,
+      "speakers": [],
       "duration": "01:02:00",
       "space_url": "https://x.com/i/spaces/1BdxYEBOoqZxX",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1BdxYEBOoqZxX/mpdao-grants-8-is-live",
@@ -4176,7 +4214,7 @@
       "host": "@LetsGROWdao",
       "listeners": 859,
       "date": "2024-08-08",
-      "speakers": 56,
+      "speakers": [],
       "duration": "15:13:00",
       "space_url": "https://x.com/i/spaces/1zqJVYvRORYGB",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1zqJVYvRORYGB/lets-grow-live-gg21-at-gitcoin-community-247",
@@ -4210,7 +4248,7 @@
       "host": "@digitalizadosco",
       "listeners": 31,
       "date": "2024-08-03",
-      "speakers": 6,
+      "speakers": [],
       "duration": "00:45:00",
       "space_url": "https://x.com/i/spaces/1YqxovMAbAgJv",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1YqxovMAbAgJv/papa-gitcoin-hizo-algo-con-mama-unlock-y-eso-fue-dar-financiacion",
@@ -4278,7 +4316,7 @@
       "host": "@OrdinalsLATAM",
       "listeners": 300,
       "date": "2024-07-22",
-      "speakers": 20,
+      "speakers": [],
       "duration": "01:38:00",
       "space_url": "https://x.com/i/spaces/1YqKDkzQYrVxV",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1YqKDkzQYrVxV/ordinals-latam-en-la-cdmx-comunidad-spacesbtc",
@@ -4313,7 +4351,7 @@
       "host": "@carlosjmelgar",
       "listeners": 79,
       "date": "2024-07-17",
-      "speakers": 10,
+      "speakers": [],
       "duration": "00:45:00",
       "space_url": "https://x.com/i/spaces/1dRKZdzjNwbJB",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1dRKZdzjNwbJB/whats-propn-at-nounsdao-prop-review",
@@ -4325,7 +4363,7 @@
       "host": "@ethereum_mexico",
       "listeners": 162,
       "date": "2024-07-15",
-      "speakers": 9,
+      "speakers": [],
       "duration": "01:28:00",
       "space_url": "https://x.com/i/spaces/1vAGROaMppDJl",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1vAGROaMppDJl/se-parte-de-ethmexico-anuncio-sorpresa",
@@ -4337,7 +4375,7 @@
       "host": "@andreweb3_btc",
       "listeners": 129,
       "date": "2024-07-14",
-      "speakers": 6,
+      "speakers": [],
       "duration": "02:17:00",
       "space_url": "https://x.com/i/spaces/1LyxBgMYLqOKN",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1LyxBgMYLqOKN/el-cuadrilatero-119el-impacto-de-la-blockchain-en-la-sociedad",
@@ -4349,7 +4387,7 @@
       "host": "@Yisbelpd",
       "listeners": 115,
       "date": "2024-07-12",
-      "speakers": 0,
+      "speakers": [],
       "duration": "01:22:00",
       "space_url": "https://x.com/i/spaces/1LyxBnXWgWoxN",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1LyxBnXWgWoxN/liderando-en-web3-con-at-mexiweb3-ep-36",
@@ -4384,7 +4422,7 @@
       "host": "@meta_pool",
       "listeners": 115,
       "date": "2024-07-10",
-      "speakers": 9,
+      "speakers": [],
       "duration": "00:52:00",
       "space_url": "https://x.com/i/spaces/1nAJEaEMraYJL",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1nAJEaEMraYJL/mpdao-grants-7-results",
@@ -4419,7 +4457,7 @@
       "host": "@meta_pool",
       "listeners": 89,
       "date": "2024-06-27",
-      "speakers": 9,
+      "speakers": [],
       "duration": "01:01:00",
       "space_url": "https://x.com/i/spaces/1kvJpvmdvWPKE",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1kvJpvmdvWPKE/governance-call-7",
@@ -4431,7 +4469,7 @@
       "host": "@meta_pool",
       "listeners": 174,
       "date": "2024-06-26",
-      "speakers": 17,
+      "speakers": [],
       "duration": "01:24:00",
       "space_url": "https://x.com/i/spaces/1lDGLPPzqAqGm",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1lDGLPPzqAqGm/propuestas-hispanas-mpdao-grants-7",
@@ -4512,7 +4550,7 @@
       "host": "@nerdconf_ar",
       "listeners": 155,
       "date": "2024-06-21",
-      "speakers": 13,
+      "speakers": [],
       "duration": "01:07:00",
       "space_url": "https://x.com/i/spaces/1rmGPMMrybgJN",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1rmGPMMrybgJN/pitcheando-por-un-grant",
@@ -4524,7 +4562,7 @@
       "host": "@0xKaroShow",
       "listeners": 48,
       "date": "2024-06-21",
-      "speakers": 0,
+      "speakers": [],
       "duration": "00:26:00",
       "space_url": "https://x.com/i/spaces/1mnxeppNkvvJX",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1mnxeppNkvvJX/karoshow-ep79-continuacion-con-at-mexiweb3",
@@ -6192,18 +6230,6 @@
     },
     {
       "type": "Spoken",
-      "title": "Liderando en web3 con @meximalist 🇲🇽",
-      "host": "@Yisbelpd",
-      "listeners": 166,
-      "date": "2024-01-26",
-      "speakers": 2,
-      "duration": "01:23:00",
-      "space_url": "https://x.com/i/spaces/1YpKkwjrPVrKj",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1YpKkwjrPVrKj/liderando-en-web3-con-at-meximalist",
-      "number": "20240126.1"
-    },
-    {
-      "type": "Spoken",
       "title": "Decoding the US Inscription Market with OKX Web3 & Glypher🎙",
       "host": "@mobymedia",
       "listeners": 2229,
@@ -6225,6 +6251,20 @@
       "space_url": "https://x.com/i/spaces/1PlJQDdlRyaGE",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1PlJQDdlRyaGE/space-de-pitcheo-ronda-arte-nounish",
       "number": "20240126.3"
+    },
+    {
+      "type": "Spoken",
+      "title": "Liderando en web3 con @meximalist 🇲🇽",
+      "host": "@Yisbelpd",
+      "listeners": 166,
+      "date": "2024-01-26",
+      "speakers": 2,
+      "duration": "01:23:00",
+      "space_url": "https://x.com/i/spaces/1YpKkwjrPVrKj",
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1YpKkwjrPVrKj/liderando-en-web3-con-at-meximalist",
+      "number": "20240126.1",
+      "transcript_available": true,
+      "description": ""
     },
     {
       "number": "20240125",
@@ -7042,27 +7082,6 @@
       ]
     },
     {
-      "number": "20231228-2",
-      "title": "cryptoreuMD.eth/3972.⌐◨-◨ 🦇🔊...",
-      "date": "2023-12-28",
-      "duration": "01:03:00",
-      "guests": [],
-      "guest_links": {},
-      "space_url": "",
-      "description": "Co-hosted Space: cryptoreuMD.eth/3972.⌐◨-◨ 🦇🔊...",
-      "topics": [],
-      "status": "archived",
-      "transcript_available": false,
-      "content_generated": false,
-      "flyer_urls": [],
-      "listeners": "52",
-      "type": "co-hosted",
-      "host": "@cryptoreumd",
-      "flyers": [
-        "flyer_cryptoreumd_generic.png"
-      ]
-    },
-    {
       "title": "#vonación como punto de partida de proyectos mexicanos @nacionbankless",
       "date": "2023-12-28",
       "duration": "01:03:00",
@@ -7085,6 +7104,27 @@
       "number": "20231228"
     },
     {
+      "number": "20231228-2",
+      "title": "cryptoreuMD.eth/3972.⌐◨-◨ 🦇🔊...",
+      "date": "2023-12-28",
+      "duration": "01:03:00",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: cryptoreuMD.eth/3972.⌐◨-◨ 🦇🔊...",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "52",
+      "type": "co-hosted",
+      "host": "@cryptoreumd",
+      "flyers": [
+        "flyer_cryptoreumd_generic.png"
+      ]
+    },
+    {
       "type": "Spoken",
       "title": "Narrativa Cripto 🎙",
       "host": "@NFTDEFILAND",
@@ -7097,22 +7137,26 @@
       "number": "20231228.1"
     },
     {
-      "number": "20231227-S7",
+      "number": "20231227",
       "title": "XRC20 $MEXI",
       "date": "2023-12-27",
-      "duration": "00:45:00",
+      "duration": "00:45:57",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1vOxwjWdZvDJB",
-      "description": "XRC20 $MEXI",
+      "description": "XRC20 - Solscriptions - Ethscriptions - Todo el Alpha",
       "topics": [],
       "status": "archived",
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "88",
-      "type": "hosted",
+      "listeners": 88,
       "host": "@meximalist",
+      "speakers": 8,
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 79,
+      "type": "hosted",
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1vOxwjWdZvDJB/xrc20-mexi",
       "flyers": [
         "flyer_meximalist_generic.png"
       ]
@@ -7715,26 +7759,34 @@
       "number": "20231213"
     },
     {
+      "number": "20231212",
       "title": "Banda Web3 - Estado del mercado con @granmetanoia y @deLarg0",
       "date": "2023-12-12",
-      "number": "20231212",
-      "type": "hosted",
-      "is_numbered": false,
-      "host": "BandaWeb3",
+      "duration": "01:43:08",
+      "guests": [
+        "deLarg0",
+        "granmetanoia"
+      ],
+      "guest_links": {
+        "granmetanoia": "https://x.com/granmetanoia",
+        "deLarg0": "https://x.com/deLarg0"
+      },
+      "space_url": "https://x.com/i/spaces/1gqGvQzEDQeKB",
       "description": "Hosted Space: Banda Web3 - Estado del mercado con @granmetanoia y @deLarg0",
-      "guests": [],
       "topics": [],
       "status": "archived",
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "duration": "01:43:00",
-      "space_url": "https://x.com/i/spaces/1gqGvQzEDQeKB",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1gqGvQzEDQeKB/banda-web3-estado-del-mercado-con-at-granmetanoia-y-at-delarg0",
       "listeners": 169,
-      "analytics_source": "spaces_dashboard_excel",
+      "host": "@meximalist",
+      "speakers": 7,
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 164,
+      "type": "hosted",
       "flyers": [
-        "flyer_bandaweb3_generic.png"
+        "flyer_bandaweb3_generic.png",
+        "flyer_meximalist_generic.png"
       ]
     },
     {
@@ -7809,27 +7861,6 @@
       ]
     },
     {
-      "number": "20231207-2",
-      "title": "McBoBo",
-      "date": "2023-12-07",
-      "duration": "02:04:00",
-      "guests": [],
-      "guest_links": {},
-      "space_url": "",
-      "description": "Co-hosted Space: McBoBo",
-      "topics": [],
-      "status": "archived",
-      "transcript_available": false,
-      "content_generated": false,
-      "flyer_urls": [],
-      "listeners": "84",
-      "type": "co-hosted",
-      "host": "@TortillasTown",
-      "flyers": [
-        "flyer_tortillastown_generic.png"
-      ]
-    },
-    {
       "title": "🎙Narrativa: Web3 y blockchain. alt season? o no? se acuerdan de 🆘️",
       "date": "2023-12-07",
       "duration": "02:04:00",
@@ -7850,6 +7881,27 @@
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
       "number": "20231207"
+    },
+    {
+      "number": "20231207-2",
+      "title": "McBoBo",
+      "date": "2023-12-07",
+      "duration": "02:04:00",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: McBoBo",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "84",
+      "type": "co-hosted",
+      "host": "@TortillasTown",
+      "flyers": [
+        "flyer_tortillastown_generic.png"
+      ]
     },
     {
       "type": "Spoken",
@@ -9073,27 +9125,32 @@
       "number": "20231003.2"
     },
     {
+      "number": "20230928",
       "title": "Women of Web3 NYC Recap con @AnanaNFTs @Neefter_",
       "date": "2023-09-28",
-      "number": "20230928",
-      "type": "hosted",
-      "is_numbered": false,
-      "host": "BandaWeb3",
+      "duration": "01:50:00",
+      "guests": [
+        "Anana",
+        "Neefter_"
+      ],
+      "guest_links": {
+        "Anana": "https://x.com/Anana",
+        "Neefter_": "https://x.com/Neefter_"
+      },
+      "space_url": "https://x.com/i/spaces/1gqxvQkyovRJB",
       "description": "Hosted Space: Women of Web3 NYC Recap con @AnanaNFTs @Neefter_",
-      "guests": [],
       "topics": [],
       "status": "archived",
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "duration": "01:50:00",
-      "space_url": "https://x.com/i/spaces/1gqxvQkyovRJB",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1gqxvQkyovRJB/women-of-web3-nyc-recap-con-at-anananfts-at-neefter",
-      "listeners": 90,
-      "analytics_source": "spaces_dashboard_excel",
+      "type": "hosted",
+      "host": "@meximalist",
       "flyers": [
-        "flyer_bandaweb3_generic.png"
-      ]
+        "flyer_bandaweb3_generic.png",
+        "flyer_meximalist_generic.png"
+      ],
+      "listeners": 90
     },
     {
       "type": "Spoken",
@@ -9471,23 +9528,24 @@
       ]
     },
     {
+      "number": "20230823",
       "title": "Ciudad Gitcoin 🚀",
       "date": "2023-08-23",
       "duration": "00:13:00",
-      "host": "@Research_Kairos",
-      "space_url": "https://x.com/i/spaces/1RDGlazORNNJL",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1RDGlazORNNJL/ciudad-gitcoin",
-      "listeners": 46,
-      "description": "Co-hosted Space: Ciudad Gitcoin 🚀. Host: @Research_Kairos",
       "guests": [],
+      "guest_links": {},
+      "space_url": "https://x.com/i/spaces/1RDGlazORNNJL",
+      "description": "Co-hosted Space: Ciudad Gitcoin 🚀. Host: @Research_Kairos",
       "topics": [],
       "status": "archived",
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
+      "listeners": 46,
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20230823",
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1RDGlazORNNJL/ciudad-gitcoin",
+      "host": "@Research_Kairos",
       "flyers": [
         "flyer_research_kairos_generic.png"
       ]
@@ -9821,22 +9879,26 @@
       ]
     },
     {
-      "number": "20230725-S7",
+      "number": "20230725",
       "title": "Open Mic - 69 segundos para shillear lo que sea",
       "date": "2023-07-25",
-      "duration": "00:59:00",
+      "duration": "00:59:25",
       "guests": [],
       "guest_links": {},
       "space_url": "https://x.com/i/spaces/1BRJjZPNmzLJw",
-      "description": "Open Mic - 69 segundos para shillear lo que sea",
+      "description": "Open Mic - Parte 2 - 69 segundos para shillear lo que sea",
       "topics": [],
       "status": "archived",
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
-      "listeners": "90",
-      "type": "hosted",
+      "listeners": 101,
       "host": "@meximalist",
+      "speakers": 16,
+      "analytics_source": "X Spaces Analytics",
+      "live_listeners": 213,
+      "type": "hosted",
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1BRJjZPNmzLJw/open-mic-69-segundos-para-shillear-lo-que-sea",
       "flyers": [
         "flyer_meximalist_generic.png"
       ]
@@ -9875,7 +9937,7 @@
       "guests": [],
       "topics": [],
       "status": "archived",
-      "transcript_available": false,
+      "transcript_available": true,
       "content_generated": false,
       "flyer_urls": [],
       "duration": "01:16:00",
@@ -9974,24 +10036,6 @@
       ]
     },
     {
-      "number": "20230706-2",
-      "title": "THREADS vs Twitter: La Atencion te va hacer billonario$$$📈",
-      "date": "2023-07-06",
-      "duration": "02:04:00",
-      "guests": [],
-      "guest_links": {},
-      "space_url": "",
-      "description": "Co-hosted Space: THREADS vs Twitter: La Atencion te va hacer billonario$$$📈",
-      "topics": [],
-      "status": "archived",
-      "transcript_available": false,
-      "content_generated": false,
-      "flyer_urls": [],
-      "listeners": "88",
-      "type": "co-hosted",
-      "host": "@ElMcBoBo"
-    },
-    {
       "title": "THREADS vs Twitter: La Atencion te va hacer billonario$$$",
       "date": "2023-07-06",
       "duration": "02:04:00",
@@ -10009,6 +10053,24 @@
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
       "number": "20230706"
+    },
+    {
+      "number": "20230706-2",
+      "title": "THREADS vs Twitter: La Atencion te va hacer billonario$$$📈",
+      "date": "2023-07-06",
+      "duration": "02:04:00",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: THREADS vs Twitter: La Atencion te va hacer billonario$$$📈",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "88",
+      "type": "co-hosted",
+      "host": "@ElMcBoBo"
     },
     {
       "type": "Spoken",
@@ -10599,7 +10661,7 @@
       "description": "Founders y proyectos que vinieron a Mty",
       "topics": [],
       "status": "archived",
-      "transcript_available": false,
+      "transcript_available": true,
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 470,
@@ -10721,7 +10783,7 @@
       "guests": [],
       "topics": [],
       "status": "archived",
-      "transcript_available": false,
+      "transcript_available": true,
       "content_generated": false,
       "flyer_urls": [],
       "duration": "01:51:00",
@@ -11080,7 +11142,7 @@
       "description": "La Belga y el Ingeniero - Apoyo Wiki / Marcus Dantus NFT",
       "topics": [],
       "status": "archived",
-      "transcript_available": false,
+      "transcript_available": true,
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 177,
@@ -11803,24 +11865,6 @@
       "number": "20230312"
     },
     {
-      "number": "20230310",
-      "title": "Felipe Servin ⚡️",
-      "date": "2023-03-10",
-      "duration": "01:07:00",
-      "guests": [],
-      "guest_links": {},
-      "space_url": "",
-      "description": "Co-hosted Space: Felipe Servin ⚡️",
-      "topics": [],
-      "status": "archived",
-      "transcript_available": false,
-      "content_generated": false,
-      "flyer_urls": [],
-      "listeners": "95",
-      "type": "co-hosted",
-      "host": "@fservin"
-    },
-    {
       "title": "NFTs en Bitcoin .sats y el nuevo BRC-20 Tokens fungibles",
       "date": "2023-03-10",
       "duration": "01:07:00",
@@ -11838,6 +11882,24 @@
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
       "number": "20230310"
+    },
+    {
+      "number": "20230310",
+      "title": "Felipe Servin ⚡️",
+      "date": "2023-03-10",
+      "duration": "01:07:00",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Felipe Servin ⚡️",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "95",
+      "type": "co-hosted",
+      "host": "@fservin"
     },
     {
       "number": "20230309",
@@ -13590,15 +13652,21 @@
       "duration": "01:52:00",
       "space_url": "https://x.com/i/spaces/1MnxnpyabeyGO",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1MnxnpyabeyGO/bullcast-live-ep-11-con-at-meximalist-siempre-esta",
-      "number": "20230111"
+      "number": "20230111",
+      "transcript_available": true,
+      "description": ""
     },
     {
-      "number": "20230110-S7",
+      "number": "20230110",
       "title": "El economista y el ingeniero - ¿Buenas noticias en los mercados?",
       "date": "2023-01-10",
       "duration": "01:45:18",
-      "guests": [],
-      "guest_links": {},
+      "guests": [
+        "ExponencialCC"
+      ],
+      "guest_links": {
+        "ExponencialCC": "https://x.com/ExponencialCC"
+      },
       "space_url": "https://x.com/i/spaces/1LyxBqbQPYLJN",
       "description": "El economista y el ingeniero - ¿Buenas noticias en los mercados?",
       "topics": [],
@@ -13607,10 +13675,12 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 156,
-      "host": "@meximalist",
+      "live_listeners": 156,
       "speakers": 9,
+      "host": "@meximalist",
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1LyxBqbQPYLJN/el-economista-y-el-ingeniero-buenas-noticias-en-los-mercados",
       "flyers": [
         "flyer_meximalist_generic.png"
       ]
@@ -13651,6 +13721,25 @@
       "number": "20230110"
     },
     {
+      "title": "Nada puede malir sal - web3 español",
+      "date": "2023-01-09",
+      "duration": "01:22:00",
+      "host": "@wailancrai",
+      "space_url": "https://x.com/i/spaces/1vAxRAzMakVJl",
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1vAxRAzMakVJl/nada-puede-malir-sal-web3-espanol",
+      "listeners": 40,
+      "description": "Co-hosted Space: Nada puede malir sal - web3 español. Host: @wailancrai",
+      "guests": [],
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "type": "co-hosted",
+      "analytics_source": "spaces_dashboard_excel",
+      "number": "20230109"
+    },
+    {
       "number": "20230109",
       "title": "CriptoMaza 2023 de @ExponencialCC 13-15 Enero",
       "date": "2023-01-09",
@@ -13673,25 +13762,6 @@
       "flyers": [
         "flyer_meximalist_generic.png"
       ]
-    },
-    {
-      "title": "Nada puede malir sal - web3 español",
-      "date": "2023-01-09",
-      "duration": "01:22:00",
-      "host": "@wailancrai",
-      "space_url": "https://x.com/i/spaces/1vAxRAzMakVJl",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1vAxRAzMakVJl/nada-puede-malir-sal-web3-espanol",
-      "listeners": 40,
-      "description": "Co-hosted Space: Nada puede malir sal - web3 español. Host: @wailancrai",
-      "guests": [],
-      "topics": [],
-      "status": "archived",
-      "transcript_available": false,
-      "content_generated": false,
-      "flyer_urls": [],
-      "type": "co-hosted",
-      "analytics_source": "spaces_dashboard_excel",
-      "number": "20230109"
     },
     {
       "type": "Spoken",
@@ -14041,27 +14111,6 @@
       ]
     },
     {
-      "number": "20221220-2",
-      "title": "TATO",
-      "date": "2022-12-20",
-      "duration": "01:05:00",
-      "guests": [],
-      "guest_links": {},
-      "space_url": "",
-      "description": "Co-hosted Space: TATO",
-      "topics": [],
-      "status": "archived",
-      "transcript_available": false,
-      "content_generated": false,
-      "flyer_urls": [],
-      "listeners": "101",
-      "type": "co-hosted",
-      "host": "@NFTDEFILAND",
-      "flyers": [
-        "flyer_nftdefiland_generic.png"
-      ]
-    },
-    {
       "title": "🎶🎶🎶Shakin dat A$$🎶🎶🎶",
       "date": "2022-12-20",
       "duration": "01:05:00",
@@ -14079,6 +14128,27 @@
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
       "number": "20221220",
+      "flyers": [
+        "flyer_nftdefiland_generic.png"
+      ]
+    },
+    {
+      "number": "20221220-2",
+      "title": "TATO",
+      "date": "2022-12-20",
+      "duration": "01:05:00",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: TATO",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "101",
+      "type": "co-hosted",
+      "host": "@NFTDEFILAND",
       "flyers": [
         "flyer_nftdefiland_generic.png"
       ]
@@ -14142,7 +14212,7 @@
       "description": "¿cómo entrevistar a los miembros de equipos de colecciones nuevas?",
       "topics": [],
       "status": "archived",
-      "transcript_available": false,
+      "transcript_available": true,
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 47,
@@ -14294,7 +14364,7 @@
       "description": "El economista, el pescador y el ingeniero - Rugs IRL y Rugs en Web3",
       "topics": [],
       "status": "archived",
-      "transcript_available": false,
+      "transcript_available": true,
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 131,
@@ -14655,27 +14725,6 @@
       "host": "@billynidas"
     },
     {
-      "number": "20221128-2",
-      "title": "El Profesor - Danny Sánchez",
-      "date": "2022-11-28",
-      "duration": "00:52:00",
-      "guests": [],
-      "guest_links": {},
-      "space_url": "",
-      "description": "Co-hosted Space: El Profesor - Danny Sánchez",
-      "topics": [],
-      "status": "archived",
-      "transcript_available": false,
-      "content_generated": false,
-      "flyer_urls": [],
-      "listeners": "34",
-      "type": "co-hosted",
-      "host": "@El_Profesor_eth",
-      "flyers": [
-        "flyer_el_profesor_eth_generic.png"
-      ]
-    },
-    {
       "title": "Real Estate and Blockchain - Quick Update & Project Intros",
       "date": "2022-11-28",
       "duration": "00:52:00",
@@ -14693,6 +14742,27 @@
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
       "number": "20221128",
+      "flyers": [
+        "flyer_el_profesor_eth_generic.png"
+      ]
+    },
+    {
+      "number": "20221128-2",
+      "title": "El Profesor - Danny Sánchez",
+      "date": "2022-11-28",
+      "duration": "00:52:00",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: El Profesor - Danny Sánchez",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "34",
+      "type": "co-hosted",
+      "host": "@El_Profesor_eth",
       "flyers": [
         "flyer_el_profesor_eth_generic.png"
       ]
@@ -14818,14 +14888,18 @@
       ]
     },
     {
-      "number": "20221122-S7",
+      "number": "20221122",
       "title": "El economista y el ingeniero Ep04",
       "date": "2022-11-22",
       "duration": "01:51:27",
-      "guests": [],
-      "guest_links": {},
+      "guests": [
+        "MarcusDantusNFT"
+      ],
+      "guest_links": {
+        "MarcusDantusNFT": "https://x.com/MarcusDantusNFT"
+      },
       "space_url": "https://x.com/i/spaces/1zqKVPozepnJB",
-      "description": "El economista y el ingeniero Ep04",
+      "description": "Previo al evento en Monterrey de @MarcusDantusNFT",
       "topics": [],
       "status": "archived",
       "transcript_available": false,
@@ -14835,7 +14909,9 @@
       "host": "@meximalist",
       "speakers": 9,
       "analytics_source": "X Spaces Analytics",
+      "live_listeners": 121,
       "type": "hosted",
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1zqKVPozepnJB/el-economista-y-el-ingeniero-ep04",
       "flyers": [
         "flyer_meximalist_generic.png"
       ]
@@ -15929,24 +16005,6 @@
       ]
     },
     {
-      "number": "20221014",
-      "title": "Diego Benítez Concha",
-      "date": "2022-10-14",
-      "duration": "02:23:00",
-      "guests": [],
-      "guest_links": {},
-      "space_url": "",
-      "description": "Co-hosted Space: Diego Benítez Concha",
-      "topics": [],
-      "status": "archived",
-      "transcript_available": false,
-      "content_generated": false,
-      "flyer_urls": [],
-      "listeners": "85",
-      "type": "co-hosted",
-      "host": "@diegobc28"
-    },
-    {
       "title": "Post Blockchain Land - Devcon 🌄🗂",
       "date": "2022-10-14",
       "duration": "02:23:00",
@@ -15964,6 +16022,24 @@
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
       "number": "20221014"
+    },
+    {
+      "number": "20221014",
+      "title": "Diego Benítez Concha",
+      "date": "2022-10-14",
+      "duration": "02:23:00",
+      "guests": [],
+      "guest_links": {},
+      "space_url": "",
+      "description": "Co-hosted Space: Diego Benítez Concha",
+      "topics": [],
+      "status": "archived",
+      "transcript_available": false,
+      "content_generated": false,
+      "flyer_urls": [],
+      "listeners": "85",
+      "type": "co-hosted",
+      "host": "@diegobc28"
     },
     {
       "type": "Spoken",
