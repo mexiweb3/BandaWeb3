@@ -1,0 +1,549 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #20230309
+Título: La Abogada, el Economista y el Ingeniero - Leyes para DAOs
+Fecha: 2023-03-09
+Host: @meximalist
+Tipo: hosted
+
+Descripción:
+La Abogada, el Economista y el Ingeniero - Leyes para DAOs
+
+Duración: 01:59:46
+Escuchas: 225
+Speakers: 8
+
+Links:
+  Space: https://x.com/i/spaces/1YpJkgnNQowJj
+  Dashboard: https://spacesdashboard.com/space/1YpJkgnNQowJj/la-abogada-el-economista-y-el-ingeniero-leyes-para-daos
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+
+[Speaker 0 - 00:00:00]
+El economista y el ingeniero. Ando medio malón de la garganta, así que me voy a apoyar mucho en Jesús y en Lu, a ver qué noticias nos traen a la mesa.
+
+[Speaker 0 - 00:01:24]
+Ayer grabamos un episodio muy bueno de Proof of Value. Ahí luego les mando el link para que lo vean. Pero bueno, ahorita les contamos.
+
+[Speaker 0 - 00:02:39]
+Empecemos con un poco de música. Voy a empezar con Pepper Strange de The Doors. Continuamos con esta de The Animal's House of Brighting Son.
+
+[Speaker 0 - 00:03:56]
+Empezamos en unos minutitos. Gracias a todos los que se han conectado. Bueno, buenas. Está muy larga la canción.
+
+[Speaker 0 - 00:04:58]
+Yo creo que la dejamos por ahí. ¿Cómo andan, Lu? ¿Me escuchas?
+
+[Speaker 1 - 00:05:44]
+Hola, Mexi. ¿Cómo están? Hola a todos quienes nos acompañan. Bienvenidos. Ya súper listos y con mucha energía para este jueves de información legal, ya saben, y con los supernúmeros que siempre nos trae Jesús y, por supuesto, los buenos datos y todo lo que está haciendo Mexi en el entorno web 3. Bienvenidos todos, muchas gracias por acompañarnos. ¿Cómo estás, Mexi? Jesús. Jesús que viene llegando. Llegando tarde, ¿eh?
+
+[Speaker 0 - 00:06:14]
+Se perdió las canciones que pusimos. Empezamos con People Restrance de The Doors, y luego House of Rising Sun, The Animals. ¿Las perdiste esos? Pero bueno, ni modo. Yo soy fan de The Animals y también de The Doors.
+
+[Speaker 2 - 00:06:28]
+Chihuahua, pues está ocupado con otras cosas, pero ya ya estamos aquí. Buen día a todos, ¿cómo están? Lu, ¿cómo estás? Feliz día de de las mujeres ayer. Aunque Lu, a ver, cuéntame, felicité a alguien, me dice, no se debe felicitar, que es una falta Yo también quiero escuchar la perspectiva de Lu. Yo agradecí. No entendí yo, porque felicité a mi mamá, estaba muy contenta, y luego felicité a una amiga y se enojó. A ver, Lu, ¿cuál cuál por qué no se debe felicitar o sí se debe felicitar? Estoy confundido.
+
+[Speaker 1 - 00:06:55]
+Bueno, mire, es que oficialmente decimos que se conmemora, o sea, se conmemora para para recordar un un hecho histórico. La felicitación de pronto no puede gustar, no puede gustar, porque La felicitación de pronto no puede gustar, no puede gustar, porque es como como decir, oye, es un poco estamos conmemorando un día en donde ha habido muchos temas delicados con las mujeres. Entonces, la felicitación como tal vez no es la más adecuada, ¿verdad? Pero vaya, yo creo que finalmente cada cada 1, cada una podemos adoptar una postura distinta. Yo todos los días, la verdad, conmemoro ser mujer y además rodearme de de un montón de de súper mujeres bien fregonas. Entonces, pues yo creo que es de la desde la perspectiva. ¿No? De de cada una. Pero sí, la verdad es que en especial de aquí en México, yo creo que en Latam, de pronto el tema justo de de lo que vivimos, ¿no?
+
+[Speaker 1 - 00:07:55]
+De la inseguridad, el tema siempre de de la falta de protección del estado. Bueno, Jesús Mex y ustedes conocen perfecto la información de cuántas desaparecidas tenemos. Y y yo como mamá se los comparto, la realidad es que, este, mi hija es pequeña, mi hija tiene tiene 6 años, pero de pronto hasta así, o sea, vas al parque YYY estás más pendiente que no te siga alguien que que no se le vaya a ocurrir a un loco ahí, o sea, vivimos en una situación complicada, ¿saben? Y y yo creo que eso es lo que conmemoramos, el poder levantar la voz y y decirles que que ya no más, que estamos hartas, que necesitamos un cambio de de muchas cosas. ¿No? YYY que nos escuchemos, sobre todo que que eso, que nos escuchen. Creo que eso es lo que conmemoramos. Pero bueno, no hay por qué enojarse. Hoy un jueves súper soleado acá en México y y todos los días yo les diría más bien, conmemórenos, por favor, valórenos y sobre todo a quienes tienen ahí en sus casas, que son, estoy segura, mujeres maravillosas, todas.
+
+[Speaker 1 - 00:09:04]
+Así que, pues nada, ese es mi punto de vista.
+
+[Speaker 0 - 00:09:11]
+No, yo también, la verdad, estaba confundido y estuve platicando mucho de con amigas y decidí agradecer. Yo creo que por ahí definitivamente a lo mejor nos hace falta hacerlo más seguido, pero la verdad yo sí agradezco muchísimo que las mujeres que están en el ecosistema, que son minoría, que definitivamente agregan muchísimo valor, pues lo sigan haciendo, y que no se desaniman, y que están empujando, y que fomentan que otras mujeres también entren, que participen. Creo yo que al menos yo también he buscado hacerlo. O sea, tenemos todos que hacerlo, buscarlos hacer. ¿Por qué? Porque son la mitad de la población. O sea, fuera de que una cosa u otra, es un tema de números también muy frío que nos nos nos sirve a todos, que más personas entren. Y si hay pocas mujeres y hay 50 de la población de la población son mujeres, pues hay un mercado enorme que no se está aprovechando, que no está aprendiendo, que no está construyendo. Y hay que comentarlo, creo yo.
+
+[Speaker 0 - 00:10:13]
+A lo mejor mi punto de vista muy cuadrado de ingeniería, y obviamente tiene que verse como lo dice Lu, pero también, o sea, para para ahí hay muchas perspectivas, y financieramente también nos ayuda. O sea, entre más personas entra a lo que usted llama, entre más gente, más empleados, más empresarios, empresarias, empleadas, ve tú a saber, ¿no? Hombres, mujeres, todos. Entre más personas entran, mejor. Entonces, pues sí, definitivamente los hombres son mayoría. Es evidente y se nota. En las fiestas, ¿no? De en las reuniones, en los mirows, se ve. Acá en Monterrey ha crecido mucho la participación femenina y eso me me me pone súper contento. Cada día vemos más y las mismas chavas que asisten traen además amigas y creo que ha sido un tema bastante bastante abierto y lo fomentamos acá en Monterrey y creo que todo mundo lo tiene que hacer, ¿no? Finalmente, como repito, pues son un chorro de chavas las que todavía no entran y que pueden entrar y que nos ayuda a todos que entren y esa perspectiva distinta porque pensamos diferente a veces muchas personas, y no por el género sino porque somos distintos todos, eso ayuda, todas esas perspectivas distintas ayuda.
+
+[Speaker 0 - 00:11:28]
+¿Qué opinas, Jesús? ¿No?
+
+[Speaker 1 - 00:11:31]
+Perdón, y y antes de que nos nos comparta Jesús muy rápido, yo creo que me me gustaría agregar un punto, Maxi. Es es es muy padre, la verdad, es es muy bueno, y yo creo que cada vez somos más mujeres quienes justo somos empáticas, nos apoyamos. Cada una incluso creo que tiene, y y no lo digo solamente por por la comunidad Web3, sino también en en Real Life. Podemos ser como súper distintas, pero yo creo que somos una fuerza imparable con life. Podemos ser como súper distintas, pero yo creo que somos una fuerza imparable cuando justo nos apoyamos. ¿No? Y y siempre puede puede haber discrepancias, podemos hacer cosas distintas, vaya, incluso tener criterios distintos, cultura distinta. Pero lo más bonito y lo más distintos, cultura distinta. Pero lo más bonito y lo que yo realmente conmemoro es que que podamos apoyarnos entre nosotras, porque de pronto, sí sí me ha tocado cuando pareciera que nosotras mismas nos ponemos el pie o o de pronto aplicamos eso de que si si vemos a alguien destacar, pues no, no nos da gusto o no celebramos, no.
+
+[Speaker 1 - 00:12:34]
+La verdad es que yo creo que la la principal fortaleza es que podamos apoyarnos, tendernos la mano en lo que sea, o sea, y y eso nos va a hacer más fuertes. Todos todas tenemos estilos distintos, hacemos cosas distintas, tenemos preocupaciones diferentes, nuestros ambientes, lo que sea, pero creo que sí podemos hacer un un gran trabajo, por lo menos dándole una palabra de aliento a veces a a una compañera, a una conocida, a una familiar, un mensajito, a veces hace la diferencia. Entonces, no se les olvide, chicos, también hacerlo a ustedes. Y y bueno, pues aquí, olvide, chicos, también hacerlo a ustedes. Y y bueno, pues aquí, ¿qué les puedo decir? Tienen, están rodeados de de muchísimas súper mujeres increíbles. Así que, pues nada, sigamos sigamos como siempre. Ayer, así como nos nos conmemoraron, por favor, todos los días. No se les olvide.
+
+[Speaker 0 - 00:13:31]
+No, definitivo. Todos los jueves, Lu, que nos acompaña siempre, tu perspectiva es súper súper interesante. Y los martes que a veces no nos puedes acompañar, tratos de de de tener una perspectiva también de de alguna mujer, hemos invitado. Ha venido Ananá, ha venido Jazmín, ha venido Wendy. Hemos tenido muchas personas, hombres también la mayoría de los martes, pero pues bueno, te soy sincero, es cuando no encuentro alguna chava que nos pueda acompañar. Si hay alguna, Caro, me falta invitar a Caro, por acá abajo la veo, mi kit, también me ya es oficial la regla de que los
+
+[Speaker 1 - 00:14:08]
+martes invitada, invitada, por favor.
+
+[Speaker 0 - 00:14:13]
+No, me me gusta, me gusta. A ver quién pidió aquí. No, se me hace que es un bot, mi compadre. No. Luego nos llena aquí el espacio de Español. Ah, ya, ya entró, ya entró. A ver, vamos a darle una oportunidad. Hola, MD, ¿habla español? Si no vas para abajo.
+
+[Speaker 3 - 00:14:36]
+Ya, pues, Cindy, ¿a ti, eh?
+
+[Speaker 0 - 00:14:41]
+No hombre compadre, ahí vas para abajo. ¿Qué tal mi Indy?
+
+[Speaker 1 - 00:14:45]
+Está muy raro esto, pues. Está muy raro esto. Oye pues, para dar inicio con con buenos datos, buenas noticias, ya saben aquí que nos gusta comentar alguna análisis y perspectivas legales que quiero compartirles, a ver qué opinan, sobre todo para los emprendedores. Creo que esto les va a ser interesante. Y y pues, Mexi, por favor, las reglas del espacio, ya sabes, para dar inicio. No hombre.
+
+[Speaker 0 - 00:15:11]
+Sí, muchas gracias, Lu. Ahí se nos subió alguien y lo bajamos, pero todos los martes y jueves estamos aquí a las 12. Gracias a los que se han conectado. Gracias a los que comparten. Gracias a los que dan like. Los que se suben a platicarnos algún tema. Las reglas son muy sencillas. Cualquiera puede pedir participar. Por favor háganlo acá abajo, del lado izquierdo tienen el ícono. Cuando suban acá, levantemos la manita, tratamos de mantener el control de la conversación con las manitas. Busquemos compartir valor o entretenimiento, creo que también se vale. Me gusta, yo lo hago de repente. No siempre es divertido, pero bueno, lo intento. Pero no damos recomendaciones financieras ni legales. Finalmente lo que hacemos aquí es platicar desde nuestras perspectivas personales, lo que vemos en el mercado, lo que vemos en el ecosistema. Cosas que nos interesan personalmente a nosotros, yo lo repito, todo lo que platico aquí es cosa son cosas que me apasionan, Lu, estoy también convencido de que es igual y Jesús, pues bueno, no se diga.
+
+[Speaker 0 - 00:16:16]
+Tratamos de estar muy activos en el ecosistema y nos encanta que puedan llegar a subir y participar. Algo que he visto, mediante pensar, algo que he visto mucho, Lu, y no nada más con las chavas, sino hay hay hay últimamente un tema aquí de de divisiones que se me ha hecho muy raro. Gente que no quiere que colaboren algunas personas con otras porque les caen mal a unos y les calman a otros. Yo digo que eso hay que ignorarlo. Cada quien se puede juntar y reunir y platicar y convivir y colaborar con quien quiera. Y que la gente busque hacer esa división creo que pues no, no está chido. Entonces ese es mi punto de vista, sí lo quería mencionar aquí en el espacio antes de continuar. Nosotros estamos acá en Monterrey la la la comunidad pues buscando colaborar con muchas personas, algunos descargan bien a algunos, otros a otros. A nosotros nos importa lo que pasa con nosotros y pues vamos a decidir en comunidad. Yo creo que pues es el objetivo de crecer el ecosistema, de que más personas entren, de que aprendan, sin importar ahí problemas que puedan tener unos u otros.
+
+[Speaker 0 - 00:17:23]
+Entonces, bueno, si lo quería mencionar, que se quede grabado. Es mi perspectiva y empecemos. Lu, Jesús, ¿cómo ven? La semana, ¿cómo ven? Esto que comento, no sé si quieren comentar algo, yo estoy quedando sin voz.
+
+[Speaker 1 - 00:17:39]
+Ayer tuvimos Sí, sí, oigan, les les queremos compartir para para toda la audiencia que tengamos un un poquito de paciencia con nuestro querido Mexi, porque ya ven que anda en las montañas rocallosas y anda un poco enfermo. Así que si si de pronto lo escuchan por ahí un poco desafinado, ya saben por qué es. Pero ahora que andas por acá, Mexién, te voy a llevar esos 22 kilómetros cada domingo, así para para que estés en forma completamente. Oye Jesús, andas muy cañón No y aprovecho.
+
+[Speaker 0 - 00:18:10]
+Aprovecho para mencionar que voy a andar por allá en Ciudad de México del 27 al 30. Por aquí veo abajo. Elián, Elián, ahí te busco a ver si podemos grabar con algún episodio del podcast o contigo. Vete a saber algo algo hacemos allá. Lu, obviamente, me encantaría, y ya te invité. No veo a nadie más por aquí abajo de Ciudad de México. Pero bueno, vamos a andar buscando gente por ahí, para cotorrear, para platicar, para hacer contenido del 27 al 30 de marzo, después de hacer el intento ahí en el lista. Y rápido les platico ayer, tuvimos una grabación acá en en en en pues en nuestro estudio, en mi oficina, con la banda de MX Web 3. Estaba de largo, estaba Carlos Cerecedor, alias Yo Soy Dev, Diego Benítez que me ayuda con el podcast de Proof of Value. Estuvo muy buena la plática, hay que ver si lo repetimos, pues, no sé, cada semana. Estábamos echando cheve y, pues, nomás cotorreando, vamos a ver qué tanto le gusta a la gente. Pero bueno, empecemos ahora sí ya, porque sí me quedo sin voz. Jesús, Lu,
+
+[Speaker 2 - 00:19:13]
+¿con quién empezamos? ¿Eh? Decía. Como quieran, Lu. Este, si quieren empiezo rápido con las noticias para darle espacio más a Lu. Empiezo con las noticias. El día de hoy se publicó la inflación del mes de febrero en México. Se ubicó en 7.62 por 100, una disminución marginal, Pero no todos son buenas noticias porque la inflación subyacente, que es la la que realmente nos debe de importar, que es la de bienes y servicios, se creció, se ubicó arriba del 8 por 100. Es decir, y la no subyacente es la que realmente está empujando la inflación a la baja, sobre todo por los subsidios a las gasolinas. ¿Por qué digo que son malas noticias? Porque artificialmente estás trayendo la inflación abajo, pero persisten los problemas o las presiones de la demanda interna. ¿A qué se refiere esto? Que, pues, Banco de México debe apretar más la política monetaria, es decir, seguir subiendo tasas para para controlar la inflación. ¿Y por qué estás por qué hay presiones de demanda interna?
+
+[Speaker 2 - 00:20:13]
+Yo le asumo 2 cosas. 1, no sé si vieron, pero la semana pasada se publicó una estadística muy interesante, productividad laboral en México, y cada vez estamos peor. Y si no hay productividad y aumentan los salarios, ¿qué creen que pasa? Es como si yo tengo 5 automóviles. Pero lo único que hago, en vez de producir más automóviles, dejo esos 5 automóviles, pero cada año, a cada 1 de ustedes les pago, en vez de 10000 pesos, 100000 pesos, 1000000 de pesos, ¿qué creen que va a pasar con el precio de los automóviles? Pues va a subir. Entonces yo creo que ya estamos viendo una contaminación del incremento de los salarios mínimos hacia la inflación. Y segundo, las remesas. Las remesas es un componente exógeno, exógeno fuera fuera de control, que también, si bien es bueno porque atrae divisas, creo que ya también está contaminando a las presiones inflacionarias del país. Con lo cual, México, el Banco de México en este caso, creo creo que ya no le queda de otra más que seguir subiendo la tasa de interés agresivamente, yo creo que en 50 puntos base.
+
+[Speaker 2 - 00:21:19]
+¿Y por qué 50 puntos base? Porque esta semana el señor Girón Paul, que es el presidente de la Reserva Federal, también está preocupado por la inflación en Estados Unidos, que si bien se moderó de 6 a 6.3, si no me falla la memoria, la subyacente de 5 7 a 5 4, ojo la diferencia con México. Este, él dijo que no, que ellos van a ser muy agresivos. De hecho, ya la Reserva Federal se estima, hay hay un estimado, una probabilidad de 75 por 100 que la Fed suba la tasa de interés en 50 puntos base. Con lo cual no le queda de otra a Banco de México más que hacer lo mismo. Entonces, creo que vienen, a ver, ¿y esto en qué nos perjudica? Porque ojo, la gente estaba muy contenta con criptos y con los mercados financieros y el Nasdaq Aguas. Porque ya se está ya se está viendo una tasa de interés, por ejemplo, BlackRock ya está viendo la tasa de interés de 4 50 a 6 por 100 en Estados Unidos, y puede ser un 12 en México. Entonces, aguas, porque yo creo que apenas comienza el apretón, ¿no?
+
+[Speaker 2 - 00:22:21]
+El el el el el el freno de manos a la economía, y ya otra vez estamos hablando de de recesión, Estamos hablando de algunos pronósticos que dicen que a lo mejor pudiésemos entrar en recesión hacia finales de año. Entonces, el entorno está complicado. Yo creo personalmente que es la decisión correcta tanto de Banco de México como de la un problema de mediano a largo plazo. Entonces, creo que vamos a sufrir, como lo habíamos anticipado antes, ¿no? Este este año. Y bueno, nada más terminando con 2 datos interesantes. El por qué la Fed se siente tan cómodo diciendo que va a subir la tasa, es porque hubo 2 datos muy importantes. En enero se crearon en Estados Unidos, ojo con esto, 500000 empleos cuando se esperaba una creación de 180000. En una etapa de desaceleración económica, lo que está viendo Estados Unidos es un fenómeno que se llama reshoring. ¿Qué quiere decir eso? Como hay neater shoring en México, que son empresas asiáticas que se están viniendo cerca del consumidor final, en Estados Unidos estamos viendo el resouring, que es la recomposición 000 la recuperación de empresas que habían salido de Estados Unidos.
+
+[Speaker 2 - 00:23:31]
+Y casi todas estas creación de empleos, así como se están perdiendo en el sector de servicios y tecnológico, se están generando en sector manufacturero. Entonces estamos viendo ese near shoring. Y segundo, también se publicaron las vacantes laborales, ojo, están en 10000000 de de vacantes con 5000000 de desempleados, casi 2 vacantes por cada desempleado. Entonces, esto le da el entender a la Reserva Federal que, oye, no hay ningún problema por el mercado laboral. ¿Por qué? Porque, pues, obviamente, no hay desempleo, hay vacantes, pueden seguir ajustando la economía y no va a haber una pérdida de de ingreso por las familias en ese contexto. Entonces, con eso terminaría y explicando agua, señores, Entonces, con eso terminaría ahí explicando, aguas, señores, aguas, porque viene un ajuste fuerte y hay que ser precavidos de nuevo. No, 2 recomendaciones financieras, pero lo más exacto hoy en día, yo creo, son bono de gobierno, de corto plazo, protéjanse.
+
+[Speaker 2 - 00:24:31]
+Todavía no hay deep, hay que esperarse. Pero bueno, ese sería mi comentario del día. Gracias.
+
+[Speaker 0 - 00:24:44]
+Muchas gracias, Jesús. Ayer estuve, pues, muy al pendiente con una plática que tuviste ahí con Andrew, con don Pepe, en el cuadrilátero, si no lo han visto. Está muy bueno el episodio. Ahí se puso buena la discusión. Que empezaron a Quería traerlo. Empezaron a darse, ¿cómo Mexi?
+
+[Speaker 1 - 00:25:01]
+Que ya tenemos registrados Los famosos.
+
+[Speaker 0 - 00:25:05]
+No, no, no, sí, se dieron duro. Se se pusieron los guantes en el cuadrilátero de Ando y se dieron cripto putazos. La verdad estuvieron muy buenos. Hay que mandar a hacer merch, hay que pedirle a Nana que nos ceda o que nos preste o a ver qué y ahí le damos su regalier pero Su licencia, ya saben, por favor a todos los presentes.
+
+[Speaker 1 - 00:25:26]
+Yo soy la representa no, no es cierto. No, es que me dio mucha risa, Mexi. De verdad me dio mucha risa ayer que lo dijiste cuando estaban en pleno debate. Así que por eso se me
+
+[Speaker 2 - 00:25:38]
+ocurrió. Oiga, me faltó decir algo, perdón, que es importante, que el el día de hoy el peso mexicano es la moneda más depreciada de todas en el mundo. ¿Y saben por qué? Porque hay un conflicto político entre México y Estados Unidos. A los que no sepan, hace un par de días asesinaron a 2 estadounidenses en Matamoros, Tamaulipas. Y esto generó una reacción negativa, obviamente, del gobierno americano. Y el gobierno mexicano reaccionó de manera muy agresiva. Y los republicanos están sugiriendo una invasión, literal, a México. Y el gobierno, pues está enfrentando al partido republicano, y esto está generando tensiones, lo cual está depreciando el tipo de cambio porque, ¿qué creen? Pues México depende de su crecimiento de los Estados Unidos. Entonces, justo hoy por el tema político estamos viendo una fuerte caída del tipo de cambio del peso mexicano. Nada más quería ponerlo en contexto, sin sin tomar partido, nada más decir que eso está afectando al peso mexicano.
+
+[Speaker 0 - 00:26:44]
+Jesús, por ahí estaba leyendo hoy en la mañana que los 2 estadounidenses tienen o tenían antecedentes de tráfico de drogas, etcétera. ¿Eso crees que disminuya un poco la atención? O sea, al parecer estaban metidos en en en temas ilegales con el narco. No sé eso cómo afecte y si disminuya o incremente o o qué. Es un reportaje que salió hoy en el periódico El Norte, de Grupo Reforma.
+
+[Speaker 2 - 00:27:12]
+No, pues no sé. Pero independientemente, pues no no no puedes asesinar a 2 seres humanos, ¿no? A lo mejor esta asesinar a 2 seres humanos, ¿no? A lo mejor está normalizado en Matamoros, pero en otros países no es normal que estés asesinando personas, ¿no? Entonces ahí sí, pues, verás qué delincuente no, no puedes estar matando gente. Ese es mi punto de vista.
+
+[Speaker 0 - 00:27:33]
+Pues, la verdad yo no sé, Jesús, o sea, ese ambiente, ese negocio es está cañón, o sea, estás ahí metido, estás exento para eso en cualquier lado del mundo. No nada más sucede en Matamoros, o sea, en todos lados, ¿no? Pero, pues bueno, fue un nada más para dar un poquito más de contexto. Oye, Maxy, pero, digo, este este es un punto, la verdad, de bien lamentable, súper triste de de nuestro país. Pero
+
+[Speaker 1 - 00:27:56]
+yo creo que es cierto. ¿No? Que puede ocurrir en en otros lugares, o sea, pero la realidad es que en nuestro país cada día, o sea, escuchamos, leemos noticias de esta naturaleza. Además, creo que lo grave es cuando normalizamos precisamente o dejamos de sorprendernos por por estas cuestiones. A mí, yo vi un un video que estaba circulando y de verdad que me conmocioné, porque pasa, sea, como si estuviéramos a 3 cuadras en en una calle cualquiera y y con armas arrastrando cuerpos de alguien que acaban de asesinar. O sea, vivimos en un estado de derecho fallido, o sea, y y en muchos de de nuestras entidades federativas es preocupante. Y eso, bueno, concatenado con con muchos eventos económicos que que hace peor esa esa situación, ¿no? Entonces, yo creo que sí hay riesgos en en todos los países, hay hay naciones o o estados que que lo tienen más controlado, pero creo que México sí.
+
+[Speaker 1 - 00:29:00]
+Yo sí coincido con con Jesús en cuando decimos que que tenemos un estado fallido. O sea, la inseguridad es tremenda. Hay muchas cosas, ¿no? Que que hace falta mejorar. Y y no hablar aquí de partidos políticos, nada, sino más bien de líder de un país que que tiene tantas maravillas, que tiene tanto potencial y que de verdad se necesita un líder que venga que venga a cambiar, que venga a impulsar, ayudar a la gente, ayudarnos a todos, me incluyo. Es complicado nuestro querido México.
+
+[Speaker 2 - 00:29:36]
+Oye, Lu, impresionante que estos 2 norteamericanos desaparecieron y a las 24 horas aparecieron. Si fueran mexicanos, estarían desaparecidos. Te lo aseguro. Y eso eso me da más coraje. Porque si este gobierno no le interesa, o sea, si fuera, gracias a dios, y te lo digo personalmente, ya tengo pasaporte a otro país, porque eso me protege como periodista, me protege como ser humano en mi propio país. Hazme el favor, y es triste lo que te digo, pero es cierto. Gracias a dios, ya tengo otro pasaporte, otro país, porque si no, a mi gobierno le valdría queso. Y eso es tristísimo. Y no sé si estás de acuerdo conmigo. No, totalmente. O sea, justo como
+
+[Speaker 1 - 00:30:14]
+como eran cuerpos de personas extranjeras, americanas sobre todo, aparecieron. O sea, por arte de magia, el gobierno se movió, llegó también la autoridad de Estados Unidos. Pero, ¿qué pasa con nosotros? O sea, ¿qué qué hubiera ocurrido si si toquemos madera? ¿No? Pero no apareces, o sea, ni siquiera los cuerpos, ni siquiera, o sea, de de eso estaba hablando al inicio, ¿no? Sobre todo las mujeres, bueno, Juárez ahí está con un dato tristísimo de mujeres desaparecidas, que esas, o sea, sabemos que que están muertas, pero no sabemos ni los cuerpos. Entonces, sí es muy complicado, es muy complicado y sí entristece de pronto ver esas escenas, pero que son recurrentes. ¿Cómo ventin? O sea, no es no es de un día de No, o sea, son recurrentes. Entonces preocupa, preocupa bastante. Y acá ya nos acompaña el profe, vamos a a darle la palabra. Hola, profe. ¿Cómo estás? Aquí hablando de temas un poco tristes, caray, de nuestro querido México.
+
+[Speaker 3 - 00:31:20]
+Hola. ¿Qué tal? Buenas tardes, buenos días, donde quieran que estés. Pues sí, mira, no quiero caer así en el dilema de la política, pero porque precisamente es eso, es política, ¿no? Y entre que la gente, como dices tú, de siendo extranjero o más bien turista en mi tierra, pues eso que medio me protege como como mexicana en en mi propio país, como que es triste, ¿no? Y bueno, regresando a lo que decías tú, es complicado y tal vez hasta de cierta manera irónico, porque el representante que que está tratando de incursionar en el país de manera intervencionista, pues es de mi distrito, fíjate. O sea, se me hace más irónico y como que ya te pone pensar, como dices, oye, ¿qué pasa? Pero en efecto, resulta que mi condado es el más rojo, por no decir, este, republicano o lo que tú quieras, ¿sabes? Entre lo que se llama el Sundelt o el el el Bible Belt o la el cinturón de la Biblia en el país. Texas es la hebilla de dicho cinturón.
+
+[Speaker 3 - 00:32:20]
+Entonces, resulta que estoy en el, justamente, en el distrito más rojo de todo el país. Pero, pues, bueno, no me sorprende, pero vuelvo a lo mismo, política, tanto de este lado del charco diciendo, ¿sabes qué? Oye, pues, México, haz tu trabajo, este, quítanos de encima a ciertas otras personas de no desear, sino o estoy parafraseando, obviamente, ¿no? Pero es todo política, todo es pura política, y de verdad que, pues es triste. E incluso, podría decir que es incluso más triste, y regresando al tema que tú decías, Lourdes, hace ratito, de que, pues, bueno, siendo una mujer, oye, no no es necesario un día celebrarlas a a la mujer, son todos los días, porque si no, no hay ningún día, ¿sabes? O sea, no podemos existir sin ellas. No es cualquier idea yo sonar arjona si no son suficientemente, si son si no son jóvenes, o más bien, si son jóvenes para no conocer a Arjona, entonces
+
+[Speaker 1 - 00:33:19]
+escúchenlo, sería buenísimo. Ponles en contexto, pero, por favor, ponlos en contexto.
+
+[Speaker 3 - 00:33:23]
+Ay, dios mío, no no quiero cantar ni hacer ridículo, pero, o sea, hay una canción que se llama Mujeres, escúchenla. Un día Mex y yo cuando estemos juntos, nos echamos en guitarra. Está el arte, Mexi. Pero, este, no, para adelante. O sea, es triste tener que estar creando días, creando cosas para celebrar nuestra propia pluralidad, por así decirlo, cuando sabemos de que cada 1 de nosotros o nosotras tiene su individualidad, ¿sabes? Entonces, es es triste. Por último, Jesús, YYY coincido contigo, las métricas son buenas, los números que estás dando son correctos, lo cual que, incluso para mi mundo, va a estar más complicado todavía, porque ahorita, hoy por hoy, el mercado está muy oportunista. La gente tiene miedo de invertir, quiere darse líquido, como dices tú, bonos de gobierno, incluso, este, créábamos tener una conversación de que que invertir en CETES. Pero, bueno, tienes como riesgo la devaluación. Pero sí, la gente tiene miedo ahorita, entonces está buscando oportunidades que, bueno, hablamos el a principio de semana lo que es una oportunidad, vamos a seguir hablando al respecto, pero a final de cuentas la gente se está poniendo líquida, porque no nada más van a venir los cripto trancazos o los criptomandrake, sino van a venirlos todo mandrake, si estoy de acuerdo contigo, este,
+
+[Speaker 2 - 00:34:47]
+Sí, pues está el entorno muy incierto, ya retomando el tema del de los mercados financieros, y y yo sugeriría precaución y ser un poquito conservador, porque se vienen golpes fuertes con la Reserva Federal, Banco de Inglaterra, el Banco Centro Europeo, el Banco de México. Este, todavía no se acaba. Mientras la inflación esté ahí, Sticky, se llama, este, pues podemos ver una una posible recesión. Entonces, no cantaría Victoria todavía.
+
+[Speaker 3 - 00:35:15]
+Oye Jesús, pregunta que te tengo. Y nomás para rematar, ¿cómo vas haciendo tracking de las predicciones que que tenías a principio de año? Si se puede saber.
+
+[Speaker 2 - 00:35:26]
+Pues fíjate que yo sigo siendo optimista en el entendido que si hay una recesión va a ser muy leve. YYY lo fundamento con el tema del mercado laboral. O sea, no puede haber una recesión cuando tienes 10000000 de puestos laborales y solamente 5 y 5000000 de desempleados. Eso se, o sea, existe un, se llama en la economía holgura para apretar y y disminuir esta brecha. ¿Sí me explico? El problema fuerte sería si yo te dijera, oye, hay 10000000 de desempleados y hay 5000000 de de puestos laborales. Ahí sí, híjole, ahí sí la Fed estaría en un en un conondrom, que dicen en en Estados Unidos, ¿no? Porque, ¿qué haces? Tampoco puedes apretar tan fuerte porque friegas al sector laboral, pero no es el caso. Entonces, yo creo que por eso mismo hay espacio para que la Fed siga subiendo sin problema, mientras exista una algura en el mercado laboral. Por eso soy optimista en ese contexto, ¿no? Eso no no implica que va a haber gente que va a perder su chamba. Este, eso no no implica. Y y como ya vimos, se están creando chambas o trabajos manufactureros y se están perdiendo chambas de servicios.
+
+[Speaker 2 - 00:36:31]
+Hay que ver esa ese ese ese esa transición está interesante.
+
+[Speaker 3 - 00:36:36]
+Y lo estoy viendo aquí, fíjate. Eso ya es, pero ya es más, este, ahí en otro otro costal. Me encantaría tener todos los espacios de de nosotros, ¿no?
+
+[Speaker 0 - 00:36:50]
+No, el el el tema es complejo y sobre todo el tema de seguridad. Yo a lo mejor sonó el comentario como normalizado y a lo mejor está, lo tengo normalizado YYY qué lástima, ¿no? Qué lamentable. Pero bueno, cambiamos de tema. Yo creo que es bueno empezar con las estadísticas de Jesús, pero Lu trae un una conversación bastante interesante. Platíquenos lo que nos traes el día de hoy.
+
+[Speaker 1 - 00:37:13]
+Oigan, sí, porque si no, Jesús se sigue, se apodera del space y ya no me va a dejar dar estas buenas notas legales con análisis, caray hombre. No, no es cierto, siempre Jesús a todos los espacios donde va. Entonces, me voy a anticipar y voy a comentar un par de notas que que trae un análisis bueno, a ver qué les parece. Sobre todo, profe, no te vayas, quédate porque se va a poner bueno, ¿eh? El tema legal. Estoy segura que a ti te va a interesar. Oigan, pues Órale. ¿Qué creen? Fíjense que recuerden que hemos comentado, y seguro muchos de ustedes han escuchado hablar de las famosas DAL, estas organizaciones descentralizadas que se conforman a través de tokens de gobernanza y que, bueno, aquellos quienes adquieren este token de gobernanza pueden hacer distintas cosas para llegar a un objetivo a grandes rasgos. Pues, bueno, fíjense que han presentado la la semana pasada, presentaron 2 propuestas de ley, una de ellas en Utah, en donde están proponiendo precisamente equipar a las DAO o rodearlas, digamos, de una estructura más acotada, no acotada, perdón, más pegada a lo que suele ser una persona moral, es decir, una empresa.
+
+[Speaker 1 - 00:38:32]
+¿Y qué significa esto, Jesús? Mexi. Bueno, que las DAO, como las conocemos al día de hoy, no podemos decir que forman una entidad jurídica. Todas las empresas, aquellos que que participan en una o o las empresas como normalmente a las que participan en una o o las empresas como normalmente las conocemos, los abogados decimos que tienen personalidad jurídica propia, es decir, que pueden tener ciertas responsabilidades, se les puede atribuir ciertas responsabilidades, responsabilidades, se les puede atribuir ciertas responsabilidades, y aquellos quienes son accionistas o socios, bueno, también tienen responsabilidad para responder frente a terceros de ciertas circunstancias. Las DAO, por supuesto que no está al día de hoy, no están dotadas de esta personalidad jurídica, sino lo que ocurre es que normalmente quienes participan en DAO se acompañan de un modelo que que le llamamos un legal rapper, rapper, y que a la par se constituye una persona moral o una empresa en la jurisdicción en donde se encuentran, y bueno, lo acompañas precisamente de la constitución de una DAW con el token de gobernanza.
+
+[Speaker 1 - 00:39:49]
+¿No? Entonces, te sirve esta empresa o es o esta compañía para ir actuando frente a frente a terceros, frente a otras personas, hacer algunas transacciones, a lo mejor levantamiento de capital y después trasladarlo a la DAO. Pero al día de hoy no existe algo que conjunte 2 cosas. Entonces, fíjense, estos proyectos de ley, precisamente, están proponiendo que exista hoy en día este modelo, en donde sí se pueda operar a través de un token de gobernanza, pero que a estos adquirentes de estos tokens se les pueda dar algún tipo de analogía como si fueran accionistas. Y entonces estarían conformando precisamente una persona moral, o sea, una empresa. Nosotros decimos que es una persona moral una compañía. Oigan, y antes de seguir, ya vi aquí a a Crowkin que tiene levantada la manita YYY ya se le va a alcanzar. Le voy a le le voy a dar pase, por favor, Mexi, porque si no me voy a seguir aquí y no me van a detener.
+
+[Speaker 1 - 00:40:53]
+Crowkin, dame alto por favor.
+
+[Speaker 5 - 00:40:58]
+Hola, Lu, hola Jesús, hola, Menci, hola a todos. Ahorita nomás quería venir a compartirles, no sé si hayan dado cuenta o hayan visto un poquito de Para los que están a a ti, Menci, que estás metido más en el mundo de Ordinals, acaba de salir diagonal 20, que permite ahora la la inscripciones de de tokens fungibles dentro de bitcoin. O sea, va a permitir la opción de crear, pues, monedas. Vamos, yo digo que con esto ya vamos a ver la la apertura de DAW dentro de la misma red de bitcoin. Muy posiblemente. Aquí les voy a opinar 1 un un tweet para que vean un poquito de eso.
+
+[Speaker 0 - 00:41:36]
+No, me mandó hace rato Felipe Servín, el luchador de Nifter, un hilo. Está bien interesante. Lo quería traer hoy al tema, pero la verdad no he leído lo suficiente como patrón a opinión. Pero es increíble, ¿no? El desarrollo que se está viendo. Creo que va muy de la mano con lo que dice Lu, porque sí, finalmente estos tokens fungibles que a lo mejor van a poder estar en bitcoin con este nuevo desarrollo, pueden dar pie a estas DAOs ¿no? Y definitivamente la forma en registrarlas y que estas le reporten al gobierno, son muy importantes ¿no? Y pues es lo que luego ahorita trae la mesa. Entonces creo que va de la mano y qué chingón ver desarrollo en bitcoin. La verdad la verdad me encanta que se desarrolle y que haya gente haciendo nuevas aplicaciones, nuevos esquemas de tokens fungibles, no fungibles, que si los artefactos digital, tal vez tú vas a ver. Entre más uso mejor. Si tú quisieras crear una token ahorita en bitcoin,
+
+[Speaker 5 - 00:42:33]
+y ya tienes, sabes, el proceso básico de inscripciones, ahí en la en el tweet pineado, nomás cambiarías los datos que quieres de tu de tu token, por ejemplo, en donde dice tick ordi, es el nombre de la token que está creando la persona esa. Cambias por el nombre de la token, el nombre que le quieras poner a la token. En max pones el límite de tokens que se pueden inscribir de esa misma, y en lean pones la cantidad máxima que puede mintear, inscribir las personas que quieran mintear la total. ¿Está curado? Sí, échenle un vistazo.
+
+[Speaker 0 - 00:43:07]
+Oye, Crowky. No, acá en Monterrey.
+
+[Speaker 1 - 00:43:09]
+Perdón, Crowky Me echo el círculo. Ya me quitó la inspiración, ya les iba a narrar aquí las los elementos de las leyes y ya se me olvidaron. No, no es cierto, Crocking. Bienvenido, bienvenido. Pero antes de continuar con Ordinals, sí les quiero contar, déjenme terminar nada más estos 2 puntitos. Les prometo que no me pongo intensa y no les aburro, pero está bueno para que se lleven información y luego lean el documento de 86 páginas que les comparta. No, no es cierto. Así lo omiten, así lo omiten, por favor, esa lectura de 86 páginas. No, miren, les les esa lectura de 86 páginas. No, miren, les les les estaba diciendo justo que en la ley de de esta propuesta en Utah, fíjense, trae temas interesantes. Lo primero, que está creando un tratamiento fiscal claro, o sea, te está diciendo cómo vas a grabar a partir de cuestiones fiscales quienes participen. No está por aquí nuestro agente del SAT, Abraham, no lo no lo no lo alcanzó a ver, pero eso eso va a ser interesante para para Abraham.
+
+[Speaker 1 - 00:44:17]
+Otro otro punto bien importante, les les establece que cuando se constituya una DAO, de entrada vas a tener que proponer estatutos. Nosotros decimos que se llaman estatutos sociales. Cuando constituyes una empresa y pones en un documento todo lo que se obliga los accionistas y esa empresa a realizar y las responsabilidades que que que van a tener. Entonces, Tavo me acaba de hacer reír, perdón, sí, ya sé que está pasando el de que compra cosas, Tavo, no me deja reír, ¿ya ves? ¿Sí se escucha? Bueno, ustedes hagan caso omiso a eso, por favor. Ya saben que aquí es famoso. Luego les cuento que hasta está registrado eso en indautor, pero eso es de otro space. Y les le sigo. Fíjense que otra característica importante de esta ley es que va a tener un un punto que tiene que aparecer un tipo de registro, van a tener que tener un tipo de registro con deberes fiduciarios, o sea, van a crear un tipo de registro con deberes fiduciarios.
+
+[Speaker 1 - 00:45:21]
+O sea, van a crear una estructura jurídica que va a tener que tener una implicación en deberes fiduciarios. ¿Qué significa esto? Que van a tener que constituir un fondo, o sea, un fondo de de ese patrimonio que gobernanza, y se va a a generar, digamos, como una bolsa que va a administrar. Entonces, estas 3 características, no sé qué opinen, aquí ahorita va va a entrar el el profe, sí son importantes, porque la realidad es que al día de hoy, desde el punto de vista legal, las DAW, sí representan un poco de de, digamos, inseguridad jurídica como compañía, o sea, y me refiero como como una entidad empresa. Estos puntos a mí me parecieron interesantes, y seguro aquí el profe, que él tiene muchísima injerencia en este tipo de actividad, me va a agregar un punto interesante. Adelante, profe.
+
+[Speaker 3 - 00:46:18]
+No, hombre, yo creo que tengo más preguntas que respuestas, pero a ver si me echas la mano. Te la barajeo en, como se dice aquí en inglés, en name and sterms, en términos más masticables. Se da Dit Utah, ahora como jurisdicción, está permitiendo la estructuración de DAOs como entidad legal, como entidad reconocida. Tiene un tipo de registro especial, digamos, y todo tendría que estar bien detallado en el acta constitutiva. Y tercera, tiene que tener como un tipo de fianza o afianzador, algún tipo de fondos, vaya, que estén destinados, bueno, para la operación, pero tiene que estar administrados por la por determinadas personas de la DAO. Ahí es donde me confundí.
+
+[Speaker 1 - 00:47:07]
+Gracias, profe. Sí, fíjate. Esta le le recuerdo para que el se lo lleven como punto principal. Apenas ambas son una propuesta de ley, es decir, tienen que pasar el proceso para que efectivamente entren en vigor. Pero el punto sobre deberes fiduciarios, profe, lo que lo que está diciendo la propuesta de ley es, no te no te obligo a que constituyas un, o sea, a que tu DAO tenga un fondo fiduciario donde se vaya directamente en un fondo fiduciario, donde se vaya directamente en una cartera todos los recursos y y que a partir de ese fondo fiduciario sea exclusivamente administrado por ciertos participantes. Ajá, pero si lo haces, o sea, si dentro de estos estatutos para la DAO tú haces mención a esa constitución de ese fondo fiduciario, entonces vas a tener que tener estas reglas, y y aparece todo lo vas a tener que que hacer. Ahora, aclaro, la propuesta de ley, y a lo mejor por aquí es tu pregunta, profe, no está haciendo referencia a que estos a que este fondo fiduciario, como esa bolsita que se arma dentro de la DAW, va a tener una característica como security.
+
+[Speaker 1 - 00:48:22]
+¿Ajá? Sino, lo nombra como cuando lo que nosotros como conocemos para las empresas como el capital social, que eso es algo común, es algo muy parecido a lo que está nombrando. Ajá. Es es como la analogía de de este de este capital social que todas las empresas tienen. Ajá. Entonces, va a ser muy interesante. Yo creo que, la verdad, no he terminado de leer porque trae puntos sobre los tipos de jurisdicciones, o sea, trae puntos muy interesantes, pero estos son los primeros que me han llamado la atención. Y fíjense, muy rápido, antes de de darle paso aquí a don Ramírez, ya no te voy a decir don Ramón, don Ramírez ya sé que eres don Ramírez, pero les cuento muy rápido ahora de la propuesta de New Hampshire. Lo dije bien, profe, lo dije bien, porque con eso de mi inglés de fotos vale, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no,
+
+[Speaker 3 - 00:49:25]
+no, no, no, no, no, no, no,
+
+[Speaker 1 - 00:49:29]
+no, no, no, no su parte, la la de New Hampshire se aparta justamente de este modelo, del de Utah, para crear un nuevo tipo de entidad que respete las cualidades naturales de una DAO. O sea, es un poco totalmente distinta a la de Utah, porque dice, a ver, no es necesario que atengamos una empresa como normalmente la conocemos, sino vamos a respetar DAO, y además vamos a incorporar que sea obligatorio esta transparencia al público como como principio regulador e impulsor, y dejando todo esto solamente para los estatutos. ¿No? Hay 11 requisitos que tienes que cumplir para que entonces te doten de esta personalidad jurídica, y entre esos requisitos, fíjense, es va a ser obligatorio que tú registres el token a través de una Blockchain pública oficialmente. No puedes utilizar ahí, va, me llama la atención, porque están obligando a que sea una Blockchain pública, lo cual es muy bueno, pero va a limitar algunos algunos algunas cuestiones justo para entrarle a las DAW en distintos sectores.
+
+[Speaker 1 - 00:50:45]
+¿No? Yo creo que coinciden con eso. Y la el último punto de esta ley es que deberá hacer referencia o proporcionar lo que más nos gusta, profe, deberán de proporcionar un mecanismo de resolución de disputas que, por su naturaleza, sean susceptibles de ser resueltas. ¿Por qué creen? Por medios de arbitraje a través de tecnologías descentralizadas. Ese está superinteresante. Sí, superinteresante. Lo van a volver obligatorio. Ese va a ser un punto superbueno, porque finalmente está llegando el tema del arbitraje descentralizado. Lo están poniendo ahí. Eso va a ser súper clave y va a ser temazo, ¿eh? Para quienes nos guste el el el tema legal, va a ser muy bueno. Y se acaba de subir Tavo, antes de darte la palabra Tavo, por favor, no te desesperes. Es que don Ramírez estaba en la fila, por favor.
+
+[Speaker 1 - 00:51:46]
+Y y me sigues echando No, no, la tienen que levantar donde Y me me sigues echando la mano con con el de se compra.
+
+[Speaker 0 - 00:51:57]
+Ándale, si quiere hablar en Clare toda la manita, así lo arreglo. Perdón, pero échele la nota. Don Ramírez.
+
+[Speaker 6 - 00:52:06]
+Buenas buenas tardes, ¿cómo están? Bueno, a mí me parece excelente noticia este marco jurídico que se está empezando a estudiar y a implementar, porque de por sí las las dado de verdad, o sea, cualquier dado que que se respete, realmente ya tiene implementada todas todas las regulaciones, ¿no? O sea, todo el tema de de centralizado de de arbitraje, de transparencia, todo eso, sino precisamente no es un dado real, ¿no? Yo creo que esto va lo que va a hacer es dar más seguridad precisamente a la gente cuando de verdad quiera entrar a a invertir o a participar en un tipo de DAO. Ya ese marco jurídico, incluso para las empresas va a ser buenísimo. No es lo mismo ir a buscar inversión o o hacer cualquier tipo de de trámite si no tienes algún marco jurídico, ¿no? Que que te ampare. En este caso sería espectacular poder tener ese ese marco jurídico ante la ley como una especie de empresa constituida y poder operar de desde esa forma, ¿no?
+
+[Speaker 6 - 00:53:07]
+Porque la verdad es que una edad es 1000 veces más transparente que cualquier empresa constituida actualmente, ¿no? Todas los todos los asientos están 100 por 100 disponibles, siempre y cuando esté, por supuesto, en una en una Blockchain pública. Así que me parece súper lógico esa ese requisito. Incluso incluso el tema de los estatutos, generalmente en las DAOs series, antes de tú entrar tienes que poder firmar con tu wallet que estás de acuerdo con con los estatutos de esa de esa DAO, ¿no? Y todo está muy bien especificado también, ¿no? Los tanto los deberes como las responsabilidades de ser miembro de de esa DAO. Ahí lo interesante es precisamente ese marco jurídico y y que creo que definitivamente cada vez estamos más cerca de de permear en en esos aspectos, porque definitivamente me parece que este es un un modelo que va que va a cambiar el mundo en cuanto a transparencia y en cuanto a a la corrupción, ¿no?
+
+[Speaker 1 - 00:54:09]
+Antes de de dar una réplica a don a don Ramírez, Tavo, ahora sí, dale, por favor, y después vamos con el profe, y después vamos hasta el agente del SAT, que ya está aquí nuestro querido Abraham.
+
+[Speaker 7 - 00:54:21]
+El humankin es un agente del SAT. Qué bueno que me lo dices para no acercarme nunca a 1 de nuevo a un humankin. Oye, qué qué qué buen tema, Lu. Y no sabía, no manches. Te tengo varias preguntas, a ver si me las puedes contestar. Yo yo tenía entendido que en Massachusetts ya existía regulación en cuanto a las DAOs. No sé si sepas de eso, pero yo tenía entendido porque por la porque conozco el proyecto de City DAW, literal, ciudad DAW, que ellos compraron como una DAW constituida legalmente tierra, literal, en Massachusetts, y empezaron a crear un un gobierno descentralizado que iba tomando las decisiones, que si nos expandimos hacia el este o este, que si construimos un nuevo edificio de esto o de aquello o en qué invertimos, ¿no?
+
+[Speaker 7 - 00:55:21]
+No sé si si sepas algo de eso. Por otra cosa, me surgió la duda de las nuevas regulaciones. ¿Sabes si van a, o sea, si la ley está contemplando distinguir tipos de DAOs? No sé, o sea, DAOs que sean exclusivamente para como un club de inversión o DAOs que sean con fines sociales. No sé si si de, espera, dame un segundo Dora, si la la ley distingue eso, si sepas, 000 igual qué te parece, qué qué te parece eso de de distintos tipos de DAO. Y la última pregunta, se me olvidó, pero si me acuerdo se las digo.
+
+[Speaker 1 - 00:56:05]
+Muchas gracias, Tavo. Ahora, por favor, hazle caso a Dora, no la dejes ahí esperando, y mientras te explico. Oigan, muy rápido para para seguir con con el profe y con Abraham. Fíjate Tavo, lo de Massachusetts no estoy totalmente informada, te lo voy a confesar, de este proyecto que que estás mencionando, no lo he revisado, pero lo voy a hacer, lo voy a dar a la tarea, y seguro te busco para tener esta conversación. Lo que sí sé es que este estado, Massachusetts, tienen algunas disposiciones que facilitan implementar una DABA. O sea, no no existe que una deuda. O sea, no no existe como tal una ley o una propuesta como estas que que están, que tenemos hoy en día, que estamos revisando acá, pero sí facilitan Oye, perdón, perdón que te interrumpa, pero no es Massachusetts, es Wyoming. Ah, es que entonces, en sachusetts, es Wyoming. Ah, es que entonces, en Wyoming sí. Wyoming lo que lo que ayuda, y creo que, profe, tú tienes ahí, has has hecho algo, si no mal recuerdo.
+
+[Speaker 3 - 00:57:07]
+Wyoming es de los estados Tago, apréndete apréndete los estados, por favor.
+
+[Speaker 7 - 00:57:11]
+Es más No, es de ni los de mi país. ¿Cómo quieres que me sepa los de Estados Unidos? Es de los más
+
+[Speaker 1 - 00:57:18]
+cripto friendly que hay para hacer todo lo que tiene que ver con temas de Blockchain. Es es de lo mejor, porque hay súper beneficios fiscales, súper beneficios empresariales, o sea, pero también como se como se lleva a cabo es a través de un legal wrapper. O sea, puedes constituir tu DAW, y si tú tienes una DAW apalancada también de una persona moral de una empresa, tienes un montón de beneficios. O sea, puedes hacer muchísimas cosas, deducciones, DAW. ¿No? Sino que sobre las LADAW. ¿No? Sino que hay muchas que, a partir de que tú incorporas este tipo de actividad, te trae muchos beneficios. Y antes de contestar las otras 2, profe, a ver, adelante, por favor, si quieres complementar algo.
+
+[Speaker 3 - 00:58:16]
+No, mira, brevemente y, bueno, de hecho, lo que voy a hacer, Lu, es llevarme el documento que sacaste de aquí de, este, de Utah y mandárselo a mi contacto en el departamento de estado, aquí en Texas, para que, oye, la vanguardia? Échame la mano. Ok, porque precisamente para las cosas que vamos a hacer, la idea es tener la DAO en Texas, porque para mí tiene mejor sentido. ¿Por qué? Porque Tavo, una de las cosas que necesitas en en Wyoming, y sí, es Wyoming, no es Massachusetts, es que necesitas un agente registrado allá, es decir, que tienes que pagarle a una persona que esté allá pendiente para recibir notificaciones. Es como tener tu propia LLC allá o tu SA. Notificaciones. Es como tener tu propia LLC allá o tu SA, ¿ok? Pero que tu notario o tu representante legal esté físicamente ahí. Ese es un requisito, ¿ok? Entonces, para eso iba yo de y, este, Lu, gracias por el por el dato y por la explicación. No te quito el el fuego. Está buenísimo. No, por favor, quien quien quiera subir, y ahorita vamos con Abraham.
+
+[Speaker 3 - 00:59:17]
+Pero
+
+[Speaker 1 - 00:59:19]
+sí, justo profe, o sea, lo lo que lo que le decía a Tavo es, justo no existe esto, y no regañes, por favor, ni a tu abogado ni a tu contador, porque estas son apenas propuestas. Es decir, van a pasar el proceso legislativo en ambos estados. ¿No? Pero ya que esté ahí, significa que vamos por buen camino. Por lo menos en Estados Unidos, como siempre, se quieren adelantar a a mucho, y está muy bien. Pero a mucho, y está muy bien, pero son apenas propuestas de ley. Y sobre la las otras 2 preguntas, Tavo, la otra, fíjate, no es que existan estas propuestas de ley, no es que estén determinando que va a haber distintas determinando que va a haber distintas DAOs. ¿No? Yo creo que lo que va a determinar es precisamente cómo se conformen los estatutos, y a partir de ahí que apliquemos o o que estos estas normas que vienen ahí se apliquen a estas distintos tipos de DAOs. ¿No? Eso es muy importante. Y además, también el giro que le quieras dar, el objetivo que quieran cumplir.
+
+[Speaker 1 - 01:00:22]
+Vaya, creo que todo eso va a ir de la mano para saber cuáles de estos preceptos le van a ser aplicables. Entonces, va a ser va a ser muy bueno. Creo que van a ser 2 estados donde aquellos beneficios y bondades van a van a van a llegar. Vamos a tener que esperar un tiempo para ver qué ocurre. Pero sin duda son son muy buenos. Y a mí en especial, por supuesto que me gustó más donde van a obligar a que exista un medio de resolución de controversias a través de de arbitraje descentralizado. Eso va a ser muy interesante. Y ahora sí, vamos, por favor, con nuestro querido agente del SAT. Abraham, ¿cómo estás? Bienvenido.
+
+[Speaker 0 - 01:01:04]
+Oigan, y ya. Abraham, permíteme más un segundo, porque algo que sí me gustaría mencionar antes de que de que hable Abraham, para que también nos dé su perspectiva, es que justo acá en Monterrey estamos viendo en los meetups cómo hacer diferentes alternativas de de de colaboración, ¿no? Y una que estamos colaborando fuertemente es una DAO, para invertir en los mismos proyectos de la comunidad. Para invertir en a lo mejor colecciones de NFTs que traigan ciertos beneficios. Y todo eso es algo que pues estamos construyendo en público, que Abraham nos está ayudando a definir cómo hacer aquí en México. A lo mejor hay que ir a Estados Unidos a hacer algo así con en Wyoming. O vete a saber ahora en Utah que pase la ley, o no sé. Pero nos nos gusta. Nos gusta experimentar con la tecnología y utilizarla de una forma donde a lo mejor la vamos a cagar, a lo mejor no. A lo mejor a ver salen cosas muy muy chingonas. Pero si no probamos, pues nunca vamos a poder darnos cuenta de de cómo, ni cuándo, ni dónde, etcétera. Entonces, por ahí va, perdón Abraham. También si puedes comentar de eso, acá en México estaría idea.
+
+[Speaker 0 - 01:02:06]
+Gracias.
+
+[Speaker 4 - 01:02:09]
+Sí, muchas gracias. Hola, hola a todos. Primero que nada quiero hacer una una aclaración. No soy agente del SAT, sino todo lo todo lo contrario. Soy soy, digámoslo que soy de las personas que les ayuda a pelearse con el SAT o sea si tú quieres este eres enemigo del SAT bienvenido yo estudio mucho al SAT para ver por dónde le le damos legalmente obviamente legalmente este y por dónde cómo ayudar a los contribuyentes a que eh tengan una mejor eh eh ingeniería fiscal y todo eso eso es lo que ayudó ¿Eh? Pero no no no no no soy del otro bando. Oigan no no es es broma Abraham ya sabes que es es como te decimos con cariño, así como a Jesús que le decimos
+
+[Speaker 1 - 01:02:55]
+que es agente de la Fed y que está por aquí para obtener información de nosotros. Pero no, ya aquellos quienes no sigan a Abraham, sígalo súper
+
+[Speaker 4 - 01:03:05]
+fiscalista, ¿eh? En en cripto además y Le voy a poner antizada mi perfil. Exacto. No, no voy a ver muy Ok, por favor. Y además, no, yo sigo tus buenas recomendaciones
+
+[Speaker 1 - 01:03:14]
+que de pronto por ahí pones, y tengo muy claro eso de que evadir no es estrategia fiscal, lo sé, lo sé. Así que Para nada. No, por favor, siempre No, y es un delito aparte. Claro, claro. Aparte es un delito. Entonces, ya sabes que que con cariño te decimos cualquier esa gente del SAT. Pero adelante, por favor. ¿Qué nos ibas a contar? Muchas gracias.
+
+[Speaker 4 - 01:03:34]
+Sí, mira, de hecho, creo que ya respondiste la pregunta porque la la hizo Tavo. Yo la pregunta era que que era, ¿Qué diferencia había esta nueva propuesta de Utah con lo que hay ya lo que ya existe en Wyoming? Este del acerca de las DAO. Sí tengo bien entendido que que Wyoming es un es un estado cripto friendly en el cual puedes constituir tu DAO y tienes la misma certeza jurídica que una LLC. Este eso sí lo lo tengo muy muy bien claro y este incluso para serte honesto muchos bueno las personas que se han acercado para mí para una DAO y todo eso le digo mira si no quieres pelearte o no quieres iniciar un un enfrentamiento aquí en México, Wyoming es este es el estado ideal para hacer esto. Ahora, eso también no nos deja que nosotros podamos hacerlo aquí. Siempre he comentado que estamos en una revolución y en la revolución va a haber enfrentamientos y y ese enfrentamiento se van a algo que nos pueda dar a nosotros mayor claridad ese enfrentamiento es que que lo que lo hace como dijo Mexi hay que hacerlo hay que hacerlo si la cagamos si no tenemos esto pues hay hay que aventárnoslos pero aventarnos sabiendo que puede o no haber un enfrentamiento debido a lo que a lo que podemos hacer.
+
+[Speaker 4 - 01:04:49]
+O sea, a las personas que se acercan conmigo le mira ¿Quieres hacerlo? Lo hacemos aquí en México, vemos la mejor forma en que se pueda hacer pero ten en mente que pueda ocurrir que el SAT venga, que el Banco de México venga y que nos nos que nos diga, que nos cuestione. Si estás dispuesto a darle vamos a darle. Porque no hay otra, creo que no hay otra, creo que la mejor forma de avanzar esto es haciéndolo y que la autoridad venga y diga esto no era así. Ah bueno pues entonces dime como si era. Dime como si era porque yo lo estoy haciendo así de acuerdo a lo que a lo que tengo y a lo que no me has dado yo lo estoy haciendo así. Porque en México lo que no está prohibido tampoco está permitido. Como digo una cosa digo la otra. Entonces como puede ser bueno, puede ser malo pero los abogados lo mucho mejor y pueden sacarle mayor provecho a este juego de palabras incluso hasta en un juego de palabras en una traducción literal pueden sacarle mucho provecho los abogados a a cuestiones de defensa y todo esto.
+
+[Speaker 4 - 01:05:53]
+Defensa jurídica y y fiscal. Pero pues gracias yo ya creo que o no sé si tienes algo más que agregarme, Luz, acerca de de algo que venga a complementar sobre lo que ya existe en Wyoming esta esta esta propuesta.
+
+[Speaker 1 - 01:06:09]
+Muchas gracias, Abraham, por por tus comentarios. No, fíjate, y además. ¿Sabes qué? Ya te vamos a pasar al Batside, o sea, al lado de los abogados, porque te sabes perfecto los principios jurídicos, así que vamos a colaborar. Los principios jurídicos. Así que vamos a colaborar ya. No. ¿Sabes qué? Fíjate que que Wyoming es es eso, hace falta el dar ese formalismo, perfeccionar a partir de que exista una ley o una propuesta exclusiva. ¿No? Que que, como lo están haciendo ahora estas 2 entidades en Estados Unidos, realmente ponga en en en derecho positivo, en escrito, qué es una DAO, cómo tienes que hacer para conformar estatutos? O sea, que te dé precisamente, que te dote a partir de de una ley exclusiva. Lo que ocurre al día de hoy es que, a partir de la posibilidad que existe en una normativa mercantil, haciendo mención a esto, a las DAO, es que DAW, es que se puede hacer. Pero no es una ley exclusiva.
+
+[Speaker 1 - 01:07:11]
+O sea, es son son algunas normas que están plasmadas en distintos en distintas leyes, que hace mención justo de esto. Pero la diferencia, creo que puntual, la tenemos ahí. O sea, estas son leyes, propuestas de ley exclusivas que van a regular un un una DAW. Es como si acá en México tuviéramos el lugar de de la Ley General de Sociedades Mercantiles, tuviéramos la ley para las Sociedades Anónimas, ¿no? Por ejemplo. Entonces, eso es lo que va a ocurrir. Y creo que eso va a ser en en beneficio de todos quienes quieran emprender una gaw. Eso va a ser muy bueno. Adelante, profe, por favor.
+
+[Speaker 3 - 01:07:55]
+Sí. De hecho, Abraham, me interesa escuchar de que al menos ahí en México la gente te está diciendo, oye, pues quiero quiero hacer algo en Wyoming, o sea, de que te llega la gente que que va a hacer las cosas así y qué bueno. Pero Lu, lo que me queda claro es de que al menos queda bastante pendiente y tal vez con un poco más de premura de hacerlo de arbitraria por medio de arbitraje en línea y, pues, queda pendiente esa discusión y cómo hacemos para para que nazca, ¿no? Y que, o sea, que y qué padre sería de que lo lo hiciéramos nosotros.
+
+[Speaker 1 - 01:08:33]
+Sí, la verdad, profe, que es esta esta propuesta, o sea, estas nuevas tecnologías nos van a ayudar muchísimo a poder ya no depender de del estado, de esta burocracia que de pronto vemos, y va a romper fronteras. O sea, esto va a ayudar muchísimo, porque imagínense poner el mecanismo justo de resolución para este tipo de de entidades. ¿No? Creo que eso va a ser superinteresante. Así que yo estoy segura que muchos de quien quienes estamos aquí en el en el Web 3 podríamos hacer algo algo de esto, así que no lo no lo descartemos, profe, por favor, porque esto sería muy bueno. Que hay hay buenas propuestas al día de hoy por ahí. A mí en especial me gustan 3. No voy a decir marcas, porque luego me dicen que ando aquí promoviendo. Pero hay hay 3 muy buenas propuestas que que me han gustado y que constantemente leo lo que están haciendo, porque es es interesante, un una de ellas es una hindú y es súper buena.
+
+[Speaker 1 - 01:09:35]
+Entonces, veremos cómo cómo pinta el panorama. Creo que estas 2 leyes hay hay que estudiarlas, me tengo que echar todavía las últimas páginas de ambas. Creo que la la de New Hampshire no se las compartí, ahora se las pongo, solo les les puse ahí la de Utah. Y y, bueno, ya no lean ustedes. Pónganme a mí hacer la tarea para analizarlas y darles los datos finos. Pero quería que lo supieran, creo que esto es algo algo bondadoso para el sector web 3.
+
+[Speaker 3 - 01:10:07]
+Uriel, ¿tengo tu permiso para guardar este documento?
+
+[Speaker 1 - 01:10:12]
+Por supuesto, no lo necesitas. Es del dominio público y además del estado y gobierno de Estados Unidos, así que, por favor, quien quiera ahí difundirlo, yo encantada. Entre más conozcamos de temas legales, mucho mejor. Que de pronto luego aburren, ¿verdad? Luego es como, ah, tío. No, pero por favor, intentemos difundir la cuestión legal también, ayúdenme. Tavo, adelante, por favor, y luego don Ramírez. Sí, íbamos en ese orden, ¿verdad? ¿O ya ya estás en la liga? No, estaba primero
+
+[Speaker 7 - 01:10:44]
+don Ramírez, pero ya me diste la palabra de 1000 gracias. Oye, Lu, sabes aquí en México, porque, digo, ambos somos mexicanos y, de hecho, estamos en la misma ciudad, ¿eh? No has querido verlo. Pero, ¿quién quién está llevando estas regulaciones de DAWs? ¿O o hay alguien? ¿Conoces de de bitcoin y las criptas, pero pues no es lo mismo. ¿No?
+
+[Speaker 1 - 01:11:21]
+Sí. Ahora ahora contesto esa pregunta, porque además creo que va muy relacionada también con el otro punto que quería contarles. Pero don Ramírez, por favor, mira, soy supermaleducada. ¿Verdad? No te di paso. Por favor, mira, soy super mal educada, ¿verdad? No te di paso. Adelante.
+
+[Speaker 8 - 01:11:35]
+No, no te preocupes. Esta es una pregunta, de hecho, para más para Abraham que, o para cualquiera que sepa, de hecho, yo creo que igual Abraham es el que el que tiene por ahí una respuesta, ¿no? Porque con todo este marco jurídico que se puede estar abriendo, de hecho, esto facilitaría muchísimo todo el tema de las donaciones inclusive, ¿no? Para las dados y y todo lo que son recibir pagos directamente a las dados de de empresas, que eso actualmente es bien difícil y eso es una de las razones por las cuales las empresas le huyen tanto a los pagos a través de criptomonedas.
+
+[Speaker 4 - 01:12:15]
+Abraham, Abraham, ¿estás por ahí? Sí, perdón, no te pregunta, perdón, no la no la entendí bien.
+
+[Speaker 8 - 01:12:22]
+Claro. Te preguntaba que si este marco, precisamente, tú como trabajas con el tema del SAP, este marco legal lo que va a hacer es facilitar precisamente todo lo que es el tema de donaciones, facturación, todo lo que es, porque actualmente para una empresa y le huyen mucho a eso, a pagar en criptomonedas, porque es bien difícil el el los asientos contables para este tema de de las cripto, ¿no? Cuando se paga de en esa forma.
+
+[Speaker 4 - 01:12:51]
+Ya. ¿Te refieres al marco regulatorio de el el que acaba de salir o de aquí de México? Porque aquí en aquí en México no existe como tal, mira. De hecho, te pudiera decir que que si algo podemos hacer en cripto es tratar de ver qué se parece
+
+[Speaker 1 - 01:13:11]
+a lo que no es cripto no sé si me puede explicar. Es que a eso voy a a eso voy ahorita. No te Ah
+
+[Speaker 4 - 01:13:17]
+ok. Bueno, este, ahora a lo mejor lo vas a explicar tú mejor ahorita, pero lo que ya existe Esa captadora de recursos y bajarlo a través de una asociación sin fines de lucro. Este ahora aquí nada más lo que yo veo aquí digo y que me corrija este Lugo quien sepa es nada más tener bien trazable de dónde vienen esos recursos y sepa es nada más tener bien trazable de dónde vienen esos recursos porque ese ese puede ser el cuestionamiento que la autoridad te pueda estar dando oye ¿Quién te donó? ¿De dónde viene? Y todo eso y entran otros otros temas de de prevención de lavado de dinero, pero creo que es una forma de explorarlo. No hay una no hay una regulación, no un marco jurídico que nos pueda decir, va por aquí, pero creo que, insisto, hay que aventarnos y y hay que tratarlo de hacer.
+
+[Speaker 1 - 01:14:27]
+Muchas gracias, Abraham. Tavo, ahora sí, te doy respuesta, a ver qué opinas. Y y también, Abraham, el punto que que estabas comentando, a ver si si coinciden, antes de darle la palabra al profe. Oigan, ¿y Jesús y Mexi? ¿Ya me dejaron aquí? ¿Ya ven? No participan. Seguro, y Mexi ya me dejaron aquí, ya ven, no participan, seguro andan haciendo otras cosas. No es cierto, no es cierto, lo estoy poniendo a prueba, a ver si me están escuchando, ¿eh? Oye, Tavo, mira, te cuento muy rápido, acá en México hay hay una ley que a algunos les va a a sonar, YYA quienes no están a casa los se les se los cuento como chisme. Justo otro puntito que quería platicarles es sobre los 5 años que han pasado sobre la ley fintech. Y ahí Tabó, la ley fintech, sí está muy bien dispuesto, muy bien conceptuado el tema de de un activo digital. ¿No? Y la cuestión es que, por supuesto, deja a cargo, en este caso, a la autoridad, que es la Comisión Nacional Bancaria y de Valores, para otorgar autorización a quienes quieran incursionar en activos o criptoactivos.
+
+[Speaker 1 - 01:15:37]
+¿Vale? Entonces, a partir de ahí, Tavo, lo que ocurre es que, dependiendo cómo quieras lo mejor no, porque creo que ahí depende de la pericia de tu abogado, para generar algunas estrategias. Precisamente para decir, oye, a lo mejor si yo me constituyo precisamente en Wyoming, tengo mi servidor y voy a generar un token de gobernanza o voy a generar Wyoming tengo mi servidor y voy a generar un token de gobernanza o voy a generar un token para realizar cierta ciertos activos. O sea, creo que parte de la estrategia. Pero la realidad es que, al día de hoy, esa ley fintech, que tiene 5 años ya, sí considera distintos supuestos. Lo que ocurre es que, como siempre hemos comentado aquí, está a cargo de una autoridad para poder hacer distintas cosas que tienen que ver con criptoactivos. La verdad es que les cuento, mi experiencia un poco con la Comisión Nacional es que no le gustan mucho estos modelos a la mayoría de de estas autoridades.
+
+[Speaker 1 - 01:16:42]
+Banxico también tiene que ver, está detrás de de estos comités que conforman, por supuesto, el SAT forma parte de del comité cuando solicitas este tipo de licencias, y de pronto no les gusta mucho. Entonces, creo que nos toca a aquellos a quienes sí nos entusiasma, que creemos que puede ser un modelo distinto y una entusiasma, que creemos que puede ser un modelo distinto y una opción para para muchas cuestiones, impulsar precisamente este tipo de negocios, tanto a nivel empresarial como a nivel particular. Y ya pronto les contaré por ahí de algo que que estoy a punto de implementar. Entonces, creo que ese es un conjunto de de estrategias, de iniciativas, porque, olvido, está permitido. Y eso nos permite generar estrategias distintas a partir de cómo podamos interpretar la ley, si con con actividad que no represente actividad ilícita. Hay muchas cosas de lavado de dinero.
+
+[Speaker 1 - 01:17:42]
+Aquí invariablemente tienes que presentar o incorporar en el proceso de onboarding un KYC. Pero pero sí existe, Tavo. O sea, creo que algo algo bueno precisamente, O sea, creo que algo algo bueno precisamente de esta ley, que ya tiene 5 años, desde el 2008 fue cuando se se presentó, es que incorporaron este este concepto, que hace falta mucho. O sea, hay hay temas que hace falta desarrollar a nivel reglamento, a nivel circulares, la autoridad, pero pero ya está, o sea, ya está ahí. Y precisamente esta esta ley fintech, ya voy, profe, ya voy. No me, te prometo no apoderarme del del tiempo que queda. Pero esta ley fintech fue una opción y fue impulsado precisamente por el sector que en aquel entonces no sabíamos cómo cómo operar. Y era todo lo que tenía que ver con estas apps que hoy hoy conocemos. ¿No? Y que estoy segura que muchos de ustedes utilizan día a día para darle la vuelta y para dejar atrás el sistema financiero tradicional, fue como se impulsó esa tradicional, fue como se impulsó esa esa ley.
+
+[Speaker 1 - 01:18:51]
+Precisamente para hacer mucho más ágil transacciones, captación. ¿Sí? Con su con su licencia respectiva. Pero esa fue una ley muy buena. Es una es una ley, creo que es la la excepción, y fue cuando nos quisimos poner disruptivos hace 5 años para cambiar y para tener otras opciones al sector financiero tradicional aquí en México. Profe, adelante, por favor. Si no me sigo,
+
+[Speaker 3 - 01:19:20]
+¿eh? No, olvidate. Estamos
+
+[Speaker 0 - 01:19:23]
+Antes del profe. Mira,
+
+[Speaker 3 - 01:19:25]
+con lo con eso es de la ley fintech, me imagino que ahí es donde entran entidades que, pues, sin ser bancos tienen algunas tipo de funciones que se hacen las bancarias, por ejemplo, Revolut, TransferWise, etcétera, bueno, ahora Wise, etcétera, etcétera. Cabe mencionar también, y esto es parte de la investigación que hemos hecho así para para nuestra DAO, es precisamente tratar y no no no voy a decir que sea precisamente tratar de esquivar ciertas leyes y o tal de como vaya de no de no buscarle lo permitido a lo no permitido para usar las palabras de Abraham. La idea es si y me queda muy claro que si tu organización está tratando de ofrecer réditos o ganancias a través de trabajo ajeno, inmediatamente se vuelve un security. ¿Ok? Ahora, la SC tiene ciertas extensiones, al menos la la Security Excation, la no sé cuál es el equivalente en México, la Mexicana de Valores, tal vez es esa.
+
+[Speaker 3 - 01:20:27]
+Sí, correcto, correcto, correcto, sí. Ok. Entonces, hay ciertos límites de de actividad que permiten cierto tipo de inversión, y voy a usar esa palabra muy libremente, ¿ok? Entonces, muy general, donde si estás por debajo de ciertos límites o si no haces ciertas actividades, bueno, te exime de la responsabilidad de registrarte como security. Entonces, al menos eso hay que estar bien pendiente, independientemente de donde estés. ¿Por qué? Porque realmente esto es un es un mercado global. Tenemos que entender eso y al menos quiero pensar de que lo que quiera que vayas a tener que hacer, lo voy a tener que ofrecer acá, voluntaria o involuntariamente. Tienes que tener mucho cuidado con eso y, pues, sí, como dices de la pericia del abogado que que tengas, ahí es donde va a venir, donde va a salir a relucir.
+
+[Speaker 1 - 01:21:24]
+Betsy, por favor. Ahí el lunes. Adelante, Betsy.
+
+[Speaker 0 - 01:21:28]
+Creo que estaba rodeado, pero no, algo que quería mencionar con la poquita voz que me queda es que acá en Monterrey, una de las pues comunidades que va a empujar eso es somos nosotros. O sea, finalmente al hacerlo, al ir a hablar con los reguladores o con las leyes o con quien se ponga en nuestro camino, pues es negociar con ellos y empujar que esto se dé sí o sí, ¿no? Es 1 de los objetivos objetivos que tenemos. Porque si nadie empieza, si nadie lo hace y no hay alguna retro y una negociación y, pues sí, ¿por qué no? De repente una pelea o 2 y y cripto putazos famosos, ¿no? No se va a dar. Entonces, pues hay que empujarlo y hay que dar ver qué suceda.
+
+[Speaker 1 - 01:22:12]
+Sí, correcto, Mexi. Y ese ese tipo de de de de acción que dijiste hay que dársela a la autoridad. Los famosos cripto putazos. Oigan, no, pero ¿saben qué? Es que la realidad no además, como está grabando Mexi, por favor, yo soy fan aquí de la Comisión Nacional Bancaria y de Valores, que a veces me la pone bien difícil, pero me hace pensar, ¿eh? Me hace reflexionar y ver por dónde. Pero ¿sabes qué, profe? Fíjate que tienes mucha razón y algo que que hemos abordado en distintos espacios, creo que sí, justo a partir del proyecto que quieras implementar, y México no está exento de eso, hay hay que saber delimitar cómo vas a implementar ese ese ese proyecto para que no sea considerado un security, un valor, porque ahí entra ya en en en esta ley del mercado de valores. Y entonces, bueno, incurres en en distintas infracciones. Ahora, no quiere decir esto que la autoridad, por ser o o porque son proyectos que tienen que ver con Blockchain, con tokens, no, pues no existen en la ley.
+
+[Speaker 1 - 01:23:17]
+No, no, no, a ver, es que ellos tienen facultades de supervisión en ciertos territorios, y a partir de la jurisdicción donde se establezca ciertos territorios, y a partir de la jurisdicción donde se establezca ese proyecto, es que tienes que seguir algunas normas. Por eso vemos ahí a la SEC, por eso vemos a a Inglaterra con con algunas prohibiciones. Entonces, justo es eso, creo que es parte de generar una estrategia bondadosa que que haya acompañamiento. ¿Ya ve? Preventivo, sobre todo preventivo. Los abogados estamos para eso. ¿Eh? No crean que para los los golpes. Entonces, creo que eso es algo algo bueno, o sea, que que existe, que hoy puedes diseñar para para implementar, y que al final sé que tampoco nos gusta mucho, porque de pronto, cuando empezamos a hablar ya de de cuestiones donde está la autoridad, sabemos que no todo está descentralizado, sino que existe un tercero en cualquier o desde cualquier perspectiva que lo veamos.
+
+[Speaker 1 - 01:24:19]
+Pero bueno, ese tercero tiene que estar sometido a ciertas normas para que quienes seamos usuarios tengamos esa esa protección. La la regulación, recuerde, no va dirigida a quienes utilizamos esos proyectos 000 participamos, sino más bien a quienes nos lo ofrecen. Y eso es algo bueno, creo que a partir de los proyectos que se puedan desarrollar. Profe, adelante, por favor.
+
+[Speaker 3 - 01:24:47]
+Sí, nada más la la última cosa antes de de de salir es de, hay que tener bien pendiente de que ser miembro de una DAO tiene responsabilidades, así como privilegios. A lo que voy con esto es de que, bueno, de pronto dice, ay, sí, voy a hacer una DAO, voy a hacer esta otra cosa, pero bueno, como no te exime de tener responsabilidades tributarias para empezar una, según de legales, entonces sí se recomienda y les exhorto ampliamente a hacer su propia tarea, su propia investigación para que, pues bueno, vea qué tan, qué qué tanto respaldo tiene, no es por echarme porras, pero no, yo tratar de hacerlo de manera pública. Es que sí, nosotros hicimos bastante tarea al respecto y, pues bueno, la idea es tener algún tipo de manejo de riesgos, precisamente para minimizar o mitigar cualquier tipo de riesgo en en el ámbito que sea, porque obviamente también tiene tienes varias cosas. Una es los riesgos de operación, los riesgos de de lo que se llama el el compliance, que es todo lo regulatorio, riesgos de impuestos, riesgos de mala reputación, riesgos de XYZ.
+
+[Speaker 3 - 01:25:54]
+Pero vuelvo a lo mismo, o sea, no les exige el participar en una DAO no les exime de ciertos, este, responsabilidades, pero obviamente atienden acompañados ciertos privilegios.
+
+[Speaker 1 - 01:26:07]
+Muchas gracias, profe. Sí, justo. La DAO no significa que puedes eximir ciertas obligaciones que que tú ofreces y que adquieres también. Que tú ofreces y que adquieres también a partir, bueno, de la de la calidad con la cual la la haces. Pero es es un tema un poco técnico cómo se ejecuta esa esa responsabilidad, cómo se exige, pero la realidad es que sí. Ahí, incluso, es para cada 1 de los participantes, en lo individual, imaginen, a diferencia de una empresa, que cuando ejerces una acción, la ejerces precisamente sobre esa entidad jurídica que conocemos como una empresa, y no en lo personal como individuos. Y aquí es al revés, fíjense. Entonces, creo que hay un riesgo distinto, es es un riesgo distinto. Pero, bueno, es una opción que creo que también en los próximos años va a impulsar muchísimas buenas iniciativas, de todo tipo. Porque hemos visto algunas que incluso en en temas de salud, con Pfizer hace hace un mes, si no mal recuerdo.
+
+[Speaker 1 - 01:27:10]
+O sea, hay hay propuestas buenas, algunas que, como como en todo, ya sabemos que la intención no es más que hacer algo ilegítimo, pero en su mayoría creo que que que son buenas. Así que vamos vamos a proponer ideas por ahí. Ojalá, en algún punto, todos quienes estamos reunidos acá en Web3 podamos hacer algo interesante que ayude o contribuya a la comunidad en algo específico. Eso sería grandioso. Y ya nos pegamos con Mexi, que ya va más adelantado, con Abraham y con los del norte, porque los del norte van adelantados. Así que Jesús, Mexi, por favor, ya me abandonaron. Jesús. ¿Cómo me da la IFINTEC? Ya ves que fue. Nos nos pusimos disruptivos para ir en contra del sector financiero. ¿Qué te parece?
+
+[Speaker 2 - 01:28:00]
+Pero vamos muy retrasados, ¿eh? Yo porque me metí al tema de de la tokenización y tal, y no hay nada. O sea, la ley se quedó en 2013, te lo juro. Entonces, todo lo estamos haciendo por Canadá YYYY no, yo no veo nada. O sea, no sé tú, a lo mejor a lo mejor estoy equivocado probablemente, pero yo no vi nada nuevo que no esté en la ley Fintech 2013.
+
+[Speaker 1 - 01:28:25]
+Bueno, pero es que es esa es la bondad, Jesús, que no haya nada específico para que puedas generar muchas estrategias. Mira, la realidad es que la ley Fintech lo lo que más al día de hoy es requerido y que puedes implementar a partir de una solicitud de licencia, son las instituciones de Pero, en especial, las IFES, todas estas o la mayoría de las aplicaciones que conocemos, ya el profe nos hizo comercial de algunas, Revolut, Rappi, o sea, hay muchas que que a partir de ese licenciamiento operan. Pero fíjate, Jesús, que la tokenización, específicamente, operan. Pero fíjate, Jesús, que la tokenización, específicamente la tokenización, si me han escuchado en otras ocasiones, es un poco distinto a lo que plantea la ley Fintech, porque, precisamente, es generar esta representación de generar esta representación de un valor o un derecho en una Blockchain para lograr un objetivo.
+
+[Speaker 1 - 01:29:27]
+Así que hay opciones, hay estrategias, pero si no te está dando resultado, pues ya sabes a a quién buscar. Te puedo recomendar una abogada que luego anda por acá.
+
+[Speaker 0 - 01:29:40]
+¿Verdad, Mexi? No y súper importante eso, ¿no? De de de, como dice el profe, saber bien los los beneficios pero también las las responsabilidades y acercarse y con alguien que sepa para poder platicar del tema y que los ayude. Acá tenemos obviamente a Abraham, que estamos muy cercanos con él, viendo todo el tema fiscal. Para cualquier tema legal obviamente pues vamos a ir con Lu, Jesús también, su perspectiva creo que es importante, interesante. Toda la gente técnica que puede llegar a desarrollar el token y la manera en que se transacciona y si hay NFTs o no, y que si los cambias por una cosa u otra, y que cuánto valen y los beneficios. Todo eso es un trabajo en conjunto que, pues, poco a poco va sumando a ese documento que tiene que traer el el el las reglas de uso de la DAO de la comunidad y por ahí está lo interesante, ¿no? De poder juntar todas esas personas que tienen diferentes puntos de vista. Pero también experiencias y profesionalmente pueden apoyar a crear algo así, es como creo yo que que podemos ir avanzando ahí por ahí.
+
+[Speaker 0 - 01:30:44]
+Abraham tenía la la manita. Cuéntanos, Abraham.
+
+[Speaker 4 - 01:30:49]
+No, justo digo, este, acerca de la ley fintech. Sí, efectivamente no ahorita con lo digo se quedó nada más con pagos electrónicos y crowdfunding, pero no hay algo que nos ayude y por eso es a lo que me refiero este de de buscar alternativas y de estar tener esos enfrentamientos discretos con la ley este con tal de hacer las cosas pero bueno nada más era eso y y pues ya paso a despedirme porque ya tengo tengo todavía que enviar otras anuales de persona moral. A ver si luego armamos un space de personas físicas para el otro mes que viene.
+
+[Speaker 1 - 01:31:24]
+Muchas gracias, Abraham, por acompañarnos un ratito, por favor. Dale cumplimiento a esas solicitudes de de de por favor. Dale cumplimiento a esas solicitudes de de de los de las personas morales, por favor, que no infrinjan la ley fiscal. Oigan, y muy rápido, voy a dar un giro, porque creo que nos queda poquito tiempo, no sé, Mexi. ¿Pero saben qué otra cosa les quería contar? Sobre, hemos hemos estado platicando en en últimas semanas sobre inteligencia artificial, y pues. ¿Qué creen? Que ahora está un un tema un poco candente ahí en Inglaterra por, y y que tiene que ver con patentes. Fíjense que que la la materia de patentes forma parte sí de la propiedad intelectual, y esta a su vez de la propiedad industrial. Las patentes son muy requeridas y y sirven para muchísimas cosas. Creo que todos las ubicamos más en el sector farmacéutico, pero ahora está llamando mucho la atención porque están intentando realizar patentes a través de inteligencia artificial.
+
+[Speaker 1 - 01:32:30]
+Y ese va a ser un tema también superinteresante, porque las patentes también en en la mayoría de los países están sujetas a ciertas disposiciones, a ciertas normas que les conceden una exclusividad, precisamente para poder explotar esas patentes. Entonces, ahora tenemos por acá la inteligencia artificial que está incursionando para realizar actividad de patente, ¿no? ¿Y qué está pasando en Inglaterra? Que justo a través de algunas solicitudes que han presentado en en la oficina de de patentes de Inglaterra, pues parece que que no está gustando tampoco tanto el tema de de patentes, porque justo esta posibilidad de reservar y explotar esa patente para de distintas formas, nuevamente vuelve a poner en la mesa el qué ocurre cuando estás participando con una inteligencia artificial. Entonces, Inglaterra, que además creo que ellos también son, llamémosle pioneros en en distintas cuestiones cripto, hemos visto también alrededor de de estas semanas cómo han incursionado con beneficios fiscales.
+
+[Speaker 1 - 01:33:39]
+O sea, creo que es un territorio bueno que que trae muchas bondades para el sector cripto. Pero cuando ya hay inmiscuido un tema de inteligencia artificial, pareciera que a muchos muchas oficinas también de gobierno que tienen que ver con propiedad intelectual no termina de encantarles. Es como es este precepto que tenemos en todas las leyes, donde toda la actividad intelectual se reserva para para los humanos, parece que seguimos bajo ese mismo principio, que vamos a seguir intentando y apostando, porque ese precepto prevalece casi, a pesar de que hoy en día tenemos un desarrollo en tecnología que nos ayuda a realizar muchísima actividad intelectual. Entonces, creo que el tema de patentes se va a poner también bastante rudo. En Estados Unidos ya había un par de casos, justo a finales de año, donde estaban igualmente solicitando la protección de patentes, en este caso, el sector farmacéutico.
+
+[Speaker 1 - 01:34:41]
+La protección de patentes, en este caso, el sector farmacéutico, a través de inteligencia artificial. Pero pero en Inglaterra justo están presentando esta moción, en donde tienen que pedir o están solicitando que se revise precisamente el otorgamiento de de una otorgamiento de de una patente importante para resolver si vale la pena concederle este registro. Porque, obviamente, esa explotación que otorga su ley, pues, limita, va a limitar cierta actividad industrial. Entonces, nuevamente estamos viendo, ¿no? Cómo la inteligencia artificial irrumpe muchos muchos ámbitos y le va a tocar en esta ocasión a Inglaterra poder resolver este criterio para ver si sigue siendo el humano el único quien tenga la habilidad para realizar este tipo de actividad. ¿Cómo ven, Jesús, Mexi? ¿Ustedes qué opinan? Temas de patentes, ¿no? Importante también.
+
+[Speaker 2 - 01:35:45]
+Sí, yo creo que, bueno, México, o sea, ha estado rezagando el tema de patentes, que es fundamental para para avanzar en temas de de la
+
+[Speaker 1 - 01:36:12]
+palabra
+
+[Speaker 0 - 01:36:19]
+es la palabra, pero sí escuchar mucho el tema de patentes. Tengo muchos amigos y mi esposa pues también trabajando en una universidad y ella es investigadora y híjole es un relajo. O sea es todo un tema bastante bastante complejo. Depende de dónde lo registres. Tiene que tener un cierto boarding. Se se tardan a veces semanas y semanas o meses a veces en preparar la documentación y que todo esté en regla para que eso pase bien, etcétera. No no no sé qué opinas. Oye, Mexi, ¿sabías?
+
+[Speaker 1 - 01:36:50]
+Seguramente tu esposa te ha contado, pero ¿sabías que justo hay un un requisito o un concepto? No quiero ser muy técnica, pero hay un requisito que se llama reivindicaciones, que conforman las patentes, que no es otra cosa que cómo cómo está diseñada tu patente, sea farmacéutica, sea industrial, sea Hay hay una una característica de esa documentación. ¿Y sabes quién la realizan? Los ingenieros. Cuando tenemos que presentar una, sin duda hay que allegarse de un ingeniero, porque es el el más capacitado precisamente para como ir desmembrando esas partes que técnicamente, les digo, se llaman reivindicaciones, para que por ahí se lleven el concepto. Y no es otra cosa que reivindicaciones, para que por ahí se lleven el concepto, y no es otra cosa que armar esa esa fórmula, por ejemplo, la fórmula farmacéutica es describirla en un documento, y es todo un rollo. ¿Eh? Justo como dices, Mexi, presentar una patente en cualquier país. Es es todo una labor titánica, es todo una labor titánica.
+
+[Speaker 1 - 01:37:51]
+Es muy es muy especializado el tema el tema de patentes. Y por eso mismo, creo que la ayuda de la inteligencia artificial en este campo no debe de ser despreciada. O sea, creo que aquí es cuando puedes allegarte de la tecnología para completar un trabajo intelectual, y que además las patentes sí son muy recurrentes en en la en el sector privado. ¿No? Pero, pues, en el sector privado. ¿No? Pero, vaya, resuelven problemas también a nivel social que que ayudan. Y y que sí, se queda dentro del sector privado esa explotación, pero que requiere muchísimo, sector privado esa explotación, pero que requiere muchísimo trabajo. Y y todo ese trabajo que representa, por eso es que la ley te otorga una licencia que puedas explotar por cierto tiempo, porque has invertido y has apostado esa ese ingenio intelectual para crear o transformar algo que está en la naturaleza para beneficio de de la sociedad. Entonces, a mí me parece que es algo bueno siempre. La inteligencia artificial va a venir a modificar la forma en la que trabajamos en muchas profesiones, pero tienes que celebrar su ayuda, porque además te te quitas muchísima chamba.
+
+[Speaker 1 - 01:38:59]
+¿No? Que de pronto tenías que hacer y, o sea, se volvía muy muy muy tardado. Y ahora, con esta llegada, la verdad es que yo lo celebro. Debo de confesar que soy asiduo de ChatGPT para muchos temas y superrápido. Me puede ayudar a a darme información para poder analizar y tomar decisiones, y hacer cosas que que sean más más ágiles. Sean más más ágiles dentro de de lo que hago. Creo que va a ser muy bueno en muchos sectores. Y, pues, adelante, Mex y Jesús. No sé si quieren comentar algo más de esta de esta nota.
+
+[Speaker 0 - 01:39:34]
+A mí me interesa mucho el tema de, ahora que mencionas ChatGPT, porque lo he estado investigando y lo he platicado mucho con con con los amigos, ¿no? De de de mi esposa. Y también me gustaría platicárselo a Jesús, preguntárselo a Jesús, ¿cómo ve él sobre el uso de la herramienta con los estudiantes? Porque acá me dicen que pareciera que no la conocen, que no la están utilizando, que si la usaran les iría mucho mejor las tareas en los exámenes, etcétera. Muchos usando exámenes a a libro abierto completamente. Pero pareciera que no han escuchado los alumnos o los chavos todavía de la tecnología y se me hace bien extraño. No sé si Jesús tenga la misma perspectiva y experiencia. Pero
+
+[Speaker 2 - 01:40:20]
+no sé, está está muy extraño que no lo hayan implementado todavía. No, en mi caso sí. Si si lo de hecho, bueno, será que yo tengo un curso de fintech, y una parte del curso, de hecho, la semana 2 fue chat JPT. Claramente sí lo vieron, ¿no? Este, pero no, de bueno, y esa es mi experiencia con esos chavos y con el el otro curso que está muy relacionado. Entonces, a lo mejor estoy, vayas, porque les estoy enseñando eso yo.
+
+[Speaker 0 - 01:40:48]
+Pero Oye, es lo que es gente más grande. Son gente que está haciendo maestría, ¿no entiendes? Yo yo
+
+[Speaker 2 - 01:40:55]
+yo enseño maestría, sí, sí, cierto. Sí, son chavos de maestría. Eso es Eso es cierto. Este, pues él es mi contacto, la verdad, no sé no sé en licenciatura hace muchos años que no doy clase de licenciatura. Pero, digo, los chavos de maestría sí saben, sí lo usa, lo están implementando en sus trabajos de lo que yo sé, de este, y lo ven de manera favorable. Si
+
+[Speaker 0 - 01:41:17]
+acaso un segundo semestre de carrera, entonces tendrán, ¿qué le calculas? 16, 17, 18, por ahí. Entonces, yo pensaría, ¿no? Que a esa edad estarían ya metidos muchos en esos temas. Pero, bueno, probablemente no todos.
+
+[Speaker 1 - 01:41:34]
+Pues yo creo que es algo bueno, siempre y cuando no, digamos, desvíe o o se o forme parte ya de una actividad que que no contribuye al al razonamiento, digamos, de de las ideas. A ver, es decir, siempre y cuando te ayude a generar una una actividad, pero sí cuando ya lo utilizas, y creo que por eso con con los jóvenes tal vez de de prepa, licenciatura o incluso de un nivel secundaria inicial de del colegio, sí creo que rompe con esta estructura incluso pedagógica, Lexi, de de de de poder formar un un criterio de pensamiento, de razonamiento, de de que aprendas eso. Precisamente creo que el colegio es lo que te ayuda, que tengamos un sistema educativo y programas educativos acá en México, la verdad muy deficientes, eso es otra cosa. Pero yo sí creo que existe un proceso pedagógico, que es el que en la escuela nos nos ayudan a tener.
+
+[Speaker 1 - 01:42:40]
+O sea, para eso finalmente funciona o o debería de ser la la escuela, para que te contribuyan en con ese ese proceso pedagógico de razonamiento. Y de pronto puede ser que el uso de esta tecnología, a una corta edad, sí rompa con con ese proceso, desde mi punto de vista. Ya cuando quizá tienes un un un razonamiento un poco de de más adulto, no no sé cómo decirlo, puedes allegarte, sí, de de todas las herramientas tecnológicas para hacer mucho más fácil una una profesión 000 una actividad. Que eso sí, pero es mi punto de vista. ¿Qué opinan? Y por acá subió Jorge, que tiene la la manita levantada. Adelante Jorge, bienvenido.
+
+[Speaker 9 - 01:43:31]
+Muchas gracias Lu. Bueno, Jesús, ni se ha ni ni me va a ubicar, pero yo fui su alumno en la maestría por Zoom, ahí en el en el MBA, y este, pero ahorita, pues, me me, ¿cómo se llama? Me salió, ahora que están hablando de chat GPT pues bueno yo soy un individuo así que me gusta mucho la introspección y me gusta mucho combinar todo esto con y y me gusta mucho las finanzas y todos los temas de de tecnología pero hablando de ChatGPT y todo el lo que su su posible involucramiento con los chavos y ahorita en la educación, este, digo ustedes que son que que tienen más este conocimiento en este tema, Para mí el pues el sistema educativo es este es muy cuadrado y no no deja a las personas desarrollar un pensamiento crítico. Este ¿Creen ustedes que que que estas herramientas pudieran ser una un enhancer para el pensamiento crítico de del desarrollo del pensamiento crítico de las generaciones más jóvenes?
+
+[Speaker 2 - 01:44:41]
+Pues mira, Jorge, bienvenido. Este, qué bueno que te di clases, ¿no? Tengo muchos alumnos, pero bueno, este Te aprendí mucho vuestro. Gracias, gracias. ¿Tú estabas en Santa Fe o en Monterrey?
+
+[Speaker 9 - 01:44:53]
+En Santa Fe,
+
+[Speaker 2 - 01:44:55]
+pero estaba viviendo en Los Cabos cuando cuando tomé tu clase. Ah, fue la de Zoom. ¿Y fue la de fintech la que platicamos ahorita o no? No,
+
+[Speaker 9 - 01:45:03]
+de de de economía para empresas.
+
+[Speaker 2 - 01:45:05]
+Ah, ya, ya. Bueno, este, es que ahorita fíjate que estoy dando una de fintech y está muy interesante porque estamos viendo haz de cuenta que estamos viendo lo lo lo más actual de finanzas, porque es el peer to peer lending. Digo por si por si todavía estás en el en el MBA, que te metas a ese curso, se ve crowdfunding, se ve las plataformas de real estate, de property management, de de plataformas para vender, comprar. De hecho, 1 de mis alumnos hicieron un proyecto, start up. Ya no supe si le dieron seguimiento, pero muy interesante. Porque en México D.F. Yo les platiqué y les sugerí, busquen un un problema, ¿no? Que haya en México en su comunidad, y y encuentran una solución. Y lo que hicieron es un un un sistema como una app, que encuentra estacionamientos disponibles
+
+[Speaker 1 - 01:45:56]
+en a todas horas en la Ciudad de México, porque es un problema grave, ¿no? Este, así como Uber,
+
+[Speaker 2 - 01:46:01]
+Así como Uber de estacionamientos. Ya no supe si le dieron seguimiento, pero muy interesante. Y a lo que voy con esto, es que cada vez está avanzando la tecnología a pasos agigantados. Y hay muchas oportunidades. De lo que tú dices de pensamiento crítico, fíjate que no quiero ser malinchista, pero a mí me cambió mucho mi formación en el Reino Unido. Porque allá los exámenes y las tareas son ensayos críticos. O sea, no hay estos multiple choice, y eso es muy gringo, ¿eh? No hay estas true or false. Todo es argumentativo y es tienes que pensar bien las respuestas. Y a mí me gustaba mucho ese sistema porque te hace pensar. Entonces no sé no sé si si si si ese es, yo creo que es un problema que en México nos vamos muy muy por la tangente. Y no y digo, no quiero generalizar porque obviamente hay de todo, ¿no? Y y yo no soy abogado y probablemente en en en la carrera de leyes es diferente, ¿no? Pero yo sí pensaría que hay que darle más más espacio para ser crítico, para pensar, para este, diseñar, crear nuevas ideas.
+
+[Speaker 2 - 01:47:02]
+Y te digo, el el ejemplo que yo les puse a los chavos, y es lo que hago en mis clases de fintech, de aquí tienen que salir con una idea de negocios. Si es fructífera o no, ya depende de ustedes. Pero yo quiero que saquen un start up que pueda ser exitoso, en teoría, ¿no? Entonces, creo que eso eso eso es mucho más valioso que decirte, mira la gráfica de la demanda de la oferta y este es el precio de equilibrio. Y cuando sube la fed la tasa de pues eso, ¿sí me explico? Fed la tasa de pues eso, ¿sí me explico? Entonces, no sé si tu comentario va por ahí, y yo creo que ya las herramientas cada vez nos dan más, digo, cada la la las la la ciencia y la tecnología nos da más herramientas para ser más exitosos, ¿eh? Porque esto que te estoy platicando hace 30 años sería imposible yo decirle a los chavos hagan un banco. ¿Por qué? Porque para ser un banco necesitas infraestructura, necesitas capital humano pero costosísimo. Hoy en día cualquiera de nosotros con una buena idea puede hacer un banco. Porque no solamente ya no necesitas infraestructura, todo es por tecnológico, sino que ya hay más más acceso a a financiamientos, crowdfunding.
+
+[Speaker 2 - 01:48:10]
+Yo creo que que cada vez en ese contexto estamos más preparados con más herramientas. Pero sí creo que todavía, en el caso mexicano, que es donde yo puedo opinar, nos falta un poquito ser más críticos. Yo lo trato de hacer en mis clases, a veces soy exitoso, a veces no, pero ser es ese tema de de pensar, ¿no? No no si si, como te digo, si aumenta la oferta y baja la demanda que pasa, aumenta precios. No, no, no, a ver, vamos a pensar lo que estamos viendo. Porque en la vida, y lo más importante es aplicarlo en la vida real. ¿De qué te sirve saber que aumentó la oferta y bajó la demanda si si si no lo si si en la vida real no lo entiendes? Este, pero bueno, ese es mi punto de vista. Pero gracias por estar aquí, Jorge, y pues un placer haberte dado clases.
+
+[Speaker 9 - 01:48:59]
+Gracias, saludos. No, sí, digo, nomás para ahí, este, pues un comentario de lo que dices, estoy totalmente de acuerdo contigo, o sea, yo lo estoy viendo en en en mi negocio, en en mi industria, o sea, ya los va, o sea, desde mi punto de vista, los fundamentals, haz de cuenta que ya no son lo que dictaminan lo los movimientos, o sea, si si bien sí hay tendencias, o sea dices que hay demasiados ya factores que contribuyen a todo esto y pues en la cuestión de pensamiento crítico pues ojalá estas herramientas de tecnología sean un propulsor de más razonamiento, en vez de más atontamiento o apenderamiento, si así lo quieren ver. Pero bueno, saludos a todos y que tengan buen día.
+
+[Speaker 2 - 01:49:48]
+Gracias, Jorge.
+
+[Speaker 0 - 01:49:50]
+Y definitivamente creo que hay un tema ahí de cómo educamos, ¿no? A los niños, cómo se educa a los de secundaria, prepa, carrera, todo eso. Tengo un par de familiares, como decía, ¿no? Mi esposa en una universidad y una cuñada en otra, y se se ve que están innovando pero no está fácil. Ni niños, por ejemplo, están en escuelas Montessori, que también tienen un tema ahí de cómo explican los conceptos de de de un concepto donde no no te lo tienes que machetear, ¿no? Que te lo aprendes de memoria y lo repites y lo repites, sino que te traten de explicar el porqué de las cosas y eso creo que también es interesante. Yo estudié también de niño en la escuela de Montasorio, entonces pues traigo más o menos eso. Pero creo que ahí y cada vez, cada día veo más formas distintas de educar, de de de metodologías de de enseñanza que, híjole, yo no soy especialista en eso y y está cañón decidir cuál es la buena para ti, para tus hijos, está cabrón.
+
+[Speaker 0 - 01:50:52]
+Hay mucha mucha variedad y no todo te lleva a tener ese pensamiento crítico que, como decía Jorge, creo que es de lo más importante. El poder y más ahorita que tenemos la información tan disponible a la mano de todos y hay tanta información también falsa. Hay mucha información que en realidad pues no tiene fundamentos y es nuestra labor. Y más cuando estamos, por ejemplo, invirtiendo en este tipo de ecosistemas. Ser una súper investigación, investigar profundamente los proyectos y ya en base a una análisis más crítico tomar decisiones YYY está difícil, o sea, no es un tema sencillo. Pero pues bueno, no sé si Lu terminaste el punto, yo creo que podemos ir con comentarios de cierre, Mi voz está yendo y también sé que a las 2 tenemos hard stop algunos. Jorge, gracias por su vida, participar. Todos los que subieron, por aquí estaba creo King que también nos platicó un poquito de Ordinals, que voy a leer muchísimo de ese tema, de los tokens fungibles en Ordinars y la manera en que lo van a manejar.
+
+[Speaker 0 - 01:51:58]
+Porque cualquier desarrollo que esté sucediendo en bitcoin es algo que me apasiona y que me va a atraer y que lo voy a estudiar y lo me voy a meter hasta el fondo. Es de las mis redes favoritas en las en la que más porcentaje de mis activos estoy ahorrando. Lo acepto, disclaimer. Pero híjole, me me apasiona mucho ver tanta innovación en un ecosistema que sé que se sigue innovando pero que estaba muy quieto. Últimamente estaba muy quieto muchos años sin mucho mucho ruido como lo estamos viendo ahorita. Entonces eso es algo que ayuda a que se use más la red y que se difunda más el mensaje, que haya más alternativas de uso y que salgan opciones, ¿no? Que tenemos que tener y que van a seguir saliendo de desarrollos nuevos para ir viendo estas tecnologías. Pero bueno, Jesús, Lugo, muchísimas gracias.
+
+[Speaker 1 - 01:52:54]
+Adelante si quieren comentarios de cierre. Oye, pues no, muchas gracias, Mexi. Además que que hoy vienes con con con la ronquera por esa montaña, pero qué bueno que sea por ejercicio. Oigan, no, pues, de cierre, nada más quiero, como siempre, darles las gracias a todos quienes participaron y muchas más a quienes nos acompañan. Gracias por concedernos el privilegio de su tiempo, siempre les digo. Y además ofrecerles una disculpa por el Shield del vendedor de lavadoras, colchones, fierro que se escuchó al fondo, pero ya sabe que vivo en la Ciudad de México y constantemente nos acompaña estos sonidos de la calle. Así que muchas gracias. Yo encantada de participar todos los jueves, de verlos por aquí. A todos quienes no no ven o no participan en Space, escúchenlos, hay space superbuenos. En la mañana está Caro, está Tato con Momentum, está también los chicos del dream team de mercadotecnia, Jorge, Giovanni. Está los miércoles y los domingos también, está el cuadrilátero.
+
+[Speaker 1 - 01:53:58]
+Están los chicos de de mañana, CNFTs. Bueno, ahora que es CerebroWork 3. Entonces, los chicos de de Mañanas, NFTs. Bueno, ahora que es CerebroGod 3. Entonces, hay un montón de de espacios donde hay muchas aportaciones, donde podemos aprender. Y, bueno, escuchar también distintos puntos de vista cada 1 con nuestros estilos particulares. Les mando un abrazo digital. Ojalá nos escuchemos la siguiente semana. Y Jesús, adelante, por favor, despídete.
+
+[Speaker 2 - 01:54:30]
+Sí, gracias a todos. Gracias por escucharnos. Y yo lo termino diciendo que se vienen semanas muy interesantes porque pues hay que estar atentos a ver qué hace la Fed y cómo reacciona Banxico. Si por alguna razón Banxico se distancia de la Fed podemos ver impactos del tipo de cambio. Entonces vienen semanas muy interesantes, hay que tener cuidado, las tasas de interés todavía no se acaban. Entonces aguas porque van a seguir subiendo tasas, va a haber poca liquidez, guarden su dinero, no lo arriesguen y hasta hasta pronto.
+
+[Speaker 0 - 01:55:03]
+Luego Jesús, muchísimas gracias de nuevo por por estar aquí con con con todos. De esos espacios me encanta tenerlos y todas las perspectivas que que que ustedes traen en la mesa y que también los mismos participantes suben y platican son son súper enriquecedoras. Y como mencionó Lu, sigan a todos esos perfiles que mencionó Jorge, Giovanni, Tato, Tao, Caro, Ostos. Hay mucha gente, el profe, que también tiene sus espacios que por ahí me he subido yo a cojostear y gracias por la invitación también, profe. Y todos los martes seguimos por aquí. Les recomiendo también el podcast que tenemos acá en la comunidad de Monterrey que se llama Food of Value. Voy a dejar piñado aquí el de una vez lo pongo. Se me ha se me ha pasado en muchos espacios chilear lo que hacemos, y bueno eso hay que cambiarlo porque también, pues hay que ese tiempo que le estamos invirtiendo a generar contenido, a tratar de dar valorle, darle de valor a la gente, pues si no lo difundimos pues es raro que, o difícil que se vea.
+
+[Speaker 0 - 01:56:11]
+Por aquí ayer grabamos un episodio after dark que fue mucho más relajado como los que tenemos normalmente. Yo creo que vamos a repetir todas las semanas, hay que ver. A mí me ha gustado mucho participar con la comunidad acá en Monterrey. Creo que se están haciendo grupos de trabajos súper chingones, y finalmente es lo que creo yo que va a empujar que estas tecnologías se implementen, se usen, que logremos cambiar leyes, que logremos cambiar regulaciones, que empresas privadas, gobiernos, instituciones financieras, personal, las mismas personas empiecen a usarla y yo creo que todos van a acabar utilizándola. Poco a poco hemos visto cómo sube la adopción, cómo se montan más empresas a utilizar estas tecnologías, a hacer experimentos. Que ya veremos en unos 5 o 6 años, estoy seguro, van a dominar todo el tema tecnológico. Porque algo que mencionamos siempre, ¿no? Las ventajas que estas tecnologías te permiten de en realidad tener el control de esos activos y de digitalizar la propiedad de diferentes maneras es algo revolucionario, mucho más cañón que el internet.
+
+[Speaker 0 - 01:57:23]
+Y así lo veo yo, así lo vemos muchos. Gracias a todos los que se conectaron, que están por aquí. Estamos, repito, martes y jueves a las 12. Ay, sí, las quiero pinea. Creo que sí pinea por ahí el link del del proof of value. Si no, ahí lo pongo en mi perfil. Perfil. Nos vemos la próxima semana. Por aquí estamos todas las semanas, martes y jueves, sin falta, a las 12, aunque la voz se le vaya. Es algo que me divierte muchísimo y creo que agrega muchísimo valor. Y gracias, Jesús y Lupo, como siempre. El martes de la próxima semana andamos viendo si sube con nosotros como anfitriona la la miss universo, El Salvador, que hace poco salió en las noticias con un vestido de de de muy típico ahí de la historia del dinero. Traía una bandera de un un estandarte de bitcoin. Ya nos platicara ella de un proyecto que anda lanzando. Noordinals justamente creo que va a lanzar, ¿sí? Son 30 fotos las que anda ahorita promocionando, las había minteado en el team.
+
+[Speaker 0 - 01:58:27]
+Trae una historia interesante, ya nos contará ella. Estoy casi seguro que nos va a acompañar, ya lo estamos cerrando. A ver si tiene contactos con con el presidente, me encantaría luego traerlo, Lu, ahí luego lo entrevistamos. Pero bueno, El Salvador es el primer país que legalizó bitcoin y que según ellos está trayendo muchísima muchísima inversión. Hay que en realidad revisarlo, hay que estar pegados con eso, ya luego platicaremos con Jesús. Pero bueno, ella trae su proyecto, va a mintear en Ordinals, ella es de El Salvador, es Miss Universo y pues bueno, la tendremos el martes. Gracias a todos de nuevo, les estamos platicando, los queremos mucho. El tiempo que invierten con nosotros se aprecia muchísimo, lo más valioso que tenemos en esta vida pues es vuestro tiempo y que decidan compartirlo con nosotros es algo que se aprecia mucho. Espero hayan aprendido y se hayan divertido un poco.
+
+[Speaker 0 - 01:59:27]
+Lu, muchisísimas gracias. Estamos platicando. Nos vemos la semana que entra. Hasta luego.

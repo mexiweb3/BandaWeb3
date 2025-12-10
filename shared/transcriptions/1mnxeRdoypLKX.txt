@@ -1,0 +1,210 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #20230706
+Título: Lu, Jesús y Mexi - Threads, todo lo que necesitas saber
+Fecha: 2023-07-06
+Host: @meximalist
+Tipo: hosted
+
+Descripción:
+Lu, Jesús y Mexi - Threads, todo lo que necesitas saber
+
+Duración: 00:42:12
+Escuchas: 122
+Speakers: 6
+
+Links:
+  Space: https://x.com/i/spaces/1mnxeRdoypLKX
+  Dashboard: https://spacesdashboard.com/space/1mnxeRdoypLKX/lu-jesus-y-mexi-threads-todo-lo-que-necesitas-saber
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+
+[Speaker 0 - 00:00:25]
+Jean, Jean, ¿banda? Buenas tardes a los que se van conectando. Esta es la grabación de ya no le vamos a llamar, al menos el día de hoy, la abogada, el economista y el ingeniero. El día de hoy se llama Lu, Jesús y Mexi. Hoy vamos a platicar de Threads, la nueva aplicación que lanzó Mark Zuckerberg con ayuda de la gente de Instagram, sobre hilos threads, hilos post tipo Twitter.
+
+[Speaker 0 - 00:01:27]
+Vamos a estar platicando un poquito de lo que hemos visto en los últimos días. Ayer empezó a funcionar. No son los últimos días. Fueron un par de días ya los que llevan aproximadamente la aplicación. Ya se han inscrito más de 30000000 de usuarios. Y pues, al parecer el engagement está bueno. Yo ya por ahí en 24 horas ya está está rápido creciendo, ya veremos cómo se va a comportar.
+
+[Speaker 0 - 00:02:30]
+Pero bueno, vamos a empezar con algo de música. No ha llegado, Lu. Entonces voy a poner una canción que que por ahí vi de un artista web 3. Ah, miren, ya viene, ahí Lu, ya llegó Lu. Vamos a poner la que ella nos pidió. Estaba a punto de poner la otra que ella había solicitado, perdón, que la otra que había visto para esperar a que ella llegara, pero ya llegó. Vamos a poner, Senical de Two Colors.
+
+[Speaker 0 - 00:03:35]
+Bienvenidos todos, todo suma, likes, retweets, comments, todo ayuda. Empecemos en breve. Esto es Sinical, de Two Colors. Gracias a todos los que se van conectando. Eso fue Cinical de Two Colors, solicitud directa de look para el día de hoy, para comenzar el espacio. Vamos a continuar con otra cancioncita por ahí de un artista web 3. Es de el mismo playlist que puse el ya martes pasado que me pasó Sol.
+
+[Speaker 0 - 00:04:41]
+Este es de se llama Yoshiro Mare, y es se me perdió la atención, aquí está. Al samurái. Oeai samurái. Empezamos en breve. Gracias a todos por conectarse. Recuerden que todas las interacciones ayudan mucho al algoritmo, likes, retweets, todo suma, todo suma. Empezamos en un momento. Bueno, bienvenidos, bienvenidos. Está un poquito larga la canción. La voy a dejar aquí atrás en el background, a ver si se escucha.
+
+[Speaker 0 - 00:05:48]
+Yo creo que sí me deben de poder escuchar mientras hacemos las presentaciones. Eso fue Yoshiro Mare. Hey, I samurai. Por aquí piné arriba los 2 las 2 canciones que pusimos. Una la escogió Luke, Two Colors de Cinical, la encuentran en Spotify. Y la otra también se las dejé acá arriba, Yoshiro Mare, no lo conocía. Está en el playlist que me mandó Zor y la verdad me gustó mucho y va con la canción que con el estilo de la canción que había escuchado y que recomendó Lu.
+
+[Speaker 0 - 00:07:05]
+Entonces, pues bueno, Lu, Jesús, ¿cómo andan? Bienvenido. ¿Nos escuchan bien? Todo el que quiera subirse a platicar sobre threads, bienvenido desde el minuto 0. La verdad es que me he estado metiendo mucho. Ayer pasé bastantes horas por ahí viendo el aplicación, revisando cómo es el algoritmo. Pero, pues bueno, tenemos horas todos de de de utilizarlo. Por ahí Lu nos comentó en el grupo que tenemos con Jesús, que estuve revisando el tema de términos y condiciones, algo que vamos a platicar y que me interesa muchísimo.
+
+[Speaker 0 - 00:08:30]
+Yo, la verdad, les soy sincero, no lo he leído, no lo he revisado. Me metí así como un burro en tobogán, por no decir otra cosa. Y pues ahí ando, ¿no? Busteando, viendo. Digo, tengo Facebook, tengo Instagram. Desde años les he regalado conscientemente toda mi información y pues me ha valido madre, es una aplicación más, pues ya que fregados le hacemos, ¿no? Pero sí creo que es importante platicar de estos temas y revisar realidad y recordar qué es lo que estamos dándoles de información.
+
+[Speaker 0 - 00:09:51]
+YYY, obviamente, ya podremos también platicar. Y muchos sabemos para qué la usan, pero, bueno, no no está de más recordarlo. Lu, Jesús, ¿cómo andas, Lu? ¿Te gustó la la la la música? ¿Se escuchó bien? Obviamente te gustó porque tú la escogiste, pero ¿cómo la escuchaste? Ya mero se acaba esto de Yoshiro.
+
+[Speaker 2 - 00:10:53]
+Hola, ¿cómo están? Mexi, Jesús y a todas y todos quienes hoy nos acompañan. Yo pensé que nadie iba a venir hoy porque ya todos están que nadie iba a venir hoy porque ya todos están del otro lado, allá con Meta. Pero qué bueno que están aquí, me me da muchísimo gusto volver a estar con ustedes. Creo que hoy va a estar súper interesante y esperemos que todos y todas quienes sus impresiones, qué les ha parecido a a que aquellos quienes ya migraron por allá. Pero, vaya, otro otro mecanismo de adicción, y de hecho así lo puse en el primer tread que puse ahí, porque ya no da tiempo. ¿Qué vamos hacer con tantas redes sociales? ¿Ya no vamos a a disfrutar de la vida o qué? Entonces, va a ser un tema interesante hoy. Yo les quiero contar sobre los términos y condiciones bastante largos, hay que estudiarlos, Pero abusados, ¿eh? Les voy a pasar ahí unos unos datos importantes, sobre todo para los influencers que tienen ahí en Instagram 100 de 1000 de seguidores que ahora, si se quieren salir de tret, van a perder Instagram y todo lo que viene ahí.
+
+[Speaker 2 - 00:12:06]
+Así que comentamos. Jesús, ¿cómo estás? Qué gusto estar contigo hoy otra vez.
+
+[Speaker 0 - 00:12:20]
+Yo no escucho a Jesús. Se me hace que tiene detallitos por ahí. Jesús es un usuario de Twitter desde hace algunos años. Lo hemos tratado de bombardear a Instagram. No lo hemos podido hacer. Tampoco se ha inscrito en dreads. Entonces, pues bueno, su perspectiva va a estar interesante siendo un usuario que solo usa Twitter y que nunca ha utilizado otras plataformas. No sé si hasta Facebook tenga. Ya veremos ahorita que podamos llegar a comunicarnos con él. Jesús, Jesús, si es pues estás por ahí. Si no bájate tantito y te volvemos a subir.
+
+[Speaker 2 - 00:12:53]
+Yo creo que sí, Mexi. Para que vuelva a subir porque seguro ya se rubió.
+
+[Speaker 0 - 00:12:58]
+Y por acá No lo quiero bajar el que que El otro día que lo bajé ya no pudo subir. No, entonces Jesús Sí, lo dejamos. La escribimos en
+
+[Speaker 2 - 00:13:07]
+en privado para para que vuelva a subir. Y por acá acá también ya ya están con nosotros Superama y Andrew. Vamos vamos a saludar a Superama porque somos educados con las damas y a querida Vida que también está por acá y después con Andrew. ¿Cómo están? Bienvenidas y bienvenido.
+
+[Speaker 3 - 00:13:28]
+Bueno, que conste que solo volví a Twitter por ustedes, porque yo no pensaba volver nunca más, me perdieron.
+
+[Speaker 4 - 00:13:37]
+Me perdieron.
+
+[Speaker 3 - 00:13:41]
+Eso, tengo que ser honesta, que en el momento que pongan los spaces o como le vayan a llamar por allá, yo creo que no volví nunca más. Porque, bueno, los que a lo yo sé que en Europa muchas personas no lo han podido bajar y que pesar el FOMO los está matando, pero bueno, espero que pronto nos acompañen por allá.
+
+[Speaker 2 - 00:14:04]
+Y y ahorita les cuento por qué Superama, porque Andrew y muchos de Europa no han podido hacerlo y van a tardar. Es por un tema legal.
+
+[Speaker 3 - 00:14:14]
+Ay, sí, me imaginé, pero sí, ahorita nos cuentas todo eso. Pero hasta ahora que hemos estado Mex y yo por allá, bueno, superentregados a truex, Me gusta mucho que desde hace tiempo no se sentía como una una especie de libertad de que no tienes que estar posando, de que nadie sabe lo que está haciendo. Por supuesto que no faltan los los gurú expertos estrés, que ya empezaron a aparecer, que me da demasiada risa. Pero bueno, esos hay que ignorarlos y ya tenemos el botón de bloquear habilitado, que eso me parece superimportante. Me gusta mucho que que 1 está como relajado. No es que estar pensando ni over thinking, que qué posteo, que el reel, que el TikTok, que que el contenido, que no. Es como que yo, de verdad, me siento superliberada, que hace mucho no me sentía así en una red social. Entonces, eso lo hace, o sea, el montón de engagement es brutal. Obviamente, es el día 1 y sabes que la los primeros días siempre todo es muy emocionante.
+
+[Speaker 3 - 00:15:20]
+Veremos qué pasa la semana que viene. Vamos a ver cómo se desenvuelve, pero hasta ahora ha sido muy gratificante estar en una red social que finalmente se siente como como una red social. Como me sentí como cuando abrimos MySpace la primera vez, como esa emoción. En cualquier momento empiezo a poner glitter en mi feed, pero está muy buena, muy buena, de verdad que sí.
+
+[Speaker 2 - 00:15:48]
+Sí, qué bueno, súper, Amaya, encontrarte por allá, y creo que vamos a encontrar a muchos conocidos. Vida, ¿cómo estás? Qué gusto hoy tenerte ya acá escucharte. Buenos días.
+
+[Speaker 4 - 00:16:01]
+Buenos días, Lu, buenos días, Mexi. Andrew, todos, este, superinteresada de ver qué qué qué show con todo esto. Ya ven que yo he visto las noticias mucho, así que cuento muchísimo, demasiado con ustedes de que ustedes las procesen, ustedes las analicen y ya me digan, ¿qué pedo? ¿Qué onda? ¿Qué pasó? ¿Qué hago? ¿Qué no hago? ¿Me voy? ¿No me voy? Pues, ay no, qué hueva tener que checar todo yo. Soy la mexicana más huevonada que han conocido en toda su vida. O sea, soy una Mi anarquía es ser una contraria al estereotipo mexicano trabajador. No soy yo, no pienso, soy yo. Nunca en ningún aspecto quiero que todo me caiga del cielo. A veces mi anarquía, quiero que sepan. So, estoy muy agradecida con este espacio. ¿Y ya te extrañaba el chingo look? O sea, de repente te me pierdes mucho,
+
+[Speaker 2 - 00:16:58]
+güey. Yo también, querida Vida. De pronto, el el el esclavismo corporativo y otros proyectos me me tienen un poco separada, pero siempre estoy pendiente de de ustedes, de las chicas y los chicos, y de acá lo que comentan. Además, les quiero mucho, y siempre les mando abrazo en la distancia. Así que aquí andamos, y hoy súper feliz de platicar con con ustedes y sus opiniones y demás. Jesús, creo que está teniendo problemas, pero ya le dimos un tip a ver si ahora podemos subirlo otra vez, mi querido Mexi. Andrew, ¿cómo estás? ¿Cuándo te mudas para allá?
+
+[Speaker 5 - 00:17:37]
+Bueno decime vos, porque es que no sé, no sé. Buenos días, buenas noches, buenas tardes. Yo entré a este espacio a aprender, y aproveché de pedir la palabra para de una vez preguntar porque seguramente voy a tener preguntas. Y nada, también lo hice porque Mexi, te voy a decir algo, esta es la única manera de hablar con esta mujer, ¿oíste? Es imposible hablar con Luz, tuve que venir al espacio a buscarla. Es la única manera. Notificación
+
+[Speaker 2 - 00:18:11]
+desde Twitter.
+
+[Speaker 5 - 00:18:13]
+Sí, exacto. Pero bueno, sí quiero escucharte, Luz, porque me interesa mucho eso. Yo creo que eso pasa por la Comisión Europea, según lo que vi, y ellos necesitan aprobar, y es por un tema de creo que de libertad individual. De dicho de otra forma, pues, no sé, por el tema de los datos. Pero bueno, este, gracias por subirme, Mexi, gracias por por el espacio y estoy activo aquí.
+
+[Speaker 0 - 00:18:41]
+No, ya platicaremos dentro de algunas alternativas que tienen o que pueden usar las personas que están por allá en Europa o en países que todavía no tienen acceso. Ya no sé cuáles sean las implicaciones legales de eso, ni los riesgos, pero bueno, eso sí es importante considerarlo. Algo que también me me me encanta mucho platicar, pues son todos los temas de seguridad y todas las consideraciones que al menos yo he visto, que creo que tenemos que estar tomando en cuenta antes de dar un follow, antes de repostear alguna cuestión. Hay muchas cosas ahorita que están sucediendo en Instagram y con Meta, que pues creo que es importante tomar en cuenta. Ya también Luz nos platicará de todo lo demás que que que hemos estado viendo. Superama, de nuevo una disculpa por por por por no poder darte la palabra el el el miércoles o bueno, sí podía, pero me apendejé
+
+[Speaker 3 - 00:19:31]
+No, no, tranquilo, tranquilo. Ya hoy fui la primera, te perdono.
+
+[Speaker 0 - 00:19:36]
+Gracias. No, no, no, sí quería. No, mentira. Muchas gracias. Porque ese día lo que me tenía un par de ocasiones y creo que ya no estuviste por ahí porque tú tenías ahí un compromiso y pues muchas gracias. Ah mira, ya está Jesús, vamos a ver si ahora sí lo podemos meter acá arriba de Cohost. Ahorita queremos platicar a ver si se se se va a animar a a inscribirse o no. También por acá anda el profe. ¿Qué onda profe? ¿Cómo andas? ¿Ya sacaste tu cuenta? ¿Ya vi? ¿Ya viste posteando un rato? Bienvenido. Cuéntanos, ¿cómo has visto? ¿Qué te parece? Ahorita platicamos ya más a detalle del tema.
+
+[Speaker 6 - 00:20:07]
+Hola, hola, hola a todos. Feliz ya viernes. ¿Es viernes ya?
+
+[Speaker 2 - 00:20:13]
+No, no nos espantes, profe. Jueves, jueves. Jueves, profe.
+
+[Speaker 6 - 00:20:17]
+O todavía no casi. No, es que con esto con ya ya 1 no ya sabe en qué vive. Pero, pues bueno, veo una buena oportunidad, ¿no? Una buena oportunidad para para posicionarnos en una nueva red. Algo que me que me causó mucha curiosidad es que no no están activos los hashtag. O sea, yo intenté poner hashtag, pero no no se ponen como en azulito, o sea, no sé qué era como un un link, por decirlo de alguna manera. Pero, pues, interesante, ¿no? Interesante, interesante. Hay que ir descubriendo cómo le hiciste para tener 500 seguidores tan rápido, Mexi? ¿Pasa ese truco?
+
+[Speaker 0 - 00:20:54]
+No, ahorita les cuento, ahorita les cuento. Soy soy soy son varios tips ahí que estuve revisando. Estar temprano y haber entrado temprano y darle follow all desde el principio creo que fue 1 de los grandes aciertos ahí. Creo que soy sub 100, no, sub 500 k y ya van más de 30 y tantos 1000000. A lo mejor por ahí hay algo. Pero bueno, también tengo ahí un par de recomendaciones que que me gustaría ahorita darles. Gracias, profe, por estar por acá arriba, por subir. Que me gustaría ahorita darles. Gracias, profe, por estar por acá arriba, por subir y por cualquier duda que tengas, bienvenido. Jesús, ¿ya nos escuchas?
+
+[Speaker 7 - 00:21:25]
+Ya, ya, buenas tardes a todos. Este, yo no me he podido meter ahí porque me pide iniciar con Instagram, yo no tengo Instagram. Porque me pide iniciar con Instagram. Yo no tengo Instagram. Y no no pienso hacer un Instagram nada más por eso. Entonces si no si no deshabilitan eso la verdad no. Ya muchas redes sociales para mí. Entonces, tendría que abrir otra y compartir mis datos y, la verdad, si no, si me exige lo del Instagram, la verdad no no me voy a meter.
+
+[Speaker 0 - 00:21:54]
+Pues bueno, ya veremos entonces la perspectiva de Jesús ahora que empecemos a platicar de el uso de los temas de seguridad, de algunos algunos trucos que por ahí hemos detectado. Pero bueno. Byron, bienvenido Byron, tú ya tienes tu cuenta, ya la hiciste. ¿Por qué te has tardado? ¿No te he visto por ahí activo?
+
+[Speaker 8 - 00:22:12]
+¿Qué onda viejo? ¿Cómo andamos? Buenos días. Este, no, sí tengo cuenta. Ahí tengo una, pero no hay Twitter o ¿cómo se dice? ¿Triteado? ¿Algo? Este, nada más tengo 29 seguidores, viejo. Pásenme, pásenme.
+
+[Speaker 0 - 00:22:27]
+Hilado, el
+
+[Speaker 8 - 00:22:28]
+y al chile no tiene space, no tiene nada. Este, digo, para la gente que viene de Instagram para allá, pues está, pues estaría bien, ¿no? Pero para la gente de Twitter, Twitter tiene más funciones.
+
+[Speaker 0 - 00:22:41]
+Algo que sí he visto es que es un un un MVP muy muy sencillo, que también eso está buscándole a algunas personas. Es un Minible Bible Product, ¿no? Algo que salió que funciona, que lo he visto con algunos, vamos, ya platicaremos también de eso. Pero a algunas personas les está gustando que tenga pocas funcionalidades y no tantas opciones como Twitter. Yo creo que sí va a haber la oportunidad de hacer en vivos, ya sea de de ojalá video y también audio. Definitivamente es una función que estoy seguro que van a agregar. No sabemos cuándo. No hay todavía información al respecto. Pero por lo poco que he visto, yo creo que está padre, ¿no? La funcionalidad que yo le he visto, el engagement, el tema de de de la gente que he encontrado por ahí. Muchos obviamente están acá en Twitter. Muchos otros son personas que solo veía en Instagram. Se están mezclando algunos mundos. Yo yo por ahí les cuento, tengo 2 cuentas de Instagram. Una donde subo muchas cosas personales y de mis aventuras en la montaña.
+
+[Speaker 0 - 00:23:42]
+Y otra donde me he enfocado en subir muchas cosas o exclusivamente temas web 3. Y creo que fue una buena decisión manejarlos ahí separado. Porque he escuchado algunas personas que me dicen, Oye, ya se metió toda la banda de de Twitter pero a todos los que tenían Instagram ya se mezclaron y ya se me está haciendo ahí un un un un pues un relajito ¿no? Y pues bueno ya veremos cómo lo manejan. Si acaban haciendo otra cuenta o si acaban bloqueando o eliminando o muteando ciertas personas. No sé, no sé. En lo personal creo que esa decisión de mantener eso separado me me me ha ayudado a no tener ese tipo de problemas. ¿Tú qué opinas, Lu? ¿Tú tienes nada más una por si mal no recuerdo?
+
+[Speaker 2 - 00:24:25]
+Sí, justo, Mexi. Es que eso te iba a decir. Separación iglesia y estado. Por eso por eso tenía en Instagram tengo tengo muy muy poquitos amigos, realmente los que están ahí es gente muy muy cercana, porque pues es como como algo más privado. De hecho, mi cuenta es es privada, solamente con con gente muy muy cercana, ¿no? Y ahora todo se mezcló, de pronto ya me llegó un mensaje de de, ¿qué es eso? ¿Por qué? ¿De qué se trata? ¿Por qué hay tantas caricaturas de tus amigos? Está todo ya todo mezclado, pero a lo mejor ayuda un poco a a la adopción, sobre todo en temas cot 3. Creo que ahí va a ser una mezcla interesante, ¿no? Y y sobre todo las reacciones de quienes no están acostumbrados a que interactúan con este tipo de de contenido, creo que va a ser un tema interesante. Pero ya veremos, la verdad es que yo yo en lo personal sí lo lo reflexioné ayer en la noche, después de que me di de alta y dije, híjole, se va a mezclar aquí todo con todo.
+
+[Speaker 2 - 00:25:27]
+Es más, ¿Cómo bloqueo a los que tenía bloqueados? No, no es cierto. Va va a ser un tema interesante. Jesús, entonces, pues no, no te vamos a ver por ahí. Ya nos dijiste.
+
+[Speaker 0 - 00:25:45]
+Y, pues No, ya si quieres, no sé cómo no sé cómo,
+
+[Speaker 7 - 00:25:49]
+este, darme de alta. Y sería, no no sé, digo, no sé si valga la pena, pero si me dicen ustedes que sí. ¿Y por qué no lo abren al público como a Twitter? ¿Por qué te obligan a tener Instagram? Eso no me gusta. Porque, pues, yo no tengo Instagram, no me interesa tener Instagram y y no sé, me obligan, no me gusta que me que me obliguen a abrir cuentas, nada más porque sí, no, no sé. Pero si lo abren como Twitter, pues yo creo que sí, pero Instagram como tal o Facebook, yo no tengo ni Instagram ni Facebook para los que no me conocen. No me interesa. Eso te iba a preguntar. ¿Ni Facebook tienes, verdad, Jesús? Entonces No, no, no, pero no me interesa, es que pierdo mucho tiempo y no sé, no, digo, sí tuve Facebook mucho tiempo, pero ya me aburrí, me aburrí, la verdad, y dije no, esto no me quita tiempo y no me aporta nada. Pero si hay algo como Twitter, Twitter sí me gusta, obviamente.
+
+[Speaker 7 - 00:26:50]
+LinkedIn me gusta, también por las noticias y todo. Pero ojalá abran el el código para que todo mundo podamos accesar sin necesidad de darnos de alta, ¿no?
+
+[Speaker 0 - 00:27:03]
+Mira, ahí yo lo que podría recomendar, con lo poco que he visto, puedes llegar a ser tu cuenta de Instagram privada y que nadie te siga. Y le das la información mínima necesaria que tú gustes, y luego ya puedes, entiendo, abrir la la de threads. Y esa sí la podrías llegar a poner pública. Pero déjame hago unas pruebas antes de de de en realidad recomendarte algo con otras cuentas por ahí que tengo. Y te aviso, porque sí tengo un par de cuentas ahí en Insta que que que de repente utilizo para hacer ciertas pruebas de mensajes y en realidad para ver cómo funciona la aplicación cuando me comunico con la gente. Y pues bueno, luego en el siguiente espacio les podría mandar más recomendaciones. Sí me gustaría empezar con temas de seguridad, ¿no? Siempre siempre trato de comenzar con con con esas situaciones porque, pues finalmente utilizamos estas aplicaciones y damos información pública. Y toda esa información siempre se puede utilizar para chingarnos ¿no?
+
+[Speaker 0 - 00:28:03]
+Entonces algo que sí una, ¿cómo instalarlo? Pues es muy fácil ¿no? Podemos buscar en la aplicación del App Store de Google o de Android, en la aplicación del App Store de Google o de Android, busquen threads y busquen Instagram. Pongan las 2 palabras. Si no ponen las 2 palabras les pueden llegar a salir un chorro de otras aplicaciones de costura y cosas que finalmente pues no no es lo que están buscando. Entonces ahí sí les puedo recomendar utilizar esas 2 palabras. Y algo bien importante que estuve viendo y que sí me gustaría comentar, es que hace poquito Instagram y Facebook empezó a a cobrar para verificar gente. Entonces ya no los las palomitas azules ya no solo son de personas pues conocidas o de empresas que Instagram y Facebook les daba esa palomita azul, sino que ya cualquiera puede tener esa palomita azul, haces el proceso y pagas. Y lo que me ha tocado ver en otras aplicaciones y y con otros servicios, es que pues empiezan a crear cuentas fingiendo ser empresas, fingiendo ser otros líderes de opinión, otras personas que tienen muchos seguidores, pagan esos servicios.
+
+[Speaker 0 - 00:29:12]
+Y luego empiezan, y muy probablemente, no lo he visto todavía. Al menos vi creo que 1 o 2 posts con links que yo consideraba que tenían mucho riesgo. Pero es algo que vamos a empezar a ver. Entonces sí les recomendaría, fíjense bien quién los está siguiendo. Antes de seguir alguien aunque tenga la palomita azul recordemos que ya se puede conseguir pagando. Fíjense muy bien en esa información. También algo que sucede mucho en todas las redes, reposteamos sin en realidad estar seguros de la que la información que que estamos leyendo sea verídica. Sucede en todos lados, ¿no? Y yo creo que conviene conviene repetirlo. Y en el inicio de cada una de estas aplicaciones me ha tocado ver muchas veces siempre hay caos. Siempre hay caos, siempre entra gente nueva. Al igual como una persona como yo puede llegar a ser muchos seguidores en en en en toda esa gente pues empieza a seguir y a lo loco. Yo finalmente he dado me he dado cuenta que que me han seguido muchas personas que no tengo ni idea.
+
+[Speaker 0 - 00:30:14]
+No sé cómo cómo ha sido tu experiencia, Lu, cómo ha sido tu experiencia Superama, profe, que son los que he visto por ahí activos. No sé si nos quieran platicar un poquito de esto. Y de alguna cuestión de seguridad que ustedes consideren que también sea importante considerar, ¿no? Eso es súper importante. Échale, Sopera.
+
+[Speaker 3 - 00:30:38]
+Sí, me me parece que que todavía tal vez 1 tiene que curar un poco más su firma, me imagino que el algoritmo va a ir agarrando poco a poco, así como aún lo hace en Twitter, en que sigues lo lo el contenido que tú quieres y se va limpiando, vas desechando lo que no quieres. Hasta ahora sí, eso es, bueno, ¿qué otra palabra se me ocurre? Un mierdero. Muy pena aquí en Miami, los cubanos. Pero está divertido porque también empiezas a conectar con gente que que tenías tiempo sin ver, porque, claro, tienes este punto web 2 web 3. Entonces, eso me ha gustado, y y aunque sigas a gente o no te aparecen, pues, muchísima gente que que o le habías perdido la pista en Twitter, me pasa, o que también en Instagram te pasa lo mismo, que siempre te aparecen las mismas 10 personas con las que interactúa. Y yo quiero ver contenido de la gente con la que no interactúa,
+
+[Speaker 1 - 00:31:33]
+pero tampoco quiero estar dándole like a todo el mundo para que me aparezca, eso me da demasiada pereza. Pero aquí me doy cuenta que,
+
+[Speaker 3 - 00:31:36]
+aparezca, eso me da demasiada pereza. Pero aquí me doy cuenta que que si por los momentos te aparece así, me imagino que se irá limpiando. Y con respecto a lo de la la seguridad, yo yo ya me entregué hace rato. O sea, ya ya estoy en Facebook. Yo no uso Facebook, pero claro, empezamos por ahí. Después por Instagram, el tío Elon, que está loco, también tiene todos nuestros datos y nos escucha. O sea, ya 1 lo que piensa te aparece en los ads, y 1 ni 1 hasta con el pensamiento. Ya es como que, tamos fuck todos aquí. Entonces, eso que ahora no, que mis datos no, ya. Ellos tienen todo, saben todo. Entonces, ya no voy a estar Bueno, y la verdad nunca leí ningunos términos y conditions. Yo entregada, entregada, entregada a las a las redes sociales desde, imagínate, desde HiFi y Flicker.
+
+[Speaker 0 - 00:32:34]
+Muchas gracias, Superama. Definitivamente, híjole, es un tema eso de los términos y condiciones. Pero, bueno, ya ya ya Lu se los aventó por nosotros. Deberíamos contar a ella qué es lo que opiné Échele, Lu.
+
+[Speaker 2 - 00:32:47]
+Gracias, Mexi. Oye, Superama, sí, tenemos que que leer esos términos y condiciones, porque están interesantes, pero saben que que me llama mucho la atención. Y además, sobre todo, nosotros, que siempre somos pro descentralización, pro anonimato en datos, y miren, nos hablaron y luego, luego migramos para allá, no importa que se estén robando todo, consumiendo nuestros datos, Nos fuimos para allá. Pero, oye, Mexi, ¿qué qué te parece si empezamos con con un poco de estos temas justo? Porque sí me me quisiera contarles precisamente lo que lo que abarca estos términos y condiciones son son importantes, Y yo no sé si la mayoría de quienes estamos aquí ya conocían de por sí la política de Instagram, en donde, pues, les das acceso a todo. Ellos pueden ver incluso los mensajes que que lanzamos, los mensajes en privado. Y esta, tenido acceso a todo, nuestro contenido, nuestras fotos, corre por los servidores, y y de pronto no somos conscientes de eso.
+
+[Speaker 2 - 00:33:55]
+Ahora, con esta nueva política, fíjense, yo quiero contarles 3 temas súper importantes, y voy a empezar justo con el tema de de la Unión Europea, porque este space llega hasta allá, pero además para que sobre todo no se duerma tanto quienes estén escuchándonos desde Europa, porque me llama mucho la atención, fíjense, justo los países de la Unión Europea, Meta no quiso lanzarse a lanzarlo, a a abrir todavía la aplicación, porque allá hay una ley específica que se llama la ley de mercados digitales, y tiene muchísimo que ver con temas de privacidad, pero también del monopolio. ¿Eh? O sea, esto lo que lo que implica no es tanto, o sea, no no no es que estén cuidando tanto el tema de privacidad específicamente de los usuarios, sino más bien va enfocado a generar un mercado económico respecto de las plataformas en línea, que sea competitivo, pero que a su vez restrinja mucho para justo transferir datos y vender datos.
+
+[Speaker 2 - 00:35:02]
+Entonces, ¿qué ocurre? Obviamente, como Meta está recopilando todos los datos a través de de de treads para, a su vez, transmitirlos a otras empresas, y es lo que hoy hace. Ustedes recuerden que tanto en Insta como en Facebook, por cierto, no tengo Facebook, pero esta este seguimiento que que dan de la de nuestros intereses sobre lo que queremos comprar, es más, de pronto, cuando está vinculado, o algunos que por ahí tengan Alexa, si es, o sea, obviamente, cuando dejas prendido Alexa, se escuchan las conversaciones y eso se transmite al al algoritmo por distintos convenios que existen. Y entonces, de pronto, te salen cosas que te sorprende de cuándo cuándo busqué esto en Internet, solamente lo hablé. ¿Saben? Entonces, imaginen el nivel de datos que se están comercializando a través justo de de de Meta, y me refiero a todas sus redes sociales.
+
+[Speaker 2 - 00:36:03]
+Y entonces, en Europa, realmente, la restricción es es bastante dura, es muy es muy dura respecto a las redes sociales. Entonces, finalmente, no quisieron lanzarla porque tendrían que haber pasado muchísimas dolores de cabeza, sobre todo, con con esta ley en específico. Y parece lo que estaba leyendo todavía ayer en un comunicado que se acometa, que se van a esperar Andrew y todos nuestros queridos amigos de Europa, por lo menos a finales de septiembre, para lograr hacer negociaciones con la comisión y que empiecen a ver el tratamiento que justo esta ley de mercados digitales les pida. ¿No? Para hacerlo, repito, mucho más competitivo. Y esa es la causa principal por la cual en Europa no van a tener acceso todavía. Ahora, fíjense, otros 2 puntos importantes que a mí me llaman la atención, y creo que hay 1 bueno, que quienes nos gusta la parte otra vez de descentralización, Meta va a empezar a incursionar.
+
+[Speaker 2 - 00:37:09]
+Si cuando tengan un tiempo, por ahí incluso, métanse a los términos y condiciones y vean el tratamiento que ellos pretenden hacer respecto de todo el contenido que vamos a generar y que después, no no lo tienen aún habilitado, pero que después va a poder ser compatible con Activity Pop, este protocolo descentralizado. Fíjense, están tratando también de incursionar en temas de descentralización, porque además se contrapone con todo esto que están recopilando, ¿no? Esto, porque además se contrapone con todo esto que están recopilando, ¿no? Esto va a ser en un futuro, todavía no está habilitado, pero este protocolo, quienes quienes ya lo conocen, pues precisamente abre muchísimas posibilidades para incluso generar, que estamos publicando ahí, precisamente, cualquier persona que que forme parte de Tret, lo va a poder utilizar. Y ahí es donde me gustaría decirles a todos que pongamos mucho ojo, sobre todo a mis queridos artistas, creadores de contenido artístico, realmente, mis queridos artistas, creadores de contenido artístico realmente, música, obras audiovisuales, fotos, todo lo que empecemos a postear ahí, que tenga naturaleza de propiedad intelectual en automático, autorización de una licencia más, la más amplia que existe, autorización de una licencia más la más amplia que existe y revocable para poder utilizar todo el contenido de propiedad intelectual y entrenar a los algoritmos presentes o futuros, dice.
+
+[Speaker 2 - 00:38:52]
+Entonces, no se va a poder reclamar nada de lo que estén colocando ahí. Y además, les autorizamos literalmente que podamos modificar a través del algoritmo de inteligencia artificial y ponerlo disponible para todos. De inteligencia artificial y ponerlo disponible para todos, cualquiera que utilice la la plataforma de treads y el algoritmo de inteligencia artificial. Creo que ese es un tema delicado, sobre todo para para los creadores, aquellos quienes tienen esta esta esta calidad de creativos. De pronto, no sé qué tan conveniente vaya a ser estar ahí. Y el punto final, fíjense, lo que decía Jesús. Invariablemente, también dentro de estos términos y condiciones, lo que dice es threads depende de Instagram, de que tú seas usuario de Instagram. Y ahora, si tú te das de alta, aceptas y descargas threads, pero después ya no estás convencido, vas a perder también tu cuenta de Instagram.
+
+[Speaker 2 - 00:39:56]
+Es decir, cuando renuncias a una, renuncias a las 2 en automático. Entonces, todo el contenido que estaba ahí también se borrará en en automático. Entonces, todo el contenido que estaba ahí también se borrará en automático. Bueno, se borrará entre comillas, porque ellos se lo van a quedar, por supuesto, para poder hacer lo que quiera. Y seguramente, pues, ya también consultaron por ahí en internet, que fue, y acá en Twitter, yo estuve viendo bastantes imágenes, de cómo Apple, también Apple y, sobre todo, Android, sí te alertan de toda la actividad y los datos a los cuales estás consintiendo, ¿No? Desde datos de salud, o sea, y la parte que me preocupa, que eso realmente es es muy complicado, son los datos sensibles, y les cuento por qué. Los datos sensibles, por lo menos aquí en México, en Europa también, y ahí es otro punto que tiene que ver con la ley de mercados digitales, En la mayoría de los países de Latinoamérica, el concepto de datos sensibles está vinculado a datos patrimoniales, fíjense, es decir, a datos de tarjetas de crédito, a datos financieros y literalmente le estamos dando acceso.
+
+[Speaker 2 - 00:41:15]
+Puede ser que una vez que estemos conectados y que en el futuro si compramos algo a través de treads o empiece a hacer su trabajo estas cookies para dar este seguimiento a empresas, pues literalmente van a ver nuestros datos patrimoniales. Y eso es un hecho. Al día de hoy, cuando das acepto, aparecen los datos sensibles que tú, pues, les das autorización para que los puedan identificar, ¿no? Todo lo lo que ya conocemos, que hace Instagram también, historiales de búsqueda, los contactos y ojo, contactos estoy hablando no solamente de las cuentas de de Instagram, que es de donde parte, sino de los contactos

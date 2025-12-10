@@ -1,0 +1,420 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #20231123
+Título: El Economista y el Ingeniero - Argentina y Milei
+Fecha: 2023-11-23
+Host: @meximalist
+Tipo: hosted
+
+Descripción:
+El Economista y el Ingeniero - Argentina y Milei
+
+Duración: 01:21:06
+Escuchas: 117
+Speakers: 9
+
+Links:
+  Space: https://x.com/i/spaces/1vAxRvleVvYxl
+  Dashboard: https://spacesdashboard.com/space/1vAxRvleVvYxl/el-economista-y-el-ingeniero-argentina-y-milei
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+
+[Speaker 0 - 00:00:00]
+Jean, Jean, ¿cómo andan el día de hoy? Bienvenidos a esta grabación. Hoy vamos a tener a la abogada Lu, el economista Jesús Garza, y yo soy el ingeniero. Vamos a estar platicando de todos los temas legales que ha estado, o sea, que hemos estado escuchando últimamente con binance, con Kraken, con la SC. No nada más nos quedaremos en esos temas.
+
+[Speaker 0 - 00:01:08]
+Al principio empezaremos a platicar de algunos avisos de lo que está sucediendo por acá en Monterrey, y va a estar con nosotros Jesús Garza dando las noticias macroeconómicas, él empezaremos con él. Lu viene un poquito retrasado, pero en cuanto la podamos tener por acá con nosotros, también nos platicará de todos los temas legales que por ahí ella ha estado investigando.
+
+[Speaker 0 - 00:02:21]
+El día de hoy vamos a empezar con algo de música, como siempre, para tener un poquito de tiempo para invitar a la banda y que se conecten. Esto es Lucas Morais, 3 3 3. Perdón, va desde el principio. Eso fue 3 3 3 3, de Lucas Morais. Por ahí se las dejé pineada acá abajo. Gracias a todos los que se han conectado.
+
+[Speaker 0 - 00:03:22]
+Vamos a empezar este espacio el día de hoy. Ya está con nosotros el economista más famoso de la Web3, Jesús Garza. ¿Cómo andas Jesús? ¿Me escuchas bien?
+
+[Speaker 1 - 00:03:55]
+Bien, muchas gracias. Buenos días a todos.
+
+[Speaker 0 - 00:03:59]
+Excelente, excelente, buenos días. Vamos a empezar rápido con algunos anuncios aquí de la comunidad, y luego nos vamos de lleno con las noticias macroeconómicas mientras esperamos a Lu. Ella viene un poquito retrasada, pero vamos a platicar con ella de todo el tema legal de lo que ha estado sucediendo con la SC, con binance, con Changpeng, CC, el ex CEO, y también Kraken por ahí está involucrado. No es lo único que ha pasado últimamente, y no es la primera vez que la SC y los reguladores de Estados Unidos se van tras estos exchanges, hay ya mucha historia sobre el tema, pero pero bueno, el día de hoy estamos platicando sobre lo reciente con Kraken y Compiance. Los avisos, hoy tenemos evento acá en Monterrey, por ahí veo a algunos conectados de Monterrey, ojalá se puedan dar la vuelta. Estamos inaugurando, bueno, ya inauguramos el local, pero siguen habiendo arreglos. Ayer fuimos a revisar el avance, ya están poniendo algunas ventanas que tenemos por ahí pendientes de instalar. También hay que poner unos persianas, hay que pintar, yo creo que este sábado o el otro nos vamos a juntar acá a toda la banda para, pues bueno, tener ahí una dinámica interesante de integración, donde todos los que quieran ayudar a seguir arreglando el espacio, vamos a poder tener ahí la oportunidad de convivir y y pues bueno, también de meterle un poquito de mano de obra para que eso ya esté funcionando al 100 por 100 y lo podamos empezar a utilizar 24 7.
+
+[Speaker 0 - 00:05:19]
+Últimamente solo lo hemos estado utilizando para las reuniones de los jueves, que también, por cierto, les aviso, estamos cobrando ya las reuniones de los jueves de las compañías que quieren ir a vendernos algo o que quieren ir a platicar de algún protocolo, alguna Blockchain, estamos ya cotizando estos eventos. Y para la gente de la comunidad, pues hay un descuento del 50 por 100. Entonces todos los que tengan algún proyecto que sean parte de la comunidad, pero que vayan y que el objetivo sea ir a vendernos algo, ir a platicar de lo que están haciendo, pues sí hay ya hay una cuota que estamos pidiendo para poder pagar la renta, para pagar la luz, pagar el Internet, etcétera. El día de hoy va a estar Algonea. Algonea es un juego de un par de miembros de la comunidad de acá de Monterrey. Ellos van a salir en Solana, tienen una colección de NFTs y por ahí van a tener un token donde si juegas te van a premiar con el token. Hay una economía interesante, la verdad, les soy sincero, no lo he investigado bien. Hoy vamos a platicar con ellos del tema y se supone que van a llevar un demo también.
+
+[Speaker 0 - 00:06:20]
+La próxima semana también importante para todos los que quieran o estén por aquí cerca de la zona de Monterrey va a venir Avalanche. Avalanche está abriendo una comunidad, está surgiendo que se llama Avalanche México, ellos tienen comunicación ahí con el Avalanche Foundation, y el primer evento que ellos van a realizar aquí en México va a ser acá en Monterrey, en el local MXBo 3. El 30 de noviembre a estar por aquí con nosotros. También nos estamos poniendo en contacto con personas de Ciudad de México y de Guadalajara para que también se organicen eventos por allá, y muy probablemente nos estemos dando la vuelta cuando se organice. Yo creo que ya sería hasta el año que entra. Otro ISO también importantísimo, y por ahí hace ratito tuve la oportunidad de subir el espacio con Laura y con Mauricio Ostos de Cerebro Web 3, que por aquí lo veo conectado. Gracias por estar por aquí. Estamos participando muchas comunidades latinoamericanas y en especial algunas de aquí de Monterrey, en la ronda 19 de Gitcoin. Por ahí está participando de las de los proyectos latinos que que que ahorita se me vienen a la mente.
+
+[Speaker 0 - 00:07:22]
+Está Sol 7 con música web 3. Ella está haciendo cosas muy fregonas enseñándole a los músicos a hacer sus carteras, a dar de alta NFTS de música, y de esa manera empezar a monetizar. Está muy chido el proyecto. Por aquí, en un momento cuando Jesús esté dando las noticias, les voy a pinear los links para que donen para todos esos proyectos que estoy mencionando. Está obviamente también la comunidad de digitalizados con Abraham Reeves, que él está haciendo espacios todas las semanas y también tiene un newsletter muy bueno. Él también está participando. Está la gente de Nación Bancles, está también hay muchos muchos proyectos de de de de de apoyo a finanzas regenerativas, que eso es algo que está sonando mucho últimamente, que también han estado haciendo algunos eventos como Web3 Beach, es otro proyecto que hace limpiezas de playas, está MotusDAO, que está enfocado en tema de de de este, da da asesorías y da psicológica gratuita para toda la gente que está por aquí metida en la web 3 y están levantando dinero con bitcoin. Y nosotros también estamos participando ahí en un par de rondas.
+
+[Speaker 0 - 00:08:23]
+Una de las rondas en la que estamos participando es la de OneInch. OneInch está entrando a Latinoamérica con esta primera iniciativa, fondeando proyectos con Gitcoin, pero según lo que nos comentó Carlos el martes pasado, es 1 de los primeros pasos que dan algunas blockchains, algunos protocolos y algunos pues instituciones para entrar al mercado latino. Entonces al menos el alfa que nos pasó es que quieren empezar a probar con comunidades que puedan llegar a hacer contenido educativo, que hablen de de de sus temas, que prueben el igual que ellos tienen. Y de esa manera pues bueno, poco a poco ir construyendo una relación y en un futuro probablemente hacer eventos más grandes, ¿no? Entonces creo que son iniciativas de padres que que que van a empezar a fluir acá, Latinoamérica, que ya las estamos viendo. Y nos pasó el alfa de que viene Base, Base, la Blockchain de Coinbase, al parecer también va a lanzar una ronda exclusiva para proyectos latinos y es a través de Gitcoin. Entonces, pues bueno, por ahí les voy a opinar acá arriba los links de los 2 proyectos, de las 2 solicitudes o los 2 aplicaciones que nosotros hicimos como MX Web 3.
+
+[Speaker 0 - 00:09:27]
+Si no conocen MX Web 3, pues somos los que hacemos estos espacios de martes y jueves, y también los eventos presenciales de los que les he platicado. La semana pasada estuvo muy divertido, por ahí platicamos el martes de los eventos que hubo con la Embajada de Japón, estuvo el Embaador de Japón, escuchó una plática de Web3 y de inteligencia artificial. Estamos viendo ya cómo hacemos enlace y colaboración un poquito más grande para probablemente traer un evento mucho mucho más grande la próxima el próximo año en abril, un congreso, Japón, México, donde definitivamente vamos a tener que incluir temas Web3. Pero no nada más quedarnos en eso. Por ahí Suzuki nos ofreció que podamos utilizar sus sus sus agencias de carros para hacer eventos. También por ahí platicamos con con gente de Fort Staffing que está patrocinando también eventos web 3, porque hay un miembro de la comunidad que ha ido a nuestros mira, o sea, se puso muy bueno el networking, vienen cosas interesantes el año que entra para acá para Monterrey. Y todo este apoyo que pueden ustedes llegar a donar en Gitcoin, pues ha ido un chorro por ahí.
+
+[Speaker 0 - 00:10:29]
+Ayer publicaba en algunos grupos que un dólar, un solo dólar de los que puedan ustedes llegar a donar, dependiendo los puntos que tienen en el pasaporte que, bueno, eso es un tema que luego podemos platicar, puede llegar AAA retribuir hasta 25 veces eso en la bolsa de los proyectos en los que participen y que donen. Entonces está muy chido que aparte de de de o sea, sí es donativo porque tienen que que que donar al menos un dólar para que eso aplique, pero es más como un voto de confianza para que se distribuya dinero que los protocolos, en este caso el de OneInch poniendo que en este caso son como 40000 dólares para 12 proyectos latinos. Entonces va a seguir habiendo rondas de este tipo, exclusivas para proyectos latinos, es algo que por ahí hablé ramo de Kairos Research y yo hemos estado hablando incansablemente las últimas 3 4 semanas. Mucha gente se animó, yo personalmente me me me le dediqué una hora y media sola a explicarle cómo era el proceso y ya lo pudo dar de alta, y definitivamente es algo que le va a ayudar un chorro a levantar capital y el fondeo cuadrático, que es el dinero adicional que se está repartiendo, ojalá, ojalá con eso podamos llegar a traerla a Monterrey.
+
+[Speaker 0 - 00:11:36]
+Por ahí estoy empujando mucho para que se venga a Monterrey a darnos ese taller que a ella le encanta hacer de música y definitivamente creo que es súper necesario. Pero bueno, terminamos los avisos, Jesús. Muchas gracias por estar por aquí. Todos los que se vienen conectando y que han dado like gratuito, que han dejado un commit, se presta un chorro, todo suma. Cuéntanos, Jesús, por ahí vi un tuit tuyo, lo voy a opinar acá arriba también sobre el tema macroeconómico, ¿cómo has visto? ¿Cómo has visto últimamente? ¿Y qué opinas? Ya empezaremos a platicar también de lo que sucedió con binance, si crea que la famosa es Easy.
+
+[Speaker 1 - 00:12:17]
+Sí, buenas tardes. Bueno, empiezo, hay muchas noticias muy interesantes. Está desde el tema macro en México que salió el IGAE, salió la inflación. Está el tema macro en Europa que sigue en desaceleración y también en Argentina. Quería hablar un poco de Argentina porque ganó el candidato libertario Javier Miley, y un poco qué le espera a una economía que está, pues, literalmente colapsada. Empiezo con México. Hoy hoy salió la inflación, malas noticias. La inflación tenía una tendencia a la baja. Marginalmente sube la inflación mes a mes. Se deteriora en el margen con el incremento más alto desde 2000 veintiuno. Entonces, pues malas noticias, porque, pues venía una tendencia favorable. Banco de México había subido tasas a lo largo del año, lo que estaba convergiendo o haciendo que la la inflación convergiera hacia el centro de la meta. Con esto me quedan dudas si realmente hay espacio para que Banco de México comience a bajar tasas, como se ha dicho, a principios de 2024.
+
+[Speaker 1 - 00:13:17]
+Entonces, el día de hoy se publicaron también las minutas del Banco de México. ¿Las minutas qué son? Es el argumentación de la decisión de política monetaria que se dio el mes pasado, donde Irene Cantellanos es Irene Espinoza, perdón, es la única disidente. ¿Qué quiere decir eso? Que la única miembro de la junta de gobierno que parece que no está de acuerdo con que se bajen las tasas de interés pronto. Justo porque está preocupada por la aceleración de los precios consumidor. Es un poco malas noticias. También malas noticias esta semana porque el IGAE, que es el indicador próximo mensual del PIB, decreció o las expectativas o pronósticos que tiene el INEGI son de una contracción marginal para el mes de octubre. Recordemos que este año, pues, había crecido muy bien de de hasta el tercer trimestre del año, el crecimiento había sido el 3.3 por 100 anual, que es bastante bueno, después de un 3.6 del año pasado. Pero parece que ya entramos a una etapa de desaceleración, motivada, pues, también por un menor dinamismo en Estados Unidos.
+
+[Speaker 1 - 00:14:21]
+Y esto se explica por mayores tasas de interés que están deprimiendo al consumo privado, tanto en Estados Unidos como en México. Entonces, ¿qué es lo que vamos a ver? De una muy buena tasa de crecimiento este año, yo creo que vamos a ver una ralentización de la actividad económica hacia 2024 y 2025. Por los fenómenos de altas tasas de inflación. Entonces, es un poco mala noticia. Europa también, los indicadores del PMI en Alemania, los indicadores en general del ciclo económico, que es el PMI, es el indicador adelantado de gerente de compras para el sector manufacturado de servicios. Abajo de 50 puntos significa contracción, arriba de 50 puntos expansión, se mantiene en contracción Europa. Entonces, con esto, pues, hay muchos países que ya entraron en recesión, Holanda, Bélgica, Alemania y, bueno, se mantiene en en el estado en en en recesión por problemas geopolíticos, por las altas tasas de inflación. Pero, bueno, a partir de 2024 esperemos que muchos países comiencen a bajar las tasas de interés, lo cual pueda incentivar a que se recupere en el margen la actividad económica.
+
+[Speaker 1 - 00:15:28]
+Ahora, me me me ligo con el tema de mi ley. Javier mi ley ganó las elecciones en la Argentina por más de 10 puntos porcentuales, en un entorno donde la economía argentina está estaba o está totalmente colapsada. Estamos hablando de una tasa de inflación de más del 140 por 100 anual. Este, Sergio Massa, que era el candidato de oficialista, peronista, el el secretario de economía pierde, pues yo creo que con justa razón, pues no puede con los números que tiene Argentina, pues no, era indefendible una postura de de continuidad de un de un sistema que está totalmente colapsado. Pero hay que hablar un poco del del impacto de Miley, los invito a que lean mi columna el día de hoy. El día de hoy yo publiqué en El Financiero justo, este, qué podemos esperar a partir del de la victoria de Javier Miley. Se habla de un tipo muy radical, sí lo es, en algunas posturas les voy a platicar de 2 que sí se me hacen radicales, que es una el el el libre, él es él es totalmente libertario.
+
+[Speaker 1 - 00:16:28]
+En materia económica, ¿qué significa ser libertario? Mínimo, mínima intervención del Estado y que todo lo controle el libre mercado. Te los voy a poner 2 posturas que a mí se me hacen muy radicales, que serían Oye Jesús. Sí. Una duda, ¿a quién me suena eso? ¿Quién lo repite constantemente? Ah. ¿No no va contigo, no va contigo, es? Trueley. Es que les iba a decir que ya me pueden me pueden decir a partir de ahora y me voy a dejar la greña igual que Miley. Este, porque yo yo coincido en muchas cosas con él, pero les voy a platicar de 2 2 2 empiezo con lo radical y me voy a lo a lo mesurado. Lo radical libre tráfico de órganos humanos, fíjate, habla del libre tráfico de órganos humanos, que puede satisfacer la demanda de de de órganos para que mucha mucha más gente se se recupere, pues este pero puede generar incentivos malignos, lo que, etcétera. Libre de portación de armas. Son 2 2 medidas radicales, pero en términos generales, recordemos que y la la compañía petrolera argentina estátizada estaba tronada, era ineficiente, la aerolíneas argentina estátizada, era ineficiente, estaba tronada.
+
+[Speaker 1 - 00:17:35]
+Era una economía que tiene déficits gemelos, que la de cuenta corriente y la y la cuenta de de la balanza comercial. Tenía tiene reservas negativas de 10000000000 de dólares. Es decir, no es una economía totalmente tronada, tenía hiperinflación, el banco central funcionaba como caja tica del gobierno federal, no había incentivos para mayor productividad, la gente pues vive una gran parte vive los sindicatos, viven de de las dádivas gobierno. Entonces, este, pues, no no era sustentable y entra una idea de desaparecer ciertos o de reducir el órgano de aparato gubernamental, darle más control. Y en eso sí estoy de acuerdo con él, a los ciudadanos. Que los ciudadanos, los seres mortales como nosotros podamos intervenir, contribuir, vender, comprar, invertir y distribuir bienes y servicios en la economía. Que el estado no nos prohíba estar y participar dentro de la actividad económica. Y esto se ha demostrado a lo largo de la historia y las estadísticas no me dejarán mentir.
+
+[Speaker 1 - 00:18:36]
+Los invito a que lean o vean la el ranking de liberalismo económico. Famoso neoliberalismo. Los países más neoliberales en ese contexto son los más prósperos. Les doy los 4 más liberales, que es Taiwán, Suiza, Singapur y, este, y Creo que era Corea del Sur, no estoy totalmente seguro. Pero Irlanda, perdóname, Irlanda. Y los países más estatizados que son Corea del Norte, Cuba, Venezuela y Sudán. Entonces, en ese contexto, Argentina está en lugar 144 176 países, y México está en lugar 161, y se está deteriorando cada vez más, porque obviamente las políticas públicas en México estaban más alineadas con una con un estatismo. De hecho, de los presidentes en Latinoamérica que no festejaron la victoria de Miley, pues este está Díaz Canel, está Maduro, está AMLO y y algún otro presidente que le que le de Nicaragua. Entonces, en ese contexto creo que que que era necesario un un giro de 180 grados. También ha dicho Miley que va a dolarizar la economía argentina En papel es muy buena idea.
+
+[Speaker 1 - 00:19:36]
+En la práctica va a ser muy difícil, porque para dolarizar una economía necesitas dólares. Y como ya dije, las reservas internacionales del Banco Central Argentino son negativas. Debe dinero, no tiene dólares. Este, tienes un déficit comercial, que quiere decir importas más de lo que exportas. Entonces, no estás no estás atrayendo dólares y tampoco la gente invierte en Argentina. Entonces, no estás atrayendo dólares por ningún lado. Lo primero que tienes que hacer es cómo vas a atraer dólares para dolarizar la economía. Va a ser una tarea monumental, hay que esperar a ver qué cuál es la propuesta de de este señor. Pero bueno, es esto es un reflejo de décadas de declive, décadas de decrecimiento y de de merma de productividad en en la Argentina. Pero veremos qué pasa, porque creo que le puede dar un giro interesante la la geopolítica de de la región, que se está cargando mucho hacia el estatismo, hacia el control del estado y el autoritarismo. Pero bueno, hago una pausa por si alguien tiene alguna pregunta.
+
+[Speaker 0 - 00:20:46]
+Por aquí arriba les pinee el artículo de El Financiero. Ese es el primer pin que ven hoy en el ¿Perdón? Échale, échale. No sé si no me escuchabas, pero bueno, les decía que aquí arriba está pineado el artículo de. Volver a subir. Creo que tiene problemas Jesús, pero bueno, les sigo platicando. Otro pin que tengo acá arriba, pues también es el de la inflación. Igual estoy pineando el link para que vayan a donar a el proyecto de este me lo vuelvo a subir, denme un segundito de Sol 7, música agua 3. También está pineado bueno, ahorita platicamos de el espacio de las 2. Pero piné también los 2 lics para que puedan llegar a participar en la ronda de Gitcoin en las 2 iniciativas que traemos como MX Web 3. Si hay alguien de Argentina que quiera subir a dar su opinión o cualquier otra persona que quiera venir a preguntar algo, opinar del tema, son súper bienvenidos.
+
+[Speaker 0 - 00:21:48]
+Déjenme ver qué pasó con Jesús. A ver, yo le quiero hacer un par de preguntas, pero primero quiero asegurarme que los vaya a escuchar. Deme un segundito y continuamos. Si no me voy a tener que aventar yo aquí el speech, no pasa nada. Jesús, Jesús, te estoy mandando invitación. Si tienes detalles, igual conviene que reinicies la aplicación o hasta el celular. Pero bueno, hago un breve espacio mientras tenemos por acá arriba a Jesús para platicar que no me quedó. ¿No? Se me hace que viene en camino. Pero bueno, ¿les platico también? Ahí está.
+
+[Speaker 1 - 00:22:28]
+Ya ya ya ya ¿Me escuchas Jesús? Ya te escucho. Pero, perdón, antes de continuar es que no, me perdí de lo que lo que estabas diciendo, por si hay alguna pregunta de lo que platicamos.
+
+[Speaker 0 - 00:22:39]
+Sí, les decía que aquí arriba pinee el artículo de El Financiero para que lo puedan ir a leer. Una duda, el presidente o el sí, presidente electo, Miley, está hablando y ha hablado muchísimo del tema de bitcoin. ¿Qué opinas de que lo pueda llegar a legalizar como moneda de cambio en curso?
+
+[Speaker 1 - 00:22:57]
+Mira, como te digo, es libertario. Es eso la la el el punto fundamental, el que es que él quiere proteger como la sonará redundante por la libertad de que cada ciudadano tome la decisión que quiera, que que si quiere pagar en bitcoin que lo haga. Yo nunca he estado en contra de eso, pero él sabe, por ejemplo, que sería un error que la política monetaria estuviese en función de un bitcoin, que no tienes control de su oferta. Con el el el por qué crees que el siendo pro bitcoin, por qué crees que va a dolarizar la economía. Justo porque va está en función del control de la oferta de dólares la cantidad de dólares que tú puedas quitar o meter en el la economía, en este caso la reserva federal. Pero eso no quiere decir que lo va va a prohibir el bitcoin, simplemente él está consciente que un un sistema monetario no puede funcionar sin control de la oferta de dinero. Y no cuando tienes bitcoin, que lo hemos platicado muchas veces, no tienes el control y la oferta de bitcoin. Pero eso no quiere decir que no que no sirva para hacer transacciones o o transferencias.
+
+[Speaker 1 - 00:23:57]
+Entonces, claramente lo pues lo lo correcto es no prohibirlo, lo correcto es aceptarlo y darle la libertad a los ciudadanos que que los que quieran invertir y comprar o vender, transferir en bitcoin, que lo hagan. Pero está consciente que un sistema monetario no podría funcionar sin el control de la cantidad de bitcoin que pueda entrar o salir de la Argentina, ¿no? ¿No?
+
+[Speaker 0 - 00:24:19]
+Oye, el tema de los dólares, obviamente a Estados Unidos les le conviene, por supuesto, que se dolarice, ¿o no? Yo creo que es algo obvio, pero pues bueno, no sé, me gustaría tú echarlo directamente a tu hijo. Para nada. De hecho salió un artículo ayer que que me me interesó mucho. No, Estados Unidos no, porque, este, no es lo digo si fuera un país muy pequeño como Panamá o Ecuador
+
+[Speaker 1 - 00:24:40]
+sí, pero como es un país que que económicamente está colapsado, serían líneas de crédito muy fuertes y tendrías que tener un colateral o garantía importante. Es decir, Estados Unidos sí le pediría a Argentina a ver si tú estás tronado el mismo fondo monetario ya no te presta, nadie te presta dinero porque no tienes con pagar por lo mismo que les dije que tiene un déficit. ¿Qué quiere decir? Que tienes déficit gastas más de lo que ingresas. Entonces, ¿cómo cómo vas a vas a poder pagar estos dólares que te estoy prestando? ¿Me explico? Normalmente eso se haría exportando más de lo que importas, pero no no está pasando en Argentina. Tendrías que devaluar antes de hacer esta transacción. Entonces, no es que no le convenga o no, Estados Unidos te va a pedir garantías. Te voy a dar dólares, sí, pero ¿qué me das a cambio? ¿Cómo sé que me los vas a pagar de de vuelta? Va a ser una tarea difícil, ¿sí? No no no es que Estados Unidos le convenga, es es cómo le va a pagar a Argentina de regreso esa cantidad de dólares que no tiene. Y ojo, hay una estadística.
+
+[Speaker 1 - 00:25:40]
+Parece que sí hay esos dólares, pero está en el mercado negro. Como sabrán los que son argentinos, hay varios tipos de cambio en el black market, entre ellos el blue, etcétera. ¿Cómo cómo hacer que estos dólares se ingresen en la economía real y de ahí que pasen al al banco central y de ahí que estén sustentando a la dolarización. O sea, no no es que le convenga a Estados Unidos, ¿eh? Este, vamos a ver qué medidas se implementa mi ley. Y acuérdense que mi ley está muy cercano a Trump. Entonces, yo no estoy tan tan tan de, este, no estoy tan tan de acuerdo que, a lo mejor, Biden esté muy muy contento en prestar esta ayuda a Argentina, no lo sé, no lo sé. Va a ser una tarea muy complicada.
+
+[Speaker 0 - 00:26:23]
+Interesante, interesante. Para mí como ingeniero no no es algo que que que sea muy lógico. Pero bueno, ya que lo explicas de esa manera, pues sí, ¿no? Está está interesante qué qué es lo que va a suceder por allá, qué vamos a ver. Una otra duda que por ahí tengo yo, de todo este período de de de los últimos 20 años, que les ha ido muy mal, se ha devaluado la moneda increíblemente. Decías tú que es un tema de de de pues de la política monetaria que han estado utilizando, ¿es un tema de impresión excesiva
+
+[Speaker 1 - 00:26:56]
+o no? Sí, sí, totalmente. Acuérdate que que que los los bancos centrales, que no son autónomos, en el caso de Argentina, este, el banco el gobierno federal los utiliza para para aumentar el gasto, ¿no? Y y No son autónomos, allá no es autónomo. No, la verdad, no. Entonces, si tú el si tú como presidente le dices, oye, necesito que imprimas más dinero para para que tenga un déficit fiscal, imprimes más dinero, pero como ya sabemos, si imprimes dinero y no aumenta la producción de bienes y servicios, lo único que haces es generarse inflación. Ejemplo, en México, el Banco de México, por más que el gobierno federal le diga imprime más dinero al Banco de México, te va a decir, no, yo voy a subir o bajar la tasa de subir o bajar la tasa de interés que controla la oferta de dinero en función de la inflación. Punto. Me vale un carajo lo que tú quieras. Y esto es lo más sano porque, pues, obviamente, lo que tú quieres es que la inflación converja hacia abajo para que a los ingresos, que es lo que está pasando en México, algo que se volvió decirles, es que en México este año nos ha ido muy bien, porque los aumentos salariales están muy por encima de los aumentos inflacionarios.
+
+[Speaker 1 - 00:27:58]
+¿Qué quiere decir eso? Pues la gente tiene más dinero real que antes. Se llama más a salario real. Y eso gracias al Banco de México. Porque si los si los si la inflación estuviese por arriba de los aumentos salariales, pues estarías perdiendo dinero, que es lo que pasa en la Argentina. O sea, los lo el aumento de precio es mayor que el aumento salarial, pues cada vez consumes o puedes consumir menos bienes y servicios, que no está pasando en México ahorita. Pero, ¿por qué? Porque el Banco Central de México es autónomo. No está en función de lo que dice el presidente, está en función de la inflación. Y eso desde 1994. Y es un proceso gradual. Acuérdate que en los ochentas en México tuvimos hiperinflación. Se tomaron decisiones importantes en 93 94, que acabaron, terminaron con una inflación de un dígito. Nada más para ponerla en contraste. La inflación de hoy de México, que yo dije que es un dato malo entre comillas, es de 4.3. La inflación en Argentina es de 140 por 100, para que lo tomen en contexto.
+
+[Speaker 0 - 00:28:53]
+Por aquí pregunta el profe, que no estoy seguro si entiendo la pregunta, pero si ves a Argentina como un Silicon Valley, south.
+
+[Speaker 1 - 00:29:02]
+Pues, mira, fíjate que sí, puede ser, este, va va va a depender de de de Pero, ¿por qué? ¿Por qué? Danos un poquito de contexto para que todos entendamos, por favor. Porque Miley es es el Miley está muy muy a favor de de a la atracción de la tecnología. Yo creo que una ventaja que sí tiene Argentina sobre el resto de la región es que tiene mano de obra calificada, sin duda. O sea, Argentina sí se ha caracterizado por, te pongo un dato estadístico, 60 por 100 de la población en Argentina o 50 tiene más 22 por 100 en México. En esa en ese contexto sí tiene mano dura calificada, entonces fácilmente puede atraer empresas que quieran invertir. Y él también, se me olvidó decir algo, él también está a favor de reducir impuestos. Entonces, al momento de reducir impuestos va va a ser muy atractivo para empresas tecnológicas que se posicionen en la Argentina. Digo, creo que entonces en ese contexto, con esas 2 factores, mano de obra calificada y menos impuestos, claro que puede ser atractivo para para que empresas se posicionen en Argentina, claro que sí. Hay muchas
+
+[Speaker 0 - 00:30:03]
+empresas y muchos protocolos y muchas personas trabajando en Web3 allá, me imagino, y quiero suponer por la situación de la inflación, ¿no? Allá un un el bitcoin hace máximos históricos constantemente, por como se está devaluando el peso. Y hay muchas personas desarrollando por allá. De hecho gran gran, pues no grandes, pero de los 3 4 clientes por ahí que hacen transacciones en Latinoamérica y que usan cripto, que por ahí me han buscado, muchos de los desarrolladores de sus productos para web están allá y les pagan con cripto. Entonces, pues sí, definitivamente creo que es un mercado que puede llegar a seguir creciendo y más como tú dices, pues bueno, veamos con el apoyo de Miley. Por aquí subió 7 0 1. No sé si quiere hacer una pregunta sobre el tema de Argentina antes de brincar al siguiente tema. No,
+
+[Speaker 3 - 00:30:47]
+era para comentar el tema de Argentina, que yo yo tengo otra visión. No creo que que sea fácil la dolarización. Creo que mi ley no no va a traer nada bueno a Argentina. Creo que el el el problema no no se soluciona dolarizando ni sin dolarizar. Y creo que que Argentina no no tiene mucho remedio. Era para comentar un poco un poco eso.
+
+[Speaker 1 - 00:31:09]
+No, yo yo dije exactamente lo mismo, dije que era muy difícil dolarizar 100 dólares, y que con un déficit con déficit gemelos, pues es complicado, eso
+
+[Speaker 3 - 00:31:18]
+yo yo no dije nada nada fuera Bien, abre un mes. Me me, jolín, como el otro día decías que Estados Unidos va muy bien y Estados Unidos tiene mucha más deuda que Argentina, hemos pensado que dijeras que Argentina estaba quebrado.
+
+[Speaker 1 - 00:31:30]
+Que no tiene nada que ver la deuda. O sea, estamos hablando de cosas distintas. Estamos hablando del sistema monetario. Tú estás hablando de deuda. O sea, es que de nuevo confundes política fiscal con política monetaria. ¿De qué hablas? ¿Qué tiene que ver la deuda?
+
+[Speaker 3 - 00:31:46]
+No, no era, no lo decían, no decía, bueno, ¿qué tiene que ver el nivel de endeudamiento? ¿Por qué quieres por qué quieres empezar el debate? Pero no, si tú dices que una entonces tú como mides en un país está quebrado, funciona bien. Tiene una deuda una deuda pública y una deuda per cápita. Es que es que, a ver, es que hay que entender, es que, a ver, sí, agua, hay que
+
+[Speaker 1 - 00:32:06]
+entender que el el el el nivel de endeudamiento está en función del déficit, pero el déficit primario, no el déficit secundario. Es decir, cuando tus ingresos son mayores a a tus gastos, tienes ahorro para sus solventar el costo financiero. Ahí no tienes problema de endeudamiento. Y segundo, son 3 factores, es que parece de economía básico, pero bueno, va de nuevo. Y yo te lo había explicado muchas veces
+
+[Speaker 0 - 00:32:28]
+No, pero ayuda, eso ayuda. Yo lo voy a ingeniero, no le sé, güey. Mira, debo debo hacer un poco todo. Ahora el nivel el nivel el nivel de el nivel de endeudamiento
+
+[Speaker 1 - 00:32:37]
+está en función de 3 factores. Pon atención 7 0 1. Apúntalo para que ya no se te olvide, compadre. Mira, número 1, es el monto. El monto, pero no el monto total, en lo absoluto, es el monto relativo. ¿Qué significa eso? Un monto que relaciona la producción. Por eso se mide en términos de producto interno bruto. Y me voy más básico, parece que que que no se entiende las conceptos muy básicos. Producto interno bruto significa todo lo que produce el país, ¿sí? Y eso se transmite o es sinónimo de riqueza, porque lo que se vende se consume, ¿sí? Lo que se vende, pues, son ingresos. Entre más vendes, pues, más producción, más empleos, etcétera. Por eso se mide la riqueza en función de la producción de bienes y servicios. Número 1. Bueno, ahora, segundo, es el el el uso de esa deuda. No es lo mismo gastar que invertir. Si tú inviertes una gran parte de ese endeudamiento, vas a generar más riqueza o más producción a largo plazo. Si generas más producción a largo plazo, vas a generar más empleos y más ingresos. De esos más ingresos vas a recolectar más impuestos. Y con esos más impuestos vas a solventar más el gasto público y tu déficit puedes tener superávit primario.
+
+[Speaker 1 - 00:33:43]
+¿Sí me explico? Superávit primario, ¿qué significa? Ingreso menos gasto. Y te queda el sobrante para disminuir el nivel de deuda. No sé si me estoy explicando, es que son conceptos sumamente básicos. El último, el tenedor de deuda, no lo mismo la deuda extranjera que la deuda local. 70 por 100 de la deuda de Estados Unidos es local. ¿Qué quiere decir eso? Que los mismos americanos en el 401K, que es el fondo de ahorro de las empresas, tienen la deuda americana. Entonces, los mismos impuestos o las mismas tasas de interés que te dan, las utilizas o las pagas o las consumes en el mismo Estados Unidos. Es un círculo virtuoso. Japón tiene un caso similar. El país más endeudado del mundo es Japón, 226 por 100 del PIB. Pero eso quiere decir que es un país pobre o tronado, eso es un concepto totalmente absurdo. ¿Por qué? Porque el 90 por 100 de la deuda japonesa lo tienen los mismos japoneses. Entonces, es un círculo virtuoso. Sí, no sé si me estoy explicando. Y por último, obviamente los plazos. No es lo mismo que la deuda te vencen 10, 10 meses, 3 días, o 3 o 20 años.
+
+[Speaker 1 - 00:34:43]
+O sea, tienes que tener programa de vencimientos para tener una sostenibilidad en el nivel de endeudamiento. Es Argentina sí está muy endeudado porque su nivel de producción del PIB, pues no es positivo. De hecho, lleva años de de de un declive de productividad. Con lo cual su nivel de endeudamiento es insostenible. Por eso su nivel de calificación crediticia es c o triple c. ¿Qué quiere decir? Que la posibilidad de de de repago, pues, es mucho menor. Estados Unidos, su nivel de calificación es doble a, las lo acaban de reducir de triple a doble a, pero aún así, a significa otra vez conceptos muy básicos, pero que tiene la capacidad para pagar su deuda, que no tiene en estos momentos problema alguno para el repago de deuda. Tan es así que Estados Unidos emite deuda y se acaba, se consume en un santiamén, y más en un episodio o episodios donde hay conflictos geopolíticos. Yo es que ya no sé qué más puedo decir para explicar por qué hablo de política monetaria y me sacan la deuda, que es política fiscal. Señores, vamos al libro de texto, pero básico, antes de de hacer este tipo de preguntas.
+
+[Speaker 1 - 00:35:45]
+Gracias.
+
+[Speaker 0 - 00:35:53]
+Jesús, muchas gracias. La verdad, a mí sí me ha ayudado mucho estas pláticas. La verdad, yo tengo 0, 0, 0 entrenamiento en mi educación sobre economía. He leído mucho últimamente, y también esas pláticas me dan dirección sobre qué investigar. Sé que CT 0 1 piensa, y constantemente lo menciona, que el sistema fiat es un fraude, que es un scan, que es un Ponzi, no le gusta en lo absoluto. Dice que vive 100 por 100 con bitcoin. Yo creo que sí es posible en este momento, este, pero bueno. También subió acá don Pepe, don Pepe y Jesús. Por ahí ya mejoró la relación. ¿Cómo cómo va? ¿Qué opinas don Pepe?
+
+[Speaker 4 - 00:36:31]
+¿Qué onda, qué onda, cómo andan? Este, no, nada más quiero unos comentarios acerca de Miley. Este, he escuchado, visto mucho en redes últimamente, mucha desinformación. Este, pues obviamente los de la izquierda también le tiran mucho, este, mucha gente ni siquiera sabe qué es el de qué va el libertarianismo, el narcocapitalismo, este, pues nada más aclarar ciertas cosas, este, mi ley no es de derecha ni de ultraderecha y mucho menos neoliberal. También hay muchos mitos, este, mucho menos neoliberal. También hay muchos mitos, este, cosas sacadas de contexto. Él jamás ha propuesto un mercado de venta libre de de órganos, como eso fue propaganda de la oposición, este, durante las campañas. Igualmente jamás ha propuesto, este, bitcoin como moneda de curso legal, de hecho no sabe mucho del tema de bitcoin, de Blockchain, De hecho, lo han durante campaña anduvo, este, ¿cómo se dice? Un advertising, este, cosas que eran como scans relacionadas a cripto, que, pues, le pagaron obviamente por eso y él no sabía el tema y después se disculpó.
+
+[Speaker 4 - 00:37:39]
+Tampoco habló de la dolarización solamente así nada más. Él habla de libertad monetaria y, obviamente, como el dólar ahorita es el más usado en en Argentina, pues probablemente vaya a ser el dólar, pero no habla precede de de que solamente el dólar sea moneda de curso leal. Él habla más bien de de libertad monetaria y pues obviamente ahí entraría bitcoin y todo lo que tú quieras, hasta Pepe Coin si te gusta. Este, y nada, pues invitar a la gente que que escuche mi ley, que se puedan a ver videos de él, este, dice muchas cosas interesantes, este, y y pues sí, to your on research no se dejen llevar por por la propaganda.
+
+[Speaker 1 - 00:38:24]
+Ahí la les acabo de poner en un artículo del CNN en donde viene lo de venta de órganos. Digo, es sé que es controversial, pero ahí dice que él sí lo dijo en un debate. Entonces, te lo dejo ahí, ahí está pineado, el CNN. Yo creo que es mejor ir a la fuente directa de eso salió de un video que que le preguntaron cuál era su
+
+[Speaker 4 - 00:38:42]
+opinión acerca de ese tema, pero es muy diferente su opinión como, este, libertario Ancap a que quiera proponer eso.
+
+[Speaker 0 - 00:38:53]
+Muy bien. Oigan, ¿qué tanto poder en realidad va a tener? ¿Qué tanto va a poder hacer? Por ahí he leído que no tiene soporte de las cámaras, no sé.
+
+[Speaker 1 - 00:39:02]
+Ese es buen punto. Parece que tienes razón y que no tiene mayoría en la cámaras. Este, yo creo que va a ser limitada la la el la maniobra que que pueda hacer. Lo lo lo lo difícil de esto es que si fracasa, que es lo más probable, porque Argentina es un caso de de una declive de décadas que va a ser muy difícil. Acuérdate que es muy es muy difícil estabilizar un país, pero es muy fácil destruirlo, ¿no? Este, que si no, que si fracasa Miley va a llegar otra vez la izquierda, pero con más potencia, con más poder, ya completamente a destrozar la Argentina, a hacerla una Venezuela, ¿no? Entonces, ojalá no fracase porque, pues, creo que es la última oportunidad que tiene Argentina de corregir su rumbo, pero, pues, veremos.
+
+[Speaker 0 - 00:39:50]
+Bueno, pues gracias a don Pedro por subir aquí y dar sus comentarios. Yo sí voy a estar al pendiente del tema. Sí quiero ver a ver qué pasa con con con el buen Miley. 7 0 1, adelante.
+
+[Speaker 3 - 00:40:00]
+No, yo me sorprende que no me hubieras dejado antes, Réplica Jesús, porque tiró 3 minutos y no dijo nada, ¿sabes? Yo me Porque es curioso que siempre que entro, digo un par de frases y me cortes, se da una chapa de 5 minutos y no entiendo nada. Como no tengo estudios, me cuesta
+
+[Speaker 0 - 00:40:16]
+me gusta, por favor, no me interrumpas. Déjame acabar un minuto, por
+
+[Speaker 1 - 00:40:21]
+favor.
+
+[Speaker 0 - 00:40:22]
+Mira, un un minuto solo.
+
+[Speaker 3 - 00:40:25]
+Mira, un minuto solo, tú me, perfecto. Yo entiendo tu visión, que habrás estudiado y demás. Pero mira, la realidad es que Estados Unidos tiene mucha más deuda que Argentina. Por por persona Pero pero, por favor, creo que has estudiado, te enseñaron a respetar el turno de palabra, amigo. Mira, en Estados Unidos, el país que tanto te gusta, que dices que la economía funciona general, mueren 45000 personas por no poder pagarse la asistencia médica. Tiene más deuda que Argentina. Desde que el dinero fiat no está respaldado en el rubro, es un scan del libro, yo no puedo entender cómo gente que se prepara, son periodistas financieros, gente que se dedica a la economía, no puede comprender lo más fácil, que es que el dinero no está respaldado en nadie. Y cuando no está respaldado en el patrón oro, deja de tener valor. Por eso el dólar ha perdido el 95 por 100 de su valor. Por eso Eso es totalmente falso. Perdón que te interrumpa, por eso es totalmente
+
+[Speaker 1 - 00:41:19]
+falso. Mira, primero, y es que lo he repetido muchas veces, va de nuevo, pon atención y te te invito a que lo escribas. Porque porque no es posible que me repitas lo mismo constantemente. El dólar y como todas las monedas del mundo pierden valor, porque existe algo que se llama inflación. Pero lo que tú tienes que observar es que hace 50 años la gente que ganaba 50 dólares no es la no gana los mismos 50 dólares hoy. Claramente los aumentos salariales están ligados con la productividad. No es la primera vez que te lo digo de nuevo. Entonces, obviamente, oyen, no sé, ganan 2000 dólares, no 50. Claramente, el dólar de hace 50 años valía más que un dólar ahora, pero la gente no gana 50, gana 2000. Pero lo que tú tienes que ver es que este aumento salarial va por muy por encima de los aumento de precios. Entonces, ¿qué quiere decir? Que la gente consume más bienes y servicios que antes. Eso se llama riqueza. Es que no es la primera vez que lo vivo. Y de nuevo, el nivel de endeudamiento, ¿qué tiene que ver con el Fiat? Estás consumiendo política monetaria con política fiscal, dios mío. No es que yo esté, es cuestión básica de economía.
+
+[Speaker 1 - 00:42:21]
+Me voy muy básico libro de texto. Hay 2 tipos de políticas económicas. La política fiscal, que tiene que ver con gasto de gobierno y endeudamiento, y la política monetaria, que tiene que ver con la cantidad de dinero en la economía. Son 2 cosas distintas. O sea, no entiendo qué tiene que ver el nivel de cantidad de dinero con el de endeudamiento. Para que me entiendas, el banco central controla la oferta de dinero a través de las tasas de interés. El nivel de endeudamiento se decide en el congreso de la unión y es política federal. Se se vota en el congreso de la unión. No tiene nada que ver una cosa con la otra. Es que no no entiendo nada que ver una cosa con la otra. Es que no no entiendo de qué me estás hablando. Y ya expliqué, creo que no quedó claro, que a nivel de endeudamiento por sí solo no es malo. Son factores que hay que considerar antes de decir que a nivel de endeudamiento es malo o bueno, ya lo dije. Japón, por ejemplo, tiene 2.5 veces a nivel de endeudamiento de Estados Unidos y no es una economía tronada. Lo que dices es totalmente falso. ¿Por qué? Porque tiene que ver el plazo, tiene que ver el uso, no es lo mismo gastar que invertir, tiene que ver quién es el tenedor de esa deuda, si son extranjeros o locales.
+
+[Speaker 1 - 00:43:29]
+Pero es que ya lo repetí. No entiendo cómo no entiendes.
+
+[Speaker 0 - 00:43:38]
+Ahí
+
+[Speaker 1 - 00:43:42]
+no. Claro, o sea, digo, no no sé si estoy hablando mal castellano, a lo mejor alguien está está hay hay un bot que me está cambiando el idioma ruso, no sé, Porque es cierto que estamos hablando el mismo idioma,
+
+[Speaker 0 - 00:43:56]
+¿no? Ahí 7 0 1 no no no tengo yo el control para la buena.
+
+[Speaker 3 - 00:44:01]
+Pues, me parece me parece una falta de respeto terrible que en mitad de darme argumento vuelvas otra vez a cerrarme el micro y a dar la chapa.
+
+[Speaker 1 - 00:44:08]
+Tú, tú tú a a vender Es es que no podemos permitir tanta
+
+[Speaker 3 - 00:44:14]
+desinformación. A ver, es evidente, pero si el otro de Edgar reserva federal era un organismo público, si cualquiera sabe que Totalmente, ¿cómo puedes decir? Déjame hablar, por favor. Yo te dejo a ti hablar tranquilamente. ¿Por qué no escuchas a los demás? Tienes un problema. ¿Cómo? El que no tienes comprensión, el estudio te escucho y tú no me escuchas. ¿Por qué? Pero pero es que apunta. Cuando cuando me escuches, apunta, porque me preguntas lo mismo y todo No, pero no es que te pregunto lo mismo, es que es que te digo, un argumento que es que es lógica, que hasta un niño de 3 años lo entiende, que cuando tú imprimes algo que no está respaldado en nada, YYY echas papelito.
+
+[Speaker 1 - 00:44:47]
+Otra falsedad, claro que está de dinero. Es que chingao, es que ya es frustrante. El que no esté respaldado es Venezuela. Si tú imites dinero, y otra vez me voy a ir muy básico, no está respaldado por nada, pues entre más dinero emitas, lo único que va a pasar de los pocos bienes y servicios que tenga. Lo lo voy a simplificar para un niño, un niño de kínder garden, para que ya se entienda. A ver si ya por eso ya terminamos esta, perdón, por esta esta estupidez. Mira, tengo 5 automóviles, 5 automóviles, ¿ya? 5 automóviles. Sabes que son los automóviles, ¿no? Se utilizan para la movilidad, ¿sí? Tenemos 5 automóviles. Yo cada tenemos 5 personas, 5 automóviles, 5 personas. A cada una de las personas le doy 10000 pesos, ¿sí? ¿Qué pasa? El siguiente año solamente tengo 5 automóviles, pero a cada una de las personas les doy 20000 pesos. ¿Qué crees que está pasando en esa economía? Claramente, lo único que estoy pasando es que el automóvil aumenta de precio, aún y cuando yo le dé más dinero a las personas. El siguiente año, le doy 30000 pesos a cada persona. ¿Qué pasa? ¿Qué crees que está pasando con esa economía?
+
+[Speaker 1 - 00:45:50]
+Pues los precios de los automóviles suben, Y así sucesivamente, ¿sí? Entonces, digo, lo estoy viendo para un niño de kíndergard. Eso es Venezuela, ¿sí? Estados Unidos no pasa eso, ¿por qué? Porque en Estados Unidos, en vez de tener 5 automóviles, el siguiente año tengo 10. ¿Qué crees que pasa si yo te doy 10000, pero al año siguiente hay 10 automóviles, solamente 5 personas? Como hay más competencia, bajan los precios, se llama productividad, ¿sí? Entonces, por más dólares que yo imprima, si yo aumento la productividad, que está en función del crecimiento económico, lo único que voy a hacer es voy a compensar el nivel de oferta monetaria con nivel de productividad. Eso es muy básico. Entonces, no, en Estados Unidos por eso no hay hiperinflación, por eso la inflación está en 3.5, y por eso en Venezuela está en 200. Es muy evidente, es muy obvio. Entonces, no, no es cierto lo que tú dices, es totalmente falso.
+
+[Speaker 0 - 00:46:44]
+Jesús, vamos con Benito y luego veamos si podemos comer. Espérame tantito entonces, espérame. Me toca a mí, me toca a mí callarte, perdón. Perdón, no me gusta hacerlo, pero sí quiero quiero ver si puedo convencer a Jesús de de de que al menos un minutito contado pueda mantener la la el mute sin picarle al botón y que te deje hablar. Pero mientras lo piensa, vamos con Benito. Este, ahorita te damos chance de hacer 1, déjame ver qué puedo lograr con Jesús. Yo puedo controlar el mute de todos los speakers, pero no le puedo controlar el mute a Jesús, ni quiero hacerlo. Para eso está aquí como Cojos. Échale, Brito.
+
+[Speaker 6 - 00:47:25]
+Buenas, buenas. Tengo una pregunta para Jesús. Javier Miley fue muy contundente en comentarios, en debates, etcétera, que quiere explotar el banco de Banco Central de Argentina. ¿Es eso factible? ¿Se puede? ¿Lo puedo hacer? ¿Qué implicaciones tendría?
+
+[Speaker 1 - 00:47:50]
+Ya, que creo que ya lo expliqué hace rato, pero es muy es muy difícil. El hecho de de que quieras dolarizar la economía, necesitas dólares. Cuando tienes déficits, sobre todo déficit, déficit fiscales, es muy complicado. Entonces, va a ser un, ahorita Argentina tiene solamente 30000000000 de dólares en sus reservas de dólares. No es suficiente, necesitarías ampliar una línea de crédito con la reserva federal, inundar el mercado de dólares y después, pues, eliminar el Banco Central y dolarizar la economía. Yo lo veo muy complicado. Más no Bien.
+
+[Speaker 0 - 00:48:27]
+A ver, tiene
+
+[Speaker 1 - 00:48:28]
+Si se logra si se lograra, ¿qué implicaciones tendría? ¿Sería algo bueno o malo? Buenísimo, porque eliminarías ya la la inflación, la hiperinflación que tiene Argentina. Yo creo que en el corto plazo sería muy positivo. Dudo mucho que se pueda hacer.
+
+[Speaker 0 - 00:48:44]
+Benito, suena suena suena a conocer tu voz, pero bienvenido. Escipión, por aquí subió también, este, antes de que piense, para que le demos un poquito más de tiempo a Jesús, a ver si le permite un minutito a 7 0 1 sin interrupciones. Escipión, adelante.
+
+[Speaker 7 - 00:49:02]
+Hola, pues se puso bueno el el debate, este, yo tengo poco metiéndome aquí a los espacios y participando. La verdad es que estoy escuchando ahorita lo que lo que decía Jesús y creo que es una opinión bastante técnica y y obviamente denota que que conoce el tema. Creo que, este, es peligroso lo que se lo que se busca hacer allá en en en Argentina. No nada más en el sentido de de toda la política en Argentina. No nada más en el sentido de de toda la política monetaria que que, sin duda, pues, los expertos lo podrán, este, discernir mejor. Pero, pues, el hecho de de de políticamente la las cuestiones que están, este, planteándose en Argentina, me están, este, planteándose en Argentina me preocupan en específico, este, los lo los las conexiones políticas que eso pudiera tener en en Latinoamérica. Este, creo que hay un gran despertar ahorita, lo veo en El Salvador, con Bukele y con el bitcoin. Este, mucha gente hablando de bitcoin también, muchos políticos subiéndose al tema por un tema más que nada de atracción.
+
+[Speaker 7 - 00:50:09]
+O sea, veo mucha gente mencionando Blockchain y mencionando bitcoin en política sin tener idea realmente de las de las cosas. Este, incluso aquí en México, este, he notado algunos actores políticos que que hacen eso. Y y pues bueno, voy a desde mi perspectiva seguir de cerca lo que lo que esté pasando en Argentina, como mero observador para poder determinar pues qué qué qué futuro pudiese, este, vislumbrarnos en México. Esa sería básicamente mi opinión y gracias por por escucharme y por el debate. Gracias a todos.
+
+[Speaker 1 - 00:50:44]
+Oye, sí, te muevo la aportación, yo te diría que que a diferencia de Argentina y tenemos que estar contentos que nosotros tenemos una política monetaria autónoma que relativamente funciona muy bien y y eso está reflejado en las bajas tasas de inflación que tenemos hoy en día. Este, la estabilidad de la moneda, diferencial de tasas entre México y Estados Unidos obviamente está trayendo capitales. Entonces, de las pocas instituciones yo creo que funcionan muy bien y desde hace un par de décadas, pues es el banco central. Entonces, eso de que otra vez el tema de que el Fiat no funciona. El Fiat no funciona en algunos países que lo implementan mal, pero en otros países que lo implementan adecuadamente, claro que funciona y México es un caso de éxito. Entonces, yo te diría es es una un un mensaje, no solamente México, ¿eh? Brasil también, el real brasileño ha funcionado muy bien. De hecho, Brasil ya está recortando interés, porque la tasa de inflación ya ya tiene una tendencia claramente a la baja. Entonces, no todos los países están mal, ¿no? No no es que todo ese comentario de el es que el Fiat está mal, es totalmente absurdo.
+
+[Speaker 1 - 00:51:45]
+En algunos países sí, en otros no, hay que ser objetivo. Si haces bien tu chamba, pues te va bien, si haces mal tu chamba, te va mal. Pero estos absolutistas, pues estás adoctrinado por ideologías de YouTube que ven ahí en Tik Tok y bueno, no quiero entrar en detalle. Pero tienes toda la razón. Este, en Argentina, híjole, va a ser muy complicado porque vienes de una tendencia a estatizar, de a estatizar la economía, de que el el gobierno controla todo, oferta de dinero, este, la producción de bienes y servicios, el aumento, la la la el aumento salarial. Y de repente tienes a un tipo que te dice, no, el aumento salarial tiene que ir en función a la productividad. El el la oferta monetaria debe de ir en función a la inflación. O sea, es otra mentalidad completamente distinta. Y y fíjate, Jesús que,
+
+[Speaker 7 - 00:52:29]
+fíjate, te interrumpa, a mí me parece importante de algo dijiste ahorita, Edgar, las las ideas radicales, ¿no? O sea, en el cual, este, fíjate es una estafa y hay que luchar contra la estafa y ese es el tema de cripto, ¿no? O sea, yo soy fan de cripto, me gusta el cripto, me gusta el Blockchain, me gusta la tecnología que puede aportar, pero creo en un mundo que puede coexistir. En el en tanto en una en un esquema Fiat con las ventajas después que pueda tener el cripto para la ciudadanía. No veo por qué una idea, este, tenga que estar enfrentada completamente con la otra.
+
+[Speaker 1 - 00:53:04]
+No, totalmente de acuerdo. Yo por eso personas que dicen es que el fiat está mal. No, y y lo que yo siempre dije, van a coexistir. Eso nunca nunca dije que no, ese es ese era evidente que iban a coexistir. Pero obviamente los países, ningún país en su sano juicio va a dejar la política monetaria a un algoritmo, sería absurdo. Tú lo que tienes que tener como país es el control de la cantidad de dinero para monitorear la inflación. Entonces, en ese contexto, pues no vas a permitir que un un fenómeno externo te controle la cantidad de dinero que que entra y sale a tu país. Es el el problema que tiene ahorita Argentina con el tema de los dólares, ¿no? Este, bueno, pero bueno, coincido contigo y y lo que va a suceder, y qué bueno, que en la Argentina va a haber bitcoin, va a haber Pepe, va a ver lo que tú quieras, porque este señor es libertario, pero también la política monetaria también él él entiende que tiene que controlar para bajar la inflación. Y para eso, pues sabe que una moneda que lo puede hacer, pues es el dólar, ¿no?
+
+[Speaker 0 - 00:54:04]
+Oigan, se está poniendo muy buena la plática. Ahorita le vamos a dar un minutito, a ver si Jesús nos permite, 7 0 1. Tengo, lamentablemente, 15 minutos o media hora máximo, porque hay un evento acá con el enano, 1 de los enanos. Si gusta, los puedo dejar aquí. Pero bueno, sigamos. Al menos es todo. Sí les quiero avisar desde ahorita que que que que probablemente tenga que cerrar un poquito más temprano de lo común para que, pues, vayan, pues, dando sus opiniones con ese con esa información. Vamos de nuevo con Benito y luego con Jason. Y luego vamos con 7 0 1, Chaps. ¿El profe también subió yo? Tratemos de ser un poco breves.
+
+[Speaker 1 - 00:54:42]
+Gracias.
+
+[Speaker 6 - 00:54:46]
+Hubo 1 de los bueno, mi ley es un populista, no no creo que ahí todos podemos estar de acuerdo. Y 1 de los comentarios que ha dicho es que va a cortar toda relación con los países comunistas. ¿Crees, Jesús, que eso sea posible cortar todo lazo con China? Que, bueno, ya para empezar ya ya no cumplió porque ya escribió incluso un tuit acerca del presidente China, pero ¿crees que sea posible y qué implicaciones tendrías si si decide tomar esa medida de cortar todas las relaciones con con China?
+
+[Speaker 1 - 00:55:29]
+Te te contesto, nunca es sano cortar relaciones con nadie. De hecho, YYY se contradiciría con su política de liberalismo, porque el liberalismo económico es es libertad y y entre más comercios con más países mejor, porque inundas al mercado con más bienes y servicios, reduces costos de transacción y aumentas la cantidad de oferta y competencia, con lo cual reduces precios. Entonces, se contradiciría. Primero, segundo, tienes una potencia del estado. Con todo el mundo. Diciendo lo que debías hacer. Este, segundo, obviamente China es un participante importante geopolítico y económico. Y para Argentina recientemente. Entonces, lo que debiese hacer, pues estrechar lazos con todos. ¿Sí? Y ya sea China, Estados Unidos, lo que tú quieras. Y por su naturaleza libertaria, sería, pues, hacer lo más la mayor cantidad de tratados de libre comercio entre todas las naciones. Eso sería el el argumento ideológico. No hace sentido cortar relación en ese contexto porque, pues, estaría contradiciendo sus políticas incluidas o comerciales, ¿no?
+
+[Speaker 1 - 00:56:34]
+O de de ideología. No sé si lo dijo en campaña, pero a la mera hora que se dé cuenta que tiene, pues, es un actor Estados Unidos, ni siquiera Estados Unidos ha cortado relación y jamás lo va a hacer, por lo mismo, que que los 2 dependen de su coexistencia de ambos, ¿no? Entonces, no no creo que sea lo lo lo lo coherente con inclusive con su ideología, ¿no? ¿No? Vamos con Jason.
+
+[Speaker 8 - 00:57:01]
+Sí, este, bueno, varias cosas. Que inicianismo está muy fuerte en esta conversación. Básicamente el punto aquí es de que yo sí confío más en un algoritmo a a un político o a una persona humana que toma decisiones. Eso eso creo que mi computadora me lo me lo, ¿cómo se llama? Confirma todos los días. El error humano es grande y usualmente las decisiones representativas no son las de las que haría la gente común. Entonces, todo este, ¿cómo se llama? Armado de confianza, pues, realmente es es muy endeble, ¿no? Yo sí pensaría de que un un organismo o un algoritmo que pudiera ver lo que algoritmos, que es el que te dice si tienes crédito o no tienes crédito. Si tú vas a un banco tradicional, ya las personas ahí nada más están para recibirte documentos y enviarlos, y el algoritmo te va a decir a qué nivel de crédito calificas. Entonces, ellos ya confían en algoritmos.
+
+[Speaker 8 - 00:58:03]
+No veo por qué un país no lo puede hacer. Bueno, eso es por un lado. El otro lado es que también creo que el el el FIAT es estafa. Definitivamente, un papel moneda que se imprime a discreción, pues carece de valor. O sea, tú me puedes decir de que hay oro en y eso es un un chiste ongoing shoke, ¿no? Que hay oro en en en Fort Knox, ¿no? ¿Por qué? Porque básicamente como no nadie lo puede comprobar, entonces ya se volvió un chiste como puede haber todo lo que dicen, como puede haber 0. ¿Por qué? Porque el respaldo ya ya es realmente un un intangible, ¿no? Es realmente está basado en la confianza. Si tú confías que hay oro, hay oro. Si no confías que hay oro, pues no va a haber. ¿Y qué pasa? De que, bueno, lo lo más probable es que no haya. Y y el otro lado es, pues, el sistema del Elixir en Argentina, y hablando más específicamente, Miley, Miley dijo que ellos ya tienen el dinero, ya tienen los dólares, tiene los fondos capitales, después se meter dinero.
+
+[Speaker 8 - 00:59:12]
+¿Viste la reacción en los mercados, en el Merval, con las empresas que pudieron rebotar ante la noticia, que tampoco es una bolsa, ¿no? Como sube, como puede bajar. Así que definitivamente el capital sí existe, los dólares sí existen, y la mayoría de la gente está ahorrando en dólares. Entonces, realmente el dólar existe, simplemente no está contabilizado porque no está blanqueado porque, pues, aún en Argentina era ilegal tener dólares hasta cierto punto. Era un una acción que cualquier persona política se le podía perseguir políticamente por ese camino, porque legalmente era ilegal, pero en, pues, lo permitían. Pero, pues, es como un arma, ¿no? Que tienes con una persona. Eres ilegal por default, simplemente no te vamos a acusar hasta que tengas algo que ver con nuestros intereses. Entonces, definitivamente todas estas cuevas que hacían el el trueque por por por dólares, pues operaban con la mayor parte de la población, y la mayor parte de población, por lógica, ahorraba en esos en esos montos.
+
+[Speaker 8 - 01:00:24]
+Así como las compras mayores, como si es una casa, si es un automóvil, todas se hacían en dólares. Entonces, ¿qué pasa? Que bueno, ahí te das cuenta que la sociedad ya opera en dólares. Que digas que no tienes dólares es una incoherencia, porque la la economía completa opera en dólares. O por lo menos es Te te contesto te contesto te contesto de atrás para
+
+[Speaker 1 - 01:00:53]
+adelante. La el banco, yo dije, el banco central no tiene dólares, y para dolarizar tú necesitas incorporar esa cantidad de dólares en el sistema monetario. Mientras no de nada te sirve que los dólares no los tengas tú, porque no tienes el respaldo de emitir la moneda que va a estar respaldada en dólares. Primero, si los dólares sí están, sí, estoy de acuerdo contigo, pero no están en la banca central. Y mientras no esté en la banca central, tú no puedes dolarizar una economía. No puedes. ¿Y los fondos de inversión? Por eso, necesitas incorporarlos en la banca central. O sea, a ver, a ver si se entiende, otro concepto muy básico. Cuando tú intercambias dólares en una economía, ¿sí? Tú vas a la casa de casa de cambio, perdón, es que es un poco repetitivo todo esto, tú vas en la casa de cambio y tú cambias pesos por dólares, esos dólares que tú necesitas los pides al banco central, ¿sí? Porque así controla la oferta de dinero, otra vez es muy importante la oferta de dinero. Pero si no tienes ese control, pues no puedes dolarizar, es imposible. Por más que haya dólares en la economía, en el mercado ilegal o black market, de nada te sirve eso.
+
+[Speaker 1 - 01:01:55]
+Lo que tienes que incentivar es que la gente deposite esos dólares en el sistema financiero. El sistema financiero, por naturaleza, los va los va a depositar a la Reserva Federal, digo, el Banco Central. Número 1. Número 2, te contesto, el Fiat, que no sirve para nada, es una estafa falso, no está respaldado por el oro, eso es falso. Desde 1972 no está respaldado por oro, se llamaba Bretton Woods. De hecho, al momento que estuviese por oro, cuando tú aumentabas tus exportaciones y disminuías tus importaciones, había un superávit comercial, generaba inflación porque atraías más oro. Cuando tú tenías un déficit comercial, cuando te importabas más de lo que exportabas, atraías tenías menos oro, disminuías la actividad económica, porque tenías menos oro en la economía, porque gastabas más oro para importar. Entonces, obviamente no era funcional que tu moneda esté respaldado por un una commodity. Eso se sabe desde 1972. Desde ahí era más funcional que la moneda estuviese respaldada por la actividad económica y sobre todo por los impuestos, que se la cobro de impuestos. Así como tienes un alto nivel de endeudamiento el día de mañana, el 90 por 100 de la economía americana es formal, pues aumenta los impuestos, o sea, se acabó, tienes un superávit fiscal, ya no tienes bronca, puedes pagar o reducir el nivel de endeudamiento de la noche a la mañana, no pasa nada.
+
+[Speaker 1 - 01:03:09]
+Y el primero, cuando hablé de algoritmos, obviamente, yo sé que hay algoritmos, A lo que me refería es el algoritmo de bitcoin, que cada x número de años hay un halving. Pero, obviamente, los bancos centrales tienen sus propios algoritmos para tomar decisiones. Está la regla de Taylor, está la curva de Phillips, y cada vez hay modelos econométricos que seguían por a través de algoritmos, de machine learning. No me refería a eso, obviamente me refería a que no podemos permitir que un algoritmo que nada más va, lo único que va a hacer es cortar la cantidad de bitcoin, dicte la política monetaria cuando debiésemos tener, no 1, sino muchos modelos para establecer la tasa de interés idónea para controlar y monitorear la inflación. Es lo que me refería.
+
+[Speaker 0 - 01:03:55]
+Ay, Jesús, de la verdad no es que no lo puedas o lo o lo no es que no lo podamos permitir, es algo que ya está y y que no se puede modificar, ¿no? Nada más hay un punto. Me gustaría ir con Chaps, el fan número 1 del buen Jesús. Por ahí creo que hay un una relación bastante interesante. Vamos a ver qué opina el buen Chaps. Échale Chaps.
+
+[Speaker 5 - 01:04:19]
+-Jesús Hola. Bueno, estoy de acuerdo en muchas de las cosas que dice Jesús, pero creo que para poder entender lo que pasa en Argentina y particularmente en la economía, o sea tienes que ser argentino, vivir en Argentina o tener una pareja argentina, que es mi caso. De hecho estuve cuando fueron las elecciones en Argentina, acabo de regresar hace poco. Es muy difícil y muy complejo todo lo que pasa allá. Respondiendo lo último que comentaron, sí, todas las operaciones en Argentina se mueven en efectivo. Tú vas y compras una casa tiene que ser en efectivo, en dólares. La economía informal, por decirlo de esta manera, está en dólares, pero son dólares que como bien dice Jesús, no entran al banco. Entonces por eso sería muy difícil dolarizar la economía. Pero no era eso lo que quería comentar. Yo creo que el problema que pasó en Argentina, y lo digo porque estuvo ahí cuando fueron las votaciones, y es algo que está pasando en México y que creo que es lo grave de todo esto, es que estamos cayendo en un momento en el que estamos votando por el que es el peor candidato y no hay realmente como alguna opción importante o interesante, o alguien que proponga alguna situación de valor o cambio a lo que está sucediendo, no sólo en políticas económicas, sino a todo lo que está afectando a los diferentes países.
+
+[Speaker 5 - 01:05:46]
+En el caso de Argentina, había 5 candidatos, hicieron la primera elección, tuvieron que ir al balotage, y después de eso platicabas con la gente en la calle y era bueno, voto a masa, que es K y es narcotraficante, está ligado al narcotráfico, ya es secretario de hacienda, ya le llaman ministro de economía, no hizo absolutamente nada en política monetaria y ahora dice que va a cambiar, o voto por Miley, que es como la única opción que tengo. Voto por Guatemala o por Guatepeor. Al final, traduzco a México, es en lo que estamos, ¿no? Tenemos 3 candidatos que de los cuales creo que no se hace ninguno, y al final eso es lo realmente grave, que nos están obligando a votar por la misma porquería de siempre, y bueno, nada más. Gracias.
+
+[Speaker 1 - 01:06:37]
+No, muy buenos comentarios. Justo lo que te decía de de que los dólares no están en el sistema financiero, ese es el problema. Yo sé que que casi todos es en dólares. De hecho, hay 4 tipos de cambio, el mercado black market, el blue, lo que tú quieras. Pero ¿cómo incorporas, cómo obligas o incentivas que la gente los incorpore al sistema monetario? Si también sabe que cada x periodo de tiempo puede entrar a la izquierda otra vez y se puede devaluar su moneda o te pueden intercambiar tus dólares por pesos devaluados en un futuro. Va a ser muy difícil. Rápido,
+
+[Speaker 5 - 01:07:09]
+perdón que te interrumpa. Es que ese es el principal problema. En Argentina la gente no cree en el sistema financiero. Ellos hace 15 o 20 años tuvieron un episodio que le llaman el corralito, en el cual aplicaron la de Not Your Keys, Not Your Money y la gente que tenía el dinero en el banco lo perdió. De hecho mi novia trabajaba en un banco en ese entonces y tuvieron que cerrar el banco y la gente estaba afuera casi prendiéndoles fuego. Entonces por eso la gente no cree en el sistema financiero, no cree en los bancos. No hay absolutamente una sola persona en Argentina que ahorre en un banco. O ahorran o le meten a cripto o tienen el dinero abajo del colchón. De hecho hace poco, no tengo el dato exacto, pero Argentina es 1 de los países que más billete, pensando en dólar, que más billete tiene en el mundo, pero no está incorporado a la banca. Lo tienen en sus casas, porque la gente ahorra abajo del colchón, aunque no le represente ningún rendimiento, porque sabe que teniendo dólares y vendiéndolos en el mercado en el blue o en una cueva, va a tener el doble de lo que le ofrecen o de lo que le da el tipo de cambio oficial.
+
+[Speaker 5 - 01:08:16]
+Entonces para mí va a ser imposible ese tema de regresarle la confianza a la gente a la banca.
+
+[Speaker 1 - 01:08:23]
+Oye, y eso también, para los que no sepan, eso pasó en México en 1982. En 1981, el presidente era López Portillo, y dijo, no se va a devaluar el peso, no se preocupen. No me recuerdo cómo estaba el peso, creo que está, pongámosle 8, 9 pesos por dólar. El de año siguiente ya era insostenible, no había dólares en en el Banco Central, en el Banco de México. Tuvieron que devaluar. Y si tú tenías dólares en el banco, ya te intercambiaban inmediatamente tus dólares por 26 pesos, no por 8. Entonces, hay una pérdida masiva de confianza en mi sistema monetario en México, que es lo que ha pasado persistentemente en la Argentina. Entonces, lo que tú dices es totalmente cierto. ¿Cómo vas a a dar esta confianza para que la gente realmente crea que, pues, su dinero va a estar protegido en el mediano, largo plazo. Porque si llega a otro partido político y cambia las reglas del juego, pues, ya no vas a estar tan protegido. Entonces, yo por eso creo que es una tarea, híjole, va a ser muy difícil que mi ley pueda realmente dolarizar la economía, ¿no? A ver, 7 0 1. Adelante, pero sin ver, 7 0 1, adelante, pero sin preguntas básicas, por favor, te lo pido de de corazón.
+
+[Speaker 1 - 01:09:28]
+El reto está presente, Jesús. Un minuto,
+
+[Speaker 2 - 01:09:31]
+¿vale? Me sumo a la campaña.
+
+[Speaker 3 - 01:09:33]
+Ah, mira. Jesús, yo creo que te te vendría bien cuando tengas estos debates dejar expresarse a los otros, porque siempre se puede aprender siempre se puede aprender algo de alguien. Como te gusta mucho mencionar las noticias.
+
+[Speaker 1 - 01:09:49]
+El 7 0 1, ¿no?
+
+[Speaker 3 - 01:09:51]
+¿Cómo? ¿Perdón? Ah, nada, te iba a decir que que como te gusta lo del tema básico, Robert Kiyosaki, no sé si lo conoces, que ha vendido más de 33000000 de libros. Dice que el dólar es dinero falso. Supongo que también
+
+[Speaker 1 - 01:10:09]
+Perdón, es que no escuchaba nada. Ahorita que se suba otra vez, le damos la palabra.
+
+[Speaker 2 - 01:10:16]
+Profe, échale, profe. ¿Qué tal? Buenas tardes, mi gente Jesús. Este, saludos a todos, todas los que están aquí. Antes que nada, en este país se celebra el día de acción de gracias. No voy a entrar en detalles en el porqué, pero realmente es para estar agradecido por personas como ustedes, que Mexi, Jesús, que y Lu, obviamente, por ejemplo, que siguen dando qué de qué platicar, salen, siguen dando qué pensar y cómo hacernos personas mejores en este en este ambiente. Mira, no voy a entrar a temas técnicos monetarios ni mucho menos, no es lo mío, no es mi carril, y, pues, bueno, me voy a, tal vez me quedar un poquito más en lo que es la innovación y lo que podría traer el gobierno de mi ley a la Argentina. Yo creo que lo puse acá ahí, disculpa si me perdí la respuesta porque estaba aquí hablando con con todo el mundo de la familia, ya sabes, hoy día es, este, cuando todo mundo de la familia te te marca. En cuanto a la liberación, y sí, tratan de poner un poquito del en el a la antesala de que esta persona es tal vez populista, y creo que Chaps lo había mencionado también, o incluso incluso Benito lo mencionó también, de que hay gente populista, tal vez las opciones que tenemos políticamente, tal vez no son los mejores, incluyendo en Estados Unidos.
+
+[Speaker 2 - 01:11:30]
+En México también hay debate con respecto a eso. Pero, bueno, tenemos lo que tenemos, pero, digo, Miley, ¿tú crees que? ¿Ustedes creen? Me encantaría saber a la a la Argentina misma, que esta liberación, digamos, de o libertin libertarización, perdón, si de, este, de Figuret, la libertanización, perdón, si, este, desfiguret la la palabra,
+
+[Speaker 1 - 01:11:51]
+podría llevar Liberalismo propia.
+
+[Speaker 2 - 01:11:55]
+Podría llevar algún tipo de a la Argentina a hacer como el Silicon Valley versión sur, o de que podría llegar la innovación, la necesidad obliga, obviamente. ¿Pero crees que esa misma liberalización, libertinaje político, económico, como lo quieras llamar, podría llevar a la Argentina a ser como una capital de la innovación?
+
+[Speaker 1 - 01:12:16]
+Totalmente. Creo que lo platiqué hace rato. Una de las grandes ventajas que tiene la Argentina con el resto del de la región latinoamericana es la mano de obra calificada. Entonces, esto te da una gran ventaja para atraer capitales, sobre todo tecnológicos, que está muy relacionado con con Silicon Valley, el concepto Silicon Valley. Y segundo, este, mi ley quiere bajar impuestos. Entonces, tienes la las herramientas, los ingredientes perfectos para la atracción de este tipo de capitales. Que es menores impuestos, pues, le conviene a estas empresas, y capital humano. Entonces, yo creo que sí, yo creo que tiene toda la la la oportunidad de hacerlo. ¿Por qué no? Y la migración de capital es hace la Argentina misma. ¿No? En todo caso de que se llegara al nivelizado y instalar la la cuestión económica. ¿No? Para tenerlo más estable, ¿no? Pues. Total, totalmente, totalmente. Creo que de donde se puede jalar mi ley para empezar a tener mayor productividad es por ese sistema tecnológico, totalmente. Coincido.
+
+[Speaker 2 - 01:13:11]
+Perdón. ¿Hay alguien de la Argentina aquí en el espacio? Me encantaría tener, este, algún tipo de primera mano, de artículos de primera mano o anécdotas de primera mano.
+
+[Speaker 0 - 01:13:23]
+Sí, estaría increíble. No no no creo que tengamos tiempo ya para subir a alguien más. Aquí creo que por error de dedo o por las aves del destino está como COHOT 7 0 1. Podemos darle un minutito, este, porque ya en un momento tengo que cerrar. Pero a ver 7 0 1. ¿Chaps también por ahí tiene experiencia en Argentina? Estaba diciendo, ahorita lo volvemos a subir. Estaba por acá arriba. Ah, nada.
+
+[Speaker 3 - 01:13:49]
+Quería contestar antes al al debate este intenso con Jesús, que que está muy bien. Le quería decir a Jesús que como le gusta el tema de básico, Yo soy una persona muy tonto, muy tonta como él, como él bien sabe. Y y yo aprendí con con Robert Kiyosaki, que no sé si lo conoce. Es una persona que que tiene bastante experiencia en el mundo de las finanzas y dice que el oro, la plata y el bitcoin es dinero real. Mientras el dólar es falso. Ese ese es una, no no es mi argumento, es de gente que considero mucho más lista, y cuando buscas información, es evidente. De hecho, tú solo tienes que buscar la la la gráfica del dólar, y ha perdido respecto al oro el 99 por 100 de su valor. Si queremos seguir invirtiendo dependiendo el dinero fíat, que Estados Unidos es un país maravilloso, donde se mueren 45000 personas al año por no poder ir al médico y pagarlos, si para vosotros eso es es una economía que funciona, ¿creéis que el el mundo está genial, que que los políticos lo hacen bien y creéis que el sistema de gente está bien? Creo que compartimos puntos de vistas muy diferentes.
+
+[Speaker 1 - 01:14:52]
+Es que, si entras 1, otra vez, estás confundiendo política social con política monetaria. Mira, es que hay países, por ejemplo, en Inglaterra, Reino Unido, ¿no? En Europa en general, las las la la gente está protegida con seguridad social, no tiene nada que ver con la la la la moneda del euro, estás confundiendo términos. O sea, una cosa es política monetaria, que es la emisión de moneda, y otra cosa es es que tengan seguridad social, que es salud médica. No tiene nada que ver una cosa con la otra. Fatalóvalo como tú quieras, yo te te te he dicho. Segundo, segundo, la gente no gana en lingotes de oro, la gente gana en dinero. Y otra vez, la gente no gana el mismo dólar que hace 50 años, gana muchísimo más. Y lo que tú tienes que medir no es ese dólar cómo vale a través del tiempo, es el aumento salarial con respecto al aumento de precios y te darás Genial Jesús, me puedes me puedes elegir por tiene mayor ingreso disponible
+
+[Speaker 0 - 01:15:44]
+Genial, pero ¿por qué por qué no pueden pagarse el hospital? Responde a lo de la a lo de la atención médica. De nuevo, estás confundiendo
+
+[Speaker 1 - 01:15:51]
+términos. Es que una cosa es la política social o médica de salud, lo que tú quieras, y otra cosa es la oferta de dinero y la política monetaria, son cosas O sea, que un, o sea, que una economía de un país va bien cuando el 25 por 100 de su población no puede pagarse, ir al médico. Pero, ¿cómo puedes decir eso? Pero seamos serios, hombre, por favor, Jesús. Estamos hablando de conceptos distintos. Hay países donde la salud, es que escucha, hay países donde la salud la provee el Estado, hay países donde la salud no la provee el Estado. No estamos hablando de eso, estamos hablando de ingreso disponible. Estamos hablando de oferta monetaria. Mira, ingreso disponible, el 60 por 100. De la del del sistema de servicios. Nos estamos desviando muchísimo. Una cosa es El 60 por 100 de ¿Qué es la de la unidad? Del gasto público y otra cosa es la oferta de dinero. Y nadie gana el lingotes de oro. O sea, no, sería disfuncional.
+
+[Speaker 0 - 01:16:41]
+Por eso no Esto de Robert Hirosaki, Robert Hirosaki es muy fácil. En oro gana en monedas,
+
+[Speaker 1 - 01:16:46]
+porque es más fácil, es más fácil
+
+[Speaker 3 - 01:16:49]
+Creo que creo que tienes que venderle un curso a Robert Hirosaki, Jesús, explicarle tú No, es que porque el
+
+[Speaker 0 - 01:16:54]
+dólar está mejor que que me está respaldado a ver órdenes. Yo yo creo que hay que
+
+[Speaker 1 - 01:16:58]
+evitar documentarse con videos de Tik Tok y de YouTube. YYY mira, hay libros de texto muy básicos que los venden en Amazon. Se llaman Economics Economics for Domies, y y no salen muy caros. Y también están en castellano. Yo creo que eso ayudaría muchísimo.
+
+[Speaker 0 - 01:17:14]
+Oigan, tengo que ir cerrando. Voy a ir bajando a la gente. Discúlpeme 7 0 1, vas para abajo. Profe, comentarios de cierre, chats. Jesús.
+
+[Speaker 2 - 01:17:24]
+Rapidito. Nada más para, ¿cómo se? Para el beneficio de de los 2, tanto 7 0 1 como de Jesús. Bueno, sí, Robert Kiyosaki sí sabe de mucho y es, este, vaya, alguien al cual respeto, pero, como todo, agarra siempre lo bueno para después acumularlo con lo con lo que tú quieras. Para aclarar, Robert Kiyosaki utiliza tanto bienes inmuebles, como el oro y la plata, como storage of value, nada más. ¿Ok? No es como para, este, la economía tal cual como tú estás diciendo, Jesús. En eso coincido perfectamente contigo. Eso es para acumular valor, acumular, este, bueno, storage of value, para que tú puedas tener tu tu tu un activo real, y tan tan, se acabó. Igual como el bitcoin es para diversificar también tu portafolio. En cuanto a lo que estás hablando de la salud y todo eso, mira, incluso en Estados Unidos, la gente, muchas de las bancarotas que existen en este país, precisamente, son porque la gente no puede pagar su cuenta de salud, es un algo ridículo, y siendo el mejor, digamos, la economía más grande del mundo.
+
+[Speaker 2 - 01:18:28]
+¿Ok? Si eres español, por lo que intuyo, por por tu voz, y tienes un sistema un sistema social que apoya. ¿Ok? A una salud universal. ¿Ok? De igual Países Bajos, igual, este, el Reino Unido, Europa en general. ¿Ok? Dinamarca, por no hacer un chiste allá a a los 2 conocidos mexicanos. El chiste es de que si cada país, cada país es responsable de de de forzar esa política social que tú mencionas, Jesús. Pero separando Chana y Juana, o sea, 1 no son, no es lo mismo que tener una economía tanto dolarizada como tener, este, storage and value en oro y todo este, bienes raíces, lo que tú quieras. Pero mira, a nivel de cuentas, buena plática, no voy a ir más a a detalle, nomás que esa es la declaración, Jesús. Quiero pensar que estarás de acuerdo conmigo, pero sí me encantaría saber en un futuro qué onda con, este, ¿cómo se llama? Con con Argentina, me interesa saber qué qué tipo de desarrollos hay por allá.
+
+[Speaker 1 - 01:19:29]
+Va va va a ser muy interesante, digo, es una incertidumbre hasta ahora, pero más jodido no puede estar Argentina. Entonces, era esto o o ya Venezuela. Entonces, yo creo que, a ver, ojalá que las políticas que traten de estabilizar el país funcionen, pero más más jodido no podía estar la Argentina. Entonces, yo creo que, aunque sea marginal, tiene que mejorar en el en en este contexto.
+
+[Speaker 0 - 01:19:56]
+-Roberto Ibarra: Ahí me disculpa. Tuve que bajar al profe, bajé también a Mister Wiki, ya no hay tiempo. Más que para despedirse. Échale chats.
+
+[Speaker 5 - 01:20:05]
+Nada. Muchas gracias por habernos acompañado en el space del día de hoy. Muchas gracias a Mexi, a Jesús, al profe y a todos los que participaron. Y nada, nos vemos en el próximo.
+
+[Speaker 1 - 01:20:16]
+Chau. Saludos.
+
+[Speaker 0 - 01:20:25]
+Oigan, pues muchísimas gracias a todos los que se conectaron el día de hoy. Definitivamente es una plática que vamos a continuar, que se me hace súper interesante. Posturas distintas, debate, con respeto. Creo que no es que faltaron el respeto el día de hoy. Pero bueno, yo los dejo, nos vemos en el jueves al ratito en el de MX Web 3, la siguiente semana, el jueves tenemos con Avalanche, voten y donen por la gente de bitcoin, por ahí a las 2 hay otro espacio donde vamos a hablar de otra ronda que se está corriendo con Metapull, y cualquier cosa ya andan mis DM disponibles. Los amo, adiós.

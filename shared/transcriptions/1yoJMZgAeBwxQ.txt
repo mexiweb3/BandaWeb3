@@ -1,0 +1,645 @@
+
+[Speaker 1 - 00:01:02]
+Dame. ¿Qué onda Jesús? Ahora creo que ya ahora sí estamos por aquí.
+
+[Speaker 0 - 00:01:11]
+Hola hola, ¿me escuchas?
+
+[Speaker 1 - 00:01:12]
+Te escucho muy bien. ¿Tú a mí? Sí sí. Ya, perfecto. Bueno, ni modo. Problemas técnicos. Ya estoy tuiteando de nuevo el espacio. Déjenme denme un par de minutitos para mandar la el link a los grupos que normalmente lo compartimos. Voy a apiñar también este espacio aquí a arribita. Gracias a todos por conectarse. Tuvimos ahí un pequeño problema técnico hace unos minutos, pero bueno, mientras promociono el espacio, déjenme les dejo aquí una cancioncita y en un par de minutos estamos comenzando.
+
+[Speaker 1 - 00:02:20]
+Bueno, empecemos. Ya por ahí twitteó un par de cosas. Los que estamos, estamos. Se queda grabado esto de todas maneras. Bienvenidos a todos. Baublir, Tavo, bienvenido. Ay, canijo. Jesús no está ahí con host. Vamos a hacerlo con host. Les recuerdo las reglas del espacio y quien quiera puede subir a hacer cualquier pregunta. Podemos preguntarle lo que queramos a los cojos. Los cojos pueden interrumpir a cualquiera, en cualquier momento. Tienen el poder de callar a toda la la los que estén aquí de speakers, excepto a los mismos cohotes.
+
+[Speaker 1 - 00:03:32]
+Y pues bueno, la idea es tener una plática entretenida sobre lo que está sucediendo ahorita en la tecnología cripto, en los mercados internacionales. Jesús tiene, pues, una experiencia bastante bastante considerable. Ya nos platicaron un poquito de él ahorita para que se presente. Y bueno, yo tengo una experiencia un poquito técnica utilizando las herramientas cripto, Blockchain, etcétera. Jesús, bienvenido, ¿cómo estás? Buenos días ¿Cómo estás, Wendy?
+
+[Speaker 0 - 00:04:39]
+Buenos días a todos. Este, pues nada, pues, bienvenidos a todos, como dice Mexi. Ya muchos de allá me conocen, pero yo soy economista y tengo experiencia en el sector privado, sector público, y, este, soy apasionado de la coyuntura económica financiera. Ahorita vamos a platicar un poco lo que está pasando. Mercados cripto, mercados tradicionales, economía real. Este, me gustaría también hablar un poco de China, Estados Unidos, ¿qué qué esperamos para el futuro? Gracias.
+
+[Speaker 1 - 00:05:12]
+Bienvenido Jesús. Excelente que estás por acá participando con nosotros. Estos espacios, la idea es empezarlos a organizar o organizarlos los martes y jueves a la misma hora. Y cualquiera que esté acá abajo escuchando disponible puede subir a hacer preguntas. Siempre con respeto para todos los que estamos aquí escuchando y levantando la mano. Aquí creo que es muy importante mantener una dinámica bastante movida, una plática interesante, que tenga sus sus comentarios divertidos. Pero que podamos llegar a aprender un poquito, pues todos de de de nosotros mismos. Tavo, no sé, bienvenido. Gracias por aceptar el CO Host. Si gustas presentarte, me gusta también tener aquí un tercero siempre diferente que podemos estar rotando para obviamente también escuchar sus perspectivas y que nos ayuden a interrumpirnos cuando estamos extendiendo un poco. Si gustas adelante, preséntate, por favor.
+
+[Speaker 3 - 00:06:09]
+¿Qué onda, qué onda? Yo soy un joven drop out universitario amante de las cripto, de la descentralización y completamente en contra del sistema tradicional. Este, oye mi Mexi, voy a tener que desconectarme en un ratito, pero voy a estar aquí yo creo que aproximadamente unos 30 minutos.
+
+[Speaker 1 - 00:06:29]
+No hombre, lo que puedas, bienvenido y muchas gracias por por aceptar y estar acá con nosotros un ratito. Gracias, bueno? Hombre, yo soy Mauricio Cruz, mejor conocido como como Mexi o Meximalist. Yo mi historia o mi experiencia es de la parte más técnica. Yo en realidad tengo poco a abrir, vamos a aceptarlo también, que se venga aquí a platicar con nosotros. En la parte técnica, usando la tecnología, ya tengo aproximadamente unos 5 años en el ecosistema cripto. Me ha tocado ya experimentar pues bastantes bastantes situaciones distintas, buenas, como los los los bullruns del 2017, del 2000 veintiuno, y malas, como lo estamos viviendo ahorita, y como lo vivimos hace unos años. Entonces, me gusta muchísimo explorar hasta el fondo la tecnología y, sobre todo, la tecnología conectada del Internet, ¿no? El Internet está y ha revolucionado muchísimas industrias. Los vemos constantemente. Creo que estamos todavía empezando a ver la capacidad de lo que puede llegar a traer la tecnología en cuanto a beneficios.
+
+[Speaker 1 - 00:07:37]
+Y pues bueno, conociéndola, estudiándola, practicándola. Y también, ¿por qué no? Hablando de ella, para que la gente que poco a poco ha estado entrando a este ecosistema, pues entre de una manera más segura y con menos ansiedad. Creo que estas tecnologías, y también yo creo que Jesús me podrá corregir si estoy equivocado, pero la parte financiera y económica genera mucha ansiedad en cuanto a que a lo mejor no sabemos cómo funciona, no tenemos conocimiento un poquito más técnico o financiero de de de cómo se mueve el dinero en este en este sistema. Y como decía Jesús, ahí, perdón, como decía Tavo, hay gente que está en contra de la manera que lo estamos que se está manejando el día de hoy, y por eso pues nace cripto. Pero bueno, bienvenidos a todos de nuevo. Erick, Rocky, Diego, Emanuel, Six. Ah, bienvenida. Por ahí te veo al rato en la comida cuando se termine, Max. Bienvenidos a
+
+[Speaker 4 - 00:08:45]
+y, este, y, bueno, también me presento después de que ya ustedes se presentaron, este, yo soy Baulier, soy otro ingeniero. Aunque me he desarrollado en,
+
+[Speaker 5 - 00:08:56]
+digamos, en el lanzamiento y desarrollo de empresas, he estado en la industria de la construcción, la industria de
+
+[Speaker 4 - 00:08:59]
+empresas. He estado en la industria de la construcción, la industria de telecomunicaciones y actualmente en la industria aeroespacial. Entonces, este, tengo diferentes puntos de vista y, bueno, sobre todo cuando estuve trabajando en telecomunicaciones y fundar varias empresas de Internet, es cuando me metí de lleno en en lo de cripto, ¿no?
+
+[Speaker 1 - 00:09:19]
+Excelente. Un gusto tenerte por acá con nosotros. Y pues bueno, empecemos, Jesús. ¿Cómo has visto el ecosistema? Yo quiero empezar contigo, que nos platiques un poquito de lo que ha sucedido este fin de semana. Tu perspectiva también, de lo que has leído de todo el problema o las broncas que ha habido con con con la industria cripto. Hay muchas noticias saliendo constantemente. Cada día salen cosas nuevas. Cada día habla alguien involucrado en en en los mercados cripto. Creo que la noticia del momento, pues es el el el la caída de FTX, la caída de Alameda Research, y todo lo que está sucediendo con los políticos que quieren regular, y la información que sale de de esas industrias. Pero también hay muchas cosas moviéndose en el tema macroeconómico
+
+[Speaker 0 - 00:10:10]
+que, pues bueno, me gustaría que nos platicaras un poquito de tu perspectiva, viéndolo de todas las noticias que han salido últimamente. Adelante. Bueno, empecemos con con el tema macro que yo creo que está esto esto yo creo que ya se veía venir desde inicios del año. Este, desde que la Reserva Federal de los Estados Unidos empezó a subir tasas, empezó a haber un apretamiento en las condiciones crediticias, es decir, va a haber menos liquidez, y al haber menos liquidez, la gente invierte en activos menos riesgosos dentro de los Una pregunta Jesús, y perdón que te interrumpa, pero
+
+[Speaker 1 - 00:10:41]
+¿cómo definirías liquidez? Liquidez es un término que se usa muchísimo, que poco a poco yo he ido entendiendo. Pero ¿qué chingados es la liquidez?
+
+[Speaker 0 - 00:10:53]
+Dinero en exceso. O sea cuando hay las tasas de interés están muy bajas, yo prefiero gastar mi dinero, invertirlo, que ahorrarlo porque me paga muy poco. Entonces hay mucho dinero circulando. Hay exceso de dinero. Y cuando las tasas son altas
+
+[Speaker 1 - 00:11:08]
+efectivo que tienes en un banco, puesto a mover y que puedes mover de inmediato. ¿Eso lo denominarías como liquidez? Ok, perdón, perdón. Caso. Y obviamente
+
+[Speaker 0 - 00:11:18]
+cuando suben tasas, pues hay menos dinero disponible, y el poco que hay, pues tú la ahorras en vez de invertirlo o gastarlo. Y lo ahorras, ¿por qué? Porque, pues el banco ya te paga una tasa de interés mayor. Eso empezó desde enero. Para mí era muy previsible todo lo que está sucediendo tanto en la bolsa de valores como en las cripto. Claramente, si hay menos liquidez, va a haber menos menos demanda por estos activos y su precio va a caer. Ese ese es punto número 1. Y ojo, esto ya ya lo hemos platicado muchas veces, esto va a seguir pasando el 2023. Es decir, estos problemas de liquidez van a 2 2023, porque van a seguir subiendo tasas hasta que la inflación no llegue al 2 por 100, que esa es la meta del Banco de México. Digo, perdón, del de la Reserva Federal. Por un lado, por otro lado Ok. Este se se
+
+[Speaker 1 - 00:12:03]
+Claro, sí, inglés. Perdón que te interrumpa, pero ¿por qué por qué tienen ellos una meta de hacer de de de controlar la inflación a un 2 por 100 anual? ¿Por qué ese es su
+
+[Speaker 7 - 00:12:18]
+objetivo? Un un una
+
+[Speaker 0 - 00:12:20]
+demanda, una oferta agregada a largo plazo, que
+
+[Speaker 5 - 00:12:27]
+o una
+
+[Speaker 0 - 00:12:32]
+inflación, este, neutral, que le vamos a llamar, en este caso es el 2 por 100. Entonces, con un 2 por 100 es aceptable tener una inflación, digamos, moderada para tener un crecimiento sostenible a largo plazo. Eso se calcula con sistemas econométricos y, bueno, para la resear federal, para Estados Unidos es un 2 por 100, que es el nivel adecuado para que la economía crezca y para que el ingreso disponible en las familias sea mayor año con año, digámoslo de esa manera. Por ejemplo, para México es 3 por 100, ¿no? Ahorita, para que se den una idea, está en 7.7 por 100 la inflación en Estados Unidos, está hasta muy lejano del target del de la Reserva Federal y por eso está apretando condiciones crediticias para atraer de nuevo esa inflación a 2 por 100, que las buenas noticias es que ya lleva 3 meses a la baja y ya las expectativas son de que para el próximo año estemos alrededor de, en estas épocas, un 4 o 5 por 100, y que se recupere el 2 por 100 principios 2024. Pero mientras eso no suceda, van a seguir subiendo tasas, va a haber mucho menos apetito por todos estos instrumentos, vamos.
+
+[Speaker 1 - 00:13:38]
+Una duda Chuju, ¿quién define ese 2 por 100? ¿Por qué en México es un 3 por 100? ¿Cómo se decide eso? ¿YYY quién autoriza ese objetivo?
+
+[Speaker 0 - 00:13:52]
+Son modelos econométricos. Por ejemplo, 1 de las maneras de calcularlo se llama el el filtro de Hodrick, Hodrick Prescott Filter. Pero hay muchas maneras de utilizara todos los factores de producción, cuál sería el nivel óptimo de crecimiento, y bajo ese nivel óptimo de crecimiento yo tendría una inflación neutral, digámoslo de esa manera, o un desempleo natural. Y son muchas metodologías econométricas para establecer ese ese ese punto. Ahorita, ahorita no no te sabría decir qué modelo están usando la receta Ceralt, pues si te metes a la página, ahí te van a decir, porque todo es público, ¿no? Y añadiría que que ellos tienen departamentos enormes de economistas, pues muy prestigiosos, ¿no? Y muy calificados para hacer este tipo de estudios.
+
+[Speaker 1 - 00:14:37]
+No, definitivamente las personas que están en esos puestos tienen muchos más conocimientos sobre economía, y son los que finalmente deciden el tema de las tasas, el tema del objetivo de los intereses. Pero, ¿por qué no buscar un interés 0? O sea, ¿por qué no buscar que el dinero no pierda su valor a través del tiempo? ¿Por qué buscar que pierda su valor un 2 por 100 o un 3 por 100?
+
+[Speaker 0 - 00:15:01]
+Porque es imposible. Los precios siempre van a seguir subiendo. La idea es que los precios suban menos que el incremento salarial, justo para que tu ingreso disponible aumente. Si tú te fijas a lo largo de la historia, el el precio del dólar o el peso, la moneda que tú quieras, siempre va a perder valor, pero no necesariamente el ingreso disponible. Si tú te fijas en el ingreso disponible de Estados Unidos, cada vez es mayor, incluso con una pérdida de poder adquisitivo, porque el salario se compensa mucho mayor que el incremento de precios. No sé si me estoy explicando. Pero siempre va a haber inflación, siempre. El problema es que la inflación sea moderada con respecto al aumento salarial, justo para que cada año puedas comprar más cosas que el año anterior. ¿Qué no está sucediendo este año por este choque inflacionario que se tiene? Ya, ok.
+
+[Speaker 1 - 00:15:46]
+Vamos a hacer una prueba con los con las manitas. ¿Alguien me puede ayudar con deditos para arriba o para abajo? Creo que no estoy viendo si levantan la mano, la verdad. No, no veo ningún ningún emoticon. Va a estar difícil
+
+[Speaker 0 - 00:16:05]
+darle la Yo sí, yo sí estoy viendo. Ahí viene Tavo, ahí está Baugler, está Codederal.
+
+[Speaker 1 - 00:16:10]
+Hay varios que nos han avanzado. Ayúdame tú a dar la palabra, porque yo de plano no veo nada. Si alguien pide surgir preguntar,
+
+[Speaker 0 - 00:16:17]
+de ahí Churic me va a ayudar, porque si la verdad yo no estoy viendo ningún Yo Ok. Yo yo yo yo sí veo, hasta ahorita no hay nadie, digo, hay hay puras manos de de thumbs up, pero no hay nadie que que que esté pidiendo el micrófono. Este Correcto. Pero yo yo te digo, algo adicional que tú dijiste de lo de STX, ese es un tema adicional que que está muy relacionado con con la la la la falta de confianza que ya se está generando sobre estos exchanges, y las salidas del capital es muy fuertes, que son conocidos tradicionalmente como corridas bancarias, y y bueno, es va a ser un golpe muy fuerte al a a los exchanges, y paradójicamente todo lo que no se quería con estas monedas y con este sistema terminó siendo centralizado y concentrado, fíjate. Porque las exchanges que están tronando, pues, son las más grandes, ¿no? O que tenían gran poder de convocatoria. Entonces, yo creo que hay 2 sopas, o truenan todas, como te lo estoy diciendo, porque va a haber una desconfianza generalizada, o se regulan, no queda de otra.
+
+[Speaker 0 - 00:17:19]
+Este, y el los gobiernos creo que van a empezar a a entrarle al tema de regulación, justo porque la gente está perdiendo mucho dinero. Ese es el el tema. A ver, aquí tenemos una mano levantada, Tavo. Adelante.
+
+[Speaker 3 - 00:17:33]
+Sí, yo yo estoy de acuerdo ahí con con Jesús, yo creo que lo más probable es que terminen tronando o terminen estando muy reguladas. El tema de la regulación YYA lo mejor aquí, este, me pueden aclarar ustedes, es que no sé qué tanto se pueda regular, por ejemplo, una empresa como un Exchange como Binance, que no estoy seguro que tenga su base en Estados Unidos, ¿no? Entonces, o sea, ¿cómo cómo sería el tipo de regulación? ¿No? Porque, digo, el el mundo cripto y los usuarios estamos, pues, regados por todo el mundo, ¿no? Entonces, es como mi primer punto, y el segundo punto es, este, igual están los exchanges descentralizados, o sea, no no es que el mundo cripto al final se terminó centralizando porque en realidad tú puedes hacer lo lo mismo las mismas funciones que que un Exchange centralizado en un en un DEX, ¿no? Que es un Decentralist Exchange, como por ejemplo Uniswap.
+
+[Speaker 3 - 00:18:37]
+Yo creo que hace falta mucha educación en ese sentido, hay mucha gente que no las conoce y no las sabe utilizar, Y y ya nada, ese era como mis 2 puntos.
+
+[Speaker 1 - 00:18:53]
+En en en mi experiencia, al menos creo yo, YYY estoy de acuerdo con muchas cosas que he leído al respecto, donde mencionan que Estados Unidos obviamente tiene sus sus regulaciones. Hay que hacer ciertas condiciones para poder transaccionar con cripto ahí en esa en en ese país. Binance tiene una página exclusiva para clientes de Estados Unidos. Binance.US. FTX tenía también una página exclusiva para usuarios de Estados Unidos, FTX.us. Pero de todas maneras, con toda la regulación que había, y se supone que esas secciones estaban siguiendo esas reglas, de todas maneras FTX tronó. Yo creo que, si desde un principio, la gente de gobierno en Estados Unidos hubiera fomentado una participación un poquito mayor con reglamentación específica para ese tipo de exchanges, y hubieran atraído a la gente a poner esas casas de cambio en su en su en su con base en su país, esto a lo mejor hubiera podido ser controlado.
+
+[Speaker 1 - 00:19:54]
+Porque finalmente, pues ya nos dimos cuenta. No había nadie revisando que en realidad FTX punto US estuviera siguiendo las condiciones. En un principio dijeron que no iba a tronar, y que estaba todo muy bien. Pero bueno, ya vimos que también entraron a bancarrota. No sé qué opines tú Jesús. Pero yo creo que ahí faltó
+
+[Speaker 0 - 00:20:21]
+muchísimo, y que los dejaron operar sin tener a alguien que los estuviera revisando. Yo creo que el sistema ha avanzado mucho más rápido que la legislación. O sea, el el tema de cripto se movió muy rápido. Este, y y el el el la SC en México, la comisión, por ejemplo, la ley Fintech se tardaron mucho en en en producirla, este, ya inclusive hay cuestiones que son obsoletas. Entonces, creo que es muy difícil estar a la par de los avances tecnológicos. Ahora, lo que sí me resulta impresionante es, por ejemplo, FTX, que tenía activos de 900000000 de dólares y pasivos de 9 billones. Esto sí es impresionante. O sea, eso, pues sí debe haber un un alguien que que te regule eso, ¿no? O sea, es es no puede ser eso. O sea, es es ¿no? O sea, es es no puede ser eso. O sea, es es este en cualquier institución financiera sería penal eso. O sea, no puedes tú apalancarte de esa manera. ¿Y quién está financiando sus proyectos también? O sea, este, está muy extraño. Y debe de haber repito, si no hay regulación, vamos a a ver cómo van a desaparecer todos los exchanges, te lo aseguro.
+
+[Speaker 0 - 00:21:21]
+Ese es el el el tema, cómo lo veo.
+
+[Speaker 1 - 00:21:25]
+Y sobre la segunda pregunta o segundo comentario de Tavo, sobre la tecnología que ya existe, ¿no? Existen ya plataformas donde tú puedes entrar, intercambiar activos, sin que nadie te lo prohíba, que ese es el famoso DeFi, el Decentralized Finance. Por ahí hubo una noticia, creo que fue ayer o antier, donde JP Morgan, 1 de los de los de los grandes bancos de Estados Unidos, está mencionando que el error y las los problemas que estamos viendo ahorita son de plataformas centralizadas manejadas por gobiernos, no de perdón, por personas que tienen cierto control y poder sobre el dinero que estamos depositando ahí. No sobre plataformas descentralizadas. Yo creo que eso da un mensaje grande. Que ellos están explorando la tecnología, que están viéndole algo de futuro, y que probablemente la empiecen a utilizar. Entiendo que ellos en el 2 de noviembre ya empezaron a usar e hicieron la primera transacción de frontera entre fronteras, usando DeFi. Entonces no sé si estés informado sobre el tema, Chuy.
+
+[Speaker 1 - 00:22:26]
+Pero ¿qué opinas de que un JP Morgan diga, Oigan, sí, hay problemas pero es solo en exchanges centralizados? DeFi está bien. Y que también hayan hecho ya su primera transacción utilizando la tecnología. ¿Qué crees que puede llegar a suceder con ellos? ¿Que la implementen, que la fomenten, que la usen? Yo creo que sí le están viendo algo de futuro y beneficio.
+
+[Speaker 0 - 00:22:50]
+Totalmente. Yo yo mi pregunta sería, ¿por qué por qué entonces la gente se fue a los exchanges, este, centralizados? O sea, ¿por por qué sí existe esta plataforma? ¿Por qué de los FTX y los binance y todo eso? Mira, déjame déjame darle la mano, este, a Baugler, por favor, adelante.
+
+[Speaker 4 - 00:23:09]
+Sí, nada más para contestarte esa esa pregunta. ¿Por qué el irse a exchanges centralizados? Simplemente es por facilidad de uso. Si tú puedes conectar tu cuenta de banco para adquirir cripto de esa manera, es es el primer la primera entrada del usuario, ¿no? O sea, es es muy complicado para el usuario que no sea experimentado que vaya a un exchange descentralizado, porque, para empezar, tiene que hacer un exchange descu currency de fiat AAA cripto. Y y, de esa manera, es se vuelve complicado, ¿no? Entonces, siempre la primera entrada, estos centralizados son los que tienen, digamos, la la mejor facilidad para el usuario. Tienen apps directamente en celular, tú puedes hacer la transferencia y ya tienes tu tu, digamos, cuenta de check in o savings conectada. Entonces, es muy sencillo, ¿no? Lastimosamente dejan su dinero ahí, creen que ese esos exchanges son las wallets, y y por eso hay que seguir educando a la a la gente de que tiene que moverse a a call o o hot wallets para poder tener sus sus kits, ¿no?
+
+[Speaker 0 - 00:24:16]
+Ok. Entonces, sí sí entendí bien, y por la facilidad de usos que se se optaron por estos exchanges centralizados. Entonces, y con lo que está pasando, ¿no crees que entonces haya mucho menos apetito por ese tipo de mecanismos para guardar tu dinero? O sea, que ya vamos a perder muchos usuarios. Una, porque es más complicado de lo que entendí de que hiciste estar en descentralizado que centralizado. Y segundo, porque ya la gente va a tener más miedo de entrar a este ecosistema, ¿no?
+
+[Speaker 1 - 00:24:47]
+Mira, yo creo que definitivamente lo que hizo Gabriel es muy muy cierto. Yo me considero un usuario constante de la tecnología power user, ¿no? Como le llaman por ahí en en en algunos en algunos pues bueno, así se denomina ¿no? Power user, el que la usa mucho. Y definitivamente meter el dinero a un protocolo DeFi no es tan sencillo como utilizar una herramienta centralizada para intercambiar dinero. A mí, en lo personal, ya he probado tantos que que que lo veo muy natural. Pero cuando alguien nuevo me ha preguntado y lo he ayudado a utilizar estas herramientas, ya sea Uniswap, o un serum, o un pancake swap en BSC, ¿no? Hay muchas plataformas descentralizadas que te permiten hacer eso. La verdad es que tienes que conocer un poquito de la tecnología. Tienes que aprender a utilizar las wallets, a saber cómo manejar tus llaves privadas. Sí es más complicado. Definitivamente creo que eso va a ir mejorando muchísimo, poco a poco.
+
+[Speaker 1 - 00:25:49]
+Creo que estamos todavía muy temprano. Lo que está sucediendo con FTX, pues sí, definitivamente va a ahuyentar a muchos usuarios y probablemente retrasen la adopción algunos años. Pero creo que es algo que sucede con con con los ciclos de mercados naturales de implementación de tecnologías nuevas. Tavo.
+
+[Speaker 3 - 00:26:11]
+Sí, bueno, para no repetir lo que lo que ya dijeron que estoy de acuerdo y para contestarle a a Jesús, yo yo también estoy de acuerdo con él, que dice como no, pues esto podría, pues ser como contraproducente, ¿no? El que el que no sea como los los protocolos DeFi no sean tan de tanta tanto de confianza para los usuarios. Pero, bueno, estamos igual en una etapa muy temprana de la tecnología, o sea, esto apenas va comenzando y hay que recordar que muchos de, o más bien todos estos protocolos, pues, su administración es por medio de DAOs, ¿no? Y las DAOs toman muchísimo más tiempo de en pasar las votaciones, en ejecutar y así. Entonces, sí es un sí es un reto, definitivamente es un reto para la adopción, es un reto para el espacio, pero hay esperanza, porque estos protocolos ya ahorita que que un exchange centralizado y y todos estos, aunque sigan en una etapa early en el que incluso hasta la la experiencia del usuario es más precaria, ¿no?
+
+[Speaker 3 - 00:27:15]
+O sea, como ya dijo Baublir, que que que los exchanges, pues, tienen aplicaciones. Metamask, por ejemplo, pues, ahorita ya tiene una aplicación, pero antes no tenía, ¿no? Y y es igual un un protocolo descentralizado que se que se maneja por medio de una DAO. Este, sí se pueden sacar aplicaciones, sí se puede hacer una interfaz para la experiencia del usuario más amigable, pero lleva mucho más tiempo por el tema de ejecución YYY la aprobación de los votos y todo eso. Pero, bueno, yo veo esperanza que hacia allá se va a mover el espacio, a lo mejor, como ahorita dijiste, Mexi, se retrasa, pues, algo, pero por lo menos ya estamos viendo que la gente está empezando a sacar, han salido noticias de que creo que más de 1000000000000 de de cripto se han sacado ya de los exchanges y se están empezando a mover a cold wallets, ¿no? Entonces hay que empezar a impulsar el el uso y y el y la aprobación de estos protocolos descentralizados y DeFi.
+
+[Speaker 1 - 00:28:21]
+No, y siendo sincero, el día de hoy no está tan sencillo utilizar el Metamask. O sea, yo todavía me me siento con alguien totalmente nuevo y le digo, mira pícale aquí, pícale acá. Veo y percibo todavía mucha ansiedad al manejar esas herramientas
+
+[Speaker 3 - 00:28:38]
+y es algo que creo que poco a poco irá mejorando. Memorama, échale. Pero, ¿sabes? Perdón, ¿sabes qué es lo bueno? No, échale, también. Que que justamente, pues, todos nosotros tenemos la oportunidad de de de participar en en la mejora de estos de estas plataformas, ¿no? Porque por el mismo tema de la descentralización, digo, tampoco es tan sencillo que vas y te escuchan y así, ¿no? O sea, sí sí sí requieres meterte bien dentro de la y del espacio, pero pero no es imposible, digo, es más fácil que que y del espacio, pero pero no es imposible, digo, es más fácil que que poder llegar a un puesto, por ejemplo, de binance, ¿no? O de o de, en el caso que acaba de de morir FTX. Pero sí se puede, ¿no? O sea, si tú eres como un diseñador de páginas web y así tú dices como no, pues oigan, esto está súper mal de de Uniswap así, pues puedes buscar la forma de de crear una propuesta y que se vote, ¿no? Eso eso es lo padre y y lo esperanzador de de los protocolos de DeFi.
+
+[Speaker 1 - 00:29:34]
+No, definitivamente es algo que estamos construyendo todos. Los usuarios, los desarrolladores, los que estamos opinando en este tipo de canales y compartiendo información. De que sí, sí, definitivamente es algo que todos estamos construyendo. Unos con la parte técnica, desarrollando código, como tú dices. Otros con con con tema de diseño y lo que vemos, ¿no? Ese front page que que 1 ve cuando interactúa con los protocolos. Y creo que hay que involucrarnos. O sea, definitivamente no podemos Y creo que hay que involucrarnos. O sea, definitivamente no podemos nada más, al menos en mi opinión, quedarnos nada más como como mirones viendo la tecnología pasar. Si tenemos algo que aportarle valor, yo creo que es válido que busquemos mejorar la tecnología, ya sea con comentarios, con recomendaciones, haciendo pruebas con aplicaciones beta. Beto, a saber. Creo que hay muchas maneras en que cada 1 de nosotros puede llegar a aportar un poquito de nuestro conocimiento y de nuestro tiempo. Memorama, échale.
+
+[Speaker 6 - 00:30:35]
+Hola, hola, Mexi. ¿Cómo estás? Hola, Tavo, Jesús y a todos, caras conocidas que veo por acá. No, yo yo quería nada más compartir 2 2 ideas, 2 2, este, comentarios que yo tengo alrededor de este tema. El primero es es es una evolución como lo fue Internet, ¿no? O sea, al final Internet nació siendo una interacción entre universidades donado por el gobierno, y después fue creciendo, este, se hizo popular, y ahora ya podemos tener cosas tan sofisticadas como inteligencia artificial en aparatos, este, en tu casa, ¿no? Lo mismo está sucediendo acá, ¿no? Hay que poner creo que 1 de los puntos es hay que poner en contexto en qué etapa del desarrollo de Blockchain estamos actualmente, ¿no? Y seguimos en una etapa muy temprana, ¿no? Segundo punto que quería comentar es, ¿no?
+
+[Speaker 6 - 00:31:36]
+Segundo punto que quería comentar es, al final, los exchanges nacen por eso, porque no la facilidad de uso, este, que te dan y el que tú puedas ver en una sola pantalla cómo se están moviendo los mercados, te dan herramientas para poder hacer uso de ellas y tomar tus propias decisiones, eso es lo que hizo que todo este mercado jalara inversiones, ¿no? Pero eso no quiere decir que, este, porque falle una o 2 o 10, este mercado va a desaparecer, ¿no? Y bien lo dijiste tú, Mexi, al final hay un montón de exchanges verdaderamente descentralizados, pues que no se tomaban en cuenta porque no son fáciles de utilizar, o sea, necesitas cierto conocimiento para poder hacer un integrado en este tipo de dinámicas, este, lo pone nervioso, ¿no? Y tercero, yo hablando del tema de de, este, haciendo un comparativo desde mi perspectiva, Este, lo mismo le ha pasado, hay muchos bancos que han quebrado, este, por malos manejos, hay muchas empresas que han quebrado por malos manejos.
+
+[Speaker 6 - 00:32:53]
+Yo creo que el error, este, principal de FTX fue precisamente hacer uso de los recursos sin haber anunciado que que los lo estaba haciendo, ¿no? Entonces, ¿qué sucede? Pierde confianza, todo mundo saca el dinero y no hay banco, no hay institución financiera, no hay, y estoy hablando en el mundo, no hay empresa que pueda, este, hacerse cargo de una operación sin liquidez. Entonces, simplemente no quiero minimizar el tema, lo único que creo yo es que vamos elevando, tema, lo único que creo yo es que vamos elevando el conocimiento y la la etapa en la que estamos viviendo, y hoy lo que sí va a suceder, y para eso está hecho Blockchain, es para que precisamente no dependas de una unidad centralizada, y creo que por este tipo de eventos nosotros estamos aprendiendo y entendiendo que centralizar no necesariamente es sinónimo de de mejora o de facilidad o de o de ganancias, ¿no?
+
+[Speaker 6 - 00:34:02]
+Simplemente pongo el el contexto de la criptomoneda más vieja de de del mundo, que es Blockchain, ¿no? Blockchain no necesita un DEX o una, este, entidad Bitcoins. Poder hacer algo, ¿no? ¿Cómo?
+
+[Speaker 1 - 00:34:19]
+¿Bitcoin? Dijiste Blockchain.
+
+[Speaker 6 - 00:34:22]
+¿Bitcoin es Blockchain?
+
+[Speaker 1 - 00:34:24]
+Sí, de acuerdo, de acuerdo. Sí, sí.
+
+[Speaker 6 - 00:34:27]
+Y y eso era, digo, esos 3 puntos quería sumar a la conversación.
+
+[Speaker 1 - 00:34:33]
+No, definitivamente para todos los que nos escuchan, que a lo mejor están apenas tratando de entrar en el ecosistema, todavía estamos en una fase experimental, creo yo. Yo creo que todavía estamos en una fase experimental. Estamos viendo cómo la gente desarrolla nueva tecnología y tiene y recibe cierto control, cierto poder. Y pues bueno, algunos lo están usando bien. Ya vimos que otros no, también, o mal. O pues ilegalmente, creo yo que lo que hizo la gente de FTX es ilegal completamente. Pero pues mientras no aprendamos a utilizarlo, y mientras los gobiernos, que creo que también se van a montar bien fuerte, como lo decía hace rato Jesús, a regular, no se pongan al corriente con los desarrollos tecnológicos, va a ser algo que vamos a seguir viendo, ¿no? Esos ciclos de de de de alzas muy muy elevadas, y también de esas caídas fuertes y de protocolos o de sistemas que truenen como FTX. Oye, Mercy, yo yo te quiero hacer una pregunta a ti YYA
+
+[Speaker 3 - 00:35:34]
+Jesús, este, ¿consideran que la regulación hacia las exchanges es una regulación hacia cripto? O sea, si tú dices quiero una regulación cripto, ¿ahí meten la regulación hacia los exchanges? O sea, cripto, ¿ahí meten la regulación hacia los exchanges o es otra cosa? O sea.
+
+[Speaker 0 - 00:35:52]
+No, pues yo yo yo te diría Jesús échale. La la regulación siempre es para prevenir extorsiones en el mercado, para proteger a los consumidores. Este, por eso existe. O sea, la la la toda la teoría de libre mercado muy bonita y todo, pero hasta que se dieron cuenta que que hay distorsiones que el gobierno debe de entrar para, este, pues, no no para tener mayor competencia y y protección a los usuarios. Entonces, si si el el gobierno siempre le va a entrar siempre y cuando vea que hay un impacto adverso sobre los consumidores, que en este caso, son los inversionistas de FTX, por ejemplo. Entonces, la la la regulación entra solamente cuando es necesaria. No es porque el gobierno quiera y se le ocurra mágicamente regular, porque quiera
+
+[Speaker 3 - 00:36:39]
+destruir No, no, no. ¿No? Simplemente es para para para regular. Pero mi mi duda es, o sea, la, o sea, regular a los exchanges centralizados, dígase, por ejemplo, FTX, binance, así, para mí no es regular cripto, o sea, ahí lo que están regulando son entidades, empresas legales, ¿no? No están regulando en sí la las criptomonedas, ¿no? Por eso yo cuando digo quien esté en quien esté a favor de regular las criptomonedas está en contra de las criptomonedas, porque una cosa es regular las empresas que sean centralizadas y otra cosa distinta es regular las criptos, ¿no?
+
+[Speaker 0 - 00:37:22]
+Sí, no, yo, o sea, la verdad no sé cómo esté redactada o cómo se esté pensando la nueva regulación cripto, que le llaman así, pero no, claramente es contra los exchanges en este caso, ¿no? Pero no sé qué más puedan hacer. He escuchado que que en China ya se se prohibió el minting, digo, cada país lo lo hará de de acuerdo a sus circunstancias, ¿no? Este, pero sí, no, es es contra las entidades que están generando estas estas estas pérdidas a los usuarios, ¿no? En este caso. Pero no sé qué más allá puede pueda existir una regulación, ¿no?
+
+[Speaker 1 - 00:37:55]
+No, yo estoy de acuerdo con Tavo. Finalmente, el gobierno tiene y va a entrar. ¿Por qué? Porque ellos se tienen que llevar una parte del pastel. El gobierno creo yo que no va a evitar tratar de empezar a cobrar impuestos, a tratar de de alguna manera llevar el control, como buscan normalmente los gobiernos, de esas entidades que manejan grandes cantidades de dinero y que pueden afectar a la gente que vive ahí. Estoy de acuerdo contigo Tavo. Yo creo que regular exchanges no es regular cripto. No dudo que quieran entrar al tema cripto con una regulación un poquito más fuerte. Pero finalmente es algo que no pueden controlar. Al menos algunas monedas que ya tienen una distribución suficiente y que tienen un un protocolo de consenso bastante, pues, necesitas gastar energía para poderlo proteger. Yo creo que a lo mejor lo podrían llegar a ilegalizar, que la verdad lo dudo.
+
+[Speaker 1 - 00:39:00]
+Sería un gran error que algún gobierno de de de como Estados Unidos en Europa lleguen a ilegalizar alguna moneda. Pero yo creo que sí se van a meter fuertemente a poner ciertas condiciones para utilizar exchanges en esos países. Más fuerte de lo que ya existe, donde tengan ellos más control, donde haya ciertas cuestiones, donde los exchanges tienen que reportar las los los activos que tienen, y que probablemente haya a lo mejor algún fondo de un algún seguro, o que No sé No sé de dónde salga realidad ese dinero. Jesús ahí nos puede ayudar. Pero yo creo que tienen que entrarle fuerte a esas casas de cambio que te permiten y que controlan cantidades de dineros grandes de sus ciudadanos. Jesús, no sé qué opinas.
+
+[Speaker 0 - 00:39:55]
+Sí, yo creo que el el de hecho ya ya se permite hasta un por 100 de de las reservas de los bancos en Estados Unidos que tengan criptos. Este, eso se permitió justo por la demanda que hubo hasta hace poco de de las criptomonedas, ¿no? Pero, obviamente, tiene que haber un un nivel de mínimo, máximo de reserva de cierto tipo de instrumentos que todavía no se sabe el impacto que pueda tener. Este, pero bueno, hacia hacia eso va, yo sí sí va a haber regulación, eso es inevitable en todo el mundo, justo para evitar episodios que estamos viendo ahora. No se va a regular el cripto, se va a regular los mecanismos de intercambio, yo creo, sobre todo las famosas wallets o los exchanges que estamos viendo, ¿no? Pero pues hacia eso vamos, yo creo que es es inevitable. Bau,
+
+[Speaker 1 - 00:40:43]
+échale, ¿qué opinas? Pues,
+
+[Speaker 4 - 00:40:46]
+lo que opino es que ese tipo de regulación a exchanges no va a ser de la noche a la mañana, va a tardar mucho tiempo. Sobre todo porque cada país en donde estén formadas esas empresas, tendrán regulaciones diferentes y pensamientos diferentes, obviamente, de diferentes intereses, ¿no? Esto, digo, no será ni la primera vez que pasa ni la última. Lo hemos visto en la historia en otros mercados financieros, bancos que han tronado, por ejemplo, la crisis de la vivienda en 2008, 2009, cuántos bancos perdieron la solvencia por tener tanta deuda. Lo hemos visto en México también todas las familias o personas que pierden sus ahorros en estas cajas de ahorro que que están por todos lados, que salen de la noche a la mañana. Al final de cuentas, este, esto en cripto va a tener que tener cierta regulación, ¿sí? Porque los usuarios finales tienen que tener cierta protección, pero va a ser complicado, ¿no?
+
+[Speaker 4 - 00:41:48]
+Todos los días esto evoluciona. Yo, por ejemplo, vivo ahora en Estados Unidos y y mi mi cuenta del banco, por ejemplo, cuando intentaba yo comprar cripto, al principio dejaba comprar con tarjeta de crédito, ahora ya no. Ahora hacen un tracking de la deuda también, ¿no? Por ejemplo, también JP Morgan Chase podía dejarte comprar en Coinbase, pero no te dejaba comprar en otros exchanges, por ejemplo, Crypto.com al principio. Entonces, este, esto evoluciona todos los días. Y y, al final de cuentas, las mismas, este, digamos, instituciones financieras, van a tener que ir poniendo también ciertos mecanismos de de de hacer locking a a lo que sea más riesgoso, ¿no? Entonces, este, va a haber ahí un un merge entre instituciones financieras y y cripto que que va a tener que ser regulado a la par.
+
+[Speaker 1 - 00:42:46]
+Memo, échale. No, perdón, Jesús. Jesús, antes de Memo.
+
+[Speaker 0 - 00:42:49]
+Sí, no, yo yo te diría, Bablir, tienes razón, pero a diferencia de lo que pasó en 95 96, por ejemplo, todas las personas que que están en una caja de ahorro o banco FAMS a en México, se les regresan sus depósitos hasta 2.5 1000000 de pesos. En Estados Unidos igual con el FDIC, gracias a la regulación que está en pie, y gracias a las experiencias adversas que tuvimos en épocas pasadas. Entonces
+
+[Speaker 1 - 00:43:14]
+¿De dónde sale ese dinero? Para Estados Unidos y para México, ¿de dónde sale el dinero para reponerle a la gente
+
+[Speaker 0 - 00:43:21]
+si algún banco truena? En México se llama el IPAP y en Estados Unidos es el FDIC y es un seguro que pagan todas las instituciones financieras. Es como si tú pagas un seguro de carro, tienes un accidente, pues el seguro te tiene que compensar, es exactamente lo mismo. Todos los bancos mes a mes pagan una cuota para proteger a los consumidores hasta ciertos UDIS en México que, por ejemplo, si tú tienes 10000000 de pesos, pues nada más te cubre 2.5. El resto, pues se pierde, ¿verdad? Tendrías que entrar en una litigación, un tema legal para pelearlo. Pero gracias a episodios de crisis hemos tenido esa regulación que protege a los usuarios, ¿no? Tanto en México como en Estados Unidos.
+
+[Speaker 1 - 00:44:02]
+Y esas esas regulaciones, ¿no? Esas crisis donde el gobierno dijo, a ver banco, tú tienes que pagar esta cuota cada mes o cada año, para ese fondo que va a servir para compensar a la gente, en dado caso que truenes. Eso lo lo definió el gobierno, entiendo.
+
+[Speaker 0 - 00:44:19]
+Claro, pues los expertos en el tema. Siempre pasan a través de la cámara de de diputados o representantes en Estados Unidos. Son cámaras y comisiones que establecen ese tipo de de medidas para proteger a los
+
+[Speaker 1 - 00:44:32]
+consumidores. Y en Estados Unidos me imagino que es igual. El gobierno le dijo a los bancos, tienes que protegerte de esta manera, y esa institución que tiene ese fondo le va a compensar a la gente hasta cierta cantidad. Por eso entiendo que vemos de repente que el la gente que tiene mucho dinero tiene efectivo en los bancos hasta 2000000 y medio. Luego abre cuentas en otros bancos para tener otros 2 y medio, y en otro banco otros 2 y medio. ¿Por qué? Porque finalmente distribuye el riesgo y es la cantidad que está asegurada que le pueden regresar, ¿no?
+
+[Speaker 0 - 00:45:02]
+Es correcto. Si tú haces eso, el gobierno en México, en teoría, tendría que rescatarte en todas tu tu dinero. Y si metes todo tu dinero en un banco, nada más te van a regresar hasta 2.5 1000000. Ahora, contestando tu primer pregunta, en Estados Unidos, el FBI sí tiene más de 60, 70 años. En México, el el el IPAP tiene desde el 97 ¿verdad? Desde que desde que falló el FOBAPROA, que era algo similar, pero que se utilizó recursos públicos para rescatar a los depositantes. Pero pues Estados Unidos tiene tiene décadas y funciona muy bien.
+
+[Speaker 1 - 00:45:37]
+De acuerdo. Y esas son una de las ventajas que hay de la regulación. Que probablemente puedan implementar algo parecido o para cripto, quién sabe. Hay que ver cómo se se se en realidad se desarrolla eso. Memo échale.
+
+[Speaker 6 - 00:45:49]
+Sí, no, yo lo que iba a aportar es, al final yo yo nunca, este, o o no estoy en contra de la regulación. Yo creo que donde sí estoy en contra es quién hace las reglas de la regulación, ¿no? A mí sí me preocupa que las reglas las ponga el gobierno porque normalmente el gobierno va a pensar en los intereses del gobierno y no en el interés general de lo que está sucediendo, este, en el tema cripto, ¿no? Yo por eso cuando hago mis comentarios en en algunos foros que que me invitan, mi sugerencia es la regulación tiene que venir de la industria, y el gobierno tiene que escuchar las razones por las cuales la industria está solicitando ese tipo de regulaciones, ¿no? Así sucedió con la ley fintech, ¿no? Fue un arreglo entre el gobierno y los la la las personas que en ese momento estuvieron tomando las decisiones.
+
+[Speaker 6 - 00:46:53]
+Lo mismo creo que exchanges no debería de pedirte, este, tus datos personales, por ejemplo, ¿no? Habrá gente que diga, no, yo quiero, este, seguir en el anonimato y no me interesa eso. Bueno, esa entidad no va a ser para ti, para ti son los exchanges descentralizados en donde cuidan tu anonimato, pero al final hay el mercado para todo, y lo que sí me preocupa es que se tomen decisiones en algún lado en donde no están ni siquiera entendiendo cómo funciona el el el mundo cripto, ¿no? Esa es la parte importante, creo yo.
+
+[Speaker 3 - 00:47:35]
+Yo yo yo estoy de acuerdo aquí con Ah, perdóname, Jesús, voy voy a dar un comentario bien rápido. Dale. Yo estoy de acuerdo aquí con con con Memo, y lo que normalmente hace, con Memo, y lo que normalmente hacen los legisladores en en muchos países es hacer parlamentos abiertos, ¿no? Donde se invitan a los participantes, por en este caso, por ejemplo, de de los exchanges y más, a que caso, por ejemplo, de de los exchanges y más, a que regulen junto junto con con los legisladores. Ahora, otra cosa es que realmente los escuchen y cumplan sus sus sus expectativas, ¿no? Porque es bien peligroso, no solamente por por el tema de que papá gobierno pueda ser malo para los intereses del mismo gobierno, sino también por intereses de de hacia el poder económico, ¿no? Tenemos el caso de FTX, o sea, FTX estuvo ayudando y estuvo incluso Sam con con los legisladores de Estados Unidos trabajando en esta regulación y pues al final terminaron igual en bancarrota, ¿no?
+
+[Speaker 3 - 00:48:36]
+O sea, les fue tan tan mala la regulación y y tan injusta que solo escucharon a un solo actor de de del mercado, que es FTX, que, pues, ya vemos como cuáles fueron los resultados, ¿no? O sea, es es bien importante que se escuchen a todos, a todos los exchanges y a todos los participantes, no solo no solamente a unos cuantos.
+
+[Speaker 0 - 00:48:57]
+Oye, pero yo yo yo ahí interrumpiría con así se hace, o sea, cuando cuando la reforma, la última reforma financiera, la de Peña Nieto, así se hizo, se invitó a todas las instituciones financieras, su folio, su fomento, su órdenes de crédito, sector bancario, se hizo una comisión de especialistas, estuvo involucrada la Comisión Nacional Bancaria de Valores, Banco de México, Hacienda y Crédito Público, la Consar, y entre todos generaron una redacción de una ley que todos estaban de acuerdo. O sea, así se hace, inclusive había representantes de de los consumidores, había sindicatos, la ley Fintech es otro, y tú lo acabas de decir, así se hizo también la Ley Fintech. Claro que se invita a los participantes, así se hace en todo el mundo. Bueno, todo el mundo abierto, liberal, ¿no? Pero, este, o sea, sí, mi experiencia es que sí se toma en cuenta, sobre todo, es más, yo te diría que se toma en cuenta, además, de la industria. Y a veces puede ser negativo.
+
+[Speaker 1 - 00:49:58]
+No, y en ese caso a mí me encantaría estar en alguna de esas reuniones y poner de mi granito de arena y, ¿por qué no? Ayudar a darle guía a esa situación. Y creo que el el el tener estas comunidades donde podamos discutir y podamos reunirnos y a lo mejor luego podamos unirnos a generar ese grupo de gente que se acerque AAA hablar con los que están decidiendo, creo que tiene muchísimo valor y hay que buscarlo. Finalmente creo que esto viene ya pronto. Creo que tenemos que estar involucrados y tratar de darle rumbo a la industria. Antes de memo, vamos con con Skype.
+
+[Speaker 3 - 00:50:36]
+Oye, bro, voy a interrumpir porque tengo el poder del coanfitrión. Échale échale. Para para contestarle a Jesús que que es que sí se hace, o sea, no, yo creo que ni Momo ni yo, que que estamos como con este punto defendiéndolo, no estamos negando que que no se escuche, el el tema es que al final de cuentas, o sea, de nuevo pongo pongo el caso de FTX, o sea, se escuchó, o sea, sí se hicieron esa comisión, sí se hizo un parlamento abierto, pero lo hicieron mal, ¿no? O sea, el tema no no es que se haga que que se escucha a todos, sino que realmente al final la regulación que se termina probando sea la que le conviene a todos, no solamente a unos cuantos, ¿no? O sea, porque sí se hace, pero distinto sea que sí se cumpla.
+
+[Speaker 0 - 00:51:23]
+Pero pero según yo la la FT sí no no no está regulado, ese ese fue el el el problema. O sea, si si un banco tradicional hace eso, este, sí sí entras, o sea, sí te castiga el gobierno. No, no, FTX
+
+[Speaker 3 - 00:51:36]
+estaba regulado, porque recordemos que FTX estaba en 2, ¿no? FTX Estados Unidos USA y FTX Internacional. El FTX Internacional no estaba regulado, pero FTX de Estados Unidos sí estaba regulado en la y fue una regulación en la que participó incluso Sam, o sea, hay videos de él ahí con los legisladores hablando con ellos, dando sus puntos, ¿no? Es es es
+
+[Speaker 5 - 00:52:01]
+eso.
+
+[Speaker 1 - 00:52:03]
+De acuerdo, de acuerdo. ¿Seguiría por ahí? Scrib y luego tomemos.
+
+[Speaker 8 - 00:52:08]
+Nada, a mí a mí me gustaría un poco agregar una cosa y es que el tema de la regulación depende un poco mucho del país en sí. Por ejemplo, en España el tema de la regulación, el problema que hay sobre todo, es realmente la cantidad de impuestos que te que te cobran, y es una de las cosas que la gran mayoría de España se se quejan, ¿no? Es decir, date cuenta que tendrías que pagar como casi la mitad en impuestos. Entonces, yo creo que si se quiere por parte de los gobiernos que haya una regulación pacífica, por así decirlo, deberían de dar formas de que sea pacífico y por ejemplo, para diferencia de España está Portugal, donde realmente la adscrito tributan a un impuesto muy muy bajo, incluso nulo. Eso es una adopción real y es una regulación real, como tal ¿no? Y otra cosa importante que quisiera poner es, vale, los exchanges centralizados sabemos que van a estar regulados, incluso está claro que es necesario para que no sigan jodiendo lo que es la a la industria, pero bueno, realmente la Blockchain no son los exchanges centralizados. Entonces yo saco sobre la mesa qué pasa con los sistemas de intercambio P2P, como Lock andBitcoin y demás, sistemas que no dependen ni de alguna web, ¿qué pasa con ellos?
+
+[Speaker 8 - 00:53:16]
+Eso no van a poder meterle mano.
+
+[Speaker 6 - 00:53:21]
+Sí, 2 cosas quería comentar, ¿no? Digo, un ejemplo claro es, este, y saliéndome un poco del tema, es las CBDCs en México. México anunció que en el 2024 va a tener sus CBDCs. No sé si alguien se ha tomado el tiempo de revisar tanto el plan y el esquema técnico que tiene México para una CBDC. CBDC, de entrada, no va a usar Blockchain, ¿no? Entonces, para mí está bien como concepto porque al final es una, este, moneda digital, pero lo único que va a hacer es un súper sistema que, para empezar, México es de los pocos países que no entra en un sistema global como Mastercard y Visa, ahora está abriendo un poco el tema, pero el el mensaje que quiero dar es, México lo que dijo es, voy a hacer un súper CODI, para los que no saben y no viven en México, CODI es un es un código QR que te puedes traspasar de teléfono a teléfono, este, dinero, ¿no?
+
+[Speaker 6 - 00:54:24]
+Eso es el plan de las CBDCs en México, ¿no? Para mí ese es una broma, ¿no? O sea, el que el que anuncien que va a tener su propia CBDC y que terminen diciendo que va a ser un el código QR, este, tradicional nada más que más rápido y 24 horas al día, este, para mí se me hace una broma, ¿no? Entonces, volviendo al tema de la regulación, ahí es donde yo veo que que no existe esa visión porque, de entrada, yo no he visto que se esté abriendo el panel ni en el senado ni en ninguna de las cámaras para hablar abiertamente de qué vamos a hacer con las criptomonedas legisladores que, de pronto, levantan la mano una vez al mes y hablan de bitcoin, que que qué padre en El Salvador funciona y todo esto, pero pero la verdad es que ni siquiera estamos en la discusión, ¿no? Por lo menos hablando en México. Eso es lo único que quería aportar.
+
+[Speaker 1 - 00:55:28]
+No, y sobre el CODI famoso, es una tecnología que ya tiene algunos meses, si no es que años, y yo tengo contacto con con con una empresa que mueve valores. Ellos se dedican a a hacer traslado de valores aquí en México. Van y alimentan de dinero efectivo los cajeros. Van y recogen dinero de los Oxxos, de los Super 7, de mercados, de industrias, de de de Se mueven por toda la República moviendo efectivo. Y lo que me mencionan ellos es que el efectivo se sigue usando mucho. Y que el CODI no se ha implementado. Y yo creo que esto es algo que la tecnología, los mismos bancos, como no sacan provecho cuando se utiliza CODI, no lo empujan. Entonces es algo que también me preocupa mucho, ¿no? Que hay desarrollos tecnológicos que facilitan y que disminuyen la fricción. Y que podrías tú con un QR, como tú dices, y celular, rápidamente mover dinero de un lado a otro, no se está utilizando porque los gobiernos, perdón, porque los bancos no sacan ni una comisión ni sacan provecho de la situación.
+
+[Speaker 1 - 00:56:31]
+Entonces hay que ver en realidad también, como tú dices, qué tecnología usan el famoso CBDC aquí en México. Yo me he sentado a leer una presentación de hace un año más o menos de cómo lo explica y todo. Me hace falta meterme a las tripas en realidad de la tecnología. Pero el problema va a ser el uso y el el el el funcionamiento que le den y en realidad sí hay un un una adopción entre la entre la comunidad. Pero bueno, adelante, Scribe.
+
+[Speaker 8 - 00:57:02]
+Realmente si te pones a estudiar un poco los que van promoviendo SSDC, siempre en las charlas y demás te te hablan no de la SSDC como dinero digital, sino de la funcionalidad de ese dinero digital. Entonces yo creo que quizás deberíamos de mirar qué qué va junto a la CBDC. Yo creo que al lado de la CBDC va lo que es el crédito social, por así decirlo. Por ejemplo, primar que si compras ciertas cosas en bajo un carbono tienes más retribución, si tú eres una empresa tal, etcétera ¿no? El problema está en que en ese tipo de, tenemos los programas agregados, va lo que es la la anulación de, en sí, de la libertad del dinero como tal. Entonces claro, si los gobernantes como tal, si fueran transparentes y todo se manejara de una forma abierta y democrática, la CDC sería una una buena utensilio como tal. El problema hace los abusos de poder sobre esta herramienta. Entonces, ¿a quién beneficia
+
+[Speaker 1 - 00:58:00]
+realmente la CDC? ¿Quién tiene interés de que eso se implemente y por qué? A ver, hay 2 speakers por aquí que no han platicado. ¿Pupiccho? ¿Qué opinas? Pupicho, pupicho. Nada, nada. No está al pendiente.
+
+[Speaker 0 - 00:58:24]
+Hegars. Ahí va. 12 segundos.
+
+[Speaker 1 - 00:58:28]
+Venga, algo de valor. Si no, vamos con g. G Zarib. ¿Qué onda Zarib? ¿Qué opinas del tema?
+
+[Speaker 9 - 00:58:37]
+Nada, igual coincido con con con los comentarios que hicieron. Digo, aquí en México realmente no creo que hayan escuchado a los jugadores que son pocos, ¿no? Porque, pues, de entrada, cuando emitieron la ley fintech, por otro lado, la la comisión emitió una circular donde prohibía a las compañías que que participaran en el ecosistema fintech la la oferta de criptomonedas al público mexicano, ¿no? Entonces, o sea, realmente ahí no no no no escucharon AAA los jugadores que existieron en ese momento en México, ¿no?
+
+[Speaker 1 - 00:59:19]
+Gracias. Pupicho, adelante. Nada, segundo strike. A ver, a ver, sí.
+
+[Speaker 10 - 00:59:30]
+Yo estoy yo estoy por viajar para México porque están muy avanzados con el tema de criptomonedas. Me metí acá a la conversación para escuchar un poco, que en próxima semana voy a estar por allá. Y nada, hace 5 años me dedico a las cripto y, bueno, quería saber un poco del mundo mexicano de criptomonedas. ¿De dónde eres? Me escucho. Soy argentino, pero bueno, vengo viajando por todos lados hace 5 años, conociendo de todo un poco.
+
+[Speaker 1 - 01:00:00]
+Y ese es un caso especial. ¿Por qué estás en cripto? ¿Cómo te ha tratado la inflación por allá?
+
+[Speaker 10 - 01:00:07]
+Bueno, Argentina, como verán, es 1 de los países con más inflación y devaluación de la moneda. 1 de los países más corruptos, que era 1 de los más ricos hace 30 años, y ahora vas a ser 1 de los más pobres y más críticos a nivel mundial. Entonces, nada, no me da otra que viajar por el mundo, ver cómo cómo cómo se van manejando las nuevas tecnologías, y me llegué con Web3 hace 5 años. Le estoy dando boliche a eso, estoy con un emprendimiento de NFT, pero con tecnología artificial, va a ser 1 de los primeros. Y nada, me estoy yendo a México, que me gustaría, 1 de los socios, yo que estamos creando eso, estar en México para hacer la exposición de, pues, garrafas divinos con tecnología artificial y NFT, que va a venir todo junto.
+
+[Speaker 1 - 01:01:02]
+Excelente, excelente. Jesús, ¿qué opinas de la inflación en Argentina? ¿Por qué allá no la han podido controlar? ¿Qué han? Digo, no sé si si si estás enterado del tema. Yo la verdad no tengo la mejor idea. Pero volteo a ver Argentina, volteo a ver Venezuela. ¿Qué está pasando allá, no? Empezamos hablando de inflación y de cómo la controlan y ¿con qué la están cagando?
+
+[Speaker 0 - 01:01:24]
+Sí, pues allá, a diferencia de México, por ejemplo, el Banco Central no es autónomo y se utiliza para financiar el déficit público. Y eso implica que mes a mes imprimen muchísimo, aumenta la oferta monetaria y, pues, si aumenta la cantidad de dinero disponible, y no aumentas la productividad, pues, aumentan los precios. Y ahorita tienen 83 por 100 inflación, y eso implica que tendrías que casi casi trabajar el doble de un año para el otro para consumir lo mismo. Entonces, por eso eso explica mucho la migración en esos países, porque son economías fallidas. Eso eso ya lo experimentamos en los ochentas en México. Es más, en México tuvimos inflaciones del 150 por 100, y eso es lo que generó la pobreza estructural que vemos hoy en día. Por eso los los países atacan mucho la inflación, porque de no hacerlo, lo que vas a hacer es es una pobreza estructural. No no es fácil que el ingreso disponible de estas personas se eleve de un día para otro, pero sí es fácil que pierdan su poder adquisitivo de un día para otro.
+
+[Speaker 0 - 01:02:26]
+Entonces, por eso vas a ver que todos los países desarrollados le tienen pánico a la inflación, y es lo que están haciendo hoy en día.
+
+[Speaker 1 - 01:02:35]
+Oye y allá las bancas centrales están subiendo todo ese interés también, o sea que andan como en el 30 o qué, o sea cómo
+
+[Speaker 0 - 01:02:42]
+Argentina ya está en 100 y 10 por 100, pero pero es una economía que no tiene confianza. Entonces, aún y con las altas tasas de interés no atraes capitales, porque hay mucha desconfianza en los gobiernos.
+
+[Speaker 1 - 01:02:57]
+Échale.
+
+[Speaker 6 - 01:02:59]
+No, yo te iba a decir, digo, comparativa a mí de pronto me gusta comparar el mundo real con con el cripto, ¿no? Y una de las cosas es eso. Yo creo que el una de las deficiencias que tiene en el sistema monetario es precisamente que puedes imprimir dinero cuando quieras, dependiendo el gobierno en turno o cuando a alguien se le antoja. ¿No? Si se Pero eso eso no es una eso
+
+[Speaker 0 - 01:03:23]
+no es una deficiencia. No, déjame terminar. Todo todo lo contrario. Échale Jesús, échale Jesús. Aquí tienes tu No, mira, yo yo yo te diría, mira, es que eso es un error. Cuando dices, es que imprimen, ok, pero así como imprimen retiran. O sea, yo yo creo que esa es la ventaja del fiat sobre cripto. Yo yo puedo manipular la oferta monetaria, yo puedo expandirla cuando se necesite para aumentar la la actividad económica y reducirla cuando se necesita para bajar la inflación. Tú no tienes, por ejemplo, el control de las bitcoin. Entonces, no tienes absolutamente, el momento que tú adoptas bitcoin, pierdes tu política monetaria. Entonces, eso de de de pero lo tienes que hacer de manera razonable, no vas a imprimir por imprimir, que es lo que pasa en Argentina, sino vas a estimular la demanda agregada sin afectar la inflación. Ese sería nada más
+
+[Speaker 1 - 01:04:12]
+Ahí no estoy de acuerdo con Chuy. Ahí yo creo que bitcoin tiene su política monetaria ya programada en el sistema. Y 1 sabe perfectamente cuántos hay en circulación ahorita, y cuántos va a haber en el futuro. Y eso, pues, sirve para hacer ciertos modelos. Pero bueno, échale,
+
+[Speaker 6 - 01:04:33]
+Vamos, vemos. Lo, no, lo lo lo único que quería decir, digo, y para terminar la idea hace ratito, para contestarle a Jesús. Precisamente hay criptos que tienen ese mismo problema. ¿Y por qué y por qué le le llamo problema, Jesús? Porque al final un sistema en donde tú puedes imprimir lo que tú quieras es inflacionario completamente. Y una cripto como bitcoin o como otras, porque cuando tú pones un cap y dices, voy a poner 100000000, y hay una función que no sé si conoces, pero hay una función de quema de un porcentaje de esas tokens o monedas, porque no todas las cripto son tokens, este, perdón, todas las cripto son este, perdón, todas las cripto son tokens, pero no todos los tokens son criptomonedas. Ahí, si quieren, después entramos en en esos detalles, pero lo que quiero decir así muy muy fácil y simple, Un sistema deflacionario, o sea, que evita la inflación, es cuando tú sacas, por ejemplo, una moneda y vale un empieza a bajar su su su su costo, ¿ok?
+
+[Speaker 6 - 01:05:46]
+O su precio, como le quieras llamar. En ese momento, tú puedes decidir eliminar el 25 por 100 de esas criptomonedas, y lo que hace es crecer en precio, porque hay menos cantidad para más mercado, ¿ok?
+
+[Speaker 0 - 01:06:02]
+Oye, Memo, pero por ejemplo por ejemplo, hoy con un bitcoin puedes comprar 76 por 100 menos casi un dólar. Pero ese es el tema de oferta demanda. Y y 2 y 2, no, por eso, y segundo, segundo, digo porque me estás diciendo que es inflacionario y te lo estoy comprobando que no es cierto. No, te voy a decir por qué. Por ejemplo, si hay un choque, espérame, si hay un choque de oferta, no de demanda, o sea, estás de acuerdo que cuando imprimes, estoy de acuerdo, puedes generar inflación por la demanda, pero lo que hemos experimentado hoy en día, sobre todo a inicios del año pasado, inicios de este año, perdón, fue choques de oferta sobre commodities por la guerra Ucrania-Rusia, es decir, se produce menos y por eso aumentan los precios. Ahí, ahí, ahí, si estuviéramos en bitcoin, ¿cómo vas a retirar el bitcoin para disminuir la demanda agregada? Pregunta. No. Según yo no se puede, y estás estás No, lo lo que pasa es que estás comparando
+
+[Speaker 6 - 01:06:50]
+un sistema monetario que ya lo utilizan 1000000 de personas. Acá el todavía no se generan los 21000000 de Bitcoins que van a circular, ¿ok? Lo
+
+[Speaker 0 - 01:07:04]
+Bueno, pero por por otra vez, si hay un choque de oferta y quieres disminuir los precios, ¿cómo vas a hacer para que haya menos bitcoin en el mercado o que la gente gaste
+
+[Speaker 6 - 01:07:14]
+menos? Lo lo lo voy a poner al revés, lo voy a poner al revés. Si tú comparas los años que bitcoin tiene que llegó a 69000 dólares y ahorita está en, ¿qué? No sé, no he visto 15000 dólares, lo que sea. Si tú comparas eso contra la inflación de cualquier país, llámese Estados Unidos, China, la que quieras, yo te puedo apostar que en ese mismo período de tiempo es hay mucho más inflación y y la moneda se devalúa más que un bitcoin, porque hay que comparar peras con peras, ¿no? Y eso, la apuesta que estoy haciendo es precisamente en tomando en cuenta que bitcoin tiene 10 años de vida, tiene, este, bueno, poco más de 10 años, 12 12 13 años de vida. ¿No? Contra un sistema que lo utilizan 1000000 de personas.
+
+[Speaker 6 - 01:08:15]
+Ese es mi punto. Al menos, único que tienes de Yo sería que sabes que va a haber En un año 1000000. En en una
+
+[Speaker 0 - 01:08:27]
+En Nina, en un en un año el bitcoin ha perdido poder adquisitivo 3 veces más que el dólar. Y es te te lo y y eso que hemos tenido inflación es Pero entonces, te lo pido. CoinBitcoin es 3 veces eso.
+
+[Speaker 6 - 01:08:40]
+No, no, no, me refiero a una Yo te puedo decir que a mí me refiero a mí y ojo, y ojo, va.
+
+[Speaker 0 - 01:08:48]
+Baja. No, te te, o sea, checo una canasta básica YYY ve lo que puedes comprar con bitcoin hoy, lo que podías comprar hace un año, y ve lo que compras hoy con un dólar o con dólares con lo que te esperabas el año pasado. 3 veces Lo voy a poner al revés. Porque eso es eso es inflacionario.
+
+[Speaker 3 - 01:09:05]
+Oye oye Jesús, a ver mutee aquí a a los participantes porque quiero quiero hacer una pregunta para Memo a ver si si yo estoy en lo correcto. Este, en algún punto, cuando se llegan a imprimir todas las Bitcoins, la gente que que más las acumule, ¿le conviene quemar sus propias Bitcoins porque va a subir el precio de la bitcoin? ¿Estoy equivocado? 000 sea, porque sí hay un sistema de quemado de Bitcoins, o sea, sí se pueden sacar de de la oferta las Bitcoins, Jesús, porque eso parece que que que tú no lo sabías, ¿no? Ahora sí, voy a a desbloquearlo.
+
+[Speaker 1 - 01:09:47]
+No, y ahí tienes razón, Tavo. Se pueden ir destruyendo y también se van perdiendo. Lo que sí es que no se pueden crear nuevos. No no nunca vamos a poder crear más de 21000000 a menos que la mitad de los mineros cambien el el el las reglas. Que creo que eso es imposible, o va a ser muy muy muy complicado. Pero definitivamente sí sí se puede ir sacando la circulación, si cada 1 de nosotros decide quemarlo o destruirlo o hacer perdices las llaves privadas.
+
+[Speaker 0 - 01:10:17]
+Una cosa es que, por ejemplo, en la banca tradicional, el sistema monetario tradicional, el incentivo para crear o no oferta monetaria es la tasa de interés. O sea, subes tasa de interés y la gente guarda su dinero. Baja tasa de interés, la gente
+
+[Speaker 1 - 01:10:31]
+gasta. Sí, pero ese es un experimento que tiene 50 años.
+
+[Speaker 0 - 01:10:37]
+Bueno, pero funciona bien. O sea, eso es lo que realmente hoy en día es lo que estamos viendo que está controlando una inflación en Estados Unidos. Repito, si hay un tema inflacionario y tienes bitcoin, ¿qué vas a hacer? ¿Cómo vas a hacer para que la gente deje de gastar? ¿Sí me explico? Que le vas a dar un rendimiento, ¿qué? ¿Cómo lo vas a compensar para que la gente no gaste? Porque si sigue gastando, el problema inflacionario se basa en el control, ¿me explico?
+
+[Speaker 1 - 01:11:02]
+A ver, vamos con Pupicho primero y luego regresamos con demo.
+
+[Speaker 10 - 01:11:07]
+Bueno, como sabrán, hay gente que perdió mucho. Se calcula que ya se perdieron más de 500000 bitcoin en la historia del bitcoin, 12 años. ¿Por qué? Porque se hacen malas transferencias, porque la gente se muere con los los pendrive. Se sabe que es mucha la pérdida que hay por malas transferencias, por poner mal el hash, por malas transferencias, por poner mal el hash. En la historia del bitcoin, que les queda casi 100 años, 100 y pico de años para que se termine de minar el último, yo veo que sí va a haber cada vez menos, porque la gente se va a ir equivocando, se va a ir muriendo con claves, se va a se va a ir equivocando, se va a ir muriendo con claves, se va a pasar un montón de cosas. Entonces, me parece que sí, sí, sí se van a ir reduciendo los bitcoin.
+
+[Speaker 1 - 01:11:52]
+Memo, échale.
+
+[Speaker 6 - 01:11:53]
+No, yo lo que quería decir es la la comparativa que hay que hacer es, Bitcóin nació costando 0, y y hoy en día está a 16000 dólares, ¿no? O sea, las altas y las bajas siempre las ha tenido, ¿no? Ha subido a 10000, bajado a 3000, y y esos ciclos los va a seguir teniendo. Lo único que estaba yo tratando de comparar es con un sistema financiero, perdón, un sistema monetario actual en donde las decisiones son de unos pocos que pueden afectar a 1000000. En este caso, las reglas del juego están puestas. No hay manera de
+
+[Speaker 0 - 01:12:32]
+de cambiarlas, modificarlas, quien tenga Sí, memo, pero pero repito repito, la las decisiones que se están tomando en la Reserva Federal son de expertos justo para traer la inflación de regreso 2 por 100. ¿Qué vas a hacer otra vez? Imaginemos que estamos en un mundo de bitcoin, porque no me has contestado esa pregunta, y este año el bitcoin sí ha perdido 76 por 100 del valor y habría un proceso inflacionario muy difícil, ¿qué harías para que la gente gaste menos bitcoin? No me has contestado esa pregunta, para que en este año, no no en 10 años, no me interesa 10 años. Yo me interesa que el próximo año la inflación esté en 2 por 100. ¿Qué vas a hacer en un mundo de bitcoin para que la gente gaste menos y la inflación converja a 2 por 100?
+
+[Speaker 1 - 01:13:09]
+Pero ¿por qué quieres que la gente gaste menos? ¿Para qué sirve que ya? Para que baje la
+
+[Speaker 0 - 01:13:15]
+demanda. Si tú la la manera de controlar la inflación es que la gente gaste menos, porque si gastan menos los productos Pero a ver Jesús, pero es que, porque si gastan menos los productos Pero a ver Jesús,
+
+[Speaker 3 - 01:13:22]
+pero es que la inflación que existe es es del sistema monetario, o sea, no es no es de No, justo, por eso por eso por eso, pero no necesariamente, Tavo, hay 2 tipos de choques inflacionarios. 1 que es por exceso
+
+[Speaker 0 - 01:13:30]
+de hay 2 tipos de choques inflacionarios. 1 que es por exceso de de dinero, eso sí, por el lado de la demanda, y otro es por el choque de oferta. Lo que yo expliqué hace rato y lo que preguntaba a Memo, si tuviésemos una inflación de choque de oferta, ¿qué quiere decir eso? Hay menos productos, si hay menos productos encarece, no quiere decir que de repente la gente gastó más, simplemente hay escasez. Si hay escasez de microchips en China por el COVID y de granos de de trigo en Ucrania por la guerra, la manera que se está combatiendo es bajar la demanda agregada, ¿cómo? Subiendo tasas de interés, para que la gente gaste menos. Repito, si es un choque de oferta, ¿cómo vas a estimular que la gente gaste menos para controlar la lista? ¿Cómo lo hace, cómo lo hacen en el sistema tradicional? Suben las tasas de interés, al subir tasas de interés la la gente en vez de gastar, ahorra, entonces hay menos gasto y como hay menos gasto, los precios
+
+[Speaker 1 - 01:14:21]
+bajan. Bueno, ahí yo te regresaría la pregunta, Chuy. Considerando, y a lo mejor es algo que luego podemos platicar, considerando que bitcoin tiene ya su calendario de emisión totalmente definido y que no se puede cambiar, definido y que no se puede cambiar,
+
+[Speaker 0 - 01:14:36]
+obviamente no hay manera de controlar eso. Entonces entonces está en clara ¿Es quieres que pase? Va a ser un problema inflacionario
+
+[Speaker 1 - 01:14:44]
+impresionante. No tienes control de la política monetaria. Con manzanitas y peras. O sea, se va a encarecer las las
+
+[Speaker 0 - 01:14:51]
+cosas que no Nunca nunca vas a tener control sobre la inflación y se te puede ir fuera de control sin que tú tengas ninguna herramienta para controlar.
+
+[Speaker 3 - 01:14:58]
+Que No, pero en qué te están los A ver, Mexi, Mexi, le quiero hacer una pregunta rapidísima. ¿Qué qué se te ocurre, Jesús, que puedas hacer? O sea, ¿cuál sería para ti una solución para? Algún algún tipo de mecanismo, como una
+
+[Speaker 0 - 01:15:16]
+hay ningún mecanismo. Yo por eso creo que es una está en clara desventaja con la moneda tradicional, porque no puedes tener política monetaria, y si no tienes política monetaria, pues no tienes injerencia sobre los precios. Y si no tienes política monetaria, pues no tienes injerencia sobre los precios, punto. Ese es mi único punto.
+
+[Speaker 1 - 01:15:30]
+Ok, pero entonces, ¿qué le pasaría a los precios?
+
+[Speaker 0 - 01:15:32]
+¿Cambiaría? Se te se te se te quedarían elevados lo que a la a la larga mermarían tu ingreso disponible.
+
+[Speaker 1 - 01:15:41]
+A ver, vamos con Julio. Échale Julio.
+
+[Speaker 7 - 01:15:46]
+¿Qué tal? ¿Cómo están? Buenas tardes. Bueno, lo primero para Jesús, yo yo considero, ¿no? Según lo que le digo sobre el bitcoin, es que cuando se refieren a deflacionario, se refieren a deflacionario en la emisión de la moneda. Segundo, con respecto a lo que comentas de las herramientas, ya, por ejemplo, en un sistema monetario donde estuviese incluido el bitcoin, sí se pueden crear herramientas, ¿no? Como, por ejemplo, hay en otras monedas en las altcoins, como el stacking, por ejemplo, donde tú puedes guardar tus altcoins o tus monedas, ya sea Solana, ethereum, etcétera, por un rendimiento. Entonces, en el caso de bitcoin, sí se pudieran crear en algún momento ciertos mecanismos y ofrecer ciertos productos en las Defi para que si estuvieses gastando de más aplicar la una política monetaria donde sabes que vaya te ofrezco tanto rendimiento por tu bitcoin y si sacar de circulación algunos de los ya existentes. Sin embargo, pues, al ser una todavía una moneda alternativa, este, en en el sentido del sistema monetario, claro.
+
+[Speaker 7 - 01:16:53]
+Pues todavía no existen esos mecanismos, pero supongo va la tendencia va eso, ¿no? O sea, salvo que, pues, en el momento 2 o 3 países apenas lo han adoptado. Pero si se incluyese en el sistema monetario, pues, por supuesto, ¿no? Claro que se se podrían crear herramientas, este, para que, pues, por supuesto. ¿No? Claro que se se podrían crear herramientas, este, para que en un en un choque de oferta, como lo comentas, se pudiera decir, oye, ¿sabes qué? A ver, te ofrezco tal rendimiento, es decir, parecido a los CETES y y saco de circulación cierta cantidad de vida. Sí, Julio, pero el problema es que
+
+[Speaker 0 - 01:17:33]
+la la la idea del bitcoin, según lo que entiendo, es descentralizar la toma de decisiones, y vamos otra vez a converger a un a una decisión centralizada para controlar variables macro. Por eso insisto, tendríamos, el gobierno central, federal, el banco central, lo que tú quieras descentralizado, sería un un movimiento centralizado, como es el que tenemos ahora, ¿no? Digo, yo estoy hablando contigo. Corrección, Jesús. La descentralización
+
+[Speaker 1 - 01:18:04]
+no es de toma de decisiones. Aquí nadie toma decisiones. Las decisiones ya están tomadas porque las reglas ya están definidas. Lo que se descentraliza es la protección de esas reglas. Vamos con Scratch, que ya lo tenemos ahorita con la manita elevada, luego Android y luego con Julio. Y vamos a terminar dentro de los siguientes 15, 20 minutos aprox. Échale scribe.
+
+[Speaker 5 - 01:18:30]
+Vale, ahora, pues mira, yo tengo una pregunta para para Jesús, ¿no? En el caso de que él tuviera que diseñar lo que es una stable coin descentralizada y realmente que se pudiera utilizar, ¿cómo lo haría? ¿Qué elemento la le añadiría a ese tipo de stable coin?
+
+[Speaker 8 - 01:18:40]
+Sí, descentralizada
+
+[Speaker 5 - 01:18:46]
+y
+
+[Speaker 8 - 01:18:49]
+que puede ser con una lado o letra, lo que quiera, ¿no? Pero siempre en el ámbito web que, ¿cómo sería?
+
+[Speaker 0 - 01:18:54]
+No, no tengo idea. Yo yo yo lo que sugeriría es tener un mecanismo de recompensa o de castigo para poder manipular la oferta de esa moneda por temas inflacionarios, sería mi respuesta. ¿Cómo? No sé. Me se me hace más sencillo una moneda que la emita al gobierno central, que es lo mitad el gobierno central, que es lo que tenemos hoy en día. Mucho más sencillo, más práctico. Entonces mi respuesta ese ya no lo sé.
+
+[Speaker 1 - 01:19:16]
+No y créanme, esta es una conversación que yo he tenido con Jesús ya durante muchos, muchos meses, años. Me me ayuda muchísimo que haya muchos puntos de vista diferentes que, pues bueno, de alguna manera pongan de su parte para tratar de de de explicarle un poco a Jesús y que nos nos nos O sea que, pues bueno, vea las probables ventajas que puede llegar a tener esta tecnología. Entre entre todos le podemos nos podemos ayudar. Échale, Andrew.
+
+[Speaker 2 - 01:19:47]
+Sí, gracias, Mexi. La verdad que la conversación super interesante. Y bueno, ya me voy a Porro Loguate y le quiero una pregunta, bueno, voy a primero a expresar el video, pero lo voy a dejar como una pregunta a Jesús, a ver qué qué piensa él. Ah, Jesús, ¿y qué pasa si Bitcoins no hace no se adopta como una moneda de intercambio comercial diario, sino que se tomó como una reserva de valor, que no necesariamente necesita utilizarla para comprar bienes y servicios a diario. Eso es imposible para ti.
+
+[Speaker 0 - 01:20:20]
+No, ese ese se supone que era la idea, pero repito
+
+[Speaker 2 - 01:20:24]
+Esa esa esa es una de las funciones que puede llegar a cumplir.
+
+[Speaker 0 - 01:20:28]
+Pero no la está cumpliendo, o sea, repito, el último año ha perdido 76 por 100 de valor, entonces no está cumpliendo eso. Es más, está está el dólar le está ganando 3 veces el último año el valor a bitcoin. Entonces claramente no está cumpliendo esa función.
+
+[Speaker 1 - 01:20:44]
+¿Cómo va a cambiar tu opinión cuando, y en dado caso que esto vuelva a llegar a máximos históricos, ¿qué opinarías en ese momento?
+
+[Speaker 0 - 01:20:53]
+Se bajaron tasas de interés y hay mucha liquidez, y por eso aumentó el precio el bitcoin. Esa sería mi opinión.
+
+[Speaker 1 - 01:21:00]
+Andrew, ¿algún comentario extra?
+
+[Speaker 2 - 01:21:03]
+No, yo lo que pienso es que a futuro, porque, o sea, veo que la la la la discusión se centra y el tema de de, o sea, están viendo como bitcoin como como que si fuera lo que vamos a utilizar para pagar todos los días, y yo pienso que no no va a ser adoptado de esa manera, porque su supply es finito. O sea, estamos hablando de 21000000 sobre 8000000000 de personas que estamos haciendo hoy en el planeta, entonces, más las que se van a sumar a futuro. Entonces, yo pienso que sí se va a crear una moneda o o va a quedar una moneda que se base básicamente o esté respaldada en esos, digamos, en esa reserva de bitcoin. No lo sé, en mi opinión, ¿es algo que puede funcionar? No lo sé tampoco, pero estoy especulando, no me crea nada, como siempre les digo, pero, o sea, tampoco podemos decir que es imposible que que pueda ser adoptado de alguna forma por la sociedad. Porque muchas cosas que hace 200 años queríamos que eran imposibles que íbamos a tener, las tenemos hoy. Entonces, quizás en el futuro podamos tener herramientas que nos permitan leer los factores geosociales, es decir, las variables precisa, las variables más precisas económicamente, y que nos permitan adoptar esta tecnología sobre esa variable para poder hacer esa inducción o esa introducir la tecnología dentro de ese día a día, pues, de del intercambio de dinero.
+
+[Speaker 2 - 01:22:18]
+Entonces, yo no lo veo como algo imposible realmente, simplemente creo que que nos falta de cubrir más cosas y equivocarnos más.
+
+[Speaker 1 - 01:22:27]
+Julio, échale.
+
+[Speaker 3 - 01:22:29]
+Sí, ¿qué tal? Es que este, Julio, Julio. Perdón, perdón, perdón. Nada más Échale, échale. Que ya me tengo que ir. Pero gran plática. Hasta luego. Muchas gracias,
+
+[Speaker 1 - 01:22:42]
+Definitivamente creo que es algo que diferentes perspectivas ayudan mucho a la narrativa o a, pues, entender un poquito. Pero bueno, gracias, Sandro. Échale, Julio.
+
+[Speaker 7 - 01:22:52]
+Bien, sale todo, todavía. Jesús, bueno, como comentábamos hace rato, ¿no? Por ejemplo, en las déficits no necesariamente es que se centralice, sino, como te comento, tú puedes hacer stacking dependiendo de los rendimientos. Entonces, ahí se saca una parte de circulación. Ahora, ese ese es 1, ¿no? O sea, son finanzas descentralizadas, o sea, tú tú haces dependiendo del rendimiento que se podría aplicar sin necesariamente ser una sin necesariamente ser una algo de política más alta respectiva,
+
+[Speaker 1 - 01:23:26]
+pues. Pero y la otra Ahí, Julio, solo un solo un comentario, pero además que los noté. Pero esos famosos staking o staking es en algunas monedas, ¿no? Bitcóin, por ejemplo, no tiene la posibilidad de que tú lo metas en staking y te dé un rendimiento. En otras monedas sí existe. Cada moneda tiene su tokenomics o su política monetaria distinta. Échale ahora sí, Julio.
+
+[Speaker 7 - 01:23:51]
+Sí, claro. No, pero es a lo que me refería hace rato. Es establecer herramientas para que se pueda Es decir, tú puedes, por ejemplo, ofrecer bonos y cambiar el bitcoin, como se hace ahora con los con los préstamos cortos. ¿No? De de acciones. Tú cambias el bitcoin por establecoin, los metes en staking y después ese mismo staking te tendría que regresar el bitcoin al precio que estuviera. Pero bien, ese es esa es una herramienta. Pero la otra, y el y por el otro lado, por la onda de la centralización, es la tendencia ahorita es a la regulación, que todos nos resistimos a ello, pero la tendencia es a la regulación. Pudiese ser que en un momento dado los gobiernos dijeran. ¿Sabes qué? Pues sí, te tomo el bitcoin como como una moneda o o en su defecto como como reserva. Pero suponiendo que una moneda, y entonces ahí sí entrarían en la teoría monetaria, ¿no? Este, ahí sí ya se establecería el mecanismo o? Oye Julio Julio, independientemente
+
+[Speaker 0 - 01:24:46]
+de la política monetaria, fíjate, una de las de las bondades del sistema financiero es que transfiere recursos del que tiene más, o sea, el que ahorra al que tiene menos, que es el que necesita ingreso presente. Por ejemplo, si yo quiero comprar una casa, este, pues yo no no lo puedo hacer porque me acabo de graduar, por ejemplo. Entonces necesito pedir prestado al sector financiero, y obviamente me va a costar, no es gratis porque lo que yo estoy pagando se lo voy a pagar o transferir al que me está ahorrando, ¿no? Entonces eso se paga con o transferir al que me está ahorrando, ¿no? Entonces, eso se paga con tasas de interés. En un mundo con bitcoin, ¿cómo harías este traspaso generacional de recursos, que es muy eficiente? Del ahorro, lo inviertes. Si lo mismo pasa en una empresa, hay empresas que tienen ahorro, pues se le da un rendimiento, y hay empresas que necesitan gasto para expandir sus sus negocios, piden prestado. En un mundo de bitcoin, ¿cómo harías este traspaso de recursos que genera eficiencias en una economía?
+
+[Speaker 1 - 01:25:42]
+A ver, con peras y manzanas.
+
+[Speaker 5 - 01:25:46]
+¿Mande?
+
+[Speaker 7 - 01:25:47]
+Pregunta. A ver, sí, más lo lo siguiente, mira. Aquí en lo que estamos hablando, YYY yo creo que lo que lo que no se ha visto es lo siguiente, o sea, bitcoin ahorita su su valor aparte de lo que han comentado del del de fraccionar, por la emisión, etcétera. Y la oferta y la demanda es, si si te fijas, nadie ha hablado de que para tú comprar bitcoin necesitas fiat, pues. Si si para comprar bitcoin necesitas fiat, es lógico que bitcoin arrastre, pues, lo no tan bueno del sistema monetario actual, ¿no? Es decir, precisamente por eso es que está ligado a las subidas y bajadas de la bolsa y a la pérdida de valor de o ganancia de valor del dólar. ¿Por qué no por qué no si se acepta bitcoin? ¿Por qué no generar bonos? Vamos a decir en el Banco Central, donde te los acepten, Se transfiere a una moneda estable del país. Y esa moneda estable del país la puedes usar para financiar. No no necesariamente tiene que ser el bitcoin, pero se, pues, todo mundo se centra en no, pues, el el bitcoin, el bitcoin es está formado, el bitcoin es aparte de de estar formado por el algoritmo, aparte es está lleno de fiat.
+
+[Speaker 7 - 01:26:59]
+O sea, tú tú no puedes comprar bitcoin si no metes fiat al Pero Julio, nomás nomás contestaba mi pregunta, ¿cómo cómo qué mecanismos se utilizaría en bitcoin
+
+[Speaker 0 - 01:27:10]
+para hacer esta transferencia del ahorrador al que necesita dinero? O sea, ¿cómo? O sea, eso se hace se hace a través de bancos, SOFOMES, SOFOMES, uniones de crédito y a través de tasas de interés. ¿Cómo? ¿Cuál sería el mecanismo de bitcoin para hacer esas transferencias?
+
+[Speaker 1 - 01:27:25]
+Ahí yo creo que existen protocolos, ya existen y van a existir protocolos donde tú vas a depositar tu bitcoin y la gente puede ir a pedir préstamos, o sea, o o al, bueno, mira, tendría yo que dejar como colateral el bitcoin en un protocolo y luego yo pedir un préstamo sobre ese bitcoin, y a lo mejor con ese dinero ya gastar, pero, bueno, es un préstamo hacia mí mismo, donde yo dejo un cierto colateral. No sé si eso vaya por ahí por la pregunta o o
+
+[Speaker 7 - 01:27:55]
+Exactamente exactamente es lo que le comentaba, ¿no? O sea, no necesariamente tiene que ser el el el bitcoin en sí el que te lo prestan para que transfieran dinero a los ahorradores, sino que el bitcoin el bitcoin se deja como colateral en el préstamo, exactamente. O sea, YYY suponiendo que el Banco Central, en este caso, México tuviese su moneda, si estamos hablando si estamos hablando como en el sistema monetario tradicional, ¿no? El bitcoin se deja como colateral, y en la moneda estable del Banco de México, en el caso de que ya existiera, se pueden hacer los préstamos. Es decir, yo yo no veo ningún impedimento para que no para que no se aceptara el bitcoin como tal. YYY, pues, entiendo el sistema monetario en en el sentido en el sentido de de los préstamos, ahorros y etcétera, el financiamiento. Pues, de hecho, yo me dedico a eso. Por eso es que por eso es que te comento, o sea, tal como lo dice Mexi, no, quizás no sea la palabra adecuada, pero se deja se deja, como le llamamos en la calle, como en garantía, sobre el préstamo en una moneda estable de en esta casa, y y se hace todo el mismo mecanismo de de ahorro de préstamo que se estaba haciendo siempre, pues, ¿no?
+
+[Speaker 7 - 01:29:06]
+La la cosa
+
+[Speaker 0 - 01:29:07]
+Entonces entonces entonces la respuesta sí le entendí, y la respuesta es la siguiente. Se va a seguir haciendo el préstamo en moneda fiat, pero se puede utilizar el bitcoin como colateral. Entonces, el bitcoin está suplantando en lo absoluto al sistema monetario actual, ¿estamos de acuerdo? Se está utilizando simplemente como garantía.
+
+[Speaker 7 - 01:29:26]
+Por el momento, sí, es que tu pregunta fue muy específica, ¿no? Si si si lo quisieras hacer en este momento, tendría que ser de o sea, aunque nos tengamos una resistencia ante ello, la tendencia es hacia allá. Entonces, si la tendencia es hacia allá, el mismo las mismas compañías, los mismos gobiernos van comenzar a sacar productos, o sea, ya ya lo estamos viendo en la bolsa. Entonces, tendríamos que esperar para dar respuesta, respuesta cierta a esa pregunta, tendríamos que esperar a a que avance un poco más el el bitcoin, ya sea como reserva o como moneda de curso legal. Pero al momento, pues sí, al momento tendría que ser dejarlo como colateral y sacar el que que, pues, de hecho, está en el bitcoin, como les comento, si no, no puedes comprar. Este, sacar el que es
+
+[Speaker 5 - 01:30:27]
+hacer el
+
+[Speaker 1 - 01:30:28]
+préstamo. Interesante, interesante la plática. Veamos perspectivas diferentes. Godgap, adelante.
+
+[Speaker 11 - 01:30:35]
+Hola, Mexi. ¿Me escuchan a todos ahí?
+
+[Speaker 1 - 01:30:38]
+Todo bien, échale.
+
+[Speaker 11 - 01:30:40]
+Bueno, acá desde Colombia, pues buena tarde a todos. Muy buena la charla, ahí por lo por lo que se escucha. Pero la la lo que veo es una discrepancia de a una economía que quiere cambiarlo o hacer una disrupción, ¿sí? Por eso muchas cosas que Jesús propone no aplican solamente con la moneda o con lo que quiere hacer bitcoin, y traerlo a la economía ahorita lo está haciendo es el DeFi, ¿sí? Todo esos, digamos, términos que intenta explicar Jesús el mercado DeFi o los proyectos DeFi son los que están aplicando, trayendo lo de la economía actual a aplicarlo sobre bitcoin, ya que ellos lo están tratando como una moneda de de refugio de valor porque, bueno, yo te escuchaba antes, dices que este año ha perdido el 70 por 100 de su adquisición, pero una persona que la compró en el 2012 no ha perdido el 70 por 100 de su adquisición, Jesús.
+
+[Speaker 11 - 01:31:42]
+Una persona que lo compró en el 2014, una persona que lo compró en el 2008, en el 2009, perdón, o en el 2010
+
+[Speaker 0 - 01:31:51]
+Sí, vos no ha perdido nada. Pero la inflación se mide año con año. O sea, qué padre que del 2014, 2015 ganaste, este año es perdido. YYY claramente del año pasado de este año puedes consumir menos bienes y servicios, o sea, hay que verlo año con año. Y y también el dólar ha perdido en 10 años muchísimo, ¿no? Pero bueno, es relativo, pero a mí sí me gustaría hacer análisis año con año. O sea, hace 50 años la bolsa de valores se ha multiplicado por 1000000, ¿verdad? YYY Softwatts. O sea, existe es año con año, ¿sí me explico?
+
+[Speaker 1 - 01:32:28]
+Ahí con esta nueva tecnología y con los ciclos que hemos visto que hace, no estoy de acuerdo que se pueda llegar a analizar así, año con año. O sea, yo creo que tendría que tener mucho más tiempo en el mercado, mucho más adopción. Esa ese análisis año con año yo creo que es cerrarnos a agarrar períodos de tiempo donde a lo mejor le está yendo mal y echar mierda por lo mismo. Pero definitivamente yo creo que, como lo hemos visto, esto tiene unos ciclos de 4, 5 años que creo que son los que habría que utilizar para en realidad medir, ¿no? El el el impacto y el poder adquisitivo que poco a poco, con esos ciclos exponenciales y tronadera de burbujas, va va va agarrando. Pero bueno. Scribe, échale, últimos comentarios de cierre, 5 minutos cerramos. Bueno, dame
+
+[Speaker 8 - 01:33:18]
+una una propuesta para que simplemente analicéis a ver si es posible, ¿no? Es decir, según lo que estoy escuchando, podría ser viable lo que es un sistema de acceso a través de P 2 P, donde se deje con colateral la cierto tipo de moneda, ya sea FIA porque antes es de FIA o ya sea cripto dependiente de cripto, y a cambio te den una de StableCoin. Y esa esa Stablecoin, si estuviera también, para que no perdiera valor como tal, tuviera un sistema inteligente de quema, según el uso, y a su vez estuviera sujeta a lo que es al, según el par que estuviera sujeto, es decir, por ejemplo, al dólar, más lo que es el porcentaje de inflación. ¿Sería posible eso? ¿Cómo lo ves?
+
+[Speaker 0 - 01:34:00]
+Sí, o sea, todo es interesante y es novedoso. Pero yo pregunto, yo se pregunto al aire, ¿qué no funciona el sistema ya como está?
+
+[Speaker 1 - 01:34:09]
+¿No funciona? Yo creo que no. Yo creo que no. Yo creo que es un experimento que tiene 70 años que está listo para ser transformado y revolucionado con con con industria y con tecnología que te permita tener un intercambio de valor sin que nadie te lo prohíba. Ahí está la clave, el intercambio de valor sin que nadie te lo prohíba. César échale yo por ejemplo Sí. Échale Jesús, perdón. No, nada más un último
+
+[Speaker 0 - 01:34:37]
+comentario es, yo estoy de acuerdo con el el uso que tiene el el estas monedas en la transferencia de recursos, la privacidad, Pero se me hace que estamos muy lejos de adoptar una moneda como estas para controlar la economía o para manipular los precios. Ese sería el coaching. No, de acuerdo, de acuerdo, eso sí estoy de acuerdo. Écheles esa hora, sí, perdón.
+
+[Speaker 12 - 01:35:00]
+Va, gracias, un saludo para todos desde acá desde Aguascalientes. La verdad bastante interesante todos todos los comentarios. Yo quiero apuntar ahí algunas cosas. 1 es entender al punto al que llegamos. Primero, el sistema económico ha sido realmente mejorado y y tumbado y vuelto a crear y demás desde hace, hijo de su, 100 de años, y ha ido evolucionando. Entonces, nomás comprender que lo que tenemos ahorita es bastante complejo y nos ayuda a poder relacionar cosas complejas. Entonces, también por acá economista, entendiendo un poco a a Jesús. Pero también alguien que que vive de la tecnología, entonces entendiendo a todos los demás que que se están metiendo a estas cuestiones. Entonces, sí considerar que estamos realmente en pañales. Y segundo, si se busca algo que les pueda dar esa privacidad, esa libertad de poder decidir más, nada más recordemos que qué tanto nos estaríamos echando pasos hacia atrás, considerando que, pues bueno, en tiempos atrás se acuñaba sobre piedras o sobre metales y cosas por el estilo.
+
+[Speaker 12 - 01:36:06]
+Y que en algún punto, entre estas desconfianzas y demás, tuvieron que venir creando estos sistemas que tenemos actuales. Entonces, desde la primera práctica plática que tuvimos hace unos cuantos meses tú, Morris, en otro espacio que tuviste, yo hacía mucha mención en dónde va a terminar esta parte de tecnología en el uso habitual. Y creo que en el uso real, pues, las personas comunes y corrientes, ¿cómo vamos a terminar ahí? Y eso creo que es es el el punto clave. Cómo algo que en teoría queremos que sea libre, va a poder ser adoptado por masas que necesitan este control. Porque sin este control pasa lo pasó en esta semana con FTX y y pues bueno, ahorita estaba leyendo que que con otra más también se va para para para bancarrota. Entonces, nada más comprendamos que realmente queremos esa libertad o no queremos esa libertad. Porque eso es lo que va a hacer o o va a ser el camino hacia donde queremos que se vaya el bitcoin o las nuevas tecnologías.
+
+[Speaker 12 - 01:37:08]
+Y y si realmente se está atacando las fallas del sistema actual o nada más se está creando algo para que ciertos personas o ciertas ciertas ciertas instituciones obtengan beneficio. Entonces, nada más creo que esos son puntos ahí claves que que vale la pena que cada quien lo lo platique con con sus cuates y y pues bueno, ese sería el aporte. No,
+
+[Speaker 1 - 01:37:32]
+puntos muy muy válidos, César, definitivamente. Es algo que estamos viendo cómo va mejorando, cómo va empeorando, cómo se implementa, cómo vemos aplicaciones nuevas que te permiten eliminar fricciones de algunos sistemas. Pero también algunas aplicaciones o sistemas truenan por malos manejos. Entonces, como decía en un principio, la tecnología es muy, muy, muy nueva. Hay experimentos sucediendo por todos lados. Eso también es lo interesante y lo revolucionario, que podemos ver aplicaciones que nadie te impide hacer, que estamos probando que de repente las hackean o tienen ciertos problemas de código y y, pues, bueno, es parte de lo que creo que vamos a seguir experimentando en los en los siguientes años hasta que, en realidad, ya encontremos esas aplicaciones que nos ayuden y que, en realidad, podamos implementar de manera segura sin tener, pues, fricción, ¿no? Al utilizarlas YYYY sin tener ese miedo de perder el dinero rápidamente como lo hemos estado viendo.
+
+[Speaker 1 - 01:38:38]
+Échale César. Últimos comentarios de cierre.
+
+[Speaker 12 - 01:38:42]
+Va, y y es más, y les voy a poner un un ejemplo de la vida real relacionado con con la tecnología. Pues bueno, yo yo estoy en el espectro de del ride shareing, por así decirlo, trabajo para una plataforma, entonces ¿De qué? Del rate shareing, de Uber, DiDi y similares, pues. Entonces, un un claro ejemplo es, se creó esta plataforma a nivel mundial hace 12, 13 años, bastante eficientes. Se crearon economías de escala y y pues bueno, se mejora todo eso. Pero llegó un punto ahorita de quiebre en donde empresas como Bit, por ejemplo, cierra operaciones. DiDi cierra operaciones en ciertos mercados. Bolt en donde en donde estoy, deja de operar en México, por ejemplo, en el 2020, pero crece con los scooters. Pero luego hoy aparece la noticia de que estos cuates de Bir, bueno, un rumor, Bir bastante grande que levantó 1000000000000 de 1000000000000 de dólares está cerca de la bancarrota. Entonces, tan así es es dinámico el el asunto y tanta inversión y tanto interés o o intención de mejorar las cosas, pero pues bueno, siempre va a haber problemas y cosas por el estilo.
+
+[Speaker 12 - 01:39:47]
+Entonces, así de así de volátil es, en algo que lo puedes ver tan gente en el día a día, como es un viaje, como es un pago de un viaje que lo hacemos a través de tarjeta o a través de efectivo. Ahora, imagínense realmente esta parte de bitcoin, ¿dónde se va a aterrizar? En este día a día operativo de las personas? Que ese es ese es el punto, ya sea bitcoin o cualquier otro que se desarrolle, ¿cómo se va a aterrizar en la vida cotidiana de las personas? Dejemos quienes tuvieron la oportunidad de ser early adopters y obtuvieron un beneficio, vayamos más con la masificación. Cómo esta parte de bitcoin o cualquier otra va a llegar a todo mundo, pues.
+
+[Speaker 1 - 01:40:29]
+Totalmente de acuerdo, totalmente de acuerdo. Échale Julio.
+
+[Speaker 7 - 01:40:32]
+Sí, bien, en mismo sentido. De hecho hoy se dieron se dieron, este, varios varias ideas sobre instrumentos, ¿no? Y y ya para cerrar, pues, le iba a comentar a Jesús, ¿no? También, pues, como economista que vamos vamos buscando la nosotros la la herramienta, ¿no? Digo, estamos varios aquí que medio le entendemos este asunto, tanto a la economía tradicional, y y otros le entienden mucho más a a la economía alternativa. Este, pues vamos buscando la herramienta, y a lo mejor sí creamos algo donde donde ayudemos y y nos llevemos un profit, ¿no? Ya pensando en puras ganancias, más bien es cuanto, gracias.
+
+[Speaker 1 - 01:41:08]
+Échale, Pao.
+
+[Speaker 4 - 01:41:11]
+Igual, ya nada más para cerrar, este, hay que tener en cuenta que bien o mal la economía actual de los países y el los métodos instituciones financieras funcionan. Va a haber errores, como siempre, tanto en cripto como en el mundo real. Pero bueno, creo que aquí en la parte que hay que tomar en cuenta es que los mercados financieros actuales cierran mucho las puertas al usuario común, y los que tienen los beneficios siempre son los que están conectados, las grandes empresas o los mismos gobiernos. Entonces, este, creo que hay que tomar en cuenta que cripto viene a a romper un poco ese hegemonía y da acceso a más gente, ¿no? Entonces, este, creo que bueno, tenemos que ser conscientes de que esto va a seguir, no no, como lo dije hace rato, no no se vuelve de la noche a la mañana la adopción. Pero bueno, tenemos que trabajar todos en conjunto y y seguir buscando a que esto tenga utilidad YYY la gente lo adopte, ¿no?
+
+[Speaker 1 - 01:42:13]
+Definitivo, definitivo. ¿Comentarios de cierre, Skype? ¿Menos de un minuto?
+
+[Speaker 8 - 01:42:17]
+Pues nada, hace unos minutos acabas de supuestamente Rusia atacar a Polonia. Eso significa que habría atacado a Europa. ¿Qué pasaría en un caso de una tercera guerra mundial? A nivel económico? Si crees que la cripto tendría más adopción, menos adopción, ¿qué
+
+[Speaker 10 - 01:42:33]
+crees? Hola, ¿puedo tirar algo para cerrar?
+
+[Speaker 1 - 01:42:36]
+Échale, pupichó. Respóndele a Scrack, si puedes.
+
+[Speaker 10 - 01:42:40]
+Hay resumo. Bueno, primero de todo, no voy a decir cuál es mi empresa ni nada, pero para darle a Jesús un ejemplo de lo bueno que viene el mundo tecnológico de Web3. Yo, por ejemplo, una garrafa de vino en de colección. Antes era muy fácil falsificarlas, o cuando la compraba te venía ya rota, el corcho ya abierto, no sabías bien cómo era y de quién pertenecía ni nada. Ahora con la tecnología de los smart contract, no solo que podés pedir préstamos con bitcoin, con podés hacer un smart contract, que es una tecnología muy muy muy que está está arriba de todo hoy, podés saber a quién pertenece, quién quién lo creó, quién todo, desde hasta un tomate, imagínate en un supermercado, vas a saber de dónde viene la semilla, si es ecofréndiz, si esto, si lo otro. Y bájate un un un nivel de información en donde que hoy no lo tenés y en este sistema no te lo quieren
+
+[Speaker 1 - 01:43:41]
+aportar tampoco. No lo Te soy sincero, es algo que se escucha mucho, que se dice mucho, la trazabilidad, la tecnología, vamos a poder saber perfectamente de dónde viene todo. Híjole, para poder medir perfectamente de dónde viene cada producto, creo que estamos lejísimos todavía. Me me me interesaría platicar mucho de lo que estás comentando en un futuro, pero ya tenemos que irnos, Jesús. ¿Comentarios de cierre?
+
+[Speaker 0 - 01:44:06]
+No, que buenísima la charla, este, preocupante lo que acaba, estoy leyendo lo de Polonia. Parece que Polonia ya puede pedir el el apoyo de de la OTAN para luchar contra Rusia. Esperemos que no no pase a mayores, pero pero bueno, este, gracias a todos por sus comentarios. Definitivamente
+
+[Speaker 1 - 01:44:27]
+falta muchísimo, es una tecnología experimental. Siempre menciono yo que no podemos ahorita, en este momento, al menos creo yo, YYYY cada quien toma sus propias decisiones, meter más dinero de lo que estemos dispuestos a perder. Estamos probando tecnologías, estamos probando herramientas, estamos desarrollando nuevas aplicaciones. No todas van a funcionar como sucede con la tecnología normal web 2 famosa, ¿no? O sea, no todos los equipos de y sistemas de de de compartir viajes ride charing, como decía César, van a triunfar. No todas los casos de cambio van a triunfar. No todas las monedas van a triunfar. El 99 por 100 de las monedas van a irse a 0. El 97 99 por 100 de los proyectos de NFT se va a ir a 0. Tenemos que tener muchísimo cuidado en dónde metemos nuestro dinero, en lo primero que yo recomiendo invertir. Y esta sí es una recomendación, no es financiera porque no es de invertir dinero, sino recomendación de vida, inviertan su tiempo en aprender a utilizar las herramientas de manera segura.
+
+[Speaker 1 - 01:45:30]
+Y con eso cerramos el día de hoy. Muchísimas gracias a todos. Estamos por aquí martes y jueves a las 12 de la tarde. Todas las semanas vamos a continuar con estas conversaciones, con gente con posturas totalmente diferentes y distintas, y a veces contradictorias que creo que suman muchísimo más la conversación, que si todos estamos hablando de lo mismo y todos estamos de acuerdo. Entonces, gracias a todos por compartir el tiempo con nosotros. Gracias, Jesús, por aceptar el COHOT, y seguimos en contacto. Hasta luego.

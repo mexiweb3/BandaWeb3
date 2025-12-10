@@ -9,4 +9,4 @@ credentials.json
 token.json
 
 # Audio files (optional - uncomment if you don't want to commit MP3s)
-# shared/audio/*.mp3
+shared/audio/

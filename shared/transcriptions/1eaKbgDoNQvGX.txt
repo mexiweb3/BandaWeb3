@@ -1,0 +1,556 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #20231205
+Título: Banda Web3 - Chismesito con @anaqueenmaker
+Fecha: 2023-12-05
+Host: @meximalist
+Tipo: hosted
+Invitados: anaqueenmaker
+
+Descripción:
+Banda Web3 - Chismesito con @anaqueenmaker
+
+Duración: 01:52:06
+Escuchas: 155
+Speakers: 4
+
+Links:
+  Space: https://x.com/i/spaces/1eaKbgDoNQvGX
+  Dashboard: https://spacesdashboard.com/space/1eaKbgDoNQvGX/banda-web3-chismesito-con-at-anaqueenmaker
+
+Redes de invitados:
+  anaqueenmaker: https://x.com/anaqueenmaker
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+
+[Speaker 0 - 00:00:00]
+Bien, banda. ¿Cómo andan el día de hoy? Buenos días, buenas tardes, buenas noches, dependiendo de qué horas estén escuchando esta grabación. El día de hoy vamos a tener un episodio de Banda Web 3. Vamos a platicar con Ana Karen Ramírez, Ana Queenmaker y con Choy García. ¿Tralfamodor? No. Miren, ya se está conectando Ana Karen. Vamos a invitarla acá arriba como cohost.
+
+[Speaker 0 - 00:01:06]
+Gracias a todos los que están escuchando esta grabación. Como siempre, empezamos con música y hoy Ana Ana Karen nos recomendó una canción, que es la que vamos a poner el día de hoy. Bienvenido J. Isa Comanas. Y empezamos después de la canción. Vamos a mandar unas cuantas invitaciones. No sé por qué no te puedo subir, Ana. Ahí estás.
+
+[Speaker 0 - 00:02:06]
+Déjame te invito acá arriba de Cohood. Excelente. No, pues muchas gracias. Si le gustan compartir, dar like, retweet, todo ayuda para llegar a más personas. Esto es Taylor Swift, the Man. Bienvenidos. La neta sí prende, sí prende la rolita. Por ahí hubo una una serie de conciertos aquí en México que usaron todo, un relajo. Monterrey, México, en todos lados.
+
+[Speaker 0 - 00:03:11]
+Creo que fui a Ana Karen a a 1 de los conciertos allá en Ciudad de México, si mal no recuerdo. Pero bueno, bienvenidos todos los que se están conectando el día de hoy. Gracias, Ana, Choi, por andar el día de hoy para acá platicando. Hay un chorro de cosas que quiero que me cuenten. Hemos estado bien movidos últimamente con con con muchos temas.
+
+[Speaker 0 - 00:04:14]
+Y pues bueno, primero que nada, Ana, bienvenida. Muchísimas gracias por estar por aquí de de en estos espacios, ¿no? Creo que no te habíamos tenido acá como invitada.
+
+[Speaker 1 - 00:04:50]
+Gracias por invitarme. Sí, no, no había estado. Muchas gracias por invitarme. Sí, Por ahí te di me dijiste que qué canción poníamos de de fondo. Y yo de que, obvio the man de Taylor Swift. Porque soy su swifty de confianza. ¿A
+
+[Speaker 0 - 00:05:08]
+dónde fue el concierto que fuiste? Sí me acuerdo que postaste historias en Instagram y que estuvo muy chido y estabas muy cerca, en México. Chido y estabas muy cerca en México.
+
+[Speaker 1 - 00:05:15]
+Pues como soy intensa, el de Houston, primero antes de saber que iba a venir a México. Y el de y el de la Ciudad de México, el primero. Pero ya la había visto en el 2015, en San Francisco también. Y luego, bueno, la película también.
+
+[Speaker 0 - 00:05:36]
+No, qué chido, súper fan. La verdad, yo yo yo escuchaba mucho. Bueno, no mucho, pero sí cuando cantaba country, sí sí llegué a escuchar mis rolas. Y ahorita también, este, como que tuvo una época donde dejé escucharlo un rato. Y últimamente sí le he estado escuchando mucho más. Y también, pues, en las listas de popularidad siempre está así supertop. Está bien cañón esa mujer, muy cañón. Pero bueno, bienvenidos, bienvenidos. Por ahí está también. Ya se nos cayó Joey. ¿Quién sabe por qué no nos podemos subir.
+
+[Speaker 1 - 00:06:08]
+Pero, pues bueno, empecemos contigo. Dijo Chuy, ya están hablando de Taylor Swift, me voy.
+
+[Speaker 0 - 00:06:16]
+No, la neta sí es alguien que ha estado cambiando un ecosistema muy, muy cañón, ¿no? Creo yo. Y más o menos es lo que muchos creemos que estamos haciendo aquí. No sé si lo estamos logrando. Yo yo creo que sí. Pero, pues, es algo similar, miren. No sé por qué no he podido. A ver, vamos a volver a intentar subir aquí a Jesús. Pero bueno. Pero sí, ¿tú qué opinas, Ana? Tú estás supermetida en temas de tecnología. Acabas de sacar un libro. Me encantaría platicar también de la la influencer de inteligencia artificial que por ahí ya vi en redes. Ya te ya te di follow. Por ahí estuvimos nosotros por aquí discutiendo varios temas de esos en en en la comunidad, a ver si convenía hacer 1 o no. Empezar a explorar con ese con esa tecnología y generar contenido de esa manera. Por ahí también me encantaría que nos contaras del premio que ganaste. ¿Por dónde te gustaría empezar? Hay un chorro de temas que que que quiero que me perjudiques.
+
+[Speaker 1 - 00:07:14]
+Pues, si quieres ahorita lo que traigo reciente, digo, también el primero es reciente, pero como que después la después el y ya al final al final. Y ahorita un poquito de, sí, me, o sea, del tema de inteligencia artificial, digo, sé que que todo mundo está hablando de eso, pero justo me pensé como, mejor de una vez que tarde y, pues, todo mundo está haciendo sus avatares digitales y pronto va a ser algo normal para las demás personas, pero ya sabes que el tiempo apremia y mejor estar ahí antes. Yo siempre creo como, en la tecnología, quien está antes pega pega mejor o pega 2 veces, ¿no? Y para los que no saben de qué estoy hablando, hice mi avatar de inteligencia en la inteligencia artificial con un usuario propio de Instagram. Va a vivir como una persona, yo digo que alterna a mí siendo yo un poco, porque estoy usando mi cara, pero estoy hiperexagerando lo que sería un Ana Karen, ¿no?
+
+[Speaker 1 - 00:08:16]
+Que si a mí me encanta el tema del espacio, pues, un avatar Ana Karen puede ser astronauta o puede querer ser astronauta, ¿no? Que si no soy tan fit, pues un avatar Ana Karen puede ser muy fit. Que si no sé cantar y quiero cantar, el avatar de Ana Karen puede cantar, ¿no? Entonces, lo que estoy haciendo, me pueden seguir en Instagram como AI QueenMaker. Por ahora en Instagram, no sé si en alguna otra red social, es mucho trabajo también estar haciendo contenido para alguien que no existe. Y ya, pues, me estoy haciendo, pues, un tipo de deep fake en en en con mi journey, y y listo, es es así, ¿no? Y contar una vida que medio pasa, pero no pasa, pero sí va conmigo, pero no soy yo. ¿Qué opinas? ¿Qué opinas? Oye.
+
+[Speaker 0 - 00:09:08]
+Yo cuando te conocí en Mazatlán, yo ya te seguía. Pero allá en Mazatlán, en 1 de los eventos a inicio de año, una de las de las pláticas, obviamente, la diste tú. Y fue justamente de un taller para que la gente empezara a utilizar, si mal no recuerdo, era
+
+[Speaker 1 - 00:09:29]
+Era con era con ella ahí, pero hecho a mano. O sea, con Sí, era como tal. Porque tú no teníamos ni yo también, no nada, ¿no? O sea, tú ya estás metida en esto desde tu zorro. Es que, ¿sabes qué? Está bien cañón. Eso fue hace un año, justo hace un año, o sea, 2022, diciembre 2022, no existía una forma de hacer tu avatar de una automáticamente. O sea, había una app, la de app face, pero es más bien como que dudabas y costaba mucho, y dudabas de qué hacían con tus datos. Y la única forma era como entrenar una IA con Todavía se puede hacer, con eso lo puedes hacer gratis, por ahí está el tutorial en mis redes, pero, pues, hoy con MidJourney lo puedes hacer casi por un dólar, me costó un cuesta un dólar MidJourney, ¿no? Me costó un dólar, 10 dólares, no, un dólar no, 10 dólares. Con MidJourney, obviamente MidJourney privado de 10 dólares, y otra y otra API que se inserta de otro bot.
+
+[Speaker 1 - 00:10:30]
+Y ya, con eso empiezas a hacer tú tu tú avatar. El chiste ahorita son los proms, pero, pues, ya ni siquiera eso, porque en la app de foro promp, pues, puedes copiarte los proms más fácil, ¿no? Con las mejores cámaras para que salga muy bien. Todavía se nota, o sea, todavía se nota que que es AI de vez en cuando. O sea, la verdad es que hay muy buena hay muy buenas imágenes de AI que se ven muy reales de gente que he visto en el foro, que dices, guau, eso sí parece una fotografía. Pero es una, entre varias, a mí me ha costado generar imágenes que se vean 100 por 100 reales.
+
+[Speaker 0 - 00:11:12]
+No, la verdad sí es algo que yo he visto que estás pegado en el tema. Desde enero, como decía, o diciembre, ya ni sé cuándo fue. Pero ahí estuvimos en Mazatlán, diste taller. Yo me acuerdo que que que era todo un proceso, que tenías que correr comandos. Este, no, hombre, ahorita ya la tenemos superfácil y sencilla. Y una de las dudas que tenía, bueno, no, y aparte también me gustaría mencionar, das cursos justamente de esto, ¿no? 1 de los de los talleres que impartes es sobre inteligencia artificial y justamente es el que, con colaboración con Women of Webthree, que se fueron AAA Nueva York y lanzaron una colección de NTPs, un porcentaje de eso se fue a fondear y fondear becas, ¿no? De un curso que tú partiste. O o tu equipo de trabajo, ¿cómo estuvo eso? Platícanos también de eso. Porque no nada más es los talleres que das, sino que ya ya estás experimentando, ¿no? Con tu propio influencer artificial. Está bien chido ese tema. Se me hace bien loco y la verdad creo que, híjole, no sé. Ahorita te pregunto más cosas. Pero cuéntanos de de los talleres. A ver, un poco de contexto para los que nos están escuchando.
+
+[Speaker 1 - 00:12:16]
+Bueno, sí, me llamo Ana Karen, mucho gusto. No soy un ella y sí existo. Tengo una organización desde hace casi 9 años, enero cumplimos 9 años, en el que mi propósito es cerrar la brecha de género que existe hoy en la ciencia y la tecnología, dándole educación a niñas y mujeres. Dentro de este contexto, llevo años haciéndolo en tecnología. Tecnología, desde su momento, cuando, pues, era como, pues, lo lo de lo del día era aprender a programar, o sea, que eso era lo cool. Hoy lo cool es AI. El año pasado y antepasado era Web 3, ¿verdad? Pero no solamente porque sea cool, sino porque creo que, perdón, no por si sea cool, sino porque creo que todo el tiempo la tecnología está evolucionando, y creo que también nosotras las mujeres tenemos que ser parte de revolución tecnológica e innovación que exista, ¿no? Para no quedarnos atrás, simplemente, y para ser parte de esta economía, porque la tecnología hoy es parte de la economía diaria de las mujeres, y del mundo. Bueno, entonces, pues, una, pues, ya sabemos, ahorita ya ni siquiera tengo que convencerlos de por qué las mujeres tenemos que estar ahí.
+
+[Speaker 1 - 00:13:23]
+Ya sabemos que si las mujeres somos parte de esta economía, pues vamos a impactar 4 generaciones abajo de nosotros. Eso es, dicho por la ONU, no me lo inventé yo, ¿verdad?
+
+[Speaker 0 - 00:13:35]
+Oye, Diana, algo que yo digo es, híjole, disminuyendo esa brecha de género, bordeamos a 1000000 y 1000000, es la forma más fácil de atraer gente, creo yo. No sé qué opinas. Sí, sí, sí. Y
+
+[Speaker 1 - 00:13:45]
+a mí lo que me importa más es como, digo, ¿para qué queremos traer a la gente? ¿Para qué qué la necesitamos? Pues, porque necesitamos la diversidad y necesitamos las perspectivas en productos y servicios, ¿no? Y porque la el mundo de eso vive, de los productos y los servicios, y al final, pues, ya estamos viendo que si cuando hay sesgos o cuando hay falta de diversidad, pues, sí afecta, ¿no? Lo estamos viendo en los principios de la AI, tan es así que, si cuando, por ejemplo, o sea, es muy bien sabido que los primeros reconocimientos, los primeros reconocimientos faciales traía sesgos, no solamente de género, sino de clase y de color de piel, que en el que identificaba más fácil a una mujer de color como alguien que tendría que ser visto como, pues, podría ser alguien malo, digámoslo así, o un hombre blanco, no que tenga nada contra este demográfico, pero así lo identificaba como alguien que podría ser, que no que no tiene nada malo que hacer, ¿no?
+
+[Speaker 1 - 00:14:51]
+Cuando se ponían las 2 personas de lado, una con la otra, el que estaba, no sé, por ejemplo, en la cárcel, era el hombre blanco, y la otra mujer era una profesionista. No sé, este tipo de de sesgos, que lo pueden ver en la película de Courid Bayas, o en el, que es un documental de Joey Bulamwani. Este documental, pues, habla de de esto, ¿no? De los sesgos, y eso es una cosa entre 1000, de por qué tenemos que tener equipos diversos, y por qué tenemos que empezar a ser parte de de este momento. Además, a mí se me hace muy cool, o sea, yo no puedo creer que a otras chicas, otras mujeres, pues, no les haya gustado en el pasado el tema de programación y de las matemáticas. Ahora está cambiando eso, la verdad, muchísimo, tanto como dices tú, como las women in web 3. La verdad es que ellas ahora que fueron a su a su a su evento en la ONU, pues dijeron como, a ver, vamos a vender NFTs, pero no va a ser solamente para nuestro beneficio, sino que vamos a dar unos NFTs que además demos unas becas a chicas, chicas jóvenes adolescentes estudiantes.
+
+[Speaker 1 - 00:16:03]
+Fue así lo que decidieron, y nosotros en Epic Queen tenemos diferentes programas, y 1 de los programas que dimos fue este de IA, IA para no programadoras. Y bueno, y se dio y se les dio las becas, y ya ahora ya están como, digamos, inspiradas a aprender un poco más. No tiene nada que ver con programación, pero el principal, lo principal es darles como la chispa, darles la inspiración para que puedan llegar al siguiente nivel. Creo que hable mucho.
+
+[Speaker 0 - 00:16:35]
+No, está perfecto porque sí me me faltó a lo mejor iniciar por ahí presentándote y y que nos platicaras un poquito de lo que estás haciendo. Y la verdad son un chorro de iniciativas que por ahí yo he estado siguiendo y que con el tema de la brecha de género creo que son súper importantes y eres una de las que más ha movido ese tema. Definitivamente hay muchas otras mujeres que que que también, creo yo, son las que están liberando muchos proyectos y muchas iniciativas YYY en algunos casos transformación en el ecosistema. Y qué chido poder platicar contigo de tu historia, de de tu experiencia, de cómo te ha tocado experimentarlo por ahí. Me enseñó, no sé si fuiste tú, o Felipe, una foto de hace no sé cuántos años, este, ustedes en San Francisco. Vento a saber qué estaban haciendo Felipe Servín, el el el fundador de Nifter, que también por ahí, un saludo.
+
+[Speaker 1 - 00:17:21]
+Este, o sea, un ratote. Sí, sí, sí. Yo diría, no me quiero decir AUG, porque no quiero ser un no quiero autonombrarme, pero sí llevamos años en el tema de desde que desde que empezó el mundo startuppero cuando ser startupero era cool, en el 2013. Fuimos de la primera generación de five hundred startups, la segunda como Mexican VC. Yo estaba haciendo Yo amo los zapatos con Felipe Fservín, su su primer start up, y justo comenzamos a emprender juntos. Y, la verdad, es que creo que si yo no hubiera estado en ese momento, en ese lugar, no estaría no estaría siendo hoy Epi Queen, porque gracias a yo amo los zapatos, conocí Silicon Valley, me pude ir a como, pues, a ver todo el contexto de esta zona y además participar. Participé en mi primer Hackathon, no, mi primer Hackathon no fue como de, ay, el Hackathon de la de la esquina.
+
+[Speaker 1 - 00:18:23]
+Me fui, mi primer Hackathon en el que participé fue un Tech Crunch Dis Route, en el 2013, en el que los que calificaban en ese momento los proyectos eran Mark Zuckerberg y la ex CEO de Yahoo, Marisa Mayer. Y ahí fue cuando dije, ¿qué es esto? Y ¿por qué hay como 3 mujeres en este evento? Entonces, como que, pues, estar como envuelta en Silicon Valley desde los inicios, fue algo que me, pues, sí, que me llevó a serie Pick Queen, creo.
+
+[Speaker 0 - 00:18:59]
+No, definitivamente esa historia y todo lo que te tocó vivir en esa etapa, seguro, seguro te prepara y te va preparado para lo que estás haciendo ahorita. Premios, cuéntanos del premio. Ah, bueno, a ver, Creo que, híjole, ya después de tanto batallar creo que ya tenemos a Choy. Vamos a ver si lo escuchamos. Choy, ¿nos escuchas?
+
+[Speaker 2 - 00:19:17]
+¿Qué onda, qué onda?
+
+[Speaker 0 - 00:19:20]
+Uf, abuelo. Excelente, excelente Guillermo. Perdón Ya estamos hablando.
+
+[Speaker 2 - 00:19:25]
+Ya ven las fallas de los spaces. Pero ahí más o menos estuve pudiendo escuchar un un poco del de lo que estaba diciendo Ana Karen. Y sí, siempre siempre he creído y siempre he sostenido que estamos, como diría el JJ Campuzano, ¿no? En un renacimiento digital. Y esto, pues, implica replantearnos mucho de los
+
+[Speaker 0 - 00:19:51]
+Bueno, si
+
+[Speaker 2 - 00:19:52]
+tenemos la oportunidad de rehacer el sistema, tiene muchísimo valor que esta vez podamos en conjunto crear algo que
+
+[Speaker 0 - 00:20:12]
+no sé si soy yo o es Chuy. No, es Chuy. Sí, verdad, lo estamos perdiendo. Ahorita a ver si se se vuelve a conectar. Pero si no, continuemos
+
+[Speaker 1 - 00:20:23]
+Ana ¿O podría decirle a una inteligencia artificial que complete lo que quiso
+
+[Speaker 0 - 00:20:29]
+decir. Sí, yo creo que hay suficiente información por ahí en el en en espacios de la voz de Chue para para invitarlo y para tenerlo acá como conversación como influencer de AI. Pero a ver si ahorita agarra señal y vamos vamos. Chuy, a ver échale, intenta de nuevo, si no vamos con él. Sí, no, no. Ahorita lo resolvemos. Pero, Ana, el el el el he platicado mucho contigo, por ahí ya nos hemos topado en varios eventos. Estás haciendo cosas bien chidas, el tema de los talleres y la colaboración con con Women of Well three es algo que también me tocó presenciar y ver cómo se se dio y cuéntanos del premio. Acabas de regresar de Dubái, entiendo, para el premio de de de las mujeres en tecnología. ¿Cómo estuvo?
+
+[Speaker 1 - 00:21:17]
+Pues, aquí, sabes, con el síndrome del impostor siempre me da pena platicarlo, pero, pues, ahí voy. Ya sabes, te enseñan a no a ser presumida, pero déjenme les presumo, que no es tanto para mí, es para Epicuen, que digo, estamos conectadas, pero Epic Queen lo ha formado y lo ha hecho muchas personas, por el apoyo que nos han dado en un montón de organizaciones y de empresas, ETC, ETC. Pero, pues, déjenme les cuento que, bueno, llevo ya con 9 años con Epic Queen, y durante todos este recorrido, pues pues, he impactado a muchas personas, tanto que me nominaron para el premio de Women in Tech Awards. Women in Tech Awards es una organización global que lo que hace es como hacer el premio de las mujeres en tecnología, digámosle como el Grammy de las mujeres en tecnología, y me nominan para el premio de Latam. Me lo me nominaron este año y me dijeron como va a ser en Perú, pues, si quieres, puedes venir, ¿verdad?
+
+[Speaker 1 - 00:22:18]
+Y yo dije, pues, no creo que vaya a ganar, y no fui, y entonces, no, ay, no fui, y entonces, ¿qué creen? Que, pues, gané. Entonces, mandé una amiga por el premio, y me dijeron, pues, ahora vas a estar nominada al premio global, porque los 7 las 7 regiones del mundo están van a a los inmediatos árabes a la final, y a la cena, y a la premiación, y es todo un show y un evento que se toman con mucha importancia en, principalmente, en en Dubái, porque una de las fundadoras es de allá, y entonces, pues, fui porque dije, no me vuelve a pasar lo mismo, ¿no? Y, pues, ya planeé mi viaje y dije, no me voy a ir a un lugar árabe sola, me llevé a mi mamá, a mi hermana, bueno, mi hermana se añadió, y ellos pagan sus gastos, ¿eh? No crean que yo ahí ando todavía no regalo viajes.
+
+[Speaker 0 - 00:23:12]
+Oye, ¿y a ti? ¿Te los pagaron, Oturdo? ¿Tuviste que desembolsar? Eso es es interesante esa pregunta. Es interesante, pero, pues no, no, no. Sí tienes que pagar lo tuyo,
+
+[Speaker 1 - 00:23:21]
+si quieres. Y por eso la primera vez no fui, pero la segunda vez dije, pues es importante que vaya. YAY fui y y estaba bien nerviosa en la final, porque pensé que no iba a quedar y solo había ido para hasta allá por nada. Y me nombraron como, pues, el premio es de proyecto mayor impacto social del mundo de Women In Tech Awards, y, pues, sí, me llevé este premio, pues, para México, entre muchos lugares que había, y y como está padre porque ganarse un premio estaba pensando como, pues, ya, de que, pues, me lo gané ya, pero al final es como esa palmadita que te da en la espalda después de 9 años de ser emprendedora con todo lo que lleva altas y bajas, más bajas que altas, y más tristezas o felicidad porque es ser emprendedor es eso, que te dice, bueno, vas por buen camino, síguelo haciendo, ¿no? Y pues, la verdad es que este reconocimiento es como decir, si cuando una persona que se gana en una persona mexicana se gana, no sé, un Grammy de de México en el mundo, o un Nobel de ciencia en el mundo, o digo, siento que no está comprometida con un Nobel, pero es importante reconocer que en México se ganó algo así, ¿no?
+
+[Speaker 1 - 00:24:43]
+Que claramente, si hubiera sido los Miss México, me hubieran hecho más caso, los medios, que algo de tecnología que es muy nerd, ¿verdad? Pero pero ahí estoy. Y eso fue lo que gané. Y eso fue el premio. Oye, no, la verdad es que sí. Definitivamente, pues
+
+[Speaker 0 - 00:25:03]
+es evidencia y es reconocimiento y es tus propios pares o la gente que está en la misma industria, pues está volteando a ver y está al pendiente de lo que estás haciendo. Y de alguna forma decidieron que que que que el impacto que habías hecho era impresionante. Y qué padre que puedas platicar y presumir. Y a mí me encantó ver las fotos y los videos que subiste. Pero yo soy muy así, ¿no? Yo a mí me me yo disfruto mucho de de de ver a mis amigos o conocidos o o compadres o del mismo ecosistema triunfar. Porque creo que nos ayuda a todos AAA posicionar mucho mejor la industria, el ecosistema completo. Y todavía creo que estamos muy, muy, muy temprano, ¿no? Entonces, tener esos reconocimientos ahorita, creo que está súper chingón y muchas felicidades, la verdad. Ojalá que eso se convierta también en en en más facturación, ¿no? Finalmente, pues, no no no estamos, y es algo que se ha platicado mucho. Y tú eres una de los que más lo empuje, y también quería preguntarte sobre el tema. El tema de de de cobrar por tu tiempo, por por ir a dar una plática, por asistir a un evento, por por por subirte a un espacio.
+
+[Speaker 0 - 00:26:10]
+Digo, ahorita no, no, no, no, no me estás cobrando. Ni yo estoy cobrando de
+
+[Speaker 1 - 00:26:17]
+Tranquilo, estamos en los paces.
+
+[Speaker 0 - 00:26:20]
+Pero pero sí es algo que tú mencionas mucho y creo que es súper importante que que que lo platiquemos, que lo empujemos y que lo discutamos. Por ahí estaba también, creo que subió, Chuy, hace poquito en un en un en un foro de gobernanza sobre bienes públicos y grans. No sé si tú has participado en algún gran, yo me imagino que sí. Pero, pues, no de grans viven las empresas, no de grans viven los los las instituciones de de de apoyo social. Por más que sean apoyo social. O, bueno, a veces también, apoyo social, por más que sean apoyo social. O, bueno, a veces también necesitas ofrecer servicios, pues, como cursos, como talleres. Entonces, se cotiza YYY si quieres que vaya y dé una plática, bueno, tiene un costo. Y es algo que tú has mencionado mucho y y me gusta mucho que que que lo podamos disfrutar así abiertamente. Este, no sé qué opines,
+
+[Speaker 1 - 00:27:02]
+Ana. Sí, creo que ya se subió, Chuy, ¿verdad? Pero, como dicen, las mujeres no lloran, las mujeres facturan. A mí me encanta que las mujeres facturen. Denle like si quieren que las mujeres facturen. Miren, este, creo que mucho de lo, hablando de web 3, como que sea mal acostumbrado a la gente a a vivir de y de premios. Creo que el siguiente paso para que esta comunidad prospere es la parte económica en la que seas, tengas tu propio modelo de negocios, y sí alguien te pague por lo que estás haciendo, ¿no? Muchas veces es difícil, yo no he tenido grandes web, buenos, así grandes no. Alguna vez nos apoyaron de Ethereum para un evento, pero grandes, grandes, grandes, no. Sí, esa era la pregunta. La verdad es que creo que, más bien, lo interesante es que los grandes se acaban y los modelos de negocio no. Y yo siempre soy súper como donde se lo tiene que pagar a la gente y se le tiene que pagar bien, y tenemos que trabajar para ver cómo esto también genera, ¿no?
+
+[Speaker 1 - 00:28:07]
+Porque, bueno, o sea, sabemos que en Web 3 hay o hubo mucho dinero, pero en el tema de criptomonedas y de criptoactivos, pero en el tema de modelos de negocios, necesitamos más. Y, sobre todo, modelos de negocios creados por latinos, porque, pues, yo veo mucho eso en Estados Unidos, ¿no? O en en o en países de primer mundo, pero no veo que muchos latinos estén ganando por modelos de negocio en Web 3. No sé, a lo mejor tengo una perspectiva diferente, pero creo creo que, pues, los latinos deberíamos de ser considerados más también como tecnólogos e innovadores. Pero cuando tú piensas en un latino hoy o un mexicano y le dices a un niño que qué quiere hacer de grande, te dicen que quiere ser un futbolista, ¿y por qué no le podríamos decir? ¿Y por qué un niño no podría decir, de grande quiero ser, no sé, como el Meximalis, que es un gran innovador y que está generando esto y esto y esto, porque en Estados Unidos o en otros lugares del mundo sí pueden voltear y decir, ay, yo de grande quiero ser Steve Jobs o Bill Gates, pero aquí no tenemos ningún referente tal cual, y no solo hablo de mujeres, hablo hombres y mujeres que que desde niños, que los niños puedan admirar o las jóvenes puedan admirar.
+
+[Speaker 1 - 00:29:28]
+No sé, tal vez me fui muy lejos.
+
+[Speaker 0 - 00:29:32]
+No, yo estoy totalmente de acuerdo. Yo creo que hay un chorro de chavas, chorro de mujeres que sí están llegando a ese nivel donde a a las niñas se están inspirando. O sea, yo lo veo y platico con con con con gente a todos lados a donde voy. Tú definitivamente eres una de de de ellas. Hay muchas chavas. Hombres, fíjate que sí, no no identifico tanto en latinos. Así que supersobresalgan, ¿no? Y que los niños quieran en algún momento decir quiero ser como es. Ahí sí no sé, nos falta a lo mejor, hay tarea que hacer. Pero sí creo que es súper importante. Y tu perspectiva, a a acuerdo a lo que has vivido, creo que es súper importante también escucharla. Y y definitivamente yo la tomo mucho en cuenta por por esa historia que tienes tú en el ecosistema. Yo creo lo mismo. Yo opino lo mismo. Yo sí opino que todavía hay muchas ideas, hay proyectos que se están moviendo. Ya me han ya me ya yo ya me he acercado con muchos que están ya en una fase mucho más avanzada, ¿no? Que ya tienen a lo mejor un producto desarrollado.
+
+[Speaker 0 - 00:30:33]
+Pero la gran mayoría todavía están muy verdes, apenas están encontrando sus modelos, están encontrando la audiencia o la comunidad. Y creo que es parte del proceso. Al menos, yo en los últimos 2 años que me he clavado ya al 100 por 100 este ecosistema, en los espacios, en en las redes, en los eventos, veo que se han estado formando las relaciones poco a poco, que hay algunos equipos de trabajo que ya han empezado a trabajar y la gente ha tronado porque de plano no no no compartió ideales 000 vibra o lo que tú quieras y pum dejan de jalar y se van formando otros y ahí van, ahí van. O sea yo yo sí veo un ecosistema que va avanzando. Sí veo grupos que se van formando, veo desarrollos y proyectos y empresas. O sea ya en números que tú digas, yo ya veo 4, 5, 6, 7 empresas registradas, ya sea en Estados Unidos o en o en o en aquí en México, de amigos, con con los que he empezado a platicar desde hace poco. Entonces, pues yo sí veo avance. Sí creo que todavía estamos muy verdes en muchas cuestiones.
+
+[Speaker 0 - 00:31:33]
+Y y creo que es superimportante la chamba que tú haces y la que muchos hacemos por aquí en este ecosistema de seguir platicando
+
+[Speaker 1 - 00:31:44]
+temas. Justamente ese es, ay, ese fue Chuy otra vez o aquí está. Pero justamente es eso. Creo que lo importante es un ecosistema que se está creando. Lo yo estoy viendo que se está replicándose el ecosistema web 3 y de IA. Y se está replicando como lo que pasó justo en su momento en los 2010 con con las con el tema de las startups, ¿no? Cuando no existía el ecosistema y se tuvo que crear, ¿no? Y muchas de las startups que comenzaron no existen el día de hoy, como la que yo estuve, y las aceleradoras existieron, y los grands existieron, y los hackatones existieron, y eso formó comunidades, y eso hizo que se generaran nuevos proyectos, muchos murieran tristemente en el camino, pero otros triunfaran, y nuevos, y no, y hasta nuevas personas llegaron ya con todo el camino hecho, ¿no? De, con permiso, aquí déjeme me paso, y otros que les costó más trabajo. Entonces, eso es lo que pasa cuando existen estos el principio de estas comunidades, y claro que va, yo creo que va para a mejorar y pues si al final esto es lo que pasa cuando se está creando una comunidad.
+
+[Speaker 0 - 00:32:55]
+No, y totalmente de acuerdo. Yo creo que ya hemos visto muchos proyectos tronari. Vamos a ver muchos otros. Y de nuestros amigos también. O sea, ahorita va a ser creo que algo normal y creo que tenemos que normalizar la situación de de creo que algo normal y creo que tenemos que normalizar la situación de de de que el proyecto de tu amigo a lo mejor va a durar un año o 2, o vete a saber, ¿no? Y a lo mejor el tuyo también. Pero el que siga aquí, el que siga rebotando ideas, el que siga encontrando modelos, el que siga buscando product market fit famoso, es el que finalmente de alguna u otra forma va a encontrarlo. Y creo que es interesante que tú ya viviste ese ciclo en este en ese ecosistema hace 10, 15 años, no me acuerdo cuánto. Pero ahorita estoy seguro que lo estás viendo indicios de lo mismo, no no o al menos es lo que entendí, no sé cómo Sí, sí, sí. No, o sea, al final es que pensemos que este
+
+[Speaker 1 - 00:33:46]
+ecosistema está siendo, está surgiendo de nuevo como surgió en su momento el ecosistema de las startups. Y hoy en día también pensar que está bien, o sea, que está bien fracasar, está bien hacer las cosas mal, está bien aprender de ello, y también está bien no ser el más top emprendedor si no quieres, puede ser, como dice Barbie, lo que quiera hacer. No, o sea, al final que creo que, pues, está bien fracasar, está bien buscar tu modelo de negocio si tienes un eres emprendedor, pero también no necesitas estarlo haciendo todo. Es que a veces creo que con con lo que estamos viendo en Internet, todo mundo anda pensando que se quedó atrás. ¿Tú no piensas? A ver, aquí entre entre paréntesis, ahorita que estás viendo que la AI está avanzando tan rápido, ¿tú no piensas ya que te quedaste atrás todos los días, a todas horas? Porque a mí me da esa sensación, siempre.
+
+[Speaker 0 - 00:34:37]
+Sí, sí, sí, en cripto, en AI, sí, definitivamente creo que sí. Pero la verdad es que creo que no, todavía no. O sea, creo que todavía está bien, bien nuevo. Creo que falta un chorro de desarrollo, creo que falta un chorro de gente que lo empiece a utilizar. Por ejemplo, el tema de, ay, ay, ay, creo que falta un buen de gente que lo empiece a utilizar. Y veo ya muchos amigos haciendo cosas ahí. Aquí gente de la comunidad ya tiene start ups. De de de inteligencia, te iba a ser para cursos de inglés, otro para un chatbot de no sé qué, otro para O sea, ya ya hay un chorro de cosas. Este, ¿quién sabe? No, no sé, no sé, ya me pones a pensar. Me pones a pensar, la verdad. No. O sea, sí creo que sepamos. Lo que digo es
+
+[Speaker 1 - 00:35:21]
+que siempre veo tantos tutoriales y tantas cosas nuevas que, digo, hay tanto de dónde aprender y tanto de dónde ver que hasta me siento Está pidiendo la mano, hasta me siento saturada de esta información. Como que nunca, como que ahorita sí está costándome ponerme al día. Y eso que siento que yo soy una de las personas que está más al día en el en estos temas. No sé si me explico. Y ahí tienen la mano levantada.
+
+[Speaker 0 - 00:35:47]
+También subió, y 5 de mayo hablando de Hackatones, 1 que va a haber en febrero, que estoy seguro va a estar buenísimo. Todo lo que sea Hackatones, todo lo que sea tema con universidades, avísenme, yo me monto, yo yo yo jalo. De alguna forma creo que hay que fomentar mucho más y 2024 va a ser un un un momento, un año súper interesante para el mercado latino y mexicano. A ver, Chuy, creo que ya estamos con Chuy, ya estamos con Chuy, con Edith 5 de mayo y luego con Jason. A la madre, qué cochinero esta plataforma, neta. O sea, 35 minutos tratando de entrar. Creo que ya estamos, creo que ya estamos. Sí, sí, sí nos robaron. Qué buen error.
+
+[Speaker 2 - 00:36:30]
+Pues, Simón, Simón, aquí Perdón, estoy estoy un poco fuera de contexto porque ahorita el problema que estoy es, o sea, el problema más grande es que no escucho nada. O sea, creo que sí se escucha el micrófono, pero no he no había estado escuchando nada. Entonces, no sé. Sigan platicando con el contexto, todo bien. Bienvenido, bienvenido.
+
+[Speaker 0 - 00:36:53]
+¿Quién más subió, Germán?
+
+[Speaker 3 - 00:36:55]
+Sí, ¿qué tal? ¿Cómo están? Bueno, como como ya vieron, básicamente, la mitad de la comunidad de los que estamos en este space, a la vista, estamos de una forma u otra contribuyendo con con el 5 de Mayo, que, como como decimos, es un evento del pueblo para el pueblo. Entonces, pues, a disfrutarlo, este, perdón, Chuy también se sumó, está como mentor y está colaborando. Está Suri, Eric, Carlos, vos. ¿No? Vos también, sos parte de de los que estamos colaborando acá para que esto salga, este, y algunos más que que no no estoy viendo, pero sí. Y se entiende, Chuby, el Rag, es espantoso cómo funciona Twitter. Realmente siempre es lo mismo.
+
+[Speaker 0 - 00:37:41]
+Hay que hay que amarrar a Karen a ver si podemos hacerlo hoy, para que sí o sí nos acompañe allá en Puebla, el 2, el 12, el 4 de febrero ¿qué era? Que lo diga,
+
+[Speaker 3 - 00:37:52]
+que lo
+
+[Speaker 0 - 00:37:53]
+diga.
+
+[Speaker 3 - 00:37:55]
+Presionamos definitivo, David. Necesitamos solo que diga ¿Qué quieren de mí? Solo que diga ¿Qué quieren de mí? Di que sí.
+
+[Speaker 1 - 00:38:03]
+Sí,
+
+[Speaker 3 - 00:38:03]
+¿qué voy a hacer? Listo, ya Vámonos, muy buena hora. Vas de Ana Karen Origen, Origen, Ana Karen Ana Karen Ana Karen Ana Karen Ana Karen Ana Karen Ana Karen Ana Karen Ana Karen Ana Karen Ana Karen Ana Karen Ana Karen Ana Karen Ana Karen Ana Karen Ana Karen Ana Karen Ana Karen
+
+[Speaker 0 - 00:38:19]
+Puebla 2 al 4 de febrero, mentora. Definitivamente el tema de de de inteligencia artificial es algo que está súper cool, que tú lo has estado hablando mucho. Y y qué raro que te sientas así como que te estás quedando atrás. No, no creo, no creo. O sea, sí se mueve muy rápido y sí hay muchas revisiones, pero yo creo que estamos en el boom ese de del que tú decías, ¿quién? De que muchos vayan a tronar. O sea
+
+[Speaker 1 - 00:38:44]
+Nomás es nomás es la ansiedad, no creas. Este, todo todo bien, todo bien. No me no me siento que me esté quedando atrás. Lo que digo es que si sienten que se que todo va muy rápido, es normal, porque así nos sentimos todos. Sí, pues sí puedo ir. Les preguntaba que a quién quieren, a la Ana Karen en la vida real o a Ana Karen y a, Aunque me estaría muy complicado el Ana Karen Ia. Esa no creo que pueda ir.
+
+[Speaker 3 - 00:39:09]
+Pues, la que más No, no, la real, la real. La que más colabore con con las personas que van a ir hay que bombardear. Entonces, ya es una responsabilidad, que es lo que hablamos con los mentores, ¿no? Ser mentor es una gran responsabilidad, no es tan fácil como parece. Hay gente acá más experimentada en eso, está Carlos, que ha sido mentor en muchos hackatones, pero yo creo que ahí es es un temita que vamos a conversar también, porque hay mentores que que pueden llegar a ser tendenciosos con la tecnología que que utilicen y las soluciones que hagan los hackers, y la idea es que sea algo totalmente natural y ayudar al hacker a lograr sus objetivos, aunque quizás no sean lo más indicado o la idea más genial para el mentor. Pero bueno, ahí te sumas como quieras. A nosotros nos encantaría que seas mentora, este, en en los conocimientos que que te gustaría impartir y asesorar. Y y, bueno, pues la invitación está abierta del 2 al 4 de febrero en Puebla. Este, si necesitás ayuda con temas de alojamiento, nos avisás.
+
+[Speaker 3 - 00:40:12]
+Este, y y, bueno, y desde el 30 de enero, side events para disfrutar. Comida incluida, regalos incluidos y acceso al lunch vintage. Me encantó.
+
+[Speaker 1 - 00:40:23]
+Me encantó, aceptamos, ahí nos
+
+[Speaker 0 - 00:40:27]
+vemos. Oye, no lo tenía planeado, Ana, pero bueno, ya ya ya se dio. Este, la neta sí sí cuando yo escuché que estaba involucrado Germán, Chuy, Ale, Ariel, Sur y todos los que están ahí en la lista. La gran mayoría con ellos he platicado y y dije, no, este evento va a estar chido. Hay que encontrar cómo estar ahí, cómo cómo cómo promocionar, cómo cómo jalar a la mayor gente posible YYY, pues, bueno, ya platicaremos los detalles ahí con Germán para para el tema de febrero. Pero sí, definitivamente creo que hay que fomentar estos eventos con las universidades, con el grupo de empresarios, cómo tú lo estás haciendo, Ana, con las mujeres, niñas, adultas de todas edades? Este, finalmente creo que el el crecimiento en el ecosistema viene, el el el el mercado está creciendo. Entonces, estamos en el momento preciso. Pero, pues, bueno, ya le dejé la manita muy mucho tiempo levantada. Yeisa, bienvenido, Yeisa, ¿cómo andas? El buen Jesús no he podido oírlo, no sé por qué.
+
+[Speaker 4 - 00:41:26]
+Hey, ¿qué tal? ¿Cómo estás? ¿Escuchó bien?
+
+[Speaker 0 - 00:41:30]
+Bienvenido Touchio.
+
+[Speaker 4 - 00:41:32]
+Ah, vale. Una pregunta, este, porque hablaba de de de que ha ido a varios lugares, ha ganado y todo eso, ¿cómo cómo cuáles son las las particularidades de estas competencias? O sea, ¿quién hace más onboarding o quién hace más los mejores proyectos, el mejor pitch, 000 ¿puedes platicar algo de eso?
+
+[Speaker 3 - 00:41:55]
+¿Puedo contestar yo? No, Ana Karen. Ah, ah, perdón, no estoy chequera.
+
+[Speaker 1 - 00:42:03]
+¿Yo? ¿De los hackatones?
+
+[Speaker 4 - 00:42:05]
+Sí, de los Epic Queens y de los eventos que fuiste a Perú, a a Dubái, así.
+
+[Speaker 1 - 00:42:11]
+A ver. Y la pregunta fue, que quién hace más onboarding de qué. Dijiste que ganaste
+
+[Speaker 4 - 00:42:18]
+y que enviaste a una chica y y pues trata de imaginarme, bueno, es un es, bueno, también lo sé, es un evento de de acotar la la brecha digital.
+
+[Speaker 1 - 00:42:31]
+Entonces, como como es un premio anual que se llama, particularmente del de del de Global Intake Awards Global, es un premio, así como decir, no sé, Grammy's Oscar. Lo digo así porque es lo más fácil de referenciar, ¿no? Como un premio. Y, entonces, este, se llaman los Women In Tech Global Awards, ahí lo puedes encontrar todo en Internet, y tienen diferentes categorías anuales en las que nominan a mujeres y proyectos relacionados con diferentes temas, así como en el cine, es mejor artista, mejor, digo, mejor actor, mejor este, película, mejor screen writing. Así, aquí tiene sus categorías. Está la categoría de Aspiring Team, lo estoy leyendo justamente. El de Mosshis Rob Thir Award, el de Best Ally Award, Moss Impactful Initiative, que fue el que gané yo, Women in Webthree Award, Arts Award, Women in Tech, Startup Award, Global Learship Women in Tech, y Women in Tech Lifetime Achievement Award.
+
+[Speaker 1 - 00:43:42]
+Y los jurados son personas de empresas como Amazon, como el Sharjah Research Technology and Innovation Park. Este es un emirato árabe, un un un centro de innovación en los emiratos árabes que se llama Sharjah. Pues, The Sandbox tiene tiene también hay colaboración. Entonces, las personas que están detrás de estos premios son personas alrededor del mundo que califican el a las o quien nomina a las personas y ya votan por ellas. Internamente, no hay votación no hay votación así como de la página, sino que internamente hacen como la revisión de aplicaciones y y ya, así, de esa manera. O sea, si tú eres una mujer en tech, puedes aplicar el siguiente año. Está el de África, el de América, el de el de Europa, el de Latam, el APAC. El APAC creo que es como Kuala Lampur y de esa región del mundo.
+
+[Speaker 1 - 00:44:45]
+Bueno, de casi de todas las regiones del mundo tienen. Entonces, pues, no sé si te resolví la
+
+[Speaker 4 - 00:44:54]
+duda. No, no mucho, me dijiste cómo está estructurado, pero no me dijiste qué es lo que te revisan, qué es lo que te califican.
+
+[Speaker 1 - 00:45:02]
+¿Qué te califican las categorías?
+
+[Speaker 4 - 00:45:05]
+No, ¿qué te califican? Por ejemplo, supongo de que tú competiste con otras 2 que hacen exactamente lo mismo 7. 6 más la categoría. Entonces, ¿qué califican a ti qué calificaron a la otra que tú ganaste, por ejemplo?
+
+[Speaker 1 - 00:45:21]
+No, la verdad no sé, porque yo no soy la que la califica. O sea, tienen una convocatoria YYY la puedes llenar, pero ahorita estoy viendo, revisando si está abierta la convocatoria para ver qué califican exactamente. Pero no tengo yo la, pues, como la rúbrica de o sea, yo no sé qué califique la rúbrica. Por ejemplo, algunas de esas
+
+[Speaker 4 - 00:45:48]
+compiten porque primero debes meter un paper académico, un paper feedback. Ok,
+
+[Speaker 1 - 00:45:53]
+ok, ok. No, pues el impacto. ¿Cuántas personas has impactado? ¿Cuántas, ¿Qué qué? O sea, primero, ¿qué número de personas has impactado y cuántas? ¿Qué estás haciendo hoy? ¿Qué qué has hecho en el pasado? ¿Qué lugares has aparecido? ¿En cuántas publicaciones has aparecido? ¿Qué otros premios tienes? ¿Cuáles son las acciones que haces? Eso es básicamente lo que preguntas.
+
+[Speaker 4 - 00:46:21]
+Ah, ok.
+
+[Speaker 0 - 00:46:22]
+Ahí, por ejemplo, yo tengo algo de de historia en un premio que tú también tienes, Ana, el de innovador debajo de los 35 años. Ese lo imparte el MIT, por ejemplo, yo recuerdo porque mi esposa también llegó a ganar ese, ese ese también se lo dice ella lo ganó hace ¿hace cuánto lo ganó allá? Como 8 años, 10 años, ya ni me acuerdo. Casi no, mentira, ya estaba tenía como que un año de vida, como casi 9 años. Y me acuerdo el proceso, mi mi mi, o sea, y y para responderle un poquito a Yeisa, o sea, son son convocatorias donde al menos mi esposa participan muchas de ellas, ¿no? Ellas participan muchos premios y a ella le encanta y y está en la universidad y ahí estamos metida, pero es eso es, o sea, cada una de esas premiaciones tiene su su su sus requisitos y hay que llenar 20000 formatos y hay que mandar información y evidencia y al menos así es lo que yo me me ha tocado ver de de de cómo funcionan esos premios. No sé, Ana, si si sea el mismo estilo, pero como decía Ana, en Perú hubo una premiación de la región y ganó, se la llevaron allá al preeminación mundial, allá volvió a ganar.
+
+[Speaker 0 - 00:47:30]
+O sea, me imagino que es un una un una asociación,
+
+[Speaker 1 - 00:47:34]
+pues, grande, ¿no? Para ya organizar este evento. O sea, si la pregunta es, ¿una es organización seria? Sí, es una organización seria. Es una organización que lleva años existiendo y, al final, pues trabajan otras empresas detrás de esto, ¿no? O sea, es tan, es seria porque, a ver, esta, pues, apoyada por Amazon, está apoyada por The Sunbox, está apoyada por AWS, que es lo mismo que Amazon, pues, pero tienen ahí la Alianza, Alliance, ¿no? O sea, como yo veo que atrás de de de la de la organización hay empresas que la avalan y y, pues, es importante. Es, a lo mejor, pues, pues, suena como de, ay, bueno, pues, ya un premio más, pero, pues, sí, sí creo que que llenar y estar siendo parte de esto, pues, te es difícil. O sea, no es como de, ay, sí, aquí aparecí y ya, sino toma tiempo YYY no y y, pues, si hay un due diligence detrás, o sea, que te están preguntando y que te entrevistan y todo eso, ¿no?
+
+[Speaker 0 - 00:48:46]
+No, y la verdad todo eso, al menos yo lo que he visto en mi experiencia es sumando a currículum, me va ayudando a que conectes más y que te posiciones mejor y que consideres más clientes. Y la gente eso lo ve y definitivamente afecta en la decisión de con quién trabajar en determinado punto. Entonces, qué chido que tengas ese reconocimiento, Ana, y pues que participes, porque finalmente muchas de esas iniciativas o proyectos o programas tienes tú alguien nominarte o tú nominarte solo y y hacer el proceso y la información y y el que no entra no gana, ¿no? Este, digo, ni modo. Y hay una duda, Ana, ¿hay algún? Que también es algo interesante, ¿hay algún alguna bonificación, algún algún grant, alguna lana, este, al ganar estos premios?
+
+[Speaker 1 - 00:49:36]
+No, no, de verdad no. O sea, si te dan si te otorgan el premio, pues, sí importa, porque importa para tu currículum y tu experiencia, pero realmente no. Y, pues, creo que eso lo hace más valioso, que no lo haces por el dinero, lo haces por demostrado enseñar el impacto que has hecho.
+
+[Speaker 0 - 00:50:01]
+No, muchas gracias, Ana, por por las respuestas. No sé, Yeisha, si tienes alguna otra duda. Porque sí me gustaría preguntarte sobre el influencer o la influencer o los influencers de inteligencia artificial. ¿Cómo lo es al futuro? Ya hay ya hay historias de de de por ahí de un p to story de una una influencer que trae el pelo rosa, que supone que es española, que está ya generando dizque dizque, 10000 dólares mensuales, ¿no? Todo mundo escucha eso y dice aquí hay algo, este, tú no sé qué opines, cómo ves eso en el futuro y cómo lo estás planeando para la que tú estás creando. Ahorita la voy a opinar acá arriba, ya encontré el el el el el el post que tienes con la liga, el Instagram para que vayan y la sigan. Pero híjole, hasta las, no sé, a mí me dan ganas de de de de, por ejemplo, por ahí lo he platicado y hay y hay y hay algunos cosas que estoy haciendo, subir todos estos espacios grabados a una plataforma que lo resuma, que que que puedas platicar con ella. A lo mejor puede ser un mismo influencer, este, de inteligencia artificial que te cuente lo que pasó, que te resuma el newsletter de de, no sé, el de al lado o el espacio de de de la mañana o de la noche, o que busquen todos los espacios si si en algún lado hablaron del proyecto que te guste.
+
+[Speaker 0 - 00:51:17]
+No sé qué opinas tú de esto, pero creo que hay un chorro de oportunidad ahí de de experimentar. Finalmente, pues bueno, puedes hacer todo el universo y el mundo y la el personaje que tú quieras y como si te antoje. Ya otra puedes hacer así conecta con la gente o no y si tiene o logra captar una audiencia. No no no sé qué opines. O sea, ¿cuál es el objetivo? ¿Lo lo piensas monetizar y cómo?
+
+[Speaker 1 - 00:51:43]
+A ver, para los que llegaron, este, más tarde, estábamos hablando al principio de los influencers virtuales, que son estos avatar creados para ser influencers que utilizan tus redes sociales, para compartirlo, ¿no? Para compartir, o sea, que utilizan sus redes sociales para compartir lo que hacen. No son inteligencia artificial, porque no es una inteligencia artificial publicando sus mismas cosas, hay un humano detrás que está haciendo avatars digitales, ya sean en 3 d o con AI, y están publicando información. Ahora, ahorita ahorita te contesto la pregunta, pero las la primera parte es como, pues, hacernos la pregunta y cuestionarnos quién está detrás de estos influencers, que generalmente son agencias de marketing que quieren ganar más, porque, pues, lo que están haciendo los los las agencias de marketing tienen datos e información de que, a ver, se necesita o hay mucho dinero en el en los de travel, o de los de fitness.
+
+[Speaker 1 - 00:52:48]
+Entonces, ¿qué pasaría si hiciéramos a una persona con el arquetipo necesario para las marcas? Porque lo que trabajan las las las agencias de marketing son arquetipos, y trabajar de influencer porque es algo que también hago con mi vida cotidiana. O sea, yo sí trabajo para marcas. No, Del lado de Epicu, en Epicu, déjenlo de lado, esa es mi organización, y con ello trabajo niñas. Pero aparte, en mi con mis redes sociales tienen, pues, no, yo diría que entro en el en el en en el nivel de micro influencer. No me gusta la palabra, pero ni modo, así se le llama, o creadora de contenido, microcreadora de contenido. Pues, las marcas te buscan, y las marcas te buscan, no porque quieran trabajar tanto contigo, o sea, sí, pero también porque hay un arquetipo detrás, y el arquetipo que define tu personalidad en Internet es esta mujer es hace fitness y podemos insertarle productos relacionados con fitness, no soy yo.
+
+[Speaker 1 - 00:53:51]
+Esta mujer te va con tema de tecnología y empoderamiento femenino, ¿qué tal que la ponemos? En una campaña para, no sé, acercar a las mujeres y la va a poner y el patrocinador es Seacred, ¿no? Que es 1 de los proyectos con los que he trabajado. Entonces, todos estos arquetipos a los agencias de marketing les interesa porque, obviamente, las empresas quieren vender más y ya no les necesito dar toda esa clase, porque seguro, ya saben. Y para esto han sido creados influencers virtuales, como, por ejemplo, Lil Mikaela, que tiene 2.7 1000000 de seguidores. Es la más famosa, pero ya tiene años. O sea, Mikaela existe, creo que ya tiene como 5 años existiendo. Ella fue hecha en 3 D, no con inteligencia artificial, y a mí me gusta mucho su perfil. Está Ima, que es una modelo que también es como, llámenos blanqueada, o sea, porque, la la verdad, la mayoría de las modelos o influencers que había visto son mujeres blancas.
+
+[Speaker 1 - 00:54:55]
+Esta es una modelo de color. Y también, bueno, Micala, Mica, Miquela tiene sus amigos, que es Blauco y, ¿cómo se llamaba? Bermuda. Y la que sorprende a todos, que es la que estaba hablando en Mexi, es esta señorita que se llama Aitana, que la crea un chavo que se llama Rubén Cruz, que es un es un diseñador y funda fundador de la agencia de Krueless. Ella tiene ya más de 100000 seguidores, y lo interesante es que ya está colaborando con marcas, pero también porque esta persona tiene años trabajando con marcas. Entonces, para él es más fácil acceder a las marcas con las que ya trabajaba antes. Ahora, algo que las marcas con las que ya trabajaba antes. Ahora, algo que nos tenemos que cuestionar, primero, ¿por qué todas son mujeres? Segundo, ¿por qué todas están muy sexys? Por no decir otra palabra. Y tercero, ¿por qué hombres están monetizando con el cuerpo de las mujeres?
+
+[Speaker 1 - 00:55:56]
+Entonces, no necesariamente creo creo que es algo positivo, pero está pasando y nadie y nadie puede hacer nada a cambio. Y pues, ¿qué yo estoy esperando al hacer yo mi propio avatar? No sé, la verdad es que dije, lo están haciendo las personas, yo lo puedo hacer, y si me ayuda a mi contenido y además a generar, sí, ¿por qué no? Dinero, pues, ¿qué tiene? ¿No? Yo creo que sí voy a, o sea, el perfil que le puse a mi Ana Karen falsa es que, como yo, sí es textsavi, pero además es un astronauta que además le gusta viajar y y este y es fitness. Entonces, pues, a la mejor esto queda nada más en una conversación que porque por un momento es pago de moda y me gustó y y el día de mañana ya no está el perfil, no sé. Déjenme experimento un rato, ni 2 días tiene que lo cree. Entonces, déjenme experimento un rato y ya les digo qué pasó. A lo mejor me saca de pobre esto. Entonces, bueno.
+
+[Speaker 0 - 00:57:00]
+No, no. La neta, la neta, yo sí es algo que he considerado para la comunidad. No hemos pensado en en en en el arquetipo, ¿no? Pero, pues sí, definitivamente hay que pensar en eso. Este, si hombre, mujer, so, ¿qué? Puede ser un un un un un un NFT, ¿no? Algún dibujo, ve tú a saber, algún diseño, algo más que cómico. O sea, yo creo que hay muchas formas de experimentar, como tú dices, con esta tecnología de los influencers creados con inteligencia artificial. Porque creo que es una historia y una narrativa. Y obviamente el contenido y subirlo probablemente sea más fácil, o sea, ya con chat GPT y con todo lo que hay. Va a ser interesante verlas a dónde lo llevas. Este, yo sí voy a estar al pendiente. Y y creo, y estoy buscando quién nos ayude a desarrollar algo acá para empezar a experimentar con la banda de de de MX Web 3. A ver, Yaiza, ¿una duda, pregunta sobre el tema?
+
+[Speaker 0 - 00:58:01]
+Échale.
+
+[Speaker 4 - 00:58:04]
+Sí, iba a comentar que sonaba mucho Metaverso, Entonces, la pregunta era, ¿y y qué pasó con el Metaverso? No, este, hice una pregunta también sobre la el el la creación de VTubers. Ya tiene bastantes años que se crearon los VTubers, de hecho hasta hay series de anime basadas en personajes de vtubers que se volvieron famosos en todo en Japón y este y mucho de esta ella hay de tener tu avatar tener tu pero te crear contenido al mismo tiempo Creo que el todavía no ha agarrado así mainstream fuera de la comunidad de videojuegos, la comunidad de Otaku, etcétera. Pero, este, ¿cómo se llama? Mucho de, este, cambiarte tu, no tu voz, sino cambiar usar tu voz para hablar en diferentes idiomas, crear avatar virtuales que presenten y que den una cara al al producto de la marca. Creo que eso es como que el gran potencial en en advertising para para para lo que es la la web en AI, ¿no?
+
+[Speaker 4 - 00:59:08]
+O sea, lo primero que quieres crear, quieres crear un comercial, que salga un muñequito y que te hable 100 idiomas y que vaya específicamente targeteado el video a la región para que te pueda hablar francés, te pueda hablar inglés, te puede hablar rumano, etcétera. Entonces, y eso es una arma poderosísima de marketing en la web, pero yo no sé por qué ha tardado tanto hasta cierto punto. O sea, yo he visto videos así, pero aún así lo siento que son muy pocos para el tiempo que tiene esta tecnología ya corriendo, que lleva más de 2 años, quizás, más de 5 años, perdón.
+
+[Speaker 1 - 00:59:50]
+Yo siento que tal vez es que las marcas si quieren todavía personas reales, ¿no? Y y ha tardado en ponerse porque, seguro, no no yo no sé si una marca va a querer a alguien o cómo o todavía las marcas tienen miedo. Más bien, yo diría eso, todavía las marcas tienen miedo a posicionarse con alguien que no existe, ¿no? Ahora, la pregunta, ¿qué tal que si es alguien que sí existe, pero solamente es un avatar digital? Entonces, ahí ahí es donde yo digo, este esta es mi pregunta, y y si yo me me dedico también a hacer creación de contenido y quiero vivir de la creación de contenido, pues, a lo mejor por ahí hay algo.
+
+[Speaker 0 - 01:00:34]
+No, definitivamente hay algo. Ya lo a lo mejor todavía es de nicho, vete a saber. Pero yo no veo más que para más adopción. O sea, yo yo sí creo que muchos se vamos a acabar automatizado, hablando con influencers digitales. Las empresas van a tener los suyos, ellos se van atender. Ya existe, como como como lo hemos visto, ¿no? O sea, ya hay personajes que, y el chatbot, que no sé qué. O sea, ya ya luego lo va a saber moverse YYY algo inmersivo, ¿no? Y el metaverso a lo mejor no está tan lejos como o tan cerca. Ya 1 no sabe qué pedo con esa tecnología. Pero definitivamente el el el poder agarrar un personaje y hacerlo viral en en muchos mercados, y con diferentes mensajes para para, o sea, es algo que vamos a empezar a ver creo que mucho más seguido. Y tenemos que estar conscientes también de de de que nos van a bombardear, ¿no? Con ese tipo de de de de influencers, que no luego no vamos a saber si son reales o no.
+
+[Speaker 0 - 01:01:34]
+Hay muchos que yo veo y digo, no no manches, o sea, no parece, ¿no? No no sé, no sé.
+
+[Speaker 1 - 01:01:41]
+Es que el Metaverso era una, o es una parte pequeñísima de lo que estamos a punto, lo que estamos empezando a vivir. O sea, hoy ya no vivimos un mundo digital o no digital. Vivimos un mundo de realidad extendida, y la realidad extendida no solamente es ponte unos googles de realidad virtual o ponte unos googles de realidad extendida, sino todo tú o todo tu ser estás viviendo algo que extiende, literal, tu realidad. ¿Cómo? ¿Qué está extendiendo mi realidad? Este avatar, que está extendiendo mi realidad, este mundo en donde a lo mejor yo estoy ganando dinero, pero tengo una vida aquí y tengo una vida allá, y a la mejor, no es una vida, no son 2 vidas, solamente salgo, otra vez vuelvo a repetir, como su nombre lo dice, está extendiendo lo que ya vivo.
+
+[Speaker 0 - 01:02:42]
+Hace poquito, yo creo que fue en la mañana, si mal no recuerdo ayer, un un un post de Jorge, que hablaba sobre y que aquí lo veo conectado, saludos al buen Jorge. Sobre el tema de de de cómo también las las empresas están volteando a ver este otro tipo de nichos o de herramientas para, pues, fusionar más su marca, para fusionar más a los empleados, y el tema de las marcas personales, ¿no? Que que que que a lo mejor ahorita muchos de los que estamos haciendo aquí contenido, pues, más o menos tenemos una idea, ¿no? De cómo funciona eso. Ana, tú eres una de las que que habla mucho del tema, te he escuchado hablar mucho del tema de marca personal, y cuando he platicado contigo es algo que siempre tienes presente. ¿Cómo ves el el el el el el el el mercado del de creación de contenido? Como tú dices, ¿no? Que quieres y y buscas vivir de eso. Yo creo que eso es algo que con este tipo de herramientas, como los inteligencias los influencers, perdón, de inteligencia artificial y todo el contenido que podemos ya generar con con aplicaciones, escuchar GPT, etcétera, que solo se va a potenciar y que en realidad se va a adoptar mucho.
+
+[Speaker 0 - 01:03:46]
+Y que muchas empresas, como lo dice el post de por ahí de Jorge, sí van a buscar que sus empleados tengan marcas personales y que tengan presencia en redes, a través de de de de, pues, de de sus avatars, este, de carne y hueso, ¿no? O avatares digitales, o inteligencias artificiales. De todas saber, ¿no? Pero definitivamente creo que es algo que que que muchos no se han dado cuenta del impacto que va a tener. No sé tú qué opinas.
+
+[Speaker 1 - 01:04:13]
+Pues sí, creo que sí es importante tener una marca personal. Pero, este, creo que a ver, es que puedes tener tu marca personal y decidirlo hacerlo, o puedes decidir si totalmente no sea una persona pública. Y hay veces que eso te va a dar la vuelta un poquito, porque sí estoy de acuerdo en la marca personal y sí estoy de acuerdo en eso, pero tal vez hoy también hay gente que quiere, no, quiere su privacidad. Tengo una amiga que ni siquiera quiere tener WhatsApp, ¿no? Porque no quiere perder su privacidad digital. Entonces, va las personas siento como en un episodio de Black Mirror, como que las empresas lo vayan a las vayan a querer empezar a sacar de su compañía porque no quieran tener su propia marca personal o porque no quieran ponerse a vender su perfil de AI o Creo que eso podría llegar a ser un un un escenario bastante frustrante para las personas que decidan mantener su privacidad digital.
+
+[Speaker 1 - 01:05:17]
+Pero no tiene nada que ver con lo que me preguntaste, pero me quedé pensando eso.
+
+[Speaker 0 - 01:05:24]
+No, está está muy interesante. Porque sí, definitivamente va a haber ciertos roles que a lo mejor lo van a requerir, ¿no? A fuerzas vas a requerir ser o sea, estar en redes, estar activo. ¿Por qué? A lo mejor porque tu rol es de marketing o tu rol es de ventas o tu rol es de de todo saber, ¿no? Pero sí creo que es algo que se va a empezar a utilizar más. Y definitivamente, ¿no? Hay gente que que que no, en lo absoluto le gusta salir en Instagram, ¿no? El caso, claro, mi mi esposa, ella no, por ejemplo, no quiere que la pase en ningún lado, ella no y no y no y no y pues bueno, mudé su decisión y que bueno, cada quien tiene su su su su manera, ¿no? De utilizar estas herramientas y hasta dónde quiere llegar con ellas. Pero sí, tiene su su su riesgo. Yo todo lo que posteo sé que es totalmente público y en algún momento puede llegar a ser usado en mi contra, de alguna u otra forma, ¿no? Y creo que hay que tener esa mentalidad. Pero pues también son herramientas que a 1 le sirven para tener una audiencia, llegar a tener alcance, tener influencia, vender algo.
+
+[Speaker 0 - 01:06:25]
+Entonces, hay un balance ahí medio interesante. No no no no lo puedo negar y y sí ha sido interesante y divertido irlo encontrando, ¿no? De ver dónde está esa línea hasta donde 1 en lo personal quiere llegar. A ti te he visto súper activa, como digo, ¿no? En redes estás estás altruista, van de eventos, te generan mucho contenido. Tú creo que, al menos de lo que yo veo es, llega a ser un balance, pero en algún punto te te te has arrepentido de de de No. De no sino, no sé, o sea, qué retos has has visto, qué qué Sí.
+
+[Speaker 1 - 01:06:57]
+No, mira, yo soy creadora digital. No sé cuánto tiempo lo seguiré haciendo, espero que mucho. Me gusta mucho ser creadora digital, o sea, es un perfil, es una personalidad, yo creo que se necesita tener, ¿por qué? Es 1 de valentía, aceptar todo lo que te digan en redes. No creo que me me hateen mucho, la verdad es que hasta ahora todo bien, pero dudo, no dudo que algún día vaya a pasar, porque entre más eres vocera, más la riegas, porque más eres una persona, eres un ser humano, y los seres humanos, pues, cometemos errores y decimos cosas que no me puede llegar a pasar. Pero sí, 100 por 100, yo veo que que el la economía de los creadores a hoy está en crecimiento, y hoy ya es algo como, pues, ¿qué no ves que todos los mexicanos quieren ser youtubers? Entonces, los jóvenes mexicanos quieren ser youtubers. Entonces, pues, claramente, queremos ver y vivir de eso porque, pues, vemos que en redes sociales se la pasen muy bien los, ¿qué tanto es verdad?
+
+[Speaker 1 - 01:08:03]
+Lo, pues, dudo que todo lo que pongan ahí es verdad. Pero, a mi parecer, es como, yo no me la pregunta era como si estaba, si me arrepentía o quisiera seguir siendo creadora así, no me arrepiento. Y al contrario, quiero ver hasta dónde para esto del tema, sobre todo con el la creación de inteligencia artificial. Utilizar la inteligencia artificial como herramienta para acelerar el proceso, que antes te costaba más tiempo, y utilizarla también para hoy como un avatar, y para mi contenido personal, para enseñar a otras personas. Eso es lo que yo pienso, y lo pienso como un modelo de vida, porque sí hay mucho dinero en este sector, y una vez que entras en el mundo de los influencers y que empiezas a conocer a los PRs y te empiezan a contactar, ya no hay vuelta atrás. O sea, a mí todo el tiempo me están contactando RPs, no no tantos como segura a otras personas, pero sí, o sea, si a mí sí me contactan y me dicen, oye, ¿qué te parece si hacemos este deal?
+
+[Speaker 1 - 01:09:10]
+¿Por qué promociones esto y esto? Y si las marcas van conmigo, y si las marcas van, pues, se asocian a lo que yo quiero comunicar, les digo, va, ¿no? Entonces, todavía no estoy en el mood en el que, bueno, prometidas que pagar tanto, ¿no? Hay veces que es más como intercambio, hay otras veces que sí tiene que ver con intercambio de económico, pero de verdad es que a mí me impresiona ver El otro día está viendo listas de precio de lo que cobran los influencers de de más de 100000 seguidores, o sea, me impresiona ver lo que están cobrando hoy influencers, ¿no? Que tienen más de 100000 seguidores, 1000000 de seguidores, ¿no? Entonces, bueno, ese es otro tema completamente diferente, pero la creator economy también ya ya es todo una categoría.
+
+[Speaker 0 - 01:10:05]
+Sí, definitivamente es algo que muchos de los que estamos por aquí conectados están explorando definitivamente. O sea, a través de tokenización, a través de newsletters, a través de espacios, eventos presenciales. Creo que también eso es algo súper importante que yo he visto que acelera un chorro. Y es algo que tú también te he visto hacer mucho, con niñas, con gente de todas las edades. Y por ahí me surge una una duda, amarrando y atando todos estos temas de de la presencialidad con con con el tema de la tecnología y los niños. Yo tengo un niño que quiere ser artista desde hace años, dice que que él quiere ser artista. Y pues bueno, le hemos metido, le hemos llevado a clases, se tenido cursos, clases de música, de de pintura. Y le gusta mucho y hasta empezó a pintar, tiene varias cosas. Tú, con las niñas o con la gente que te ha tocado experimentar y con el tema de tecnología, ¿cómo lo has manejado? Porque por ahí estamos entre esa discusión de que ya empiecen a postear en redes, que generen ya contenido o no, que hagan algún taller, que hagan algún curso, que que hablen de algún experimento que les gusta hacer o que platiquen de su arte.
+
+[Speaker 0 - 01:11:14]
+Este, y es algo que hemos platicado mucho acá en la en la en la casa sobre cómo manejarlo. No no no sé si tengas tú alguna opinión al respecto. Este, pero por ejemplo, una de las obras de él ya la mandé a el concurso de NFPNYC. Bueno, no concurso, a la exhibición y se la aceptaron y, pues bueno, ahí le vamos creando un perfil o le voy ayudando a hacer un perfil también en estos eventos y y plataformas que yo creo que, pues, para un niño de 9 años es un esposo del cañón, pero no sé si es acelerarlo
+
+[Speaker 1 - 01:11:47]
+Qué chingón, qué chingón que sepa hacer. Mira, yo creo que es un privilegio el saber qué vas a hacer y cuál y cuál es tu pasión. Y si tu hijo cree que ya la encontró, o para él por ahí va, qué mejor que haya alguien detrás que lo esté apoyando, porque hoy en día conozco muchos adultos que nunca o no han encontrado su misión en la vida, cuál es su pasión, o como dicen los japoneses, suikigai, ¿no? Lo que son buenos, lo que pueden ganar dinero, y lo que les apasiona. Y y eso, para mí, yo sí me siento, por ejemplo, muy privilegiada en que yo sé que ya lo encontré, y que esto me quiero dedicar toda mi vida a ayudar a a trabajar con niñas y mujeres en educación y el tema de contenido, Y que si él tú lo estás apoyando, sea lo que sea, sea que quiera ser artista, artista de arte, ¿verdad? O artista de cantar. O ¿qué arte dirán por ahí? Artista entendí que de arte debe pintar, ¿verdad?
+
+[Speaker 0 - 01:12:51]
+Sí, pues de todo. Le gusta le le gusta un poquito todo, este
+
+[Speaker 1 - 01:12:54]
+Sí, como que vaya experimentando en las artes, ¿no? Ya sea música, ya sea cine, ya sea Yo también, cuando era niña, yo decía que quería ser artista, que quería ser artista, y que quería Yo empecé bailando ballet, luego me que hice dedicada a las artes escénicas, y mi mamá me dijo, no, de eso no vas a vivir. Busca lo que puedas estudiar en una universidad y encontré arte digital. Por eso estudié arte digital, porque fue lo lo que encontré en una universidad, me dijo, en una universidad decente, entonces estudié en el Tec, arte digital. Pero, a lo mejor, por ahí estaría yo pintando cuadros. No, no sé. Pero, al al final, qué bueno que lo estés apoyando, y algo que pienso es qué tanto poner en redes sociales. Yo sí creo que los niños no deben de estar en redes sociales hasta los 13 años. O sea, 100 por 100 creo que por algo existe eso. Bueno, a lo mejor Yo creo que o que sean
+
+[Speaker 0 - 01:13:51]
+manejados por papás. Sí, es un es un es un tema. O sea, definitivamente es un tema porque tengo la posibilidad de ayudarlo mucho, creo yo, ¿no? YYY también de de de, no no lo voy a negar, de monetizar en algún momento, o sea, o sea
+
+[Speaker 1 - 01:14:10]
+No, sí, y creo que si tú lo manejas y le pones como su cuenta de artista y le pones y y él y él acepta poner sus fotos y tú lo estás manejando, no lo veo nada de malo, pero algo hablando de temas del futuro, ahí se prevé que para los siguientes 10 años los niños que hoy están saliendo en redes sociales sin el permiso de sus papás sean los papás sean demandados por no haberles dado ellos el permiso de poner su sus caras desde niños en el mundo digital, y y eso es un tema que vamos a empezar a ver también. O sea, niños que demanden a papás, porque oye, cuando era bebé, pusiste mi foto, y ¿quién te dio permiso de poner mi foto? Entonces, hay para todo hay doble hay doble lado de la moneda. Pero el punto es también apoyar a tu hijo. Entonces, hasta ahorita ya te puede decir si si si si opino que sí quiero esto y si opino que sí quiero aquello.
+
+[Speaker 0 - 01:15:17]
+Sí, no, así ha sido bien interesante y y es algo que vamos a vivir con él. Vamos a lidiar con esto y y está chido. Vale, ¿qué onda, Bienvenido? Hola, Ana, ¿cómo estás?
+
+[Speaker 5 - 01:15:28]
+Hace mucho tiempo que no hablo contigo. Oye, quería preguntarte tú como creadora de de contenido y como en esta parte que has desarrollado, ¿cómo has visto estas estos YouTubers o qué crees que vaya a pasar con esta tendencia de YouTubers que se van a las escuelas secundarias, prepas a grabar contenido exhibiendo simplemente que, pues es gente que está en procesos educativos y en lugar de apoyarlos para para que se sigan impulsando como en cultura general o cosillas así, simplemente los los denigran por no saber X0Y dato. ¿Qué opinas acerca de ese tópico?
+
+[Speaker 1 - 01:16:06]
+No lo he visto. De los tiktokers que van AAA entrevistar a gente a He visto como de tiktoks de que te preguntan, a ver, dime ¿cuál fue la cuál es la capital de esas dices?
+
+[Speaker 5 - 01:16:22]
+Chipi, date cuenta que hay unos de esos que van a las escuelas y primarias, bueno, no primarias, no secundarias o prepas, y les empiezan a preguntar cosas así, y simplemente terminan burlándose o los mismos compañeros se burlan de de mientras está grabando el video porque, pues, la gente no sabe como cosas de cultura general que, pues, se entiende que están en procesos educativos y todavía les falta comprender ciertas cuestiones. Pero, pues, ese es un lado y también la parte de que, tú lo dijiste, no son menores de edad, que no tienes la el permiso de un mayor de edad para salir en contenido de de alguna persona y más si está lucrando con ello.
+
+[Speaker 1 - 01:16:59]
+No he visto los videos tal cual en los que se burlan, que que que feo. Este, no los he visto. Entonces, no sabría qué opinar. Perdón.
+
+[Speaker 0 - 01:17:12]
+¿Tú qué piensas que? Sí, yo yo creo que ser ojete está culero. Y eso es ser ojete, creo yo. Este, no sean ojetes. Traten bien, traten chido a la banda. Sí, no, no, no, humillar puede que esté divertido de repente. No sé, no creo. Pero no, no, no los he visto tampoco, la verdad. Y ojalá tengan más manitas hacia abajo que hacia arriba de la banda, aunque no creo. Pero, bueno, pues, ¿qué fregados le hacemos? Este, Ana, última pregunta que yo traigo y después ya podemos hablar de lo que tú gustes. Porque tampoco te quiero quitar mucho tiempo. Ya te quité una hora y te quito. Voy. Ando. Tú dime, tú dime. Después de de la última pregunta y me voy. Órale, chido. Muchas gracias, no, neta neta, muchas gracias. Tu libro, cuéntanos de tu libro. ¿Qué tanto tuvo que ver la inteligencia artificial por ahí en el libro? ¿La usaste o no la usaste? ¿Habla de eso o no habla de eso? ¿Dónde lo podemos conseguir?
+
+[Speaker 1 - 01:18:07]
+Es un audiolibro, está en Vic. Digo, lo escribí a mano, entonces estoy pensando publicarlo. Ahí intenté mandando algunas editoriales que no me han pelado. Entonces, si no me esperan las editoriales, lo voy a publicar en Amazon. El libro se llama Rescribiendo el código, como la tecnología está en las mujeres. Hablo más o menos de los temas que hablé al principio, de sesgos, de por qué las mujeres están entrando al tema, vienen de entrar al tema tecnológico, qué viene para el futuro. Pensando que lo va a escuchar una mujer que no sabe nada de tecnología, platico desde qué es la Web3, qué viene con IA, qué viene con Blockchain, qué viene con, por ejemplo, el las computación cuántica. Como primero es una introducción a entender las nuevas tecnologías, después por qué debemos estar en las nuevas tecnologías, cuáles son los sesgos, y por qué las mujeres en el pasado no hemos construido el Internet y todo lo que tiene que ver con innovación, y por qué tú como mujer debes de ser parte de esto, ¿no?
+
+[Speaker 1 - 01:19:11]
+¿Qué tiene que ver la inteligencia artificial ahí? Pues, hablo mucho de esta, pero desde mi perspectiva y desde historias que tienen que ver conmigo. Eso quiere decir que, pues, la IA no sabe de mis historias ni de mi vida. Entonces, este libro no fue hecho por inteligencia artificial, eso cada vez aclarar, para nada. De hecho, la persona, quien editó el libro fue un editor, no una una IA. Entonces, a mí no me preocupaba si escribía algo mal, porque sabía que tenía un editor. O chueco, o mal, o con falta de ortografía. Al final, digo, es dicho, entonces, no se le ve la ortografía, pero, eventualmente, si lo lanzo, sí. Entonces, dije, bueno, podría usar algo que podría cambiar ahí, podría usar la inteligencia artificial como editor, si en el, si no hubiera tenido 1. Entonces, bueno, ese libro es, sí sí es 100 por 100 hecho por mí, y pueden ir a escucharlo a Vic. Tienen 7 días gratis, lo siento si cuesta, pero tiene 7 días gratis. O si ya tienen mi inversión en Vic, pues ya pueden ir a escucharlo.
+
+[Speaker 1 - 01:20:15]
+Vayan Vayan a escucharlo porque me costó mucho trabajo.
+
+[Speaker 0 - 01:20:20]
+No, yo sí me lo voy a aventar. ¿Y si lo hicieron no lo voy a escuchar?
+
+[Speaker 1 - 01:20:23]
+Recibo Anda, quería preguntar justo eso te iba a preguntar, ¿qué onda con eso? Sí recibo regalías de cada de cada parte. No funcionan como las editoriales que te pagan y luego te dan regalías, funciona nada más a través de regalías. Entonces, vayan a escucharlo para que todo lo que estuve trabajando tenga tenga una retribución, ¿verdad?
+
+[Speaker 0 - 01:20:44]
+No, a mí me interesa un chorro tu perspectiva. Yo sí lo voy a escuchar. Te te te confirmo cuando lo escuche y si quieres ya luego platicamos del tema. Muchísimas gracias. No sé si hay algo más que quieras comentarnos. Este, ya te robamos un chorro de de tiempo y y la neta estuvo súper chida la la la plática. Qué bueno que no se pudo subir el Chuy.
+
+[Speaker 1 - 01:21:02]
+Ay, estuvo muy buena y qué qué mal que no estuvo Chuy. Y muchas gracias por escucharme. Ahí vayan a seguir a la AI Queen Maker para que tenga más seguidores, porque apenas está creciendo. Todavía ni a los 100 llego. Y, pues, tengo un podcast que se llama Epi Queen Podcast, donde entrevisto a mujeres en ciencia y tecnología todos los jueves, o casi todos los jueves, el jueves pasado hubo un descanso, pero el siguiente jueves, o sea, pasado mañana va a haber otro capítulo, así que vayan a escucharlo. Y nada, pues, por ahí siempre estoy poniendo cursos, talleres, sobre todo para niñas y mujeres. El 18 de diciembre tengo 1 presencial en la Ciudad de México para niñas de de 8 a 14 años que que quieran, que los papás quieran que aprendan sobre seguridad en Internet e inteligencia artificial, y cómo utilizar la inteligencia artificial de una manera ética para sus proyectos escolares, para su vida, y pues enfocado obviamente en su edad.
+
+[Speaker 1 - 01:22:08]
+Todo eso lo pueden encontrar en mis redes sociales de Epi Queen o de Ana Queen Maker. Ahí en la página de Epi Queen está el contacto de WhatsApp. Ahí les dan toda la información.
+
+[Speaker 0 - 01:22:23]
+Muchas gracias, Ana. Por aquí arriba Piñé. Está pineado el Hackathon. Ahorita platicamos el Hackathon. Está pineado también el link al Instagram de AI QueenMaker. Síganlo, échenle un follow. Pongan pongan ahí campanita si gustan. También está el libro, por si lo quieren escuchar. Ahí está el link directo al libro. Y también les pineé una revista, un un reportaje en la revista Expansión sobre el premio. Ahí el buen J. Isa que tenía dudas sobre el premio, ahí se puede meter a revisar todo sobre el premio, el por qué y cómo, y cuándo, y dónde. La neta, Ana, súper súper cool que pudiste pasar por acá. Gracias por aceptar la invitación. Y encantado de cuando tengas algo que quieras tú platicar, pues aquí aquí estamos disponibles para para cuando tú digas. Me ha encantado platicar, conocerte, ya en todos los eventos. Y eres considero que eres una de las chavas y personas en el ecosistema más movidas que que que más cosas está haciendo, que empuja para que haya nuevas personas aprendiendo sobre estos temas.
+
+[Speaker 0 - 01:23:23]
+Y sobre todo con las mujeres que que, pues, obviamente tenemos todavía una gran tarea para disminuir esa esa brecha de género que sigue ahí, es una realidad. Y que sí, definitivamente me interesa mucho tu perspectiva de los sesgos, porque híjole, este, voy a voy a ver ese documental que no lo he visto. También me me me ya lo llevo de tarea. Por ahí lo voy a opinar ahorita que que que que lo que lo vuelva a escuchar. Este,
+
+[Speaker 1 - 01:23:50]
+pero bueno, pues aquí estamos. Muchas gracias, Ana. No, gracias a ti por escuchar y gracias a todos por estar aquí. Se llama, el documental se llama Sesgo Codificado. Salió desde el desde el 2020. So, ahí vayan a escuchar, está bueno.
+
+[Speaker 0 - 01:24:04]
+Chido, chido. Muchas gracias. Pues bueno, Ana, a la hora que tú gustes, aquí vamos a seguir con, gracias, Tro, con con con Germán de El 5 de Mayo. El que quiera subir, que esté participando ahí como mentor, como speaker, como patrocinador, como lo que guste. Si tiene dudas o preguntas del evento y quieren subir, adelante, bienvenidos. ¿Cómo andas, Germán? Ahora sí, cuéntanos, cuéntanos,
+
+[Speaker 3 - 01:24:26]
+cuéntanos, ¿cómo va a estar el evento? Yo estoy súper hypeado. ¿Qué tal, qué tal, cómo estás? Pues muy bien, sí. Vimos que que ya estás metido y además con ganas de de trepar las montañas. Es un evento de clase mundial, a eso le llamamos a este tipo de eventos que que ha puesto el estándar IT Global, este, IT Denver y otros tipos de de hackatones y eventos que hay por todos lados, muy web three, todo todo gratis, este, comida, bebida. Ha sido un gran esfuerzo. Ha sido necesario la colaboración de varios agentes off chain para
+
+[Speaker 0 - 01:25:10]
+creo que te perdimos, a ver si me pueden confirmar con las manitas, pero yo ya no alcanzo a escuchar. Interés en Ahí está, ahí
+
+[Speaker 3 - 01:25:17]
+está el día de regreso, sí. Va, este, empresarios y asociaciones civiles que tienen mucho interés en en que a Puebla le vaya bien y abrir las puertas a este tipo de eventos. Con esa base logramos, este, tener un lugar espectacular en la base de una pirámide, tener los servicios necesarios para que esto pueda salir adelante. Y ahora lo que hace falta es que que se inscriban los hackers, que ya tenemos más de 50 inscriptos, o sea, que ya viene muy bien. Hay 150 lugares para universidades, este, de todo el país, que son para universidades técnicas, para que manden sus equipos, lo cual ya diría que ya tenemos 200 personas, entonces, y developers, además, en su mayoría, entonces, está muy interesante eso. Este, las confirmaciones igual van a empezar a salir en una semana o 2, este, por ahora estamos recibiendo inscripciones nada más, y tenemos un equipo de mentores YYY coorganizadores, que son todas las comunidades de México que se han sumado de una forma espectacular, y algunas otras de Latinoamérica, por ejemplo, It Volcano, ya se sumó de entrada, este, y pues entonces el evento este va va a salir muy bien y vamos a disfrutarlo todos mucho porque va a ser, digamos que nuestro evento, ¿no?
+
+[Speaker 3 - 01:26:33]
+No vamos a tener que darle, digamos, este, el rédito, decir que fue gracias a a otras fundaciones grandes que suelen apoyar este tipo de eventos, que está muy bien, sino que lo logramos, ¿no? Eso de que la comunidad puede, where gonna make it, pues lo hicimos, y acá está la prueba. Este, acá está Suri, la veo, no sé si estará trabajando porque es horario de oficina para ella, que tiene una empresa, una agencia, que no no voy a decir mucho, porque sino se boxea. Este, está Erick, que también anda, debe andar en la chamba, este, y de más de organizadores mentores estás vos, este, una una excelente ficha que ya anda tirando para los side events, que eso es importante. Buscamos side events desde el 30 de enero. Hay varios días para que vengan otras empresas que no puedo decir nombres, ya están organizando side events, me han pedido información, o sea, que va a haber, este, eventos de Blockchain alternativos durante los días anteriores a la Hackathon.
+
+[Speaker 3 - 01:27:33]
+Esperamos que en la Hackathon no haya mucho para que se concentren, y después el lunes, este, algún otro de de de despedida. Vamos a a escalar la montaña, como pediste vos mismo, este, va a haber un side event que es totalmente switch off, que va a ser ir al parque East Tapopo, era La Malinche, pero lo acabamos de cambiar por pedido de de los que van a ir. Va a ser con cupos limitados, pero también 100 por 100 gratuito, este, así que ahí anotarse. Y, bueno, pues, esto se trata de dar, dar, dar, dar, YYY que todos lo aprovechen para crecer como desarrolladores, para que se fortalezcan sus relaciones web 3 entre la comunidad, este, que nos llevemos unos regalos, una buena experiencia, disfrutemos de de estar todos juntos, de onboarddear gente, y y al final, este, como evento como tal, pues intentar de que esto sea un evento anual, que que podamos tener sin importar el calendario global. Así que bueno, este, pues, gracias a todos los que se han sumado a colaborar, a los que están apoyando con con difusión y demás, este, y también, pues pues nada, disfrútenlo, disfrútenlo que que se hizo, que que fue posible, que que estamos en en el camino hacia el éxito de hacer eventos realmente que sacan de la comunidad, que las instituciones no nos están dando la espalda, que suele suele suceder, de que no hubo que que andar acomodando intereses, este, secundarios o lo que fuera, tenemos apoyo y y me parece muy importante, ¿no?
+
+[Speaker 3 - 01:29:03]
+Este, a el evento, bueno, ahora lo que falta es que se sumen más patrocinios, ya hay algunos, este, para poder hacerlos un anuncio oficial un poco más más ruidoso, este, y es para premios. Así que manden gente, manden empresas web 3, manden patrocinadores, inviten a que se inscriban las personas que quieren ir a un Hackathon. De verdad reserven su alojamiento en Cholula, que todavía está barato porque va a subir, este, hagan sus planes para estar acá en febrero y a disfrutarlo.
+
+[Speaker 0 - 01:29:37]
+Oye, Germán, una duda que me han preguntado por todos lados, ir 5 de mayo en febrero, ¿qué pedo?
+
+[Speaker 3 - 01:29:47]
+Pues, es la fecha que había en el calendario global. Este, entonces, por eso mismo es que se hizo en el en el 5 de mayo, en febrero, esta vez, los siguientes años esperemos hacerlo en 5 de mayo, esperemos que también sucedan los eventos, pero 5 de Mayo va más allá de la fecha. 5 de Mayo es es es una fecha muy importante que se celebra en Estados Unidos y en México de forma militar, en Estados Unidos de forma civil, porque en Estados Unidos este evento particularmente, que es la batalla del 5 de Mayo de 1862, lo que logró fue evitar el intervencionismo francés en América. No es, este, una batalla en Puebla militar, que acá ganaron los poblanos, los mexicanos, el ejército de de oriente, más todos los batallones que hubieron contra los franceses que les dieron en su madre y luego volvieron, no, hicieron la intervención. No se trata solo de eso. El hecho de que se haya detenido a los franceses en Puebla ese año, que era totalmente en contra de todos los pronósticos, absolutamente todos los pronósticos, hicieron que la llegada de Napoleón a Estados Unidos no fuera posible, y la guerra civil de Estados Unidos, la guerra de secesión, se diera vuelta a favor de Lincoln y todos los que estaban en contra de la esclavitud, de de seguir con con con este tema conservador dentro de Estados Unidos.
+
+[Speaker 3 - 01:31:12]
+Napoleón iba derecho a repartirse a Estados Unidos con todos los que estaban a favor de la esclavitud, los conservadores y demás. Esa esa pérdida en la batalla del 5 de mayo significó un año de atraso en la intervención francesa y la llegada de las tropas francesas a apoyar, porque ellos querían pasar por México nada más para llegar a Estados Unidos. ¿Y qué es lo que se celebra entonces? El 5 de mayo celebra la libertad, por eso es que se celebra en Estados Unidos, porque estaba repleto de mexicanos, de latinos e incluso de esclavos que en los estados que que estaban bajo el, digamos, la gobernanza o la influencia de Lincoln, ya estaban en contra de la esclavitud, ahí ya no había esclavitud. Y el hecho de que llegaran los franceses significaba que les iban a dar en su madre y que iba a estar la esclavitud en todo Estados Unidos, y los conservadores se iban a apropiar del del lo que iba a ser el país en un futuro.
+
+[Speaker 3 - 01:32:12]
+Eso es lo que se celebra, libertad, democracia, igualdad, esos son los los valores del 5 de Mayo, y eso es lo que hace IT 5 de Mayo, no es solamente un Hackathon, es una organización que trabaja en silencio, ya hemos hecho alguna cosa, queremos hacer más, y en este caso vamos a hacer un Hackathon, que es siempre sin fines de lucro, es una asociación que que se está que está naciendo, digamos, y por eso, bueno, acá hay algunas personas que que son parte de esa asociación, Suri, Erik y otros más que que puede ser que anden por ahí. Este, y pues este es es es el primer, digamos, no no no no estaré en decir obsequio, pero es la primera iniciativa lograda que teníamos como principal, este, por parte de la asociación. Entonces, bueno, 5 de Mayo va más allá de la fecha. Es es un espíritu, es un ideal en contra del intervencionismo a favor de la igualdad, a a favor de la libertad y de la democracia, cosas que que tienen mucho sentido también con el con el Blockchain.
+
+[Speaker 0 - 01:33:18]
+Excelente, excelente. Muchas gracias, Carmen. Acá arriba les pinié, la liga donde pueden ver las fotos de todos los mentores speakers, jueces que van a estar o que vamos a estar participando porque yo ya yo ya me me me apunté definitivamente a apoyar, a estar allá, a ir a la montaña. Ya ya vi que va a ser a lo mejor el lista y el popo, encantado de de ir allá con la banda. Ya saben, a mí la montaña me me encanta. Y hay mucha gente de la comunidad que me ha pedido, oye, llévanos, llévanos, llévanos. Bueno, pues bueno, ahí va ahí va el primero. Este, acá en Monterrey hemos hecho cosas chiquitas. Vamos a empezar a a hacer más eventos de montaña, pero bueno, ya ya hay 1 programado en Puebla. ¿Qué día va a ser ese? Ya sabes, ya definieron cupo limitado, vi que hay que apuntarse rápido y también inscribirse a los que puedan participar, los que quieran participar, perdón.
+
+[Speaker 3 - 01:34:12]
+Sí, para el side event todavía no tenemos la fecha, vamos a vamos a analizarlo bien. Puede ser desde el martes hasta el lunes, o sea, del martes previo a la Hackathon hasta el lunes posterior a la Hackathon, hay que ver bien qué día va a ser. Obviamente que no va a ser, este, ni sábado ni domingo, y viernes posiblemente tampoco, por un tema de que si no se solaparía. La capacidad va a estar limitada, ¿sí? No tenemos claro de cuántos, pero va a estar limitada. Tenemos una persona que va a estar encargada de de ser el líder de esta activación, este, que es Ariel, pero más allá de eso, este, vamos a llevar una una una hoja para para poder apuntarse, suscribirse, y que las personas que estén en el Hackathon puedan participar de esta actividad totalmente gratis. Todas las actividades del Hackathon son gratuitas, las nuestras, el hackathon en sí también, incluye las 6 comidas, incluye barra de snacks y y café las 24 horas, va a haber una fiesta de cierre con piñata, que esa también está a cargo de Ariel, este, que esa fue fue hablado de Ates, porque él tiene un un proposal para todos los Global, que es que haya una piñata al final.
+
+[Speaker 3 - 01:35:31]
+Nosotros se la aceptamos, este, y, pues, va va a estar muy interesante. Esperamos que hayan grandes premios, pero de por sí la experiencia va a estar va a estar muy gratificante, así que inscríbanse. Es posible que que se llene y que algunas personas se queden afuera. Ojalá que eso no suceda, pero bueno, suele pasar este tipo de eventos, así que cuanto antes se inscriban, mejor. Y pues, invitados todos a a disfrutarlo. Este, los que hemos ido a a eventos hackatones de este tipo sabemos la fiesta que es desde un punto de vista intelectual, cultural, de relaciones, este, es es es conocer los patrocinadores, aprender tecnología, desvelarse, competir sanamente, pues, espectacular, ¿qué les voy a decir? 100 por 100 recomendado.
+
+[Speaker 0 - 01:36:23]
+No, definitivo es algo que vamos a estar hablando en estos espacios, recordándole a la banda de el evento, para que se animen, se apunten. Y que lo llenen, hay que llenar esos espacios. Finalmente, si queremos que más patrocinadores y más apoyo venga, ayuda mucho que todo eso esté lleno, que haya buenas experiencias, que la gente se vaya contenta, etcétera, etcétera. Pero una pregunta, Germán, ¿quién paga todo este show? O sea, es una lana armar algo así. ¿Quién quién está fondeando?
+
+[Speaker 3 - 01:36:52]
+Bueno, como como les comentaba, este, conseguimos por medio de de insistencia, de explicar los beneficios y demás, apoyo del gobierno, que eso no es nada fácil, este, estatal municipal de varios municipios y estatal del estado de Puebla, y unas asociaciones de empresarios de las cuales soy parte, que les gustó la idea, les gustó la iniciativa, y van a estar apoyando para que sea posible. Obviamente que subiendo algunas marcas que para nosotros, Web 3, son importantes, pero es más bien para para los medios de comunicación que van a cubrir el evento, que les va a dar cierta exposición, este, y pues, también es algo colaborativo, ¿no? Para posicionar a Puebla. De hecho, hay hay varios temitas importantes que que hicieron un poquito de ruido, pero fueron requerimientos de mi parte como negociador, y es que, por ejemplo, todas las comunidades web 3, todas, absolutamente todas las que entren, hay cupos limitados también, este, puedan ser parte del evento sin pagar un centavo.
+
+[Speaker 3 - 01:37:59]
+O sea, comunidades daos sin fines de lucro que quieran tener su espacio, su stand, su voz, este, van a poder, sin pagar un centavo, llevar sus banners, incluso les vamos a ofrecer la alimentación también, este, accesos a a los medios, a la sala de medios, que van a haber más de 50 medios cubriendo el evento entre televisión, periódicos, semanarios, revistas, este, y pues ya hay algunos inscritos. Tenemos CryptoCuerna, Frutero, IT Vulcano, Nuns Amigos, IT México, este, todos esos ya ya dijeron que querían estar ahí y, pues, invitamos a otras comunidades que quieran sumarse. Hay un formulario específico para eso, lo voy a compartir, este, que lo completan y, este, quedan sujetos a aprobación para para poder ser parte de de este de este evento sin tener ningún tipo de inversión y dar a conocer sus comunidades, lo que están haciendo, lo que están ofreciendo al espacio, etcétera.
+
+[Speaker 3 - 01:39:00]
+No, no tenemos post de comunidades, este, pero bueno, pueden lo lo vamos a subir en un ratito, este, el form, pero cualquier cosa nos pueden escribir un un mensaje a la cuenta de 5 de mayo, o directamente, que también tengo que ver si están abiertos, este, o directamente Suri, no sé si puedes fijarte si tenemos abiertos los mensajes, Suri es la community manager de de IT 5 de Mayo, de la cuenta, está además de colaboración en varias cosas más, Este, pero bueno, si no pueden entrar a la página, hay un formulario abajo y ahí nos pueden contactar, o comunicarse con cualquiera de las personas que están dentro de la organización, que les hacen llegar el formulario para comunidades.
+
+[Speaker 0 - 01:39:49]
+Excelente, excelente, ¿no? Pues ahí anota MXB 3. Definitivamente vamos a estar ahí varios de la comunidad. Ya estoy convenciendo a a muchos que se animen, que empecemos a a reservar hoteles o Airbnbs o lo que cada quien guste para andar por allá. Porque sí sí sí se ve que va a estar muy bueno. Ya vi yo todas las actividades por ahí que están en la página. Todas me llaman la atención. Entonces, pues bueno, si no no no habían escuchado del evento, métanse aquí a la página de IT. 5 de Mayo, sígannos en la cuenta de Twitter. Y inscríbanse, inscríbanse, inscríbanse. Bueno, pues Germán, muchísimas gracias. De todas maneras, ya que tengamos poquito más de información y que que que ya tengas, este, a los patrocinadores y las marcas y y todo lo lo lo de comunicación. Pues aquí venimos y seguimos platicando el tema porque pues ya estamos a a menos de 2 meses, ¿no? O sea, sí, 2 meses. Ya ya ya es en 60 días, no es tan retirado el Estamos, ya estamos
+
+[Speaker 3 - 01:40:46]
+se festeja Navidad, este, fin de año, llegan los reyes y al y al evento. Ahí te pasé el formulario por mensaje directo para que puedas inscribir tu comunidad, que obviamente va a ser para que puedas inscribir
+
+[Speaker 0 - 01:40:58]
+tu comunidad, que obviamente va a ser bienvenida. Excelente, excelente. No, pues muchas gracias
+
+[Speaker 3 - 01:41:03]
+todas las comunidades, por favor, todas las comunidades que querían difusión, que que querían compartir sus ideas, que querían compartir lo que tienen, lo que hacen, que se enteren los medios de comunicación, que puedan salir en en una hoja de prensa para que les puedan facilitar un poquito más un gran, que quieran contarle a la comunidad, que quieran hacer crecer sus comunidades, pues, más en bandeja no se los podemos
+
+[Speaker 0 - 01:41:28]
+dejar. Vámonos, vámonos. Yo en cuanto escuché y vi quién estaba involucrado, yo me apunté y dije, de aquí soy, hay que aprovechar esta oportunidad de de de de jalar ojos, de atraer atención, de de de reunirnos todos en un mismo lugar, a seguir conectando, a mejorar las conexiones que tenemos, a mejorar el networking. He platicado con muchos y los he visto a veces muchos eventos, pero no he podido en realidad platicar YYY conectar muy bien, bien, bien, con muchos que he querido. Entonces, pues bueno, todo esto ayuda a que sigamos haciendo estas relaciones y formar equipos de trabajo y desarrollo tecnológico, etcétera. Lo mismo que siempre menciono, ¿no? Pero qué chido Germán, qué chido que se animaron a a armar algo así. Entiendo que ya tienen, pues, desde mediados de este año planeándolo. No es algo que que que que obviamente nació de la noche a la mañana y que son muchos los que están por ahí involucrados. Ya mencionaste algunos que están formando parte del del del del core o del equipo. Acá en Monterrey estamos apuntadísimos. Ya por ahí mandamos unos mensajes en los grupos. Y pues vamos a ver quién se moviliza, quién se moviliza para allá para ir a conectar con gente de Puebla, que es una comunidad que no he conocido y que me me me gusta mucho por la posición en la que está geográficamente, con las montañas, con la Malinche, con el Ista, con el Popo, que es el que vamos a subir.
+
+[Speaker 0 - 01:42:44]
+No sé hasta dónde, pero bueno, ahí estaremos viendo. Va a estar muy bueno en ese ese evento también. Y nosotros como comunidad estamos buscando también una un día, una una noche para tener alguna fiesta por ahí y conectar de de una forma distinta. Ahí estoy viendo ya alternativas con el buen Ale Ramos y con con con con Arielus también para que me ayuden ahí a coordinar a Ariel qué qué hacemos. Y ahí luego platicamos para los temas de las blockchains y los patrocinadores, que por ahí he movido 2, 3 mensajitos que creo que se pueden se pueden montar a ayudar. Pero bueno, pues muchas gracias. No sé si alguien tenga alguna duda.
+
+[Speaker 3 - 01:43:20]
+Qué buena noticia que estén haciendo un side.
+
+[Speaker 0 - 01:43:23]
+Sí, sí, no, no, no. En ese en ese tipo de eventos yo creo que es súper importante darle muchas opciones a la gente de de de de de convivir y no nada más en un ambiente de de programación y de estrés y de de hackathon, sino ya también relax, ¿no? En la naturaleza, en la montaña, con una cervecita, con con con un baile, Beto, a saber, ahí veremos, ahí veremos. Pero bueno, por mi parte es todo. No sé si tú tengas algo adicional, Germán. Ya también muy buena la plática con Ana Karen. La verdad yo soy súper fan de ella desde hace meses, desde que la conocí allá en Mazatlán a principios de este año. He conectado muy chido con ella y a todos lados donde veo platicamos y y me cuenta lo que hace, le cuenta lo que estamos haciendo y nos ha ayudado mucho. Y la verdad que que padre poder platicar con ella. Y también contigo Germán, sé que tú traes ahí varios temas también de emprendimiento. Sé que vas a anunciar algo en el Hackathon de de de de Rolamate. No sé si es algo que podamos mencionar, pero a ver, ¿qué nos puedes decir de eso?
+
+[Speaker 3 - 01:44:22]
+Bueno, este, va a haber va a haber cositas, pero pero preferimos no no mezclar para que no se malinterprete de que de que esto lo hacemos para gilear nuestros propios proyectos. Digamos que que prefiero hablar de rol a mate cuando esté con el usuario de rol a mate y en y en el modo rol a mate, pero sí, va a ser 1 de los que va a estar haciendo algo interesante para para el evento, para que haga ruido, digamos, este, se favorezca a la comunidad. Nosotros como como Rolamate, en ese caso, con la cachucha de Rolamate, como dicen, creo que dicen así, no me acuerdo ni en qué país. Este, y bueno, pues pues eso, pero lo más importante acá es quedarnos con la idea de que este evento es para que todos ganen, todos ganen, y no necesariamente hablar solo de dinero, que algunos van a llevarse algún premio en especial, sino ganar contactos, ganar exposición, como organización que que logren sus metas, sus objetivos, todos ir con algún objetivo y que se logre. Y y no va a haber pérdida de valor, porque generalmente lo que pasa en en algunos eventos, que no pasa en Eat Global, por ejemplo, que yo soy súper fanático de Eat Global, es que no hay plusvalía, no hay merma, no hay un intermediario que está quitando valor.
+
+[Speaker 3 - 01:45:38]
+Cuando tenemos patrocinadores de esos que son más como agresivos, de eventos grandes, o tenemos gente robando pantalla porque se está autovendiendo más de lo que se debería, o los organizadores tienen algún interés especial en comercializar un producto, está muy bien, pero tenemos que entender que en la economía del tiempo y en la economía de la atención, pues, están acaparando una gran porción, ¿no? Ya sea de tiempo, dentro de charlas, de de presentaciones que en realidad son comerciales, dentro de espacio visual, dentro de del marco de la atención, pues ellos están atrayendo bastante de esto en los ide events, en lo que sea, porque de eso se trata el negocio. En este caso, eso no va a suceder. No tenemos nadie acaparando atención, acaparando tiempo, acaparando el el espacio común. Pues, entonces, ahí, en este caso, hemos, digamos, eliminado ese esa absorción de valor por parte de empresas privadas, que cada 1 va a tener su lugar de acuerdo a lo que está aportando, pero son empresas que no son tiburones, ¿no?
+
+[Speaker 3 - 01:46:41]
+Van a ser las empresas que aporten como partners, las comunidades que van a ir a participar sin costo, que que, sin embargo, van a traer sus costos de traslado, sus costos de alojamiento, pero se los va a apoyar con comida, pues, es es un ganar ganar, ¿no? Veámoslo así, esto es un evento en donde todos vamos a ganar y los ojos que van a estar sobre en el evento van a ser los mismos, porque va a estar la prensa, van a estar los medios, todos los que estemos organizando, siendo parte de esto, vamos a estar difundiendo mucho retweet, mucho comentario, mucho invitar a gente a que se sume, ningún hacker va a tener que pagar un centavo por por inscribirse, lo vamos a tratar a todos por igual, como como príncipes, los mentores, los speakers, y y los y los partners vamos a estar como reyes. Ah, no, ¿verdad? Todos igual. Bueno, vamos a estar todos igual y felices, y de eso se trata. Y los side events para que todos estemos muy bien, nos conozcamos más. Me encanta que ustedes vayan a hacer un side event como el que estás comentando, porque porque eso es muy difícil de conseguir, este, gente que realmente apueste por divertir a los demás y darles un espacio de distensión con cervecitas con eso, porque es muy caro.
+
+[Speaker 3 - 01:47:57]
+Sabemos que gente puede pagarlo, pero no todos están dispuestos a a ofrecer esa generosidad sobre el dinero o o las ganancias que tanto cuestan y más después de un market. Así que, bueno, personalmente ya desde ya te agradezco esa iniciativa que están teniendo ustedes como como los ¿cómo se llama acá la gente del norte? Los regios, los regios del Blockchain.
+
+[Speaker 0 - 01:48:24]
+Oh, excelente, claro que sí. Ese evento es 1 de los que ya ya ya ya, pues, yo creo que es el primero, el que voy a decir el año que entra. Empezar así en grande va a estar, va a estar chingón conectando con mucha banda que la que quiero platicar y que sea, estoy seguro que va a estar ahí. Y qué bueno que tú pudiste subir a comentarnos, a platicarnos, darnos la perspectiva desde tu punto de vista como fundador, ¿no? Y líder que has estado manejando desde esto desde hace meses. Y pues bueno, ya luego podemos platicar en algún otro espacio. Qué bueno que que que tuvimos oportunidad. Voy a ir cerrando. Si nadie trae preguntas aquí para el buen Germán sobre el 5 de mayo, pues mándele DM. Igual aquí arriba pinñamos toda la información que está disponible para que visiten a las ligas de Ana Karen, que está haciendo cosas bien chidas, que ha generado mucho contenido, que está viendo a chavas, a niñas, en todos lados del mundo, premiada, reconocida. Obviamente pues también están acá arriba los perfiles de los de los de los mentores que vamos a estar por ahí en el evento.
+
+[Speaker 0 - 01:49:25]
+Mándenme DM a cualquiera, yo también tengo mis DM abiertos totalmente. Cualquier duda o pregunta, pues bueno, ahí los puedo apoyar. Y algunos anuncios acá en Monterrey. El sábado tenemos posada, todavía estamos buscando, no, Martina, ya no estamos buscando nada. Estamos invitando a la banda, el que venga de afuera, eso sí estamos buscando, gente que venga de afuera, que quiera asistir. Por ahí les puedo mandar el link para que se registren. Es entrada gratuita para los que vienen de afuera. Estamos buscando que que que también a toda la banda aquí local le demos algún descuento con los patrocinios, pero va muy bien la cosa. Nos vemos el jueves el sábado a las 9. Y este jueves no vamos a tener evento presencial porque vamos a ir a Venture Café, que es una comunidad de emprendedores. Por ahí una una 1 de los líderes de la comunidad estavere va a hacer un pitch y nos pidió que fuéramos todos. Entonces vamos a trasladar el evento a Venture Café. Por ahí les estaremos publicando fotos. Porque sí, es una comunidad web 2 totalmente, que está emprendiendo, que que que tiene ya desarrollos, que ha participado en en en mucha gente que ha participado en rondas con con Venture Capital.
+
+[Speaker 0 - 01:50:32]
+O sea, ese es son personas que traen otra historia emprendiendo y creo que nos podemos empapar mucho de lo del conocimiento de ellos y nosotros también de de de ayudarlos a entender mucho más la Web3. Porque muchos ya tienen algo de noción, pero les falta. Entonces creo que la combinación de esas 2 comunidades es súper interesante y es algo que vamos a seguir fomentando por acá en Monterrey. Y pues bueno, te busco, Ferman, para lo de los patrocinadores, lo del side venta. Ahí vamos viendo, estamos ya en varios chats para ver cómo cómo cómo seguimos haciendo ruido para que la gente se anime y se apunte y así sí está. Cualquier cosa, pues aquí sigo. El jueves que entra a las 12 va a estar por aquí Jesús Garza. Vamos a tener el economista y el ingeniero. Y el sábado, el sábado voy a voy a estar ahí con Zoho a las ya ni me acuerdo, 8 y cuarto de la mañana creo, para dar la bienvenida al evento que está haciendo de el Happen tertulia Jam, el 9 de diciembre a las 9 de la mañana empieza, el Happen tertulia Jam. Va a haber muchas comunidades conectadas, es una transmisión en vivo en YouTube para que pues también asistan y nosotros vamos a tener un espacio unos 45 minutos antes ahí para platicar un poquito del tema y a la banda por ahí que se está levantando temprano y que a lo mejor no había escuchado el evento, para que asistan.
+
+[Speaker 0 - 01:51:48]
+Y pues bueno, después de la mañana nos vemos en la noche en la posada por los que puedan venir por acá. Nos vemos, hasta luego, estamos platicando. Los amo. No se cierra esto.

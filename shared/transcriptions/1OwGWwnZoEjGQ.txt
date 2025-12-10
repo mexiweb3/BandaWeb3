@@ -1,0 +1,576 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #20230209
+Título: La Abogada, el Economista y el Ingeniero
+Fecha: 2023-02-09
+Host: @meximalist
+Tipo: hosted
+
+Descripción:
+Co-hosted Space: Ordinals, Digital Artifacts en Bitcoin (NFTs en Bitcoin) Español
+
+Duración: 01:59:41
+Escuchas: 86
+Speakers: 15
+
+Links:
+  Space: https://x.com/i/spaces/1OwGWwnZoEjGQ
+  Dashboard: https://spacesdashboard.com/space/1OwGWwnZoEjGQ/la-abogada-el-economista-y-el-ingeniero
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+
+[Speaker 0 - 00:00:00]
+La abogada, el economista y el ingeniero. Vamos a poner algo de musiquita mientras mandamos unas invitaciones.
+
+[Speaker 0 - 00:01:12]
+Y empezamos en breve. Hoy estamos un poquito temprano. Quiero poner algo en español. Luna, de Zoé, del MTV Uncloud.
+
+[Speaker 0 - 00:02:26]
+¿Qué tal? Bienvenidos a todos. ¿Cómo andan el día de hoy? Hoy empecé un poquito más temprano para poner la música.
+
+[Speaker 0 - 00:03:40]
+Vamos a ver Jesús, ¿me escuchas bien ahí? ¿Qué onda Fiat? ¿Cómo andan? Alfonso, Luis K, ¿cómo andan todos?
+
+[Speaker 1 - 00:04:59]
+Sí, te escucho muy bien. ¿Qué tal? Buenas tardes, Nexi, buenas tardes a todos. Doctor
+
+[Speaker 0 - 00:05:04]
+Griezly, ¿cómo andas también? Bienvenido. Luz nos comenta que estará con nosotros en un momento, pero pues yo creo que podemos empezar. Si nos pueden ayudar ahí con cualquier interacción en el espacio, se agradece mucho. Las reglas, como siempre, levanten la manita, pidan hablar al que quieran. Todos podemos participar. La idea es, pues, tener una conversación fluida y con diferentes puntos de vista. Ya que estén acá arriba, levanten la mano, igual, eso nos ayuda a llevar un poco de control y que no estemos interrumpiéndonos unos a los otros. No damos recomendaciones financieras, ni de inversión, ni legales, ahora que esté Lu también por acá. Y a mí, en lo personal, de lo que me gusta platicar es de lo que me mantiene despierto. Y ahorita, pues, 1 de los temas que que he estado platicando mucho. Y por ahí, Luis Luis, que ayer estuvo también en el espacio es de de de Orrinars, la nueva manera de crear artefactos digitales. También ese término está interesante, ya platicamos un poquito de eso.
+
+[Speaker 0 - 00:06:07]
+No lo comentamos el martes pasado. Pero, ¿artefactos digitales? Jesús, luego te pido tu opinión. Pero bueno, hablamos de lo que nos apasiona. Tratemos de hablar con respeto. So, vamos a dar aporte de valor o algo divertido, creo que es también algo interesante poder dar entretenimiento, creo que se vale. Y pues bueno, empecemos. Jesús, ¿cómo andas? Gracias de nuevo por estar aquí con nosotros posteando. Y para todos los que escuchen la grabación, pues bueno, estos son los espacios que hacemos martes y jueves a las 12 de la tarde. Todas las semanas hablamos de temas diversos. Lou trae temas que le interesan a ella. Jesús obviamente temas que le interesan a él. Y pues yo igual. ¿Cómo andas, Jesús? Buenas tardes.
+
+[Speaker 1 - 00:06:54]
+Bien, muy bien, muchas gracias. Este, ¿cómo están todos ustedes? Pues, hoy, este, muchas noticias. Empiezo con con, espérame un segundo, no, estoy contestando, ya. Empiezo con las noticias en México. Esta semana hubo varias noticias interesantes. El día de hoy, y la más importante, es que se publica la inflación para el mes de enero. La inflación sale muy arriba, 7.9 por 100 en términos anuales. Este, pues malas noticias, porque la inflación subyacente, acuérdense que la inflación está dividida en 2 en subyacente y no subyacente, y la subyacente es la menos volátil, la que explica la que tiene injerencia la política monetaria, sube, se se se deteriora de diciembre a enero. Entonces, la inflación subyace, sobre todo, este, en alimentos, bebidas y tabaco, sube 14 por 100. Entonces, aquí tenemos una dinámica interesante. En los últimos 26 meses, 25 se ha elevado a la inflación subyacente, a diferencia de Estados Unidos, donde los últimos 6 meses 5 ha ido a la baja.
+
+[Speaker 1 - 00:07:57]
+Entonces, aquí vemos una divergencia importante. El tema que que decía algunos miembros de la junta del Banco de México, recordemos una una un concepto fundamental, es que la la decisiones de política monetaria se toman en el Banco de México a través de de votaciones. ¿No? Y muchos de los miembros de la junta de gobierno argumentaban que la inflación en México era importada, ¿no? Claramente no es el caso, ¿por qué? Porque la inflación en Estados Unidos ya tiene una tendencia a la baja y la de México cada vez se deteriora. Y si vemos la última encuesta de de Banamex, los invito a que la sigan, es una encuesta de expectativas macroeconómicas, que la última que se publicó era el mes de enero, ya los mismos analistas económicos
+
+[Speaker 2 - 00:08:46]
+estiman que la inflación terminará el año en 5.15, de un 5.10
+
+[Speaker 1 - 00:08:50]
+anteriormente. Es decir, muy malas noticias para la inflación, y lo más preocupante es ahora en una hora, bueno, en 55 minutos. ¿Por qué? Porque en 55 minutos la junta de gobierno del Banco de México va a tomar una decisión. La decisión, yo creo, va a ser de subir las tasas en 25 puntos base, igual que lo hizo la Reserva Federal. Pero claramente, y ese es mi punto de vista personal, es un error, porque otra vez la inflación en México no tiene la misma dinámica que Estados Unidos, y, este, ya vemos también presiones por el lado de los del del del sector servicios. Eso quiere decir que la oferta de dinero está contaminando las expectativas de inflación, con lo cual Banco de México debiese retirar dinero de la economía. ¿A través de qué? Aumentar las tasas de interés. Entonces, sí creo que ahora vamos a ver de qué está hecho Angélico, por no decirlo en otras palabras, pero ahora a la una de la tarde debieran subir la tasa en al menos 50 puntos base, y estoy casi seguro que la van a subir solamente en 25.
+
+[Speaker 1 - 00:09:51]
+Y creo que eso va a dar un mensaje muy negativo para el mercado, tanto para el para las expectativas de inflación y para el tipo de cambio. Pero veremos, veremos, a lo mejor estoy equivocado. Ese es por un lado. Por otro lado, el el lunes o martes, no estoy seguro, se publicaron 2 notas interesantes. Son 2 componentes del PIB del país, que es la inversión fija bruta y el consumo privado. Acuérdense que el PIB del país, o el PIB, perdón, está compuesto de inversión fija bruta, consumo privado, gasto de gobierno y exportaciones netas, que son exportaciones menos importaciones. Bueno, se publicaron 2 de estos 3 componentes para el mes de noviembre. Acuérdense que hay un rezago en la contabilidad. Pero un crecimiento nulo, creció 0 por 100 mes a mes y y se mantiene muy por debajo de su nivel pre pandemia. De hecho, casi 8 8 por 100 por debajo de su nivel pre pandemia. Algunos me dirán, pues es normal, hubo un golpe muy fuerte. Pues no, porque la mayor parte de los países en América Latina, este rubro ya se recuperó y, es más, ya está creciendo.
+
+[Speaker 1 - 00:10:53]
+Entonces, creo que el efecto near shoring no está teniendo tan tan tan buen dinamismo. Y les les explico también por qué. Y, bueno, y antes de continuar, ¿qué es el near shoring? El near shoring es la atracción de inversión que está teniendo México por los conflictos geopolíticos entre Estados Unidos y China, y los problemas en las cadenas de suministros globales, manufactureros, sobre todo, a partir de la pandemia. Esto atrajo manufactureros, sobre todo, a partir de la pandemia. Esto atrajo mucha inversión en México, pero yo creo que se está sobrestimando, les voy a explicar por qué. Yo creo que más de más que New Yorkshire estamos viendo un resourred, Y este reshore se está dando en Estados Unidos, fíjense. Fíjense el dato de empleo, qué interesante en Estados Unidos cómo fue en enero, 500000 nuevos empleos, cuando se estimaba solamente un incremento de 180. Y casi todos en el sector manufacturero. ¿Por qué? Porque yo creo que en vez del New York, se están posicionando dentro de la economía americana.
+
+[Speaker 1 - 00:11:54]
+Entonces, creo que México no termina de captar el potencial que tiene de este de estos efectos geopolíticos para potenciar su nivel de crecimiento. ¿Por qué lo digo? Porque la inversión extranjera directa sumó en el año 2022 35000000000 de dólares, que si bien es un aumento de casi 12 por 100 anual, sigue muy por debajo de los 48.4 1000000000 de dólares que se captaron en 2013 con las reformas estructurales, sobre todo, en mi punto de vista personal, por la reforma energética. Creo que no estamos terminando de potenciar. Y también otro punto interesante de esta inversión que se captó 2022, una parte muy importante, que casi es el 15 por 100, es la recompra de de de acciones de Univisión con Televisa. Entonces, realmente no es que hayan de acciones de Univisión con Televisa. Entonces, realmente no es que haya entrado nueva nueva inversión, sino que hubo una transferencia de recursos de un país a otro de la misma empresa o del mismo corporativo. O sea, hay que hay que poner atención con esos datos.
+
+[Speaker 1 - 00:12:54]
+Pero aquí me me paro un poco pues, si hay algunos unas algunas preguntas. Gracias.
+
+[Speaker 0 - 00:13:05]
+Como todos los martes y jueves, levanten la mañana lo que quieras subir a preguntarle algo a Jesús. Yo por mi parte, veamos a ver si todavía estamos por aquí. Yo creo que sí vamos a estar por aquí cuando den la noticia a la una decías, ¿no? En 45 minutos No, 50 minutos blanco en México es donde da la noticia. Y dependiendo de eso, pues bueno, ya escucharemos sus comentarios que han de ser dependiendo de eso, pues bueno, ya escucharemos sus comentarios que han de ser bastante bastante interesantes. Yo creo que, como tú dices, veamos vamos a darle acceso aquí. Yo creo que, como tú dices, probablemente se queden cortos. Veamos veamos si si tu predicción es la correcta. Por ahí subió Finanzas, Finanzas,
+
+[Speaker 3 - 00:13:46]
+NFA. ¿Cómo andas? ¿Quieres preguntarle a Jesús por el tema de la? Buenos días. Andando a Charleston por acá. Gracias. Jesús, saludos desde acá de la Ciudad de México. ¿Cómo está? Oye, para preguntarte un par de temas, fíjate que estuve, no me acuerdo si ayer o antier, en un evento con Fernando Portela, con Alexis Milo, y los vi bastante optimistas en en en estos temas que acaba de pasar en enero respecto al tema económico nacional, pero sí obviamente con el, sin embargo, con el dependerá de obviamente del tema de la si se da o no la recesión en Estados Unidos. Vic, la al Fondo Monetario Internacional que me imagino que tú también lo viste, que están muy muy también halagüeños en el tema del crecimiento, son creo que los que más he visto con buenos ojos el tema del crecimiento para este año, 1.7 están siendo, siempre y cuando obviamente Estados Unidos crezca 1.4. A mí hay algunos factores que sí me preocupan, sobre todo que estamos sentados en un ya corriendo un presupuesto de egresos de la federación 2023.1 pronóstico de presupuesto del de, perdón, de crecimiento del 3 por 100, cuando por los que con más buenos ojos lo ven, que son los del fondo, que va a ser 1.7, súper editado precisamente a ese 1.4 que se dé en Estados Unidos.
+
+[Speaker 3 - 00:15:08]
+¿Tú cómo ves esta parte? Y sobre todo también tomando en cuenta que, en efecto, las las presiones inflacionarias y las revisiones de crecimiento a nivel internacional, pues van a la alza en el primer caso y en el segundo a la baja.
+
+[Speaker 1 - 00:15:26]
+Oye, muy muy muchas gracias por tus comentarios, muy interesantes. Este, de hecho, la semana pasada yo escribí una nota sobre eso, sobre, se llama vuelve el optimismo sobre el fondo monetario y las revisiones al alza. Tienes toda la razón. Este año económicamente nos va a ir muy bien y gracias a Estados Unidos. Y creo que el punto que yo trataba de decir es que no podemos depender ya de una sola fuente de crecimiento. Si tú te fijas, el año pasado crecimos y superamos expectativas por el efecto de exportaciones netas manufactureras. Ese es principalmente el motor de crecimiento. Es decir, el consumo de Estados Unidos y la producción. ¿No? Porque son bienes intermedios y bienes finales. Es más, yo te diría, el efecto que es positivo que estamos viendo en el consumo, gran parte se debe a las remesas. Ahorros de mexicanos que están en Estados Unidos, que están detonando crecimiento doméstico. Pero no tenemos estos fuentes de crecimiento internas, que debiesen ser el gasto público en infraestructura, por ejemplo, que se mantienen muy por debajo de niveles de la OCDE, por ejemplo, o niveles inclusive entre pandemia, que es justo lo que escribí el el el día de hoy.
+
+[Speaker 1 - 00:16:34]
+El artículo, si si si lo pueden leer, los invito a que lo lean. Hablé un poco de de de las finanzas públicas en en en Nuevo León. Fíjense un dato interesante, Nuevo León, dividí las tasas de crecimiento por sexenio, y este sexenio en Nuevo León está creciendo una 100. Históricamente ha crecido entre 4 y 3 por 100, superando al 2 por 100 en promedio que del país. ¿No? Y este año, este sexenio, ¿por qué está creciendo a tasas bajas cuando el sector manufacturero crece al 4? Piense que interesante, sector manufacturero, que es la industria que es el más importante, sí está creciendo al 4. Bueno, hay un componente que lo está arrastrando a la baja que se llama construcción. No hay construcción en Nuevo León, sobre todo construcción no residencial, que es gasto público, infraestructura pública. Y esto está haciendo que el crecimiento que es gasto público, infraestructura pública. Y esto está haciendo que el crecimiento no sea tan elevado como en otros años. Creo que es lo mismo a nivel país, no estamos detonando los motores internos para tener este crecimiento, olvídate este año, del año del del del próximo año o de 5 a 10 años.
+
+[Speaker 1 - 00:17:40]
+No no no creo que vamos a detonar un crecimiento lo suficientemente elevado para emplear a todas las personas que que que se va a necesitar. Y yo sí creo, a diferencia de muchos analistas, que se está sobrevalorando los efectos positivos del shore. Yo creo que en un futuro, qué bueno, va a haber inversión, eso es positivo, va a haber remuneraciones positivas, pero el seguir siendo un país maquilador con mano de obra barata, el seguir no invirtiendo en procesos tecnológicos, sino manuales, creo que te dan un un un espacio de beneficios limitados, sobre todo en términos de remuneraciones. Pues, creo que todavía no estamos en un proceso de decir, vamos a ya a potenciar el desarrollo, vamos AAAA entrar en la segunda derivada. Y del gasto público coincido contigo, yo creo que va a haber presiones de gasto público, justo porque Hacienda estimó un crecimiento el 3. Claramente no va a ser el 3, probablemente va a ser la mitad, a lo mejor un poquito más, según el fondo monetario. Es eso va a implicar menor recaudación. En un año, que también el Feip, el Feip era un fondo de ahorro que se tenía del del sexenio anterior, de que llegó a tener 340000000000 de pesos, que eran 25.
+
+[Speaker 1 - 00:18:49]
+Y también donde los precios del crudo por un un menor crecimiento económico este año al al año anterior, pues va a haber menor recaudación por Pemex. Entonces, va a ser un año muy complicado, y ojo, el gasto no lo van a cortar, se los aseguro, mucho menos el gasto de transferencias sociales, porque va a haber elecciones pronto. Entonces, lo menos que quieren es dejar de elevar el el el gasto, sobre todo en transferencias sociales, en un año electoral. Pero no sé si te contesté ahí tus preguntas.
+
+[Speaker 3 - 00:19:21]
+Sí, por supuesto. Muchas gracias, Jesús. Saludos para ti y para todos los que están por acá.
+
+[Speaker 1 - 00:19:26]
+Gracias a ti, ¿eh?
+
+[Speaker 0 - 00:19:30]
+Bienvenido. No, gracias por subir finanzas y por preguntar, participar y gracias, Jesús, también por por los comentarios. Por ahí Lu viene llegando. ¿Cómo andas Lu? Probando aquí, ¿nos escuchas bien?
+
+[Speaker 4 - 00:19:42]
+Hola, ¿cómo están? GM. Es muy tarde para decir GM, yo creo que sí, ¿verdad? Ya más bien acá, son tardes, no mañanas. Pues súper contenta otra vez de estar con ustedes, muchas gracias, Mexi, Jesús, y a todos quienes nos acompañan. Veo por aquí ya algunos algunas caras conocidas, otras no, pero por supuesto todos bienvenidos. Gracias por estar y acompañarnos. Creo que tenemos acá una charla bien interesante de varios tópicos, así que bueno, pues, Jesús, continúa con esos datos que, así que, bueno, pues, Jesús, continúa con esos datos que empezamos con noticias no tan buenas en el sector económico, pero siempre nos dan un poco de de miren el radar para tener en cuenta. Estupendo. Muchas gracias.
+
+[Speaker 1 - 00:20:25]
+Gracias, Lu. Yo yo nada más terminaría mi mi intervención con el el el state of the nation address, state to the union address ayer de de de Biden. Presidente Biden dio su discurso. Este, me gustó mucho, aunque tenga algunas críticas, pero en general yo creo que aprovechó mucho la coyuntura de que en Estados Unidos el sector laboral va muy bien, que la economía probablemente no entra en recesión, platicábamos hace rato, que la tasa de inflación, a diferencia de México, sí va a la baja. Pero lo que no me gustó, y ese es un tema también interesante, es que no habla sobre cómo reducir el déficit fiscal y por eso y por ende el endeudamiento en ese país. Hablo como el menor costo, ponerle un un un precio techo a las medicinas y y
+
+[Speaker 2 - 00:21:14]
+reducir el gasto público en ese sector de salud, que eso contribuiría a reducir el déficit. No me queda sector
+
+[Speaker 1 - 00:21:17]
+de salud, que eso contribuiría a reducir el déficit. No me queda tan claro eso. Y tampoco habló de otros temas, habló el el el famoso Buy American, que que es el lo mismo que decía Trump, y que yo no creo que eso genere competitividad ni productividad, todo lo contrario. Todas estas estrategias creo que perjudicarán a la productividad de Estados Unidos, porque carecerán los procesos productivos. Pero en términos generales, me gustó mucho el discurso de de Joe Biden el día de ayer.
+
+[Speaker 0 - 00:21:46]
+Excelente, Jesús. No, pues muchísimas gracias. Qué qué, bueno, el no me lo he aventado, me voy a tener que aventar para poder darme opinión. Mejor ni hablo. Pero pues bueno, yo les quiero platicar algo bien rápido, te digo, con Lu. El nuevo término ahora que está sonando es mucho de moda. No sé si lo habían escuchado o no. Pero pues bueno, finalmente creo que es algo que hemos estado viendo, una narrativa constante. El de esos nombres que le dan a ciertas personas o ciertas cosas, ciertas tecnologías. Beto a saber, finalmente son cosas que nosotros le ponemos de nombre a algo. Y ahorita pues bueno, está sonando mucho el tema de los artefactos digitales. Y creo que está interesante la diferenciación que algunas personas están haciendo con este tipo de de de pues de bienes, ¿no? O sea, están creando, bueno, creando, ya existían. Pero creo que ahorita hay una manera mucho más sencilla de identificarlos. Y una de las formas, y ayer lo platicábamos en un espacio, y por aquí lo voy a opinar al rato, arriba, de los requisitos o de las características que tienen que tener estos artefactos digitales.
+
+[Speaker 0 - 00:22:53]
+Los artefactos digitales, según estas personas que ahorita están poniéndole ese nombre a la nueva tecnología que están sacando en bitcoin, son tokens no fungibles. Entran dentro de la de la característica de ser tokens no fungibles, son NFTs. Pero tienen ciertas cuestiones para que puedan llegarse a considerar artefactos digitales. Son completamente están completitos. Toda la información del artefacto está subida a la Blockchain. Puede ser texto, puede ser una imagen, puede ser una foto, un video, mp 3. La única limitante que hay ahorita es que no sobrepase los 4 megas, que es el tamaño del bloque de bitcoin, y que se paguen las transacciones suficientes como para almacenar esa información ahí en la red. Entonces están completitos en la red, a diferencia de otras redes donde sí hay un SDs que pueden llegar a tener la información en Blockchain. Pero la gran mayoría no los tiene. Están almacenados en un IPP. PS, Interplanetary File System, o un ARWIF, que son sistemas de redes de computación donde se almacena información.
+
+[Speaker 0 - 00:23:55]
+Y se supone que nunca se va a perder, porque están distribuidas. Pero pues aquí en realidad el poder de computacional que tiene bitcoin, con todos esos mineros que están corriendo el protocolo de consenso de de prueba de trabajo, proof of work, son los que está causando que esta red sea la que más dinero se esté utilizando para proteger. Y obviamente, y de acuerdo a muchos, si esto no es algo que quisiera debatir, pero sí es muy debatible, la más descentralizada. Entonces esos objetos, estos artefactos digitales están ahí en la red, están subidos. Toda la información completa. Con un convertidor iguales especiales que están desarrollando vamos a poder desplegarlos como los desplegamos ahorita. Pero no pueden, no tienen un tema de regalías. Aquí no se aplica ese concepto, porque puedes tú transferirlos sin tener que interactuar con un contrato. Eso está está interesante. Y no pueden ser actualizados. Ahorita algunos Nests, NTV, Venezuela, el creador o el dueño puede actualizar la metadata, puede subir más información o cambiarla, puede modificar la foto.
+
+[Speaker 0 - 00:24:59]
+Entonces aquí es algo que ya subido en un bloque de bitcoin, no se va a poder modificar nunca. Entonces, pues bueno, los están vendiendo de esa manera. Yo creo que como decía en un principio, todo es narrativa. Todo es un cuento que la gente empieza a contar. Y una ola de hype y de FOMO que de repente empieza a a verse. Yo ya me monté. Voy a hoy hoy traté y estoy siguiendo las transacciones aquí en la red de Blockchain, de bitcoin perdón, pero ya mandé el pago de una inscripción, vamos a ver si se si se si se hace. Pagué aproximadamente 13 dólares, ahorita Pineo también aquí arriba de la plataforma que me lo está permitiendo. Creo que está bien padre. Y bueno, al rato les platico de una idea que traigo. Pero sí quisiera ver el uso de estas tecnologías. Y yo personalmente aprendo picándole botones a las cosas. Entonces pues bueno, ya mandé 1. Ayer Miquita se montó el espacio en la tarde. Si me siguen hablando por aquí. Pero ella también dijo que ella quería mintear algo en bitcoin. Creo que hay muchos por ahí que me han mandado DMs que también están interesados.
+
+[Speaker 0 - 00:26:03]
+Yo lo que pensaba es que cada quien mintiera lo que quisiera, y luego entre todos dijéramos, sí, esta es una colección de 100 piezas latinas y veamos qué pasa. Finalmente, sí no usamos lo que nos los programamos, no vamos a saber qué podemos hacer con ella. Entonces aquí hay poca flexibilidad, como decía, ya que la SUBE se queda por siempre ahí. No hay manera de que eso se borre. Entonces, pues hay que pensar en qué qué podemos almacenar ahí. Pero bueno. Jesús, ¿qué opinas, Lu? ¿Qué opinan de esta nueva manera, o nombre, o tipo de activo que que que por ahí ya existe, ya existía? Pero ahorita le están dando un nombre y le están dando mucha promoción y mucho marketing al artefacto digital.
+
+[Speaker 4 - 00:26:50]
+Oye, Mentzi, yo debo de confesarles que cuando, desde la semana pasada que empezó a ser tendencia, dije, no puede ser. Apenas estoy aprendiendo, reaprendiendo y adaptando la ley a lo que existe, y ya me salen con algo nuevo. ¿Cómo va a ser? Me va a explotar el cerebro. No tengo tanto tiempo para leer y estudiar. Pero eso por el lado legal va a ser súper interesante, porque acabamos justo, ¿no? De de estar y y revisar y seguir aprendiendo sobre contratos inteligentes, todo lo que se puede desarrollar, qué podemos hacer, todas las vertientes que existen, todas las utilidades de los NFTs, y de pronto sale algo nuevo. Como siempre, la tecnología a pasos súper, súper acelerado, pero sin duda me sí va a ser, vaya, una súper oportunidad para poder, pues, navegar en en en esta nueva, no sé si llamarla plataforma. La verdad es que no no he intentado, no no he hecho a nivel técnico, no la no la he visto.
+
+[Speaker 4 - 00:27:50]
+Ayer justo en el en el espacio que estaba les puse por ahí una una guía que hablaba un poco más a fondo para empezar a conocer cómo funcionaba Ordinals, y la verdad es la que estoy leyendo, pero va a ser súper interesante, y fíjense, yo creo, a ver si coinciden con esto, pero el haberlos denominado como artefactos, que es Ethereum, ¿no? Por lo menos, Ethereum y las demás cadenas de bloques. Entonces, ese es un punto que creo que quisieron limitar o delimitar para para para marcar su línea, marcar su territorio. Entonces, va a ser una grata experiencia, Mexi, estaría buenísimo que que nos empezaras a compartir un poco más de tu experiencia técnica cuando lo llevemos en vivo, porque me apunto. Yo ayer ayer estaba muy muy rugeada, le decía le decía a Kroaking, pero a mí me encantaría, por ejemplo, la imagen corporativa, el diseño de del despacho, yo la pongo, YYYYYYYYYYYYYYY el diseño de del despacho, yo la pongo y y la subimos a Ordinals a ver que, obviamente, no es arte, pero, bueno, que ahí quede también estaría estaría buenísimo, ¿no?
+
+[Speaker 4 - 00:29:00]
+Pero sí, sin duda va a ser otro otro reto más que vamos a tener que abordar y empezar a aprender, porque va a tener muchísima muchísimo éxito, sobre todo por cómo está construido bitcoin. ¿No? Yo creo que va a ser va a ser muy bueno. ¿Cuándo vas a empezar con esto, Mexi? Para que nos invites a todos por acá.
+
+[Speaker 0 - 00:29:24]
+No, desde el martes pasado que, híjole, luego escuché el espacio y muchas cosas que no eran del todo. O sea, traíamos la información ahí fresca. Krooking por ahí me ayudó y también estuvo leyendo los documentos mientras grabábamos el espacio. Y ya me clavé después de eso AAA leer un poquito más, a explorar. Ayer tuvimos un espacio que por ahí tenía aquí arriba. Creo que está muy bueno de las tripas de de de la situación de creo que muy entendible. Pero pues tampoco tan tan tan técnico. Pero sí entrando en un poquito de la carnita de lo que es. Y hoy encontré, me mandaron un link con una aplicación, una plataforma que te permite ya tú, con drag and drop, subir una foto. Te cotiza cuánto vale el Mint, y te dice, mándalo a esta dirección. Previamente tú tienes que crear una cartera especial con una plataforma que ellos recomiendan, que se llama Sparo, que es la que puede manejar este tipo de activos. Ahorita creo que lo interesante es que no hay plataformas para manejar de una manera sencilla este tipo de activos.
+
+[Speaker 0 - 00:30:28]
+Son activos nuevos que tienen esos artefactos digitales inscritos en un pedacito de un bitcoin. Y los puedes tener y los puedes almacenar ahí. Pero si quieres mover en determinado punto, ahorita no es tan sencillo. Necesitas tener un nodo completo. Y un nodo completo necesitas equipo, necesitas un disco duro de más de 6 de 500 gigas. O sea, necesitas sentarte a configurar bitcoin, a correrlo. Creo que nos podrá explicar un poquito todo lo que ha batallado con eso. Pero no es tan sencillo. Entonces ahorita puedes mintear, puedes mandarlos a una cartera tuya, ya los dejas. Ya cuando salgan las plataformas donde puedas intercambiarlo, o desplegarlo, o el wallet que te permita mandarlo de una manera sencilla, y que no se pierda, y que no lo dañes, o que no se lo pagues a un minero como cuota de transacción, en lugar de de de que sea un un artefacto digital que tú poseas, creo que va a estar lo interesante. Entonces híjole, está muy nuevo. Es difícil ahorita.
+
+[Speaker 0 - 00:31:28]
+YYYY por aquí pinea arriba unas gráficas y mientras Caro nos da su opinión, las pinea o creo que no están aquí. Pero sí, 1 de los 3 que está ahí, estamos viendo el el uso Y es exponencial, exponencial cómo están. La cantidad de artefactos que están minteando, el tema de el tamaño de los bloques, cómo se están llenando, las transacciones que están pagando para los mineros también está subiendo. Pero bueno, échale creo. ¿Qué opinas? Creo que híjole, al menos las siguientes 2, 3 semanas ese es el tema que yo estoy leyendo, analizando, minteando ya. Espero, este, y bueno, a ver qué pasa.
+
+[Speaker 5 - 00:32:08]
+Lo lo que se ocupa ahorita son 350 gigas de memoria disponible, para los que quieran intentar correr su nodo. Yo lo que acabo de comprar es una memoria de 2 terabytes de Amazon, 650 pesos, ya es mucha la diferencia a antes lo que costaba un ese espacio. Ya que locales les digo si les si si les funciona una simple USB con buena memoria. Pero me llegaron Franklin, pero
+
+[Speaker 4 - 00:32:32]
+te yo te quiero hacer una pregunta, y fíjense, sería muy bueno, aprovechando que no todos tenemos esa ese expertise tan técnico tecnológico, Cuéntanos un poquito, Mexi, tú también que ya ya obviamente tienes mucha experiencia en esto, pero si yo fuera un simple mortal, no como ustedes, súper crack, con el tema del de la minería, con el tema de un equipo de cómputo, muy rápido o o muy fácil. Del de la minería, con el tema de un equipo de cómputo, muy rápido o o muy fácil. ¿Qué necesitamos qué necesitamos para poder mintear? Ahorita en Ordinars, digo, con lo básico que saben, cuéntenos un poquito a partir de, bueno, necesitan, a lo mejor, un equipo de cómputo de tanta capacidad, o sea, cómputo de tanta capacidad, o sea, muy breve para empezar a entender, porque ayer justo que yo los escuchaba, la verdad dije, bueno, ¿y de cuánta capacidad es eso? ¿Cómo se? Porque me da muchísima curiosidad poder hacerlo, ejecutarlo. Pero para aquellos quienes no tenemos esa esa experiencia, más bien, ese expertise. ¿Cómo nos lo pueden resumir, creo que, Mexi?
+
+[Speaker 5 - 00:33:36]
+Para resumirlo, en lo que necesitas técnicamente, ocupas 350 gigas de de memoria. Ocupas tener la capacidad de usar Internet para su para descargar 250 megas al día, poder subir 5 gigas al día desde Internet, una memoria RAM de medio giga, y algún chip ARM de un gigabyte. O sea, una computadora básica realmente que ahorita te corra Facebook sin trabar se te sirve, pero el problema es el espacio. O sea, 350 gigas es lo que pueden batallar mucha gente. Y les se recomienda totalmente que estén en un Internet de casa, no de celular, porque si no le va a consumir los datos.
+
+[Speaker 4 - 00:34:13]
+Claro, no tenga Dale, dale, Messi.
+
+[Speaker 0 - 00:34:16]
+No, y para complementar un poco el punto, Lu, el el el día de hoy no necesitas tener todo eso completo. Por ahí yo creo que sería interesante luego platicar de de los términos y condiciones de una plataforma que ya te está permitiendo que tú subas y ellos hagan la transacción por ti. Entonces ellos están corriendo el nodo, ellos están corriendo la la la inscripción en el Satoshi adecuado. Tú les envías dinero, les envías bitcoin a una dirección que ellos escogen, y luego ya ellos se encargan de subirlo. Y te lo mandan a una wallet que tú definas. Entonces, si tú quisieras ahorita mintear algo y tenerlo en tu propia wallet, ya lo puedes hacer. La comisión de la plataforma que estoy ahorita viendo, que no necesariamente tiene que pagar si tú corres tu propio o no. Pero ahorita está como en 6, 7 dólares, más otros aproximadamente 6, 7 dólares que cuesta almacenar la cantidad de bytes en el Blockchain. Finalmente tú lo que almacenas es tal cual la foto en el Blockchain. En un bloque de esos que cada 10 minutos está produciendo la red de bitcoin.
+
+[Speaker 0 - 00:35:20]
+Recordemos que cada 10 minutos bitcoin crea su bloque, lo mina y 1000 y 1000 de computadoras. Y un poder en computación online, protege la red. Entonces por ahí va. Grau, échale. Ah bueno, pero lo puedes puedes pedir que te lo manden. Ya tú lo tienes en tu wallet. No lo puedes mover. Ahorita no lo podrías mover. Lo mejor en una semana, 2, un mes o 2, ve tú a saber cuándo, que saquen el wallet que soporte esto, a lo mejor sí. A lo mejor vas a tener que correr tu nodo para poder mover. No se sabe todavía. O sea, yo no no no estoy todavía full en si con el wallet nuevo que sale vas a tener que tener un nuevo para poderlo ejecutar. Probablemente sí, puede ser una una cuestión aquí técnica importante que pues bloquee que muchas personas entren. Muchas personas empiecen a utilizar la tecnología. Entonces lo que yo he visto dentro de las tendencias y las narrativas, y cómo se mueve el dinero en este ecosistema, es que cuando es difícil la gente entra y es temprano puede ver oportunidad.
+
+[Speaker 0 - 00:36:20]
+Pero podemos ya estar en el pico de del hyper y del FOMO y todo el de aquí para sea para abajo, pero no creo, o sea, estamos a días de que esto empezó. Entonces, no sé, también me interesa mucho la opinión de Luis K.
+
+[Speaker 5 - 00:36:36]
+Lo lo que voy a agregar es exactamente eso mismo que dijiste, Mexi, que ahorita la dificultad es que si llegas a mintear desde esa herramienta, tienes que estar consciente que no lo puedes mover hasta que tengas el corriendo un nodo completo. Y lo que nos mencionaron el espacio de ayer, que si vas a mintear, hacer una inscripción de bitcoin y guardarlo en una wallet ahorita sin el nodo completo, es muchísimo más recomendable que sea una cartera nueva o vacía, porque al final de cuentas es una Satoshi donde está grabado eso. Y si tú haces una transacción puedes sin cuenta, mandar ese Satoshi o que la cartera te lo te lo utiliza para los fees. Así que hay que tener cuidado por el momento que todavía todo no está muy visualmente accesible ni una interfaz fácil para el usuario.
+
+[Speaker 0 - 00:37:24]
+Por ahí piné acabo de pinear un hilo que hizo Hurn se llama. Ahí tal cual describe cómo hacerlo en 15 minutos. Una cartera de bitcoin que se llama Spirowallet. Y la configuras de cierta manera. Ahí te explica un video que está en el mismo thread. Y luego vas a la plataforma que se llama Gamma.io, ordinals, que también voy a pedir acá arriba. Nada de esto lo lo me están pagando por promocionarlo. Pero bueno, es lo que estoy usando yo. Y ahí te da todo el seguimiento de del MIT hasta tenerlo en tu cartera. Obviamente, como decíamos, ¿no? Todavía hay ciertas cuestiones que hay que revisar para poderlo mover. Pero pues bueno, yo ya subí 1. Al rato vamos a subir, yo creo que también como decía el logotipo de MX Web 3, de la comunidad de Meetups que estamos acá en Monterrey. Y no sé, a lo mejor entre varios podemos hacer una colisioncita y de 100 y le damos por un motor todos y agarramos a aquí a toda la gente de abajo como dice liquidity.
+
+[Speaker 0 - 00:38:27]
+Hace falta mover el dinero aquí. ¿Qué onda Luis? ¿Qué opinas?
+
+[Speaker 6 - 00:38:35]
+Bueno, pues sí, estos momentos son así donde se dan las las oportunidades y quienes están así temprano, pues las aprovechan. También se dan las estafas. Entonces, un poco de de de todo. Entonces hay que que tener mucho cuidado. Los invito a que si van a interactuar con páginas que no conocen, porque van a empezar a salir nuevos servicios, nuevas ofertas. Y si quieren hacerse a probar y a terceros por ustedes mismos, que lo intenten desde una máquina virtual o desde un computador que no tengan ustedes instalada sus wallet, donde puedan llegar y decir, lo formateo y empieza a hacer uso y no se perdió nada, ¿listo? Como han dicho también las mismas wallet, que es una wallet nueva. Porque Satoshis, nos multiplicamos por 100000000, que en realidad no son 21000000, un poquito menos. Y esa cantidad son en realidad las unidades indivisibles que tenemos dentro de bitcoin. Y a cada una de ellas se le da un número que se le dice que es un ordinal, ¿cierto? Entonces, es esa serialización que no se debe perder.
+
+[Speaker 6 - 00:39:37]
+Entonces, si tú de de pronto los combinas, agarras y mandas un pago con la con la wallet donde recibiste ese Satoshi ya perdiste, porque ya estando en otra wallet, ya no puedes recuperarlo. Pero entonces, muy rescatable eso por un lado. Para las personas que vienen llegando y que son artistas o coleccionistas, pues también rescatarlo para resaltar el cambio de modelo de negocio. Porque ya digamos que está claro de entrada que que técnicamente no se pueden asegurar las regalías. Entonces, si están pensando en limpiar colecciones o algo, pues recuerden también reservar algunos de estos ítems, no listalos en ventas. Bueno, todavía no estamos en esa parte de listar en ventas, pero ya vienen los los marketplaces que se van a crear sobre esto mismo. Eso está, como quien dice ahorita, en puro código en línea de comandos. Pero pues, ya con todo el boom que está teniendo, eso no va a tardar mucho, entonces tengan cuidado pues también con con eso, ¿no? Con el tema de, ay, bueno, no sé si se me me arrugué porque mi celular falla mucho, pero por lo pronto esos serían como mis aportes principales, mucho cuidado con la seguridad, ¿cierto?
+
+[Speaker 6 - 00:40:47]
+Estamos en un boom de oportunidades de ganar como dinero con esto, pero también de perderlo. Entonces, muy atentos. Sigan al creador, se llama Kayce Rodarmor, por aquí lo podemos también pinear. Y atentos a a, por ejemplo, si él le indica que no, que está wallet o ese servicio no no les da garantía de seguridad, entonces ¿qué riesgo puede haber ahí? Pues que les dicen que le han minteado algo a nombre suyo, pero aunque la clave privada en realidad no fue, O sea, no se los envía a las subales, pueden pasar varias cosas. Entonces, pues atentos y y quienes puedan sacar provecho de esto, pues felicidades. Que ojalá así sea.
+
+[Speaker 0 - 00:41:29]
+No, definitivamente. Definitivamente riesgo es grande cuando es difícil, cuando hay mucho FOMO y mucho hype. De seguro, estoy seguro que lo que tú dices va a suceder. Por supuesto, wallets que te van a robar, páginas que van a pedir que te conectes y lo hagas. Yo tengo para eso ciertas reglas que sigo. Todas las transacciones que firmo están en un hardware wallet, No tengo hot en las compu que uso para este tipo de de DGM Mints, ¿no? Finalmente son DGM Mints, donde, como decía Luis K, si es posible que borres todo ahí porque que la formatez no pasa nada. Obviamente tienes que almacenar las ciudades privadas, etcétera. El tema de seguridad es súper importante, pero por ahí lo he escuchado mucho. Está sonando muchísimo. Hay una ola fuerte que no se los coma el el el fomo. Vayan con cuidado y y sí, pues bueno, donde hay oportunidad de riesgo, definitivo. Jesús creo que por ahí andaba ocupado.
+
+[Speaker 0 - 00:42:31]
+Lu, ¿qué opinas? Te ayudo y a los que quieran ofrezco por ahí DM abiertos para ya piné aquí arriba el thread, piné también el el la aplicación que yo usé, Gamma.io. Por ahí hay un par de personas que sé que están tratando de sincronizar su nodo para poder llegar a hacer las inscripciones sin pagar la cuota. Aquí, si mal no recuerdo, yo pagué una cuota como de 6 dólares y esa va directo a la plataforma. Pero pues son cuotas que te puedes evitar si corres tu propio nodo y tú tú tú protejas tus tus activos. Veamos veamos qué pasa. Pero sí definitivamente viene
+
+[Speaker 5 - 00:43:13]
+ya se ve, la ola ¿Qué te digo? ¿En la descripción me sigue?
+
+[Speaker 0 - 00:43:16]
+No ha llegado, cabrón, no ha llegado. Por ahí se lo mandé la el link a otro amigo y a él ya le llegó. Entonces no sé si pagué muy pocas pocos fees todavía o qué onda. Pero pero aquí estoy checando. ¿Qué onda, Luis K?
+
+[Speaker 6 - 00:43:29]
+Bueno, aquí haciéndoles un poquito de spam. Pero spam pues que puede serles útil, les compartí el enlace a un curso que hice en Platin sobre seguridad específico para usuarios de criptomonedas. Entonces, para que lo tengan presente, las primeras clases son gratuitas, quienes quieran verlo. Yo los dejo un momento porque tengo que ir a recoger a mi sobrino al colegio. Ahorita me conecto y si están ahí conectados todavía, ni 1, ¿vale? Feliz tarde a todos.
+
+[Speaker 0 - 00:43:55]
+No hombre, muchísimas gracias, Luis. Gracias por opinar acá arriba también en el curso. Hoy por ahí no empecé, pero siempre trato de empezar por eso de de de en cuestión de seguridad del tiempo que hay que invertirle a en realidad aprender a manejar esto de manera segura. Porque pues bueno está dentro de nuestra responsabilidad cuidarlo, pero también pues lo podemos perder y nadie nos va a ayudar. Cactus, ¿qué opinas?
+
+[Speaker 7 - 00:44:18]
+Bueno, yo opinar, pues no sé, la verdad se me suena chido, suena muy interesante. Ya nomás te quería preguntar, me exigen que nos cuentes qué qué fue lo que subiste al, o qué fue lo que quisiste subir al al, este, al bitcoin, este, Blockchain. ¿Qué fue lo que quisiste mintear o qué?
+
+[Speaker 0 - 00:44:40]
+Bueno, muchas gracias por la pregunta YYY me la pones así facilito para exiliar. Pero es el 1 de los hace no me acuerdo si veo por aquí alguien de los que asistió, pero aquí en diciembre del 2000 veintiuno organizamos o ayudé a organizar aquí en Monterrey una reunión donde juntamos unas 80 personas. Hablamos de bitcoin, hablamos de NFTs, hablamos de inversiones que hay. La verdad se reunieron muchas personas. El el el el Bullrong estaba bueno, en ese entonces. Y platiqué ahí de un proyecto con el que estoy trabajando, que es un escultor que se llama Daniel Zerma, que tiene varias piezas aquí en Monterrey. Y ese día, mintíamos una edición de un mono bitcoin. Él hace monos. Tiene monos en muchas lugares de aquí de la ciudad. Son esculturas enormes de mármol, a veces hasta de 3 metros de alto. Y hay algo, unas más chicas, ¿no? Entonces 1 de esos monos le pedí yo que que que se aventara algo con bitcoin. Entonces un mono abrazando con que una moneda que tiene el logotipo de bitcoin.
+
+[Speaker 0 - 00:45:42]
+Entonces ese fue el que mintía. Ahí les les mando el link del orden al cuando ya se suba porque no me ha llegado por ahí. Le voy a pedir a mi amigo que ya mintió y canijo a ver si no me gana la primicia de decir que ese que él fue el primero, pero bueno, ni modo. Yo puedo decir que pueda tener la transacción antes.
+
+[Speaker 7 - 00:46:03]
+Sí. Y entonces, o sea, se se sube la transacción que pagaste. Yo también vi esos 2 sitios, Gamma y el otro, este, y me interesó. Pero, o sea, solamente puedes mentear una sola imagen. O sea, no puedes decir, aquí van 10. O sea, no pueden ser 10 satoshis diferentes. Es 1 por
+
+[Speaker 0 - 00:46:18]
+1. Sí. Tienes que mintear 1 por 1. Lo ideal, lo que estoy leyendo y lo que se recomienda es que crees una cartera nueva por cada orden online que tengas. Entonces tú tienes que bajar Sparrow wallet. Tienes que configurarla para que sea una cartera tipo tap route, que es el el el cambio que sufrió el protocolo hace un par de años. Seleccionas cartera tipo tap route y
+
+[Speaker 7 - 00:46:41]
+creas una wallet nueva por cada ordinal nuevo que quieras recibir. Entonces, todas tienen la misma palabra semilla pero sí, qué onda. Suena suena muy bien porque suena que los maxi no van a hacer un update ahí y y tapen eso, cierren eso y pues igual eso es un un riesgo, ¿no? Entonces igual los primeros que entren antes de que pachéen eso, si es que lo tapan, ¿verdad? Podría ser también significativo a futuro.
+
+[Speaker 0 - 00:47:06]
+Híjole, dando fomo, dando fomo, alimentando alimentando maderita hoguera, para que todo mundo quiera mentir. Yo la verdad estoy muerto de fomo. Sí, lo acepto. Estoy mintiendo, pues estoy probando 1. Pero la verdad la idea pues es poder tener un nodo completo para poder meter desde ahí, poder transaccionar con eso. Yo sí creo que va a ocasionar mucho ruido en la comunidad de bitcoin, porque están utilizando el espacio de bloques que es muy valioso para hacer transacciones de subir fotitos. Entonces, está chido. O sea, para a mí está chido. Yo creo que estas redes están programadas para funcionar de cierta manera. Nadie puede bloquearlas, ni impedir el uso tal cual como está programado. Entonces, si no aguantan este tipo de aplicaciones, cosas nuevas que salgan, que estoy seguro que la van a estresar la red, y que van a ocasionar que esto, en realidad, veamos cómo suben las cuotas y las las transacciones y cómo se comportan los mineros y Es un tema económico bien bien complejo que afecta muchísimo a la red más grande y la mejor protegida de todas las cripto.
+
+[Speaker 0 - 00:48:08]
+Entonces por ahí por ahí yo por el por lo mismo estoy pegado, también ayer lo decía. Gran parte de mi portafolio de inversión en cripto está en bitcoin. Entonces por eso también estoy pegado a revisar eso. Pero bueno. Krau, Lu.
+
+[Speaker 5 - 00:48:22]
+Sí, viste que ayer salió la primera colección de 10000 unidades ahí en Ordinals.
+
+[Speaker 0 - 00:48:28]
+No hombre, ya ni me digas que hoy me levanté a ver que ya se habían minteado todos. Qué interesante manera. Interesante la manera en que los liberaron. Porque agarraron todas las fotos. Son punks. Son los punks de Etilio tal cual, igualitos. Agarraron todas esas fotos. Alguien la subió en la página y les dije y les dije y les dije y en la página tú podías seleccionar que tú quisieras que no estaba minteado. La misma página iba y revisaba el Blockchain para ver cuál ya se había minteado. Entonces los usuarios escogieron y mintearon. Ellos pagaron el Mint. Se podría llegar a decir que es un free mint. O no, no sé. Pero lo interesante aquí es que ellos en la página iban, revisaban el Blockchain. Veían que ya 1 de esos NFTs estaba minteado y pum, lo quitaban de la lista. Entonces, padre. Ya hay 10000, Una colección de 10000. Alguien decía, oye no, esto se va a tardar un chorro en sacar una colección de 10000. Salió casi inmediato. ¿Lu qué opinas esta cañón?
+
+[Speaker 4 - 00:49:23]
+Sí, está súper interesante, Mexi.
+
+[Speaker 2 - 00:49:25]
+Pero algo que, vaya, lo que los escuchaba y y un tema que creo que sí va a los escuchaba
+
+[Speaker 4 - 00:49:29]
+y y un tema que creo que sí va a salir a la luz, sobre todo entre la comunidad que es maximalista de de bitcoin, la realidad es que se está ocupando la red para un una cuestión que no es tan prioritaria. ¿No? O sea, la red de bitcoin. El minar precisamente a la defensa. Y la otra es que creo que volvamos y va a ser un tema relevante en que justo debido a a los bits de todas estas imágenes, textos, o sea, todos estos archivos que vas a poder colocar en la en la red de bitcoin, el el tema de la energía. ¿No? El el desgaste de la energía que va a tener también la red. Entonces, a diferencia de Ethereum, que hemos visto justo cómo implementó el merge, supuestamente para reducir también el tema del del desgaste de de la energía. Aquí creo que nos vamos a enfrentar nuevamente a este problema, porque sin duda, entre más bits tengan estos archivos, pues la energía va va a seguir en aumento.
+
+[Speaker 4 - 00:50:34]
+¿No? Creo que va a ser un tema relevante. Cuando además, si aumento. ¿No? Creo que va a ser un tema relevante. Cuando además los los artefactos digitales no deberían de ser prioritarios, vaya, desde la perspectiva o la visión por la cual nació bitcoin. No metzee, Krough. ¿Cómo ven?
+
+[Speaker 0 - 00:50:58]
+Sí, definitivamente está ocasionando polémica. Está ocasionando que la gente empiece a discutir si Y por ahí he visto varios links que que mencionan que esto es algo que no se imaginaba que podía suceder. O sea que inadvertidamente, al momento de modificar y hacer el upgrade a top route, que sucedió hace 2 años, permitieron esto. Que yo creo que nadie se había percatado que se podía utilizar de esa manera. Pero pues bueno lo lo interesante aquí está que si se quiere cambiar se tienen que poner de acuerdo al 51 por 100 de los mineros. Esto es algo que hemos visto que sucede, y ha sucedido varias veces donde varios mineros se tratan de poner de acuerdo para tratar de cambiar esas reglas. Y no no no han podido. O sea, no sé si aquí necesito o amerite hacer una bifurcación dura, un hard fork como le llaman. O sea un soft fork donde se pueda seguir utilizando la misma red y sea compatible con con con todas las transacciones anteriores. Y no se crea una nueva Blockchain. Entonces híjole, va a ser super interesante ver.
+
+[Speaker 0 - 00:51:59]
+Pero ahorita es muy temprano para saber. No no no tenemos ni idea de qué es lo que puede llegar a suceder. Yo sí creo que van a tratar de de alguna manera bloquearlo. Entonces, yo creo que sí es probable lo que sea Cactus, que en algún punto si ya no permiten hacerlo, lo que ahorita que se permite y se suba, puede llegar a tener otra. Y también por el número, ¿no? Tiene un consecutivo. Todos los órdenes que se están metiendo tienen un consecutivo. El más temprano, pues bueno, para ciertas personas puede llegar a valer más que 1 que está un poquito más tarde. Vete tú a saber. Eso es ya especular con el precio de de cosas que a lo mejor todavía ni comprendemos al 100 por 100. Pero pero bueno, no sé si quieran, yo con con con con eso cierro el tema. Creo que es súper interesante. Por ahí seguiré limpiando una o 2 piezas durante el día. A lo mejor en el mee up igual subimos la la la imagen de de la de la comunidad y pues vaya a ir haciendo una colección ahí de artefactos digitales en Bitta. Cualquiera que necesite algo de ayuda, pues échale un DM, y ahí lo vemos.
+
+[Speaker 4 - 00:53:06]
+Bueno, pues de entrada, Mexi, Jesús, ya este desarrollador, Kase Roddarmor se llama, ¿no, Mexi? Ya asentó aquí un precedente YYY va a ser parte de la historia de Web3, sin duda, sobre todo en bitcoin. Oigan, y pues, fíjense, yo quiero contarles un poco, ya saben que a mí las cuestiones legales, por eso les decía, apenas estoy entendiendo temas vinculados con NFTs, Ethereum y otras redes, y me salen ahora con estas situaciones de artefactos digitales en bitcoin. Pero les quiero contar, fíjense que salió finalmente el veredicto con el el caso de Hermes, con este artista que osó utilizar los bolsos Birkin en una de sus colecciones, y para que los los que no no estuvieron muy enterados o no leyeron, obviamente, todo todo el asunto, yo se los voy a pasar al día muy rápido, porque sin duda, Mexi y Jesús, esto va a sentar un precedente importante, sobre todo para toda la industria de NFTs, y por supuesto para las empresas, ¿no?
+
+[Speaker 4 - 00:54:14]
+Que aquí creo que claramente estamos viendo el el poder precisamente de las marcas, de las normas y de las leyes habituales aplicadas e e interpretadas, como siempre les digo, a al panorama web 3. Y miren, les cuento muy rápido qué ocurrió. Este artista, a lo mejor lo vieron por ahí en en en alguno en algún tweet o en en alguna de las redes, en las noticias. Es un artista de 28 años, Rothschild se llama, y se aventuró a lanzar una colección de 1000 NFPs a través de la plataforma de OpenSea. Pero esta colección, curiosamente, hacía alusión a los bolsos Birky. Estos bolsos, vaya, tan tan caros, tan carísimos, que forman parte de de los registros de propiedad intelectual de Hermes. Entonces, bueno, se estaban vendiendo alrededor cada NFT por 450 dólares, aproximadamente, 0.1 ethereum, Ethers. Pero entonces Hermes, en enero, se percata de que estaban haciendo este lanzamiento, de que este artista estaba haciendo este lanzamiento, y como siempre puso en movimiento su estructura legal para presentar una demanda en contra del artista, donde alegaba que justo estaban infringiendo su marca.
+
+[Speaker 4 - 00:55:34]
+Y les platico algo muy rápido e importante. Fíjense que todos quienes querramos registrar nuestra marca, algunos incluso nos aventuramos tal vez a registrar bajo ciertas leyes hasta los nombres, ajá, existe una clasificación, me exige Jesús, dependiendo si yo ofrezco un servicio o si ofrezco un producto. Entonces, pues yo obviamente genero ese registro que en todos los países surge a partir de la ONPI, esta clasificación la la proporcionan ellos y, bueno, cada país la adapta de acuerdo a sus leyes. Entonces, cuando tú logras ya registrar una marca, te otorgan cada cada, se puede hacer a nivel país y bueno, hay un modo de hacerlo como protección internacional, pero sin ser tan técnica, lo que les quiero decir es que cuando se logra registrar nuestra marca, protege o está protegida específicamente en esa clasificación para vender vino, etcétera.
+
+[Speaker 4 - 00:56:36]
+Y les quiero hacer esta diferenciación porque, precisamente, este hecho de que puedas registrar tu marca en cada de un en cada una de esas clases, lo que ayuda es que, y también a a los otros competidores, es que tú puedas registrar una marca que puede ser incluso parecida en clases distintas y no tenga inconveniente en que puedan convivir. Pero entonces, ¿qué te dice la mayoría de las leyes? Incluyendo la de Estados Unidos. A ver, si tú hermes, tienes registrada tu marca en la clase 23, que se refiere a productos específicamente de artículos de piel, en teoría, no podrás impedir que alguna otra persona pueda registrar esa ese mismo nombre, digamos, en otra clase, por ejemplo, para vender virus. Y fíjense, esta, precisamente, este veredicto es muy interesante, porque a partir de enero, ¿recuerdan que hemos platicado que esta clasificación de Niza ahora permite registrar las marcas específicamente en en el concepto de tokens no fungibles?
+
+[Speaker 4 - 00:57:45]
+¿Y cuál fue la intención? Que precisamente cualquier marca que quiera incursionar en Web3 perfectamente pueda tener el instrumento o la protección respecto de ese concepto. Entonces, Hermes, al ser incluso una marca notoriamente conocida, en todo el mundo por supuesto, demandaron a a este artista diciendo que estaban haciendo uso indebido de su marca, por supuesto que existía un lucro directo y que causaba confusión al público, porque se podría entender o presumir, pues, que esa colección estaba siendo lanzada por Hermes. Que además, fíjense, Nancy, Hermes no ha entrado al mundo de la Web 3 específicamente, porque ellos siempre dicen que es la experiencia para el cliente, es de un producto que incluso incluye esta experiencia física. Entonces, sería absurdo promover su marca dentro de un de un ambiente digital. Pero para no hacerles el cuento largo, esta sentencia va a ser muy interesante, porque precisamente lo que hace este jurado es decir, a ver, a pesar de que la marca Hermes no está protegida en una clasificación específica respecto de activos digitales, hemos emitido nuestro veredicto diciendo que tienes que indemnizar a Hermes diciendo que tienes que indemnizar a Airbus y y quitar o retirar tu colección porque estás ocasionando un perjuicio directo, estás dañando económicamente a la marca.
+
+[Speaker 2 - 00:59:23]
+Por lo tanto, no puedes hacer uso y, además, vamos vas a tener que indemnizar. Y,
+
+[Speaker 4 - 00:59:28]
+indemnizar. Y fíjense, creo que esto va a ser va a sentar un precedente importante en el mundo legal. Hoy día le llamamos jurisprudencia, porque este mismo criterio puede ser aplicado para otros casos. Y cuando tú haces un análisis un poco más técnico desde el ámbito ya de propiedad intelectual de estos casos, la realidad es que por eso existe esta clasificación, para que puedan convivir distintas marcas que a lo mejor tengan un parecido, o si son marcas notoriamente conocidas a las denomina como lo es Hermes, exclusivamente puedan funcionar en la clasificación donde tienen sus marcas registradas. ¿No? Entonces, desde mi punto de vista, creo, y un poco parte del análisis que ayer estaba haciendo, es que es este veredicto o esta sentencia que van a lanzar sí va a limitar a otros terceros. No no por la marca Hermes per se, sino por el antecedente en donde cuando registres una marca, la pregunta será, ¿cuál va a ser el beneficio entonces de registrarlo en distintas clasificaciones cuando estás reconociendo que estoy infringiendo una marca que que efectivamente sí tiene registrada, pero que no está dentro del panorama de activos digitales.
+
+[Speaker 4 - 01:00:41]
+¿Saben? Entonces, a mí me ha parecido, la verdad, este este veredicto superinteresante, trae conceptos legales que insisto, van a servir muchísimo para otros casos. Pero mira, con lo que contabas, Mexi, apenas estamos teniendo casos que tienen que ver con temas de propiedad intelectual y con tokens no fungibles en en cadenas como de propiedad intelectual y con tokens no fungibles en en cadenas como Ethereum, Solana, etcétera. Y ahora tenemos esta esta nueva utilidad en bitcoin. ¿No? Yo me pregunto, ¿qué va a pasar cuando, precisamente, algunos listos? Porque ya ya seguro se les ya seguro se les ha de haber ocurrido, comiencen a registrar, precisamente, estos diseños o logotipos que pueden obtener tan fácil en Internet, y que los subamos a la ahora a la red de Ordinals. Va a ser superinteresante qué va a ocurrir. Pero, bueno, este es un caso que, por lo menos, en el ámbito legal, va a ser resonado estos días. Finalmente, el artista va a tener que pagar poco más de 100000 dólares a Hermes, que la realidad es que ni lo necesita, pero que lo hacen creo que para tener esta este concepto aleccionador para la industria Web 3, en donde no todo es catalogado como el el el oeste sin reglas.
+
+[Speaker 4 - 01:01:57]
+Creo que catalogado como el el el oeste sin reglas. Creo que finalmente vuelvo a confirmar, por lo menos yo, que hay leyes que se pueden adaptar e interpretar a lo que tenemos. ¿Cómo ven, Mexi y Jesús, cuándo registramos sus marcas?
+
+[Speaker 1 - 01:02:17]
+Oigan, a ver, noticia de último momento. Este, a diferencia de lo que yo esperé, el Banco de México subió la tasa de interés el doble que la Reserva Federal, es decir, ya se preocuparon muy bien por Banco de México, se acaban se preocuparon por la inflación. Acaba de salir comunicado ahorita a la una de la tarde, este, subieron la tasa de 50 puntos base. Muy buen mensaje para los mercados, el peso se debe empezar a apreciar ahorita, los mercados deben ir a la baja, pero en términos generales muy bien hecho por Banco de México. Eso acaba de suceder en estos momentos, perdón por la interrupción, pero creo que es importante. Qué bueno que reaccionó muy Bajico. No he leído el comunicado, pero lo déjenme leerlo un ratito y ahorita les platico.
+
+[Speaker 0 - 01:03:02]
+No, perfecto, excelente. Justo lo que tú querías que hicieran, Jesús, que hiciera un caso, por ahí lo ha comentado de varios. Hemos comentado en este tipo de espacios que eres un infiltrado y yo creo que sí. Aunque te conozco desde hace varios años, eres un infiltrado básico. Ya vi que tienes en tus influencias del
+
+[Speaker 4 - 01:03:21]
+Banco Mundial, del del Fondo Económico Mundial. Ya recuérdenlo, por favor. No revelen información de sus finanzas, porque aquí está Jesús, infiltrado de 3 entidades gubernamentales e internacionales, aclaramos. Y y Jesús, no me contaste. ¿Registramos tu marca o no?
+
+[Speaker 1 - 01:03:39]
+Sí, adelante, adelante. De hecho, este, hasta eso no no no le hemos fallado mucho. ¿Eh? A los comentarios, creo, creo, sobre todo en política monetaria.
+
+[Speaker 0 - 01:03:51]
+No, yo sí hice tal cual
+
+[Speaker 4 - 01:03:54]
+es que iba a decir que acá se subió Abraham, perdón.
+
+[Speaker 0 - 01:03:57]
+No hombre, yo hice el proceso en el en el IMPI, pero también ahorita yo creo que hoy, hoy lo empezamos en el Blockchain, para que también se quede ahí. El logotipo de de MX Web3, ¿por qué no? Abraham, sé que Jesús está aquí de infiltrado del SAT también. No no no no te da miedo subir acá con nosotros. Abraham es
+
+[Speaker 4 - 01:04:19]
+contador. Abraham Abraham es el SAT. Aclarales que es del SAT. Y de administración tributaria.
+
+[Speaker 8 - 01:04:27]
+No, para nada. Primero que nada quería este, ahí que secundar lo que dice Lu o lo que piensa, o no sé, a lo mejor yo pienso que piensa, pero no piensa lo que piensa, es como un trabalenguas, pero creo que que todas estas medidas de de de juicio van a ser a la lesionadoras, en donde te voy a dejar un precedente como para que los demás, un estate quieto para los demás, en otras palabras, o sea, como que creo que por ahí se viene toda esta jurisprudencia que que puede que puede incluso, hasta cierto Es que hay varios puntos de vista, depende del diseñador en este caso y depende del otro del que sacó el el NFT. Pero al final creo que sí es aleccionador este este dictamen o esta sentencia que se dé, y con esto se fija una se fija una jurisprudencia que sin duda va a cambiar mucho el mercado de NFD, así así lo veo yo, y pues hay que esperar a ver cómo cómo sigue funcionando esto, que seguimos yo creo que en tiempos muy muy tempranos en donde apenas se está fijando, asentando jurisprudencias y y pues bueno.
+
+[Speaker 8 - 01:05:37]
+Y por el otro lado pues este Jesús yo yo pienso que es un infiltrado pero no sé si para bien o para más y para ayudarnos o para para, este, boicotearnos. Pero como quiera, Jesús, este, yo te yo tengo mucha admiración hacia ti. Soy tu fan.
+
+[Speaker 1 - 01:05:57]
+Está obteniendo información de un confidencia confidencial privilegiada de Web 3. Ya ya tenemos más información del comunicado del Banco de México. Varios puntos muy interesantes. El primero, que es una decisión unánime, o sea, que todo el mundo ya entendieron que la inflación sí es un grave problema. Se pusieron las pilas y decidieron actuar. Entonces, eso fue una buena noticia. 2, que se siguen deteriorando las expectativas de inflación. Los pronósticos cada vez son, se deterioran en el Banco de México para finales de este año y siguiente año. Entonces, creo que eso también les llamó la atención. Y tercero, que están diciendo que el siguiente incremento será de menor magnitud. Quiere decir que la siguiente reunión de política monetaria, el incremento ya no va a ser 50, sino de 25 puntos base. Entonces, lo que acabo de digerir brevemente del comunicado que acaba de de salir al mercado del Banco de México. La tasa de interés sube 11 por 100, buen mensaje de Banxico, fue fuerte, decisivo, este, 50 puntos base.
+
+[Speaker 1 - 01:06:58]
+Recuerden que el mercado esperaba solamente un incremento de 25, incluyéndome, copiando la Fed. Entonces, creo que es un buen mensaje de de Banxico.
+
+[Speaker 0 - 01:07:11]
+Pues yo no sé, pero yo veo la inflación aquí en México el doble de lo que está en Estados Unidos. A lo mejor debieron de haber subido más, ¿no? ¿Por qué no más?
+
+[Speaker 1 - 01:07:20]
+Mira, si me si yo estuviera si yo fuera miembro de la junta de gobierno, yo sí hubiese sugerido inclusive 75 puntos más. Pero yo soy súper hockey, súper agresivo en en en ese en en esa postura. Pero creo que que de subir a 25 a subir 50 fue fue fue fue una medida, bueno, fue una mejor medida, digámoslo así, porque se esperaba nada más seguir a la Fed, como lo han hecho el último año y medio, que creo que es un error, porque las dinámicas de inflación son muy distintas en México, que en Estados Unidos no puedes copiar la receta nada más, porque si no.
+
+[Speaker 0 - 01:07:56]
+De acuerdo, de acuerdo. Yo yo les paso una actualización rápida también de mi inscripción en el Blockchain de bitcoin. La transacción yo la mandé, nada más para que se den una idea de cuánto está tardando esto. Yo creo que también para el menos a mí para mí es interesante. Pero la mandé como a las 11 22 más o menos. La primer transacción donde se confirma mi depósito a la cuenta que ellos me me pidieron, se confirmó ya tiene 5 confirmaciones. Después de eso, automáticamente el wallet hace divide el dinero, paga la comisión hacia la plataforma y luego paga la inscripción. Pero todavía no me llega mi inscripción mía, no, todavía no me llega mi artefacto digital. Ahí les ahí les estaré cortando a ver si durante el día queda. Y luego les mando el link para que lo vean también. Creo que está padre. Creo que está muy padre la la tecnología, lo que permite, lo que va a funcionar. Pero bueno. Lu, por ahí traías otra noticia. Échale.
+
+[Speaker 4 - 01:08:59]
+Sí, muy rápido. Antes quería decirle a Abraham que que no entendí la primer parte y porque me dijo, no entendí entendí algo como creo que no pensaba o algo así. No, no es cierto, Abraham. Pero por lo menos a a Abraham me entendió un poco el el sentir respecto de esta esta noticia con Hermes, el veredicto, y vamos a ver más casos. De pronto, ya saben, decimos que vamos temprano, pero yo creo que ya no vamos tan temprano. ¿Eh? Cada día estamos viendo más situaciones que tienen que ver con Cada día estamos viendo más situaciones que tienen que ver con un panorama legal y y se van a ir dando. Entonces, fíjense, también otro punto que quería decirles. Este este tema de de las marcas y de de propiedad intelectual a través de los NFTs, pues no solo tiene que ver con las grandes empresas, también con todos quienes se dedican justo a a crear su contenido, su arte.
+
+[Speaker 4 - 01:09:59]
+También es súper importante. ¿No? Que que que lo registren, que puedan tener incluso esa certeza de que no se está haciendo uso de obras que a lo mejor pertenecen a a cierto artista y termina siendo explotada o comercializada por otras personas. ¿No? Entonces, estas interpretaciones, estos precedentes que que parten a partir, perdón, que parten de juicios grandes, de marcas importantes, sirven para sentar un criterio con aquellos quienes tenemos, vaya, marcas, pero no tenemos todo este exposure a nivel internacional. Eso va a ser interesante. Y fíjense, otra cuestión que quería comentarles, platicarles que me pareció muy interesante, a ver, cuántos de la sala son validadores del merge de Ethereum. No es cierto, yo creo que nadie. ¿Verdad? Ya ven que pusieron esta tarifa de 32 hits. Pues, miren, fíjense que en marzo van a lanzar este esta otra, digamos, hard fork que surge o con motivo de del merge, para que ahora, precisamente, ya se puedan retirar los 32 hits que se dejaron como garantía por parte de los validadores.
+
+[Speaker 4 - 01:11:12]
+¿Recuerdan que el año pasado, por ahí de septiembre, Ethereum lanzó, le llamábamos o conocíamos en español como la fusión, el merge, en donde estaban un poco apostando por la escalabilidad y también, bueno, a cambio de eso, este nuevo modelo de de cambio a proof of stake se realizaba para que estos validadores ahora se congelaran 32 hits y pudieran hacer todas estas transacciones. Bueno, pues, finalmente, ahora, en marzo de este año, van a lanzar Shanghai, que lo que va a permitir es que justo todos los stakers o o validadores de de IT pueden retirar todos esos fondos que depositaron su durante el funcionamiento de de del merge, y se Eats, sí, 16000000 de Eats para que empiecen a circular, pues, ya en los mercados, ¿No? Entonces, esta es una buena una buena noticia, por lo menos para los validadores, porque ya no van a tener que mantener esos recursos, esos fondos dentro de la cadena de settings, sino que finalmente van a poder ser liberados.
+
+[Speaker 4 - 01:12:19]
+Y además, creo que aquí va a ser un tema importante el el el prestigio justo de esos validadores, en donde funcionaron de manera correcta a partir de este garantía, yo le llamo esta garantía económica que dejaban, y que después de haber transaccionado o ayudado a generar este estas transacciones, bueno, finalmente se los van a regresar. Entonces, fue como un un ahorro que dejaron ahí, un un dinerito que dejaron ahí reservado y que finalmente lo van a lo van a poder aprovechar. Mexi, tú eres validador, ya confiésanos, por favor.
+
+[Speaker 0 - 01:13:00]
+No, la verdad es que sí tenía o he tenido steakkeado Tearyon, Solana, pero nunca corrí un validador. Sí llegué a correr un nodo de bitcoin y corrí un nodo de Lightning hace un par de años. Pero la verdad lo lo la compu se desmadreó y ya no le seguí ahorita que está reviviendo el tema de el uso para, o sea que que que se está usando más la red y que se necesita para poder mintear en órdenes. Yo creo que sí voy a buscar poner mi nodo y echarlo a volar de nuevo. Porque pues el equipo que tenía ya no sirvió para eso. Pero no, ETH nunca nunca llegué a validar. Yo creo que cuando se libere eso, obviamente como tú decías, los los mineros les va, o los los los que hacen staking les va a gustar mucho. Pero a la gente que tiene ETI, quién sabe. Porque tanta tanto tanto Ether que se libere, puede llegar a venderse rápido. Y el precio, pues obviamente, puede llegar AAA bajar, ¿no?
+
+[Speaker 0 - 01:14:01]
+Si los validadores al recibir ese Ether lo venden, más rápido que la gente está comprándolo constantemente, pues baja el precio. Entonces pues esa oferta demanda 100 por 100. No sé la fecha, Lu. ¿Cuándo más o menos crees que suceda? No sé si lo comentaste.
+
+[Speaker 4 - 01:14:19]
+Fíjate, sí, fíjate que está programada para marzo. A mediados de marzo es cuando van a poder empezar con esta retirada. La realidad es que ayer estaba leyendo, digamos, esta este manual justo de de este hard fork, y no será tan fácil. Mexi, a nivel técnico parece que van a tener que transcurrir como un proceso tecnológico. Imagino que precisamente por la cuestión de los nodos, pero lo van a lanzar, la la apuesta va a ser a partir de marzo, ya de este año, y que, ¿recuerdan? También creo que va a ser un tema interesante, porque cuando vino el merge, estos validadores recuerdan que la la mayoría de estas de estos validadores estaban incluso alojados en una de las plataformas de AWS, que es Amazon, y que ahí empezamos a platicar un poquito de que parecía que esto ya no era descentralización, descentralización, porque estos validadores se habían conglomerado o estaban apostado solamente en en 2 compañías, ni siquiera en validadores personas físicas, que era muy entendible por el nivel o la cantidad de Ether que te pedían para garantizar estas transacciones, que eran los 32.
+
+[Speaker 4 - 01:15:31]
+Entonces, bueno, seguramente este estos recursos van a regresar a estas empresas que fueron quienes recaudaron o apostaron mucho más transacciones para ser validadores. Pero bueno, creo que también es un una técnica lanzar este hard fork, va a ser muy interesante la puesta en marcha y darle seguimiento para entenderlo a nivel tecnológico. Creo que va a ser un una experiencia que también va a sentar tecnológico. Creo que va a ser un una experiencia que también va a sentar un un buen precedente a nivel tecnológico. Y está por aquí Calles también y después Crowking. ¿Cómo estás? Adelante. Buenas tardes.
+
+[Speaker 0 - 01:16:16]
+Calles,
+
+[Speaker 5 - 01:16:17]
+calles. Hola, Abraham. ¿Cómo están?
+
+[Speaker 9 - 01:16:19]
+¿Cómo están? ¿Cómo están? Buenas tardes, saludos a todos. Tengo un par un par de preguntas, por ahí veo a Abraham tirando corazones, mi querido Abraham, saludos, a Jorge también. Tengo un par de preguntas, este, tanto para para Jesús como para Lu. Primero para Jesús, a quien saludo y yo lo he escuchado varias veces. ¿Por qué el usuario de de criptoactivos, por habría de tener interés en el comportamiento de tasas, Jesús? ¿Por qué por qué es relevante saberlo? Me me gustaría que que que respondieras esto. Ojalá ojalá podamos tener ahí un poquito de de guía al respecto. Y para Lu, le quiero preguntar acerca de su opinión sobre el caso de la SEC contra Ripple. Este este tema que parece que el día de hoy, más tarde, habrá quizá alguna alguna opinión. ¿Y y cómo va cómo va a afectar en el futuro al mercado? Resulta interesante, ya que está este este debate, ¿no? De si si el Red Bull es considerado como un security o como o como currency. Esto va a ser importante porque quizás siente un precedente, quizás después podamos hablar un poquito de que se pueda legislar con base en la costumbre y y entremos ahí en terrenos de los que yo soy soy muy ignorante, y por eso me gustaría escuchar la la opinión de Lou en este tema y la de Jesús en el tema en el tema previo.
+
+[Speaker 9 - 01:17:38]
+Muchas gracias.
+
+[Speaker 1 - 01:17:43]
+Bueno, te te contesto rápidamente. Mira, el el tema de las tasas está en función de liquidez. Entonces, cuando bajan las tasas de interés, la gente, lo que pasó, por ejemplo, te lo te después de la crisis 2008, 2009, en Estados Unidos, una manera de de reactivar la economía que entró en recesión fue bajar la tasa a 0, que es lo que hizo Estados Unidos. ¿No? Entonces. ¿Qué significa tasa 0? Que si tú dejas tu dinero en el banco, literalmente te dan 0 por 100 de interés. Es más, los bonos de gobierno te pagaban 0 o nada. Entonces, ¿qué buscas? Instrumentos que te den rendimiento. Entonces, empiezas a especular, porque el costo de dinero es muy barato. ¿Sí? Entonces, la, si te fijas, las bolsas de valores, las criptomonedas, todo empezó a subir, toda la década del 2010. Pero, ¿qué pasa ahora? Cuando sube las tasas de interés sucede lo contrario, el banco ya te paga y México ya te paga un 11 por 100. Entonces, si yo llego a ofrecer tú 7, pues tú racionalmente me dirías que no. Porque en mi proyecto hay riesgo y en el banco no hay riesgo. El mismo CETE, pues no te paga 11. Entonces, conforme aumentan las tasas de interés, se reduce la liquidez en el mercado. También porque la gente, en vez de tener su dinero y gastarlo, lo ahorra.
+
+[Speaker 1 - 01:18:46]
+Porque ya el banco te paga más o el o el gobierno te paga más. Entonces, eso hace que los criptoactivos o las bolsas también en general se caigan de valor. Entonces, claramente está muy relacionado. Y y es algo que creo que hace hace un par de años no se entendía. Algo que creo que hace hace un par de años no se entendía. Yo creo que erróneamente se entendía que está subiendo porque sí, no. El momento que se empezó a subir la la la reserva federal el año pasado tasas, fíjate cómo afectó, no solamente a las bolsas tradicionales, sino a las criptomonedas. De hecho, las cripto perdieron mucho justo por este ciclo de alza de tasas. Criptomonedas. De hecho, las criptos perdieron mucho justo por este ciclo de alza de tasas. Entonces, está muy relacionado y por eso hay que estar muy muy pendientes de las dinámicas de las tasas de interés. Digo, no sé si me expliqué con este con este dato.
+
+[Speaker 9 - 01:19:38]
+Jesús, sí, sí, sí, entiendo esta esta dinámica de de movimiento de capital, pero me surge otra duda. Entonces, ¿el usuario promedio de criptoactivos es alguien que está cazando tasas, que está cazando rentabilidad? Esa sería mi mi otra pregunta para para para que, pues, mudara de instrumento en función de la rentabilidad y el gap que hubiera en favor de quien está invertido?
+
+[Speaker 1 - 01:20:10]
+Mira, yo te lo pondría en una familia normal, que también, fíjate, el año pasado empezamos con presiones inflacionales. Entonces, en la década del 2000 tenías baja inflación y tenías mucha liquidez, ¿sí? Las tasas de interés estaban bajas, entonces, te sobraba el dinero, porque la tasa de inflación estaba en 2 por 100, te sobraba dinero.
+
+[Speaker 9 - 01:20:29]
+Con ese Jesús, perdón, ¿qué es la liquidez, Jesús?
+
+[Speaker 1 - 01:20:34]
+Liquidez, que tengas dinero de sobra, digámoslo de esa manera. Por ejemplo, hoy hoy en día que la inflación subió, te voy a poner el ejemplo de Estados Unidos, subió 7 por 100, pues ya muy apenas pagas tus servicios, pagas porque subieron mucho los costos, no hay tanta liquidez, quiere decir, no hay tanto dinero en el mercado, porque también hay menos empleos que antes y y la gente no, como no gasta la gente, ¿sí? En vez de gastar está ahorrando, eso genera genera que la demanda agregada caiga y que haya menos empleos. Entonces, hay menos apetito por riesgo. Yo ya lo vas a pensar muchas 2, 3, 4, 5 veces en meterle en cripto que antes, porque ese dinero para ti ya cuesta más. Ya las cosas te cuestan más por la inflación y tienes que hacer Y y el banco te ofrece más que antes. Entonces, se vuelve algo también de riesgo y de costo de oportunidad. Ya no estás dispuesto a sacrificar tanto dinero. Te lo te lo pongo en en el caso del del de la en el caso del del de la pandemia, que ejemplifica muy bien. En la pandemia, la economía real cayó, cayó abruptamente, pero los mercados accionarios subieron, porque hubo 2 choques positivos para los mercados financieros y tanto de cripto, que fue una, que la tasa la bajaron otra vez, otra vez, niveles a 0, y hubo estímulos fiscales.
+
+[Speaker 1 - 01:21:50]
+Tú la gente sin empleo tenía mucho dinero, pero ese dinero no te pagaba nada, entonces lo invertía o lo arriesgaba. ¿Sí? ¿En dónde lo arriesgas? En la bolsa y en las criptos. Repito, en este momento, ya el costo oportunidad de hacer eso es mayor. Entonces, ya lo piensas 2, 3 veces, porque te cuesta más la vida por la inflación y porque el banco realmente te está pagando un buen rendimiento sin riesgo. Entonces, si si racionalizas eso de que no hay riesgo en el banco y si hay riesgo en cripto en bolsa y las cosas son más caras, cuidas más tu dinero. Y todavía cripto no es un resguardo de valor, para mi punto de vista. Sigue siendo un activo de riesgo porque es muy volátil. Momento que dinámica. Pero si te fijas, el bitcoin sigue muy de cerca al Nasdaq, y el oro sigue muy de cerca al dólar o el euro. Entonces, todavía no se comporta como una moneda de resguardo de valor, ¿no?
+
+[Speaker 0 - 01:22:44]
+Oye, Jesús, aquí nada más un comentario. Yo creo que la la la el lo que agregaría yo a la pregunta de calles es que la el retail o el inversionista normal, el el el mamá, el papá, 1 de nosotros, pues es raro que mueva mercados. A menos que nos pongamos de acuerdo y hagamos algo como lo que sucedió con Gamestop, es raro que alguien que tiene poco invertido mueva los mercados. Estos mercados se mueven obviamente de oferta demanda, pero los mueven los fondos grandes, los grandes inversionistas, los mineros que tienen muchísimo dinero. Entonces, ahí es cuando ellos que sí saben cómo manejar el tema de tasas, aprovechan toda esa liquidez que a lo mejor es más barata. O ese dinero que está disponible para pedirlo prestado a tasas más bajas y meterlo en activos más riesgosos. Entonces, yo yo sí haría esa diferencia que los mercados, de acuerdo a mi experiencia, se mueven por ballenas y por monstruos y por
+
+[Speaker 1 - 01:23:42]
+por por gente con mucho dinero. Mexi, sí, pero yo te diría sí, pero por las tasas. Es decir, el momento que, por ejemplo, vayamos al caso de la Fed, que subió tasas, ¿qué pasa inmediatamente? Los bancos también te suben tasas. Entonces, tú quieres una hipoteca, será y dices, oye, híjole, no, ya me sale 2 veces más caro. ¿Por qué? Porque así como subió tasas la FEDO o Banxicoi, el banco lo va a subir, porque a ellos también les cuesta mucho más financiarse. Entonces, a lo mejor tú no yo, pero ya 5000000 de personas ya no van a querer una hipoteca como sí querían ayer, simplemente porque subió el costo de la hipoteca. Y eso es lo que hace que todo mundo reaccione de la misma manera, ¿sí? Pero es en función de la tasa. Por eso yo siempre he dicho, pongan atención a las tasas de interés. Las tasas de interés te mueve todo, te mueve el sistema económico real, te mueve tus inversiones, ahorro, te mueve tus préstamos, los encarece, los abarata, es todo está en función de la tasa, por eso hay que poner mucha atención. Y yo te aseguro ahorita, bueno, es que el Banco de México no tiene un un una proyección internacional como tiene Fed.
+
+[Speaker 1 - 01:24:48]
+Te iba a decir de de cripto, pero si hubiese sido Fed el que hoy subió la tasa más agresivamente, el cripto se hubiera desplomado 20 por 100. Te lo aseguro, porque otra vez el incentivo sería ahorra, no gastes o inviertes, porque la fe te está pagando más. En México, obviamente, el mercado mucho menor no va a ser eso, pero lo que sí estás viendo ahorita es la apreciación del peso. El peso se está apreciando fuertemente, justo porque fue sorpresivo lo que hizo Banco de México ahorita.
+
+[Speaker 10 - 01:25:20]
+No sé si Craw o Cactus por ahí levantaron la mano. ¿Quieren responder esa pregunta? Tanto, debemos invitarlo también. Entonces yo te lo iba a probar. Yo iba a decir lo que tú dijiste, México. Lo que yo entendía que, pues sí, o sea, están muy relacionados el mercado cripto con el mercado stocks. Este, como decías tú, Mexico, o sea, realmente los que tienen los que mueren los mercados son el smart money, las las instituciones. Y, pues, ellos ven a cripto como un instrumento de riesgo. Entonces, cuando el mercado les dice que que, o sea, que va, o sea, que vienen tiempos tiempos inciertos, pues obviamente todos van a cash, ¿no? A dinero más seguro, o en en bonos de gobierno. Entonces, por eso sale mucho dinero de crédito, por eso es broma. Pero sí era algo que seas tú México. Yo entendía que que los primeros mercados son los los de smart money, el dinero, pues, institucional y, pues, ellos obviamente siguen muy de cerca los movimientos del PET.
+
+[Speaker 5 - 01:26:11]
+Yo opino que hay diferentes perfiles de usuarios. Por ejemplo, yo cuando entré, la primera o la primera razón por la que entré fue para poder jugar un jueguito que donde se apuesta con criptomonedas, y tenía jueguitos que me interesaban tipo casino. Después con interés especulativo de de acumular ciertas monedas, bitcoin y NFTs, después conseguí un empleo y recibía mi pago, mi salario por medio de criptomonedas. Así que el perfil de usuario tiene mucho que ver, no todos van directamente a la especulación porque subió la tasa interés. Hay 1 que se les facilita también recibir el pago desde otro país o simplemente quieren guardar Tether, pueden guardarlo en ethereum. El el el usuario cada 1 tiene un perfil diferente.
+
+[Speaker 0 - 01:27:03]
+De acuerdo, de acuerdo. Por ahí Calles, ¿tienes otra pregunta para Luz? Si mal recuerdo si puedes repetirla por favor, ya me ya ya se me olvidó. Sí, sí, sí. Aunque
+
+[Speaker 9 - 01:27:10]
+aunque sigo sigo con con este tema de de del incremento de tasa, ¿no? Porque, de pronto, podemos podemos hacer suposiciones que sí, la lógica intuitiva nos lleva a pensar pensar cosas, pero después ante los números no es tan así. ¿Y a qué me refiero? Un estudio de Bancomer del 2019, una cosa así, decía que el 80 por 100 de los ¿Por qué no traigo un estudio más reciente? Porque no lo hay, no lo encuentro.
+
+[Speaker 2 - 01:27:40]
+Decía que el 80 por 100 de los Bitcoins estaba en manos del 10 por 100 de las de los de los de los tenedores.
+
+[Speaker 9 - 01:27:43]
+Por 100 de las de los de los de los tenedores. Entonces, de pronto, acá mi pregunta es, el el el comportamiento de las tasas, si bien es cierto, tiene mucha influencia en en los grandes fondos como lo dices Meximalist, y y yo yo yo concuerdo contigo, no sé si el usuario de a pie responda de esta forma ante el movimiento de tasas o ante el pánico del comportamiento del activo, porque, por un lado, vemos un poquito de conocimiento fundamental, y no sé si si si el usuario común tenga ese conocimiento o tenga una reacción al comportamiento posterior de de los que saben, ¿no? De los grandes fondos que que acumulan capital y deciden deciden hacer este este tipo de movimientos. Eso, por un lado, digo, es mi opinión, puede puede por ahí estar equivocada o no, pero es lo que yo creo. Y la pregunta para Lu era con relación al caso que tiene la SEC contra Reepo, ¿no? De de de de, en resumen, para resumir mucho el caso para para reducirlo mucho, de si van a se va a considerar como un security o como ocurre en sí, ¿no?
+
+[Speaker 9 - 01:28:52]
+Como ¿qué es lo que va a pasar? ¿Qué va a pasar ahí? Porque en el caso de que se considere como como security va a tener que estar atado a las leyes de la FED, a las leyes de la SEC y va a tener que tener este tipo de comportamiento que tenga y que reporte a estas instituciones norteamericanas,
+
+[Speaker 1 - 01:29:26]
+Adelante Lu, tú primero.
+
+[Speaker 4 - 01:29:28]
+Gracias. ¿Puedo puedo meterme a acusar, puedo meterle a acusar antes de? Sí, sí, de hecho les iba a decir, bueno, haciendo solo una aclaración, calles, ahora ahora lo hacemos la precisión, pero es security o utility. Es lo que van a decretar. Pero adelante Tato y después continuamos con las aclaraciones.
+
+[Speaker 11 - 01:29:45]
+Bueno, creo que esa respuesta ahorita el 1 la va a poder responder porque no creo que sea la jueza. Y creo que lo que estás tratando de generar es pura polémica porque le trates de sacar la vuelta a todas las preguntas, calle, cosa que siempre has hecho. Entonces, obviamente, o sea, no trates de confundir a las personas, se te ha respondido de una manera muy clara, y tú siempre tratas de de desviar la opinión pública. Ahora, lo que te dice Jesús es obvio, tú lo sabes, tú mismo te respondiste y te cuatrapiaste, y lo volviste a poner. Esas tasas van a afectar todo el mercado. ¿Por qué? Porque cuando tú te hablas de criptos, hablas de que la gran mayoría de la gente llega con especulación. Lo que dijo Krook King de muchas personas como yo, que estoy en su plan chain, tenemos otros intereses y a mí no me molestaría que ITrum se fuera abajo de 550, abajo de 550 dólares es cuando ya yo tengo mis límites, pero ese es el nivel de tolerancia de muchas personas. Ahora, el usuario común, el usuario común tienes toda la razón que hayas. Se van a dejar llevar por toda esta información, pero el usuario que se pone las pilas, que sabe esas tasas, sabe exactamente cuánto dinero va a llegar, la impresión, los tiempos, y son movimientos, son momentums de mercado que tú ves viendo que obviamente ahorita en este momento todavía, que no tenemos todo el uso de esta tecnología para todo el comercio, sí dependen de todo lo que pasa en Estados Unidos y en Europa, porque es una economía global.
+
+[Speaker 11 - 01:30:55]
+Y al momento de que la especulación te genera todo ese fut y ese fomo, pues pues obviamente que las personas van a empezar a vender sus posiciones, los bancos y estas personas van a empezar a comprar posiciones más grandes. Y es en donde otra vez, pues, los ricos se apoderan de esos altos porcentajes, y en realidad no es una descentralización, es una transferencia de poder a un grupo muy limitado de personas.
+
+[Speaker 1 - 01:31:29]
+Lo lo único que diría es si si si tienen dudas de si el bitcoin actúa o la gente actúa, utiliza el bitcoin como como acciones, grafíquenlo, grafiquen los rendimientos del bitcoin y grafiquen el ASDAC, y se van a se van a dar cuenta que es casi una es una correlación casi una. Entonces, con eso yo te compraría, digo, ¿por qué lo hacen? No lo sé, yo creo que la gente a fin de cuentas somos racionales, y si el costo de oportunidad es más alto, pues no lo haces. Si el costo de oportunidad es más bajo, sí lo haces. Seguimos siendo ser racionales y si nos compensan con bajo riesgo, pues te vas a mudar a un activo financiero que te dé bajo, que te dé un retorno estable con mucho menos riesgo que antes. Que no todo el mundo lo hace, ¿no? Y hay seres irracionales, sí, pero quiero pensar que la mayoría funcionamos con racionalidad. Sería mi comentario. No, hay un con racionalidad. Sería mi comentario.
+
+[Speaker 0 - 01:32:17]
+No, ahí yo no estoy de acuerdo. Yo creo que somos unos changos con emociones que nos gana a veces el FOMO y el FOD y vendemos. Y por eso los grandes altos y los grandes bajos de los monedas son, o sea, pensaríamos que pudiéramos llegar a ser racionales en esas decisiones. Pero somos unos changuitos que nos lleva, nos dejan ganar las emociones, yo creo. Si no no hubieran esos movimientos tan enormes en los mercados, y la capitulación que vemos y la tristeza, ¿no? Del del último que va a vender y luego empieza a subir. ¿Por qué? Porque pues la emoción le ganó, ¿no? Calles, a ver, Tato no sabía. Yo no conocía de calles ni de su historia. Cuéntanos Calles. ¿Cómo le contestes a Tato?
+
+[Speaker 9 - 01:32:57]
+No, no sé, no sé, no sé, yo yo nada más saludo a todos. Con relación a a lo que dice Mexi y lo que dices Jesús, yo estoy en un punto intermedio entre Mexi y Jesús, ¿no? Si bien es cierto, hay un cierto racional una una cierta razón para para tomar decisiones, la realidad es que las las opciones que tenemos están acotadas, ¿no? Y esto que estoy diciendo no es no es nuevo ni nada. Hay que un poquito podrían checar un poquito de finanzas conductuales. Ahí un poquito a Richard Taller y demás, para hablar de de esta racionalidad acotada, ¿no? Si bien es cierto, tomo decisiones, pero tomo decisiones dentro de la baraja que tengo disponible. Y si en esa baraja la la la ¿cómo llamarlo? La pertenencia, lo que es más fuerte, lo que la corriente me dicta, toma más peso en mí, voy a dejarme llevar por esa corriente. No no no no creo que vaya mucho por por por tomar decisiones simple y llanamente emocionales, porque hoy amanecí feliz, hoy le voy a meter más lana, y porque hoy soñé feo, voy a sacar la lana, sino que tenemos una racionalidad acotada, ¿no?
+
+[Speaker 9 - 01:34:07]
+Con base en los pocos o muchos datos financieros que tengamos, con base en en en los influencers que sigamos, con base en el comportamiento incluso de la gráfica para los que son amantes del técnico, tomaré decisiones que aseguraré también con con con sesgos que yo vaya teniendo, sesgos de supervivencia, sesgos de de de búsqueda, sesgos de confirmación, para poder sentirme más seguro con la decisión que he tomado. Entonces, yo estoy en un punto intermedio entre lo que comentas, Mexi, y también lo que comenta
+
+[Speaker 1 - 01:34:44]
+Jesús. Mira, yo yo yo te contestaría, tienes razón. El el tema financiero es complicado, no siempre se explica de manera racional, pero en términos generales, te lo te lo pongo muy sencillo. Se aumentan las tasas de interés y como se miden los activos financieros, es descontando los flujos futuros a valor presente. Y si los tienes que descontar a una mayor tasa del denominador, pues claramente el valor de ese activo es menor que antes, punto. Y eso es lo que va a explicar que que que sea más caro, o sea, que que el costo de de de de entrarle a ese activo financiero, pues es mayor que antes. Entonces, ¿qué haces si es mayor que antes? Si tienes una opción de un bono renta fija de una mayor tasa que antes, ¿no? Sin riesgo, entre comillas, porque es soberano, digamos, el T-Bill en Estados Unidos o el el CET en México, pues no todos, pero una gran parte de los financieros o la gente se va a ir al otro lado. Otro punto importante es entender que en México la bancarización es solamente el 40 y punto importante es entender que en México la bancarización es solamente el 40 por 100 de la población. O sea, no todo el mundo tiene un 401 case, que son los fondos de pensión, donde sí mueven los mercados.
+
+[Speaker 1 - 01:35:49]
+En Estados Unidos sí. Estados Unidos claramente los fondos de pensiones, como bien lo comentas, mueven los mercados. En México no tanto. La transmisión, entonces, de política monetaria se ve acotada en México comparado con Estados Unidos. Entonces, sí hay que hacer la diferenciación entre un país bancarizado y otro que no. En Estados Unidos, el el impacto es casi inmediato. Las tasas inmediatamente impactan a todo, porque mucha mucha gente tiene deudas y deuda variable. Entonces, inmediatamente impacta en el costo de su financiamiento de casa, de su auto, de del costo de de deudas que puedan tener, consumo, etcétera. Pero a fin de cuentas, repito, volvamos a los fundamentales, grafiquen otra vez el bitcoin con cualquier bolsa de valores que se considera, entre comillas, riesgosa, y van a haber una correlación. Grafiquen el bitcoin contra los bonos de gobierno o contra monedas fiat y van a ver que no están correlacionadas. ¿Qué quiere decir eso? Claramente, técnicamente, que el bitcoin en estos momentos, no quiero no quiero decir que en un futuro, no lo sé, en estos momentos se comporta más con un activo, un security que como una moneda de resguardo, y si no me creen, grafiquen ustedes, se van a dar cuenta de lo que estoy diciendo.
+
+[Speaker 1 - 01:36:56]
+Pero qué irracionalidad terminarían diciendo esto. Yo te tengo una amiga que estudió el doctorado conmigo en Inglaterra de Behavioral Finance, y ella investigó varios Inglaterra, de Behavioral Finance, y ella investigó varios cosas interesantes del ser humano. Por ejemplo, eso fue en Inglaterra. Cada vez que ganaba Inglaterra un partido de la Copa del Mundo, el Futzie one hundred, que es el el la bolsa de de Inglaterra, subía. ¿Por qué? No se explica. No sé. Hay cuestiones que no podemos explicar. Cada vez que había luna llena, la bolsa caería. ¿Por qué? No sé. Son cuestiones que que habría que meterle más más más detalle, pero son ciertas. ¿Por qué pasa? No lo sé. Habría que que meter el comportamiento de de de otras variables que que para mí son son interesantes. Sería interesante meter el campo de sociología, de por qué pasan algunas cosas que no podemos entender, ¿no?
+
+[Speaker 0 - 01:37:48]
+¿Alfonso?
+
+[Speaker 12 - 01:37:51]
+Hola chicos, está superbuena la conversa. Yo quería aportar un poquito de que también hay que prestar la atención del los stablecoins. Eso también impacta mucho el el precio de la moneda de bitcoin, nadie sabe cómo se mueve y si realmente está respaldado o no, dónde están registrados. Hay unos que están registrados en Estados Unidos, en Nueva York. Creo que ahí hay un caso grandísimo que pudiese cambiar el el la manera que vemos a a las cripto como respaldo de valor, si algunas de las stablecoins cae de las más grandes. Creo que eso es 1 de los focos ahora de Estados Unidos de regular las stablecoins, ya que vienen en proceso sub CBD cs. Entonces, no se sabe si la auditoría que se le han hecho realmente tengan el respaldo que se dice. Si te pones a ver con los stablecoin hacen mucho trading y copian los trading del SP 500 y del Nasdaq. Por eso es que tú ves la la relación casi perfecta cuando suben o bajan las gráficas, también sube la gráfica de bitcoin y a su vez arrastra todo el mercado cripto.
+
+[Speaker 12 - 01:38:52]
+Entonces, gráfica de bitcoin y a su vez arrastra todo el mercado cripto. Entonces, yo creo que es estudiar más la data y y la información que hay, porque hay mucha información, pero hay información que nosotros no manejamos a profundidad y no sabemos, o sea, si obviamente se estima que el mercado lógico va a caer, ya se puede estimar que el cripto va a caer muy pocas veces, sucede lo contrario.
+
+[Speaker 0 - 01:39:19]
+Y
+
+[Speaker 12 - 01:39:27]
+comportamiento humano, sino el sentimiento de las ballenas también. Si ellos sienten que quieren subir el bitcoin porque hay noticias positivas y hay especulación en el en el mercado, ellos lo van a hacer. Y obviamente hay que entender más el comportamiento de las ballenas, que en este caso serían los grandes fondos de inversión versus las ballenas de bitcoin. Entonces lo que hay que estudiar es esas billeteras que hacen grandes movimientos para poder saber realmente hacia dónde va el, vamos a decir, los índices o las gráficas. Y chequear muchísimo cómo se mueven los stablecoins, si la gente los está acumulando, que realmente es acumular cash pero digital en almacenados al Blockchain.
+
+[Speaker 0 - 01:40:10]
+Gracias Alfonso, ¿Lu?
+
+[Speaker 4 - 01:40:13]
+Gracias, Mexi. Es que justo para contestarle a a Calles, y creo que va relacionado con lo que estaba diciendo Alfonso sobre su su pregunta de Ripple Labs. Para los que no sepan, y muy muy rápido, o sea, Ripple Labs se fundó por ahí del 2012 como OpenCoin, perdón, a lo mejor les les suena, Y después cambió su nombre y lanzó este token XRP. A lo mejor también les suena, ¿no? Por aquellos años, la verdad es que no había tantas criptomonedas y era una una solución idónea para el tema de remesas transfronterizas. Entonces, ¿qué ocurrió? Justo empezaron a crecer tanto, o sea, el valor del token que lanzaron empezó a crecer, crecer, crecer. Y de pronto, pues, era un token que adquirió muchísimo valor bursátil. El año pasado, que hace la SEC, precisamente con este temor de lo que había pasado con FTX, decide emprender una demanda donde justo le acusaba de, bueno, estar comercializando esta token como un valor, y de ser así, pues todos los valores tienen que estar inscritos con base en las leyes de de la SEC.
+
+[Speaker 4 - 01:41:28]
+¿No? De de Estados Unidos. Y eso fue, bueno, en resumen, eso es lo que está ocurriendo. Se supone que en este análisis de caso, estos alrededor del primer semestre de este 20 23, la SEC, la Comisión de Bolsa y Valores, va a determinar si finalmente Ripple estaba haciendo esta, va a determinar si, finalmente, Ripple estaba haciendo esta puesta a disposición de valores. Y eso, como decía Calles, y aquí contesto tu pregunta, precisamente va a citar otro precedente para saber si tenemos que regular bajo toda la normativa de la Comisión de Bolsa y Valores de Estados Unidos a estos terceros. Porque recuerden algo, esa es la palabra clave. No es la tecnología, son los terceros en vaya, acusado de de algún hecho delictivo. Simplemente el el punto es que su token subió tanto que empezaron a hacer transacciones valoradas en en 1000000 de dólares y fue cuando llamó la atención precisamente de la SEC.
+
+[Speaker 4 - 01:42:36]
+Entonces, contestando a tu pregunta, Calles, ¿qué ocurrirá? La realidad es que mi punto de vista, como el caso que tocamos al inicio, todo lo que está haciendo parte de las autoridades de Estados Unidos es emitir criterios aleccionadores. Que se sepa que cuando hay criptomonedas en medio, hay regulación, hay normas que se equiparan a a lo que se ve en en hay normas que se equiparan a a lo que se ve en en el mercado fía. Por lo tanto, es muy seguro que el caso de Ripple sea una condena, y entonces van a tener que, vaya, regularse o estar al tanto de todo esta esta bolsa de leyes que giran alrededor de de las empresas que que cotizan incluso ya con con valores. Si vamos a caer ahí, yo creo que sí, y que este panorama ya es muy distinto cuando un token es más un utility, que eso, bueno, es otra cosa.
+
+[Speaker 4 - 01:43:36]
+Pero creo que sí, va a volver a ser una una sentencia en contra, en esta ocasión, de Ripple, y el gobierno, pues, va a imponer precisamente la aplicación de estas normas a este tercero que al final, bueno, se inmiscuyó y no lo hizo tan más, desde mi punto de vista. Adelante, Alfonso, por favor.
+
+[Speaker 12 - 01:44:01]
+No, Eloy. Nada más quería acotar, no sé si has visto la demanda de la de la SEC. No, Loi, nada más quería acotar, no sé si has visto la demanda de la SEC contra Library Credit o Library TV, es una plataforma de de video descentralizada que tiene su propio token. También tienen una tenían una demanda de la SEC. No sé si has visto ese caso que está bien interesante, porque tiene la Library Credit ganó una demanda y la otra todavía la están peleando. Pero es bien interesante porque no sé si si la escuchaste.
+
+[Speaker 4 - 01:44:30]
+No, de hecho pásame por Deme el el la cita o la referencia y me encantaría leerla. Muchísimas gracias, Alfonso. Listo Calles, esperamos haber contestado tus preguntas.
+
+[Speaker 9 - 01:44:45]
+No, muchas gracias, muchas gracias, muchas gracias. Ya nada más para para Jesús, una última una última pregunta. Como usuario de criptoactivo que que quiere hacer un poquito de análisis, Jesús, ¿qué recomendarías más con esto con esto de las correlaciones? Fijarme en el Nasdaq, porque escuché que comentabas que el criptoactivo, en en particular dijiste que bitcoin estaba muy tenía una relación, una correlación con el Nasdaq. Fijarme en cómo se comporta el Nasdaq y de ahí tomar ciertas decisiones, o la correlación es con las tasas, Jesús. Es posible que tanto el Nasdaq como los criptoactivos suban en función de las tasas, y la correlación sea con el comportamiento de tasas, de las tasas y la correlación sea con el comportamiento de tasas y no entre estos 2 índices. Por eso por ese ese ese lugar va mi pregunta, Jesús.
+
+[Speaker 1 - 01:45:41]
+No, muy muy interesante. Mira, hay que hay que distinguir varias cosas. Hay hay gente que se dedica, yo soy economista en realidad, no no soy tan tan metido en el tema de evaluación de activos. Y yo te hablo mi experiencia macro, que que si bajan tasas en términos generales, ¿qué pasa? ¿No? Pues suben los mercados. Ahora, de eso, a que suba Apple o suba Exxon, pues tendrías que meterte también las entrañas de cada empresa, ¿no? Si me preguntas a mí de la poca conocimiento que yo tengo tan específico de empresas, te diría, yo creo que las tecnológicas van a tener mucho más auge futuro que las no tecnológicas. Y las tecnológicas están en el Nasdaq, y no están en el Dow Jones, por ejemplo. Entonces, habría que discernir ahí cuáles son las mejores opciones de crecimiento futuro que te va a dar mayores rendimientos, ¿no? Pero en términos generales, pues la liquidez es la liquidez. Si hay dinero, la gente gasta, si no hay dinero, la gente ahorra, punto. Y y si ahorra menos, pues le va a pegar a todos los los los proyectos que necesitan dinero, tanto capital privado, que puede ser el el el friends and family de un primo tuyo que te diga, oye, quiero hacer una una una taquería hasta una acción, hasta las cripto.
+
+[Speaker 1 - 01:46:50]
+Si no hay dinero, la gente le va a gastar menos, y le va a pegar a todos. ¿De qué magnitud? Pues va va a depender como también cómo te diferencias, ¿no? O sea, obviamente en pandemia, este, activos como Pfizer, pues les fue muy bien, obviamente está relacionado con un mercado que va a seguir creciendo. Y activos que que, por ejemplo, de petróleo, en 30 años yo te aseguro que que van a caer si no migran a un nuevo modelo de negocios, de energías renovables, por ejemplo. Entonces, todo está en función también de un poco de lógica, pero en términos generales sí funciona con la liquidez y la liquidez está en función de las tasas. Pero específicamente tendrías que meterte a las entrañas de de cada criptoactivo de cada acción, que no es no es el caso mío. Yo te puedo hablar a nivel macro, ¿no?
+
+[Speaker 9 - 01:47:37]
+No, pues muchas gracias, Jesús Silú. Les agradezco mucho también a Mexi por darme darme darme estas estas respuestas. Y y qué bueno, qué bueno que que permitan que permitan que suba yo, que nada más vengo a romper según el espacio. Y un besito a Tato ahí, en donde se lo quiera poner comodín.
+
+[Speaker 11 - 01:47:55]
+El 2 cabrón, o sea. Mira, lo que tú hiciste fue encapsular la opinión de todos para poder hacerlo para ganar más tracción contigo, güey. Eres un perfecto en hacer esas cuestiones en las críticas. Y un abrazo Kayes, o sea, literal. No te mando un beso. Un tatito, besito.
+
+[Speaker 9 - 01:48:10]
+Ahí luego te sigo de vuelta.
+
+[Speaker 11 - 01:48:12]
+No cabrón. Este, gracias. No me interesa. Oigan, yo les paso rápido Es que mira, Betsy. Betsy, justamente por por personas por por personas como este cabrón es como está la Web3. Cuando tratas de avanzar, mira, perdimos literal 20, 25 minutos, dándole vueltas a un tópico, en donde este muchacho nada más le dio vueltas y te lo vino a sintetizar. De hecho, si tú te fijaste, él dice, ernó toda la información, y en su put dijo, estoy de acuerdo con Mexi, estoy de acuerdo con Jesús, con Lu, con esta cuestión, para también generar el tema de la opinión pública. Así es como yo lo transmito. Son como tú dices, Tato.
+
+[Speaker 9 - 01:48:46]
+Siempre tiene que haber debate.
+
+[Speaker 11 - 01:48:48]
+Eso enriquece las opiniones. Lo que tiene que Pero mira, Calle, una cosa es debate y la otra cosa es llegar a tratar de accesar la conversación. Mexi, Lu, Jesús, por favor.
+
+[Speaker 1 - 01:49:14]
+De de finanzas y cuestiones técnicas, este, estamos hablando tasas de interés. ¿En qué momento esto? Ni siquiera estamos hablando de política ni de fútbol. Esto Tranquilo. Esto ya se nos descontroló. Se nos controló, ya estamos hablando de tasas. Por dios. Tranquilícese.
+
+[Speaker 4 - 01:49:33]
+Acá todo todos son bienvenidos, ya saben, siempre. Y y sobre todo que armamos una charla efectiva, enriquecedora, no se enojen, todos son bienvenidos a los espacios, incluyo a los de toda la comunidad, para armar una buena charla. Así que creo que salvo que Mexi y Jesús tengan algún otro tema, familia, creo que vamos a ir cerrando. Yo me anticipo a este a este cierre. Les doy muchísimas gracias a todos quienes aceptaron la invitación a nuestro space. Hablamos de temas muy buenos. Muchas gracias a los que se subieron a charlar, a comentar. Gracias, Tato, Alfonso, Calles, Jesús, Mexi, a todos los que siempre nos nos acompañan. Yo les agradezco muchísimo el privilegio de su tiempo. Y aquí estamos, martes y jueves. Yo los jueves con el ADN legal, pero por supuesto, Jesús y Mexi con temas súper interesantes e invitados, no se les olvide. Muchas gracias y me encantó haberlos, space. Acá sigo.
+
+[Speaker 1 - 01:50:33]
+Gracias, Lugo. Yo también me despido. Gracias a todos. Me despido diciendo noticias sorpresiva el día de hoy, noticia positiva. Yo sé que normalmente les doy malas noticias, pero hoy fue un, creo que una buena respuesta, normalmente les doy malas noticias, pero hoy fue un, creo que una buena respuesta del Banco Central en México. Esperen que el peso se aprecie. De hecho, ya está rebotando el peso, se está apreciando fuertemente, y y veremos cómo reacciona hacia adelante Banco de México. Pero creo que fue una buena noticia. Y como siempre, pues compartiéndole nuestros puntos de vista martes y jueves aquí con Mex y con Lu. Gracias a todos.
+
+[Speaker 0 - 01:51:03]
+Oigan, yo yo les paso una actualización. Según yo, ya lo logré. Por ahí piné, a Según yo ya lo logré. Por ahí piné arriba la inscripción. Es la 40014. Es la inscripción 40014. Recordemos que tiene un consecutivo. Empezaron obviamente pues en el 1. Ya ahorita se han minteado 40000 artefactos digitales. Y qué interesante el poder llegar a subir información en la red de de bitcoin de Blockchain pagando 15 dólares nada más. ¿Qué número
+
+[Speaker 5 - 01:51:37]
+dice? ¿Qué onda, qué onda? ¿Qué número dijiste para verlo?
+
+[Speaker 0 - 01:51:41]
+40014. Acá está Pineado arriba, debe ser el último o el antepenúltimo. Entonces, si escriben a Ordinals.com, no, mejor vayan al link. Está ahí. Ahorita lo mando en mi perfil también. Pero
+
+[Speaker 2 - 01:51:54]
+bueno. Pero
+
+[Speaker 0 - 01:51:56]
+pero sí, el mito está listo. No sé, yo yo yo. A ver quién quiere levantar la mano. Por eso veo calles, digo, bailan. Subió subió también Kriptomata. Último comentario ya cierre ya. Tenemos 10 minutitos. Yo tengo 10 minutitos todavía. Lube y Jesús y y Jorge les gusta controlar. A mí me gusta darle un poquito más de libertad a la gente. Veamos a ver en dónde acabamos unos 10 minutitos. Kriptomata, échale.
+
+[Speaker 13 - 01:52:26]
+Bueno, ¿qué onda, amigos? ¿Cómo están? ¿Me escuchan ahí?
+
+[Speaker 14 - 01:52:29]
+No, no escuchamos.
+
+[Speaker 13 - 01:52:32]
+Vale, este, la, bueno, mi pregunta va para rápidamente para Lu y Jesús, porque ya se iban. Entonces, levanté la mano antes de que se fuera Lu, porque mencionó mucho el tema de los securities y los utilities, y también mencionaron el tema de que en el futuro las empresas tecnológicas van a van a tener una una mejor apreciación. ¿No? En en el tema de inversión, de de acciones, como sea. Pero a mí me gustaría saber cómo afectaría para una acción, para una empresa tecnológica tener un security o un utility con lo que pasó con XRP, ¿no? O sea, si una empresa decide lanzar su token, va a tener que pasar por todas las fases que tuvo que pasar XRP y que está pasando, porque todavía tengo entendido que todavía no termina, o no todas van a tener que pasar por ese proceso.
+
+[Speaker 4 - 01:53:31]
+Gracias, cripto. ¿Cómo estás? Muy muy, aquí seguimos. Bien, gracias, gracias. Que es Jesús y yo. Gracias. Mira, muy rápido. Lo que ocurre es que el caso justo de Ripple con el con su token, en en aquel entonces, por aquellos años, la realidad es que no habíamos tantos usuarios de de criptomonedas. Entonces, el el valor que asignaron a ese token permitió hacer transacciones de muchos 1000000. ¿Qué impacto va a tener, contestando a tu pregunta? Es muy es muy grande y por eso esta sentencia va a generar un precedente. Porque, como tú lo dijiste, si si esta sentencia es en contra de Ruppel, obviamente lo que va a ocurrir es que se van a tener que someter a todo el sistema que que está alrededor de los valores, la categoría de la normatividad que le dan a los valores, desde el punto de vista bursátil, de los valores, la categoría de la normatividad que le dan a los valores, desde el punto de vista bursátil. ¿Y eso qué incluye? Bueno, que tienes que hacer una serie de inscripciones desde que eres una compañía, someterte a procesos de view diligence muy específicos.
+
+[Speaker 4 - 01:54:34]
+Y el impacto que va a tener en las demás es que, si ese criterio se genera para ellos, los terceros que quieran hacer lo mismo o que empiecen a lanzar tokens de esta naturaleza, que tienen la calidad de securities, que es distinto a utility,
+
+[Speaker 2 - 01:54:51]
+definitivamente van a tener que que entrarle a este paraguas de norma. Ahora,
+
+[Speaker 4 - 01:54:53]
+que que entrarle a este paraguas de norma. Ahora, recordemos algo, es muy distinto este paraguas de normas que tenemos en Latinoamérica, al que existe en Estados Unidos, o incluso en Europa, que en Europa está ya está ya cada vez más cerca la implementación de Mica, que es todo este sistema regulatorio alrededor de los securities. Va a tener, por supuesto, este impacto. Entonces, cuando quieras lanzar un token que tenga la calidad de security, es decir, que tú vas a token que tenga la calidad de security, es decir, que tú vas a ofrecer un rendimiento, literalmente vas a estar ofreciendo ese rendimiento y lo vas a poder hacer abiertamente, el tercero, que lo emite, va a tener que estar regido por estas normas. Entonces, si va a impactar, claro que sí, dependiendo en en la jurisdicción o el país donde esté esa compañía que lance el token, es la jurisdicción que va a recaer sobre ello. ¿Vale? Pero es como a muy grandes rasgos un poco la respuesta que que te puedo compartir. Por eso es importante definir cuando lanzas un proyecto, pues lo primero que no tenga o se vaya entender como un security.
+
+[Speaker 4 - 01:55:58]
+Porque entonces le entras a ese paraguas. Hay proyectos que simplemente se pueden quedar en un utility. Y por ahí hay muchas muchas ventajas que espero haber contestado. Sí, pero una cosa, que ofrezca rendimientos
+
+[Speaker 13 - 01:56:12]
+en en en cuestión del aumento del precio de token, en cuestión de, no sé, recibir algo como ejemplo a a regalías o staking, ¿o cómo?
+
+[Speaker 4 - 01:56:25]
+No, no regalías, o cómo? No, no regalías, simplemente en obtener un un retorno, un retorno, un rendimiento a partir de ese token. Es decir, que hoy vale, voy a decir algo, 50 dólares, y debido a distintas circunstancias, el precio aumenta. Ese es una un supuesto. El siguiente es cuando tú ofreces un token, que por cierto valor adquirirlo, y por esa adquisición tú ofreces obtener un tasa adicional, no por regalías. Aquí es importante hacer esa aclaración. Las regalías es un concepto distinto, completamente distinto. No por obtener regalías lo catalogas como security, ahí sigue siendo utility. Lo importante es determinar cómo lo cómo lo vas a lanzar y cómo va a estar vinculado a ese proyecto. Pero definitivamente no. Regalías no entra en en security.
+
+[Speaker 13 - 01:57:19]
+Ok. Este, no, pues muchas gracias. Ahí, bueno, todavía tengo un par de dudas con el tema de, por ejemplo, ¿cómo entraría en este caso el token activo de Polkadot? Que es lo catalogan como software, y cómo entraría las DAOs con el nuevo, apenas lanzaron un documento, ¿no? Para poder, de alguna forma, regular, o más que regular lanzar un marco un marco normatorio para poder aprobar las DAOs en Estados Unidos, ¿no? Directo por el FEM. O sea, ¿cómo esos en dónde entran? ¿Polkadot y cómo entran las DAOs?
+
+[Speaker 0 - 01:57:58]
+Mira, yo creo que esa es una pregunta que podemos responder el siguiente jueves, que nos quedamos cerrando ya ya ya la idea era cerrar antes de las 2. Yo quería ver si le metían algo de de de picante aquí a la plática. Pero pero, a ver, subió Wyland. Wyland, ¿tú quieres preguntar algo? ¿Criptomatas? Me encantaría.
+
+[Speaker 14 - 01:58:16]
+Sí, pues, me subieron aquí para cerrar el espacio, bien, lo acepto, yo doy la despedida, gracias a todos por venir y participaron, que yo estuve nada más un minuto aquí en este espacio y no aprendí absolutamente nada, obviamente, por 1000 culpa, por entrar tarde. Pero bueno, espero que todos los demás la haya pasado bien, menos yo, porque llegué tarde. Disfruten, nos vemos el próximo jueves a la misma hora, y yo seguiré llegando tarde. Gracias.
+
+[Speaker 0 - 01:58:43]
+Waylen, no, excelente.
+
+[Speaker 4 - 01:58:44]
+Mexi, muy rápido, te iba a decir que querías meterle candela, pues aquí este space no es Laura en América, no necesitamos meter candela. Hablamos de temas bien interesantes y siempre con la postura y la opinión de todos los que se animan a platicar. Así que no le hagan caso a Mexi, no estamos en Laura en América. Nos da mucho gusto haberlos tenido hoy. Y ahora sí me despido, que estoy como mi abuelita que se despide y no se va. Les mando un abrazo. Gracias por estar.
+
+[Speaker 0 - 01:59:11]
+Jesús, despídete. Yo ya me despido. Gracias por su tiempo. Terminando Jesús, rogueo el espacio. Adiós. ¿Ya se fue Jesús? ¿No se despidió? No me permitió roguearle el espacio. A ver, vamos con no, ya. Adiós. Voy a comer. No, no, no, no, mire, ya va. Ya va.
