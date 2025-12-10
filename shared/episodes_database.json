@@ -6736,7 +6736,7 @@
       "guests": [],
       "topics": [],
       "status": "archived",
-      "transcript_available": false,
+      "transcript_available": true,
       "content_generated": false,
       "flyer_urls": [],
       "duration": "01:16:00",
@@ -7088,7 +7088,7 @@
       "description": "Founders y proyectos que vinieron a Mty",
       "topics": [],
       "status": "archived",
-      "transcript_available": false,
+      "transcript_available": true,
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 470,
@@ -7138,7 +7138,7 @@
       "guests": [],
       "topics": [],
       "status": "archived",
-      "transcript_available": false,
+      "transcript_available": true,
       "content_generated": false,
       "flyer_urls": [],
       "duration": "01:51:00",
@@ -7329,7 +7329,7 @@
       "description": "La Belga y el Ingeniero - Apoyo Wiki / Marcus Dantus NFT",
       "topics": [],
       "status": "archived",
-      "transcript_available": false,
+      "transcript_available": true,
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 177,
@@ -8849,7 +8849,7 @@
       "description": "¿cómo entrevistar a los miembros de equipos de colecciones nuevas?",
       "topics": [],
       "status": "archived",
-      "transcript_available": false,
+      "transcript_available": true,
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 47,
@@ -8953,7 +8953,7 @@
       "description": "El economista, el pescador y el ingeniero - Rugs IRL y Rugs en Web3",
       "topics": [],
       "status": "archived",
-      "transcript_available": false,
+      "transcript_available": true,
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 131,
@@ -10461,6 +10461,6 @@
       "hosted": 257,
       "co-hosted": 141
     },
-    "last_updated": "2025-12-09T21:16:11.358368"
+    "last_updated": "2025-12-09T21:34:04.096340"
   }
 }
