@@ -85,8 +85,8 @@ def get_message_body(service, msg_id):
 def check_for_new_emails(service, sender_filter="twitterspacegpt"):
     """Busca emails nuevos de TwitterSpaceGPT"""
     try:
-        # Buscar mensajes no leídos del remitente
-        query = f'from:{sender_filter} is:unread'
+        # Buscar TODOS los mensajes del remitente (incluyendo leídos)
+        query = f'from:{sender_filter}'
         
         results = service.users().messages().list(
             userId='me',

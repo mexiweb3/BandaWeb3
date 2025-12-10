@@ -1,0 +1,2660 @@
+{
+  "metadata": {
+    "transaction_key": "deprecated",
+    "request_id": "276efac8-b931-45d2-8c60-92b652a05f14",
+    "sha256": "2f453e4f8190cd7093c540009f45cb685fa995ed4bc1c4f2e1c57e4a87646ef5",
+    "created": "2025-12-10T01:58:24.225Z",
+    "duration": 77.74037,
+    "channels": 1,
+    "models": [
+      "4f82af92-7749-4465-92ad-3db204bc8e03"
+    ],
+    "model_info": {
+      "4f82af92-7749-4465-92ad-3db204bc8e03": {
+        "name": "2-general-nova",
+        "version": "2023-12-14.34983",
+        "arch": "nova-2"
+      }
+    }
+  },
+  "results": {
+    "channels": [
+      {
+        "alternatives": [
+          {
+            "transcript": "Histórico, lo que estamos viviendo. Estoy viendo aquí el Voy a finales el día de Michael Saylor. Está prometiendo una fiesta. 100 K Partyly. Ahí lo voy a pedir aquí arriba. Voy a empezar a invitar a la banda a ver quién quiere venir a conectar para platicar el día de hoy de el lo que estamos experimentando con esta locura. De los 100000 dólares. Bienvenidos todos a participar. Alan González, bienvenido. Vamos a seguirte. Si gustas pasar ya se nos fue. Pero bueno, 100000 dólares, estamos tocando los 100000 dólares el día de hoy. Es algo que se había dicho, que se había comentado que iba a suceder en algún momento. No sabía cuándo, pero ya lo estamos viendo el día de hoy, 100000",
+            "confidence": 0.9931189,
+            "words": [
+              {
+                "word": "histórico",
+                "start": 10.48,
+                "end": 10.96,
+                "confidence": 0.3959903,
+                "speaker": 0,
+                "speaker_confidence": 0.38636464,
+                "punctuated_word": "Histórico,"
+              },
+              {
+                "word": "lo",
+                "start": 10.96,
+                "end": 11.2,
+                "confidence": 0.92041814,
+                "speaker": 0,
+                "speaker_confidence": 0.38636464,
+                "punctuated_word": "lo"
+              },
+              {
+                "word": "que",
+                "start": 11.2,
+                "end": 11.28,
+                "confidence": 0.9984888,
+                "speaker": 0,
+                "speaker_confidence": 0.38636464,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "estamos",
+                "start": 11.28,
+                "end": 11.5199995,
+                "confidence": 0.99957997,
+                "speaker": 0,
+                "speaker_confidence": 0.38636464,
+                "punctuated_word": "estamos"
+              },
+              {
+                "word": "viviendo",
+                "start": 11.5199995,
+                "end": 12.0199995,
+                "confidence": 0.9118844,
+                "speaker": 0,
+                "speaker_confidence": 0.38636464,
+                "punctuated_word": "viviendo."
+              },
+              {
+                "word": "estoy",
+                "start": 13.085,
+                "end": 13.405,
+                "confidence": 0.9896013,
+                "speaker": 0,
+                "speaker_confidence": 0.2643429,
+                "punctuated_word": "Estoy"
+              },
+              {
+                "word": "viendo",
+                "start": 13.405,
+                "end": 13.6449995,
+                "confidence": 0.9961081,
+                "speaker": 0,
+                "speaker_confidence": 0.2643429,
+                "punctuated_word": "viendo"
+              },
+              {
+                "word": "aquí",
+                "start": 13.6449995,
+                "end": 13.964999,
+                "confidence": 0.9899323,
+                "speaker": 0,
+                "speaker_confidence": 0.2643429,
+                "punctuated_word": "aquí"
+              },
+              {
+                "word": "el",
+                "start": 13.964999,
+                "end": 14.285,
+                "confidence": 0.6630643,
+                "speaker": 0,
+                "speaker_confidence": 0.2643429,
+                "punctuated_word": "el"
+              },
+              {
+                "word": "voy",
+                "start": 14.365,
+                "end": 14.525,
+                "confidence": 0.31366146,
+                "speaker": 0,
+                "speaker_confidence": 0.2643429,
+                "punctuated_word": "Voy"
+              },
+              {
+                "word": "a",
+                "start": 14.525,
+                "end": 14.605,
+                "confidence": 0.80810606,
+                "speaker": 0,
+                "speaker_confidence": 0.2643429,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "finales",
+                "start": 14.605,
+                "end": 14.924999,
+                "confidence": 0.8988018,
+                "speaker": 0,
+                "speaker_confidence": 0.2643429,
+                "punctuated_word": "finales"
+              },
+              {
+                "word": "el",
+                "start": 14.924999,
+                "end": 15.084999,
+                "confidence": 0.66744035,
+                "speaker": 0,
+                "speaker_confidence": 0.2643429,
+                "punctuated_word": "el"
+              },
+              {
+                "word": "día",
+                "start": 15.084999,
+                "end": 15.325,
+                "confidence": 0.14458346,
+                "speaker": 0,
+                "speaker_confidence": 0.2643429,
+                "punctuated_word": "día"
+              },
+              {
+                "word": "de",
+                "start": 15.325,
+                "end": 15.6449995,
+                "confidence": 0.96756405,
+                "speaker": 0,
+                "speaker_confidence": 0.2643429,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "michael",
+                "start": 15.6449995,
+                "end": 16.145,
+                "confidence": 0.7519762,
+                "speaker": 0,
+                "speaker_confidence": 0.2643429,
+                "punctuated_word": "Michael"
+              },
+              {
+                "word": "saylor",
+                "start": 17.085,
+                "end": 17.585,
+                "confidence": 0.8074629,
+                "speaker": 0,
+                "speaker_confidence": 0.19636965,
+                "punctuated_word": "Saylor."
+              },
+              {
+                "word": "está",
+                "start": 19.884998,
+                "end": 20.125,
+                "confidence": 0.82951385,
+                "speaker": 0,
+                "speaker_confidence": 0.3406281,
+                "punctuated_word": "Está"
+              },
+              {
+                "word": "prometiendo",
+                "start": 20.125,
+                "end": 20.625,
+                "confidence": 0.9982945,
+                "speaker": 0,
+                "speaker_confidence": 0.3406281,
+                "punctuated_word": "prometiendo"
+              },
+              {
+                "word": "una",
+                "start": 20.845,
+                "end": 21.005,
+                "confidence": 0.9307359,
+                "speaker": 0,
+                "speaker_confidence": 0.3406281,
+                "punctuated_word": "una"
+              },
+              {
+                "word": "fiesta",
+                "start": 21.005,
+                "end": 21.505,
+                "confidence": 0.8253058,
+                "speaker": 0,
+                "speaker_confidence": 0.3406281,
+                "punctuated_word": "fiesta."
+              },
+              {
+                "word": "100",
+                "start": 22.765,
+                "end": 23.265,
+                "confidence": 0.1434962,
+                "speaker": 0,
+                "speaker_confidence": 0.3406281,
+                "punctuated_word": "100"
+              },
+              {
+                "word": "k",
+                "start": 24.445,
+                "end": 24.525,
+                "confidence": 0.23807208,
+                "speaker": 0,
+                "speaker_confidence": 0.3406281,
+                "punctuated_word": "K"
+              },
+              {
+                "word": "partyly",
+                "start": 24.525,
+                "end": 25.025,
+                "confidence": 0.74152154,
+                "speaker": 0,
+                "speaker_confidence": 0.3406281,
+                "punctuated_word": "Partyly."
+              },
+              {
+                "word": "ahí",
+                "start": 25.244999,
+                "end": 25.404999,
+                "confidence": 0.9013503,
+                "speaker": 0,
+                "speaker_confidence": 0.24127328,
+                "punctuated_word": "Ahí"
+              },
+              {
+                "word": "lo",
+                "start": 25.404999,
+                "end": 25.564999,
+                "confidence": 0.6545329,
+                "speaker": 0,
+                "speaker_confidence": 0.24127328,
+                "punctuated_word": "lo"
+              },
+              {
+                "word": "voy",
+                "start": 25.564999,
+                "end": 25.644999,
+                "confidence": 0.9966628,
+                "speaker": 0,
+                "speaker_confidence": 0.24127328,
+                "punctuated_word": "voy"
+              },
+              {
+                "word": "a",
+                "start": 25.644999,
+                "end": 25.724998,
+                "confidence": 0.99408275,
+                "speaker": 0,
+                "speaker_confidence": 0.24127328,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "pedir",
+                "start": 25.724998,
+                "end": 25.965,
+                "confidence": 0.6035918,
+                "speaker": 0,
+                "speaker_confidence": 0.24127328,
+                "punctuated_word": "pedir"
+              },
+              {
+                "word": "aquí",
+                "start": 25.965,
+                "end": 26.204998,
+                "confidence": 0.97602135,
+                "speaker": 0,
+                "speaker_confidence": 0.24127328,
+                "punctuated_word": "aquí"
+              },
+              {
+                "word": "arriba",
+                "start": 26.204998,
+                "end": 26.704998,
+                "confidence": 0.9931189,
+                "speaker": 0,
+                "speaker_confidence": 0.24127328,
+                "punctuated_word": "arriba."
+              },
+              {
+                "word": "voy",
+                "start": 27.27,
+                "end": 27.39,
+                "confidence": 0.9988102,
+                "speaker": 0,
+                "speaker_confidence": 0.52722895,
+                "punctuated_word": "Voy"
+              },
+              {
+                "word": "a",
+                "start": 27.39,
+                "end": 27.51,
+                "confidence": 0.9884771,
+                "speaker": 0,
+                "speaker_confidence": 0.52722895,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "empezar",
+                "start": 27.51,
+                "end": 27.830002,
+                "confidence": 0.999065,
+                "speaker": 0,
+                "speaker_confidence": 0.52722895,
+                "punctuated_word": "empezar"
+              },
+              {
+                "word": "a",
+                "start": 27.830002,
+                "end": 27.910002,
+                "confidence": 0.9634716,
+                "speaker": 0,
+                "speaker_confidence": 0.52722895,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "invitar",
+                "start": 27.910002,
+                "end": 28.230001,
+                "confidence": 0.99923587,
+                "speaker": 0,
+                "speaker_confidence": 0.52722895,
+                "punctuated_word": "invitar"
+              },
+              {
+                "word": "a",
+                "start": 28.230001,
+                "end": 28.310001,
+                "confidence": 0.9966898,
+                "speaker": 0,
+                "speaker_confidence": 0.52722895,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "la",
+                "start": 28.310001,
+                "end": 28.550001,
+                "confidence": 0.9978301,
+                "speaker": 0,
+                "speaker_confidence": 0.52722895,
+                "punctuated_word": "la"
+              },
+              {
+                "word": "banda",
+                "start": 28.550001,
+                "end": 29.050001,
+                "confidence": 0.995862,
+                "speaker": 0,
+                "speaker_confidence": 0.52722895,
+                "punctuated_word": "banda"
+              },
+              {
+                "word": "a",
+                "start": 29.11,
+                "end": 29.19,
+                "confidence": 0.42948082,
+                "speaker": 0,
+                "speaker_confidence": 0.3870241,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "ver",
+                "start": 29.19,
+                "end": 29.35,
+                "confidence": 0.99936765,
+                "speaker": 0,
+                "speaker_confidence": 0.3870241,
+                "punctuated_word": "ver"
+              },
+              {
+                "word": "quién",
+                "start": 29.35,
+                "end": 29.51,
+                "confidence": 0.96967375,
+                "speaker": 0,
+                "speaker_confidence": 0.3870241,
+                "punctuated_word": "quién"
+              },
+              {
+                "word": "quiere",
+                "start": 29.51,
+                "end": 29.75,
+                "confidence": 0.9955178,
+                "speaker": 0,
+                "speaker_confidence": 0.3870241,
+                "punctuated_word": "quiere"
+              },
+              {
+                "word": "venir",
+                "start": 29.75,
+                "end": 29.990002,
+                "confidence": 0.99852544,
+                "speaker": 0,
+                "speaker_confidence": 0.3870241,
+                "punctuated_word": "venir"
+              },
+              {
+                "word": "a",
+                "start": 29.990002,
+                "end": 30.230001,
+                "confidence": 0.99648935,
+                "speaker": 0,
+                "speaker_confidence": 0.3870241,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "conectar",
+                "start": 30.230001,
+                "end": 30.730001,
+                "confidence": 0.9990909,
+                "speaker": 0,
+                "speaker_confidence": 0.3870241,
+                "punctuated_word": "conectar"
+              },
+              {
+                "word": "para",
+                "start": 31.43,
+                "end": 31.59,
+                "confidence": 0.7853743,
+                "speaker": 0,
+                "speaker_confidence": 0.204898,
+                "punctuated_word": "para"
+              },
+              {
+                "word": "platicar",
+                "start": 31.59,
+                "end": 31.91,
+                "confidence": 0.99912935,
+                "speaker": 0,
+                "speaker_confidence": 0.204898,
+                "punctuated_word": "platicar"
+              },
+              {
+                "word": "el",
+                "start": 31.91,
+                "end": 32.15,
+                "confidence": 0.9876116,
+                "speaker": 0,
+                "speaker_confidence": 0.204898,
+                "punctuated_word": "el"
+              },
+              {
+                "word": "día",
+                "start": 32.15,
+                "end": 32.31,
+                "confidence": 0.99894804,
+                "speaker": 0,
+                "speaker_confidence": 0.204898,
+                "punctuated_word": "día"
+              },
+              {
+                "word": "de",
+                "start": 32.31,
+                "end": 32.39,
+                "confidence": 0.9951964,
+                "speaker": 0,
+                "speaker_confidence": 0.204898,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "hoy",
+                "start": 32.39,
+                "end": 32.870003,
+                "confidence": 0.99934167,
+                "speaker": 0,
+                "speaker_confidence": 0.204898,
+                "punctuated_word": "hoy"
+              },
+              {
+                "word": "de",
+                "start": 32.870003,
+                "end": 33.370003,
+                "confidence": 0.96479934,
+                "speaker": 0,
+                "speaker_confidence": 0.204898,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "el",
+                "start": 34.31,
+                "end": 34.39,
+                "confidence": 0.82541853,
+                "speaker": 0,
+                "speaker_confidence": 0.52500814,
+                "punctuated_word": "el"
+              },
+              {
+                "word": "lo",
+                "start": 34.39,
+                "end": 34.63,
+                "confidence": 0.46269736,
+                "speaker": 0,
+                "speaker_confidence": 0.52500814,
+                "punctuated_word": "lo"
+              },
+              {
+                "word": "que",
+                "start": 34.63,
+                "end": 34.79,
+                "confidence": 0.99871504,
+                "speaker": 0,
+                "speaker_confidence": 0.52500814,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "estamos",
+                "start": 34.79,
+                "end": 35.29,
+                "confidence": 0.9993819,
+                "speaker": 0,
+                "speaker_confidence": 0.52500814,
+                "punctuated_word": "estamos"
+              },
+              {
+                "word": "experimentando",
+                "start": 35.75,
+                "end": 36.07,
+                "confidence": 0.999539,
+                "speaker": 0,
+                "speaker_confidence": 0.52500814,
+                "punctuated_word": "experimentando"
+              },
+              {
+                "word": "con",
+                "start": 36.07,
+                "end": 36.47,
+                "confidence": 0.9989304,
+                "speaker": 0,
+                "speaker_confidence": 0.52500814,
+                "punctuated_word": "con"
+              },
+              {
+                "word": "esta",
+                "start": 36.47,
+                "end": 36.870003,
+                "confidence": 0.99842346,
+                "speaker": 0,
+                "speaker_confidence": 0.52500814,
+                "punctuated_word": "esta"
+              },
+              {
+                "word": "locura",
+                "start": 36.870003,
+                "end": 37.370003,
+                "confidence": 0.81044567,
+                "speaker": 0,
+                "speaker_confidence": 0.52500814,
+                "punctuated_word": "locura."
+              },
+              {
+                "word": "de",
+                "start": 39.454998,
+                "end": 39.614998,
+                "confidence": 0.46589515,
+                "speaker": 0,
+                "speaker_confidence": 0.22556543,
+                "punctuated_word": "De"
+              },
+              {
+                "word": "los",
+                "start": 39.614998,
+                "end": 39.854996,
+                "confidence": 0.99591196,
+                "speaker": 0,
+                "speaker_confidence": 0.22556543,
+                "punctuated_word": "los"
+              },
+              {
+                "word": "100000",
+                "start": 39.854996,
+                "end": 40.495,
+                "confidence": 0.9983295,
+                "speaker": 0,
+                "speaker_confidence": 0.22556543,
+                "punctuated_word": "100000"
+              },
+              {
+                "word": "dólares",
+                "start": 40.495,
+                "end": 40.995,
+                "confidence": 0.9785799,
+                "speaker": 0,
+                "speaker_confidence": 0.22556543,
+                "punctuated_word": "dólares."
+              },
+              {
+                "word": "bienvenidos",
+                "start": 42.655,
+                "end": 42.734997,
+                "confidence": 0.9924765,
+                "speaker": 0,
+                "speaker_confidence": 0.3763293,
+                "punctuated_word": "Bienvenidos"
+              },
+              {
+                "word": "todos",
+                "start": 42.734997,
+                "end": 43.054996,
+                "confidence": 0.9937138,
+                "speaker": 0,
+                "speaker_confidence": 0.3763293,
+                "punctuated_word": "todos"
+              },
+              {
+                "word": "a",
+                "start": 43.054996,
+                "end": 43.375,
+                "confidence": 0.9988877,
+                "speaker": 0,
+                "speaker_confidence": 0.3763293,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "participar",
+                "start": 43.375,
+                "end": 43.695,
+                "confidence": 0.9755851,
+                "speaker": 0,
+                "speaker_confidence": 0.3763293,
+                "punctuated_word": "participar."
+              },
+              {
+                "word": "alan",
+                "start": 43.695,
+                "end": 44.195,
+                "confidence": 0.9954472,
+                "speaker": 0,
+                "speaker_confidence": 0.3763293,
+                "punctuated_word": "Alan"
+              },
+              {
+                "word": "gonzález",
+                "start": 44.975,
+                "end": 45.475,
+                "confidence": 0.9385319,
+                "speaker": 0,
+                "speaker_confidence": 0.3763293,
+                "punctuated_word": "González,"
+              },
+              {
+                "word": "bienvenido",
+                "start": 45.534996,
+                "end": 46.034996,
+                "confidence": 0.9936184,
+                "speaker": 0,
+                "speaker_confidence": 0.3763293,
+                "punctuated_word": "bienvenido."
+              },
+              {
+                "word": "vamos",
+                "start": 48.734997,
+                "end": 49.214996,
+                "confidence": 0.9916775,
+                "speaker": 0,
+                "speaker_confidence": 0.38000494,
+                "punctuated_word": "Vamos"
+              },
+              {
+                "word": "a",
+                "start": 49.214996,
+                "end": 49.714996,
+                "confidence": 0.99565226,
+                "speaker": 0,
+                "speaker_confidence": 0.38000494,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "seguirte",
+                "start": 50.975,
+                "end": 51.214996,
+                "confidence": 0.8231354,
+                "speaker": 0,
+                "speaker_confidence": 0.38000494,
+                "punctuated_word": "seguirte."
+              },
+              {
+                "word": "si",
+                "start": 51.214996,
+                "end": 51.454998,
+                "confidence": 0.99472976,
+                "speaker": 0,
+                "speaker_confidence": 0.38000494,
+                "punctuated_word": "Si"
+              },
+              {
+                "word": "gustas",
+                "start": 51.454998,
+                "end": 51.954998,
+                "confidence": 0.9994468,
+                "speaker": 0,
+                "speaker_confidence": 0.38000494,
+                "punctuated_word": "gustas"
+              },
+              {
+                "word": "pasar",
+                "start": 52.094997,
+                "end": 52.574997,
+                "confidence": 0.99341714,
+                "speaker": 0,
+                "speaker_confidence": 0.38000494,
+                "punctuated_word": "pasar"
+              },
+              {
+                "word": "ya",
+                "start": 52.734997,
+                "end": 52.894997,
+                "confidence": 0.9251294,
+                "speaker": 0,
+                "speaker_confidence": 0.38000494,
+                "punctuated_word": "ya"
+              },
+              {
+                "word": "se",
+                "start": 52.894997,
+                "end": 53.055,
+                "confidence": 0.9874321,
+                "speaker": 0,
+                "speaker_confidence": 0.38000494,
+                "punctuated_word": "se"
+              },
+              {
+                "word": "nos",
+                "start": 53.055,
+                "end": 53.214996,
+                "confidence": 0.9992848,
+                "speaker": 0,
+                "speaker_confidence": 0.38000494,
+                "punctuated_word": "nos"
+              },
+              {
+                "word": "fue",
+                "start": 53.214996,
+                "end": 53.714996,
+                "confidence": 0.9420366,
+                "speaker": 0,
+                "speaker_confidence": 0.38000494,
+                "punctuated_word": "fue."
+              },
+              {
+                "word": "pero",
+                "start": 54.530003,
+                "end": 54.61,
+                "confidence": 0.9980357,
+                "speaker": 0,
+                "speaker_confidence": 0.5202321,
+                "punctuated_word": "Pero"
+              },
+              {
+                "word": "bueno",
+                "start": 54.61,
+                "end": 55.11,
+                "confidence": 0.6885377,
+                "speaker": 0,
+                "speaker_confidence": 0.5202321,
+                "punctuated_word": "bueno,"
+              },
+              {
+                "word": "100000",
+                "start": 56.690002,
+                "end": 57.41,
+                "confidence": 0.99759316,
+                "speaker": 0,
+                "speaker_confidence": 0.4154152,
+                "punctuated_word": "100000"
+              },
+              {
+                "word": "dólares",
+                "start": 57.41,
+                "end": 57.73,
+                "confidence": 0.7849345,
+                "speaker": 0,
+                "speaker_confidence": 0.3105983,
+                "punctuated_word": "dólares,"
+              },
+              {
+                "word": "estamos",
+                "start": 57.73,
+                "end": 58.05,
+                "confidence": 0.9964108,
+                "speaker": 0,
+                "speaker_confidence": 0.3105983,
+                "punctuated_word": "estamos"
+              },
+              {
+                "word": "tocando",
+                "start": 58.05,
+                "end": 58.55,
+                "confidence": 0.67762995,
+                "speaker": 0,
+                "speaker_confidence": 0.3105983,
+                "punctuated_word": "tocando"
+              },
+              {
+                "word": "los",
+                "start": 58.690002,
+                "end": 58.850002,
+                "confidence": 0.76524,
+                "speaker": 0,
+                "speaker_confidence": 0.31283528,
+                "punctuated_word": "los"
+              },
+              {
+                "word": "100000",
+                "start": 58.850002,
+                "end": 59.25,
+                "confidence": 0.9985274,
+                "speaker": 0,
+                "speaker_confidence": 0.31283528,
+                "punctuated_word": "100000"
+              },
+              {
+                "word": "dólares",
+                "start": 59.25,
+                "end": 59.49,
+                "confidence": 0.998749,
+                "speaker": 0,
+                "speaker_confidence": 0.31283528,
+                "punctuated_word": "dólares"
+              },
+              {
+                "word": "el",
+                "start": 59.49,
+                "end": 59.65,
+                "confidence": 0.971518,
+                "speaker": 0,
+                "speaker_confidence": 0.31283528,
+                "punctuated_word": "el"
+              },
+              {
+                "word": "día",
+                "start": 59.65,
+                "end": 59.730003,
+                "confidence": 0.9996375,
+                "speaker": 0,
+                "speaker_confidence": 0.31283528,
+                "punctuated_word": "día"
+              },
+              {
+                "word": "de",
+                "start": 59.730003,
+                "end": 59.81,
+                "confidence": 0.9968779,
+                "speaker": 0,
+                "speaker_confidence": 0.31283528,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "hoy",
+                "start": 59.81,
+                "end": 60.31,
+                "confidence": 0.9202399,
+                "speaker": 0,
+                "speaker_confidence": 0.31283528,
+                "punctuated_word": "hoy."
+              },
+              {
+                "word": "es",
+                "start": 62.29,
+                "end": 62.45,
+                "confidence": 0.99018526,
+                "speaker": 0,
+                "speaker_confidence": 0.53790075,
+                "punctuated_word": "Es"
+              },
+              {
+                "word": "algo",
+                "start": 62.45,
+                "end": 62.95,
+                "confidence": 0.98479396,
+                "speaker": 0,
+                "speaker_confidence": 0.53790075,
+                "punctuated_word": "algo"
+              },
+              {
+                "word": "que",
+                "start": 63.73,
+                "end": 64.05,
+                "confidence": 0.9980862,
+                "speaker": 0,
+                "speaker_confidence": 0.53790075,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "se",
+                "start": 64.05,
+                "end": 64.37,
+                "confidence": 0.9987686,
+                "speaker": 0,
+                "speaker_confidence": 0.53790075,
+                "punctuated_word": "se"
+              },
+              {
+                "word": "había",
+                "start": 64.37,
+                "end": 64.61,
+                "confidence": 0.99967086,
+                "speaker": 0,
+                "speaker_confidence": 0.53790075,
+                "punctuated_word": "había"
+              },
+              {
+                "word": "dicho",
+                "start": 64.61,
+                "end": 65.11,
+                "confidence": 0.8904035,
+                "speaker": 0,
+                "speaker_confidence": 0.53790075,
+                "punctuated_word": "dicho,"
+              },
+              {
+                "word": "que",
+                "start": 66.31538,
+                "end": 66.47538,
+                "confidence": 0.9988065,
+                "speaker": 0,
+                "speaker_confidence": 0.35387444,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "se",
+                "start": 66.47538,
+                "end": 66.87538,
+                "confidence": 0.9975708,
+                "speaker": 0,
+                "speaker_confidence": 0.35387444,
+                "punctuated_word": "se"
+              },
+              {
+                "word": "había",
+                "start": 66.87538,
+                "end": 67.37538,
+                "confidence": 0.9994236,
+                "speaker": 0,
+                "speaker_confidence": 0.35387444,
+                "punctuated_word": "había"
+              },
+              {
+                "word": "comentado",
+                "start": 67.595375,
+                "end": 67.915375,
+                "confidence": 0.99723685,
+                "speaker": 0,
+                "speaker_confidence": 0.35387444,
+                "punctuated_word": "comentado"
+              },
+              {
+                "word": "que",
+                "start": 67.915375,
+                "end": 68.15538,
+                "confidence": 0.5872957,
+                "speaker": 0,
+                "speaker_confidence": 0.35387444,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "iba",
+                "start": 68.15538,
+                "end": 68.23538,
+                "confidence": 0.87898505,
+                "speaker": 0,
+                "speaker_confidence": 0.35387444,
+                "punctuated_word": "iba"
+              },
+              {
+                "word": "a",
+                "start": 68.23538,
+                "end": 68.31538,
+                "confidence": 0.99498713,
+                "speaker": 0,
+                "speaker_confidence": 0.35387444,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "suceder",
+                "start": 68.31538,
+                "end": 68.55538,
+                "confidence": 0.99880064,
+                "speaker": 0,
+                "speaker_confidence": 0.35387444,
+                "punctuated_word": "suceder"
+              },
+              {
+                "word": "en",
+                "start": 68.55538,
+                "end": 68.71538,
+                "confidence": 0.9974081,
+                "speaker": 0,
+                "speaker_confidence": 0.35387444,
+                "punctuated_word": "en"
+              },
+              {
+                "word": "algún",
+                "start": 68.71538,
+                "end": 68.955376,
+                "confidence": 0.99140745,
+                "speaker": 0,
+                "speaker_confidence": 0.6277586,
+                "punctuated_word": "algún"
+              },
+              {
+                "word": "momento",
+                "start": 68.955376,
+                "end": 69.455376,
+                "confidence": 0.954261,
+                "speaker": 0,
+                "speaker_confidence": 0.6277586,
+                "punctuated_word": "momento."
+              },
+              {
+                "word": "no",
+                "start": 70.07538,
+                "end": 70.31538,
+                "confidence": 0.98639363,
+                "speaker": 0,
+                "speaker_confidence": 0.6277586,
+                "punctuated_word": "No"
+              },
+              {
+                "word": "sabía",
+                "start": 70.31538,
+                "end": 70.635376,
+                "confidence": 0.85711133,
+                "speaker": 0,
+                "speaker_confidence": 0.6277586,
+                "punctuated_word": "sabía"
+              },
+              {
+                "word": "cuándo",
+                "start": 70.635376,
+                "end": 71.135376,
+                "confidence": 0.962566,
+                "speaker": 0,
+                "speaker_confidence": 0.6277586,
+                "punctuated_word": "cuándo,"
+              },
+              {
+                "word": "pero",
+                "start": 71.595375,
+                "end": 71.99538,
+                "confidence": 0.99972457,
+                "speaker": 0,
+                "speaker_confidence": 0.6277586,
+                "punctuated_word": "pero"
+              },
+              {
+                "word": "ya",
+                "start": 71.99538,
+                "end": 72.47538,
+                "confidence": 0.9973726,
+                "speaker": 0,
+                "speaker_confidence": 0.6277586,
+                "punctuated_word": "ya"
+              },
+              {
+                "word": "lo",
+                "start": 72.47538,
+                "end": 72.71538,
+                "confidence": 0.9996171,
+                "speaker": 0,
+                "speaker_confidence": 0.6277586,
+                "punctuated_word": "lo"
+              },
+              {
+                "word": "estamos",
+                "start": 72.71538,
+                "end": 73.21538,
+                "confidence": 0.99985313,
+                "speaker": 0,
+                "speaker_confidence": 0.6277586,
+                "punctuated_word": "estamos"
+              },
+              {
+                "word": "viendo",
+                "start": 73.51538,
+                "end": 74.01538,
+                "confidence": 0.99974114,
+                "speaker": 0,
+                "speaker_confidence": 0.6277586,
+                "punctuated_word": "viendo"
+              },
+              {
+                "word": "el",
+                "start": 74.79538,
+                "end": 75.03538,
+                "confidence": 0.8506278,
+                "speaker": 0,
+                "speaker_confidence": 0.6277586,
+                "punctuated_word": "el"
+              },
+              {
+                "word": "día",
+                "start": 75.03538,
+                "end": 75.275375,
+                "confidence": 0.9998765,
+                "speaker": 0,
+                "speaker_confidence": 0.6277586,
+                "punctuated_word": "día"
+              },
+              {
+                "word": "de",
+                "start": 75.275375,
+                "end": 75.43538,
+                "confidence": 0.9995047,
+                "speaker": 0,
+                "speaker_confidence": 0.6277586,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "hoy",
+                "start": 75.43538,
+                "end": 75.93538,
+                "confidence": 0.92365026,
+                "speaker": 0,
+                "speaker_confidence": 0.6277586,
+                "punctuated_word": "hoy,"
+              },
+              {
+                "word": "100000",
+                "start": 76.31538,
+                "end": 77.21538,
+                "confidence": 0.92226243,
+                "speaker": 0,
+                "speaker_confidence": 0.3179388,
+                "punctuated_word": "100000"
+              }
+            ],
+            "paragraphs": {
+              "transcript": "\nSpeaker 0: Histórico, lo que estamos viviendo. Estoy viendo aquí el Voy a finales el día de Michael Saylor. Está prometiendo una fiesta. 100 K Partyly. Ahí lo voy a pedir aquí arriba.\n\nVoy a empezar a invitar a la banda a ver quién quiere venir a conectar para platicar el día de hoy de el lo que estamos experimentando con esta locura. De los 100000 dólares. Bienvenidos todos a participar. Alan González, bienvenido. Vamos a seguirte.\n\nSi gustas pasar ya se nos fue. Pero bueno, 100000 dólares, estamos tocando los 100000 dólares el día de hoy. Es algo que se había dicho, que se había comentado que iba a suceder en algún momento. No sabía cuándo, pero ya lo estamos viendo el día de hoy, 100000",
+              "paragraphs": [
+                {
+                  "sentences": [
+                    {
+                      "text": "Histórico, lo que estamos viviendo.",
+                      "start": 10.48,
+                      "end": 12.0199995
+                    },
+                    {
+                      "text": "Estoy viendo aquí el Voy a finales el día de Michael Saylor.",
+                      "start": 13.085,
+                      "end": 17.585
+                    },
+                    {
+                      "text": "Está prometiendo una fiesta.",
+                      "start": 19.884998,
+                      "end": 21.505
+                    },
+                    {
+                      "text": "100 K Partyly.",
+                      "start": 22.765,
+                      "end": 25.025
+                    },
+                    {
+                      "text": "Ahí lo voy a pedir aquí arriba.",
+                      "start": 25.244999,
+                      "end": 26.704998
+                    }
+                  ],
+                  "speaker": 0,
+                  "num_words": 31,
+                  "start": 10.48,
+                  "end": 26.704998
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "Voy a empezar a invitar a la banda a ver quién quiere venir a conectar para platicar el día de hoy de el lo que estamos experimentando con esta locura.",
+                      "start": 27.27,
+                      "end": 37.370003
+                    },
+                    {
+                      "text": "De los 100000 dólares.",
+                      "start": 39.454998,
+                      "end": 40.995
+                    },
+                    {
+                      "text": "Bienvenidos todos a participar.",
+                      "start": 42.655,
+                      "end": 43.695
+                    },
+                    {
+                      "text": "Alan González, bienvenido.",
+                      "start": 43.695,
+                      "end": 46.034996
+                    },
+                    {
+                      "text": "Vamos a seguirte.",
+                      "start": 48.734997,
+                      "end": 51.214996
+                    }
+                  ],
+                  "speaker": 0,
+                  "num_words": 44,
+                  "start": 27.27,
+                  "end": 51.214996
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "Si gustas pasar ya se nos fue.",
+                      "start": 51.214996,
+                      "end": 53.714996
+                    },
+                    {
+                      "text": "Pero bueno, 100000 dólares, estamos tocando los 100000 dólares el día de hoy.",
+                      "start": 54.530003,
+                      "end": 60.31
+                    },
+                    {
+                      "text": "Es algo que se había dicho, que se había comentado que iba a suceder en algún momento.",
+                      "start": 62.29,
+                      "end": 69.455376
+                    },
+                    {
+                      "text": "No sabía cuándo, pero ya lo estamos viendo el día de hoy, 100000",
+                      "start": 70.07538,
+                      "end": 77.21538
+                    }
+                  ],
+                  "speaker": 0,
+                  "num_words": 50,
+                  "start": 51.214996,
+                  "end": 77.21538
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "utterances": [
+      {
+        "start": 10.48,
+        "end": 12.0199995,
+        "confidence": 0.84527224,
+        "channel": 0,
+        "transcript": "Histórico, lo que estamos viviendo.",
+        "words": [
+          {
+            "word": "histórico",
+            "start": 10.48,
+            "end": 10.96,
+            "confidence": 0.3959903,
+            "speaker": 0,
+            "speaker_confidence": 0.38636464,
+            "punctuated_word": "Histórico,"
+          },
+          {
+            "word": "lo",
+            "start": 10.96,
+            "end": 11.2,
+            "confidence": 0.92041814,
+            "speaker": 0,
+            "speaker_confidence": 0.38636464,
+            "punctuated_word": "lo"
+          },
+          {
+            "word": "que",
+            "start": 11.2,
+            "end": 11.28,
+            "confidence": 0.9984888,
+            "speaker": 0,
+            "speaker_confidence": 0.38636464,
+            "punctuated_word": "que"
+          },
+          {
+            "word": "estamos",
+            "start": 11.28,
+            "end": 11.5199995,
+            "confidence": 0.99957997,
+            "speaker": 0,
+            "speaker_confidence": 0.38636464,
+            "punctuated_word": "estamos"
+          },
+          {
+            "word": "viviendo",
+            "start": 11.5199995,
+            "end": 12.0199995,
+            "confidence": 0.9118844,
+            "speaker": 0,
+            "speaker_confidence": 0.38636464,
+            "punctuated_word": "viviendo."
+          }
+        ],
+        "speaker": 0,
+        "id": "4419e2d3-aea3-450b-aed0-c45e8dd6beb9"
+      },
+      {
+        "start": 13.085,
+        "end": 16.145,
+        "confidence": 0.7446218,
+        "channel": 0,
+        "transcript": "Estoy viendo aquí el Voy a finales el día de Michael",
+        "words": [
+          {
+            "word": "estoy",
+            "start": 13.085,
+            "end": 13.405,
+            "confidence": 0.9896013,
+            "speaker": 0,
+            "speaker_confidence": 0.2643429,
+            "punctuated_word": "Estoy"
+          },
+          {
+            "word": "viendo",
+            "start": 13.405,
+            "end": 13.6449995,
+            "confidence": 0.9961081,
+            "speaker": 0,
+            "speaker_confidence": 0.2643429,
+            "punctuated_word": "viendo"
+          },
+          {
+            "word": "aquí",
+            "start": 13.6449995,
+            "end": 13.964999,
+            "confidence": 0.9899323,
+            "speaker": 0,
+            "speaker_confidence": 0.2643429,
+            "punctuated_word": "aquí"
+          },
+          {
+            "word": "el",
+            "start": 13.964999,
+            "end": 14.285,
+            "confidence": 0.6630643,
+            "speaker": 0,
+            "speaker_confidence": 0.2643429,
+            "punctuated_word": "el"
+          },
+          {
+            "word": "voy",
+            "start": 14.365,
+            "end": 14.525,
+            "confidence": 0.31366146,
+            "speaker": 0,
+            "speaker_confidence": 0.2643429,
+            "punctuated_word": "Voy"
+          },
+          {
+            "word": "a",
+            "start": 14.525,
+            "end": 14.605,
+            "confidence": 0.80810606,
+            "speaker": 0,
+            "speaker_confidence": 0.2643429,
+            "punctuated_word": "a"
+          },
+          {
+            "word": "finales",
+            "start": 14.605,
+            "end": 14.924999,
+            "confidence": 0.8988018,
+            "speaker": 0,
+            "speaker_confidence": 0.2643429,
+            "punctuated_word": "finales"
+          },
+          {
+            "word": "el",
+            "start": 14.924999,
+            "end": 15.084999,
+            "confidence": 0.66744035,
+            "speaker": 0,
+            "speaker_confidence": 0.2643429,
+            "punctuated_word": "el"
+          },
+          {
+            "word": "día",
+            "start": 15.084999,
+            "end": 15.325,
+            "confidence": 0.14458346,
+            "speaker": 0,
+            "speaker_confidence": 0.2643429,
+            "punctuated_word": "día"
+          },
+          {
+            "word": "de",
+            "start": 15.325,
+            "end": 15.6449995,
+            "confidence": 0.96756405,
+            "speaker": 0,
+            "speaker_confidence": 0.2643429,
+            "punctuated_word": "de"
+          },
+          {
+            "word": "michael",
+            "start": 15.6449995,
+            "end": 16.145,
+            "confidence": 0.7519762,
+            "speaker": 0,
+            "speaker_confidence": 0.2643429,
+            "punctuated_word": "Michael"
+          }
+        ],
+        "speaker": 0,
+        "id": "0ecf803a-2093-491e-a5e2-03f742ddb98e"
+      },
+      {
+        "start": 17.085,
+        "end": 17.585,
+        "confidence": 0.8074629,
+        "channel": 0,
+        "transcript": "Saylor.",
+        "words": [
+          {
+            "word": "saylor",
+            "start": 17.085,
+            "end": 17.585,
+            "confidence": 0.8074629,
+            "speaker": 0,
+            "speaker_confidence": 0.19636965,
+            "punctuated_word": "Saylor."
+          }
+        ],
+        "speaker": 0,
+        "id": "3ceb215d-55d8-472a-bd1e-9883c5707dd7"
+      },
+      {
+        "start": 19.884998,
+        "end": 21.505,
+        "confidence": 0.8959625,
+        "channel": 0,
+        "transcript": "Está prometiendo una fiesta.",
+        "words": [
+          {
+            "word": "está",
+            "start": 19.884998,
+            "end": 20.125,
+            "confidence": 0.82951385,
+            "speaker": 0,
+            "speaker_confidence": 0.3406281,
+            "punctuated_word": "Está"
+          },
+          {
+            "word": "prometiendo",
+            "start": 20.125,
+            "end": 20.625,
+            "confidence": 0.9982945,
+            "speaker": 0,
+            "speaker_confidence": 0.3406281,
+            "punctuated_word": "prometiendo"
+          },
+          {
+            "word": "una",
+            "start": 20.845,
+            "end": 21.005,
+            "confidence": 0.9307359,
+            "speaker": 0,
+            "speaker_confidence": 0.3406281,
+            "punctuated_word": "una"
+          },
+          {
+            "word": "fiesta",
+            "start": 21.005,
+            "end": 21.505,
+            "confidence": 0.8253058,
+            "speaker": 0,
+            "speaker_confidence": 0.3406281,
+            "punctuated_word": "fiesta."
+          }
+        ],
+        "speaker": 0,
+        "id": "da7cac84-e822-49ce-8ab8-90ffd3026318"
+      },
+      {
+        "start": 22.765,
+        "end": 23.265,
+        "confidence": 0.1434962,
+        "channel": 0,
+        "transcript": "100",
+        "words": [
+          {
+            "word": "100",
+            "start": 22.765,
+            "end": 23.265,
+            "confidence": 0.1434962,
+            "speaker": 0,
+            "speaker_confidence": 0.3406281,
+            "punctuated_word": "100"
+          }
+        ],
+        "speaker": 0,
+        "id": "d43b7f58-704a-4c4e-9ae0-97e85d39faa4"
+      },
+      {
+        "start": 24.445,
+        "end": 26.704998,
+        "confidence": 0.78877276,
+        "channel": 0,
+        "transcript": "K Partyly. Ahí lo voy a pedir aquí arriba.",
+        "words": [
+          {
+            "word": "k",
+            "start": 24.445,
+            "end": 24.525,
+            "confidence": 0.23807208,
+            "speaker": 0,
+            "speaker_confidence": 0.3406281,
+            "punctuated_word": "K"
+          },
+          {
+            "word": "partyly",
+            "start": 24.525,
+            "end": 25.025,
+            "confidence": 0.74152154,
+            "speaker": 0,
+            "speaker_confidence": 0.3406281,
+            "punctuated_word": "Partyly."
+          },
+          {
+            "word": "ahí",
+            "start": 25.244999,
+            "end": 25.404999,
+            "confidence": 0.9013503,
+            "speaker": 0,
+            "speaker_confidence": 0.24127328,
+            "punctuated_word": "Ahí"
+          },
+          {
+            "word": "lo",
+            "start": 25.404999,
+            "end": 25.564999,
+            "confidence": 0.6545329,
+            "speaker": 0,
+            "speaker_confidence": 0.24127328,
+            "punctuated_word": "lo"
+          },
+          {
+            "word": "voy",
+            "start": 25.564999,
+            "end": 25.644999,
+            "confidence": 0.9966628,
+            "speaker": 0,
+            "speaker_confidence": 0.24127328,
+            "punctuated_word": "voy"
+          },
+          {
+            "word": "a",
+            "start": 25.644999,
+            "end": 25.724998,
+            "confidence": 0.99408275,
+            "speaker": 0,
+            "speaker_confidence": 0.24127328,
+            "punctuated_word": "a"
+          },
+          {
+            "word": "pedir",
+            "start": 25.724998,
+            "end": 25.965,
+            "confidence": 0.6035918,
+            "speaker": 0,
+            "speaker_confidence": 0.24127328,
+            "punctuated_word": "pedir"
+          },
+          {
+            "word": "aquí",
+            "start": 25.965,
+            "end": 26.204998,
+            "confidence": 0.97602135,
+            "speaker": 0,
+            "speaker_confidence": 0.24127328,
+            "punctuated_word": "aquí"
+          },
+          {
+            "word": "arriba",
+            "start": 26.204998,
+            "end": 26.704998,
+            "confidence": 0.9931189,
+            "speaker": 0,
+            "speaker_confidence": 0.24127328,
+            "punctuated_word": "arriba."
+          }
+        ],
+        "speaker": 0,
+        "id": "64783f28-a289-4af3-97b6-072533a5eb75"
+      },
+      {
+        "start": 27.27,
+        "end": 30.730001,
+        "confidence": 0.95517254,
+        "channel": 0,
+        "transcript": "Voy a empezar a invitar a la banda a ver quién quiere venir a conectar",
+        "words": [
+          {
+            "word": "voy",
+            "start": 27.27,
+            "end": 27.39,
+            "confidence": 0.9988102,
+            "speaker": 0,
+            "speaker_confidence": 0.52722895,
+            "punctuated_word": "Voy"
+          },
+          {
+            "word": "a",
+            "start": 27.39,
+            "end": 27.51,
+            "confidence": 0.9884771,
+            "speaker": 0,
+            "speaker_confidence": 0.52722895,
+            "punctuated_word": "a"
+          },
+          {
+            "word": "empezar",
+            "start": 27.51,
+            "end": 27.830002,
+            "confidence": 0.999065,
+            "speaker": 0,
+            "speaker_confidence": 0.52722895,
+            "punctuated_word": "empezar"
+          },
+          {
+            "word": "a",
+            "start": 27.830002,
+            "end": 27.910002,
+            "confidence": 0.9634716,
+            "speaker": 0,
+            "speaker_confidence": 0.52722895,
+            "punctuated_word": "a"
+          },
+          {
+            "word": "invitar",
+            "start": 27.910002,
+            "end": 28.230001,
+            "confidence": 0.99923587,
+            "speaker": 0,
+            "speaker_confidence": 0.52722895,
+            "punctuated_word": "invitar"
+          },
+          {
+            "word": "a",
+            "start": 28.230001,
+            "end": 28.310001,
+            "confidence": 0.9966898,
+            "speaker": 0,
+            "speaker_confidence": 0.52722895,
+            "punctuated_word": "a"
+          },
+          {
+            "word": "la",
+            "start": 28.310001,
+            "end": 28.550001,
+            "confidence": 0.9978301,
+            "speaker": 0,
+            "speaker_confidence": 0.52722895,
+            "punctuated_word": "la"
+          },
+          {
+            "word": "banda",
+            "start": 28.550001,
+            "end": 29.050001,
+            "confidence": 0.995862,
+            "speaker": 0,
+            "speaker_confidence": 0.52722895,
+            "punctuated_word": "banda"
+          },
+          {
+            "word": "a",
+            "start": 29.11,
+            "end": 29.19,
+            "confidence": 0.42948082,
+            "speaker": 0,
+            "speaker_confidence": 0.3870241,
+            "punctuated_word": "a"
+          },
+          {
+            "word": "ver",
+            "start": 29.19,
+            "end": 29.35,
+            "confidence": 0.99936765,
+            "speaker": 0,
+            "speaker_confidence": 0.3870241,
+            "punctuated_word": "ver"
+          },
+          {
+            "word": "quién",
+            "start": 29.35,
+            "end": 29.51,
+            "confidence": 0.96967375,
+            "speaker": 0,
+            "speaker_confidence": 0.3870241,
+            "punctuated_word": "quién"
+          },
+          {
+            "word": "quiere",
+            "start": 29.51,
+            "end": 29.75,
+            "confidence": 0.9955178,
+            "speaker": 0,
+            "speaker_confidence": 0.3870241,
+            "punctuated_word": "quiere"
+          },
+          {
+            "word": "venir",
+            "start": 29.75,
+            "end": 29.990002,
+            "confidence": 0.99852544,
+            "speaker": 0,
+            "speaker_confidence": 0.3870241,
+            "punctuated_word": "venir"
+          },
+          {
+            "word": "a",
+            "start": 29.990002,
+            "end": 30.230001,
+            "confidence": 0.99648935,
+            "speaker": 0,
+            "speaker_confidence": 0.3870241,
+            "punctuated_word": "a"
+          },
+          {
+            "word": "conectar",
+            "start": 30.230001,
+            "end": 30.730001,
+            "confidence": 0.9990909,
+            "speaker": 0,
+            "speaker_confidence": 0.3870241,
+            "punctuated_word": "conectar"
+          }
+        ],
+        "speaker": 0,
+        "id": "5f0b45f6-d0ca-43b5-8163-26d0de389e1c"
+      },
+      {
+        "start": 31.43,
+        "end": 33.370003,
+        "confidence": 0.9614858,
+        "channel": 0,
+        "transcript": "para platicar el día de hoy de",
+        "words": [
+          {
+            "word": "para",
+            "start": 31.43,
+            "end": 31.59,
+            "confidence": 0.7853743,
+            "speaker": 0,
+            "speaker_confidence": 0.204898,
+            "punctuated_word": "para"
+          },
+          {
+            "word": "platicar",
+            "start": 31.59,
+            "end": 31.91,
+            "confidence": 0.99912935,
+            "speaker": 0,
+            "speaker_confidence": 0.204898,
+            "punctuated_word": "platicar"
+          },
+          {
+            "word": "el",
+            "start": 31.91,
+            "end": 32.15,
+            "confidence": 0.9876116,
+            "speaker": 0,
+            "speaker_confidence": 0.204898,
+            "punctuated_word": "el"
+          },
+          {
+            "word": "día",
+            "start": 32.15,
+            "end": 32.31,
+            "confidence": 0.99894804,
+            "speaker": 0,
+            "speaker_confidence": 0.204898,
+            "punctuated_word": "día"
+          },
+          {
+            "word": "de",
+            "start": 32.31,
+            "end": 32.39,
+            "confidence": 0.9951964,
+            "speaker": 0,
+            "speaker_confidence": 0.204898,
+            "punctuated_word": "de"
+          },
+          {
+            "word": "hoy",
+            "start": 32.39,
+            "end": 32.870003,
+            "confidence": 0.99934167,
+            "speaker": 0,
+            "speaker_confidence": 0.204898,
+            "punctuated_word": "hoy"
+          },
+          {
+            "word": "de",
+            "start": 32.870003,
+            "end": 33.370003,
+            "confidence": 0.96479934,
+            "speaker": 0,
+            "speaker_confidence": 0.204898,
+            "punctuated_word": "de"
+          }
+        ],
+        "speaker": 0,
+        "id": "f4f697f2-6d3d-4874-b404-145490a4c924"
+      },
+      {
+        "start": 34.31,
+        "end": 35.29,
+        "confidence": 0.82155323,
+        "channel": 0,
+        "transcript": "el lo que estamos",
+        "words": [
+          {
+            "word": "el",
+            "start": 34.31,
+            "end": 34.39,
+            "confidence": 0.82541853,
+            "speaker": 0,
+            "speaker_confidence": 0.52500814,
+            "punctuated_word": "el"
+          },
+          {
+            "word": "lo",
+            "start": 34.39,
+            "end": 34.63,
+            "confidence": 0.46269736,
+            "speaker": 0,
+            "speaker_confidence": 0.52500814,
+            "punctuated_word": "lo"
+          },
+          {
+            "word": "que",
+            "start": 34.63,
+            "end": 34.79,
+            "confidence": 0.99871504,
+            "speaker": 0,
+            "speaker_confidence": 0.52500814,
+            "punctuated_word": "que"
+          },
+          {
+            "word": "estamos",
+            "start": 34.79,
+            "end": 35.29,
+            "confidence": 0.9993819,
+            "speaker": 0,
+            "speaker_confidence": 0.52500814,
+            "punctuated_word": "estamos"
+          }
+        ],
+        "speaker": 0,
+        "id": "84a2e8ae-37c4-4ec6-8c92-1ad199d6eb11"
+      },
+      {
+        "start": 35.75,
+        "end": 37.370003,
+        "confidence": 0.9518347,
+        "channel": 0,
+        "transcript": "experimentando con esta locura.",
+        "words": [
+          {
+            "word": "experimentando",
+            "start": 35.75,
+            "end": 36.07,
+            "confidence": 0.999539,
+            "speaker": 0,
+            "speaker_confidence": 0.52500814,
+            "punctuated_word": "experimentando"
+          },
+          {
+            "word": "con",
+            "start": 36.07,
+            "end": 36.47,
+            "confidence": 0.9989304,
+            "speaker": 0,
+            "speaker_confidence": 0.52500814,
+            "punctuated_word": "con"
+          },
+          {
+            "word": "esta",
+            "start": 36.47,
+            "end": 36.870003,
+            "confidence": 0.99842346,
+            "speaker": 0,
+            "speaker_confidence": 0.52500814,
+            "punctuated_word": "esta"
+          },
+          {
+            "word": "locura",
+            "start": 36.870003,
+            "end": 37.370003,
+            "confidence": 0.81044567,
+            "speaker": 0,
+            "speaker_confidence": 0.52500814,
+            "punctuated_word": "locura."
+          }
+        ],
+        "speaker": 0,
+        "id": "e1c82145-4d27-4b13-b7f5-0aa350ec8d92"
+      },
+      {
+        "start": 39.454998,
+        "end": 40.995,
+        "confidence": 0.8596791,
+        "channel": 0,
+        "transcript": "De los 100000 dólares.",
+        "words": [
+          {
+            "word": "de",
+            "start": 39.454998,
+            "end": 39.614998,
+            "confidence": 0.46589515,
+            "speaker": 0,
+            "speaker_confidence": 0.22556543,
+            "punctuated_word": "De"
+          },
+          {
+            "word": "los",
+            "start": 39.614998,
+            "end": 39.854996,
+            "confidence": 0.99591196,
+            "speaker": 0,
+            "speaker_confidence": 0.22556543,
+            "punctuated_word": "los"
+          },
+          {
+            "word": "100000",
+            "start": 39.854996,
+            "end": 40.495,
+            "confidence": 0.9983295,
+            "speaker": 0,
+            "speaker_confidence": 0.22556543,
+            "punctuated_word": "100000"
+          },
+          {
+            "word": "dólares",
+            "start": 40.495,
+            "end": 40.995,
+            "confidence": 0.9785799,
+            "speaker": 0,
+            "speaker_confidence": 0.22556543,
+            "punctuated_word": "dólares."
+          }
+        ],
+        "speaker": 0,
+        "id": "1c973de4-ee5f-4c16-8f4e-c72501e7c261"
+      },
+      {
+        "start": 42.655,
+        "end": 44.195,
+        "confidence": 0.9912221,
+        "channel": 0,
+        "transcript": "Bienvenidos todos a participar. Alan",
+        "words": [
+          {
+            "word": "bienvenidos",
+            "start": 42.655,
+            "end": 42.734997,
+            "confidence": 0.9924765,
+            "speaker": 0,
+            "speaker_confidence": 0.3763293,
+            "punctuated_word": "Bienvenidos"
+          },
+          {
+            "word": "todos",
+            "start": 42.734997,
+            "end": 43.054996,
+            "confidence": 0.9937138,
+            "speaker": 0,
+            "speaker_confidence": 0.3763293,
+            "punctuated_word": "todos"
+          },
+          {
+            "word": "a",
+            "start": 43.054996,
+            "end": 43.375,
+            "confidence": 0.9988877,
+            "speaker": 0,
+            "speaker_confidence": 0.3763293,
+            "punctuated_word": "a"
+          },
+          {
+            "word": "participar",
+            "start": 43.375,
+            "end": 43.695,
+            "confidence": 0.9755851,
+            "speaker": 0,
+            "speaker_confidence": 0.3763293,
+            "punctuated_word": "participar."
+          },
+          {
+            "word": "alan",
+            "start": 43.695,
+            "end": 44.195,
+            "confidence": 0.9954472,
+            "speaker": 0,
+            "speaker_confidence": 0.3763293,
+            "punctuated_word": "Alan"
+          }
+        ],
+        "speaker": 0,
+        "id": "466fd145-f70a-454f-9b25-61ceb99ce661"
+      },
+      {
+        "start": 44.975,
+        "end": 46.034996,
+        "confidence": 0.9660752,
+        "channel": 0,
+        "transcript": "González, bienvenido.",
+        "words": [
+          {
+            "word": "gonzález",
+            "start": 44.975,
+            "end": 45.475,
+            "confidence": 0.9385319,
+            "speaker": 0,
+            "speaker_confidence": 0.3763293,
+            "punctuated_word": "González,"
+          },
+          {
+            "word": "bienvenido",
+            "start": 45.534996,
+            "end": 46.034996,
+            "confidence": 0.9936184,
+            "speaker": 0,
+            "speaker_confidence": 0.3763293,
+            "punctuated_word": "bienvenido."
+          }
+        ],
+        "speaker": 0,
+        "id": "2c577218-4d89-4c60-b505-2b45b85c3087"
+      },
+      {
+        "start": 48.734997,
+        "end": 49.714996,
+        "confidence": 0.99366486,
+        "channel": 0,
+        "transcript": "Vamos a",
+        "words": [
+          {
+            "word": "vamos",
+            "start": 48.734997,
+            "end": 49.214996,
+            "confidence": 0.9916775,
+            "speaker": 0,
+            "speaker_confidence": 0.38000494,
+            "punctuated_word": "Vamos"
+          },
+          {
+            "word": "a",
+            "start": 49.214996,
+            "end": 49.714996,
+            "confidence": 0.99565226,
+            "speaker": 0,
+            "speaker_confidence": 0.38000494,
+            "punctuated_word": "a"
+          }
+        ],
+        "speaker": 0,
+        "id": "a946f930-331b-41fd-9845-9ee00c1aa4ed"
+      },
+      {
+        "start": 50.975,
+        "end": 53.714996,
+        "confidence": 0.9580765,
+        "channel": 0,
+        "transcript": "seguirte. Si gustas pasar ya se nos fue.",
+        "words": [
+          {
+            "word": "seguirte",
+            "start": 50.975,
+            "end": 51.214996,
+            "confidence": 0.8231354,
+            "speaker": 0,
+            "speaker_confidence": 0.38000494,
+            "punctuated_word": "seguirte."
+          },
+          {
+            "word": "si",
+            "start": 51.214996,
+            "end": 51.454998,
+            "confidence": 0.99472976,
+            "speaker": 0,
+            "speaker_confidence": 0.38000494,
+            "punctuated_word": "Si"
+          },
+          {
+            "word": "gustas",
+            "start": 51.454998,
+            "end": 51.954998,
+            "confidence": 0.9994468,
+            "speaker": 0,
+            "speaker_confidence": 0.38000494,
+            "punctuated_word": "gustas"
+          },
+          {
+            "word": "pasar",
+            "start": 52.094997,
+            "end": 52.574997,
+            "confidence": 0.99341714,
+            "speaker": 0,
+            "speaker_confidence": 0.38000494,
+            "punctuated_word": "pasar"
+          },
+          {
+            "word": "ya",
+            "start": 52.734997,
+            "end": 52.894997,
+            "confidence": 0.9251294,
+            "speaker": 0,
+            "speaker_confidence": 0.38000494,
+            "punctuated_word": "ya"
+          },
+          {
+            "word": "se",
+            "start": 52.894997,
+            "end": 53.055,
+            "confidence": 0.9874321,
+            "speaker": 0,
+            "speaker_confidence": 0.38000494,
+            "punctuated_word": "se"
+          },
+          {
+            "word": "nos",
+            "start": 53.055,
+            "end": 53.214996,
+            "confidence": 0.9992848,
+            "speaker": 0,
+            "speaker_confidence": 0.38000494,
+            "punctuated_word": "nos"
+          },
+          {
+            "word": "fue",
+            "start": 53.214996,
+            "end": 53.714996,
+            "confidence": 0.9420366,
+            "speaker": 0,
+            "speaker_confidence": 0.38000494,
+            "punctuated_word": "fue."
+          }
+        ],
+        "speaker": 0,
+        "id": "ec825034-fb23-41bf-88d5-477aba8a7338"
+      },
+      {
+        "start": 54.530003,
+        "end": 55.11,
+        "confidence": 0.84328675,
+        "channel": 0,
+        "transcript": "Pero bueno,",
+        "words": [
+          {
+            "word": "pero",
+            "start": 54.530003,
+            "end": 54.61,
+            "confidence": 0.9980357,
+            "speaker": 0,
+            "speaker_confidence": 0.5202321,
+            "punctuated_word": "Pero"
+          },
+          {
+            "word": "bueno",
+            "start": 54.61,
+            "end": 55.11,
+            "confidence": 0.6885377,
+            "speaker": 0,
+            "speaker_confidence": 0.5202321,
+            "punctuated_word": "bueno,"
+          }
+        ],
+        "speaker": 0,
+        "id": "582d8885-6de4-4a2e-8bed-a82bb3773be6"
+      },
+      {
+        "start": 56.690002,
+        "end": 60.31,
+        "confidence": 0.91885066,
+        "channel": 0,
+        "transcript": "100000 dólares, estamos tocando los 100000 dólares el día de hoy.",
+        "words": [
+          {
+            "word": "100000",
+            "start": 56.690002,
+            "end": 57.41,
+            "confidence": 0.99759316,
+            "speaker": 0,
+            "speaker_confidence": 0.4154152,
+            "punctuated_word": "100000"
+          },
+          {
+            "word": "dólares",
+            "start": 57.41,
+            "end": 57.73,
+            "confidence": 0.7849345,
+            "speaker": 0,
+            "speaker_confidence": 0.3105983,
+            "punctuated_word": "dólares,"
+          },
+          {
+            "word": "estamos",
+            "start": 57.73,
+            "end": 58.05,
+            "confidence": 0.9964108,
+            "speaker": 0,
+            "speaker_confidence": 0.3105983,
+            "punctuated_word": "estamos"
+          },
+          {
+            "word": "tocando",
+            "start": 58.05,
+            "end": 58.55,
+            "confidence": 0.67762995,
+            "speaker": 0,
+            "speaker_confidence": 0.3105983,
+            "punctuated_word": "tocando"
+          },
+          {
+            "word": "los",
+            "start": 58.690002,
+            "end": 58.850002,
+            "confidence": 0.76524,
+            "speaker": 0,
+            "speaker_confidence": 0.31283528,
+            "punctuated_word": "los"
+          },
+          {
+            "word": "100000",
+            "start": 58.850002,
+            "end": 59.25,
+            "confidence": 0.9985274,
+            "speaker": 0,
+            "speaker_confidence": 0.31283528,
+            "punctuated_word": "100000"
+          },
+          {
+            "word": "dólares",
+            "start": 59.25,
+            "end": 59.49,
+            "confidence": 0.998749,
+            "speaker": 0,
+            "speaker_confidence": 0.31283528,
+            "punctuated_word": "dólares"
+          },
+          {
+            "word": "el",
+            "start": 59.49,
+            "end": 59.65,
+            "confidence": 0.971518,
+            "speaker": 0,
+            "speaker_confidence": 0.31283528,
+            "punctuated_word": "el"
+          },
+          {
+            "word": "día",
+            "start": 59.65,
+            "end": 59.730003,
+            "confidence": 0.9996375,
+            "speaker": 0,
+            "speaker_confidence": 0.31283528,
+            "punctuated_word": "día"
+          },
+          {
+            "word": "de",
+            "start": 59.730003,
+            "end": 59.81,
+            "confidence": 0.9968779,
+            "speaker": 0,
+            "speaker_confidence": 0.31283528,
+            "punctuated_word": "de"
+          },
+          {
+            "word": "hoy",
+            "start": 59.81,
+            "end": 60.31,
+            "confidence": 0.9202399,
+            "speaker": 0,
+            "speaker_confidence": 0.31283528,
+            "punctuated_word": "hoy."
+          }
+        ],
+        "speaker": 0,
+        "id": "7f32f933-3671-4009-a22d-25c028ff9c5d"
+      },
+      {
+        "start": 62.29,
+        "end": 62.95,
+        "confidence": 0.9874896,
+        "channel": 0,
+        "transcript": "Es algo",
+        "words": [
+          {
+            "word": "es",
+            "start": 62.29,
+            "end": 62.45,
+            "confidence": 0.99018526,
+            "speaker": 0,
+            "speaker_confidence": 0.53790075,
+            "punctuated_word": "Es"
+          },
+          {
+            "word": "algo",
+            "start": 62.45,
+            "end": 62.95,
+            "confidence": 0.98479396,
+            "speaker": 0,
+            "speaker_confidence": 0.53790075,
+            "punctuated_word": "algo"
+          }
+        ],
+        "speaker": 0,
+        "id": "6ac2d210-3e17-42e1-a338-1c9279e84437"
+      },
+      {
+        "start": 63.73,
+        "end": 65.11,
+        "confidence": 0.9717323,
+        "channel": 0,
+        "transcript": "que se había dicho,",
+        "words": [
+          {
+            "word": "que",
+            "start": 63.73,
+            "end": 64.05,
+            "confidence": 0.9980862,
+            "speaker": 0,
+            "speaker_confidence": 0.53790075,
+            "punctuated_word": "que"
+          },
+          {
+            "word": "se",
+            "start": 64.05,
+            "end": 64.37,
+            "confidence": 0.9987686,
+            "speaker": 0,
+            "speaker_confidence": 0.53790075,
+            "punctuated_word": "se"
+          },
+          {
+            "word": "había",
+            "start": 64.37,
+            "end": 64.61,
+            "confidence": 0.99967086,
+            "speaker": 0,
+            "speaker_confidence": 0.53790075,
+            "punctuated_word": "había"
+          },
+          {
+            "word": "dicho",
+            "start": 64.61,
+            "end": 65.11,
+            "confidence": 0.8904035,
+            "speaker": 0,
+            "speaker_confidence": 0.53790075,
+            "punctuated_word": "dicho,"
+          }
+        ],
+        "speaker": 0,
+        "id": "843c9d62-9a4e-4f14-9b23-487df82bcb6f"
+      },
+      {
+        "start": 66.31538,
+        "end": 69.455376,
+        "confidence": 0.94510746,
+        "channel": 0,
+        "transcript": "que se había comentado que iba a suceder en algún momento.",
+        "words": [
+          {
+            "word": "que",
+            "start": 66.31538,
+            "end": 66.47538,
+            "confidence": 0.9988065,
+            "speaker": 0,
+            "speaker_confidence": 0.35387444,
+            "punctuated_word": "que"
+          },
+          {
+            "word": "se",
+            "start": 66.47538,
+            "end": 66.87538,
+            "confidence": 0.9975708,
+            "speaker": 0,
+            "speaker_confidence": 0.35387444,
+            "punctuated_word": "se"
+          },
+          {
+            "word": "había",
+            "start": 66.87538,
+            "end": 67.37538,
+            "confidence": 0.9994236,
+            "speaker": 0,
+            "speaker_confidence": 0.35387444,
+            "punctuated_word": "había"
+          },
+          {
+            "word": "comentado",
+            "start": 67.595375,
+            "end": 67.915375,
+            "confidence": 0.99723685,
+            "speaker": 0,
+            "speaker_confidence": 0.35387444,
+            "punctuated_word": "comentado"
+          },
+          {
+            "word": "que",
+            "start": 67.915375,
+            "end": 68.15538,
+            "confidence": 0.5872957,
+            "speaker": 0,
+            "speaker_confidence": 0.35387444,
+            "punctuated_word": "que"
+          },
+          {
+            "word": "iba",
+            "start": 68.15538,
+            "end": 68.23538,
+            "confidence": 0.87898505,
+            "speaker": 0,
+            "speaker_confidence": 0.35387444,
+            "punctuated_word": "iba"
+          },
+          {
+            "word": "a",
+            "start": 68.23538,
+            "end": 68.31538,
+            "confidence": 0.99498713,
+            "speaker": 0,
+            "speaker_confidence": 0.35387444,
+            "punctuated_word": "a"
+          },
+          {
+            "word": "suceder",
+            "start": 68.31538,
+            "end": 68.55538,
+            "confidence": 0.99880064,
+            "speaker": 0,
+            "speaker_confidence": 0.35387444,
+            "punctuated_word": "suceder"
+          },
+          {
+            "word": "en",
+            "start": 68.55538,
+            "end": 68.71538,
+            "confidence": 0.9974081,
+            "speaker": 0,
+            "speaker_confidence": 0.35387444,
+            "punctuated_word": "en"
+          },
+          {
+            "word": "algún",
+            "start": 68.71538,
+            "end": 68.955376,
+            "confidence": 0.99140745,
+            "speaker": 0,
+            "speaker_confidence": 0.6277586,
+            "punctuated_word": "algún"
+          },
+          {
+            "word": "momento",
+            "start": 68.955376,
+            "end": 69.455376,
+            "confidence": 0.954261,
+            "speaker": 0,
+            "speaker_confidence": 0.6277586,
+            "punctuated_word": "momento."
+          }
+        ],
+        "speaker": 0,
+        "id": "3fd3e08a-717d-4aaf-b63f-188c6505ae76"
+      },
+      {
+        "start": 70.07538,
+        "end": 71.135376,
+        "confidence": 0.9353569,
+        "channel": 0,
+        "transcript": "No sabía cuándo,",
+        "words": [
+          {
+            "word": "no",
+            "start": 70.07538,
+            "end": 70.31538,
+            "confidence": 0.98639363,
+            "speaker": 0,
+            "speaker_confidence": 0.6277586,
+            "punctuated_word": "No"
+          },
+          {
+            "word": "sabía",
+            "start": 70.31538,
+            "end": 70.635376,
+            "confidence": 0.85711133,
+            "speaker": 0,
+            "speaker_confidence": 0.6277586,
+            "punctuated_word": "sabía"
+          },
+          {
+            "word": "cuándo",
+            "start": 70.635376,
+            "end": 71.135376,
+            "confidence": 0.962566,
+            "speaker": 0,
+            "speaker_confidence": 0.6277586,
+            "punctuated_word": "cuándo,"
+          }
+        ],
+        "speaker": 0,
+        "id": "a8606997-5764-43ae-98e2-57a742f07a23"
+      },
+      {
+        "start": 71.595375,
+        "end": 73.21538,
+        "confidence": 0.9991419,
+        "channel": 0,
+        "transcript": "pero ya lo estamos",
+        "words": [
+          {
+            "word": "pero",
+            "start": 71.595375,
+            "end": 71.99538,
+            "confidence": 0.99972457,
+            "speaker": 0,
+            "speaker_confidence": 0.6277586,
+            "punctuated_word": "pero"
+          },
+          {
+            "word": "ya",
+            "start": 71.99538,
+            "end": 72.47538,
+            "confidence": 0.9973726,
+            "speaker": 0,
+            "speaker_confidence": 0.6277586,
+            "punctuated_word": "ya"
+          },
+          {
+            "word": "lo",
+            "start": 72.47538,
+            "end": 72.71538,
+            "confidence": 0.9996171,
+            "speaker": 0,
+            "speaker_confidence": 0.6277586,
+            "punctuated_word": "lo"
+          },
+          {
+            "word": "estamos",
+            "start": 72.71538,
+            "end": 73.21538,
+            "confidence": 0.99985313,
+            "speaker": 0,
+            "speaker_confidence": 0.6277586,
+            "punctuated_word": "estamos"
+          }
+        ],
+        "speaker": 0,
+        "id": "e0c9227d-6cb3-4a5a-812a-5660aac8271e"
+      },
+      {
+        "start": 73.51538,
+        "end": 74.01538,
+        "confidence": 0.99974114,
+        "channel": 0,
+        "transcript": "viendo",
+        "words": [
+          {
+            "word": "viendo",
+            "start": 73.51538,
+            "end": 74.01538,
+            "confidence": 0.99974114,
+            "speaker": 0,
+            "speaker_confidence": 0.6277586,
+            "punctuated_word": "viendo"
+          }
+        ],
+        "speaker": 0,
+        "id": "c1b6267b-b42d-4e5c-b64d-7460559ad122"
+      },
+      {
+        "start": 74.79538,
+        "end": 75.93538,
+        "confidence": 0.9434148,
+        "channel": 0,
+        "transcript": "el día de hoy,",
+        "words": [
+          {
+            "word": "el",
+            "start": 74.79538,
+            "end": 75.03538,
+            "confidence": 0.8506278,
+            "speaker": 0,
+            "speaker_confidence": 0.6277586,
+            "punctuated_word": "el"
+          },
+          {
+            "word": "día",
+            "start": 75.03538,
+            "end": 75.275375,
+            "confidence": 0.9998765,
+            "speaker": 0,
+            "speaker_confidence": 0.6277586,
+            "punctuated_word": "día"
+          },
+          {
+            "word": "de",
+            "start": 75.275375,
+            "end": 75.43538,
+            "confidence": 0.9995047,
+            "speaker": 0,
+            "speaker_confidence": 0.6277586,
+            "punctuated_word": "de"
+          },
+          {
+            "word": "hoy",
+            "start": 75.43538,
+            "end": 75.93538,
+            "confidence": 0.92365026,
+            "speaker": 0,
+            "speaker_confidence": 0.6277586,
+            "punctuated_word": "hoy,"
+          }
+        ],
+        "speaker": 0,
+        "id": "f45f2b60-7e08-49b5-9eb8-e723c6d2af7a"
+      },
+      {
+        "start": 76.31538,
+        "end": 77.21538,
+        "confidence": 0.92226243,
+        "channel": 0,
+        "transcript": "100000",
+        "words": [
+          {
+            "word": "100000",
+            "start": 76.31538,
+            "end": 77.21538,
+            "confidence": 0.92226243,
+            "speaker": 0,
+            "speaker_confidence": 0.3179388,
+            "punctuated_word": "100000"
+          }
+        ],
+        "speaker": 0,
+        "id": "ab9d55a4-f1d0-469e-b8a3-444ded6f8126"
+      }
+    ]
+  }
+}
