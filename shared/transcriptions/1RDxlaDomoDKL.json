@@ -1,0 +1,2068 @@
+{
+  "metadata": {
+    "transaction_key": "deprecated",
+    "request_id": "a1d97d38-3582-4cbc-8fd3-fd6982d5d7a6",
+    "sha256": "25c8172dfb8c7cdb059eafbc3191823088974f980ee9d72924f25e6e5b409f13",
+    "created": "2025-12-10T02:58:25.603Z",
+    "duration": 3280.0132,
+    "channels": 1,
+    "models": [
+      "4f82af92-7749-4465-92ad-3db204bc8e03"
+    ],
+    "model_info": {
+      "4f82af92-7749-4465-92ad-3db204bc8e03": {
+        "name": "2-general-nova",
+        "version": "2023-12-14.34983",
+        "arch": "nova-2"
+      }
+    }
+  },
+  "results": {
+    "channels": [
+      {
+        "alternatives": [
+          {
+            "transcript": "Bien, bien. ¿Cómo estás? Bien, bien, bien. Mexi. ¿Cómo estás? Bien, bien, bien, bien. A ver, vamos a retuitear aquí para, pues, a la raza. Dale, súmbalo. Bien bueno el la plática, creo yo. Órale. Estar bueno. Nada más un segundito. Órale, igual. Ahí están cerrando también en el espacio de yo creo que ahorita se brincan para acá que ellos. Ah, ok, a todo dar. Perfectísimo. Ponemos musiquita. ¿Qué onda, qué onda? Hey, vamos a empezar. Nos vemos mi gente. Hasta la próxima nos hablamos. Un abrazo a todos. Chau.",
+            "confidence": 0.97464716,
+            "words": [
+              {
+                "word": "bien",
+                "start": 326.995,
+                "end": 327.315,
+                "confidence": 0.654294,
+                "speaker": 0,
+                "speaker_confidence": 0.26365268,
+                "punctuated_word": "Bien,"
+              },
+              {
+                "word": "bien",
+                "start": 327.315,
+                "end": 327.47498,
+                "confidence": 0.5496197,
+                "speaker": 0,
+                "speaker_confidence": 0.26365268,
+                "punctuated_word": "bien."
+              },
+              {
+                "word": "cómo",
+                "start": 327.47498,
+                "end": 327.97498,
+                "confidence": 0.78311217,
+                "speaker": 0,
+                "speaker_confidence": 0.26365268,
+                "punctuated_word": "¿Cómo"
+              },
+              {
+                "word": "estás",
+                "start": 328.435,
+                "end": 328.935,
+                "confidence": 0.6753332,
+                "speaker": 0,
+                "speaker_confidence": 0.26365268,
+                "punctuated_word": "estás?"
+              },
+              {
+                "word": "bien",
+                "start": 329.315,
+                "end": 329.79498,
+                "confidence": 0.97765654,
+                "speaker": 0,
+                "speaker_confidence": 0.22382867,
+                "punctuated_word": "Bien,"
+              },
+              {
+                "word": "bien",
+                "start": 329.79498,
+                "end": 330.29498,
+                "confidence": 0.892213,
+                "speaker": 0,
+                "speaker_confidence": 0.22382867,
+                "punctuated_word": "bien,"
+              },
+              {
+                "word": "bien",
+                "start": 330.835,
+                "end": 330.995,
+                "confidence": 0.87703145,
+                "speaker": 0,
+                "speaker_confidence": 0.22382867,
+                "punctuated_word": "bien."
+              },
+              {
+                "word": "mexi",
+                "start": 330.995,
+                "end": 331.495,
+                "confidence": 0.6304806,
+                "speaker": 0,
+                "speaker_confidence": 0.22382867,
+                "punctuated_word": "Mexi."
+              },
+              {
+                "word": "cómo",
+                "start": 332.19498,
+                "end": 332.595,
+                "confidence": 0.99883986,
+                "speaker": 0,
+                "speaker_confidence": 0.22382867,
+                "punctuated_word": "¿Cómo"
+              },
+              {
+                "word": "estás",
+                "start": 332.595,
+                "end": 333.095,
+                "confidence": 0.99602675,
+                "speaker": 0,
+                "speaker_confidence": 0.22382867,
+                "punctuated_word": "estás?"
+              },
+              {
+                "word": "bien",
+                "start": 333.63498,
+                "end": 333.955,
+                "confidence": 0.98527735,
+                "speaker": 0,
+                "speaker_confidence": 0.53839654,
+                "punctuated_word": "Bien,"
+              },
+              {
+                "word": "bien",
+                "start": 333.955,
+                "end": 334.115,
+                "confidence": 0.99898356,
+                "speaker": 0,
+                "speaker_confidence": 0.53839654,
+                "punctuated_word": "bien,"
+              },
+              {
+                "word": "bien",
+                "start": 334.115,
+                "end": 334.275,
+                "confidence": 0.98921955,
+                "speaker": 0,
+                "speaker_confidence": 0.53839654,
+                "punctuated_word": "bien,"
+              },
+              {
+                "word": "bien",
+                "start": 334.275,
+                "end": 334.595,
+                "confidence": 0.97139335,
+                "speaker": 0,
+                "speaker_confidence": 0.53839654,
+                "punctuated_word": "bien."
+              },
+              {
+                "word": "a",
+                "start": 334.595,
+                "end": 334.675,
+                "confidence": 0.9946966,
+                "speaker": 0,
+                "speaker_confidence": 0.53839654,
+                "punctuated_word": "A"
+              },
+              {
+                "word": "ver",
+                "start": 334.675,
+                "end": 334.995,
+                "confidence": 0.9691336,
+                "speaker": 0,
+                "speaker_confidence": 0.53839654,
+                "punctuated_word": "ver,"
+              },
+              {
+                "word": "vamos",
+                "start": 334.995,
+                "end": 335.07498,
+                "confidence": 0.999448,
+                "speaker": 0,
+                "speaker_confidence": 0.53839654,
+                "punctuated_word": "vamos"
+              },
+              {
+                "word": "a",
+                "start": 335.07498,
+                "end": 335.235,
+                "confidence": 0.99518824,
+                "speaker": 0,
+                "speaker_confidence": 0.53839654,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "retuitear",
+                "start": 335.235,
+                "end": 335.735,
+                "confidence": 0.9210847,
+                "speaker": 0,
+                "speaker_confidence": 0.53839654,
+                "punctuated_word": "retuitear"
+              },
+              {
+                "word": "aquí",
+                "start": 335.79498,
+                "end": 336.035,
+                "confidence": 0.9937941,
+                "speaker": 0,
+                "speaker_confidence": 0.53839654,
+                "punctuated_word": "aquí"
+              },
+              {
+                "word": "para",
+                "start": 336.035,
+                "end": 336.275,
+                "confidence": 0.6910504,
+                "speaker": 0,
+                "speaker_confidence": 0.53839654,
+                "punctuated_word": "para,"
+              },
+              {
+                "word": "pues",
+                "start": 336.275,
+                "end": 336.395,
+                "confidence": 0.6116462,
+                "speaker": 0,
+                "speaker_confidence": 0.28030097,
+                "punctuated_word": "pues,"
+              },
+              {
+                "word": "a",
+                "start": 336.395,
+                "end": 336.51498,
+                "confidence": 0.92246777,
+                "speaker": 0,
+                "speaker_confidence": 0.28030097,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "la",
+                "start": 336.51498,
+                "end": 336.755,
+                "confidence": 0.82430273,
+                "speaker": 0,
+                "speaker_confidence": 0.28030097,
+                "punctuated_word": "la"
+              },
+              {
+                "word": "raza",
+                "start": 336.755,
+                "end": 337.07498,
+                "confidence": 0.4750747,
+                "speaker": 0,
+                "speaker_confidence": 0.28030097,
+                "punctuated_word": "raza."
+              },
+              {
+                "word": "dale",
+                "start": 337.07498,
+                "end": 337.315,
+                "confidence": 0.9372482,
+                "speaker": 1,
+                "speaker_confidence": 0.41518497,
+                "punctuated_word": "Dale,"
+              },
+              {
+                "word": "súmbalo",
+                "start": 337.315,
+                "end": 337.815,
+                "confidence": 0.9087746,
+                "speaker": 1,
+                "speaker_confidence": 0.41518497,
+                "punctuated_word": "súmbalo."
+              },
+              {
+                "word": "bien",
+                "start": 338.035,
+                "end": 338.275,
+                "confidence": 0.7409188,
+                "speaker": 0,
+                "speaker_confidence": 0.54345584,
+                "punctuated_word": "Bien"
+              },
+              {
+                "word": "bueno",
+                "start": 338.275,
+                "end": 338.51498,
+                "confidence": 0.98992705,
+                "speaker": 0,
+                "speaker_confidence": 0.54345584,
+                "punctuated_word": "bueno"
+              },
+              {
+                "word": "el",
+                "start": 338.51498,
+                "end": 339.01498,
+                "confidence": 0.7305595,
+                "speaker": 0,
+                "speaker_confidence": 0.54345584,
+                "punctuated_word": "el"
+              },
+              {
+                "word": "la",
+                "start": 339.03497,
+                "end": 339.53497,
+                "confidence": 0.9591798,
+                "speaker": 0,
+                "speaker_confidence": 0.54345584,
+                "punctuated_word": "la"
+              },
+              {
+                "word": "plática",
+                "start": 339.555,
+                "end": 339.955,
+                "confidence": 0.9311837,
+                "speaker": 0,
+                "speaker_confidence": 0.54345584,
+                "punctuated_word": "plática,"
+              },
+              {
+                "word": "creo",
+                "start": 339.955,
+                "end": 340.19498,
+                "confidence": 0.99924564,
+                "speaker": 0,
+                "speaker_confidence": 0.54345584,
+                "punctuated_word": "creo"
+              },
+              {
+                "word": "yo",
+                "start": 340.19498,
+                "end": 340.69498,
+                "confidence": 0.9907321,
+                "speaker": 0,
+                "speaker_confidence": 0.54345584,
+                "punctuated_word": "yo."
+              },
+              {
+                "word": "órale",
+                "start": 341.39,
+                "end": 341.71002,
+                "confidence": 0.98963255,
+                "speaker": 1,
+                "speaker_confidence": 0.480412,
+                "punctuated_word": "Órale."
+              },
+              {
+                "word": "estar",
+                "start": 342.03,
+                "end": 342.11002,
+                "confidence": 0.46365103,
+                "speaker": 1,
+                "speaker_confidence": 0.480412,
+                "punctuated_word": "Estar"
+              },
+              {
+                "word": "bueno",
+                "start": 342.11002,
+                "end": 342.51,
+                "confidence": 0.7560057,
+                "speaker": 0,
+                "speaker_confidence": 0.32898563,
+                "punctuated_word": "bueno."
+              },
+              {
+                "word": "nada",
+                "start": 342.51,
+                "end": 342.63,
+                "confidence": 0.49821633,
+                "speaker": 0,
+                "speaker_confidence": 0.32898563,
+                "punctuated_word": "Nada"
+              },
+              {
+                "word": "más",
+                "start": 342.63,
+                "end": 342.75,
+                "confidence": 0.9992471,
+                "speaker": 0,
+                "speaker_confidence": 0.32898563,
+                "punctuated_word": "más"
+              },
+              {
+                "word": "un",
+                "start": 342.75,
+                "end": 343.25,
+                "confidence": 0.6902927,
+                "speaker": 0,
+                "speaker_confidence": 0.32898563,
+                "punctuated_word": "un"
+              },
+              {
+                "word": "segundito",
+                "start": 343.87,
+                "end": 344.31,
+                "confidence": 0.99824405,
+                "speaker": 1,
+                "speaker_confidence": 0.49417305,
+                "punctuated_word": "segundito."
+              },
+              {
+                "word": "órale",
+                "start": 344.31,
+                "end": 344.75,
+                "confidence": 0.9253019,
+                "speaker": 1,
+                "speaker_confidence": 0.49417305,
+                "punctuated_word": "Órale,"
+              },
+              {
+                "word": "igual",
+                "start": 344.75,
+                "end": 345.25,
+                "confidence": 0.9990931,
+                "speaker": 1,
+                "speaker_confidence": 0.49417305,
+                "punctuated_word": "igual."
+              },
+              {
+                "word": "ahí",
+                "start": 345.63,
+                "end": 345.79,
+                "confidence": 0.9840305,
+                "speaker": 0,
+                "speaker_confidence": 0.5643477,
+                "punctuated_word": "Ahí"
+              },
+              {
+                "word": "están",
+                "start": 345.79,
+                "end": 346.03,
+                "confidence": 0.9982089,
+                "speaker": 0,
+                "speaker_confidence": 0.5643477,
+                "punctuated_word": "están"
+              },
+              {
+                "word": "cerrando",
+                "start": 346.03,
+                "end": 346.35,
+                "confidence": 0.9998227,
+                "speaker": 0,
+                "speaker_confidence": 0.5643477,
+                "punctuated_word": "cerrando"
+              },
+              {
+                "word": "también",
+                "start": 346.35,
+                "end": 346.85,
+                "confidence": 0.99002725,
+                "speaker": 0,
+                "speaker_confidence": 0.5643477,
+                "punctuated_word": "también"
+              },
+              {
+                "word": "en",
+                "start": 347.15,
+                "end": 347.23,
+                "confidence": 0.9541735,
+                "speaker": 0,
+                "speaker_confidence": 0.5643477,
+                "punctuated_word": "en"
+              },
+              {
+                "word": "el",
+                "start": 347.23,
+                "end": 347.47,
+                "confidence": 0.99937195,
+                "speaker": 0,
+                "speaker_confidence": 0.5643477,
+                "punctuated_word": "el"
+              },
+              {
+                "word": "espacio",
+                "start": 347.47,
+                "end": 347.66998,
+                "confidence": 0.998808,
+                "speaker": 0,
+                "speaker_confidence": 0.5643477,
+                "punctuated_word": "espacio"
+              },
+              {
+                "word": "de",
+                "start": 347.66998,
+                "end": 347.87,
+                "confidence": 0.28188542,
+                "speaker": 0,
+                "speaker_confidence": 0.5643477,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "yo",
+                "start": 347.87,
+                "end": 348.27002,
+                "confidence": 0.23720036,
+                "speaker": 0,
+                "speaker_confidence": 0.5643477,
+                "punctuated_word": "yo"
+              },
+              {
+                "word": "creo",
+                "start": 348.27002,
+                "end": 348.51,
+                "confidence": 0.9980221,
+                "speaker": 0,
+                "speaker_confidence": 0.5643477,
+                "punctuated_word": "creo"
+              },
+              {
+                "word": "que",
+                "start": 348.51,
+                "end": 348.59,
+                "confidence": 0.9938891,
+                "speaker": 0,
+                "speaker_confidence": 0.4253047,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "ahorita",
+                "start": 348.59,
+                "end": 348.75,
+                "confidence": 0.99840885,
+                "speaker": 0,
+                "speaker_confidence": 0.4253047,
+                "punctuated_word": "ahorita"
+              },
+              {
+                "word": "se",
+                "start": 348.75,
+                "end": 348.91,
+                "confidence": 0.9979213,
+                "speaker": 0,
+                "speaker_confidence": 0.4253047,
+                "punctuated_word": "se"
+              },
+              {
+                "word": "brincan",
+                "start": 348.91,
+                "end": 349.23,
+                "confidence": 0.99062777,
+                "speaker": 0,
+                "speaker_confidence": 0.4253047,
+                "punctuated_word": "brincan"
+              },
+              {
+                "word": "para",
+                "start": 349.23,
+                "end": 349.39,
+                "confidence": 0.97464716,
+                "speaker": 0,
+                "speaker_confidence": 0.4253047,
+                "punctuated_word": "para"
+              },
+              {
+                "word": "acá",
+                "start": 349.39,
+                "end": 349.55002,
+                "confidence": 0.9421822,
+                "speaker": 0,
+                "speaker_confidence": 0.4253047,
+                "punctuated_word": "acá"
+              },
+              {
+                "word": "que",
+                "start": 349.55002,
+                "end": 349.63,
+                "confidence": 0.43262404,
+                "speaker": 0,
+                "speaker_confidence": 0.4253047,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "ellos",
+                "start": 349.63,
+                "end": 350.13,
+                "confidence": 0.9601612,
+                "speaker": 0,
+                "speaker_confidence": 0.4253047,
+                "punctuated_word": "ellos."
+              },
+              {
+                "word": "ah",
+                "start": 350.19,
+                "end": 350.27002,
+                "confidence": 0.90858054,
+                "speaker": 1,
+                "speaker_confidence": 0.49214047,
+                "punctuated_word": "Ah,"
+              },
+              {
+                "word": "ok",
+                "start": 350.27002,
+                "end": 350.51,
+                "confidence": 0.90249795,
+                "speaker": 1,
+                "speaker_confidence": 0.49214047,
+                "punctuated_word": "ok,"
+              },
+              {
+                "word": "a",
+                "start": 350.51,
+                "end": 350.59,
+                "confidence": 0.9986615,
+                "speaker": 1,
+                "speaker_confidence": 0.49214047,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "todo",
+                "start": 350.59,
+                "end": 350.83002,
+                "confidence": 0.9970777,
+                "speaker": 1,
+                "speaker_confidence": 0.49214047,
+                "punctuated_word": "todo"
+              },
+              {
+                "word": "dar",
+                "start": 350.83002,
+                "end": 351.33002,
+                "confidence": 0.9453962,
+                "speaker": 1,
+                "speaker_confidence": 0.49214047,
+                "punctuated_word": "dar."
+              },
+              {
+                "word": "perfectísimo",
+                "start": 351.87,
+                "end": 352.37,
+                "confidence": 0.99472314,
+                "speaker": 1,
+                "speaker_confidence": 0.49214047,
+                "punctuated_word": "Perfectísimo."
+              },
+              {
+                "word": "ponemos",
+                "start": 364.905,
+                "end": 365.38498,
+                "confidence": 0.98907405,
+                "speaker": 1,
+                "speaker_confidence": 0.21215981,
+                "punctuated_word": "Ponemos"
+              },
+              {
+                "word": "musiquita",
+                "start": 365.38498,
+                "end": 365.88498,
+                "confidence": 0.99717957,
+                "speaker": 1,
+                "speaker_confidence": 0.21215981,
+                "punctuated_word": "musiquita."
+              },
+              {
+                "word": "qué",
+                "start": 462.89,
+                "end": 463.05002,
+                "confidence": 0.7073061,
+                "speaker": 0,
+                "speaker_confidence": 0.4145192,
+                "punctuated_word": "¿Qué"
+              },
+              {
+                "word": "onda",
+                "start": 463.05002,
+                "end": 463.37,
+                "confidence": 0.75937533,
+                "speaker": 0,
+                "speaker_confidence": 0.4145192,
+                "punctuated_word": "onda,"
+              },
+              {
+                "word": "qué",
+                "start": 463.37,
+                "end": 463.45,
+                "confidence": 0.9836023,
+                "speaker": 0,
+                "speaker_confidence": 0.4145192,
+                "punctuated_word": "qué"
+              },
+              {
+                "word": "onda",
+                "start": 463.45,
+                "end": 463.95,
+                "confidence": 0.9995935,
+                "speaker": 0,
+                "speaker_confidence": 0.4145192,
+                "punctuated_word": "onda?"
+              },
+              {
+                "word": "hey",
+                "start": 464.09,
+                "end": 464.59,
+                "confidence": 0.94464153,
+                "speaker": 1,
+                "speaker_confidence": 0.18277764,
+                "punctuated_word": "Hey,"
+              },
+              {
+                "word": "vamos",
+                "start": 465.05002,
+                "end": 465.21002,
+                "confidence": 0.9951257,
+                "speaker": 1,
+                "speaker_confidence": 0.18277764,
+                "punctuated_word": "vamos"
+              },
+              {
+                "word": "a",
+                "start": 465.21002,
+                "end": 465.37,
+                "confidence": 0.9868782,
+                "speaker": 1,
+                "speaker_confidence": 0.18277764,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "empezar",
+                "start": 465.37,
+                "end": 465.87,
+                "confidence": 0.91934174,
+                "speaker": 1,
+                "speaker_confidence": 0.18277764,
+                "punctuated_word": "empezar."
+              },
+              {
+                "word": "nos",
+                "start": 3247.79,
+                "end": 3247.95,
+                "confidence": 0.334059,
+                "speaker": 1,
+                "speaker_confidence": 0.19920093,
+                "punctuated_word": "Nos"
+              },
+              {
+                "word": "vemos",
+                "start": 3247.95,
+                "end": 3248.19,
+                "confidence": 0.98468405,
+                "speaker": 1,
+                "speaker_confidence": 0.19920093,
+                "punctuated_word": "vemos"
+              },
+              {
+                "word": "mi",
+                "start": 3248.19,
+                "end": 3248.3499,
+                "confidence": 0.37456185,
+                "speaker": 1,
+                "speaker_confidence": 0.19920093,
+                "punctuated_word": "mi"
+              },
+              {
+                "word": "gente",
+                "start": 3248.3499,
+                "end": 3248.8298,
+                "confidence": 0.7476654,
+                "speaker": 1,
+                "speaker_confidence": 0.19920093,
+                "punctuated_word": "gente."
+              },
+              {
+                "word": "hasta",
+                "start": 3248.8298,
+                "end": 3249.07,
+                "confidence": 0.99849796,
+                "speaker": 1,
+                "speaker_confidence": 0.19920093,
+                "punctuated_word": "Hasta"
+              },
+              {
+                "word": "la",
+                "start": 3249.07,
+                "end": 3249.31,
+                "confidence": 0.9968438,
+                "speaker": 1,
+                "speaker_confidence": 0.19920093,
+                "punctuated_word": "la"
+              },
+              {
+                "word": "próxima",
+                "start": 3249.31,
+                "end": 3249.79,
+                "confidence": 0.99497026,
+                "speaker": 1,
+                "speaker_confidence": 0.19920093,
+                "punctuated_word": "próxima"
+              },
+              {
+                "word": "nos",
+                "start": 3249.79,
+                "end": 3250.03,
+                "confidence": 0.48552957,
+                "speaker": 1,
+                "speaker_confidence": 0.19920093,
+                "punctuated_word": "nos"
+              },
+              {
+                "word": "hablamos",
+                "start": 3250.03,
+                "end": 3250.53,
+                "confidence": 0.98009515,
+                "speaker": 1,
+                "speaker_confidence": 0.19920093,
+                "punctuated_word": "hablamos."
+              },
+              {
+                "word": "un",
+                "start": 3250.965,
+                "end": 3251.0183,
+                "confidence": 0.99785584,
+                "speaker": 1,
+                "speaker_confidence": 0.36079216,
+                "punctuated_word": "Un"
+              },
+              {
+                "word": "abrazo",
+                "start": 3251.0183,
+                "end": 3251.0718,
+                "confidence": 0.99905986,
+                "speaker": 1,
+                "speaker_confidence": 0.36079216,
+                "punctuated_word": "abrazo"
+              },
+              {
+                "word": "a",
+                "start": 3251.0718,
+                "end": 3251.125,
+                "confidence": 0.9959638,
+                "speaker": 1,
+                "speaker_confidence": 0.36079216,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "todos",
+                "start": 3251.125,
+                "end": 3251.625,
+                "confidence": 0.7798197,
+                "speaker": 1,
+                "speaker_confidence": 0.36079216,
+                "punctuated_word": "todos."
+              },
+              {
+                "word": "chau",
+                "start": 3252.3252,
+                "end": 3252.8252,
+                "confidence": 0.82493234,
+                "speaker": 1,
+                "speaker_confidence": 0.36079216,
+                "punctuated_word": "Chau."
+              }
+            ],
+            "paragraphs": {
+              "transcript": "\nSpeaker 0: Bien, bien. ¿Cómo estás? Bien, bien, bien. Mexi. ¿Cómo estás?\n\nBien, bien, bien, bien. A ver, vamos a retuitear aquí para, pues, a la raza.\n\nSpeaker 1: Dale, súmbalo.\n\nSpeaker 0: Bien bueno el la plática, creo yo.\n\nSpeaker 1: Órale. Estar\n\nSpeaker 0: bueno. Nada más un\n\nSpeaker 1: segundito. Órale, igual.\n\nSpeaker 0: Ahí están cerrando también en el espacio de yo creo que ahorita se brincan para acá que ellos.\n\nSpeaker 1: Ah, ok, a todo dar. Perfectísimo. Ponemos musiquita.\n\nSpeaker 0: ¿Qué onda, qué onda?\n\nSpeaker 1: Hey, vamos a empezar. Nos vemos mi gente. Hasta la próxima nos hablamos. Un abrazo a todos. Chau.",
+              "paragraphs": [
+                {
+                  "sentences": [
+                    {
+                      "text": "Bien, bien.",
+                      "start": 326.995,
+                      "end": 327.47498
+                    },
+                    {
+                      "text": "¿Cómo estás?",
+                      "start": 327.47498,
+                      "end": 328.935
+                    },
+                    {
+                      "text": "Bien, bien, bien.",
+                      "start": 329.315,
+                      "end": 330.995
+                    },
+                    {
+                      "text": "Mexi.",
+                      "start": 330.995,
+                      "end": 331.495
+                    },
+                    {
+                      "text": "¿Cómo estás?",
+                      "start": 332.19498,
+                      "end": 333.095
+                    }
+                  ],
+                  "speaker": 0,
+                  "num_words": 10,
+                  "start": 326.995,
+                  "end": 333.095
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "Bien, bien, bien, bien.",
+                      "start": 333.63498,
+                      "end": 334.595
+                    },
+                    {
+                      "text": "A ver, vamos a retuitear aquí para, pues, a la raza.",
+                      "start": 334.595,
+                      "end": 337.07498
+                    }
+                  ],
+                  "speaker": 0,
+                  "num_words": 15,
+                  "start": 333.63498,
+                  "end": 337.07498
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "Dale, súmbalo.",
+                      "start": 337.07498,
+                      "end": 337.815
+                    }
+                  ],
+                  "speaker": 1,
+                  "num_words": 2,
+                  "start": 337.07498,
+                  "end": 337.815
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "Bien bueno el la plática, creo yo.",
+                      "start": 338.035,
+                      "end": 340.69498
+                    }
+                  ],
+                  "speaker": 0,
+                  "num_words": 7,
+                  "start": 338.035,
+                  "end": 340.69498
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "Órale.",
+                      "start": 341.39,
+                      "end": 341.71002
+                    },
+                    {
+                      "text": "Estar",
+                      "start": 342.03,
+                      "end": 342.11002
+                    }
+                  ],
+                  "speaker": 1,
+                  "num_words": 2,
+                  "start": 341.39,
+                  "end": 342.11002
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "bueno.",
+                      "start": 342.11002,
+                      "end": 342.51
+                    },
+                    {
+                      "text": "Nada más un",
+                      "start": 342.51,
+                      "end": 343.25
+                    }
+                  ],
+                  "speaker": 0,
+                  "num_words": 4,
+                  "start": 342.11002,
+                  "end": 343.25
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "segundito.",
+                      "start": 343.87,
+                      "end": 344.31
+                    },
+                    {
+                      "text": "Órale, igual.",
+                      "start": 344.31,
+                      "end": 345.25
+                    }
+                  ],
+                  "speaker": 1,
+                  "num_words": 3,
+                  "start": 343.87,
+                  "end": 345.25
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "Ahí están cerrando también en el espacio de yo creo que ahorita se brincan para acá que ellos.",
+                      "start": 345.63,
+                      "end": 350.13
+                    }
+                  ],
+                  "speaker": 0,
+                  "num_words": 18,
+                  "start": 345.63,
+                  "end": 350.13
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "Ah, ok, a todo dar.",
+                      "start": 350.19,
+                      "end": 351.33002
+                    },
+                    {
+                      "text": "Perfectísimo.",
+                      "start": 351.87,
+                      "end": 352.37
+                    },
+                    {
+                      "text": "Ponemos musiquita.",
+                      "start": 364.905,
+                      "end": 365.88498
+                    }
+                  ],
+                  "speaker": 1,
+                  "num_words": 8,
+                  "start": 350.19,
+                  "end": 365.88498
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "¿Qué onda, qué onda?",
+                      "start": 462.89,
+                      "end": 463.95
+                    }
+                  ],
+                  "speaker": 0,
+                  "num_words": 4,
+                  "start": 462.89,
+                  "end": 463.95
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "Hey, vamos a empezar.",
+                      "start": 464.09,
+                      "end": 465.87
+                    },
+                    {
+                      "text": "Nos vemos mi gente.",
+                      "start": 3247.79,
+                      "end": 3248.8298
+                    },
+                    {
+                      "text": "Hasta la próxima nos hablamos.",
+                      "start": 3248.8298,
+                      "end": 3250.53
+                    },
+                    {
+                      "text": "Un abrazo a todos.",
+                      "start": 3250.965,
+                      "end": 3251.625
+                    },
+                    {
+                      "text": "Chau.",
+                      "start": 3252.3252,
+                      "end": 3252.8252
+                    }
+                  ],
+                  "speaker": 1,
+                  "num_words": 18,
+                  "start": 464.09,
+                  "end": 3252.8252
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "utterances": [
+      {
+        "start": 326.995,
+        "end": 327.97498,
+        "confidence": 0.66234195,
+        "channel": 0,
+        "transcript": "Bien, bien. ¿Cómo",
+        "words": [
+          {
+            "word": "bien",
+            "start": 326.995,
+            "end": 327.315,
+            "confidence": 0.654294,
+            "speaker": 0,
+            "speaker_confidence": 0.26365268,
+            "punctuated_word": "Bien,"
+          },
+          {
+            "word": "bien",
+            "start": 327.315,
+            "end": 327.47498,
+            "confidence": 0.5496197,
+            "speaker": 0,
+            "speaker_confidence": 0.26365268,
+            "punctuated_word": "bien."
+          },
+          {
+            "word": "cómo",
+            "start": 327.47498,
+            "end": 327.97498,
+            "confidence": 0.78311217,
+            "speaker": 0,
+            "speaker_confidence": 0.26365268,
+            "punctuated_word": "¿Cómo"
+          }
+        ],
+        "speaker": 0,
+        "id": "6bc9ac87-58c5-42b7-b698-ff9375c79ab5"
+      },
+      {
+        "start": 328.435,
+        "end": 328.935,
+        "confidence": 0.6753332,
+        "channel": 0,
+        "transcript": "estás?",
+        "words": [
+          {
+            "word": "estás",
+            "start": 328.435,
+            "end": 328.935,
+            "confidence": 0.6753332,
+            "speaker": 0,
+            "speaker_confidence": 0.26365268,
+            "punctuated_word": "estás?"
+          }
+        ],
+        "speaker": 0,
+        "id": "fd5a85bc-18be-4f07-a81d-6c810b28f3b0"
+      },
+      {
+        "start": 329.315,
+        "end": 330.29498,
+        "confidence": 0.93493474,
+        "channel": 0,
+        "transcript": "Bien, bien,",
+        "words": [
+          {
+            "word": "bien",
+            "start": 329.315,
+            "end": 329.79498,
+            "confidence": 0.97765654,
+            "speaker": 0,
+            "speaker_confidence": 0.22382867,
+            "punctuated_word": "Bien,"
+          },
+          {
+            "word": "bien",
+            "start": 329.79498,
+            "end": 330.29498,
+            "confidence": 0.892213,
+            "speaker": 0,
+            "speaker_confidence": 0.22382867,
+            "punctuated_word": "bien,"
+          }
+        ],
+        "speaker": 0,
+        "id": "e9a77df8-5c18-489d-90ca-d8e3a3d7f2a2"
+      },
+      {
+        "start": 330.835,
+        "end": 331.495,
+        "confidence": 0.75375605,
+        "channel": 0,
+        "transcript": "bien. Mexi.",
+        "words": [
+          {
+            "word": "bien",
+            "start": 330.835,
+            "end": 330.995,
+            "confidence": 0.87703145,
+            "speaker": 0,
+            "speaker_confidence": 0.22382867,
+            "punctuated_word": "bien."
+          },
+          {
+            "word": "mexi",
+            "start": 330.995,
+            "end": 331.495,
+            "confidence": 0.6304806,
+            "speaker": 0,
+            "speaker_confidence": 0.22382867,
+            "punctuated_word": "Mexi."
+          }
+        ],
+        "speaker": 0,
+        "id": "a53a91ac-7f5c-4431-b516-659a79863ee0"
+      },
+      {
+        "start": 332.19498,
+        "end": 333.095,
+        "confidence": 0.9974333,
+        "channel": 0,
+        "transcript": "¿Cómo estás?",
+        "words": [
+          {
+            "word": "cómo",
+            "start": 332.19498,
+            "end": 332.595,
+            "confidence": 0.99883986,
+            "speaker": 0,
+            "speaker_confidence": 0.22382867,
+            "punctuated_word": "¿Cómo"
+          },
+          {
+            "word": "estás",
+            "start": 332.595,
+            "end": 333.095,
+            "confidence": 0.99602675,
+            "speaker": 0,
+            "speaker_confidence": 0.22382867,
+            "punctuated_word": "estás?"
+          }
+        ],
+        "speaker": 0,
+        "id": "a015bae4-2c65-4969-9270-6c462fe4fa25"
+      },
+      {
+        "start": 333.63498,
+        "end": 340.69498,
+        "confidence": 0.89710546,
+        "channel": 0,
+        "transcript": "Bien, bien, bien, bien. A ver, vamos a retuitear aquí para, pues, a la raza. Dale, súmbalo. Bien bueno el la plática, creo yo.",
+        "words": [
+          {
+            "word": "bien",
+            "start": 333.63498,
+            "end": 333.955,
+            "confidence": 0.98527735,
+            "speaker": 0,
+            "speaker_confidence": 0.53839654,
+            "punctuated_word": "Bien,"
+          },
+          {
+            "word": "bien",
+            "start": 333.955,
+            "end": 334.115,
+            "confidence": 0.99898356,
+            "speaker": 0,
+            "speaker_confidence": 0.53839654,
+            "punctuated_word": "bien,"
+          },
+          {
+            "word": "bien",
+            "start": 334.115,
+            "end": 334.275,
+            "confidence": 0.98921955,
+            "speaker": 0,
+            "speaker_confidence": 0.53839654,
+            "punctuated_word": "bien,"
+          },
+          {
+            "word": "bien",
+            "start": 334.275,
+            "end": 334.595,
+            "confidence": 0.97139335,
+            "speaker": 0,
+            "speaker_confidence": 0.53839654,
+            "punctuated_word": "bien."
+          },
+          {
+            "word": "a",
+            "start": 334.595,
+            "end": 334.675,
+            "confidence": 0.9946966,
+            "speaker": 0,
+            "speaker_confidence": 0.53839654,
+            "punctuated_word": "A"
+          },
+          {
+            "word": "ver",
+            "start": 334.675,
+            "end": 334.995,
+            "confidence": 0.9691336,
+            "speaker": 0,
+            "speaker_confidence": 0.53839654,
+            "punctuated_word": "ver,"
+          },
+          {
+            "word": "vamos",
+            "start": 334.995,
+            "end": 335.07498,
+            "confidence": 0.999448,
+            "speaker": 0,
+            "speaker_confidence": 0.53839654,
+            "punctuated_word": "vamos"
+          },
+          {
+            "word": "a",
+            "start": 335.07498,
+            "end": 335.235,
+            "confidence": 0.99518824,
+            "speaker": 0,
+            "speaker_confidence": 0.53839654,
+            "punctuated_word": "a"
+          },
+          {
+            "word": "retuitear",
+            "start": 335.235,
+            "end": 335.735,
+            "confidence": 0.9210847,
+            "speaker": 0,
+            "speaker_confidence": 0.53839654,
+            "punctuated_word": "retuitear"
+          },
+          {
+            "word": "aquí",
+            "start": 335.79498,
+            "end": 336.035,
+            "confidence": 0.9937941,
+            "speaker": 0,
+            "speaker_confidence": 0.53839654,
+            "punctuated_word": "aquí"
+          },
+          {
+            "word": "para",
+            "start": 336.035,
+            "end": 336.275,
+            "confidence": 0.6910504,
+            "speaker": 0,
+            "speaker_confidence": 0.53839654,
+            "punctuated_word": "para,"
+          },
+          {
+            "word": "pues",
+            "start": 336.275,
+            "end": 336.395,
+            "confidence": 0.6116462,
+            "speaker": 0,
+            "speaker_confidence": 0.28030097,
+            "punctuated_word": "pues,"
+          },
+          {
+            "word": "a",
+            "start": 336.395,
+            "end": 336.51498,
+            "confidence": 0.92246777,
+            "speaker": 0,
+            "speaker_confidence": 0.28030097,
+            "punctuated_word": "a"
+          },
+          {
+            "word": "la",
+            "start": 336.51498,
+            "end": 336.755,
+            "confidence": 0.82430273,
+            "speaker": 0,
+            "speaker_confidence": 0.28030097,
+            "punctuated_word": "la"
+          },
+          {
+            "word": "raza",
+            "start": 336.755,
+            "end": 337.07498,
+            "confidence": 0.4750747,
+            "speaker": 0,
+            "speaker_confidence": 0.28030097,
+            "punctuated_word": "raza."
+          },
+          {
+            "word": "dale",
+            "start": 337.07498,
+            "end": 337.315,
+            "confidence": 0.9372482,
+            "speaker": 1,
+            "speaker_confidence": 0.41518497,
+            "punctuated_word": "Dale,"
+          },
+          {
+            "word": "súmbalo",
+            "start": 337.315,
+            "end": 337.815,
+            "confidence": 0.9087746,
+            "speaker": 1,
+            "speaker_confidence": 0.41518497,
+            "punctuated_word": "súmbalo."
+          },
+          {
+            "word": "bien",
+            "start": 338.035,
+            "end": 338.275,
+            "confidence": 0.7409188,
+            "speaker": 0,
+            "speaker_confidence": 0.54345584,
+            "punctuated_word": "Bien"
+          },
+          {
+            "word": "bueno",
+            "start": 338.275,
+            "end": 338.51498,
+            "confidence": 0.98992705,
+            "speaker": 0,
+            "speaker_confidence": 0.54345584,
+            "punctuated_word": "bueno"
+          },
+          {
+            "word": "el",
+            "start": 338.51498,
+            "end": 339.01498,
+            "confidence": 0.7305595,
+            "speaker": 0,
+            "speaker_confidence": 0.54345584,
+            "punctuated_word": "el"
+          },
+          {
+            "word": "la",
+            "start": 339.03497,
+            "end": 339.53497,
+            "confidence": 0.9591798,
+            "speaker": 0,
+            "speaker_confidence": 0.54345584,
+            "punctuated_word": "la"
+          },
+          {
+            "word": "plática",
+            "start": 339.555,
+            "end": 339.955,
+            "confidence": 0.9311837,
+            "speaker": 0,
+            "speaker_confidence": 0.54345584,
+            "punctuated_word": "plática,"
+          },
+          {
+            "word": "creo",
+            "start": 339.955,
+            "end": 340.19498,
+            "confidence": 0.99924564,
+            "speaker": 0,
+            "speaker_confidence": 0.54345584,
+            "punctuated_word": "creo"
+          },
+          {
+            "word": "yo",
+            "start": 340.19498,
+            "end": 340.69498,
+            "confidence": 0.9907321,
+            "speaker": 0,
+            "speaker_confidence": 0.54345584,
+            "punctuated_word": "yo."
+          }
+        ],
+        "speaker": 0,
+        "id": "86e0dd62-ee18-4617-87e5-baf9d0295d96"
+      },
+      {
+        "start": 341.39,
+        "end": 343.25,
+        "confidence": 0.73284096,
+        "channel": 0,
+        "transcript": "Órale. Estar bueno. Nada más un",
+        "words": [
+          {
+            "word": "órale",
+            "start": 341.39,
+            "end": 341.71002,
+            "confidence": 0.98963255,
+            "speaker": 1,
+            "speaker_confidence": 0.480412,
+            "punctuated_word": "Órale."
+          },
+          {
+            "word": "estar",
+            "start": 342.03,
+            "end": 342.11002,
+            "confidence": 0.46365103,
+            "speaker": 1,
+            "speaker_confidence": 0.480412,
+            "punctuated_word": "Estar"
+          },
+          {
+            "word": "bueno",
+            "start": 342.11002,
+            "end": 342.51,
+            "confidence": 0.7560057,
+            "speaker": 0,
+            "speaker_confidence": 0.32898563,
+            "punctuated_word": "bueno."
+          },
+          {
+            "word": "nada",
+            "start": 342.51,
+            "end": 342.63,
+            "confidence": 0.49821633,
+            "speaker": 0,
+            "speaker_confidence": 0.32898563,
+            "punctuated_word": "Nada"
+          },
+          {
+            "word": "más",
+            "start": 342.63,
+            "end": 342.75,
+            "confidence": 0.9992471,
+            "speaker": 0,
+            "speaker_confidence": 0.32898563,
+            "punctuated_word": "más"
+          },
+          {
+            "word": "un",
+            "start": 342.75,
+            "end": 343.25,
+            "confidence": 0.6902927,
+            "speaker": 0,
+            "speaker_confidence": 0.32898563,
+            "punctuated_word": "un"
+          }
+        ],
+        "speaker": 0,
+        "id": "ffa4fd63-cb22-4c57-8133-3d65eb578220"
+      },
+      {
+        "start": 343.87,
+        "end": 345.25,
+        "confidence": 0.97421306,
+        "channel": 0,
+        "transcript": "segundito. Órale, igual.",
+        "words": [
+          {
+            "word": "segundito",
+            "start": 343.87,
+            "end": 344.31,
+            "confidence": 0.99824405,
+            "speaker": 1,
+            "speaker_confidence": 0.49417305,
+            "punctuated_word": "segundito."
+          },
+          {
+            "word": "órale",
+            "start": 344.31,
+            "end": 344.75,
+            "confidence": 0.9253019,
+            "speaker": 1,
+            "speaker_confidence": 0.49417305,
+            "punctuated_word": "Órale,"
+          },
+          {
+            "word": "igual",
+            "start": 344.75,
+            "end": 345.25,
+            "confidence": 0.9990931,
+            "speaker": 1,
+            "speaker_confidence": 0.49417305,
+            "punctuated_word": "igual."
+          }
+        ],
+        "speaker": 1,
+        "id": "ed4585fa-6f1b-40cb-8f2e-8da742af9257"
+      },
+      {
+        "start": 345.63,
+        "end": 351.33002,
+        "confidence": 0.8906185,
+        "channel": 0,
+        "transcript": "Ahí están cerrando también en el espacio de yo creo que ahorita se brincan para acá que ellos. Ah, ok, a todo dar.",
+        "words": [
+          {
+            "word": "ahí",
+            "start": 345.63,
+            "end": 345.79,
+            "confidence": 0.9840305,
+            "speaker": 0,
+            "speaker_confidence": 0.5643477,
+            "punctuated_word": "Ahí"
+          },
+          {
+            "word": "están",
+            "start": 345.79,
+            "end": 346.03,
+            "confidence": 0.9982089,
+            "speaker": 0,
+            "speaker_confidence": 0.5643477,
+            "punctuated_word": "están"
+          },
+          {
+            "word": "cerrando",
+            "start": 346.03,
+            "end": 346.35,
+            "confidence": 0.9998227,
+            "speaker": 0,
+            "speaker_confidence": 0.5643477,
+            "punctuated_word": "cerrando"
+          },
+          {
+            "word": "también",
+            "start": 346.35,
+            "end": 346.85,
+            "confidence": 0.99002725,
+            "speaker": 0,
+            "speaker_confidence": 0.5643477,
+            "punctuated_word": "también"
+          },
+          {
+            "word": "en",
+            "start": 347.15,
+            "end": 347.23,
+            "confidence": 0.9541735,
+            "speaker": 0,
+            "speaker_confidence": 0.5643477,
+            "punctuated_word": "en"
+          },
+          {
+            "word": "el",
+            "start": 347.23,
+            "end": 347.47,
+            "confidence": 0.99937195,
+            "speaker": 0,
+            "speaker_confidence": 0.5643477,
+            "punctuated_word": "el"
+          },
+          {
+            "word": "espacio",
+            "start": 347.47,
+            "end": 347.66998,
+            "confidence": 0.998808,
+            "speaker": 0,
+            "speaker_confidence": 0.5643477,
+            "punctuated_word": "espacio"
+          },
+          {
+            "word": "de",
+            "start": 347.66998,
+            "end": 347.87,
+            "confidence": 0.28188542,
+            "speaker": 0,
+            "speaker_confidence": 0.5643477,
+            "punctuated_word": "de"
+          },
+          {
+            "word": "yo",
+            "start": 347.87,
+            "end": 348.27002,
+            "confidence": 0.23720036,
+            "speaker": 0,
+            "speaker_confidence": 0.5643477,
+            "punctuated_word": "yo"
+          },
+          {
+            "word": "creo",
+            "start": 348.27002,
+            "end": 348.51,
+            "confidence": 0.9980221,
+            "speaker": 0,
+            "speaker_confidence": 0.5643477,
+            "punctuated_word": "creo"
+          },
+          {
+            "word": "que",
+            "start": 348.51,
+            "end": 348.59,
+            "confidence": 0.9938891,
+            "speaker": 0,
+            "speaker_confidence": 0.4253047,
+            "punctuated_word": "que"
+          },
+          {
+            "word": "ahorita",
+            "start": 348.59,
+            "end": 348.75,
+            "confidence": 0.99840885,
+            "speaker": 0,
+            "speaker_confidence": 0.4253047,
+            "punctuated_word": "ahorita"
+          },
+          {
+            "word": "se",
+            "start": 348.75,
+            "end": 348.91,
+            "confidence": 0.9979213,
+            "speaker": 0,
+            "speaker_confidence": 0.4253047,
+            "punctuated_word": "se"
+          },
+          {
+            "word": "brincan",
+            "start": 348.91,
+            "end": 349.23,
+            "confidence": 0.99062777,
+            "speaker": 0,
+            "speaker_confidence": 0.4253047,
+            "punctuated_word": "brincan"
+          },
+          {
+            "word": "para",
+            "start": 349.23,
+            "end": 349.39,
+            "confidence": 0.97464716,
+            "speaker": 0,
+            "speaker_confidence": 0.4253047,
+            "punctuated_word": "para"
+          },
+          {
+            "word": "acá",
+            "start": 349.39,
+            "end": 349.55002,
+            "confidence": 0.9421822,
+            "speaker": 0,
+            "speaker_confidence": 0.4253047,
+            "punctuated_word": "acá"
+          },
+          {
+            "word": "que",
+            "start": 349.55002,
+            "end": 349.63,
+            "confidence": 0.43262404,
+            "speaker": 0,
+            "speaker_confidence": 0.4253047,
+            "punctuated_word": "que"
+          },
+          {
+            "word": "ellos",
+            "start": 349.63,
+            "end": 350.13,
+            "confidence": 0.9601612,
+            "speaker": 0,
+            "speaker_confidence": 0.4253047,
+            "punctuated_word": "ellos."
+          },
+          {
+            "word": "ah",
+            "start": 350.19,
+            "end": 350.27002,
+            "confidence": 0.90858054,
+            "speaker": 1,
+            "speaker_confidence": 0.49214047,
+            "punctuated_word": "Ah,"
+          },
+          {
+            "word": "ok",
+            "start": 350.27002,
+            "end": 350.51,
+            "confidence": 0.90249795,
+            "speaker": 1,
+            "speaker_confidence": 0.49214047,
+            "punctuated_word": "ok,"
+          },
+          {
+            "word": "a",
+            "start": 350.51,
+            "end": 350.59,
+            "confidence": 0.9986615,
+            "speaker": 1,
+            "speaker_confidence": 0.49214047,
+            "punctuated_word": "a"
+          },
+          {
+            "word": "todo",
+            "start": 350.59,
+            "end": 350.83002,
+            "confidence": 0.9970777,
+            "speaker": 1,
+            "speaker_confidence": 0.49214047,
+            "punctuated_word": "todo"
+          },
+          {
+            "word": "dar",
+            "start": 350.83002,
+            "end": 351.33002,
+            "confidence": 0.9453962,
+            "speaker": 1,
+            "speaker_confidence": 0.49214047,
+            "punctuated_word": "dar."
+          }
+        ],
+        "speaker": 0,
+        "id": "17e4bade-4aa4-4615-90f7-7c9f2af4b231"
+      },
+      {
+        "start": 351.87,
+        "end": 352.37,
+        "confidence": 0.99472314,
+        "channel": 0,
+        "transcript": "Perfectísimo.",
+        "words": [
+          {
+            "word": "perfectísimo",
+            "start": 351.87,
+            "end": 352.37,
+            "confidence": 0.99472314,
+            "speaker": 1,
+            "speaker_confidence": 0.49214047,
+            "punctuated_word": "Perfectísimo."
+          }
+        ],
+        "speaker": 1,
+        "id": "a1e13e90-e6d1-4aaf-8e20-b9bba2a77fe9"
+      },
+      {
+        "start": 364.905,
+        "end": 365.88498,
+        "confidence": 0.9931268,
+        "channel": 0,
+        "transcript": "Ponemos musiquita.",
+        "words": [
+          {
+            "word": "ponemos",
+            "start": 364.905,
+            "end": 365.38498,
+            "confidence": 0.98907405,
+            "speaker": 1,
+            "speaker_confidence": 0.21215981,
+            "punctuated_word": "Ponemos"
+          },
+          {
+            "word": "musiquita",
+            "start": 365.38498,
+            "end": 365.88498,
+            "confidence": 0.99717957,
+            "speaker": 1,
+            "speaker_confidence": 0.21215981,
+            "punctuated_word": "musiquita."
+          }
+        ],
+        "speaker": 1,
+        "id": "c30f4722-7617-444d-8968-07fa1ff39eff"
+      },
+      {
+        "start": 462.89,
+        "end": 464.59,
+        "confidence": 0.87890375,
+        "channel": 0,
+        "transcript": "¿Qué onda, qué onda? Hey,",
+        "words": [
+          {
+            "word": "qué",
+            "start": 462.89,
+            "end": 463.05002,
+            "confidence": 0.7073061,
+            "speaker": 0,
+            "speaker_confidence": 0.4145192,
+            "punctuated_word": "¿Qué"
+          },
+          {
+            "word": "onda",
+            "start": 463.05002,
+            "end": 463.37,
+            "confidence": 0.75937533,
+            "speaker": 0,
+            "speaker_confidence": 0.4145192,
+            "punctuated_word": "onda,"
+          },
+          {
+            "word": "qué",
+            "start": 463.37,
+            "end": 463.45,
+            "confidence": 0.9836023,
+            "speaker": 0,
+            "speaker_confidence": 0.4145192,
+            "punctuated_word": "qué"
+          },
+          {
+            "word": "onda",
+            "start": 463.45,
+            "end": 463.95,
+            "confidence": 0.9995935,
+            "speaker": 0,
+            "speaker_confidence": 0.4145192,
+            "punctuated_word": "onda?"
+          },
+          {
+            "word": "hey",
+            "start": 464.09,
+            "end": 464.59,
+            "confidence": 0.94464153,
+            "speaker": 1,
+            "speaker_confidence": 0.18277764,
+            "punctuated_word": "Hey,"
+          }
+        ],
+        "speaker": 0,
+        "id": "cb7b1631-5834-493b-8571-45759d2592ad"
+      },
+      {
+        "start": 465.05002,
+        "end": 465.87,
+        "confidence": 0.9671152,
+        "channel": 0,
+        "transcript": "vamos a empezar.",
+        "words": [
+          {
+            "word": "vamos",
+            "start": 465.05002,
+            "end": 465.21002,
+            "confidence": 0.9951257,
+            "speaker": 1,
+            "speaker_confidence": 0.18277764,
+            "punctuated_word": "vamos"
+          },
+          {
+            "word": "a",
+            "start": 465.21002,
+            "end": 465.37,
+            "confidence": 0.9868782,
+            "speaker": 1,
+            "speaker_confidence": 0.18277764,
+            "punctuated_word": "a"
+          },
+          {
+            "word": "empezar",
+            "start": 465.37,
+            "end": 465.87,
+            "confidence": 0.91934174,
+            "speaker": 1,
+            "speaker_confidence": 0.18277764,
+            "punctuated_word": "empezar."
+          }
+        ],
+        "speaker": 1,
+        "id": "84eb1cc5-b3f3-442f-8f38-8bc69863f9e7"
+      },
+      {
+        "start": 3247.79,
+        "end": 3250.53,
+        "confidence": 0.766323,
+        "channel": 0,
+        "transcript": "Nos vemos mi gente. Hasta la próxima nos hablamos.",
+        "words": [
+          {
+            "word": "nos",
+            "start": 3247.79,
+            "end": 3247.95,
+            "confidence": 0.334059,
+            "speaker": 1,
+            "speaker_confidence": 0.19920093,
+            "punctuated_word": "Nos"
+          },
+          {
+            "word": "vemos",
+            "start": 3247.95,
+            "end": 3248.19,
+            "confidence": 0.98468405,
+            "speaker": 1,
+            "speaker_confidence": 0.19920093,
+            "punctuated_word": "vemos"
+          },
+          {
+            "word": "mi",
+            "start": 3248.19,
+            "end": 3248.3499,
+            "confidence": 0.37456185,
+            "speaker": 1,
+            "speaker_confidence": 0.19920093,
+            "punctuated_word": "mi"
+          },
+          {
+            "word": "gente",
+            "start": 3248.3499,
+            "end": 3248.8298,
+            "confidence": 0.7476654,
+            "speaker": 1,
+            "speaker_confidence": 0.19920093,
+            "punctuated_word": "gente."
+          },
+          {
+            "word": "hasta",
+            "start": 3248.8298,
+            "end": 3249.07,
+            "confidence": 0.99849796,
+            "speaker": 1,
+            "speaker_confidence": 0.19920093,
+            "punctuated_word": "Hasta"
+          },
+          {
+            "word": "la",
+            "start": 3249.07,
+            "end": 3249.31,
+            "confidence": 0.9968438,
+            "speaker": 1,
+            "speaker_confidence": 0.19920093,
+            "punctuated_word": "la"
+          },
+          {
+            "word": "próxima",
+            "start": 3249.31,
+            "end": 3249.79,
+            "confidence": 0.99497026,
+            "speaker": 1,
+            "speaker_confidence": 0.19920093,
+            "punctuated_word": "próxima"
+          },
+          {
+            "word": "nos",
+            "start": 3249.79,
+            "end": 3250.03,
+            "confidence": 0.48552957,
+            "speaker": 1,
+            "speaker_confidence": 0.19920093,
+            "punctuated_word": "nos"
+          },
+          {
+            "word": "hablamos",
+            "start": 3250.03,
+            "end": 3250.53,
+            "confidence": 0.98009515,
+            "speaker": 1,
+            "speaker_confidence": 0.19920093,
+            "punctuated_word": "hablamos."
+          }
+        ],
+        "speaker": 1,
+        "id": "88b643a0-381b-4474-a883-9931634c364d"
+      },
+      {
+        "start": 3250.965,
+        "end": 3251.625,
+        "confidence": 0.9431748,
+        "channel": 0,
+        "transcript": "Un abrazo a todos.",
+        "words": [
+          {
+            "word": "un",
+            "start": 3250.965,
+            "end": 3251.0183,
+            "confidence": 0.99785584,
+            "speaker": 1,
+            "speaker_confidence": 0.36079216,
+            "punctuated_word": "Un"
+          },
+          {
+            "word": "abrazo",
+            "start": 3251.0183,
+            "end": 3251.0718,
+            "confidence": 0.99905986,
+            "speaker": 1,
+            "speaker_confidence": 0.36079216,
+            "punctuated_word": "abrazo"
+          },
+          {
+            "word": "a",
+            "start": 3251.0718,
+            "end": 3251.125,
+            "confidence": 0.9959638,
+            "speaker": 1,
+            "speaker_confidence": 0.36079216,
+            "punctuated_word": "a"
+          },
+          {
+            "word": "todos",
+            "start": 3251.125,
+            "end": 3251.625,
+            "confidence": 0.7798197,
+            "speaker": 1,
+            "speaker_confidence": 0.36079216,
+            "punctuated_word": "todos."
+          }
+        ],
+        "speaker": 1,
+        "id": "04a72eb4-acae-406e-8ea2-2c789ffba7a4"
+      },
+      {
+        "start": 3252.3252,
+        "end": 3252.8252,
+        "confidence": 0.82493234,
+        "channel": 0,
+        "transcript": "Chau.",
+        "words": [
+          {
+            "word": "chau",
+            "start": 3252.3252,
+            "end": 3252.8252,
+            "confidence": 0.82493234,
+            "speaker": 1,
+            "speaker_confidence": 0.36079216,
+            "punctuated_word": "Chau."
+          }
+        ],
+        "speaker": 1,
+        "id": "811646a8-1268-48c2-8ca4-397f4d73c826"
+      }
+    ]
+  }
+}

@@ -1,0 +1,582 @@
+
+[Speaker 0 - 00:00:08]
+Bueno, bueno, bienvenidos. Vamos a empezar aquí el espacio. Vamos a darles unos minutitos para que se conecte la gente. Vamos a poner un poquito de musiquita. Vamos a ver si me permite este nuevo sistema que estoy ahorita manejando. Tengo un celular específicamente listo para esto. Traigo mis audífonos, mis micrófonos. Viene la gente ya conectándose. Bienvenidos. Getche, Coderal, Lanier. Lanier, perdón. Bienvenido, bienvenido. Les puedo platicar, por aquí veo que está Coderal, que que que es de aquí de de Monterrey. Yo estamos yo estoy acá en Monterrey. Hoy hay una reunión. Vamos a tener un un meetup como lo estamos haciendo todas las semanas. El que quiera llegar a participar écheme un mensajito. Ya llegó Jesús, vamos a invitarlo aquí a hablar, vamos a hacerlo con host. Estamos tratando de tener reuniones cada semana con entusiastas cripto, con entusiastas NSTs, con gente que quiera aprender del del del mercado del ecosistema.
+
+[Speaker 0 - 00:01:13]
+Vamos a invitar a Jesús a hacer cohost, denme un segundito. Y La idea de esas reuniones, pues es primero que nada conocer a la gente que poco a poco quiere aprender un poquito más, tener un momento entretenido donde podamos reunirnos, tener un espacio para platicar, para hacer networking. Creo que eso es algo que ha faltado muchísimo, tener un lugar presencial como para podernos reunir. Estamos buscando que aquí en Monterrey tengamos esa oportunidad. Chuyik, no no te he invitado, pero hoy a las 7 tenemos esa plática. Me gustaría luego que nos dieras tú una plática sobre economía, sobre tu perspectiva, sobre tu opinión del mercado. La intención, como les decía, es todas las semanas se están reuniendo. Estamos planeando los los jueves en las tardes, jueves de 7 a 10, la verdad luego ya nos quedamos un poquito más. Pero, pues bueno, se ha juntado muy buena gente aquí en Monterrey.
+
+[Speaker 0 - 00:02:16]
+La primer reunión la tuvimos con en en compañía de la gente de la academia Blockdemy, que está allá en Ciudad de México. Ellos costearon el espacio. Yo puse el lugar, que tenemos aquí unas oficinas en Monterrey destinadas para eso. Por ahí veo a Lu que se está conectando, ella por ahí la conocí. También muchos de los que de repente se conectan aquí en los spaces estuvo presencial. Estuvimos casi 70 personas aprendiendo sobre la tecnología. Ya tenemos otras 2 reuniones, la de hoy es la tercera. La idea, como les decía, es tener un espacio físico donde una persona pueda ir a platicar de algún tema importante, educativo y que cualquiera que quiera asistir gratuitamente pueda asistir. Entonces, Tato, vamos a mandarlo de cojos también. Bienvenido, aquí tenemos al buen Chull Jick. Me gustaría hoy tenerte por acá si tienes oportunidad. Si no, no pasa nada, ¿no?
+
+[Speaker 0 - 00:03:16]
+Ya sabemos cómo cómo se maneja esto, hay veces que podemos, hay veces que no. Chuyik, bienvenido. Gracias, gracias. ¿Te puedo llamar Chuyik de Canadá o quieres que te diga Jesús Garza?
+
+[Speaker 1 - 00:03:35]
+Chullic Morris.
+
+[Speaker 0 - 00:03:37]
+No, bienvenido Tato, bienvenido, bienvenidos a todos. Vamos a empezar, la verdad, estos espacios. La idea es empezarlos a la hora. Yo quiero que duren al menos una hora después de la primer hora, a partir del minuto 1 de la segunda hora ya se puede acabar en cualquier momento. Así que no se sorprendan si esto lo terminamos en a mediados de alguna plática interesante, todo depende de cómo esté la gente, cómo esté la atención. Pero bueno, al menos una hora les aseguramos que podemos desear estar aquí. Primero que nada, bienvenidos. Yo creo que ya podemos empezar. El nombre del espacio se llama El Economista y el Ingeniero. Jesús Garza es el economista y me gustaría que hablara un poquito de él, que se presentara rápidamente, que nos platicara de su historia, de su experiencia, qué es lo que le ha tocado vivir, qué es lo que lo ha hecho lo que es el día de hoy. Jesús, bienvenido adelante. Me gusta mucho la perspectiva de platicar, de aprender, con un poquito de diversión.
+
+[Speaker 0 - 00:04:38]
+De una de un lado técnico, ingenieril, como el mío, y de otro lado pues economista financiero con experiencia en en en en esa situación como el tuyo. Pero adelante, bienvenido. Preséntate, por favor.
+
+[Speaker 1 - 00:04:52]
+Gracias, sí me alist. Yo soy Jesús Garza, soy economista, egresado del Tec, con maestría y doctorado en economía en Essex, Inglaterra. Trabajé de académico en Inglaterra, en Bristol Business School, trabajé después en Banco de México, en Hacienda y Crédito Público, en un banco brasileño que se llama Itaú. Luego abrí mi propia empresa, que se llama Soluciones Financieras Gamma. También doy clases en EGADE, y y soy columnista del financiero los jueves. De hecho, hoy salí mi hoy salió mi columna, se llama elecciones en Estados Unidos, sobre las recientes elecciones intermedias en los Estados Unidos. Y, pues, nada, aquí, este, me interesa mucho, obviamente, el tema de coyuntura económica. Y, bueno, qué padre que lo hemos estado ligando también con el interés creciente sobre las criptomonedas y este sector. Y y pues nada, pues a empezar a darle. Hoy hoy hubo muchas noticias. No sé si podemos comenzar con eso. Este, hubo muchas noticias
+
+[Speaker 0 - 00:05:50]
+Permíteme un segundo. Déjame presento yo también. Yo creo que es importante, como es grabado el espacio, este, y pues también creo que tenemos que utilizar estas herramientas y estos tiempos para vendernos a nosotros mismos. De nuevo, bienvenido Jesús. Amplia experiencia como ya lo comentó. Yo me presento rápidamente. Yo soy Mauricio Cruz. Soy ingeniero en electrónica y comunicaciones acá en Monterrey. Tengo una maestría en criminología con especialidad en seguridad y protección de la Universidad Autónoma de Nuevo León. Me he especializado durante los últimos 20 años en trabajar para empresas. Soy ex Vitro, una empresa que hace vidrio acá en Monterrey y ex Honeywell, una empresa global que hace tecnología. Por los últimos 10 años estuve a cargo del departamento de operaciones de edificios inteligentes para Latinoamérica. La verdad es que me apasiona mucho la tecnología. Desde siempre he estado con acceso al Internet, por ejemplo, desde muy chico tuvimos computadoras. Fui muy afortunado en ese sentido.
+
+[Speaker 0 - 00:06:52]
+Cuando teníamos nosotros, somos 3 hombres aquí en la casa, como 12 o 13 años de edad, mis papás tuvieron la oportunidad de poner una tienda de computación en varias plazas aquí de Monterrey. La verdad es que tenía acceso a cámaras digitales cuando salieron primero, al Internet obviamente, cuando estaban los módems nuevecitos. Años estoy
+
+[Speaker 2 - 00:07:15]
+jugando con computadoras
+
+[Speaker 0 - 00:07:18]
+y programando y haciendo cosas en en el ámbito tecnológico y me apasiona muchísimo el poder que puede tener el internet. Cuando salió el internet y la oportunidad de compartir información, yo me clavé full a aprender a leer, a estudiar. Ahora con Web3 y con las herramientas cripto, esa posibilidad se hace exponencial de la probabilidad que tenemos de aprovechar ese tipo de herramientas. Creo que Internet sí es la herramienta más impactante o más revolucionaria que tenemos y ahorita con Web3 pues eso, como decías, se exponecía. ¿Qué me ha gustado hacer? Explorar hasta el fondo la tecnología, experimentar con ella, usarla, usarla, usarla, usarla, aprender. ¿Por qué no? Ahorita pues explicar y enseñar o compartir un poquito el conocimiento que tengo que creo que pues es válido y muy muy importante. Gracias Jesús. Si quieres adelante. Empieza tú con el tema económico de la semana.
+
+[Speaker 0 - 00:08:19]
+Me gustaría que esos espacios a lo mejor los pudiéramos hacer más seguido. Ya veremos, ya veremos cómo cómo andamos en tiempos, cómo andamos en en espacios. Tato, tú eres mi cojos. Adelante, adelante. Preséntate también, por favor. También, por
+
+[Speaker 2 - 00:08:40]
+favor.
+
+[Speaker 0 - 00:08:43]
+Levantó la manita y luego para abajo. No quiere. Anda triste. Saludos. Bienvenido entonces. Oigan, pues bueno, todos los que quieran participar se pueden subir sin problemas, levanten la mano, pidan el recuest. El chiste aquí es el objetivo de la reunión o del espacio, si lo podemos hacer periódico, pues es yo, como ingeniero técnico amante de la tecnología, aprender sobre economía, aprender sobre finanzas de Jesús y él como un economista tradicional aprender un poquito sobre Blockchain, sobre cripto, sobre las herramientas y Creo que puede haber aquí una discusión interesante, él va a defender su punto de vista, yo voy a defender el mío, cualquiera de los que está acá abajo puede llegar a subir a preguntarle alguna cosa a él o a mí y la intención pues sí es divertirlos un ratito, aprender. Como decía, máximo duraremos una hora, mínimo perdón, duraremos una hora, ya veremos después qué pasas pues de esa hora. Si se acaba de repente pues ni modo. Aquí ya hay un request, aquí viene Tavo.
+
+[Speaker 0 - 00:09:45]
+Tavo Hostspace ha tenido varias pláticas con el buen Jesús. Han compartido ideas, han compartido y debatido. Creo que es importantísimo pues el debate y la perspectiva de todos los que quieran participar. Aquí el el el el host principal soy yo. Me gusta poder ser el el el dictador benévolo, voy a mutear a como dé lugar cuando yo crea necesario. Los cohost igual me pueden interrumpir, creo que es una regla bastante buena, interesante. Y todos los que están de speakers, aunque no levanten la mano, tienen que estar listos siempre para responder alguna pregunta y si quieren participar levanten la mano. No se vale aquí estar formeando engagement, si están como speakers me gustaría ver su perspectiva, listos para responder y si no pues bueno bájense, no pasa nada. Jesús empecemos contigo, adelante.
+
+[Speaker 1 - 00:10:36]
+Muy bien, pues vamos a hablar, hay muchas cosas que decir el día de esta semana, empezaría con el dato muy importante que salió hoy, el dato de inflación en los Estados Unidos, muy por debajo de las expectativas de mercado, de hecho se ubicó en 7.7 por 100, estaba en 8.58 0.6. La inflación subyacente, que recordemos que la inflación está dividiendo subyacente y no subyacente, la subyacente es la que tiene más injerencia la política monetaria, bajó a 6, entonces es muy buenas noticias.
+
+[Speaker 0 - 00:11:06]
+Subyacente y no subyacente. ¿Quién fregado sabe? Enséñame manitas, ¿quién sabe qué es eso?
+
+[Speaker 1 - 00:11:12]
+Las no subyacente Explícanos, explícame. La la no subyacente es la que la que es internacional y que no puedes controlar. Es decir, si hay un choque en el grano, en los granos de trigo por Ucrania, pues tú, por más que aumentes la tasa de interés, no puedes moderar ese ritmo de crecimiento de esos precios, que es un choque de una inflación global. Entonces, se divide entre esos choques globales o los choques más contenidos, es decir, lo más que están relacionados con tu economía. Entonces, cuando yo hablo de la subyacente que bajó a 6, son muy buenas noticias porque es la inflación que tú puedes manipular, y esa inflación que estás manipulando ya la estás jalando a un nivel de 6 cuando estaba en 8. ¿Cómo la manipulas? Muy bien, subiendo tasas de interés. Lo que ha hecho la Reserva Federal a lo largo de todo este año, subir tasas y ya está dando resultados, tan buen resultado que ya se y ya está dando resultados, tan buen resultado que ya se está estimando que la tasa va a subir hasta 5 y se mantiene ya, porque ya parece que la inflación en Estados Unidos sí va a converger a 2 por 100 hacia finales del próximo año o inicios de 2024.
+
+[Speaker 1 - 00:12:20]
+Entonces, buenas noticias en este momento de lo que percibí hoy, y no sé si si se percataron, pues los mercados financieros empezaron a subir todos, incluyendo las criptos el día de hoy. Y eso es ¿Por qué?
+
+[Speaker 0 - 00:12:32]
+Cuéntanos, ¿por qué sucede eso con los mercados de, no sé si esté bien dicho o no, los mercados de riesgo? O sea, ¿son mercados de riesgo las acciones, el cripto o no?
+
+[Speaker 1 - 00:12:45]
+Sí, en términos generales, pues sí. O sea, obviamente es mucho más riesgoso meter tu dinero en una acción que en un bono. ¿No? Sí, y dentro de las acciones, pues, hay unas de más riesgo y otras de menos riesgo. Hay 1 hay un componente que se llama la beta, con la beta que te envié ese tipo de de riesgo entre entre los activos, mayor a 1, mayor riesgo, menor a 1, menor riesgo, pero, pues, obviamente, una una acción mucho más riesgoso que un bono de gobierno, que es renta fija y te da mucho menor rendimiento, pero pues es muy improbable que una economía caiga comparado a una empresa.
+
+[Speaker 0 - 00:13:19]
+Tato, ¿tú sabes cómo cómo funciona eso? ¿Cómo afecta? ¿Te tocó en algún momento estudiar ese tema en la universidad, en la carrera, en tu vida como como empresario? Me interesa mucho la perspectiva porque yo en lo personal, en mi carrera de ingeniería, en mi maestría de seguridad, jamás jamás me tocó ese tema. Jamás vi esa esa situación. No pude yo. A ver, vamos a ver creo que el tatón de arrobiado. Vamos a darle bienvenida. Entenderlo porque no me lo explicaron. Yo no tuve clases de economía y por más que estuve carrera, te digo, maestría. Tú, Tato, como empresario, no recuerdo bien qué estudiaste, pero ¿cómo aprendiste eso? ¿O lo aprendiste en algún lado? Tavo, cripto. Me interesaría la perspectiva de los speakers acá arriba. El que quiera abrir canal, adelante. Creo que es algo que nos falta mucho. No hay educación financiera suficiente.
+
+[Speaker 3 - 00:14:15]
+-Jesús De hecho, Mexi, disculpa, estaba arruilla ahorita que me presentaste. Yo soy Tato, soy una space de trolls. Sí lo estudié, Mexi. Te mentiría si te dijera que me acuerdo, porque ya fue hace algunos años. Yo estudié marketing, me retiró con un semestre antes de salirme. Pero sí hubo algunas clases el primer año de esas cuestiones, pero no me acuerdo mucho. Así que para mí yo estaría encantado de aprender y desaprender.
+
+[Speaker 0 - 00:14:41]
+Tavo, tú entiendo que estudiaste como abogado. ¿Qué tanto aprendiste de esto? ¿Qué tanto lo viste en carrera? O de niño, tus papás, no sé, o sea, durante la
+
+[Speaker 4 - 00:14:51]
+vida. La pregunta en específico es sobre inflación y economía o educación financiera. IMEXIS. ¿Sí? Nada más si quieres dame una Sí, sí, sí, muy general temas
+
+[Speaker 0 - 00:15:03]
+económicos, financieros, temas de inflación. Básicamente, sí.
+
+[Speaker 4 - 00:15:07]
+En en la escuela no me enseñaron casi ni madres, la verdad. Todo lo que he aprendido, lo he aprendido yo por mi cuenta en Internet, en cursos. Este, tuve una educación muy precaria en la escuela de derecho. Casi no me enseñaron nada de eso. Pero sí, sí estoy, tengo conocimientos generales, a lo mejor no avanzados como muchas otras personas, pero podría aportar a la plática, claro que sí. Nada más que ahorita vengo manejando y voy camino al gimnasio, entonces, probablemente me salgan ya unos minutitos.
+
+[Speaker 0 - 00:15:43]
+No, hombre, No hombre, cuando quieras de subir, adelante, participar, levanta la manita, so, sin problema. Jesús, ¿crees que es importante educar a la gente desde, pues, que está en carrera, de que tiene uso de razón? O sea, obviamente son temas que nos afectan en en en en en temas económicos no monetarios. O sea, finalmente el dinero, pues, se mueve de acuerdo a esas decisiones que toman ciertas personas, ciertas instituciones. ¿Por qué? ¿Por qué no nos enseñan eso? ¿Por qué nos? No sé, me voy a poner yo mi gorrito de aluminio pensando en que quieren que seamos robotitos trabajando para el dueño de la empresa sin tener, pues no sé, oportunidad de de de de decidir qué hacer con la lana y cómo manejarla. Ayer o antier que nos reunimos y por ahí hay una foto que mandé al grupo, nos juntábamos con un par de de de médicos, 1 médico de los ojos, especialista, otro la menor idea, o sea, ¿por qué por qué por qué es así, Chu?
+
+[Speaker 0 - 00:16:53]
+¿Y qué qué opinas?
+
+[Speaker 1 - 00:16:56]
+Pues yo yo creo que es una un currículo muy eficiente en México, y no me refiero eficiente a la a la calidad de ciertos educación, sino a la inclusión de ciertos tópicos que debiesen ser fundamentales, porque obviamente el ahorro o las finanzas personales,
+
+[Speaker 2 - 00:17:13]
+pues deben ser una una clase muy importante para todas las familias,
+
+[Speaker 1 - 00:17:17]
+y el entender que lo que pasa a nivel país sí te pega. O sea, hay gente que me extraña que dice, no, este, a mí qué me importa, yo mientras yo chambee no pasa nada, error, claro que pasa y pasa mucho. Si no sabes cómo va a estar la tasa de interés y te endeudas, pues te vas a te vas a perder dinero, si no sabes cómo va a estar el crecimiento económico y este YYY no preservas tu trabajo, pues, el crecimiento económico y este YYY no preservas tu trabajo, pues te va a ir mal, o sea claramente estamos todos integrados. Entonces ese ese esa falta de empatía de entender cómo está tu entorno, yo creo que está mal y que sí debiésemos tener nociones básicas. Y no solamente por por el entendimiento, sino por tus mismas finanzas personales, ¿no? Saber qué hacer con tu dinero, qué va a pasar en un futuro con con tus ingresos, etcétera, ¿no?
+
+[Speaker 0 - 00:18:01]
+Como tú decías, ¿no? Desde la decisión de oye, rentar o comprar una casa. Pedir un préstamo al banco para comprar un carro, comprar 1 viejito de de de chachas, ¿no? Con efectivo, con con sin crédito. Me gané la lotería o vendí un NFT y lo hice 1000 x, ¿qué putas hago con el dinero? Para en realidad que mantenga su valor. Entonces sí, definitivamente falta muchísimo. Yo en lo personal, repito, tengo una maestría y no no sabía hasta que en realidad yo
+
+[Speaker 2 - 00:18:42]
+Sí,
+
+[Speaker 4 - 00:18:44]
+Sí, ¿sabes? Yo yo tengo esta teoría de que nos enseñan más a endeudarnos que a ahorrar. Porque siempre nos están incentivando a pedir préstamos y utilizar ese dinero para vivir al día, en lugar de más bien ahorrar y, a lo mejor, sí pedir préstamos, pero utilizarlos de forma eficiente. ¿No? Porque la gente se tiene que endeudar y ni siquiera sabe realmente cómo utilizar esa deuda. ¿No? Que ese es que ese es el problema. O sea, no estoy diciendo que la deuda sea mala, sino que la gente no sabe cómo endeudarse. Y ese es como 1 de los mayores problemas del mundo, ¿no? O sea, porque la gente educada sabe endeudarse y sabe qué hacer con la deuda, sabe cómo moverla, sabe cómo protegerse. Pero la verdad de las cosas es que la mayoría de las personas no, y la mayoría de las personas se endeudan. Entonces, es un gran problema ese, que espero que en estas pláticas podamos enseñar o ayudar a a varias personas, ¿no? A a poder tener una mejor educación financiera.
+
+[Speaker 4 - 00:19:45]
+Y miren, yo solo tengo 23 años, pero soy consciente de esto. O sea, y si y si y si tan joven sé que la deuda puede ser buena, pero también puede ser muy mala si si si sabes manejarla y si no sabes manejarla es muy mala. Pues, entonces, les invito a todos que se eduquen, porque es la única forma de que sabes manejar la deuda.
+
+[Speaker 0 - 00:20:11]
+23 años y ya estás pensando de esa manera, qué chingón, me encantaría ver yo a los 23 años haber pensado así. Yo empecé a trabajar a los veintiuno y lo que me pasó es que los primeros 10 años todo lo que me entraba me lo gastaba, todo lo que entraba era para la pachanga, para los viajes, 0 ahorros, pero bueno, ni modo, es este aprendemos a madrar, Sochuy. Adelante.
+
+[Speaker 1 - 00:20:38]
+Sí, yo yo yo quería decir, es muy importante lo que dijo Tavo, es muy importante entender que la deuda no es mala por sí, es mala el uso o el mal empleo de la deuda. Pero si tú si tú aprovechas un sistema financiero adecuado, pues te puede ir muy bien, un sistema financiero adecuado, pues te puede ir muy bien, o sea, qué mejor, por ejemplo, tener tasas de interés adecuadas para expandir tu negocio, en vez de, pues sacrificar tu propio capital, es un ejemplo de un uso eficiente de la deuda. Y otro punto importante es, no es lo mismo pagar 100 a un por 100 de interés que pagar 50 a 10 por 100. Entonces, cuando dicen es que Estados Unidos o Japón está muy endeudado, sí, pero ¿qué tasa de interés paga? Tú podrás tener menos deuda, pero pagas 10 veces más de lo que paga Estados Unidos o Japón por su deuda. También es muy importante la tasa de interés. Y lo que platicábamos el otro día, el ejemplo de un una persona que vive en las este, voy a hablar particularmente en Monterrey, las periferia de Cumbres Elite, este, y que pagaba una renta pagada entre 8, 10000 pesos, y él ya estaba pagando 35, porque se endeudó para comprar su casa con tasas de interés elevadas.
+
+[Speaker 1 - 00:21:49]
+Pues claramente ahí hay un costo beneficio que le conviene rentar y no comprar. Entonces sí es muy importante entender cuándo es momento de comprar y cuándo no. Cuando las tasas de interés obviamente están bajas, pues hay que pactar tasas fijas, sobre todo en hipotecas para que te aproveches ese rendimiento otra vez, el costo de financiamiento bajo, pero cuando están altas todo lo contrario. Yo lo que le recomendaría a esa persona vende, utiliza ese dinero, inviértelo en CETES que te va a dar lo mismo, 9.5, y vas a pagar un tercio de renta, y te vas a ahorrar ese dinero, ¿no? Digo, son cuestiones simples, pero que hay que entender en el entorno que vivimos año con año, ¿no?
+
+[Speaker 0 - 00:22:31]
+Somos cripto, ¿qué opinas?
+
+[Speaker 5 - 00:22:35]
+¿Qué onda? Este, y nada más, pues igual para poner un poquito de contexto, yo sí estudié Fisherman.
+
+[Speaker 0 - 00:22:40]
+Oh, perdón, ¿te puedo boxear o no? Sí, sí, sí, te lo hacía chinga y ya voté esa ¿Qué onda? Recordcito voz de Mariano. Como como Crypto MX con nuestro con nuestro canal.
+
+[Speaker 5 - 00:22:50]
+Este, yo sí estudié finanzas en el tech, en temas de finanzas personales tampoco creas que te enseñan mucho, es más aplicado en el tema de negocios. Y después trabajé más de 2 años en una calificadora de riesgo, HHA Ratings, que me sirvió para entender muy bien cómo funciona todo el sistema financiero tanto en México como en el mundo, y al final de cuentas el sistema financiero trabaja con base en deuda, o sea, tanto los los bancos piden préstamos para después prestarlos más caro. O sea, el banco pide un préstamo a 3 por 100 y después presta ese dinero a un 10 por 100. Y así funcionan todas las decisiones financieras. Entonces, es un mundo que se mueve con base en deuda y entre más alta sea la tasa de interés pues más más caro es el más caro es el dinero, más caro es este y más y y digamos que más rentable se vuelve en invertir en instrumentos de deuda gubernamental que son lo más seguro. Entonces, por eso baja un poco el el apetito de los inversionistas, en decir, oye, ok, ¿para qué invierto en cripto o en la bolsa? Que es mucho más riesgoso si ahorita invertir en deuda gubernamental como CETES o bonos del gobierno, pues me está pagando una tasa de interés bastante atractiva.
+
+[Speaker 5 - 00:23:57]
+Entonces, ¿para qué me arriesgo? Mejor invierto en en este lado. Entonces, una, el por qué vemos que los mercados, este, de riesgo, como comentaba en un principio, bajan, y la otra es que al final de cuentas con la con tasas de de interés altas se utiliza como mecanismo para frenar la inflación porque desincentivas al gasto, o sea, como al final de cuentas la gente ve, este, el costo del dinero es cada vez más alto, pagar tus tarjetas de crédito cada vez más alta, ir al súper cada vez es más caro, gastar cada vez es más caro, pues incentivas a que la gente en vez de que gaste pueda ahorrar y no entre tanta liquidez al mercado y de esa forma es como se trata de controlar
+
+[Speaker 0 - 00:24:36]
+la como se trata de controlar la inflación. Entonces Oye Germán, se nota que usted es mucho más que yo. Yo estoy medio güey, ahí voy aprendiéndole, pero tú ya llevas un rato en cripto. ¿Cuánto tiempo llevas en cripto?
+
+[Speaker 5 - 00:24:49]
+Involucrado, digamos que invertí de forma pasiva desde el 2017, pero ya de lleno, a partir de la pandemia del 2020, ya estoy entré totalmente de de lleno y ya tengo, digamos, que un año siendo 100 por 100
+
+[Speaker 0 - 00:25:03]
+cripto. Ok. Chuyik no, está aprendiendo, yo sé que quiere aprender, yo sé que agarra sus posturas, a veces medio trolea, medio no, pero me dice, oye es que no le veo valor, es que ¿cómo cómo le mides? Tú que sabes un poco del tema financiero y económico, ¿qué le recomendarías a Chullic como para leer?
+
+[Speaker 2 - 00:25:27]
+¿Por dónde empezar a aprender un poquito con su background que tiene? Ok. Yo creo
+
+[Speaker 0 - 00:25:28]
+que, poquito
+
+[Speaker 2 - 00:25:30]
+con su background que tiene.
+
+[Speaker 5 - 00:25:32]
+Ok. Yo creo que 1 de los primeros que que se podría leer también un poco es la parte del bitcoin estándar y de Internet of Money. Ambos libros hablan un poco del tema económico y al final de cuentas la inflación y todo este problema que estamos viviendo es generado porque el gobierno tiene la capacidad de imprimir el dinero que ellos quieren, y al final de cuentas tienen ahí la impresora lista 24 7. Y la otra es que pues al final de cuentas el sistema financiero tradicional está es que, pues, al final de cuentas el sistema financiero tradicional está basado 100 por 100 en la confianza. Tienes que confiar 100 por 100 en los intermediarios, tienes que confiar en los bancos, tienes que confiar en la Fed. Y al final de cuentas hemos visto cómo históricamente los las instituciones tienden a defraudarlos. Lo mismo que pasó en el 2008 con Lehman Brothers y toda la crisis en Estados Unidos fue porque las instituciones financieras hicieron mal uso de su dinero. Lo mismo pasó ahorita con FTX, que era una institución financiera intermediaria que usa un mal uso del dinero y del dinero de usuarios. Entonces, al final de cuentas, bitcoin nace para eliminar un poco eso. Tienes un sistema monetario que no se puede devaluar o inflar porque tiene una una un market, o sea, una un supply fijo, y que al final de cuentas todas las reglas están escritas en código dentro del protocolo que no se pueden alterar.
+
+[Speaker 5 - 00:26:43]
+Entonces, yo creo que ahí nace un poquito del valor de bitcoin, y con todo esto que estamos viendo siento que aún refuerza más la importancia de tener una forma de dinero en donde no tienes que confiar en intermediarios y
+
+[Speaker 0 - 00:26:59]
+Alguien nos motivó, yo no fui, no sé quién fue, pero bueno. Ni modo, yo creo que fue Chuyik, pinche Chuyik es encabronado. Oye, sin querer, fue sin querer. No, está muy bien Germán, pero yo le he explicado a Chullic n veces sobre bitcoin. Le digo mira tiene todas estas ventajas, luego nos las aventaremos ¿no? Pero la más importante es la herramienta, la única herramienta que existe para que tú puedas mover valor a cualquier parte del mundo sin que nadie te lo impida. Y me sigue preguntando ¿pero dónde está el valor? ¿Cómo le explicáramos al buen Chubí? Que adelante Chubí.
+
+[Speaker 1 - 00:27:30]
+Mira, a ver, yo tengo 2 puntos. Ahora, lo que hablan de ventaja de tener una oferta monetaria de bitcoin fija, pues es una desventaja cuando tienes procesos inflacionarios que no son causados por la demanda, es decir, por la impresión. Entonces si tú tienes una oferta fija y de repente hay un choque de oferta de que está generando, ejemplo, hoy en día, o que empezó a generar inflación a principios de año, por los precios de trigo, por los precios energéticos, y que tu única manera de controlarlo o mitigarlo es por la demanda, es decir, reducir la oferta monetaria. Si tú no tienes control de esa oferta, pues estás frito, o sea, literal ya no puedes controlar la inflación. Entonces, no le veo ahí el el mecanismo de cómo cómo una oferta que donde no tienes control es exógena te puede ayudar a a controlar
+
+[Speaker 0 - 00:28:20]
+No, pero ahí te encanta desviar la conversación y mencionar eso. Cuando la explicación o el valor es la probabilidad de que cualquiera pueda enviar valor a donde quiera sin que lo nadie lo prohíba. O sea, eso no tiene Eso lo tiene un valor, no tiene un un peso?
+
+[Speaker 1 - 00:28:38]
+Claramente sí, y lo el valor el valor yo creo de de de bitcoin es ese, lo que tú mencionas. Yo lo que digo es como como suplantar una moneda tradicional, yo creo que no, no se podría por por lo por mi argumento, o sea, que no tendrías control de la oferta o la cantidad de dinero, y con eso no puedes controlar la inflación. Ese es mi punto. No estoy diciendo que no tiene valor, y lo que te digo es que no podría ser una moneda porque no entendería yo cómo puedes manipular esa moneda para disminuir presiones inflacionarias, ¿no? Es que Digamos que ese concepto.
+
+[Speaker 0 - 00:29:11]
+Ese concepto, perdón Germán, pero me gusta ser dictador aquí en estos espacios. Estoy probando la nueva técnica que me han enseñado varios, 1 de ellos por aquí presente, pero me me me gusta a mí llevar o lo experimentaré, veamos cómo resulta. Jesús, ese ese concepto hay que explorarlo un poquito más, hay que rescarle más, estoy totalmente de acuerdo, pero Tavito tenía la mano levantada. Échale
+
+[Speaker 4 - 00:29:41]
+todo. Sí, a ver, es que yo yo tengo una pregunta para lo los economistas quien quien lo quiera responder, Jesús, Germán, quien sea, va a sonar muy obvia, pero para ir de poco en poco. ¿No? En la conversación, a ver. Si el problema del bitcoin es no poder controlar la inflación, hay que entender, entonces, cómo se genera la inflación. ¿No? Entonces. ¿Quién me puede contestar eso? O sea. ¿Cómo se genera la inflación,
+
+[Speaker 1 - 00:30:06]
+¿no? Entonces, ¿quién me puede contestar eso? O sea, ¿cómo se genera la la inflación? ¿De dónde se genera? Es que justo justo es el punto, Tavo. O sea, puede ser por la demanda o por la oferta. Normalmente, y y bueno, está muy relacionado con con un episodio de de de oferta monetaria, de mayor expansión monetaria, que es lo que se llama comúnmente impresión de dinero, digámoslo así. Pero no necesariamente, hay veces que el choque es por oferta y no tiene nada que ver con el tema monetario como tal. Es decir, en China, con el COVID, hubo un confinamiento, se retrasaron los microchips. ¿Qué pasó? Como que la gente quería o demandaba carros, pero no había microchips, por mayor demanda y había menos carros subieron los precios. No quiere decir que en México, el Banco de México aumentó la oferta monetaria, simplemente quiere decir que fue un choque de oferta en un país exógeno. Lo mismo pasó con el trigo en Ucrania, lo mismo pasó con el petróleo, etcétera. País exógeno, ¿qué es eso? Choque exógeno en otro país, o sea, exógeno es cuando está fuera de tu país.
+
+[Speaker 1 - 00:31:07]
+Entonces, ¿ahí qué haces? Ahora, no te estoy diciendo que toda la inflación es oferta. Claramente en Estados Unidos hubo una sobre oferta monetaria desde la el COVID. Entonces, si hay choques de demanda, choques de oferta. Mi pregunta es, ¿con bitcoin claramente no tendrías problemas de exceso de impresión? Es oferta limitada. ¿Pero qué pasaría si hay un choque de oferta? Esa es mi pregunta.
+
+[Speaker 0 - 00:31:32]
+Tavo, échale.
+
+[Speaker 4 - 00:31:34]
+A ver, no sé no sé si le vaya a contestar bien, pero
+
+[Speaker 1 - 00:31:40]
+la o la si hay un choque de oferta de bitcoin, ¿el valor de bitcoin sube? O sea No, no, no, no, no. Choque choque de oferta en un en en En los productos servicios. Exacto. ¿Cómo vas a controlar eso con con bitcoin?
+
+[Speaker 4 - 00:31:53]
+Bueno, para empezar, ahorita eso no es tan relevante porque justamente no se ha vuelto una moneda, pero
+
+[Speaker 1 - 00:32:00]
+para mí Pero si fuera moneda, ¿qué harías? Ahorita lo que es una moneda lo que está más lo que está más lo que está más lo que está más lo que está haciendo todo el mundo es subir tasas de interés para retirar oferta monetaria. Si hubiese un bitcoin y tú tienes choques oferta de los que estoy platicando de bienes y servicios, ¿qué haces si no puedes controlar la oferta?
+
+[Speaker 0 - 00:32:19]
+Germán échale.
+
+[Speaker 5 - 00:32:20]
+Digo al final de cuentas la la oferta de bitcoin está eso es que es algo también muy muy muy curioso, o sea, que al final de cuentas es muy difícil tratar de, o sea, de de prever o pronosticar o controlar la oferta. Con bitcoin la oferta está programada. O sea, cada cada 10 minutos se crea nuevo bitcoin y cada 4 años esa oferta de bitcoin que se va creando se disminuye a la mitad. El tema es que tampoco estamos en un momento en donde querer quizá reemplazar todo el sistema financiero con bitcoin, pero tienes una forma de dinero, una forma un activo que tiene una oferta limitada, y cuando hay un, perdón, sí, una oferta limitada, y cuando hay un exceso de demanda, pues al final de cuentas, perdón, sí, una oferta limitada, y cuando hay un exceso de demanda, pues, al final de cuentas tiene un ser un activo que se aprecia, y ahí es donde también encuentra el valor en el poder resguardar tu dinero a lo largo del tiempo.
+
+[Speaker 0 - 00:33:05]
+Oh, Andrew. ¿Qué opinas, Andrew?
+
+[Speaker 6 - 00:33:10]
+No, yo lo que opino es que hace muchos años, no, la verdad estoy intentando entender, pero yo le quiero decir algo a Jesús y es ¿Farmeando
+
+[Speaker 0 - 00:33:23]
+qué? Adelante, se vale, se vale, échele.
+
+[Speaker 6 - 00:33:25]
+Farmeando y no, forarmeando. Igual voy a hablar mi hermano, así que no, no, ya en serio, ya en serio, pues si quiero aportar algo, Jesús. El problema está en que hace mucho tiempo cuando se generó toda esta revolución, toda esta toda esta, digamos, tormenta, muchas cosas no se han dado como se esperaba que se dieran, y ha habido que hacer modificaciones en el tiempo. Entendé que el bitcoin y el sistema de criptomonedas está hecho, está estructurado o se pensó inicialmente para separar las finanzas personales de las personas, valga la redundancia, de los estados, así como se después que nosotros logramos eso, nos dimos cuenta que fue una de las mejores decisiones que tomamos como humanidad y como sociedad. Entonces, ahorita es una gran oportunidad para poder llevar adelante ese proceso con nuestras finanzas, y quizás en el futuro nos arrepintamos o no, yo pienso que tenemos que intentarlo, y por eso estamos aquí. Yo sé que es difícil encontrar una respuesta concreta a las preguntas que tú estás haciendo, pero tienes que dejar que el ecosistema evolucione y que incluso hasta nosotros lo podamos entender mejor.
+
+[Speaker 6 - 00:34:35]
+Porque incluso nosotros que estamos aquí, que nos decimos que sabemos y nos reunimos todos los días y buscamos información, no sabemos nada. El propio Teite se pone a que todos los días ahí en su en su nombre, soy un soy un tonto, yo no sé nada y trolea a todo el mundo, y tiene un año haciendo aquí a Space. Entonces, lo que te trato de decir es que, si bien hay muchos errores, hemos cometido mucha falta o se han cometido mucha falta y hemos retrocedido, sí, pero lo seguimos intentando y más temprano que tarde vamos a encontrar una solución a la locura que los gobiernos que nos han regulado han ocasionado, porque si no hubiera sido por ello, lo que estamos intentando hacer ahora no lo estuviéramos haciendo.
+
+[Speaker 0 - 00:35:21]
+Al chile al chile me he metido horas y horas platicando con Chuyik, con buen Jesús en chats, en presencial. Entre todos en bolita mejor, creo que va a ser más fácil convencerlo, pero es medio cabezón y medio terco, no no, va a ser difícil, pero bueno, hay que hacerle el intento. Tavo, échale.
+
+[Speaker 4 - 00:35:41]
+Otra vez, no sé por qué les gusta pasarme la palabra cuando no tengo la mano levantada, pero ¿Sí la atendieras? ¿Sí la atendieras? A lo mejor te estás rodeando los pasos para que le. ¿Sí? Ah, bueno, a ver, los entretengo. Este, mira, Jesús, y todos los aquí presentes, justo como dice Andrew, ¿no? O sea, el bitcoin y las criptomonedas nacieron con con otra finalidad. No nació con la finalidad total de Se creó con lo que dijo Andrew, ya estoy siendo pura pendejada porque me agarraste bien distraído, güey. No mames, al chile te mamaste pinche mexy, güey. Traías la manita, te lo
+
+[Speaker 0 - 00:36:16]
+traías la manita. Vamos con Yushiro, adelante.
+
+[Speaker 9 - 00:36:19]
+Yo yo te colaboro ahí. Es que es es que es simple para no complicarnos. O sea, esto es simplemente un modelo deflacionario que contribuye a las economías de una forma no como tan hay un punto central, o sea, no van a seguirse emitiéndose monedas nacionales digitales, pero es normal. O sea, hay hay simplemente otros activos que utilizan otros modelos diferentes de la política económica tradicional. Y ya, no creo que vaya a haber la política económica tradicional. Y ya, no creo que vaya a haber de del todo una transición total a este tipo de tecnologías, o por lo menos no dentro de mucho tiempo. Ese es un una simple manera de explicar las cosas. Un modelo inflacionario, de economía, de explicar las cosas. Un modelo deflacionario, de economía, descentralizado, punto.
+
+[Speaker 1 - 00:37:04]
+Pero, ¿de deflacionario cómo? ¿Ver si en un año ha perdido 76 por 100 su valor? Todo lo contrario, deflacionario. O sea, si fuera deflacionario estaría cubriendo cubriendo la inflación Se llaman se llaman transiciones, transiciones, no puede haber totalmente una una descentralización que todavía cierta parte No, no, no, pero pero yo te estoy diciendo de un año de un año acá estadísticas. No ha sido no ha sido deflacionario, ha sido inflacionario porque ha perdido 76 por 100 su valor.
+
+[Speaker 0 - 00:37:33]
+Chullen, yo creo que es un experimento que tenemos que dejarle un poco de tiempo para ver en realidad si va a ¿1970 cuando cambió la situación y se volvió el dinero fiduciario como es? O sea, ese ese es otro experimento que tiene menos de 100 años. ¿Por qué creemos que esa madre va a durar los siguientes 100, 200, 300? O sea, ¿por qué? Sí, sí, Chubi. Yo creo que la manera en que lo están manejando ahorita, donde imprimen y manejan y controlan tasas de interés, ese también es un experimento que tiene menos de 100 años. No sé si tengas algún punto en contra de eso, pero es algo que está moviendo.
+
+[Speaker 1 - 00:38:16]
+Tiene sus pros y sus contras, ¿no? Es es una manera eficiente y lo que sabemos para medir la inflación. O sea, simplemente con subiendo tasas, tú incentivas a que la gente ahorre más y gaste menos, hay menos demanda y bajan los precios. Y tú quieres estimular la actividad económica, bajas tasas, incentivas a que la gente gaste, aumenta la demanda, sube precios. Sí, de nuevo es un experimento de 70 años nada más. Sí, pero funciona funciona muy bien, tan funciona bien que checa el día de hoy las el anclaje, las expectativas inflacionarias en Estados Unidos ya es de 2 por 102024.
+
+[Speaker 9 - 00:38:51]
+Ya se acabó el problema. Me
+
+[Speaker 0 - 00:38:56]
+motí yo también, chinga chinga. A ver, ¿qué sigue? Vamos con Rey Galicia. La manita, la manita, Yushiro.
+
+[Speaker 12 - 00:39:04]
+Hola. Bueno, enhorabuena por el espacio, gracias por dejarme hablar. Mira, en principio, lo que yo entiendo de cómo se creó bitcoin y de para que que se creó bitcoin, hace que bitcoin tenga tantos problemas. Porque en una sociedad donde no se interviene monetariamente, no se vende dinero, que para mí el mundo ideal sería un mundo donde la venta de dinero está prohibida. Entonces, ahí se acaba muchos negocios de muchísima gente, pero la la gente prospera con su dinero. Entonces, lo que pasa con bitcoin es que al no poder falsificarse, si nos repartimos unas fichas todos los que estamos aquí, y luego les damos un valor a esas fichas y las usamos para comerciar entre nosotros, siempre vamos a prosperar, salvo que alguien se invente fichas, que es lo que hacen los gobiernos. Entonces, como bitcoin, si en una visión maximalista de bitcoin y de otras criptomonedas, se le acaba el chollo a los estados, Entonces los estados actúan para que la adopción no sea masiva y cuando sea la adopción sea de las CBDC en vez de ser
+
+[Speaker 1 - 00:40:22]
+de bitcoin. Oye, regalizia, déjame déjame interrumpirte un momento, porque ahí ahí tengo una duda. Y de hecho, el el la deuda existe no por por ser deuda, la deuda existe, por ejemplo, para satisfacer necesidades de ambas partes. Por ejemplo, yo soy un pensionado que tengo ahorros y quiero recibir un mayor retorno que el que me da el banco, pues lo presto, pero no lo puedo prestar yo porque, pues yo no sé si el pelado que le preste me va a pagar o no. Utilizo el sistema financiero que obviamente el banco, el costo de análisis de saber si si una persona va a volver a pagar o no, pues pues tiene mayor experiencia que 1. Y la persona que es joven y que quiere comprar una casa como nunca ha ahorrado, necesitaría ahorrar 30, 40 años, pues utiliza ese dinero de ese pensionado, es un gana gana, por eso existe el sistema tradicional, y por eso funciona muy bien, y te lo pongo muy distinto, una empresa que ahorra mucho, que quiere tener rendimientos adicionales, muy distinto, una empresa que ahorra mucho y que quiere tener rendimientos adicionales, o una empresa que es start up y necesita ese capital para crecer. Pues por eso existe el sistema financiero, y funciona bien. El problema es que obviamente hay países donde funciona mejor que otros, está en función de la competencia, de las tasas de tasas de interés, de la educación financiera, de la inclusión.
+
+[Speaker 1 - 00:41:31]
+Pero en términos finales, yo yo creo que el sistema sí funciona como está diseñado, ¿no? Sí, yo creo que está funcionando, tiene sus pros y sus contras.
+
+[Speaker 0 - 00:41:39]
+Hay una alternativa que se llama Oro, hay otra alternativa que se llama ya bitcoin. Vemos que está interactuando el sistema 1 con el otro y tiene sus fluctuaciones, etcétera. Pero, ¿qué tanto crees que en algún punto podamos llegar a en realidad todo que esté integrado? ¿No? Ya ayer creo que lo platicábamos en un espacio donde ya hay una ISO 2022, no 40022 que está regulando y que está diciendo cómo van a interactuar los bancos ya con las criptomonedas. Entonces, esto se ve y se siente, el cripto está presente y viene duro a integrarse completamente con el sistema financiero. Vamos a empezar a utilizarlo de una manera mucho más sencilla, mucho más integrada, donde va a ser mucho más a utilizarlo de una manera mucho más sencilla, mucho más integrada, donde va a ser mucho más sencillo transaccionar con estas herramientas, ¿cómo crees que esto luego se vea? O sea, yo creo que a la larga, estoy de acuerdo, vamos a tener que poner el peso hasta que esto no sea algo estable y que no tenga tanta volatilidad como lo tiene ahorita, yo creo que eso va a ser transferir de o sea, si quisieras pagar algún producto y servicio, tú le vas a poner el precio en pesos o en dólares o lo que sea.
+
+[Speaker 0 - 00:42:49]
+El mismo sistema lo va a cambiar a la moneda más rápida y más fácil de intercambiar en ese momento, lo va a enviar a lo mejor en bitcoin o lo va a enviar en Satoshis en Lightning o lo va a enviar en XRP y pum, al otro lado va a llegar y se va a convertir automáticamente, o sea, ese esa fricción que se puede llegar a eliminar en los sistemas, utilizando las las herramientas cripto, va a ayudar muchísimo a mejorar pues ese esa liquidez que tienen que tener los mercados. No sé qué opinas. Pero antes de de eso vamos con Galicia, que también tiene por ahí un punto que debatir.
+
+[Speaker 12 - 00:43:24]
+Vale, Jesús decía que que la deuda que es una cosa muy buena y tal y vale. Por ejemplo, yo en mi empresa trabajo autofinanciado. Es mucho más difícil, yo no avanzo apenas. Para mí es muy difícil. ¿Por difícil, yo no avanzo apenas. Para mí es muy difícil porque toda la competencia va financiada por los bancos. Pero es que ese es el problema. Se forma toda una maraña de deuda que con un dólar se presta 80 veces y luego cuando falla la burbuja se generan esos ciclos. Y en cuanto a lo que decía Mercy, va a haber una etapa de de integración pero es transitoria. O sea, la gente cuando descubra la filosofía cripto va a solo cripto. Cuando descubra la filosofía DeFi, va a solo DeFi, y entonces los estados se caen por su propio peso, por su propia
+
+[Speaker 0 - 00:44:24]
+deuda. Sinaloa. Adelante Sinaloa. Gracias, Galicia.
+
+[Speaker 13 - 00:44:28]
+Hola, hola, hola. Pues mira, yo yo veo en este caso, por ejemplo, ver a bitcoin como lo que es, ¿no? O sea, un activo digital, como tú bien aciertas, yo creo que no va a ser Creo que todos muchos a veces caemos en el maximalismo ¿no? Que bitcoin como moneda de curso legal. Yo no lo veo así y yo lo veo como un sistema híbrido financiero donde bien comentas que no pudieras subsistir solamente bitcoin sin sin sin tener una moneda del otro lado, ya sea una moneda una moneda estable, un peso digital. Yo creo que viendo más atrás, o sea, ok, entiendo que hay cosas en la economía que ahorita que funcionan y demás, pero viendo más atrás en los problemas que pueden pero viendo más atrás en los problemas que pueden resolver todas estas tecnologías, por lo que trae detrás, que por ejemplo, tú ahorita, cualquier financiero, cualquier gobierno, en todo el movimiento de de de movimiento de fondos, de ejercicio de presupuestos, de su contabilidad, sus libros contables, pues realmente tú no ves nada de eso, no sabes qué es lo que hay detrás, qué haces con ese presupuesto. Ustedes te pueden dar un reporte, pueden decir, hicimos esto, se gastó en esto.
+
+[Speaker 13 - 00:45:29]
+Pero yo creo que el problema que está detrás, o sea, lo que soluciona esta parte es la parte de transparencia, problema que está detrás, o sea, lo que soluciona esta parte es la parte de transparencia. Y yo creo que todavía nos falta mucho para llegar ahí, pero yo creo que en algún momento los que vayan adoptando esta parte, pues van a ir dando un tipo como de certeza y, pues mucho mucho más transparencia en qué es lo que se hace con este caso con, pues con el dinero, ¿no? Yo creo que ese es el problema que pudiera resolver toda esta
+
+[Speaker 0 - 00:45:58]
+tecnología. Esa es mi opinión. Sin la verdad, muchas gracias, Andrew. Adelante.
+
+[Speaker 6 - 00:46:04]
+Gracias, Mexi, activo ahí. Te felicito también por el hosteo de tu primera espera, ¿verdad? Que es la locura, brother, de verdad que sí. Y con lo que estaba mencionando Jesús, Jesús, yo estoy medio de acuerdo en lo que estás diciendo, medio, no completamente, porque yo puedo entender que el sistema financiero, como lo planteas tú, funciona, pero puede ser mucho mejor, y ya se ha demostrado. Y te voy a decir por qué. El primero es porque, por ejemplo, en mi caso, yo estoy en el país del mejor sistema social del mundo. El mejor seguro social es el de Francia, no existe otro mejor, y tiene muchísimos defectos, porque yo los veo, no porque me los cuenta. Y lo he vivido porque tengo, conozco personas que viven de la seguridad social aquí, y hay un montón de errores, hay un montón de de de números que no se ven, hay un montón de cosas que no se ven, cosas que sí podemos ver en la Blockchain. Y te voy a dar otro ejemplo. Lo que pasó con FTX es lo que pasa con todos los gobiernos del mundo. La diferencia es que no vemos dónde están las cifras. En cambio, detectó el problema.
+
+[Speaker 6 - 00:47:05]
+Eso es lo que pasa. Porque todo el problema empezó porque alguien vio algo y lo dijo. En cambio, cuando vos te tú te vas al sistema financiero convencional, el problema persiste durante tantos años que se convierte en un en un problema sistémico que no se puede resolver. Y te voy a dar el ejemplo más cercano, el de Venezuela. Eso fue un sistema corrupto porque lo viví, eso fue un sistema corrupto que nació de un partido político, con una ideología, sistema corrupto que nació de un partido político, con una ideología cuestionable, para no herir susceptibilidad por las dudas, con una ideología cuestionable. Entonces, ¿qué pasó? Que como en el tiempo nosotros no pudimos resolver ese problema de corrupción, hoy en día se ha convertido en un problema sistémico en la sociedad. Es decir, hasta los ciudadanos contribuyen con el sistema de cierta manera. Entonces, eso es lo que no puede ocurrir con la Blockchain, y por eso es que los vicios de la web 2 no se van a transmitir nunca a la web 3, y es por eso que las instituciones financieras convencionales que tienen 100 años mandando en el mundo no entienden o no quieren entender lo que la la esta tecnología es capaz de hacer, y es simplemente demostrar que lo que ellos están haciendo no es lo correcto, porque como te dije hace rato, lo que nosotros estamos intentando resolver hoy con esta tecnología son los problemas que precisamente el sistema financiero convencional ocasionó.
+
+[Speaker 6 - 00:48:27]
+Entonces, esto es una forma o una salida a un a un problema que tiene muchísimos años y que la gente todavía no sabe resolver simplemente porque no la conoce. Entonces, si bien los gobiernos tienen que tener presencia con factores dirigentes de cierta manera de la sociedad, tienen que entender que las finanzas ya no pueden depender 100 por 100 de ello. Tiene que depender de cada 1 de nosotros, porque para eso trabajamos. Porque el que no trabaja no come, así de simple. Entonces, si 1 si la lo los sistemas financieros hoy en día lograran entender bien como corresponde, con una mente abierta y objetiva de lo que la tecnología de la Blockchain puede lograr, te aseguro que esto no estuviera pasando. Y también hay que meter en la fórmula los intereses por dinero, la corrupción y todos esos vicios. Entonces
+
+[Speaker 0 - 00:49:14]
+Mente abierta y objetiva. Creo que esa es una clave de mucha gente que se bloquea, ¿no? Se bloquea y no quiere. Le explicas y le explicas como el buen Chulliki. Y y me ve y me pregunta, ¿cuál es el valor y cuál es el valor?
+
+[Speaker 3 - 00:49:26]
+A ver, Mexi, ¿aquí esta sala es para que aprendamos del economista y el ingeniero o es para que un oso nos venga YYYY nos diga que el economista o es para que el economista lo convenzamos de que se meta a ese grupo de osos? No, ya no soy oso.
+
+[Speaker 0 - 00:49:41]
+¿Qué qué eres, por cierto? Parece, te soy sincero, como testículos con con con sombrero.
+
+[Speaker 6 - 00:49:48]
+No, papá, eso son unas buenas nalgas dibujadas. ¿No? Y como tal, así, esa es la cara que tenemos todo hoy. Ah, son pompas, ya.
+
+[Speaker 3 - 00:49:57]
+Ya. Dios mío santo, qué feo el artista, ¿eh? Qué malo el artista. Yo pensé que era otra cosa, pero bueno, no lo vi, me tuve que meter a tu perfil. Twitter los está rumñando. Bueno, ya no voy a interrumpir, soy el troll de Spanish. Adelante, Jesús Sorry. No, no, no, adelante.
+
+[Speaker 1 - 00:50:09]
+Siempre los cojones pueden interrumpir cuando les guste. Ah bueno, entonces yo yo yo, es que Andrew, estás poniendo 1 de los peores ejemplos del mundo que es Venezuela, que fue un fracaso fracaso político económico financiero total, pero no todo es Venezuela, hay que hay que ver que que y durante las crisis financieras también se ha aprendido muchas lecciones
+
+[Speaker 0 - 00:50:29]
+Bueno Eric, pero tú dices que vamos para allá directito y sin frenos, el carro ¿no? Muy probablemente sí,
+
+[Speaker 6 - 00:50:37]
+pero Te puedo dar te puedo dar otro ejemplo, y te Jesús, tengo otro. Dime,
+
+[Speaker 1 - 00:50:42]
+dime. Argentina es otro ejemplo, tiene un No, bueno, Argentina y pon a México futuro, pero ¿qué qué qué opinas del Reino Unido, qué opinas de Japón, qué opinas de Estados Unidos, qué opinas de Canadá, qué opinas de Alemania? Son de mente abierta precisamente. No, ¿qué
+
+[Speaker 6 - 00:50:54]
+opinas de Alemania? Son de mente abierta, precisamente.
+
+[Speaker 1 - 00:50:56]
+No, pero pero si el sistema financiero, ¿qué opinas?
+
+[Speaker 6 - 00:51:01]
+Y por lo menos funciona mucho mejor que la de nosotros.
+
+[Speaker 1 - 00:51:05]
+Exactamente. Ya lo dijiste. Te voy a dar un un dato interesante, ¿cuántos bancos hay en el sur de Texas?
+
+[Speaker 6 - 00:51:12]
+Ah, más sur de Texas. Evidentemente con los 6, evidentemente con los 6. 550.
+
+[Speaker 1 - 00:51:16]
+¿Cuántos bancos hay en el sur de Texas? No, y justo eso
+
+[Speaker 0 - 00:51:18]
+platicábamos de de de, o sea, justo platicábamos eso el otro día. ¿Cuántos bancos hay en México país? 53.
+
+[Speaker 1 - 00:51:23]
+Eso tiene mucho que ver con las bajas tasas de interés en el mercado secundario, con la penetración de crédito a PyMEs, con la competencia, con los servicios. Tú has un banco en el sur de Texas, te tratan como dios porque te quieren como cliente. Tú has un banco en México, te patean porque no les interesa, les interesan los alfas y los gobiernos y los vitros. Entonces Lo
+
+[Speaker 3 - 00:51:44]
+que pasa es que en Estados Unidos llegas con 10000 dólares y en México con 1000 pesos, pues, ¿cómo nos van a querer? No, pero con los mismos 10000 dólares te lo juro que te tratan mejor en Estados Unidos porque hay mucho más
+
+[Speaker 1 - 00:51:55]
+están los bancos están pensando más en captar,
+
+[Speaker 0 - 00:51:59]
+porque hay mucha competencia. Y en México Oye Jesús, ¿tú crees que eso es lo que está sucediendo con Citibanamex es es reflejo de lo que mencionas? ¿Que nada más quieren a los poderosos, a las empresas y a los del pueblo a esos les vale madre y no les dan suficiente margen, suficiente lana? ¿O qué está sucediendo con Citibanamex?
+
+[Speaker 1 - 00:52:18]
+Es algo Yo creo que sí Citibanamex está raro porque nadie lo quiere, yo creo que tiene problemas ahí importantes, no no sé si de cartera, calidad, no sé, pero nadie lo quiere y también está el tema de que el gobierno federal, pues, no quiere extranjeros que lo compren. Hay un tema medio político ahí, este, pero se me hace extraño que nadie lo quiera, no sé no sé por qué. Digo, en en en números se ve un banco rentable, contribuía con un tercio de los ingresos de City, este, pero bueno, no no no sé qué esté pasando. Sí sé que la banca es segundo piso ya la están limitando y eso es porque está saliendo en capitales de inversionistas grandes, pero la banca retail sigue siendo rentable, entonces no, sería ignorante opinar en algo que no sé.
+
+[Speaker 0 - 00:53:05]
+Lu, por ahí vi que subiste, bienvenida. Me interesa tu opinión, y luego vamos con Galicia y los Sinaloa.
+
+[Speaker 7 - 00:53:10]
+Hola, ¿cómo están? Buenas tardes, ya ya tardes, ya no podemos decir GM. Jesús, mucho gusto, muy interesante escucharte tus opiniones, sobre todo de desde el punto de vista económico. Y yo yo muy rápido, por supuesto, me declaro incompetente de la del de los temas económicos. Pero yo creo que estaba escuchando a Andrew, a Mexita, por lo que comentan. Y y yo creo que también tenemos que tener en cuenta que que los ejemplos o las situaciones son distintas de país a país. O sea, en Latinoamérica desafortunadamente tenemos esta esta gran carencia de gobiernos que que provean de entrada una política económica efectiva, efectiva para quienes lo más más lo necesitan. Y justo por eso yo creo que hemos explorado otras opciones, como lo lo es las criptomonedas. Sin embargo, yo creo que precisamente los casos de de de jurisdicción a nivel de otros países, como en Europa, están ahora, ahora ya interesados en incluso regular la cripto, o sea, el sistema financiero tradicional ha visto bondades de estas de estas cripto y dice, bueno, le quiero entrar ahora yo también.
+
+[Speaker 7 - 00:54:21]
+Entonces, creo que debemos de ponderar, o sea, los escenarios que tenemos, porque, por supuesto, Venezuela, México, Argentina, Perú, o sea, tenemos países que que carecen de entrada de eso, de una política económica efectiva. Entonces, yo creo que, como como se los he dicho a muchos de ustedes, yo yo creo que vamos a llegar a un punto en que vamos a tener que hacer un un consenso, ceder quizá un poco algunas algunas cuestiones que tengan que ver con con cripto. Y no me refiero directamente a la Blockchain, porque Blockchain siempre va a ser lo que es pública, transparente, con trazabilidad, sino quienes están detrás justo de de de quien quiere implementar cripto, lo que ha pasado esta semana es un claro ejemplo de eso. Y y desde mi punto de vista fue las malas prácticas del sistema financiero se reflejaron en esta transacción. ¿No? De de FTX con binance, O sea, para mí, la verdad, fue una repetición de lo que muchas veces hemos vivido en el sistema tradicional.
+
+[Speaker 7 - 00:55:27]
+Entonces, yo creo creo que sí hay errores que se pueden evitar. Hay errores que que más que errores son decisiones. Y eso es porque esto, incluso en cripto, tenemos personas que también lo están controlando. Binance tiene casi 80 por 100 de control sobre cripto. Entonces, creo que tenemos que encontrar un consenso, o sea, yo no veo mal que se crean normas o reglas que sean originadas a partir de una comunidad, y eso incluye el sistema financiero, puedo puedo llamarlo así, el sistema financiero, puedo puedo llamarlo así, que está tomando cause en las criptomonedas. Entonces, nada, yo, o sea, sí sí creo en esta tecnología, creo que es una opción que quienes vivimos en un sistema que ha sido mal administrado por el gobierno, fue la opción que hemos tenido. También vamos a encontrarnos con con algunas cuestiones difíciles, como las que hemos vivido, pero creo que sí tenemos que encontrar un un punto medio, porque yo yo pregunto, o sea, con mucha gente, con lo que vivió esta semana que que invirtió, creo que no les no no hubiera no nos hubiera venido mal tener algo detrás que nos ayudara a respaldar lo que pasó.
+
+[Speaker 7 - 00:56:42]
+Y y eso es lo que creo que vale la pena analizar. Listo, Mexi, es todo.
+
+[Speaker 0 - 00:56:48]
+Muchas gracias, Lu. Me interesa también la opinión de un de un león con pelo verde, M 1 Z 3, antes de ir con un regalizia. Adelante, ¿suiste? Platícanos, ¿qué opinas? Bueno,
+
+[Speaker 15 - 00:57:01]
+este, principalmente, este, mi opinión es esta, la siguiente. O sea, como cómo todo, digamos, en la en la vida, pues, este, o en la evolución humana, este, pues, tiene que ir evolucionando para bien. Este, lo que vimos con FTX y el tema de binance, pues, no es más que, pues, una una prueba y error, ¿verdad? De qué es lo que funciona, qué es lo que no, incluso con con lo del tema de Luna también, o sea, que está relacionado también con FTX, hicieron una práctica similar y, por lo tanto, pues, este, pues los los tiraron y y pues bueno, en general mi opinión es de que, pues, la Blockchain está, pues, para quedarse en una es una tecnología que poco a poco va a ir madurando y, pues, parte parte de ello, pues, este, de las aplicaciones, en este caso, este, las cripto, pues, este, parte de esa evolución, pues, es, este, caer y volver a levantarse.
+
+[Speaker 0 - 00:58:05]
+Excelente, gracias por la opinión. Regalizi, adelante.
+
+[Speaker 12 - 00:58:09]
+Bueno, yo tengo 2 cuestiones. Una cuestión es para el economista, que la dejo para el final, y otra es para un un poco después de lo que dijo Lu. Yo creo que Latinoamérica es privilegiada con respecto a Europa porque ya se ve tan claro que lo han hecho mal que la gente adoptó criptomonedas. Aquí en Europa estamos sentados delante del televisor con tonterías creyendo las vacunas y cosas que nos dicen que nos pongamos que son muy buenas y toda la historia quedándonos en casa cuando teníamos que estar trabajando. Y y claro aquí la gente va a lo seguro, a lo respaldado por el gobierno, todo esto. Pero los respaldos lo lo que tiene que desaparecer es el FOMO. Lo que tiene que desaparecer de las criptomonedas y de los NFTS es el FOMO, la restaurar la tranquilidad y los proyectos que se vea que son buenos, pues la gente ir estando en ellos tanto en tokens como en como se dice en la televisión, sana, que sea una política monetaria sana que no vaya en contra de los ciudadanos.
+
+[Speaker 12 - 00:59:32]
+Esto es lo que me gustaría saber, dónde hay un país con una política monetaria. No digo política económica que que hacen todos un desastre porque regulan para las empresas que les interesa a ellos y tal. Pero una economía, una política monetaria sana que que ayude a la población. Y no digo ayudar controlando una inflación que se crea por
+
+[Speaker 1 - 01:00:03]
+regulaciones. Ok A ver, primero primero que nada, a ver, aquí aquí nada más, perdón, perdón. Lo lo que dijiste de las vacunas es completamente absurdo, cae ya en en en inclusive atacar a a al al al sentido común, o sea, eso eso, por dios, está comprobadísimo que las vacunas ayudaban, ya ya si no lo entendemos después de artículos científicos, de de de de perdón, es que ya eso ya es absurdo, que estemos debatiendo las vacunas, ¿es en serio? Por dios. Primero, y es, ya me molesta porque podría podría, perdón, podría causar muertes de otras personas por ese tipo de comentarios, primero que nada. No te cabrones, sí, no, pues sí me molesta, ¿cómo? Jesús, espérate. Déjame terminar de hablar. No Jesús, dime, dime, a ver. Estamos hablando de criptomonedas y te enojas por las vacunas, ¿cómo va a ser eso? Es que es absurdo, ¿cómo es posible después de tanta evidencia científica que llegue alguien a decir que nos obligaron a vacunar, pues obviamente sí, porque te salvó la vida y eso es absurdo que estemos debatiendo eso, pero bueno, segundo No, no me obligó a nadie y y Bueno, está bien, está bien, está bien, pero estás hablando que Espera, espera, termina Jesús, termina.
+
+[Speaker 1 - 01:01:13]
+A ver, segundo, países funcionales, es que hay que entender 2 conceptos. 1, te voy a explicar por qué la política monetaria tiene sus sus sus pros y sus contras, ventajas y desventajas. Pero te voy a contestar la pregunta antes de continuar. ¿Países donde funciona muy bien política monetaria? Europa, Japón, Inglaterra o Reino Unido, Canadá, Estados Unidos, sin duda. Y te voy a explicar por qué tú piensas que la política monetaria afecta a los ciudadanos. ¿Por qué? Porque en estos momentos están subiendo las tasas de interés, pero lo tienen que hacer para regular la inflación. Te voy a decir por qué. Si tú dejas que la inflación se fuera se venga fuera de control, vas a generar lo que pasó en Venezuela, lo que pasó en México en los ochentas, que fue una pobreza estructural. ¿Por qué? Porque el momento que tú destruyes poder adquisitivo, ya es muy difícil recobrarlo, recuperarlo. Lo que tienes que hacer en el momento que empiecen a haber pensiones inflacionarias es moderar esa inflación a expensas de una recesión de corto plazo.
+
+[Speaker 1 - 01:02:14]
+Por eso no no todo, si si fuera tan fácil, pues obviamente todos los bancos centrales bajarían las tasas para que según tú todos llevan bien, pero en el largo plazo generarías pobreza. Entonces en el corto plazo pues hay un trade off, que sabes que tengo que subir tasas, va a haber algo de desempleo, pero a la larga tu ingreso disponible va a seguir siendo fuerte. En ese contexto, claro que Europa lo está haciendo perfecto, claro que Reino Unido lo está haciendo perfecto y claro que la Reserva Federal lo está haciendo perfecto. Entiendo que no lo puedan ver así, pero la contraparte de no actuar en estos momentos a subir tasas de interés sería generar proeza estructural de largo plazo. Sería mi comentario. Y lo de las vacunas, por dios, ya es
+
+[Speaker 0 - 01:03:01]
+es absurdo. No te enojes, no te enojes, Chuy, no te enojes. Oye, Sky nos está pintando un dedo a todos bien gacho, qué feo se ve, súper bueno. Bienvenido Skype. Favo, échale.
+
+[Speaker 10 - 01:03:13]
+Gracias, gracias, Mexi. Este, mira, yo quería compartir compartirles, yo vi el anuncio de economista y el ingeniero, dije, ah, bueno, pues suena construir, 1 el que sabe del sistema financiero y el que sabe del de la ingeniería. Pero lo que escucho es son son visiones contrapuestas, ¿no? Como si el como si el financiero o el el economista estuviera en contra del ingeniero, y creo que no es así. Creo que al final la la ingeniería viene a crear una tecnología para que los el el economista en este momento lo ocupe, el sistema financiero la utilice para bien. Y y de ahí, bueno, que después de mi traducción paso por una pregunta que creo que tiene que ver con esto. O sea, al final de cuentas es inevitable el uso de la tecnología para bien o para mal. Tan es así que ya hay muchos países que están incluso corriendo pilotos de CBDCs. ¿Cuál es la opinión del economista en cuanto a los CBDCs?
+
+[Speaker 1 - 01:04:03]
+Híjole, yo perdóname mi ignorancia, no no sé qué es un
+
+[Speaker 0 - 01:04:06]
+CBDs. Central Pack Digital Currency, el peso digital
+
+[Speaker 1 - 01:04:10]
+o el Sí. No, es es una a ver, sí. Ya eso lo propuso, hace rato estábamos hablando a los Team Carsters. Él fue de los propulsores de esta moneda digital. Este, no, pues es una gran idea, una gran moneda digital. Este, no, pues es una gran idea, una gran idea. De hecho, el el en países nórdicos ya se está eliminando el uso del efectivo, y el efectivo tiene desventajas que, obviamente, promueve la ilegalidad, promueve la informalidad. Entonces, yo creo que es muy buena noticia y va a ser como una moneda, la ventaja que va a tener sobre el bitcoin es que tú puedes tener un precio del dinero, que eso es la tasa de interés. Entonces, yo lo veo con muy buenos ojos, creo que es una muy buena medida, y lo que acabas de decir, yo comparto, o sea, la tecnología es lo más importante y rescatable de todo esto. Este, y se debería de aplicar, por ejemplo, por ejemplo se me ocurre, en asignación asignaciones públicas de gobiernos para limitar o disminuir la corrupción. Chuye, que estás tratando de convencer AA0
+
+[Speaker 0 - 01:05:04]
+disminuir la corrupción, ¿verdad? Chuyé, que estás tratando de convencer a, no sé, 20, 40, 50 personas que creo que no queremos ninguna de nosotros los CBDCs y creemos que es un instrumento para el control de los gobiernos No, pero lo va a ser difícil. Esa es mi opinión, yo no
+
+[Speaker 1 - 01:05:19]
+Esa es mi opinión. Yo no estoy yo no estoy convenciendo a nadie. Yo simplemente estoy Me preguntaron y yo dije, punto de vista, ya se acabó. Excelente, excelente. Lu, adelante.
+
+[Speaker 0 - 01:05:29]
+Por cierto, ya Gracias. Tenemos una hora. Yo creo que tenemos aquí un ratito más. El mínimo es de una hora, pero yo creo que le damos unos 15 minutitos. Échale Elo.
+
+[Speaker 7 - 01:05:38]
+Gracias, Mexi. No, lo primero, creo que está buenísimo que que tú y Jesús tengan diferencias de opinión, porque estos son los debates de donde salen cosas fructíferas y buenas para para poder, pues, de la política económica, pero desde mi punto de vista creo que, o sea, a ver, es que vuelvo a lo mismo, el día que que podamos decir, o sea, una política económica es efectiva, de acuerdo a nivel de pobreza también, creo, de de cada país. Ajá. Y creo que eso es lo que cuesta mucho trabajo. Nosotros, afortunadamente, o sea, somos de los que estamos aquí escuchando spaces, y y afortunadamente no no no tenemos una preocupación gigantesca como la que tiene realmente la las personas que que carecen de estos beneficios de las política, de una política económica, de política pública efectiva. Creo que a a lo que estoy entendiendo y y lo que Jesús quiere transmitirnos, o sea, que que esa parte es a la que yo me sumo, es el día que que nosotros veamos que las criptomonedas también son eficientes a nivel financiero para la gente que de verdad tiene pobreza, o sea, que que lo requiere, creo que entonces podemos decir que que cripto ha sido democratizado, o sea, que todos tienen acceso.
+
+[Speaker 7 - 01:06:56]
+Probablemente nosotros lo vemos desde otro punto de vista, porque claro, creemos en la tecnología, creemos que esta es una gran opción para ayudarnos, la tecnología, creemos que esta es una gran opción para ayudarnos y y evitar los problemas que tenemos en el sistema tradicional, que eso estoy totalmente de acuerdo. Pero creo que que vamos a alcanzar una una plena eficacia, quiero llamarlo así, cuando realmente la gente que que lo necesita y que en todos nuestros países de Latinoamérica lo lo padecemos, lo tenemos, alcance realmente a tener un beneficio económico de esto. Y eso es lo que hace falta analizar, o sea, poner también creo que que debemos ser conscientes, poner los pies en la tierra y decir, a ver, ¿cuándo es que vamos a lograr generar ese consenso entre un sistema tradicional y el uso de esta tecnología para beneficiar a esos a a esas personas? Porque claro, o sea, en en en Europa incluso, todos, o sea, tienen una gran política económica, y es lo que decía Jesús en Inglaterra, en en Suecia, en estos países, porque ellos gozan incluso de un beneficio de la seguridad social en donde si quieren la mayoría pueden decir no trabajo y el gobierno me paga aunque no esté trabajando.
+
+[Speaker 7 - 01:08:14]
+Nosotros en Latinoamérica cuesta trabajo tener esas opciones. Entonces creo que tenemos que tener un poquito, o sea, reconocer que que esta esta tecnología, para que sea realmente eficaz a nivel financiero, tiene que dar acceso a los que realmente lo necesitan. Creo que eso también debemos de analizar, o sea, desde ese punto de vista. ¿No? Vista. No no no solo como un una tendencia empresarial o de los que tenemos acceso hoy en día a esto.
+
+[Speaker 0 - 01:08:45]
+Definitivo, Lu, gracias por la aportación. Creo que también, como mencionas, el tener perspectivas distintas, el poderlas debatir, el poder aprender también unos de los otros está bien interesante. Creo que a veces en algunos espacios, porque no todos la verdad muchos son muy divertidos, pero 1 que otro son cámaras donde 000 cuartitos donde escuchamos lo mismo y nada más nos impulsamos nosotros mismos a creernos las mismas situaciones, el mismo jarabe que nos estamos tomando y creo que esa discusión abierta de, oye no, es que yo opino que es diferente por tal tal, tal, ¿sabes? Es muy valioso. Adelante, Tato.
+
+[Speaker 3 - 01:09:23]
+Tú interrumpe, adelante, no no no. No, yo concuerdo contigo. Yo creo que esta plática concuerdo con Luz, Jesús. Te agradezco que estés aquí, aunque no creas en criptomonedas. Y estos tontos piensan que te van a convencer con 40 changos hablándote de criptos. Pero para ser sincero, acabo de detectar tus intenciones. Ahorita mencionaste a Agustín Carcens, aquí lo pillé arriba. Es ese gordo mexicano que está arriba que que se comió a México y por eso quedó así. Y ahorita se quiere comer al mundo. Entonces lo que acabo de descubrir, como tú eres exbanxico, se me hace que este canijo te mandó infiltrado a las comunidades Web3 antes de que crezcan. Y ya vi que tus intenciones son apoyar los CBDCs y no las cripto. Pero es valioso, es buen punto, porque yo creo que sí, que las CBDC van a ser implementadas muy fuerte. Este, y bueno ya ya ya adelante Mexi, porque si no voy a seguir troleando.
+
+[Speaker 1 - 01:10:08]
+Me gustaría saber el aquí vi el el perfil de Julio. Julio economista cripto. Sería bueno escuchar su punto de vista.
+
+[Speaker 0 - 01:10:18]
+Bueno, ya decidió, Chuyic, saltar a hacer el buen Skype. Vamos con Julio, ¿y luego con el Skype?
+
+[Speaker 8 - 01:10:24]
+¿Qué tal, buenas tardes? Gracias gracias a todos, gracias por la oportunidad de hablar. Bien, gracias Jesús. De hecho, ¿sabes qué? Te iba a comentar algo. He escuchado hablar mucho sobre eficiencia y sobre si existen países donde exista una
+
+[Speaker 0 - 01:10:51]
+¿Lo roguearon? ¿Me rogueó yo? Échale Julio, creo que ya.
+
+[Speaker 8 - 01:10:58]
+A ver, ahí te te escuchas. Sí, ya, ya, ya. Entonces, te quería comentar, Jesús, mira, ¿por qué nos haces un favorcito? ¿Por qué no nos comentas sobre la eficiencia de Pareto para que a algunas personas les quede más claro?
+
+[Speaker 0 - 01:11:15]
+¿Qué es eso? A ver échenle échenle.
+
+[Speaker 1 - 01:11:18]
+¿Pero tú crees?
+
+[Speaker 0 - 01:11:20]
+Sí, sí. ¿Crees que vamos a atenderle? Intenten, intenten, así como si estuviéramos 5 años. Sí, no, Laura, el chiste es simplificar todo.
+
+[Speaker 1 - 01:11:30]
+Sea, pero bueno, mejor adelante tú, Julio.
+
+[Speaker 8 - 01:11:32]
+Bien, bueno ¿Para qué para qué sirve eso? ¿Cómo te explico? Sí, bien, lo lo voy a tratar de hacer sencillo, ¿no? Lo que pasa aquí es que en temas de eficiencia, no, según Pareto o según la eficiencia, o lo óptimo Pareto sería, tú no puedes mejorar la la vida o la economía de todos, dado que hay un un punto óptimo donde, si tú le sigues quitando recursos a a un cada cantidad de personas, vas a hacer que la vida o la economía de otras personas no mejore, al contrario, empeore. Entonces, partiendo del principio de que los recursos son escasos, ahí es donde deberíamos nosotros de centrarnos, ¿no? O sea, si seguimos diciendo, no, es que yo creo en bitcoin, pero si seguimos diciendo, es que bitcoin va a venir a mejorar la vida de todas las personas, bueno, no necesariamente dado que existe un punto perdón, perdón, es que fuerte. Este, no, tendríamos nosotros entonces que que ver si esa eficiencia de la que se comenta nos nos va a dar, o sea, todavía estamos en una etapa donde donde cripto, pues, está apenas adaptándose o o adoptándose por por nosotros.
+
+[Speaker 8 - 01:12:45]
+Y tenemos que analizar esa eficiencia, ¿no? Hasta dónde nos va a dar, por ejemplo, el bitcoin para mejorar la vida de las personas y cómo podríamos romper o o cómo podríamos vencer ese óptimo de pared? Por lo pronto es cuanto.
+
+[Speaker 0 - 01:13:03]
+Gracias Julio, gracias. Definitivamente Todo tiene que ser analizado a detalle, todo va a seguir un proceso de adopción interesante diferente. La tecnología tiene su manera de poco a poco irse integrando en el día a día de la gente YYY
+
+[Speaker 2 - 01:13:21]
+pues bueno, todas las posturas aquí son son importantes. Nos quedan 17 minutos, a la una y media terminamos. Tómenlo
+
+[Speaker 0 - 01:13:23]
+en Nos quedan 17 minutos, a la una y media terminamos. Tómenlo en cuenta con sus comentarios y apuntes. Scribe, adelante. Bueno, ¿qué tal? Me alegrás para Ay, otra vez la mano pintadito, el dedo ese feo. Échale, adelante.
+
+[Speaker 11 - 01:13:39]
+Es para Jesús, vamos a ver. Yo he escuchado a Jesús en varios detalles y creo que es una buena persona y que tiene muy buenas intenciones, pero yo quizás voy a proponer lo siguiente, ¿vale? Con la CBDC. Vamos a ver, la mayoría del dinero que hay ahora mismo mundial es digital, es decir, no es físico, es digital. Entonces, la CBDC ahí no aportaría nada. ¿Dónde dónde aporta la CBDC? Aporta en que es dinero programable. ¿Qué significa eso? Que podemos hacer que ese dinero se gaste en lo que, en este caso, el gobierno quiera o promocione. Imagínate,
+
+[Speaker 1 - 01:14:13]
+si promociona por el gobierno. Perdón, hay hay hay hay, hay, perdón que te interrumpa, ¿cómo cómo va a estar programado el dinero para que el gobierno lo gaste? Eso no lo entendí. El gobierno gasta, te voy a explicar una cosa, el gobierno gasta No, pero el gobierno lo gaste, no. El gobierno no, que el gobierno decide en dónde lo gasta Sí, por eso, perdón, perdón, perdón, eso lo hace Skype en todos los países democráticos, inclusive en todos los países del mundo, una vez al año, en el presupuesto de egresos. O sea, no entiendo y ya está No.
+
+[Speaker 11 - 01:14:40]
+Sí, sí, sí, te lo juro. En el en el congreso se dice en dónde vas a gastar x cantidad de dinero. Entonces, no entiendo No, pero no hablo de Congreso. No hablo de eso. No hablo de de lo que dicen los políticos para dónde van los presupuestos. Hablamos de cuando el dinero Ah, bueno. Ahora mismo con el dinero digital, como está, los presupuestos y demás, todo eso ya funciona. Lo que viene de entrar, la CDC donde entran es que el dinero se puede decir dónde se gasta, es decir, pueden decidir a través de lo que son los algoritmos y los, y ahí mola los pseudo en mark contract. Déjame, por favor, ir detrás. Los pseudo en mark contract. ¿Eso eso qué tiene de malo? De, ¿no crees que sería mejor saber? Por ejemplo, mira, mira, te pongo un ejemplo. Déjame elegir hoy y era Nada
+
+[Speaker 1 - 01:15:19]
+más un 0.1 punto. Imagínate que en México, y eso es cierto, Segalmex, es una empresa de gobierno, recibió 2000000000 de pesos y no se comprobó que se realmente se haya gastado ese dinero en lo que ellos dijeron que es papelería, en transporte, nómina. Al CB, al momento que utilizas esta moneda digital, realmente vas a comprobar que se haya gastado ese dinero en eso, ¿no? Entonces, creo que aumentaría la eficiencia, reduciría la corrupción. ¿00A qué te refieres con que el gobierno va a saber? El gobierno ya sabe en qué va a gastar. Te lo dice todos los años en el presupuesto. Sigo sin entender el concepto. A
+
+[Speaker 11 - 01:15:54]
+ver, cuando hablamos, primero, cuando hablamos de web, que hablamos de las personas, de la comunidad, no hablamos de los sistemas ni de gobierno, no hablamos de política. De la comunidad, no hablamos de los sistemas y de gobierno, no hablamos de política. Entonces, las CBDC, lo que vienen siendo es un dinero que puedes programar. Es decir, imagínate que el gobierno dice, oye, pues vamos a promocionar que las personas, por ejemplo, gasten en lo que es un producto con menos huella de carbono, tal y cual. Bien, van a poner ese tipo de cosas populares, que la gente va a decir, ah, pues eso es bueno, eso es positivo. Pero, realmente, van a controlar completamente lo que es la libertad económica de las personas. ¿Qué pasa? Que yo te entiendo a ti que diga, guau, es el sistema más eficiente y más, sí, te lo compro. Es más eficiente si tuviéramos lo que son políticos y de y realmente democracia. Pero, por ejemplo, en en Europa, déjame contestar, en Europa tenemos partido cracia y realmente el presupuesto lo votan que le da la gana a ellos YYA los ciudadanos no hacemos nada, no podemos decidir dónde va el dinero. ¿Qué pasa? Si el dinero si el dinero, si si quitas lo que es si quitas lo que es la economía sumergida, realmente
+
+[Speaker 1 - 01:16:51]
+haces esclavos a todos los ciudadanos. Scribe, a ver ¿Por qué? Porque no estás haciendo una desgracia, vea. Esto esto no es Europa, es en todo el mundo. Si tú le preguntes en la calle y te va, fíjate, te invito a que hagas una encuesta en donde tú vivas, en tu calle, y le preguntes a la gente, ¿te gusta pagar impuestos? Te te aseguro que el 99.9999 por 100 te dirá que no, y no quiere decir que por eso los vas a meter al congreso y ya no va a haber impuestos. Entonces, todos los gobiernos tienen cámaras de especialistas y expertos en los temas para decidir sobre el gasto público, porque si no, tendrías el problema que te acabo de decir, que gente que no tiene la menor idea de finanzas públicas, pues, te va a votar en el ejercicio del presupuesto y no da reasignar un presupuesto que tiene un valor agregado para potenciar la actividad económica. ¿Alguien está entendiendo esa discusión? Yo me perdí. ¿Y tanto tú qué opinas?
+
+[Speaker 3 - 01:17:40]
+Bueno, yo también me perdí un poquito en la plática. Creo que está alejándose mucho de la temática. Pero sí comprendí una parte, bueno, lo que yo comprendí es que este dinero es programable para poder pagar presupuestos, va a evitar corrupción, las cripto y los CBDC van a ser lo mismo. Lo que dijo Julio, que ahorita nos conviene bitcoin, porque somos como el 1 por 100 de la población que lo utilizamos, pero cuando llegue el otro 99 por 100, pues yo creo que no les va a beneficiar y les va a solucionar nada, y creo que posiblemente les pudieran carecer las cosas a las personas que no están, porque yo creo que sí, los recursos son finitos. Pero bueno, eso fue lo que entendí de Julio, de Jesús, de The adscribe. Y sí, creo que los gobiernos, muchas veces, por ejemplo, aquí en México, en la parte agrícola, el programa de Procampo, que yo tengo algo de experiencia, me ha tocado ver cómo les dan muchísimo dinero a los agricultores. No sé si ahorita existe, y muchas veces culpamos a nuestros gobiernos, cuando en realidad las personas son los que se hacen flojos. Yo personalmente emprendí en México, en donde me dijeron que no tenía oportunidades, que me fuera a Estados Unidos, que hiciera todo eso. Teniendo 23 años y logré muchas cosas. Entonces yo creo que también es un problema de personas y no solamente de gobiernos.
+
+[Speaker 3 - 01:18:44]
+Pero eso lo vivo desde mi experiencia. A las personas a las personas que trabajaron conmigo, al 90 por 100 les dije, les doy dinero para que abran sus negocios y el 90 por 100 no quisieron porque quisieron depender del sistema laboral que se había implementado en mi empresa. Pero bueno, yo creo que así es como funcionamos los humanos. Mexico, no sé. No, no, no, buen resumen.
+
+[Speaker 0 - 01:19:03]
+Pero Germán, ¿qué opinas?
+
+[Speaker 5 - 01:19:05]
+¿Qué onda? Mencionando un poquito también lo que comentó Luis, lo que comentaban de países que los que estamos, por decirlo de forma, no tan feo, como están más jodidos como en América Latina, España, perdón, Argentina, Venezuela, todos esos pies que han sufrido, al final de cuentas ahí es en donde se ha visto la mayor adopción de bitcoin y criptomonedas porque tienen por fin una forma de accesar a una forma a un a un dinero que no se les va a depreciar en un 100 por 100 un día, digo, a pesar de que haya bajado bitcoin, pero al final de cuentas es la única forma en la que pueden salir de su país porque el dinero que tienen en su país ya no vale, o sea al final de cuentas termina siendo dinero de de papel. Entonces son oportunidades que tanto en Ucrania lo vimos con la gente que pudo huir de Ucrania con, la única forma de poder huir de Ucrania con dinero era con bitcoin o criptomonedas, lo mismo pasaba en Venezuela, lo mismo pasaba en Argentina, entonces son es como una salida, una opción de gente que no tiene la oportunidad de acceder a un sistema financiero, de poder tenerlo. Y de esa forma le puedes brindar inclusión financiera a mucha gente que, más el 70 por 100 de la población en el mundo no tiene acceso a una cuenta de banco, no tiene acceso ni ahorrar ni a poder transaccionar dinero en todo el mundo, ni siquiera en todo el mundo, sino integrarse a una economía que ven en redes sociales, que ven en el Internet, o sea que, pero porque no pueden hacerlo, porque no tienen un acceso o una forma de dinero que comercialice esto.
+
+[Speaker 5 - 01:20:20]
+Y lo otro que comentabas de del tema de la Fed y de Estados Unidos y en Europa, que tiene una política monetaria excelente, a mí me parece que son totalmente lo contrario. O sea, al final de cuentas la Fed fue la que causó todo esto, Estados Unidos fue el que causó todo esto, imprimiendo el 70 por 100 del dinero que está ahorita en circulación en el mundo, lo imprimieron durante, después de la pandemia. Y ya con eso, devalúas la moneda de toda la gente, le haces que pierdan por adquisitivo, la inflación se va al cielo. Ellos dicen que es un 10, 8 por 100, pero realmente es un 20, 30. Yo vivo justo en el sur de Texas ahorita en en McAllen, y las cosas se fueron al doble. O sea, 40, 50 por 100 arriba, incluso el doble. ¿Y qué te queda de forma una vez que ya imprimiste el dinero, ya te hiciste millonario con todo el dinero que imprimiste? Ahora no te queda de otra más que subir la tasa de interés para poder controlar. ¿Y qué pasa cuando sube las tasas de interés tan alta? Después de de interés tan altas? Después de prácticamente regalarle dinero a la gente, la gente pedía préstamos con una tasa del 1 por 100, pero ahorita ya tiene una tasa del 7, 8 por 100, entonces ahora los estás poniendo todavía más. Y la Fed se vio como entre la espada y la pared y no le quedaba de otra.
+
+[Speaker 5 - 01:21:21]
+En todavía más. Y la Fed se vio como entre la espada y la pared, y no le quedaba de otra. Imprimía dinero o subía tasas, y cualquiera de las 2 formas afectaba y jodía a la gente. Entonces, siento que que por ahí tampoco es una política correcta. Ellos decían que la inflación estaba controlada y tardaron en subir tasas, después se les salió de las manos y no les quedó de otra. Lo mismo pasó en Europa. Entonces, no creo que sea una política no económica correcta, sino todo lo contrario, y es un poco lo que ofrecen las bitcoin y las criptomonedas, de no tener que depender de estos gobiernos e instituciones financieras que al final de cuentas hacen lo que quieren con el dinero y con la gente.
+
+[Speaker 1 - 01:21:55]
+Oye, nada más nada más un un comentario ahí para contestar. Este, lo contrario, o sea, cuando te refieres todo lo contrario tendríamos que hablar de Venezuela, de Argentina y de Turquía. Todo lo contrario sería hacer lo lo lo contrario que está haciendo la Fed y la el Banco Central Europeo, tanto en la pandemia y ahora. Es decir, tendrías una hiperinflación, tendrías una pobreza estructural, tendrías un un desastre financiero global, que no lo tienes. Entonces, híjole, yo insisto que la la donde sí coincido contigo es que se tardó claramente. La Reserva Federal dijo que la inflación era transitoria, completamente de acuerdo, no nunca lo fue. Se tardó en subir tasas de interés, estoy de acuerdo. Pero ojo, no todo fue por el lado de la demanda, hubo chocos de oferta. De hecho, la inflación que se aproximó 8 por 100 fue justo un mes después de la guerra Ucrania Rusia. Entonces no fue tanto el tema de la demanda. Entonces, que estén haciendo las cosas totalmente mal, no. Que hicieron las cosas perfecto, creo que nadie las hace perfectamente.
+
+[Speaker 0 - 01:22:54]
+Claro que Y eso es 1 de los problemas, y perdón que interrumpa, pero creo que ahí está la la clave, ¿no? En que estos sistemas, estas economías las manejan de acuerdo a decisiones de ciertas personas que tienen datos, tienen análisis, hacen el análisis, rebotan información con ellos mismos. Beto, a saber cómo decidan, pero ellos son los que finalmente deciden estas tasas
+
+[Speaker 2 - 01:23:15]
+y dependen de ellos, ¿no? No, no, pero pero tú, él, digo, yo trabajé en México y y son los mejores economistas del país que están están haciendo No, no,
+
+[Speaker 1 - 01:23:20]
+y y son los mejores economistas del país que están están haciendo No, estoy de acuerdo, puede ser la gente más chica y en la reserva federal, olvídate, tienen un departamento 5 veces más grande. Estoy de acuerdo, pero tú lo dijiste, se tardaron. Entonces
+
+[Speaker 0 - 01:23:35]
+pudieron haberlo hecho antes, y aquí creo yo que entra la clave de lo de estos sistemas que no puede nadie decidir sobre ellos. Solitos están funcionando y ya sabes las reglas del juego. Qué bueno, porque son los expertos. Malo fuera, como dices Clave, que en la calle cualquiera tomara decisiones,
+
+[Speaker 1 - 01:23:50]
+ahí sí tenemos totalmente preinflacionarios. Debemos manejar a los expertos que tomen las decisiones, no que la gente tome las decisiones. Si no nadie pagaría impuestos y los gobiernos estarían quebrados. No,
+
+[Speaker 0 - 01:24:00]
+-Roberto No, de acuerdo. Nos quedan 6 minutos. El último comentario de los que tienen la manita levantada. Échale tanto y luego vamos con Andrew. -Roberto Llegó Metamón también ahorita subió. No sé si también le queremos pasar la palabra ahorita entonces en los comentarios, Max adelante. -Roberto Claro, claro. Andrew y luego Metamón. Último comentario cada 1 ya para el cierre porque en 6 minutitos pase lo que pase nos vamos.
+
+[Speaker 6 - 01:24:21]
+Listo. Bueno Metamón, dale vos que nos hablaste.
+
+[Speaker 14 - 01:24:27]
+Hola, buenas tardes. Interesante, como todos pensamos, y los que no han hablado, me gustaría saber cómo piensan. Yo vivo en los Estados Unidos y soy venezolana. Así que yo he visto las 2 economías. Bueno, siempre mire, un producto es de oferta y demanda, no importa en el siglo 18 o en el siglo veintiuno. Dependiendo la oferta y la demanda, se ponen los precios de los productos. Jesús tiene razón con la cuanto de la oferta. ¿No? Pero todo es causado por producir, por poner dinero, que no están, que sacan dinero, imprimen dinero y más dinero y más dinero, la gente tiene más dinero, pero hay menos cosas. Por ejemplo, los carros por chip que viene de la China, aumentó el precio. Por, el petróleo. La comida se pone más cara.
+
+[Speaker 14 - 01:25:28]
+Entonces. ¿Qué pasa con los intereses? Los intereses tienen que subir porque hay menos inversión, los bancos no van a tener dinero y ellos tienen que tener dinero. Entonces, aumentan, aumentan los intereses para que haiga más dinero en los bancos. Ahora bien, tantos ciclos que yo he visto económico no me asombra lo que está pasando. La economía mundial, donde sea, en cualquier país chiquito del mundo grande, tiene un ciclo. 3 7 años a 10 años. Ese ciclo va bajando y después va subiendo. Y a medida ello, la economía en sí, eso subiendo. Y a medida ello, la economía en sí, esos ciclos hace que se acomode el verdadero valor que es de la economía en ese tiempo. Y lo que está en cuanto a bitcoin, les digo la verdad manejan de otra moneda, que ni es el Bolívar, ni es el peso, sino el dólar.
+
+[Speaker 14 - 01:26:36]
+Cuando hay muchos dólares, se envían a esos países, sobre todo los venezolanos que viven aquí en cualquier parte del mundo, mandan dinero. En Venezuela, por ejemplo, no se produce nada. Todos prácticamente se compra de afuera. Por supuesto, las inflaciones allá es supergigante, porque no tiene mucho el dinero y los dólares no son tanto, porque con eso es que ellos pagan. ¿Qué están haciendo? Están sacando oro, están vendiendo oro, están matando a los indios para poder vender el oro, sacar el oro como sacan. No, orgánicamente, ecológicamente, sino hay que sacarlo con maquinaria. Entonces, en cuanto a las monedas criptomonedas, yo pienso es esto. Yo. La inflación está subiendo, los intereses están subiendo.
+
+[Speaker 14 - 01:27:36]
+Muchos países han comprado estos cripto y necesitan el dinero para pagar para sus productos. ¿Qué pasa? Con meta la oferta de cripto, porque hay más cripto vendiéndose y baja. Otra vez, yo pensaba hace 2 años cuando no no sabía mucho de cripto y tal vez estaba en lo correcto. Si hay países que quieren controlar, los millonarios, que quieren controlar los millonarios, que quieren controlar un poco los países, son capaces de bajar el precio del criptomoneda para que la gente empiece a venderlos y ellos agarrar lo más. Eso tiene un costo para los millonarios porque están perdiendo de ellos mismos de su dinero, pero están recuperando cripto que están fuera para controlar. Ahora bien, si nosotros lo que tenemos criptomoneda podemos sostenerlo hasta lo que podamos, este tipo de millonarios, este tipo de organizaciones no van a poder con los gastos, porque están perdiendo dinero, vendiendo su cripto para comprarlo más barato, pero la gente no lo está vendiendo, oye, ellos lo están vendiendo más barato.
+
+[Speaker 14 - 01:29:01]
+Entonces, todo hay que tener paciencia. Inversiones es a largo plazo. Si quieren a corto plazo, pónganlo en un banco o hace usted el mismo préstamo que le paguen el mejor interés. Pero para una economía son de largo plazo las inversiones, no inviertan, tengan diferentes diferentes monedas en el banco, el bajo de la cama, donde tengan de todas partes dinero, para que así no lo puedan, no nos puedan controlar a nosotros. El año pasado, yo pensé que Estados Unidos iba a tener el año pasado una inflación horrible, porque el presupuesto se fue, el presupuesto altísimo se fue para el green, para comprar más, para hacer más electricidad, más cargadores en la calle, para los carros. ¿Y qué ha pasado? Que se han dado cuenta que esa
+
+[Speaker 0 - 01:30:09]
+electricidad que se está poniendo o esos cargadores para los carros eléctricos no tiene un soporte eléctrico.
+
+[Speaker 14 - 01:30:11]
+Cargadores para los carros eléctricos no tiene un soporte eléctrico. No lo tiene porque no crear una infraestructura grande. Entonces. ¿Qué está pasando? Está aumentando bastante la electricidad. ¿Y de dónde crees que vienen eso? Entonces, todo ese dinero, todas estas cosas ha hecho que hemos dejado otras partes para producir, porque todo el dinero se está yendo en infraestructura para el futuro de tener todos nosotros un carro eléctrico, mas no a cosas que necesitamos dentro del país. Eso en los Estados Unidos, hablando por completo. Metamón, una duda.
+
+[Speaker 0 - 01:30:53]
+La verdad es que es superinteresante la perspectiva de alguien que ha visto, pues una de las, perdonan que lo diga y a lo mejor no estoy en lo correcto, pero una de las peores economías, ¿no? En Venezuela y una de las mejores en en Estados Unidos. ¿Cuál fue? Madre, hace unas una y media, ya nos pasamos. ¿Cómo fue el proceso de de de de que usted migrara? ¿Y qué tan sencillo
+
+[Speaker 14 - 01:31:15]
+fue? ¿Y qué beneficios ha visto? Bueno, mira, yo cuando vine para acá vine llorando. Yo soy mayor, la mayor de 8 y somos como 40 primos y yo no sé cuántas tías. Y yo vine para acá llorando con mis 2 hijos y ya después tuve 2 más. Me casé que en Venezuela, ya estamos escuchando el socialismo en las universidades, en todo, y mi esposo dijo, pues, yo trabajo con el Banco Mundial y migramos aquí hace 32 años. Respeto mucho respeto mucho este país, no me ha dado oportunidades a mí, ahora tengo 5, 4 hermanas aquí conmigo. He podido ayudar a otros de mi familia alrededor del mundo, no solamente en Venezuela, pero alrededor del mundo. Es un país que si tú trabajas fuerte, pues puedes tener lo que 1 quiera. ¿No? ¿Todavía tienes familia por allá? ¿En Venezuela? Sí, en Venezuela. Sí. Y no ha ido desde por el COVID, pero ese otro problema que está pasando con la economía de Venezuela.
+
+[Speaker 14 - 01:32:22]
+¿Y por qué la inflación es más alta? Porque ahora están tratando de cobrar en dólares. Y el dólar, pues, no es la moneda de Venezuela. Entonces, la oferta de dólares es es más, es como decirte, no tenemos. Entonces, todos los productos se basa ahora en el precio de del dólar.
+
+[Speaker 0 - 01:32:45]
+¿Y el bitcoin lo han utilizado allá? ¿Lo utilizan sus familiares? ¿Les sirve? Bueno. ¿Cómo lo usan? Mi familia no no lo tiene, pero tengo amigos.
+
+[Speaker 14 - 01:32:54]
+Entonces, yo le mando deuterio, se compra otra moneda, el bitcoin, y de ahí se nos me hacen el favor y le dan dinero en dólares. Así que sí se utiliza. Es por eso que muchas veces se critica al presidente de El Salvador que por qué hizo eso con el bitcoin. Bueno, nunca sabíamos que iba a caer tanto, pero era una manera de proteger a su economía, porque todo es en pasado al dólar americano. Entonces, no es su propia moneda. Entonces, lo bonito de un que debería mantenerse su propia moneda y y jugar su inflación o deflación o como lo quieran llamar con su moneda. Pero cuando tanto ya dependemos de otra moneda, el de Europa o el de los estados o el el dólar americano, entonces, la inflación de nuestros países, generalmente los países más más pobres son los que sufren más. Cuando los Estados Unidos o el euro aumentan, porque ellos todo lo que compran lo compran, no producen muy todo lo que necesitan.
+
+[Speaker 14 - 01:34:01]
+Entonces, por eso es que el cripto, yo hace 2, 3, 4 años no, yo decía, bueno, ¿y qué es eso? Pero después de ver que yo podía mandar dinero así con moneda cripto, oh my, es más fácil, no tengo que pagar nada y es más privado y no tiene que ir a transferencia de un banco al otro banco, en fin.
+
+[Speaker 0 - 01:34:24]
+Dinero mágico digital. Y discúlpenme, los voy a meter a todos. Yo creo que con esto podemos cerrar definitivamente. La herramienta tiene un valor, ya lo estamos escuchando, Jesús. Si les gustó el espacio, por favor, comenten, manden DM. La idea, pues, el espacio, por favor comenten, manden DM. La idea, pues, es seguirlos teniendo, pues, periódicamente. Me gusta que la dinámica sea muy, muy controversial de repente, que haya posturas de vista distintas, que podamos debatir y que, pues, aprendamos un poco de diversión. Metamom, muchisísimas gracias por por sus comentarios. La verdad se me va el tiempo. Tengo que ir a recoger aquí a los chaparros y atender al al al que me acaban de decir tiene influencia, el pobre ni modo. Pero la realidad es que me encanta poder compartir, que podamos subir, que todos puedan acá aportar lo que lo que conocen, lo que saben. Que tratemos de convencer y que me ayuden a convencer a Chullic y que en algún punto pueda él publicar en 1 de sus artículos del financiero algo sobre bitcoin, sobre las herramientas, sobre las ventajas, sobre cómo se utiliza en ciertos lugares y que pues, prendemos un poco todos de de lo que tenemos por aquí.
+
+[Speaker 0 - 01:35:34]
+¿Thato, Jesús, algún tema adicional?
+
+[Speaker 1 - 01:35:38]
+No, muchas gracias a todos, y y qué bueno que se armó el debate. Siempre respetuoso y productivo. Gracias.
+
+[Speaker 3 - 01:35:46]
+Pues bueno, ¿no? ¿Thato? No, muchísimas gracias, De este. Espero que escriba el Chango con mocos ahí en el financiero muy pronto. Ahí nos estamos viendo. Pronto vas a comprar tu primer NFT, Jesús. Vas a ver. Creo que ahí te deben 1 por ahí. -Roberto
+
+[Speaker 0 - 01:35:59]
+Por cierto, cierro con que ya encontré cuál es el objetivo de Jesús de montarse estos espacios. Trae un un un plan macabro que nos va a querer vender. Quiere toquenizar por ahí un terrenito, quiere toquenizar, quiere utilizar las herramientas, ya lo platicaremos, pero bueno. Gracias a todos de nuevo por compartir el tiempo, por estar con nosotros, por divertirse y aprender un rato, nos vemos, no sé, ahí les avisaremos. Bye.

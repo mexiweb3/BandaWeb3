@@ -1,0 +1,3064 @@
+{
+  "metadata": {
+    "transaction_key": "deprecated",
+    "request_id": "95af5038-66d4-49dc-874b-3c1f59d465f2",
+    "sha256": "1017b902df2f574f3eba61ae562fd4d4d256d81d6d3474431ec61689b6ca17fb",
+    "created": "2025-12-10T03:02:30.927Z",
+    "duration": 347.63757,
+    "channels": 1,
+    "models": [
+      "4f82af92-7749-4465-92ad-3db204bc8e03"
+    ],
+    "model_info": {
+      "4f82af92-7749-4465-92ad-3db204bc8e03": {
+        "name": "2-general-nova",
+        "version": "2023-12-14.34983",
+        "arch": "nova-2"
+      }
+    }
+  },
+  "results": {
+    "channels": [
+      {
+        "alternatives": [
+          {
+            "transcript": "Esa grabación, hoy es martes 9 de mayo del 2023. Desde Monterrey, Nuevo León estamos transmitiendo este episodio de Proof, ah, no, no es Proof of Value, Julián, ¿cómo andas? Del economista y el ingeniero, hoy vamos a hablar de del Tulum Cryptofest. Todo lo que vivimos por allá. Y también estaremos platicando de los eventos que se están organizando acá en Monterrey. Hoy me llegó un un comentario de otro evento que se está organizando el 15 de mayo. Ya hablaremos del tema. Helio, bienvenido, déjame te hago cojos. Voy a poner algo de musiquita. Y empezamos en unos 2, 3 minutitos. La canción que le voy a poner es Money, de Pink Floyd, considerando que estuvimos por allá en Tulum Cryptofest con Scott Page, el saxofonista de Toto, de Pink Floyd y de no recuerdo cuál es el otro grupo. Pero bueno, empecemos en 5 minutitos. Money de Pink Floyd.",
+            "confidence": 0.9926104,
+            "words": [
+              {
+                "word": "esa",
+                "start": 0.16,
+                "end": 0.24,
+                "confidence": 0.6363604,
+                "speaker": 0,
+                "speaker_confidence": 0.8148558,
+                "punctuated_word": "Esa"
+              },
+              {
+                "word": "grabación",
+                "start": 0.24,
+                "end": 0.59999996,
+                "confidence": 0.75749314,
+                "speaker": 0,
+                "speaker_confidence": 0.8148558,
+                "punctuated_word": "grabación,"
+              },
+              {
+                "word": "hoy",
+                "start": 0.59999996,
+                "end": 0.96,
+                "confidence": 0.99831617,
+                "speaker": 0,
+                "speaker_confidence": 0.8148558,
+                "punctuated_word": "hoy"
+              },
+              {
+                "word": "es",
+                "start": 0.96,
+                "end": 1.46,
+                "confidence": 0.9985667,
+                "speaker": 0,
+                "speaker_confidence": 0.8148558,
+                "punctuated_word": "es"
+              },
+              {
+                "word": "martes",
+                "start": 1.8399999,
+                "end": 2.34,
+                "confidence": 0.9974158,
+                "speaker": 0,
+                "speaker_confidence": 0.8148558,
+                "punctuated_word": "martes"
+              },
+              {
+                "word": "9",
+                "start": 3.4399998,
+                "end": 3.6799998,
+                "confidence": 0.6963693,
+                "speaker": 0,
+                "speaker_confidence": 0.8148558,
+                "punctuated_word": "9"
+              },
+              {
+                "word": "de",
+                "start": 3.6799998,
+                "end": 3.76,
+                "confidence": 0.9816119,
+                "speaker": 0,
+                "speaker_confidence": 0.8148558,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "mayo",
+                "start": 3.76,
+                "end": 4.24,
+                "confidence": 0.9996209,
+                "speaker": 0,
+                "speaker_confidence": 0.8148558,
+                "punctuated_word": "mayo"
+              },
+              {
+                "word": "del",
+                "start": 4.24,
+                "end": 4.48,
+                "confidence": 0.9856257,
+                "speaker": 0,
+                "speaker_confidence": 0.8148558,
+                "punctuated_word": "del"
+              },
+              {
+                "word": "2023",
+                "start": 4.48,
+                "end": 5.38,
+                "confidence": 0.9324844,
+                "speaker": 0,
+                "speaker_confidence": 0.8148558,
+                "punctuated_word": "2023."
+              },
+              {
+                "word": "desde",
+                "start": 5.68,
+                "end": 6.08,
+                "confidence": 0.9982437,
+                "speaker": 0,
+                "speaker_confidence": 0.8148558,
+                "punctuated_word": "Desde"
+              },
+              {
+                "word": "monterrey",
+                "start": 6.08,
+                "end": 6.3999996,
+                "confidence": 0.95522296,
+                "speaker": 0,
+                "speaker_confidence": 0.8148558,
+                "punctuated_word": "Monterrey,"
+              },
+              {
+                "word": "nuevo",
+                "start": 6.3999996,
+                "end": 6.72,
+                "confidence": 0.99363434,
+                "speaker": 0,
+                "speaker_confidence": 0.8148558,
+                "punctuated_word": "Nuevo"
+              },
+              {
+                "word": "león",
+                "start": 6.72,
+                "end": 6.96,
+                "confidence": 0.99927205,
+                "speaker": 0,
+                "speaker_confidence": 0.8148558,
+                "punctuated_word": "León"
+              },
+              {
+                "word": "estamos",
+                "start": 6.96,
+                "end": 7.2,
+                "confidence": 0.50548667,
+                "speaker": 0,
+                "speaker_confidence": 0.8148558,
+                "punctuated_word": "estamos"
+              },
+              {
+                "word": "transmitiendo",
+                "start": 7.2,
+                "end": 7.7,
+                "confidence": 0.99699867,
+                "speaker": 0,
+                "speaker_confidence": 0.8148558,
+                "punctuated_word": "transmitiendo"
+              },
+              {
+                "word": "este",
+                "start": 8.08,
+                "end": 8.4,
+                "confidence": 0.97875285,
+                "speaker": 0,
+                "speaker_confidence": 0.8148558,
+                "punctuated_word": "este"
+              },
+              {
+                "word": "episodio",
+                "start": 8.4,
+                "end": 8.9,
+                "confidence": 0.9992617,
+                "speaker": 0,
+                "speaker_confidence": 0.8148558,
+                "punctuated_word": "episodio"
+              },
+              {
+                "word": "de",
+                "start": 8.96,
+                "end": 9.36,
+                "confidence": 0.9976568,
+                "speaker": 0,
+                "speaker_confidence": 0.8148558,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "proof",
+                "start": 9.36,
+                "end": 9.86,
+                "confidence": 0.6245882,
+                "speaker": 0,
+                "speaker_confidence": 0.8148558,
+                "punctuated_word": "Proof,"
+              },
+              {
+                "word": "ah",
+                "start": 10.0,
+                "end": 10.16,
+                "confidence": 0.8292265,
+                "speaker": 0,
+                "speaker_confidence": 0.8148558,
+                "punctuated_word": "ah,"
+              },
+              {
+                "word": "no",
+                "start": 10.16,
+                "end": 10.32,
+                "confidence": 0.7404101,
+                "speaker": 0,
+                "speaker_confidence": 0.8148558,
+                "punctuated_word": "no,"
+              },
+              {
+                "word": "no",
+                "start": 10.32,
+                "end": 10.4,
+                "confidence": 0.9356004,
+                "speaker": 0,
+                "speaker_confidence": 0.8148558,
+                "punctuated_word": "no"
+              },
+              {
+                "word": "es",
+                "start": 10.4,
+                "end": 10.48,
+                "confidence": 0.9449061,
+                "speaker": 0,
+                "speaker_confidence": 0.5212617,
+                "punctuated_word": "es"
+              },
+              {
+                "word": "proof",
+                "start": 10.48,
+                "end": 10.639999,
+                "confidence": 0.99482834,
+                "speaker": 0,
+                "speaker_confidence": 0.5212617,
+                "punctuated_word": "Proof"
+              },
+              {
+                "word": "of",
+                "start": 10.639999,
+                "end": 10.8,
+                "confidence": 0.9744129,
+                "speaker": 0,
+                "speaker_confidence": 0.5212617,
+                "punctuated_word": "of"
+              },
+              {
+                "word": "value",
+                "start": 10.8,
+                "end": 11.2,
+                "confidence": 0.77341026,
+                "speaker": 0,
+                "speaker_confidence": 0.5212617,
+                "punctuated_word": "Value,"
+              },
+              {
+                "word": "julián",
+                "start": 11.2,
+                "end": 11.44,
+                "confidence": 0.43873352,
+                "speaker": 0,
+                "speaker_confidence": 0.5212617,
+                "punctuated_word": "Julián,"
+              },
+              {
+                "word": "cómo",
+                "start": 11.44,
+                "end": 11.679999,
+                "confidence": 0.75256276,
+                "speaker": 0,
+                "speaker_confidence": 0.5212617,
+                "punctuated_word": "¿cómo"
+              },
+              {
+                "word": "andas",
+                "start": 11.679999,
+                "end": 12.179999,
+                "confidence": 0.9795592,
+                "speaker": 0,
+                "speaker_confidence": 0.5212617,
+                "punctuated_word": "andas?"
+              },
+              {
+                "word": "del",
+                "start": 12.48,
+                "end": 12.98,
+                "confidence": 0.7343069,
+                "speaker": 0,
+                "speaker_confidence": 0.5212617,
+                "punctuated_word": "Del"
+              },
+              {
+                "word": "economista",
+                "start": 13.04,
+                "end": 13.44,
+                "confidence": 0.7929119,
+                "speaker": 0,
+                "speaker_confidence": 0.5212617,
+                "punctuated_word": "economista"
+              },
+              {
+                "word": "y",
+                "start": 13.44,
+                "end": 13.5199995,
+                "confidence": 0.36110824,
+                "speaker": 0,
+                "speaker_confidence": 0.5212617,
+                "punctuated_word": "y"
+              },
+              {
+                "word": "el",
+                "start": 13.5199995,
+                "end": 13.599999,
+                "confidence": 0.91919756,
+                "speaker": 0,
+                "speaker_confidence": 0.5212617,
+                "punctuated_word": "el"
+              },
+              {
+                "word": "ingeniero",
+                "start": 13.599999,
+                "end": 14.0,
+                "confidence": 0.72204393,
+                "speaker": 0,
+                "speaker_confidence": 0.5212617,
+                "punctuated_word": "ingeniero,"
+              },
+              {
+                "word": "hoy",
+                "start": 14.0,
+                "end": 14.08,
+                "confidence": 0.7708511,
+                "speaker": 0,
+                "speaker_confidence": 0.5212617,
+                "punctuated_word": "hoy"
+              },
+              {
+                "word": "vamos",
+                "start": 14.08,
+                "end": 14.24,
+                "confidence": 0.99741036,
+                "speaker": 0,
+                "speaker_confidence": 0.5212617,
+                "punctuated_word": "vamos"
+              },
+              {
+                "word": "a",
+                "start": 14.24,
+                "end": 14.32,
+                "confidence": 0.97289836,
+                "speaker": 0,
+                "speaker_confidence": 0.5525003,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "hablar",
+                "start": 14.32,
+                "end": 14.639999,
+                "confidence": 0.99956185,
+                "speaker": 0,
+                "speaker_confidence": 0.5525003,
+                "punctuated_word": "hablar"
+              },
+              {
+                "word": "de",
+                "start": 14.639999,
+                "end": 14.925,
+                "confidence": 0.98773414,
+                "speaker": 0,
+                "speaker_confidence": 0.5525003,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "del",
+                "start": 16.365,
+                "end": 16.525,
+                "confidence": 0.5945755,
+                "speaker": 0,
+                "speaker_confidence": 0.5525003,
+                "punctuated_word": "del"
+              },
+              {
+                "word": "tulum",
+                "start": 16.525,
+                "end": 17.005001,
+                "confidence": 0.99864554,
+                "speaker": 0,
+                "speaker_confidence": 0.5525003,
+                "punctuated_word": "Tulum"
+              },
+              {
+                "word": "cryptofest",
+                "start": 17.005001,
+                "end": 17.505001,
+                "confidence": 0.8305353,
+                "speaker": 0,
+                "speaker_confidence": 0.5525003,
+                "punctuated_word": "Cryptofest."
+              },
+              {
+                "word": "todo",
+                "start": 17.965,
+                "end": 18.465,
+                "confidence": 0.99837226,
+                "speaker": 0,
+                "speaker_confidence": 0.5525003,
+                "punctuated_word": "Todo"
+              },
+              {
+                "word": "lo",
+                "start": 18.925,
+                "end": 19.085,
+                "confidence": 0.9985536,
+                "speaker": 0,
+                "speaker_confidence": 0.71400213,
+                "punctuated_word": "lo"
+              },
+              {
+                "word": "que",
+                "start": 19.085,
+                "end": 19.325,
+                "confidence": 0.9988298,
+                "speaker": 0,
+                "speaker_confidence": 0.71400213,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "vivimos",
+                "start": 19.325,
+                "end": 19.485,
+                "confidence": 0.99877685,
+                "speaker": 0,
+                "speaker_confidence": 0.71400213,
+                "punctuated_word": "vivimos"
+              },
+              {
+                "word": "por",
+                "start": 19.485,
+                "end": 19.805,
+                "confidence": 0.9952592,
+                "speaker": 0,
+                "speaker_confidence": 0.71400213,
+                "punctuated_word": "por"
+              },
+              {
+                "word": "allá",
+                "start": 19.805,
+                "end": 20.125,
+                "confidence": 0.8659524,
+                "speaker": 0,
+                "speaker_confidence": 0.71400213,
+                "punctuated_word": "allá."
+              },
+              {
+                "word": "y",
+                "start": 20.125,
+                "end": 20.365,
+                "confidence": 0.99865735,
+                "speaker": 0,
+                "speaker_confidence": 0.71400213,
+                "punctuated_word": "Y"
+              },
+              {
+                "word": "también",
+                "start": 20.365,
+                "end": 20.765,
+                "confidence": 0.9917189,
+                "speaker": 0,
+                "speaker_confidence": 0.71400213,
+                "punctuated_word": "también"
+              },
+              {
+                "word": "estaremos",
+                "start": 20.765,
+                "end": 21.165,
+                "confidence": 0.98231333,
+                "speaker": 0,
+                "speaker_confidence": 0.71400213,
+                "punctuated_word": "estaremos"
+              },
+              {
+                "word": "platicando",
+                "start": 21.165,
+                "end": 21.665,
+                "confidence": 0.9973711,
+                "speaker": 0,
+                "speaker_confidence": 0.71400213,
+                "punctuated_word": "platicando"
+              },
+              {
+                "word": "de",
+                "start": 22.045,
+                "end": 22.125,
+                "confidence": 0.9983468,
+                "speaker": 0,
+                "speaker_confidence": 0.71400213,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "los",
+                "start": 22.125,
+                "end": 22.365,
+                "confidence": 0.9994997,
+                "speaker": 0,
+                "speaker_confidence": 0.71400213,
+                "punctuated_word": "los"
+              },
+              {
+                "word": "eventos",
+                "start": 22.365,
+                "end": 22.685,
+                "confidence": 0.99979573,
+                "speaker": 0,
+                "speaker_confidence": 0.71400213,
+                "punctuated_word": "eventos"
+              },
+              {
+                "word": "que",
+                "start": 22.685,
+                "end": 22.845,
+                "confidence": 0.99957556,
+                "speaker": 0,
+                "speaker_confidence": 0.71400213,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "se",
+                "start": 22.845,
+                "end": 22.925,
+                "confidence": 0.99034053,
+                "speaker": 0,
+                "speaker_confidence": 0.48261154,
+                "punctuated_word": "se"
+              },
+              {
+                "word": "están",
+                "start": 22.925,
+                "end": 23.244999,
+                "confidence": 0.9950363,
+                "speaker": 0,
+                "speaker_confidence": 0.48261154,
+                "punctuated_word": "están"
+              },
+              {
+                "word": "organizando",
+                "start": 23.244999,
+                "end": 23.564999,
+                "confidence": 0.9926104,
+                "speaker": 0,
+                "speaker_confidence": 0.48261154,
+                "punctuated_word": "organizando"
+              },
+              {
+                "word": "acá",
+                "start": 23.564999,
+                "end": 23.805,
+                "confidence": 0.91543335,
+                "speaker": 0,
+                "speaker_confidence": 0.48261154,
+                "punctuated_word": "acá"
+              },
+              {
+                "word": "en",
+                "start": 23.805,
+                "end": 24.205,
+                "confidence": 0.9927422,
+                "speaker": 0,
+                "speaker_confidence": 0.48261154,
+                "punctuated_word": "en"
+              },
+              {
+                "word": "monterrey",
+                "start": 24.205,
+                "end": 24.605,
+                "confidence": 0.99598587,
+                "speaker": 0,
+                "speaker_confidence": 0.48261154,
+                "punctuated_word": "Monterrey."
+              },
+              {
+                "word": "hoy",
+                "start": 24.605,
+                "end": 24.765,
+                "confidence": 0.9993917,
+                "speaker": 0,
+                "speaker_confidence": 0.6924722,
+                "punctuated_word": "Hoy"
+              },
+              {
+                "word": "me",
+                "start": 24.765,
+                "end": 24.925,
+                "confidence": 0.99621767,
+                "speaker": 0,
+                "speaker_confidence": 0.6924722,
+                "punctuated_word": "me"
+              },
+              {
+                "word": "llegó",
+                "start": 24.925,
+                "end": 25.425,
+                "confidence": 0.9921151,
+                "speaker": 0,
+                "speaker_confidence": 0.6924722,
+                "punctuated_word": "llegó"
+              },
+              {
+                "word": "un",
+                "start": 25.564999,
+                "end": 26.064999,
+                "confidence": 0.99936646,
+                "speaker": 0,
+                "speaker_confidence": 0.6924722,
+                "punctuated_word": "un"
+              },
+              {
+                "word": "un",
+                "start": 26.164999,
+                "end": 26.664999,
+                "confidence": 0.93581235,
+                "speaker": 0,
+                "speaker_confidence": 0.6924722,
+                "punctuated_word": "un"
+              },
+              {
+                "word": "comentario",
+                "start": 26.765,
+                "end": 26.965,
+                "confidence": 0.7051735,
+                "speaker": 0,
+                "speaker_confidence": 0.6924722,
+                "punctuated_word": "comentario"
+              },
+              {
+                "word": "de",
+                "start": 26.965,
+                "end": 27.165,
+                "confidence": 0.99886143,
+                "speaker": 0,
+                "speaker_confidence": 0.6924722,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "otro",
+                "start": 27.165,
+                "end": 27.485,
+                "confidence": 0.9996099,
+                "speaker": 0,
+                "speaker_confidence": 0.6924722,
+                "punctuated_word": "otro"
+              },
+              {
+                "word": "evento",
+                "start": 27.485,
+                "end": 27.805,
+                "confidence": 0.99976236,
+                "speaker": 0,
+                "speaker_confidence": 0.6924722,
+                "punctuated_word": "evento"
+              },
+              {
+                "word": "que",
+                "start": 27.805,
+                "end": 27.965,
+                "confidence": 0.8812971,
+                "speaker": 0,
+                "speaker_confidence": 0.6924722,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "se",
+                "start": 27.965,
+                "end": 28.465,
+                "confidence": 0.94697034,
+                "speaker": 0,
+                "speaker_confidence": 0.6924722,
+                "punctuated_word": "se"
+              },
+              {
+                "word": "está",
+                "start": 28.685,
+                "end": 28.77,
+                "confidence": 0.87632364,
+                "speaker": 0,
+                "speaker_confidence": 0.82388705,
+                "punctuated_word": "está"
+              },
+              {
+                "word": "organizando",
+                "start": 28.93,
+                "end": 29.25,
+                "confidence": 0.9980071,
+                "speaker": 0,
+                "speaker_confidence": 0.82388705,
+                "punctuated_word": "organizando"
+              },
+              {
+                "word": "el",
+                "start": 29.25,
+                "end": 29.41,
+                "confidence": 0.9979315,
+                "speaker": 0,
+                "speaker_confidence": 0.82388705,
+                "punctuated_word": "el"
+              },
+              {
+                "word": "15",
+                "start": 29.41,
+                "end": 29.73,
+                "confidence": 0.99927646,
+                "speaker": 0,
+                "speaker_confidence": 0.82388705,
+                "punctuated_word": "15"
+              },
+              {
+                "word": "de",
+                "start": 29.73,
+                "end": 29.890001,
+                "confidence": 0.9962559,
+                "speaker": 0,
+                "speaker_confidence": 0.82388705,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "mayo",
+                "start": 29.890001,
+                "end": 30.29,
+                "confidence": 0.8829073,
+                "speaker": 0,
+                "speaker_confidence": 0.82388705,
+                "punctuated_word": "mayo."
+              },
+              {
+                "word": "ya",
+                "start": 30.29,
+                "end": 30.77,
+                "confidence": 0.99721426,
+                "speaker": 0,
+                "speaker_confidence": 0.82388705,
+                "punctuated_word": "Ya"
+              },
+              {
+                "word": "hablaremos",
+                "start": 30.77,
+                "end": 31.25,
+                "confidence": 0.9985097,
+                "speaker": 0,
+                "speaker_confidence": 0.82388705,
+                "punctuated_word": "hablaremos"
+              },
+              {
+                "word": "del",
+                "start": 31.25,
+                "end": 31.41,
+                "confidence": 0.99229604,
+                "speaker": 0,
+                "speaker_confidence": 0.82388705,
+                "punctuated_word": "del"
+              },
+              {
+                "word": "tema",
+                "start": 31.41,
+                "end": 31.810001,
+                "confidence": 0.99866855,
+                "speaker": 0,
+                "speaker_confidence": 0.82388705,
+                "punctuated_word": "tema."
+              },
+              {
+                "word": "helio",
+                "start": 31.810001,
+                "end": 32.21,
+                "confidence": 0.8650737,
+                "speaker": 0,
+                "speaker_confidence": 0.82388705,
+                "punctuated_word": "Helio,"
+              },
+              {
+                "word": "bienvenido",
+                "start": 32.21,
+                "end": 32.61,
+                "confidence": 0.7843283,
+                "speaker": 0,
+                "speaker_confidence": 0.82388705,
+                "punctuated_word": "bienvenido,"
+              },
+              {
+                "word": "déjame",
+                "start": 32.61,
+                "end": 32.93,
+                "confidence": 0.69164044,
+                "speaker": 0,
+                "speaker_confidence": 0.82388705,
+                "punctuated_word": "déjame"
+              },
+              {
+                "word": "te",
+                "start": 32.93,
+                "end": 33.41,
+                "confidence": 0.6162789,
+                "speaker": 0,
+                "speaker_confidence": 0.82388705,
+                "punctuated_word": "te"
+              },
+              {
+                "word": "hago",
+                "start": 33.41,
+                "end": 33.65,
+                "confidence": 0.8052081,
+                "speaker": 0,
+                "speaker_confidence": 0.82388705,
+                "punctuated_word": "hago"
+              },
+              {
+                "word": "cojos",
+                "start": 33.65,
+                "end": 34.13,
+                "confidence": 0.61055285,
+                "speaker": 0,
+                "speaker_confidence": 0.82388705,
+                "punctuated_word": "cojos."
+              },
+              {
+                "word": "voy",
+                "start": 34.13,
+                "end": 34.37,
+                "confidence": 0.9986958,
+                "speaker": 0,
+                "speaker_confidence": 0.82388705,
+                "punctuated_word": "Voy"
+              },
+              {
+                "word": "a",
+                "start": 34.37,
+                "end": 34.53,
+                "confidence": 0.9927819,
+                "speaker": 0,
+                "speaker_confidence": 0.82388705,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "poner",
+                "start": 34.53,
+                "end": 35.010002,
+                "confidence": 0.9997682,
+                "speaker": 0,
+                "speaker_confidence": 0.82388705,
+                "punctuated_word": "poner"
+              },
+              {
+                "word": "algo",
+                "start": 35.010002,
+                "end": 35.25,
+                "confidence": 0.99033666,
+                "speaker": 0,
+                "speaker_confidence": 0.82388705,
+                "punctuated_word": "algo"
+              },
+              {
+                "word": "de",
+                "start": 35.25,
+                "end": 35.33,
+                "confidence": 0.998324,
+                "speaker": 0,
+                "speaker_confidence": 0.82388705,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "musiquita",
+                "start": 35.33,
+                "end": 35.83,
+                "confidence": 0.80339223,
+                "speaker": 0,
+                "speaker_confidence": 0.82388705,
+                "punctuated_word": "musiquita."
+              },
+              {
+                "word": "y",
+                "start": 36.69,
+                "end": 37.19,
+                "confidence": 0.9991392,
+                "speaker": 0,
+                "speaker_confidence": 0.4925065,
+                "punctuated_word": "Y"
+              },
+              {
+                "word": "empezamos",
+                "start": 37.89,
+                "end": 38.29,
+                "confidence": 0.9935215,
+                "speaker": 0,
+                "speaker_confidence": 0.4925065,
+                "punctuated_word": "empezamos"
+              },
+              {
+                "word": "en",
+                "start": 38.29,
+                "end": 38.53,
+                "confidence": 0.9813494,
+                "speaker": 0,
+                "speaker_confidence": 0.4925065,
+                "punctuated_word": "en"
+              },
+              {
+                "word": "unos",
+                "start": 38.53,
+                "end": 38.690002,
+                "confidence": 0.99720097,
+                "speaker": 0,
+                "speaker_confidence": 0.4925065,
+                "punctuated_word": "unos"
+              },
+              {
+                "word": "2",
+                "start": 38.690002,
+                "end": 39.010002,
+                "confidence": 0.92248225,
+                "speaker": 0,
+                "speaker_confidence": 0.4925065,
+                "punctuated_word": "2,"
+              },
+              {
+                "word": "3",
+                "start": 39.010002,
+                "end": 39.17,
+                "confidence": 0.99981695,
+                "speaker": 0,
+                "speaker_confidence": 0.4925065,
+                "punctuated_word": "3"
+              },
+              {
+                "word": "minutitos",
+                "start": 39.17,
+                "end": 39.67,
+                "confidence": 0.93732595,
+                "speaker": 0,
+                "speaker_confidence": 0.4925065,
+                "punctuated_word": "minutitos."
+              },
+              {
+                "word": "la",
+                "start": 41.010002,
+                "end": 41.25,
+                "confidence": 0.69840074,
+                "speaker": 0,
+                "speaker_confidence": 0.34901786,
+                "punctuated_word": "La"
+              },
+              {
+                "word": "canción",
+                "start": 41.25,
+                "end": 41.57,
+                "confidence": 0.99968636,
+                "speaker": 0,
+                "speaker_confidence": 0.34901786,
+                "punctuated_word": "canción"
+              },
+              {
+                "word": "que",
+                "start": 41.57,
+                "end": 41.65,
+                "confidence": 0.99945885,
+                "speaker": 0,
+                "speaker_confidence": 0.34901786,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "le",
+                "start": 41.65,
+                "end": 41.81,
+                "confidence": 0.60022247,
+                "speaker": 0,
+                "speaker_confidence": 0.34901786,
+                "punctuated_word": "le"
+              },
+              {
+                "word": "voy",
+                "start": 41.81,
+                "end": 41.97,
+                "confidence": 0.9992712,
+                "speaker": 0,
+                "speaker_confidence": 0.34901786,
+                "punctuated_word": "voy"
+              },
+              {
+                "word": "a",
+                "start": 41.97,
+                "end": 42.05,
+                "confidence": 0.9950028,
+                "speaker": 0,
+                "speaker_confidence": 0.766883,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "poner",
+                "start": 42.05,
+                "end": 42.37,
+                "confidence": 0.99926263,
+                "speaker": 0,
+                "speaker_confidence": 0.766883,
+                "punctuated_word": "poner"
+              },
+              {
+                "word": "es",
+                "start": 42.37,
+                "end": 42.61,
+                "confidence": 0.9954947,
+                "speaker": 0,
+                "speaker_confidence": 0.766883,
+                "punctuated_word": "es"
+              },
+              {
+                "word": "money",
+                "start": 42.61,
+                "end": 43.11,
+                "confidence": 0.8525898,
+                "speaker": 0,
+                "speaker_confidence": 0.766883,
+                "punctuated_word": "Money,"
+              },
+              {
+                "word": "de",
+                "start": 43.345,
+                "end": 43.585003,
+                "confidence": 0.9997675,
+                "speaker": 0,
+                "speaker_confidence": 0.766883,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "pink",
+                "start": 43.585003,
+                "end": 44.085003,
+                "confidence": 0.99939984,
+                "speaker": 0,
+                "speaker_confidence": 0.766883,
+                "punctuated_word": "Pink"
+              },
+              {
+                "word": "floyd",
+                "start": 44.385002,
+                "end": 44.705,
+                "confidence": 0.86335343,
+                "speaker": 0,
+                "speaker_confidence": 0.766883,
+                "punctuated_word": "Floyd,"
+              },
+              {
+                "word": "considerando",
+                "start": 44.705,
+                "end": 45.025,
+                "confidence": 0.999608,
+                "speaker": 0,
+                "speaker_confidence": 0.766883,
+                "punctuated_word": "considerando"
+              },
+              {
+                "word": "que",
+                "start": 45.025,
+                "end": 45.265,
+                "confidence": 0.9998344,
+                "speaker": 0,
+                "speaker_confidence": 0.766883,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "estuvimos",
+                "start": 45.265,
+                "end": 45.585003,
+                "confidence": 0.9990938,
+                "speaker": 0,
+                "speaker_confidence": 0.766883,
+                "punctuated_word": "estuvimos"
+              },
+              {
+                "word": "por",
+                "start": 45.585003,
+                "end": 45.745003,
+                "confidence": 0.95654184,
+                "speaker": 0,
+                "speaker_confidence": 0.766883,
+                "punctuated_word": "por"
+              },
+              {
+                "word": "allá",
+                "start": 45.745003,
+                "end": 46.145,
+                "confidence": 0.99924576,
+                "speaker": 0,
+                "speaker_confidence": 0.766883,
+                "punctuated_word": "allá"
+              },
+              {
+                "word": "en",
+                "start": 46.145,
+                "end": 46.305,
+                "confidence": 0.97911316,
+                "speaker": 0,
+                "speaker_confidence": 0.766883,
+                "punctuated_word": "en"
+              },
+              {
+                "word": "tulum",
+                "start": 46.305,
+                "end": 46.705,
+                "confidence": 0.99961436,
+                "speaker": 0,
+                "speaker_confidence": 0.766883,
+                "punctuated_word": "Tulum"
+              },
+              {
+                "word": "cryptofest",
+                "start": 46.705,
+                "end": 47.205,
+                "confidence": 0.8426958,
+                "speaker": 0,
+                "speaker_confidence": 0.766883,
+                "punctuated_word": "Cryptofest"
+              },
+              {
+                "word": "con",
+                "start": 47.225002,
+                "end": 47.725002,
+                "confidence": 0.7641739,
+                "speaker": 0,
+                "speaker_confidence": 0.766883,
+                "punctuated_word": "con"
+              },
+              {
+                "word": "scott",
+                "start": 47.745003,
+                "end": 48.245003,
+                "confidence": 0.9922989,
+                "speaker": 0,
+                "speaker_confidence": 0.766883,
+                "punctuated_word": "Scott"
+              },
+              {
+                "word": "page",
+                "start": 49.345,
+                "end": 49.825,
+                "confidence": 0.9057478,
+                "speaker": 0,
+                "speaker_confidence": 0.766883,
+                "punctuated_word": "Page,"
+              },
+              {
+                "word": "el",
+                "start": 49.825,
+                "end": 50.305,
+                "confidence": 0.9978034,
+                "speaker": 0,
+                "speaker_confidence": 0.766883,
+                "punctuated_word": "el"
+              },
+              {
+                "word": "saxofonista",
+                "start": 50.305,
+                "end": 50.805,
+                "confidence": 0.9934119,
+                "speaker": 0,
+                "speaker_confidence": 0.766883,
+                "punctuated_word": "saxofonista"
+              },
+              {
+                "word": "de",
+                "start": 51.265,
+                "end": 51.425003,
+                "confidence": 0.96235216,
+                "speaker": 0,
+                "speaker_confidence": 0.766883,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "toto",
+                "start": 51.425003,
+                "end": 51.925003,
+                "confidence": 0.91580343,
+                "speaker": 0,
+                "speaker_confidence": 0.766883,
+                "punctuated_word": "Toto,"
+              },
+              {
+                "word": "de",
+                "start": 52.905003,
+                "end": 53.405003,
+                "confidence": 0.9825347,
+                "speaker": 0,
+                "speaker_confidence": 0.48823136,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "pink",
+                "start": 54.385002,
+                "end": 54.705,
+                "confidence": 0.9987297,
+                "speaker": 0,
+                "speaker_confidence": 0.48823136,
+                "punctuated_word": "Pink"
+              },
+              {
+                "word": "floyd",
+                "start": 54.705,
+                "end": 55.205,
+                "confidence": 0.99997723,
+                "speaker": 0,
+                "speaker_confidence": 0.48823136,
+                "punctuated_word": "Floyd"
+              },
+              {
+                "word": "y",
+                "start": 55.265,
+                "end": 55.345,
+                "confidence": 0.64461327,
+                "speaker": 0,
+                "speaker_confidence": 0.48823136,
+                "punctuated_word": "y"
+              },
+              {
+                "word": "de",
+                "start": 55.345,
+                "end": 55.505,
+                "confidence": 0.99509084,
+                "speaker": 0,
+                "speaker_confidence": 0.48823136,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "no",
+                "start": 55.585,
+                "end": 55.825,
+                "confidence": 0.7835976,
+                "speaker": 0,
+                "speaker_confidence": 0.51899695,
+                "punctuated_word": "no"
+              },
+              {
+                "word": "recuerdo",
+                "start": 55.825,
+                "end": 56.145,
+                "confidence": 0.999382,
+                "speaker": 0,
+                "speaker_confidence": 0.51899695,
+                "punctuated_word": "recuerdo"
+              },
+              {
+                "word": "cuál",
+                "start": 56.145,
+                "end": 56.305,
+                "confidence": 0.9505061,
+                "speaker": 0,
+                "speaker_confidence": 0.51899695,
+                "punctuated_word": "cuál"
+              },
+              {
+                "word": "es",
+                "start": 56.305,
+                "end": 56.385002,
+                "confidence": 0.99672157,
+                "speaker": 0,
+                "speaker_confidence": 0.51899695,
+                "punctuated_word": "es"
+              },
+              {
+                "word": "el",
+                "start": 56.385002,
+                "end": 56.625,
+                "confidence": 0.99571264,
+                "speaker": 0,
+                "speaker_confidence": 0.51899695,
+                "punctuated_word": "el"
+              },
+              {
+                "word": "otro",
+                "start": 56.625,
+                "end": 57.0,
+                "confidence": 0.9996069,
+                "speaker": 0,
+                "speaker_confidence": 0.51899695,
+                "punctuated_word": "otro"
+              },
+              {
+                "word": "grupo",
+                "start": 57.32,
+                "end": 57.72,
+                "confidence": 0.958189,
+                "speaker": 0,
+                "speaker_confidence": 0.51899695,
+                "punctuated_word": "grupo."
+              },
+              {
+                "word": "pero",
+                "start": 57.72,
+                "end": 57.96,
+                "confidence": 0.997954,
+                "speaker": 0,
+                "speaker_confidence": 0.51899695,
+                "punctuated_word": "Pero"
+              },
+              {
+                "word": "bueno",
+                "start": 57.96,
+                "end": 58.36,
+                "confidence": 0.9225392,
+                "speaker": 0,
+                "speaker_confidence": 0.51899695,
+                "punctuated_word": "bueno,"
+              },
+              {
+                "word": "empecemos",
+                "start": 58.36,
+                "end": 58.6,
+                "confidence": 0.7527761,
+                "speaker": 0,
+                "speaker_confidence": 0.51899695,
+                "punctuated_word": "empecemos"
+              },
+              {
+                "word": "en",
+                "start": 58.6,
+                "end": 58.76,
+                "confidence": 0.99688584,
+                "speaker": 0,
+                "speaker_confidence": 0.51899695,
+                "punctuated_word": "en"
+              },
+              {
+                "word": "5",
+                "start": 58.76,
+                "end": 59.16,
+                "confidence": 0.9778446,
+                "speaker": 0,
+                "speaker_confidence": 0.51899695,
+                "punctuated_word": "5"
+              },
+              {
+                "word": "minutitos",
+                "start": 59.16,
+                "end": 59.66,
+                "confidence": 0.87645805,
+                "speaker": 0,
+                "speaker_confidence": 0.51899695,
+                "punctuated_word": "minutitos."
+              },
+              {
+                "word": "money",
+                "start": 60.2,
+                "end": 60.68,
+                "confidence": 0.8821347,
+                "speaker": 0,
+                "speaker_confidence": 0.51899695,
+                "punctuated_word": "Money"
+              },
+              {
+                "word": "de",
+                "start": 60.68,
+                "end": 60.84,
+                "confidence": 0.57164085,
+                "speaker": 0,
+                "speaker_confidence": 0.51899695,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "pink",
+                "start": 60.84,
+                "end": 61.0,
+                "confidence": 0.9823686,
+                "speaker": 0,
+                "speaker_confidence": 0.51899695,
+                "punctuated_word": "Pink"
+              },
+              {
+                "word": "floyd",
+                "start": 61.0,
+                "end": 61.5,
+                "confidence": 0.99713737,
+                "speaker": 0,
+                "speaker_confidence": 0.51899695,
+                "punctuated_word": "Floyd."
+              }
+            ],
+            "paragraphs": {
+              "transcript": "\nSpeaker 0: Esa grabación, hoy es martes 9 de mayo del 2023. Desde Monterrey, Nuevo León estamos transmitiendo este episodio de Proof, ah, no, no es Proof of Value, Julián, ¿cómo andas? Del economista y el ingeniero, hoy vamos a hablar de del Tulum Cryptofest. Todo lo que vivimos por allá. Y también estaremos platicando de los eventos que se están organizando acá en Monterrey.\n\nHoy me llegó un un comentario de otro evento que se está organizando el 15 de mayo. Ya hablaremos del tema. Helio, bienvenido, déjame te hago cojos. Voy a poner algo de musiquita. Y empezamos en unos 2, 3 minutitos.\n\nLa canción que le voy a poner es Money, de Pink Floyd, considerando que estuvimos por allá en Tulum Cryptofest con Scott Page, el saxofonista de Toto, de Pink Floyd y de no recuerdo cuál es el otro grupo. Pero bueno, empecemos en 5 minutitos. Money de Pink Floyd.",
+              "paragraphs": [
+                {
+                  "sentences": [
+                    {
+                      "text": "Esa grabación, hoy es martes 9 de mayo del 2023.",
+                      "start": 0.16,
+                      "end": 5.38
+                    },
+                    {
+                      "text": "Desde Monterrey, Nuevo León estamos transmitiendo este episodio de Proof, ah, no, no es Proof of Value, Julián, ¿cómo andas?",
+                      "start": 5.68,
+                      "end": 12.179999
+                    },
+                    {
+                      "text": "Del economista y el ingeniero, hoy vamos a hablar de del Tulum Cryptofest.",
+                      "start": 12.48,
+                      "end": 17.505001
+                    },
+                    {
+                      "text": "Todo lo que vivimos por allá.",
+                      "start": 17.965,
+                      "end": 20.125
+                    },
+                    {
+                      "text": "Y también estaremos platicando de los eventos que se están organizando acá en Monterrey.",
+                      "start": 20.125,
+                      "end": 24.605
+                    }
+                  ],
+                  "speaker": 0,
+                  "num_words": 63,
+                  "start": 0.16,
+                  "end": 24.605
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "Hoy me llegó un un comentario de otro evento que se está organizando el 15 de mayo.",
+                      "start": 24.605,
+                      "end": 30.29
+                    },
+                    {
+                      "text": "Ya hablaremos del tema.",
+                      "start": 30.29,
+                      "end": 31.810001
+                    },
+                    {
+                      "text": "Helio, bienvenido, déjame te hago cojos.",
+                      "start": 31.810001,
+                      "end": 34.13
+                    },
+                    {
+                      "text": "Voy a poner algo de musiquita.",
+                      "start": 34.13,
+                      "end": 35.83
+                    },
+                    {
+                      "text": "Y empezamos en unos 2, 3 minutitos.",
+                      "start": 36.69,
+                      "end": 39.67
+                    }
+                  ],
+                  "speaker": 0,
+                  "num_words": 40,
+                  "start": 24.605,
+                  "end": 39.67
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "La canción que le voy a poner es Money, de Pink Floyd, considerando que estuvimos por allá en Tulum Cryptofest con Scott Page, el saxofonista de Toto, de Pink Floyd y de no recuerdo cuál es el otro grupo.",
+                      "start": 41.010002,
+                      "end": 57.72
+                    },
+                    {
+                      "text": "Pero bueno, empecemos en 5 minutitos.",
+                      "start": 57.72,
+                      "end": 59.66
+                    },
+                    {
+                      "text": "Money de Pink Floyd.",
+                      "start": 60.2,
+                      "end": 61.5
+                    }
+                  ],
+                  "speaker": 0,
+                  "num_words": 49,
+                  "start": 41.010002,
+                  "end": 61.5
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "utterances": [
+      {
+        "start": 0.16,
+        "end": 1.46,
+        "confidence": 0.8476841,
+        "channel": 0,
+        "transcript": "Esa grabación, hoy es",
+        "words": [
+          {
+            "word": "esa",
+            "start": 0.16,
+            "end": 0.24,
+            "confidence": 0.6363604,
+            "speaker": 0,
+            "speaker_confidence": 0.8148558,
+            "punctuated_word": "Esa"
+          },
+          {
+            "word": "grabación",
+            "start": 0.24,
+            "end": 0.59999996,
+            "confidence": 0.75749314,
+            "speaker": 0,
+            "speaker_confidence": 0.8148558,
+            "punctuated_word": "grabación,"
+          },
+          {
+            "word": "hoy",
+            "start": 0.59999996,
+            "end": 0.96,
+            "confidence": 0.99831617,
+            "speaker": 0,
+            "speaker_confidence": 0.8148558,
+            "punctuated_word": "hoy"
+          },
+          {
+            "word": "es",
+            "start": 0.96,
+            "end": 1.46,
+            "confidence": 0.9985667,
+            "speaker": 0,
+            "speaker_confidence": 0.8148558,
+            "punctuated_word": "es"
+          }
+        ],
+        "speaker": 0,
+        "id": "19925818-87de-4eb4-91ec-cceaf00e470e"
+      },
+      {
+        "start": 1.8399999,
+        "end": 2.34,
+        "confidence": 0.9974158,
+        "channel": 0,
+        "transcript": "martes",
+        "words": [
+          {
+            "word": "martes",
+            "start": 1.8399999,
+            "end": 2.34,
+            "confidence": 0.9974158,
+            "speaker": 0,
+            "speaker_confidence": 0.8148558,
+            "punctuated_word": "martes"
+          }
+        ],
+        "speaker": 0,
+        "id": "d18a00e6-c80c-4fd5-8b76-10826eed73f8"
+      },
+      {
+        "start": 3.4399998,
+        "end": 5.38,
+        "confidence": 0.9191424,
+        "channel": 0,
+        "transcript": "9 de mayo del 2023.",
+        "words": [
+          {
+            "word": "9",
+            "start": 3.4399998,
+            "end": 3.6799998,
+            "confidence": 0.6963693,
+            "speaker": 0,
+            "speaker_confidence": 0.8148558,
+            "punctuated_word": "9"
+          },
+          {
+            "word": "de",
+            "start": 3.6799998,
+            "end": 3.76,
+            "confidence": 0.9816119,
+            "speaker": 0,
+            "speaker_confidence": 0.8148558,
+            "punctuated_word": "de"
+          },
+          {
+            "word": "mayo",
+            "start": 3.76,
+            "end": 4.24,
+            "confidence": 0.9996209,
+            "speaker": 0,
+            "speaker_confidence": 0.8148558,
+            "punctuated_word": "mayo"
+          },
+          {
+            "word": "del",
+            "start": 4.24,
+            "end": 4.48,
+            "confidence": 0.9856257,
+            "speaker": 0,
+            "speaker_confidence": 0.8148558,
+            "punctuated_word": "del"
+          },
+          {
+            "word": "2023",
+            "start": 4.48,
+            "end": 5.38,
+            "confidence": 0.9324844,
+            "speaker": 0,
+            "speaker_confidence": 0.8148558,
+            "punctuated_word": "2023."
+          }
+        ],
+        "speaker": 0,
+        "id": "0500d924-3ace-4cbe-a548-5878ad7d88b7"
+      },
+      {
+        "start": 5.68,
+        "end": 7.7,
+        "confidence": 0.9081431,
+        "channel": 0,
+        "transcript": "Desde Monterrey, Nuevo León estamos transmitiendo",
+        "words": [
+          {
+            "word": "desde",
+            "start": 5.68,
+            "end": 6.08,
+            "confidence": 0.9982437,
+            "speaker": 0,
+            "speaker_confidence": 0.8148558,
+            "punctuated_word": "Desde"
+          },
+          {
+            "word": "monterrey",
+            "start": 6.08,
+            "end": 6.3999996,
+            "confidence": 0.95522296,
+            "speaker": 0,
+            "speaker_confidence": 0.8148558,
+            "punctuated_word": "Monterrey,"
+          },
+          {
+            "word": "nuevo",
+            "start": 6.3999996,
+            "end": 6.72,
+            "confidence": 0.99363434,
+            "speaker": 0,
+            "speaker_confidence": 0.8148558,
+            "punctuated_word": "Nuevo"
+          },
+          {
+            "word": "león",
+            "start": 6.72,
+            "end": 6.96,
+            "confidence": 0.99927205,
+            "speaker": 0,
+            "speaker_confidence": 0.8148558,
+            "punctuated_word": "León"
+          },
+          {
+            "word": "estamos",
+            "start": 6.96,
+            "end": 7.2,
+            "confidence": 0.50548667,
+            "speaker": 0,
+            "speaker_confidence": 0.8148558,
+            "punctuated_word": "estamos"
+          },
+          {
+            "word": "transmitiendo",
+            "start": 7.2,
+            "end": 7.7,
+            "confidence": 0.99699867,
+            "speaker": 0,
+            "speaker_confidence": 0.8148558,
+            "punctuated_word": "transmitiendo"
+          }
+        ],
+        "speaker": 0,
+        "id": "96ef975b-d047-4d06-8204-e01bf8ec55f0"
+      },
+      {
+        "start": 8.08,
+        "end": 12.179999,
+        "confidence": 0.85456485,
+        "channel": 0,
+        "transcript": "este episodio de Proof, ah, no, no es Proof of Value, Julián, ¿cómo andas?",
+        "words": [
+          {
+            "word": "este",
+            "start": 8.08,
+            "end": 8.4,
+            "confidence": 0.97875285,
+            "speaker": 0,
+            "speaker_confidence": 0.8148558,
+            "punctuated_word": "este"
+          },
+          {
+            "word": "episodio",
+            "start": 8.4,
+            "end": 8.9,
+            "confidence": 0.9992617,
+            "speaker": 0,
+            "speaker_confidence": 0.8148558,
+            "punctuated_word": "episodio"
+          },
+          {
+            "word": "de",
+            "start": 8.96,
+            "end": 9.36,
+            "confidence": 0.9976568,
+            "speaker": 0,
+            "speaker_confidence": 0.8148558,
+            "punctuated_word": "de"
+          },
+          {
+            "word": "proof",
+            "start": 9.36,
+            "end": 9.86,
+            "confidence": 0.6245882,
+            "speaker": 0,
+            "speaker_confidence": 0.8148558,
+            "punctuated_word": "Proof,"
+          },
+          {
+            "word": "ah",
+            "start": 10.0,
+            "end": 10.16,
+            "confidence": 0.8292265,
+            "speaker": 0,
+            "speaker_confidence": 0.8148558,
+            "punctuated_word": "ah,"
+          },
+          {
+            "word": "no",
+            "start": 10.16,
+            "end": 10.32,
+            "confidence": 0.7404101,
+            "speaker": 0,
+            "speaker_confidence": 0.8148558,
+            "punctuated_word": "no,"
+          },
+          {
+            "word": "no",
+            "start": 10.32,
+            "end": 10.4,
+            "confidence": 0.9356004,
+            "speaker": 0,
+            "speaker_confidence": 0.8148558,
+            "punctuated_word": "no"
+          },
+          {
+            "word": "es",
+            "start": 10.4,
+            "end": 10.48,
+            "confidence": 0.9449061,
+            "speaker": 0,
+            "speaker_confidence": 0.5212617,
+            "punctuated_word": "es"
+          },
+          {
+            "word": "proof",
+            "start": 10.48,
+            "end": 10.639999,
+            "confidence": 0.99482834,
+            "speaker": 0,
+            "speaker_confidence": 0.5212617,
+            "punctuated_word": "Proof"
+          },
+          {
+            "word": "of",
+            "start": 10.639999,
+            "end": 10.8,
+            "confidence": 0.9744129,
+            "speaker": 0,
+            "speaker_confidence": 0.5212617,
+            "punctuated_word": "of"
+          },
+          {
+            "word": "value",
+            "start": 10.8,
+            "end": 11.2,
+            "confidence": 0.77341026,
+            "speaker": 0,
+            "speaker_confidence": 0.5212617,
+            "punctuated_word": "Value,"
+          },
+          {
+            "word": "julián",
+            "start": 11.2,
+            "end": 11.44,
+            "confidence": 0.43873352,
+            "speaker": 0,
+            "speaker_confidence": 0.5212617,
+            "punctuated_word": "Julián,"
+          },
+          {
+            "word": "cómo",
+            "start": 11.44,
+            "end": 11.679999,
+            "confidence": 0.75256276,
+            "speaker": 0,
+            "speaker_confidence": 0.5212617,
+            "punctuated_word": "¿cómo"
+          },
+          {
+            "word": "andas",
+            "start": 11.679999,
+            "end": 12.179999,
+            "confidence": 0.9795592,
+            "speaker": 0,
+            "speaker_confidence": 0.5212617,
+            "punctuated_word": "andas?"
+          }
+        ],
+        "speaker": 0,
+        "id": "86c757ee-f7f2-4bfb-8a9c-f55e79befd4d"
+      },
+      {
+        "start": 12.48,
+        "end": 14.925,
+        "confidence": 0.82580245,
+        "channel": 0,
+        "transcript": "Del economista y el ingeniero, hoy vamos a hablar de",
+        "words": [
+          {
+            "word": "del",
+            "start": 12.48,
+            "end": 12.98,
+            "confidence": 0.7343069,
+            "speaker": 0,
+            "speaker_confidence": 0.5212617,
+            "punctuated_word": "Del"
+          },
+          {
+            "word": "economista",
+            "start": 13.04,
+            "end": 13.44,
+            "confidence": 0.7929119,
+            "speaker": 0,
+            "speaker_confidence": 0.5212617,
+            "punctuated_word": "economista"
+          },
+          {
+            "word": "y",
+            "start": 13.44,
+            "end": 13.5199995,
+            "confidence": 0.36110824,
+            "speaker": 0,
+            "speaker_confidence": 0.5212617,
+            "punctuated_word": "y"
+          },
+          {
+            "word": "el",
+            "start": 13.5199995,
+            "end": 13.599999,
+            "confidence": 0.91919756,
+            "speaker": 0,
+            "speaker_confidence": 0.5212617,
+            "punctuated_word": "el"
+          },
+          {
+            "word": "ingeniero",
+            "start": 13.599999,
+            "end": 14.0,
+            "confidence": 0.72204393,
+            "speaker": 0,
+            "speaker_confidence": 0.5212617,
+            "punctuated_word": "ingeniero,"
+          },
+          {
+            "word": "hoy",
+            "start": 14.0,
+            "end": 14.08,
+            "confidence": 0.7708511,
+            "speaker": 0,
+            "speaker_confidence": 0.5212617,
+            "punctuated_word": "hoy"
+          },
+          {
+            "word": "vamos",
+            "start": 14.08,
+            "end": 14.24,
+            "confidence": 0.99741036,
+            "speaker": 0,
+            "speaker_confidence": 0.5212617,
+            "punctuated_word": "vamos"
+          },
+          {
+            "word": "a",
+            "start": 14.24,
+            "end": 14.32,
+            "confidence": 0.97289836,
+            "speaker": 0,
+            "speaker_confidence": 0.5525003,
+            "punctuated_word": "a"
+          },
+          {
+            "word": "hablar",
+            "start": 14.32,
+            "end": 14.639999,
+            "confidence": 0.99956185,
+            "speaker": 0,
+            "speaker_confidence": 0.5525003,
+            "punctuated_word": "hablar"
+          },
+          {
+            "word": "de",
+            "start": 14.639999,
+            "end": 14.925,
+            "confidence": 0.98773414,
+            "speaker": 0,
+            "speaker_confidence": 0.5525003,
+            "punctuated_word": "de"
+          }
+        ],
+        "speaker": 0,
+        "id": "50036a43-f869-4675-a249-31c3a530d808"
+      },
+      {
+        "start": 16.365,
+        "end": 17.505001,
+        "confidence": 0.8079188,
+        "channel": 0,
+        "transcript": "del Tulum Cryptofest.",
+        "words": [
+          {
+            "word": "del",
+            "start": 16.365,
+            "end": 16.525,
+            "confidence": 0.5945755,
+            "speaker": 0,
+            "speaker_confidence": 0.5525003,
+            "punctuated_word": "del"
+          },
+          {
+            "word": "tulum",
+            "start": 16.525,
+            "end": 17.005001,
+            "confidence": 0.99864554,
+            "speaker": 0,
+            "speaker_confidence": 0.5525003,
+            "punctuated_word": "Tulum"
+          },
+          {
+            "word": "cryptofest",
+            "start": 17.005001,
+            "end": 17.505001,
+            "confidence": 0.8305353,
+            "speaker": 0,
+            "speaker_confidence": 0.5525003,
+            "punctuated_word": "Cryptofest."
+          }
+        ],
+        "speaker": 0,
+        "id": "db1110f6-e705-4002-91c4-2f56c9bde715"
+      },
+      {
+        "start": 17.965,
+        "end": 18.465,
+        "confidence": 0.99837226,
+        "channel": 0,
+        "transcript": "Todo",
+        "words": [
+          {
+            "word": "todo",
+            "start": 17.965,
+            "end": 18.465,
+            "confidence": 0.99837226,
+            "speaker": 0,
+            "speaker_confidence": 0.5525003,
+            "punctuated_word": "Todo"
+          }
+        ],
+        "speaker": 0,
+        "id": "ed41de36-ea31-4fa7-8749-5bc0aa4f36d5"
+      },
+      {
+        "start": 18.925,
+        "end": 21.665,
+        "confidence": 0.9808257,
+        "channel": 0,
+        "transcript": "lo que vivimos por allá. Y también estaremos platicando",
+        "words": [
+          {
+            "word": "lo",
+            "start": 18.925,
+            "end": 19.085,
+            "confidence": 0.9985536,
+            "speaker": 0,
+            "speaker_confidence": 0.71400213,
+            "punctuated_word": "lo"
+          },
+          {
+            "word": "que",
+            "start": 19.085,
+            "end": 19.325,
+            "confidence": 0.9988298,
+            "speaker": 0,
+            "speaker_confidence": 0.71400213,
+            "punctuated_word": "que"
+          },
+          {
+            "word": "vivimos",
+            "start": 19.325,
+            "end": 19.485,
+            "confidence": 0.99877685,
+            "speaker": 0,
+            "speaker_confidence": 0.71400213,
+            "punctuated_word": "vivimos"
+          },
+          {
+            "word": "por",
+            "start": 19.485,
+            "end": 19.805,
+            "confidence": 0.9952592,
+            "speaker": 0,
+            "speaker_confidence": 0.71400213,
+            "punctuated_word": "por"
+          },
+          {
+            "word": "allá",
+            "start": 19.805,
+            "end": 20.125,
+            "confidence": 0.8659524,
+            "speaker": 0,
+            "speaker_confidence": 0.71400213,
+            "punctuated_word": "allá."
+          },
+          {
+            "word": "y",
+            "start": 20.125,
+            "end": 20.365,
+            "confidence": 0.99865735,
+            "speaker": 0,
+            "speaker_confidence": 0.71400213,
+            "punctuated_word": "Y"
+          },
+          {
+            "word": "también",
+            "start": 20.365,
+            "end": 20.765,
+            "confidence": 0.9917189,
+            "speaker": 0,
+            "speaker_confidence": 0.71400213,
+            "punctuated_word": "también"
+          },
+          {
+            "word": "estaremos",
+            "start": 20.765,
+            "end": 21.165,
+            "confidence": 0.98231333,
+            "speaker": 0,
+            "speaker_confidence": 0.71400213,
+            "punctuated_word": "estaremos"
+          },
+          {
+            "word": "platicando",
+            "start": 21.165,
+            "end": 21.665,
+            "confidence": 0.9973711,
+            "speaker": 0,
+            "speaker_confidence": 0.71400213,
+            "punctuated_word": "platicando"
+          }
+        ],
+        "speaker": 0,
+        "id": "5f101f1c-1298-4e18-8a42-ed0aca6b9eea"
+      },
+      {
+        "start": 22.045,
+        "end": 35.83,
+        "confidence": 0.93552834,
+        "channel": 0,
+        "transcript": "de los eventos que se están organizando acá en Monterrey. Hoy me llegó un un comentario de otro evento que se está organizando el 15 de mayo. Ya hablaremos del tema. Helio, bienvenido, déjame te hago cojos. Voy a poner algo de musiquita.",
+        "words": [
+          {
+            "word": "de",
+            "start": 22.045,
+            "end": 22.125,
+            "confidence": 0.9983468,
+            "speaker": 0,
+            "speaker_confidence": 0.71400213,
+            "punctuated_word": "de"
+          },
+          {
+            "word": "los",
+            "start": 22.125,
+            "end": 22.365,
+            "confidence": 0.9994997,
+            "speaker": 0,
+            "speaker_confidence": 0.71400213,
+            "punctuated_word": "los"
+          },
+          {
+            "word": "eventos",
+            "start": 22.365,
+            "end": 22.685,
+            "confidence": 0.99979573,
+            "speaker": 0,
+            "speaker_confidence": 0.71400213,
+            "punctuated_word": "eventos"
+          },
+          {
+            "word": "que",
+            "start": 22.685,
+            "end": 22.845,
+            "confidence": 0.99957556,
+            "speaker": 0,
+            "speaker_confidence": 0.71400213,
+            "punctuated_word": "que"
+          },
+          {
+            "word": "se",
+            "start": 22.845,
+            "end": 22.925,
+            "confidence": 0.99034053,
+            "speaker": 0,
+            "speaker_confidence": 0.48261154,
+            "punctuated_word": "se"
+          },
+          {
+            "word": "están",
+            "start": 22.925,
+            "end": 23.244999,
+            "confidence": 0.9950363,
+            "speaker": 0,
+            "speaker_confidence": 0.48261154,
+            "punctuated_word": "están"
+          },
+          {
+            "word": "organizando",
+            "start": 23.244999,
+            "end": 23.564999,
+            "confidence": 0.9926104,
+            "speaker": 0,
+            "speaker_confidence": 0.48261154,
+            "punctuated_word": "organizando"
+          },
+          {
+            "word": "acá",
+            "start": 23.564999,
+            "end": 23.805,
+            "confidence": 0.91543335,
+            "speaker": 0,
+            "speaker_confidence": 0.48261154,
+            "punctuated_word": "acá"
+          },
+          {
+            "word": "en",
+            "start": 23.805,
+            "end": 24.205,
+            "confidence": 0.9927422,
+            "speaker": 0,
+            "speaker_confidence": 0.48261154,
+            "punctuated_word": "en"
+          },
+          {
+            "word": "monterrey",
+            "start": 24.205,
+            "end": 24.605,
+            "confidence": 0.99598587,
+            "speaker": 0,
+            "speaker_confidence": 0.48261154,
+            "punctuated_word": "Monterrey."
+          },
+          {
+            "word": "hoy",
+            "start": 24.605,
+            "end": 24.765,
+            "confidence": 0.9993917,
+            "speaker": 0,
+            "speaker_confidence": 0.6924722,
+            "punctuated_word": "Hoy"
+          },
+          {
+            "word": "me",
+            "start": 24.765,
+            "end": 24.925,
+            "confidence": 0.99621767,
+            "speaker": 0,
+            "speaker_confidence": 0.6924722,
+            "punctuated_word": "me"
+          },
+          {
+            "word": "llegó",
+            "start": 24.925,
+            "end": 25.425,
+            "confidence": 0.9921151,
+            "speaker": 0,
+            "speaker_confidence": 0.6924722,
+            "punctuated_word": "llegó"
+          },
+          {
+            "word": "un",
+            "start": 25.564999,
+            "end": 26.064999,
+            "confidence": 0.99936646,
+            "speaker": 0,
+            "speaker_confidence": 0.6924722,
+            "punctuated_word": "un"
+          },
+          {
+            "word": "un",
+            "start": 26.164999,
+            "end": 26.664999,
+            "confidence": 0.93581235,
+            "speaker": 0,
+            "speaker_confidence": 0.6924722,
+            "punctuated_word": "un"
+          },
+          {
+            "word": "comentario",
+            "start": 26.765,
+            "end": 26.965,
+            "confidence": 0.7051735,
+            "speaker": 0,
+            "speaker_confidence": 0.6924722,
+            "punctuated_word": "comentario"
+          },
+          {
+            "word": "de",
+            "start": 26.965,
+            "end": 27.165,
+            "confidence": 0.99886143,
+            "speaker": 0,
+            "speaker_confidence": 0.6924722,
+            "punctuated_word": "de"
+          },
+          {
+            "word": "otro",
+            "start": 27.165,
+            "end": 27.485,
+            "confidence": 0.9996099,
+            "speaker": 0,
+            "speaker_confidence": 0.6924722,
+            "punctuated_word": "otro"
+          },
+          {
+            "word": "evento",
+            "start": 27.485,
+            "end": 27.805,
+            "confidence": 0.99976236,
+            "speaker": 0,
+            "speaker_confidence": 0.6924722,
+            "punctuated_word": "evento"
+          },
+          {
+            "word": "que",
+            "start": 27.805,
+            "end": 27.965,
+            "confidence": 0.8812971,
+            "speaker": 0,
+            "speaker_confidence": 0.6924722,
+            "punctuated_word": "que"
+          },
+          {
+            "word": "se",
+            "start": 27.965,
+            "end": 28.465,
+            "confidence": 0.94697034,
+            "speaker": 0,
+            "speaker_confidence": 0.6924722,
+            "punctuated_word": "se"
+          },
+          {
+            "word": "está",
+            "start": 28.685,
+            "end": 28.77,
+            "confidence": 0.87632364,
+            "speaker": 0,
+            "speaker_confidence": 0.82388705,
+            "punctuated_word": "está"
+          },
+          {
+            "word": "organizando",
+            "start": 28.93,
+            "end": 29.25,
+            "confidence": 0.9980071,
+            "speaker": 0,
+            "speaker_confidence": 0.82388705,
+            "punctuated_word": "organizando"
+          },
+          {
+            "word": "el",
+            "start": 29.25,
+            "end": 29.41,
+            "confidence": 0.9979315,
+            "speaker": 0,
+            "speaker_confidence": 0.82388705,
+            "punctuated_word": "el"
+          },
+          {
+            "word": "15",
+            "start": 29.41,
+            "end": 29.73,
+            "confidence": 0.99927646,
+            "speaker": 0,
+            "speaker_confidence": 0.82388705,
+            "punctuated_word": "15"
+          },
+          {
+            "word": "de",
+            "start": 29.73,
+            "end": 29.890001,
+            "confidence": 0.9962559,
+            "speaker": 0,
+            "speaker_confidence": 0.82388705,
+            "punctuated_word": "de"
+          },
+          {
+            "word": "mayo",
+            "start": 29.890001,
+            "end": 30.29,
+            "confidence": 0.8829073,
+            "speaker": 0,
+            "speaker_confidence": 0.82388705,
+            "punctuated_word": "mayo."
+          },
+          {
+            "word": "ya",
+            "start": 30.29,
+            "end": 30.77,
+            "confidence": 0.99721426,
+            "speaker": 0,
+            "speaker_confidence": 0.82388705,
+            "punctuated_word": "Ya"
+          },
+          {
+            "word": "hablaremos",
+            "start": 30.77,
+            "end": 31.25,
+            "confidence": 0.9985097,
+            "speaker": 0,
+            "speaker_confidence": 0.82388705,
+            "punctuated_word": "hablaremos"
+          },
+          {
+            "word": "del",
+            "start": 31.25,
+            "end": 31.41,
+            "confidence": 0.99229604,
+            "speaker": 0,
+            "speaker_confidence": 0.82388705,
+            "punctuated_word": "del"
+          },
+          {
+            "word": "tema",
+            "start": 31.41,
+            "end": 31.810001,
+            "confidence": 0.99866855,
+            "speaker": 0,
+            "speaker_confidence": 0.82388705,
+            "punctuated_word": "tema."
+          },
+          {
+            "word": "helio",
+            "start": 31.810001,
+            "end": 32.21,
+            "confidence": 0.8650737,
+            "speaker": 0,
+            "speaker_confidence": 0.82388705,
+            "punctuated_word": "Helio,"
+          },
+          {
+            "word": "bienvenido",
+            "start": 32.21,
+            "end": 32.61,
+            "confidence": 0.7843283,
+            "speaker": 0,
+            "speaker_confidence": 0.82388705,
+            "punctuated_word": "bienvenido,"
+          },
+          {
+            "word": "déjame",
+            "start": 32.61,
+            "end": 32.93,
+            "confidence": 0.69164044,
+            "speaker": 0,
+            "speaker_confidence": 0.82388705,
+            "punctuated_word": "déjame"
+          },
+          {
+            "word": "te",
+            "start": 32.93,
+            "end": 33.41,
+            "confidence": 0.6162789,
+            "speaker": 0,
+            "speaker_confidence": 0.82388705,
+            "punctuated_word": "te"
+          },
+          {
+            "word": "hago",
+            "start": 33.41,
+            "end": 33.65,
+            "confidence": 0.8052081,
+            "speaker": 0,
+            "speaker_confidence": 0.82388705,
+            "punctuated_word": "hago"
+          },
+          {
+            "word": "cojos",
+            "start": 33.65,
+            "end": 34.13,
+            "confidence": 0.61055285,
+            "speaker": 0,
+            "speaker_confidence": 0.82388705,
+            "punctuated_word": "cojos."
+          },
+          {
+            "word": "voy",
+            "start": 34.13,
+            "end": 34.37,
+            "confidence": 0.9986958,
+            "speaker": 0,
+            "speaker_confidence": 0.82388705,
+            "punctuated_word": "Voy"
+          },
+          {
+            "word": "a",
+            "start": 34.37,
+            "end": 34.53,
+            "confidence": 0.9927819,
+            "speaker": 0,
+            "speaker_confidence": 0.82388705,
+            "punctuated_word": "a"
+          },
+          {
+            "word": "poner",
+            "start": 34.53,
+            "end": 35.010002,
+            "confidence": 0.9997682,
+            "speaker": 0,
+            "speaker_confidence": 0.82388705,
+            "punctuated_word": "poner"
+          },
+          {
+            "word": "algo",
+            "start": 35.010002,
+            "end": 35.25,
+            "confidence": 0.99033666,
+            "speaker": 0,
+            "speaker_confidence": 0.82388705,
+            "punctuated_word": "algo"
+          },
+          {
+            "word": "de",
+            "start": 35.25,
+            "end": 35.33,
+            "confidence": 0.998324,
+            "speaker": 0,
+            "speaker_confidence": 0.82388705,
+            "punctuated_word": "de"
+          },
+          {
+            "word": "musiquita",
+            "start": 35.33,
+            "end": 35.83,
+            "confidence": 0.80339223,
+            "speaker": 0,
+            "speaker_confidence": 0.82388705,
+            "punctuated_word": "musiquita."
+          }
+        ],
+        "speaker": 0,
+        "id": "1846af58-2b3d-42d4-85ab-056b1286bbde"
+      },
+      {
+        "start": 36.69,
+        "end": 37.19,
+        "confidence": 0.9991392,
+        "channel": 0,
+        "transcript": "Y",
+        "words": [
+          {
+            "word": "y",
+            "start": 36.69,
+            "end": 37.19,
+            "confidence": 0.9991392,
+            "speaker": 0,
+            "speaker_confidence": 0.4925065,
+            "punctuated_word": "Y"
+          }
+        ],
+        "speaker": 0,
+        "id": "c6040bfe-7823-4a40-88e8-b2486ca35ed2"
+      },
+      {
+        "start": 37.89,
+        "end": 39.67,
+        "confidence": 0.9719495,
+        "channel": 0,
+        "transcript": "empezamos en unos 2, 3 minutitos.",
+        "words": [
+          {
+            "word": "empezamos",
+            "start": 37.89,
+            "end": 38.29,
+            "confidence": 0.9935215,
+            "speaker": 0,
+            "speaker_confidence": 0.4925065,
+            "punctuated_word": "empezamos"
+          },
+          {
+            "word": "en",
+            "start": 38.29,
+            "end": 38.53,
+            "confidence": 0.9813494,
+            "speaker": 0,
+            "speaker_confidence": 0.4925065,
+            "punctuated_word": "en"
+          },
+          {
+            "word": "unos",
+            "start": 38.53,
+            "end": 38.690002,
+            "confidence": 0.99720097,
+            "speaker": 0,
+            "speaker_confidence": 0.4925065,
+            "punctuated_word": "unos"
+          },
+          {
+            "word": "2",
+            "start": 38.690002,
+            "end": 39.010002,
+            "confidence": 0.92248225,
+            "speaker": 0,
+            "speaker_confidence": 0.4925065,
+            "punctuated_word": "2,"
+          },
+          {
+            "word": "3",
+            "start": 39.010002,
+            "end": 39.17,
+            "confidence": 0.99981695,
+            "speaker": 0,
+            "speaker_confidence": 0.4925065,
+            "punctuated_word": "3"
+          },
+          {
+            "word": "minutitos",
+            "start": 39.17,
+            "end": 39.67,
+            "confidence": 0.93732595,
+            "speaker": 0,
+            "speaker_confidence": 0.4925065,
+            "punctuated_word": "minutitos."
+          }
+        ],
+        "speaker": 0,
+        "id": "cf4515b8-cea0-414a-8c49-d866bb8bc7de"
+      },
+      {
+        "start": 41.010002,
+        "end": 48.245003,
+        "confidence": 0.9333696,
+        "channel": 0,
+        "transcript": "La canción que le voy a poner es Money, de Pink Floyd, considerando que estuvimos por allá en Tulum Cryptofest con Scott",
+        "words": [
+          {
+            "word": "la",
+            "start": 41.010002,
+            "end": 41.25,
+            "confidence": 0.69840074,
+            "speaker": 0,
+            "speaker_confidence": 0.34901786,
+            "punctuated_word": "La"
+          },
+          {
+            "word": "canción",
+            "start": 41.25,
+            "end": 41.57,
+            "confidence": 0.99968636,
+            "speaker": 0,
+            "speaker_confidence": 0.34901786,
+            "punctuated_word": "canción"
+          },
+          {
+            "word": "que",
+            "start": 41.57,
+            "end": 41.65,
+            "confidence": 0.99945885,
+            "speaker": 0,
+            "speaker_confidence": 0.34901786,
+            "punctuated_word": "que"
+          },
+          {
+            "word": "le",
+            "start": 41.65,
+            "end": 41.81,
+            "confidence": 0.60022247,
+            "speaker": 0,
+            "speaker_confidence": 0.34901786,
+            "punctuated_word": "le"
+          },
+          {
+            "word": "voy",
+            "start": 41.81,
+            "end": 41.97,
+            "confidence": 0.9992712,
+            "speaker": 0,
+            "speaker_confidence": 0.34901786,
+            "punctuated_word": "voy"
+          },
+          {
+            "word": "a",
+            "start": 41.97,
+            "end": 42.05,
+            "confidence": 0.9950028,
+            "speaker": 0,
+            "speaker_confidence": 0.766883,
+            "punctuated_word": "a"
+          },
+          {
+            "word": "poner",
+            "start": 42.05,
+            "end": 42.37,
+            "confidence": 0.99926263,
+            "speaker": 0,
+            "speaker_confidence": 0.766883,
+            "punctuated_word": "poner"
+          },
+          {
+            "word": "es",
+            "start": 42.37,
+            "end": 42.61,
+            "confidence": 0.9954947,
+            "speaker": 0,
+            "speaker_confidence": 0.766883,
+            "punctuated_word": "es"
+          },
+          {
+            "word": "money",
+            "start": 42.61,
+            "end": 43.11,
+            "confidence": 0.8525898,
+            "speaker": 0,
+            "speaker_confidence": 0.766883,
+            "punctuated_word": "Money,"
+          },
+          {
+            "word": "de",
+            "start": 43.345,
+            "end": 43.585003,
+            "confidence": 0.9997675,
+            "speaker": 0,
+            "speaker_confidence": 0.766883,
+            "punctuated_word": "de"
+          },
+          {
+            "word": "pink",
+            "start": 43.585003,
+            "end": 44.085003,
+            "confidence": 0.99939984,
+            "speaker": 0,
+            "speaker_confidence": 0.766883,
+            "punctuated_word": "Pink"
+          },
+          {
+            "word": "floyd",
+            "start": 44.385002,
+            "end": 44.705,
+            "confidence": 0.86335343,
+            "speaker": 0,
+            "speaker_confidence": 0.766883,
+            "punctuated_word": "Floyd,"
+          },
+          {
+            "word": "considerando",
+            "start": 44.705,
+            "end": 45.025,
+            "confidence": 0.999608,
+            "speaker": 0,
+            "speaker_confidence": 0.766883,
+            "punctuated_word": "considerando"
+          },
+          {
+            "word": "que",
+            "start": 45.025,
+            "end": 45.265,
+            "confidence": 0.9998344,
+            "speaker": 0,
+            "speaker_confidence": 0.766883,
+            "punctuated_word": "que"
+          },
+          {
+            "word": "estuvimos",
+            "start": 45.265,
+            "end": 45.585003,
+            "confidence": 0.9990938,
+            "speaker": 0,
+            "speaker_confidence": 0.766883,
+            "punctuated_word": "estuvimos"
+          },
+          {
+            "word": "por",
+            "start": 45.585003,
+            "end": 45.745003,
+            "confidence": 0.95654184,
+            "speaker": 0,
+            "speaker_confidence": 0.766883,
+            "punctuated_word": "por"
+          },
+          {
+            "word": "allá",
+            "start": 45.745003,
+            "end": 46.145,
+            "confidence": 0.99924576,
+            "speaker": 0,
+            "speaker_confidence": 0.766883,
+            "punctuated_word": "allá"
+          },
+          {
+            "word": "en",
+            "start": 46.145,
+            "end": 46.305,
+            "confidence": 0.97911316,
+            "speaker": 0,
+            "speaker_confidence": 0.766883,
+            "punctuated_word": "en"
+          },
+          {
+            "word": "tulum",
+            "start": 46.305,
+            "end": 46.705,
+            "confidence": 0.99961436,
+            "speaker": 0,
+            "speaker_confidence": 0.766883,
+            "punctuated_word": "Tulum"
+          },
+          {
+            "word": "cryptofest",
+            "start": 46.705,
+            "end": 47.205,
+            "confidence": 0.8426958,
+            "speaker": 0,
+            "speaker_confidence": 0.766883,
+            "punctuated_word": "Cryptofest"
+          },
+          {
+            "word": "con",
+            "start": 47.225002,
+            "end": 47.725002,
+            "confidence": 0.7641739,
+            "speaker": 0,
+            "speaker_confidence": 0.766883,
+            "punctuated_word": "con"
+          },
+          {
+            "word": "scott",
+            "start": 47.745003,
+            "end": 48.245003,
+            "confidence": 0.9922989,
+            "speaker": 0,
+            "speaker_confidence": 0.766883,
+            "punctuated_word": "Scott"
+          }
+        ],
+        "speaker": 0,
+        "id": "8586cf24-35d3-4cb2-8dc4-9a38c0b0deeb"
+      },
+      {
+        "start": 49.345,
+        "end": 50.805,
+        "confidence": 0.9656544,
+        "channel": 0,
+        "transcript": "Page, el saxofonista",
+        "words": [
+          {
+            "word": "page",
+            "start": 49.345,
+            "end": 49.825,
+            "confidence": 0.9057478,
+            "speaker": 0,
+            "speaker_confidence": 0.766883,
+            "punctuated_word": "Page,"
+          },
+          {
+            "word": "el",
+            "start": 49.825,
+            "end": 50.305,
+            "confidence": 0.9978034,
+            "speaker": 0,
+            "speaker_confidence": 0.766883,
+            "punctuated_word": "el"
+          },
+          {
+            "word": "saxofonista",
+            "start": 50.305,
+            "end": 50.805,
+            "confidence": 0.9934119,
+            "speaker": 0,
+            "speaker_confidence": 0.766883,
+            "punctuated_word": "saxofonista"
+          }
+        ],
+        "speaker": 0,
+        "id": "32a91156-af8a-4a7e-8486-b8f37499fcbe"
+      },
+      {
+        "start": 51.265,
+        "end": 51.925003,
+        "confidence": 0.9390778,
+        "channel": 0,
+        "transcript": "de Toto,",
+        "words": [
+          {
+            "word": "de",
+            "start": 51.265,
+            "end": 51.425003,
+            "confidence": 0.96235216,
+            "speaker": 0,
+            "speaker_confidence": 0.766883,
+            "punctuated_word": "de"
+          },
+          {
+            "word": "toto",
+            "start": 51.425003,
+            "end": 51.925003,
+            "confidence": 0.91580343,
+            "speaker": 0,
+            "speaker_confidence": 0.766883,
+            "punctuated_word": "Toto,"
+          }
+        ],
+        "speaker": 0,
+        "id": "757fef3a-78d4-4f9c-9bfb-0482c695b5af"
+      },
+      {
+        "start": 52.905003,
+        "end": 53.405003,
+        "confidence": 0.9825347,
+        "channel": 0,
+        "transcript": "de",
+        "words": [
+          {
+            "word": "de",
+            "start": 52.905003,
+            "end": 53.405003,
+            "confidence": 0.9825347,
+            "speaker": 0,
+            "speaker_confidence": 0.48823136,
+            "punctuated_word": "de"
+          }
+        ],
+        "speaker": 0,
+        "id": "7c02f679-5923-46dd-941d-696e448bd964"
+      },
+      {
+        "start": 54.385002,
+        "end": 59.66,
+        "confidence": 0.9321521,
+        "channel": 0,
+        "transcript": "Pink Floyd y de no recuerdo cuál es el otro grupo. Pero bueno, empecemos en 5 minutitos.",
+        "words": [
+          {
+            "word": "pink",
+            "start": 54.385002,
+            "end": 54.705,
+            "confidence": 0.9987297,
+            "speaker": 0,
+            "speaker_confidence": 0.48823136,
+            "punctuated_word": "Pink"
+          },
+          {
+            "word": "floyd",
+            "start": 54.705,
+            "end": 55.205,
+            "confidence": 0.99997723,
+            "speaker": 0,
+            "speaker_confidence": 0.48823136,
+            "punctuated_word": "Floyd"
+          },
+          {
+            "word": "y",
+            "start": 55.265,
+            "end": 55.345,
+            "confidence": 0.64461327,
+            "speaker": 0,
+            "speaker_confidence": 0.48823136,
+            "punctuated_word": "y"
+          },
+          {
+            "word": "de",
+            "start": 55.345,
+            "end": 55.505,
+            "confidence": 0.99509084,
+            "speaker": 0,
+            "speaker_confidence": 0.48823136,
+            "punctuated_word": "de"
+          },
+          {
+            "word": "no",
+            "start": 55.585,
+            "end": 55.825,
+            "confidence": 0.7835976,
+            "speaker": 0,
+            "speaker_confidence": 0.51899695,
+            "punctuated_word": "no"
+          },
+          {
+            "word": "recuerdo",
+            "start": 55.825,
+            "end": 56.145,
+            "confidence": 0.999382,
+            "speaker": 0,
+            "speaker_confidence": 0.51899695,
+            "punctuated_word": "recuerdo"
+          },
+          {
+            "word": "cuál",
+            "start": 56.145,
+            "end": 56.305,
+            "confidence": 0.9505061,
+            "speaker": 0,
+            "speaker_confidence": 0.51899695,
+            "punctuated_word": "cuál"
+          },
+          {
+            "word": "es",
+            "start": 56.305,
+            "end": 56.385002,
+            "confidence": 0.99672157,
+            "speaker": 0,
+            "speaker_confidence": 0.51899695,
+            "punctuated_word": "es"
+          },
+          {
+            "word": "el",
+            "start": 56.385002,
+            "end": 56.625,
+            "confidence": 0.99571264,
+            "speaker": 0,
+            "speaker_confidence": 0.51899695,
+            "punctuated_word": "el"
+          },
+          {
+            "word": "otro",
+            "start": 56.625,
+            "end": 57.0,
+            "confidence": 0.9996069,
+            "speaker": 0,
+            "speaker_confidence": 0.51899695,
+            "punctuated_word": "otro"
+          },
+          {
+            "word": "grupo",
+            "start": 57.32,
+            "end": 57.72,
+            "confidence": 0.958189,
+            "speaker": 0,
+            "speaker_confidence": 0.51899695,
+            "punctuated_word": "grupo."
+          },
+          {
+            "word": "pero",
+            "start": 57.72,
+            "end": 57.96,
+            "confidence": 0.997954,
+            "speaker": 0,
+            "speaker_confidence": 0.51899695,
+            "punctuated_word": "Pero"
+          },
+          {
+            "word": "bueno",
+            "start": 57.96,
+            "end": 58.36,
+            "confidence": 0.9225392,
+            "speaker": 0,
+            "speaker_confidence": 0.51899695,
+            "punctuated_word": "bueno,"
+          },
+          {
+            "word": "empecemos",
+            "start": 58.36,
+            "end": 58.6,
+            "confidence": 0.7527761,
+            "speaker": 0,
+            "speaker_confidence": 0.51899695,
+            "punctuated_word": "empecemos"
+          },
+          {
+            "word": "en",
+            "start": 58.6,
+            "end": 58.76,
+            "confidence": 0.99688584,
+            "speaker": 0,
+            "speaker_confidence": 0.51899695,
+            "punctuated_word": "en"
+          },
+          {
+            "word": "5",
+            "start": 58.76,
+            "end": 59.16,
+            "confidence": 0.9778446,
+            "speaker": 0,
+            "speaker_confidence": 0.51899695,
+            "punctuated_word": "5"
+          },
+          {
+            "word": "minutitos",
+            "start": 59.16,
+            "end": 59.66,
+            "confidence": 0.87645805,
+            "speaker": 0,
+            "speaker_confidence": 0.51899695,
+            "punctuated_word": "minutitos."
+          }
+        ],
+        "speaker": 0,
+        "id": "1304ae22-efeb-4491-b179-2c19480fc4a0"
+      },
+      {
+        "start": 60.2,
+        "end": 61.5,
+        "confidence": 0.85832036,
+        "channel": 0,
+        "transcript": "Money de Pink Floyd.",
+        "words": [
+          {
+            "word": "money",
+            "start": 60.2,
+            "end": 60.68,
+            "confidence": 0.8821347,
+            "speaker": 0,
+            "speaker_confidence": 0.51899695,
+            "punctuated_word": "Money"
+          },
+          {
+            "word": "de",
+            "start": 60.68,
+            "end": 60.84,
+            "confidence": 0.57164085,
+            "speaker": 0,
+            "speaker_confidence": 0.51899695,
+            "punctuated_word": "de"
+          },
+          {
+            "word": "pink",
+            "start": 60.84,
+            "end": 61.0,
+            "confidence": 0.9823686,
+            "speaker": 0,
+            "speaker_confidence": 0.51899695,
+            "punctuated_word": "Pink"
+          },
+          {
+            "word": "floyd",
+            "start": 61.0,
+            "end": 61.5,
+            "confidence": 0.99713737,
+            "speaker": 0,
+            "speaker_confidence": 0.51899695,
+            "punctuated_word": "Floyd."
+          }
+        ],
+        "speaker": 0,
+        "id": "fba14013-9101-416f-a09c-fbe3a1db7a9d"
+      }
+    ]
+  }
+}
