@@ -255,9 +255,9 @@ def generate():
     <main class="episode-detail">
         <div class="container">
             <article class="episode-full">
-                <header class="episode-header">
+                <header class="episode-header" style="margin-top: 20px;">
                     <h1 class="episode-title-large">{ep['title']}</h1>
-                    <span class="episode-number-large">#{ep['number']}</span>
+                    <span class="episode-number-large" style="margin-bottom: 10px; display: inline-block;">#{ep['number']}</span>
                     <div class="episode-meta">
                         {f'<span class="status-badge cohosted" style="margin-right: 15px;">🤝 Co-Hosted</span>' if ep.get("type") == "co-hosted" else ""}
                         {f'<span class="status-badge" style="margin-right: 15px; background-color: #1DA1F2; color: white; padding: 4px 10px; border-radius: 4px; font-size: 0.85em;">📊 X Spaces Analytics</span>' if ep.get("analytics_source") else ""}
@@ -272,40 +272,47 @@ def generate():
                     </div>
                 </header>
                 
+                
                 <div class="episode-content">
-                    {flyers_section}
-                    
-                    <div class="description">
-                        <h3>Sobre este episodio</h3>
-                        <p>{ep['description']}</p>
-                    </div>
-                    
-                    <div class="topics">
-                        <h3>Temas</h3>
-                        <div class="card-topics">
-                            {''.join([f'<span class="topic-tag-small">{t}</span>' for t in ep['topics']])}
+                    <div style="display: grid; grid-template-columns: 400px 1fr; gap: 40px; margin-bottom: 40px;">
+                        <div>
+                            {flyers_section}
                         </div>
-                    </div>
-                    
-                    <div class="links">
-                        <h3>Enlaces</h3>
-                        {f'<a href="{ep["space_url"]}" target="_blank" class="button" style="background-color: #000000; color: white; font-weight: bold; padding: 12px 24px; font-size: 1.1em;">🎙️ Escuchar en X Space</a>' if ep.get("space_url") else ""}
                         
-                        {f'<a href="{ep["spacesdashboard_url"]}" target="_blank" class="button" style="background-color: #1DA1F2; color: white; margin-left: 10px;">📊 Ver en SpacesDashboard</a>' if ep.get("spacesdashboard_url") else ""}
-                        
-                        {f'<a href="{ep["instagram_url"]}" target="_blank" class="button" style="background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); color: white; margin-left: 10px;">Ver en Instagram</a>' if ep.get("instagram_url") else ""}
-                        
-                        {f'<a href="{ep["arena_url"]}" target="_blank" class="button" style="background-color: #000000; margin-left: 10px;">Ver en Arena</a>' if ep.get("arena_url") else ""}
-                        
-                        {f'<a href="{ep["unlock_url"]}" target="_blank" class="button" style="background-color: #ff6b6b; margin-left: 10px;">Claim Unlock</a>' if ep.get("unlock_url") else ""}
+                        <div>
+                            <div class="description" style="margin-bottom: 30px;">
+                                <h3>Sobre este episodio</h3>
+                                <p>{ep['description']}</p>
+                            </div>
+                            
+                            <div class="topics">
+                                <h3>Temas</h3>
+                                <div class="card-topics">
+                                    {''.join([f'<span class="topic-tag-small">{t}</span>' for t in ep['topics']])}
+                                </div>
+                            </div>
+                            
+                            <div class="links">
+                                <h3 style="margin-bottom: 15px;">Enlaces</h3>
+                                {f'<a href="{ep["space_url"]}" target="_blank" class="button" style="background-color: #000000; color: white; font-weight: bold; padding: 12px 24px; font-size: 1.1em;">🎙️ Escuchar en X Space</a>' if ep.get("space_url") else ""}
+                                
+                                {f'<a href="{ep["spacesdashboard_url"]}" target="_blank" class="button" style="background-color: #1DA1F2; color: white; margin-left: 10px;">📊 Ver en SpacesDashboard</a>' if ep.get("spacesdashboard_url") else ""}
+                                
+                                {f'<a href="{ep["instagram_url"]}" target="_blank" class="button" style="background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); color: white; margin-left: 10px;">Ver en Instagram</a>' if ep.get("instagram_url") else ""}
+                                
+                                {f'<a href="{ep["arena_url"]}" target="_blank" class="button" style="background-color: #000000; margin-left: 10px;">Ver en Arena</a>' if ep.get("arena_url") else ""}
+                                
+                                {f'<a href="{ep["unlock_url"]}" target="_blank" class="button" style="background-color: #ff6b6b; margin-left: 10px;">Claim Unlock</a>' if ep.get("unlock_url") else ""}
 
-                        {f'<a href="{ep["arbiscan_url"]}" target="_blank" class="button" style="background-color: #28A0F0; margin-left: 10px;">Ver en Arbiscan</a>' if ep.get("arbiscan_url") else ""}
+                                {f'<a href="{ep["arbiscan_url"]}" target="_blank" class="button" style="background-color: #28A0F0; margin-left: 10px;">Ver en Arbiscan</a>' if ep.get("arbiscan_url") else ""}
 
-                        {f'<a href="{ep["snowtrace_url"]}" target="_blank" class="button" style="background-color: #E84142; margin-left: 10px;">Ver en Snowtrace</a>' if ep.get("snowtrace_url") else ""}
+                                {f'<a href="{ep["snowtrace_url"]}" target="_blank" class="button" style="background-color: #E84142; margin-left: 10px;">Ver en Snowtrace</a>' if ep.get("snowtrace_url") else ""}
 
-                        {f'<a href="{ep["opensea_url"]}" target="_blank" class="button" style="background-color: #2081e2; margin-left: 10px;">OpenSea Collection</a>' if ep.get("opensea_url") else ""}
-                        
-                        {f'<a href="{ep["contract_url"]}" target="_blank" class="button" style="background-color: #3498db; margin-left: 10px;">Contract (Arbiscan)</a>' if ep.get("contract_url") else ""}
+                                {f'<a href="{ep["opensea_url"]}" target="_blank" class="button" style="background-color: #2081e2; margin-left: 10px;">OpenSea Collection</a>' if ep.get("opensea_url") else ""}
+                                
+                                {f'<a href="{ep["contract_url"]}" target="_blank" class="button" style="background-color: #3498db; margin-left: 10px;">Contract (Arbiscan)</a>' if ep.get("contract_url") else ""}
+                            </div>
+                        </div>
                     </div>
 
                     {f'''<div class="participant-graph" style="margin-top: 40px;">
