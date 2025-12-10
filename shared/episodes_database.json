@@ -10577,16 +10577,16 @@
     }
   ],
   "stats": {
-    "total_episodes": 398,
+    "total_episodes": 405,
     "total_duration_hours": 690.62,
-    "average_duration_minutes": 104.1,
+    "average_duration_minutes": 102.3,
     "total_listeners": 59143,
     "average_listeners": 152.8,
     "episodes_with_listener_data": 387,
     "breakdown_by_type": {
-      "hosted": 257,
+      "hosted": 264,
       "co-hosted": 141
     },
-    "last_updated": "2025-12-09T20:33:59.199916"
+    "last_updated": "2025-12-09T21:07:21.076616"
   }
 }
