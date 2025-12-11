@@ -17,6 +17,39 @@
   },
   "episodes": [
     {
+      "number": "076",
+      "title": "BandaWeb3 #076 Eric y Zey de @MOCA_app",
+      "date": "2025-12-11",
+      "time": "12:00 PM CST",
+      "space_url": "https://x.com/i/spaces/1ZkKzZkDDWwKv",
+      "audio_url": "",
+      "flyer_urls": [
+        "076.png"
+      ],
+      "guests": [
+        "Eric",
+        "Zey"
+      ],
+      "guest_links": {
+        "Eric": "https://x.com/EricOnchain",
+        "Zey": "https://x.com/zeymermoca"
+      },
+      "duration": "",
+      "description": "BandaWeb3 #076 Eric y Zey de @MOCA_app. Jueves 11 Dic 2025 - 12 pm🇲🇽. Invitados: Eric @EricOnchain y Zey @zeymermoca. MOCA es una super app centrada en mensajería que integra chat, pagos y cripto en un solo producto sin fricciones. Conoce más de MOCA en: https://home.moca.app/",
+      "topics": [
+        "MOCA",
+        "Super App",
+        "Messaging",
+        "Payments"
+      ],
+      "status": "scheduled",
+      "transcript_available": false,
+      "content_generated": false,
+      "type": "hosted",
+      "host": "@meximalist",
+      "is_numbered": true
+    },
+    {
       "number": "075",
       "title": "BandaWeb3 #075 Emprendiendo @KoilenAI",
       "date": "2025-12-09",
@@ -10451,16 +10484,16 @@
     }
   ],
   "stats": {
-    "total_episodes": 398,
+    "total_episodes": 399,
     "total_duration_hours": 690.62,
-    "average_duration_minutes": 104.1,
+    "average_duration_minutes": 103.9,
     "total_listeners": 59143,
     "average_listeners": 152.8,
     "episodes_with_listener_data": 387,
     "breakdown_by_type": {
-      "hosted": 257,
+      "hosted": 258,
       "co-hosted": 141
     },
-    "last_updated": "2025-12-09T23:52:51.150215"
+    "last_updated": "2025-12-10T20:14:34.794957"
   }
 }

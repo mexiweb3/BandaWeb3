@@ -142,8 +142,8 @@ def main():
         filename = mp3_path.name
         space_id = mp3_path.stem
         
-        # Verificar si ya existe la transcripción
-        output_file = OUTPUT_DIR / f"{space_id}_fireflies.json"
+        # Verificar si ya existe el registro de subida
+        output_file = OUTPUT_DIR / f"{space_id}_upload_record.json"
         if output_file.exists():
             print(f"[{i}/{total_files}] ⏭️  Ya existe: {filename}")
             skipped += 1
