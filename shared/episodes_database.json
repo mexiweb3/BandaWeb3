@@ -4306,12 +4306,16 @@
       "status": "published",
       "transcript_available": false,
       "content_generated": false,
-      "space_url": "",
+      "space_url": "https://x.com/i/spaces/1ypKddyNoPLKW",
       "audio_url": "",
-      "flyer_urls": [],
+      "flyer_urls": [
+        "flyer_meximalist_generic.png"
+      ],
       "live_listeners": 67,
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1ypKddyNoPLKW/cafe-tacuba-acustico-live",
       "flyers": [
-        "flyer_bandaweb3_generic.png"
+        "flyer_bandaweb3_generic.png",
+        "flyer_meximalist_generic.png"
       ]
     },
     {
@@ -9469,29 +9473,6 @@
       "host": "@NFTDEFILAND",
       "flyers": [
         "flyer_nftdefiland_generic.png"
-      ]
-    },
-    {
-      "number": "20221113",
-      "title": "Café Tacuba Acústico Live",
-      "date": "2022-11-13",
-      "duration": "00:21:00",
-      "guests": [],
-      "guest_links": {},
-      "space_url": "https://x.com/i/spaces/1ypKddyNoPLKW",
-      "description": "Café Tacuba Acústico Live",
-      "topics": [],
-      "status": "archived",
-      "transcript_available": false,
-      "content_generated": false,
-      "flyer_urls": [],
-      "listeners": 7,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1ypKddyNoPLKW/cafe-tacuba-acustico-live",
-      "analytics_source": "spaces_dashboard_excel",
-      "type": "hosted",
-      "host": "@meximalist",
-      "flyers": [
-        "flyer_meximalist_generic.png"
       ]
     },
     {
