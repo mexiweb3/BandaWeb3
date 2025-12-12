@@ -1,0 +1,408 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #20240725
+Título: #BandaWeb3 con @guillaumemcfly - me pagó MtGox
+Fecha: 2024-07-25
+Host: BandaWeb3
+Tipo: hosted
+
+Descripción:
+Hosted Space: #BandaWeb3 con @guillaumemcfly - me pagó MtGox
+
+Duración: 01:15:50
+Escuchas: 80
+Speakers: 1
+
+Links:
+  Space: https://x.com/i/spaces/1nAJEpvWBNAGL
+  Dashboard: https://spacesdashboard.com/space/1nAJEpvWBNAGL/bandaweb3-con-at-guillaumemcfly-me-pago-mtgox
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+
+[Speaker 0 - 00:00:12]
+GMGM, banda. ¿Cómo andan el día de hoy? Creo que Ay, medio grande para escuchar. Buenos días, buenas tardes, buenas noches. Depende dónde se escuchen, ¿Dónde se conecten a escuchar esta grabación? Si ven por ahí, si me escuchan, manito para arriba, para abajo me ayudaría mucho. No estoy seguro si me están escuchando, pero creo que sí. Vamos a poner algo de musiquita y empezamos en breve. Va a estar con nosotros Guillermo. Él nos va a estar contando de todo lo que le está sucediendo con o todo lo que sucedió con el pago de Mount Box, pero ándale, manitas para arriba, manitas para abajo. No ponen los audífonos, señor, ya deberían de estar escuchándome. Dejen me pongo los musiquita mientras llego aquí a la casa. Y en 3 minutos empezamos, vamos a buscar algo en la radio. Mientras llega también el buen Gigit. A ver, ¿qué ponemos, Chili? Vamos a buscar algo aquí.
+
+[Speaker 1 - 00:01:50]
+Euro
+
+[Speaker 0 - 00:01:53]
+spa digital tecnológico. A ver, déjenme busco otra cancioncita, que ya estoy a 2 minutos de la casa y no tengo mi server original. Pero empecemos en 3 minutitos. Listo, ya estoy aquí llegando al server original. Ya va a conectarse con nosotros el buen Guilleum McFly. La neta la historia de el exchange y de lo que pasó con Mau Gogh está súper loco. No sé si han estado por ahí al pendiente, pero han estado depositando. No sé si ya le depositaron a todos, pero hubo un hack en este Exchange.
+
+[Speaker 0 - 00:03:00]
+Ya nos estará contando por acá el buen Guille, cuando lo tengamos aquí. Pero hace varios años, casi más de, ahorita les digo la fecha exacta, de el hack de Mount Dogs. Pero después de muchos años y de un proceso legal super superlargo, por fin están pagando. Hoy Guillermo nos va a contar de lo que le tocó vivir a él durante esos años, ¿no? Un poquito de también de su experiencia en la Web 3. Porque, pues bueno, ya tiene un buen ratote para haber estado por ahí durante el hack de Mount Gox, fue porque ya tiene un buen rato en el ecosistema.
+
+[Speaker 0 - 00:04:16]
+Y pues bueno, justo nos va a costar un poquito de su historia, lo que lo que guste, lo que quiera. La neta, a mí se me hace una historia súper súper interesante para saber cómo fue todo ese proceso, cómo le tocó al experimentarlo, pero creo que ya lo tenemos para acá arriba. Guille, ¿cómo andas? Bienvenido.
+
+[Speaker 1 - 00:05:01]
+Hola, hola, ¿se me escucha? Muy bien, fuerte y claro. Hola, sí. Disculpen ahí si si si me salgo que no no conozco muy bien esto de acá, hay un montón de botones ahorita ahorita me salgo sin querer. ¿Cómo están? ¿Qué tal?
+
+[Speaker 0 - 00:05:16]
+No, muy bien, muy bien. Muchísimas gracias por por estar por acá. Y también muchas gracias por aceptar la invitación así a a quemarropa. Tengo que comentarlo acá en el espacio. Le le comenté hace hace poquito, ya es un tema por ahí que que yo por ahí quería platicar. No estaba seguro que iba a poder tener espacio el día de hoy, pero bueno, pudimos ajustar la agenda. Y encantado, ¿no? Y esto se queda grabado y la neta creo que muchos lo van a escuchar. Si no lo escuchan en vivo, lo escucharán en la grabación porque es una historia bien loca, ¿no? YYY por ahí me me gustaría que nos empezaras a contar. Yo por ahí, como background, te puedo mencionar que que cuánto tenemos de estar ya conviviendo por ahí en redes. No los conocemos, ¿no? En vida real, pero como muchos años ya hace
+
+[Speaker 1 - 00:06:02]
+Compartiendo grupos de WhatsApp.
+
+[Speaker 0 - 00:06:07]
+Pero por ahí comenzamos una De los que regresamos en Royal Bunker, pero sí me acuerdo que estaba estaba estaba haber estado muy por ahí muy muy activos en en en algunos foros y en algunos canales por ahí de redes sociales, etcétera. Cuéntanos un poquito de de de esa época de de jugador, ¿no? De cuando por ahí tuvimos la oportunidad de de de conocernos.
+
+[Speaker 1 - 00:06:50]
+Bueno, yo he sido jugador de póquer muchos años, nunca de forma profesional
+
+[Speaker 0 - 00:06:56]
+y y no sé si te estemos escuchando ahí, de repente te perdí. Hola, ¿ahora sí? Si puedes, sí, no, no, sí, se me hace que te perdí. Te voy a bajar tantito y te voy a volver a subir, para para ver si ya con eso te escuchamos. Vamos a bajarlo y lo volvemos a subir acá para que nos venga a platicar. Ahí viene ahí. Y yo agarré WiFi, de repente, cuando cambio señales, siempre tiene aquí algún inconveniente, pero creo que ya con esta con este movimiento de los servidores ya lo debemos tener por acá. Creo que ahí andas ya. ¿Escucha? Sí, ahora sí, perfecto.
+
+[Speaker 1 - 00:07:39]
+Sí. Ahora, bueno, yo, bueno, he sido jugador de póquer muchos años, nunca de forma profesional, y antes era jugador de de Starcraft, un juego de muy conocido de estrategia. Y con esa comunidad peruana de Starcraft, luego nos volvimos al póquer y después ahorita muchos de ellos estamos metidos en las criptomonedas en los últimos 5 o 6 años. Bueno, yo yo mucho más tiempo en las criptomonedas, justamente por eso es que sufrí el tema de Ntigox. No sé si la mayoría sabe qué qué cosa fue Antigox o no sé qué tan antiguo sean en en el en el criptomundo, la mayoría que está escuchando.
+
+[Speaker 0 - 00:08:23]
+Muchos de aquí veo 2020, 2000 veintiuno, 1 que otro 2017. Tú tienes ya desde ¿cuándo? Cuéntanos un poquito de ese brinco, ¿no? De de Starcraft a Pocar y luego a las cripto.
+
+[Speaker 1 - 00:08:37]
+Sí, bueno, el Starcraft que yo jugaba en el año 2000, cuando recién estaban, digamos, creciendo lo que eran las comunidades de de eSports. ¿No? Cuando todavía había, ese se marginaba un poco todavía la gente que jugaba. ¿No? Juegos, este, juegos de video, era como que son juegos. ¿No? Que hacen perdiendo el tiempo en eso. Y ahí, bueno, pues, este, empiezan a surgir los Eastport, me acuerdo en el en el año 2000, se hacen en Perú el primer torneo Starcraft y de Counter Strike. ¿No? YYY que eran con los viajes a Corea y los premios millonarios en ese entonces. ¿No? Estamos hablando de primer puesto Starcraft, 20000 dólares. ¿No? Ahora los Llenan, llenan o llenaban estadios. ¿No? O sea. Sí, los coreanas llenaban los estadios de Starcraft. Y los premios eran 20000 dólares. ¿No? Ahora los torneos de Loal de de de de Dota, 20000000 de dólares, 10000000 de dólares.
+
+[Speaker 1 - 00:09:38]
+En ese tiempo eran 20000 dólares el primer el primer premio y era como que una novedad. Mira, les están pagando dinero por jugar videojuegos. No. Y ahí, pues, empieza a crecer lo que es, este, los juegos en línea y se empiezan a hacer ya más torneos internacionales de de los eSports. Y es ahí cuando empiezan AAA surgir los primeros pro gamers ya un poco descentralizados. ¿No? Porque en el año 2000 los pro gamers eran coreanos, los coreanos dominaban el mundo de los videojuegos. Casi todos los pro gamers eran coreanos y la gente que quería triunfar en los eSports mucha gente se mudaba a Corea. Y ahí en Corea hacían su carrera. Y ahí es que jugadores profesionales de startcraft empiezan, este, su paso al póquer porque lo los los primeros jugadores profesionales de de póquer así online pasaron eran fueron progamer de Starcraft y y ¿qué sucedía? Y es una anécdota que cuenta 1 de de de los progamer de Starcraft de ese tiempo.
+
+[Speaker 1 - 00:10:43]
+¿No? Ellos iban ahí a a Corea a jugar a Starcraft para ganar premios de 20000 dólares. Y en esos círculos un jugador ve que estaban jugando póquer en una mesa. ¿No? Y y ve, pues, que se armaban pots en la mesa, pero una mano de 25000 dólares. Y el dinero corría de un jugador a otro y decía, por ende, estoy dedicando una vida a ganar un premio de 20000 dólares, cuando aquí hay gente moviendo 15000 dólares y y nadie pestañea por perder 15000 y ganar 15000 dólares. Y muchos progamers de Starcraft empiezan a mudarse al póquer, y mucha gente que seguía estos progamers empiezan, pues, también a a migrar al póquer. ¿No? Y obviamente muchas comunidades así como la peruana de Starcraft también empieza a mirar, oye, mira esta gente que antes jugaba a Starcraft y era buena en esto, en Starcraft y ahora está le está yendo bien en póquer y muchos jugadores de Starcraft migran al póquer hace 20 años y muchos de ellos, este, hoy siguen viviendo del póquer como es el caso de Morris lo conoce.
+
+[Speaker 1 - 00:11:53]
+Un amigo que tenemos, Ewelt era, este, era amigo de del de David, que es loco también, que era un jugador de Starcraft y ambos miraron al póquer, este, hace ya más o menos unos 15 años, 12 años, Y ahora viven de eso, después de 15 años viven del póquer, ¿no? Después de haber comenzado en Starcraft.
+
+[Speaker 0 - 00:12:18]
+Oye, y yo recuerdo haberme obviamente vivido esa época cuando empieza ese boom, ¿no? Que empezó a lo mejor, Yo lo veo con con una película. Esa película empezó luego a que más gente entrara y luego entró MoneyMaker y que fue un campeón de de 1 de los torneos más grandes. Y vi en un boom bien grande de de de jugadores en vivo, de jugadores en línea. Yo lo viví en Monterrey. Por todos lados había torneos presenciales en línea. Había comunidades enormes jugando y todavía existen, ¿no? Pero pero sí hubo una época donde podemos ver, como tú decías, ¿no? Manos donde se intercambiaron 1000000 de dólares en una sentadita, ¿no? En una repartida de manos, en 5, 10 minutitos estaban repartiéndose por ahí 1000000 y 1000000 de dólares en línea. Sé que mucha gente intentó jugar, yo jugué en línea, yo jugué en vivo. En algún momento yo creo que la gran mayoría de los que estuvimos ahí soñamos en algún punto vivir de eso. Y y sí, como tú decías, ¿no? Amigos nuestros y personas que conocimos en ese entonces, ahorita lo están haciendo todavía.
+
+[Speaker 0 - 00:13:18]
+A mí, yo lo de eso lo descarté muy rápido, me gustó mucho el tema de comunidad y ahí fue donde aprendí mucho de cómo organizar eventos presenciales, ¿no? Muy periódicos, cada semana jugábamos torneos. Y ahorita, pues, más o menos lo estamos haciendo en en, bueno, no más o menos. Lo estamos haciendo con la comunidad acá en Monterrey y Web3. Pero cuéntame un poco de de esa época. O sea, tú nunca acabaste siendo profesional de póquer. ¿Y después de cuántos años fue cuando migraste a Web3?
+
+[Speaker 1 - 00:13:51]
+Bueno, yo jugué póquer cuando estaba en la universidad, pero yo seguí estudiando la carrera, ¿no? Habían otras personas, por ejemplo, que también estaban en la universidad, pero ellos sí decidieron dejar la universidad, o sea, dejaron de estudiar y dijeron, no, yo me voy a dedicar a esto. ¿No? Yo lo hacía como un side business, estudiaba, estaba enfocado a terminar mi carrera y ganaba un poco de dinero jugando póquer. Y a mí yo creo que lo que me faltaba era bastante disciplina. Siempre me faltó disciplina para pegarme a algo y seguirlo. ¿No? Y la gente que triunfó en esto es la gente que tenía disciplina. ¿No? La gente que que dijo, tenía la disciplina suficiente para decir, bueno, yo voy a dejar de estudiar lo que podría ser mi futuro en esto y me voy a tirar de lleno a esto. ¿No? A estudiar el póquer, a jugar el póquer, a vivir el póquer. ¿No? Y es por eso que esas personas hasta hoy siguen, pues, viviendo de eso. ¿No? Porque es como que dejas todo y ese es tu único camino.
+
+[Speaker 1 - 00:14:52]
+Yo simplemente terminé la universidad y me puse a trabajar, seguí jugando póquer unos años como side business, pero no tenía la disciplina suficiente. ¿No? Como para dedicarme a eso. ¿No? Requiere una fortaleza mental muy fuerte para jugar póquer. ¿No? Para aceptar cuándo se gana y cuándo se pierde. Y cuando estás perdiendo psicológicamente no no irte para abajo. ¿No? Porque eso le pasa a muchas personas que empiezan. No tienen la fortaleza mental para jugar póquer y cuando están ganando todo es maravilloso, y cuando están perdiendo, el mundo se les viene abajo. Y es la que, yo creo la mayoría de jugadores de póquer que quieren ir en ese camino profesional fallan. ¿No?
+
+[Speaker 0 - 00:15:37]
+Yo creo que por eso es que cuadra mucho con el tema de de la web 3, ¿no? La volatilidad, el tema mental es crítico. Acá también yo creo si eres, por ejemplo, trader profesional, lo mismo sucedía con el tema de póquer, ¿no? Hay un tema que por ahí hemos platicado mucho y y creo que es superinteresante y que hace falta más hablar de eso, el manejo del bank roll, ¿no? ¿Cuánto porcentaje le metes a cada torneo? ¿Qué porcentaje de tu bank roll, de tu presupuesto total para ese para esa actividad, para esa industria, para ese ecosistema? Le vas a estar metiendo en esas apuestas que de repente 1 tiene que hacer para entrar a una mesa de torneo o un cash game, etcétera. Entonces, yo creo que va muy de la mano. Y no sé si eso fue lo que a ti te te llamó la atención en este ecosistema.
+
+[Speaker 1 - 00:16:24]
+Sí, bueno, después, muchos de los que jugaban póquer se metieron de lleno al trading, por como el caso de de de David, por ejemplo, que él sigue jugando póquer, pero él él también ha hecho una carrera de trader, pero él es muy cauto con las criptomonedas, él él hace trading de de acciones de acciones, este, digamos, en la bolsa americana, etcétera. ¿No? Y él, bueno, la disciplina que él consiguió en el póquer, bueno, le sirvió mucho. ¿No? Para para también, este, triunfar en esta carrera de ser de ser un trading. ¿No? Eso eso es importante también. Digamos que los que tuvieron disciplina para jugar póquer también pudieron, este, pasar esa disciplina a lo que es el trading. Que tú eres la primera que necesita también esa fortaleza mental. ¿No? Para no irte abajo cuando tus acciones están abajo. ¿No? También necesitas. Entonces todas esas cosas van ligadas de la mano. ¿No? Y bueno, al inicio las criptomonedas se fueron metiendo en el trading y ahí viene, pues, el tema de de de que también para las criptomonedas, con la volatilidad que tiene, 1 tiene que tener también una cabeza muy fuerte.
+
+[Speaker 1 - 00:17:38]
+¿No? O sea, para no no irte a lo loco YYY quebrar tu band roll de trading, que es lo que pasa muchísimo con con con las criptomonedas que son tan volátiles. La disciplina sigue siendo muy importante. ¿Tú cuándo entraste? ¿Cómo fue tu ingreso a la Web 3? ¿Quién te lo presentó? ¿En qué año fue? Mira, yo no recuerdo bien cuándo fue la primera vez que oí de bitcoin, pero me parece que fue en el año 2013, que fue mi primer acercamiento con con esta moneda maravillosa que había aparecido y se llamaba bitcoin. ¿No? Y es muy curioso y bueno, no me da un poquito de vergüenza ahora, pero cómo creo que llegué porque en ese entonces el bitcoin no era lo que es ahora. 1 ahora dice bitcoin y el que menos sabe qué cosa es. El que no sabe te dice, ah, es una moneda, bitcoin y el que menos sabe qué cosa es. El que no sabe te dice, ah, es una moneda digital, es un scam, otro te dice, sí, que es una criptomoneda.
+
+[Speaker 1 - 00:18:38]
+En el 2013, tú decías bitcoin y nadie sabía de qué estabas hablando. O sea, nadie sabía, decías, ¿qué es eso? Bitcóin, bitcoin. Por lo menos acá en Perú tú decías bitcoin y nadie sabía absolutamente nada que era un bitcoin. Los que sabían de bitcoin eran la gente que conocía normalmente de de de de otros países, de Estados Unidos, de Europa, que estaban más más familiarizados con el mundo este de de las criptomonedas, aunque era muy poco igual, o sea, era como que underground. ¿No? Lo que los que sabían de bitcoin era como que un secreto a voces que se iba ahí, este, disipando por el mundo. ¿No? Tanto así que el bitcoin se hizo famoso en ese tiempo por una página que se llamaba SilRoads, Y no sé si algunos se acuerdan o son de esa época y saben lo que era Silk Road en ese entonces.
+
+[Speaker 0 - 00:19:35]
+Es 1 de los temas muy sonados de repente. Yo creo que todos los que ya estamos aquí en estos espacios, más menos hemos escuchado de la historia de ZIP Road, ¿no? De ese marketplace en el Internet escondido, que vendía de todo y podías comprar cualquier cosa. Bueno, no sé si cualquier cosa, pero sí muchas cosas que probablemente no comprabas en mercados tradicionales, pero con este tipo de moneda.
+
+[Speaker 1 - 00:19:58]
+Exacto, exacto. Entrabas, pues, tú a Silk Broad, llegabas a través de links ocultos, qué te pasaba, por ser así. Incluso te sugerían, me acuerdo, creo que era, te empezó a poner de moda la deep web también y entrabas, pues, a Zerrot, y Zerrot era un marketplace como que entrabas a un Amazon y era era una locura. ¿No? Era una locura. Yo me acuerdo que entraba y ponías, este, marihuana, y te salía como 25 tipos de marihuana, azul, verde, amarilla, con diferentes nombres, diferentes intensidades, y tipos que te vendían un gramo, 2 gramos, 3 gramos, 4 gramos, y te la mandaban por correo. ¿Tú ya vas a utilizar? Para ZIP Road. Cosas, era con bitcoin, yo llegué a utilizar ZIP Road, y esa sí creo que llegué. Dije. ¿Qué es esta moneda? ¿No? Este, bitcoin. ¿No? No, que es una moneda digital, y ahí 1 le dio un poco, sí, que hay un protocolo nuevo, que es una moneda así de intercambio. ¿No? Pero valía en ese entonces, me acuerdo menos de 100 dólares el bitcoin.
+
+[Speaker 1 - 00:21:00]
+¿No? Entonces, yo me acuerdo que mi primer acercamiento de bitcoin fue porque dije voy a probar Sir Road. ¿No? Y logré comprar bitcoin. En ese entonces, tú no sabes lo que era comprar bitcoin en en en ese momento, sobre todo de un país latinoamericano. Comprar bitcoin era dificilísimo, o sea, si comprar Cuenta, cuenta. ¿Cómo, cómo? El 2013 de en Estados Unidos, de Europa era difícil, de Latinoamérica era imposible. Yo me acuerdo que para comprar bitcoin tenía que comprar una moneda virtual de no sé qué juego de de realidad virtual que había en ese momento, no me acuerdo cómo se llamaba el juego. Y esa moneda te compraba, tenías que bajarte el juego y jugar hasta cierto nivel, me parece, para tener acceso a comprar la moneda. Y luego esa moneda había una web page que te dejaba intercambiar esa moneda por la monedita de otro juego. Y luego había otra página donde la monedita de ese juego te dejaban cambiarla por bitcoin.
+
+[Speaker 1 - 00:22:02]
+Es como que pasabas como que por 4 intermediarios, cada 1 se iba llevando su corte y es como que pagabas como que un 30 por 100 fee por por comprar bitcoin. ¿No? Porque todos los intermediarios que tenían que pasar para que puedas comprar un poco de bitcoin.
+
+[Speaker 0 - 00:22:22]
+Y ya que Oye, sí, comprar el proof of work, proof of work para poder conseguir bitcoin, tenés que ser proof of work en ese entonces, por lo que entiendo.
+
+[Speaker 1 - 00:22:32]
+Ideal, sí. Era era era era como que un traspaso, empezabas en una manera de un juego, comprabas otra y cambiabas y llegabas a, de alguna forma llegabas al bitcoin. ¿No? Y con eso podías comprar en Z Road, que te digo, en ese tiempo Z Road, este, vendían armas, este, secretos empresariales, documentos que se habían robado, entrabas y vendías ahí, lo vendías ahí y lo podías comprar en Zy Road. Llegaba y llegaba. Yo compré, me acuerdo, algo de de Europa y me llegó, me llegó, me llegó droga por correo. Era increíble, Rannet, era increíble. Y después, bueno 2013,
+
+[Speaker 0 - 00:23:11]
+2014. Trono, exacto. ¿No?
+
+[Speaker 1 - 00:23:14]
+Y de ahí voy, vino el FBI y se los levantó a toditos los dueños, se los levantó, empezó a todo. Esa es la historia de Zed Road. Y bueno, en ese entonces también es donde viene, pues, la historia de NT Gox. NT Gox era lo que hoy día es binance, todo el mundo conoce binance. ¿No es cierto?
+
+[Speaker 0 - 00:23:36]
+Monstruo, el el 6 más grande del mundo el día de hoy, eso era en ese entonces. ¿No? Claro, pero era
+
+[Speaker 1 - 00:23:43]
+un era un binance mucho más grande. O sea, digamos, los competidores de MT Gocks eran minúsculos, o sea, eran eran exchanges que tú veías solamente la página, y solo con ver la página decías esto es un scan, porque el nivel de producción de los exchanges de ese momento, que ya empezaban a a cambiar algunas criptomonedas, era bajísimo. Era prácticamente te sentías un hacker, veías esta página y decías, pucha, en cualquier momento me va a entrar un virus y hago clic. ¿No? NT Gox manejaba más, casi el 80 por 100 del mercado de bitcoin en ese tiempo. O sea, era un monstruo, digamos. Ahorita tú tienes binance, pero tienes un montón de de exchanges que tú puedes decir, ah, bueno, también son, este, grandes. ¿No? En ese entonces, MT Gocks era como que lo lo más grande que había, lo más decente, y no aceptaban depósitos de muchas, este, de muchos lugares, de Latinoamérica no aceptaban. O lo aceptaban a través de medio de pago medio extraños que tenías que que mandar tu dinero, hacer una transferencia a un sitio y después de unos días te acreditaban, algo así.
+
+[Speaker 1 - 00:24:50]
+¿No? ¿No? Pero en ese entonces pasó algo curioso. El 2013 el bitcoin estaba, me parece que 100 dólares, 200 dólares, y ya lo del bitcoin empezó a crecer, a crecer, a crecer, y no sé cómo ni por qué llegó al Congreso de los Estados Unidos una preocupación de que había una moneda digital que que era bitcoin y que el otro que el otro. Y sermón un debate grande en el congreso de los Estados Unidos, que lo me parece que lo que tenían que decir era, si declaraban como que el bitcoin era una tecnología válida, o sea, como moneda de intercambio, no sé qué cosa, un debate no sé cuál era el punto. Pero lo otro era que si decían que no, era como que satanizaban al bitcoin. Decían, no, esto es un scan y vamos a perseguirlo y va, va, va, va, va. ¿No? Y se armó un debate grande. Y cuando empiezan esas noticias, ya que el bitcoin entra un poco a lo que es, este, digamos, a a los medios de comunicación, es cuando da, pues, el primer salto. ¿No? Estábamos hablando de una moneda que en el 2013 inició valía 100 dólares, empieza 200, 300, 400, 500 y nunca, nunca, nunca ya empieza a bajar de esos precios, 600, 700, 800 dólares en un año, duplica 8 veces su valor.
+
+[Speaker 1 - 00:26:04]
+¿No? Y entonces ahí mucha gente dice. ¿Qué está pasando acá? ¿No? O sea, esto valía hace unos años menos de un dólar, valían centavos y ahora estamos hablando que vale 800 dólares, ¿no? Entonces ahí ya la gente empieza a parar la oreja, ¿no? ¿Qué cosa es esto, no? ¿Qué cosa es esto que me permite multiplicar mi dinero por 1000
+
+[Speaker 0 - 00:26:27]
+en un par de años? Qué cosa Yo lo empecé a escuchar más o menos desde el 2014. Yo yo desde el 2014 empecé a escuchar el tema, por ahí lo he platicado, pero Andrea Santanópolis se subía, fue como 2, 3 veces a espacios de Joe Rogan. Creo que tú también o en ese entonces creo que platicábamos de eso, no me acuerdo. Pero por ahí lo escuché, ahí empecé a a, pues, no entendí porque no entré hasta 3 años después, pero ahí fue donde empecé a escuchar el tema, y sí, más o menos andaban 250,
+
+[Speaker 1 - 00:26:58]
+300 dólares. Claro. Pero, mira, ahora ahora ahora que lo recuerdo, esta fue mi este este este 2013 en Silk Road fue mi segundo acercamiento al bitcoin, porque mi primer acercamiento al bitcoin había sido el 2011. ¿Y sabes por qué me acuerdo? Porque en ese momento alguien habló de esa moneda que estaba surgiendo y en ese momento del 2011 estaba de moda porque decía hay una moneda digital que puedes minar. Que se puede minar. Y había muchas páginas donde tú te metías metías metías y podías minar con tu CPU, y veías cómo avanzaba la monedita del bitcoin. O sea, era era tan fácil minar bitcoin en ese tiempo con tu CPU. Incluso habían interfaces que te abrías una web y por tener la web abierta, minabas bitcoin. Solo por tal vez veías ahí el contador de bitcoin cómo iba aumentando por tener la web abierta. ¿No? Y yo me acuerdo que me metí, miné unos meses y una, obviamente, de 3 páginas que metí a mirar, 2 desaparecieron, se las llevaron, en ese tiempo las páginas aparecían y desaparecían por arte de magia.
+
+[Speaker 1 - 00:28:04]
+Y me aburrí y lo dejé, y recién en el 2013 con los Silk Road, ahí lo retomé y ya estaba 100 dólares. Pero sí me acuerdo clarito que el 2011 yo minaba mi bitcoin en una página web, que la tenías que tener abierta y veías como el contador avanzaba, avanzaba, avanzaba, avanzaba, que por algún momento dije, pucha, si agarro y abro la página web en todo el laboratorio de computadora de la universidad, voy a minar 20 veces más rápido. Y pensaba. ¿Cómo le pongo a la página de inicio de todas las computadoras de laboratorio para que para que hable con eso y me mine bitcoin a mi cuenta.
+
+[Speaker 0 - 00:28:44]
+¿Qué te va a costar?
+
+[Speaker 1 - 00:28:46]
+Pero me olvidé y decía en el 2013, que salí otra vez la noticia, me acordé y cuando estoy en Cirro, todavía me acuerdo, acabo de acordar que miraba bitcoin en mi página web. Abrías la página y te dejaba minar. Y bueno, en en ese en
+
+[Speaker 0 - 00:29:02]
+ese lapso Oye, porque Mau Box empieza a 2010, más o menos. O sea, 2010 a 2022. Es que ya se podía minar, me acuerdo. Sí, sí, sí, no. Oye, y hablando de rápido, no quisiera pasar del tema de lo de de de Silk Road, sin antes mencionar que sigue por ahí preso el el el Ross Ulbrich, ¿no? O sea, el que desarrolló esta aplicación sigue por ahí jodido cuando no es ni criminal violento. Hay todo un tema, ¿no? Podríamos meternos en un espacio entero plasmo de eso, pero madre, está cabrón que siga por ahí encerrado el pobre Ross, pero bueno. Free Ross, Free Ross.
+
+[Speaker 1 - 00:29:42]
+Sí. Pero mira, en ese entonces, este, aparte ya empieza en el 2013, entonces, ya a salir algunos exchanges chiquitos, como te digo. Y obviamente, el MT Go se ve más difícil de de de comprar. Había la forma esta de comprar, que te digo, cambiando monedas de un lado a otro. ¿No? Y habían otros exchanges en los que yo también llegué a comprar algunas criptomonedas. Todos esos exchanges desaparecieron, les robaron, les cambiaron, todos. En ese en ese tiempo estamos hablando de que si habían 10 exchanges, 8 o 9 desaparecían. Entonces, cambiaban si iban el dinero, porque no había control, no habían no había seguimiento. Si tú vas a la policía y decía, me han robado mis criptomonedas, el policía te decía qué costes son una criptomoneda, señor, deja de fumar marihuana, por favor. ¿No? En ese entonces, la gente te robaba y y te robaba, y nadie nadie se hacía responsable, porque no había legislación, nadie sabía de qué le hablabas. Entonces, los de aparecían y desaparecían. Había muy poca confianza en el mercado, pues, de criptomonedas. Era, digamos, era el viejo este de las criptomonedas.
+
+[Speaker 1 - 00:30:43]
+¿No? ¿No? Los hackeos estaban a la orden del día, las billeteras se perdían, nadie entendía que eran las billeteras, era era mucha gente, por eso es que ahora son las historias de que yo tenía bitcoin y se perdió en mi computadora, bajabas tu billetera, tu tu core wallet en tu computadora. Ah, y tenías ahí, pues, tus 1000 bitcoin que valían, pues, 10 dólares y ya, listo. Y esa computadora se quedó en el olvido y se quedó ahí tu wallet y se perdió tu bitcoin, porque nunca te llegaste a imaginar que hoy día valía 60000. Pero era era así. ¿No? El bitcoin, las criptomonedas eran una fantasía. Nadie se debió imaginar, pues, que estas moneditas digitales que tú minabas abriendo una página web, este, un día van a valer 1000 de dólares. Como que yo te digo ahorita, abre una página web y mira, este, por tenerla abierta, va a subir este contador. ¿No? Y este contador te va a dar 1 al día. ¿No? Que ahorita es un centavo. ¿No? ¿Qué te vas a imaginar que ese centavo de a cada 10 años va a valer 60000 dólares? Una locura. Nadie va a imaginar, nadie va a resguardar. Ah, mira, gané 3 centavos.
+
+[Speaker 1 - 00:31:43]
+¿No? Las voy a resguardar en esta billetera y la voy a meter en mi caja fuerte, porque vale 3 centavos. Y tu mente no va a decir, en 10 años va a valer 100 de 1000 de dólares. Y esa era la mentalidad en ese tiempo. Ahora 1 dice, no, a cualquier moneda que tengo, no, de acá tengo un 1 por 100 de chance de hacerme millonarios, si esta moneda revienta algún día, no, en ese momento no. Era, pon numeritos en una pantalla y qué van a de valer dinero. ¿No? ¿Qué es esto?
+
+[Speaker 0 - 00:32:12]
+Era otra mentalidad, ¿no? Era otra mentalidad. Incluso Y no, difícil imaginarse en lo que terminamos hoy, ¿no? O sea, imposible, creo yo. No sé tú cómo lo llegaste a ver si en algún momento te imaginaste algo así, pero pues.
+
+[Speaker 1 - 00:32:25]
+Pus. La verdad que no. Incluso Ewal, que tú lo conoces a Ewal, que es 1 de los amigos que tenemos ahí en común en el mundo cripto, él en él en ese tiempo daba servicios, este, en una página epocad y daba otro tipo de de servicios digitales. Y una vez un tipo le dijo, oye, te pago en bitcoin, que es una moneda digital, esto. ¿No? Te pago, te puedo dar 100 dólares en esta moneda digital. ¿No? Que en ese momento eran 1000 de bitcoin. Y él dijo, no, no, dame dólares. ¿Qué voy a querer esa cochinada? ¿No? Y rechazó, pues, el pago en bitcoin, porque no no. ¿Qué quiso imaginar? Que es como que te digo, te pago en moneditas, no sé, de de Candy Crush. ¿No? ¿No? Y y tú vas a decir, no, dame 100 dólares. ¿No? Y él rechazó pagos así de 1000 de Bitcoins, porque no tenía idea, pues, de que de que algún día había ese potencial, pues, de de que esto crezca. ¿No?
+
+[Speaker 0 - 00:33:17]
+Entre más tiempo pasamos en el ecosistema, más historias nos pasan de ese tipo, que aún está muy grande.
+
+[Speaker 1 - 00:33:22]
+Así es. Y y, bueno, pues, en ese entonces se abrieron, me acuerdo, en este exchanges que era muy grande, que era NT Box, ya ya formas de comprar bitcoin directamente ahí. ¿No? Porque ya cuando pasó esto del Congreso de los Estados Unidos a fines del 2013, más o menos, o el en el Q3 del 2013, ya el bitcoin se había ido, pues, a 800 dólares. ¿No? Cada día que se hablaba más del bitcoin en el Congreso de Estados Unidos y la gente decía, ¿qué están debatiendo estos locos? ¿Qué es bitcoin? ¿Qué es bitcoin? ¿Qué es bitcoin? El precio, pues, subía. ¿No? Ya estábamos hablando de un bitcoin de 800 dólares. ¿No? Era una moneda que hace unos años valía centavos. ¿No? ¿No? Y entonces ya este exchange, ETigox, abrió, me acuerdo, depósitos, este, depósitos, pues, de de de mi país, que era Perú en ese entonces. ¿No? Entonces, yo moví bitcoin que tenía de algunos de exchanges que había comprado, unos de exchanges medio raros ya.
+
+[Speaker 1 - 00:34:27]
+Dije, no, acá esto eso es un no, que incluso no estaba traducido ni ni del ruso, creo. No, y lo pasé a Ntigox. Y también en MT Gox compré algunos bitcoin, en ese entonces me acuerdo a 900 dólares. ¿No? Entonces, este, para mí ya iba tarde. ¿No? O sea, te digo, en MT Gox mucha gente ya había movido sus sus sus bitcoin que habían minado en los últimos 2 años o que habían comprado a centavos. Entonces, había gente que los movía a MT Gocks porque en MT Gocks te permitía hacer trading con los bitcoin. ¿No? Comprar cuando baja, vender cuando sube. ¿No? Entonces, gente gente movió 1000 de bitcoin, 1500 bitcoin, 5000 bitcoin. O sea, gente movía fortunas, bueno, en ese entonces eran, pues, 10000 dólares de bitcoin eran 100 bitcoin. ¿No? Movían. Y entonces, a finales del 2013, me acuerdo, En en los foros que yo revisaba empieza a a correr la noticia de que, este, no se puede ya sacar dinero de MT Gops.
+
+[Speaker 1 - 00:35:30]
+Entonces, el clásico, ¿no? Que ponen, tenemos problemas técnicos ahorita,
+
+[Speaker 0 - 00:35:38]
+se están restringiendo los los Windraw. Oiga, ¿antes no era el CEO público o sí? No, yo, o sea, el el la gente que estaba detrás de todo esto, el chavo este, yo no conversaba ahorita lo busco, pero ellos estaban activos en redes, ellos hablaban así
+
+[Speaker 1 - 00:35:55]
+Sí, sí, en ese entonces el el el famoso CEO de de bitcoin era, este, Carpeles. De Mau Gogh, sí. Sí, Marc Carpeles, era el CEO de de MT Gogs en ese entonces. ¿No? Que él había comprado la página realmente de otro tipo de que que me parece se llamaba Calp. ¿Ya? Que el MT Gogs antes, antes de ser MT Gogs, yo era una página de change de crédito para que vean cómo cómo había sido de violento el cambio, Él le compra la página a un tipo que realmente había hecho un exchanges para hacer trading de cartas de Magic de gatering. No sé si saben, algunos deben conocer el juego de cartas Magic de gatering. ¿No? Y era, pues, un exchange de de de de Magic, de Magic, de Gateway. Es como que ese es un exchange para cambiar cartas de Yu Gi Oh o de Pokémon. ¿No? Y cuando empiezan a surgir este bitcoin, le compran la página a él y lo vuelven un exchange de de bitcoin. ¿No? Y este carpeles hace que este que este exchange crezca y se vuelva un monstruo.
+
+[Speaker 1 - 00:36:57]
+¿No?
+
+[Speaker 0 - 00:37:00]
+Pero bueno En ese entonces había comunidad, se comunicaba, o sea, tú la gente con la que tradeabas o con la que intercambiabas, este, se comunicaban por algún lado, o sea, conociste, me imagino, historias de gente, como tú decías, de que vendió 1000 de Bitcoins o o cómo cómo era ese en ese entonces el No, todo era el tema de comodidad.
+
+[Speaker 1 - 00:37:18]
+Estamos hablando de un tiempo en que todavía no existía WhatsApp. O sea, la comunicación, me acuerdo en eso en esa época, era por por por, este, MSN Messenger o por programas de de mensajería instantáneo. ¿No? No había, pues, la la comunicación global que hay ahora, que tú puedes tener un grupo de WhatsApp con gente de 100 de países y se comunican en tiempo real. No era tan instantáneo. Casi todo era a través de foros.
+
+[Speaker 0 - 00:37:46]
+Reddit, por ejemplo, era un foro muy usado parece, para Grupos en Facebook, ¿te acuerdas de grupos en Facebook? Yo me acuerdo aquí y me han contado algunos grupos en Facebook mexicanos de ese entonces, pero ya están muertos. No sé si te tocó a ti participar en alguno.
+
+[Speaker 1 - 00:38:00]
+En Perú, por lo pronto, no habían. Habían foros, habían en algunos foros se hablaba de eso, pero no eran foros dedicados a eso. Eran foros dedicados a otras cosas donde habrían algunos algunos topics sobre este tipo de de monedas. ¿No? Pero no habían, pues, comunidades grandes dedicadas, este, a eso. ¿No? Era, como te digo, era un tema, no era tan conocido como para tener una comunidad grande, era un tema bien underground. Eran, o sea, si tú hablabas de bitcoin, en ese entonces eras prácticamente una persona que se metía en esas cosas porque quería lavar activos, ¿no? Era eras una mafioso, ¿no? Y eso fue Comprar drogas en Europa. Ah, claro, comprar drogas en Europa. Y es por eso, por eso que se abría el debate en Estados Unidos sobre si si satanizaron esta moneda, porque lo lo los detractores decían, esto simplemente es un pretexto para lavado de activos, porque no hay control. ¿Cómo cómo tú cómo tú verificas que el dinero que se va a mover por esta moneda digital que está surgiendo no no es dinero negro, no?
+
+[Speaker 1 - 00:39:01]
+Entonces, ahí es por eso que se abre ese debate en Estados Unidos, ¿no? Si si le ponen el el parche a esta moneda y dicen, no, esta moneda es, este, es una moneda criminal, ¿no? Para cometer crímenes, ¿no? Oye, a finales del 2 ayudaba a que tuvieras un marketplace vendiendo drogas y cobrando dinero y tampoco te ayudaba la causa.
+
+[Speaker 0 - 00:39:22]
+No, y ahí está la evidencia del pobre loco aquel encerrado todavía, pero bueno. Finales del 2013, empieza la gente a decir que ya no hay el circuito de
+
+[Speaker 1 - 00:39:33]
+de de MT Gogs y y no se puede sacar dinero. Y ahí empieza algo curioso, el único trading que podías hacer era interno. Se crea un mercado interno en MT Gogs, donde el precio de MT Gogs se desfasa del precio de otros mercados que en este momento comerciaban bitcoin. Es decir, es como si ahorita binance cierra los withdrawals y dice, no hay withdrawals, y y se separa de del market. Tú ves el precio de bitcoin en otra página y está a 66 k. Y luego ves que el precio en binance está a 55. Y entonces, usted dice, bueno, compren binance y lo vendo al otro lado, pero no puede Ya. Está cerrado. No lo podía sacar.
+
+[Speaker 0 - 00:40:21]
+Eso es lo que es
+
+[Speaker 1 - 00:40:22]
+una caja cerrada. No puedes sacar, no puedes moverlo y ves como el precio del bitcoin empieza a bajar. Y empieza a bajar 100 dólares y y no abrían los withdraui, y ya empiezan a sonar las alarmas de que ha habido un hackeo masivo en MT Gox. Y tú podías hacer trading, pero solo dentro de MT Gox al precio de MT Gox, que luego se empieza a desfasar del precio que tenías en otros exchanges, que en ese entonces, me acuerdo, el precio del bitcoin no era tan cercano como es ahora que tú vas a un exchanges y en el otro está igualito. Cuando el precio estaba bien, digamos, en 1 estaba 60 y en el otro puede estar 60 561. No había ese, digamos, no estaba tan apegado los precios, pero Y en ese entonces fue cuando se empieza a desfastar más, se empieza a ir 100 dólares abajo, 150 dólares abajo. Entonces ahí la gente empieza a decir, güey, acá está pasando algo raro. ¿No? Y la gente
+
+[Speaker 0 - 00:41:18]
+Oye, sí, recuerdo que, no sé si fue en esa época cuando este loco de FTX hizo su lana haciendo haciendo arbitraje, ¿no? Entre todas esas diferencias que decías. Pero bueno, acá retomando el tema, cuando se cierra, no no sé si la gente empezó a comprar al verlo más barato, yo me imagino que sí, o a vender
+
+[Speaker 1 - 00:41:41]
+por miedo. La gente que tenía dinero empezó a ocupar lo más barato y ahí ahí surge un mercado un mercado curioso porque es como que el precio del bitcoin afuera estaba a 900 y en MT Gocks estaba a 600. Entonces hay mucha gente que se asustó y dijo vendo mis dólares, mi bitcoin y MT Gox, ¿ya? Y lo vendo tanto. Entonces había gente que vendía su bitcoin por fuera. Digamos, usted vendía la cuenta de MT Gox y el que la compraba, la compraba pues con la esperanza de que se regularice y tú puedas, este, cuando se regularice ganes, cuando se se se se rearregle el precio ¿no? Mucha gente empezó a vender por fuera sus sus cuentas de antighosts con bitcoin a esos precios porque les preocupaba, pues, que que nunca fuera a mover su dinero, ¿no? Y ahí mucha gente hizo dinero de una forma muy peculiar. Mucha gente vendió su imagínate que tú tenías tu tu bitcoin a 900 y ves que hay problemas si lo vendes.
+
+[Speaker 1 - 00:42:48]
+Y el precio de MT Gox empieza a bajar cada vez más y llega un momento en que el precio de NT Gox eran 200 dólares y el precio fuera del bitcoin eran 900. Es decir, el el bitcoin de NT Gox perdía 20 por 100 que lo que venía el bitcoin afuera.
+
+[Speaker 0 - 00:43:09]
+Y en ese proceso no podía sacar lana, pero Podías tradear,
+
+[Speaker 1 - 00:43:14]
+y eso Madre, eso era, ahora que lo, desde ahora que lo veo, una vez que ya he salido de este proceso, era una gran oportunidad, y ahí yo perdí bitcoin de una forma muy, muy tonta. ¿Sí? ¿Cómo? ¿Por qué? ¿Por qué vendiste o qué? Claro, porque cuando yo veo, pues, que el precio de verdad se está yendo a pique y que no hay solución, digo, bulla, pero esto sigue bajando. ¿Por qué no vendo y compro más abajo? Y así duplico el bitcoin que tengo, y si se arregla, bueno, tengo el doble bitcoin. ¿Sí? Pero esta idea la tuve muy tarde, muy tarde, muy tarde. Me hubiera gustado vender en 800 y recomprara 200 y cuadriplicaba mi bitcoin. Y pasa que un día digo, ah, lo voy a hacer. ¿No? Y lo vendo, creo que estaba, cuando estaba en 100, porque dije, esto se va a 2 dólares. ¿No? Lo vendo en 100 y lo compra a 2 y hago por 25, aunque sea para ver si por la poca chance de que se recupere. Y me acuerdo que lo vendía 2 a 100, y ese día justo justo me dice, oye, vamos a la playa, me dice, me fui, y no estuve conectado.
+
+[Speaker 1 - 00:44:22]
+Regreso y como siempre me pasa, había rebotado en 100 y se había ido a 200.
+
+[Speaker 0 - 00:44:29]
+No, no me.
+
+[Speaker 1 - 00:44:31]
+De los Agarré los 400 dólares que tenía, porque yo tenía 4 bitcoin y recompíré, no, las huevas, pum. Y recompré 2 bitcoin. O sea, en vez de duplicar, pasé de 4 a 2. ¿Ya? Pero mucha gente, te estoy seguro que vendió en 800, lo recompró a 200 o a 100 y multiplicó su bitcoin por 8 en un par de en un mes.
+
+[Speaker 0 - 00:44:55]
+Pero Los menos, los menos, porque la gran mayoría pierde lana. ¿No? Pero también suerte, porque. ¿Qué pasó?
+
+[Speaker 1 - 00:45:02]
+Reccompré, vendí 4, compré 2, y a los 2 días sale la noticia que NT Gocks está muerto. Sale ya el el tipo a decir, nos han robado 850000 bitcoin. Nos han robado 850000 bitcoin con un hackeo y no sabemos cómo, no sabemos cómo, lo siento, chau, me voy. Y y imagínate, 850000 bitcoin. En ese entonces, bueno, era era menos dinero, al precio de hoy es como 23000 o 25000 o creo que 30000000000 de dólares en bitcoin. Y al el y para suerte, digamos, de de la gente que está en Tigox, este Tigox está basado en Japón, y Japón es un país muy estricto con las empresas. Entonces, a este tipo lo mandan a buscar por tierra y mar, y lo encuentran. Y después el tipo salió con una historia de que había encontrado, dice, una billetera que tenía una cold wallet, donde habían 200000 bitcoin que había encontrado. Entonces, ya solamente le faltaba recuperar 650000 bitcoin. Y empieza, pues, la búsqueda de dónde están los bitcoin, quién se los llevó, quién fue el hacker.
+
+[Speaker 1 - 00:46:03]
+Nunca se puede aclarar quién se robó, pues, los 650000 bitcoin y a dónde fueron. ¿No? Pero bueno, la gente que estamos en Antigox ya Todavía no se sabe. ¿No? O sea, de los de los de los de los de los de los de los de los de los de los de los de los de los de los de los de los de los de los de no podíamos entrar al site, ya el dinero para mí era dinero perdido. ¿No? Eran cerca de casi 4000 dólares en bitcoin que yo tenía ahí, porque había comprado 4. Al final me habían quedado 2, pero había comprado 4. Y y bueno, para mí fue como que listo, esto de las criptomonedas no es para mí, ya. Si si si me estafan en el exchange más grande y más seguro, ya este mundial ya es demasiado, ya ya ya no no hay seguridad. ¿Qué qué seguridad me das si en el exchange más seguro me acaban de robar? Entonces, no, no hay, para mí están muertas las criptomonedas. Y y una de las cosas que más me molestó de este MT Box, más que haber perdido el dinero, es que durante los siguientes 4 o 5 años, yo cuando escuchaba criptomonedas, ya estaba muy, este, desanimado o decepcionado, y es como que no me interesaba.
+
+[Speaker 1 - 00:47:14]
+Escuchaba que la criptomoneda me recordaba el dinero que había perdido, decía, no, no quiero saber nada de este tema. ¿No? Que si no me hubieran hackeado en MT Gocks, yo digo, yo hubiera seguido siendo un entusiasta desde el 2013 de las criptomonedas, y yo hubiera, me hubiera metido más de lleno a ese tema, y hubiera agarrado, pues, cada cada criptomoneda nueva que salía hubiera estado ahí y hubiera estado diligente viendo qué es, cómo es, y hubiera entrado a él ya muchas oportunidades que se me fueron, pues, simplemente por por esa por ese mal sazón que me quedó, ese ese finsabor. O sea, si yo hubiera estado, digamos, no hubiera perdido ese ánimo en las criptomonedas, yo hubiera seguido investigando, viendo y hubiera cogido, pues, Ethereum a un dólar o a 2 dólares cuando recién salió Ethereum. Yo he dicho, oye, qué maravilloso esta nueva criptomoneda que va a salir, y quizá me hubiera stockeado con 5000 dólares de Ethereum a 2 dólares,
+
+[Speaker 0 - 00:48:17]
+pero Sí, le hubieras entrado al ICO probablemente y
+
+[Speaker 1 - 00:48:21]
+fui early a muchas cosas, pero por este sinsabor que había tenido yo con las criptomonedas que me habían robado de Ntigox, me habían otros de change habían desaparecido, las páginas de minería se habían esfumado. Era como que te digo, el el el salvaje oeste. ¿No? Entonces, yo no quería saber nada de las criptomonedas y y no supe nada de las criptomonedas hasta que de repente el 2017 todo el mundo empezó a hablar de las criptomonedas de nuevo. Dije. ¿Qué pasó? A ver. ¿Qué ha pasado? Y me metí. Y ahí vi que había salido una moneda que era ethereum y que habían otras monedas y los ICO, y veo el bitcoin y 17000 dólares. ¿Qué vergas pasó? Digo, ¿qué pasó estos últimos 4 años que estuve ignorando esta mierda? Y me metí de lleno y ya, este, vi, pues, este, que que había explotado esto. ¿No?
+
+[Speaker 0 - 00:49:14]
+Que fue más o menos cuando muchas de las personas del póquer brincaron AAAAA Web3, o sea, 2016, 2017, que cuadra con las fechas cuando cerraron las páginas de póquer en línea y que se hubo todo un tema, ¿no? O sea, cómo lo lo lo lo eso te hizo regresar el volver a escuchar. Y ya no te ha salido, por lo que recuerdo, ¿o sí? Sí, ya ya no me salí. Desde ahí estoy perdiendo dinero en en en bitcoin, en criptomonedas,
+
+[Speaker 1 - 00:49:42]
+este, parejo todos los años.
+
+[Speaker 0 - 00:49:46]
+Por ahí recuerdo que le entramos a Vivi, a los MFPs de la aplicación esa, que le entramos a madres, unas madres de páginas de Internet con emojis, por ahí me me acuerdo del 2000. Entrado a todo, de ahí le hemos entrado a todo lo que se mueve, a los items margin, güey. ¿Te acuerdas de la época de Pucco, eh? A los NFTs.
+
+[Speaker 1 - 00:50:05]
+Le hemos entrado a a todo lo que nos promete un retorno rápido, pero pero sí, para mí esos años que perdí entre el 2015, 2014, 2015, 2016, de no meterme en las criptonadas por ese sinsabor del hackeo de MT Box, fueron cruciales. ¿No? Había había sido un Life change infore. A pesar de que mira, desde el 2014 yo recibo mi primer correo en japonés. Recibí un correo en japonés que es DMT Gocks, y el Japón estaba era el primero en japonés y abajo estaba traducido. Y decía algo como que el gobierno japonés había iniciado un proceso que se llamaba, en ese entonces, no me acuerdo cómo se llama, el rehabilitation trusty, y era como que el el se había hecho un grupo de acreedores de, digamos, un grupo de acreedores de bitcoin había, de de MT Gocks había denunciado, pues, al gobierno japonés que como podía haber pasado esto con una empresa de ellos, ¿no? Y se inicia y se había iniciado un proceso de rehabilitación. Y que todos los, este, los créditos de que habían tenido algo en MT Box estaban invitados a participar.
+
+[Speaker 1 - 00:51:11]
+¿No? Y entonces tenías que llevarnos formularios, pero bueno, o sea, se veía serio. ¿No? Y entonces yo empecé a llenar, pues, ¿qué me costaba? Empecé a llenar la información, decía tengo tanto bitcoin, tengo tanto esto, te decían cuánto dinero habías tenido, todo. Y te decían que a los 4 meses necesitaba otro correo, decía, se ha habilitado la página de Antibox, pero solo para loguear con tus credenciales y solamente vas a tener acceso a cuánto cuánto dinero tenías nada más. Y ese dinero lo tienes que poner en unos formularios que te vamos a mandar. Y y yo iba llenando, pues, los formularios. Cada vez que yo llevaba algo decía, te pedían documentos y todo. Y todos los años, cada 4 meses, enviaban notificaciones, documentos, segmentos que había que leer. Y yo, bueno, lo llenaba porque decía, bueno, no tengo esperanza, pero ¿qué pierdo? Y todos los años llenaba mis documentos, y cada 3 meses pasaban otro, y mandaban cuentas extensísimos, 40, 50 páginas de de cosas legales que había que leer, que se había creado un un Trust y que había una gerencia de ese Trust y que el Trust era una entidad que iba a tratar de recuperar el bitcoin.
+
+[Speaker 1 - 00:52:26]
+Acaperless ya lo habían metido preso y
+
+[Speaker 0 - 00:52:30]
+fui llenando y luego ¿Tenés comunicación con otras personas en ese
+
+[Speaker 1 - 00:52:35]
+durante ese proceso que estaban en ese mismo? Nadie. No, a nadie, a nadie, a nadie. Y recién el 2016 nos mandan, este, una lista que dice creo, estos son los créditos que han llenado el formulario. ¿No? Y me mandan, pues, un un PDF donde había más o menos, no sé me acuerdo, 4000 acreedores. Y yo estaba por orden analfabético y me busqué y ahí salía, pues. Los 2 bitcoin que yo había comprado en el último segundo y tantos, este, yenes japoneses que se habían convertido en de no sé qué cosa que habían decomisado. Y había, pues, ahí vi y tú veías, pues, el estado de cuenta, y había gente que tenía 1500 bitcoin, 1400, 870, 90, 3000, un montón, un montón de gente que había tenido ahí fortunas en bitcoin, y que en ese entonces, pues, el bitcoin estaba ya, creo que 1000 dólares, 1000 dólares, ¿no? Y era dinero, ¿no? Imagínate ahora a 66, hay gente que está va a recibir decenas de 1000000 de dólares. Pero bueno, el hasta el 2018 y de ahí mandaron otra comunicación que ya no iba a ser un proceso de rehabilitación civil o que ya no iba a ser un No, era un, primero era un proceso de bancarrota, porque la empresa se había declarado en bancarrota.
+
+[Speaker 1 - 00:53:43]
+Y luego dijeron que el proceso iba a cambiar, que ahora se iba se iba a llamar, este, este, una rehabilitación civil, tema legal. Yo no entendía nada. Yo realmente me llegaban documentos, los llenaba. Me enviaba, los llenaba. Me decía, hay que hacer esto, lo hacía. Y así mucha gente estuvo haciendo lo mismo, llenando papeles, papeles, papeles, pero y ya se crearon algunas comunidades de Telegram donde decían, oye. ¿Cuántos años vamos a seguir con esto? ¿No nos van a pagar o sí nos van a pagar? Porque decían, este, que el trusty estaba, pues, alargando el proceso, porque esta gente, este trusty que se creó, este, digamos, empresa para recuperar el bitcoin, tenía CEOs, tenía directores, tenía eran empresas. Y estas empresas mandaban a veces, este, estados de cuenta y decían, bueno, se han vendido tantos bitcoin, se han vendido tantos Bitcoins para pagar las cuentas. ¿No? Estas empresas cobraban salario de del bitcoin recuperado, decía, se vendieron, pues, este, 1000 Bitcoins para tener tanto dinero para pagar la planilla de la empresa.
+
+[Speaker 1 - 00:54:46]
+Decía, bueno, decían, esta gente le va a alargar 30 años porque quiere vivir de lo que siguen vendiendo.
+
+[Speaker 0 - 00:54:54]
+Me imagino que 1000000 y 1000000 de dólares. ¿No? Manualmente.
+
+[Speaker 1 - 00:54:58]
+Y en algún momento dijeron incluso que que el hicieron un corte para hacer un cálculo, porque tenían que hacer un corte el 2018, cuando vuelve un proceso de rehabilitación civil, cortan el precio del bitcoin al precio de ese aumento, que era 8000 dólares, y con eso hacen todos los cálculos de la rehabilitación. Y cuando el bitcoin empieza ir a 20, 30, dicen, oye, pero el bitcoin vale 30 30000 ahora, y han hecho el corte en 8000, ya no se podía ir para atrás. No sé qué cálculos se hicieron para pagarse y todo. La cosa es que del 2018, 2019, luego viene pandemia y el 2000 veintiuno sale una resolución ya, porque, como te digo, cada cada comunicado que mandaban cada 6 meses era, no, que el proceso ahora está entrando en esta etapa, que se han enviado los papeles, que los papeles se han rechazado y han regresado a la Corte tantito y la Corte tantito va a dar su resolución de acá a 4 meses, como son los procesos legales normalmente, ¿no? Alargan se alargan infinitamente.
+
+[Speaker 1 - 00:55:59]
+Y el 2000 veintiuno dijeron que ya había un acuerdo, que se iba a pagar, pero que el bitcoin que se había recuperado solamente era un porcentaje de lo que se habían robado. Entonces, había que le daban a la oportunidad a los creditors de 2 opciones de pago. Una era el el early sump, que es, este, pago. Una era el el early sump, que es, este, te podemos pagar el 23 por 100 de bitcoin que tenías en un solo pago. ¿Sí? O si, y eso va a ser lo más inmediato. Y tu otra opción es es puedes recibir un poco más de bitcoin, se te paga menos al inicio, pero si el thrusty en todos los años que sigue ahora llega a encontrar, recuperar más bitcoin del que se robaron, tú vas a recibir un poco más de dinero. Pero no sabemos cuánto más es, pero sí va a demorar unos, puede que demore unos 3, 4 años más o o lo que se alargue el proceso. Según lo según los estados que han pasado, el 80 por 100 de los acreedores eligió el el earlysom, o sea, el pago inmediato de por lo menos 23 por 100 de bitcoin que tenían, este, en ese en ese momento en el exchange.
+
+[Speaker 1 - 00:57:03]
+Oye, en sentido, era era bitcoin que esta gente había comprado de repente a un dólar y ahora valía 66000, ¿no? Que no importa, dame el 23 por 100, Luz, vale ahora 1000 veces más, no me importa. Pero te la iban a dar en bitcoin. Curiosamente, la la rehabilitación se dio, los que tenían cash en dólares se le daba exactamente la cantidad de dólares convertido AAA yenes japoneses, y no sé por qué, por alguna razón, cuando recuperaron el dinero de bitcoin, parte de ese bitcoin había sido convertido a bitcoin cash, una moneda que nadie usa y nadie conoce, se llama bitcoin cash. Entonces, no sé por qué dijeron, se va a recibir una parte en bitcoin y otra parte en bitcoin cash, pero la parte de bitcoin cash era simbólica, más o menos unos 400 de dólares. ¿No? Pero la gente que tenía bitcoin recibe bitcoin, y la gente que tenía bitcoin recibe bitcoin, y la gente que tiene dólares reciben yenes. No te puede ser por el fork, en ese momento hubo un fork, no me acuerdo qué fue.
+
+[Speaker 1 - 00:58:04]
+El fork por ahí. Pero por eso a mí me han dado una cantidad chiquita en bitcoin cash, ¿no? Tú escogiste desde el 2000 veintiuno nos dijeron ya les vamos a pagar.
+
+[Speaker 0 - 00:58:16]
+Ok. Pero
+
+[Speaker 1 - 00:58:17]
+todavía no ¿Tú qué escogiste? Yo escogí el pago inmediato, obviamente. Ya, ok. Inmediato. Ya, dale. Pero dijo, bueno, decidieron que iban a pagar. Ahora ahora vamos a ver cómo se va a pagar. 2 años de idas y vueltas, renegociaciones, que no, que paguemos así, que paguemos a SaaS, que mejor así, como a SaaS, porque imagínate, estás hablando de pagarle a 20000 personas distribuidas en todo el mundo. ¿Cómo les pagas? Entonces, después de años de estar también deliberando cómo se va a pagar y estar en negociaciones, decidieron, pues, vamos a pagar a través de exchanges, este, conocidos. ¿No? Que tengan procesos de verificación fuertes. ¿No? Y que tengan legislaciones fuertes. Es por eso que 1 de los, este, de los exchanges escogidos para recibir este bitcoin de antigüos ha sido Bitstamp 1, y el otro ha sido Kraken, que es un un exchanges europeo que está, pues, bajo la legislación europea y esto no es es más seguro. ¿No? Entonces, a los a los acreedores los invitaron a elegir en dónde querían recibir y crearse cuentas ahí y pasar los procesos de KIOC hasta un nivel más o menos medio de de seguridad, ¿no?
+
+[Speaker 1 - 00:59:23]
+Presentar documentos para que sepa quién eres, ¿no? Porque el bitcoin se tenía que pagar con nombre y apellido, no podía ser anónimo, ¿no? Es más, cuando 1 llenaba la información para este proceso de rehabilitación, tenías que llenar tu información, o sea, no no se pagaba nadie anónimo, ¿no? Tenías que Sí, recuerdo que fue un tema, ¿no? Que
+
+[Speaker 0 - 00:59:45]
+se discutió que había que boxearse y que mucha gente no quería lo acabaron haciendo.
+
+[Speaker 1 - 00:59:50]
+Había que boxearse. Y mucha gente, incluso hubo hubo un market interesante de claims. Hubieron muchas firmas legales importantes que lo que hacían es ofrecerte dinero por tu claim. Es decir, este, como era un proceso legal formal en Japón, te compraban el claim, decía tú tienes un claim por, no sé, pues tantos 100 de 1000 de dólares, yo te compro el claim ahorita y te doy 200000. ¿No? Y yo sigo el claim, ya el claim es mío. Y mucha gente vendió su claim. ¿No? AAA porcentajes menores para que esas empresas, negocios de abogados o o incluso eran, este, empresas de capital que manejaban criptomonedas, compraron varios claims de de acreedores de de MT Gox y llevaron los procesos. ¿No? Mucha gente lo vendió y incluso son 10 años de proceso. Hay mucha gente que en este, sobre todo con una pandemia de por medio, se estima que más o menos 8 por 100 de los acreedores de MT GoX fallecieron, o sea, ya no están con nosotros, ya su bitcoin queda en el olvido. No sé si si si si la el Klein se heredó, el el el heredero va a tener que sustentar que el acreedor murió, ¿no?
+
+[Speaker 1 - 01:00:55]
+O sea, iniciar otro proceso legal para cobrar esa herencia, ¿no? Porque son 10 años, una pandemia de por medio. Mucha gente murió sin sin sin ver ese bitcoin. Y mucha gente pensaba que iba a morir sin ver ese bitcoin y por eso vendió su claim.
+
+[Speaker 0 - 01:01:12]
+No, es que cómo cómo holdeas ese proceso, o sea, entiendo el que haya decidido en cualquier momento del proceso tener liquidez, no sé, está cabrón, güey. ¿Tú aguantaste cuántos años, 10 años?
+
+[Speaker 1 - 01:01:26]
+Sí, porque realmente, o sea, yo no tenía tanto, estamos hablando de 2 bitcoin, entonces no era mucho dinero, pero había gente que sí tenía mucho dinero y tenía, pues, mucha presión de vender. Es como que viene alguien y te dice, mira, tú tienes estas criptomonedas acá, pero de repente no vas a ver tu dinero en 6 años. Yo te doy ahorita 400000 dólares por tu claim. Tú dices 400000 dices 400000 ahora o posiblemente un poco el doble o el triple en quién sabe cuántos años? ¿No? Y y mucha gente lo vendía.
+
+[Speaker 0 - 01:01:57]
+No, sí, claro, me imagino el el el el, o sea, como tú decías, ¿no? Haber minado o haber recuperado 100 de Bitcoins por tener una semana la página prendida, tu pinche laptop en un fin de semana, que eso valga ya 6000000 de dólares y que te ofrezcan 1, o sea, pota.
+
+[Speaker 1 - 01:02:17]
+Sí. Sí, el dinero. Y bueno, pues ahora este año ya dijeron, pues, este, vamos a vamos a empezar ya a distribuir el dinero el 2024.
+
+[Speaker 0 - 01:02:27]
+Pero para esos 80 por 100 que decidieron para que el pago se fuera inmediato. Apenas les están pagando.
+
+[Speaker 1 - 01:02:34]
+No sé, claro. A los que dijeron que el pago era inmediato, nos han empezado a pagar a partir de marzo, y recién ahora en julio, recién me llegó un correo que ya iban a a pasar los bitcoin. Bueno, el el 20 por 100 de los bitcoin que tenía a a cracking. ¿No? Porque solamente, acuérdate que solamente a la gente le iban a pagar el 20, 23 por 100 del bitcoin que tenía, porque no se había recuperado. Hay 650000 Bitcoins que nunca pudieron recuperarse. Pero bueno, para mí era dinero que yo ya tenía perdido hace años. ¿No? Y con la esperanza de cada 6 meses o cada 3 meses de ir a unos papeles. Y bueno, ahora se materializó 11 10 10 casi 11 años después. ¿Y a ti cómo te fue entonces con esos 2? O sea, ¿tú cuánto le habías invertido? Por ahí Bueno, son 100, 200. Yo, como te digo, yo esos 2 eran 4, que por malas decisiones de un día se dividieron en 2. Si no había tomado esa decisión, hoy día tendría el doble bitcoin.
+
+[Speaker 1 - 01:03:35]
+Pero bueno, y mi inversión había sido, pues, 3000, casi menos de 4000 dólares por esos bitcoin. ¿No? Que había comprado el 2013 cuando ya estaba un poco alto. Mucho bitcoin se había perdido en el change, y ahora, pues, me han pagado solamente menos de medio bitcoin, pero es como que abrí la cuenta y de pronto de 0 pasó a a 28000 dólares, dije, bueno, lo tomo. A 0 acepto estos humildes, 28000 dólares por estos 10 años de espera.
+
+[Speaker 0 - 01:04:06]
+Peor en nada, peor en nada, neta.
+
+[Speaker 1 - 01:04:09]
+Sí, hay hay gente hay gente que dice, este, abrí la cuenta y hay un grupo de Telegram de de creators y dice abrí la cuenta y habían 500000 dólares y he tenido que ir a la clínica porque tenía un un ligero paro, un ligero paro y un ataque de ansiedad.
+
+[Speaker 0 - 01:04:33]
+No, pero pues qué chido, ¿no? O sea, después de todo ese proceso y años se espera y también de de de de mucho ruido, ¿no? De de de todo lo que ocasiona que se muevan las carteras de estos grandes ballenas o del trusty, y que se sepa que van a llegar a los usuarios y que muy probablemente vendan. ¿No? Por porque compraron en centavos, entonces todo eso afecta y todo mundo está al pendiente de de la historia de la situación y de cómo están depositando.
+
+[Speaker 1 - 01:04:59]
+O sea, yo no, ahí ahí yo te paso un PDF más o menos cuál es el sentimiento de del market de muchos acreedores, pero el el que menos va a vender algo de bitcoin. ¿No? Porque como te digo, es es dinero que han esperado tanto tiempo, que el que menos va a vender un par de bitcoin de los 20, 30 que puedan recibir para tener pues un un dinero que han esperado tanto tiempo, ¿no? Y muchos quizá lo pierdan, ¿no? Lo pongan 10 x loan todo para hacer más porque, bueno, así es la mente humana, ¿no?
+
+[Speaker 0 - 01:05:33]
+Lo van a meter en alguna check coin de Solana y se les va a ir todo. ¿Así es la vida? Ni modo.
+
+[Speaker 1 - 01:05:38]
+Sí. Van a comprar bitcoins.
+
+[Speaker 0 - 01:05:42]
+Oye, no, pues qué chingón van a meter todo a Pepe. Que por cierto, muchas por ahí han estado haciendo máximos históricos, este mercado está muy loco. Tengan cuidado las shedcoins, creo que Pero, por eso me toca muy loco.
+
+[Speaker 1 - 01:05:56]
+Es real y este año, después de tantos años de promesas, de promesas, de promesas, este año sí, sí lo van a pagar, sí lo están pagando. No se sabe cuánto mueva el mercado. ¿No? Porque, como te digo, hay acreedores muy grandes y no se sabe si estos acreedores grandes van a cobrar o no, porque pueden haber elegido el pago rápido, pueden haber elegido el pago largo. ¿Sí? O incluso, muchos acreedores, como te digo, yo he llenado 10 años de documentos. Si tú te dejabas de llenar un documento, no podías llenarlo después, porque todos los documentos, hacer un proceso legal, todos los documentos tenían un deadline. Te pasaban un documento y decías, este documento se tiene que llenar antes del tanto de julio a esta hora. Y si se te pasaba el deadline, ya cerró el proceso, ya se enviaron los documentos a la corte. Anda, ve, tú llama a Japón a ver cómo puedes tú enmendar eso. Y eso es lo que me pasó a mí en en parte de mi claim. Felizmente, me olvidé de llenar un documento, porque mi claim se separó en bitcoin y en en una parte que había en cash, porque había un pago que era en cash, de unos 3000 dólares, creo.
+
+[Speaker 1 - 01:07:05]
+Y había que mandar unos documentos de cash con los números de cuenta, el Swift, esto para llenar, y se me pasó el deadline y no llené el documento de cash y cuando entro a la página me sale que ese ese ese claim está fuera de fuera de fecha y que ya no lo puedo notificar hasta cuando se abra a futuro después de que pase el proceso de este distribución. O sea, por no mandar ese papel a tiempo, ahora posiblemente tenga que hacer, esperar 2 años más, reiniciar el trámite y pasarme un año más llenando documento para recuperar esos 3000 dólares que se quedaron ahí. Pero hay mucha gente a la que se le pasó llenar, este, los papeles y no van a recibir bitcoin hasta un par de años más que puedan regularizar su situación. Entonces, hay acreedores de todo tipo, hay los que se murieron, los que no llenaron los documentos, los que se metieron al exchange pero no verificaron la cuenta, hay hay de todo.
+
+[Speaker 0 - 01:08:05]
+No, me imagino no, no, no, no, ni idea, ¿no? Todo lo que podría llegar a estar sucediendo por ahí, cuándo les irán a pagar los que escogieron el pago largo,
+
+[Speaker 1 - 01:08:15]
+pero bueno Hay hay acreedores que no confiaron en el trasti y tenían tanto bitcoin que se mudaron a Japón a hacer su denuncia allá. Hay muchos casos de esos, no confiaron en el traste y apenas los estafaron se fueron a Japón a hacerles lío ahí a a esto, se mudaron allá a seguir el proceso allá. No sé si se habrán quedado a los 10 años o no, pero sí, hay de todo. Pero de que este año se está pagando a los créditos de NT GoX, porque hay por ahí, hay muchos YouTubers que dicen no, que esto de NT GoX lo repiten todos los años y este bitcoin nunca llega, este año sí está llegando, sí está llegando y puede haber un impacto en el mercado, ¿no? Hay varios papapers ahí, les pasa 1 AAAA Morris sobre unos analistas que miden el sentimiento del mercado y predicen si subió o si baja, basado en cuánta gente de MT Gos venda o no venda, etcétera, etcétera. Es un análisis interesante para que le quieras saber un poco más si realmente estos pagos van a impactar o no en el precio, ¿no? Definitivamente pagas, paga.
+
+[Speaker 1 - 01:09:16]
+Definitivamente
+
+[Speaker 0 - 01:09:18]
+eso va a afectar. Ojalá muchos de esas personas que hicieron 1000 y 1000000 empiecen a invertir en proyectos, ¿no? También, ¿por qué no? Este, ojalá ojalá también por ahí nos caiga caiga alguienito de esa liquidez en en en todo lo que estamos cada 1 de nosotros moviendo. Pero estoy seguro que, pues, hay mucho que contar todavía. Muchos años donde se va a seguir distribuyendo esta lana. Pero la neta, es es una plática que quería tener contigo desde hace un buen rato. Y ahorita que te pagaron ya, y que por fin puedes decir todo ese trabajo de estar llenando papeles y estar al pendiente, y y también de que nos ibas contando, ¿no? El proceso de cómo los estabas experimentando, fue muy loco. Ojalá lo hayas disfrutado acá la banda que está conectada. La neta, qué chida historia y pues qué chido que por fin te te tocó ahí alguito de eso que se robaron en ese entonces, como.
+
+[Speaker 1 - 01:10:11]
+Pues sí, ahora ojalá que no hackeen cracken porque ahí sí sería ya muy triste. ¿No lo puedes sacar o ya lo puedes sacar? ¿Unas arbolless? Este En cracken, en cracken sí, pero hoy estuve leyendo que a la gente que le han pagado en Bitstamp le han congelado el el dinero, que no lo pueden ni sacar ni ni tradear. Les han dicho que por lo menos por una semana. Me imagino que quieren controlar, pues, este, que la gente no llegue apenas el dinero y empiece a a vender a lo loco y ellos pierdan liquidez. Entonces, les han dicho que les van a depositar, pero que eso por una semana les van a prohibir moverlo. ¿No? Para que, me imagino que quieren hacer un timing así también los los el chain. ¿No? Porque no les conviene que les llegue un montón de bitcoin y la gente empiece a hacer withdraw, withdraw, withdraw, withdraw y les quiten liquidez a ellos. Entonces BitStawn ha dicho que no los va a dejar tradear ni vender en una semana. Y así están renegando. Pero bueno, están tranquilos porque ya por lo menos ven que que su bitcoin
+
+[Speaker 0 - 01:11:08]
+está ahí, ¿no? Mínimo está ahí en la cuenta. Cosa que no tenían después de 10 años. Ni la certeza de que les iba a llegar. Oye, no, pues, Guille, muchísimas gracias. La neta, la neta, muy chingona la historia.
+
+[Speaker 1 - 01:11:22]
+Ojalá, ojalá recuperen más. Entiendo que tú todavía tienes un claim, si llegan a recuperar más o no, ¿o ya no? Tengo ese claim que te digo que me olvidé llenar los papeles y que ahí era un claim de unos 1000 de dólares que me tenían que dar, porque era una parte una parte me la daban en cash, y esa parte me me se me fue el deadline, no llené el documento, pero bitcoin ya no ya no me van a dar más, solo me van a dar esos esos 1000 de dólares que me quedaron ahí, de cuántos años acá hasta que me dejen llenar de nuevo los papeles. Pero, bueno, ahora, por lo menos, este, a mí me llegó, como te digo, o sea, yo no tenía bitcoin ahorita y, bueno, ahora ya tengo bitcoin para para perderlo en el trading.
+
+[Speaker 0 - 01:12:01]
+Ya no seguirás contando más adelante dónde lo metiste, ojalá lo puedas multiplicar y, si no, pues, bueno, mínimo mínimo te vas a divertir un rato.
+
+[Speaker 1 - 01:12:09]
+Dale. Muchas gracias por el por el espacio, Morris.
+
+[Speaker 0 - 01:12:13]
+No, muchísimas gracias por estar por acá. De todas maneras, ahí luego, si te llegan a a cumplir eso, si hay más noticias de de de de de de Maule House, ahí luego venimos y platicamos, pero muchas gracias por estar por aquí. También para saltar la invitación así a quemarropa, este, pero sí es una plática que voy a tener y y veo mucha gente por acá conectada que estoy seguro que le ha de haber gustado la historia y cualquier cosa pues ahí están los días, ¿no? La información que me mande por ahí, el buen Guille, se las comparto con el análisis de mercado de acuerdo AAA toda esa lana que se va a estar distribuyendo, creo que es interesante verla. Y sí, definitivamente ahora que estamos viendo cómo estas instituciones enormes están entrando, seguro van a aprovechar todas esas oportunidades de comprar y de seguir manipulando el mercado como les encanta, pero bueno. Voy a aventarme los anuncios parroquiales que normalmente me aviento y cerramos. Muchísimas gracias de nuevo a todos los que están conectados.
+
+[Speaker 0 - 01:13:14]
+Esta fue una plática con el buen Guille, nos estuvo contando de su historia como gamer y luego de cómo pasamos, este, o nos conocimos por ahí cuando estuvimos en en en la comunidad de de de los que armamos jugada y jugábamos en línea póquer. Luego platicó sobre su entrada web 3. Hablamos un poquito de Silk Road, terminamos hablando de Maug Gogh y de toda la experiencia a lo largo de estos últimos 10 años para que pueda celebrar. Muchísimas gracias de nuevo. Gracias por estar por aquí. Saludos a Yis, a Bauglier, a Cande, a Diana, a Superama, Natalia. Superama, te busco. Hay que ver qué vamos a hacer por allá en Ciudad de México. Yo creo que llegó el domingo. Y para los que estén por allá este fin de semana, hay un evento el martes de Ordinals en Ciudad de México, si quieren ir. Creo que todavía podemos conseguir 1 o 2, este, mándenme un día. Va a estar muy bueno, voy a andar por allá con Wen, con Felipe, con Elian, con la banda de de Gama, con los artistas también que van a lanzar colecciones. Creo que son 10 artistas que van a lanzar 10 cada 1.
+
+[Speaker 0 - 01:14:17]
+Por ahí está Oliver, que lo veo por aquí, participando. Está Superman participando. Está Ananá participando, está Karen Medina, está Lu Ambriz, está Yu Zapata, está Juda Saca, colombianos, está Luco también de Colombia. Ya ni me acuerdo cuáles son los 10, pero van a lanzar 10 de Ordinals, 10 ediciones cada 1 de estos 10 artistas. En total son 100 Ordinals los que van a estar vendiendo. Yo por ahí ya tengo ojo a varios de ellos y voy a estar muy contento de irlos coleccionando. Hoy acá en Monterrey tenemos a items gaming, por aquí los veo. Muchísimas gracias items por la plática del día de hoy. Nos van a estar contando de gaming en Web3. Vamos a estar transmitiendo en vivo de desde MX Web3 ahí en la Plaza Regia. Empezamos a las 8 la transmisión aquí por esta cuenta. Por ahí les pongo el video y me ayudan con comentarios, con el tweet, todo suma. La próxima semana, el jueves, estamos viendo el tema todavía. Yo no voy a poder estar, entonces estamos viendo la agenda, pero, pues bueno, ahí le estaremos platicando.
+
+[Speaker 0 - 01:15:18]
+Y los espero por allá el martes en Ordinals. Ordinals Latam, Ciudad de México. Wet todavía creo que tiene boletos. Por ahí voy a estar coleccionando a los artistas de los latinos que están sacando su colección. Es todo, nos vemos al rato, nos voy a rogar. Hasta luego, hasta luego. Bye.

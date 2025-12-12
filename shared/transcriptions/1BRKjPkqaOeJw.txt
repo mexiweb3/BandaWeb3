@@ -1,0 +1,492 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #20240222
+Título: banda web3 - taller el método con @solencontraluz
+Fecha: 2024-02-22
+Host: BandaWeb3
+Tipo: hosted
+
+Descripción:
+Hosted Space: banda web3 - taller el método con @solencontraluz
+
+Duración: 01:30:14
+Escuchas: 78
+Speakers: 6
+
+Links:
+  Space: https://x.com/i/spaces/1BRKjPkqaOeJw
+  Dashboard: https://spacesdashboard.com/space/1BRKjPkqaOeJw/banda-web3-taller-el-metodo-con-at-solencontraluz
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+
+[Speaker 0 - 00:00:00]
+Y
+
+[Speaker 1 - 00:00:03]
+bien, bien, anda Cómo andan el día de hoy Buenos días, buenas tardes, buenas noches depende de dónde nos estén escuchando el día de hoy estamos transmitiendo acá desde Monterrey y la verdad está muy padre lo que les vamos a contar hoy hemos estado yo en lo personal he estado viendo cómo crece cómo nace porque en realidad creo que esto es este de lo primero que que que se va a empezar a ver como un esfuerzo coordinado para atraer músicos a la web 3 y está empezando con el primer taller que se está impartiendo en México sobre música web 3 hecho por sol 7 una artista argentina una amiga mía que me ha tocado conocer últimamente en las últimas semanas y qué loca historia y qué increíble su trayectoria, Qué padre lo que está haciendo por el mundo.
+
+[Speaker 1 - 00:01:30]
+Y pues bueno ahorita está en un tour. Empezó el tour acá en Monterrey, va a ir a Puerto Escondido, se va a ir a Ciudad de México. Va a estar paseando y dando pláticas, dando charlas informativas enseñándole a la gente a través de el arte de su música, cómo puede llegar a monetizar y cómo puede llegar a tener una carrera sustentable para los músicos independientes ahorita, pues es complicado y ella explica todo ese proceso durante su taller y la verdad, pues ya llevamos la mitad del taller, hemos hecho, la hemos dado 2 clases y ha estado increíble porque pues bueno, hay al menos unos 6 7 músicos nuevos completamente a la web 3 que han estado.
+
+[Speaker 1 - 00:02:45]
+Pues, pues muy al pendiente de lo que les hemos tratado de enseñar y haciendo preguntas súper interesantes y la verdad muy muy chido ahorita les vamos a platicar un poquito más, pero por lo pronto mientras hago invitaciones y me traigo a toda la bandita les voy a poner aquí una cancioncita. Esto es justamente. Una persona también que por aquí no conocía su arte y que últimamente lo he estado escuchando mucho porque sol la pone mucho y esto es look at me de nena 1992. GMGM, ¿cómo andan el día de hoy? Bienvenidos, bienvenidos.
+
+[Speaker 1 - 00:03:46]
+Estamos por aquí, perdón, aquí me trató de entrar una llamada, empezando con un par de cancioncitas. Esto fue Look at Me, de Nena, 190992, y esta es Nena 1992, Sinse ninete two, terminando esta cancioncita nuevamente. Bienvenidos, bienvenidos fueron los que se están conectando por aquí. Gracias a los que ya le dieron like y retweet a la sala. Vamos a invitar acá arriba a Sol. Voy a piñar acá arriba las canciones que la verdad, como les platiqué al inicio, y para los que se van conectando, les repito que, pues, he estado escuchando mucha música nueva, ahora con con con con mucha ayuda de Sol, porque, pues, bueno, ya trae todo una experiencia y un con una historia diferente y obviamente venir de Argentina y conocer todo el costal musical de por allá.
+
+[Speaker 1 - 00:05:13]
+Pues me está presentando un chorro de grupos, un chorro de bandas. Por ahí que luego que les puse fue Nena 1992, Lucked Me, y luego escuchamos Vamos a subir aquí a Sol y la invitamos a platicar. Pero bueno, les vamos a contar de todo lo que está pasando en el en el, creo yo, este, porque la verdad me puse a investigar y no encontré nada todavía, pero el primer la primer semillita de de de de un proyecto y de una idea que puede llegar a ser algo muy grande acá en Monterrey, porque, pues bueno, poco a poco, y empezando con el curso que está impartiendo solo esta semana acá en Monterrey, creo que vamos a empezar a ver mucho movimiento en el ecosistema de música web 3, pero de artistas de Monterrey.
+
+[Speaker 1 - 00:06:35]
+La verdad, creo que hay muchos muchos alumnos de los que están por ahí inscritos muy muy listos y están aprendiendo mucho y creo que vamos a escuchar muchas cosas padres de ellos y que las van a estar tokenizando próximamente. Muchas cosas padres de ellos y que las van a estar tokenizando próximamente. Y pues bueno, pronto pronto habrán noticias porque ya llevamos la mitad del curso, llevamos ya 2 clases, empezamos este lunes. El lunes estuvimos por ahí comenzando con una plática básica, Sol, creo que empieza muy muy muy muy bien el tema.
+
+[Speaker 1 - 00:07:37]
+Finalmente, el mercado que estamos atacando y que queremos que sea el que utilice y que aprenda en el curso, pues son músicos independientes, pero que no tienen ni idea de lo que está sucediendo en el que se llama web 3. Entonces tenemos que empezar de 0, de 0, ¿no? El el el el punto con los músicos es empezar de 0. Y hablarles desde el punto de vista de alguien que tiene experiencia en el ecosistema, de alguien que ya tiene, pues, años haciendo tokens y mintiendo tokens, vendiendo tokens, enseñándole a otras gentes a tokenizar su arte.
+
+[Speaker 1 - 00:08:40]
+Y qué mejor que que que que pues que SOL, ¿no? Para impartir ese curso, la verdad, increíble. Porque la la la gente se identifica bien cañón con ella. Yo veo cómo la voltean a ver, cómo le preguntan, cómo se acercan. Ayer, por ejemplo, estábamos viendo un par de videos y les explicábamos todo el detalle, ¿no? Este, ya ya ya ya estamos en una fase un poquito más avanzada, ya les pudimos explicar de Ethereum, de la CL 2, de Optimisson, de Sora, de etcétera. O sea, ya ya ya más o menos, este, de una manera también no tan abstracta, ¿no?
+
+[Speaker 1 - 00:09:42]
+Un poquito entendible, estos conceptos. Y creo que creo que solo hace una chamba enorme. Y luego les pusimos los videos, ¿no? Y ya les les platicábamos, no, pues este video solo salió de una manera, y este otro salió de esta otra, y este tiene este precio, y son una edición abierta, y este es nada más 1, ¿no? Y es un, ¿y por qué? Y que no sé qué, y las dudas y las preguntas. Y todo ese back and four y todo ese esa conversación creo que ha sido súper súper enriquecedora para ellos y para mí también, para darme cuenta de maneras de traer nuevas personas, ¿no?
+
+[Speaker 1 - 00:10:46]
+Porque finalmente esa retro de esas personas que vienen totalmente nuevas y de de de de en las primeras 2 3 horas están aprendiendo sobre esas tecnologías, todo eso que te preguntan para mí es valiosísimo porque me ayuda mucho en la planeación de futuros cursos, ¿no? Y también en en en en el cómo invitar a las a la siguiente generación de músicos para este otro curso. Porque también en eso estamos aprendiendo un short. Pero ya no quisiera seguir con mi run. Quisiera venir a Sol, Comando Sol. Gracias por estar por acá en Monterrey de nuevo.
+
+[Speaker 1 - 00:11:49]
+Ya tenemos, no sé, ya casi un mes o un poquito menos de un mes de de estar conviviendo y la verdad increíble poder colaborar contigo. Bienvenida.
+
+[Speaker 2 - 00:12:14]
+Ya estamos todos los días, ¿no? Ya es convivencia, tú. Convivencia directamente.
+
+[Speaker 1 - 00:12:20]
+Sí, le digo, le digo a todo el que que ya ya es parte de la familia, ya conoce a mis papás, ya conoce a mi hermano, a mis sobrinas, a mis hijos, a mi esposo. Sí, no, no, ya, ya es parte de la familia, ya la quieren adoptar acá en Monterrey.
+
+[Speaker 2 - 00:12:32]
+¿Me quieren adoptar? Me dicen que me van a secuestrar entre él y Ale Ramos, ya están haciendo ahí un plan para secuestrarme, pero bueno, todavía sigo acá firme y fuerte de mi posición. Nada, mentira, no, no sé, no sé. Tengo tengo mucho que pensar. Pero bueno, sí, me gustó mucho el curso, la verdad que está siendo increíble la experiencia general. Siento que hace mucho que que no sentía como como esta adrenalina de verlos en persona porque o sea mi mi último curso que di en persona fue en octubre del año pasado entonces normalmente los doy online porque son personas que están en toda Latinoamérica y quieren aprender y no son solo de Argentina entonces es más fácil online. Y bueno estuvo muy bueno conocer a los músicos de acá de México, ver cómo son, qué les gusta, qué dudas tienen. Son muy diferentes las personas de México con las de Argentina con respecto al aprendizaje, a las dudas y todo esto es como que muy muy diferentes, muy muy diferentes.
+
+[Speaker 2 - 00:13:36]
+Y está bueno aprender lo de ellos también. Está bueno conocer gente talentosa que quiere salir adelante a través de la tecnología. Así que bueno, una gran oportunidad para para para un bordear gente nueva en el ecosistema que trae toda la parte creativa, las ideas, la música. Música que ustedes van a usar en sus próximos lo que sea que hagan. Serán sus invitados, si tienen un espacio de sobre arte serán las personas que hagan las canciones and the man para una Gitcoin que ustedes fundaron lo que sea. Entonces bueno nada, y los músicos para los eventos de cripto también ¿no? O sea que estos músicos puedan vender sus obras y bueno también hay muchas utilidades por ahí. Pero por sobre todas las cosas que van a bordear a sus fans y los van a traer a web 3 que eso a nosotros nos va a dar un poco más de de liquidez, nos va a dar actividad, nos va a dar muchas cosas. Así que bueno en eso. Necesitamos
+
+[Speaker 1 - 00:14:38]
+Exit Liquidity y necesitamos más gente en este Ponzi. Entonces, este, los músicos son son en en la vida perfecta, ¿no? ¿Qué opinas?
+
+[Speaker 2 - 00:14:48]
+Sí, hay que atraer gente a este Ponzi ya.
+
+[Speaker 1 - 00:14:54]
+No, es broma pero sí, sí es serio. No somos un culto definitivamente. No somos un culto, aunque parecemos de repente. Pero la verdad es que está ha estado muy padre, muy chido conocer a gente nueva que, pues, no sabía absolutamente nada del ecosistema. Ayer muchos empezaron con con con un wallet, ¿no? Este, y estábamos en esa plática Sol y yo de cuál wallet involucramos, ¿no? ¿Cuál me metemos? ¿Más que si meta? ¿Más que si no? ¿Es que? Bueno, finalmente decidimos Rainbow. Para los artistas fue muy sencilla la experiencia. Teníamos por ahí una dinámica donde, bueno, respalda tus palabras en mí y bla bla bla. Rainbow ya tiene la opción de que tú puedas respaldar esa clave encriptada en el en el Google Drive o en el iCloud. Híjole, este, está bien, está bien, pero bueno, hablamos de seguridad, ¿no? YYY yo usaría a lo mejor wallet de ese tipo donde estás respaldando esas palabras mías con muy poquito dinero, no unas hot wallets así con con con dinero para que traigas en el bolsillo, como que traigas en la cartera, no sé, 120, 30, 40 pesos, depende de lo que tú te, 100 dólares, no sé.
+
+[Speaker 1 - 00:16:00]
+Pero, este, ya vales con con mucho mayor, mucho más dinero, pues bueno, ya son iguales frías, ¿no? Iré Solo Sol habló de las Aguascalientes, de las cuales frías, este, digo, también tampoco podemos meternos tan tan profundamente en la parte técnica, Pero pues creo que estuvo excelente la experiencia, ¿no? Ayer se fueron hasta con un StyS, se llevaron 2 StyS cada 1 de los miembros ahí de de de la primera generación.
+
+[Speaker 2 - 00:16:27]
+Sí, sí, sí. Esta generación de músicos pinta buena. O sea siento que que aprenden muy rápido, que son muy inteligentes, las preguntas que hacen son súper smart también, así que está buenísimo que que los chicos puedan aprender un poco de tecnología porque aparte es como que sabés lo que siento también, es como que los artistas en general es como que con la tecnología muchos de ellos tienen como una cosa así medio old school de que la tecnología parece que en vez de ayudarles los va los va a perjudicar y al revés. O sea, justamente esta es una tecnología que, o sea, es una oportunidad para que ellos empiecen de nuevo una nueva historia, ¿no? Una nueva industria, una nueva, nuevos valores, nuevo todo. Y y hay gente que de repente no usa mucho la tecnología, que de repente viene a mi curso, lo hace y se va tipo súper actualizado con un montón de cosas y empieza a usar la tecnología. Entonces, yo creo que yo creo que es un gran cambio para muchos, tipo la Web3 en general y tipo el curso del método es bien desde 0, como para gente que tal vez de repente ni sabe qué es cripto y lo que está bueno.
+
+[Speaker 2 - 00:17:33]
+O sea, yo no hablo mucho, no digo la palabra cripto prácticamente en mi en mi curso, creo que no lo digo nunca, digo monedas digitales, otras cosas, ¿no? Como que uso de lenguaje no no técnico a veces. Y y bueno es un poco también como la como como la intención de que ellos vean una tecnología nueva que no importa cómo funciona pero que la usen y que puedan aplicarla a sus carreras para que sean más sustentables ¿no? Entonces bueno, ahí
+
+[Speaker 1 - 00:18:00]
+va. No, estuvo increíble solo. Ahí tenemos perfiles distintos, hay 2 chavos que rapean, no, 3, 3 chavos que rapean. Hay un productor de música electrónica, hay un señor que canta a a capela muy bien, ¿no? Según he platicado, está estudiado muchos años en en en las academias, ¿no? De de de música. Quien más tenía, éramos un DJ que iba a empezar a producir, pero pero él ya está muy metido en el sistema de Web3. Entonces, hay un tema que sí creo yo vi, fue que gente que ya tiene Walllets, ¿no? Que a lo mejor ya tienen ESPs, que ya es medio DJ. Puede que el Qué mejor que me hagan a partir del tercer día, ¿no? Ándale, exacto, exacto, ¿verdad? Sí, exacto. O sea, ya ya ya cuando empezamos a usar las herramientas, ya cuando empezamos a ver el detalle ya fino, ahí es cuando creo que pueden aprovechar un poquito más. Porque sí, definitivamente el objetivo del curso es gente que no sabe nada, absolutamente nada, ¿no? Fuimos a volantear a la universidad, hablamos con la gente de comunicación, yo creo que vamos a tener que seguir colaborando con ellos.
+
+[Speaker 1 - 00:19:04]
+Creo que la facultad de música de de de la Universidad Autónoma de Nuevo León puede beneficiarse mucho de de de un taller así, este, pero bueno, ya estaremos luego detallando más temas. Pero fuimos y volanteamos y pusimos unos posters. Son estudiantes de música de de de licenciatura y están todos en una edad donde a lo mejor pues nunca han escuchado estas tecnologías. Entonces tienen que entrar de 0 completamente y creo que esas 2 primeras clases increíbles, como les decía, ya se fueron con wallet, se fueron con NFPs, se te tienen ya su su su obviamente su dirección donde pueden recibir y y enviar cosas. Estuvieron haciendo preguntas de trazabilidad, eso también se me hizo bien interesante porque había mucha duda y mucha pues sí, muchas preguntas sobre oye, ¿y si lo saco al banco saben que yo lo saqué? ¿Y si lo mando al cajero o cómo es el proceso de sacar dinero de crédito del cajero? Y a ver y te puedo comprar a ti 1 a 1. O sea, todo ese detalle de a ver, poco a poco estoy entendiendo el concepto de de de valor y de la transferencia de valor digital YYYY convirtiéndolo convirtiéndolo con o comparándolo con todo las otras herramientas que tenemos tradicionales.
+
+[Speaker 1 - 00:20:17]
+Creo que estuvo muy padre el proceso de de de de entender y ya que se había acabado la plática y la presentación que tú tenías planeada, nos quedamos ahí con una hora y cachito más. Nomás cosas rebotando ideas. Eso se me hizo también súper curno, ¿sabes tú cómo lo viste?
+
+[Speaker 0 - 00:20:38]
+Sí, sí, normalmente me gusta mucho hablar con los alumnos y ver sus puntos de vista, escuchar bien sus dudas, porque también voy aprendiendo cómo cómo
+
+[Speaker 2 - 00:20:42]
+bien sus dudas. Porque también voy aprendiendo cómo cómo abordarlas después en el futuro. O sea, casi siempre las dudas son las mismas, ¿no? Y son son como un poco menos intrincadas. Pero la verdad es que que son muy perspicaces los chicos. O sea, no sé si es que tuve suerte o qué, pero pero es como que me tocaron siempre en unos súper inteligentes que que saben todo. No sé, es como que nunca tienen preguntas y después si preguntan algo es súper interesante ¿no? Pero bueno las preguntas en general son como más tipo, no entiendo qué precio tiene, cómo definís el precio O por ejemplo ¿qué qué quién me va a querer comprar esto? Como esa es una pregunta general, es así ¿no? Como ah bueno pero ¿y yo tengo que invertir en esto? ¿Y si no me da nada? ¿Y si después no vendo? O me pregunta en esto y si no me da nada y si después no vendo?
+
+[Speaker 2 - 00:21:44]
+O me preguntan que si que si no sé, que de repente
+
+[Speaker 1 - 00:21:49]
+el dominio que es muy caro y que si realmente conviene comprarlo o no. O sea más cosas como de inversión creo que les preocupa un poco así como que si van a gastar plata y después no gastar
+
+[Speaker 2 - 00:21:55]
+plata y después no ganar. Como ir también del precio del mercado, es como que quieren saber bueno pero y que cuánto más voy a ganar más que con Spotify viste como todo esto. Pero bueno, o sea, en las partes técnicas veo que tienen mucha dificultad con con el tema de la SithFray sobre todo. Es como que no entienden que ellos ahora son dueños de sus cosas y que no hay una empresa que se los va a respaldar. Eso es algo que me gusta mucho enseñarles al principio como decirles chicos miren, o sea a partir de ahora si ustedes pierden esto pierden todo su plato así que empiecen a ponerse las pilas y empiecen a hacerse cargo de sus cosas ¿no? Entonces es un poco también como volver a educarlos filosóficamente ¿no? También. Y eso es interesante. Pero creo que después del método, que es un curso que es bastante filosófico también, se van como con una idea de carrera musical que tal vez nunca se lo habían planteado antes. Más allá de que después tengan dudas técnicas como esta que estoy mencionando. Por ejemplo, ah bueno, pero dónde almaceno bitcoin y no sé, cosas como como hay, el bridge y el swap y todo esto.
+
+[Speaker 2 - 00:23:02]
+Y esas cositas después cuando se suman a la comunidad de música W3, otras comunidades, ahí ya van aprendiendo, van preguntando más y se van sacando las dudas sobre las plataformas y cómo funcionan las redes y todo esto.
+
+[Speaker 1 - 00:23:16]
+No, definitivamente es una introducción YYY me gusta mucho que sea a través de 2 semanas, que les demos espacio de a veces un día, a veces más, ¿no? El La primera la primera clase fue el lunes, la segunda fue ayer miércoles, estuvieron ahí un día, les mandaste tarea, eso también está padre que estás mandándoles el resumen, tarea para que lean, cosas para que se se se informen un poco más. Ejemplos también de arte y de artistas que por ahí ya están en el ecosistema, que estudien, ¿no? Sus perfiles. Todo eso creo que es súper interesante y importante porque también hablábamos de del tema de, bueno, perdón, antes de de eso. Entonces tienen tiempo de pensar un poco las cosas, ¿no? Ayer tuvieron la segunda clase, la tercera la van a tener hasta el próximo lunes, van a tener todo este fin de semana para para a lo mejor clavarse. Si le generamos en algún punto el interés y la cosquilla de dedicarle más tiempo libre fuera del taller, ojalá no, que ese es el objetivo. Este, pues bueno, tienen todo este tiempo para rascar un poco más, investigar, meterse a Sola, ver las plataformas.
+
+[Speaker 1 - 00:24:22]
+Algunos yo creo que ojalá pudieran ya empezar a probar y picar botones, aunque no sé, no sé, hay que fomentarlo por ahí a lo mejor en el WhatsApp y en el grupo, pero tienen tiempo finalmente para para para para para ir procesando toda esta información, porque sí sí sí sí creo que aunque sean 2 semanas es intenso, este, pero no sé, a lo mejor ese es mi mi punto de vista. Yo yo que me tardé meses en en
+
+[Speaker 2 - 00:24:48]
+en a veces hasta el año No, sí, 2 semanas es vender bien. No, 2 semanas es poco. O sea, realmente son 4 módulos que normalmente están repartidos en un mes entero. Porque ahí los chicos pueden hacer los ejercicios, pueden procesar la información bien, ¿viste? O sea, realmente esto se hace como una manera más extensa y con otro es otra cosa. Pero bueno, a nosotros los tiempos no nos premiaron mucho entonces, nada, o sea, fue así que lo hicimos, lo adaptamos. Igual no me parece mal, yo creo que los conocimientos están ahí y obviamente como decís, como tienen el resumen, después ellos ellos pueden estudiar y hacer los ejercicios. Entonces no no hay ningún problema y creo que está. Creo que es bastante completo y después pueden seguir preguntando por acá por Twitter, por las comunidades. Entonces no me preocuparía tanto. Sí es intenso pero creo que también si hay interés 1 tendría que haber problema.
+
+[Speaker 1 - 00:25:42]
+No y justo es eso, lo que tú dices ¿no? El el el el terminas el curso, tienes es es también el acceso, o sea ya haber entrado y ser graduado del método, pues es acceso también a esa comunidad que te va a ayudar y que, pues así ayudando constantemente porque salen cosas nuevas y al rato sacan una red nueva y no jala y ahí alguien te que te ayuda porque el contrato lo actualiza. Vete a saber, ¿no? Eso eso es un tema de constante actualización y estar rodeado de gente que se está constantemente utilizando la tecnología. Si es lo que quieres hacer tú también, pues bueno, es lo recomendable para que todo fluya un poco más rápido y que puedas rebotar ideas y resolver problemas con con con con con los que están haciendo lo mismo, y qué chido. Finalmente creo yo que que que de los que están por ahí en el curso si empiezan en realidad a hacer ruido y a generar una presencia digital, porque muchos por ejemplo no tienen Twitter y y algo de lo lo que les decíamos, una recomendación que que que que les decías es, bueno, tu presencia digital sí es tu dirección, pero pues también es todo lo demás que tienes, ¿no? Si estás en Instagram, está bien.
+
+[Speaker 1 - 00:26:44]
+La gente que está haciendo música de Google 3, ¿cómo se comunica y cómo aprende? Pues a través de espacios, en Twitter, a través de canales de Telegram, etcétera. Pero, pues también depende mucho de las herramientas. Y hablando de herramientas, pues no sé qué opines de eso del Twitter. Les les vamos a seguir insistiendo que los que no tengan lo hagan. ¿Tú crees que es algo que que que deberían de hacer?
+
+[Speaker 2 - 00:27:11]
+Acá me acaba de describir 1 de los alumnos de ayer que vino a la segunda clase, no pudo venir a la primera y ya está queriendo meter a 5 músicos más Y me dijo que sí va responsabilidad responsabilizar de pasarle los conocimientos aprendidos hasta ahora para que tenga la oportunidad de venir y me parece super lindo eso.
+
+[Speaker 1 - 00:27:30]
+A ese chavo le gustó mucho. Sí le gustó un chorro. Qué bueno que fue, la verdad se me hizo conocido, no sé no sé. Pero pues sí sí, son son ellos los que nos van a ayudar a atraer a más personas, este, ahora que queramos hacer el segundo taller y tercero y el cuarto es a través de ellos que vamos a poder crecer porque, pues, ya está, ya te diste cuenta. Este, yo de yo del ambiente musical acá en Monterrey, pues, la verdad no Hace mucho que no no no salía yo a lo reactivo y pues no lo conozco y ellos son los que están metidos en el ecosistema, entonces pues bueno a través de ellos creo que va a estar chido que empezar a crecer la comunidad y y es lo que decía al principio, ¿no? Es la semillita de algo que orgánicamente créanme. Yo ya lo yo ya lo vi, ya te lo dije, so, yo ya lo vi. Va a ir creciendo y y te van a necesitar acá en Monterrey. Pero entonces, ¿te prometió 5 nuevos asistentes al al taller?
+
+[Speaker 2 - 00:28:25]
+Sí, sí, sí. Sí, me dijo que se iba a hacer cargo de enseñarles todos hasta todo hasta el lunes y me ofrecí ahí a hacerles un resumen por Meet. Si quieren si quieren venir a un Meet les paso los correos con con el resumen de las clases y y que después se vengan al Meet y si tienen preguntas y todo esto. Así que estoy ahí coordinando con él para ver qué qué podemos hacer para integrarlos. Sí, sí, sí.
+
+[Speaker 1 - 00:28:50]
+Oye, ¿qué tal está el?
+
+[Speaker 2 - 00:28:53]
+Lo loco es que me dijo que no se conocen entre ellos los músicos. Entonces va a ser la primera vez que colaboren en algo, ¿no?
+
+[Speaker 1 - 00:28:59]
+Ok, ok. Pues ahí está el local, sábado y domingo si se quieren juntar, ¿no? Ya saben, este, sin problema. Ahí hacemos que suceda. Pero qué chido, qué chido, la verdad sí me me me me ha gustado mucho la gente que está yendo. Creo que están conectando contigo muy cabrón y eso eso eso va a ayudar a un chorro a que la comunidad de música W 3 en en Monterrey crezca y pues que se integren a que ya existe lo que vienen ustedes haciendo porque ahora que que que me he acercado mucho más y que me has platicado mucho de todos los las personas con las que estás colaborando y las que están haciendo proyectos y y las fotos que he visto de los Sunhounds y y de todo lo que me has enseñado y lo que hemos platicado. Yo no manches, o sea, ¿cómo no tenemos eso aquí? Y si tuviéramos eso acá, no manches el ambiente que tendríamos de música web 3 y de fiestas y de, bueno, digo fiestas como me gusta la fiesta, pero de de de onboarding y de fans y de oportunidades, etcétera, etcétera, etcétera.
+
+[Speaker 1 - 00:30:05]
+Entonces, pues bueno, creo que tú también ya te has dado cuenta de que, pues no hay nada. O sea, es es es es es venir AAAA ayudarle a toda esta gente que está aquí que que que que le gusta mucho la música, entrar al ecosistema y bordear a sus fans y a que nos llenen los bolsillos, necesitamos más gente en el ponzi que pompen nuestras bolsas. No hay otra, no hay otra. Festival, ¿qué opinas del festival? Por ahí ya hemos estado platicando, ya empecé a hablar con Jean Christoff para para ver si está ahí la curaduría disponible, al rato te cuento bien qué me dijo porque no no he no he leído los mensajes, pero sí andamos viendo si si si si armamos un festival, una festecita con los músicos. Hay que ver estos músicos nuevos, a ver a ver pues qué onda, ¿no? También que se involucren YYYYY ya con con con más info ver fechas, este, pero
+
+[Speaker 2 - 00:31:02]
+O sea, yo quiero hacer el festival, quiero hacer el festival en grande, pero como está medio caro alquilarlo YYY0 sea, es que la verdad tipo los hay como varios productores e ingenieros de sonido haciendo el curso, menos músicos así independientes autogestivos. Como que sí los hay, pero son más como del hip hop y todo esto y que me encanta también. Pero digo, de repente alguno ni siquiera tiene un proyecto así como con el que toca en vivo, como que no son tanto de tocar en vivo. Entonces no se anotaron tantos para tocar. Y hay 1 o 2. Entonces pensé que sería mejor hacer una Jam sesión. Pero igual tengo ganas de hacer una Entonces pensé que sería mejor hacer una Jam sesión, pero igual tengo ganas de hacer el festival igual porque ahora que Alan dijo que va a traer 5 músicos más, ya me agarró la manija de que quiero que vengan y y toquen en el festival. Pero bueno, ahí tendríamos que revisar números y esto, porque sí está complicado hacer un una inversión así, ¿no? Así que bueno, no sé, hay que hay que verlo, hay que verlo.
+
+[Speaker 1 - 00:32:06]
+No, qué bueno, que tenemos más más alternativas. Veámoslas el lunes, sí. Y por ahí les prometimos también y y hay que ver quién se anima y quién no. Pero creo que está padre el el el ir contando las historias de ellos. Este, por ahí tenemos una historia que empezamos a contar y que que no ha resultado como queríamos, pero esa es una historia que yo creo que va a seguir vamos a seguir contando la de Magic Rose. Y así como la de Magic Rose la la queríamos ir contando porque ella es la violinista que por ahí hemos hemos estado publicando videos de ella con, no sé, 80 personas a lado a un lado de allá, y grite, grite, baile, baile en la calle. Bombornear una un músico así, este, puede llegar a a pues sí, a todos sus fans que están ahí YYY etcétera. Entonces, ir contando la historia de cada quien creo que sería interesante. Charles una entrevista, verles de dónde vienen, ¿no? Hacerles un perfil, este, y conforme vayan lanzando obra, pues también ayudarlos a que la gente web 3 los conozca, aparte de los clientes o fans que ya tienen el ecosistema web 2 para también que generen una presencia de un show más rápido, no sé qué opines.
+
+[Speaker 1 - 00:33:18]
+Pero ayer ya no les dije yo nada porque la plática se extendió un poco, pero es algo que les voy a recordar el lunes a ver quién quién quién se anima.
+
+[Speaker 2 - 00:33:33]
+Oh, sí, Lola.
+
+[Speaker 1 - 00:33:35]
+¿Que qué? Ya no entendí.
+
+[Speaker 2 - 00:33:40]
+¿O sí, nene?
+
+[Speaker 1 - 00:33:42]
+No, pues está bien.
+
+[Speaker 2 - 00:33:44]
+Sí, sí, sí. Bueno, no sé, yo te mantengo al tanto de qué onda estos músicos nuevos y vemos pero Ya. Qué loco, ¿no? O sea, nunca pensé que me iba a ir de gira con esto. O sea, sí lo pensé pero no sabía que iba a ser tan chido. Pensé que iba a estar sufriendo más y todo y y no y no y no estoy sufriendo nada. La verdad está siendo todo muy bien, ¿no? El curso, los músicos, como lo que aprendemos Y y vos como no músico, ¿cómo lo es?
+
+[Speaker 1 - 00:34:26]
+No, para mí está ha estado muy chido. Porque en realidad están hablando de conceptos musicales y de valores. Pero también a mí algo que me me me ha puesto a pensar mucho son en en en cómo, este, encontrar maneras divertidas y y rápidas de bombardear gente, ¿no? Y viendo estos ejercicios con gente que que que no tienen nada de experiencia, que viene de 0 totalmente, este, eso me da mucha retro y me ayuda mucho porque sí creo que hay una gran labor que hacer ahí, ¿no? En el proceso de que alguien llegue a un evento YYYYY que haga su wallet, este, creo que ha ido mejorando mucho que que que ha ido avanzando y que es mucho más sencillo, pero no sé, yo yo yo he pensado en logísticas distintas y y esta información que yo estoy recabando de ahí, mucha. Pero en sí el curso y cómo lo impacta Por eso tenemos
+
+[Speaker 2 - 00:35:21]
+que desarrollar nuestra app.
+
+[Speaker 1 - 00:35:24]
+Sí, sí, sí, sí, sí. Este, todo eso es info valiosísima. Hay que empezarles a enseñar el app a a ver si, no sé si en algún punto en el taller o luego, pero también para irlos invitando. Este, finalmente pueden ser de los primeros artistas que lance el app, ¿no? Que las artistas O sea, sí, ahí podemos empezar a hacer cosas chidas con ellos y con con con toda la gente de tu comunidad para cuando tengamos ahí algo que que lanzar sobre la aplicación, porque, pues, también toda esta información nos da reto para eso. O sea, si hay mercado o no, cómo, cuánto está dispuesta la gente a pagar, cómo va a ser modelo el negocio, porque también hemos debatido mucho eso de las Sí, sí. No sé, no sé si quieras platicar algo de eso, hoy del acelerador, del proceso, de lo que te ha dicho la gente de Avalanche. ¿Estaría cool también comentarnos?
+
+[Speaker 2 - 00:36:20]
+Y la gente de Avalanche está medio que encantada con la cosa. El tema es que el tema es como desarrollar la tecnología y que quede crema ¿no? Como que la experiencia de usuario sea sea agradable y llegar a ese punto lleva tiempo ¿no? Pero pero sí, o sea nosotros nos metimos en una aceleradora hace poco, muchos de ustedes ya saben, otros no. Con Mexi con 2 2 panas más, Franklin y y Yulietta ganamos un hackathon, el hackathon de 5 de mayo en la ciudad de Puebla y a partir de eso nos metimos a una aceleradora para ver si ganamos el el apoyo de Avalanche, la aceleradora de Avalanche. Y y bueno nada, no, o sea, he visto bueno, la verdad es que que que la gente de Avalanche habla nuestro proyecto y les gusta, entonces creemos que vamos a quedar. Y si y si quedamos, las cosas del onboarding van a cambiar mucho, sobre todo en la música, ¿no?
+
+[Speaker 2 - 00:37:26]
+Que se trata un poco de eso también. En la aplicación estamos desarrollando, así que sí, hace poco estuvimos ahí viendo de meter más gente en el equipo, pasaron cosas, no sé, está el proceso está está está bueno, está quedando bueno. ¿Cuál es tu perspectiva Meaxi?
+
+[Speaker 1 - 00:37:49]
+Pues mira, ha estado yendo Ricardo, Ricardo no lo veo conectado, pero fue 1 de los jueces en el Hackatlón allá en en Puebla, 1 de los jueces de Avalanche, a a los que les pichamos estaba Andy, que es la la la chica que maneja relation, ¿no qué? Deb relation. Estaban unos gringos, a ver, sí, estaba un gringo de Avalanche, este, y estaba Ricardo y él ha estado viniendo al curso y la verdad yo lo he visto muy chido. Ayer le dimos su aerógrafo, le tocó su flyer y tocó su canción de de solo voz. Ha estado muy muy al pendiente. Yo creo que son buenas noticias y creo también que, pues, el proyecto tiene mucho futuro YYYY cuando lo pichamos y a como lo vi y a ellos que nos invitaron a a participar, pues, pues, la verdad muy bien. Y creo que es una tecnología que puede ayudar mucho, este, porque ahí estamos explorando que podemos tener nuestra propia subnet, una propia net Blockchain propia para el pura aplicación. Entonces vamos a empezar a explorar y a ver qué sucede.
+
+[Speaker 1 - 00:38:52]
+Pero sí, sí creo que hay mucha probabilidad ahí de que de que nos den el visto bueno y, pues bueno, ahí estamos viendo ya la parte técnica, cotizando con con con desarrolladores para ver cuánto vale una aplicación más o menos, este, para lanzar un MVP. Viendo muchas alternativas, ¿no? Viendo cómo se integra alguien de desarrollo al equipo, qué tanto tiempo le podemos dedicar a esto, porque pues también es algo que viene que se dio ese día, ¿no? Ese día por X0Y nos juntamos los 4, acabamos hackeando y ganamos, este, no teníamos ni puta idea de que eso iba a suceder. Y obviamente todo el tiempo que le hemos dedicado a eso, pues ha sido tiempo que no teníamos presupuestado, Entonces es ver cuánto tiempo cada 1 de nosotros tiene disponible y cómo lo vamos a dedicar, ¿verdad? Está padre, ha estado chido ir viendo todo ese detalle YYYY llegar a un punto donde ya toque hablar de dinero y toque hablar de porcentajes y toque hablar de de de todo lo que se requiere hablar en un en un lanzamiento de estos y que se vea tan acelerado ha estado ha estado interesante.
+
+[Speaker 1 - 00:40:01]
+Me ha sacado mucho de de de mi zona de confort, creo yo. Pero creo que ahí es donde más más me gusta estar. Entonces, pues está chingón. Yo me divirtió mucho. ¿Tú qué opinas de venir a de pensar que venías AAAA un taller, o 2 o 3, a ser CEO de de de de una app que puede lanzar pronto? ¿Qué qué? Y y con ofertas de de de trabajo en Monterrey y en todos lados, ¿qué qué? Tú dime.
+
+[Speaker 2 - 00:40:29]
+Con oferta de trabajo en Monterrey. ¿Cómo es eso? Explícame, explícame.
+
+[Speaker 1 - 00:40:40]
+Acá acá la comunidad te necesita, la música web 3, ¿qué onda? Vemos algo acá, ya sabes, ya sabes.
+
+[Speaker 2 - 00:40:48]
+Bueno chicos voten ahí en los comentarios de vivir en en México. Yo creo que más Ciudad de México ¿no? Pero che sabés que me estás llamando Tavo.
+
+[Speaker 1 - 00:41:03]
+Dile que te pongas las pilas, que ya cierre lo de Puerto Escondido, si se va a hacer o no. Ya se tardó mi compadre, pero bueno, este Qué feo, ¿eh?
+
+[Speaker 2 - 00:41:18]
+Su compadre.
+
+[Speaker 1 - 00:41:21]
+Y yo lamentablemente no no voy a poder ir, pero
+
+[Speaker 2 - 00:41:26]
+¿Cómo me siento cosiendo la CEO de una de una aplicación de teléfono? Se siente super chingón, o sea, me encanta lo que está pasando. Tipo nunca en mi vida me imaginé que iba a ser posible y ahora lo es, así que creo que es una de las cosas que más me sorprendió del viaje. Porque realmente no lo esperaba, o sea, yo no está, o sea, en realidad yo no estaba esperando hacer tecnología nueva. Nunca nunca pensé que lo iba a poder hacer básicamente. Más que nada por eso. Pero bueno nada acá estamos. O sea estamos para para construir lo que sea. O sea lo que sea y que ayude al ecosistema a crecer y a que la gente use más esta tecnología, eso es lo que yo quiero hacer ahora. Y siento que es un momento perfecto para hacerlo. Justo estábamos casi cerquita del Halving, no sé qué pensás de esta de esta etapa para bombardear.
+
+[Speaker 1 - 00:42:21]
+Ya vamos tarde. Este, o sea, sí, ya, empecemos ya. Hay que empezar cosas ya, hay que experimentar ya. No vamos tarde, pero pero pero creo que a veces nos nos nos tardamos en en experimentar, en lanzar cosas, en en salir al mercado, en en hacer MVPs, en hacer equipos de trabajo, en experimentar con eventos, este, haciendo cositas poco a poco, o sea, sí, démosle, démosle, démosle, démosle. He visto a gente bien bien bien chida haciendo cosas bien cool como Abraham, como como Wen que está aquí con la gentonieldita caro. Sí, démosle ya, ya toca empezar a hacer cosas. Yo yo tengo un problema, este, que que ya me metí en tantas cosas que que estoy batallando en tus tiempos y y tengo que empezar a ver bien qué qué ajusto porque no quiero empezar a quedar mal, pero sí, ya son muchas cosas. Aquí también no te voy, no te voy a pedir, pero bueno.
+
+[Speaker 1 - 00:43:22]
+Ya me ya me ya me desvíé. ¿Qué estábamos?
+
+[Speaker 2 - 00:43:26]
+Bueno, hay que pompear sola, ¿sí o no? Esa es la pregunta. Hay que pompear Solana, ¿sí o no? Yo lo único que voy a decir de Solana es que,
+
+[Speaker 1 - 00:43:34]
+y solo me van a escuchar decirlo hoy, hoy, pero en en en grabación. Pero pero 1000 está programado. Este, te tengo que aceptar. 1000 está programado. ¿Qué opinas? Ya te dije que yo te iba a entrar a entrar a Change Arts. Conozco a los dueños, conozco a los que lo manejan, yo yo tengo colecciones ahí desde hace años, este, es muy chido. Change Arts es muy muy muy chido. Como todas las redes tienen su su su su propia cultura y todo, pero les puedo ayudar a entrar a los músicos. Sé que por ahí, pues han estado escuchando algo de que querían entrar, pero pues no sé, está chido.
+
+[Speaker 2 - 00:44:24]
+Y la música tiene que entrar en algún momento ahí, o sea, fuerte, digamos. Yo por ahí tenía un amigo ahí de la comunidad de música y letras que después desapareció. Pero pero Oliver se llama. Es un español, bueno en realidad vive en español pero creo es latino y quería había hecho, va ya había programado de todo un un marketplace en Solana. Pero no sé qué pasó con eso. Así que el día que salga esa esa esa plataforma, amigo, me parece que vamos a conquistar Solana. ¿Eh?
+
+[Speaker 1 - 00:45:03]
+A mí me gusta mucho, sí me gusta mucho, pero últimamente me he metido mucho OP, por ejemplo, me he metido mucho arbitrum también. Los costos son mucho más caros, eso sí no me gusta. Las transacciones son mucho más baratas, pero bueno, este, allá también hay hay hay hay cosas chidas con Storage, como pues sí, el tema de de de del reto PDF por para la gente que que que que utilice la red, ahora los airdrops que te que te llegaran, yo creí que me iba a llegar 1, pero no, siempre no me llegó. Pero a ti te llegó un mundo muy bueno, eso estuvo chido y vi que otras personas ahí de la comunidad también les cayeron por meter a las TICs, cosas que no se esperaban, o sea, entonces hay mucha gente y muchas backs están haciendo cosas chidas. Este, un árbitro, por ejemplo, está Ana Belén, que es una de las de las chavas de León, de aquí mexicana, que está liderando todo el tema de comunicaciones. Entonces, pues también nos tenemos alguien ahí que que conoce la zona y que puede ayudar a a crear proyectos, este, Bridges también que y Lau que están en en en el árbitro, digo en Optimissim Supermetida, eso también jala un chorro.
+
+[Speaker 1 - 00:46:12]
+Y en Solano pues no hay nadie, ¿no? Todavía. Este, entonces pues todavía hay alguien también disponible para agarrar ese rol. Pero pero sí, muchas muchas personas están volteando a ver el el ecosistema por acá latino YYY también hay opciones, hay opciones, hay alternativas para los músicos y eso es tapar. El app finalmente lo que queríamos hacer es que jale información de todos lados, ¿no? Y ahí va un raro, ahí va ahí está el reto. Por aquí veo, por ejemplo, al al buen Zenonel, que tiene el OPI, ellos, por ejemplo, ya A ver, déjame lo invito para ver si me lo vine a contar, porque sí es algo que te quiero preguntar. Vamos a ver si puedes subir. Pero ellos participaron en un gran The Push, este, y creo que sí se los asignaron porque tienen por ahí la la opción para que su app dé alertas. Entonces estaría chido ver si lo sube a platicar güey. Si no, pues bueno, no pasa nada. Pero pero sí, no, pues hay que seguir desarrollando, hay que hay que hay que hay que seguir viendo ese ese plan, esa estrategia del del lanzamiento, ¿no?
+
+[Speaker 1 - 00:47:15]
+Que que que le queremos dar a la gente, cómo, cuándo, cuánto cuesta y se empezar a mover. Porque creo que creo que sí hay una oportunidad ahí grande de de transformar esa industria y pues no hay nadie. Creo yo, o al menos no veo ninguna aplicación que funcione bien. Para mí me pusiste una o 2, la verdad no, no sé si era la porque pero no jalabas ni más. Y ahí viene ahí subió No, estás hablando mal.
+
+[Speaker 2 - 00:47:42]
+Pero tenés que probemos la nada después la próxima.
+
+[Speaker 1 - 00:47:46]
+Miren, ahí subió el buen Zenonel. A ver, Zenonel, ¿cómo andas, Paco?
+
+[Speaker 0 - 00:47:51]
+GM, GM, pues aquí, ¿cómo están todos? ¿Qué dicen?
+
+[Speaker 1 - 00:47:57]
+No, pues ya
+
+[Speaker 2 - 00:47:58]
+Te conozco
+
+[Speaker 0 - 00:47:59]
+en persona, agarré. Yo aquí esperando el día en que me pueda dar una vuelta a Monterrey, me gustará conocer a todos. Estará cool. Pero sí, pero escuché algo Mexi que dijiste de push pero me estaba metiendo al speech y y se cortó lo que se conectaba. Pero ¿qué dijiste?
+
+[Speaker 1 - 00:48:16]
+Sí, les decía que dentro de las opciones, por ahí estoy invitando a todos los que quieran, digo los que puedan, que se vengan a platicar qué chido. Pero les decía que dentro de la dentro de las opciones que había en el Hackathon exploramos una Copush, exploramos lo de Graph, que fue la que acabamos ganando y Avalanche. Pero Copus ya no queremos hacer nada y le decía yo a Sol que ya tenemos experiencia de gente aquí en México que ha pedido esos grants para sus aplicaciones, que se los han dado y que ustedes te den 1 de ellos. No sé si nos puedas contar ahí rápido para que sepas Sol cómo cómo se manejó ese show, si sepas.
+
+[Speaker 0 - 00:48:49]
+Sí, claro. Pues realmente fue un tema, digo obviamente tienes su aplicación donde pues te piden varios requisitos y creo, pues creo lo más importante con con Push fue pues el buen trato, o sea, y cumplir lo que 1 promete, ¿no? Digo, ya nos han dado 2 grans, entonces ya ya hubo, pues, ya hubo, ¿cómo se dice? Pues hubo doble comida. Entonces, claramente, el primer grand fue un tema más como de implementar push. Y, pues, si si hoy, si les vas a decir que en un mes vas a sacar x cosa, pues, en un mes se tiene que sacar, ¿no? Obviamente hay mucha chamba que hacer de de marketing, de implementar, de programar, no sé qué. Y pues sí, creo que el tema, un un tema que yo tengo con el tema con las empresas mexicanas en cripto, creo que es bueno empezar a llamar las empresas y no proyectos, porque si bien un proyecto como que no le da no le da esa seriedad que 1 busca en la vida, ¿no? Siento que sí, un proyecto cuando hablas de un proyecto suena como algo que haces por hobby, si jala bien no, si sí también.
+
+[Speaker 0 - 00:49:52]
+Entonces, creo que la gente que está empezando a crear empresas, pues deberá ponerse como esa medalla de que es algo bien, algo serio, y no nomás si pega chido, si no no. Y creo que ese tipo de plataformas como que dan grands, pues notan eso, ¿no? No tan esa seriedad a comparación de, ah sí, soy un proyecto que a ver si te llega y si no pues me paso me paso otro y a ver qué pasa. Pues por ahí recomendaría eso. Hay que tomarlo en serio, ¿no?
+
+[Speaker 1 - 00:50:22]
+Me gusta, me gusta. Me gusta esa esa manera de verlo porque sí. Sí, yo yo uso mucho el el tema proyecto, proyecto, proyecto. Este, pero sí hay una empresa detrás de todos esos proyectos, definitivamente. Pero está cabrón, está cabrón, porque sí es una manera distinta verlo. A ver, échale, échale.
+
+[Speaker 0 - 00:50:43]
+Sí, no, justamente, o sea, al inicio empieza siendo un proyecto y, pues, digo, es normal, pero mientras vas sacando y vas sacando producto y vas cumpliendo expectativas, pues, eventualmente ya es llamarte una empresa, ¿no? Si te constituiste, si ya estás tienes clientes, a ver, si ya tienes un cliente, creo que ya estás mejor que el, pues, que el 99 por 100 de los proyectos, entonces ya no eres un proyecto, ¿no? Entonces ya, pues, ya, o sea, ya eres una empresa, ¿no? Entonces ya, pues ya, o sea, ya eres una empresa, poquito revenue, lo que sea, pero pues ya, digo, el primer paso es creértela, ¿no? Entonces, pues sí. O sea, que una empresa es a partir que tiene su primer cliente ahí. La verdad yo diría que sí, porque no es fácil conseguir el primer cliente. O sea, ya hacer algo de la nada y que alguien te pague, y más si es un desconocido, está cabrón. Entonces,
+
+[Speaker 1 - 00:51:34]
+pues sí. Oye Vancouver, y si tomemos este ejemplo. Este ejemplo se me hace super cool y esta discusión bien, porque Sol y yo y Frank y Yulietta, por X0Y acabamos en Puebla, ¿no? Y por X0Y ese día conectamos y pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum pum y y nos metimos una solicitud en una aceleradora, este, obviamente todavía no hay clientes, este, pero ¿cuándo cuándo cuándo es una empresa para ti? ¿O cuándo empezaría?
+
+[Speaker 0 - 00:52:19]
+Cuando 1 se la cree, la verdad, te digo. No es un tema solo de tener clientes, pero es como darle la seriedad Sí, ¿verdad? Puede ser desde ya. Un proyecto. Puede ser desde ya. Claro, o sea, el tema de aplicar aceleradoras, este, platicarse la VCs, amigos, pues es platicarse la serie. Porque si tú lo transmites, que es como tu proyecto de fin de semana, pues así te va a tomar la gente, como si es tu proyecto de fin de semana. Ya si se los cuentas como algo serio, que lo vas a hacer, que vas a constituirte, vas a tener ingresos, no sé, lo que sea, que ya 1 le da la seriedad, ¿no? Entonces, creo que eso es bueno. Tómenlo, tómenlo serie, más porque web 3, y ya saben que yo soy un header, pero buen pedo, hay mucha mamada. Entonces, no hay que ser como de esa, de esa mamada. Hay que hacer cosas bien, hay que hacer cosas que ayuden, que que enseñen, que aporten algo, ¿no? No nomás que jala.
+
+[Speaker 1 - 00:53:19]
+Yo he escuchado a Sol hablar de de de del proyecto y por más que ella dice que no tenía idea que podría llegar a ser lo que lo lo que ahora está viendo. Y que salió así muy rápido, la la escuché el otro día explicar desde el proyecto y dije, no, este es mi proyecto de vida, o sea, y realmente así lo lo percibí. Este, no sé qué opinas Old, pero pero así lo has platicado YYY quisiera que lo tocara esos temas para ver qué qué opinas de acuerdo a lo que dijo también el buen banco.
+
+[Speaker 2 - 00:53:53]
+O sea, mi proyecto de vida es hacer que la industria musical cambie por lo menos un poco para algunas personas, o sea, para los músicos independientes y que podamos ganar un poco más de dinero de lo que nos están dando las las plataformas de streaming y todo este sistema maligno básicamente que que hace que las empresas se queden con nuestro talento, nuestro tiempo, nuestra plata. Y es es mi proyecto de vida poder ayudar a los músicos a que logren esto de una u otra manera, o sea, de la manera que sea, si tiene que ser con un 2.5 lo será, si tienen que ser con 3 locerá, si tienen que existir la web 4, la web 4 existirá. Y yo seguiré ahí haciendo cosas por los músicos. O sea, mi proyecto de vida es hacer que más gente y más fans usen la tecnología Blockchain para que crean en el valor de la música. O sea, restablecer el valor de la música es 1 de los de los objetivos de música W3, como comunidad. Y restablecer el valor de la música implica que vos tengas que educar a todos tus fans.
+
+[Speaker 2 - 00:54:54]
+Y nadie nunca te enseñó cómo educarlos. Entonces, yo soy una persona que se dedica justamente a a educar a los músicos, no solo con Blockchain, sino también a que le devuelvan el valor a su música. O sea, monetario. Monetario y espiritual también, ¿eh? Ojo. Muchos músicos que vienen a El Método, esto me lo han dicho ellos mismos, estaban como frustrados con carreras que, tipo, estaban ahí, pero realmente no creían ellos que su música tenía valor. Porque como no eran famosos, o sea, el sistema te hace creer que si si no sos famoso, tu música es una mierda. Digo, está muy mal, perdón, no no quise insultar, pero la gente cree que que es horrible tu música porque, o sea, ellos mismos creen que la gente cree que es horrible su música solo porque no son famosos, cuando en realidad el valor intrínseco de la música está en el valor en el que del tiempo que vos le dedicaste, a lo que invertiste, todo, ¿me entendés? Es como que es un el valor de la música hoy es impuesto. Y los músicos tendrían que ser como como un emprendedor de galletitas, como digo yo.
+
+[Speaker 2 - 00:55:58]
+Si yo hago una galleta y ¿cómo termino el valor? Y por las horas de trabajo que le puse a hacer esa galleta y por los ingredientes que en los que invertí y los que gasté, ¿verdad? Y ahí se determina el valor, ¿no? En el mercado. Entonces, o sea, más o menos, ¿no? También están los monopolios, bla bla bla. Pero más o menos es así. Un músico cree que tipo hace las peores galletitas del mundo solamente porque las hizo en su casa y se las comió él. Pero en realidad es porque el resto del mundo no lo conoce y porque en sí mismo el primer problema es el músico, que cree que no tiene valor. Entonces mi misión es agarrar con el método y hacer que además de aprender tecnología esta gente aprenda a que hay gente que le interesa, le gusta y quiere comprar su arte ¿sí? Que eso es algo que no sucede todos los días. Así que, no sé, ese es mi proyecto de vida, la verdad.
+
+[Speaker 0 - 00:56:56]
+Bien, ¿eh? O sea, a mí el tema de, o sea, tu, o sea, el tema como de proyecto de vida, mi proyecto de vida, por ejemplo, es el tema de finanzas. Entonces, comparto como toda esa idea que tienes. A mí, pues, nadie me enseñó el tema de finanzas personales, yo soy abogado y solito como que me metí al mundo y creo que es algo como que me gusta de enseñarle a la gente, o sea, todos mis amigos cercanos o incluso no cercanos, yo les enseñé a cuidar su dinero, invertir en la bolsa, tema de cetes. Entonces, la verdad, comparto como ese tema de vocación o proyecto personal, proyecto de vida. Entonces, ta cool, me gusta. Yo no soy artista, porque, y toda mi familia sí es artista, y yo soy el raro. Entonces, yo soy el financiero, digamos. Pero sí, muy chido.
+
+[Speaker 1 - 00:57:45]
+Oye, ¿y qué tipo de arte es tu familia?
+
+[Speaker 0 - 00:57:48]
+Ellos pintan. La mayoría son pintores. O sea, tengo muchas muchos familiares que pintan o pintaron o pues por ahí. Entonces sí, yo yo no, nada de eso.
+
+[Speaker 1 - 00:58:04]
+La oveja negra como todos los que estamos en que vivir todo el día de hoy, yo creo.
+
+[Speaker 0 - 00:58:08]
+Pero con mucho gusto puedo comprar el arte. Entonces ese sí nos gusta. Ese es muy bonito y el arte se me hace una de las mejores inversiones que existen by the way. Entonces, pues sí.
+
+[Speaker 1 - 00:58:20]
+No, estoy de acuerdo. Yo yo no, bueno no, sí, sí, últimamente aquí en la casa sí hemos sometido un poquito al arte físico. Pero mucho más, mucho más en el digital. Mucho más en el digital, está cabrón.
+
+[Speaker 0 - 00:58:34]
+Yo yo no sé de aquí cuántos han visto como tal cual arte digital, como en unas en pantalla, sí se ve cabrón. O sea, se ve se ve muy chido. Se ve muy chido. Yo soy Maxi.
+
+[Speaker 1 - 00:58:46]
+Lo que me tocó sí, sí, no, y un sueño de los que tenemos es, este, y ahí Sol, esto que lo me ayude ya que se quede acá en Monterrey. Pero armar el juego así como una galería pero mamonsísimo, porque sí estoy de acuerdo, ¿no? Lo lo lo que me ha tocado ver en SPEYC, ahora en Bright Moment en Ciudad de México también, este, inteligencia artificial y le hablas a la cámara y cambia y, o sea, puta, muy mamón. Este, la neta sí, mega bullys en en en late digital sobre mucho más que el físico, creo yo, no sé. ¿Tú qué opinas, Blanca? Y más con el famoso pinche la la la lente este de Apple, ¿ya todo va a ser así? Digo, duele falso, duele cuelgue, pero
+
+[Speaker 0 - 00:59:34]
+Excitadísimo con los lentes de Apple y excitadísimo es poco. Digo, yo soy Apple Maxy y la verdad el todo el tema como de lo que promete porque esta versión la verdad pues sí está bonito como un juguete de un mes y ya ¿No? Pero el futuro de lo que podamos tener creo que sí está a mi sí me gusta mucho esa mezcla de lo digital y tener tus pantallas y ir No, a mí me excita durísimo eso y perdón por la palabra, pero sí me me encanta como ese futuro digital. Entonces, sí. Maxi Maxi, Nápoles y todo lo que tenga que ver con pues, como esa realidad virtual en el mundo físico. Nada, qué cabrón.
+
+[Speaker 1 - 01:00:19]
+Yo yo yo yo estoy de acuerdo. Sí me me me llama mucho la atención experimentar ese ese pedo. Y y creo que va bien, va más rápido de lo que esperábamos. Este, todavía le cuelga. Sí, no estamos listos. Sí, lo que tú dices es cierto. No no Yo llegué a comprar un Oculus y rara vez lo uso, me marea. Ahí va, poco a poco. Todavía le cuelga, ¿no? Pero pero sí, ya que eso sea súper sencillo y fácil, YYYYYY no tan pesado, este, no sé si hasta donde un pinche pupilente vas a atraer lo que al momento vas a ver. Pero, pues bueno, estar chido. ¿Te pondrías el chip en la cabeza, Sol? ¿Te pondrías el chip en la cabeza?
+
+[Speaker 0 - 01:01:04]
+¿El de Lilo Musk?
+
+[Speaker 1 - 01:01:06]
+Sí, güey. Para interactuar con estos aparatos más rápido.
+
+[Speaker 0 - 01:01:10]
+Chale, no sé. O sea, sí estará muy tentado, pero siento que podrán salir muchas cosas muy mal todavía.
+
+[Speaker 1 - 01:01:21]
+Yo creo que va a ser muy fácil que Saki Tapón. Entonces, este, ¿quién hizo madre? Yo se me pongo. Sí, ya vuelvo. Vamos a hacernos biónicos. Ya somos, ya somos bien pincilianos. Está muy cabrón. Sí, soy muy taquito, muy muy gadget, este, de toda la vida y y sí, también me me pones y me prende, me prende siempre. También la Blockchain prende, ¿no? ¿Qué te prende más? ¿Los gadgets o los 8?
+
+[Speaker 0 - 01:01:52]
+Ambos son muy buenos. Ambos, o sea soy muy yo soy muy techie, o sea muy muy techie. De que soy el primero que prueba cualquier mamada. Entonces sí me encantan. Pero los 2, los 2 Blockchain ahorita claramente es mi baby, me encanta. Me encanta perder dinero en pendejadas, pero sí.
+
+[Speaker 2 - 01:02:12]
+¿En serio? Sí. ¿Me gustaría comprar el póster de del método.
+
+[Speaker 1 - 01:02:21]
+A ver Oye, sí, sí, sí, está está ahorita está abierto el Mint. Ya regalamos, ¿cuántos hemos regalado? ¿Como 60? A todos los que pusieron sus wallets por ahí en los en los en los links ya lo pueden adquirir. Déjame tu opinión. No, esta es gratis, ese es es de los gratis años hora. Este, ese ese es gratis. Déjame opinión aquí el, bueno, no gratis, te cobro como un dólar y cachito, ¿no? ¿Cuánto? Viene ese. Pero le reparte un poco a su hora, le reparte un poco el artista y dice que es gratis.
+
+[Speaker 0 - 01:02:52]
+Ah, ya. Mándelo, mándelo. Ya saben, aquí apoyamos. Soy header pero apoyamos.
+
+[Speaker 1 - 01:02:58]
+Sí, por ahí regalamos unos cuantos. Déjeme se los pongo.
+
+[Speaker 2 - 01:03:02]
+Hey, compraba mi música,
+
+[Speaker 1 - 01:03:04]
+si no, compraba mi música Que tenga un ratito solo para ahí va, no me tardo, para buscar el post.
+
+[Speaker 2 - 01:03:14]
+Voy a sacar un nuevo una nueva canción en NFT, después de un montón. Voy a sacar una nueva canción sin videoclip, nada. O sea, una canción canción, un drama and bass muy loco y lo voy a sacar este mes para mis coleccionistas y para mis no coleccionistas por si quieren comprar. Va a haber solo 20 copias, así que les deseo mucha suerte de conseguirlas. Voy a abrir el Mint el veintialgo de febrero. Todavía no decidí bien porque como estoy con esto del workshop tengo miedo de no llegar a hacer como los anuncios pertinentes, pero nada, está ahí. Mi first Mintter ya me mintió el contrato para que pueda estar a la venta y es Herrimax que está ahí abajo. Y bueno, nada, vamos a ahí ponerle un precio amigable, así que quien quiera quien quiera sugerirme precio, lo que sea, hice un GM hoy preguntando. Así que hay más que más que open a todo para saber qué qué dicen los coleccionistas.
+
+[Speaker 0 - 01:04:15]
+Tú me hablas lo, a mí me encanta la música, es 1 de mis placeres más grandes. Yo no vivo sin música o sin airpods puestos escuchando música. Entonces, sí, ahí estaré pendiente con anuncios.
+
+[Speaker 2 - 01:04:28]
+Dale, bien ahí loco. Bueno, ahí anda, tipo, va a ser este mes, yo no sé, no sé bien, pero va a ser este mes. Y estoy muy emocionada porque es mi tema preferido del año pasado que que produje el año pasado y iba a estar buenísimo así que espero que esos 20 coleccionistas me ayuden a vivir un poco más y cuanto más NFTs me compran más música voy a sacar. Así que, mírelo como como una buena inversión.
+
+[Speaker 1 - 01:05:04]
+Creo que ya lo encontré Con no sé si se fue. Creo que ya lo encontré, sí. Es que mi celular no sé por qué no lo puede localizar en Soda, pero ya aquí en la Compus sí me dejó. Tú tenías una junta ahorita a la una, ¿verdad? ¿O no? Porque yo yo yo sí tengo que salir en unos 5 minutitos. Sí.
+
+[Speaker 2 - 01:05:19]
+Entonces, pues Sí, yo tenía junto a la una, pero me la pasaron una y media para tu suerte, pero si tenés que salir nos vamos. Ah, bueno.
+
+[Speaker 1 - 01:05:28]
+No, pues bueno, vayamos cerrando poco a poco. Este, si alguien quiere subir, si tienes media hora yo puedo ajustar aquí. Si alguien quiere subir echen echen echen request, si no, pues bueno, vamos a ir platicando ahí de temas diversos hoy. Avisos parroquiales y shileo, Spancus, si quieres empezar, si no yo
+
+[Speaker 0 - 01:05:48]
+le doy. Sí, les digo que chance, o bueno, no chance seguramente va a salir un club de pádel con nosotros ahí en Monterrey. Entonces, pues no sé si podemos ver cómo les invitamos las primeras canchas de parte de Lotia, los cripto Boys, para que vayan a jugar para él, y ya, pues, que se metan a su programa de lealtad, obviamente, ¿no? Pero sí, podemos invitar, yo creo, unas cuantas canchas, las las pago las pago yo realmente, pues, pero, pues, para ver qué tal. Están San Pedro Garza, el club de pádel.
+
+[Speaker 1 - 01:06:22]
+Entonces, pues sí. Oye, no, pues armamos un miro para allá, buen día, huevo. Está está chido de la idea que todo el mundo se inscriba, que empiece a participar YYYY que experimente la el app y te de retro todo el proceso completo lo aventamos. Estaría con nada. Porque sí es algo que la gente ha estado preguntando constantemente acá en Monterrey, este, cuándo vamos a poder usar Lotei porque pues acá no hay nada todavía. Entonces qué chido.
+
+[Speaker 0 - 01:06:46]
+Sí sí sí andamos en eso dándole en todos lados. Porque hay demasiados estados en maldito México. Somos un buen. Entonces poco a poquito.
+
+[Speaker 1 - 01:06:55]
+Sí, tú nos avisas, armamos acá la iniciativa y y nos armamos un torneito. Hacemos ruido en redes, todo eso. Ahí es para para que la gente el el el el todo, todo, todo, este, ahí para para que la gente se anime a Useloti. Y también que que que, pues bueno, veamos cómo también colaborar con ellos, etcétera. Sol, a ver échale.
+
+[Speaker 2 - 01:07:17]
+Nada, me acaba de escribir una promotora de artistas en Monterrey que me pasaron un contacto ahí y que no que no te había dicho pero sí. Y como ya empezamos el curso y todo, se me ocurrió que de repente podría dar una charla introductoria de música web 3 abierta a todos, tipo a todo el público, tipo web 2 y a web 3, ahí en el hub, y lo llenamos. Y hacemos un desmadre.
+
+[Speaker 1 - 01:07:40]
+Pandas que me vaya. Sí, sí, sí, sí. Ahí ahí está disponible, ya sabes, o sea, para eso es. Si lo quieren ir a usar para hacer música durante el día, los otros días, o sea, pónganse ustedes de acuerdo YYY vean cómo lo usamos, pero sí, sí, sí, lo que necesitan, sin bronca.
+
+[Speaker 2 - 01:07:57]
+No, música no, o sea, solo dar una charla introductoria sobre V3 para los músicos y productores que se perdieron el curso, porque quieren saber de qué se trata, pero no pudieron llegar a tiempo. Ah, perfecto, perfecto, excelente. Sí, sí, sí, hablemos, sí. Simón.
+
+[Speaker 1 - 01:08:14]
+Simón. Oye, pues, ¿cuándo cuándo sano? ¿Cuándo banco?
+
+[Speaker 0 - 01:08:22]
+Pues, en teoría sale en esta semana o la siguiente, entonces, en cuanto tengamos la confirmación, pues, les mando de volada, pues, y ya reservamos unas canchas, bueno, reservo unas canchas y armamos algo, yo creo. Lo bueno que puedo reservarlas desde acá, entonces, todo bien. Y ya ahí, yo, ¿eh? ¿Chávez? ¿Me podrá dar una vuelta? Ahora sí que todo podremos ver qué show. Sí, güey, tienes que venir güey a a dar una plática y también,
+
+[Speaker 1 - 01:08:48]
+o sea, aprovechamos jueves de miro up, te diviertas el cotorreo de Loti, vienes a vender y a buscar que te ayuden a distribuir y luego vamos y jugamos. Somos todo el todo el show. Ahí te mando la ya ya sé que ya conociste a a mi Romel, entonces pues oye, es mi chiquillo el Romel. No, pues te lo voy a bajar, güey. Te lo voy a bajar. Embajador de Latam de Arbitrum Web TreeMusition, ¿qué onda? No te había identificado por ahí, ¿cómo andas?
+
+[Speaker 3 - 01:09:41]
+Hey, qué rollo, maldita, ¿me escuchan bien? Todo bien por acá. Este, bueno, para los que no me conozcan, me presento aquí rapidísimo. Este, yo doy clases de ingeniería en producción musical acá en Guadalajara, en una academia de música y producción. Este, y pues tiene, ¿qué será? Como unos 2 años, más o menos, que también ando, este, pues enseñándole a mis alumnos y colaborando ahí con otros músicos más también, este, pues tratando de traerlos a Web3, ¿no? Por ahí en, este, en 2022, en verano de 2022 se armó un un, este, una propuesta con Gnosis Chain, y junto con una banda de acá de México que se llama Necromorpho, fuimos a a girar a a más de 10 ciudades aquí en la República Mexicana, este, pues para hablar sobre Web3 y, este, introducir AAA músicos y a su sus comunidades, pues a a toda esta ondita de la Blockchain. Este, me gustaría hacerles un un par de preguntas, si es posible. Este, veo por acá también AAA Dante, este, y bueno, yo entré a todo este rollo de web 3, de música web 3, este, por un par de mis artistas favoritos.
+
+[Speaker 3 - 01:10:47]
+Yo soy así súper fan de de Linkedin Park y de Metallica y de Avenue Seven Paul y de todas estas bandas como de emo y punk rock de los 2000. Pero, pues, por ejemplo, este, Avenue Seven con un proyecto que sacaron un drop de de NFTs, que sacaron por ahí de diciembre de 2000 veintiuno, se llama Deathbats, por si lo quieren buscar. Este, me parece como bien interesante el el el modelo que andan que andan, este, trayendo, ¿no? Por ahí a los que les guste también un poquito del ro pesado y del metal Megadeft también se acaba de de de unir acá a Web3, acaba de sacar una una colección de su de su mascota, también de NF degenerativos. Este, y bueno, la pregunta es más bien no sé si si han tenido algo de contacto con estos proyectos, este, porque creo que hay un par de temas ahí que, por ejemplo, para el curso del método y que para todos estos temas de músicos independientes principalmente, por ejemplo, con los que yo trabajo, creo que les llama también mucho la atención esta idea de, ok, ya soy holder de de una pieza de mi artista, pero pues, ¿qué más viene, no?
+
+[Speaker 3 - 01:11:54]
+¿Qué más qué más puedo hacer? ¿Qué más ocurre con esto? ¿No? Este, y pues bueno, por ejemplo, Seven Food tiene por ahí un par de de de cosas que han intentado, por ahí desde diciembre del 2000 veintiuno que han resultado bastante bien. Ahorita traen por ahí como un trip de como los Season Pass de Fortnite y de todos estos, este, juegos, este, pues en la que pagas el el el pase, la suscripción, por así decirlo así, pero digamos que sumas puntos a través de merch, sumas puntos a través de ir a conciertos. Ahorita lo que está intentando la banda es también aviarte por ahí con, este, con alguna red de streaming de Web 2, que llegue a decir que sí también a la tecnología de Web 3, para empezar también a identificar a los usuarios que puedan, bueno, que reproduzcan su música en, digamos, en Spotify, ¿no? Y poderlos recompensar también. Entonces, digo, se me hacen como temas interesantes ahí que que que a los que se podrían asomar, veo que Dante también se se subió por acá, este, y pues bueno, este, me gustaría preguntarles si si se han asomado por ahí, si les también les gustaría hacer algo como esto, Porque creo que a mí me gusta también mucho la idea de tokenizar música, solo en mi caso no lo he hecho precisamente como porque todavía no existen las plataformas que creo que estarían padres tener como músico, ¿no?
+
+[Speaker 3 - 01:13:18]
+Muchas veces como consumidor de la industria musical como que queremos que todo sea fácil, ¿no? Y rápido, entonces como que esta idea de, por ejemplo, distribuir regalías en cadena a través de streaming, se me hace súper increíble, ¿no? Pero no hay nada todavía parecido, entonces pues como que creo que sería buena idea ahí si si si si le echan un vistazo a estos proyectos, igual ahí Dante si puede apoyar con algo de lo que haya escuchado y de lo de eso de los Deathhots, creo que es es es es está interesante.
+
+[Speaker 0 - 01:13:55]
+No,
+
+[Speaker 1 - 01:13:59]
+yo yo la verdad, te soy sincero, no me he metido mucho a ver esos proyectos, pero qué chido que los sacas porque la la la la idea de traer a Sol acá a Monterrey, pues sí, era para que los músicos aprendieran, pero yo también quería aprender. Yo de música YYY de lo que hace ella y de cómo lo hace YYY de su historia y del por qué, este, es importante hablar de esto para los músicos independientes que lo quieran utilizar. Y y sí me hace falta investigar un chorro del tema YYYY pues bueno, esos son proyectos que voy a clavarme a ver porque sí, creo que no hemos encontrado la manera en en realidad usar estas tecnologías de forma sencilla. O sea el otro día Sol me puso el app, no me acuerdo, pero era Espina, un pedo para que se bajara la rola. Este, cuando le picas play a Spotify instantáneo está ya tocando la música, ¿no? Y esas experiencias son pues súper culeras y la gente pues no nunca va a migrar algo así, este, pero mira, subió Dante, tiene la manita, vamos con él también me encantaría escuchar eso, Tigo.
+
+[Speaker 4 - 01:15:04]
+Quibo, Quibo. Oye, qué chingón, Ticster, no había visto que eras embajador ya de de Arbitrum. Arbitrum está bien fregón. Este, ahí te voy a hablar para que me digas qué también quiero hacer. Sí, fíjate que yo también, de hecho hay conocido a Sixter en este, se llama Dead Fats Club, y es como el club de fans tokenizado de la banda Avenue Shellenhauld. Y ahí fue donde he conocido a varios interesados en web 3 y música. Incluso miembros de ese club han sacado como modelos similares, pero en escalas más pequeñas, Porque lo que dice es Maxi es bien real, incluso en entrevistas y spaces que ha hecho la banda de Avenue Anfold, el vocalista, que es quien quien lleva el liderazgo del proyecto en Web3, Básicamente lo ha dicho, dice, no veo yo la manera en que la experiencia de reproducir música tan fácil en en Spotify o en YouTube sea sustituida a corto plazo por cualquier tecnología en Web3.
+
+[Speaker 4 - 01:16:09]
+Pero sí hay muchas cosas que podemos hacer en Web3 para beneficiar a los artistas. Sin ni siquiera, él tiene como una filosofía que creo que es muy muy acertada, donde no trata de cambiar tu comportamiento o no trata de agregar una un layer más al involucramiento que tengas con la banda que te gusta, sino que si ya te gusta una banda y ya compras contenido, ya compras artículos, ropa, coleccionables, todo eso lo tienen de una especie de como récord en en la Blockchain. Entonces ellos tienen su colección que es como su club de fans, muy como el es es lo más el nivel más alto que puedes llegar a tener en ese club, ¿no? Compras el NFT y es eres ya, este, acreedor de los beneficios que pueden llegar a tener. Pero incluso si no tienes el dinero para comprarlo, ellos tienen como una un token que es gratis que cualquiera puede tomar y ese token te sirve para empezar a acumular puntos.
+
+[Speaker 4 - 01:17:13]
+Por ejemplo, si tú ya les compras camisetas o los discos vinil o vas a los conciertos, todo este, todas estas compras las puedes registrar en la Blockchain, porque todos sus artículos ya vienen con un scan para que lo vayas registrando y acumules estos puntos. Entonces, te va dando diferentes beneficios dentro de de lo que ya haces como fan, o sea, si como fan ya básicamente vas al concierto, pues ahora simplemente agregas esta este como token o esta experiencia en Web3 para que acumules beneficios por hacer lo que ya hacías. Entonces, y pues obviamente ellos ahí le meten algunos beneficios extras, ¿no? Como, no sé, giveaways o rifas dentro de todas las compras que se registran en la cadena, pues, este, como agradecimiento a la gente, pues, se le a veces se ganan algún Golden ticket, algún VIP, algún coleccionable y todo esto, ¿no?
+
+[Speaker 4 - 01:18:13]
+Entonces creo que está bastante bueno si lo ves desde el punto de vista como club de fans, ellos le llaman como club de fans en esteroides, porque tienen oportunidad de darle más beneficios a los usuarios. Entonces,
+
+[Speaker 2 - 01:18:31]
+pero Igual ya estamos hablando de tipo de personas famosas, ¿verdad? ¿Estamos hablando? Ellos
+
+[Speaker 4 - 01:18:37]
+son famosos, pero por ejemplo hay artistas independientes que he conocido dentro del de ese de ese club de fans que han optado por hacer algo similar, que tienen como una colección pequeña donde la utilizan como hacer fondeo para arrancar su gira. Como sabes que queremos arrancar una gira,
+
+[Speaker 2 - 01:18:58]
+este, pero la Es justo lo que justo lo que enseño en mi curso, mira.
+
+[Speaker 4 - 01:19:02]
+Entonces, esa gira, pues, la fondean con la primera ola de supporters o earth de adopters o o fans que ya siguen a la a la, este, a la banda y obviamente estos tokens pues les dan beneficios, ¿no? Por ejemplo, nos han mandado cajas de de ropa, yo aquí tengo mis gorras, mis, este, hoodies. Entonces, todo eso ayuda porque realmente si ya te gusta la banda, pues, bueno, yo como fan regularmente compro la las camisetas o los suéteres de la banda. Entonces, esto a ellos les da ese beneficio directo sin tener que tener alguna negociación extraña con récord labels que puedan aprovecharse de de una barbaridad. Exactamente,
+
+[Speaker 2 - 01:19:45]
+exactamente. Me están llamando Beto Kill pero les agradezco, ¿eh? Un besito un besito ahí, Mexi.
+
+[Speaker 1 - 01:19:54]
+No, muchas gracias, Sol. Saluditos por ahí, por ratito te paso por ti para irnos al mero. Dante, Tixter, qué interesante plática, Tixter, tenías una mano levantadas, no sé si quieres intervenir, adelante.
+
+[Speaker 3 - 01:20:07]
+Sí, es súper rapidísimo porque igual veo que ya ya andamos a través de todo, ¿no? Pero algo también interesante que por ahí mencionó Dante, es que, este, dentro de los shows que han estado dando recientemente también, pues, generalmente 1 va y compra, por ejemplo, en estos artistas ya a nivel un poquito más mayor, pues 1 va a Ticketmaster y compra los los boletos, ¿no? Este, para eso, pues, ya sabes que nos piden nuestros datos, de qué correo, número de teléfono y todo eso. Algo que me pareció súper súper chido que que la banda salió también con Ticketmaster para la gira, en el sentido en el que si tú comprabas tus boletos y, por ejemplo, no no tenías una wallet y ya había pasado el el el show, Te, aun así, podías reclamar tu prueba de asistencia. En este caso, ellos no lo están diciendo como POAPS, sino como POAS nada más, como POAS, y es, pues, un NFT que me parece que está en Polygon, pero es se queda, digamos, en una wallet custodial que se llama Verify. Verify es esta empresa que decía Dante ahorita de que, pues, por ejemplo, las playeras, los discos, traen un chip NFC, lo escaneas y pues ya se, digamos que ese se se va a tu wallet o se puede quedar en Verify.
+
+[Speaker 3 - 01:21:16]
+El chiste es que esto con Ticketmaster, a tu correo te llegaba un, este, pues un mail donde te decía de como oye, reclama tu prueba de asistencia, ¿no? ¿No? Y se puede quedar en esta aplicación de Verify o importarlo a tu wallet. Entonces, pues creo que también ahí, este, como que va a empezar también un poquito la adopción, ¿no? Y como decía Dante, también de estos proyectos de de un poquito más independientes que han empezado a a implementar estos modelos de negocios. Creo que puede ser igual bastante interesante, ¿no? Como tratar de, pues, no puentear a toda la gente, pero sí incluirla, ¿no? Dentro de dentro de las pruebas de asistencia, ¿no? Como que ellos tal vez todavía, digamos, la bandita web 2 todavía no sabe exactamente qué es un POAT, pero, pues, si le dan algo de del concierto al que fue, pues, creo que podrían interesarles poco a poco, ¿no? Entonces, digo, nada más me llamó esa la atención esa parte que dijo Dante del de las pruebas de asistencia de los shows y, pues, están puenteando también mucha gente de web 2 a los shows, nada más por reclamar su medallita, ¿no?
+
+[Speaker 3 - 01:22:19]
+Entonces, pues, vale la pena echarle un vistazo. Pues, ya, eso era todo.
+
+[Speaker 1 - 01:22:25]
+No, muchas gracias. Sí, sí, sí sé, sí había escuchado de eventos Sevenfolk, que tenían algo así de, pues sí, utilizando NFTs y programa de puntos, pero no a ese detalle que que padre que estén ustedes ahí metidos y que nos cuenten también de lo que están viendo porque, pues bueno, si cada 1 de estos, este, o sea, te para para lanzar algo así se necesita una infraestructura y pues cabrón, ¿no? O sea, no no es algo sencillo. Entonces, pues sí, algunos grupos podrán llegar a pagar lo necesario para hacer algo así, otros pues obviamente no. Pero sí está padre el modelo nuevo al que se puede aspirar. Y eso creo que se puede replicar no nada más para músicos, sino para muchas otras empresas industrias, etcétera. Pero bueno. Dante, no sé si quieras agregar algo. Ah bueno, no soy yo también, este, perdón, Jude punto it, bienvenido. ¿Cómo andas? ¿Te gustaría aportar algo o la conversación?
+
+[Speaker 5 - 01:23:23]
+Muy buenas, Mexi, muchas gracias. No, nada, simplemente quería subir para agradeceros, ya he visto que se ha ido sol, pero de verdad que el el trabajo que estáis haciendo allí en México me parece brutal, supernecesario, y y de verdad os lo quiero agradecer porque es que creo que es eso, es supernecesario y y estáis haciendo lo que se tiene que hacer realmente. Así que seguid, o sea, tenéis todo mi apoyo en lo que pueda ayudar, os voy a os voy a ayudar. Y y eso, si pues si necesitáis algo, tengo bastantes años de experiencia en el sector y estoy dispuesto a compartir conocimiento de manera gratuita. Yo no quiero nada a cambio, nada más que atención de gente curiosa y y pues que quiere aprender sobre el sector. Así que lo dicho, os tiro la mano y y nada, un abrazo a todos y muchas gracias por hacer esto. Ya no solo lo que estáis haciendo en México, sino el space es este, los space que estáis haciendo y nada, un abrazo a todos.
+
+[Speaker 5 - 01:24:27]
+Chau chau chau chau.
+
+[Speaker 1 - 01:24:30]
+No, hombre, muchas gracias, Joe, por los comentarios. La verdad es que, pues, solo hago lo que me gusta, este, me divierto mucho, lo disfruto mucho. Creo que, al menos mi objetivo, pues, es acelerar, ¿no? Lo más rápido posible el el la opción de estas tecnologías, pero también construir empresas, y por qué no unicornios. Y y me apasiona mucho y me me divierto mucho y y no, con gusto aquí andamos haciendo lo que hacemos. Son no soy 1 de 100, este, aquí veo conectado a todos los que veo conectados son son personas que están empujando en sus nichos, en sus áreas, con su gente, o sea, todos todos los que estamos aquí tú me obviamente me imagino, este, aunque no hacemos mucho, voy a estar más al pendiente. Creo que ya habíamos platicado, este, si no lo recuerdo, pero pero todos, absolutamente todos los que veo aquí conectados abajo son son personas que han hecho muchas cosas, creo yo, por este ecosistema y por atraer gente y por ayudarle a la gente YYY creo que ahí vamos juntos bien.
+
+[Speaker 1 - 01:25:33]
+Creo que el sistema va mejorando y avanzando poco a poco. México tiene una oportunidad enorme, ha crecido mucho el último año con ayuda de muchas personas que han estado muy muy activas y que las veo aquí conectadas AAAA muchas, este, entonces, pues es un trabajo que es en conjunto y que lo disfruto mucho, pero pues ya, ahora sí me voy a ir despidiendo. No sé si alguien más quiera decir algo, Dante, Bancu, Tixter, sino yo les echo mi choro y y los rogueo. Bueno, pues entonces, hoy tenemos reunión a las 7 de la tarde en MX Web 3. Vamos a estar ahí en el hub, en Plaza Regia, cerca del Tec de Monterrey, hablando de la ronda de fondeo de bitcoin. Y hablan, no, perdón, hablan. Estoy confundiendo. Arbitrum y Oneinch. Arbitrum y Oneinch están apoyando a esta ronda y nosotros las comunidades somos 12 comunidades las que estamos por ahí moviendo ese tema y vamos a repartir más de 1800 ARPS que son casi 3800 dólares más o menos, de fondeo cuadrático adicional a lo que la gente done para decidir cuáles proyectos son los que van a ser apoyados.
+
+[Speaker 1 - 01:26:39]
+Estamos buscando aplicaciones para gestionar comunidades web 3, tema de tokens, tema de de de apestations, a lo mejor registros de acceso a eventos, NFTs de boletos, hay muchas iniciativas y alternativas que pueden usar, Temas de account abstraction, distribución de tokens, airdrops, lo que se les ocurra se puede llegar proponer ahí. Ya veremos si si si es algo que que los que vamos a estar curando la ronda decidimos que entre. Yo creo que la gran mayoría va a entrar si son aplicaciones open source que nos pueden ayudar a muchos y pues bueno, hay dinero, hay de por medio para la gente que se apunte y que quiera construir. Vamos a hablar eso hoy en la tarde, ahí en el cripto Hub, para que la gente aquí de Monterrey sepa cómo es la ronda, que si tiene alguna duda para lanzar su propuesta, pues ahí se las se las ayudamos a resolver y que, pues que se animen, ¿no? Finalmente queremos que al menos 2, 3 equipos lancen ahí una alguna propuesta y la la desarrollen y se lleven ojalá su fondeo y su donación.
+
+[Speaker 1 - 01:27:43]
+Mañana Abraham tiene un evento por ahí estaba viendo, déjenme les doy información también acá en Monterrey. El evento de Abraham Reeves es de Metapull, déjenme lo busco por aquí que quiero que no se lo voy a piñar. Les voy a piñar el de hoy. No, ay no. Híjole, no les piñee, no les piñee el, aquí está, el space, no les piñee, ahí está, Ahí están los 2. Espinier, link al Sola, al rato lo Twitter. Pero para que vayan y traen un reclamen o o compren su. El viernes, aquí está ya pineado. El viernes, mañana a las 6 de la tarde. ¿Por qué existe Metapull? Y el Liquid Staking es una plática en el laboratorio de Nuevo León, ahí en el centro de Monterrey, calle Washington, 648, en el centro. Va a estar está apoyado por Crypto Brunch de Cande, Digitalizados de Abraham y Crypto Monterrey de y no me acuerdo cómo se me había bien a mi compadre, pero creo que sí, sí, qué es. Qué chido, qué chido, no sabía hasta hasta hoy que se iba a hacer este evento. Cáliganle si están acá en Monterrey.
+
+[Speaker 1 - 01:28:44]
+Se ve que va a estar cool, yo no sé si pueda, ¿verdad? Pero bueno, ahí te confirmo mañana. Y pues nos vemos al ratito. De todas maneras, el lunes empieza de nuevo el curso con SOL, estamos por ahí lunes y miércoles y luego ahí les estaremos avisando si ese festival y no o cómo. Pero pues bueno, la idea es seguir platicando estas tecnologías, seguir fomentando la adopción. Yo creo que con músicos es es es de una manera muy chida que podemos experimentar y que estamos ya experimentando acá en Monterrey para hacer onboarding. Y para atraer gente a la comunidad y atraer gente a a nuestros proyectos, etcétera. Entonces, bueno, vamos a experimentar con eso los próximos meses. Este es el inicio con el curso de SOL, pero la idea es empezar a la comunidad y seguirla fomentando y ayudarles a que utilicen y resolver dudas y lo que sea. Ojalá se pueda venir solo a Monterrey, estaría padre que empezara a hacer acá lo que es de por allá porque pues no hay nadie.
+
+[Speaker 1 - 01:29:45]
+Este, creo yo alguien fijo así, 00A menos que el Ticster me me me me corrija pero yo no había visto algo así, este, pero pues bueno, ahí podemos hacer colaboraciones con quien esté en cualquier lado. Y y ya, es el último que hoy se le tenía. Gracias por estar acá. Busqueme mucho. Los voy a rogar. Hasta luego.

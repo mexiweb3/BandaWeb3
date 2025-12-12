@@ -1,0 +1,633 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #20240130
+Título: BW3 - Apps Web2, XRC20 🌉 2️⃣ @Arbitrum, $WEN, $JUP
+Fecha: 2024-01-30
+Host: BandaWeb3
+Tipo: hosted
+
+Descripción:
+Hosted Space: BW3 - Apps Web2, XRC20 🌉 2️⃣ @Arbitrum, $WEN, $JUP
+
+Duración: 01:49:16
+Escuchas: 90
+Speakers: 5
+
+Links:
+  Space: https://x.com/i/spaces/1nAKEanZYlAKL
+  Dashboard: https://spacesdashboard.com/space/1nAKEanZYlAKL/bw3-apps-web2-xrc20-2-at-arbitrum-wen-jup
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+
+[Speaker 0 - 00:00:00]
+GM, GM, banda. ¿Cómo andan el día de hoy? Buenos días, buenas tardes, buenas noches, dependiendo dónde estén escuchando esta grabación. Gracias a todos los que se están conectando también. En un momento va a estar con nosotros Abraham, y vamos a platicar de muchas cosas que han sucedido en el ecosistema últimamente. Por ahí, si están escuchando este espacio sabrán que perdí mi cuenta anterior. Y que puede andar viviendo o bueno construyendo con esta. Y pues bueno, al ratito les contamos bien qué onda.
+
+[Speaker 0 - 00:01:07]
+Pero pues son las consecuencias de utilizar herramientas web 2. Hay otras que están surgiendo por ahí como Farcaster, vamos a hablar un poquito de ellas. Yo creía que los inscriptions, que los famosos XRC 20, iban en algún momento AAA jugar una parte interesante o un rol padre con todas las aplicaciones sociales, definitivamente necesitamos una urgentemente totalmente descentralizada. Que no te suceda lo que puede llegar a suceder, lo que está sucediendo ahorita con muchas cuentas en x, vamos a platicar de eso.
+
+[Speaker 0 - 00:02:16]
+Pero, pues bueno, vamos a arrancar con algo de musiquita, como siempre. Alguna de la una de las razones por las que creo que también están que estoy o que la gente está perdiendo algunos de sus cuentas es por a lo mejor utilizar música que tiene del propiedad intelectual restringida. Entonces, pues bueno, esto es algo web 3. Tengo el permiso de tocarlo sin ningún problema, ya que es público. Entonces empezamos con solo voz de sol 7. En un momento comenzamos.
+
+[Speaker 0 - 00:03:17]
+Gracias por estar por aquí. Bienvenidos, bienvenidos. Perdón, aquí andamos ya de regreso, estamos estrenando cuenta nueva. Yo creo que, híjole, va a tardar, va a tomar un un poco de tiempo por ahí, actualizar todas las páginas, todos los links, todas las cuentas. A ver, deme un segundito para que ya dirijan a la nueva. Pero bueno, ahí ando poco a poco. Este, ya me en una de esas no tenía ni contemplado qué tenía que hacer, lo que es Luma. Que por cierto, aprovecho a todos los que andan por aquí, el domingo vamos a tener carnita asada allá en Puebla.
+
+[Speaker 0 - 00:04:30]
+Este, y actualicé por ahí el UMA con la nueva cuenta. El Instagram también, por ahí ya lo actualicé. Ya le puse también Ah mira aquí está buena ¿verdad? Vamos a echarlo para acá arriba. Vamos a controlar ahorita con él. Y obviamente todos, como siempre, el que guste aportar a la conversación, vénganse. Estoy súper contento de poder estar acá con ustedes de nuevo, que todo el apoyo que que que ayer pues pues demostraron por ahí públicamente en sus redes, se agradece un chorro.
+
+[Speaker 0 - 00:05:34]
+Esta cuenta es una cuenta que por ahí a ver, ahora no sé por qué no puedes. A ver otra vez. Cat speaker. Gris, vente para arriba. Hoy no te seguía. Ayúdenme a difundir, obviamente. Te se ayuda muchísimo. Me ayuda muchísimo y se agradece muchísimo para que todos los que ahí escuchaban estos espacios, que pasen, que que que no se los pierdan. Aquí vamos a seguir, no nos para absolutamente nada y qué chido tenerlos para acá. ¿Qué onda? ¿Cómo andan? ¿Qué onda, Abraham?
+
+[Speaker 0 - 00:06:35]
+Bien, bien. ¿Me escucho bien, güey? Sí, ¿y yo? Estoy en Compu. Chido, no, se lucha, se escucha con mal. Sí, sí, sí. Todo todo bien, por favor. Gris, bienvenido igual, el que guste, este Gracias por estar por aquí, eso fue sol 7. Vamos a empezar fuerte la campaña por ahí, Abraham. Luego te te, a ver cómo nos nos puedes ayudar, pero creo que ya vamos tarde, pero bueno, más más más vale tarde que nunca. Es correcto. Ya por ahí tenemos la información y vamos a estar difundiendo las fechas del taller acá en Monterrey.
+
+[Speaker 0 - 00:07:43]
+Voy a andar por allá en Puebla. Llego el miércoles a Ciudad de México, tengo una comida y luego tengo una cena.
+
+[Speaker 1 - 00:08:06]
+¿A qué vas a Ciudad de México? Si
+
+[Speaker 0 - 00:08:09]
+Si Sí, güey, voy voy el miércoles voy a México, este, tengo una comida con con con alguien web 3 y tengo una cena también con gente web 3, ahí luego les estaré platicando todavía, no sabemos a dónde vamos a ir. Si hay algún evento en la noche de México, igual ando buscando fiesta. Sí. ¿Tú cuando vas para allá güey?
+
+[Speaker 1 - 00:08:25]
+Por 2, yo voy a estar el 6, del 6 al 18. Yo voy a agarrar un ratote para allá.
+
+[Speaker 0 - 00:08:32]
+Sí, sí, sí, sí, sí. Gris cuando quieras, quiero pedir ahorita estamos aquí cotorreando. Creo
+
+[Speaker 1 - 00:08:38]
+que sí justo te iba a decir. ¿Qué onda, qué onda, Gris? No vale, dale Abraham, ¿cómo están, cómo están? Bien, bien échale échale, yo nomás iba a decir que esta Rosa dijo que en 6 hay eventos de Bright Moments, Entonces, dice que se ponen buenos o como de artistas. Entonces, a ver qué onda. Pero ese es el martes. Ese sí es el martes, chalet.
+
+[Speaker 2 - 00:09:00]
+Yo les iba a preguntar que qué pedo con el itinerario en Puebla, Mexi. Llegas el jueves. ¿Qué va a haber el jueves? ¿Qué va a haber el viernes? ¿Qué va a haber? Cuéntame. Yo llego el llego el jueves a mediodía.
+
+[Speaker 0 - 00:09:12]
+Ah, excelente fregón. Nosotros, mira, ahí te ahí les va, les platico todo porque creo que está chido, y es, este, pues, gran parte lo que estamos construyendo ahí con SOL acá en Monterrey, YYYY con las chavas, que a mí me gusta apoyar proyectos de mujeres. Como siempre lo he dicho, pero bueno, el miércoles llego a Ciudad de México como con una amiga y luego seno con otras 2 amigas que traen ahí proyectos bien bien cool. Pero no sé si haya un evento el miércoles en México. Si hay evento el miércoles web 3, a lo mejor nos nos nos animamos a Y luego, en la mañana siguiente, bueno, ese día en la noche vuela sol. Sol vuela a Sao Paulo y luego llega a México. Yo paso por ahí al aeropuerto el jueves en la mañana y de ahí nos vamos con Ale Ramos a Puebla. Yo creo que a creo que a Puebla vamos a estar llegando por ahí de las 12, una de la tarde. Ese día hay fiesta en Puebla, el jueves en la noche está la fiesta loca. Ayer prometieron ¿Qué qué qué tanto decía Suri ayer Abraham?
+
+[Speaker 0 - 00:10:14]
+Cuéntanos porque no no alcancé a escuchar ese pedacito de la fiesta loca. Yo
+
+[Speaker 1 - 00:10:20]
+escuché yo escuché que dijo que que muchos no no la van a a librar, que ahí vamos a perder mucha gente web 3. No, dijo que va a estar chida la fiesta, que hay que están dando boletos, o sea, esa creo que es por invitación. Entonces dice que la las comunidades aliadas y protocolos, los patrocinadores están dando como que el boleto, ¿no? Para la fiesta. Dijo que 1 de los que más está dando ahorita es Vara haciendo dinámicas. Entonces ahí échenle ojo a Vara. ¿Qué dices, Gris?
+
+[Speaker 2 - 00:10:51]
+Que sí saben dónde va a ser. Eso es
+
+[Speaker 0 - 00:10:55]
+No, lo están manejando, están están buscando generarle su hypecito y su fomo YYYY así con tácticas. Sí, sí, sí. Exclusividad estilo
+
+[Speaker 1 - 00:11:05]
+club house. Pero tú
+
+[Speaker 0 - 00:11:07]
+caile, güey, ahí hay un A huevo, a ver, si no me van a dejar entrar en el azul. Ahí resolvemos, güey, eso no se no. A huevo. Sí, sí, sí. Este, pero bueno, esa es la ese ese día va a estar con madre porque ahí según escuché ayer se quieren destrampar ese día. Entonces que si baile, que si fiesta, que y al día siguiente empezamos tarde, entonces está chido, empiezan a las 2 de la tarde creo que la ceremonia No y luego los las fiestas de la comunidad latina de Web3
+
+[Speaker 1 - 00:11:34]
+sí sí están cabronas, ¿eh? Sí están pesadas.
+
+[Speaker 2 - 00:11:38]
+Chingón. Pues bueno, ahí nos vemos el jueves entonces.
+
+[Speaker 0 - 00:11:41]
+Sí, jueves en la noche y luego viernes es el Hackathon. En la noche el viernes también hay una reunión de comunidades. Por ahí, si no siguen ahí, 5 de Mayo, acaba de publicar un notion. En el notion están todos los side events. Hay un chorro, güey. Este, desde el desde el jueves en la mañana hay cosas así como más técnicas YYY de entrenamiento y pláticas para devs. O sea, sí sí hay un chingo de actividad de toda esta semana. Creo que ya empezaba hoy o mañana, los de Frutero, un un un taller un poquito más especializado para la gente que quería hackear. Sí, hay un chingo de actividad estos estos días allá en Puebla, va a estar va a estar cool. El viernes ah bueno no, el sábado no sé y el domingo es la carne asada. También para que se apunten luma l u punto m a diagonal grill. Todo el que quiera apúntense lu punto m a diagonal grill para considerarlos. Y si son veganos o vegetarianos, también avísenos porque estamos viendo ese show. Para que todos puedan comer.
+
+[Speaker 0 - 00:12:41]
+A ver loco, a poco coman Para que se vayan a hacer otro restaurante.
+
+[Speaker 2 - 00:12:47]
+No, no es
+
+[Speaker 1 - 00:12:48]
+cierto. No, a ver.
+
+[Speaker 0 - 00:12:50]
+Sí, ahí sí hay, pero no. Yo creo que vamos a poner unas berenjenas definitivo. Están riquísimas con aceite de oliva y sal. También podemos poner unos unas calabacitas, me gustan con quesito,
+
+[Speaker 1 - 00:13:03]
+podemos poner también quesadillas, no sé si la gente que haga coma queso o no, depende ya de de cada cualquier problema. Hay de vegetarianos y veganos. Según yo, los vegetarianos sí comen queso y los veganos nada que tenga que ver con origen animal.
+
+[Speaker 0 - 00:13:17]
+Si empezamos esa plática, no vamos a acabar nunca. Entonces, un poco más. Pero sí, sí, sí, sí. Ya veremos a ver para que todos puedan comer. Si no, pues bueno tortilla y sal, güey. Ya veremos. Pero sí, va a estar chido el Hackathon, por ahí voy a ser mentor, no sé bien qué show. Tú, Gris, este, ¿ya te registraste? ¿Vas a hackear? ¿Solo a hackear? Está chido que ya llegue a hackear.
+
+[Speaker 2 - 00:13:43]
+Ya me me registré y no, güey. No sé qué voy a ir a hacer. Voy a voy a chismosear, voy a ir a ver qué pedo con la bandita. La neta voy por el el networking, a mí es lo que me interesa, conocerte a ti YAA toda la bandita Web 3 en la vida real. Eso está chido, entonces a ver qué pedo.
+
+[Speaker 0 - 00:14:01]
+Sí, ese en ese sentido va a estar bueno. Eso sí es algo que que que está padre porque sí somos muchos y somos los mismos, bueno no tantos, pero sí somos los mismos en todos lados. Está padre poder volverlos a ver a algunos para seguir conectando y fortaleciendo enlaces. Conocer a otros que no conozco, que también he he estado muy cerca de de lo que están haciendo y quiero ver como apoyo. Va a estar va a estar muy chido, vale. Pero bueno, este, Hackathon, yo creo que con eso Ah bueno, el lunes no sé bien qué onda. Yo llevo y voy a llevar ropa para montaña. Se supone que íbamos a ir a a trepar cerros, este, no sé cuál ¿Cuál vato? No sabes. No sé. Sí, no sé. Estaban entre si ir al parque ahí Ixta Popo o ir a al nevado de, no, al al al, ¿cómo es que le llaman? La Meliche. A la Meliche. Sí. Esa no la conozco, sí me encantaría ir También los 2. El East Tapopo está un poco más perro, o sea, más alto.
+
+[Speaker 0 - 00:15:02]
+Ese sí lo conozco, güey. Me me me batallé un chingo entre par en lista, güey. Sí. El año. El primer intento no no no hice cumbre. Y luego, como 10 años después, ya pude hacer cumbre en lista, está increíble. Es una puttiza. Me gustó
+
+[Speaker 2 - 00:15:19]
+muy cabrón güey. La la maliche no es tanta puttiza. O sea, creo que sí puedes ir, aunque no te prepares, sí tienes chance de de subir bien. Entonces, si quieren ir a la malinche sí vale la pena. Hay un albergue ahí en la montaña, está padre.
+
+[Speaker 0 - 00:15:33]
+Sí, ese ese yo creo que ni si me dice mi área de los que yo escoja, yo le diría vamos a la Malinche que no conozco, este, y ahí vamos, ¿bien? Pero Muchos cerros. Nosotros regresamos el martes. ¿Vamos a trepar cerros un domingo? ¿Habrá acá en Monterrey güey? El que quieras. Ojalá, ojalá,
+
+[Speaker 1 - 00:15:50]
+¿Cuáles te subes Mex? Si la otra vez te pregunté y nomás te raíste de que nomás me he subido a Chipinque.
+
+[Speaker 0 - 00:15:57]
+No hombre, es que hay hay, o sea, hay un chingo güey. Pero es trepado, pues yo creo que más de 100 picos diferentes en todos lados. Me gusta mucho, o sea, conocer montañas nuevas. Y hay un chorro aquí en cerca de la zona, manejas 2, 3 horas, y tienes 100 y 100 de aventuras súper diferentes y divertidas. Con sus retos técnicos, algunos para llevar cuerda y arnés y casco y y otros de caminas entre agua y nada Sí, están esos Sí, güey. Son de mis favoritas Hay unos cañones increíbles, güey. La naturaleza aquí es espectacular. Yo creo que en todos lados, pero aquí,
+
+[Speaker 1 - 00:16:35]
+puta. Sí, México es una es una joya. Es una joya de la de la flora y fauna, la neta. Pero sí, déjalo, déjalo el domingo. Quiero empezar a hacer eventos, güey. Así tipo,
+
+[Speaker 0 - 00:16:46]
+este, más de de de de montaña, web 3, a ver a ver si hay interés. Pero bueno, vamos a ir viendo el el lunes a ver qué tanta gente se anima a la a la a la montaña y si en realidad se hace, porque no han confirmado nada ni ni ni sé bien qué onda. Pero pues bueno, ahí vamos bien. Oigan, pero pues bueno empecemos, entremos al tema. Gracias a todos por estar por aquí. Invité el día de hoy a Abraham y se subió gris. Vamos a estar platicando de lo que viene acá arriba en el título. De las aplicaciones web 2 y lo que asumimos y lo que nos pasa cuando las usamos. Y estaría padre también comentar sobre algunas aplicaciones web 3 que estoy viendo, que han estado agarrando traccioncita y que voy a empezar a utilizar para ver si por allá los veo también, este, porque creo que aplica el mismo concepto, la misma ideología de de que que que, bueno, no creo, definitivamente aplica. Que hablamos mucho, ¿no? Acá en este ecosistema sobre la posesión de los activos digitales y lo que permite la tecnología.
+
+[Speaker 0 - 00:17:48]
+Porque si no tenemos nuestra llave, pues no no tenemos nuestro dinero. Y lo mismo sucede acá con las aplicaciones web 2. Si si si no es algo descentralizado, si no es si es algo donde alguien puede decidir en el cierto momento, por X0Y. Ahorita vamos a hablar de el caso específico mío que está recién bien interesante, creo yo. A lo mejor es el de todos, no sé. Este, ya me gustaría escuchar a los demás que también han experimentado algo así, porque hemos sido muchos. Pero estamos a expensas de lo que ellos quieran. Y cuando gusten y manden y decidan, por la razón que tú quieras te pueden llegar a eliminar y cortar tus cuentas. No soy ni el primero ni el último.
+
+[Speaker 1 - 00:18:31]
+Sabía y estaba preparado para ese momento, estaba seguro que me iba a pasar en ¿Por qué por qué crees que te por qué crees que haya sido? No sé, llegué tantito al Space, no sé si ya lo dijiste, pero ¿por qué? ¿Por los XCRC 20, por Report? No, apenas empezábamos a hablar de eso, era como que la introducción al tema, porque
+
+[Speaker 0 - 00:18:49]
+en ese momento yo asumí y desde el 2009 que tengo esa cuenta, y esta también está es del 2009 por si quieren ir a revisarla. Tengo varias de esas fechas por ya les he contado, ¿no? Todo el tema del de lo que hacíamos y la comunidad que teníamos de del pócar. Había mucha gente anónima también en ese entonces. Me ha tocado, este, hace 12 años, este, tratar con mucha gente anónima también en ese en ese ambiente. Y por eso tengo por ahí muchas cuentas, este, pero sí, pues, no sé, Ábrame, si a ti te ha pasado, Gris, si alguno, también, si alguno de los que está abajo está ahorita No, sí, sí, sí. Construyendo sus cuentas de si alguno de los que está abajo está ahorita construyendo sus cuentas de 0, que suban o platicarnos, pero pero no deja tú de 0, o sea, una nueva. De
+
+[Speaker 1 - 00:19:31]
+todas maneras es un show Bueno, sí, bueno, deja te cuento así breve, porque la neta sí he tenido varios agarrones con varias redes. De hecho fíjate que X se ha portado muy bien. No quiero hablar de más, porque capaz sí luego me la tumban acabando el space. Pero en cuanto a todas las redes que he usado, X ha sido la más bien portadita. Twitter, pues. Este, nombre. Yo me acuerdo, o sea, pues ya he contado, ¿no? Varias veces que en digitalizados llevo haciéndolo desde ya como hace 2 añitos. Este, y es multi multiplataforma, por así decirlo ¿no? O sea, estamos en todas las redes que se puedan. Y me acuerdo que la página de Facebook, cuando recién empezamos a hacer de que los clips del podcast, cuando era podcast, pegó y pegó y pegó un buen. O sea, llevamos como a 4000 seguidores bien rápido, casi. Y Y luego de que cuando traté de ver qué onda, o sea requisitos para monetizar, porque pues mi idea era monetizar los videos de Facebook ¿no? Pero chequé y básicamente me decía que mi cuenta, o sea la página era inmonetizable o sea ni aunque le moviera iba a monetizar ¿Por qué?
+
+[Speaker 1 - 00:20:40]
+Que porque en un punto en un clip que subí o sea tuve una infracción de de Facebook y ya eso me hizo inmonetizable la página Por por siempre y para siempre. Dije, no friegues. Entonces me hice otra, hice otra página, empecé de 0 y pues fue es la que ahorita en Facebook, pues la que muevo, ¿no? La que tiene otra vez tracción. Al final de cuentas, pues volvió a surgir y así rapidito la otra el el otro inconveniente que tuve fue en TikTok. Que en TikTok es así hombre. No sé si la has escuchado, Mexi, cuando la he contado pero agárrate que esto está bien esfumadota. TikTok me puso un strike donde básicamente mis videos ya no tenían vistas ni nada porque estaba con el Shadowban. ¿Por qué? Porque según Tik Tok, ojo ahí, yo estaba subiendo contenido sexual explícito. Increíble. Entonces, no sé si mi apariencia física es muy sexosa o por qué TikTok me puso esa ese van. Pero sí, o sea, cuando leí eso fue de que no me friegues. O sea, como que contenido sexual explícito En TikTok cuando literalmente solo estoy haciendo videos de que es un negro drop.
+
+[Speaker 1 - 00:21:46]
+O sea, no manches. Entonces, pues sí. Y en TikTok pues apelé y luego me ponían otra infracción y otra. Y la neta es que nunca los tienes contentos, la verdad. O sea, nunca los vas a tener contentos, siempre te van a estar tumbando. Y por eso empecé el newsletter. Porque, al final de cuentas también, pues, son plataformas web 2, pero la base de datos de correos te pertenece a ti. Entonces, si un proveedor te censura, te vas a otro. Si ese te censura, te vas a otro. Y al final de cuentas, en el largo plazo vas consiguiendo gente que le interesa lo que tú estás transmitiendo a través de ese canal de comunicación. Y sin importar si un proveedor no le gusta lo que hagas, te puedes mover a otro con tu, pues, con tu base de datos. Y es un canal de comunicación directa muy, muy bueno, entre creador y audiencia, la verdad. Ese, o sea, yo creo que ese canal y grupos de WhatsApp son súper súper valiosos. O bueno, grupos Discord, WhatsApp, Telegram, lo que sea.
+
+[Speaker 1 - 00:22:47]
+Pero son muy valiosos porque son las únicas cosas que en realidad sí nos pueden pertenecer aunque, pues, a las plataformas no les guste. Entonces pues esa ha sido mi mi experiencia.
+
+[Speaker 0 - 00:23:04]
+¿Tú gris que has que ha tocado experimentar algo así? Ya les piné acá abajo, les puse como comentario y te voy a opinar acá arriba. Lo que me mandó a mí. Yo les voy a platicar de lo que yo sé, ¿no? De lo que me toca vivir a mí. Si gustan, este, pues ahí ahí ahí ahí la historia, pues aquí estaremos platicándola. Les voy a poner ahí los prints creens de lo que me llegó. Ahorita vamos con gris, pero en mi caso, lo que dice el correo, y no sé si sea solo a mí o si a todos los que estuvimos, este, o los que estamos experimentando ahorita esto de del de la suspensión permanente de las cuentas, Según lo que dice el correo que me llegó a las 4 de la mañana, el día que yo descubrí esto fue que así, que me habían suspendido por un reporte de usuario, y que me habían suspendido por violar las reglas para evadir la suspensión, o sea, me suspendieron por evadir la suspensión. Es una excepción así medio loco, ¿no? Es Sí, te digo que se fuman
+
+[Speaker 1 - 00:24:03]
+a veces. No manches.
+
+[Speaker 0 - 00:24:08]
+Entonces, bueno, Gris, no sé, ¿tú qué qué opinas? Ahorita les voy a buscar el último correo que me llegó porque les platico.
+
+[Speaker 2 - 00:24:14]
+Échale échale, Gris, mientras los No, es que digo raro porque, a ver, yo no no había tenido nunca, este, como este tipo de, pues, alertas y últimamente, no sé, interactúo con algún post o después de un ratito de no estar en Twitter, quiero dar un like, dar un retweet o algo, y me manda como un aviso de, por favor verifica que sí sea su mano, ¿no? Y te pide resolver 1 de estos captchas, ya sabes, de cuántas piedras ves aquí, o pon 2 piedras en la siguiente foto, cosas así. No me ha bloqueado la cuenta hasta ahora, no he tenido como ninguna suspensión o aviso ni nada. Lo único que sí fue, una vez hice otra cuenta para un concurso de una madre, y esa sí la bloquearon un ratito. O sea, creo que, más bien empiezas cuando cuando la banda empieza a hacer más de una cuenta, es cuando empiezan a haber este tipo de problemas, según lo que he visto.
+
+[Speaker 0 - 00:25:13]
+Eso es algo interesante. Pero no no creo, no estoy seguro porque, no sé, este, pues hay gente que maneja un chorro de cuentas. Yo yo toda la vida he manejado chingos de cuentas. Que si la del MX Web 3, que si la del equipo de softball, que si la de la jugada, que que que o sea, bueno, yo en lo personal, ¿no? Este,
+
+[Speaker 1 - 00:25:36]
+yo uso mucho todo. Por 2, también yo tengo varias cuentas YYY no. No, no, no. De hecho, pues me me llegó una advertencia. O sea, eso sí me llegó. Me me bloquearon la cuenta como un un minuto, un segundo, no sé. Hice un captcha de poner cuántas piedras había en el río y ya me devolvieron. Entonces, no sé, pero sí sí me suspendieron la cuenta por un minuto, unos segundos, ¿sabes? Entonces está está rarillo que todos fueron, los sucesos fueron muy seguidos.
+
+[Speaker 2 - 00:26:07]
+Mabe están experimentando con el algoritmo. La verdad es que no sé muy bien cómo funciona, o sea, no no no tengo idea por qué te bloquearían o por qué no. O sea, porque hay muchas cuentas que actúan como bots y no hay un pedo. Pero, por ejemplo, Mexi, que tiene un montón de reacciones orgánicas, que tiene un montón de, o sea, pues estás tuiteando cosas tuyas todo el tiempo, ya sabes, a ver si no son fotos, si no son links, si no son memes, si no son gifs. No es como que es una actividad muy repetitiva, ¿me entiendes? Es contenido diferente de cosas diferentes.
+
+[Speaker 0 - 00:26:38]
+Sí me sí me gusta shiphostear mucho, lo acepto. Me divierte mucho shiphostear, sí. Pero yo creo, y bueno y aquí ya la espiné arriba. 1 es lo que lo que dicen, ¿no? El primer reporte. Ya que recibo yo ese reporte, me mandan, entro a la entro a la aplicación y la aplicación me dice, ha sido suspendido, ve a esta formulario y manda un appeal, ¿no? Manda tu tu tu, o sea, si crees que estamos incorrectos, manda tu tu tu explicación de por qué crees que estamos incorrectos. Ya yo escribo mi correo y les mando, tengo usuario, soy usuario desde el 2009, hago espacios, tengo una comunidad, bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla Violaste de de de de de de en más de una de una ocasión las reglas, tu cuenta no va a ser restaurada, vamos a cerrar el caso y todo lo que vuelvas a decir nos vale
+
+[Speaker 1 - 00:27:44]
+madre. Y ya, así fue, eso fue, nada más. Luego son medio ambiguos, ¿no? De que, o sea, te dicen rompiste tal regla, pero no te dice cuál regla, nomás te dice que que la regaste, o si te especifica.
+
+[Speaker 0 - 00:27:57]
+Sí. Este el el el y eso es lo que creo yo que deben de aplicar con todo mundo, ¿no? Incumpliste la regla de, o sea, te suspendemos por buscar evadir la suspensión. Entonces, ¿cómo les debates eso? O sea, pues obviamente todos vamos a evadir la suspensión, creo yo, en algún punto, ¿no? Nadie nos quiere queremos que nos suspendan. Entonces, no sé, o sea, ya es, pues bueno, ni modo. Pero pero de nuevo, ¿por qué les platico esto? Obviamente porque me sucedió, es lo que lo que lo que nos está pasando a muchos. Yo ya tenía esta cuenta también por ahí activa desde el 2009. Habíamos la había utilizado para la comunidad de la jugada y bueno, la reviví, este, para para volver a tener números. Los números afectan, los números pegan. Queramos o no, el tener 5 seguidores es muy diferente al tener 1000. Y el que lo pueda llegar a hacer así rápido, también es algo que que sé que la gente voltea a ver y dice ah qué bueno. Entonces, este, no es la única que tengo. Tengo otras por ahí también, otras alt que también tienen ahí 100 de seguidores que pues bueno, estoy seguro que en algún momento a lo mejor esta también lo va a tocar y ni modo.
+
+[Speaker 0 - 00:29:08]
+Así vamos a tener que construir hasta que ya entendamos y migremos todos, y yo también obligo a lo mejor a la gente a que si quiere escucharme vaya y me escuche en otras plataformas que no donde no puede permitir eso. Y ese es 1 de los temas que quería por aquí traerles a la mesa. ¿Qué opinan? Yo creía que los XRC 20 eran una probable alternativa para Socialfire. Yo sí creo que hay un un una un un problema muy grande, grande, grande, grande y ya lo viví, este, en carne propia, ¿no? De del del control de estas plataformas, este, y es algo que se viene diciendo desde hace mucho y que en realidad hasta que no lo vives no dices hijos de puta madre, o sea, ya cabrón, o sea, ¿no? Este, entonces no sé qué opinan ustedes, yo sé Gris, Abraham, ustedes tienen canales de comunicación. ¿Han pensado en hacer algo exclusivo en otras plataformas que donde no nos pueda pasar esto? Yo creo que voy a empezar algo así,
+
+[Speaker 1 - 00:30:08]
+para ir jalando banda. Sí, sí lo he pensado y no he visto un un un, o sea, sí es un motivo muy fuerte el decir, no manches, en cualquier segundo hago algo que algo que no les guste a la plataforma y bye. Pero fuera de eso no he encontrado más incentivo, o sea, ya hay más redes, ya hay más redes, pero siento que todavía no están tan maduras por lo menos para el ecosistema latino, ¿no? Entonces, pues a lo mejor en el gringo, digo, tuitear o hacer contenido en inglés, digo, no es mucha diferencia, pero no no sé, no no. Por decir, en Lens, Lensterhey, ya no sé ni cómo chingado se llama. Este, veo que hay mucho contenido en inglés, mucho, mucho. Y y aún así, pues está está normal. O sea, está está leve. O sea, todavía no hay tantos usuarios como para decir, voy para allá. Y como no hay un buen jugador, en mi opinión, la verdad, en es es mera mera mi opinión, yo creo que no hay un jugador ahorita interesante en cuanto a SocialFight.
+
+[Speaker 3 - 00:31:07]
+Este, pues no, no hay nada que me llame la atención. Así como para decir, me voy a enfocar en hacer contenido específico en tal atención
+
+[Speaker 1 - 00:31:11]
+así como para decir me voy a enfocar en hacer contenido específico en tal plataforma. Entonces de mi parte sí lo he pensado pero no no creo hacerlo en un buen ratito. ¿Qué onda? Se subió Ana. Ana Ana. ¿Cómo andas?
+
+[Speaker 0 - 00:31:23]
+Bienvenida, bienvenida.
+
+[Speaker 5 - 00:31:24]
+Yo solamente vengo a decir que se los dije. Yo se los dije. Yo les dije, no se metan a Es cierto. Y les valió madres. Sí, es cierto. Les vengo a decir eso.
+
+[Speaker 1 - 00:31:35]
+Hagamos flashback de cuando estamos en ese space que hizo Mexi, un sábado creo que era, ni me acuerdo qué día. Yo les dije, no lo hagan. Y ahí van. Ahí van.
+
+[Speaker 0 - 00:31:45]
+No, tienes razón. Y se discutió muchas veces. En ese espacio, bueno, ese día que empezó todo este relajo con los XRC 20, sí, qué bueno que migramos a ese tema porque creo que es una de las causas. Una de las causas que ocasionó estos bloqueos, porque yo soy 1 de 100, este, 1 del montón, 1 más, 1 más. Pero creemos que fueron los XRC 20, esos post que por ahí fomentamos con esos tokens que que que salieron en esos espacios, estoy casi seguro. O y hay por ahí gente que dice y Caro, por ahí cree que me y me ha comentado que podría ser también el el el poner música que tiene propiedad intelectual por ahí prohibida en los espacios, no sé. Por eso hoy puse a a Sol 7, que bueno ahorita platicamos de eso, el taller que va a dejar en Monterrey, pero los XRC 20 yo creo que fueron lo que ocasionaron todo esto. Esos tokens ahorita y esa plataforma ahorita con lo que está pasando, yo creo que ya va, o sea, eso va a morir. Tweetcriptions levantó 300 Ether por un les doy ahí un resumen rápido.
+
+[Speaker 0 - 00:32:49]
+Ese día empezamos los espacios. Tweetcriptions es una nueva manera de distribuir tokens en en un de una forma totalmente web 2, ¿no? En un en un servidor centralizado de ellos. Pero ya le abrieron la posibilidad de pasarlos a Arbitrum, y eso es lo que, pues, también les quería invitar a hacer. Todos esos tokens ya traen una historia, todos esos tokens ocasionaron el la la muerte de un chorro de cuentas. Fueron totalmente gratuitos y, pues, no sé qué opinan Abraham, Ana, Gris, sobre la narrativa ya de esos tokens y los que lo que les haya tocado experimentar. Entonces, pues bueno, ya hay muchos holders, hay hay una manera de pasar los arbitrum y empezar a tener utilidad allá. Y es algo que que que hemos estado pensando mucho en maneras divertidas de que la gente empiece a utilizar estos tokens, aprenda sobre DeFi, que haga pools de liquidez. Este, entonces esta narrativa de esos tokens que vamos a estar rescatando y que allá vamos a poder jugar con OneInch, porque por ahí nos nos nos nos llegó un un un un dinero de OneInch para empezar a hablar de esos temas, ¿no?
+
+[Speaker 0 - 00:33:59]
+Y ay, deme un segundo. Y también Arbitrum obviamente que está fondeando, y ahorita que estamos AAA Espérame un a, espérame, espérame, espérame. Ahorita que vamos a lanzar una una campaña también de fondeo para desarrolladores en Arbitrum, por ahí traemos toda una narrativa interesante con esos tokens. Entonces, creo yo que están malditos. Dejarlos ahí en la plataforma en en el XRC 20 es un error. Este, Creo que están malditos. Creo que próximamente Twinscriptions, que es el enemigo número 1 ahorita de de de todos nosotros, ¿los va a empezar a cobrar por pasarlos a árbitro? Esos 300 Ether que tu Inscriptions levantó Perdón, me están entrando un día más. Esos 300 Ether que estos cabrones levantaron con ese token TWTS, lo van a empezar a utilizar para cobrarnos, para sacarlos de su plataforma. Sáquenlos ya antes de que empiecen a cobrar, ahorita que es gratis y no está tan caro. Démosle su utilidad allá y divirtámonos con los tokens y no sé qué opinan por ahí.
+
+[Speaker 0 - 00:35:02]
+Esa era una idea que traía Abraham. 1, Abraham 2, Ana, Nico. Échenle.
+
+[Speaker 1 - 00:35:10]
+¿Qué onda tocayo? Se subió mi tocayo.
+
+[Speaker 6 - 00:35:13]
+¿Cómo anda? ¿Qué onda, qué onda? Muy bien, oye, pues, este, qué triste todo esto, la neta, muchos perdieron su cuenta. Este, pero como dice el dicho, cuando como no no como dice el Chavo del 8, lo que sube baja, no. Cuando veas al vecino cortar sus barbas, ponlas a remojar o algo así, ¿no? Este, ¿Qué qué recomiendan? Digo porque pues ahorita ya anda todo mundo así con el Jesús en la boca de Quichín. Yo también hice eso, este ya borré los posts, este ya no tardo o ¿Qué onda? Este, no sé, ¿ustedes cómo vean? Yo también pienso que es el el los tokens esos malditos. Ya borré todo lo que tiene que ver en mi en mi cuenta, este, ¿qué qué tengo que hacer encomendarme a quién o qué onda? O nada más con borrar y esperar a que no caiga. ¿Cómo ven?
+
+[Speaker 2 - 00:36:05]
+Yo checaría los permisos de cuenta. No sé cómo funciona y yo afortunadamente no me subí a ese tren, y por eso creo que a mí no me banearon, porque yo he puesto música en spaces
+
+[Speaker 3 - 00:36:16]
+durante más de un año y no he tenido un pedo. Pero el día que Mexi se puso a spammear los tokens, dije, no, este está este está muy pinche raro. Entonces, no me no me subí y no he tenido un pedo. Pero,
+
+[Speaker 2 - 00:36:27]
+pues, no sé. A lo mejor checa los permisos de ahí de tu cuenta.
+
+[Speaker 0 - 00:36:33]
+Mira, yo creo que no no hay manera. Este, todo eso, Twitter, Twitter, aunque los borres tienen ellos registro, yo creo que están haciendo lecturas retroactivas de actividad, o sea, ajustan el bot o ajustan las reglas del algoritmo, y en determinado punto yo creo que toman un snapshot y dicen, bueno, a partir de 0000 al momento de hoy, ¿no? Todo el pasado, checa el historial de los últimos 3 meses, de este de este de, pues, de todos los usuarios. Y si por ahí hay alguna bandera que levanta, porque sí había pues era texto repetitivo, ¿no? YYY finalmente, siendo haciendo cálculos, esos espacios y todo el desmadre que hicimos para vender el while y bueno que hice o hicimos cabrones, todos los
+
+[Speaker 1 - 00:37:22]
+hicimos. Alpinteros. Sí, nos amamos.
+
+[Speaker 0 - 00:37:24]
+O sea, 100 de 1000 de de de post. Ahí está la consecuencia y lo hablamos en los espacios y lo dijimos, usen Als. Yo usé Alts y formé un chingo con Alts y las Alts ahí siguen vivas. Entonces, pues, ve tú a saber. A lo mejor se fueron a ver los que creamos los tokens, porque también había obviamente manera de saber cuándo los creaste, los creaste, quién los creó, qué tanto estuviste empujando en la nada. Vete a saber cómo era el algoritmo, pero pues sí, a mí me tocó. Sé que han estado haciendo olas de de de estos bloqueos, o sea, no ha sido y no es todo un día a cierta hora, sino que puede llegar a suceder en el futuro también. ¿Qué recomendaría yo? Lo mismo que recomendé en ese entonces, tener alt. Este, yo es complicado crecerlas para tener muchos seguidores esas otras alt y que no no sepan que es tuya, etcétera. Pero algunos locos lo lo lo hemos hecho a lo largo de los tiempos, a lo largo de los años, entonces pues bueno, este, por X0Y, pues yo ahí tengo muchas de esas, este, YYYYYYYYYYYYYYY creo que es una buena alternativa para farmear airdrops, para farmear otro tipo de de cosas, este, creo que sí es bueno tener Alds.
+
+[Speaker 0 - 00:38:37]
+Y más si estamos posteando cosas así súper repetitivas, ¿no? Como como las que ocasionaron todo este reloj. Yo sí creo que son estas inscripciones. Entonces, ¿cuál es la recomendación? Los invito a rescatarlos, revivanlos. Esos tokens están malditos y los dejan ahí. Les van a empezar a cobrar por pasar los arbitrum. Y yo les voy a dar utilidad. ¿Por qué? Porque son tokens que traen ya una historia que nacieron en espacios donde estuvimos varios de nosotros. Traen ya una narrativa y un meme y les podemos hacer un cuento interesante. Y quiero que la gente empiece a utilizar más árbitro. Mira, Dante, ahorita Dante nos va a preguntar que también le pasó algo similar. Este, pero primero vamos con Nico. Gracias, Nico, por estar por aquí, por el follow, por el apoyo a todos los que también por aquí veo conectados. Qué chido que que que hayan encontrado esta nueva cuenta, por aquí vamos a estar construyendo, no pasa absolutamente nada.
+
+[Speaker 0 - 00:39:37]
+Como les decía también por ahí en algún post, el 99.69 por 100 de mi construcción es IRL, en meetups, en videollamadas, en WhatsApps, en Telegrams, esto nada más es diversión y mame. Nico échale.
+
+[Speaker 3 - 00:39:53]
+¿Qué pasó, Wey? ¿Con todos? Saludos, ¿verdad? Oye, te quería pedir 2 cosas. 1, que entiendas que no todos somos aquí tecnológicos, hacker y Sabana, y tú estás hablando, y yo así como que chino con mandarín un poco de árabe, y me quedo así como que, ah, qué vergada está diciendo. Entonces, hablen como decía mi profesor de la uni, con plastilina para que entiendan todo. Entonces, que por lo menos la RC veintiuno, y yo estoy así como que, ¿de qué habla? De un contrato. O sea, ahora estoy entendiendo que hicieron un token, por eso es lo que pasó, Por eso te quería preguntar, bien, para que me explicaras el tema, porque lo estaba escuchando y obviamente quiero estar al día, pero no entiendo de qué rayo hablas, estás hablando demasiado hacker. No, yo te quería preguntar eso, como me cierras una explicación ahí con plastilina.
+
+[Speaker 0 - 00:40:41]
+Claro, no, gracias por subir. Cambié de celular y no veo quién fregado está conectado. No sé si perdí a los otros speakers, sino ahorita regreso en el otro. Al al gusto, pues, no. No, aquí andamos, aquí andamos todos. ¿Ya andan todos? Ok, vamos a ver. Pero sí, no, gracias Nico por la pregunta. Este, lo que pasó y lo que yo estoy viendo en el 2024, hay varias narrativas en el ecosistema cripto. Una es ciencia descentralizada. Creo que ahí va a haber mucho que vamos a escuchar sobre revistas y plataformas para para para que todos podamos hacer ciencia y que no dependamos de revistas con gente que hace procesos súper complicados de de de peer review. Luego voy a hacer un espacio completito de esto, porque mi esposa está muy metida en en el Sistema Nacional de Investigadores y conozco perfectamente, porque me platica de de todo lo que me toca experimentar con el tema de ciencia, ella es investigadora. Tiene patentes y tiene ahí un poco de cosas.
+
+[Speaker 0 - 00:41:41]
+Por ahí creo que viene una narrativa fuerte, creo que viene otra narrativa también súper fuerte con todo lo que son aplicaciones sociales, SocialFi. El nuevo x, el nuevo Facebook, el nuevo lo que tú quieras, ¿no? El nuevo spaces son con plataformas descentralizadas donde no nos pueden bloquear y no nos pueden permitir eliminar cuentas. Y creo que también viene una rutina interesante con Real World Assets, tokenizando acciones, tokenizando empresas, tokenizando arte, tokenizando casas, bienes raíces, etcétera. Yo traigo por ahí un emprendimiento de Real World Assets para tokenizar empresas mexicanas, que que que por ahí tengo que tengo pendiente probar, este, porque ya estábamos probando producción, pero próximamente vamos a hablar mucho de esos de ese de esa empresa. Y en el caso de tokenización, perdón, de SocialFi, hay muchas plataformas, por ahí probé Frentech, por ahí probé, he probado unas que están en Solana, que también te dan tokens que vas comprando y vendiendo, y dependiendo de si hay muchas compras cambia el precio.
+
+[Speaker 0 - 00:42:47]
+No me ha gustado mucho esa iniciativa, como Frentech. Hay otra en en en Avalanche también que tiene mucho uso, no me acuerdo. Pero están saliendo cosas como Lens Protocol, aplicaciones sociales como Lens, están saliendo también aplicaciones sociales como Farcaster o War Caster, que también es una que que que ahorita mucha gente está montando y y yo voy a empezar a probar y que se ve chida. Yo creía que las tweetscriptions eran otra, ¿por qué? Porque te permitía crear un token haciendo un post, tú hacías un un un un código, metías un json, un un un un texto específico con ciertas reglas, donde tú le ponías la cantidad de tokens a crear, el nombre del token, el protocolo que estabas usando Y como conectabas tu cuenta de x a esta plataforma, podía ver todos tus posts, y al leer tus posts tuiteando estos tokens nuevos, tenía ellos un, no es un Blockchain, sino es un registro de todos esos posts de toda la gente y podías crear tokens, podías mintearlos, podías transferirlos, entre la gente se puede transferir tokens posteando haciendo posts en x.
+
+[Speaker 0 - 00:43:55]
+Este, era muy fácil distribuir tokens. Yo lancé varios, algunos los lanzamos de una manera donde tenías que postear cierta cierto texto para poderlo reclamar, era gratis. Pero cada post que tú hacías te daba tokens. En específico, el sub 80 k creo que son 69, 4 20, 69, tokens, 6000000 YYY cada post te daba 69 tokens. Entonces tuvieron que hacer 111000 posts, este, más de 4000 usuarios en x para poderlo reclamar de forma gratuita Y todo ese ruido, todo esos esos post, esos más de 100000 post, creo que son los que ocasionaron, este, relajo, ¿no? Y no fue el único, ¿no? Ahí ahí ahí ahí hay 1000000 de tokens que se lanzaron así, mucha gente se montó. Latinoamérica yo hice mucho ruido y sí, yo me monté al tren y y creo que por mi culpa muchos se montaron y por mi culpa muchos, este,
+
+[Speaker 3 - 00:44:47]
+nos bloquearon las cuentas, pero pues bueno, qué chinguele hago ¿no? Este Claro, pero es que tiene sentido, ya entendí. ¿Qué pasa? 1 de los negocios de Twitter es la metadata y la información y Twitter tiene prohibido compartir todas esas HubScots que lo que hacen es extraer información de de de Twitter, de Ex. Ahí incumplieron porque estaban compartiendo la información que maneja Ex internamente y ustedes estaban dando los permisos para que la tomaran y eso es un incumplimiento directo. Incluso X se puso bastante estricto con cualquier tipo de aplicación. Yo usaba una app para controlar que quién dejaba de seguirme o de seguir por cantidad Y me llegó un mensaje de que si seguía compartiendo eso perdería mi mi cuenta por incumplimiento, ta ta ta ta. Me puse a investigar el tema y el tema es que cuando usamos esa app, esas apps extraen toda la metadata de nuestra cuenta y obtienen información. Acuérdate que el negocio de todas estas redes es la información de nosotros.
+
+[Speaker 0 - 00:45:46]
+Sí, por lo que sea, X0Y finalmente creo que, o sea, yo no voy a pelear obviamente sin cumplir. Si ellos dicen incumplí, ¿cómo fregados les compruebo que no? Ni modo, ¿no? Le daré la vuelta a lo que sigue. Dante, sé que te pasó a ti también. Claro, pero ojo, es bueno saber esto que estoy diciendo porque por lo menos ahora yo lo evito hacerlo, porque sé que estoy poniéndome en juego. Sí, sí, hay que ver qué qué fue lo que pasó. Dante, ¿tú qué crees que haya sido el caso?
+
+[Speaker 4 - 00:46:14]
+No sé qué px, la neta, pero, por ejemplo, yo no formie posteando para mintear tokens. La neta no le entendía a los XR 20, nada más miraba que posteaban todo mundo y y la neta no me di el tiempo de aprender, me esperaste que hicieran mint out y compré del secundario. Y de ahí fue cuando me hice del que me hice Meximaxi y compré un chingo de tokens. Pero la neta yo no postí ninguno pinche del, pues no sé qué era como un plazo de código y y como para mintear a los tokens. Y aún así me chingaron la cuenta. Entonces supongo yo que más bien son los permisos que le das a esa plataforma y quién sabe qué hagan ellos, porque tienen permisos de seguir, de dejar de seguir, bloquear. Este, entonces yo sí les recomiendo que ahorita mismo se vayan a sus cuentas y revisen todos los sesiones y cuentas que tienen registradas en su Twitter, y le den un revoque a todos de chingazo madre, y ya nomás le den un acceso a a las que confíen.
+
+[Speaker 4 - 00:47:20]
+Y sobre todo los que tengan permisos más útiles de lectura solamente, porque yo la verdad sí, pues, formé de todo ahí en mi en mi cuenta. Eso no lo hice porque no lo entendía, lo compré hasta que ya estaban todos vendidos, hechos. Pero cuando ya me fui a ver mi cuenta, no sé, la neta tenía cosas conectadas que ya ni nombre tenían, como websites que ya no existían y cosas así. Entonces, pues, también fue como descuido de mi parte, ¿no? A mí no me ha llegado ese mensaje que te llegó a ti, Mexi, de que lo que había opineado de que tu cuenta, este, no se va a hacer, este, reactivada. No me han contestado, entonces todavía tengo un un pequeño, este, hilo de luz al cual voltear a ver, pero si no, pues ni modo, ya llega a 100 seguidores, ya soy popular. Justo ando viendo los
+
+[Speaker 1 - 00:48:17]
+permisos que le dimos a Tweetcriptions y según ex dice permisos de su entonces pues, en teoría no no no deberían haber podido hacer más que, pues, la lectura, pero,
+
+[Speaker 0 - 00:48:34]
+pues, a saber No, ahí está el tema. Creo que ese es el tema, Abraham. Porque cada que estas aplicaciones creo yo, ¿no? Por ahí por ahí creo que va la cosa. Tú conectas, tú le das permiso de que de que estén al pendiente, pero entiendo que cada que va y pide información, obviamente, pues está consumiendo recursos a a Twitter. YYA lo mejor por ahí está el tema, ¿no? Que que que entre tantos posts y tanta comunicación con ese permiso en específico, este, sobresaturó alguna algunos servidores. Vete a saber, ¿no? A lo mejor tuvieron que que tuvieron problemas para para correr o saturó la red, veto a saber, pero probablemente sea el permiso. Yo todavía, por ejemplo, la otra cuenta puedo entrar a ver los posts, puedo entrar a ver mis mensajes directos, puedo puedo entrar a configuración, puedo conectarle todavía a la aplicación de tu inscriptions. De hecho voy a migrar varios tokens que por ahí tengo pendientes. Creo que tengo pendiente de migrar el token montaña y el token gráfico.
+
+[Speaker 0 - 00:49:35]
+Por ahí varios tokens, este, que no he migrado. Hay unos XRC 20, hay unos sub 80 ks y hay unos Mexis también que tengo que migrar. ¿Y por qué? ¿Por qué hablo mucho de esto? De nuevo, porque estoy encontrando maderas divertidas para que la gente use Arbitrum, con un token que ya trae una historia bien loca. O sea, la narrativa de estos token está bien enferma. No sé qué opinen, pero a mí se me hace una locura y se me hace un cuento chido, este, de dónde salieron, qué ocasionaron y a dónde están acabando y y la utilidad que que quiero darles. A ver qué a ver qué qué logro. Pero Ana, ¿tú qué puedes? ¿Qué tenemos? ¿Y se puede para que ya no tenga acceso a mi cuenta? Sí, sí, sí, sí, sí. Este, voy a hacer varios hilos ahí para explicarles, este, porque yo todavía puedo sacarlos de la otra cuenta y ahí ahí les voy a pedir poner todo lo que puedo ver y lo que no puedo ¿Cuándo los mandas? Porque ahí dejé mis 1000000 de super No, sí güey, sácalos, sácalos.
+
+[Speaker 4 - 00:50:37]
+Bueno, pues me voy porque tengo que entrar a una junta, nomás quería dar mi testimonio y preguntarte si se podían sacar. Sí, sí, ahí les les Adiós, te sorry por meterme Ana, es que tenías la mano arriba. Bye bye.
+
+[Speaker 0 - 00:50:48]
+Gracias, nos vemos. Échale, Ana, ¿qué opinas? Este, yo creo que traen una historia bien para esos tokens, les podemos hacer un cuento bien chido.
+
+[Speaker 5 - 00:50:55]
+Yo creo que sí, pero oye, no existe la posibilidad de que tu tío te haya reportado la cuenta de que por eso te la bloquearon. Es el tío que anda reportando cosas.
+
+[Speaker 0 - 00:51:05]
+El tío Alfredo Adame.
+
+[Speaker 5 - 00:51:08]
+El de Alfredo Adame.
+
+[Speaker 0 - 00:51:10]
+El Alfredo Adame de la web 3, por ahí, por ahí.
+
+[Speaker 1 - 00:51:14]
+Hablen bien, hablen bien. Para entender, para todos entender.
+
+[Speaker 5 - 00:51:18]
+El tío que nos está bloqueando a todos, yo creo que nos está reportando las cuentas también.
+
+[Speaker 0 - 00:51:24]
+Es código, es código aquí para para para drama, para chismecito web, pero, pues, no sé. A mí en lo personal el correo que que me llegó dice que fue por reporte de usuario. Este, digo, no sé si a todo mundo le está llegando algo similar y como les decía, ¿no? La la la explicación es porque incumpliste y te suspendemos por evitar que te suspendiéramos. Y yo, ay, cabrón, pues bueno, ok. Este, pues sí, no, cómo debato eso, pero bueno. Es lo que sufrimos, rescaten sus tokens, pásenlos a Arbitrum. Les voy a mandar y voy a postear al rato hilo sobre cómo lo pueden hacer, aunque tengan la cuenta bloqueada. ¿Por qué? ¿Por qué les digo y por qué les hablo mucho de estos tokens? ¿Y por qué les hablo de Arbitrum? Porque estamos participando ahí y encontrando maneras creativas de que la gente aprenda de DeFi, que por ahí con los tokens que tenemos con los emojis tengan la manera de, a lo mejor, reclamar 1 que otro gratis y jugar con OneInch. OneInch es una plataforma que tiene un wallet y que tiene un exchange descentralizado para intercambiar tokens.
+
+[Speaker 0 - 00:52:29]
+Por ahí los voy a ver si los podemos listar en OneInch para empezar a jugar ahí con con con el token berenjena, con el token que quito, con el token tragón. Por ahí tengo varios. La piña, este, que que que necesito mandarle a Nana, que por ahí le le le le minqué, este, ya para que ella también haga sus dinámicas. Por ahí el token a Nana sigue vivo, este, no sé, ¿y el Abraham, el ring? Creo que también sigue algo. Sí, cierto. Que quede con esos tokens, ya no sé si convenga mintearlos o no, pero, o sea, ya de esos tokens sí traen una historia medio loca, güey. No sé. Yo nomás me acuerdo que una vez
+
+[Speaker 1 - 00:53:07]
+me llegó un mensaje de Jorge y dice, tu toque nos va a hacer ricos a todos y yo, a la madre. Estaba bien alto el precio de cada token. Entonces no manches, como que un cabrón mintió y los los listo a un precio bien caro. Pero pues quién sabe si hubo mercado, la verdad ya ni cheque.
+
+[Speaker 0 - 00:53:27]
+Por ejemplo, el Suboochenta calle tiene más de 0.15 Ethers de volumen de mercado secundario. Yo he barrido el piso en algunas ocasiones, ahorita les confirmo. Y el Mexi también creo que ya tenía más de 0.1 de volumen de mercado secundario. Déjeme les confirmo, aquí estoy. Es que no sé, no sé, a lo mejor mis bolsas están muy pesadas y y tengo un un un sesgo interesante por haberlo lanzado y y haberlo visto por ahí en el top 1, top 2, top 3, pero les voy a les voy a dar utilidad. Ya les ya ya empecé a cobrar con esos tokens para espacio de shileo acá arriba en los martes y los jueves. También yo creo que voy a cobrar con esos tokens para utilizar, para mintear alguno que otro NFT. Hay cosas padres que podemos hacer en arbitrum, Pero sí, tienen más de 0.15 Ether de volumen de mercado secundario, el sub 80 k.
+
+[Speaker 0 - 00:54:28]
+Y el Mexi tiene Ahorita les checo el de ustedes también. 0.10. Ananá creo que también ya tenía mercado secundario. Ese tiene 141 owners. Y hay 47 listados, todavía no tiene mercado secundario. El riff, vamos a ver el riff. El riff tiene 29 owners y hay 15 ofertas de venta de Token Reef.
+
+[Speaker 1 - 00:54:51]
+Esas ofertas chécalas a ver quién fue el ridículo que lo puso bien caro. Quiero ver qué vale o qué nombre fue.
+
+[Speaker 0 - 00:55:00]
+Vea, el piso de precio lo tienes Nash. Nash tiene Token Studios y los puso en la venta. Diego Napol 32 94. Anretro, Od, Jessi. Vamos a ver quién puso a la venta tokens de Ananá. Deme un segundito. Aquí estoy viendo el mercado. Luego les podemos hacer transmisiones en vivo, creo que creo que se podría se vería chido estos análisis con
+
+[Speaker 1 - 00:55:30]
+compartiendo pantalla, bueno. Se supone que ya vienen videos, ¿no? Para los spaces. Se supone, dijo Mister Mood. Lisque. Lisque. Entonces, a ver, ¿qué tal? Las next inclases.
+
+[Speaker 5 - 00:55:40]
+Sí, por favor, y ya transmite.
+
+[Speaker 1 - 00:55:43]
+Los next inclases. Ah, trancón madre.
+
+[Speaker 3 - 00:55:46]
+Ya se puede hacer, Abraham. Ya se hace. Tú entras en la en los space, vas a ver unos rosados. Los rosados son transmisiones tipo Twitter. Ah, ¿en serio? ¿En serio? Sí, eso tiene tiempo, bro.
+
+[Speaker 1 - 00:55:59]
+No, pero pues supongo que nada más en en en en ciertas partes, ¿no? O sea, está habilitada en ciertas partes.
+
+[Speaker 3 - 00:56:06]
+Yo lo veo, es más, yo lo entiendo en la computadora. Y salen en la parte superior de arriba como en un fucsia. No, no es el azul que sale en los spates, sino en fucsia. Yo he visto varios space de gente que juega juegos ahorita en Twitter. Por eso, pero Y hay varios packs, que
+
+[Speaker 1 - 00:56:20]
+juegan formas. Pero pero por eso, pero pues de otras, o sea, nada en Latinoamérica supongo. O sea, todavía no está como que habilitada para para acá, para nuestros rumbos. ¿Sí? Sí.
+
+[Speaker 3 - 00:56:30]
+¿Sí? Cuando donde dice abrir space, ahí sale la opción arriba. Aquí en Chile está.
+
+[Speaker 5 - 00:56:36]
+¿Qué pasó digitalizado?
+
+[Speaker 1 - 00:56:38]
+No manches, a ver, a ver, a ver. Vamos a calar. Ya no andamos tan digitalizado. Vamos a hacer la prueba en vivo. Estoy haciendo un space, a ver si me sale. Pero a ver, a ver qué qué van a hacer, qué van a hacer. Pues, dice Nico que ya se puede transmitir en vivo aquí, aquí, aquí memo, aquí mero en los espacios. Pero no me sale. Estoy checando y no me sale. Claro, voy a ver si No, yo tengo
+
+[Speaker 0 - 00:57:02]
+yo tengo Android y no he podido poner música, no he podido poner los soniditos, creo que solo en iPhone funcionan. No sé si esa sea también una opción que es de iPhone. O Android.
+
+[Speaker 1 - 00:57:16]
+A ver, usuarios de iPhone, alguien puede hacer la prueba.
+
+[Speaker 3 - 00:57:22]
+Déjame ver si me parece a mí. Por lo menos su masa que es un Lion, él siempre hace transmisiones, siempre.
+
+[Speaker 1 - 00:57:30]
+A verificar Miren, les voy a poner aquí abajo
+
+[Speaker 0 - 00:57:33]
+y los voy a pinear porque ya ya ya creo que no es tan fácil, pero les voy a poner el link de lo que tienen que hacer y a dónde tienen que entrar para que puedan rescatar sus tokens. Ahí ahí vamos a ver si en realidad mi idea funciona porque sí creo que ahí está. Ya les puse el link y ya les puse en dónde tienen que darle clic. Ahí luego le mando el hilo a Dante. Pero, pues sí, arbitrum, sáquenlos, sáquenlos. Este, ojalá no les bloqueen sus cuentas. Me vale madre, la verdad, volver a construir, no, no pasa nada, aquí seguimos. Pero, ay güey, todo ese tiempo para seguir a todos los que seguía, para filtrar bien y volver a tener el timeline que que tenía, que me gustaba mucho, va a ser mucha hueva. Este, lo tenía presuprestado para usarlo en otras cosas, pero bueno, ni modo.
+
+[Speaker 0 - 00:58:33]
+Todos los que estamos experimentando esto en algún momento, pues lo estamos viviendo. Sí les algo que me ayudó a mí, una, como les decía yo, la gran parte de mi construcción no es a través de estos espacios, es por fuera. Entonces, tener canales de comunicación y grupos externos en todos lados ayuda, para no perder, pues, el hilo de los proyectos, ¿no? Y ahí hay muchas plataformas, obviamente, conocemos Telegram, WhatsApp. Insta, todo todo todo ayuda para seguir manteniendo la comunicación y ni modo, darle. Los espacios van a mantenerse igual martes y jueves. Y hay cosas divertidas que platicar, como Gwen, como JUP, como de todos esos tokens locos, este, que han estado viendo en Solana, el la temporada de memecoins por ahí. Tenía yo la idea de invitar a Abraham para practicar de eso.
+
+[Speaker 0 - 00:59:34]
+No sé si todos le estén entrando o no, pero creo que es bueno buen tema. Y viene Yupe mañana. Gwen subió, bajó, airdrops. Yo recibí tengo muchas carteras en Solana desde hace mucho tiempo y recibí 1000000 de de de buen. Cada airdrop llegó a valer como 90 dólares o 100 dólares cada cada 1. Más de 100 más de 100 nada, hace como Loco, güey. ¿Tú tú qué qué onda? ¿Holdeaste Nico? ¿Te te te llegó algo de eso?
+
+[Speaker 3 - 01:00:08]
+Verro, sí debo tener porque ellos nos dieron a nosotros con los Lacey Ape, pero loco no sé en cuál Wall quedó. De verdad lo perdí.
+
+[Speaker 1 - 01:00:17]
+No, pero es que tenías que reclamar. ¿No le presté atención?
+
+[Speaker 3 - 01:00:22]
+Sí, a nosotros nos los pasaron en un spay del de la comunidad de los Lace CAY nos dieron unos token gratis por ser Lace CAY todo eso, pero no le presté atención, te soy sincero. Deben estar por ahí, pero no sé dónde. Y como no me manejo mucho con el tema de los token, tengo que aprender. También me perdí el el airdrop de, que sé si me dolió muchísimo, el de Blur también cuando inició. Solo nos avisaron, pasaron al alfa, tienes conectar tus wales y, entonces, era por el Flip. Cada Flip que tú tenías en la wallet que conectaba te daba más punto. Y amigos que tenían menos Flip que yo sacaron 7000 dólares, que tenían menos flip que yo, o sea, que hubiera sacado esa cantidad o más. Y yo casi que lloro cuando vi eso, pero fue mi culpa cuando no preste atención. O sea, no le di importancia, porque como no soy muy así fan de toque.
+
+[Speaker 0 - 01:01:13]
+¿Tú Abraham? ¿Qué hiciste con tu con tu buen? Yo ya vendí 1 de los de las wallets que me llegó, ya la vendí. Necesitaba por ahí un poquito de solana para comprar un sombrero. Este, si ven si ven mi nuevo PFP, está muy bonito, está bien divertido. Me gusta mucho el Meta, vamos a hacer un breve break ahorita para contarles de mi nuevo PFP, pero me gusta mucho el Meta de de de los DNAs, porque te venden trades y subastan trades con puntos, y subastan también unos sobrecitos, y te llegan cosas nuevas. Ahorita le puse este de recién salidito de la cárcel, pero
+
+[Speaker 1 - 01:01:52]
+¿por qué les contó todo? Recién salidito de la cárcel, que porque vendiste un airdrop para comprar un sombrero.
+
+[Speaker 0 - 01:01:58]
+Ah, sí, vendí el airdrock para comprar un sombrero, este, no lo pude comprar güey y al rato lo lo vuelvo a intentar, pero bueno.
+
+[Speaker 1 - 01:02:05]
+Está padre que le puedes cambiar la ropa, ahí luego le pongo el hoodie. Ahora para Puebla le voy a poner el hoodie rojo y le voy a dejar el el bucket hat. Ese va a ser mi disfraz ahí. Qué chido, Pablo. De hecho te iba a decir, o sea, está cambiando constantemente el monito en el space. No sé si alguien también lo está viendo. De que con el traje verde y luego con el traje de recluso. Traje verde y traje de recluso. Es neta, güey. Está chido eso. Yo pensé que lo estabas haciendo
+
+[Speaker 0 - 01:02:29]
+a conciencia. No sé si yo estoy bogueado, güey. Pero así lo veo. No, me pasó lo mismo, güey. Pero lo cambié hace rato. Sí, sí, sí, sí lo veía ahorita verde y ahorita lo veo ya naranja. No sé por qué. Están bogueados y se se actualiza y
+
+[Speaker 3 - 01:02:40]
+lo estás viendo ahí como se quita y se pone, se quita y se pone. Oye, yo te iba a preguntar algo y quiero saber sobre Solana, que soy neófito del tema. Hace poco abrí Solana por primera vez y bajé la Phantom Wallet, y me ha estado llegando Solana, ¿por qué? Ah, su madre, pasa el hack.
+
+[Speaker 1 - 01:02:56]
+No sé.
+
+[Speaker 3 - 01:02:58]
+Perdón, me ha llegado ya 3 veces 0.001 Solana. Ya tengo 0.03 lana, y así como que, ¿qué es esto? ¿Por qué? Me preocupa, me da nervios. Nada
+
+[Speaker 1 - 01:03:10]
+es gratis. No, yo ni idea. Sabes qué, yo sabes qué onda con eso, me exhibió aquí, no. Ni idea.
+
+[Speaker 0 - 01:03:18]
+Perdón, tuve que cambiar el celular. ¿De de del qué? ¿Pueden repetir la pregunta? Que
+
+[Speaker 3 - 01:03:24]
+estoy preguntando que, incluso lo he posteado en mi muro varias veces, que si alguien sabe esto que me explique, porque entré a Solana y descargué Phantom Wallet, que por cierto me gustó, excelente wallet. Entonces, me ha estado llegando 0.01 Solana. Ya me ha llegado 3 veces, tengo 0.03 Solana. Incluso hasta me sale una opción de staking y la puse en staking y todo, yo así como cuando no es mucho, pero para para decir que tengo algo en staking. Entonces, no sé, no entiendo, le quería preguntar a usted si es por qué, por qué, ¿por qué? ¿Es un hydro que lanzan ellos o qué? No tengo idea.
+
+[Speaker 0 - 01:03:55]
+¿En algún lado pusiste tu wallet? ¿En alguna promo, en alguna rifa, en en algún alguno de esos que dice deja tu wallet y te mandamos.
+
+[Speaker 3 - 01:04:07]
+O con No, nueva,
+
+[Speaker 0 - 01:04:09]
+nueva, nueva, así que no la sabía ni usar. O sea, ahorita ahorita fue que me puse a usarla. Ah, no, eso sí no sé. Habría que verla, si quieres poste la dirección y podemos ver la transacción a ver de dónde viene. Eso sí se puede ver, pero no no no, se me hace raro. No me ha pasado en ninguna wallet de Solana. No sé si hay un airdrop que estén distribuyendo de esa manera y y bajo qué circunstancias, pero no. Me gusta mucho la realidad, la he utilizado mucho desde que empezaron los NFPs en el 2000 veintiuno. De hecho, esta colección, la de los DJ Naves, es la primer colección que salió con una plataforma de Minteo que le llamaron en ese entonces Candy Machine. Antes se vendían 1 a 1 y en y en YYY OTC de una forma bien bien bien insegura, este, es de las colecciones OGs, me gusta mucho. Y y sí, le tuve que que comprar ahí un un sombrero para para 1 de ellos, para ahí los posteo. Ahorita los pillo creo. Pero, ¿Gwen, tú qué has hecho con tu Gwen Abraham? ¿Ya lo vendiste? Yo vendí 1 para comprar el sombrero.
+
+[Speaker 0 - 01:05:10]
+¿Tú, Adrón?
+
+[Speaker 1 - 01:05:12]
+No, ahí lo tengo que le salen telarañas. Digo sé que es una shitcoin, digo no mames coin, pero pues fue gratis. Entonces no me ni me va ni me viene, ¿sabes? Entonces técnicamente aunque baje sigue siendo ganancia. Entonces ahí está ahí está quiero ver qué le pasa porque pues no manches le están sacando le están sacando cositas, le entregaron la moneda a los de bolos, según que quieren sacar un nuevo estándar, NFT en Solana, entonces a ver qué tal. Digo, o sea no es como que ah sí toda la casa wenn pero pues ahí la dejo a ver qué pasa. O no, o se va a 0 o se va a to the mode. Y pase lo que pase, pues afortunadamente no es como que afecte, ¿no? Entonces, pues ahí estoy viendo qué pasa cada día. Cada que sale una noticia de Gwen, a todos están aplicando la de vender en noticia. Entonces de que, ay no sé, me da mucha risa porque es de que, noticia de que van a quemar el supply, pum, venta. Luego sube, sube, sube. Luego, noticia de que la van a alistrar en un Exchange, pum, baja y luego sube, sube, sube Y así sucesivamente, y me da mucha risa.
+
+[Speaker 1 - 01:06:16]
+Pero le, está interesante porque estoy probando muchas cosas en Solana, o sea, la neta. Yo estaba en, o sea, la verdad me arrepiento de vender mis Solanas. Tenía como, o sea, no tenía tantas, tenía como unas 5 solanas cuando las compré cuando estaban como en 8 dólares. Y luego realmente yo sí me fodie bien cabrón y dije, no, esta cosa sí se cae a cada rato, este, ethereum, pues ni para qué. Y las vendí en pérdida y y me arrepiento. Pero pues la neta ahorita dije no manches, o sea, qué buen comeback se aventó esta red. Todo el volumen ahorita está ahí o o por lo menos en shitcoins está ahí y está muy interesante. Está muy interesante cómo flipé a Ethereum en volumen de 24 horas en ocasiones. Este, y al final yo creo que más que todo es una buena lección para todos de que no nos casemos con una red. O sea, Ethereum, es Ethereum, sí, pero pues no manches, hay un chingo más de opciones que nos pueden servir para muchas cosas. Y aparte, pos, no manches, Holanda, sí procesan muchísimas más transacciones que Ethereum, igual que otras redes.
+
+[Speaker 1 - 01:07:20]
+Llámese ICP, llámese NEAR, lo que sea. Pero pos, sí, yo creo que es una buena lección de que hay más allá, hay cosas más allá que solamente, Darío. Pero pues no manches, me fui, me fui. El punto es que ahí tengo mis buen, ahí holdeados.
+
+[Speaker 3 - 01:07:40]
+Pero es verdad lo que tú estás diciendo, y no nada más en en en ship coin ni nada, también en los NFT. Todas las colecciones que han salido en enero ahorita y se fueron south out, tuvieron valor, todas están en Solanas. En en en Open 100 Ethereum no se ha lanzado casi nada que sea exitoso que se pueda decir a partir. Y de paso, yo no entendí cómo lograron que los MaxiEthereum, que si los grupos de los HEP, los grupos de los Lions se fueran para allá a Solana. Y están todos metidos en Solana, flippeando. No Yo lancé 1 de los Solanos en 0.006 y llegaron hasta en 0.6 en 0.6 Solana. El que agarró ese alfa hizo plata.
+
+[Speaker 1 - 01:08:18]
+No hombre y luego, o sea, hace poquito vi un suceso así que me dio mucha risa porque fueron maxi de Ethereum peleándose contra, o sea gente en Solana por una memecoin que es creo que todavía está en top 1 ahorita que es la de game stop que básicamente había un token en ethereum de game stop y y hicieron otro en Solana y el de Solana empezó a puntear O sea empezó a subir, subir, subir, subir. Un chingo, un chingo, un chingo. Y luego los de Telecom empezaron a fodear el token de que no, los de Solana son unos rugers. Nosotros somos los chidos. Entonces se empezó a llegar el food y todo el token de Solana empezó a a dipear, dipear, dipear. Luego los de Solana hicieron un space, o sea, los del token esa de memecoin, diciendo no, o sea, el chido es de Solana, los de Ethereum son los rougers. Y se empezaron a pelear maxi de shitcoin en el Tino contra maxi de shitcoin en Solana. Y no manches, fue un space demasiado capitalista donde cada quien estaba viendo por sus propios intereses en de su bolsillo y no sé.
+
+[Speaker 1 - 01:09:21]
+Me deja mucho que pensar a veces esas cosas en el mercado. Pero está muy, no sé, muy muy chistoso, muy
+
+[Speaker 0 - 01:09:28]
+chistoso. Y ves Oye, Abraham, ¿qué onda? Pero no sé, o sea, agarrando esa idea, creo que es es en todos lados. O sea, tenemos que estar conscientes de que cada quien tiene sus bolsas, cada quien tiene sus historia, cada quien trae su su su su Pues sí, lo que le ha tocado vivir, que le ha ido bien con algunas cosas, le ha ido mal en otras. Entonces, le agarras cariño a unas por eso y y odias otras también por lo mismo, o sea, cada cada persona trae su cuento particular y a mí en lo personal, por ejemplo, yo yo sí soy de los que dicen que todo lo que no sea bitcoin es shared coin y Solana es de mis shared coin favoritas, ¿no? Tengo muchas favoritas, pero es de mis favoritas, sí, la he usado mucho, me gusta eso era evidente, era obvio cuando yo entré a Solana que que que que el trading de de de shetcoins, de memecoin, iba a suceder acá, por la rapidez, por las transacciones, por la facilidad, por el costo.
+
+[Speaker 0 - 01:10:34]
+Hay herramientas como ETrim que tienen un uso, descentralización y mucha seguridad, pero bueno, tiene su costo.
+
+[Speaker 1 - 01:10:43]
+Tradiar shit coins es más divertido acá y es más barato y es exacto. O sea, no no sé qué opinan. Cada 1 como que tiene su su mundillo de qué se puede hacer mejor en una, qué se puede hacer mejor en otra. No sé, a mí a mí me gusta, como decían el space de ayer, ¿no? Que Suri decía que el sacatón del 5 de mayo va a ser así como que agnóstico de tecnología, ¿no? O sea, yo creo que ese es el mejor camino que podemos tomar, ¿no? O sea, ¿qué quieres hacer? ¿Quieres ahí meterte a lo DJ y estar con las memeco y las ship cuts? Solan es perfecto ahorita. A lo mejor quieres algo, no sé, de desarrollo, como decías, guardar arte, pues a lo mejor el thering podría ser una opción considerable, no lo sé.
+
+[Speaker 0 - 01:11:23]
+Ordinar. Ordinar. Ordinar.
+
+[Speaker 1 - 01:11:26]
+Inscription. Entonces sí, yo creo que depende de los intereses, ¿no? Como de cada persona ver para dónde va a mirar. Pero sí, sí, sí. No se casen con blockchains, por favor. Es mi tiempo. Han pasado
+
+[Speaker 3 - 01:11:36]
+de anti ethereum, de verdad. Mira, tú todo lo que tú dices tienes razón, pero al final todos tienen que morir en ethereum, porque cuando tú vas a hacer P 2 P, el único que tú tienes compra inmediata, siempre es ethereum. Por eso es que ethereum es lo que, porque es la que se adoptó en la economía. Yo que extraigo mucho Ethereum, siempre cuando voy a cambiar, que voy a vainas P2P, Ethereum siempre es el mejor precio y el que tengo inmediato. Vender bitcoin nunca se me ha hecho nada fácil. Se lo lo considero muy difícil. Por eso es que una de las cosas que Ethereum siempre, si lo tienes en USDT, tienes que pasarlo a Ethereum. Lo tienes en Solana, tienes que pasarlo a Ethereum. Siempre tienes que pasarlo a Ethereum para vender en P2P, rápido.
+
+[Speaker 0 - 01:12:17]
+Fíjate que yo yo uso poco P2P, uso más Bitso. La verdad es muy sencillo. Prefiero tener mi dinero, a veces fíjate en Bitso que en un Banamex es más rápido de enviar, no necesito a veces esperar 30 minutos para hacer una transacción. Lo puedo tener en pesos, en dólares, en Tengo poquito en Bitso, pero sí, sí uso un Sex, uso un un un exchange centralizado.
+
+[Speaker 3 - 01:12:45]
+Nunca me he metido mucho al PSOE, pero sí lo voy a explorar en algún punto. Por 2 Por 2 Un punto de Sex, sí. No. Ándale Nico, dale. Yo por Norma nunca yo por Norma nunca tengo nada en el Exchange. Yo lo tengo todo en mi Metamax, paso al Exchange, vendo y dejo en 0 el Exchange, pero nunca tengo nada en el Exchange.
+
+[Speaker 0 - 01:13:05]
+Yo dejo ahí 12000 pesos, o sea, 300, 400 dólares. Dependiendo de la rapidez, o sea, siempre tengo ahí algo porque de repente me urge mover algo y alguien tiene Bitso, bueno, le mando por Bitso. Pero sí, cada quien tiene su su tolerancia al riesgo y su necesidad particular para su operación, ¿no? Porque sí hay muchos círculos de seguridad, pero tu operación y la productividad es lo que manda. Y si para ti es más productivo tener ahí 500 dólares en una en un Bitso, porque, pues así mueve rápido algún pago o lo que sea, pues bueno, cada quien, ¿no? Pero
+
+[Speaker 3 - 01:13:38]
+¿Cómo verifícame qué es Bitso? Porque no tengo idea.
+
+[Speaker 0 - 01:13:42]
+Es como un binance Eso es un Exchange, como un binance. Ajá. Es un unicornio bastante bueno, por ahí, este, de hecho el el el nuevo CEO es es, este, lo conocí por ahí en un evento, hemos platicado mucho, buena onda. Me gusta, la verdad, lo que están haciendo, bordeando a gente, están patrocinando a la selección mexicana. En algún momento hemos platicado para para organizar eventos acá en Monterrey. Yo creo que este año vamos a organizar algo con ellos. Sé que sé que muchas personas han organizado cosas con ellos, apoyan eventos web 3, creo que fueron patrocinadores de tiro en México el año pasado. Está tratando de meter más con comunidades, haciendo diferentes eventos. Está bien, está chido. Este, está caro, comisiones caras, 0.6 por 100. Por cada transacción no se llevan 0.6 por 100. Hay mejores alternativas, pero bueno Me mandaron mensaje
+
+[Speaker 1 - 01:14:37]
+al al grupo El Cabal. El Carlos dice que dicen que Bitso ya no es unicornio.
+
+[Speaker 0 - 01:14:43]
+Pues sí, probablemente no le ha ido tan bien, porque igual como todos estamos sufriendo y sufrimos en el ver, ellos también sufren. Conocemos a muchos empleados de ahí, la verdad, muy buena onda. Sí, a mí me gusta mucho lo que hacen YYY tengo muy buenas relaciones ahí con con ellos. Gaby es de acá, de la comunidad de Monterrey, está viendo temas de diseño, tiene una colección de NFKs, que se llama MacMay, que está bien padre. El otro chico, ¿cómo se llama?
+
+[Speaker 1 - 01:15:16]
+Ah, se me olvidó. Pero pero sí, sé, güey, buena banda ahí. Yo conocí. Se han acercado mucho con nosotros. Un compadre que entrevisté cuando hacía el podcast en Digitalizados en YouTube, que no trabajaba en Bitsu, pero que era un un genio en bitcoin. O sea, todo todo lo todo el tema bitcoin lo tenía dominado como si fuera a andar en bici para él. Y luego en el Blockchainland lo topé y trabajaba en Bits, y dije no manches, qué buena evolución. Entonces Bits otra gente pesada. Aunque bueno, yo soy hater de su servicio al cliente. Ese sí no me gusta, para nada.
+
+[Speaker 0 - 01:15:48]
+En la app también y la página podría mejorar mucho, pero bueno, es lo que hay, en lo personal, sí lo sí lo sí lo uso y y lo recomiendo en mucho, desde que entré en el 2017 tengo cuenta de referido, de Bitso, la moví mucho en ese entonces con amigos y familiares que querían comprar. Hay gente que que con esos cuentos referidos, pues sí compró buen volumen, este, y sí me me me me ha tratado bien. Entonces, pues también tengo ese ese sesgo, ¿no? Este, y es lo que me ha gustado usar. Pero binance tiene lo mismo, con binance no me fue tan bien en ese entonces con los referidos. Era más pedo para la gente de aquí de México usar binance. Entrada tenían que entrar a Bitso y luego mandar a binance y era otro paso adicional que que no ayudábamos, el onboarding. Me acuerdo cuando alistaron MATIC, Bitso, me acuerdo cuando alistaron Solana, en Bitso no teníamos Solana. Le ha ido bien yendo bien y sí hay liquidez para traer y salir padre de los
+
+[Speaker 1 - 01:16:53]
+de lo de muchas plataformas. Está chido, está Yo ahorita soy de Exchange, soy Team Trobit, o sea, lo lo uso más que Bitso, la neta. Uso Drobit binance y ya, de ahí en fuera nomás. Tengo descargado KuCoin pero nomás está allí ocupando espacio, yo creo que ya lo voy a borrar. ¿Alguien ha usado KuCoin, por cierto? Digo así, ya que estamos.
+
+[Speaker 0 - 01:17:16]
+Sí, sí, llegué a usar KuCoin, hace rato que no lo uso. Drobit, Fíjate que no lo he usado tanto. Bibit lo usé hace poquito, me me gustó. Binance también usa un chingo. Bittrex, en ese entonces, en el 2017 usábamos Bittrex, y ya creo que ya tronó. Bitcinex es otro que también hemos usado. Creo que es creo que es bueno tener cuentas en muchos lados. Y ya, pues, opciones, herramientas rápidas, vistas, este, disponibles para usar. Por cualquier cosa. Me ha tocado ver, sí, volumen y y volatilidad increíble. Se caen los mercados, gente que quiere vender, no puede, tienes que pagar una cantidad enorme para para entrar o salir de a veces de algunos lados. Entonces, tener todas esas opciones vistas y disponibles creo que sí es importante. Y también experimentar con lo que hay, pero ya nos desviamos un poquito del tema, Abraham. Shetcoins, lo que está haciendo este Júpiter, me gusta un chingo lo que está haciendo Júpiter, me gusta un chingo lo que está haciendo Miau.
+
+[Speaker 0 - 01:18:19]
+El CEO, ¿has escuchado entrevistas con él? ¿Está loco? Sí, vi la que
+
+[Speaker 1 - 01:18:26]
+estuvo vi la que estuvo hace poquito y no manches, yo no no me lo esperaba así. O sea, este, y yo me lo imaginaba así de que más más estilo Vitalic. Pero no manches, se ve se ve decente. O sea, se ve como una persona decente. No, es así increíble, mis respetos. Pero me gusta lo que hace porque está construyendo público y sobre la marcha en ciertas ocasiones. Pero bien. O sea, haciéndolo bien, no es de que al chingazo, ¿sabes? Pero sí me gusta que es muy muy transparente en medida de lo posible, por decir. Ahorita con lo del airdrop, este, pues está en todo el hype, ¿no? Y sí pusieron hace un un día, ayer creo, de que, pues, amamos a todos los nuevos usuarios, pero tristemente no les va a tocar suero. O sea, hablaron claro, ¿no? Desde el inicio, ¿no? Para no tenerlos hypeados, así. Este, dijeron que ya tenían, pues, a a quién se lo iban a dar y todo el asunto. También cuando lanzaron la plataforma, launchpad, dijeron, no, pues, es un experimento, vamos a romper cosas, este, denos todo el feedback, diviértanse, no sé qué. O sea, sí sí me gusta que, o sea, que se hable claro lo máximo posible.
+
+[Speaker 1 - 01:19:30]
+Porque al final de cuentas no estás dando promesas infladas, ¿no? O sea, está diciendo lo que es y pues yo creo que precisamente por eso le está yendo bien al exchange, a la plataforma y al airdrop. Entonces, ¿tú cómo lo ves, Lexi?
+
+[Speaker 0 - 01:19:46]
+La verdad me encanta, güey. Yo tengo usando Júpiter desde hace mucho. Me me me me me me gusta mucho la manera en la que tienen ya un chorro de opciones para usar un deck, ¿no? O sea, hay un chorro de alternativas, quieres hacer DCAC, o sea, que quieres comprar en determinado momento cada cierto tiempo 000 puedes poner órdenes de venta y de compra a diferentes precios. No estás exento a nada más usar lo que está disponible ahorita en el mercado. O sea, puedes puedes hacer un chorro de cosas que no podrías, podías en otros exchanges y menos en exchanges descentralizados. ¿Por qué? Porque cada transacción, cada movimiento, por ejemplo, en Ethereum era un pedo carísimo, ¿no? Cada cada cosa que querías hacer era caro, y acá como es mucho más barato y rápido, puedes hacer todos estos experimentos, y creo que lo ha hecho muy bien. Yo me fijo mucho en la gente que está detrás de de estos protocolos, o sea, en Vital y en este con También me me me me ese que ese cabrón me me la tragué enterita, lo del de Sand Park MacMan.
+
+[Speaker 0 - 01:20:54]
+2,
+
+[Speaker 1 - 01:20:55]
+era era una mentirota increíble de que no, yo no tengo dinero, regalo el dinero a las personas, porque ellos son los que lo necesitan. Más más gota que se aventó ese güey, no manches.
+
+[Speaker 0 - 01:21:06]
+Sí, yo me la tragué enterita güey, yo yo yo mucho de mi volumen lo pasé a FTX por ese güey, este, pero, pues bueno, ya vimos que que que que todo lo del desmadre que traía. Pero otro, Elon Musk, ¿no? O sea, yo me fijo mucho en los líderes, en en las personas que están construyendo estas plataformas. Y ese güey en específico, como tú dices, la manera en que se comunica, en cómo maneja una narrativa también divertida y y disruptiva, el token este que lanzó, el primer experimento que sacaron, el MOOCHOP, creo que estaría para platicar. Ellos lanzaron y están ya utilizando un un lunchpad, ¿no? Una plataforma para lanzar tokens para airdrobs, para regalos, para para para tokenizar cosas. Y dentro de los primeros experimentos lanzaron el MOOCHOP, que era un un memecoin como prueba, que no tenía ningún costo y todos los que vamos a poder reclamar elHOP. Mañana, El Hoop es el token del Exchange, es un Exchange descentralizado que tiene un token de gobernanza y que tiene un token ahí.
+
+[Speaker 0 - 01:22:11]
+Pues creo que va a tener mucho, o sea, yo no yo no sé qué hacer todavía con ese token. Yo yo voy a recibir varios 1000, sino es que como 10000, más o menos, aproxe de todo el uso que le he dado a Júpiter y de todos los wallet que por ahí tengo registrados. Pero yo creo que pueden salir en un en un dólar ese token. Y si vemos lo que ha hecho Sushi, por ejemplo, con con su token o lo que ha hecho algún otro exchanges de estos que tienen tokens, híjole, y y con el volumen también que estamos viendo en Júpiter YYY lo que yo creo que va a pasar con Solana y el volumen de trading en Solana, creo que es una alternativa muy muy muy interesante de entrar ya en un tema de gobernanza con un protocolo así de ese tamaño, con un token gratuito. No sé tú si ya revisaste tus estadísticas cuánto cuánto
+
+[Speaker 1 - 01:23:04]
+No, yo ahí sí tengo malas noticias. O sea, yo yo soy relativamente nuevo usuario, entonces tristemente pues no, no me tocó, pero estoy ahí viendo porque también otra cosa que justamente me gustó, que fue que dijo, no se preocupen si son nuevos usuarios. Cada Yupuari, Yupuari, no me acuerdo como lo decían. O sea, cada enero vamos a lanzar un hidrofilido. Es de que la madre con madre. Entonces, ellos van a largo plazo con sus usuarios también. Eso es una cosa que está muy cool. O bueno, te hacen creer que van a largo plazo. Digo, todavía falta ver que no nos rogueen a todos. Pero pero sí, eso es una cosa que por lo menos a simple vista parece muy cool porque estás comprometiendo al usuario. Algo que pasa mucho con los airdrops, precisamente es de que te cae el airdrop y bye bye. Ya nunca vuelves a usar la plataforma, jamás te olvidas del proyecto. Entonces esta cosa se me hace muy inteligente. Porque mantienes al usuario comprometido y es de que ahí te va 1. Pero no va a ser el único. Sígueme usando y muy y no no muy probablemente. Ya confirmado el próximo te va a tocar.
+
+[Speaker 1 - 01:24:06]
+Entonces es una cosa interesante porque son como los descuentos bien aplicados de DiDi o de Uber ¿Sabes? Entonces, no sé, me gusta por eso. Estoy bullish en Jupiter y en el Viaw. El gatito este, cool.
+
+[Speaker 0 - 01:24:20]
+Sí, YYY ya no cabe creo que el punto anterior sobre sobre él y los experimentos, ¿no? Porque hablamos del token que va a salir, que lanzan mañana, pero este MOOC Hoop que lanzaron primero como prueba, pues fue igual, ¿no? Nada más regalado para experimentar y recibir retro de la gente y ver qué fallas tenía y mejorando la la la plataforma de lanzamiento para Gwen y para Hoop, que también mañana vamos a ver qué tal qué tal funciona. Pero creo que obtuvo mucha retro de la de la de la banda y con eso pudieron mejorar mucho la plataforma que van a utilizar mañana y esa madre agarró agarró, o sea, yo también recibí obviamente el el mob hoop y lo acabé vendiendo como en 50 dólares güey. Tumben el precio 0, y de una manera así como que muy divertida, fomentando el el el volumen y no sé, no sé, se me hizo bien bien padre el experimento con el mockhole y también el Gwen, porque no nada más es un airdrop, como tú dices, sino que trae un tema de tecnología, trae un tema de utilizar nuevo el nuevo protocolo de token 2022 de Solana, que sea algo muy sencillo y fácil de usar, que sea mucho más barato de lo que existe ahorita en el momento.
+
+[Speaker 0 - 01:25:33]
+Entonces, la propuesta también tecnológica de un nuevo protocolo light wait y que en algún momento ese token a lo mejor se puede utilizar para algo de eso, está interesante, me me me gustó mucho. O sea, está construyendo de una manera bien loca, pensando en la comunidad y viendo cómo beneficiar a la comunidad. Algo muy parecido a lo que está haciendo Metapull, no sé qué opines, o sea, las comisiones de las transacciones de Metapulse y de la gente que hace staking, obviamente, pues tiene un retorno, y ese retorno lo están buscando cómo se lo regresan a la banda. Lo mismo pasa aquí, cada cada que nosotros utilizamos Coopiter, el exchange, el exchange descentralizado, eso ellos llevan un porcentaje y de ese porcentaje, pues, también están viendo cómo a través de estos airdrops YYYY cómo cómo es que decías hoop puery empezar A00 regresarles ese equipo de lo que han obtenido? Está padre, este creo que el puery, creo yo. Les va a ir muy bien.
+
+[Speaker 0 - 01:26:33]
+Sí.
+
+[Speaker 1 - 01:26:35]
+Yo quiero la o sea, no me va a tocar, pero yo sí quiero comprar ahorita en pre market, porque van a lanzar una DAO también. O sea, algo así como dices, ¿no? Estilo Metapull, que Metapull, pues, tiene la plataforma, también tiene la DAO. Entonces, está está yo sí quiero tener poder de voto con Júpiter, porque, pues, te digo, o sea, gusta lo que están haciendo. Entonces, no sé si sepas cómo cómo entrar en pre market, porque he visto que ahorita ya tiene volumen el token en en pre marketing y ha salido, o sea, está creo que el precio como en como en 70 centavos, en detalle alguno, todo está está curioso.
+
+[Speaker 0 - 01:27:10]
+Pero sí Sí, sí, sí he estado al pendiente del del precio, y es algo que sucede con muchos tokens. Lo he visto, no nada más con este, con con con muchos otros tokens que sabemos ya el el el A veces sabemos el precio en el que van a salir, a veces no sabemos el precio en el que van a salir, pero empiezan a agarrar un volumen, o sea, ¿qué es lo que hacen? Crean un token que dice que, en algún punto, ballenas o el mismo protocolo dice que que que que esos tokens previos a que salga el token real al mercado, pues son intercambiables 1 a 1 por el nuevo y y empiezan a tener un volumen. Y este en específico he visto que ha subido arriba del dólar, que ha bajado a los 50, 40, o sea, como que se ha ido moviendo, y luego, de repente, hay transacciones OTC que se hacen 1 a 1 para venderse, o sea, si, por Puedo ver cuánto tengo de de de Ya, listo. Yo le doy esa cartera a alguien que quiera comprar, le digo, mira, checa la cartera, es mía.
+
+[Speaker 0 - 01:28:13]
+Te mando tantito, Solana, para que veas que es mía, ya, recibí la transacción, si es tu cartera. Ok, confirmamos. Hacemos un deal, ¿no? Este, tengo yo un claim de 100000 mañana, págame ahorita, que es cuando necesito la liquidez, los 100000 que quiero por esos tokens y ya mañana te los mando, ¿no? Cosas así ya se pueden hacer también. Y se están haciendo y está está interesante porque sí traen una DAO, traen temas de gobernanza y es, creo yo, y por de acuerdo al volumen, 1 de los mercados que y aplicaciones que ya le está consumiendo a monstruos como sushi. Entonces, y y no sushi no, este, el otro grande Aluni, ¿no? Al aluni Uni, suaveza, madre, se me dice. Sí, bueno. Entonces, está interesante. Neta, sí, yo voy a estar al pendiente. Yo no sé, yo creo que voy a vender un poco y me voy a quedar ahí con 2 tercios, este, porque siempre es bueno sacar ganancia de todos estos drop airdrops, luego se arrepiente 1 de no haber sacado.
+
+[Speaker 0 - 01:29:15]
+Y también luego se arrepiente 1 de haber vendido, porque si hace 1000 x, pues bueno, ni modo, es parte del show. Sí, no,
+
+[Speaker 1 - 01:29:25]
+aquí hay por eso pues también no hay que saber, pues, ¿qué queremos? Digo, si con 100 dólares dices, ya huevo ya. O estás esperando, mire, no sé, ya eso es sería otro tema para otro espacio, el cómo tomar ganancias, ¿no? Pero yo creo que ya es muy de cada 1, ¿no? Lo que quiere. No, me, Mexi, gracias por invitarme. Ahorita tengo que que dar una vuelta. Entonces, te dejo aquí con toda la bandita a todos, todos los oyentes. Y pues nada, éxito, éxito a todos y ahí los guacho. Mañana ahí tengo space, por cierto, ahí si me dejas chillar, en digitalizados tenemos space con Lalo, despacio cripto. Nunca he platicado con él, o sea, entonces a ver, a ver qué onda. Le dije, ¿qué onda? ¿Le quedas con space? Y dijo, jalo. Así así de fácil es conseguir invitados para spaces. Si alguien quiere iniciar espacios, nomás están a un DM de su próximo invitado. Pero bueno, ahí se me cuidan.
+
+[Speaker 0 - 01:30:18]
+Oye, nombre, Alan, gracias por andar por acá. Lalo, por ahí estuve viendo lo que trae y se me hace bien interesante, quieren mandar un chorro de gente a Devcon, con con con un tema de entrenamiento, con un tema ahí de de de de enerties. Creo que van a vender enerties en un dólar, algo simbólico, para utilizar estos blockchains y tener ahí un programa de puntos. Ay, padre, este, ya ya me metía, ya compré unos cuantos, a ver cómo amanezco en el Leader Board. Sé que van a tener un Leader Board ahí de la gente que que que puede llegar a ganar esos viajes a Devcon. Creo que está padre la forma en la que lo están viendo. Mañana me no me pierdo el space. Es buena onda el el buen Lalo. Ahí pregúntale, pregúntale. Dile que yo dije que qué onda con el tuit. La sopa, la música Dile que qué onda con el tuit ese que dijo que cuándo ventito cool en Monterrey. Que que que ¿Qué cuándo?
+
+[Speaker 1 - 01:31:10]
+¿Qué? Es
+
+[Speaker 0 - 01:31:12]
+ventito cool. O sea, ya teníamos nosotros como 6 meses haciendo eventos acá en Monterrey y eventos chidos, que habían hecho mucho ruido y puso buen eventito cool web 3 en Monterrey y mucha banda aquí que Pero pregúntale, pinche.
+
+[Speaker 1 - 01:31:36]
+Qué pedo que era ese pinche Lalo. Sí, mañana le picamos las costillas para ver qué onda. También el Let México, el Arielus hizo encuesta y va ganando Monterrey y Oaxaca, ¿Eh? Entonces, a ver qué onda. A ver qué onda, Monterrey va a estar puesto este añito, la neta. Pero bueno, ahora sí ya ya los dejo.
+
+[Speaker 0 - 01:31:55]
+Gracias, Abraham. Ahí estamos platicando. Gracias a todos los que se conectaron de nuevo, esto es cuenta nueva. La otra falleció, ya no creo que me la regresen. Afortunadamente, por ahí tengo otras, y si vuelve a suceder algo parecido, pues bueno, ahí ahí les estaré mandando con con con mis amigos y que me ayudan a difundir cuál es la nueva. Pero aquí andamos platicando de todo el tema web 3. El día de hoy hablamos de que estamos expuestos a eso justamente utilizando estas apps web 2. Creo que tenemos que ir migrando poco a poco a plataformas descentralizadas donde no no no no el código no permita que esto suceda. Lens es una por ahí que he estado experimentando, Era un relajo obtener invitación para Lens, pero creo que ya es más sencillo. Otra que he estado usando es Farcaster o WarpCaster, que también es tiene una app, cobran 5 dólares al año, entonces y de una forma web 2.
+
+[Speaker 0 - 01:32:59]
+Entonces, está padre, está tan tan interesante que te cobran con el con el con el Google. Play. No he leído mucho sobre tanta descentralización tiene. He visto a gente que respeto mucho ahí y eso me da mucha información. Voy a leer más el tema y luego les platico narrativa de muchas personas muy influyentes en el ecosistema, están migrando AAA utilizar herramientas como Farcaster. Probé, y muchos hemos probado por ahí cosas como Friends Tech, Yo creo que sí hay un movimiento interesante con Socialfive y hay que Yo voy a estar al pendiente y les voy a estar platicando de qué aplicaciones de de sociales están permitiendo interactuar con la gente, que que tienen algo de alcance, que tienen tracción, porque también si no hay nadie por ahí en ellas, pues no, no sirve de mucho. Entonces, pues sí, es decir, identificando dónde se ve más volumen y qué tiene mejor usabilidad.
+
+[Speaker 0 - 01:34:03]
+Creo que puede ser una alternativa a Faircaster, por ahí ahí les estaré diciendo. Ya ando por allá. Mi perfil es Mexi. Fíjense que me gustó más este Mexi Web 3, que Mexi Mali, le duele un pedo a la gente para que lo apuntara bien. Entonces, pues bueno, de de hay que verle el lado bueno a la vida. Esta semana miércoles voy a estar en México. Si hay evento web 3 en Ciudad de México en la noche, avísenme. Ando buscando bendito web 3 en CDMX el miércoles en la noche. El jueves nos vemos en la fiesta loca en Cholula, Puebla. El viernes tenemos una reunión de comunidades igual en Cholula, Puebla, ahí los esperamos. Por ahí hay varios links para el Hackathon de Ir 5 de mayo, viene Sol, va a estar allá hackeando en Cholula, Puebla, y luego viene a Monterrey a dar el taller del método. Andamos buscando músicos por acá en Monterrey.
+
+[Speaker 0 - 01:35:03]
+Ya tenemos por ahí los flyers, ahí los vamos a empezar a compartir hoy para que se apunten, son, es un taller que empieza el 11 de febrero, el lunes, déjenme les confirmo la fecha para no darles información incorrecta, pero un segundito. Lunes y miércoles de febrero, y son 4 días.
+
+[Speaker 1 - 01:35:26]
+Denme un segundo, ahorita les digo.
+
+[Speaker 0 - 01:35:31]
+12 y 14, 19 y veintiuno de febrero, son 4 sesiones en las tardes para músicos independientes que estén acá en Monterrey, que quieran aprender de tecnología web 3, que quieran empezar a tokenizar su arte musical y venderlo. Traemos a Sol desde Argentina, desde Buenos Aires a dar el curso, a impartir el taller, ya la buscaron para ver si iba a Tulum a impartirlo, ya la buscaron también para ver si se iba a Puerto Escondido por ahí a hacer su taller. Ciudad de México va a estar por allá una semana en marzo y creo que se regresa, bueno no creo, el vuelo lo tiene de regreso el 25 de marzo. Entonces del del primero de febrero que llegamos a Puebla, bueno, que llega ella a Ciudad de México y que nos vamos a Puebla y que hackeamos, allá vamos a estar difundiendo el taller, vamos a estar, pues solo va a estar ofreciendo sus canciones ahí al que las quiera mintear.
+
+[Speaker 0 - 01:36:33]
+Creo que va a estar muy padre el evento y después nos venimos a Monterrey a preparar todo. Queremos hacer un festival el 24 de febrero acá en Monterrey. Vamos a buscar que los músicos que participen en el taller, pues preparen algo y vamos a tener ahí un evento en en en en Monterrey. Yo cumplo años el 26 de febrero, entonces aprovecho para festejar mi cumpleaños. Aprovecho también para festejar que acabamos de firmar acá en Monterrey con MX Web 3 una un documento legal, un acta constitutiva para hacer asociación civil, también queremos festejar eso. Por ahí somos, creo que no he publicado fotos, ahí luego la subo. Pero, pues, ya es una forma un poquito más establecida de de de trabajar y de buscar colaborar con con diferentes instituciones, con el gobierno, para seguir platicando de temas web 3, para seguir fomentando la la la que la gente aprenda sobre esas tecnologías, que haya hackatones, que haya eventos presenciales.
+
+[Speaker 0 - 01:37:39]
+Mucho de mi enfoque a lo largo de este, más de un año ha sido en en en en la presencialidad, en ir a conocer gente, pero también en organizar eventos acá en Monterrey, y creo que eso acelera mucho que que que se formen nuevas aplicaciones, que se hagan nuevos proyectos, que que la gente colabore para construir cosas y, pues bueno, vamos a seguir con eso y creo que la la asociación civil nos va a ayudar mucho en ese sentido. Toda eso vamos a festejar en el en el taller. Los jueves estamos en Monterrey, como siempre, el jueves pasado, y parece que quedó de grabación, vino a hablarnos el director estatal de tecnología de la policía de de de Nuevo León, del estado, y y es un vato que es soltero, que no tiene hijos, que empezó a comprar bitcoin desde y Ethereum y Ether desde el 2016, 2015, por ahí, nunca ha vendido y, en algún punto, pensando sobre artes, empezó AAAA leer mucho sobre tecnología y acabó comprando, creo que ha invertido 1000000 en en, que tiene varios punks, compró hace poquito un un un un hoodie de medio 1000000 de dólares, tiene algunos generativos como los Auto Glifts.
+
+[Speaker 0 - 01:38:57]
+Es una colección bien cool, que apenas acaba de empezar a hacer hace 3 meses o 4 meses. Entonces, trae una historia bien padre, bien interesante, nos la contó, estuvo chido. Acá el meetup en Monterrey parece que un poco la grabación. Yo creo que lo voy a lo voy a invitar a alguno de de de de estos espacios próximamente para para que tome en cuenta la historia, porque tuvimos temas técnicos y no no no no no pudimos grabar toda la conversación, entonces me lo voy a traer un día. Está bien, padre la historia de este güey. Como como les decía, director de la policía traías cortas el bato ahí al al local. Buena onda, buena onda. Pero bueno, nos vemos por allá en Puebla. Sigo martes y jueves este jueves. No sé si pueda tener el espacio, voy a intentar, yo creo que vamos a ir manejando. Ale Ramos va a ir por nosotros al aeropuerto y y el jueves nos vamos para allá.
+
+[Speaker 0 - 01:39:58]
+Sol, Ale, Pablito, no sé quién más vaya a ir por ahí con nosotros, pero si tengo señal abro el espacio y por aquí estamos platicando, les vamos a contar, El viernes por ahí quería hacer un espacio, este, Abraham también. Si se arma espacio el viernes temprano también les podemos contar de cómo nos fue en la fiesta loca. Yo no le puse el nombre, así le pusieron los organizadores, pero el jueves va a ser la fiesta loca, y el viernes les platicamos qué onda en el espacio. Estamos comprando por ahí un nown, tenemos un colectivo, último último hizo, tenemos un colectivo mexicano, latino, de personas que queremos entrar a la DAO de los Nounds, si no saben qué es Nounds, es un proyecto NFTS que lanzaron 10 personas y volvieron el código, perdón, volvieron el, pues sí, el código y el arte CC 0. O sea, que cualquiera puede usarlo para lo que quiera, es propiedad intelectual pública, y hay muchas suba asociaciones y otros grupos de personas que están utilizando esta marca para para hacer muchas cosas bien padres.
+
+[Speaker 0 - 01:41:10]
+Entonces, empezamos 1, queremos comprar nouns de la colisión grande y probablemente también lanzar algo propio. Ahí estaremos haciendo un poquito más de ruido sobre el tema allá en Puebla, pero, pues bueno, también hay algo que les quería platicar que traemos, que estamos moviendo. Alan, ahorita veo, sé que hay interés, todavía tenemos un par de tickets abiertos, ah, para eso les decía. Abrimos 6 tickets de 69.69 Ether cada 1, esos 6 tickets de 0.69 Ether cada 1 equivalen al 51 por 100 del nown que vayamos a comprar. Claudio Cosío le metió 4 Ether, entonces por ahí todavía tenemos 2 tickets abiertos de 0.69 Ether para el que quiera entrar al colectivo de Nowns MX. Si no saben qué es, no son mis clientes o no no, sí, no me interesa. A menos que se dan todo la decisión a la gente que sí conozca sobre el tema, aceptaríamos su dinero, si no, si no saben sobre knowwn, si no quieren un knowwn, si no, creo que no es opción para alternativa para ustedes, pero seguimos buscando a 2 personas que quieran meterle 0.69.
+
+[Speaker 0 - 01:42:23]
+Idea es comprar 2, queremos 2, y como se puede utilizar la propiedad intelectual para lo que queramos, pues podemos por ahí hacer una cosa divertida forkeando código, teniendo subastas, no sé, hay muchas ideas, estamos viendo y poniendo en papel toda la la la idea completa para ver si hay gente que se anima y, pues bueno, si quieren aportar en algo 0.69 Ether es la entrada y hay 2, 3 tickets disponibles. Por ahí veía Alan, si quieres todavía, échame un DM y ahí estamos viendo. Nos vemos, me gusta mucho. Que hayan venido el día de hoy, gracias por estar por aquí. Si me ayudan dando like de retweets y comentándole, platicándole a la gente que a lo mejor no ven por ahí conectada, que aquí ando, que voy a seguir haciendo sus espacios a la misma hora, que me encantaría en algún punto conocerlos. Voy a conocer a muchos que no conozco allá en Puebla y de ahí estoy seguro que van a salir muchas colaboraciones.
+
+[Speaker 0 - 01:43:28]
+Voy buscando devs, necesito reclutar devs.
+
+[Speaker 1 - 01:43:36]
+A
+
+[Speaker 0 - 01:43:38]
+ver, espérame que aquí ya me están reclamando ahorita, ya me, déjame les cuelgo aquí a a la banda, ¿ok? Espérame, dame 2 minutos. Entonces, voy a voy a poder hablar a buscar devs, tenemos por ahí ideas padres de de de buscar grants con Arbitrum para construir DAOs que hagan fondeo. He participado mucho en rondas de fondeo con bitcoin y creo que hay necesidad gran grande, y hay dinero que el Blockchain están ofreciendo para construir cosas así. Voy también a buscar debs que quieran ayudarnos a construir la plataforma de los naunds. Voy a buscar debs también para que construyan aplicaciones para comunidades, este, de hecho vamos a lanzar una ronda de fondeo en gitcoin exclusiva para eso próximamente varias comunidades mexicanas y latinas también va a ser bien cool eso. Y pues nada, ayudar, fomentar, buscar colaborar, acelerar y construir, y aquí voy a seguir, me encanta este show, no no no, algo como un bloqueo de una cuenta no no no no elimina lo que ya he hecho ni lo que voy a hacer, este, pues las acciones hablan por sí mismas.
+
+[Speaker 0 - 01:44:51]
+Los quiero mucho, gracias por estar por aquí, gracias por ayudar a que la gente sepa que estoy acá en esta nueva cuenta y nos vemos el jueves, por aquí seguimos posteando de todos modos como siempre. Andamos venezolana, último, ahora sí ya último. Vamos próximamente a lanzar una colección, la sub 80 k, es una colección de inscripciones en Solana. Nila, Nila. Me gusta mucho el tema de las inscripciones. Lo he estado experimentando y explorando desde que salieron los órdenes, por ahí notas estuvo experimentando con inscripciones en Ethereum y en Solana, y tenemos por ahí unos tokens 80 k, los primeros 80000, creo que llevan más de varios 1000000 de inscripciones en Solana. Tenemos 222 tokens que vamos a lanzar próximamente, la increíble caro de el caro show de el caro crew y del caro news, si no conocen a Caro no sé qué fregado están haciendo aquí, pero creo que todo mundo debe conocer a Caro que fue conectado.
+
+[Speaker 0 - 01:45:55]
+Él nos está ayudando ahí con una competencia creativa. Si no han participado, échenle un vistazo a su perfil. Canijas. Sí, Sí, échenle un piso a su perfil y participen. Queremos queremos participación de los artistas, queremos participación de la gente que está en la comunidad. El arte de ustedes puedes entrar y va a entrar si participan dentro de la colección, eso es algo que Caro por ahí aseguró, nos encantaría, pues sí, que que que le echaran un ojo, que participen, que manden sus trades, que los representen a ustedes, que representen a su comunidad, que representen lo que quieran. Finalmente, la la idea es meterlos en la colección, y esa colección lo que que lo que lo que busca, pues, es hacer una, toquenizar primero la comunidad de de notas, la mía, de de de de Caro, de todos los que quieran entrar, va a ser una comunidad que que iniciemos juntos, y empezar a experimentar con la tecnología y ver cómo empezamos a dar beneficios con todas estas herramientas que tenemos.
+
+[Speaker 0 - 01:47:04]
+Creo que, entre más usemos y encontremos maneras de organizarnos y experimentemos con DAOs y con herramientas de de de de de, pues para dar beneficios a la gente que tenga cierta cantidad de tokens, mejor nos va a ir y más soluciones vamos a encontrar en el mercado y para la vida real. Entonces, si nosotros que estamos aquí no la utilizamos y no la no experimentamos con la tecnología, va a ser complicado mejor que que salga esa solución que traiga a muchas más personas. Entonces, pues sí, vamos a vender el token, el arte está chido. Y algo que se le ocurrió a Caro que me pareció increíble y que la verdad a mí me gusta muchísimo es la Merch, me encanta la Merch. De hecho voy a ir a Puebla, como les decía, ¿no? Este PSP que tengo ahorita puesto, le puedo cambiar el la ropa, le puedo cambiar la gorra, le voy a poner un hoodie rojo y voy a andar allá en Puebla con mi hoodie, con mi con mi gorrito.
+
+[Speaker 0 - 01:48:08]
+Y la idea de la sub 80 k es que esas características, que esos trades que ustedes diseñen luego los los busquemos, cómo hacerlos realidad, cómo cómo cómo cómo mandarlos construir, cómo hacer airdrops para la gente que les tocaron, cómo venderlos también, los hoodies, los lentes, los gorros. Vete a saber, este, creo que creo que hay un un martillo chido ahí, y muchos de los temas que vamos a utilizar van a ser con los tokens sub 80 KXRC 20 malditos, de nuevo, rescaten los pasos al arbitrum porque le vamos a dar utilidad en el ecosistema. Ahora sí ya. Los quiero mucho, nos vemos el jueves si tengo señal, si no, pues aquí seguimos. Gracias por estar por aquí, gracias por difundir, gracias por seguirme acá a esta cuenta, construiremos como de lugar y seguiremos sumando como siempre. Hasta luego, los amo.

@@ -46,7 +46,7 @@ def load_episode_metadata(space_id):
             # Buscar episodio por space_id en space_url
             episodes = data.get('episodes', [])
             for episode in episodes:
-                space_url = episode.get('space_url', '')
+                space_url = episode.get('space_url') or ''
                 if space_id in space_url:
                     return episode
         except Exception as e:

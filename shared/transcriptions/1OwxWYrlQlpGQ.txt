@@ -1,0 +1,429 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #20240305
+Título: banda web3 - @natzcalli de @vadiexchange tokenizar empresas
+Fecha: 2024-03-05
+Host: BandaWeb3
+Tipo: hosted
+
+Descripción:
+Hosted Space: banda web3 - @natzcalli de @vadiexchange tokenizar empresas
+
+Duración: 01:31:51
+Escuchas: 59
+Speakers: 3
+
+Links:
+  Space: https://x.com/i/spaces/1OwxWYrlQlpGQ
+  Dashboard: https://spacesdashboard.com/space/1OwxWYrlQlpGQ/banda-web3-at-natzcalli-de-at-vadiexchange-tokenizar-empresas
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+
+[Speaker 0 - 00:00:00]
+Buenos días, buenas tardes, buenas noches. Dependiendo de dónde se conecten el día de hoy, vamos a platicar con Natalia Cueto. Natalia, una amiga mía de hace muchos años, que es la CEO de BadiExchange. Disclaimer. Voy a hacer este disclaimer durante toda la plática, soy accionista de esta empresa, y me encanta que salgamos ya al mercado, que saquemos el producto, que se empiece a vender, que recibamos retroalimentación y que veamos, pues, cuánto interés hay.
+
+[Speaker 0 - 00:01:19]
+Creo que, la verdad, la aplicación es muy muy buena. Y que tiene muchas ventajas para los empresarios que quieran participar y que quieran levantar capital con esas tecnologías. Y por lo mismo, pues bueno, vamos a platicar hoy con Natalia Cueto de Varia Exchange. Voy a poner musiquita, esto es The Beatles. I want two. Ando con rock progre. Entonces empezamos en breve.
+
+[Speaker 0 - 00:02:23]
+Esto es I want two de The Beatles. A mandar algunas invitaciones. Bienvenido, Peco. Muchas gracias por estar por acá. Lu, muchas gracias por estar por acá. De nuevo, empecemos en breve. Gracias por estar por aquí. Sigo mandando invitaciones. Empezamos en unos minutitos. Bueno, yo creo que hasta aquí le vamos a dejar, porque si no todavía le faltan un un buen rato a la canción.
+
+[Speaker 0 - 00:03:27]
+Bienvenidos, bienvenidos todos los que se están conectando el día de hoy, como les decía, vamos a platicar con Natalia Cueto de Badi Exchange. Por ahí he estado invitando a toda la banda a que se suba a participar, que venga a escuchar esta plática porque, pues, tienen noticias importantes. Por ahí he hecho unos disclaimers en Twitter y los vuelvo a hacer el día de hoy.
+
+[Speaker 0 - 00:04:32]
+Soy accionista de Buddy, estoy apoyando desde que inició y, pues, bueno, nos va a contar Natalia esta historia de cómo se formó la empresa, qué es lo está buscando, cuáles son los problemas que que vemos, cuáles son las soluciones. Y vamos a empezar la venta del token, vamos a salir ya a mercado el ecosistema, y el mercado está en su momento preciso, ideal, creo yo, con todas las narrativas que estamos escuchando, con el precio como lo hemos visto, y la verdad ando bien emocionado de este lanzamiento.
+
+[Speaker 0 - 00:06:00]
+Y es algo que venimos platicando desde hace años, ¿no? Recuerdo todavía, y ahorita a ver, no sé por qué no, creo que no podemos subir ahorita a la de exchanges, pero ya viene, para acá. Pero recuerdo, estaba viendo algunas fotos, estaba viendo las cuentas por ahí que tenemos de redes sociales, que maneja el equipo de Natalia y ella. Y la verdad es que ya son años de estar trabajando en este proyecto, de conseguir inversión, de levantar capital, de desarrollo de la aplicación, desarrollo de la página, del plan de trabajo, del roadmap, etcétera, etcétera, etcétera.
+
+[Speaker 0 - 00:07:39]
+Y, pues, salimos a la venta el 13 de marzo. Ahorita nos van a platicar bien los detalles, pero les voy a pinear por aquí la página. Se los voy a dejar en los comentarios por si quieren ir a revisar la información. Hay que registrarse, Buddy punto com punto m x. Aquí se los voy a poner y se los pineo acá arriba en un momento.
+
+[Speaker 2 - 00:08:42]
+Denme un segundito.
+
+[Speaker 0 - 00:08:45]
+Ahí está. Si se registran les va a llegar un correo donde les va a llevar el link para que vayan a participar y vean qué es lo que está sucediendo. Bienvenido Abraham, bienvenidos a Leonel. Lu, muchísimas gracias por estar por aquí. Rock Radio en español, bienvenidos Peco. Muy chido, muy chido el cotorreo ayer con Wen, si no han escuchado ese espacio con Wendy. Wen López N, vayan a su perfil, revisen el espacio, ahí nos pusimos los los los las máscaras de luchas y estuvimos por ahí en una dinámica bastante entretenida.
+
+[Speaker 2 - 00:09:16]
+Bill Bill Collective, Builders Collective 2,
+
+[Speaker 0 - 00:09:20]
+bienvenidos. Kissy Sol, bienvenido. Marco Sánchez, bienvenido. Y Off Chain Monterrey. Mira, no sabía que tenía cuenta Off Chain Monterrey, pero bienvenidos. No sé, denme un segundito, aquí estoy revisando los detalles con Natalia, porque justamente está en vivo desde Ciudad de México, está participando en Finovista, Finovista perdón, y mientras se conecta y vemos aquí cómo está la parte técnica les platico de de Finovista. Finovista están organizando ahorita el famoso Fino Summit, que es una asociación que reúne fintech en México. Y entiendo que ahorita están trabajando con más de 200 déjenme les confirmo el dato porque por aquí lo tenía. Y varias empresas obviamente, varias fintech están ahí participando. Tiene apoyo de Visa MX, tiene apoyo también del ecosistema fintech en México y pues la verdad estamos muy contentos de de de formar parte de esto. Quiero que nos cuente ahorita Natalia cómo le está yendo. Está en vivo desde allá, a lo mejor por eso no se ha podido conectar, pero vamos a ver si
+
+[Speaker 2 - 00:10:26]
+a lo mejor la cuenta de varia Exchange se puede conectar. No sé quién ande por ahí, a lo mejor es Arturo
+
+[Speaker 0 - 00:10:32]
+o no, no estoy seguro. Pero bueno, les platicaba de FinoVisa, FinoVisa y FinoVista perdón, y Visa mx,
+
+[Speaker 2 - 00:10:43]
+pues la verdad está aquí, ah mira ya viene por acá Natalia, déjenme la invito, denme un segundito, ya para empezar a publicar con ella.
+
+[Speaker 0 - 00:10:52]
+Ella. Pero bueno, les decía, no encuentro aquí el tweet, deme un segundo, se me hace que está en el de Buddy Exchange. Aquí lo tenía allá, pero se me
+
+[Speaker 2 - 00:10:59]
+perdió. Pero creo que ya Natalia la debemos de tener por aquí arriba en breve. Ahí está. ¿Qué onda, Natalia? Bienvenida, buenos días, ¿cómo andas? Creo que se me cayó. A ver, deme un segundito. Sí, creo que todavía no no la podemos tener. Ahí va de nuevo. Ahí va, creo que ya. Nat, ¿cómo andas? Bienvenido. ¿Qué tal? ¿Me escuchan Nat, ¿cómo andas? Bienvenido.
+
+[Speaker 3 - 00:11:22]
+¿Qué tal? ¿Me escuchan ahí? ¿Qué tal? ¿Me escuchan ahí?
+
+[Speaker 0 - 00:11:31]
+No te escuchamos, no sé si tengas por ahí algún detalle con tu micro, creo que ahí ahí te oigo.
+
+[Speaker 3 - 00:11:43]
+A ver, ¿qué tal Laura? ¿Me escuchan ahí?
+
+[Speaker 0 - 00:11:49]
+¿Se escucha solo ruido, Nat? No sé si andes por ahí.
+
+[Speaker 3 - 00:11:53]
+Sí, a ver, ¿me escuchas ahí?
+
+[Speaker 0 - 00:11:57]
+Híjole, no no no sé si les alcanzan a escuchar Ahí ahí ahí ¿Lo escuchan?
+
+[Speaker 3 - 00:12:03]
+No creo que la gente aquí abajo sí
+
+[Speaker 0 - 00:12:05]
+puede. Ahí estás ya, creo que ya, listo.
+
+[Speaker 3 - 00:12:08]
+¿Ahora sí ya? Oh, dios, no sé si me están escuchando nada.
+
+[Speaker 0 - 00:12:17]
+Vas y vienes. Mira, voy a ver, dame un segundo, voy a tratar de cambiar mi celular, nada más aquí para para estar seguro que no sea que no soy yo, y no lo, ojalá no me rogue este space de conectar. Y cierro aquí, dame un minuto.
+
+[Speaker 3 - 00:12:42]
+Listo, creo que ya estamos. ¿Ahí me escuchas Nat? Yo te escucho perfecto, pero no sé si ustedes me están escuchando a
+
+[Speaker 0 - 00:12:49]
+mí. Ya, ya. Creo que era mi celular el que tenía el detalle. Ok. Ya te escuchas muy bien. ¿Cómo andas? ¿Estás en vivo? Les decía aquí a la banda desde Finobiza, en Ciudad de México.
+
+[Speaker 3 - 00:12:59]
+En realidad andamos ahorita en Cancún, estamos en el Xcaret. Finovista, digo, como como saben, pues es una de las asociaciones y y VCs y actores fundamentales del ecosistema fintech y realizan cada año este evento que le llaman Finosumite Connect acá en en en Cancún, y pues este evento lo que hace pues es que junta a todos los actores más relevantes del ecosistema fintech, pues bueno pues para hablar de de todos los temas que nos interesan, de la regulación, de lo que viene en innovación, de de todas las tendencias, y pues como su nombre lo dice pues conectar. Entonces por eso quisimos estar acá con con Valley Exchange, nunca nunca faltamos a los eventos de de Finovista, la verdad. Y pues feliz, feliz de de estar aquí promoviendo este proyecto. Y pues bueno, buenísimo platicar contigo desde
+
+[Speaker 0 - 00:13:53]
+ahora. No, muchas gracias, Nat. Bienvenida y gracias también por tomarte el tiempo allá desde Cancún. Yo creí que era en Ciudad de México, qué chido. Escarera hermoso, ¿no? Me imagino que han de estar trabajando mucho, pero también la vista y y la fiesta debe estar buena.
+
+[Speaker 3 - 00:14:08]
+Sí, no, sí, sí, sí la saben armar aquí estos cuates de fino Vista, la verdad.
+
+[Speaker 0 - 00:14:13]
+Qué chido, qué chido. Oye, nada, les platicaba antes de que subieras que estaba revisando pues toda la información por ahí que tenemos en redes, el el el la página, pero me fui a ver las fotos que están por ahí en Instagram y me gusta mucho esta parte de de de la entrevista porque creo que muchos empezó a suceder, al menos acá en Monterrey de toda la actividad que hemos visto a partir de Blockchain LAN. Y recuerdo claramente que que que por ahí fui y ustedes estaban, tenían un stand, ¿no? Ya tenían pues meses, si no es que más del año trabajando en el proyecto, fueron a presentar en Blockchainland en octubre del 2022. Y desde ese entonces pues han seguido YYY pues bueno, seguimos, ¿no? Este ya me voy a incluir yo por ahí en todos lados pero pues trabajando y desarrollando y ustedes con las juntas y las juntas y las las revisiones con los inversionistas. Han sido han han sido ya no sé si 1, 2 o o 3 años de trabajo con con el desarrollo de esta plataforma. Cuéntanos un poquito de de cómo se dio y la historia de Vadis.
+
+[Speaker 3 - 00:15:14]
+Sí, sí, sí, claro que sí. Pues bueno, digo, la la la historia de Vadis como tal, podríamos remontarlo un poquito como a mi historia personal como como fundadora, ¿no? O sea, yo empecé mi carrera ya hace un montón, en el 2002, un poquito tragaleos, creo. Este, trabajando para casas de bolsa, bancos, estuve en Scotiabank, estuve en base, estuve en Monex, fui trader de divisas principalmente, fui trader prácticamente del 2005 al 2012. Me tocó todo el tema del crash del 2008 siendo trader de divisas, una de las experiencias más, pues bueno, envolventes que que he tenido, y después de eso fui a parar a la bolsa mexicana de valores. Como trader digo, yo nunca había operado capitales, pero luego ya trabajando en el área de data de de la bolsa, pues me comencé a involucrar más en todo lo que es el levantamiento de capital y cómo es que el capital puede ayudar a las empresas a crecer.
+
+[Speaker 3 - 00:16:16]
+Hay empresas que requieren financiamiento de diversa índole, por un lado tenemos las ofertas de crédito, pero hay otras empresas que lo que quieren es puro y duro capital, equity. Entonces las bolsas en México, la BMW y Viva, digo han hecho esfuerzos importantes por llevar, pues bueno, esta oportunidad de levantamiento de capital, en este caso de las bolsas capital público, con con con los inversionistas, pero digamos que se han quedado cortas en ofrecer esto sobre todo a las pequeñas, micro y medianas empresas. Típicamente a las bolsas pues llegan empresas ya más más consolidadas y no son tantas, o sea en México digamos que tendremos menos de 200 opciones para invertir en capital. Entonces lo que yo veía pues es que esto es por muchísimos motivos, 1 de los principales que se hablaba es por por por el tema como de la falta de educación financiera que puede llegar a tener la gente, o la falta de apetito de riesgo, que hay personas que que que sienten que no hay suficiente transparencia, etcétera.
+
+[Speaker 3 - 00:17:26]
+Pero lo que hemos estado observando, pues, es que no es necesariamente así, ¿no? Entonces, después de de de de estar ahí debía años en en en la bolsa, en el área de market data, y y teniendo siempre como intención personal, pues esto, o sea, lograr aterrizar que las empresas tengan capital, porque las empresas son las que dan trabajo. Pero sintiéndome también un poquito frustrada, porque te digo desde las bolsas eso no avanzaba, pues un día me hablan y me dicen oye tienes los precios de bitcoin y yo así como pues de que me estás hablando y por supuesto que no, era 2013. Y y les dije no, pues, ¿cómo que no? O sea, yo tengo nada más información de mercados estandarizados, respaldados, regulados, etcétera. Pero me puse a investigar y me di cuenta del potencial que tenía Blockchain, no solamente para abaratar los costos transaccionales por por por la tecnología misma, sino de poderle dar a a al público inversionista pues esta opción de invertir de manera distinta, descentralizada, con un respaldo más tecnológico que es de una autoridad, lo cual también era algo que que personalmente me llamaba muchísimo la atención.
+
+[Speaker 3 - 00:18:44]
+Entonces, por años estuve como pensando o tratando de de ver pues cómo hacerle, ¿no? Cómo utilizar esta tecnología en favor de los mercados de capitales en en México. Y y tras mucho tiempo y rebotar ideas con con diferentes personas, los llegamos a a este concepto de Vaddy. Y pues bueno, o sea, ¿por qué es relevante? Pues el el el el valor del dinero en el tiempo va cambiando. Y nosotros creemos que una de las maneras para proteger el valor de nuestro dinero en el tiempo, pues, es invertirlo, pero sobre todo va a ser que nuestro dinero trabaje por nosotros. Y hemos observado que los mercados de capitales son los que te permiten realmente hacer tu tu crecer tu dinero, ¿no? O sea, existen muchas opciones, este, financieras, pero algo que te permita hacer inversiones de calidad, algo que te permita encontrar nuevas empresas, decir oye sabes que este proyecto es exitoso, yo quiero entrarle, pues en realidad no tenemos.
+
+[Speaker 3 - 00:19:49]
+Entonces buscando como conjugar estos estos conceptos, pues fue que que aterrizamos Vale, o sea, queríamos una una opción pues, de de de de valores digitales, tal cual, y de ahí también el tema del nombre, este, que que que fuera diferente, ¿no? Entonces dijimos, oye, ¿sabes qué? Pues va, vamos con Badi, va diferente, va digital, va disruptivo y y nos puede llegar a ayudar. Entonces, ¿qué es lo que estamos haciendo? Bueno, es esta plataforma en la que pequeñas y y medianas empresas pueden venir a hacer un levantamiento de capital privado, entonces muy importante, a través de un vehículo tokenizar. Entonces, ¿qué es lo que hacemos para para tokenizarlo? Pues bueno, estamos utilizando la red de Polygon para crear estos vehículos y estamos persiguiendo la autorización como institución de fondeo colectivo Crowd Equity, de tal manera que bueno pues en el 2022, como bien recuerdas, Mexi, bueno, digo, ya te digo ya teníamos años, este, barajeando la idea y todo lo demás, en el 2022 hicimos una pequeña ronda de levantamiento presemilla, Friends and Family, entraron diferentes inversionistas a los que les agradecemos mucho su confianza y pues nos pusimos a trabajar, comenzamos a desarrollar.
+
+[Speaker 3 - 00:21:12]
+Tuvimos la fortuna de que, bueno, 1 de nuestros inversionistas, Ixiono, es un partner tecnológico muy muy fuerte. Ixiono, ellos están basados en Singapur, tienen oficinas también en la India y en otras partes de Europa, están muy metidos en toda la parte de gobierno digital en Singapur, y pues toda la parte de gobierno digital en Singapur y pues toda la toda la tecnología Blockchain la dominan perfecto. Entonces hicimos ahí un muy buen match de inversión y comenzamos a desarrollar con ellos nuestra nuestra plataforma, nuestra aplicación y pues ahora nuestra moneda. Entonces tras pues estos años de de de de de estar diseñando y creando este producto, pues estamos ya ahora sí que en la antesala de lanzamiento de Badi, que es nuestro token nativo, nuestra plataforma, y con el cual pues se podrá interactuar en en nuestra aplicación.
+
+[Speaker 0 - 00:22:17]
+Excelente, excelente. Sí, por ahí yo he estado, pues, al pendiente de de de de, pues, todos estos desarrollos y la verdad es que ha sido, pues, una chamba constante larga construir durante el ver market, creo que ha sido y perfecto, o sea, no hay mejor etapa en el ciclo, creo yo, para construir que cuando los precios están jodidos y hay gente que, pues, bueno, anda por ahí todavía en el ecosistema. Y ahora que ya está remontando el mercado, que ya muchos dicen que cruzamos un All Time High, ¿por qué se le abre ahorita? ¿Crees que esto te esté afectando? Obviamente el timing para salir en algo así es súper importante. Pero, ¿cómo ves, cómo ves ahora estos mercados, estos precios y cómo se ha movido últimamente? ¿Y cómo crees que puede llegar a afectar
+
+[Speaker 3 - 00:23:04]
+el lanzamiento de la plataforma? Pues mira, te digo, tienes toda la razón. El mejor momento para construir es el Bear Market porque, pues, digamos que es cuando estás tranquilo, ¿no? No, digamos, no no hay mucho más que hacer, más que esperar. Entonces, pues, mejor utilizar productivamente el tiempo construyendo. Y eso fue lo que nosotros hicimos. Sabíamos que este momento iba a llegar, o sea, finalmente los halvings, este, y los ciclos en en cripto son claros, son conocidos y nosotros sabíamos que este momento iba a llegar. Tenemos ya años esperando este, justo de febrero a mayo, junio del 2024, sabíamos que íbamos a llegar a estos hold line highs de bitcoin y definitivamente, pues, decidimos, pues apurarnos lo suficiente para estar listos para para este momento. Y sí, o sea, nosotros no queremos subir ese tren. O sea, porque finalmente, o sea, a ver, cada vez la revolución Blockchain, o sea, como siempre digo, es imparable, cada vez hay más personas interesándose por estos temas, pero justo cuando se empiezan otra vez los mercados a ver verdes es cuando la gente dice, oye, ¿sabes qué?
+
+[Speaker 3 - 00:24:18]
+Sí, sí, siempre sí quiero, ¿no? O sea, no, no compré bitcoin 10000 dólares pero ahorita que están a muy bonitos 60 y casi 70, este, sí, ya ya me interesa, ya ya tengo solidez, ya ya tengo los criterios que quería, digamos, nacionales, internacionales, para sentirme seguro. Entonces, sabemos que este es un momento en donde la gente va a empezar a explorar más y definitivamente queríamos subirnos a este tren. Entonces, por eso lo lo planteamos y lo preparamos así y por eso estamos invitando a todas las personas que web, registrarse en en nuestro web, BadDY.com.mx, para poder recibir la invitación a el lanzamiento de nuestra coin, que que que, bueno, su preventa comienza ahora en el 13 de marzo.
+
+[Speaker 0 - 00:25:10]
+Justo estoy pineando aquí arriba la página, ya está pineado Adi punto com punto m x. Ahí pueden encontrar la información del equipo de trabajo, de lo que buscamos, de los objetivos. También les acabo de piñar la cuenta de Instagram con el flyer donde viene ya la fecha de lanzamiento, el 13 de marzo del 2024. Y les voy a pinear también aquí la liga a LinkedIn. Ahí pueden entrar también a la liga de LinkedIn de del bodyExchange para cualquier cuestión. Pues bueno, en las redes sociales o directamente con Natalia, pues nos podemos apoyar por si hay alguna duda o pregunta. Me gustaría comentar sobre el equipo, Nat, porque, pues a ti te conozco desde hace, yo creo que ya unos 4 o 5 años, por X0Y, nos topamos por ahí en una aventura de montaña con un guía que que que que conocemos ambos y, pues, ahí nos juntó. Y desde ese entonces, este, pues, hemos estado conviviendo mucho, platicando mucho y, pues en todas nuestras aventuras de montaña platicamos de bitcoin y de ahí se dio la la la la cuestión de conocer lo que estabas haciendo y me has apoyado mucho en lo personal. Yo también creo que pues bueno, por ahí hemos platicado mucho y he estado muy entretenido.
+
+[Speaker 0 - 00:26:14]
+Cuéntanos aparte de de de de tu rol o o pues sí, de ti como CEO, ¿quién más te ha involucrado en el proyecto? Sí, tu rol o o, pues sí, de ti como CEO, ¿quién más está involucrado en el proyecto?
+
+[Speaker 3 - 00:26:26]
+Pues bueno, está está muy padre, digo, esta me encanta, personalmente porque va de una u otra forma, no que fuera así la intención, pero de una u otra forma, pues es una empresa tanto familiar como de amigos, ¿no? Como dices, o sea, muchas personas estaban interesadas en estos temas, hay algunos otros que me escuchaban desde hace muchos años y era así como pues Natalia la loca sabe dios de qué está hablando, este, no sé, la primer conferencia de bitcoin o de Blockchain que di, yo creo que había menos de 3 personas sentadas ahí escuchándose más de 10 años. Pero como bien dices, estas pláticas fueron llevando más, más, más, más y más. Dentro de las personas que confiaron en en nosotros, pues es justo el equipo de Badi. Tenemos está mi hermano, Diego Arturo Cueto, que no porque sea mi hermano, este, está en Badi, sino porque es un genio verdaderamente, es quien lidere a al al equipo de desarrollo.
+
+[Speaker 3 - 00:27:29]
+Y también está una prima mía, que también fue así como de las que desde el principio impulsaron, creyeron, ella se llama Adriana Arias. Está otro gran amigo, Arturo Cárdenas, que lo conozco desde la universidad y además es colega minero, cripto minero y además con una perspectiva sustentable, minería solar vamos a decir, lo que lo que este cuate tiene, inteligentísimo también experto en data. Y el quinto founder es Simón Cruz. A Simón yo lo conocí en los tiempos en los que trabajé para la bolsa mexicana de valores, él es un gran experto de los mercados de capitales, de los sistemas de información, del trading, y pues juntos pues le fuimos dando dando vida AAA este proyecto y pues con este grupo de personas que les digo mi mi prima, mi hermano y 2 grandes grandes colegas y amigos, pues fue que buscamos esta esta inversión presemilla con nuestros allegados Y en esa ronda, o sea, es cuando cuando entran pues diferentes inversionistas, este, estás tú, están este algunos grupos, está IXion a nuestro partner tecnológico que la verdad fue súper súper punch haber cerrado inversión con ellos por por por todo el expertise que que tienen.
+
+[Speaker 3 - 00:28:47]
+YYY otros y otros amigos que que creyeron desde el principio el proyecto, con quienes, pues bueno, hemos vivido diferentes experiencias pero que sobre todo han tenido, pues, la visión de decir, oye, ¿sabes qué? Este es un mercado creciente, la revolución Blockchain es imparable y yo quiero tener un TI ahí. Entonces, somos un montón, en total, digamos, son somos 17, este, los socios que estamos dándoles para adelante en y y eso a mí personalmente me me gusta mucho, me llena de satisfacción porque creo que que sí, la unión hace la fuerza y que los inversionistas que tenemos, los socios que tenemos son de alto valor para para nuestro emprendimiento.
+
+[Speaker 0 - 00:29:40]
+Ahí les voy a dejar un una alfita, pero 1 de los inversionistas es, pues, 1 de los grandes o el más grande patrocinador que hemos tenido acá en la comunidad de México 3. Es un grupo muy muy muy interesado en estas tecnologías. Estamos viendo ya cuestiones de logística, de de de puntos con ellos y pues es un chavo de mi edad. Estamos chavos, ¿no? Cuarentones. Pero
+
+[Speaker 1 - 00:30:05]
+tus hijos se empezaron a meter en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en
+
+[Speaker 0 - 00:30:18]
+Y qué chido, porque finalmente esas personas son las que con su apoyo monetario y con con con con pues el soporte de todas las colecciones que tienen, van a apoyar todo este tipo de proyectos. Y qué padre que estemos encontrando ya inversionistas de ese tamaño, metiéndole dinero importante a a iniciativas como esta, ¿no? Poco a poco hemos visto a Marcus Dantus, por ahí hay otro Shark que se llama Braulio Arsuaga, que también está viendo temas de estos, ¿no? Hay mucha gente con con mucho dinero volteando a ver esas tecnologías. Y obviamente, pues, es evidencia de todo esto, el movimiento, los CTMs que se aprobaron, ¿no? Entonces pues qué mejor momento para lanzar algo así con el mercado como lo veo. La verdad yo creo que también es perfecto. Ahorita platiquemos del toque. Vamos a salir el 13 de marzo, por ahí ya les puse la página de donde se pueden ir a inscribir. Cuéntenos del token, cuánto se van a vender, cómo está el costo, cómo es el precio, para qué se va a usar el dinero. Hablamos de eso un poco y luego me encantaría pasar al tema regulatorio de de de cómo estamos manejando esto en México.
+
+[Speaker 0 - 00:31:18]
+Sí. Mira, ahorita en la en la etapa de preventa vamos a estar comercializando
+
+[Speaker 3 - 00:31:24]
+25000000 de dólares. Pero los detalles me gustaría, claro que aquí está conectado Diego, para que les cuentes sobre sobre el token que él te ha estado liderando esta parte del desarrollo tecnológico. Entonces, si me permites invitar a a Diego, Estaría buenísimo.
+
+[Speaker 0 - 00:31:46]
+Claro, claro, vente Diego, súbete, porfa. Déjame le mando invitación también de Cohost para que aparezca acá como
+
+[Speaker 3 - 00:31:54]
+ahí viene Sí, está en la cuenta de BadDY.
+
+[Speaker 0 - 00:31:59]
+Si no siguen la cuenta de échenle un follow, si no siguen a Natalia, obviamente échenle un follow. Ellos son los que están liderando el proyecto y, pues bueno, ahí está toda la comunicación y pueden también mandar bien para cualquier duda o por cuestionamiento, ¿no? En la página está la información de white paper, también está la información de de de de nuevo la la misión, la visión, el tokenomics, etcétera, etcétera, etcétera. Pero mientras esperamos a que suba acá Diego, cuéntanos más del tema legal, del tema regulatorio. Pero ahí hemos platicado un poco de que hay un par de opciones y alternativas que da la ley en México para conseguir permiso para operar algo así y que, pues bueno, ha habido muchas solicitudes contemplando esas alternativas que que nos brinda la ley, pero que no se ha aprobado ninguna. ¿Cómo está, te show? Sí, caray.
+
+[Speaker 3 - 00:32:51]
+Pues bueno, mira, México es una cosa bien curiosa en cuanto a su legislación. Pero ya nos como entre el 2014 más o menos al 16, 17, se estaba hablando mucho, pues, de la potencial del fintech y cómo esta podía ayudarnos a revolucionar la manera en la que entendemos las finanzas. Para todo, ¿no? Desde tarjetas, pagos, créditos, este, servicios de inversión, etcétera. México resultó ser punta de lanza en cuanto a la creación de esta ley. Y básicamente se crearon 3 3 figuras, podemos resumir, este, instituciones de fondeo colectivo o crowdfunderas. Aquí tenemos 2 opciones, el crowdfunding es típicamente deuda y el crowd equity, que es capital. También tenemos instituciones de transmisión de pagos electrónicos, fondos de pagos electrónicos, que son todas las que suben y y bajan dinero de aplicaciones móviles. Y tenemos también lo que se le llamó el sandbox para modelos novedosos.
+
+[Speaker 3 - 00:33:54]
+La intención de ese Sandbox, pues, era que empresas, fintech y otros comenzaran a utilizar o ofrecer sus servicios a la luz de la autoridad, todavía sin una autorización extra para operar, pues, porque es un modelo novedoso, entiendo que es un modelo que no existe, que no está contemplado en la regulación y por lo tanto es novedoso. Entonces, lo que se quería era comenzar a operar dejarles que que comiencen a operar y que se fueran obteniendo el permiso. Y aunque sí ha habido muchas fintech que logran su autorización como institución, este, de sonido colectivo o de pagos electrónicos, no ha habido una sola que pueda obtener la autorización como modelo novedoso. Y esa fue la intención inicial de Valli, irnos por por ese modelo, por esa figura, porque al día de hoy no existe en en México un modelo de mercado secundario para levantamiento de capital privado y muchísimo menos existe un mercado de capitales basado en Blockchain.
+
+[Speaker 3 - 00:35:01]
+Entonces, aunque la tecnología lo permite, pues México todavía no ha llegado ahí. Entonces, eso es como la gran innovación, ¿no? La novedad que proponía Valli. Pero, como no ha habido ni 1 solo autorizado, Nuestra percepción es, pues, que la autoridad y los cambios de gobierno, etcétera, o sea, como que quienes hicieron la ley no son quienes ahorita están trabajando estas autorizaciones y no vemos ni, pues, no sé, a veces siento que ni siquiera le entienden 100 por 100, pero aunque le entiendan, lo que no vemos es voluntad. Entonces, nosotros decidimos, pues, mejor no caminar ese ese recorrido modelo novedoso, sino irnos ya por un camino conocido. Y entonces elegimos irnos por institución de de conteo colectivo, crowd equity. Y eso es lo que lo que estamos trabajando actualmente. Aún no tenemos la autorización, es un camino largo, todas las fiestas te lo pueden decir, no toman menos de un año y medio, 2 años el obtener la autorización de la Comisión Nacional BancaNet de Valores para para operar, pero mientras que esto llega, pues vamos avanzando con, pues, las actividades que no requieren propiamente todavía tener esta esta autorización, ¿no?
+
+[Speaker 3 - 00:36:24]
+Entonces, pues, es así como como como como, vamos, o sea, digo, como siempre dicen el es largo y difícil el camino del guerrero, pero hay que andarlo. Entonces, pues, nosotros nos interesa mucho, pues, pues eventualmente sí poder obtener esta esta autorización y poderle darle así sentido y transparencia a a todas las personas que utilicen nuestra plataforma.
+
+[Speaker 0 - 00:36:55]
+No, yo definitivamente soy de la idea de prefiero pedir perdón que permiso. Digo, no lo recomiendo para BadDY, ya tú sabrás qué qué decisión tomas como CEO en la empresa, pero sí, denle. Yo yo creo que esto es de empezar a experimentar, aprovechar el tiempo y el momento preciso para lanzar algo así, pero yo no no veo otro más que más que ahorita. Definitivamente eso va a necesitar mucha ayuda, una campaña de posicionamiento y de que la gente nos conozca y conozca la empresa y conozca los beneficios y las bondades. Pero bueno, pues vamos a estar dedicados a eso. Creo que la verdad es una aplicación y un servicio que agrega y va a agregar muchísimo valor para que las empresas puedan levantar capital, para que los inversionistas puedan luego cambiar esos tokens a acciones, este, y e inviertan de una manera distinta. Y a lo mejor con proyectos a lo mejor un poco más riesgosos y locos, ¿no? Porque finalmente, pues bueno, entiendo que hay que correr un proceso de de de de preparar la empresa para poderla tokenizar, para cumplir con regulación y para cumplir con con con algunos estatutos que la empresa que va y ha definido.
+
+[Speaker 0 - 00:38:05]
+Y no sé si si si quieras antes de de entrar al token sé que te tienes que ir pronto a hablar de eso, ¿no? De ese proceso que tienen que seguir las empresas para poder participar y ser parte de las de las de los lanzamientos que haga que tengamos en Sí, sí, sí, sí. Y muchas gracias por plantearlo así.
+
+[Speaker 3 - 00:38:25]
+Mira, en en o sea, sí buscamos ayudar a las a las a las pequeñas, medianas empresas, pero sí es cierto que necesitan de estas correr un proceso, no solamente de preparación con sino preparación también ellos a lo interno. Porque nosotros lo que les creamos es un token de utilidad. Entonces, es bien importante esto, o sea, porque la legislación en México ahorita no está permitiendo, digamos, crear un security. Entonces estos son muy utilities. Entonces, ¿cuál es la utilidad de los tokens que nosotros creamos? Pues bueno, 1 es ser holdeado o compra vendido en nuestro mercado secundario. Otra de las utilidades es ser utilizado en el negocio pertinente. Vamos a decir que tú tienes un hotel y entonces las personas cuando van ahí y consumen el hotel generan puntos, bueno, pues estos pueden ser tokens y estos tokens se pueden redimir eventualmente por por por por noches, ¿no? O sea, es un concepto que todo mundo conoce, con 2 premia, prepago, o sea, es algo con lo que ya todo mundo estamos muy acostumbrados.
+
+[Speaker 3 - 00:39:32]
+Entonces, esa es la utilidad de de de los tokens. Y la tercera es que estos tokens eventualmente pueden ser permutados por títulos accionarios de la sociedad que los emite. Entonces, esta permuta la permite la la la Ley General de Sociedades Mercantiles, en donde una sociedad, en este caso nosotros procuramos que las sociedades que preparemos sean SAPIS, Sociedades Anágrimas Productoras de Inversión, pueden hacer una oferta privada, invitar a sus amigos, sus amigos en este caso serán los holders de su token, y los puede invitar a ser partícipe de su empresa. Entonces, se emiten los títulos accionarios y estos títulos accionarios se permutan por los tokens que tiene la persona. Entonces, esa es la utilidad tercera de del token y esa es la manera en las que el token nunca es un security, sino que se permuta por un
+
+[Speaker 0 - 00:40:32]
+feedback. Excelente, excelente. Y creo que también es importante mencionar que no todas las empresas van a poder cumplir con los requisitos necesarios para alcanzar, ser aceptados por la plataforma y tokenizar, ¿no? Toda, o sea, esto esto obviamente está siguiendo ciertos reglamentos. No es un tema totalmente descentralizado donde cualquiera puede lanzar el token, no no es así la empresa. Es importante mencionarlo, pero pues también nosotros podemos llegar a declinar, ¿no? Algunas solicitudes de algunos clientes probables. Sí, sí, sí, sí. Ya que no tengan un buen modelo de negocio o no sé, ¿no? Que no tengan ahí bien planteada su sitio Y su modelo de utilidad.
+
+[Speaker 3 - 00:41:08]
+Otra de las cosas que nos importa muchísimo es la parte de la transparencia. O sea, acordémonos a ver, lo lo los mercados, la compra y la venta sucede porque, pues, la ley de oferta y demanda, ¿no? O sea, la la gente empieza a comprar una cosa, esta sube de precio, la gente empieza a vender la cosa, entonces está baja de precios. Y así se van formando los precios. Los precios suceden cuando la gente supone cuánto es lo que vale la cosa. En el caso de las empresas, la gente llega a esta entendimiento, a estos supuestos de que hoy esta empresa, vamos a decirte fácil, Cemex, pues, ¿cuánto vale Cemex? Ah bueno para saber cuánto vale la acción de Cemex, pues lo que haces es que revisas sus estados financieros, revisas su información financiera, y con esto haces una evaluación y dices oye sabes que la acción ahorita está en 5 pesos y de acuerdo a mi valuación va a valer 6. Entonces la voy a comprar ahorita y pues va a subir de peso. Bueno, con el mercado de capital privado no sucede esto porque la información no es pública.
+
+[Speaker 3 - 00:42:13]
+Es decir, nadie anda enseñando sus estados financieros en en el mercado del mercado del mercado. Entonces, si no va la información, pues no puede haber formación de precios. Y aquí es en donde Vadis también propone una de las cosas más innovadoras que que que se nos ha ocurrido en la humanidad en los últimos tiempos, que es Open Finance. A través de las finanzas abiertas lo que podemos hacer es recabar esta información para poder construir reportes financieros, para que los inversores los puedan ver y entonces puedan hacer estas suposiciones de precio y decidan comprar y vender. Esta compraventa es lo que va a permitir que exista un precio. Oye, ¿sabes qué? El token de la empresa Magna Digital vale 10 pesos. Ahora, ¿cómo lo estamos haciendo? Lo hacemos, como te digo, o sea, a través de Open Finance, por agregación del SAT. Entonces, digo, este es así como el punto en donde a veces las empresas, por ejemplo, patinan, dice oye sabes qué sí, nomás que yo no quiero o a lo mejor mi estrategia fiscal es traer mi empresa en pérdida.
+
+[Speaker 3 - 00:43:19]
+Entonces la información que viene en el SAT pues no es necesariamente la que es bueno, híjole, no se va a poder, ¿no? O sea, se necesita que las empresas, pues tengan un gobierno corporativo mínimo, este, o mejores prácticas de gobierno corporativo. Queremos transparentar esto, te digo, o sea, los reportes de de de información financiera que nosotros extraemos a través de de la CIEC y generamos con con toda esta data directamente del SAT. Entonces, por ejemplo, ese comienza a ser como 1 de los de los principales requisitos. O sea, para nosotros es fundamental el el tema de la transparencia. Obviamente también hacemos todas las validaciones de KYC, prevención de lavado de dinero, validación de identidad, todo este tipo de de situaciones, pues para poder decirle oye, ¿sabes qué? Pues esta empresa es real, está en la base primero, está bien constituida, oye, tiene un cuerpo administrativo o un gobierno corporativo a través de un consejo de administración, etcétera, ¿no?
+
+[Speaker 3 - 00:44:21]
+O sea, diferentes características que tienen como objetivo darle solidez y confianza al al inversor. Y evidentemente pues no No, definitivamente es algo. Dental eléctrica.
+
+[Speaker 0 - 00:44:34]
+Perdón, de repente se cortaste. Ah, sí,
+
+[Speaker 3 - 00:44:36]
+perdón, que decía. Y evidentemente, o sea, una de las cosas que que más nos importa es toda la la reportería ESG, o sea, toda la reportería de sustentabilidad. O sea, nosotros creemos que en la medida en la que las pequeñas y medianas empresas vayan adoptando prácticas sustentables, pues van a poder ser más exitosas en el tiempo. Y, pues, bueno, todo esto lo lo que estamos haciendo así, a través de de Open Finance.
+
+[Speaker 0 - 00:45:05]
+Excelente. No, muchas gracias por la la respuesta. Sí es que creo que sí eso es algo importante mencionar que, bueno, pues hay un proceso que las empresas necesitan seguir para poder tokenizar y también pues ahí cumplir, ¿no? Ciertos requisitos. Hablemos de token ahora sí. Y si alguno por aquí abajo tiene alguna duda, quiere hacer algún comentario, pida la palabra por favor y y con gusto lo subimos. Yo creo que, no sé cómo mandes de tiempo, pero pero si podemos continuar un poquito. Arreglé a Pili y y me fue a quedar otro ratito, pero bueno, creo que Diego ya estaba también acá como como cojos para para no monopolizar y pasarle también la palabra. Bienvenido Diego, gracias por andar por acá el día de hoy. ¿Cómo andas? Cuéntanos, ¿cómo has visto todo este? Eso, y vieras un poquito del
+
+[Speaker 4 - 00:45:56]
+Hola, ¿qué tal? ¿Ahí me escuchan?
+
+[Speaker 0 - 00:46:00]
+Todo bien.
+
+[Speaker 4 - 00:46:01]
+Perfecto. Pues bueno, muchísimas gracias, Mexi, por la por la invitación, primero que nada. Este, muchísimas gracias a a todas y todos por conectarse, este, y pues claro, platiquemos de esto que yo estoy seguro que les interesa mucho saber qué es el token. Ahí, como Natalia ya dio, este, en en su breve introducción del del equipo, pues bueno, mi nombre es Diego, Diego Cueto, este, soy sociólogo de formación, pero un entusiasta y apasionado de la tecnología descentralizada desde hace muchos años. Me me comencé acercando primero con por el lado cultural, este, me llamaba mucho la la la atención saber cómo qué era esto como desde ese punto de vista, ¿no? No no tanto como desde el punto de vista tecnológico, sino como su impacto en nuestras prácticas y nuestros modos de vivir, y pues bueno, así fue como llegué, de ahí, este, pues bueno, fuimos avanzando y y pues nada, terminamos en esto del diseño de de experiencias digitales. Entonces, pues bueno, este, les platico que la moneda de Badi pues es un token, este, de formato ERC 20, así es como lo conceptualizamos originalmente.
+
+[Speaker 4 - 00:47:04]
+Pues si me dijeran buscábamos un token que pudiera tener funcionalidades programables, por lo tanto, pues bueno necesitábamos una smart chain. De ahí estuvimos, pues bueno, investigando cuáles eran nuestras principales opciones. Obviamente primero pensamos en una ERC 20 dado que, pues la red de de Ethereum era pues es sigue siendo digamos pues la red principal de las smart chains. Pero pues bueno ya saben este con con el nivel plan cuando eran los gas fix pues nos dimos cuenta de que para que este token tuviera mayor adopción y pudiera ser más accesible al público inversor privado, pues bueno, necesitábamos desplegarlo en algún otro lugar y pues nada, terminamos encontrando nuestro hogar en Polygon, que es un, pues bueno, este, una cadena que nos interesa mucho por su desarrollo, por todo, digamos, como la manera en la que en la que van, digamos, adaptando las nuevas tecnologías, están planeando sacar su su CK Chain, etcétera. Entonces, pues bueno, Polygon es es una cadena que nos convenció muchísimo y y pues listo, ahí es donde desplegamos nuestro contrato.
+
+[Speaker 4 - 00:48:07]
+Van a, pues ya saben, pueden todo esto revisarlo, este, si se meten en nuestra página de ventas que es launch punto body punto com punto mx, Ahí pueden revisar toda la información relativa a nuestro token, a nuestros contratos, a nuestro white paper. Ahí mismo pueden meterse al explorador de bloques, este, verificar toda la información y auditarlo ustedes mismos. Entonces, pues bueno, ahí les invitamos a conocerlo y, pues, Tokenomics en particular. El token de Buddy, su ticket es Buddy, así, este, Buddys, así es como le llamamos. Este, el el el el supply total es de 100000000 de monedas, pero ahorita únicamente se encuentran en circulación 25000000, que son las que estamos poniendo a la venta. ¿Cómo funciona esta venta? Vamos a pasar primero por 3 meses de preventa, y terminamos estos 3 meses de preventa, en los que el precio de la moneda está a 50 centavos de peso mexicano, este, pasamos al precio de un peso, ¿ok? Digamos que ese ya es nuestro precio nuestro precio, digamos, oficial de salida y, pues, listo, vamos a pasar ahí, este, unos cuantos meses más en en venta.
+
+[Speaker 4 - 00:49:09]
+El resto del supply, los otros 75000000, se van a ir liberando a lo largo de los próximos 5 5 años y pues bueno, están destinados a a alentar a la comunidad, a hacerla crecer. Tenemos por ahí, este, pues distintos planes sobre cómo ir repartiendo estos tokens. Sí, para toda la para toda la gente que decida involucrarse en Buddy. Además, pues bueno, de la gente que ha crecido, nos ha ayudado con usted, que ha estado aquí con nosotros, que son nuestros inversores, nuestros emprendedores, etcétera. Entonces, pues bueno, eso es, digamos, ya el mayor detalle sobre los tokenómics los pueden encontrar ahí en nuestro en nuestro white paper. Y pues listo, ¿cómo pueden comprar Buddies? Este, como nos platicaba Natalia, pues sí la intención de de Buddies, quizás aquí yo también le platico un poquito. Este, lo primero que hicimos pues al momento de diseñar esta plataforma fue hacer investigación, salir a campo, entender cuáles eran las maneras en las que las personas entendían pues el dinero, digamos las inversiones, el ahorro, etcétera.
+
+[Speaker 4 - 00:50:09]
+Y pues justo nos dimos cuenta de que no existe no existe mucha tendencia al ahorro y la inversión en nuestro país, pero no necesariamente porque no exista el apetito, sino porque la gente lo encuentra o difícil o o que no encuentran la manera de saber cuándo un proyecto es verdadero. Entonces, pues bueno, por eso en Buddy y nosotros decidimos atender esas 2 cosas, que son de los principales obstáculos para la inversión en el país. Y es pues una, que sea una plataforma accesible y sencilla de utilizar, y lo otro, pues exista el respaldo y este seguimiento a las empresas para que la gente sepa en dónde están metiendo su dinero, ¿no? Entonces, pues bueno, teniendo todo esto en mente, pues es por eso que Badi es una empresa, digamos, centralizada en el sentido más técnico de la palabra. Este, digamos, no no es un protocolo descentralizado, etcétera. Más bien aquí lo que buscamos es tener como un seguimiento muy claro de todo lo que sucede y, pues bueno, este, justo, por el momento, mientras continuamos desarrollando nuestra plataforma, la compra de tokens sucede de manera así descentralizada.
+
+[Speaker 4 - 00:51:13]
+Esto lo pueden hacer ustedes conectando una cualquier cartera, digamos, de interacción. Por el momento únicamente está disponible si ahorita entren a la página. Únicamente pueden conectar su Metamask, pero próximamente estaremos permitiendo otras carteras de de interacción. Y pues bueno, de la misma manera, ahorita pueden comprar el pueden comprar nuestro token utilizando Matic, pero próximamente introduciremos también la posibilidad de comprarlo con USDC y USDTs, y y pues listo. Este, yo creo que en general esas son como las principales características de nuestra moneda y y pues nada, les invito a que lo conozcan en launch punto body punto com punto mx.
+
+[Speaker 0 - 00:51:57]
+Aquí les voy a pinear el comentario con el link para que puedan participar y que se inscriban por ahí. Diego, una una cuestión ya, un 1 de los amigos a los que invité, intentó comprar, me mandó un pantallazo ahí, creo que no pudo conectar su cartera, pero yo ayer pude sin problemas, te mando ahí la info para para para ver qué onda con con su detalle. ¿Hay algunas preguntas acá abajo? Perdón, perdón, échame.
+
+[Speaker 4 - 00:52:24]
+No, sí, claro que sí, muchas gracias y y justo, este, digamos que ahorita todavía, este, nuestro lanzamiento oficial es el 13 de marzo. Si ahorita se conectan a la página, ya pueden acceder y ya pueden, vaya, digamos que decidimos dejarla abierta. Ahorita estamos en los últimos detalles de las rondas de testing, arreglando esa clase de detallitos, este, pero justo está buenísimo que se metan y que le intenten ahí picarle, moverlo, etcétera, para que nosotros sepamos qué está bien. Este, y y en caso de que no, pues podamos trabajarlo. Entonces muchísimas gracias ahí por su participación.
+
+[Speaker 0 - 00:52:55]
+Sí, toda la retro, por favor, que tengan. Al interactuar con cualquier página, súper bienvenida. Todo eso se toma súper en consideración para mejorar y ajustar ahí detalles. Como decía Diego, la lanzamiento es el 13 de marzo. Otra cuestión, explorando el contrato, veo que se creó hace algunos días, ¿no? Meses. ¿Qué onda? Cuéntanos cómo fue el proceso. Hay gente que que que me ha preguntado, oye, ¿por qué el contrato tiene ya 3, 4, 6, no? Ya ni sé cuántos meses. Y el token de haberse creado, etcétera, ¿no? ¿Qué qué qué podríamos comentarle a esa gente que hace esa pregunta?
+
+[Speaker 4 - 00:53:34]
+Claro, sí, claro que sí. Este, pues bueno, como les platicaba, todo esto como lo fuimos conceptualizando, las primeras pruebas que hicimos de este token, este, fueron en la red de Girlly, en en en Ethereum. Entonces, se imaginarán, o sea, todo, o sea, comenzamos a trabajar en en estos contratos desde hace mucho tiempo y han pasado por un montón de iteraciones y de distintas versiones. La última a la que llegamos es la la que desplegamos me parece que fue como que en noviembre, octubre del año pasado, y esa es la que van a poder encontrar ahí ahí en la página. Este, la razón por la cual decidimos esperarnos, o sea, ¿por qué si ya teníamos listo el despliegue del contrato? ¿Por qué decidimos esperarnos hasta esta fecha para salir a la a la venta? Fue más que nada como para poder pues capitalizar el momento en el mercado, ¿verdad? Estamos pues vaya no no no había manera de tener esa seguridad, ¿verdad? Pero teníamos la plena confianza de que acercándose el halving pues las condiciones del mercado iban a cambiar y quizás también un poco más de pues de las condiciones macroeconómicas un poco más relajadas, este, con la inflación un poco más ahí cediendo un poquito, pues bueno decidimos que que era mejor esperar para no tener que diluir nuestra preventa, es decir, tener que tener una preventa larguísima y que en realidad no alcanzáramos como ese, pues sí, alcanzáramos como ese, pues sí, esa emoción en el público.
+
+[Speaker 4 - 00:54:56]
+Esa es la razón por la cual, este, el contrato fue desplegado anteriormente. Realmente, pues, esta ya es la última versión de nuestro contrato, por lo cual como que no hacía mucho sentido tener que desplegarlo de nuevo y, pues, como le digo, Bahdi empezamos a trabajar en el 2000 veintiuno, entonces desde el 2000 veintiuno ya teníamos pues un montón de interacciones de este contrato, se habían ya publicado en distintas redes de prueba y productivas en en varias ocasiones y pues listo, esta fue nuestra última versión. Platicándoles un poquito más de nuestros contratos, pues en realidad digamos que el token de Vadi depende del de la interacción de 4 contratos distintos. Y pues estos contratos nos permiten, por un lado, tener, digamos, máxima seguridad porque no dependen de únicamente una cartera que despliegue, sino que dependen pues de un de un grupo en el que estamos, digamos, el body valt, que es como el el BuddyBowl towner, que es el dueño, digamos, la cartera dueña de de la de la ¿cómo se dice? Vault, este, de la bóveda de la bóveda de de tokens Buddy, y existen roles administradores y un rol de tesorero.
+
+[Speaker 4 - 00:56:01]
+Entonces, para que suceda cualquier cosa dentro de nuestros contratos necesita haber al menos 3 de 4 firmas. Este, y pues listo, estas son, digamos, este, y lo otro que nos permiten estos distintos contratos de de los que depende Vadis, es realizar actualizaciones. Esas actualizaciones, pues bueno, como ustedes se podrán imaginar, ustedes pueden revisar todo el código, las actualizaciones por las cuales han pasado estos contratos y y pues listo. En caso de que Vadis necesitara VodI necesitara realizar alguna especie de actualización o funcionamiento, hay cosas que no podemos modificar, como el supply. Ese es pues un, digamos, un hardcore. No hay manera de emitir más de 100000000 de token de VodI, pero sí contemplamos la posibilidad de que en algún momento se pueda necesitar quizás alguna actualización de seguridad, o cosas así, como hemos visto pues en el 2000 veintiuno, 2022, con todo lo que hubo de hackeos, en DeFi, etcétera, pues yo creo que se volvió muy evidente la necesidad de poder, pues sí, de poder, este, mantener tus contratos, ¿no?
+
+[Speaker 4 - 00:57:02]
+Entonces, pues eso, este, este es un contrato que ya habíamos, pues, probado una y otra vez y es por eso que decidimos dejar esta versión, pero también contemplamos que en el futuro puede ser que necesite sus actualizaciones YYY pues nada, el diseño de nuestros contratos lo permite.
+
+[Speaker 0 - 00:57:21]
+Excelente, excelente. Voy a hacer un breve reset, vamos a ir con preguntas y las malditas que están y las personas que han si alguien tiene alguna pregunta o quiere subir, bienvenido. De nuevo estamos hablando con Nat, Natalia Cueto y Diego Cueto de BadiExchange, una empresa que lanza su token el 13 de marzo oficialmente, pero si van ahorita a la página que les vamos a poner aquí, ya lo pueden ya pueden ir a hacer las pruebas y estamos recibiendo retro. Les piní aquí arriba la página del Instagram, también el link a la página principal y una entrevista con Arturo Cárdenas que le hicimos proof of value. Él está hablando de minería, del merge, que sucedió hace unos meses, y crowdfunding en Web3, o sea, de Badi. Si quiere más información, pueden pasar por ahí. Una de las dudas que hay por acá abajo, la pregunta Lu, y es sobre el tema regulatorio. Y comenta, hey, ¿dónde quedó? Aquí está. La solicitud ante la Comisión Nacional Bancaria de Valores como institución como institución de tecnología financiera, ¿para cuál figura específicamente está ingresado?
+
+[Speaker 3 - 00:58:22]
+Sí, es sí, institución de tecnología financiera, es institución de fondeo colectivo y específicamente Crewity.
+
+[Speaker 0 - 00:58:36]
+Perfecto. No sé si eso responda a la pregunta, luego. Si si si no, déjanos un comentario o perdón, no sé por qué me tiro. No sé si si respondo la pregunta, pero si no, nos dejas un comentario y también te hacemos llegar la la respuesta. Xenonel pregunta, ¿qué pasa si pierdo mis tokens de la empresa? Xenonel, ¿te la pelas? ¿Te la pelas, compadre? Igual como si pierdas tu Ether y tu Bico, digo, no sé, ahí me podrán corregir si estoy equivocado, pero te la pelas. Siguiente pregunta, por aquí subió también José Erasmo, ahorita le damos la palabra al Jason, que anda por acá, pero vamos con José Erasmo que subió primero. Bienvenido. Algo eco, pero sí se medio entiende.
+
+[Speaker 1 - 00:59:26]
+Tú
+
+[Speaker 0 - 00:59:30]
+dale, tú dale, se medio entiende, si no traducimos José, no sé si tengas alguna duda sobre BadDY, este, la verdad ahorita no no estamos platicando de Candrano y no me gustaría desviar conversación.
+
+[Speaker 3 - 01:00:50]
+Sí, yo totalmente de acuerdo con lo que comentas, la educación y la la formación es es es es súper súper relevante y pues bueno, nosotros en Badí tratamos de de apoyar esta educación y esta formación. De hecho, tenemos un curso de de de ahora sí que one one, este, con con con criptoconexión, lanzamos un curso para que la gente pueda saber todo acerca de de Web3, cómo se maneja, etcétera. Porque bueno, pues sí, la formación es fundamental. También, pues bueno, tenemos nuestros body tocks en donde procuramos también abordar temas de interés de la gente y también, pues procuramos siempre pedirle a las personas DR, o sea, do you wrond research
+
+[Speaker 0 - 01:01:53]
+¿habrá algún canal, Nat, Diego, donde los clientes o los probables inversionistas pueden llegar a comunicarse? Ahorita tenemos, o ahí existe algún Telegram, algún Discord, porque realmente creo que como buscábamos que más gente entre, entre todos los que estamos por aquí metidos, creo que es a veces más fácil comunicar información y resolver dudas, etcétera. Sé que tienen el curso con criptoconexión ahí con Monita Line, que también es una increíble constructora y súper fan tuya, Nat me dijo. Y pues sí, sí, sí creo que, pues también sería importante tener ahí un canal de comunicación donde las personas puedan comunicarse así, no sé qué pie.
+
+[Speaker 3 - 01:02:32]
+Sí, sí, sí, totalmente. Por eso los invitamos a seguirnos en todas las redes. Estamos como Buddy Exchange. Particularmente bueno pues en Instagram, en en aquí mismo en Twitter, estamos en Linkedin, estamos en Facebook y pues bueno a través de estos canales pues sí todas las personas pueden comunicarse con con nosotros, pasarnos información, todos los mensajes son leídos y respondidos, no no vayan a creer que no. Entonces sí sí por favor cualquier este tema que que que tengan duda, etcétera, pueden comunicarse con nosotros a través de todas las redes. En todas estamos igual, varios exchanges.
+
+[Speaker 0 - 01:03:10]
+Excelente, muchas gracias. Por aquí también subió el buen Yaiza. Yaiza, bienvenido, ¿cómo andas? Cualquier duda o pregunta, échale. ¿Todo bien? ¿Me escuchan bien? Todo bien, sí.
+
+[Speaker 1 - 01:03:19]
+Perfecto. Una pregunta, veo que tienen ahí algunos assets listados, ¿cuál es el criterio para aceptar o rechazar algún assets en su marketplace? Por ejemplo, yo estoy ahorita de Ambassador de Torn, no no sé si su plataforma lo soporta o no, pero sí me gustaría saber si, por ejemplo, yo quiero empujar Tom, Hybe o algún token que no esté listado, si ustedes tienen completa dominio sobre eso o su oferta la maneja un tercero y no tiene mucho que ver ahí o cómo cómo más o menos manejan su oferta?
+
+[Speaker 3 - 01:03:57]
+Pues bueno, para los, o sea, los tokens que nosotros creemos o son los que nosotros vamos a alistar, vamos a decir y los tokens adicionales o las coins adicionales que listemos pues son pues las monedas más conocidas aceptadas. Tenemos bitcoin, ethereum, evidentemente MATIC y así varias, ¿no? Entonces, si tú ya tienes creado un token, o sea, aquí lo importante es que que sea un ERC twenty, que sea compatible y pues siempre se puede analizar la posibilidad de del listado. Ahora, nuestro core es nosotros crear el token y nosotros listar nuestro token, ¿no? O sea, eso es eso es lo que lo que queremos hacer. Entonces, digamos que antes de estar, o sea, ahorita la verdad no estamos pensando en listar adicionales, sino más bien preparar nosotros a las empresas para nosotros crearlos y listarlos.
+
+[Speaker 1 - 01:04:53]
+Sí, bueno, ese token no es creado por mí, simplemente soy el Embasador, es un token en el top 10 del coinmarketcap, no es una ERC 20, tiene su propio Blockchain, entonces la situación es si yo quisiera representando al chain que lo listen ahí en ese mercado, ¿cuál sería el proceso?
+
+[Speaker 3 - 01:05:15]
+Ahorita, como te digo, no tenemos un proceso para alistar tokens adicionales a los que nosotros creamos.
+
+[Speaker 4 - 01:05:21]
+Ahí ahí ahí yo quiero tomar la palabra, este Dale. Perdón, dijiste Tom, ¿verdad? O sea, el que Así es. ¿No? Es. Sí, sí, sí, sí, claro. Este, o sea, no, de hecho sí, o sea, bueno, mira, y repasando un poquito, este, una sí, sí contemplamos listar otros tokens, como ya nos, como bien comentaba Natalia, los primeros tokens que decidimos listar fueron, pues, los que agarramos, digamos, del principal, este, digamos, los días mayores en market cap, hicimos una selección por ahí y y de hecho no necesariamente tienen que ser compatibles con el formato de RS 20, porque por ejemplo, pues también tenemos, este, digamos, en el desarrollo de nuestra plataforma, que esta sí todavía no está abierto el público, continuamos trabajando en el desarrollo y esperamos que en algún momento futuro de este año podamos ya ya lanzarla. Pues bueno, sí contemplamos tokens como, pues, monedas como bitcoin, Solana, etcétera, de otras de otras cadenas, ¿verdad? Entonces, este, digamos que técnicamente sí es posible, nosotros decidimos qué monedas listar en nuestro Exchange y no dependemos de un tercero que nos dé, digamos, como una lista predefinida.
+
+[Speaker 4 - 01:06:28]
+Sí dependemos en términos de liquidez de de un proveedor de liquidez, ¿verdad? A a cuyos libros de órdenes nos nos conectamos. Este, pero siendo Ton pues el token que es pues evidentemente sí, este, pues prácticamente todos los proveedores de liquidez van a van a tenerlo ahí. Entonces, este, pues o sea más bien aunque sí no tenemos un proceso ahorita definido para alistar nuevas monedas que no sean minteadas por nosotros, pero que sí sean grandes jugadores del mercado, sí nos interesa mucho la colaboración. Y te invitamos a que nos mandes un mensaje para que podamos platicar más de esto. Con muchísimo gusto.
+
+[Speaker 0 - 01:07:09]
+Invitación abierta por ahí a todos los embajadores. Definitivamente creo que es algo que si podemos llegar o si pueden yo ya me estoy metiendo todas las comparaciones, pero si pueden llegar ahí a alguna colaboración, me imagino que que que encantados van a estar de de de poder meter más tokens y poder atraer a más personas y de diferentes comunidades como la de Tom, como la de Hype, como, pues, no sé, Solana, me encantaría ver Solana, Armytrum, empezar a trabajar L 2, ¿no? A lo mejor luego buscar hacer algún puente con con con un Optimis, con un OP, con una Arbitrum, vete a saber, ¿no? Hay hay muchas alternativas y estamos pivoteando, no dice, tiene que ir a pivotear al rato, no sé qué opines de eso, Diego, pero temas de liquidez en otras redes me me me interesa mucho y me llama la atención.
+
+[Speaker 4 - 01:07:55]
+Por completo. De hecho, sí es algo que estamos contemplando y que tenemos ahí en nuestro roadmap. Ahorita estamos desplegados en en en la red de Polygon, pero nuestra intención es ser una moneda multichain y estar en todas las demás layer two, estar en Ethereum, estar en todas las demás smart chain. O sea, desde estar en Solanas hasta estar en layer two como Arbitrum, Optimism, todas las nuevas, los Starknet, Scroll, Manta, Manta, etcétera, así planeamos en en en un futuro próximo realizar esos puentes. Y sí, sí, sí, sí, sí, estoy padrísimo.
+
+[Speaker 0 - 01:08:27]
+Excelente. Otra pregunta por aquí, ¿en cuántos países va a operar?
+
+[Speaker 3 - 01:08:33]
+Vale. Ahorita estamos solamente en México y vamos a crecer hacia Latam.
+
+[Speaker 0 - 01:08:40]
+Excelente, excelente. Y otra que está por aquí también, ¿nos pueden platicar acerca de su background en Tokenomics?
+
+[Speaker 3 - 01:08:51]
+Diego, ¿quieres tomar este este producto del Tokenomics?
+
+[Speaker 4 - 01:08:58]
+Claro, este pues bueno el background de los founders de Badi es diverso como ahí adelantábamos hace poquito. En lo personal yo platico de de de lo mío, este pues bueno yo comencé con una formación en ciencias sociales pero con un profundo interés en temas de tecnología y temas digitales. Justo mis primeros temas de investigación fueron relativos a temas digitales y pues fue de esa manera que que acabé acá. Este, se imaginarán que pues ahorita no existe, digamos, una educación formal en temas como de Blockchain o tokenomics o una cosa así. Pero bueno, de mi lado fue pues introducirme a esta comunidad. Este, mis primeros acercamientos a las cripto fueron cerca del 2012, como un fenómeno cultural, seguramente, como entender que era esto de Silk Road, entender que era como que este, digamos, esta propuesta como desde un punto de vista como anarquista y que el estado no fuera el único capaz de emitir dinero, eran cosas que me llamaban mucho la atención. Y digamos que ese fue mi acercamiento, de irme introduciendo comunidades, este, que pues vaya, eran pues comunidades en los que se hablaban de estos temas en aquel entonces como 4chan, y pues de ahí continuar el camino pues por, de nuevo, pues, por comunidades, este, digitales, este, quizás algo underground, etcétera.
+
+[Speaker 4 - 01:10:07]
+Ya de ahí, pues, bueno, con los años se fueron popularizando, este, los canales en Discord, Telegram, etcétera, pero yo creo yo creo que la formación, así como muchas personas estarán aquí de acuerdo conmigo, pues, una formación que cada quien tuvo que hacerse, este, y pues que esto se hace en comunidad, en comunidad y en línea. Este, y pues ya cuando fue popularizando más todo este tema, este, yo creo que como 2017 para acá, ya comenzaron a haber un montón de eventos, meetings, etcétera, en los que ya podías como conocer gente que no no únicamente estaba así como que en el rincón más oscuro del internet, sino gente que participaba en instituciones financieras pero que ya había escuchado de esto y que tenía interés, etcétera. Entonces yo creo que es eso, la la formación que hemos tenido nos la hemos dado todos en comunidad, este, dado que no existe ahorita una formación, digamos, formal para estas cosas, y así es como hemos aprendido y pues nada, o sea, creemos que es muy importante pero por eso la comunidad y que existan espacios como este para que podamos continuar aprendiendo juntos.
+
+[Speaker 0 - 01:11:10]
+Sí, yo yo yo por ahí en ese proceso de de los tokenomics este acerqué AAA unos amigos que están muy metidos en el tema. Por ahí hubo varias conversaciones. Igual, pues tengo desde el 2017 en el ecosistema tradeando como loco YYY aunque no he diseñado ningún token, pues bueno, estoy involucrado por ahí en algunos procesos y en en muchas inversiones y he experimentado muchos tokens distintos y por ahí también digo algo de input. Pero definitivamente, pues es un tema superinteresante porque, pues bueno, se distribuye cierta cantidad, se vende cierto precio. Luego hay, pues obviamente la distribución, etcétera, ¿no? Si tienen más dudas o más detalles, por ahí el el el white paper tiene más explicación. Y pues bueno, si salen algún otro detalle que no venga ahí explicado, pues con gusto, con gusto les respondemos o les van a responder ahí las dudas que tengan. En cuanto a dudas, pues es todo lo que tenemos por acá. Nadie más ha solicitado la palabra, sí, no veo. Voy a piñar acá arriba de nuevo el link para la plataforma donde pueden adquirir ya el token y cualquier retro, pues va a ser súper súper bienvenida.
+
+[Speaker 0 - 01:12:19]
+Lu, este, no sé si respondimos tu pregunta, si quieres subir también, hacer ahí algún comentario, pues, bienvenida. ¿Qué más?
+
+[Speaker 4 - 01:12:28]
+A ver,
+
+[Speaker 0 - 01:12:31]
+San pregunta, ¿han lanzado algún token anteriormente o algo?
+
+[Speaker 3 - 01:12:40]
+No, este es el el el primer token que estamos lanzando, estos buddys es el primer token que estamos lanzando.
+
+[Speaker 0 - 01:12:48]
+Perfecto, perfecto. Pues bueno, no sé cómo anden de tiempo, pero, pues, la verdad es que a mí me me me me gusta poder estar involucrado en este proyecto, poder empezar a, pues, ya a experimentar con el mercado mexicano, a platicar de estos temas y empezar a probar y y, pues, bueno, de de de de de lo que salga de estas pruebas, empezar a ajustar y mejorar la plataforma. Por ahí el futuro, nada, platiquemos el futuro. Sé que dentro del roadmap hay una tarjeta en en en planes, también una aplicación para el celular. ¿Qué sigue? ¿Qué sigue? Convale después de de del lanzamiento y esperemos un shadowut del token. Ay,
+
+[Speaker 3 - 01:13:46]
+a través de nuestro de nuestro coin y, como ya comentábamos, bueno, también poder comprar vender otros, ¿no? Los los los principales, te comentaba Javier. Ahí, en la aplicación, es que se van a también listar los tokens que nosotros creemos. Actualmente estamos trabajando con con 3 empresas, todavía esto está a a nivel confidencial, pero esperaríamos que se estén listando en un lapso más o menos de un trimestre posterior al lanzamiento de la plataforma, de la aplicación móvil. Entonces, digamos, eso es lo que sigue. Entonces, pues vemos un 2024 sumamente activo, sumamente comprometido también con con con el con el público, con seguir llevando la educación financiera, por seguir promoviendo, pues bueno, estas y y otras maneras diferentes de de hacer que nuestro dinero trabaje para nosotros. Entonces, pues sí, vemos vemos un 2024 muy, muy movido.
+
+[Speaker 0 - 01:14:51]
+No, definitivamente con el mercado como lo estoy viendo y el flujo de dinero que he visto de proyectos, de protocolos y de otras grandes entidades viendo a Latinoamérica, definitivamente creo que es una una aplicación que puede y estoy seguro que va a apoyar a muchas empresas a que levanten capital. Y no, pues aprovechen estas tecnologías. Por ahí, última pregunta que me hicieron y les respondo yo desde mi punto de vista muy muy personal. Una, con qué moneda se compra, por lo pronto es MATIC, ya comentó también Nati Diego que que se va a poder utilizar USDT y USDUSDC, si entendí bien. Y cuándo, perdón, ¿cuánto me recomiendas invertir? Me preguntó una amiga. Y aquí pues siempre, bueno, no siempre, pero en este caso YYY yo creo que siempre, por el momento en cuando estamos trabajando con tecnología Blockchain y con este tipo de criptos, lo que le dije yo, cuánto está dispuesto, cuánto le recomendaría invertir, lo que esté dispuesta a que se vaya a 0 y que no le afecte.
+
+[Speaker 0 - 01:15:56]
+Finalmente estamos hablando de tecnologías experimentales, estamos hablando de de de de de de tokens que van a servir para una utilidad que planeamos tener. Pero pues nadie puede asegurarte que ese token se vaya a apreciar, que vayas a ser un 10, 20 x y mucho menos que sea algo que se que se que se pueda ver rápido, ¿no? Entonces muy probablemente esto sea un tema de, como dijo Diego, de estar vendiendo y promocionando el token durante algunos meses para que la gente lo conozca y lo empiece a adquirir. Y pues es una inversión a largo plazo. De nuevo, no es un token que creo yo que vaya oye ahí una no sé si te puedas mutear que estoy escuchando un poquito de de de mi eco y me escucho yo yo solo y no no no puedo mutearte yo no creo que no Creo que está, ahí está. Ya, ya quedó, ¿no? No, sí, es el el el ¿Creo que ahí está? Sí. Ah, bueno, les decía. Entonces, es una inversión a largo plazo. De nuevo, estamos buscando empresas para para tokenizar y esto es algo que va a ser constante.
+
+[Speaker 0 - 01:17:02]
+La idea es tener ahí muchas empresas listadas que puedan utilizar el marketplace obviamente para lanzar sus tokens y levantar capital. Y así poder fondear demás proyectos. Esperemos tener muchos, esperamos, pues sí, tener muchas diversas industrias en las cuales quieran participar, tamaños de empresa distintos. Ya hay algunas por ahí que han corrido el proceso y y me gustaría cerrar con eso. ¿Qué empresas o qué podemos hacer en los siguientes tokens después de del by token y cuándo?
+
+[Speaker 3 - 01:17:40]
+Yo esperaría, si todo sigue marchando como lo hemos planeado, yo esperaría que para el tercer trimestre de este año ya estemos viendo empresas listadas en nuestra plataforma. Perfecto, perfecto. Bueno, pues nada, o sea, ahorita las empresas son todavía confidencial, mi querido Melzi. Tendríamos, este, que, pues, digamos, no no revelar todavía quiénes son, este, las interesadas. Tenemos que esperar a que sea su su respectivo road show y y, pues, nada, o sea, lo único que sí les podría decir es es que, interesantemente las empresas que tenemos son de corte fintech, hay algunas de servicios, podemos también pensar en otros servicios, hoteles, restaurantes, este tipo de cosas, son son lo que podemos ver y les digo, o sea, las empresas que traemos ahorita de de corte fintech.
+
+[Speaker 0 - 01:18:37]
+Perfecto, perfecto. Pues bueno, ya no veo ninguna otra pregunta. Sí, sí, ya respondimos todo. De todas maneras, están, me encantaría platicar contigo. Ah, sí, veo veo una última de Jorge. Ya con esa cerramos porque ya ya ya estamos ahí con tiempo. ¿No van a reunir diferentes startups, tomizarlas y vender sus tokens individuales de cada startup? Sí, cada startup va a tokenizar y va a poder intercambiarla en el marketplace. ¿Van a tokenizarlas con el token de Vaddy para fondear los start ups? No, no, entiendo que no, ¿verdad? Cada empresa vamos a apoyarlo a que lance su propio token que va a ser utilizado como token de utilidad. Creo que con eso respondo la pregunta. Y si no, pues bueno, ahí te busco el false, porque porque sí ya andamos un poquito cortos de tiempo. Pero bueno, Diego, Nat, ¿algo adicional que quieran comentar? Muchísimas gracias por estar por aquí. Y gracias a todos que se conectaron a escuchar esta conversación con con Natalia Cueto de BuddyExchange.
+
+[Speaker 0 - 01:19:40]
+No, muchísimas gracias a todos, muchísimas gracias, Mexi, y pues les invitamos a seguirnos en redes, a descargar nuestro white paper, a conocer
+
+[Speaker 3 - 01:19:50]
+más sobre Buddy, sobre esta iniciativa mexicana para apoyar a todas las PyMEs, y pues bueno, pues ayudarnos a nosotros inversores a subirnos al tren de Blockchain y y explorar todas estas nuevas oportunidades que que nos dan las finanzas abiertas. Muchísimas
+
+[Speaker 0 - 01:20:07]
+gracias, muchísimas gracias. Diego, gracias por estar por acá. Si gustas despedirte, con eso cerramos.
+
+[Speaker 4 - 01:20:17]
+Claro que sí. Muchísimas gracias por la invitación y por su tiempo. Y, pues, nada, les esperamos acá en, este, en la página, launch punto Badi punto com punto mx.
+
+[Speaker 0 - 01:20:28]
+Excelente, excelente. Pues bueno, de nuevo gracias a todos los que se conectaron el día de hoy. Vamos a estar, y voy a estar yo platicando mucho más de este tema durante los siguientes meses. Va a ser algo que por ahí tenemos que seguir platicando, resolver dudas, ajustar lo que sea necesario. Definitivamente toda la retroalimentación que podamos recibir de parte de ustedes va a ser súper, súper bienvenida. Y nos encantaría que pudieran, pues, entrar a la plataforma, revisarlo, si les late, pues, invertir en el token o comprar el token, pues adelante, dense. Y yo estoy acá disponible para cualquier cosa. De todas maneras Nat y Diego también están respondiendo cualquier duda o pregunta. Y seguiremos por ahí en en en espacios. Voy a buscar Nat que puedas llegar a participar ahí en algún otro, si te interesa. Ahí vemos agendas. Pero sí hay mucha gente que me ha dicho, oye, me gustaría invitarla, me gustaría platicar, me gustaría no sé qué. Con gusto, ¿no? Con gusto estamos, este, apoyando a que esos esos entrevistas y esas pláticas sucedan.
+
+[Speaker 0 - 01:21:30]
+Avisos rápidos mañana, jueves, perdón. Saludos ahí al chaparro Mata. El jueves tenemos Meetup en Monterrey. Vamos a estar con varias, varias creadores de contenido, varias builders en el sistema web 3 físicamente en nuestro hub acá en el local, en Plaza Regia. Empezamos a las 7 a recibir a las personas. La plática empieza a las 8. Las estamos transmitiendo en vivo desde la cuenta de Mexi Web3, desde mi cuenta, perdón. Y pues bueno, están súper invitados el jueves, este jueves en la noche 7 pm en Plaza Regia acá en Monterrey para platicar con las mujeres del ecosistema web 3 NAT. No te había comentado, pero si puedes me encantaría tenerte vía remota jueves a las 8, ahí unos 5 o 10 minutitos te quitamos para que nos platiques si si estás disponible. Sí, seguro. Nos conectamos con muchísimo gusto y muchas gracias por la invitación. Excelente, excelente. También el jueves a las 12 vamos a tener un espacio con Lu, vamos a estar platicando de acoso en redes. Es un tema por ahí que hemos tocado, que se ha escuchado de nuevo y que que que por ahí lo ha estado viendo mucho.
+
+[Speaker 0 - 01:22:34]
+¿Qué podemos hacer para defendernos, dado caso que haya algún tema legal en estas plataformas? Yo por ahí hice una pregunta estos días YYY he estado pensando mucho sobre las cuentas anónimas que de repente la gente tiene. Yo en lo personal lo he platicado mucho, he he he tengo más de 10 cuentas Anon de diferentes cosas, este, por X0Y razones las las las he tenido que crear y me ha ayudado AAAAA formar airdrops, a a formar otros tokens, a diferentes iniciativas de repente que hay en el ecosistema YYY también para tener cuentas alternas y cuentas que tenga por ahí de respaldo para cuando algo suceda y, bueno, ya me pasó, ya me cancelaron una. Esta es otra que tenía por ahí ya viejita. Pero nunca he utilizado esas cuentas Anon para mandar DMs a nadie. Nunca le he mandado un solo DM de mis cuentas Anon a nadie. Y nunca he fingido ser una persona que no soy, nunca he fingido ser alguien de otro sexo, por ejemplo. Y es algo que por ahí he estado escuchando que algunos están haciendo para obtener información y para obtener datos de de de la gente, para hacer ingeniería social y me puse a pensar mucho, la verdad.
+
+[Speaker 0 - 01:23:40]
+No lo he hecho, no lo pienso hacer. Pero bueno, podemos estar discutiendo mañana ese tema con Luke, sobre la legalidad o no de estas cuestiones y también de qué podemos hacer en dado caso que que estemos sufriendo algún acoso o algún tema con las plataformas digitales. Jueves a las 12 con Luke. Y voy a invitar también a todos los que están participando por ahí en la ronda de Gitcoin, de comunidades. Hay 5 proyectos que están ahorita recibiendo donaciones. Esos 5 proyectos van a crear software código abierto para las comunidades en Latam, para poder empezar a utilizar la Blockchain y para poder hacer atestations, para poder, lamentablemente no hay algo para POAPS, Banku, ahí te la debemos. Sé que es algo que has estado pidiendo mucho, pero no no no hay nada por ahí de eso. Vamos a estar hablando con esos proyectos y apoyándolos para que consigan más donaciones. Aparte de las donaciones, 12 comunidades juntamos más de 3600 dólares en en Arbitrum, son 1800 Arbitrum, y la fundación de Arbitrum también está agregando creo que son 400 adicionales más.
+
+[Speaker 0 - 01:24:43]
+Entonces, en total, como fondo cuadrático, para esos 5 proyectos se van a repartir más de 4000 dólares, que esperemos los ayuden a fondear esas iniciativas y que puedan sacar sacar el código que están prometiendo y que las comunidades empecemos a utilizar todas esas aplicaciones que por ahí se van a construir. Próximamente empieza también, bueno, ya empezó, ya podemos darnos de alta para los que queramos participar en la ronda de fondeo y de de votaciones de Gitcoin Citizens. A cualquier persona que haya apoyado el ecosistema de Gitcoin para fondear proyectos, se le está invitando a inscribirse en este ronda de fondeo. Solo personas se pueden inscribir, no pueden inscribir proyectos. Y la gente va a donar por ellos. Y también hay un fondeo cuadrático. Ahí creo que son 40000 monedas de Gitcoin, que en total son como 100000 dólares, más o menos. Entonces, por ahí voy a estar participando. Yo he estado apoyando a Gitcoin desde la ronda 18, que fue cuando nos involucramos como MX Web3, haciendo espacios, ayudando a la gente a subir sus puntos en el pasaporte.
+
+[Speaker 0 - 01:25:47]
+Hemos hecho talleres informativos en Discord, donde pasamos horas ayudándole a la banda a cambiar tokens de una red a otra, porque a veces usan Arbitrum, a veces usan la red de Public Woods Network, lo usaban porque ya la van a cancelar. También es un pedo porque ya la cerraron y mucha gente estaba teniendo otra escarlana, pero bueno, experimentos que de repente fallan, esas L 2, que entran con muchas ganas y luego se se se apagan, son cosas que pueden suceder, ¿no? De nuevo les digo, estos son mercados experimentales que que de la noche a la mañana la sustitución puede cambiar y todas las inversiones se pueden ir a 0, Entonces, pues, manéjeslos de esa manera. L 2, que muere, no es la primera ni será la última y es 1 donde tiene problemas. Pero bueno, regresando al tema de Gitcoin, todos los que estén participando en apoyar Gitcoin, en apoyar los proyectos que están solicitando dinero en Gitcoin y trabajando para bienes públicos pueden entrar a esta ronda del 5 al 19 de marzo. Entonces, pues bueno, si tienen alguna duda, con gusto los puede ayudar a darse de alta, a subir su pasaporte, a entender el proceso.
+
+[Speaker 0 - 01:26:54]
+Porque creo que puede ser una muy buena oportunidad ahí de que las personas que estén trabajando con Gitcoin se se beneficien con un con una ronda de fondeo retroactivo. De nuevo, yo participé en la 18. Participábamos también en la ronda con Metapull en Gitcoin, participamos también en la ronda con Arbitrum Y One Inch en Gitcoin que nos fue muy bien, con Metapull también nos fue muy bien. En la 19 tuve la oportunidad de de de meter proyectos también a participar, pero también fui curador. Estuve curando ahí la ronda, hice una lista especial de los proyectos que yo curé para que la gente los viera y los conociera. Entonces, todo ese trabajo es lo que voy a documentar en mi aplicación y voy a solicitar pues el dinero ahí en el fondo cuadrático de Gitcoin para ver cómo nos va cómo pues, yo, persona. Aquí no es proyecto, son proyectos, son ciudadanos los que se están postulando y por los que la gente va a votar. Y los apoyaría y los invitaría, perdón, a que a que me apoyen ahí con su promoción, con sus likes, con sobre tweets, a los posts que van a que van a ver próximamente con mi aplicación.
+
+[Speaker 0 - 01:27:59]
+Y si les gusta lo que hago y han visto algo de valor, pues también que donen. Finalmente, de likes y de reposts no vive el hombre y no compramos tortillas ni ni huevos. Entonces, pues bueno, es importante también ver cómo se retroalimentan y cómo se paga todo ese trabajo ya realizado. Y mucho de lo que he visto que está funcionando en el ecosistema de Grands en este momento y y cómo los protocolos están encontrando la manera de distribuir dinero es a través de rondas de retropublic goods funding, de trabajo pagar por trabajo ya realizado. La ronda anterior de Arbitrum, perdón, de Optimism repartió más de 100000000 de dólares, 2000000 de dólares de esos 100 se se se fueron AAA proyectos latinoamericanos, yo creo que ese número puede subir fácilmente un 10 por 100 en lugar de un 2 por 100, solo el 2 por 100 de ese dinero, esos 100000000 de dólares que repartió OPI, se fueron a proyectos latinos. Fue un cálculo que por ahí hice, que lamentablemente todavía esta información se perdió porque estaba en cuenta anterior.
+
+[Speaker 0 - 01:29:01]
+Pero creo que podemos subir mucho ese número. Creo que hay mucho trabajo que hemos hecho en Latinoamérica que no hemos estado solicitando por él, y por ahí estamos apoyando a todos los que lo necesiten. De nuevo, nos vemos el jueves. Vamos a estar acá en Monterrey, en MX Web 3, en el Hub, en Plaza Regia. Y la próxima semana tenemos un evento en la curaduría. Yo creo que va a ser en la pizzería de la curaduría, muy probablemente el 14 de marzo. Tenemos un evento patrocinado por scroll, la L 2, que utiliza CK Rollups, que está ahorita apoyando a hacer eventos en México, van a haber eventos en Hermosillo, Sonora, va a haber otro evento en Guanajuato y 1 en Monterrey el 14 de febrero, creo que el de Guanajuato es hoy o mañana, y el de Hermosillo creo que también era esta semana. Entonces, si alguien tiene o necesita algo de información, pues échenme un mensaje para ahí le les hacemos llegar. Si no, vayan al perfil de Tiron México y ahí van a poder ver toda la información. Gracias Gracias de nuevo por estar por aquí.
+
+[Speaker 0 - 01:30:01]
+Nat, muchísimas gracias, Diego, también a los que subieron, hicieron preguntas, BanCo, Mister B, Sam, Jiza y José Heraldo, lamentablemente, ya no te puedo subir, José. Ya me voy a que desconectar, tengo hard stop ahorita a la hora y media. Pero, pues, estamos por acá el jueves. De todas maneras, bienvenidos a participar martes y jueves a las 12 pm horario de Ciudad de México y de Monterrey. Tengo más de un año con este horario haciendo espacios en este en este en este con esta plataforma y, pues, me encanta poder platicar con constructores y poder platicar con proyectos y personas que están dentro de ese ecosistema. Feliz all time high, feliz volatilidad, felicidades a todos los que holdearon, felicidades a todos los que están ahorita en ganancia, todos los degenerados que por aquí nos encanta este ecosistema, que de nuevo eso es muy experimental y que yo no recomiendo meter más dinero del que puedan perder, va a haber muchas oportunidades de hacer dinero, pero también muchas oportunidades de perderlo, ya luego platicaremos de de de de todo el tema emocional YYY de cómo yo he manejado y algunas recomendaciones que podamos dar, no solo yo, sino invitaré a algunas personas aquí al panel a que nos platiquen de de de de sus experiencias en ciclos anteriores.
+
+[Speaker 0 - 01:31:17]
+Este ya es mi tercer ciclo. Lo he estado disfrutando mucho. La verdad, ha estado increíble ver cómo se mueve ese ecosistema YYY hacia dónde vamos con los ETFs, con con todo lo que viene. Y ahora la CL 3, que por ahí, híjole, este, creo que van a ser mucho ruido próximamente. Gracias de nuevo, nos vemos el próximo jueves a las 12. Nos vamos, 2 River. Adiós.

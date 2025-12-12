@@ -1,0 +1,813 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #20240213
+Título: banda web3 - eventos @nounsmx @musica_w3 @nerdconf_ar
+Fecha: 2024-02-13
+Host: BandaWeb3
+Tipo: hosted
+
+Descripción:
+Hosted Space: banda web3 - eventos @nounsmx @musica_w3 @nerdconf_ar
+
+Duración: 02:41:38
+Escuchas: 206
+Speakers: 9
+
+Links:
+  Space: https://x.com/i/spaces/1LyGBnlWbEaGN
+  Dashboard: https://spacesdashboard.com/space/1LyGBnlWbEaGN/banda-web3-eventos-at-nounsmx-at-musica-w3-at-nerdconf-ar
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+
+[Speaker 0 - 00:00:00]
+¿Cómo andan el día de hoy? Deme un segundito, voy a poner los audífonos. Se me voy a atarpeo aquí la información y empecé el espacio un poquito más temprano. Pero, pues, bueno, vamos a darle. No pasa nada. Vamos a empezar con algo de música. Aquí ando con Sole, andamos viendo los detalles del taller que estamos impartiendo próximamente sobre música web 3 y para integrar a los músicos a esta tecnología. Y en un momento comenzamos. Enimax, ya te veo por ahí. ¿Cómo andas? Bienvenido. Ahorita se va a estar conectando Sol también para que nos platique sobre lo que andamos haciendo. Déjame nada más, aquí agarro algo de musiquita. Comenzamos. Voy a empezar a mandar invitaciones para toda la banda. Hoy empecé un poquito más temprano también para arrancar con las invitaciones y con la música y que esto se quede grabado. Pero, pues, le vamos a platicar de muchas cosas. 1 de los temas que traemos importante es entre los naus, MX, cómo venció la comunidad, qué es lo que va a suceder con ese proyecto y qué es lo que vamos a andar haciendo y también les queremos platicar de un taller.
+
+[Speaker 0 - 00:01:04]
+Vemos que hago 3 que se va a impartir acá en Monterrey próximamente. A la una viene Ale Marín. Él nos va a platicar de Nerdcoff, que es la conferencia que se está organizando en Ciudad de México. Es el 15 y 16 de febrero. Entonces pues ya estamos a nada. La próxima semana, ya esta semana, jueves y viernes, por ahí van a estar en Ciudad de México, va a haber pláticas bien interesantes, ya nos estará platicando Ale Marín sobre el tema. Por lo pronto deme un segundo, estoy buscando mi otro celular para poner la musiquita y comenzamos en un momento.
+
+[Speaker 2 - 00:03:18]
+Para para hacer visible nuestras obras del concurso de Willowth de Art. Así que, ahora sí, me funciona si me funciona Espina,
+
+[Speaker 3 - 00:03:32]
+no funciona nada. Es 1 de los grandes problemas que hemos visto en aplicaciones web 3, que no tienen la información a la mano tan rápida como lo tiene un Spotify, por ejemplo. Yurgey, un chorro de alternativas para indexar todos estos esas obras de arte musicales que están por ahí distribuidas en muchas plataformas y que la gente pueda disfrutar de ellas de una manera sencilla, con una aplicación donde
+
+[Speaker 0 - 00:03:56]
+si yo busco a Sol,
+
+[Speaker 4 - 00:05:38]
+que
+
+[Speaker 3 - 00:05:43]
+raro esto ¿Eh? Y eso es justo lo que queremos resolver porque de plano no no hay manera de de que si yo quiero escuchar algo rápido de música Wordpress esté súper disponible al al crecer esta. No.
+
+[Speaker 2 - 00:05:57]
+Nos
+
+[Speaker 3 - 00:06:18]
+Erick, ¿me escuchas bien? Creo que sí, ¿me están escuchando bien? Te voy a empezar a invitar aquí a hacer. Deme un segundito.
+
+[Speaker 1 - 00:07:34]
+Bueno, bueno, bueno,
+
+[Speaker 0 - 00:07:45]
+bueno. ¿Ahí? ¿Ahí me escuchan? De pura casualidad, estoy acá, nada, no lo escucho. Ahí está.
+
+[Speaker 4 - 00:07:51]
+¿Se escucha? ¿Se escucha? ¿Se escucha? ¿Tendrás
+
+[Speaker 0 - 00:07:57]
+el la clave del internet? Fabián. ¿María no lo tiene? Déjame se la pido. Gracias. Bueno, bueno, Erick Erick, ¿me escuchas? Ya escucho muchos audífonos. No los oigo yo.
+
+[Speaker 4 - 00:08:10]
+Sí se escucha. Te escuché bien.
+
+[Speaker 0 - 00:08:13]
+Ah, qué buen relajo. No sé por qué de repente no no sé si no me escuchaban o qué onda. Pero bueno, acá andamos en Monterrey. Les platico rápido. Estamos Sonia y yo pues ya preparando todo lo necesario para el taller de música web 3. Ahorita yo creo que ella también se va a conectar. Tenemos aquí un detallito con el internet y con la música que no podemos empezar a escuchar. Pero bueno, comenzamos en un momento. Denos un segundito. Creo que ya estamos, sí. Vamos a ver.
+
+[Speaker 4 - 00:08:47]
+Y
+
+[Speaker 0 - 00:08:49]
+aquí esto de la dinámica con Mariano, Mariano ver si de pura casualidad llegué con Internet, igual ahorita le estoy preguntando, Mariano, Mariano, Mariano, un segundo. Pero bueno, acá tenemos el Internet. Rápido, empecemos porque la música como que no se dejó. La idea del día de hoy, pues, es rápido platicarles sobre lo que andamos haciendo por acá por Monterrey. Cómo nos ha ido con Sol, cómo nos fue con el Hackathon. Hace poquito, pues también dejó noticias con todo lo que estamos haciendo ahí con los NonceMx. Ya tenemos 1 de los 1010 creo que hay ahorita, o 1011 que hay ahorita disponibles. Y la idea, pues, de esa comunidad y de ese proyecto, pues, es empezar a participar con ellos.
+
+[Speaker 0 - 00:09:52]
+La verdad creo que es una de las DAOs y una de las asociaciones o grupos de personas que están haciendo cosas padres. Que es un experimento, la verdad, bien interesante. Por aquí en Monterrey tuvimos hace unos días una plática súper chida sobre los downies, sobre todo lo que ellos están haciendo. Y en realidad la verdad me sorprendió. Nos regalaron hace poco, bueno, hace unos meses, nos regalaron una una alfombra aquí para poner en en en las oficinas de MXBook 3, y la verdad hemos estado por ahí estudiando mucho sobre el tema. Y pues bueno, ya nos metimos de lleno a participar. Y compramos 1. El taco que traigo ahorita puesto es una una versión del Note 1008 que alcanzamos a comprar hace un par de días.
+
+[Speaker 0 - 00:10:56]
+Por ahí les voy a opinar un poco de información de la gente que tenemos acá arriba. Pero de los que están involucrados en el proyecto de Nóus MX. La verdad está bien padre porque le entramos puros mexicanos hasta el día de hoy. Ya hemos metido dinero. Dejen les busco aquí. Deme un segundito. Y también aprovecho para invitar a Sol para ver si se puede unir y que nos platique ella cómo ha visto todo el movimiento acá en Monterrey. Ya mandé un par de invitaciones y no, de plano no se puede subirse. Yo no sé por qué no me permite mandar invitaciones, creo que ya puedo. Ahí está. Vamos a invitar ahora a la bandita de Naux MX, a ver si nos puede acompañar el buen Nash, que trae un chorro de ideas sobre cómo vamos a utilizar esta tecnología.
+
+[Speaker 0 - 00:12:03]
+Y esta marca, finalmente es una marca que es propiedad intelectual totalmente libre y abierta CC Zero, que creo que eso es lo más interesante de todo este cotorreo. Porque finalmente, pues, toda la propiedad intelectual CC Zero La podemos utilizar nuestro antojo, como queramos. No necesitábamos haber comprado un now para poder utilizar la marca, en realidad. Tampoco necesitábamos y teníamos que haber comprado, pues nada en realidad para poder empezar a participar y utilizar esta marca. Entonces nosotros decidimos de alguna u otra forma empezarnos a involucrar con las comunidades que ya están existentes de los NOWs. Está una comunidad que se llama NOWs Dao Amigos.
+
+[Speaker 0 - 00:13:04]
+Por ahí hemos participado o bien, yo en lo personal y con Soul participamos en una ronda de fondeo hace unos días, donde lamentablemente pues no ganamos. Yo ya había participado en una con ellos hace unas 2, 3 semanas, donde les propuse hacer espacios, hablar de los now, les propuse también tener un meetup acá presencial en Monterrey que tuvimos, que costeamos. Somos muy padres, hablamos de todas las iniciativas que traen y cómo la comunidad de los now está fondeando proyectos súper divertidos e interesantes. También tuvimos un espacio hablando del tema y un podcast. El podcast no lo hemos grabado, por ahí se los prometí, pero bueno, esa fue la propuesta que les mandamos a los NOWs Tao Amigos, que ellos también tienen una tesorería y están utilizando esta propiedad intelectual para fondear proyectos y para también difundir un poco más la marca que estamos utilizando el día de hoy y de la cual queremos sumar parte.
+
+[Speaker 0 - 00:14:28]
+Nash, ¿cómo andas? Bienvenido.
+
+[Speaker 5 - 00:14:37]
+¿Qué onda? ¿Qué onda, Mexi? Hola a todos. ¿Sí me escuchan, verdad? Sí. ¿Qué onda? Pues aquí también usando nuestros taquitos porque vamos a vamos a empezar con esta movida. Nos hace falta mover unas personas, hacer que esto sea más grande. Entonces, sí, yo también he participado en algunas en algunas de esas propuestas de Dow amigos, pero pues también no no hemos tenido suerte todavía, vamos a seguir intentando y cómo no, también en las otras rockehouse que hay, como los Bardeners, y hay un montón de cosas por ahí. Pero queremos hacer también nosotros, pues, poder tener ahí algo, creando cierto tipo de arte, ya veremos ahí, ya iremos desplegando todo, pero para poder nosotros apoyar gente aquí en México, porque qué mejor que nosotros mismos podemos aquí apoyar ideas, hacer murales, apoyar a artistas creativos en todos lados. Entonces creo que eso esto va a aportar mucho, ¿no? Es decir.
+
+[Speaker 0 - 00:15:30]
+Sí, definitivo yo no sabía por ahí, Nancy, y es algo que ayer comentó Leo de la Plaza que le agradecemos mucho la noticia ayer en su espacio y que nos haya permitido la la oportunidad ahí de platicar un poquito de lo que son. Mire, se va conectando. Saluditos a al buen Leo de a Plaza Anaunds. Vamos a invitarlo. Porque sí, finalmente es una marca global, ¿no? Es una marca mundial que ya tiene años de historia, que tiene ya una comunidad bien grande que ha distribuido mucho dinero para ayudar a muchas iniciativas artísticas, de deportes extremos, para hacer videos, para hacer animaciones, para hacer eventos presenciales, para ayudar a escuelas. La verdad hay una cantidad de proyectos impresionantes que los now han fondeado y que esta marca como es totalmente pública y disponible para todos, pues se ha posicionado también en el ecosistema Web3. Yo me imagino, y sí quisiera pensar y ahorita vamos con Leo para ver qué piensa él. Pero lo he escuchado a él y a otros decir que los Nowds es como la marca número 1 en la Web 3, la más reconocida.
+
+[Speaker 0 - 00:16:34]
+Creo yo que es algo cierto, ¿no? El Nike de la Web 3, o la Coca Cola, a ver tú a saber. Bueno Coca Cola no, porque pinche agua con azúcar. Pero no sé, Leo, ¿cómo andas? Bienvenido, gracias por estar por acá.
+
+[Speaker 1 - 00:16:48]
+¿Qué tal, qué tal? ¿Me escuchan?
+
+[Speaker 3 - 00:16:51]
+Sí, muy bien.
+
+[Speaker 1 - 00:16:53]
+Yeah, sí, porque ayer me andaba fallando el audio. Y y pues hasta me rugió al final el el especie de ayer, ya ni pude despedirme. Pero pero sí, creo que pues algo de nouns, la, digamos que la innovación dentro de web 3, a diferencia de muchos protocolos que conoces, de muchas criptomonedas, es que es una marca. El el la la la, digamos que la la innovación, una marca de web 3. Y eso, pues, no hay ningún proyecto, ni bitcoin, ni ethereum, ni, o sea, que que sea reconocido así como como la marca de la web 3. Y sí, muchos dicen que es como la marca de Nike, de de web 3. Hay quienes dicen que vas a ser como el Hello Kitty de de la web 3. Entonces, y pues las posibilidades son muchísimas. Pueden armar ahí un un hub de de Naunce MX. Estaría bueno eso, de hacer como un un espacio como de 1600, Estaría bueno eso, de hacer como un espacio como de meetups, que sea como Nownish.
+
+[Speaker 1 - 00:17:58]
+Eso creo que estaría genial.
+
+[Speaker 0 - 00:18:03]
+Oye Leo, no, pues la verdad es que por acá en Monterrey, y yo tengo que aceptarlo, yo tengo problemas cereros. Me gusta andar en todo. Me gusta andar en chinga, me gusta siempre tener la agenda llena y a veces creo que la llena un poquito de más. Pero definitivamente todo lo que traemos acá en Monterrey, con el espacio físico, con MXVoot 3, ahora que también está Sol por acá y estamos colaborando con el método. Y que ya nos metimos de lleno también a participar con los naus. Creo que un espacio físico en México, brandeado específicamente para los nounds, es algo que, pues es una de nuestras metas definitivamente. O sea, creo que no nada más a los nounds, sino todas las comunidades webtera les nos faltan. Esos espacios físicos donde podamos conectar, donde podamos empezar a generar ideas, donde con Híjole, juntando personas y con una creatividad increíble y con ganas de hacer cosas, se pueden lograr un chingo, un chingo de cosas. Desde hace unos 3 meses que nosotros abrimos acá el espacio en Monterrey y que lo hemos estado trabajando y que hemos invitado a gente, a personas para identificar quién trae por ahí alguna inquietud.
+
+[Speaker 0 - 00:19:11]
+La verdad hemos encontrado un chorro de soporte y un chorro chorro de ayuda. Y bueno gran parte de lo que estamos haciendo esta semana y la que sigue pues es eso ¿no? Empezar a hacer eventos de una forma distinta. Este jueves vamos a empezar a hablar de, bueno no mentira no vamos a empezar a hablar, ya hemos hablado del tema, pero vamos a empezar y empezamos ya metiéndole dinero a promocionar estos eventos que vamos a estar organizando. Entonces, la idea, pues, ya es atraer a personas que no conocen de la web 3, que son totalmente nuevas. Y el jueves, justamente, la primer plática que tenemos de de de, pues, ahora sí promocionada para ver si conseguimos bombardear a personas nuevas, es justamente sobre la historia del dinero y de bitcoin. Es una plática que va a dar Abraham Fuentes, va a estar este jueves en la noche. Y pues bueno, veamos. Pero sí, me encantaría. Y yo creo que una de nuestras metas pues sí es poner ese espacio físico súper nowish. Algo que mencionabas Leo sobre la comunidad del día de ayer, es que es la primera comunidad que tiene un now.
+
+[Speaker 0 - 00:20:14]
+Yo eso no lo podía creer. Cuéntanos, ¿cómo cómo estás el show?
+
+[Speaker 1 - 00:20:21]
+Sí, pues digamos que en Latinoamérica no hay como una comunidad que tenga un nown, así sea propietario de un nown. El mismo nowns, amigos, tienen nowns, pero son delegados. Y hay una diferencia entre ser propietario de un nown, a que alguien te lo delegue. Porque cuando tú lo delegas, no lo no lo custodias. O sea, digamos que podrías quitar la delegación cuando quisieras. Entonces, en en el mismo, por ejemplo, Pizza Dow, Pizza Dow es una Dow global. Ellos tienen un nown también. Hay, este, hay como organizaciones que tienen delegados, pero así como holdear un nown, una comunidad, eso sí no se había visto. Entonces, por eso digo que es algo particular, porque es una comunidad que por primera vez está, digamos, que tienen en su posesión un now, out, y a la misma vez todo este rollo del taco y de los tacos, como que va muy acorde al al meme.
+
+[Speaker 1 - 00:21:27]
+Ayer estábamos diciendo en el Space que era casi casi la Matrix que que coordinó todo esto.
+
+[Speaker 0 - 00:21:38]
+Oye, sí. La verdad no sabía yo que que que Obviamente sabía del tema de los delgados. Yo suponía, te soy sincero, que había otras comunidades que que que habían hecho algo parecido. Si no, somos la primera. No sé si Latinoamérica o en el mundo. Pues qué chido. La verdad, eso creo que le agrega un poquito más de historia a esta a este proyecto que por ahí estamos construyendo. Y por ahí hay un chorro y de hasta ahorita platicamos de eso. Pero sí me gustaría comentarles cómo fue que escogimos ese taco. Porque, como dice por ahí Leo, pues hay una historia bien interesante donde somos la primera comunidad en México que está participando de esta manera. Y de alguna u otra forma escogimos nosotros que saliera el barco. Le suplico un poquito por qué. Perdón que ando con falta de oxígeno, pero andamos aquí para arriba. Por ahí anda sol, ya no la veo. Cada que estos nowns o cada que esos NTPs están por ahí en subasta, creo que es importante platicar de eso, ¿no?
+
+[Speaker 0 - 00:22:38]
+Cómo cómo cómo se manejan los nowns, porque solo hay 1000 creo que ahorita llevan como 1011 en circulación o disponibles. Pero hay una subasta diaria. El contrato inteligente está programado para que el arte sea on chain y que haya una subasta diaria de estos NFTs. Y cada que se acaba una de las subastas diarias, la gente pueda entrar a una plataforma para escoger el siguiente now. En cada bloque de ethereum, de la red de ethereum, cuando se acaban estas subastas, genera 1 aleatorio y la gente con dedito hacia arriba o dedito hacia abajo decide cuál now now es el que se va a mintear. Y nosotros en esa iniciativa, en esa dinámica, yo por la casualidad hace un par de días o 3 días que se acababa una de las subastas y le dije yo a la gente, miren, se acaba de acabar la subasta. Apenas estamos entrando para poder decidir cuál es el siguiente now y empezamos ahí a escoger. Me acuerdo que vimos unos 2 o 3 unicornios. La verdad a mí me gusta mucho el unicornio.
+
+[Speaker 0 - 00:23:38]
+Por ahí si no han visto cómo me dices de repente en la montaña y el Halloween de unicornio está bien chido, está interesante. Me gusta mucho y la verdad yo sí quería un unicornio. Pero yo creo que estuvimos ahí unos 15, 20 minutitos escogiendo que si sí, que si no. Había unos diseños bien feos con colores que no combinaban. Había unos bien bonitos que yo quería que fueran el siguiente nawn a escoger. Pero cuando se alcanzó en realidad a mintear y a decidir cuál era el nawn que seguía, el 1008, y vimos el taco y vimos la camiseta naranja con el corazón blanco en medio. Dije, no, o sea, como decía Leo de la Place Naughes, neta creo que está cabrón. Pero vivimos en una simulación. No había otra manera de de entrarle con un taco y una comunidad mexicana y y qué locura, qué padre que puedo ser así. ¿Tú qué opinas, Nash? La verdad me encantó. Y cuéntanos un poquito de todas esas
+
+[Speaker 3 - 00:24:36]
+derivados que por ahí hemos visto y que ya tenemos algunos de PSPs.
+
+[Speaker 5 - 00:24:42]
+Claro, claro, no, pues la verdad es que sí estuvo, como ayer lo mencionábamos, un evento canónico porque pues un taco, un taco para la primera comunidad en México que tiene un down. Y pues no no se no se define ahí, digo apenas vamos, se va comenzando y pues empecé a hacer algunos derivados para las personas que están ahí ya, este, constantemente viendo lo que estamos realizando ahí con con los Maumx. Y creo yo que es una buena propuesta porque más allá de de de, por ejemplo, sacar una colección o unas cosas así que se pueden hacer en el ecosistema, pues está cool, ¿no? Unas cosas así
+
+[Speaker 4 - 00:25:12]
+que se pueden hacer en el ecosistema, pues, está cool, ¿no?
+
+[Speaker 5 - 00:25:14]
+Este este mecanismo, estos mecanismos nuevos que van saliendo, por ejemplo, las subastas que ya el Mounce lo tiene desde el inicio, pero creo que se puede jugar con eso y meterle un poquito de nuestro nuestra creatividad. Aquí en México yo veo que hay muchas cosas, que hay, este, cosas que le podemos agregar, incluso, pues, todavía no han salido algunos bocetos ahí que he estado mandando ahí al a lo de NauxMx, pero hasta, digo, creo creo yo que podríamos incorporar algunas cabezas que estén relacionadas a nuestra cultura para que también pueda irse, digamos, diversificando más, ¿no? Y poder hacer algo algo de esto. Yo he visto algunas otras colecciones que que van más o menos por ese camino. Supongo que ya algunos de ustedes ya las han ubicado, ¿no? Lo de Yellow Collective o lo de Bassett Nouns, que son al final son es prácticamente algo muy similar tratando la misma estructura, pero cambiándolo de Blockchain. Porque, pues, sabemos que Nouns está en Ethereum y, pues, conlleva todo lo que hay allá en Ethereum. Pero, ¿por qué no hacerlo multicadena, no? ¿Por qué no irnos a más lados? ¿Por qué no distribuirlo diferente? E incluso crear otros mecanismos para poder votar, ¿no?
+
+[Speaker 5 - 00:26:15]
+Porque, digo, una una cosa sería que empezaran a salir Naunce MX también, pero también podemos empezar a a ir moviendo esto. Porque la gente quiere interactuar y qué mejor que darle algo con lo cual pueda votar por, a lo mejor, incentivar a algún creador, algún artista, algo aquí en México que también hace falta mucho. Y, obviamente también Latinoamérica vamos a ver qué más podemos ir haciendo ahí, pero ahí estamos tejiendo algunas cosas. Cocinando algunos tacos.
+
+[Speaker 0 - 00:26:41]
+Tal cual, tal cual, cocinando taquitos. La verdad yo sigo todavía incrédulo de lo que ha pasado de que nos haya tocado el taco también. Durante la subasta estuvo súper loco porque por ahí como equipo, como grupo que estamos por ahí en el en el en el grupo de WhatsApp y de hecho es un grupo abierto, ¿eh? Algo sí les digo. Totalmente abierto el que de
+
+[Speaker 3 - 00:27:07]
+A ver, deme un segundo, voy a pagar aquí el Ahí está, ya pagué el Bluetooth. Me dicen si me escuchan bien, a veces escucho bien. Sí, pero bueno, justo lo que decías Nash, de hacer como unos nown multicadena,
+
+[Speaker 1 - 00:27:21]
+eso estaría buenísimo. Normalmente, como que hay hay DAWs, bueno, están en en Ethereum, están en en Bass, en en Optimisum. Pero unos nowns multicadena, creo que eso sería bastante cool verlo, que estén en distintas redes, sería brutal. También hay una plataforma que se llama Nowns Builder. Es Nowns punto build, que que te permite, sin conocimiento de código, crear un mecanismo de subasta. Pues tú lo tú lo personalizas, cuánto tiempo, cuántos días. Les pongo aquí la liga, Les puse también el Fomo Nounds, que es el que dicen donde donde votan, pero les pongo también Nounds Builder, porque porque ahí podrían, sin conocimiento de código, podrían abrir este un mecanismo de de subasta YYY también van integrando redes. Está la red de base, está Authism, está Ethereum, y creo que se podrían incluso añadir más. Es como una una infraestructura como abierta.
+
+[Speaker 1 - 00:28:24]
+Creo que eso les podría les podría servir, mira, ahí está en el en el mismo chat, nounds punto build. Chequen esa plataforma porque porque ahí podrían hacer crear como subdows.
+
+[Speaker 2 - 00:28:39]
+Buenísimo. ¿Está puesto en los comentarios?
+
+[Speaker 5 - 00:28:45]
+Sí, creo que creo que lo iba a pinear. Sí, si lo puedes pinear ahorita, porque ahí lo de hecho, hay muchas plataformas están esas. Y también hay una que se llama Naughty Gallery, ahí para que artistas vayan subiendo también cabezas y cuerpos y algunos lobos, también está esa, creo que esos cuando se gana alguna especie de de de cuando votan y se gana alguno de estas piezas, se monta directamente ya en en el contrato tal cual de NAMUS. O sea, hay muchas cosas que se pueden hacer ahí, pero sí estaría a cura hacerlo Multican Arena porque, pues, sabemos muchos sabemos aquí en México que a nosotros nos gusta irnos a todos lados y estamos repartidos en todo el mundo, entonces está como tiene como esa parte de narrativa, ¿no?
+
+[Speaker 3 - 00:29:25]
+Sí, definitivamente es algo que vamos a explorar. Yo sí creo que todas los experimentos que hemos visto de las diferentes maneras en las que subastan estas DAO, sus tokens, son son son bien interesantes ¿no? Ya dijimos la principal que es 1 diario, que al momento de que se mintea el nuevo, no perdón, al momento de que se vende el nuevo, se ejecuta el proceso para empezar a desarrollar el el o a crear el nuevo, y aquí me corriges si estoy equivocado, ¿no? Perdón. Pero, pues, es 1 diario, ¿no? En resumen, es 1 diario, ahorita se están vendiendo por ahí arriba de los 7 Ether. Hubo un caso increíble donde, por x o un par de días para comprar el taco, empezó la subasta en 0.01 y luego subió a 0.02. La verdad faltando como 3, 4 horas para que se acabara la subasta todavía estaba como en 0.03 o 0.04. Faltando ya una hora o 2, nosotros no habíamos hecho ninguna oferta.
+
+[Speaker 3 - 00:30:25]
+Ya habíamos puesto en redes que queríamos comprarlo, yo había yo había yo yo yo por ahí había tuiteado un poco de cosas de tacos, Nash también por ahí, me acuerdo haber visto que tuiteó sobre los tacos, y yo por ahí puse también que quería desayunar tacos. Total, estuvimos haciendo ahí un poquito de mama y narrativa, pero no hicimos ninguna oferta. En realidad, faltando media, ahora fue cuando empezamos a participar, y pueden ver el historial por ahí al ratito la opinión acá arriba, pero creo que nosotros sacamos una oferta de 2.69 y luego subió hasta como no sé si si si mal no recuerdo hicimos como 4 ofertas distintas. La última pues ya fue la de 7.69, que fue con la que empezamos a ver el conteo poco a poco acabarse y, pues, ya llegar a 0 para ser estar conscientes y estar, pues, sí, ya, tenerlo, realmente nuestra
+
+[Speaker 2 - 00:31:41]
+mal.
+
+[Speaker 5 - 00:31:44]
+Nada más nada más nada más un poco bajo, pero creo que se escucha bien, o sea, se escucha bien, nada más es un poquito bajo el volumen. No, pues, realmente está está muy cool cómo es todo el mecanismo de la subasta y creo que ahí tiene algunos trucos que estuvimos ahí tratando de platicar un poquito, que era de bueno, pues no hay que hacer ruido cuando vayamos a empezar a moverse ahí porque pues sabemos que hay muchas carteras allá que andan buscando naus y ya estuvimos viendo, ya ya ya nos pues cuántos cuántos naus atrás nos estuvieron haciendo algunas propuestas para obtener creo que desde el burrito que salió en el 996, si no mal recuerdo, y unos un poquito más atrás. Y lo que se va viendo es que, bueno, muchas personas están buscando constantemente comprar un out. Entonces, incluso vimos personas de aquí, creo que incluso aquí en México también, que compraron algunos otros, no los conocemos todavía, pero pues por ahí andan también coleccionando en lawnS. Porque la propuesta es al final buscar montar una propuesta on chain, que es digamos la tirada, lo que es lo que, al menos creo yo que todas las comunidades que están armando algo alrededor de lawnS deberían de buscar como poder tener la posibilidad de entrar al on shain para que las personas que están ahí dentro de la comunidad digan, ¿sabes qué?
+
+[Speaker 5 - 00:32:55]
+Es que yo tengo una propuesta y nosotros digamos, bah, pues tenemos las los 2 NAMUS para que puedas subirla ya, para que puedas ir directamente hasta ese paso. Obviamente, pues también vamos a ver si podemos hacer algo más un poquito más abajo, o sea, como llevarlo en muchas escalas, pero la idea es poder, pues tomar de la mano a las personas de la comunidad y que si tienen una idea muy grande y que pueda ser muy disruptiva, pues adelante, montarla on-chain y ahora sí que esperar que los nounders o nounders puedan votar por ella y que pues seamos a lo mejor ese ese mecanismo, ¿no? De que pase para allá. Todavía estamos pronto, digamos, todavía estamos early en todo eso, pero pues ya irán viendo por ahí más tacos que se van a ir sumando. Yo estoy, este, ahora sí que vamos a hacer una especie de 1 a 1 para que más tacos se vayan sumando. Esto se vuelva algo un poquito un poquito divertido. Hay que meterle ese ese entusiasmo que nosotros tenemos aquí en México para poder, no sé, jugar con estas iniciativas. Y, ¿por qué no? A lo mejor también empezar a jugar con algunos tokens, con participación en los espacios, o en muchas cosas.
+
+[Speaker 5 - 00:33:56]
+De hecho, hay muchas personas con espacios que ya por ahí van ir viendo, que también van irse incorporando y ser unos tacos también con nosotros. Pero pues poco a poco, al final lo que lo que buscamos es que podamos construir algo y traerlo para acá. Porque yo sé que ya hay algunas comunidades, bueno, ya sabemos que no hay muchas, pero pues una más, a lo mejor dándole a nuestro toque, pues podría podría mejorar incluso apoyar a más personas. Entonces vamos a buscar que eso se dé, pero sí, esto de las subastas está un poquito complicado porque sí hay carteras ahí que están buscando ahí esa casa de esos nows, y pues desafortunadamente algunos momentos en los cuales nadie está yendo, sí se llevan a se llegan a llevar algunos nowns en menos de 3 hits. La neta pues es un es una ganga lo que están por lo general y la vez pasada que estuve checando, el nown 1 se vendió en 690 íter. Entonces, fue como de guau, con eso fue con lo que empezaron a llenar la la tesorería y ahorita, pues, ya tienen más de 5000 lift. Entonces, pues, esa es una iniciativa que al final se ha visto que tiene una buena narrativa y que podemos adoptarla.
+
+[Speaker 5 - 00:34:57]
+Más allá de una colección en la TIC, creo que tiene que ver con todo eso, ¿no? O sea, que también que la comunidad participe.
+
+[Speaker 0 - 00:35:06]
+Oye, Nashy, justo justo lo que comentas sobre las subastas y las diferentes dinámicas que hay. Y también sobre lo que comentaba, creo que sí me escuchan. ¿Me escuchan bien? ¿Bueno, bueno, me escuchan bien? Creo que sí. No, ¿verdad? ¿No me oyen? A ver, denme ¿Ahí me escucha?
+
+[Speaker 5 - 00:35:28]
+Ahí me Sí, sí, te escuchamos bien.
+
+[Speaker 3 - 00:35:36]
+Creo creo que creo que ahí me escucha mejor, ¿ok? Sí, les decía que hay muchas iniciativas, muchas maneras de manejar estas subastas, como lo les decía, los nowns principales es 1 diario, pero también hay otras nowns que tienen un nown cada 3 días o cada 3 horas. Hay otras que creo que duran 10 minutos las subastas. Cada quien está metiéndole su toque a manera en la que se distribuyen estos estos NSTs para poder tener un un un una gobernanza, porque también estas DAOs tienen sus propias tesorerías. Nosotros empezamos a juntar dinero de la gente latina. Yo empecé a hacer por ahí una campaña de de de de marketing, de ruido y de invitación a la gente que quería participar. Y teníamos 2 tickets, todavía están abiertos 2 tickets. Un ticket es de 0.69 Ether, Obviamente llevan participación monetaria, ¿no? Hay que definir todavía porcentajes YYY situaciones, pero creo que ya tenemos un un un un marco bastante establecido. Y hay otro ticket, otro boleto u otra invitación totalmente abierta y disponible gratuita. El grupo de WhatsApp que tenemos de los NownS MX es totalmente libre, abierto, disponible.
+
+[Speaker 3 - 00:36:37]
+Por ahí pasé el alfa de el link en el grupo de WhatsApp de MX Web 3, ya tienen ahí varios días ese link. He invitado personalmente a otras personas también a participar. Otros han visto que se creó el grupo y se metieron ellos por decisión propia, está dentro de la comunidad de WhatsApp de MX Web 3, y ahí es donde vamos a estar hablando de estrategia. También hemos estado publicando mucha información totalmente pública, y creo que es lo mejor que podemos llegar a hacer, ¿no? El nivel de transparencia que hemos manejado creo que ha sido muy, muy bueno, y la idea, pues, es que continúe de esa manera. Yo sí quiero y todo lo que he hecho en MX Web 3 y lo que estamos haciendo en en en en Nowce MX pues es construir en público y es dejar evidencia de todo lo que hemos hecho a través de espacios, a través de nuestros mirops, a través de las grabaciones y las transmisiones en vivo que ahorita estamos haciendo. Porque finalmente creo que el que la ve, el que la gente en otros lados del mundo vea que se puede y vea cómo lo hacen algunas personas, creo que pueden inspirar a que también ellos se animen y empiecen a hacer algo parecido.
+
+[Speaker 3 - 00:37:40]
+O que le modifiquen y agarren lo que a ellos les beneficia y descarten lo que no y que se lancen a hacer algo nuevo. Y creo que es lo que queremos hacer, Nash. Por ahí hemos platicado mucho sobre este tema de las subastas de arte nowish invitando a artistas mexicanos, invitando a artistas latinos, invitando a invitando a artistas latinos, invitando a todo mundo a participar, invitando también a la comunidad entera a ser parte de esta nueva asociación o de esta nueva institución que quiere, de la misma forma que hacen los Nows, fondear proyectos chingones, fondear proyectos Nounish, fondear proyectos locos, con ideas súper disruptivas que, una, le benefician a la marca de los Nouns MX, a la marca de los Nouns en general, pero también que se beneficien las mismas comunidades que están participando. Y ojalá podamos llegar a reunir, ¿por qué no? Si los Nounds grandes tienen ahorita tenían 6000 Ether y han tenido mucho más. Imagínense que nosotros tengamos a lo mejor ahí una tesorería de 100, ¿no ve todos? A ver, no hay que ponernos una meta, creo que una buena meta es 69 Ether, ya luego podremos llegar a los 420 Ether, ya iremos viendo.
+
+[Speaker 3 - 00:38:43]
+Pero bueno, como primer meta de 69 Ether para distribuir entre la gente y entre proyectos chidos que que que nosotros queremos fondear, pues qué chido y qué padre y qué cool y creo que se necesitan más. Yo estoy muy involucrado desde hace varios meses en bienes públicos y también me metí full hace unos meses a ver y a leer sobre propiedad intelectual CC Zero. Y la que más me gustó, porque hay muchas, ¿no? La que más me gustó fue la de los NOWs, creo que es la que más poder tiene, la que más posicionamiento YYYYY de la cual nos podamos apalancar para hacer muchas cosas, y que también tiene una tesorería bastante interesante que podemos empezar ahí a
+
+[Speaker 0 - 00:39:21]
+con estas propuestas en cadena o que no estén en cadena, a pedir y a participar y ver cómo podemos apoyar el proceso de gobernanza. Entonces, pues bien emocionados con esta con esta con esta nueva con este nuevo colectivo. De nuevo pueden seguir NoundsMx, ahí está la información de la página de Internet. Tenemos ya varias páginas de Internet, tenemos ya una serie de activos que hemos ido comprando, que algunos de nosotros, de los miembros, hemos ido donando
+
+[Speaker 3 - 00:39:46]
+y que también, pues vamos a utilizar, estar utilizando para fondear y para empujar y para promocionar todos todos nuestros eventos. Nash, me
+
+[Speaker 0 - 00:39:56]
+encantaría que nos platicaras de de de ese documento por ahí que estamos por ahí, pues
+
+[Speaker 3 - 00:40:02]
+preparando, porque no sé si todavía vaya a ser totalmente libre para editar por todos, yo creo que todavía no. Pero al menos que lo puedan leer, no sé qué opinas.
+
+[Speaker 5 - 00:40:14]
+Claro que sí, de hecho, este, lo voy a voy a ver si lo podemos subir a algún lugar donde esté para poder leerlo todos. Es es es solamente un especie del draft, por así decirlo, es, este, como tratando de adaptar lo que ya es Nomish a lo que es Nauns MX, porque, digo, a partir de eso se han se han salido todos los demás colectivos que hemos visto de Nauns, entonces creo yo que es una buena manera de empezar porque al final lo que se busca es como lo que ellos han realizado también, o sea, es un fork de lo que es Nowns, obviamente a lo mejor metiéndole nosotros un poquito más de cosas, ¿no? Metiéndole a lo mejor otras cosas más divertidas, otra otro tipo de gobernanza, a lo mejor no salir 1 diario. No sabemos todavía cómo se desarrolla todo eso, pero es un documento en el cual pues es como la la adición. Y una de las cosas que sí me gustaría agregar ahí es que sí, una de las propuestas que tengo para para que se vaya dando eso es hacer pues, cabezas que tengan que ver, que sean Nouns, pero que tengan que ver con la cultura mexicana, obviamente, para poder ampliar la biblioteca que se pueda dar. Y otras cosas que se van viviendo ahí.
+
+[Speaker 5 - 00:41:16]
+Pero, por lo general, es es más una especie de adaptación de lo que es de Nouns, un fork a lo que va a ser Nouns MX. Y obviamente es para recibir también retroalimentación de que ese más se les ocurre que podamos incorporar, qué más podemos ir metiendo. Porque, pues, todavía no es un no es un documento oficial, es una especie de draft. Y me gustaría empezar a ver, por ejemplo, cómo lo van notando para ir adicionando de más cosas. Porque ahí es donde se va a ir adicionando, pues, qué tipo de eventos se pueden hacer, lo que se va a hacer allá en el en el muchas muchas cosas que van a ir entrando ahí. Entonces es una especie de edad, metí un poquito ahí de de arte en pixeles para que se viera un poquito más darle un poquito de estilo. Pero al final es todo relacionado con Omncenx para que vayan viendo cómo se se se va a desarrollar. Tal cual van a ver las mismas cosas muy similares a lo que es NownS, porque no queremos cambiar algo tal cual como como tal. O sea, queremos seguir con la misma narrativa porque al final es una adaptación de NownS a lo que nosotros podemos hacer, Que bien dices, es es por esta parte, sí, sincero que tiene Nouns, que lo que lo que tiene que ver es que cualquiera puede adoptar esa marca para poder hacer algo creativo, algo que tenga que ver con una idea loca, una idea disruptiva.
+
+[Speaker 5 - 00:42:28]
+Y nosotros hemos visto muchas ideas que han pasado aquí en nuestra región, y por lo general pues necesitamos de dónde poder hacer todo esto, y qué mejor que con subastas para poder empezar a darle un poquito de incentivo a esos creadores, porque a lo mejor nosotros como tal de nuestra bolsa pues no se puede como tal ir a apoyar a tanta gente, ¿no? Ir a apoyar a tantos proyectos, que si se puede, pues bueno, pero qué mejor que sea con una tesorería, que sea votándose, que sea pues interactuando también, para que las personas que vayan y voten también sientan que son parte de esa decisión, que sientan que son parte de lo que se está creando, y hay mucho que se puede hacer, solamente que pues apenas se está desarrollando la idea. Pero ahí se van a ir adicionando más cosas y, pues, se va a ir ahora sí que dejando ya establecidos las cosas que vayamos viendo que ya van a quedar fijas. Y, pues, al final es experimentar y vamos a tratar de, pues, llevar los tacos a más lados y a ver qué se le ocurre a las personas que nos que que que nos puedan idea que cuál sería el siguiente de Nadmx, qué cabeza creen que pueda tener.
+
+[Speaker 5 - 00:43:29]
+No sé, a lo mejor también esto podría ser divertido ir ir pensando, ¿no?
+
+[Speaker 3 - 00:43:35]
+Sí, no, definitivamente creo que es algo que que que, lo del curso, ahorita platicamos también de eso rápido. Pero sí, como decía Nash, la idea pues es participar con con con esta marca que tiene un potencial enorme, buscar fondear nuestros proyectos con estas subastas y también buscar, ¿por qué no? Con propuestas súper locas, iniciativas que pueda fondear la misma down de los nouts, ¿no? Hay oportunidad de hacer propuestas sin tener un solo token, que esas se hacen en y se hacen totalmente libres, pero creo que tienen mucho más impacto las propuestas que podemos llegar a hacer con estos tokens que necesitamos 2, ¿no? Podemos delegarlos, podemos hacer muchas cosas, podemos delegárselos a alguna otra persona también, pero para que ellos hagan una propuesta. Te podría rentar de esa manera también ¿No? Hay un chorro de cosas que podemos hacer.
+
+[Speaker 3 - 00:44:37]
+Pero pues bueno ahí vamos empezando poco a poco. Pero sí es una de las iniciativas que traemos y que estamos empujando porque sí creo yo que que que hay oportunidad de atraer a muchas personas nuevas y también apoyar a la gente que ya está en este ecosistema que ha agregado mucho valor como sol que veo por aquí que tengo aquí a un lado, como Caro que veo acá abajo, como Abraham, como Franklin, Julio, todos los que estamos por ahí metidos, Jorge, o sea, todos los que quieran participar y hacer una propuesta, pues bueno, ahí está, están, ahí están, ahí vamos a tener unos toques, ¿no? Ya hay un un un una comunidad en Monterrey y en México y en Latinoamérica que puede apoyar cualquier tipo de iniciativa YYE idea loca si vibra con lo que estamos haciendo y creo que eso es algo súper importante y es una vía más para fondear proyectos, una vía más para hacer comunidades, una vía más para crecer este ecosistema y atraer a personas nuevas.
+
+[Speaker 3 - 00:45:47]
+No sé qué opinen, si alguien quiere subir, hacer alguna pregunta, hacer un comentario totalmente bienvenidos. Aquí estamos ya llegando al hub. Ahorita vamos a empezar a platicar, yo creo que que unos 5 minutitos de música web 3 y del taller que estamos empatiendo. De WiFi. Acá en Monterrey, pero andamos batiendo con el WiFi. A ver, vamos a pasarles, aquí les paso AAA Sol para que les platique un poquito de lo que ella ve de los nanos y lo que haya tocado experimentar acá en Monterrey mientras yo voy aquí por unas cositas acá abajo en la en el carro a ver ¿Escuchan bien? Ojalá escuchen bien. Les dejo suerte.
+
+[Speaker 2 - 00:46:34]
+Hola, Liz, ¿cómo le va? Qué bueno ver tanta gente linda por la sala. Agradezco a todos los que están acá. Bueno, ¿qué me tocó vivir de Naus? Bueno, recuerdo que fui al al Hackathon y viví una comunidad fuerte de Naus ahí. También lo conocí en persona Franklin, que hace parte de Naus y siempre son gente que quiere que quiere construir cosas muy buenas y además tienen unos lentes bastante graciosos y saqué unas fotos con 1 de esos. Después le voy a compartir la foto. Bueno, ¿y qué más? Nada, no sé, no sé, yo no sé mucho de Dance realmente, o sea, sé que es una DAO increíble porque me ha tocado charlar con gente que ha ganado sus grands, y bueno, y que y que son muy piolas las personas que conocí, que son parte de la comunidad. Y me parece hermosa esta iniciativa de querer empezar como una Dabo nueva dentro del lado de Nous.
+
+[Speaker 2 - 00:47:37]
+Porque es como un poco más descentralizado. Es como que todo, o sea, creo que toda la cultura hispanohablante tiene que empezar como a agarrar estos terrenos. Como de de web 3, ¿no? Como los Grands, por ejemplo, lo de IT Coin, o sea, todas esas cosas para poder hacer crecer nuestros proyectos y poder bancarnos. Es muy importante tener estas oportunidades y meternos a hacer ruido como gente gente latino que somos. Así que bueno, quería avisarle a a nuestro amigo que estaba acá hablando antes, que ahora no me sale su nombre, La Plaza, que lo que lo intenté subir, pero que se bajó por las dudas, le digo, porque sé que quería venir a hablar, pero no sé por qué motivo se me se me salió. Nash, ¿vos lo podés, lo ves, lo podés subir?
+
+[Speaker 5 - 00:48:40]
+Ya le envié invitación, a ver si si me dejan. Creo que andan rubiados ustedes un poquito. Pero ya ya le puse, le le mandé invitación.
+
+[Speaker 2 - 00:48:49]
+Buenísimo. Le quiero mandar un saludo a todas las personas que están en la sala, a Jorge, a STTSM, Julio, a Caro, a Abraham, Franklin, Mad, a Lu que se acaba de sumar, a Mister B, a Julio, a Rosa, C, DCOT, Herrimax, ¿cómo estás, Herry querido? Te mando un abrazo. René, Berineize, Peco, Coderall, Alan, Crypto E, Mister, bueno, todas las personas que están en las horas un montón. Les mando un abrazo a todos. Y y bueno, Nash, no sé, no lo pudiste subir, ¿verdad? Porque me está me está saliendo el request, pero no sé si Sí.
+
+[Speaker 4 - 00:49:38]
+Según
+
+[Speaker 5 - 00:49:39]
+yo ya le mandé solicitud, pero creo que también está rodeado más bien el espacio, ¿eh? Porque estoy tratando de de subirlo y no me deja. Entonces, también a ese a ese era el space. Pero igual mandan solicitudes, aquí tratamos de de de solucionar eso.
+
+[Speaker 2 - 00:50:00]
+A ver, creo que ahí fue. Buenísimo. ¿Cómo estás René? Bienvenido.
+
+[Speaker 4 - 00:50:07]
+Bien, bien, ¿cómo están? Ah igual se estudió. El quien tiene la cuenta de la plaza es Leo, porque hasta ahora tú decías, ¿quién es? Se llama Leo. Es Leo. Él está ahí atrás, doxeado. No, es LLX0 ah, no es cierto. ¿Cómo están amigos?
+
+[Speaker 5 - 00:50:29]
+Bien, bien, ¿cómo están ustedes?
+
+[Speaker 4 - 00:50:33]
+Igual ya vi ahí a Franklin, a a Caro, a a Rosa, ¿no? Por por aquí por OG en este espacio, ¿eh? Estoy viendo ahí los asistentes. Qué emoción.
+
+[Speaker 2 - 00:50:48]
+Perdón, no sabía que era Leo, pero igual no es boxearlo porque puede haber muchos leos en el mundo, ¿verdad?
+
+[Speaker 0 - 00:50:55]
+Él
+
+[Speaker 4 - 00:50:56]
+está él está más boxeado que nadie.
+
+[Speaker 1 - 00:50:58]
+Sí, ya estoy bien boxeado. Solo es broma, ya ya todos saben quién está detrás de la plaza. Pero sí, creo que estaba hablando YYY simple y simplemente no no se escuchaba. Y después vi que no estaba en el space. Bien raro el, bien raro x. No me dejaba subir. Bien raro x,
+
+[Speaker 2 - 00:51:21]
+súper x, lo que pasa. Quería preguntarte, Mexi, ¿qué hace una persona cuando quiere un taco? Porque acá la tenemos un comentario de Rosa que dice, yo quiero un taco on onish. ¿Que lo pida? Solo hay que pedirlo en el grupo,
+
+[Speaker 3 - 00:51:35]
+creo que ya estás, Rosa. Pídeselo a Nash, pídele colores, pídele lo que gustes. Si él nos ayuda definitivo. Cuyo amigo. Cuyo amigo lo ponen como PSP, ellos te fregón. No es obligatorio definitivo.
+
+[Speaker 4 - 00:51:51]
+Yo me perdí.
+
+[Speaker 6 - 00:51:52]
+Oigan, si es verdad
+
+[Speaker 7 - 00:51:55]
+que a Camilo se doxea solo. Porque lo conoces y lo primero que te dice es, nouns, nouns, nouns, nouns, nouns. Y tú, hola, ¿cómo estás? Nouns, nouns.
+
+[Speaker 1 - 00:52:08]
+Ándale, ese mero. Leo Nunds.
+
+[Speaker 7 - 00:52:13]
+Leo Nunds, ¿quién no lo tiene guardado? Guardado otro.
+
+[Speaker 3 - 00:52:17]
+Por aquí tenemos todavía el, la neta yo creo que es el primer regalo que nos han hecho, Berenice, no sé tú qué digas, pero el primer regalo que nos hizo alguien fuera de la comunidad de Monterrey es la alfombra de los Nunds, que nos regaló el buen Leo.
+
+[Speaker 7 - 00:52:30]
+Una cosa divina, sí, sí me acuerdo cómo no, yo todavía tengo, o sea, Naughus llegó aquí a Monterrey directo a carnita asada, a norteñar, a dar bonita merge, también me acuerdo de la bonita merge, me acuerdo de la bonita merge. Tenemos ahí una alfombra muy coqueta que tratamos de tomarle foto y ahí estarla presumiendo cada vez que tenemos oportunidad. Y yo creo que nada más, no sé, Mexi, ahí nos faltan tener algunos lentes también para estar recibiendo a la gente en el lobby y antes de entrar, fotito. Ya.
+
+[Speaker 3 - 00:53:08]
+Sí, sí, definitivamente necesitamos nubbles, necesitamos muchas cosas aquí que ya estamos viendo con la tesorería cómo vamos a ocupar. Aquí estoy invitando a Money Talán, que es parte del colectivo, estoy invitando también a Julio, que es parte del colectivo. También acá anda arriba Nash, que está apoyando con todo el tema de estrategia y que desde día 0 también está aportando todo lo el conocimiento y y su historia tokenizando en diferentes blockings, todo eso nos va a dar un chorro de de de de de poder, bueno, no poder, sino de oportunidad de esperar experimentar con estas con estas tecnologías y con esta marca que la verdad estoy súper hypeado. Me gustaría si puede Muni o Julio o cualquiera de los que está por aquí presente parte del equipo que que que nos apoyó a reunir la cantidad necesaria para comprar ese taco que subiera y que nos platicara y y que viéramos cuáles son las expectativas porque la verdad ahorita algo que decía también Alan hace poco en un espacio que tuvimos que no se grabó es que todo mundo le entramos sin sin mucha expectativa pero algo que yo me encanta hacer es no prometer mucho y luego entregar un chorro ¿No?
+
+[Speaker 3 - 00:54:14]
+Under promes over delivery y creo que es algo que estamos planeando con esta con este proyecto y y pues bueno muy contentos de que la gente que se ha anotado AAA entrar al grupo pues bueno que ya haya dado aportes por ahí Rosa nos platicó que que 1 de de de pues creo que es creo que es su pareja, no estoy seguro, no quiero ducharla, pero pues nos va a ayudar ahí con una animación y cualquiera que tenga cualquier idea, que quiera participar, pues es súper bienvenido, ¿No? Finalmente lo que queremos es empezar a ser una comunidad y también premiar de alguna u otra forma a los miembros de la comunidad que nos ayuden porque si no conocen la subasta de los naus tiene una dinámica donde cada 10 cada décimo now va a la tesorería y esa tesorería los creadores de ese contrato y los naunders iniciales son los que deciden qué hacer con ella y a mí me gustaría que pero que es algo que tenemos que decidir en en en grupo y aquí pues Boni también nos puede dar su opinión porque ella también es parte de de del de los que estamos invirtiendo en este en esta marca.
+
+[Speaker 3 - 00:55:15]
+Eh a mí me gustaría en algún momento que esos tokens que nos que nos asignemos cada cada o sea el 10 por 100 de los tokens que se asignen a la tesorería pues puedan ser a lo mejor de una en un momento distribuidos a la gente que apoye a la comunidad y que apoye la marca y que apoye a crecer este pues este ecosistema Nawnish MX. No sé qué opines Nash pero me gustaría ir con Money. Money bienvenida. Muchas gracias por su vida y gracias también por por por entrarle aquí a la dinámica de los Browns MX y de lo que estamos haciendo.
+
+[Speaker 8 - 00:55:48]
+No, gracias a ustedes por la invitación y por la paciencia. Creo que yo fui la una de las últimas en subirme, pero la verdad es que, como dices, no entré con muchas expectativas más que una, que es experimentar y que nowns tuviera Nowns México. Entonces, súper entusiasmada de poder ser parte de esto, experimentar, aprender. Y a mí me encanta, como tú sabes, lo de recompensas y de ver formas de que sumemos a más personas al al hacer cosas diferentes, ¿no? Yo creo que aquí tenemos la la oportunidad de hacer cosas nuevas.
+
+[Speaker 3 - 00:56:22]
+Definitivo, definitivo, la idea es experimentar. Veo a un chorro de gente con con con trakes nowish, el buen René, que también acá anda arriba y que pude conocer por fin en en en en en Puebla. Híjole, encantado de participar. Y que te sumes, René, me encantaría que fueras, este, también ahí 1 de los de los miembros del grupo. Te voy a mandar el link privado. He estado invitando personalmente a muchas personas. Otras se han metido solas al al ver que se creó el grupo porque es un grupo abierto de nuevo. Es una comunidad abierta, libre, hay 0 pesos para entrar. Todo mundo puede entrar. Si quieren entrar a un nivel un poquito con más responsabilidad y poder de decisión, pues sí tenemos un ticket de 0.69 Ether, porque todavía estamos eh reuniendo dinero. ¿Por qué queremos dinero? Porque queremos comprar otro know. La idea es tener al menos 2 know para poder hacer propuestas on chain y que la gente que quiera hacer una propuesta on chain pues bueno que le podamos nosotros delegar ese poder y para que la la haga y decida. Entonces imagínense abrirle la oportunidad a cualquier mexicano eh obviamente tiene que ser propuestas que que que revisemos.
+
+[Speaker 3 - 00:57:24]
+O sea sí hay un nivel también de de de centralización y creo que es bueno en este caso porque no queremos pedir lana por cualquier pendejada. Pero pues bueno ya decidiremos los que estamos por ahí metidos en el grupo. Este a quién le delegamos y cómo le delegamos y si si si es este algo que queremos apoyarlos para que ellos hagan sus propias propuestas y son cosas que podemos hacer y que vamos a estar experimentando con ellas. Y creo que de esos 5000 y pico de Ethers eh que hay por ahí disponibles en la en la en la tesorería de los más grandes podemos hacer un chorro de cosas súper cool para la comunidad aquí en México y en Latinoamérica o eh pues en cualquier otra parte del mundo. Sí, vibran con nosotros y se quieren involucrar en apoyar a esta comunidad. Entonces creo que está muy chida la iniciativa. La verdad estoy súper súper emocionado de poderla poderla integrar a los otros proyectos que traemos como MX Web 3, como la sub 80 K, que por ahí claro ha estado en chinga, en chinga, en chinga me consta que ha estado en chinga con el diseño. Por ahí tenemos una una dinámica para que la gente participe en en hacer estos trades y recuerden que estos trades se van a convertir en realidad.
+
+[Speaker 3 - 00:58:29]
+Y va de la mano con MX V 3, la sub 80 K va de la mano con MX V 3 y va de la mano con los nuevos MX y va de la mano con todas las iniciativas que tenemos por acá. Entonces de una u otra forma vamos a aprovechar todo este empuje y todas estas diferentes proyectos que traemos para para crecer el ecosistema. René, por ahí tenés la manita levantada. Gracias por estar por aquí. Creo que no te hayas echado. Bienvenida.
+
+[Speaker 4 - 00:58:53]
+Hola, amigo. Bien, bien. Todo chido. Justo la la verdad es que yo, no sé, igual me subió un poquito más tarde de del en el espacio, pero no sé si ya te contaron esto y ya estoy ya repitiendo la historia, pero me gustaría saber cómo, o sea digo, ya yo sé que tu interés nació ya ya hace un rato en el tema de los nounds cuando te entraste ya hace un par de meses que qué onda y pero a mí lo que me sorprendió fue cómo se movilizaron de rápido. Entonces que quisiera justo que me platicaran un poquito más cómo nació la idea, digo, no no de quiénes están involucrados en el proyecto porque tampoco queremos lo que sea nadie, pero pero sí cómo nació la idea y y en qué momento deciden que era esta comunidad, porque sabemos que viéndolo como desde fuera, desde No hemos dado amigos ya existía algo, pero sabemos que esto es CCO, entonces cualquiera puede tomarlo y hacer lo propio, ¿no? Pero, ¿cómo nació esta esta esta, digamos, necesidad o esta cosa para crear toda esta comunidad? Y justo, digamos, sumarlo, porque no nos trata como de, ay, es es ir desbando de 1 o del otro, sino más bien es como como hacemos el meme más grande, ¿no?
+
+[Speaker 4 - 00:59:57]
+Básicamente.
+
+[Speaker 3 - 01:00:01]
+Sí, definitivo, definitivo. Yo creo que hay un chorro de alternativas como para hacer este meme más grande, Podríamos entrar a una dinámica tipo doble doble doble doble donde haya algo de drama, algo de planeación ahí de y de digo no sé no sé ¿No? Para soltar una idea. Pero no la verdad es que cuando yo conocí de los Nowds fue en mayo del año pasado justamente cuando vinieron Downs Dow amigos acá a Monterrey al Hancatón de cripto México. Yo ya había visto los nobles, ya había visto eh YYYY en Ciudad de México a los mirros que me tocó ir en el primer semestre del año pasado ya me había topado con Leo, ya me había topado con muchos otros nounds, nounders perdón, de otras daos, específicamente nounds, amigos y la verdad platicando con ellos y viendo toda la dinámica que traían eh me gustó mucho el tema de los lentes o sea ese es ese es es algo que yo identifiqué desde desde un principio que yo tenía que encontrar merch representante o que no representante sino que alguna marca, algún signo, algún símbolo para que la gente identificara que era yo ¿No?
+
+[Speaker 3 - 01:01:03]
+Y y en ese momento eh por X0Y por aquí veo al buen Andrew creo que por acá andaba. Por por X0Y el buen Andrew empezó a hacer un meme y un mame con mis lentes blancos. Yo esos lentes blancos los tengo desde un chorro. Porque son los con los que voy a la montaña y los que iba a la montaña porque ya no están en en en en condiciones de ir a la montaña y están muy muy peloteados y tengo nuevos. Pero empezó él una narrativa y la verdad a mí me gustó mucho y ya los agarré ¿No? De marca o de Brandy. Y cuando veo los nubos y veo los blancos me enamoro. La verdad me enamoro. O sea así cuadrados con una historia súper importante con con con un apalancamiento en una marca y en una en un grupo de personas que ya le dedicó mucho tiempo a a posicionar este este este este esta marca creo que ahí fue donde yo dije o sea aquí hay algo, aquí hay algo que hay que seguir explorando, hay que seguir leyendo, hay que ver cómo funciona, me puse a leer, también invité a mucha gente de la comunidad aquí a que a a que se involucrara, empezamos a estudiar un poquito del tema y nos empecemos a involucrar con ambos amigos, hemos hecho algunas propuestas, hemos levantado algunas iniciativas, lamentablemente no hemos ganado pero pero eh por ahí también yo lo mencioné, yo tengo un problema con la autoridad este no me gusta que me digan que no, y cuando hay posibilidad de hacer lo que 1 quiera, este, yo soy un camión que no se detiene, entonces, pues, pues, pues, por ahí le di, por ahí le di, no sé, no sé si resolver, eso cuándo la pregunta, pero me gustaría que que Mónica nos dijera su su opinión.
+
+[Speaker 8 - 01:02:38]
+No, bueno, más que mi opinión. Yo creo que además la señal de que salió el taco, ¿no? Fue otra señal de que teníamos que hacer esto. Pero, este, pero yo creo que fue de nuevo, porque yo sigo mucho a Mexi, veo lo que hace, me encanta cómo experimenta, yo tampoco creo mucho en la autoridad, pero aquí me tienen y entonces dije no, hay que hay que sumarse. Y y es experimentar y crecer el ecosistema ¿no? Yo creo que este Naux Amigos y este esto ayuda a que haya más presencias de de Naux en América Latina. Entonces, yo creo que todos se benefician por por tener más comunidades así.
+
+[Speaker 3 - 01:03:16]
+Definitivo, definitivo es algo que que que creo que ya no acabé la idea hace un momento, pero les decía el jueves pasado que arrancó la comunidad de Tirum Monterrey. La comunidad de Tirum Monterrey es una nueva comunidad que que se oficializó hace poquito, que ya tiene un par de meses trabajando, ya organizaron varios eventos, estuvieron participando en la cadenita allá en Puebla, también participaron el jueves de la semana pasada que que que hicimos el primer, bueno, que hicieron ellos el primer evento y que participamos como comunidad de MX en el primer evento. Y justo yo les decía, creo que cada ciudad tiene oportunidad de tener 10, 20, 30, 50 comunidades, ¿no? Dependiendo del tamaño de la ciudad también. Monterrey definitivamente es una ciudad con 1000000 de habitantes que tenemos que tener muchas comunidades. Ya ahí yo ya identifico al menos unas 6 comunidades súper fuertes acá en Monterrey. Muchas muy activas, otras no tanto. MX Web 3 en mi opinión es la más activa, pero no es la única. Está Etiro México que también ya nació y que va a ser muy activa, pero también están los cripto Lords que son un poquito más cerrados y que hacen sus posadas y hacen dinámicas de presencialidad de vez en cuando.
+
+[Speaker 3 - 01:04:23]
+Por ahí Vere los conoce y muchos otros miembros de aquí de la comunidad los conocemos. Está la comunidad obviamente de Cande con el cripto brunch. Está la comunidad de Abraham y con digitalizados. Está la comunidad de de los grupos estudiantiles que hay muchos, entonces hay un chorro de comunidades aquí en Monterrey y yo creo que necesitamos más, o sea y que necesitamos apoyarnos entre todos en conjunto y es la misma idea y la misma filosofía que yo tengo con Nown's Dow Amigos, con Nown's Plaza, con la con con los Nards que son los que apoyan las las iniciativas de deportes extremos y con muchos otros datos que hay por ahí ¿no? Hay hay manera de hacer colaboración definitivo. Por supuesto, como en todos lados hay un tema de ego, que creo yo, como personas adultas y profesionales podemos ir resolviendo poco a poco, pero la idea, pues, definitivamente es sumar. Es sumar, es crecer. Dale. Y atraer a más personas, Pero sí, encantados de de de de poder empezar este este proyecto y agregarlo a todo lo demás que traemos de nuevo. Por ahí hemos estado cocinando la sub 80 k, hemos parado un poco el ruido por estrategia y también por otras cosas que han salido.
+
+[Speaker 3 - 01:05:26]
+En este ecosistema salen cosas de la noche a la mañana, que pueden cambiar la vida. ¿Cómo es Hackathon en el que participamos? Y que por ahí, por X0Y tuvimos que dedicarle horas y horas y horas estos últimos días a mandar una solicitud para un para para una aceleradora con Avalanche entonces hay hay hay hay probables noticias interesantes y bueno hemos ido pivoteando ¿No? Pero la idea es continuar todos los proyectos y apalancarnos de todo lo que estamos construyendo para que esto crezca. Ya le empezamos a meter dinero a los promocionales de nuestros meetups. Le vamos a meter también dinero a promocionar en Instagram y en otras redes el el el el curso que va a impartir el sol del método la próxima semana. Ya tenemos un espacio físico listo, ya hay internet, o sea, ya hay muchas cosas que antes no teníamos como para empezar a experimentar y explotar esto y ver si en realidad hay una demanda aquí en Monterrey para que esto crezca, apalancándonos de MX V 3, de Naunce MX, de la Suba 80 K y de todo lo demás que por ahí traemos. Entonces, pues bueno, un poquito de de de lo que hemos estado pensando últimamente, de lo que hemos estado planeando y de que 2024 va a ser un año que reviente.
+
+[Speaker 3 - 01:06:31]
+Creo que algo también que por ahí traemos y que no he platicado pues es de de de lo que se está organizando con Nación Bangle, con Critorreo, que por aquí lo queríamos ver ayer pero creo que anda enfermo y ya no tuvo chance de darse la vuelta. Íbamos a ir a comer con cambio y con sol pero ya no tuvimos chance de verlo, anda por acá en Monterrey. Pero definitivamente los nauts necesitan código. Las comunidades latinas necesitamos código. Ándale, viene solo. Excelente. Vamos a agarrar la cara de Cojos. Las comunidades latinas necesitamos código. Y ese código lo queremos fondear con esta ronda de fondeo en bitcoin que ya está abierta. Y sí me quería esperar hasta este momento para empezar a hablar de eso porque Nash, ahí hay oportunidad de fondear lo que creemos y lo que nos gusta y lo que lo que ahí estamos planeando. Sol 7 también tiene oportunidad ahí de de fondear su proyecto musical. Me etiquetaron, me etiquetaron. Definitivamente
+
+[Speaker 2 - 01:07:25]
+tenemos que participar ahí. Para bebé del nene Play con la con la música de Orebre.
+
+[Speaker 3 - 01:07:29]
+Y ahorita platicamos de eso, pero todo va de la mano, o sea, lo que hemos estado moviendo con Mónica, Critorreo, con René, con Nash, con Sol, con Vere, hay un chorro de cosas moviéndose, van a empezar a explotar muchos proyectos, vamos a ver en realidad si hay mercado suficiente dentro del ecosistema de Bouteares, pero yo creo que hay que ya empezar a buscar afuera. Y para eso estamos metiéndole dinero en Instagram y en otras redes para empezar a captar todos estos probables interesados para ver si hay oportunidad de que se sumen y que se animen y que empecemos a utilizar más estos espacios físicos que creo yo tenemos que replicar en todos lados para que esto crezca de una manera más acelerada. Recuerden que mi objetivo principal aquí es acelerar la adopción de alguna u otra forma con ideas bien locas, experimentales y de repente
+
+[Speaker 0 - 01:08:15]
+pues medio pendejas, pero bueno, es parte de
+
+[Speaker 3 - 01:08:23]
+aquí por ahí solo ando posteando en x 2 planes pero pues bueno ya les platiqué un poquito de lo que traemos subió Yeisa también que me gustaría escuchar su opinión, que por ahí lo conocí también en Monterrey y conoció también acá la comunidad hace poco, que anduvo por acá. Yeisa, te platico rápido, estuvo chingón Puebla, tu carnal, el Colorado. No mames, este, increíble, increíble su apoyo, nos ayudó un chorro ahora que estuvimos allá en el Hackathon, gracias a el apoyo de de de Colorado, de de de de Giestro, de Mel, de Arthur, que nos estuvieron por ahí guiando en el pudimos pudimos este hacer algo de código y ganar ahí un un un un grande 800 dólares que es el que está ahorita dándonos energía para participar en estas rondas de fondeo con Avalanche y vamos a ir con push protocol, René, Coffee Coffee, ahí ahí te aviso y con. Con DAC. Bueno. Por ahí estamos esperando a Ale Marín, no sé si vaya a venir. Creo que sí, íbamos a hablar un poquito también del evento que por allá está organizando, pero bueno.
+
+[Speaker 3 - 01:09:26]
+Eche belleza.
+
+[Speaker 10 - 01:09:29]
+Hola, ¿qué tal? ¿Me escuchas bien?
+
+[Speaker 0 - 01:09:31]
+Sí, perfecto.
+
+[Speaker 10 - 01:09:37]
+Excelente. Mira, sí, nada más quería pues decir de que es muy importante estos estos sitios, o sea, spaces físicos, podemos llamarlo así, para colaborar, porque muchas veces como como viste en el evento de Puebla, es es es mágico cuando los developers se juntan y cuando empiezan a discutir ideas y hablar de de de qué cosas se pueden resolver. Creo que eso siempre acelera, sobre todo yo lo he visto porque he estado, pues, colaborando con con con comunidades virtuales por fans de 20 años. Yo yo creo que lo dije en otros spaces, solía ser el líder de la comunidad Open Office y es una comunidad que estuvo que existe en línea por desde el 2001, 2000. Entonces cuando hacíamos los congresos y conferencias, se veía cómo los developers de repente resolvían muchísimos bots, muchísimos features, los los ingeniaban en en en esos eventos, y lo mismo pasa con con Web3, ¿no?
+
+[Speaker 10 - 01:10:40]
+O sea, los developers casi siempre cuando se ven las caras trabajan juntos y se hacen asociaciones muy chidas y y usualmente pues los usuarios se benefician, ¿no? Y bueno, también aprovechando el el el space que se habla de eventos, yo tengo un evento que estoy haciendo para este sábado aquí en en Villahermosa, sobre la comunidad de Tom. Recientemente me volví a envasador de Tom, entonces estoy ahí promoviendo aquí el el ecosistema y también ya tenemos ahí un team que está trabajando para 1 por un programa de aceleración de Tom, entonces todo eso pues creo que que va a poner, este, como que la primer semilla aquí en a reactivar la la comunidad que aquí en Villahermosa es una comunidad que estuvo muy activa pre covid, hacía muchos eventos de diferentes cosas, nada más de cripto, de cloud, de de impresiones 3 D, etcétera, etcétera.
+
+[Speaker 10 - 01:11:40]
+Había muchos eventos grandes, pero como que de post covid como que todo todo como que se se pausó, y la verdad es de que la comunidad está, bueno, sería bueno de que la la la gente reactivara todas esas actividades, y bueno, pues ahorita podemos empezar dando el primer paso con con esta comunidad de Tom, pero se viene un proyecto más grande, tratamos de hacer un tipo Blockchainland test, sin ser Blockchainland obviamente, para para pero evento de alguna manera grande o mediano, podemos llamarlo así. Entonces, pues esos planes pues están ahí en el tintero, pero ya se están trabajando y pues para anunciarlo porque aquí hay mucha mucho talento igual que muchas veces no se habla porque bueno, por XYY razones, ¿no? Entonces, este, pues esa es la idea y vamos a empujar y ojalá los vengamos por acá pronto.
+
+[Speaker 3 - 01:12:41]
+No hombre, muchas gracias Yeisha, la verdad es que lo que tú comentas es súper cierto, pero tú decías juntar debes. Que se junten ellos, que reboten ideas. Eso me tocó experimentarlo y vivirlo allá y fue increíble porque en las pláticas de ellos 1 que medio le conoce pues bueno empieza a ver cómo piensan, cómo cómo estructuran, qué herramientas utilizan, que eso es lo que más me interesa a mí ¿No? Ver cómo las utilizan, que te enseñen también y que reboten de ellos ideas te abre la cabeza, pero juntar devs con con con ideas, o sea, con creadores, con con empresarios, con gente que trae apps por por ahí en mente y es algo que vi con lo que hizo Sol. Mel de frutero. Si no conocen a Frutero eh por ahí por ahí voy a estar chileando mucho frutero. Es una comunidad de developers que está en México que tiene gente súper crack y que está ayudando a mucha gente a aprender sobre estas tecnologías. Ellos hicieron una dinámica ahí en el Hackathon donde la gente que no tenía equipo decía qué es lo que podía ofrecer.
+
+[Speaker 3 - 01:13:44]
+La gente que traía ideas. Se paraba en frente de todos a decir su idea y los demás escuchábamos atentamente. Ahí su subió sol, ahí platicó sol, ahí la escuchó Franklin, ahí la escuchó Yulieta, ahí la escuchó eh el video por ahí está en Twitter y en en Instagram y gracias a eso la escuchó Mel, la escuchó creo que estaba también Carlos, creo que estaba también Giestro, la escucharon los devs y se le acercaron y dijeron oye, si te animas a hacer algo así, aquí estamos. Y Julieta y Franklin por ahí empezaron a mover y necesitaban un dev y por X0Y yo alcancé a escuchar que necesitaban un dev y les dije que yo podía hacer código y me metí y hice código ganamos, etcétera, etcétera, etcétera. Pero fue la oportunidad de juntar a toda esa gente en un solo lugar durante varios días a convivir, agarrar el pedo, a ir a bailar, hubo una fiesta loca, hubo días y días enteros donde podíamos quedar a dormirnos en el espacio trabajando, hubo mucha convivencia que es lo que estoy buscando yo acá en Monterrey y eso aceleró y ha acelerado y estoy seguro que pueda transformarse después de ese evento porque ya la gente local conoció sobre las tecnologías y ya tiene contacto súper súper poderosos que los va a poder ayudar a desarrollar lo que gusten.
+
+[Speaker 3 - 01:15:01]
+Entonces creo que va creo que ahorita el enfoque obviamente que tenemos y que tuvimos el año pasado fue ese eventos. Eh vamos a continuar los jueves acá pero pues vamos a buscar ser algo mucho más grande. Por ahí creo que sí ya lo ya pedí permiso y me dijeron que sí podía platicarlo. Me me me me me me quise involucrar en el tiro de México desde hace mucho y levanté la mano y les avisé oye aquí estoy lo que necesiten. Y me habían ya entrevistado un par de veces y entré ya con ellos a ser parte del equipo hace pues un par de un mes más o menos entonces pues estamos ahí moviendo muchas cosas la verdad la manera en la que se están ellos administrando está súper cool, estoy aprendiendo un chorro eh a a es algo que vamos a a ver cómo replicamos acá en Monterrey para utilizar más las herramientas blockchains para para todo el tema de gobernanza. Eh ya les estaré platicando pero gran parte de lo que queremos hacer con esos grants pues es eso ¿No? Esas herramientas que nos permitan eh premiar a la gente que está ayudando a través de rondas de fondeo ya sea de PGF o con tokens propios o con diferentes cosas que podemos hacer pero pero pero sí la verdad estoy muy involucrado en eso y el enfoque va a ser en eventos grandes, masivos donde podamos reunir 500 personas para arriba como el Hackathon que sucedió en Puebla que la verdad creo que transformará esa ciudad definitivo o sea si si si Blockchain Lan transformó Monterrey y el ecosistema y las comunidades en Monterrey estoy seguro que lo mismo va a ser el Hackathon allá en Puebla y lo mismo van a ser los demás eventos que estamos ya planeando para organizar este año.
+
+[Speaker 10 - 01:16:50]
+Sí, mira, yo te recomiendo, no sé si qué tanto disponible estés o cuánto botcher tengas, pero si puedes irte a East Denver, te lo recomiendo muchísimo porque creo que otra dimensión aparte de que haya mucha gente y que haya gente de calidad, es que haya dinero, entonces developers con dinero le da otra dimensión a muchos de estos eventos, Yo que viví en Ámsterdam bastante tiempo, muchos de los eventos eran por gente que estaba creando, que decían mira vengo de la oficina, voy a dar mi plática y me regreso a la oficina y por lo y si hay 2 gentes, 3 gentes interesadas, pues vénganse conmigo porque las entrevistamos y los contratamos en el spot si si es que dan el el el el, ¿cómo se llama? El ancho porque definitivamente estamos contra reloj, entonces esa sensación o esa vivencia, pues realmente es una dimensión que aquí en Latinoamérica no se tiene, so si tú pudieras verlo YYYYY te diera ese bug, ese chip, sería interesante porque mucha de la lana es realmente más fácil de lo que piensas traerla aquí, pero se necesita hacerlo.
+
+[Speaker 10 - 01:18:00]
+Entonces, por eso East Denver es una buena referencia porque ahí obviamente llega mucho VCY llega mucha gente que ya está trabajando con budgets YYY pues traerlos aquí también sería, o crearlos aquí sería algo interesante.
+
+[Speaker 3 - 01:18:16]
+Definitivo, definitivo es algo que muchas comunidades estoy viendo que se están enfocando, a fondear a gente que vaya a estos eventos enormes como Dev Connect allá en creo que Singapur ¿No? Por ahí está espacio cripto. MX MX Boutre nosotros nos vamos a montar en ese tren también. Sé que Money eh Nación Bankers está también ya en ese tren de de de ayudar a mucha gente a ir a estos eventos globales mundiales es algo que tú me has dicho muchas veces ya Yeisa y estoy totalmente de acuerdo o sea necesitamos empezar a ir a estos a estos a estos monstruos a conectar con esas personas que traen lana, que traen influencia, que traen conocimiento técnico y que tienen a lo mejor más tiempo en el ecosistema que muchos de nosotros para empezar a construir con ellos o ver cómo colaboramos. Entonces sí, definitivamente el enfoque es sí traer eventos acá de México pero también que la gente de aquí vaya a esos eventos mundiales enormes que que que yo he visto cómo le cambian la vida y me han platicado muchas personas, ¿no? Por ahí vamos ahorita con René y también ya subió Ale, Ale Marín, creo que está teniendo problemas de conexión, pero nos va a platicar justamente de otro evento que ella está realizando allá en México.
+
+[Speaker 4 - 01:19:26]
+No, está prendo buena la conversación. Justo ahorita tocando ese tema de los eventos, de verdad que creo que, digo, nos ha nos ha pasado, digo, la verdad es que conocerte, a ver, déjame reunir mis ideas, mi tarea me me la hace siempre, pero a ver, empezamos con una. Creo que justo en este momento del en el ecosistema mexicano están pasando un montón de cosas, un montón de gente que ha construido comunidades y como en el caso tuyo, llevando las comunidades a a otro nivel. Siento que estamos como cerrando filas, siento que es como que la gente está colaborando más que nunca y se huele el el el bull, ya está aquí casi casi. Ya pasaron los 50 en bitcoin, entonces creo que lo que toca es algo muy interesante, es no solo pensar en en chiquitos, sino más bien pensar en a nivel global, cómo desde desde Latinoamérica podemos construir cosas bien grandes, y Alex es justamente ahorita que suba, que puedas volver a subir a hablar, es es la la la viva imagen de eso, ¿no? De un de un proyecto cómo puedes hacerlo mucho más grande.
+
+[Speaker 4 - 01:20:27]
+Ya lo que iba es que lo que te iba a decir, Nancy, ¿por qué no traemos MX Web 3 acá a Ciudad de México? O sea, ¿por qué no hacemos? Digo, no no es necesariamente ahorita, pero ¿por qué no visualizamos más en un futuro corto plazo, armar un hub de este lado también? Pues, digamos, hay que hacerlo.
+
+[Speaker 3 - 01:20:49]
+Sí, sí es algo sí es algo que te soy sincero me me me han me han preguntado y me han sugerido ahora que estuvimos acá en Monterrey que vino la gente de que vino la gente de ay perdón se me cayó nomás deme un segundito, me lo agrego, le agregué también aquí a al ramo de Cojosco. Perdón, ahora que vino la gente de de de Tijuana, la comunidad de allá que se llama Soreivi, nos nos justamente nos dijeron eso oye ¿Qué te parece? ¿Por qué no arrancamos algo acá? Eh y la verdad lo consideramos mucho pero aquí está Vere del equipo de liderazgo de la comunidad de MX Web 3 YYY no me dejarán mentir como platicamos de estas iniciativas de estas propuestas pero te soy sincero, o sea, la verdad es que cada 1 de nosotros trae un chorro de cosas y creemos y sentimos que todavía nos falta mucho por hacer aquí en MX Vueltres para tener algo ya bien establecido, una buena agenda de una buena dinámica o procedimientos. Acabamos de firmar hace unas semanas el el el acta constitutiva para hacer una asociación civil y creo que hoy íbamos o iba Gerardo 1 de los otros miembros a a del SAT a darnos de alta o sea sí definitivamente René me encantaría tener y Beto saber se puede llamar como quieran ¿No?
+
+[Speaker 3 - 01:22:01]
+Este pero les podemos dar toda la infraestructura para para para que hagan algo parecido o que se llamen también MX Bo 3 si si si quisieran ¿No? O sea hay hay muchas maneras de manejarlo YYY sí definitivamente está en nuestros planes. Vayamos platicando cómo, vayamos platicando cómo, o sea ya me han visto, yo estoy bien loco, yo yo yo yo me trato de o sea acelerar, acelerar, acelerar como dé lugar con memes, con peleas, con drama, con lo que sea, todo suma, este pero vamos con las manitas, pero primero quisiera darle la bienvenida y que se presente, Ale Marín que está por acá con nosotros, invitada de lujo. Una disculpa Ale pública aquí con toda la banda que está este por porque teníamos planeado este espacio el jueves pasado. Eh te había yo invitado pero estábamos allá en en en Puebla YAA mí se me ha olvidado que teníamos el espacio para hablar de la ronda de fondeo de la cual he estado platicando y la verdad, pues, te tuve que cancelar, una gran disculpa, pero estamos aquí, ya tienes el evento próximamente.
+
+[Speaker 3 - 01:23:03]
+Preséntate, porfa, y platícanos un poquito, ¿cómo andas? Bien, ¿eh?
+
+[Speaker 6 - 01:23:09]
+Dale, buenísimo. Gracias, Mexi. Primero, nada, felicidades por las API de CV que están haciendo con el Xbox 3. Es muy importante también constituirse legalmente para que, digamos, las generaciones pasadas es cuando en realidad venimos a crear nuevos espacios, no necesariamente para sustituir los anteriores, porque hay cosas que funcionan de antes, hay cosas que te dan legitimidad, como por ejemplo estar constituidos ante la SER como una SAP y SD. Así que felicitaciones por eso. 0 drama con respecto a lo del Space, de hecho el la semana pasada estábamos por por Tulum haciendo evento en Tulum, que fue la NEARKOMF TOA en inglés. Así que estuvimos muy a 1000 también. Bueno, sin más preámbulos, me presento, soy Ale Marín, soy creadora de contenido, más que nada youtuber, ¿puede ser? Hola. Y ahora mismo me encuentro en la Torre BBVA, en el piso 33, donde va a ser NerComb, la conferencia Nerd Latinoamericana de la que soy co founder. NerComb es un espacio donde las comunidades web 2, web 3, los D, la gente de marketing, áreas blandas y áreas duras, se encuentran en un espacio del medio para hacer sinergias.
+
+[Speaker 6 - 01:24:19]
+Porque muchas veces pasa que en este mundo tan hipersegmentado por los algoritmos y por los nichos y por la comunicación en general, que lleva un montón tecnológica, se necesitan espacio donde nos podamos cruzar. De hecho, es súper interesante porque ahora mismo en la torre BBVA hay un evento sobre seguros, así que si le gustan los seguros pueden venir al evento. Invitá a gente de los seguros al evento del jueves y el viernes, pero sí, el jueves y viernes vamos a estar haciendo nerdconf acá en en Ciudad de México para poder conectar a la mayor cantidad de comunidades posibles. Viene gente que es fanática del notion, viene gente que trabaja en Amazon, viene gente que trabaja en Mastercard, viene gente de BBVA, viene un montón de gente de muchas blockchains. Tiene gente que está montada sobre Lightning, montada sobre Solana, montada sobre Ether. Así que estamos súper contentos con la convocatoria, porque también es importante que nos crucemos, hola, en un espacio donde se pueda dar el intercambio.
+
+[Speaker 6 - 01:25:22]
+Está buenísimo ponerse la casaca del equipo, pero también está buenísimo ponerse la casaca del equipo en un sentido más macro, en el sentido tecnológico, y es por eso que creamos la ROM. Y gracias por invitarme a este espacio,
+
+[Speaker 0 - 01:25:40]
+No hombre, muchas gracias Ale por por organizarlo, por por porque te he visto. Le voy a platicar y si quieres que me detenga, me interrumpes, pero desde que empezamos a platicar que me buscaste o que alguien te recomendó. No, no sé cómo cómo estuvo. Pero yo empecé a preguntar, porque cada que hay un evento de estos, yo yo tengo ya mis reservas, les soy sincero. No no si es alguien, si es un evento organizado por gente que que que no conozco, siempre tengo mis reservas, ¿por qué? Porque ya me chingaron una vez y nos chingaron bien feo acá en Monterrey, una persona que venía, que se involucró, que hizo todo, total, los acabó robando de ello. Entonces, empecé a ¿Qué pasó? No sé qué pasó. Bueno, empecé a preguntar sobre el ecosistema, sobre sobre ti, empecé a investigar un poquito de lo que habías hecho. La verdad te vi muy activa en redes. Y te vi lo que más me gustó de de de la dinámica que tú traías, es que te pusiste y te sentaste 1 a 1.1 chorro de banda para platicarles, para explicarles, para decirles. Es algo que no había visto, este, en realidad de de de ningún otro evento por ahí.
+
+[Speaker 0 - 01:26:40]
+Entonces, se me hizo bien interesante la manera en que empezaste a conectar con la gente, empezaste a hacer las relaciones y ya luego te vi en espacios y te vi por todos lados, dije, no, esto va bien, esto va chido. Ahora que organizaron el evento allá en en en Tulum, también lo vi muy muy padre con gente, pues, con mucha influencia del ecosistema. Vi que también se estuvieron divirtiendo mucho, qué chido. Y y me encantaría poder estar por allá en Ciudad de México. Creo que no voy a poder. Todavía ando bien, todavía ando viendo, pero se me hace bien complicado, pero pues, mucha suerte, Ale. Y Ojalá todo mundo pueda asistir, y la verdad qué padre, ¿no? Que te sientes con toda la banda a platicarles de tus proyectos y que los invites, y que tengamos también oportunidad de de de ayudarte a difundir YYA regalar boletos. Porque por ahí tenemos boletos, y si alguien quiere asistir, pues échenos un mensajito directo para para hacerles llegar su su su pase y que puedan puedan puedan venir sin ningún problema. Este, ¿tú cómo has visto el el el ecosistema acá latino mexicano y toda esta gente con la que platicaste algún contratado y cómo crees que te va a ir en el venta?
+
+[Speaker 6 - 01:27:48]
+Primero que nada, quiero decir que nos acercamos a a cada 1 porque realmente somos gente nueva y como decís vos, en el mundo cripto, y yo creo que también en el mundo web 2, estamos acostumbrados a a que te timen de alguna forma. En cripto por ahí ahora está más visible porque hay mucho más amarillismo sobre el tema, pero en web 2, ¿a quién no le llega phishing 2 por 3 de dale clic acá, de que Mercado Libre te dé una gift card, de que no sé qué, entonces las becas no existen en todos lados. No solo en el mundo web 3, que eso me gusta resaltar lo siempre que puedo, porque si no es como que el amarillismo gana, chicos, no dejemos que eso pase. Pero sí, la cuestión es como que somos nuevos y dije che tendríamos que conectar con todos los que están allá, porque la verdad que si yo llego y digo me proclamo como la nueva
+
+[Speaker 4 - 01:28:39]
+líder de de una tierra que no es la mía, malísimo, aparte tampoco quisiera ser vista como la
+
+[Speaker 6 - 01:28:44]
+líder, y menos en una tierra que no es la mía. Entonces, me parece que contactando a las comunidades y haciendo ese 1 a 1, se logró como ese sentido de compañerismo y de horizontalidad que queríamos lograr. Porque Nercom no no somos solo yo y Tommy. Nercom somos yo, Tommy y todas las comunidades que nos acompañan, porque al final y al cabo, sin las comunidades no somos nada. Y las comunidades, como de siempre con Tommy, como que charlamos sobre esto, de que hay 2 tipos de personas. Una, en el mundo tech, que es la más tranquila y la que trabaja por ahí en el mundo corto, pero se queda como en esa burbuja, ¿no? O emprende, pero solo se queda con su mundo freelance y no hace mucho más, prende la compu, se conecta y se va. Pero también descubrimos que después están las gentes, las personas, digamos, los builders que viven construyendo. ¿A qué me refiero con esto? En las comunidades usualmente la mayoría de los perfiles son activos, si estás en la comunidad siempre estás aportando algo y esa es la gente que está construyendo el mañana hoy, la gente que está activando y que está haciendo cosas en equipo.
+
+[Speaker 6 - 01:29:53]
+Sí, obvio, más adelante probablemente existan unicornios con de de una sola persona porque la inteligencia artificial eventualmente podría llegar a ser así, pero sin los humanos de atrás. Esa inteligencia artificial ni siquiera va a ser tan buena, entonces la comunidad lo es todo y más en en este mundo post pandémico ¿no? Donde nos dimos cuenta que que la la gente, el compañerismo, el contacto es tan importante. También por eso en Aircon no es algo meramente virtual, sino que te hace salir de tu casa y conectar con los demás en vida real, porque, y esta es una pregunta que le extiendo también a a los demás que están escuchando, ¿hace cuánto no se toman un café con alguien para hablar de lo que hacen? Un montón de tiempo probablemente, un montón de tiempo. Entonces, ¿ahí si me escucha ahí? Porque si me saco la letra. Sí, entonces te lo voy bien.
+
+[Speaker 2 - 01:30:47]
+Bien perfecto. Entonces
+
+[Speaker 6 - 01:30:50]
+como siento que las comunidades logran hacer eso YYA través de ellas logramos llegar al público que nos interesa, que son la gente, las personas que están haciendo. Y también ver con al menos acá en Ciudad de México, que estamos probándolo y la verdad que viene saliendo súper bien, va a ser por invitación de ahora en más, para que solamente las personas que realmente están activas en las comunidades o las que se mueven para conseguir un código vengan. Porque me encanta que que pueda venir todo el mundo, no digo que no, pero también me encanta de que hagan un esfuerzo para poder venir y que valga la pena. Entonces cuando vos llegás sabés que todos pasaron por lo mismo, en medio que ya ya eso te hace en algún nivel ser medio amiguis y en Aircons te recomendamos además, o bueno, te prometemos que al venir vas a conocer mínimo a 30 personas nuevas con los juegos que jugamos. Entonces eso es un muy buen lugar para hacer networking y los perfiles de las personas que vienen son super high high profile y ver y interesting.
+
+[Speaker 6 - 01:31:56]
+Se me pega el inglés de Tulum, pero sí.
+
+[Speaker 0 - 01:32:01]
+Muero muero de FOMO, ¿me escuchan? Creo que sí, muero de FOMO. Acá traemos un chorro de cosas. Como les decía, salió lo del el API de música y todo. Bueno, bailemos. Te confirmo en estos días, Ale, ojalá podamos seguir, me encantaría. Pero sí, muchas gracias por organizarlos. Sé que va a estar increíble. He visto cómo esas dinámicas le ayudan a la gente a conectar de una forma bien divertida. Y no me lo quiero preguntar. Moni, ¿vas a ir? ¿Cómo ves? Nerdconf, ¿te animas?
+
+[Speaker 8 - 01:32:34]
+No puedo, pero va a ir mi equipo. Va a ir sí va a estar tipo de conexión, pero yo en lo personal no puedo. Pero no, ¿sabes qué? Me ha encantado, me ha encantado cómo lo ha manejado Ale acercándose a las comunidades, platicando, viendo qué funciona, qué no. Sé que el evento en Tulum fue un éxito. Felicidades Ale, nos nos está encantando trabajar contigo.
+
+[Speaker 6 - 01:32:57]
+Muchas gracias y también gracias por por confiar en mí y en Tomi y en el proyecto porque realmente
+
+[Speaker 4 - 01:33:05]
+sin
+
+[Speaker 6 - 01:33:06]
+sin ustedes no no somos nada. Esa es la verdad. No solo en Nerdco, sino que en la tecnología en general. O sea, un equipo con solamente un comunicador no puede lograr mucho, pero un equipo con un comunicador y un debe puede lograr algo más. Un equipo con un comunicador, un debe un project manager, puede romper más barreras incluso. Entonces, siento que la verdad estamos súper felices como con el recibimiento que tuvimos y también con las métricas que vamos teniendo hasta ahora. Como en Argon somos muy de, ya que voy a hablar un poco de género, pero somos muy de siempre invitar mucho a las mujeres, porque nos damos cuenta de que en los eventos tecnológicos suele haber como una brecha, digamos, como 2 de cada 10 personas que se acercan al evento son mujeres y el resto hombres. Entonces, en Norcombe nos encanta imitar también, no solo a las comunidades mixtas, sino que también a las comunidades de un género solo, como bien pueden ser las femeninas.
+
+[Speaker 6 - 01:34:06]
+Y sentimos que estamos muy bien. 4 de cada 10 personas que viven en el Orcon son mujeres y es una métrica que me encanta decir. Y el 50 por 100 de los speakers son mujeres. En Perú todas las speakers fueron mujeres. En Tulum, 3 speakers fueron mujeres, y acá en México estamos casi también un 50 50. Pobre, te tienen que confirmar una más, como veía. Y estamos súper contentos con esa métrica, porque parece que no, pero a veces la tecnología tiene como un sesgo de género. Últimamente, en el último tiempo vemos más chicas que están estudiando ingenierías y que se están dedicando a la tecnología, y somos muy vuelco las mujeres que estamos adentro, YYY me encanta hacer como parte también con Arkonf de de esa ola de chicas vengan. Pues Nos parece muy importante que estén entonces, gracias a las chicas por animarse a venir, muchas veces no es como un lugar cómodo tal vez llegar solo a algún lugar. Esto también le pasa a los hombres, ¿no? Como llegás solo a un lugar y tenés como que hablar con todo el mundo, pero gracias a todos los que van a venir solitos y se van a acercar a acá, les prometo que que aunque vengan solos os va a ir a pasar la joya, va a haber un montón de juegos súper divertidos, va a haber comida súper rica, y si no quieren venir por nada de eso, vengan porque la vista es espectacular, o sea, está súper céntrico el lugar, es en la Torre BBVA durante todo el día del jueves y todo el día del viernes.
+
+[Speaker 6 - 01:35:37]
+Hoy va a salir la agenda, así que chequéenla. La Torre BBVA piso 33 además. Entonces, si no querés venir ni por la comida ni por la agenda ni por los juegos, vení para sacarte una foto acá porque está buenísimo. Esta va a ser tu excusa. Así que súper emocionados y ahora ya respetando los últimos detalles, así que quien no tenga una entrada me avisa o habla con Mexi o habla con Mónica o habla con con Cande, que de hecho va a estar de speaker en en un panel súper interesante que va a ver el jueves. Cande de criptogrange, ahí está Cande punto lens. Así que nos vemos prontito. Pidan las los códigos si no los tienen, que cualquier persona se los puede dar.
+
+[Speaker 0 - 01:36:22]
+Ale, muchísimas gracias. Si tienes un poquito más de tiempo, aquí estamos todavía. Me gustaría hablar de de de una o 2 pláticas que vaya a dar la banda. Pero, te digo, ese ese edificio tiene un chorro de historia. Ese edificio ayuda a un chorro de eventos web 3, web 2. Ese piso en específico, costeó el el la inauguración de la colección de sub 100 k de Ordinals, por ahí Wendy, que no la veo conectada pero súper crack. Si no siguen a Wendy, ahorita les voy a retuitear un tuit de ella, trae por ahí una iniciativa bien padre, este, de la tiendita, pero bueno, ella nos ayudó a conseguir inaugurar la colección subfinka de Ordinals ahí en ese piso, en ese edificio, en esas pantallas. Este, la verdad ese edificio y ese piso y esa torre ha ayudado mucho a construir muchas cosas y qué bueno que estén ahorita participando ahí con ellos, este, con ellos, este, mucho mucho la verdad lo que han apoyado. Sol, por ahí levanto la manita. Si quieres dale dale dale y luego con Sol.
+
+[Speaker 2 - 01:37:20]
+Nada, quería preguntar quiénes eran las speakers mujeres que van a estar en la Lercof.
+
+[Speaker 6 - 01:37:25]
+Así las exponemos, o sea, las decimos que está bueno eso también. Bueno, mirá, acá ahora no tengo la agenda a mano, pero te puedo decir un par de nombres que recuerdo que están. En el panel Cristo, más que nada, tenemos 2 súper estrellas. La primera, bueno, Cande de Cristobranch. La segunda, Wendy, que estuvo trabajando en un montón de lugares del mundo siendo community builder, viviendo en Dubái. Bueno, Cande que también hace un relaburo, se remueve, tiene súper espacio, que se conecta siempre un montón de gente, y siento que es una comunicadora del carajo. Perdí la cuenta de cuánta gente se registró con el código de KriptoBrange, o sea, siento que tiene mucho aguante por lo prolija y y lo talentosa que es. Así que ellas 2, por un lado, las tenemos en el panel de cripto. Después tenemos a Pamela Fraustro, que es ciego, de chino en español, que es una academia de chino, que pareciera re ¿cómo? ¿Por qué una academia de chino? ¿Por qué en Asia hay un montón de posibilidades emergentes para hacer negocios?
+
+[Speaker 6 - 01:38:27]
+Hay un montón de empresas que están llenando para allá y no queríamos la oportunidad de perder la oportunidad de que alguien nos venga a contar che, en China está pasando todo esto y yo te puedo decir un poco más cómo instalarte allá. Entonces ella va a venir a contarnos un poco sobre qué está pasando en China y cómo es la cosa que era emprendedor allá, que parece súper interesante porque saber es poder. Después tenemos también a Ana Karen Ramírez o Karen Ramírez, en realidad yo siempre leo el nombre largo y tal vez queda muy formal, pero es la CEO de Epic Queen. Probablemente acá mucha gente la conozca. Karen también, la rompe. Hablé con ella. Justo se me había quedado la la llave de mi casa anecdótico, ¿no? Teníamos reunión y me quedé afuera de mi casa y tuve que tener la reunión con ella en el pasillo de mi departamento mientras esperaba al al chabón que te abre la puerta cuando no te dé la llave. Bueno, ella va a hablar sobre cómo detectar mercados emergentes cuando nadie entiende de mercados emergentes.
+
+[Speaker 6 - 01:39:30]
+Ella fue súper pionera en todo lo que fue start ups acá en México. Ella tenía un start ups cuando nadie tenía start ups. Entonces, como la invitamos para que venga a hablar sobre cómo es ese proceso de descubrir algo emergente y cómo lo vendés. Muy similar a una charla que tuvimos allá en Argentina con Irene Presti, que es la ex presidenta de la Cámara de Impresentes de Argentina, que que es el evento más grande del impresas de Internet, bueno, para contar brevemente Irene hacía servicios de mail y hacía páginas web en el 98, ¿entendés? Cuando tipo 4 personas sabían lo que era Internet, como para que te den idea, o en el 2000, ¿entendés? Como tipo súper súper avanzado. Y tenemos después otra speaker que ahora no me acuerdo el apellido, que se llama Carolina, que trabaja en Parquetech, que es una incubadora de startup de un fondo de inversión que se llama InvertApp, fondo que va a estar desjurado en el Pixái, que después le cuento un poco más sobre eso. Carolina va a estar hablando sobre cómo levantar capital.
+
+[Speaker 6 - 01:40:34]
+Va a haber varias charlas sobre cómo levantar capital porque va a venir un unicornio también y va a haber alguien que va a hacer fan racing específicamente y contar su historia, pero Carolina va a estar como muy enfocada en levantamiento de capital y financiamiento. Así que va a estar súper interesante. Y si les gusta la plata tanto como a mí, vengan el viernes, porque el viernes a la tarde, a las 7 de la tarde, está el pitch day. No, mentira, es un poco más temprano, a las 5 de la tarde, es el pitch day. Y en el pitch day pasa que juntamos a todas todos VC e inversores de acá de México para conectar con proyectos que están en estadio inicial o en etapa presied. Así que bueno, más o menos eso van a ver en Mercom y eso es en alguno de los perfiles. De hecho estamos viendo, todavía no me he sentado los pitcheboy, los vamos a terminar de confirmar hoy, pero la idea es que también picheen 50 50 las personas que vengan a la fecha, que sean 50 por 100 hombres y 50 por 100 hombres.
+
+[Speaker 6 - 01:41:35]
+En Perú eso no nos salió porque por alguna razón se postularon todos hombres y me dio bronca porque que todos los están las chicas. Así que voy a tratar de que eso no pase a través de México. Pero sí, eso es eso es más o menos los perfiles que van a venir a a dar una charla estos
+
+[Speaker 0 - 01:41:57]
+días. Oye Ale, yo soy súper fan de las de las 3 personas que mencionaste que están en la web 3, Cande, Gwen y Ana Karen. Increíble, están años. Gwen, Ana Karen, a Cande la conocí un poquito más recientemente, pero creíble lo que hacen y cómo suman al ecosistema y las comunidades que han construido. Y el onboarding que han hecho. Híjole, qué chido, qué chido que van a traer. A ellas te recomendaría a Lu que veo por acá abajo si necesitas algo legal. La Lu, súper crack y Sol si necesitas a alguien de música también que por aquí anda en Monterrey que, pues no sé, pero bueno, Sol querías decir algo, bienvenida, échale.
+
+[Speaker 2 - 01:42:41]
+No, la quería felicitar a a Ale por el por la labor. Yo no sabía nada que que era 50 50. Me parece súper buena la inclusión. Yo tengo tengo la suerte de que en los en los talleres que doy también se postulan muchas chicas y eso me encanta. De hecho gente que el trabajo que están haciendo también justo ahora vamos a a tener el el método
+
+[Speaker 0 - 01:43:39]
+Yo yo yo escuchaba a Sol, porque la tengo aquí al lado, no sé si ustedes escucharon la última parte.
+
+[Speaker 4 - 01:43:44]
+No, no, yo pensé que me había arrugado yo, pero no. No sé, la perdimos después de la inclusión la perdimos. No
+
+[Speaker 0 - 01:43:51]
+se escuchó Saúl, pero yo sí la escuché y les les puedo comentar y si quieres solamente puedes acercarte a platicar aquí con porque ellos están va y vienen sus ternets y el mío está como que más estable. Este, pero te te decía que muchas felicidades Ale por por todo lo que le platicaste, que que está bien contento de que estuvieras empujando el tema de las mujeres. Yo es algo que en lo personal tengo tengo también mucho enfoque YYY porque creo yo que es la manera más rápida de bordear a 1000000 y 1000000, ¿no? Disminuyendo esa brecha de género que que sabemos que existe. Y también que definitivamente si queremos que estas herramientas que estamos construyendo no vengan con sesgos, pues necesitamos a todos en realidad opinando y construyéndolas, ¿no? Me me me pone súper contento que gente como Bridchis, como Ale, como Lau, Namu, como como como Money, como Lu, Caro, o sea, me pone bien contento tener a artistas, a comunicadores, a comunicadoras, a personas que están haciendo empresas, este, mujeres apoyando a equipos de mujeres, Porque de nuevo, es la creo yo la manera más rápida de abordar a 1000000 de personas este ecosistema y también de que en realidad construimos herramientas para todos, ¿no?
+
+[Speaker 0 - 01:45:07]
+No para algunos. Moni, ¿qué opinas? Échame.
+
+[Speaker 8 - 01:45:11]
+Sí, perdón, me había caído. No, yo creo que yo quería además comentar algo que dijo René hace rato, pero quería felicitar a Ale, pero también lo que mencionas, para mí ha sido increíble desde que la el nos enfocamos en en sumar a más mujeres a este espacio. Me ha encantado también ver la trayectoria, tú ves a Brisis, a Ana de Arbertrum, ves a la a Namu, a Teresa, este, ves a Caro, ves a de, es increíble ver cómo tanta mujer está liderando en este espacio y a mí en lo personal me da mucho orgullo, y por eso me encanta que al este abriendo estos espacios también para que eso se vea representativo en los eventos donde sabemos que muchas veces ese no es el caso, y es algo por lo que estamos nosotros luchando mucho, y yo creo que siempre hay que decir sí, hay conferencias, 50 por 100 de los que hablen deben de ser mujeres, y que no haya paneles que sean solo hombres. Creo que yo esos esos son puntos importantes y como hombres también decir, ¿y dónde están las mujeres si ven que no hay representación? Y Maxi, yo sé que tú apoyas mucho eso y que has trabajado mucho en eso, pero también les doy el reto de que también ustedes pregunten si ven que no hay mujeres representadas, porque no hay falta.
+
+[Speaker 8 - 01:46:22]
+Nosotros ahorita estamos la armando la lista de mujeres de Web 3, otra vez para el Día Internacional de la Mujer, y no sabemos qué hacer, porque ahora sí que hay muchísimas y es increíble verlo. Pero antes de que veo que todo el mundo alzó la mano, rapidito, yo creo que otro punto súper importante que todos tenemos que recordar es, América Latina lidera en adopción de cripto. ¿Verdad? Somos la séptima región con más adopción, pero solo tenemos el 6 por 100 de los developers, de los desarrolladores. Eso es algo que tenemos que crecer, y yo creo que por eso me encanta la la colaboración que estamos haciendo con muchas comunidades, como la iniciativa del de Arvertrom, porque tenemos que sumar y crecer ese número. A mí me encantaría que el año que entre dijeran creció a 10 por 100 el número de developers de América Latina.
+
+[Speaker 6 - 01:47:16]
+Re, estaría buenísimo. Bueno, tomo la palabra porque no sé si salga más de valor, pero sí, me me me re parece increíble que además en un lugar como México esté pasando esto. Vos me decís que somos del 6 por 100 del mundo y y me parece una locura, o sea, el 6 por 100 de todos los de toda la adopción que hay. Entonces, imaginate cuando podamos unir con puentes todo el resto de los continentes con América Latina a nivel adopción cripto, eso facilitaría un montón que también podamos hacerlo crecer más rápido. Nerd combs quiere ser en algún nivel ese puente, queremos ser el puente mundial de los nerds para poder ayudar con estas cosas y creemos que cada día estamos un pasito de a poquito más cerca de lograrlo. Porque al final al fin y al cabo, como dice el dicho, si si todos tiramos para el mismo lado, vamos a a lograrlo.
+
+[Speaker 6 - 01:48:17]
+WagMe para los más fanáticos de Walltree, o si son más nafierenistas América Latina unida, jamás será vencida.
+
+[Speaker 0 - 01:48:32]
+No, definitivamente yo he visto una unión increíble estos últimos meses. Y, les soy sincero, liderada por mujeres. Yo veo que gran parte de las iniciativas que hemos visto en el que se llama Web 3 están liderando las mujeres. Y eso me pone superbulies. Y no nada más me gusta hablar del tema de nuevo. Me beneficia, lo he dicho muchas veces, beneficia monetariamente mi bolsillo y que más personas entren al ecosistema y la manera más rápida de que las personas entren al ecosistema está trayendo mujeres. Entonces todos ganamos. Y no nada más de esa manera, sino
+
+[Speaker 6 - 01:49:07]
+además Échale, déjame. Sí, sí, y además no solo como invitar porque nosotras invitamos más, somos muy buenas relacionistas públicas si querés, pero no solo por por esa por esa veta de buenas comunicadoras, sino que también porque tenemos muy buenas ideas. Y vos pensás que mientras más mujeres tengan más ideas y colaboren más en equipo con hombres que tienen muy buenas ideas, mejores productos va a haber. Súper importante. Y yo pienso que hoy hablamos tal vez de inclusión. A mí lo que me parece re loco es que en Argentina siento que desde las desde desde el gobierno inclusive se fomenta mucho el tema de la representación en todos los ámbitos. Y la gente a veces se queja porque, no sé, te ponen un cupo travesti trans para empresas públicas. Y yo me quedo tipo, pero hermano, vos pensás que al principio ni siquiera dejaban votar a las mujeres. Imagínate, ahora que más o menos estamos bien, que todavía hay estas fallas y si alguien te pone una ley, es lo mismo que cuando se inventó el voto, ¿me entendés?
+
+[Speaker 6 - 01:50:09]
+O sea, te está diciendo, el voto obligatorio, anda a votar. Te están diciendo que ahora las mujeres pueden votar, déjalas que voten. Y si están diciendo que tenés que tener un cupo para que eso, eventualmente, para que el cupo no exista, porque ahora se impone en algún nivel que haya un cupo, pero el día que ya esté naturalizado, que es lo que haya un cupo, pero el día que ya esté naturalizado, que es la idea del cupo, ¿entendés? No va a haber más ese problema, y el cupo ni siquiera va a estar, o sea, se va a dar naturalmente, pero para llegar a esa naturalidad tiene que haber algo incómodo que te regule al principio. Que sea como impuesto entre comillas. Yo sé que a la gente no le gusta lo impuesto, pero a veces, hermano, hay que acomodarse. Si vos ves que hay gente a la que no le están dando trabajo por el género, se puede extrapolar hasta que no te dan trabajo por el color de piel muchas veces. ¿Entendés? Sabemos de eso en Argentina, es un país muy racista. La comunidad marrón allá no la pasan muy bien, pero imagínate, sos racista, después con con la diversidad que también queda, necesitas que haya políticas públicas que fomenten esto, y si no hay una política pública, que que el pueblo lo haga.
+
+[Speaker 6 - 01:51:22]
+Muchas veces vas a un evento tech, que porque me pasen y me hablan, que como y ves que la mayoría son tipos de los que hablan, y yo les pregunto, ¿y pero no podría llamar a una mujer? Y le dicen, no, no hay. Eso, y literalmente con Nerconft comprobamos que sí hay. Lo que pasa es que muchas veces no les hablan directamente a ella, y si no les hablas directamente a ella, ¿cómo esperás que te contesten? Ese es el motivo para decir.
+
+[Speaker 2 - 01:51:51]
+¿Se me escucha? Creo que sí no. Sí. Y y no es fácil como como que también, o sea, es como difícil que si vos decís, no, voy a hacer un evento solo para mujeres, es como que ya es un montón. Igual a mí me pasó que justo tengo el privilegio de poder trabajar con Femtech ahora que vamos a hacer el workshop del método para músicos independientes allá en Ciudad de México el mes que viene. Y lo vamos a hacer solo para chicas, porque justo se da que el lugar en donde volvamos a hacer lo llevan mujeres y todo esto. Y y mucha gente se sorprendió cuando se lo dije y al mismo tiempo es que yo no quiero como excluir hombres ni en pedo. O sea, yo siempre tuve la suerte de que todos los workshops que di automáticamente, de manera natural, se dio que 50, 50 fueron hombres y mujeres, eso fue una locura.
+
+[Speaker 2 - 01:52:54]
+Siempre me pasó. Pero bueno, o sea, creo que también es como que es también una responsabilidad de la comunidad, creo un poco, como ser consciente de esto un poquito y poder empujarlo, porque mujeres hay, o sea, hay un montón. Eso de acercarse, como dice Ale, y hacer que suceda, porque la verdad es que concuerdo con que tenemos muy buenas ideas y las cosas funcionan. Ahora para el Hackathon también 2 mujeres y 2 hombres éramos. O sea, Mexi, Franklin, Joey y Julieta y salió tremendo, o sea, ganamos el Hackathon juntos y fue tremendo, ¿viste? En un lugar que de repente la mayoría de de de los grupos eran de hombres, de repente sale algo así y tenés la oportunidad de ganar y decís, bueno, o sea, naturalmente se dio y estuvo ahí y es un modelo, ¿no? Entonces, si cuanto más modelos podemos crear, más creo que se va a naturalizar esto y sin sin discriminar y sin ser como como sin dejar de lado a nadie, ¿no?
+
+[Speaker 2 - 01:54:05]
+O sea, más como por el hecho de que, bueno, si dicen que no hay tantas mujeres, bueno, acá están. Está Ale, estoy yo, está Luz, está Mónica, que que es tremendo también lo que hace. Cande, hay un montón de gente increíble. Inclusive gente que hasta ahí abajo, o sea, si en algún momento necesitan speakers, mujeres acá, esto es un muy buen espacio para encontrarlas y y nada, creo que es una oportunidad web 3 para para poder empezar de nuevo con estas cosas, ¿viste? Que no sea como exclusivo, ¿eh? O que sea más inclusivo, ¿no? Entonces, bueno, era eso, tomá Mexite, pues, el teléfono era eso lo que quería decir todo.
+
+[Speaker 3 - 01:54:58]
+René, ¿por ahí tienes la manita? Échale.
+
+[Speaker 4 - 01:55:03]
+No, justo, digo, sumando al tema es que es súper importante saber, estamos hablando justo de inclusión y de y de diversidad, ¿no? Sin duda es súper importante tener diferentes tipos de opiniones, por supuesto que en la industria tech se sigue manifestando este interés mayormente por los vatos, por los hombres, cis género. Entonces, la verdad es que sí necesitamos justamente estos espacios donde haya diversidad, donde hay diferentes opiniones. Eso hace que construya y que, digamos, llevemos a otro nivel justamente la, pues, lo lo que construirá, lo que construyamos y la comunicación y y por supuesto la cultura, ¿no? Ya, nada más se la parece.
+
+[Speaker 3 - 01:55:49]
+No nada más hay que buscar contar esas historias, hay que meterles lana, creo yo, a proyectos liderados por mujeres. Yo yo yo el exchanges por ahí que que que tenemos ya un rato trabajando, la CEO es Mujeres, Natalia Cueto, muy amiga mía. El otro proyecto que me encantaría apoyar, y aquí lo estoy en un lado, el de sol, liderado por ella, por ahí con Moni, este también me encantaría apoyar todo lo que está haciendo ella, Caro, también por ahí hemos estado apoyando lo que está haciendo ella, creo que hay muchas maneras de apoyar, un like on prequit no cuesta todo suma, pero inviertan, inviertan también en proyectos, inviertan en empresas, inviertan en Compren música. Compren música, compran arte. Hay muchas artistas súper talentosas. Busquen contratar mujeres como Lu, como Miquita, como Vere, como veo aquí un chorro, o sea, pero bueno, nos podríamos extender horas y horas, nos quedan 10 minutitos despacio. Sí me gustaría Chila, Chila. Si leen algo, este, lo que gusten y nos echamos ahí un ransito de de de de de final.
+
+[Speaker 3 - 01:56:52]
+Muchas gracias, Ale, por pasar por acá. Me encantó poder platicar contigo. Lamentablemente sí tenemos mucha mucha mucha chamba acá en Monterrey. Solí yo y no no no no hay manera. Pero próximo evento me encantaría que vinieras a Monterrey a traer nerdcof. Por ahí no sé si quieras pasar el alfa de de de de lo que traemos cocinando acá en Monterrey, este, pero confirmadísimo lo que habíamos platicado y pues sigamos buscando estos espacios que que que se ve que tú traes una dinámica bien divertida para el tema de networking que me encantaría conocer. Hay que replicarlo acá en Monterrey. Porque sí creo que hace falta unir a alrededores web 2 con gente web 3, por aquí abajo está Vere que está participando con con con la gente de Inc Monterrey, que es una comunidad que organiza eventos cada 2 semanas. Entonces meter meter nerd confena ahí adentro con ellos que sabemos que traen 300 personas a cada 2 semanas estaría padre. Hay que ver si si si lo podemos hacer. Ya fuimos a hablar de bitcoin y estuvo muy muy muy chido.
+
+[Speaker 3 - 01:57:55]
+Pero bueno, veamos qué iniciativas más podemos planear y cómo nos podemos seguir apoyando para que sigan habiendo estas oportunidades de conectar a través de estos espacios virtuales. Como este, que a mí me encanta postear los martes y los jueves a las 12, y los físicos, ¿no? Que tenemos, pues, ya saben, los jueves acá en Monterrey y por todos lados son un gusto asistir. El que quiera, yo estoy despidiendo, bienvenido. Destape el micrófono y de chingada.
+
+[Speaker 6 - 01:58:26]
+Dale, bueno, muchas gracias, Mexi, por el espacio, y todavía no tiramos el alfa. Lo que vamos después de Nerton, sí me gustaría decirles que si tienen ganas de ir a Monterrey la semana que viene, bueno, me parece que podría ser un gran plan. Bueno, la cuestión, el Nerconf va a ser esta semana, jueves y viernes. Recuerden que si necesitan un código pueden pedirle a René, a Mónica, a Cande. Veo que hay un par más acá que tiene código también, a Abraham. Y nos vemos el jueves y el viernes para conocer inversores, gente corpo, gente no corpo, gente de B2, gente de B3, área Holanda, área dura, lo que necesiten. Si necesitan empleados vengan, es un buen momento para contratar. Si necesitan que los contraten vengan, posiblemente alguien necesite una mano. Así que los espero, nos veremos acá, va a estar súper divertido, la agenda se postea hoy, así pueden chusmear y ver los perfiles, los tal filazos que van a venir.
+
+[Speaker 6 - 01:59:26]
+Súper entusiasmada. De nuevo, muchas gracias por el recibimiento, por toda la gente con la que conecté, que me dio medio medio media hora de su tiempo para dejarles contar esta locura que estamos construyendo entre todos. Y sin nada más para agregar, gracias, Mexi, por el espacio. Nos vemos después de ayer, viernes.
+
+[Speaker 3 - 01:59:50]
+Muchas gracias, Ale. Última pregunta de mi parte. ¿Cuántos cuántos inscritos necesito con mi link de referido para estar en el top 3? ¿Más de 69 o menos de 69?
+
+[Speaker 6 - 02:00:05]
+Y más de 69, me sorprendería. Después de que alguien les paso una captura pero la primer semana solamente Cande ya tenía como el criptogram ya tenía como 50 personas inscritas a su nombre. No sé, Epic Queen me va a andar por la 70, porque andaban proyectándose un montón con ese código. AntiSAT, primera semana metió 100, así que fijate si podés superar alguno de esos números.
+
+[Speaker 3 - 02:00:32]
+Ok ok, ¿y todavía tienes capacidad entonces? ¿Cuánta gente espera? Mirá,
+
+[Speaker 6 - 02:00:37]
+se registraron ya más de 600 personas, creo, o por ahí andaban como 700 se mandaron, pero tenés que calcular que más o menos un tercio de los que se anotan bien, ¿eh? Entonces suponemos que van a venir 300 personas entre día y día, un poco más, tal vez, depende cuántos anoten entre hoy y mañana, que mañana es el último día para anotarse, así que están avisados. El lugar tiene capacidad para 160 personas en simultáneo, y creemos que para ciertos momentos del día como en Pitch Day o algunos momentos de juegos va a estar súper explotado. Así que lleguen temprano o un ratito antes de la charla que quieran, porque subir también va a ser difícil, o sea, son 33 pisos y hay un control y probablemente haya mucha gente registrándose, así que en la puerta tienen que venir sí o sí con una ID, no se olviden y regístrense, ese ya no se no se registraron porque se van a quedar afuera.
+
+[Speaker 4 - 02:01:40]
+Allá nos vemos.
+
+[Speaker 3 - 02:01:45]
+Está bueno el rato. Bueno, ahorita posteé algo, a ver cuántos reunimos, a ver a ver qué tanto esta nueva cuenta con el alcance tan pedorro que tengo. Aunque bueno, mucha onda ese conector, de todas maneras, qué chido. Ahí voy creciendo poco a poco. Este pero y gracias a todos por estar por aquí pero bueno déjame postear algo a ver qué qué podemos hacer ahí para darte ese último puboncillo y que sea apunte un chorro de banda y que tengas una lista de distribución así bien interesante para luego seguir construyendo sobre eso y y que la compartas también. Veamos veamos si podemos construir puntos ahí eso para hacer cosas más grandes, pero bueno. ¿Quién más? Se despide, échenle. Abran. Gracias, Ale.
+
+[Speaker 4 - 02:02:24]
+Chevexi siempre competitivo, cabrón.
+
+[Speaker 8 - 02:02:46]
+Bueno, gracias por el espacio y de nuevo recuerden que si quieren experimentar esta Nonce MX, porque es una de las cosas que vamos a estar haciendo.
+
+[Speaker 3 - 02:03:08]
+Sí. Bueno. El que se quiera bajar chido vamos a hablar un poquito de método. Que se quiera despedir. Nash.
+
+[Speaker 12 - 02:03:14]
+Me despido nada más rápido hermanito. Este muchas gracias a todos y todos los que se conectaron. La verdad es que estuvo muy padre. La neta es que hay muchas cosas que van a venir y pues estén al pendiente ahí de todo lo que de todo lo que iremos flotando. Nos vemos y pues gracias por haber estado aquí un ratote con nosotros y ojalá que vayan viendo más tacos más adelante. Nos vemos.
+
+[Speaker 3 - 02:03:36]
+Nombre, muchas gracias a todos por estar. Vamos con el último chileo del momento y los rogueamos. Pero por X0Y, hoy empezamos en realidad el el el ruido y necesitamos la ayuda de todos. Aquí sí les pido encarecidamente que nos ayuden porque quiero llenar el el taller que da Sol acá en Monterrey, estamos repartiendo becas, queremos que la gran, o sea, que que mucha gente venga y aprenda a tokenizar su arte a tokenizar su su su música a ver como estas plataformas de streaming eh hacen negocio y como podemos nosotros con herramientas Blockchain eh trabajar de una manera muy distinta, cambiar el sistema que vemos musical y la industria para beneficiar a los creadores. Creo que es súper importante que podamos tener estas herramientas que le benefician a los creadores y que les permiten a los creadores tener el control absoluto de lo que hacen y cómo lo comparten y cómo monetizan y Sol trae un taller increíble eh que en en realidad yo este soy el que quiero aprender, quiero tomar ese taller, por eso este eh eh estamos aquí hablando de este tema y sí quisiera que nos contara ella pues lo que le ha tocado hacer y cómo lo lo ha manejado y qué qué podemos ofrecerle a la gente que tome el taller la próxima semana.
+
+[Speaker 3 - 02:04:55]
+Estuvimos ya en el barrio Tigo buscando artistas independientes. Fuimos por ahí AAA escuchar a algunos que estaban ahí en la calle, otros que tocaron en el en el Cafeiguanas y en otros bares y pues tenemos una labor fuerte por delante. Mañana íbamos vamos a ir a volantear a escuelas de música. Eh ya imprimimos por ahí los los flyers que diseñó el buen coderal y pues la idea es llenar acá el espacio tener actividad en MX Web 3 que la gente conozca que haya una comunidad, que haya un espacio físico eh también vean y conozcan el el green room, el estudio que tenemos para para que vengan a grabar. Por aquí ya lo estrenamos con el primer video que utilicemos para participar en la aceleradora de Avalanche. El 18 de marzo nos dicen si entramos por ahí en la aceleradora, así que habrá noticias. Pero sí, queremos queremos obviamente que haya movimiento, que haya actividad. Tenemos planeado próximamente un evento para devs un sábado.
+
+[Speaker 3 - 02:05:56]
+Y ya van a empezar a escuchar mucho mucho ruido. Y también le vamos a meter la la Anita ahí en Insta para experimentar publicidad pagada a ver si funciona para atraer a gente nueva y ahí le estaremos contando obviamente qué funciona, qué no, que lo apliquen si gustan o lo mejoren y nos retroalimenten. Construir en público me me me apasiona mucho y creo que de nuevo acelera, acelera los procesos. Sol, platíquenos, cuéntanos qué esperamos.
+
+[Speaker 2 - 02:06:26]
+¿Se me escucha? Así es. Así es. Buenísimo. Ah, está apagado ahora. Sí, el el tema de workshop es lo siguiente, yo soy música independiente hace mucho que estoy haciendo música en web 3 y arte, de todo tipo, colaboraciones de todo tipo. Trabajo como community builder también, y como hago música hace más de 10 años, estoy viendo, estudiando todo lo que es el ecosistema de la música independiente en Latinoamérica. Inclusive he estudiado las industrias, o sea, la industria clásica, o sea, cuánta gente en México vive de la música, cuánto ganan por mes, o sea, hice hice una una búsqueda exhaustiva de de números. En Argentina también, y este workshop lo estoy dando desde octubre del año pasado, siempre lo cierro con un festival. El festival lo compone, vaya, el line up del festival, son los músicos que se egresan de este curso.
+
+[Speaker 2 - 02:07:32]
+Básicamente lo que les enseño es web 3 desde 0, pero enfocada pura exclusivamente en los músicos y en sus carreras, dado que tengo conocimiento sobre sobre el tema, y pude adaptar como la carrera de un músico a web 3 digamos, al 100 por 100 o al 50 por 100, ¿no? O sea, la gente que escucha esto muchas veces dice, ah bueno pero vos lo que querés hacer es que nosotros dejemos de usar Spotify. O sea, si un músico quiere ser un artista nativo web 3 o quiere ser un artista web 3 web 2, me parece excelente. El taller no se trata sobre eso en sí, sino darle una herramienta, una posibilidad más a los músicos para que puedan monetizar sus carreras. Les cuento un poco de qué va esto y por qué lo hice. En Argentina, que es el país donde nací, ya podrán deducirlo por mí.
+
+[Speaker 2 - 02:08:33]
+Indecoroso acento. Es muy complicado ser músico independiente, porque no hay plata, y las cosas en Argentina que tienen que ver con música, todo lo que sean inversiones, por ejemplo, los estudios de grabación, inclusive los trámites, los equipos, o sea, los instrumentos, todo esto Todo lo que tiene que ver con música, inclusive los videoclips y todo esto, está está en nos escuchabas ahora, está en dólares. Entonces, dado que esto es
+
+[Speaker 4 - 02:09:54]
+No, están ruqueadísimos.
+
+[Speaker 8 - 02:09:57]
+Ya sé, es como que me están escuchando ay, ahora sí, ahora sí. ¿Me escuchan? Sí. Ya ya ya recruzaste. Eran como robots.
+
+[Speaker 5 - 02:10:06]
+Sí.
+
+[Speaker 2 - 02:10:12]
+Me quedé hablando sola, ¿verdad? Ay, dios mío. Bueno, ahora me escucha bien y la pausaba.
+
+[Speaker 0 - 02:10:21]
+Ya, super bien.
+
+[Speaker 2 - 02:10:25]
+Bueno, entonces lo que decía es, los músicos de repente no tienen recursos para para por ejemplo hacerse un videoclip. Entonces digo yo, bueno, me saco una colección de NFTs y no sé, porque quiero fondear un videoclip, por ejemplo. Entonces, ¿qué pasa? Cuando eso sucede, de repente un músico puede bombardear a sus fans o puede conseguir nuevos fans acá en Web3 y puede llegar a monetizar un poco más que con Spotify, o sea un poco más mentira, 10 x más que con Spotify porque justamente los pagos son sin intermediarios y no necesitas agregadoras, nada, para poner tu música on chain. Y la verdad es que ha dado resultado, o sea, a mí me ha dado resultado. He vendido bastante, o sea, creo que he ganado más que en 7 años, o sea, he ganado lo mismo que una persona que, no sé, tiene más de 1000000 de reproducciones en Spotify. O sea, la verdad es que he visto casos de éxito inclusive, no no solo el mío, no para ponerme solo el ejemplo, sino que hay un montón de músicos latinos que que hiciéramos muchísimo dinero con con NFTs en el bull market, en el bear market inclusive hasta hoy.
+
+[Speaker 2 - 02:11:33]
+Entonces probado esto se me ocurrió hacer un curso y este curso se trata de eso, de poder incluir a más músicos en Word 3, que estos mismos músicos traigan a sus fans a al ecosistema, que los fans puedan también comprar música y también arte u otras cosas, inclusive hacer participar de comunidades de varios músicos. Ya saben las personas que me conocen, bueno las que no les cuento que soy una de las founders de Música W3, que es una comunidad de músicos independientes latinos. Acá arriba tienen piñado algo, de hecho hace poquito sacamos un drop colectivo que son 13 artistas y 8 canciones, que me encantaría que lo puedan chequear acá arriba y que compren algunas copias porque son increíbles los temas, tienen de todos los precios. Y este tipo de cosas, esta comunidad música doble de 3 la verdad que le hace sostén a los egresados de del curso, del método. Inclusive ahí abajo tenemos tenemos unos, un par, que es Duo Doh, que no sé si puedes subir a hablar, pero me encantaría que vengan a a decir qué qué les pareció el curso.
+
+[Speaker 2 - 02:12:39]
+Si están por ahí estaría buenísimo, porque si ustedes tienen, o sea, ya es la experiencia de de un alumno y está bueno eso que que lo digan, y además de que si ustedes tienen amigos que son músicos y tienen ganas de hacerlo, yo en abril voy a hacer también un curso online, y si tienen ahora músicos que, amigos o conocidos, productores y managers también, porque también educó managers, por favor pasen la voz y díganle que existe este proyecto. Este proyecto está en Instagram, se llama el método web 3. No está next porque bueno, me enfoco mucho en gente de web 2. Así que bueno, estaría bueno que si conocen gente en Monterrey, inclusive chicas en Ciudad de México, que las manden para acá porque porque va a estar muy bueno esto. La verdad que ha tenido buenos resultados con el curso, muchos músicos abrieron los ojos inclusive. Hay músicos que de repente no siguieron mintiendo en FTs por ahora, o sea que hace no sé un mes egresaron y mintieron como 2 o 3, pero se han llevado conocimientos de otro tipo también, por ejemplo de derechos, de repente los músicos independientes no saben ni siquiera cómo gestionar los derechos de su música, no saben que tienen que registrarla antes de subirla a Spotify, por ejemplo.
+
+[Speaker 2 - 02:13:56]
+Y esas cosas también son muy valiosas y que también puedan saber que hay un lugar en donde pueden invertir dinero y esto ya es más la parte financiera que es cripto, ¿no? Que de repente muchos no tienen idea de qué es cripto y también lo lo aprenden en el curso. O sea, curso no es para que los chicos salgan haciendo 50 NFTs por mes y que sean millonarios, sino que tengan es la herramienta para que cuando la quieran usar sabiamente o cuando quieran quieran tener una carrera más sustentable, más descentralizada, lo puedan hacer. Inclusive crear comunidades más fuertes que las que pueden crear en Web2, ¿no? Porque hay muchos músicos que de repente no tienen la facilidad de decir che, la verdad voy a pagar publicidad durante 50000 años para que me pongan 50000 likes y bueno siga ganando lo mismo. Pero bueno, o sea tal vez sus comunidades no son tan fuertes porque no saben cómo manejar Instagram, no les sale, no les sale estar exponiendo su vida y otras cosas.
+
+[Speaker 2 - 02:14:57]
+Esto también tiene que ver con los valores, ¿no? De la industria que ahora estamos cambiando como 3, gracias a dios. Así que bueno, sin más le doy la bienvenida a Duo Dog que está acá abajo. Gracias por gracias por estar, no esperaba que vengan. ¿Viste? Soy así medio que no invito a nadie a nada de lo que hago, pero pero me alegra que estén acá y bueno. ¿Cómo están? ¿Qué onda? ¿Qué les qué? ¿Cómo les va?
+
+[Speaker 11 - 02:15:25]
+GM GM Mina San. Hola Sol. Hola a todos. Hola Mexi. ¿Cómo andan? Bueno, Minasan significa todos en japonés, para quienes no nos conozcan. Nosotros somos muy fans de la cultura japonesa, así que bueno, nada, siempre nos gusta salvar de esa forma. Aquí, Clementina.
+
+[Speaker 9 - 02:15:43]
+Y aquí, Santiago. Mucho gusto. Muchas gracias a todos. Gracias, Sol, por invitarnos a compartir esta experiencia con lo que es el método. Yo, por ejemplo, nosotros somos músicos que estuvimos hace mucho tiempo en Web2. O sea, más o menos habremos unos 10 años que
+
+[Speaker 11 - 02:15:59]
+estamos, entre proyectos que hemos tenido la adquisición de Web0, diría yo. No, sí, es la música académica
+
+[Speaker 9 - 02:16:05]
+a Web2, que es la música popular. YYY ahora Web3. Y hemos estado trabajando, por ejemplo, con y con YouTube, con Spotify, las distribuidoras, tratando de de atender. Eso vos hiciste disco físico No, nunca hice, ah, hice disco físico de una manera muy ilegal No vamos a decir nuestras edades. No, de una manera muy ilegal. Claro,
+
+[Speaker 11 - 02:16:25]
+Claro, tipo 1 que hace su cop. Es más Porque como bien dijo Sol, acá todos en dólares, y en su momento las replicadoras de CDs también eran, tenías que hacer tiradas de 1000 CDs. Bueno, ya estamos yendo muy atrás en el tiempo, volvamos a Web3 Y
+
+[Speaker 9 - 02:16:38]
+siempre nos pareció como que estaba bueno distribuir la música de esa manera porque, ¿viste? Tenés estás donde todo el mundo escucha música, sos mundial, podés compartir el link rápido a alguien, pero nunca nos nos sentíamos como, digamos, respaldados. Lo que es las regalías o todo el esfuerzo que 1 depositaba en eso, solo quedaba como una vidriera, que está que está estaba bueno porque te daba por favor, te decía cheve, ¿quién sos vos? Mirá mi video, mirá mi tira en Spotify. Ah, ¿y cuántas de reposición tenemos? No, bueno, tengo tantas reproducciones. Ah, no. Y siempre está eso, ¿viste? El tema de reproducciones, si sos conocido o no. Después también empezá el hecho de che hay que hacer publicidad, porque así los números suben. Y todo ese mundo no no nos cerraba.
+
+[Speaker 11 - 02:17:20]
+Y también Siempre nos nos se sintió muy frío, ¿no? Nosotros aparte veníamos muy de como del vivo, ¿no? De del tocar en vivo, de estar en relación siempre con gente y la música era hacerla, por sobre todo en vivo. Y Y cuando arrancamos en web 2 encontramos esta este tema de bueno, sí, me conecto con todo el mundo, pero al mismo tiempo no me conecto con nadie, ¿no? Y más pasó el tiempo y pasó la pandemia y y todo se volvió como una sobrecarga digital de de de tener que coleccionar números, ¿no? Y hacer que esos números suban y que esos números definan qué clase de artista sos o qué calidad tiene tu arte. Cosa que no no nos gustaba, no nos cerraba, no estábamos de acuerdo. Y en búsqueda de una alternativa a eso, fue que nos empezamos a involucrar un poco en el mundo web 3. Ahí la conocimos a Sol, íbamos viendo lo que hacía de de lejos, digamos, porque todavía estábamos como en otra y y nos gusta como adentrarnos de a poco, pero una vez que entramos, entramos con toda. Y así fue que llegamos a el momento en que ella sacó el método el año pasado acá en Buenos Aires, presencial, a nosotros nos encanta
+
+[Speaker 9 - 02:18:28]
+vernos con la gente, dijimos, es este, es este el momento. Si es en persona, yendo. Primero en la lista, acá estamos. Hola. Y lo que estuvo bueno del método es que todo ese mundo de los NFTs, de música, de todo lo que es cripto que estuvo hablando, 1 siempre está viendo ahí, coquetea, lee alguna noticia, ve algún video, pero la verdad es que no sabíamos bien cómo empezar, no teníamos una brújula, ¿viste? Pensábamos que, ¿cómo hacer esto? Y lo que estuvo bueno del método que hizo Sol es organizar toda esa información, dar herramientas, mostrar todo este mundo de lo que es la Web 3 y focalizarlo, especialmente, en lo que a los artistas les sirve, los artistas de música, para poder monetizar su contenido. Entender cómo son las herramientas, No solo también cómo se mueven las comunidades y además de eso, presentarnos a la comunidad W3, que nos sentimos súper cómodos
+
+[Speaker 11 - 02:19:16]
+y al punto Claro, está muy bueno que más allá de de la parte de conceptos y educación, todas las herramientas que que pudimos obtener a través de el método, también había una comunidad que respaldaba esto. ¿No? Porque a veces más allá de del conocimiento que 1 pueda adquirir, es decir, bueno, yo entiendo cómo funciona, sé hacerlo, pero si estás solo, no, no, no funciona, no tiene, no tiene la misma, el mismo sabor, le diría yo. ¿No? Al estar ahí las varios de los integrantes de la comunidad acá, Irélo en Buenos Aires, de música W 3, fue muchísimo más ameno porque más allá del método, las reuniones continuaron en forma de coworks, donde seguimos aprendiendo y creciendo juntos, que estoy segura que luego de del curso ahí en México va a surgir esos coworks allá también y r ls. Creo que son fundamentales para sostener el aprendizaje y el crecimiento de de las comunidades de músicos en Web3.
+
+[Speaker 11 - 02:20:17]
+Y
+
+[Speaker 9 - 02:20:18]
+Y hay algo también que tiene bueno todo eso de lo que las comunidades, el método, etcétera, es que, por ejemplo, a 1 lo lo ayuda como artista independiente a decir, ah, bueno, no tengo que hacer esto como que subí el video, que hacer el coso de YouTube, que la publicidad. Hay también un grupo de artistas en los cuales están en una situación de nosotros, y si nos juntamos, 1 se siente más acompañado, se inspira más, y también su arte empieza a tener otro valor, porque 1 se empieza a revalorizar también. Así que me parece que también tiene lindo esa parte humana de lo que es la Web 3. Que no solo es finanzas, cripto, que voy a ganar tanta plata. Eso es importante, pero me parece también muy importante como nosotros artista, gente sensible, tener ese acompañamiento humano. Sí, sí. Más allá de que es una realidad que nosotros en estos,
+
+[Speaker 11 - 02:21:05]
+vamos ahora 2 meses, lanzando una colección que se llama Sinergia todas las semanas. De inmediato, en realidad en menos de un mes, le rompió, vamos a decirlo, el Durazno, a la Web 2 en ganancias como artistas independientes. Como bien dijo Sol, es una gran herramienta realmente para financiar proyectos. Nosotros ahora estamos queriendo, bueno, en principio juntar herramientas de de acá de Web 3, como comprarnos el ENS, Pero después queremos financiar una tirada de vinilos y lo vamos a hacer a través de la colección Sinergia. Y y se está logrando. Estamos paso a paso, semana a semana, acercándonos a ese objetivo. Y es una realidad que de otra manera en Web2 no hubiésemos podido hacer. Porque la gente no no no tiene como la costumbre de apoyar financieramente un proyecto, ¿no? Más que, a lo sumo, con suerte darte un like, que también la gente lo ratonea bastante, porque hay como una cuestión de que si no está primero avalado y valorado por otra persona que ya tenga otros números, que sea más conocida, no no tienden a hacerlo.
+
+[Speaker 11 - 02:22:13]
+Y Y retomando, más allá de de esta de esta gran ventaja financiera que tiene para los artistas independientes, que puede hacer que sus proyectos crezcan, que sus proyectos se vuelvan realidad, también está la parte de comunidad, ¿no? Que mencionaba. Y que, como bien dijo Santi, es la parte humana que nosotros necesitamos como artistas. A nosotros nos gusta estar en contacto con nuestras personas, inspirarnos de otras historias, conocer nuevas músicas, ver nuevos artes, ¿no? De de todo eso inspira lo lo que hacemos, inspira nuestra obra. Y es necesario. Y que sea desde un lugar de sinergia justamente, por eso nos gusta mucho esa palabra, desde el lugar del compañerismo y que eso nos haga crecer a todos. Y que es algo que en WebDash falta mucho. En WebDash hay, por sobre todo, competencia, lo cual no está bueno. Entonces, creo que nada, sus grandes puntos fuertes van a ser, o son mejor dicho, este, la comunidad y
+
+[Speaker 9 - 02:23:15]
+la posibilidad financiera positiva que tenemos. Y para Sí, perdón. Y para terminar quería felicitar a Sol, porque se ganó un premio para poder seguir
+
+[Speaker 11 - 02:23:25]
+Sí, dale, que el método se va por toda Latinoamérica.
+
+[Speaker 9 - 02:23:29]
+Está buenísimo porque primero siempre es bueno ganar un premio, tener reconocimiento, eso es importante porque a 1 Reconoce la labor, ¿no? Sí, y la ayuda a tener más fuerza, porque 1 viste acá como 1 le pone mucho empeño a las cosas que 1 hace, y con el tener un reconocimiento, la ayuda a tener más fuerza. Y además de eso, de saber de que este sistema y este método va a ayudar a más gente. Porque en el fin y al cabo es eso también, ¿viste? Un poco, digamos, compartir ese conocimiento y a cada 1 le hace a su manera, pero ayudarlos a que puedan seguir creando
+
+[Speaker 11 - 02:23:59]
+y puedan seguir haciendo arte. Una cosa no menor con la que me gustaría a mí cerrar, que más allá de todas las Esperen que las quiero Más allá de todas las Hey, ¿qué pasó ahí? ¿Qué pasó? No, no, no. Estamos moviéndonos, estamos yendo hacia el auto, pero nos estamos yendo, pero no del espacio. Mientras estemos en el auto, podemos continuar acá hasta que lleguemos a destino. Pero para no desviarme y darme un cierre y y que puedas hacer la pregunta, Sol, Ay, se me fue la idea. No. ¿Por qué? No sé, ese es el nivel del space. Te cuento. Sí, sí. Ay, dios. ¿Qué estaba diciendo? Sol, ¿por qué? Bueno, si me preguntáis y regresa, lo oigo.
+
+[Speaker 2 - 02:24:51]
+Dale, ¿cuál era la idea? Seguro te viene a la cabeza, dale. Un minuto de silencio.
+
+[Speaker 11 - 02:25:03]
+No, bueno, no, no me acuerdo exactamente. Creo que Ah, sí, ya me acordé. Bien, bien. Sí, ¿viste? Un minutito y regreso. Que es muy importante, ya que no desconozco saludos a todos los que están aquí debajo escuchando, capaz algunos van a hacer el método console, otros no, u otros lo quieren recomendar a alguien. Sí me parece muy importante recordar que más allá de lo las herramientas que otra persona nos pueda dar, sea a través de un curso como el método, o sea, como en los spaces, que son otros lugares donde aprendimos mucho también, hay una cuota que es muy importante, que esa es el 50 por 100. Pero el otro 50 por 100 para que las cosas tengan éxito, lo que 1 se propone, los proyectos que 1 se propone y lo que quiere hacer tenga éxito, es la constancia y la voluntad propia. O sea, si nosotros esperamos que simplemente porque alguien nos cuente que estas herramientas existen, las cosas funcionen, tipo tira un drop, tira un NFT y esperar que, ah, listo, funcionó, me lo compró todo el mundo y ahora sí.
+
+[Speaker 11 - 02:26:08]
+1000000 de dólares. 3000000 de dólares. 3 millonarios. Ahora somos. Bienvenido a esta a esta comunidad de millonarios. Este, ¿no? No, me parece muy importante resaltar que es necesario el compromiso con 1 mismo de ser constante, ser honesto y poner en práctica las herramientas y hacer investigaciones propias. Ver de qué formas esas herramientas las quiere usar, ¿no? No exactamente cómo me las enseñen, van a ser como las aplique. Tal vez, este, vaya encontrando otras formas, pero son esas las herramientas. Así que solo quería resaltar para cerrar esa última parte, que me parece importante que, más allá de todo lo que nos enseñen y nos brinden, hay que poner de 1 para que las cosas funcionen. Así que ahora sí, Sol, dime.
+
+[Speaker 2 - 02:26:57]
+Quería preguntarles cuántos NFTs tienen mintiados en cuánto tiempo y si están vendiendo.
+
+[Speaker 11 - 02:27:05]
+Upa. Fran,
+
+[Speaker 9 - 02:27:07]
+ya te digo. ¿Para qué entró sola? Ya te digo, sí.
+
+[Speaker 11 - 02:27:10]
+En este momento estamos solo en el marketplace de Zora, salvo con una canción de de justamente el drop web, del drop colectivo que mencionaba Sol antes con la comunidad de música W3, el drop colectivo Olm 3. Con esa canción estamos explorando ahora sound. Decidimos, nos gusta mucho el tema de de números, 50 copias, ¿no? Así que decidimos con Gyoshiro Mare, que es con quien hicimos la colaboración, que hubieran 25 en una plataforma y 25 en la otra, pero si no estamos ahí en en Zora. Y la colección tiene, mientras Santi lo busca, tiene hasta ahora 7 canciones, que van a ser 8 en total la semana que viene, lo terminamos. De eso se trata la colección. Son 8 canciones, 8 historias que cuentan una gran historia, que tienen siempre algún drop extra que acompaña, que suelen ser más bien imágenes. Tenemos 2 obras que son visuales. A ver, Santi, me está pasando el número cuando es el número.
+
+[Speaker 0 - 02:28:11]
+La cantidad de drop son. A ver, 14.
+
+[Speaker 11 - 02:28:15]
+Unos 4. Pará, pará, porque yo quiero agarrar la colección que te dice abajo, te dice cuántos drebs hay. Son 14 y tenemos de los 14 90 mintiados en 2 meses que vamos de trabajo todas las semanas con esto?
+
+[Speaker 2 - 02:28:43]
+Bueno. Bueno. Ni yo lo hubiese hecho también, boludo.
+
+[Speaker 11 - 02:28:50]
+Te lo juro, con 3 años Muchas gracias. Bueno, Ariga, toca saber más.
+
+[Speaker 2 - 02:28:56]
+Divino, chico, no lo pudo creer. Bueno, felicitaciones. Estoy felicitándome a mi amigo, luego. Yo ni lo ni sabía. Ay, sí lo horrible. Ahí Mexi también los quiere felicitar. Porque vendieron muchos en Netflix.
+
+[Speaker 3 - 02:29:11]
+Netflix. No, la verdad estoy bien contento por el premio de Sol y ahora hay que me cuentan lo que les está pasando a ustedes. Que se vendieron 90 Netflix en 2 meses. ¿Cuándo empezaron? Y fue a partir de Sí, fue suyo. Ajá. Entonces, historias de éxito ¿No? Sí. Son las que queremos replicar acá en Monterrey. Ajá. Las que vamos a replicar acá en Monterrey. Entonces ¿Cuál es la invitación? Si en algún momento les he pedido algo de ayuda aquí es cuando. Aquí es cuando necesitamos ahí. No nada más likes y tweets. Ayúdenos a que la gente se inscriba. Lo que puedan. Si conocen a alguien que sepa de música. Por ahí vamos a estar publicando las los links. Sí,
+
+[Speaker 2 - 02:29:56]
+20 es un buen número.
+
+[Speaker 3 - 02:29:59]
+Que se quieran comprometer los 4 días durante lo que dura el curso, ¿no? Que vengan a las 4 sesiones. Si se cubre veten a venir a las 4 sesiones, tenemos becas. Sí. Y queremos que conozcan y que toquenicen, que aprendan de sol. Yo quiero aprender de ella, voy a aprender de ella. A toda la a toda la comunidad. MX Gutiérrez también está súper invitada. Por ahí voy a mandar la información en el en el en el grupo y pues aquí vamos a andar la próxima semana. Lunes y miércoles y la siguiente lunes y miércoles y con toda la gente que se inscriba andamos viendo si podemos hacer algo divertido. Un festival. Un festival, una fiesta, un pachangón que toque la gente que prenda. Un súper pachangón. Yo cumplo años el 26 de febrero. Entonces aprovechamos ahí ¿Es el acuario o no? Y que nos ayude a promover.
+
+[Speaker 3 - 02:31:01]
+Abraham, a ver.
+
+[Speaker 2 - 02:31:04]
+Vale, le le quería agradecer a Dudo por estar acá, no me lo esperaba. Gracias por venir y por dar su su perspectiva. No sé si quieren decir algo para para cerrar o igual, pues, se pueden quedar acá arriba ahí a y hacer community family si quieren.
+
+[Speaker 3 - 02:31:18]
+Sin problema. A Abraham lo perdí.
+
+[Speaker 0 - 02:31:21]
+No está, se fue.
+
+[Speaker 2 - 02:31:23]
+No, mentira, sí está.
+
+[Speaker 11 - 02:31:27]
+Acá estamos, acá estamos. Mucha, bueno, para mirar la cantidad de ruido que hay, por eso no quería prender el micrófono. No, bueno, agradecer primero que nada, este, ahí las felicitaciones. Ahorita vos sabés más. Y segundo, nada, desearles mucho, mucho éxito ahí en México. Están a pleno. Los vemos todos los días laburando un montón. Desde el Hackathon, felicitaciones a a Mexi también y todo el equipo. Nada, nos pone recontra recontentos que que esto siga creciendo y siempre vincularnos con con personas que trabajan con pasión y constancia en lo que les gusta, eso inspira siempre. Así que también agradecerles dejarnos contar nuestra experiencia acá. No no no queremos hacer cobra community farming. Estos son todavía algunos conceptos que nos falta terminar de integrar. Si sucede, que suceda naturalmente, pero malo, boluda. Ah, no sean malos, ustedes 2 son muy, me tiran esas cosas que yo tipo, ¿qué?
+
+[Speaker 11 - 02:32:28]
+Pero volviendo
+
+[Speaker 2 - 02:32:31]
+el arming es cuando te quedas, ponen, le terminaste de hablar en un space y no estás cojosteando, como por ejemplo Ale, y y te quedás ahí en el micrófono como para que la gente que está en el spete siga, como que sepa que estás acá, ¿entendés? Y conseguí seguidores.
+
+[Speaker 11 - 02:32:47]
+Ah, ok, ok. Bueno, si ustedes me dicen quédense ahí, yo hasta que lleguemos a destino me quedo. Me quedo por acá escuchándolos. Los vamos a ir escuchando modo radio en el auto. Así que a pleno siempre aprendiendo. Apenas pudimos, este, conectarnos y vimos que estaban ahí acá en el space y decía eventos dijimos, ¿chendo? Así que aquí estamos. Pero bueno, nada, eso. Agradecerles una vez más, desearles mucha merd, como como se dice. Y y nada, mandarles mucho amor y buena vibra. Gracias de nuevo. Y acá seguiremos escuchándolos. Ah, chicos, una cosa. Los escucho muy bajo, muy bajo de repente. ¿Puede ser? ¿Los demás también lo escuchan tan bajo?
+
+[Speaker 11 - 02:33:51]
+Digo porque me tengo que poner el celo en la oreja para escucharlos. Ahí va, ahí va, ahí va. Levantó, levanto. Lo arreglamos. Chihuahua.
+
+[Speaker 0 - 02:34:08]
+Esto es Bluetooth y no sé, pero bueno. Ahora sí, vamos. Este Bueno, la invitación y solicitud de ayuda. Ayúdennos a que se inscriba la gente y que venga, por favor. Si conocen de alguien que les pueda interesar esto, échenme la mano y no nada más se lo reenvíen, sino si pueden resolver alguna duda, les ayuda mucho. Y también voy a piñar por aquí voy a estar posteando en un momento el el el link al grupo de WhatsApp. Que entren al WhatsApp. Ahí les podemos ayudar con audios, con videos, con con con con Ahí voy a estar el Estoy yo, está Sol, hay mucha gente en la facilidad. Cualquier duda, cualquier pregunta, pues ahí les vamos a estar ayudando estos días. Mañana vamos a a volantear. Ya sacamos como 200 o 300 volantes. Vamos a ir a escuelas de música. Vamos a ir ahí donde se juntan las estudiantinas. Va a haber mucha desde LADA porque vamos a ir al barriotivo a volante área a platicar con nosotros. Bien
+
+[Speaker 2 - 02:35:05]
+pedos también, ¿no? ¿O no?
+
+[Speaker 0 - 02:35:07]
+Esperamos, ¿por qué no? Pero un poquito, un poquito. Un poquito. Ahí estaremos compartiendo mucho contenido en redes. Ok. Es muy divertido. Y sí, necesitamos yo lo que quiero es que la gente venga y conozca y que aprenda. Y que pueda yo generar mucho contenido para redes y publicar por todos lados que llenamos este espacio, que aprender un chorro, aunque sean todos becados, ¿no? O sea, sí, ayúdenme a que venga la banda. Sí, vengan. Ese es el el el el Juan José Cerro, creo que por aquí soy Jason, o si cualquiera se quiere despedir, ahora sí ya me voy. Échale Jason.
+
+[Speaker 10 - 02:35:42]
+Sí, nada más recordarle que tengo un evento aquí el sábado, ahí puse el link en los comentarios. Iba a decir algo pero pues realmente ya ya tuve que ir, tenía una una reunión, no me me recordó el móvil y ahora sí que ni ni me acordaba, pero, este, con lo de los eventos creo que habíamos hablado un poco de de de que sí está lo de East Denver, ya es desde febrero 20 y algo, entonces si quieren ir, pues de una vez, entonces este yo no voy a poder ir desafortunadamente pero sí se lo recomiendo a la gente que quieren construir, ahí se junta mucho mucho alfa y creo que pueden sacar muy buen provecho.
+
+[Speaker 0 - 02:36:26]
+No, muchas gracias Yeissa. También gracias por estar organizando eventos por allá. Porque sí creo definitivo que se necesitan. Experimenten metiéndole la Anita a redes a promocionar para ver si atraemos a otras personas que no conocen de esto. Creo que es importante ya ir a otros lados. Por aquí hemos experimentado mucho con universidades, con con con comunidades de web 2. CJ, y sé que tú tienes un alcance y un reach ahí en comunidades tech. Entonces veamos cómo nos ayudamos a promocionar todos estos eventos y a que más gente entienda y ayude a aplicar y a Esta es la opinión. Utilizar las herramientas. Voy a es un post de mxweb 3, que es donde tenemos el flyer, donde tenemos el link al formulario. También en ese voy a pinear ahorita el WhatsApp. Deme un segundo y lo voy a poner aquí arriba. Ya les piné el flyer donde está la información completa, están los QRs, están las fechas, está ahí el el el mercado buscamos, también la dirección del evento.
+
+[Speaker 0 - 02:37:30]
+Empezamos el próximo lunes y también está el link al formulario y denme un segundo y les voy a pinear aquí de una vez, antes de que se me olvide, el link al grupo de WhatsApp. Ahí es donde estamos resolviendo dudas. Vamos a ayudarle a la gente AAA, aunque no tome el curso, ahí le vamos a ayudar a la gente con cualquier duda que tenga de cripto enfocado en el tema de música. Eso es exclusivamente para música y bueno, en realidad para cualquier tipo de arte. Pero bueno, primordialmente música. Pero sí, cualquier duda para tema de onboarding, ahí desde 0, cualquier pregunta se puede hacer en ese WhatsApp y vamos a estar yo, estoy yo, está Sol, bueno, por lo importante, está Sol, está la gente también de la comunidad. Todos. Hay mucha onda. Ahí les vamos a estar ayudando para lo que necesiten. Y el objetivo como siempre pues es que la gente conozca cómo funcionan estas herramientas, que las use y que se beneficie de ellas.
+
+[Speaker 0 - 02:38:32]
+Voy a pinear, no, perdón, y yo space, ahí está. Yo les pineé, aquí abrió el link al WhatsApp también.
+
+[Speaker 5 - 02:38:44]
+Y ya se ve.
+
+[Speaker 0 - 02:38:46]
+Pero bueno, ahora sí, nos vamos, muchas gracias. 2 horas y media despacio hablamos de los Downs,
+
+[Speaker 2 - 02:38:51]
+platicamos de música web 3 Cosas piñadas, cosas piñadas, que denle retito y like a lo pineado.
+
+[Speaker 0 - 02:38:58]
+Ayúdenos con retweets y likes a lo piñado. También si alguien tiene alguna duda y quiere escuchar esta conversación, se queda grabada. De nuevo platicamos de los nounds, compramos 1, vamos a hacer cosas bien divertidas. Aquí solo está Brinque, Brinque, emoción. También platicamos de la ronda de fondeo que estamos ahorita, en la que estamos participando y la que estamos apoyando con dinero, con curación de proyectos, con con retro, con mentoría. Vamos a repartir más de creo que son 1800 ARBs, más un poquito más, que va a meter por ahí la fundación de Arbitrum, si mal no recuerdo. Cualquiera que necesite información sobre el tema de la ronda, aquí agregó este pineado el link al bitcoin donde se pueden inscribir, ya están abiertas las las solicitudes. Buscamos desarrollo de código para comunidades, puede ser para los NOWs, mx, puede ser para MXBour 3, puede ser para podcasts, Nash, está haciendo muchas cosas bien divertidas ahí. Cualquier idea loca la pueden poner ahí y ahí les vamos a retro.
+
+[Speaker 0 - 02:39:59]
+Ayúdenos a participar, a crear cosas y a que las comunidades se beneficien, y que también los creadores de estos códigos se lleven una lana. Platicamos también de NerdCombs. Está acá Ale con nosotros, Ale Marín, que viene de Argentina y está organizando el evento el 15 y el 16 de febrero en la Torre BBVA en el piso 33. Por ahí hay varios links. Pueden ir al link de Nación Bancles, que está aquí arriba a Piñado. Para inscribirse tienen códigos de de referidos, tienen que llenar una solicitud a más tardar el día de mañana. Eso nos dijo Ale. Mañana se cierran las opciones para inscribirse, entonces háganlo lo más pronto posible. De nuevo va a estar ahí 15 y 16 de febrero en la Torre BBVA piso 33. Paramos también con Sol 7 y con Duo 2 sobre el método y el curso que vamos a dar en Monterrey a partir de la próxima semana. Creo que eso es un tema muy reciente. De nuevo, ayúdennos, por favor, a difundir y a que la gente se inscriba o se meta al WhatsApp. Si me ayuda cada 1 de ustedes a que 1 interesado se meta al WhatsApp, pues vamos ganando y vamos mejorando la estadística.
+
+[Speaker 0 - 02:41:04]
+Porque la verdad pues apenas empezamos ese ruido y buscar gente por X0Y razón. Pero bueno, gracias a todos. Los quiero mucho. Gracias por su tiempo. Ojalá hayan sacado algo de valor en entretenimiento en esta conversación. Y que pues nos veamos por aquí el próximo jueves a la misma hora 12 pm como siempre. Los los quiero mucho, un beso, chau, bye, los veo bien.
