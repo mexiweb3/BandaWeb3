@@ -1,0 +1,297 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #20230307
+Título: El Contador, el Economista y el Ingeniero - Fed Chair Powell
+Fecha: 2023-03-07
+Host: @meximalist
+Tipo: hosted
+
+Descripción:
+El Contador, el Economista y el Ingeniero - Fed Chair Powell
+
+Duración: 01:05:00
+Escuchas: 81
+Speakers: 5
+
+Links:
+  Space: https://x.com/i/spaces/1rmxPkPmRnMJN
+  Dashboard: https://spacesdashboard.com/space/1rmxPkPmRnMJN/el-contador-el-economista-y-el-ingeniero-fed-chair-powell
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+
+[Speaker 0 - 00:00:00]
+3, 4. Esta es una prueba para ver desde cuándo graba esos espacios. Buenas tardes a todos los que están escuchando esta grabación.
+
+[Speaker 0 - 00:01:07]
+Bienvenidos. El día de hoy tenemos una plática interesante, va a durar una hora. A la una nos vamos a ir a la plática con Hola Metaverso y con Loop.
+
+[Speaker 0 - 00:02:23]
+Tiene un tema superinteresante con varias abogadas que va a estar muy bueno. Pero pues bueno, empecemos. Vamos a arrancar con fobia, el microbito.
+
+[Speaker 0 - 00:03:38]
+Buenísima, buenísimo, me encanta esa canción. Estoy dando modo rock en español. Y vamos a continuar con algo de Caifanes mientras se conectan.
+
+[Speaker 0 - 00:04:52]
+Y mando aquí unos mensajitos. La célula que explota. Buenas, buenas a todos. El día de hoy andaba con ánimos de rock en español, ando un poquito en Fermín.
+
+[Speaker 0 - 00:06:11]
+Pero, bueno, siempre ando en Fermín. Eso es normal, de la cabeza. Jesús, ¿cómo andas? ¿Me escuchas?
+
+[Speaker 1 - 00:07:14]
+Bien, bien. Saludos a todos. Buen día. Todo bien.
+
+[Speaker 0 - 00:07:19]
+Excelente, excelente. Bienvenidos a todos los que están se han subido por acá. JZ me echó una manito para abajo y está pidiendo hablar. No sé por qué, ahorita lo subimos. Pero les platico rápido, el día de hoy vamos a estar una hora con ustedes. A la una exacta empieza un espacio que no me quiero perder con Hola Metaverso de Ozzy. Va a estar la abogada, mi buena amiga y tu anfitriona, Lulú. Y otras 3 abogadas por ahí que no conozco, que quiero platicar con ellas, conocerlas y ver qué perspectiva traen del ecosistema Web3. Rápido empezamos con las reglas. El día de hoy, como todos los martes y los jueves a las 12, pues, están por aquí con ustedes platicando de noticias interesantes de la semana, de estos días. Jesús va a empezar con temas macroeconómicos, como siempre. Creo que ahorita la plática pues se ha vuelto se ha vuelto muy muy interesante con esos temas. Hace pues unos días que tuvimos el espacio el jueves y el martes anterior también, se se politizó un poquito la plática y eso atrajo muchos ojos.
+
+[Speaker 0 - 00:08:22]
+El día de hoy no no creo tener tanto tiempo para llegar a esos esas discusiones. Me gustaría mucho platicar de Ordinals y el proyecto que lanzó Ugal Labs, que ya se subastó, se subastaron 300 o 288 piezas. Tuvo una actividad económica increíble, ya lo ya lo comentaremos. Y también de lo que está sucediendo en Ethereum con el famoso EIP 43 37, que creo que es una innovación bastante bastante interesante que, híjole, no vamos a poder entrar al fondo en el tema el día de hoy. Pero al menos superficialmente lo quiero tocar para explicarlo. Voy a pinar acá arriba un hilo que escribió Jorge de Latino's on Chain, que está buenísimo, lo resume muy muy muy bien. Y bueno, leído muy bien el hilo también, la verdad está muy bueno. Como reglas del espacio, pidan la palabra si gustan. Acá estamos arriba para responder cualquier duda o pregunta. Levanten la manita, por favor. Tratemos de compartir valor o entretenimiento en nuestras intervenciones. No damos recomendaciones financieras ni de inversión ni legales.
+
+[Speaker 0 - 00:09:25]
+Hoy no está el look, entonces mucho menos. Pero, pues, por favor, hagan su propia investigación. Estos espacios los podemos llegar a grabar. Se están grabando, perdón, y los podemos llegar a utilizar en diferentes plataformas. Entonces, pues bueno, todo lo que te comenten y aporten, pues aquí será bienvenido. Pensemos en los escuchas que son pues los que finalmente creo que reciben todo el valor. Yo también recibo muchísimo valor de esos espacios, aprendo mucho. Pero bueno, Jesús, ¿cómo andas? Bienvenido. La semana pasada hubo mucho movimiento. Ahí tuvimos varios espacios muy muy buenos, muy movidos. El día de hoy, como decía, vamos a durar una hora nada más. También voy a apiñar el espacio acá arriba, mientras Jesús se avienta las noticias macroeconómicas. Voy a apiñar acá el hilo que les comenté de Jorge y también el espacio de Hola Metaverso, donde va a estar Lugo a partir de la una. Échale Jesús, ¿cómo andas? Bienvenido.
+
+[Speaker 1 - 00:10:26]
+Bien, buenos días. Gracias por la invitación de nuevo. Gracias a todos y como no hay mucho tiempo, voy a empezar al grano. El día de hoy, en confianza del consumidor de febrero, muy buenas noticias. Se recupera, continúa creciendo en México, este, recupera niveles no vistos desde noviembre de 2000 veintiuno. Entonces, confianza del consumidor, buenas noticias. Esto a la par del empleo, la semana pasada el empleo continuó creciendo de manera sólida, sobre todo sector manufacturero y en estados, entidades federativas muy relacionadas con el MIR shoring y la exportación hacia Estados Unidos. Entonces, el año empieza muy bien. También la semana pasada se publicaron las remesas. Las remesas continúan creciendo a una tasa importante anual. Si bien observamos cierta desaceleración, pues, son buenas noticias también que le da sustento al dato de confianza al consumidor que estamos viendo hoy. Es decir, este, un incremento de de los empleos, un incremento en las remesas aumentan el consumo privado, y es lo que estamos observando, confianza el consumidor, este, va va va bien.
+
+[Speaker 1 - 00:11:29]
+Si bien todavía vemos una inflación alta, ¿y por qué esto es negativo? Porque, obviamente, una mayor inflación reduce el ingreso disponible, este, pero, bueno, esperemos que gradualmente, a la par de lo que suceda también en Estados Unidos, se reduzca la inflación debido al alza de tasas. Aquí me lío con un tema interesante, porque el día de hoy la Reserva Federal, a través de su presidente, Chiron Pago, está anunciando que van a seguir subiendo tasas agresivamente en los Estados Unidos. De hecho, ya hay ya hay algunos analistas que están sugiriendo que como Estados Unidos ve una inflación muy sticker, o sea, que no se deja, ¿no? Si bien este se está reduciendo, no al nivel que ellos quisieran, creo que van a ajustar mucho más fuerte para traer la la inflación sí o sí a la baja. Y esto realmente puede tener un un impacto muy negativo en la economía. Este, no esta este mensaje de la Reserva Federal no lo había dicho antes. Entonces, creo que sí ya ya los está valorizando, pues, bajar de golpe la inflación a expensas de una pequeña, yo digo, pequeña recesión, porque el mercado laboral en Estados Unidos continúa muy resiliente.
+
+[Speaker 1 - 00:12:35]
+Entonces, los mercados deben de reaccionar de manera desfavorable por estos mensajes de la reserva federal. Y ojo, yo creo que Banxico ya aprendió su lección y bien aprendida, la recuerden que la última vez Banxico subió la tasa en 50 puntos base, por encima de lo que había subido la tasa, la Resera Federal. Y es muy probable que, si la Reserva Federal ya está con este tono agresivo, es decir, ya no 25, sino 50 puntos base, que en Banco de México copie la receta, ahí sí, pero yo creo que de manera adecuada y continúe con la subida de tasas, que también tendrá un impacto adverso sobre el sector financiero y sobre la economía, pero ojo, es necesario porque la inflación se mantiene en niveles altos. Y nada más terminaría diciendo que la semana pasada también Hacienda y Crédito Público publicó, vaya la redundancia, publicó los las finanzas públicas al mes de enero, este, donde se observa un buen un buen rendimiento de los ingresos,
+
+[Speaker 2 - 00:13:31]
+sobre todo los ingresos petroleros continúan elevados. Si bien vimos cierta desaceleración en los ingresos
+
+[Speaker 1 - 00:13:40]
+el subsidio que aplica el gobierno federal a las gasolinas. Este, pues vemos buenas buenos números, buenos datos, de la mano de el petróleo, del sector petrolero. Este, pero sí veo presiones fiscales en un futuro, conforme se materialice esta desaceleración que hablamos, porque habrá habrá menos ingresos por por por impuestos, porque, obviamente, va a haber menor crecimiento económico. Y segundo, porque el precio del petróleo va a disminuir, porque va a haber menor demanda a nivel global. Y, bueno, con esto termino. No sé si alguien al que tenga alguna pregunta, algún comentario. Bienvenida a las preguntas. Gracias.
+
+[Speaker 0 - 00:14:18]
+Gracias Jesús. A todos los que quieran subir a preguntar algo, por favor piden la palabra sin problema. Jesús, una duda. Por ahí estaba leyendo de un estimado en diciembre que tenían 5.1 por 100 de inflación. Ahorita estamos viendo que ya están estimando 5.75, ¿no? De acuerdo AAAAA Powell. Todo esto es de acuerdo a análisis, a estadísticas, a a no sé, o sea, ¿por qué? ¿Por qué? Yo sigo sigo con mis dudas de de por qué esto es tan cambiante. ¿A qué se debe que ajusten? Obviamente me imagino que analizan la inflación y analizan los precios, pero pues son estadísticas que que constantemente varían YYY ¿qué seguridad tenemos de que eso se quede así? O que luego no vayan a decir no, no es 5.7, es 6.5 o 7.10, vete a saberlo.
+
+[Speaker 1 - 00:15:15]
+No, es que, bueno, mucho tiene que ver que cuando se hacen esos pronósticos, obviamente toman en cuenta el el entorno de liquidez monetaria en ese momento. Entonces, en ese momento hay x cantidad de dinero porque la tasa de interés está en x por 100. Pero conforme avanza el tiempo y hacen ajustes al alza, es decir, por ejemplo, suben la tasa de interés aún más, pues, hay menos liquidez en el mercado y, obviamente, eso implica que los pronósticos de inflación, pues, tienen que ajustarse. Es un tema variable que es normal. Lo lo normal es que cada vez te proyecten una menor tasa de inflación, eso sí es lo deseable. Ya en momento que que no estén haciendo eso es que el sistema federal o el o el banco central está perdiendo credibilidad. Pero lo importante es que cada mes que te den pronósticos, este pronóstico sea menor al mes anterior.
+
+[Speaker 0 - 00:16:06]
+Híjole, sí, es un arte todo este show de del análisis, la estadística y el cómo encuentran esos números, cómo ajustan esos precios y pues bueno, hay que aprender un poquito de eso. Yo yo yo todavía me siento muy muy, con mucho de lo que he aprendido, muy muy pues maleducado sobre estos temas y definitivamente creo que hay que seguir leyendo. JZ A, por ahí levanto la mano. ¿Tienes alguna pregunta, algún comentario? Échale.
+
+[Speaker 3 - 00:16:33]
+Ok, ok. Nada, oyes, este, con respecto a lo de Powell, yo estaba escuchando otros podcast por ahí, de Wells Managers. Y pues, una de las críticas que le hacen más fuerte a a Powell es que tú no puedes regular la economía basado en los datos del día a día. O sea, estás realmente, o sea, hay una latencia entre lo que es los ajustes financieros y la economía real. Hay un lag como de, por lo menos, ellos calculan de unos 3 a 6 meses. Sin embargo, esta SEC se ha aprobado muy incompetente en este en este tipo de cálculos, porque básicamente se van con los reportes del día y y es como que muy repentino asumir que porque ya le subiste la flama automáticamente se va a calentar el pollo, como dices, ¿no? Que realmente tiene que haber un una latencia de por lo menos, no sé, unos 2 meses que se ajuste la economía a los nuevos intereses o al nuevo yield, y y que esta esta administración realmente no está tomando nada de eso en cuenta y se está yendo casi casi a un real time, este, engagement o un o un un ajuste en tiempo real.
+
+[Speaker 3 - 00:17:50]
+¿Qué opinas de eso?
+
+[Speaker 1 - 00:17:53]
+Pues depende. O sea, yo creo, mira, y y no es que sea esta administración. Powell entró con Trump. Y acuérdate que la Reserva Federal, primero que nada, es es tiene cierto nivel de autonomía, entonces no no no no tiene injerencia el el el gobierno federal. Estoy de acuerdo en una parte, porque la Reserva Federal le ha fallado en varias varias ocasiones. ¿Te acuerdas que decía que la inflación era transitoria? Claramente no lo fue, No empezó a ajustar en su momento las tasas cuando debió de hacerlo, este, pero, bueno, lo que está lo que lo que ellos están viendo, y y tienen un grupo de macroeconomistas muy importante la Reserva Federal, este, pues, es un ajuste muy gradual y muy lento hacia la baja de la inflación. En ese contexto, yo creo que sí están tomando en cuenta el el el escenario de mediano, largo y largo plazo, o sea, que lo lo principal para Para para tú conducir tu política monetaria, lo más importante es el espectro de mediano y largo plazo, ¿no? Las expectativas, lo que llamamos las expectativas inflacionarias. Con sin expectativas, pues, no tienes ninguna injerencia de política monetaria. Ahora, sí, claramente hay un rezago.
+
+[Speaker 1 - 00:18:55]
+Este, el rezago, por ejemplo, es mucho menor en Estados Unidos que en México, porque en México no está tan bancarizada la la economía como en Estados Unidos. Pero creo que todo eso se considera y se y y dentro de los modelos que que establecen para pronosticar inflación, ¿no? Acuerdo contigo, la Reserva Federal no lo ha hecho nada bien, este, pero hasta cierto punto en el corto plazo, a partir de mediados de noviembre, digo, de del del año pasado hasta ahora, pues, hemos visto una reducción gradual de la inflación mucho más acelerada que, por ejemplo, la de México o la Europa, ¿no? Entonces, yo yo considero que que no todo es malo, pero yo creo que estos welf managers que te refieres, pues obviamente están enojados, porque viene un jalón más más fuerte que va a depreciar los el el valor de los activos financieros. Y es lo último que quieren, ¿no? Entonces, cada quien trae sus intereses ahí, pero yo sí creo que es necesario un ajuste más agresivo en estos momentos. Gracias por tu pregunta.
+
+[Speaker 0 - 00:19:52]
+Necesario un ajuste más agresivo en estos momentos. Gracias por tu pregunta. Excelente, pues muchas gracias. Aquí invité a Abraham. El día de hoy va a ser nuestro coach, Abraham, el contador, bienvenido. Si gustas presentarte. Hace rato que no platicamos por acá en espacios y me gustaría que que la gente te conociera, esto se queda grabado y luego lo escucho en un chorro de banda. Entonces, pues bueno, aprovecha el para poder platicar un poquito de de lo que haces y cómo puedes ayudar a la gente que está por acá metida en el ecosistema. ¿Andas en mi Instagram?
+
+[Speaker 4 - 00:20:30]
+Ayayay, perdón, ahí ahí estoy, ¿verdad? ¿Me escuchó? Ahí te lo escuchamos. Muy bien. Gracias por aceptar la invitación aquí hoy con José Luis No, hombre, al contrario. Gracias, Mexi, gracias por la invitación. Este, mucho gusto, Jesús. No te digo el el placer de conocerte físicamente, este, pero y saludos a todos los que están ahí, pues pues sí, mira, yo, este, erradico aquí en Nuevo León, en Monterrey, y este estoy ahí en la la la comunidad web 3 ahí con con Mex y y varios que veo por aquí. Mi rama es la contable fiscal y todo lo que tiene que ver con ese y ya tiene tiempo que que me metí. Bueno, no tiempo. O sí diría tiempo porque ya cuando hables de de 2, 3 años en en cripto es una son muchos muchos años digo. Este ya tengo ese tiempo y y he explorado, estoy explorando todo lo que es con cripto y todo eso para, pues, para ayudar a la gente a a darle un poquito de claridad en cuestión de todo esto que tiene que ver con regulación y y todo lo que existe aquí en México en especial.
+
+[Speaker 4 - 00:21:31]
+Y, pues, a eso me dedico y y, pues, me encantan tus espacios, Mexi, me encanta ver ahí, este, a a cómo dialogan ahí con Jesús y todo eso. A veces puedo, a veces no, a veces, este, y sobre todo en este mes, digo, ahorita me tomé un tiempo para relajarme porque estamos en declaraciones anuales para personas morales. Y y la verdad es que sí es es una locura y aprovecho ahí para para decirles algo que que mencionaba Jesús acerca de la recaudación de impuestos. Pues, este, viene, o sea, siempre hemos visto y ahorita lo he visto más que viene muy muy agresivo el el gobierno en en cuestión de en cuestión de recaudación de impuestos. Obviamente ellos ya no han subido impuestos, pero sí se han enfocado mucho en la en la recaudación y ver años hacia atrás, revisar años hacia atrás, y es lo y yo creo que es el negocio donde están sacando toda esa recaudación. Hoy en día se modificaron la recaudación. Hoy en día se modificaron las declaraciones anuales, algunos a lo mejor algunos de ustedes tienen empresas, otros no, pero lo que les quiero decir es que sí el gobierno está amarrando más más los estados de cuenta, está amarrando más cosas, y que creo que poco a poco va a ser muy difícil que que la gente pueda estar evadiendo impuestos de de manera natural.
+
+[Speaker 2 - 00:22:50]
+Este, y pues bueno, ahí vamos, este, quisiera hacer una precisión, algo de de lo que dijo Jesús, este,
+
+[Speaker 4 - 00:23:00]
+el la definición a lo mejor del IEPS no es un subsidio, sino el IEPS es un impuesto, es lo que mencionó por ahí, pero nada más es una es una precisión de lo de lo que comentó y, este, y también a Jesús ahí quería, este, que me dieras punto de vista, ya me lo dio ahí por Twitter, pero vi una publicación, de hecho, lo etiqueté ahí a Jesús acerca de de una propuesta que traen ahí en Texas para independizarse y y eso también lo hemos visto aquí en México, que ha salido a veces hasta, no sé si de meme o algo aquí en Monterrey, que también hemos buscado hacer esto por por todo lo que es, este, todo lo que es la Este, oye
+
+[Speaker 1 - 00:23:46]
+Este, oye, si si si Mexi puedes pueden participar ustedes un momento, que ando medio ocupado. Ahorita los los alcanzo unos 10 minutos.
+
+[Speaker 0 - 00:23:56]
+Claro, claro. Ahorita nos responderá Jesús. Dani tenía por ahí la mano levantada. No sé si era una pregunta para Jesús. Pero aprovecho, Abraham, pinea por acá arriba un hilo que subiste. Cuéntame de eso. ¿Cómo está eso de que la Procuraduría Fiscal de la Federación está cooperando con con otras entidades federativas para, pues no sé, ir tras de los que eviten impuestos? ¿Será eso? ¿O qué es lo que andan buscando?
+
+[Speaker 4 - 00:24:25]
+Realmente, mira, antes déjame te platico cómo era antes. Y por eso digo que la fiscalización viene muy agresiva. Antes, no sé, una empresa le paga al IMSS, le paga al Infonavit, le paga un impuesto sobre nómina en cada estado, y todo eso estaba desconectado con el SAT, ¿sí? Yo podría decir que aquí, este, tenía 5 empleados y mi impuesto sobre nómina nada más reportaba que tenía 3 empleados. O en mis sueldos del IMSS yo timbraba las nóminas de mis empleados, pero en el IMSS tenía otros montos. Entonces, todo eso hoy en día se está conectando y esto es el acuerdo que procuraduría fiscal de de la federación, de acercarse a todas estas entidades paraestatales y decirle, oye, pásame la información que Abraham te está pasando de tus de cuántos empleados tienen el IMSS. Ah, ok, ok. Pásame al al con el Infonavit, pásame la información de todo eso. Entonces, todas estas entidades paraestatales están ya cerrando sus filas para que la información se cruce de un lado a otro y puedan ahí encontrar diferencias y ahí es donde viene la fiscalización.
+
+[Speaker 4 - 00:25:32]
+En decirte, oye, pues tú en el 2020 me reportaste estos datos, yo ya revisé con la paraestatal, no sé, del IMSS, y no son los mismos datos que que tú me reportaste aquí en tu declaración anual. Entonces, ahí es donde ellos van a empezar a a hacer esos cruces, y esos cruces son los que realmente ahorita, pues, sí, Sí, honestamente, sí hay diferencias entre algunas empresas que que que que sé y que, pues, ahorita dicen, oye, ¿cómo vamos a reaccionar a todo esto? Y, pues, habrá que ver y meterse y actualizar todos estos datos. Pero, en resumen, eso es lo que lo lo que te quiero platicar de de de lo que viene a la procuraduría y este acuerdo que que fueron, este, sobre todo por aquellas empresas también factureras y todo eso que que reportaron empleados o o esquemas como asimilados a salarios que ahora pues este no existieron y se fueron a revisar a a otros a otras entidades gubernamentales donde no había cruce y pues de ahí es donde donde viene toda esta terrorismo fiscal le llaman algunos.
+
+[Speaker 0 - 00:26:41]
+No, está muy interesante el hilo YYY pues sí hay que poner atención a esas noticias, ¿no? Esto salió ayer, el 6 de marzo. Entonces son cosas que la la la misma gente del gobierno avisa. ¿Saben qué? Pues bueno, es lo que está sucediendo. Se nos cayó Jesús, vamos a subirlo. Y pues hay que ponerle atención. Finalmente creo que tenemos que estar enterados de de de esas colaboraciones, de esas asociaciones. Y luego, pues, tomar acción, ¿no? Para proteger nuestro patrimonio. Y también para cumplir la ley. Finalmente vivimos en un país donde hay ciertas leyes que hay que cumplir y pagar impuestos, etcétera. Por ahí se nos cayó Jesús, tenía la mano levantada. Échale, Jesús. Perdón, perdón, es que ando cosas
+
+[Speaker 1 - 00:27:25]
+del consulado mexicano en Estados Unidos. Este, y te te pedían pagar tu tu teléfono. No, de lo que decía Abraham, tienes toda la razón, Abraham. Me refería que el IEPS es negativo porque se utilizó como subsidio, pero obviamente es un impuesto, y y es el el parte, la parte tributaria es la que realmente está en números negativos, porque el IEPSR, el IVA va bien, empezó el año muy bien. Como bien dices, este, va a haber una recaudación, digo, el recaudación, digo, el Hacienda está muy muy pesado por el tema de recaudación, este, lo está haciendo bien por el lado del ISR, este, pero yo no cantaría Victoria porque yo creo que el estimado de crecimiento de Hacienda sigue siendo muy muy optimista. Yo creo que sí va a haber un jalón hacia abajo el la recaudación por una menor expectativa de crecimiento. De lo otro que platicabas, este, pues sí, hay hay una propuesta en Texas, yo creo que no va a ser fructífera, ni siquiera la presentó un ciudadano. Entonces, por medio creo que un legislador local, no creo que vaya a salir adelante, y creo que no creo que Texas tenga un problema importante.
+
+[Speaker 1 - 00:28:27]
+En el caso de México, yo creo que es diferente, porque el caso de México es lo que se busca es un federalismo real. El federalismo, para la gente que no entienda, es darle más uñas y herramientas a los municipios y y entidades federativas para que tengan más mayor poder de recaudación y mayor poder económico, como lo tiene el estado de California, Nueva York, Texas, inclusive. ¿A qué me refiero? Que, por ejemplo, pues, Texas y California tienen la las herramientas fiscales para atraer o no empresas, para para aumentar o no su recaudación local, para, este, intervenir e invertir en en en en áreas que, por ejemplo, en México son de de exclusividad del sector federal. Yo creo que eso es muy distinto de lo de Texas, pues sí hay mucho descontento por el tema ideológico, ¿no? Más que el tema económico. Yo creo que lo que realmente mueve a la gente, a fin de cuentas, es el tema económico. Y mientras Texas sigue siendo una economía muy próspera, boyante, como la es, una economía muy rica. De hecho, si fuera un país, sería el el noveno país más rico del mundo, superando Rusia y con una quinta parte de su población, pues, no le veo gran problema.
+
+[Speaker 1 - 00:29:32]
+Yo creo que ya es un tema ideológico por lo que estamos viendo de de de de del tema woke, que ahí cada quien puede tener su punto de vista, pero no creo que sea un tema tan tan peligroso como se maneja, ¿eh? Pero es mi punto de vista.
+
+[Speaker 0 - 00:29:50]
+JZ, ¿qué opinas? Échale.
+
+[Speaker 3 - 00:29:54]
+Ah, pues ahí, este, voy a hacer un comercial aquí en Cancún, tenemos un grupo de de criptos, se llama Bitcooners. Estamos hablando el nos juntamos todos los jueves y el jueves pasado precisamente estamos hablando un poco de de terrorismo fiscal y cómo cómo protegerse. Y una de las cosas que que estábamos hablando que, pues no no viene así muy al tema. O sea, sí viene al tema porque es impuestos a final de cuentas. Pero un, ahí digamos que algo que se notó es que si tú tienes varias cuentas en en México, pues el SAT te los compila y como si fuera una, ¿no? O sea, digamos, tienes un una cuenta bancaria en eBanco y otra cuenta en Santander, por ejemplo. Este, y tienes 2 montos, pues el el SAT te lo cuenta como si fuera un ingreso. Este, sin embargo, si tú tienes 2 personas morales, digamos empresa SA de CV y empresa, este, SA nada más, o SRL.
+
+[Speaker 3 - 00:31:02]
+Este, realmente en 2 cuentas bancarias diferentes, ahí el SAT no te la puede compilar como una, entonces tus ingresos están completamente separados. Y eso, pues, quizás pueda ser una herramienta útil para para quien, pues, quiera tener un poco de ingeniería fiscal. Pero este pues ahí lo quiero sacar al tema a ver si si tienen alguna opinión opinión.
+
+[Speaker 0 - 00:31:34]
+¿Cómo ves Abraham? Aquí el ingeniero fiscal preferido de la comunidad cripto en Monterrey. ¿Qué opinas?
+
+[Speaker 4 - 00:31:41]
+Sí, sí. Pues mira, pudiera ser y no. Porque mira, a partir del 2022, todas las empresas que se den de alta van a entrar en un régimen que se llama régimen simplificado de confianza, por ley. Y ese de confianza por ley. Este y ese régimen te te obliga a pagar hasta un 2.5 por 100 de de ICR sobre tus ingresos. ¿Qué quiere decir esto? Que antes cuando tú creas una empresa, pues obviamente no tienes ninguna utilidad y hasta el ejercicio siguiente es cuando determinabas si tenías un coeficiente o no, si hubo utilidad o no. Y entonces ya con ese coeficiente tú pagabas un impuesto hasta el ejercicio siguiente. Ahorita no, ahorita de entrada ya te obligan a pagar ese porcentaje de ICR. Este, obviamente es el ICR salió el gobierno, el perdón, el recico salió el gobierno a venderlo como el régimen simplificado de confianza que que es muy benéfico y todo, pero trae unas letras chiquitas, que esas letras chiquitas son las que deberíamos de poner atención y y que son algunos castigos por no cumplir en ese régimen, que puede ser beneficioso, pero sí necesitamos poner mucha atención a eso.
+
+[Speaker 4 - 00:32:44]
+Ahora, de tener 2 empresas, pues, obviamente, habría que ver el impacto administrativo que tengas en cada una de ellas en la carga administrativa, por porque es llevar 2, este, pero si tú me dices ahorita los voy AAA crear en este año de entrada, pues te va a entrar, este, con el en ese régimen simplificado y vas a esperar hasta hasta el hasta el siguiente ejercicio para decirle a la autoridad que es 1 es 1 de las acepciones que te puedes sacar de ese régimen, es que tú seas socio de otra de otra moral y decirle, ¿sabes qué? Soy socio de otra, y entonces ya ya no ya no entras en el en ese régimen. Sí lo veo un poquito complicado, habría que ver para qué lo quieres, régimen. Sí lo veo un poquito complicado, habría que ver para qué lo quieres y y eso, pero de entrada sí, digo, de pronto, yo te diría, híjole, ten cuidado nada más en eso.
+
+[Speaker 3 - 00:33:36]
+Bueno, entonces, como me habían explicado el repejo, el repejo, el, ahí como le llaman, como se pronuncie, este, es solamente aplica a personas físicas con actividad empresarial y que facturen menos de 2000000 de pesos. Pero si tú ya sea factures más de 2000000 de pesos o seas parte de una una persona moral como directivo, este, ya no aplica. Según me me me contaron, no sé si eso cambió este año, etcétera.
+
+[Speaker 4 - 00:34:10]
+No, son son son varios términos que que se están mezclando, ¿eh? 1 es el Repeco que existió hasta el 2000 este 2018 y de y luego se cambió hasta al Rif, régimen de incorporación fiscal. Ese dejó de existir hasta diciembre del 2000 veintiuno. Si tú no una una carta, una actualización al SAT diciendo que te querías quedar ahí, en en automático ellos te cambiaban a otro régimen que es el simplificado de confianza. Como bien dices, el el Repeco o Rif, que, pues, muchos los Repeco o Rif, muchos lo siguen llamando Repeco Rif, sí es hasta 2000000 de pesos y es para personas físicas. Y este régimen, el el régimen de incorporación fiscal nació para la para incorporar precisamente a los de las tienditas, de las barberías, todos aquellos que no estaban dados de alta, nació para eso y era hasta 2000000 de pesos. Después de eso ya salió el el Rif y ya subió hasta 3000000 y y, perdón, el recico y hasta 3000000 y medio de pesos, pero traes mezclado ahí varios conceptos entre reciclo YYYY riff, que son algunos términos que que pudiera hacerte más bolas, pero este sí sí están mezclado algunas cosas ahí, de las que te dieron.
+
+[Speaker 3 - 00:35:28]
+Ah bueno. Sí, yo por eso digo que abren su cuenta Karen en Felisa y listo. Y suele él es en en en ¿cómo se llama? En Isla del Mar o en Gibraltar. Dani,
+
+[Speaker 0 - 00:35:44]
+por ahí subiste. No sé si tengas alguna duda o pregunta. Si no me gustaría empezar a platicar del tema de Web3, que ya llevamos varios espacios que no tocamos estos temas y ahorita hay muchas noticias. ¿Qué onda Dani? Anda farmeando engagement con su Ordinal número ¿qué? ¿99995? Creo que era el el el último que alcanzó a subir a la colección del arte hispano. Sí, sí, sí. Allá anda, ahí anda, Dani.
+
+[Speaker 5 - 00:36:21]
+Hola, hola. ¿Cómo están? Luis. ¿Me escucha?
+
+[Speaker 0 - 00:36:32]
+¿Andas en la moto? No, no,
+
+[Speaker 5 - 00:36:35]
+estoy estoy por el por la oficina, salí un momento a
+
+[Speaker 0 - 00:36:42]
+Ay, perdón. Sí, me hace que le piqué sin querer. Échale, échale. Te te muteé sin querer, Dani, ya no no te escuchamos. Se me hace que lo perdimos, pero bueno. Ahí está, ahí está.
+
+[Speaker 5 - 00:37:07]
+Listo, listo, ya. Ya, es que no no había activado el micrófono. Sí, tengo una pregunta respecto de economía para Jesús. No soy economista, pero me gusta leer mucho. He leído acerca de la curva de interés acerca de los bonos del tesoro de los 2 años y a 10 años. Cuando los cuando las cuando los que compran bonos a a corto plazo queda 2 años supera el interés de los 10 años que debería ser mayor, por lógica, por el tiempo, es una es un común como un aviso de que puede haber una gran recesión. La razón es porque al subir las tasas de interés, la Fed también está perjudicando la misma deuda de Estados Unidos, que supera ya los 30 billones de dólares o en español creo que trillones que es una locura o sea es es el 100 casi 120 y algo por 100 o el 130 por 100 del PIB de los Estados Unidos Entonces, que tengo una duda acerca de eso y ya sería mi pregunta, o sea, ¿cómo se cómo podría afectar esta gran deuda con respecto a las tasas de interés?
+
+[Speaker 5 - 00:38:20]
+Y ¿cómo haría Estados Unidos para pagar esta deuda o los bonos o del tesoro, mejor dicho? Entonces, solo esa es la la duda.
+
+[Speaker 1 - 00:38:32]
+Muy buena pregunta. De hecho, sí, tradicionalmente cuando se invierten estas curvas de corto y largo plazo en los bonos de gobierno, indica o es indicativo que se aproxime una recesión económica. Es más, el incentivo es estar en el corto plazo y no en el largo, porque obviamente estás perjudicando el rendimiento de los bonos. Ahí hay un punto interesante. Hoy leí justo una un artículo de de un un analista que me gusta mucho, que es Daniel La Calle. Si si no lo conocen, síganlo, es un español que habla mucho de Europa. Pero hablaba justo de lo mismo en Europa, que que no es nada, inclusive con el aumento de tasas allá, no es atractivo tener bonos de gobiernos, sobre todo europeos, porque el rendimiento, pues, es muy bajo, ¿no? A diferencia, ojo, de lo que estamos viendo en México, ¿eh? En México, este, los CETES es una maravilla. O sea, los CETES te cubren casi 4 por 100 neto, te dan un 4 por 100 real cubriendo inflación. Es una maravilla. Eso, pero las cosas, eso es lo lo positivo, ¿no? Lo negativo es que claramente el costo de financiamiento de los gobiernos se encarece. O sea, lo que está pagando hoy en día México, si se fijan en métanse a la página de Hacienda, el costo financiero está subiendo casi a doble dígito anual, en términos anuales, justo por la tasa de interés, ¿no?
+
+[Speaker 1 - 00:39:38]
+Entonces, obviamente, ahí encarece los costos de de de financiamiento del gobierno. Pero, yo te diría, Estados Unidos sí es 130 por 100 del PIB, pero, pues, hay países que están peor y que no están tan emproblemados. Por ejemplo, Japón, 200, peor y que no están tan emproblemados. Por ejemplo, Japón, 200, creo que es 250 por 100 del PIB. Mucho tiene que ver con la composición de la deuda, con el monto total, este, quién es el tenedor, o sea, quién es el tenedor de esa deuda. No es lo mismo que tus tus mismas empresas y ciudadanos sean los dueños de la deuda a que sea extranjeros, ¿no? ¿Por qué? Porque también el el el el tipo de cambio YYY la diferencial el diferencial de tasas con otros países generan incertidumbre y riesgos adicionales. En ese contexto, yo no veo esta y y la diferencial el diferencial de tasas con otros países generan incertidumbre y riesgos adicionales. En ese contexto, yo no veo a Estados Unidos tan mal parado. También tiene que ver el uso de la deuda, no es lo mismo gastarlo que invertirlo. Estados Unidos está invirtiendo en en infraestructura de en un trillón de dólares americanos, que es 1000000000000 mexicanos, que es muchísimo, y eso va a generar, pues, mayor crecimiento.
+
+[Speaker 1 - 00:40:40]
+Mexicanos, que es muchísimo, y eso va a generar, pues, mayor crecimiento, que va a generar mayor ingreso tributario en un futuro. Entonces, todo es relativo, ¿eh? Y no es lo mismo, ojo, no es lo mismo pagar de 100, pagar un por 100, que de 50, pagar 50 por 100. Es decir, el monto a una tasa de interés relativamente baja sigue siendo atractivo. Un monto alto a tasas de interés sumamente altas, ahí ya, este, pues, te estás más emproblemado. Entonces, todo todo no es tan fácil como decir que la deuda es alta. Tiene que ver la composición, tiene que ver el uso, tiene que ver la tasa de interés. No sé si con eso te respondí tu pregunta.
+
+[Speaker 0 - 00:41:22]
+Ya echo la manita para arriba, yo quiero entender que sí. ¿Alguna recomendación, Jesús? Definitivamente creo que todavía hay que tener cash, ¿no? Para oportunidades. Vamos a ver probablemente que caiga en mercado. ¿Tú qué opinas?
+
+[Speaker 1 - 00:41:37]
+En lo que tienes cash, yo yo te sugeriría en México mételo a CETES, CETES de corto plazo, 1, 2, 3 meses. Es muy buen rendimiento, es rendimiento seguro, este, 0 riesgo. Entonces, yo te lo te diría, mételo a CETES. En lo que esperas una buena oportunidad, pues, en vez de tenerlo en el banco o tenerlo en el colchón, mételo a CETES. ¿Y dónde lo puedes meter? CETES Directo punto com. No tienes riesgo, no tienes comisiones, directamente se lo prestas al gobierno mexicano. Entonces, yo te diría, no lo tengas en el banco, este, y en lo que se presente una buena oportunidad, ya sea de negocios, de inversión, de real estate, lo que tú quieras, el gobierno te va a dar un un 11 por 100 anual o más, dependiendo del plazo, nada despreciable hoy en día.
+
+[Speaker 0 - 00:42:19]
+Sí, por ahí platicábamos de esa aplicación, cetesdirecto punto com la semana pasada. No nos pagan nada, pero bueno, es una recomendación que dio también acá creo King, que de repente se sube a platicarnos y pues entiendo que desde 100 pesos se puede invertir. Entonces si alguien no está invirtiendo por el momento y quiere empezar a explorar esas herramientas, esas alternativas, pues yo creo que ahí está la la la solución. Y es algo que yo recomiendo, ¿no? Finalmente, si no entramos y no la usamos y no le movemos y en realidad aprendemos picándole y metiéndole un poquito, un poquito, no tiene que ser mucho, ¿no? Bitcoin. Igual puedes comprar 100 pesos. CETES creo que desde 100 pesos. Ahí hay algunas aplicaciones donde también ya puedes comprar acciones de bolsa desde 100 pesos. Entonces, este, pues aprendamos usando la tecnología y las herramientas. Habrá méchele.
+
+[Speaker 4 - 00:43:11]
+Sí, nada más complementando, Mexi, exactamente, mira, ahí puede ser, digo, yo sé que estamos somos amantes de cripto a la a la a algunos o la mayoría de los que estamos aquí, pero yo yo lo uso en particular, este, cetes directo, no lo meto a 30, ni a 60, ni a 90 días, porque he he visto que las tasas este se se varían de 1, lo tengo en ahí mismo en cetes directo en una en un bono que se llama Bondía, y Bondía te está dando casi exactamente lo mismo que te da 30 o 60 días. ¿Y por qué lo dejo ahí? Porque si me sale alguna oportunidad acá en cripto, lo saco de un día para otro, lo único que sí tienes que, sí se tarda en bajar un poquito, se tarda unas 2, 2 horas en bajar, en bajar ese ese monto a tu cuenta, y de tu cuenta, pues, ya ya lo sacas tú. Pero sí se tarda 2, 2 horas, este, y tienes que hacerlo antes del mediodía, tengo entendido cuando lo tienes en buen día, para que quede el mismo día. Si lo haces después de las 12, ya se te pasa al día siguiente. Digo, eso nada más es una recomendación, y como bien dices, desde 100 pesos hasta creo que son 5000 pesos es el monto, ya arriba de 5000 pesos para depositar en un mes, ya te piden que te firmes con tu con tu firma electrónica avanzada, dícese, la fiel.
+
+[Speaker 4 - 00:44:25]
+Pero, pues, no pasa nada, digo, nada más es tener ahí, este, y sí es muy recomendable ahorita que hay un mercado bajista acá en cripto, pues, un un 11 no es nada despreciable allá.
+
+[Speaker 0 - 00:44:41]
+Yo yo necesito y me han recomendado mucho y me ha pues no lo he hecho diversificar más en ese tipo de herramientas y pues bueno, tengo que echarle un trabado a en realidad utilizarlas. Yo pues como les dije hay que usarlos, pero te soy sincero no la he usado. Pero bueno tengo que meterme porque sí definitivamente creo que son alternativas que 1 tiene por ahí de como tú dices ¿no? Tienes 5000, lo que sea, en lugar de tenerlo al banco para verlo trabajar un poquito. Todo ayuda, cada centavito ayuda. Pero bueno, si no hay otro comentario adicional sobre el tema macro económico o alguna pregunta, yo creo que podemos pasar a los 2 temas por aquí que traigo, a ver, por aquí está pidiendo hablar. Turi, a lo mejor trae algo, algún comentario o duda.
+
+[Speaker 6 - 00:45:33]
+Antes de pasar al tema web 3, ¿quieres preguntar algo, Turri? ¿Qué onda, Meade? ¿Qué onda, Jesús? Este, sí, fíjate, sí tengo una pregunta. He estado tratando de investigar en Internet sin éxito si hay manera de que pueda abrir una cuenta mexicana de estando desde el extranjero? Porque me imagino que para hacer este tipo de inversiones en esta página de directo con de lo que estábamos hablando, la cuenta tiene que ser mexicana, ¿cierto?
+
+[Speaker 0 - 00:46:05]
+Fíjate que no sé, Abraham, ¿tú sabes? Sí, tiene que ser mexicano, este,
+
+[Speaker 4 - 00:46:10]
+la se pide, mira, para abrirla nada más te pide un un correo y eso, pero va a estar topado nada más hasta creo que son 5000 pesos, o sea, al mes. Y es lo único, pero sí tienes que tener una cuenta de donde vas AAA regresar ese dinero, donde vas a bajar y subir que tiene que ser una cuenta mexicana con clave bancaria estandarizada porque de ahí te te lo va a depositar cuando tú retires o sea que sí necesitas una cuenta aquí en México forzosamente.
+
+[Speaker 6 - 00:46:41]
+Ok, muchísimas gracias. No, pues me pondré a investigar a ver de qué manera puedo hacerle para para abrir la cuenta desde aquí porque ese sería el problema entonces. Muchísimas gracias.
+
+[Speaker 0 - 00:46:52]
+Oye, tú y ¿hay alguna herramienta que tengan así parecida por allá? Entiendo que tú estás en Canadá, ¿no? Jesús, no sé si tú sepas Estados Unidos, algo que también se puede utilizar de esa manera.
+
+[Speaker 1 - 00:47:07]
+Sí, en Estados Unidos está, bueno puedes puedes invertir en bonos, ¿no? Pero pero el problema de Estados Unidos, yo la verdad lo hago por medio del banco YYYY te cobran, te cobran pues el el el el comisión, te cobran este y y los rendimientos son muy bajos, o sea comparados con México pues es es es muy muy muy muy bajo, ¿no? Entonces yo yo siempre hablo ahorita de México porque porque te está cubriendo inflación, o sea, yo creo que en Estados Unidos habría que buscarle algo más interesante, lo que decía Daniela Calle hoy hoy, igual que en Europa, habría que buscarle algo más interesante porque las tasas son muy bajas, pero en México estamos coyuntura, y es lo que está explicando mucho el peso, este, estas tasas tan atractivas que hay en México. Entonces en México yo creo que 11 por 100 es es alto, te cubre la inflación, este, es bastante favorable, ¿no? Este, pero en Estados Unidos lo hace, de mi experiencia personal, lo hace el banco y cobran pagan tasas de interés muy bajas todavía.
+
+[Speaker 0 - 00:48:14]
+Tú, tú y estás utilizando alguna herramienta por allá que aparte de las cripto y los mints, que a todos nos encantan o a muchos nos encantan. Obviamente Jesús no porque no no no los ha probado. Hay que hay que involucrarlo un poquito más, pero ¿cómo diversificas Tutory por allá? Se me hace que lo perdimos. A lo mejor algún familiar te puede ayudar acá en México a mover la lana. Échele, Julio.
+
+[Speaker 7 - 00:48:56]
+¿Qué tal? Buen día. Saludos a todos. Este, sí, concuerdo con lo que con lo que comenta Jesús, este, y
+
+[Speaker 2 - 00:49:04]
+fíjense, hay hay una situación aquí en México. Nosotros, bueno, sobre todo los los que
+
+[Speaker 7 - 00:49:06]
+se México. Nosotros, bueno, sobre todo los los que somos de la generación que andamos ya en los 40 y tantos años y y un poquito antes. Todavía tenemos ese ese rollo que nos inculcaron nuestros padres de de la preferencia por la liquidez. Generalmente en el efectivo, dado dado 1 de los motivos de por qué la gente prefiere el el dinero en efectivo. Y es por la precaución. De hecho, yo recuerdo que tíos míos, mi abuelo incluso me decían, oye, es que siempre tienes que traer lana en la bolsa. Entonces, eso nos lleva a que a que no tengamos esa visión a veces. ¿No? De de invertirlo. Como decía Jesús en los cetes. Apenas 1 cuando ya se se va educando financieramente empieza a ver que, ay, hay otras formas de tener el dinero, que, por ejemplo, el cetes es el líquido. Este, decía Jesús, ¿sabes qué? Te recomiendo que guardes que que mientras esperas una buena oportunidad, que todos siempre andamos investigando, ¿no? Donde hay una buena oportunidad, decir, ah, ¿cuál es mi horizonte de de que se pueda presentar la buena oportunidad? Ah, pues, de aquí a 2 meses.
+
+[Speaker 7 - 00:50:07]
+Ah, perfecto, puedes meter, por ejemplo, x cantidad de dinero a los de dinero a los CETES directos, se vence al mes, y lo pones a 28 días, por decirlo, y ya tuviste un rendimiento. O al menos, si no tienes un rendimiento real o neto, al menos, pues, no perdiste por inflación, ¿no? Que es lo que la mayoría buscamos. Pero bueno, más o menos eso es lo que quería comentar.
+
+[Speaker 0 - 00:50:32]
+Gracias. No, muchas gracias Julio, muchas gracias. Al tour ya lo perdimos. Pero bueno, hablemos rápido de un tema de 3 porque ya nos quedan nada más 10 minutitos. Hoy sí vamos a cerrar el espacio a la una. Vamos a pasar al espacio que va a tener acá arriba, Opinier, bola meta verso con Lu, también va a estar a ver, déjenme les digo, les paso todo el chill completo. Elizabeth González de Motheap, Eli Torres de Nixon Pivody, Jessica Near de NearMCD. Entiendo que son ahogadas las 4. Van a estar ahí platicando con el buen Ozzy. Pero bueno, rápido les platico sobre el tema de Ordinals. No sé. Abraham por ahí entró al tema de Ordinals, mintió un un now. También por acá veo a Dani que mintió su foto de perfil. Miquita igual. Eric, también lo veo por ahí que participó. ¿Quién más? ¿Quién más? Mister Weeken también acá está abajo. El Rod, Rod Hernández. Muchas, muchos de los que entraron a la colección están aquí escuchando este espacio.
+
+[Speaker 0 - 00:51:38]
+Bienvenidos todos y gracias por participar en esa colección que por ahí subimos a un Metaverso donde pueden entrar. Voy a opinar también acá arriba el el el link donde pueden entrar al Metaverso. Pero no sé si escucharon las noticias, Abraham, Jesús, Julio, los que quieran participar sobre el proyecto que lanzó ayer o que se terminó de vender ayer la gente de Juga Labs, ¿no? Juga Labs es el esta empresa enorme que vale billones y billones de dólares, donde está la colección de los Board Aves, los Mutant Aves. Tienen muchas colecciones. Y lanzaron una colección donde subastaron 288 piezas. Se llama Tweldfold punto io. Ahí pueden encontrar más información. Y las estadísticas son bien interesantes. En total tuvieron 24 horas las personas para mandar sus subastas, sus ofertas. Hicieron una dinámica bastante interesante o bastante extraña, donde cualquiera de los usuarios que quería participar tenía que mandar su oferta de bitcoin a una dirección.
+
+[Speaker 0 - 00:52:45]
+Y solo las primeras o las más grandes, las 288 ofertas más elevadas iban a ganar o iban a ser premiados, o iban a poder adquirir una de estos artefactos digitales en la red de bitcoin. Ellos total reunieron 16.5 1000000 de dólares entre los 285 piezas, 288 piezas, perdón, que equivalen a 735 BTCs. El más alto, el número 1, acabó pagando 160000 dólares, 159 500 más o menos, 7.11 BTCs. La venta promedio de toda la colección fue de 2.55 bitcoin. Y la más baja, o el piso de precio de la colección entera, es de 2.25 bitcoin. O 50480 pesos. Dólares, perdón, todos estos dólares. Casi más, bueno, ya con el peso tan fuerte, menos de 1000000 de pesos. Pero, ¿qué opinas, Jesús? Una colección de arte que una empresa enorme lanza, que se cansa a vender en o reúne más de 16000000 de dólares en 24 horas. Yo creo que les fue muy bien y yo creo que es algo que vamos a seguir viendo de las empresas y de los creadores utilizando esta tecnología.
+
+[Speaker 0 - 00:53:50]
+Estos Ordinars o estos artefactos digitales van a estar abajo del 1000000 de las inscripciones, cada inscripción lleva un consecutivo. Por ejemplo, todos los de la colección hispana que mintiamos son abajo de los 100000. Ahorita ya estamos en los 350000 aproximadamente, entonces cada que alguien inscriba algo, obviamente suba un número más y un número más y un número más. Abraham, ¿tú qué minteaste, Dani? ¿Los 2? ¿Qué qué cometieron recibieron? ¿Cómo vieron el proceso, la tecnología Para mintear yo creo que todavía falta mucho desarrollo. No hemos visto los marketplaces funcionar bien, bien. No hemos visto herramientas para poder hacer estas inscripciones de una manera muy, muy sencilla. Todavía hay que mandar el bitcoin, esperar a que te lo envíen, crear una cartera nueva. Todavía no se puede actualizar ciertas carteras para poder enviar los órdenes que emitíamos nosotros hace unos hace unos hace unas semanas.
+
+[Speaker 0 - 00:54:55]
+Pero yo creo que este esta noticia y este proyecto que lanza Yuga y que ahora está, pues, se va a empezar AAAA me imagino que transaccionar, pues, va a ser muy interesante. Ellos van a entregar estas 288 piezas en menos de una semana. Esto se acabó ayer. Y se supone que en menos de una semana lo van a distribuir. Y me imagino que van a abrir un marketplace para que la gente los pueda comprar y vender. Son obras de arte que no traen ninguna otra funcionalidad o algún otro beneficio en la vida real. Por lo pronto es lo que han dicho. Pero híjole, que una compañía levante o alcance a levantar en yo creo que esto se empezó a escuchar en en en hace como unos 10, 15 días. O sea, en 15 días se hicieron el ruido, en 15 días se hicieron la promoción, en 24 horas hicieron la subasta y levantaron 16.5 1000000 de dólares. ¿A quién no le gustaría levantar esa cantidad de dinero en tan poquito tiempo?
+
+[Speaker 0 - 00:55:58]
+Increíble, increíble. Julio, Dani, ¿han estado viendo sobre el tema?
+
+[Speaker 7 - 00:56:10]
+La verdad, Nancy, no. Este, yo sé poco sobre sobre los órdenes y ese es el entero, sí me interesa. Nada más he estado ocupado con otros temas, pero sí me interesa, de hecho te iba a pedir ayuda ahí. Este, porque sí, este, es que siento que se me pasó esa oportunidad. ¿No? De los primeros 100000, algo así. Sí, no me
+
+[Speaker 0 - 00:56:35]
+Tecnocoqui que también participó. Mucha mucha raza de acá de la comunidad estuvo participando y la verdad se me hizo súper interesante el el el que la gente se apuntara, que buscara ayuda, que entre todos ayudáramos a mintear. Veo a Tao también que pagó la inscripción de Mister Wiki que también está por acá abajo. Entonces se hizo ahí una buena una buena colaboración entre todos. Finalmente, pues ahora lo que sigue dentro de los planes, y también es algo que quería comentar, era empezar a darle promoción, ¿no? Tenemos ahí 53 piezas de aproximadamente 40 artistas, 40 empresarios, artistas, creadores de contenido. Hay un poquito de todo en esa colección. Vayamos a la voy a certificar en varias marketplaces que por ahí he estado revisando. Tienen cada 1 sus características únicas. Algo que también quería mencionar y aprovechando que hay varios aquí, necesitamos ponerle un nombre a cada pieza. Entonces por ahí les voy a estar mandando mensajes. Miquita, MisterWiki, Tecno, todos los que participaron, ¿no? Hay que ponerle un nombre a su pieza para poderla certificar en la colección.
+
+[Speaker 0 - 00:57:37]
+Yo creo que me aviento un hilo o un par de post al rato y los copia a todos para que empiecen a pensar qué nombre le quieren poner a su a su pieza, ya que esté certificada. Todas las que están por ahí tienen que tener un nombre. Y ya que esté certificada, pues empezarles a hacer ruido, empezarles a hacer promoción. Por ello tengo o tenemos un disco de La Comunidad donde quiero también subir las piezas completas. Quiero hacer un PDF también con todas las obras, con un poquito de una descripción también del artista. Yo creo que todo eso va a ayudar a fomentar un poquito la la la publicidad que se le haga en la colección. También a la gente que está participando en ella, ¿no? Poner los links del Twitter, poner los links de su página, a lo mejor colecciones externas que tengan, ¿no? Un breve una breve descripción de cada 1 de los artistas. Creo que es súper interesante poder tener ahí en el Discord, en un PDF. Y ¿por qué no? También publicitarla
+
+[Speaker 2 - 00:58:34]
+en otro tipo de redes. Julio. Échale, ¿qué opinas? Sí, gracias. No, pues excelente. O sea, bueno, lo que estoy entendiendo ahorita es una colección de varios artistas que que ustedes reunieron y lo subieron a a la que
+
+[Speaker 7 - 00:58:43]
+ustedes reunieron y lo subieron a a la plataforma, a la a la que tú tienes, este, donde se exhiben las el arte.
+
+[Speaker 0 - 00:58:51]
+Sí, hicimos un poco de promoción acá entre los miembros de la comunidad de MX Web 3 de acá de Monterrey. Hay muchos artistas que ellos solitos pudieron mintear. Yo por ahí escribí unos hilos donde explicaba cómo se subía la pieza, Cada 1 de ellos, pues, pudo hacer su cartera, pudo enviar el pago. Hay otros que me pidieron ayuda. Los que pidieron ayuda, pues, ahí los estuvimos apoyando. Pero la verdad es que hubo muy buena participación y, como decía, ¿no? La idea es certificar la colección, poner información de cada artista en un archivo que podamos llegar a revisar. Yo creo que también algo que vamos a hacer es en la página de mxweb3, mxweb3.com, le quiero hacer un espacio completo a a la colección donde subamos igual la foto, los links de los artistas, el nombre de la pieza. Finalmente, lo que yo he visto es que en este mercado hay que hay que hay que hacer ruido, hay que atraer ojos, hay que llamar la atención de la gente para que pues vean, ¿no?
+
+[Speaker 0 - 00:59:51]
+Las posibilidades de la tecnología, pero también que conozcan a la gente que está creando dentro del ecosistema. Ya sea artistas, creadores de contenido, hay de todo. Finalmente ahí subieron algunos subieron los logos de las empresas en las que están o de los start ups que están haciendo, otros subieron piezas de arte 1 a 1. Yo subí un derivado de mi vGNed que tengo aquí en mi foto de perfil. Mister Wiki, por ejemplo, estaba participando ahí con un artista y y Tavo le pagó la inscripción. Entonces, es gente que hemos estado conviviendo aquí constantemente en el ecosistema y que ha aportado, creo yo, muchos, mucho valor, Miquita, ¿no? Con su arte, que también por ahí hace poquito hizo una edición donde mintíamos varios y luego ahorita tiene en venta una una una edición de 5 piezas. Tengo yo la una de ellas está muy muy muy muy chida si si si quieren luego la la retuiteo. Pero pues la idea es esa, ¿no? Finalmente usamos la tecnología, fuimos de los primeros en usarla.
+
+[Speaker 0 - 01:00:53]
+Están esas colecciones dentro de los primeros 100000. Y pues hacer ruido, fomentar, difundir y hacer que la gente conozca a los artistas, la tecnología y el arte. Y también, ¿por qué no? La comunidad que tenemos por acá, MX Web 3, etcétera. Entonces creo que fue un proyecto padre. Hay que darle forma. Seguimos dándole forma. Por ahí repito, voy a echarme un hilo al rato donde pues bueno, me pueden ir mandando por DM la información de cada 1 de ustedes, de los que ayudaron a crear la colección para subirlo a la página, hacer el PDF, certificar la colección, etcétera, etcétera. Entonces ahí obviamente que estoy seguro que todos los los los los que por aquí estamos en la comunidad latina hispana nos van a ayudar a difundir y veamos veamos qué pasa. A ver si en un mes hacemos una primer subasta y cada semana o cada 2, 3 semanas hacemos la subasta de otro, el que quiera. Porque hay artistas que me dijeron, no, ni madre, yo no lo quiero vender. Bueno, pues también válido, ¿no?
+
+[Speaker 0 - 01:01:54]
+Pero el que quiera llegar a ofrecer su pieza, este, pues bueno, que pueda llegar a a subastarla. Ya veremos quién es el primero que se nota. Estoy seguro que Daniel Serna, el escultor con el que estoy trabajando, va a querer subastar una de las suyas. Entonces, pues bueno, entre todos creo que se puede hacer algo bien bien interesante. Jesús, Abraham, como les decía, yo creo que, pues bueno, vamos cerrando. Yo sí quiero aventarme el espacio completo de Hola Metaverso, donde va a estar Lu. No sé si tengan comentarios de cierre, yo con eso termino la participación. Yo creo que el jueves hablaremos por fin ahora sí de el EIP. Pero bueno, les dejo por acá arriba a Piñera, ya lo había platicado hace rato y ya no pudimos tuvimos chance de platicarlo. El ERC 4 3 3 7, lean el hilo que está arriba apiñado, de Jorge. Está buenísimo, buenísimo, buenísimo. Lo explica de una manera súper sencilla, súper entendible. El contenido que él hace es muy, muy bueno, me encanta.
+
+[Speaker 0 - 01:02:55]
+Tiene por ahí una lista de distribución de de un newsletter y suscríbanse si si si les gusta el hilo, si quieren conocer más de lo que él está haciendo. La verdad es que genera muchísimo valor. Pero bueno, Jesús, Abraham, ¿cómo ven? Vámonos.
+
+[Speaker 4 - 01:03:15]
+Adelante, Abraham. Pues bien, pues vámonos. Este, la verdad es que pues ya cierro con esto emocionado, con esto que está haciendo Jugal Labs, pues, sin duda vamos a ser beneficiados, creo yo, y así espero, y ver qué es lo que pasa, y como bien dices, o sea, seguir chileando, este, este, los ordinals, para ver qué qué cómo podemos evolucionar en esto con las carteras que ahorita estamos topados y con los marketplace, pero sin duda en un futuro nos vamos a estar acordando que esto fue nada más el comienzo. Y, pues, aquí estamos a la orden para lo que se les
+
+[Speaker 0 - 01:03:50]
+ofrezca.
+
+[Speaker 1 - 01:03:51]
+Y gracias Abraham, gracias Mexi. Este, gracias como siempre, nos vemos el próximo jueves YAY escuchar a Lu que probablemente algo muy interesante que decirnos. Saludos a todos.
+
+[Speaker 0 - 01:04:05]
+Listo. Aquí acabo de darle retweet al espacio de Hola Metaverso. También es el último PIN que está acá arriba. No lo alcanzo a ver. Déjeme ver qué pasó. Vamos a piniarlo de nuevo. Ahí está. Entonces, pues bueno, yo creo que por hoy es todo. Muchísimas gracias a los que se conectaron. Esto se queda grabado. Platicamos rápidamente de temas macroeconómicos. Se discutió mucho el tema de de John Powell. También platicamos de herramientas de inversión y al Abraham nos contó sobre lo que hace, sobre su ingeniería fiscal y en lo que puede ayudarle a la gente. Y pues bueno, tocamos al final el punto de los órdenes. Gracias a todos por participar. Vámonos para allá. Nos vemos al rato. Hasta luego. Bye.

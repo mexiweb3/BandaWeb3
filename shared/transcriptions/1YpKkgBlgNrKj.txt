@@ -1,0 +1,735 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #20230831
+Título: El Looser, el Economista y el Ingeniero - ¿PEPE Ponzi? - SEC
+Fecha: 2023-08-31
+Host: @meximalist
+Tipo: hosted
+
+Descripción:
+El Looser, el Economista y el Ingeniero - ¿PEPE Ponzi? - SEC
+
+Duración: 02:31:10
+Escuchas: 166
+Speakers: 7
+
+Links:
+  Space: https://x.com/i/spaces/1YpKkgBlgNrKj
+  Dashboard: https://spacesdashboard.com/space/1YpKkgBlgNrKj/el-looser-el-economista-y-el-ingeniero-pepe-ponzi-sec
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+
+[Speaker 0 - 00:00:00]
+Del economista y el ingeniero, hace rato que no teníamos un espacio con el buen Jesús Garza, amigo de varios años. Hoy vamos a platicar de muchas cosas, incluido el tema macroeconómico, todo lo que ha estado sucediendo, vamos a escuchar su perspectiva, ya nos dará las noticias. También hay un par de temas que quiero platicar de la SCC. Hace unos días, esta semana ha habido un par de noticias bastante interesantes con la SCC.
+
+[Speaker 0 - 00:01:10]
+Ya está volteando a ver el mercado de los NSPs. Están, pues ya yendo atrás de los proyectos que lanzaron algunas colecciones, o una colección en específico. Ya platicaremos de esa colección y pues bueno, hubo un acuerdo, ya estaremos platicando del acuerdo. También vamos a platicar de lo que está sucediendo con los ETFs de bitcoin, esos instrumentos financieros que se han estado escuchando bastante, bastante, que muchas empresas están tratando de lanzar.
+
+[Speaker 0 - 00:02:24]
+Hace unos días hubo una noticia bastante interesante donde una corte de Estados Unidos declara que la SCC estuvo errónea al hacer algunos comentarios sobre Lighty of the Grays School. Ya platicaremos con Jesús sobre el tema. Pero primero quiero empezar con música mientras hago invitaciones y mientras me ayudan con likes y retweets. Bienvenido Chito, bienvenido a Mesaverse.
+
+[Speaker 0 - 00:03:25]
+Gracias por estar por aquí el día de hoy. Vamos a escuchar a Max Pretents. Es un amigo que conocí en Nueva York y ahora en Colombia tuve oportunidad de convivir mucho más con él. Esta es Gravity and Go. Si me ayudan con likes y retweets o comentarios, todo suma. Muchas gracias por estar por aquí. Vamos con Max Pretents y en un momento comenzamos. Gracias y bienvenidos. Gracias de nuevo por estar por aquí.
+
+[Speaker 0 - 00:04:31]
+Vamos a continuar con otra canción de Max Retents. Esto es We Court of. Empezamos en 3 minutitos. Gracias a todos los que están conectando. Eso fue música de Max Brittance, gracias a todos los que se están conectando. Ya le mandé mensajito a Jesús, que no lo veo por aquí todavía conectado, pero bueno, ahorita empezamos. La verdad es que esta canción la acaba de sacar Max hace unos días, ahora que estuvimos allá en Colombia en el Crypto Latin Fest.
+
+[Speaker 0 - 00:05:44]
+Estuvo promocionándola y fue el lanzamiento oficial. Lo conocí, como decía, en Nueva York, en Business Team YC este año. Y la verdad es que no tuvimos oportunidad de platicar mucho. Pero ahora en Bogotá, pues ahora sí hubo más oportunidad. Tuvimos ahí varias pláticas, estuvimos saliendo en las noches, también durante el evento me tocó presenciar su panel, él estuvo un rato en el mío.
+
+[Speaker 0 - 00:06:47]
+La verdad es que es una un chavo que muy talentoso que por aquí ha estado participando también, organizando espacios. Y pues me cae muy bien, me cae muy bien. La música está muy muy padre. La primer canción es de las más escuchadas que tiene por ahí en Spotify. Esta última, como decía, es de las nuevas, es un poco más triste, se la dedica entiendo a su ex novia, que por ahí duró unos años con ella.
+
+[Speaker 0 - 00:07:52]
+Pero bueno, ya anda por aquí Jesús. ¿Cómo anda Jesús? Bienvenido. Ya te mandé la invitación de Cojos, creo que tú también ya solicitaste hablar. Debes de estar ya por acá arriba con nosotros. ¿Cómo andas? ¿Me escuchas?
+
+[Speaker 1 - 00:08:35]
+Sí, muy bien, Mexi. Buenas tardes a todos. Todo bien. Mucho calor en Monterrey ahorita.
+
+[Speaker 0 - 00:08:43]
+Excelente. Sí, definitivamente el calor ha estado bueno. A mí me gusta mucho ir a Santiago. Últimamente he estado platicando mucho de Santiago. En los últimos meses, yo creo que ya puedo platicar un poquito. Tenemos noticias porque estamos trabajando con el municipio. Por ahí te te te no sé si alcanzaste a escuchar, me encantaría ahí luego ver cómo podamos colaborar, Jesús. Pero el municipio de Santiago tiene una presa, tiene agua, o tenía, porque se está secando, y sí hay un problema de de de escasez de agua acá en Monterrey bastante bastante grave. Y bueno, Santiago está sufriendo por lo mismo. Igual tenemos ahí un poco de noticias interesantes sobre el tema económicos y noticias de la SC. Creo que se ha movido mucho el tema con la SC. Muy probablemente veamos cambios ahí de liderazgo, yo creo, quién sabe. Ya estaremos platicando un poco de esos temas. Jesús, ¿cómo andas? Bienvenido. ¿Por qué? Un punto quieres empezar? Empecemos por el tema económico, las noticias. Hace rato que no estás en un espacio acá con nosotros.
+
+[Speaker 0 - 00:09:46]
+La verdad de la semana antepasada, pues, que anduve en Bogotá hubo hubo oportunidad de armarlo. Y la pasada anduvimos muy metidos con todo lo que era la campaña de votaciones y de donaciones para vacaciones y de donaciones para Gitcoin. Gitcoin, ahí luego lo platicaremos en otro espacio, pero es una plataforma de fondeo, Web3, que la verdad muchos proyectos pues están participando y creo que que recomendarlos muchos más, creo que son herramientas muy muy buenas para que los proyectos de hoteles puedan llegar a fondearse y seguir trabajando. Pero, pues bueno, por eso no tuvimos espacio la semana pasada sobre el tema económico, ni nos pudiste acompañar. Pero bueno, ya estamos aquí juntos de nuevo. Hoy invitamos también a Lu, pero ha estado muy ocupada. La verdad sí me me la extrañamos mucho. Ella siempre trae temas interesantes sobre todo el tema legal de la web 3, de privacidad, de propiedad intelectual y híjole hubiera estado bueno que estuviera aquí con nosotros, pero bueno.
+
+[Speaker 0 - 00:10:46]
+A lo mejor la semana que entra la tendremos aquí en el espacio. Entonces, pues empecemos. ¿Cómo ves, Jesús? ¿Qué noticias relevantes nos traes de todo el tema económico mundial, global y, por qué no, de México?
+
+[Speaker 1 - 00:11:02]
+Pues hay muchísimas, muchísimas noticias. Han pasado muchas cosas. Este, tema de de de la desaceleración económica de China, que está pegando a los mercados financieros bursátiles a nivel global. El tema de Evergrande, que es un segundo banco más grande en China que está quebrando. Banco Inmobiliario, este, y que están hablando de un posible episodio Lehman-Rodgers. El gobierno ya tuvo que prohibir la venta de de acciones, justo para para calmar al mercado. Eso está perjudicando también a las tasas de crecimiento esperadas a nivel global, y a las bolsas internacionales, por el lado de China. Por el lado de Estados Unidos también ya se observó una desaceleración en este sector inmobiliario. La compra de casas está cayendo por las altas tasas de interés. Entonces ya se ve una desaceleración importante en Estados Unidos. Y obviamente le está pegando también a nivel global en tasas de desaceleración. Y en México, al contrario, fíjate que están subiendo las perspectivas de crecimiento para este año. El MIR shorence sí está pegando muy bien.
+
+[Speaker 1 - 00:12:05]
+Entonces, un poquito de señales mixtas. Aunque, pues, va a ser un año difícil el próximo año con las finanzas públicas, que es una nota que escribió hoy en El Financiero, si la tienen chance de leerla. Porque hay 2 2 puntos ahí importantes para el sector público en México, que es la demanda que hizo Estados Unidos contra México por el maíz transgénico, que es probable que pierda México, y sería una multa de 30000000000 de dólares, y para poner en perspectiva una línea de metro, pues te cuesta 3000000000 de pesos. Imagínate brutal la multa que le pondrían a México. Y la deuda de Pemex, que ya es insostenible, y va va a tener que que salir el gobierno federal. Esas 2 cosas yo creo que le pueden pegar a al famoso súper peso el próximo año, a ver qué pasa. Europa está en recesión. Ya Alemania, Países Bajos, creo que Italia ya entró en recesión también. Entonces es un año difícil. Esperemos que ya termine este año para que el próximo año empiecen a acatar tasas de interés y veamos un mejor año para los mercados bursátiles y para las economías en general.
+
+[Speaker 1 - 00:13:08]
+Pero bueno, hay poquito de señales mixtas con con la actividad económica. Sí, de señales mixtas con con la actividad económica. Cuéntame un poquito más de la multa. ¿Cómo cómo cómo está eso? ¿30000000000
+
+[Speaker 0 - 00:13:22]
+de dólares dijiste? ¿O de 3 dólares? No, es que
+
+[Speaker 1 - 00:13:26]
+mira, específicamente el caso no lo sé, pero tiene mucho que ver que México no quiere maíz transgénico. Pues no sé por qué técnicamente. No sé si esté, o sea, cuál es el argumento, ¿verdad? ¿No? Lo que sí sé es que está en el tratado de libre comercio, y si si si tú te rehúsas a comerciar cierto producto, pues hay un hay un, este, hay un una una penalización, ¿no? Y parece ser que México no va a cumplir con el acuerdo y, pues, se va al panel, y el panel lo más probable es que, pues, dicte a favor de Estados Unidos, ¿no? Por por porque no puedes incumplir el tratado de de comercio, ¿no? O sea, de libre exportación e importación de de cualquier bien.
+
+[Speaker 0 - 00:14:14]
+Ya ya. ¿Este panel es cuál? ¿Quién quién quién regula estas estos? Creo que esto último ya no te alcancé a escuchar. No sé si sigas por ahí. Creo que lo perdimos o a lo mejor entra una llamada. Ahorita continuamos con Jesús. Pero bueno, nos comentaba sobre una multa probable, 30000000000 de dólares por incumplir Tratado de Libre Comercio, que, pues, mi duda ahí era, ¿quién es el que decide? Y ¿cuál es la corte, no? Que en la que esto se pelea. La verdad no no no no no sé. Ya veremos si ahorita Jesús regrese y nos puede contar. Sí, creo que tiene problemas con su conexión. Pero bueno, interesante, interesante lo que nos decía sobre las las las señales mixtas del mercado. La verdad acá en México, pues, el peso ha estado comportándose, la verdad, bastante bastante fuerte. Como decía Jesús, probablemente esto no continúe, quién sabe. Ya veremos qué es lo que sucede. Pero sí me interesaba mucho platicar sobre el tema de New Sharing, sobre todo aquí en Nuevo León, que se está escuchando muchísimo.
+
+[Speaker 0 - 00:15:22]
+Y que yo en lo personal ahora que estuve en Colombia platiqué con con con muchas personas que están invirtiendo mucho acá, y sobre todo proyectos Web 3. Hablaba con algunos exchanges que están considerando que vienen muchísimas empresas chinas acá a Nuevo León, a México, a Monterrey, a la parte noreste. Y si no, es que a gran parte de toda la zona norte de México, a instalar sus fábricas, a instalar sus productos y manufactura, y que van a ver y proveen prevén, perdón, una gran aceleración, un gran crecimiento en las transacciones de dinero entre China y México. Y por eso traen una iniciativa para los negocios aquí, para facilitar todos esos transacciones. Recordemos que las herramientas web 3, todo lo que sirve para transferir y enviar dinero de un lado a otro, pues ha sido, la verdad, algo que le ha beneficiado muchísimo a muchas personas, sobre todo en Estados Unidos y México.
+
+[Speaker 0 - 00:16:24]
+Ahorita otro de los de los datos curiosos de mencionando esto es que Bitso, ¿no? La plataforma de el exchange más grande aquí de México, que es ya patrocinador de la selección mexicana de fútbol y de los Tigres, de aquí de Monterrey, ellos ya están manejando más de 1000000000 de pesos, si no es que mayor volumen de transacciones de remesas. Y lo mismo están proveyendo algunas empresas como Truebit, como Bybit, y otros exchanges que están entrando fuertemente aquí en Latinoamérica, que se están acercando con comunidades a platicar sobre estas iniciativas, que ven una gran alza y probable alza de estas transmisiones de dinero, y que ellos son los que están ahorita fomentando estos estos envíos y ayudando a que sucedan con escritorios over the counter, ¿no? Arriba del escritorio, como le llaman, pues que es escritorios que no o transacciones, perdón, que no están y no se realizan en los exchanges, en las plataformas digitales, sino que se realizan de persona a persona, de negocio a negocio, con ayuda de estos escritorios o de estas personas que coordinan estas transacciones.
+
+[Speaker 0 - 00:17:39]
+Entonces, pues bueno, ya veremos si podemos aprovechar algo de eso, nosotros entusiastas de las criptodivisas. Pero sí ven fuertemente un crecimiento entre China, un movimiento de dinero entre China y México, y muy probable va a ser apoyado y lo va a facilitar toda esta tecnología cripto. Déjenme le mando un mensajito a Jesús aquí mientras continuamos porque ya no sé qué le pasó, a ver si va a regresar, o si lo perdimos, y si lo perdimos, pues bueno, podemos empezar a hablar de la de las noticias de la SC. Como decía, Jesús, señales mixtas, macroeconómicas aquí en México, ya se vienen las elecciones, has has estado sonando mucho, mucho ese tema últimamente. Y, a ver, ya lo tenemos aquí de regreso, no sé si me tardo. Y eso definitivamente puede afectar. Algo que normalmente menciona Jesús y que hoy lo volvió a tocar es el tema de la deuda de Pemex, que también creo que es algo súper interesante, que la verdad no es seguido de cerca.
+
+[Speaker 0 - 00:18:44]
+Ya tiene muchos años este problema o este detalle, y el gobierno de México, pues, ha tenido que compensar
+
+[Speaker 1 - 00:18:54]
+ahí todo ese dinero. Jesús, ya te tenemos por aquí. Fíjate que recibí una llamada de un banco en en Estados Unidos que que si reconocía un cargo fuerte, les dije que no, y me cancelaron la la tarjeta. Pues qué bueno. Fíjate, las bondades de la regulación que tanto criticamos. Si no fuera por la regulación, ya me hubieran bajado una buena lana. Justo me hablaron ahorita de de este banco. Pero bueno, sí, lo que platicábamos. Ahí está la nota, si la quieren leer. Este, la verdad se ven bien las finanzas públicas, pero se ven peligrosos peligrosas para el futuro, ¿no? Acuérdense que que el balance de las finanzas es fundamental, no solamente para una empresa, para un país, obviamente. Tienes que tener un déficit moderado, ¿qué significa déficit? Pues gasto mayor y el ingreso, este, para para tener las cuentas claras, ¿no? Obtener crecimiento crecimiento a largo plazo. Pero bueno, hasta hasta ahí lo dejo por pronto.
+
+[Speaker 0 - 00:19:53]
+Algo que comentabas, el tema de Pemex, creo que es, bueno, no creo es un tema recurrente en estos espacios. Lo has mencionado en varias ocasiones. No se ve que eso retome o agarre mejor rumbo. Seguimos perdiendo y perdiendo y perdiendo. ¿De dónde sale toda esa lana?
+
+[Speaker 1 - 00:20:12]
+De los impuestos. O sea, como todo en la vida, si hay no hay hay hay una de 2 sopas, o cierras, porque ya no puedes generar inversión o pagar sueldos y salarios, etcétera. O consigues un financia VIP. En este caso, pues, PEMEX se financia el gobierno federal, y el gobierno federal se financia de los impuestos, del ISR, del IVA y Eps. Entonces se va a financiar de nosotros. El problema que sin aumento de recaudación, sin aumento de dinero, ingresos federales, pues obviamente vas a tener un boquete. O recortas gasto, o creas nuevos impuestos, o eleva los impuestos existentes para compensar este gasto adicional. No se ve que el gobierno tenga la intención de hacer esto, porque es año electoral. En año electoral jamás van a proponer nuevos impuestos, o van a reducir el gasto, todo lo contrario. Entonces yo creo que van a elevar el gasto año electoral, van a ganar elecciones, y ya después será la bronca el que llegue, ¿verdad? Como siempre lo han hecho. Entonces, pues es peligroso, ¿no?
+
+[Speaker 1 - 00:21:13]
+Pero repito, de los primeros 6 meses, pues se ve finanzas públicas estables. Lo único que te diría también que me llamó la atención, los invito a que vayan en la página de Hacienda. Hay una parte en gasto del sector público federal, donde viene clasificación funcional. Me metí acá en detalle. 2 terceras partes del gasto público es desarrollo social. De hecho, dentro de ese desarrollo social se destina casi 800, más de 800000000000 de pesos en protección social. ¿Eso qué significa? Son las famosas transferencias, las pensiones, los ninis, etcétera. Para poner en contexto, lo que Nuevo León genera de impuestos en un año son 450000000000 de pesos. Entonces se gasta casi el doble en eso en transferencias sociales. Deja tú eso, salud y educación en conjunto suman 700000000000 de pesos. Es decir, se destinan más recursos a transferencias sociales que en conjunto a salud y educación. Brutal eso. Pero bueno, no me crean a mí, están los datos en Hacienda, para que todo el mundo lo pueda revisar.
+
+[Speaker 1 - 00:22:14]
+Y otro punto también interesante, que la deuda, el costo financiero ha aumentado 34 por 100, es brutal. Claramente se explica por el aumento de las tasas de interés, ¿no? Que es un es un episodio que estamos observando a nivel global. Entonces, pues hay mucho mucho material de que de que cortar, ¿no?
+
+[Speaker 0 - 00:22:37]
+Por ahí sobre tasas de interés, ¿cómo ves? He estado leyendo que no baja, no baja. Que probablemente sigan subiendo tasas los bancos centrales. En México, no recuerdo en cuánto está, creo que estaba como en el 9, 10. En Estados Unidos, ¿cómo lo es y cuándo es la siguiente decisión?
+
+[Speaker 1 - 00:23:00]
+México ya dijo que ya no va a subir tasas, y dijo que va a mantener la tasa elevada por un período prolongado de tiempo. Ese período prolongado de tiempo probablemente son 6 meses. Yo creo que a principios de 2024 ya comenzarán a reducir tasas. Eso es para el caso de México, porque están históricamente altas, ¿no? La 11.25. De hecho, siempre hemos hablado de los CETES, pues es muy buena oportunidad ahorita para tener un flujo ingreso importante sin riesgo. Pero para Estados Unidos ya se dijo también que la Fed va a aumentar otra vez la tasa de interés. Entonces, eso está perjudicando ahorita la actividad económica, el sentimiento de los mercados bursátiles y también sector inmobiliario. Allá yo creo que va a haber otro aumento, y hasta mediados 2024 es cuando empiecen a recortar tasas de interés. Entonces va a ser un año todavía muy complicado. Yo ya quiero que sea a mediados 2024, porque ya estoy un poco harto de de este proceso de desaceleración que es necesario para mitigar la inflación. Eso eso sin duda. Lo peor que puedes hacer es dejar que la inflación se vaya de control, eso sí realmente perjudicaría a mucha gente, generaría mucha pobreza.
+
+[Speaker 1 - 00:24:01]
+Pero en el proceso, el ajuste alza de tasas, pues es doloroso, la palabra es doloroso. Porque la gente va a gastar menos, compra menos, y todo se contrae, que es lo que estamos observando. Aún así Estados Unidos sigue creciendo. Los primeros 2 trimestres del año, arriba del 2 por 100, se creando empleos. Y eso es muy bueno para México, porque obviamente estamos muy correlacionados. Entonces, dentro de lo malo, las estadísticas muestran que la economía americana sigue siendo muy resiliente, que eso es positivo. Pero yo creo que ya no tarda el tercer cuarto trimestre en ver ya una caída importante, ¿no? Que entremos en recesión no lo creo. Yo creo que va a haber una desaceleración, pero no no creo que Estados Unidos entre recesión. Y también es importante que en Estados Unidos haya elecciones el próximo año. Pero a diferencia de México, no se utiliza el sector público, el gasto público, como de manera electoral. Allá sí está muy claro que es John Powell y él no le importa que esté Biden o que esté Trump, él lo que quiere es bajar la inflación, y está muy claro el mensaje. Voy a seguir sudando tasas, les guste o no les guste, punto. Porque ni el mercado ni a Biden ni a la economía le conviene, y aún así lo va a hacer.
+
+[Speaker 1 - 00:25:05]
+Que es lo correcto, ¿eh? Es lo correcto. No se está dejando influenciar, que eso es muy positivo, ¿no? Pero, bueno, sigue sigue un año difícil. En Europa está más difícil todavía porque, pues, los motores de Alemania y Francia, digo, sobre todo Alemania entró en recesión y un año difícil. En Europa está más difícil todavía porque, pues, los motores de Alemania y Francia, digo, sobre todo Alemania entró en recesión y eso te va a jalar para abajo en la economía europea. Ahí sí yo creo que va a ser una recesión prolongada, a lo mejor 2, 3 trimestres. Pero repito, yo creo que mediados de 2024 todo se tiene que reactivar. Entonces, es un es un un proceso doloroso, pero que va a pasar más pronto que tarde.
+
+[Speaker 0 - 00:25:47]
+Entonces, como decías, si hay liquidez por ahí y quieren algo seguro, CETES en México. En Estados Unidos, ¿qué opinarías?
+
+[Speaker 1 - 00:25:56]
+Sí, yo creo que renta fija ahorita. Este, el dólar comenzó a a recuperar valor también. Cuando hay incertidumbre o problemas económicos, los inversionistas se refugian en las famosas hard currencies, que es el dólar, el euro, la libra esterlina, etcétera. Entonces, puede ser una buena idea ahora meterse a estas monedas cuando empieza a caer la actividad económica global. Este, el oro, obviamente, siempre ha sido el safe guard. Este, yo creo que el el dentro de las criptomonedas, el bitcoin puede ser algo interesante también, un proceso de diversificación. Etcétera, ¿no? Pero Y renta fija, ¿no? Renta fija claramente es es Digo, Estados Unidos te paga 5 25, que no es mucho, pero en caso de países emergentes, Brasil, México, son muy atractivos Colombia, ¿no? Considerando también que las tasas de inflación también van para abajo. ¿Qué quiere decir? Que la tasa real, que es nominal menos inflación, pues es alta, es elevada. Y es positiva, y muchos países desarrollados no lo hacen.
+
+[Speaker 0 - 00:27:01]
+Algo que por ahí estuve viendo es en Argentina. El bitcoin ya llegó a máximos históricos de nuevo. Obviamente, pues, la inflación fuerte que está sufriendo el peso argentino, pues, está fomentando que esto suceda. Acá en México, pues, es distinto, ¿no? El peso está muy fuerte. ¿Qué opinas? ¿Hasta cuándo? ¿Seguirá bajando? ¿En algún punto irá a subir? A mí me sorprende que siga tan fuerte peso. Y ahora que vienen las elecciones, no sé eso cómo se vaya se vaya a comportar. ¿Qué opinas?
+
+[Speaker 1 - 00:27:31]
+No, digo, fuerte en términos relativos. Porque si tú observabas desde hace 2 años el tipo de cambio real, que es que es el, a ver, para entender el tipo de cambio, tipo de cambio real, que es que es el A ver, para entender el tipo de cambio, el que estamos viendo se llama tipo de cambio nominal, que es el que está influenciado también por por los especuladores, por ruido le llamamos. Todo el tipo de cambio real es el que tú comparas la canasta de ciertos precios de un país con otro, ¿sí? Y el tipo de cambio real desde hace varios años está en 15. De hecho, hay un índice que les recomiendo mucho, que es el Big Mac Index. Ese es muy certero en muchas ocasiones, porque te da el tipo de cambio real. ¿Qué quiere decir? Con un dólar, ¿cuál es el equivalente en pesos para comprar el mismo Big Mac? Que ese que ese es el concepto del tipo de cambio. Entonces, desde hace varios años, el tipo de cambio real estaba en 15 pesos por dólar, pero se había trepado a 20 por especulación, por ruido. Entonces, yo no diría que está fuerte, yo creo que está en fair price, precio equilibrio. Y y hay que tomar en cuenta que no es un peso equivale a 16 dólares, es un dólar equivale a 16 pesos.
+
+[Speaker 1 - 00:28:36]
+Allí el de la moneda fuerte es el dólar, claramente, ¿no? Hay que ponerse en contexto. Si se ha apreciado, es cierto, pero yo creo que puede generar más problemas que beneficios, porque México es un país exportador. Si se aprecia mucho tu moneda, exportas menos, porque se encarecen tus productos. Si las remesas que llegan se multiplican por menos, antes se multiplicaban por 20 horas, se multiplicaban por 16, y ya hemos visto una disminución en el consumo por eso. El turismo llega a menos, porque es más caro ir a México. Prefieres ir a, no sé, a Tailandia, o yo qué sé. Entonces no no es no es que el peso esté bien y todos estamos bien, eso es falso. El peso es un precio de equilibrio, es el tipo de cambio. Algunos ganan y otros pierden. Entonces, lo que debemos estar preocupados o enfocados es elevar la productividad. O sea, ¿qué quiere decir eso? Para crecer en el largo plazo, ¿no? Ahora en el largo plazo, pues necesitas gente capacitada. ¿Cómo cómo la capacitas? Con educación, con competencias, con tecnología, con procesos que ayuden a que seamos más eficientes. Eso es la clave. Segundo, la inversión.
+
+[Speaker 1 - 00:29:36]
+Con la inversión no solamente detonas crecimiento de corto, sino a largo plazo. Entonces, si tú quieres construir más automóvil, necesitas invertir en otra planta. Y esa otra planta te va a generar empleos y te va a generar mayor productividad, mayor bienes y servicios, mayor bienestar, digámoslo de esa manera. Ahora, ¿qué pasa? México, pues, si 40 por 100 de tu gente es pobre, pues tienes poco ahorro, si hay poco ahorro, hay poca inversión. Por eso dependes mucho de la inversión extranjera directa. Pero me conectaría con otro tema que se está hablando mucho. Se está hablando mucho del near shore, y fíjate que salió un artículo muy bueno del Financial Times que dice, aún con near shore, tratado de libre comercio y lo que tú, y la cercanía a Estados 100 de la inversión extranjera directa de toda América Latina. De hecho, Brasil se comió se comió a a México. Y si tú ves, en términos de PIB, Perú, Colombia, Chile y Brasil, tienen más inversión extranjera directa que México. Entonces, creo que hay un problema, que estamos sobrestimando la importancia de new shorting en México.
+
+[Speaker 0 - 00:30:44]
+Híjole, ok. Mencionaste bitcoin. Mencionaste que podría llegar a ser una buena alternativa. Y antes de pasar a ese tema, aquí piné arriba el artículo que Jesús mencionaba en un principio que acaba de publicar hoy. Y también algunas noticias sobre lo que vamos a estar platicando ahorita con la SC y Grayscale. Pero antes de, por ahí quiero mandarle un saludo a mi buen amigo Max Pretents. Max, ¿haw are you? Thanks for beIN here. We plaid ad a couple of your sons, at the star of the begining of this space. So, Love you man, hogs in kisses. Platiquemos de de bitcoin. ¿Por qué bitcoin? ¿Por qué mencionas bitcoin como una probable alternativa para estas personas que ahorita tienen liquidez? ¿Qué es lo que has visto? Has cambiado un poco la plática. Antes no me imaginaba que fueras a recomendar algo así. Y ahorita ya ha habido muchas noticias sobre el tema. Muy probablemente estemos cerca de tener algún instrumento financiero, como un ETF ya aprobado en Estados Unidos.
+
+[Speaker 0 - 00:31:48]
+Y muy probablemente eso fomente muchísima participación de diferentes actores institucionales y también de oficinas familiares, entrando al ecosistema. Por ahí otra noticia que creo que es importante mencionar, no sé si la has escuchado. BlackRock, el fondo enorme que maneja trillones de dólares, está invirtiendo y comprando acciones de empresas que hacen minería de este tipo de activos de bitcoin en específico. Creo que ya tiene, o al menos es el accionista número 2 de las 4 empresas más grandes, o de 4 de las 5 empresas más grandes de minería de bitcoin, ¿qué opinas del tema? ¿Es algo que te hace pensar y recapacitar tu postura o la? Pues sí, finalmente la información nueva y las noticias y el involucramiento de ciertos actores en ciertos ecosistemas o mercados, pues ayuda y son fundamentales que pueden llegar a beneficiar a ciertos precios, ¿no? De ciertos activos. ¿Qué opinas?
+
+[Speaker 1 - 00:32:50]
+No, pues, como bien dices, todo está en función del de la regulación. Si los reguladores ya lo están aceptando, pues, no hay marcha atrás. Ya es un activo que llevó para quedarse. Yo, pues cuando yo era crítico era porque se quería prohibir que no se estaba aceptando, pero pues eso ya cambió. Todo en la vida pues es es cambiante, ¿no? Si ya las autoridades lo van a permitir, pues claro que va a ser un activo importante. Porque los el mainstream, pues ya se va a claro que va a ser un activo importante. Porque los el mainstream ya se va a meter en ese activo, y eso cambia la historia, la dinámica del juego. Entonces, cuando yo te decía que no, era porque tú no estabas aceptado. Es más, no se podía comprar casi nada con ello. Era especulativo 100 por 100. Me dejarás mentir que la gente que compraba a Bitcoin la utilizaba como medio de cambio. Simplemente estaba especulando que subiera de valor. Eso no era sostenible. Pero ahora que tiene un uso funcional, pues es diferente, cambia la historia. No es que no es que yo me convencí y me radicalicé de un momento para otro. Simplemente las circunstancias distintas. Es como si yo te digo, oye, la economía va a crecer el 3 por 100 y en la pandemia, y ya decrece 7, pues me además vas a decir, es que tú me dijiste que iba a crecer.
+
+[Speaker 1 - 00:33:54]
+Pues obviamente no, porque yo no sabía que iba a haber una pandemia. Entonces, así así le dice la vida, la vida es cambiante. No no puedo pronosticar lo que va a pasar en 20 años. Digo, puedo puedo hacerlo, pero probablemente me voy a equivocar, porque va a haber muchos acontecimientos que yo lo controlo. Entonces, es es un tema regular. Para mí es un tema de regulación y qué bueno, porque ya el regulador le va a poner este va a poner más orden en en temas también de fraudes, de de del uso, ventajas, desventajas, base a educar al público, etcétera. Yo creo que es positivo. Y eso obviamente va va a generar más interés en bitcoin, eso es sin duda. Pero obviamente, repito, eso no se sabía hace 5 años, ¿eh? Entonces hay que poner eso en contexto.
+
+[Speaker 0 - 00:34:34]
+¿Qué opinas del regulador, en este caso, la SC, que pues ha estado negando estos ETFs y que ya las cortes estadounidenses, en específico la del distrito de Columbia, está ayudando, o no ayudando, sino de tomando decisiones y actuando en consecuencia. Diciendo, ¿sabes qué? Estos señores no están haciendo bien su chamba. Las empresas que están tratando de lanzar sus CTF pueden seguir avanzando. Y la S sí estaba incorrecta, ¿no? ¿Qué qué qué opinas de esa decisión? ¿Y es un proceso normal? ¿O es algo que ya se ha visto en el pasado? Me imagino que con otros diferentes activos. Donde a lo mejor el regulador está incorrecto, o tiene distintos, pues no sé si sus sus sus sus valores, sus sus perspectivas no están alineadas en realidad con la ley. Y aquí entran las cortes a decidir sobre estos temas. Yo creo que próximamente este año vamos a poder aceptar 000 ver estos CTS ya legalizados en Estados Unidos, y definitivamente creo que puede llegar a traer muchísima muchísima inversión, y probablemente innovación en el ecosistema.
+
+[Speaker 0 - 00:35:48]
+Híjole, no sé no sé qué esté pasando por la mente de Gary Gensler, el de la SC, pero bueno, ya ha sufrido un par de de de decisiones en contra de ellos, donde al parecer lo están haciendo ahí en su chamba. Qué bueno que hay esas instituciones o esos maneras de, pues, ir a debatir o ir a a competir y ir a a pelear, ¿no? Decisiones incorrectas. Y que las cortes están tomando esas esas esas, este, decisiones, están ya haciéndolo un poco más público. ¿Qué opinas?
+
+[Speaker 1 - 00:36:23]
+A ver, yo creo que no hay que subestimar a la SC. Yo yo los invito, bueno, te hablo de de hace muchos años, pero a mí me tocó colaborar con la Comisión Nacional Bancaria de Valores, era gente muy capaz, gente muy preparada. Y la contraparte, porque decíamos bilateral con Estados Unidos, trilaterales, con Canadá, y la contraparte eran muy, bueno, personas brillantes, o sea, yo yo no yo no me atrevería a decir que la SCI no sabe lo que está haciendo, o sea, yo creo que tiene departamentos de gente muy brillante y muy capacitada. Ahora que cometen errores y que, no sé, probablemente sí, ¿verdad? Y y hay cortes que que te pueden decir, oye, pues aquí no no no no está bien lo que estás haciendo. Te digo, en cuestiones muy técnicas no no, este, te mentiría porque no no me sé la historia, ¿verdad? Pero que no sepan lo que estén haciendo, no, no creo. Digo, de mi experiencia es gente muy muy brillante, no es fácil entrar a las instituciones, los exámenes para ser aceptado, las calificaciones que te piden, las áreas muy técnicas de innovación.
+
+[Speaker 1 - 00:37:25]
+O sea, el problema es que, y siempre ha sido así, que el sector financiero lanza más rápido que el regulador siempre. No es de ahora, siempre. Entonces, cuando lo el sector financiero, por ejemplo, creó los famosos credit default swats, el sector regular dijo, espérate, a ver, yo tengo que regular esto. Porque credit default swap, para los que no sepan, les puedo poner un pequeño ejemplo, Es un un certificado, un bono, como tú le quieras llamar, que si quiebra una empresa o un país, te pagan. Imagínate que yo compro muchos de estos CDS credit for swps de una empresa. ¿El mercado qué va a interpretar? Que yo sea algo que a lo mejor nadie más sabe, porque estoy comprando estos credit of the best of the best of the best of the best of the best of the best of the best of the best of the best of the best of the best of the best of Porque, pues, obviamente el mercado me va a decir, ¿por qué este cuate está comprando CVS de Telmex? Algo sabe, ¿verdad? Y puedo hacer que la acción caiga y que entre en insolvencia esa empresa.
+
+[Speaker 1 - 00:38:26]
+Ese regulador se dio cuenta, pero siempre va un paso atrás, porque es imposible ir a paso adelante, porque no sabes cuál le va a ser la innovación. Lo interesante del sector financiero es que, si se fijan, es el sector que más innova. El primer ticker de acciones del que, oye, que sube y baja el precio de una acción, se creó en 1860, 70. Imagínate. Digo, eran eran se movían, ¿verdad? Lo movían las personas, pero por la compra y venta de acciones se iban cambiando cada x minutos. Ahorita ya es instantáneo, ¿verdad? Entonces, YYY el el el mercado Ahí no había reguladores, fue cuando la gran la gran depresión después de 1000914, etcétera. Entran los reguladores para proteger, pero el regulador siempre va un paso atrás. Pero no quiere decir que sean malos o que sean incompetentes. Yo creo que en Estados Unidos son los más competentes que hay a nivel global. Porque si son incompetentes ellos, pues perdón, pero todos los reguladores del mundo yo creo que son igual de incompetentes. No es un tema de eso, yo creo, que es un tema que es difícil estar a la vanguardia de un sector que es muy innovador y muy rápido, ¿no?
+
+[Speaker 0 - 00:39:34]
+¿Tú crees que lo mismo suceda? Yo me imagino que sí. Pues es tecnología, finalmente. Son son experimentos, o no experimentos, sino instrumentos nuevos que a lo mejor el regulador no esté acostumbrado a utilizar. Otra de las noticias por ahí que traemos es que ya se están metiendo con empresas que lanzaron NFTs, y que ya hubo No no no escucho nada. A ver, levanten o bajen manitas si me escuchan o no. ¿Ahí me escuchas, Jesús? Se me hace que es Jesús el que estamos perdiendo. Sí, ya lo perdimos. A ver, un 100. Si pueden, por favor, para ver si soy yo o si es el espacio. No veo ahí están los cienes. Gracias, Gerardo. Muchas gracias, muy amable. Jesús, ¿ahí estás de nuevo? Sí, ando, perdón. No te preocupes acá. Ya te escucho. Coderal, bienvenidos. Gracias Jesús, bienvenido de nuevo.
+
+[Speaker 1 - 00:40:34]
+Ahí están, estamos Oye, sí, pero me me gustaría platicar, de de me gustaría platicarlo ¿Me me escuchas?
+
+[Speaker 0 - 00:40:43]
+Sí, te oigo muy bien. Me gustaría
+
+[Speaker 1 - 00:40:45]
+sí, me gustaría platicar de de otro tema que a mí me llama mucho la atención, que ya se comprobó, ¿sí? Que Pepe era un Ponzi. Este, yo lo dije, lo dije no una vez, no 2, no 3. Creo que unas 150 veces se queda corto. Lo dije. Me tacharon, fíjate, de subnormal, de idiota, de que no sé, no conozco el ecosistema, etcétera. Este, nada más para que quede claro y muy claro. Pepe es un Ponzi y se comprobó. Gracias. Ayayay.
+
+[Speaker 0 - 00:41:23]
+Bueno, pues bueno, si quieres tocar ese tema. Hay algunas personas a lo mejor que les gustaría participar. Si quieren subir, tenemos todavía como una media hora, a la una y media sí tengo un hard stop. Entonces, el que guste, ándale, mira, nada más. Justamente el que quería que subiera, vamos a hacerlo con Hostar, bueno. Tavo, Tavo, bienvenido, ¿cómo andas? Por ahí.
+
+[Speaker 3 - 00:41:50]
+Una una
+
+[Speaker 0 - 00:41:52]
+una publicación donde te preguntaba justamente qué opinabas si seguías Bulish o no. Vámonos, ya se vino la banda. Véngase, Alex. Este, pero, pues a ver, ¿qué qué opinan de este comentario de Jesús Tavo? ¿Cómo ves?
+
+[Speaker 3 - 00:42:08]
+Este, pues mira, creo creo que está parcialmente correcto. Yo yo sigo defendiendo que no es un Ponzi, y me gustaría saber por qué dice que ahora se comprobó que ese es un Ponzi. Pero en lo que sí estoy de acuerdo con él, es que no tiene ya futuro, que es una shitcoin, como lo he dicho desde un principio, pero una shitcoin sin futuro. ¿Por qué? Porque la comunidad se se quebrantó, la gente que estaba trabajando en los protocolos sobre PP, pareciera que ya no están trabajando en ella. Incluso crearon una nueva red, una, no, no, no, una nueva red, una nueva moneda, en donde parece que migraron todos los que sí tenían las intenciones de construir sobre Pepe. Yo yo sigo defendiendo que Ponzi con la palabra Ponzi como tal no es, pero sí que es basura, pero, o sea, ¿cuál cuál fue el el el el hecho de que ahora se haya comprobado que sea Ponce?
+
+[Speaker 1 - 00:43:16]
+Oh, es es es que mucha gente me insistía, este, que que era el futuro y que tenía valor. Yo me cansé de decir que no. Y este, pues el tiempo tiempo, pues da la razón, o sea, no sé. Era muy obvio, muy evidente que no lo habían hecho todo
+
+[Speaker 3 - 00:43:36]
+contigo. En
+
+[Speaker 1 - 00:43:38]
+que Vale, yo no entiendo por qué la gente insistía que que se van a hacer millonarios y tu demonio. Cuando yo no y lo expliqué, no una, te lo juro que me cansé explicarlo. Cuando tú no generas valor, es una distribución de recursos. Eso no es valor. Eso es un esquema piramidal. O sea, es que es muy evidente. Ya no entendí cómo no se entiende algo tan evidente. Ese esa era mi bronca. O sea, a ver, ya leyeron el artículo, es que el artículo está mal y a ver, ¿en qué está mal? ¿Cuál es el valor de Pepe? O sea, ¿qué está generando? ¿Está generando automóviles? ¿Trigo, maíz? ¿Está generando? No sé, una un servicio, una idea, una consultoría. ¿Qué fregados está generando? Nada. Entonces, ¿cómo es posible si no genera nada y no se usa? Porque como con bitcoin, pues puedes hacer transferencias, puedes pagar cosas, o sea, algo. Si no se utiliza para nada, ¿cuál es el valor? Y me tachaban de loco. Dije, es que no, perdón, es que una cosa ser loco, otra cosa ser lógico. O sea, hay cosas muy evidentes. Entonces, nunca entendí el argumento.
+
+[Speaker 1 - 00:44:39]
+Lo sigo sin entender. O sea, nunca entendí el por qué PP iba a ser una moneda con mucho futuro y con gran rendimiento. O sea, tacha que es más, te lo pongo tan sencillo. Si emitir dinero por emitirlo te hace rico, Venezuela sería el país más rico del mundo. Eso no es cierto. ¿Por qué? Porque si no produces cosas, el dinero se desaparece porque emblevan los precios de los pocos productos que produces. Entonces, yo nunca entendí el concepto de Pepe y me criticaron hasta morir. Entonces, me encantaría que alguien me explicara por qué. Porque hubo muchísima gente que pensaba así, porque no era una, eran 100.
+
+[Speaker 3 - 00:45:18]
+Mira, yo yo yo el problema que que veo, Jesús, y ya te lo había comentado y y lo he comentado ya muchas veces. O sea, yo lo único en que me quejo contigo y en lo que estoy en desacuerdo es que ves una estructura descentralizada como un Ponzi. Cuando una cuando una estructura descentralizada no tiene como, vaya la redundancia, no tiene una entidad central, porque, valga la redundancia, es descentralizada. Y y yo veo eso muy peligroso, o sea, como que tener esa esa creencia, esa narrativa, es una narrativa que puede incluso tirar a bitcoin, ethereum y muchas otras, porque estás diciendo que una entidad descentralizada puede y y potencialmente es un Ponzi. Y y es que yo vuelvo a lo mismo que a la misma pregunta que de hecho a ti le hago a todas las personas que dicen que es un Ponzi, Ponzi como tal. No esquema piramidal, un Ponzi. ¿Dónde está la dónde? ¿Quién es la entidad central que está estafando?
+
+[Speaker 3 - 00:46:21]
+¿Quién está cometiendo el comportamiento
+
+[Speaker 1 - 00:46:25]
+de fraude? ¿A quién culpas de comportamiento de fraude? Pero eso ya se comprobó. Las personas que tenían la gran mayoría de estos puentes ya las se fueron. Eso es mentira. Bueno, eso es lo eso es lo que yo leí. Es que entonces estás mal informado.
+
+[Speaker 3 - 00:46:38]
+Lo que sucedió lo que sucedió al último es que a la hora de de renunciar al contrato, las personas que lo crearon se quedaron con un pequeño porcentaje, creo que era como el 6 por 100. Se quedaron con el 6 por 100 como así como si fuera un pressail, como luego en las empresas hacen el friends and family, así, se quedaron con su 6 por 100, renunciaron al contrato, quemaron un porcentaje de las monedas, pero se quedaron con el 6 por 100. Se supone que ese 6 por 100 ellos habían dicho que lo iban a utilizar para exchanges y 1000 otros. Habían hecho una lista de cosas que iban a utilizar. El problema reciente es que creo que de 10 personas, o no me acuerdo cuántas eran, la mayoría vendió sus tokens y ya. O sea, eso fue lo último que llamó la atención, pero no era ni la mayoría de los tokens ni hubo manipulación. Simplemente ellos decidieron vender su parte que se habían quedado desde el principio, siendo completamente transparentes, porque eso habían dicho desde el principio, que ellos se lo iban a quedar en lo único en lo que fallaron fue en los propósitos con los que iban a utilizar esos Pero no no eran la mayoría ni nada, y y sigue siendo una entidad descentralizada, porque desde el principio renunciaron al contrato y demás.
+
+[Speaker 3 - 00:48:06]
+Yo yo yo lo único que estoy en desacuerdo, y voy a seguirlo, es en llamar una entidad descentralizada como un Ponzi, solo por ser una entidad descentralizada que no da valor. Porque es muy peligrosa esa narrativa. Podrás encuadrarlo en en otro supuesto, un un supuesto nuevo, un concepto nuevo, ahí podría estar de acuerdo. Pero intentar, es que vuelvo a lo mismo, intenta llevar a alguien a un juicio culpándole como el estafador de Pepe. No vas a poder, no se va a poder.
+
+[Speaker 1 - 00:48:42]
+Literalmente no se va a poder yo yo no digo yo no digo que que legalmente lo sea, pero es muy evidente que el precio subió y tuvo un pico y luego se desplomó. Pues obviamente los que estaban ahí, perdón, pero que se pusieron de acuerdo y vendieron. O sea, es que es muy evidente. Que no tenga yo acceso a esos chats privados, pues obviamente no. Pero es muy evidente que sí se pusieron de acuerdo y que tronaron el precio, por eso cayó. O sea, es que, digo, es es y y no es no es solamente Pepe, ve ve el el patrón de casi todas esas monedas, es lo mismo. Sí, sí, sí, ahí por ende ahí estoy de acuerdo
+
+[Speaker 3 - 00:49:17]
+contigo, te digo Jesús, ahí ahí estoy de acuerdo contigo, que es una shitcoin. Pero es que hasta su nombre lo dice. O sea, literalmente son memecoins, son shitcoins, no no tienen valor, la gente, el problema es que muchas de las personas que entran a este ecosistema lo hacen queriendo ganar dinero rápido, lo hacen queriendo nada más ganar popularidad y se cuelgan de comunidades para ganar followers y ganar atención y y llenar sus egos. Ahí estoy de acuerdo contigo, o sea, que se hayan puesto de acuerdo y demás, sí. Pero una cosa es eso y otra cosa es querer encuadrar entidades descentralizadas como como como fraudes, luego luego. Porque porque eso eso es peligroso para todo el ecosistema en general, o sea, y y eso podría
+
+[Speaker 1 - 00:50:03]
+sentar precedentes peligrosos para todo el ecosistema. Pero es cierto Tavo, el 95 por 100 de los NFTs son fraudes. O sea Una cosa es y otra cosa es No, pero es que, bueno, igual y lo único está seguro. O sea sigo en eso. Pero es que,
+
+[Speaker 3 - 00:50:17]
+sí, Jesús, pero es que si nos podemos, o sea, ¿cómo vas a regular que esa es una discusión que nos podría llevar todo un espacio? ¿Cómo regulas una entidad descentralizada, sino descentralizada? ¿Cómo la regulas? O sea, ¿cómo? Este este es el el tema del asunto. ¿Cómo regula su sociedad descentralizada?
+
+[Speaker 0 - 00:50:35]
+Permítame hacerle una pregunta y primero vamos le voy a hacer la pregunta a Vida y luego quisiera escuchar lo que opina Tavo y Jesús. Tavo, ¿pencionas que es una entidad descentralizada que renunciaron al contrato? Podrá ser, sí, estoy de acuerdo. Pero ese porcentaje alto que tenía un grupo de personas que pueden mover altamente el precio, ¿qué tanto eso afecta la la en realidad la descentralización de un token? No sé. Vamos con vida primero a ver qué opina, que nos dé sus comentarios YYYA ver qué qué qué qué respuesta tiene la pregunta. Échale vida.
+
+[Speaker 5 - 00:51:09]
+Es lo que iba a comentar. Qué bueno que dijiste eso, Maxi. Porque creo que el código, el contrato en sí es como imposible y ese es el debate, es imposible que eso sea en sí. Ponzi, pero que a nivel social es un Ponzi, casi todos los NFTs en ese término, o sea, a nivel social y cómo se mueven las personas en este ecosistema, sí lo tratan en manera ponzi, güey. O sea, sí lo hacen, o sea, sí manipulan socialmente a a las personas, como dices tú, o sea, al tener porcentajes grandes, o sea, ciertas personas pueden tener, grandes, o sea, ciertas personas pueden tener, you know, cantidades de de carteras y luego tener en off para hacer crear el movimiento, porque la mayoría de las personas van a seguir el crowd, van a seguir a los demás y van a hacer lo que los demás están haciendo y siguen el hype y siguen todo eso. Porque creo que a nivel social sí sí existe mucho mucho de eso y sí está muy feo, pero es parte de del como del estatus humano, ¿no?
+
+[Speaker 5 - 00:52:11]
+O sea, de de agarrar cuando puedes y de irte y hacer lo que tú puedas. O sea, el vivo vive del pendejo, ¿no? Pero pero, o sea, en sí el code, el contrato no puede ser Ponzi. O sea, está muy descentralizado, pero, pues sí, o sea, hagan sus estudios, güey, o sea, hagan sus estudios y no metan dinero que no puedan meter a algún lugar que no estén dispuestos a perder. Porque de que lo pueden perder, lo pueden perder en el pinche banco. O sea, en el banco se los pueden atrancar completamente Es que no no olvidaron. Identidad y x cosa, y les pueden atrancar todo el dinero, pero I don't know sorry. Y nomás quería decir repito, Jesús, Tavo, Mexi, me da un chingo, pero muchisisisisisimo gusto verlos a los 3 aquí. Creo que me gustaría ver esto regular, Me gustaría verlos debatir. Esto ya me hacía muchísima falta. No quiero eco Chambers, quiero discusiones y debates, y extrañaba un chingo a Jesús. So, tatze, ya me voy. Bye.
+
+[Speaker 5 - 00:53:12]
+La viegueres.
+
+[Speaker 1 - 00:53:15]
+Oye, nomás te quería decir, gracias por tus comentarios. El banco no es lo mismo, mira, porque está regulado. Justo no no habías entrado y me me me sacó una llamada telefónica. Me habló un banco de Estados Unidos. Me acaba de hablar, pregúntale a la Mex, y me me sacó el el space. Porque me dice, oye, ¿tú reconociste ese cargo de x dólares? Le dije, no. Ah, pues entonces lo voy no lo voy a aceptar. Ah, muchas gracias. Pero tienes que cancelar tu tarjeta, perfecto, cancélala. Tengo que ir al banco a sacar una nueva. Oye, eso, perdón, entonces no no te pasa lo mismo. Un book, no es no es un beneficio,
+
+[Speaker 3 - 00:53:48]
+a ver.
+
+[Speaker 1 - 00:53:50]
+Bueno, para mí sí es un beneficio porque yo nunca me hubiera enterado, no estoy revisando todas las las cuentas todo todo el tiempo, ¿no? Entonces qué bueno que me marquen, qué bueno que me digan, qué bueno que me protegen. A mí sí me gusta eso. Porque pues si si no, pues ahí sí, pues el dinero te lo pueden robar el banco, sí, si no existiesen estos protocolos. El sí es más, si el banco quiebra, el gobierno me regresa a través de una agencia de aseguradora que se llama FDIC, hasta 250000 dólares. Oye, pues algo es algo. O sea, no es lo mismo, perdón, pero no es lo mismo. Ahora, dueu here on research, es como si yo te digo, ah, pues es que voy a tomar, este, no sé, voy a tomar 20 shows de tequila. Entonces, y te y te mueres. Pues es que, due your on research, ¿no? Pues es que hay gente que que que no no sabe de todos los temas. Necesita instituciones que les digan, a ver, no tomes 20 sol de tequila porque te puedes morir. Oye, no te avientes del edificio porque te puedes caer, para que por un barandal. No no sé si me explico, es sonará muy absurdo, pero es que así es la la la el mundo. Por eso tenemos agencias que te protegen de lo que comes, de lo que de las medicinas que te puedes tomar y en qué cantidad, no todo mundo es experto en todo.
+
+[Speaker 1 - 00:54:58]
+Por eso necesitamos instituciones. Porque yo lo veo todos los días con el sector financiero. La gente pierde y pierde y pierde y siguen metiendo lana, porque pues nadie les está diciendo que van a seguir perdiendo lana. Pues es que, por ejemplo, si tú quieres invertir en bolsa, los invito. Te van a hacer a un cuestionario. Te van a preguntar qué experiencia tienes. Te van a preguntar si estás consciente de los riesgos, etcétera. O sea, eso eso está bien. Porque le estás diciendo a la persona, aguas, esto no es seguro, ¿verdad? Hay riesgo. Tú le tienes que decir lo mismo a las a todas las personas. No vivimos en un mundo de gente muy educada y muy culta, ¿eh? Al contrario. Y esto no es nuevo. Entonces, sí necesitamos alguien que le diga, a ver, esto que vas a hacer viene peligro, aguas. Y te si te avientas del barandal, puede que te caigas, ¿verdad? O sea, y que puede que te mueras. Entonces, venger of def. Sonará absurdo, pero es que sí se necesitan
+
+[Speaker 0 - 00:55:51]
+instituciones que nos protejan. Oye, Jesús. A ver, Jesús, acudió acá a don Pepe. También está Alex Mena. Alex perdóname, pero quiero escuchar a don Pepe. Démosle un par de minutos para que, sin interrupción, por favor. Y ahorita vamos con Alex. Échale a don Pepe. No, ya nada más tenía una pregunta rápida para
+
+[Speaker 2 - 00:56:09]
+Jesús. ¿No crees que el el gobierno le debió haber dicho a Rayados que contratar a Sergio Canales era una pésima decisión?
+
+[Speaker 1 - 00:56:20]
+Yo creo que, mira, desafortunado o desafortunadamente, el sistema de competencia mexicano no no se rige por quien haga más puntos. Esto no se acaba hasta que se acaba, y apenas va empezando. Entonces, yo me esperaría a la liguilla, que es cuando cuando realmente vale, porque ahorita ganarás mucho
+
+[Speaker 2 - 00:56:42]
+y sí remontaron ayer, qué padre, pues, cierto, fiel estado. Sí, te vi que que te cambiaste de equipo ya.
+
+[Speaker 1 - 00:56:48]
+No, no, no me cambié. Me invitaron. De hecho, no me puse la playera porque obviamente yo yo soy de Monterrey. Pero claro que si me invitan, voy con muchísimo gusto. El día que me quieras invitar, con muchísimo gusto te acompaño al estadio también. Y que todos los goles, no solamente. Que soy apasionado de fútbol.
+
+[Speaker 0 - 00:57:05]
+Yo también me apunto ahí al estadio con don Pepe y con toda la banda.
+
+[Speaker 2 - 00:57:09]
+Ah, bueno, saludos, banda. Este, pasaba por aquí rápido. Ya ya me tengo que ir, pero este, ahí me los 1 después. Que estén
+
+[Speaker 0 - 00:57:17]
+bien. Nos vemos en la noche. Oigan, pues igual. ¿Nos vemos al ratito, don Pepe, o qué? Simón, en la noche nos vemos. Excelente, excelente. Al igual que vida yo estaba ya estas pláticas acá con Jesús, Tavo, Don Pepe, sin que nos estemos peleando, hombre. Qué bonito, qué bonito. Álex, a ver, yo decía la pregunta, el el el ¿qué tan descentralizado en realidad es un contrato así donde una o un grupo de personas tiene un 10, 15, 20 por 100? Yo sé que sucede en muchas monedas YYY en mi opinión la descentralización es es es un es una puñita mental, hay espectros distintos de descentralización de diferentes proyectos. Pero a ver, ¿qué opinas Alex? Chele.
+
+[Speaker 6 - 00:58:06]
+¿Qué tal? Gracias. Un saludo a todos. Buena tarde. Este, bueno, pues contestando rápidamente tu pregunta, pues para mí también es un tema de que quizá al principio cuando nació todo este rollo de bitcoin, incluso cuando estaba Ethereum y las pocas monedas que había. Probablemente la teoría de la descentralización hacía sentido, incluso todo este tema de que las chip coins o los proyectos de comunidad pueden llegar a ser exitosos, sí, pero ya para mí en mi opinión ya no es así. Porque como precisamente dice Jesús, yo estoy de acuerdo con él, hoy en día los proyectos tienen que mostrar una utilidad o una utilización o producir algo o esto se creó con la finalidad de financiar un proyecto que vamos a construir un puente que va para la luna, yo no sé, lo que quieras hacer, pero necesitas hacer algo, no nada más decir, es que la comunidad y la la comunidad la le va a dar fortaleza, porque así es la descentralización. Yo creo que eso ya se acabó, ese tipo de proyectos ya no de ni siquiera podemos estar pensando en en hacer 1 en ese tipo de proyectos o en participar en ellos, y pues básicamente yo opino lo mismo, hoy en día se lanzan como proyectos descentralizados, por así decirlo, en cuestión de gobernanza inicial, pero al final de cuentas, si tú le pones como condición que quien tenga mayor cantidad de tokens es un, por así decirlo, un nodo más fuerte que otro, pues entonces no estás descentralizando nada, porque es lo mismo que que el capitalismo, que comprar acciones, en donde el accionista mayoritario, pues, tiene el poder de voz y voto, etcétera, ¿no?
+
+[Speaker 6 - 00:59:45]
+Entonces, ahí por ahí no va, creo que si realmente se quiere descentralizar algo, se tiene que hacer con nodos equitativos, y sí tiene que tener una utilidad, porque ya las comunidades realmente creo que sostienen o poco o no funcionan como proyecto. O sea, esto es un proyecto de una comunidad y listo, yo creo que no es ya no es por ahí, y esa es mi opinión al respecto de la pregunta. Y, este, si me permites dar un punto de vista de varios temas que se tomaron aquí adelante, porque también me interesa todo lo que se todo lo que se dijo, me gusta también mucho la economía, y y obviamente los negocios internacionales, que son mi área. Este, platicaban de la infraestructura de Pemex, de por qué se van muchos impuestos para Pemex, y eso es realmente una política de gobierno. Hoy en la mañana estuvimos en una plática con Leo Zuckerman, en donde precisamente nos compartió que gran parte del gasto de infraestructura de México, que es muy poco también, por cierto, en en relación a otras países o entidades, perdón.
+
+[Speaker 6 - 01:00:49]
+Este Perdón, esas esas 2 terceras partes, este, se van al pago de la deuda de Pemex y no se invierte en infraestructura. Ivy, mencionando aquí el tema que también mencionó del precisamente impacta en este asunto porque hoy en día no existen naves industriales, y las que se están listas para construirse no están listas porque no hay infraestructura de agua, no hay infraestructura de electricidad, ni todo lo que se necesita para aprovechar este este boom, esta oportunidad, debido al gasto que se tiene muy fuerte para pagar en Pemex. Y como dijo Jesús, gran parte del gasto en gobierno hoy en día se va a la asistencia social, y no va a cambiar el el el resto del año, ¿no? Nos nos tocará esperar al nuevo presidente o presidenta a ver qué es lo que sigue, pero ahí es la ahí es una una respuesta al por qué por qué se va para allá, pues es política de gobierno, porque es su estrategia de votos, es su estrategia de tener a gente lista para votar en el siguiente año, y ya veremos qué qué viene.
+
+[Speaker 6 - 01:01:52]
+Y también el tema del peso fuerte, estoy en en parte de acuerdo con Jesús, porque es cierto que impacta mucho a los exportadores, pero solo a los que son 100 por 100 productos nacionales. También ayuda a los exportadores, que dependen mucho de la importación de de de de materia prima, como pueden ser componentes electrónicos, otros componentes que no se hacen actualmente en México, y recordemos, el tema del new shopping y de las empresas productoras en México todavía está en desarrollo, entonces muchos componentes y muchas partes de muchos productos se traen de otros países. Entonces también es bueno para las empresas que importan productos para producir algo y después exportarlo. Entonces ni tan bien ni tan mal como en todo, hay personas que salen más afectadas que otras, y esa es mi opinión en cuestión del peso fuerte, y la regulación pues tiene que existir porque sí es cierto, a mí también me me causa ruido que cualquier persona, cualquier identidad pueda realizar un proyecto y hacer un ponzi, y yo estoy de acuerdo en que debe de haber reglas, si bien no todo para para específicamente, como dicen, no puedes regular el código, pero si puedes regular el codificador, o sea, hay hay quién hace el código, el código no se hace solo.
+
+[Speaker 6 - 01:03:11]
+Entonces, necesitamos ver que que que se haga una regulación para cómo se construye un código y y que se se escrutine sobre los códigos que pueden ser maliciosos, etcétera. Esa es mi mi opinión final. Y sobre Pepe, pues, no conozco mucho el proyecto, no me interesa, como ya les dije, todas las que salen a mí, que se dicen que ser proyectos de comunidad ya no me interesan, yo voy sobre proyectos que sí tienen una finalidad, que sí tienen una utilidad. Vuelvo a mencionar, por ejemplo, a VeChain, que es un proyecto de de de cadena de suministro que a mí me gusta mucho. Y, pues bueno, pues nada, eso es todo. Johnny, gracias por por el espacio y ya me extendí. Discúlpeme por por la canción de Spotify.
+
+[Speaker 3 - 01:03:59]
+Fíjate, Mexi, justamente eso que dijo Álex de de regular al codificador, es lo más peligroso y antilibertades, y y es justamente el tipo de narrativa que quiero me quiero deshacer, güey. O sea, es justamente el peligro que que le veo, güey, o sea, que que crean y quieran, entonces, ahora controlar cómo vamos a hacer los códigos, güey. Esto es antilibertades completamente. Y y bueno, alguien podrá estar de acuerdo, podrá haber debate, hasta moral, porque es más malo que bueno, porque la gente pierde dinero, y y en eso estoy de acuerdo, son, pero es que son ship coins, YYY estos estos Por ejemplo, dijiste, Mexi, que no es descentralización. Y estoy de acuerdo contigo con lo del espectro. Y y vamos AYYYY se puede ir, este, como dividiendo, ver.
+
+[Speaker 3 - 01:05:03]
+A nivel código, a nivel infraestructura, sí hay una descentralización. Aunque una persona sea la el el holder mayoritario, la infraestructura es descentralizada. O sea, eso eso eso no lo podemos negar. Ahora, a nivel social, comportamiento, no sé, incluso a a lo mejor como se va acomodando la la las comunidades alrededor de ellos, eso es otra cosa. Pero yo yo hacía, o sea, yo estaba señalando la infraestructura. La infraestructura sí es descentralizada, y querer regular una infraestructura descentralizada como lo propuso Álex, Incluso antes de que se cree, perdónenme, pero es lo más de la de las cosas más descabelladas que he escuchado, que quita y rompe completamente con hasta con bitcoin. O sea, es es como el sueño mojado de los gobiernos.
+
+[Speaker 3 - 01:06:08]
+El querer regular cómo se va cómo se va a escribir el código. Porque va ahí, no solamente bitcoin, no solamente ethereum, va ahí programas, softwares. O sea, pónganse a pensar de verdad si eso es lo que creen. Porque una cosa es tener buenas intenciones, pero es que no, es que hay mucha gente que pierde acuerdo con Jesús y y, incluso, creo que tiene buenas intenciones, o sea, sus sus, creo que sus opiniones, incluso el de Alex, viene de una, son bien intencionadas, pues, porque la gente, hay mucha gente que está perdiendo dinero. Sí, caray, pero este es el, de esto, o sea, no se trata la descentralización de que la gente pierda dinero, pero así se trata trata de que es descentralización. Y si no les gusta, no interactúen.
+
+[Speaker 3 - 01:07:10]
+Pero de eso justamente se trata la descentralización, de que no existe alguien detrás que te esté controlando y diciendo qué puedes y qué no puedes hacer?
+
+[Speaker 6 - 01:07:26]
+A ver, me voy AAA atrever a interrumpir un poquito. Yo no soy ningún diputado en campaña, tampoco ando haciendo propuestas, es una idea que ahorita se me ocurrió. Solamente como una idea, es un intercambio. No es lo que pienso, yo también interactúo, y me gusta todo el tema de la descentralización y la tecnología. De hecho, me dedico a eso. Nada más quiero dejar en claro que ahorita no soy nadie promoviendo hacer esto, ¿ok? Puntualmente, solo es una opinión.
+
+[Speaker 3 - 01:07:55]
+No, claro.
+
+[Speaker 0 - 01:07:57]
+Ahí Tavo, yo creo que sí hay a lo mejor términos que tenemos que inventar, ¿no? YYY espectros, como decías, ¿no? El social, el el el tecnológico. Porque hay Red Flags o no sé si hubo de Red Flags, en este caso, de PP. Antes de ir con Raze me gustaría sacarlo ahí al al al al al al aire. Justamente estaba investigando hoy Ethereum, vamos a tener una plática hoy en nuestro miro de donde vamos a platicar de Ethereum, de las Layer 2, de Optimism, Y me puse a hacer una investigación, yo ya sabía, ya lo había leído, pero tuve que refrescar muchas cosas y ahorita viendo el el el cómo salió a la venta, cómo se distribuyó toda la historia que ha tenido esta cadena, pues pues hay hay hay temas de técnicos, ¿no? De descentralización, pero también hubo ahí una premina que se distribuyó un 9 por 100 a la fundación, otro 9.9 por 100 a los creadores originales.
+
+[Speaker 0 - 01:08:58]
+O sea, yo yo creo que nos faltan a lo mejor términos YYYY una manera distinta de hablar de estos activos considerando que son muy diferentes, ¿no? O sea
+
+[Speaker 3 - 01:09:10]
+Sí, güey. Es que es que pretender cuadrar los mismos conceptos en un ecosistema completamente distinto, digo, nos sirve de forma pragmática para podernos comunicar mejor, pero también ocasiona muchos problemas, güey. O sea, YYY sobre todo que la gente no entienda. Léance, ahorita lo voy a opinar aquí abajo, hay un artículo muy bueno de de Vitalik Buterin, que habla acerca del dilema de seguridad contra la libertad. En en este ecosistema somos más libres, pero hay menos seguridad. Pero hay gente, porque hay menos seguridad por por con lo que decía Jesús, ¿no? Ahorita tú en el sistema bancario, en el sistema Fiat, puedes ir y te robaron dinero o un un una, te hicieron una estafa o algo y te pueden regresar el dinero. Y o se te olvida tu PIN y no puedes acceder a tu cuenta banco y puedes recuperarlo. Esa es más seguridad, pero eres menos libre.
+
+[Speaker 3 - 01:10:12]
+¿Por qué? Porque hay veces que no puedes utilizar tu dinero, cierra el banco, no te contesta tu banquero o te ponen límites para gastar, para consumir y, bueno, ya se está empezando los rumores que van a empezar de este lado del mundo a aplicar lo que pasa en China, ¿no? Que solo puedes consumir ciertas cosas, solo puedes consumir en estos restaurantes, solo puedes consumir esto si tienes un buen historial crediticio. En este en este lado, en este ecosistema es hay más libertades, puedes hacer más cosas sin pedirle permiso a nadie, pero la seguridad o o yo es que yo ahí yo tengo un tema. Para mí no es que haya menos seguridad, sino que tú eres responsable de tus de la seguridad. Tú eres el responsable de tu seguridad. Entonces ahora sí que ahí depende de la persona. Cómo cómo va a manejar su seguridad. Y y es un dilema, o sea, si quieren, habrá personas que te digan, no, es que eso es terrible, hay que destruir bitcoin y hay que regularlo y no van a existir las entidades descentralizadas.
+
+[Speaker 3 - 01:11:24]
+Bueno, eso es como le dije a una de esta gente, eres conservador, en el punto de vista de que no te gustan las entidades descentralizadas, y habrá quienes son progresistas de ese lado, en el que dicen no, yo quiero libertad, yo estoy al lado de las entidades descentralizadas. Es un es un dilema y una una discusión moderna, válida. Y y no creo que valga la pena entrar en moralismos de que es que es mejor, porque qué le das a la gente si solamente estás haciendo shipcoins, qué aportas a la sociedad. Bueno, bro, ahí ya entramos en temas morales que la neta para mí son una pérdida de tiempo. Vamos a escuchar a Don Ray.
+
+[Speaker 7 - 01:12:13]
+Está está interesante el debate, ¿no? Porque la verdad es que si nos ponemos sectarios, o sea, nunca vamos a llegar a ningún sitio, ¿no? La verdad es que ambos ambos ecosistemas o o ambos sistemas económicos tienen sus problemas, sus pro y sus contras. Lo que sí me parece un poquito absurdo es decir que el consumidor está más protegido en el sistema actual, ¿no? Con el tema de las leyes y todo lo demás, cuando las leyes son libre interpretación de de un jurado, tienes que contratar abogados. Mira, ¿cuántas personas aquí han han podido hacer valer sus derechos de consumo, por ejemplo. O sea, ¿cuánto cuesta hacer valer tu derecho de consumo como consumidor por algún producto o alguna estafa? Generalmente cuesta hasta más más caro de lo que te costó la estafa. Kascinna, mirá, ¿cuántos productos cuántos productos actuales en el ecosistema actual hay que son fraudulentos? Hay 1000000, salen todos los días.
+
+[Speaker 7 - 01:13:13]
+¿Y cuántas personas pierde dinero en el sistema actual todos los días? Infinitos. O sea, todos los días se pierde dinero en todos los ecosistemas. Eso es algo natural del mercado. Eso es totalmente natural. A mí me parece que lo que lo que dice Tavo también tiene razón aquí, y eso es algo de cultura, ¿no? Y y Jesús también ahí tiene tiene y Jesús también ahí tiene tiene razón en un tema de que, desgraciadamente, estamos en una sociedad en donde la mayoría no es una sociedad educada. Y eso es un problema, porque en en el ecosistema descentralizado, en todo lo que es tema escrito, tú eres el responsable de tu seguridad. Tú eres el único responsable de guardar tus CIFFRAID, de meter el dinero en un sitio en donde de verdad, este, te genere valor, que tú de verdad te deja la tarea de investigar. Ahora yo me pregunto, y esto no no es un tema en contra de de PPCoin ni nada de eso, pero, por dios, o sea, ¿quién invierte en una una moneda que es un memecoin?
+
+[Speaker 7 - 01:14:17]
+O sea, la palabra te lo dice, bro. Es un memecoin. O sea
+
+[Speaker 3 - 01:14:23]
+Shit hasta el
+
+[Speaker 7 - 01:14:25]
+momento, si si al final tú no quieres no quieres, este, riesgo, no inviertes en en activos basura y ya. Si si lo que quieres es ir a un casino, apostarle a ver si te haces millonario en una jugada, bueno, sí, es una es una es un chance. A mí me parece que esto es mucho más transparente. ¿Por qué? Porque la verdad es que el código está allí, es público. Tú sabes de desde entrada cómo es el juego. No es necesario ni ni siquiera que tú te des a la tarea o que tú seas programador, porque las comunidades se se dedican a a escudriñar el código. Hay muchos grupos y foros que lo hacen y auditan contratos. Pero la gente no se da a la tarea de de de, por lo menos, investigar. Y ya eso es una cosa que escapa a cualquier cosa. Eso es y y los esquemas piramidales existen desde el del sistema anterior. Ni siquiera es de No todos los esquemas piramidales son ilegales ni fraude.
+
+[Speaker 7 - 01:15:25]
+Exacto, exactamente. Entonces, al final, a mí me parece una discusión sumamente estéril, sumamente estéril. Porque al final este tipo de cosas son heredadas. No se inventaron ni siquiera en los sistemas descentralizados. Son cosas que se heredaron y que se están intentando migrar hacia acá. Al final, insisto, en todo el tema descentralizado y en todas las las DeFi y todo esto, es mucho más equitativo y justo para las personas. Mucho más transparente. Ese esa es mi opinión y, o sea, yo creo que que deberíamos empezar AAA ser un poquito más objetivo, porque la verdad es que no hemos llegado a ninguna panacea ni ningún ningún sistema es es aquí utópico ni nada por el estilo. Falta muchísimo para ver algo que realmente solucione todos los problemas mundiales. Yo sí creo sinceramente que todo todo lo que es Blockchain y todo el tema, este, descentralizado, es un avance importantísimo, pero falta muchísimo.
+
+[Speaker 7 - 01:16:28]
+Y si lo comparamos con Internet, cuando empezó Internet, ¿qué decían? Que era un sitio solamente para pornografía, para estafadores, para scan. ¿Y qué es Internet hoy actualmente? Básicamente sostiene la economía mundial. Si se cae hoy Internet a nivel mundial, colapsa al mundo. Así me parece que es la el tema DeFi ahorita y todo lo que son las criptomonedas, lo estamos viendo en un early adoptor, como el early add optors, en donde todavía hay muchos, todavía hay muchas cosas basura, pero eso no quiere decir que la tecnología esté mal. Todo lo contrario. Porque cuando se atrae tanta inversión y se ve tanto potencial, es porque hay algo detrás.
+
+[Speaker 1 - 01:17:21]
+Jesús, échale a ver qué opinas. ¿Tienes la mente por ahí levantado? Es que yo yo yo insisto que que que la gente no no es muy voy a sonar un poco bueno, que la gente no sabe de muchos temas. La gente es muy ignorante. Entonces, tú no puedes decirle a la gente que haga lo que quiera y que investigue. Porque yo puedo investigar cosas que que me den mi narrativa. ¿Me explico? O sea, y eso es lo que que que me den mi narrativa. ¿Me explico? O sea, y eso sucede inclusive con gente, entre comillas, puta. Entonces, yo sí necesitas Guyline. Es como si cuando fue la época del COVID con Trump que tomaba, dijo, ¿qué no se toman cloro? Que lo dijo medio de broma, hubo gente que sí lo hizo y murió. Porque, perdón, pero es que la gente no es muy brillante. Entonces, sí necesitas a alguien que le diga, oye, el cloro es malo, no lo tomes. Parece broma. Pero sí hubo gente que lo hizo. Entonces claramente si le dices, pues métete te puede ser millonario, mucha gente lo va a hacer, pero no va a entender el hecho de que realmente la probabilidad de hacerte millonario pues es mínima. También si compras un billete de lotería, pues también puedes hacer millonario, pero pues hay probabilidades.
+
+[Speaker 3 - 01:18:26]
+Explícales eso a la gente, ¿no? O sea Pero pero, por ejemplo, Jesús, ahí ahí estoy de acuerdo contigo. O sea, tú tú hablas ya ya cambiaste un poco la narrativa hacia directrices, guidelines. No no cosas que que te están obligando a, o sea, no no leyes que te quitan las libertades, no no una, ya ya cambiaste la narrativa de una guideline o de de una institución reconocida que te diga, oye, esto es peligroso, es de alto riesgo, que, bueno, que por cierto, ya las hay. Eso está bien, porque ahí no te están obligando a a no utilizar entidades descentralizadas
+
+[Speaker 7 - 01:19:00]
+Claro que está bien, pero pero fíjate fíjate fíjate algo importante, Tavo, y disculpa que te interrumpa. Es que el tema el tema de fondo, si te pones a ver, ¿no? El que está detrás de todo el tema de la ignorancia de de del pueblo y de todo esto es es son los gobiernos. O sea, no es más fácil tener sistemas educativos educativos que en donde de verdad eduquen a la gente, pues no se puede decir que no tengan capacidad. La verdad es que todo el mundo tiene la capacidad, a menos que hayas nacido con ninguna discapacidad mental, todos tienen la capacidad para para entender lo que está pasando. Simplemente
+
+[Speaker 1 - 01:19:33]
+simplemente que no tienen acceso a a la educación realmente, y que el gobierno, los gobiernos del mundo nos les conviene tener,
+
+[Speaker 7 - 01:19:35]
+pues, les conviene tener gente pendeja. Porque es más fácil controlarla.
+
+[Speaker 3 - 01:19:42]
+Esa es la realidad de todos. Sí, esa es es, como dice don Rayos, esa esa es facultad del del Estado. O sea, realmente y y fíjate, incluso aunque sea la facultad del estado, la mayoría de las personas en el ecosistema de la descentralización, web 3, todo esto, de las cosas que ven así de de las cosas más importantes. Cuando tú le preguntas a alguien aquí dentro es la educación. Te lo van a decir casi como si fuera mixta, como si fuera un rezo. Hay que educar, educar, educar, educar, educar. Y ves a muchísimas personas educando a las demás personas, haciendo guías, Instagrams, páginas de Twitter, spaces. O sea, sí hay realmente un esfuerzo, incluso dentro de la comunidad para educar. Los los héroes como el de vuelta o ¿cómo ves? Sí, o sea, esa narrativa está está chingona, o sea, esa esa en eso estoy de acuerdo. Pero ya decir como, ay vamos a regular que las personas no puedan crear código descentralizado, porque se sale de las manos, perdón, pero eso es completamente anti libertades, y yo de ese lado no, o sea, yo no estoy del lado conservador de la moneda, de esto, y es justamente las narrativas que me dan miedo.
+
+[Speaker 3 - 01:21:03]
+Yo Pepe lo llegué a defender porque es una entidad descentralizada. No porque se vaya a hacer la mejor moneda ni ni ni invitar a las personas a que compraron. Pero porque atacaban directamente una entidad descentralizada queriéndola regular. Y si regulan a una, porque la ley no es específica, la ley es general. Y si regulan a una, regulan a todas. Entonces, si le meten, si el estado mete manos a regular entidades descentralizadas, olvídense del sueño mojado de la web 3, de la descentralización. Ahora, la narrativa de crear guías y darle consejos a la gente, porque la gente es estúpida. Puta, estoy ahí estoy completamente de acuerdo, güey. Y porque la gente sí es estúpida. Pero eso es estúpida porque, como dijo Don Ray, los gobiernos quieren, todos los gobiernos, ni 1 se queda atrás.
+
+[Speaker 1 - 01:22:03]
+No hay mayoría, ahí no ahí no estoy de acuerdo. Los gobiernos no quieren que que sea estúpido. O sea, de hecho hay de gobiernos abiertos. O sea, por eso se hay gobiernos donde se permite la libertad de expresión y obviamente se disminuye la cantidad de estupidez, ¿verdad? Y hay gobiernos donde controlan la narrativa de la educación y hay mayor estupidez. Digo, como es como todo en la vida y y hasta hay indicadores de eso. Pero bueno, este, eso no es cierto que los gobiernos, o sea, todos los gobiernos queden maripantes. Eso eso no es cierto. O sea, hay gobiernos que sí, hay gobiernos que no, hay gobiernos más que quieren más manipulación, hay gobiernos que quieren menos manipulación. Pues eso está claro, es muy evidente. Si no compara nivel intelectual de los de la población de Suiza con el de Corea del Norte, claramente, o a nivel de sabiduría, lo que tú quieras. Pues claramente es diferente. Porque hay preguntas que sí lo promueva o no es que no. México, su país vecino y te va a decir que está de la soledad, del mundo y todo. No, es que no todos. Es que esa es una narrativa totalmente falsa. Si tú le preguntas un profesor de Stanford, claramente no te va a decir lo mismo que un despachado gasolinera.
+
+[Speaker 1 - 01:23:05]
+Profesor de Stanford. Es que es que es no por eso, pero la la cantidad de profesores de Stanford que hay en Estados Unidos es muchísimo mayor que profesor que hay en otros países. Entonces, esa narrativa no es cierta. O sea, eso eso lo único que hace es distorsionar la realidad. Si no se repito, no todo es blanco, no todo es negro, no todos los gobiernos quieren controlarlos. Hay unos que sí y en mayor proporción unos no, o sea, así así pasa, ¿no? Que hasta cierto punto quieren controlar, sí, pero no no todo, o sea, todo. En eso estoy de acuerdo, hay hay hay claro claros grises grises
+
+[Speaker 3 - 01:23:36]
+oscuros, blancos grises negros oscuros, pero, perdón, pero el gobierno sí controla. Es es y regula. Este es ese es el el trabajo de papá gobierno y papá está en todo Claro, claro, claro. Pero hay hay de control a control. Por
+
+[Speaker 1 - 01:23:52]
+ejemplo, si yo yo puedo cambiar de de empresa electricidad en Texas y tengo 4000 opciones, Yo en México no puedo. Tengo que usar CFE. Pues allá aquí hay más control de gobierno que allá. Por un ejemplo tan sencillo como ese. Y hay muchísimos más ejemplos. Entonces, por eso te digo, no todo es control control. Porque si yo en Texas veo petróleo en mi en mi casa, lo explotó y lo vendo. Y en México es propiedad del gobierno. ¿Aquí sí hay control? Allá no. En ese contexto. ¿Te explico? Entonces, sí hay matices, sí hay matices y hay gobiernos que controlan más como el mexicano y controlan menos como el americano. Con esos 2 ejemplos que te acabo de dar.
+
+[Speaker 0 - 01:24:31]
+Ahí ahí es un comentario. Yo yo sí creo que, no sé si el comentario va a estar muy agresivo o no, pero yo creo que sí mayoría los pendejos. Este, sí, sí son mayoría. Hay mucha gente que no le gusta estudiar, que no le gusta investigar, que que que no hace, pues no sé, que no sé, no sé, o sea Mexi, te quiero hacer una pregunta.
+
+[Speaker 3 - 01:24:57]
+¿Por qué hay pendejos a pendejos? Hay pendejos que saben que no saben, pero para mí los más pendejos son los que creen que saben porque se los ya los adoctrinaron y los llenaron de propaganda. Entonces, esos para mí son los pendejos, no solamente los más pendejos, sino los pendejos más peligrosos.
+
+[Speaker 0 - 01:25:17]
+Definitivo, definitivo. Me encantaría escuchar una perspectiva femenina, chica web. 3, ¿cómo andandas? Bienvenida. Gracias por estar por aquí. Hola, Mexi. Gracias, ¿cómo andan?
+
+[Speaker 4 - 01:25:29]
+Dije, no me quiero montar, no me quiero montar, pero es que Inteligente,
+
+[Speaker 3 - 01:25:33]
+carismático, me estoy poniendo mamado. Chao. ¿Tú checas webpress?
+
+[Speaker 4 - 01:25:37]
+Yo bien, disfrutando los últimos días veranestos, veraniescos que tengo en el lugar frío donde vivo. Todo chévere. Bueno, yo solamente quería porque yo a mí este tema, sobre todo el tema gobierno, cónchale, yo me extiendo demasiado. Pero quería hacer el comentario, simplemente va a ser breve, de que sí, 100 por tiempo hay matices y hay y hay grises y y depende del contexto. Pero lo que estuve en desacuerdo con Jesús es que, o sea, en el contexto que él dice, sí, hay gobiernos que controlan más que otros, pero, por lo menos, el gobierno de Estados Unidos le encanta controlar la narrativa y lo y lo hace con a través de instituciones grandes. Y andamos hablando de que hay Stanford y Harvard y lo que sea, y Columbia y todas las universidades que tú te puedas imaginar. Y todas las personas o las personas que mayormente, este, son influyentes en esas instituciones están muy entrelazadas con los gobiernos. Y la narrativa viene en dónde hacia dónde queremos mover la economía, que es lo que le tenemos que enseñar a las personas que le van a enseñar a otras, que van a estar en las posiciones altas del país, etcétera, etcétera.
+
+[Speaker 4 - 01:26:48]
+Líderes mundiales, toda esa narrativa está muchísimo, o sea, más controlada de lo que nos podemos imaginar. Entonces, yo soy de la narrativa de que los gobiernos son corruptos y les gustan controlar así que es, te doy libertad por aquí, pero ni te controlo la narrativa por acá, este, y y son así, bueno, yo creo que Don Ray iba por esa. Y nada, eso es lo último, lo único que quería decir como para que no pensemos que hay si es Suiza y Estados Unidos, pero los demás países, no. Yo creo que sí hay contextos y grises, pero así lo veo yo.
+
+[Speaker 1 - 01:27:24]
+Es que mira, buen comentario. Y y tienes tienes algo de razón, pero yo te voy a decir por qué lo lo las narrativas de la estas universidades se adoptan a nivel global. ¿Por qué es donde se crean estas nuevas ideas? ¿Dónde se crea la ciencia? ¿Dónde se crean los nuevos modelos, los nuevos conceptos, las nuevas ideas. Pues es lógico. O sea, si si estoy en una universidad, por ejemplo, hace 300 años David Ricardo, que generó la teoría de la especialización, que es el libre mercado, pues lo sacó en un en una universidad. YYY falsamente yo diría, es que están manipulando a las élites del gobierno británico. No, simplemente está implementando una nueva idea que es benéfica para el mundo. Ahora, que estas ideas son malas, no es cierto. Yo te invito a que veas las estadísticas de pobreza hace 100 años, y ves veas ahora. Hace 100 años, 80 por 100 de la población vivía en extrema pobreza. Hoy en día es 8.5 por 100. No me creas a mí, ahí están los datos. Entonces, se generan modelos, sí, se generan muchas ideas y modelos para justo para mejorar. O sea, no no es que te quieran manipular, pero claramente los mejores cerebros, pues se se mueven de Stanford al gobierno del gobierno de Stanford, en países funcionales.
+
+[Speaker 1 - 01:28:29]
+En países disfuncionales metes un militar que no sabe nada y te destruye el país. Pero en países inteligentes pones a la gente inteligente a cargo. Eso quiere decir que estén manipulando. Al contrario, quiere decir que las mentes más brillantes dirigen el rumbo de los países más desarrollados y el resultado es muy evidente. Los países desarrollados avanzan más y los países bananeros retroceden justo porque no hacen eso. Pero eso no quiere decir que estén manipulando a nadie. Simplemente que las mejores mentes de las mejores universidades, de los mejores pensadores se van al gobierno. Entonces eso es muy sano. Yo no le veo ningún problema a eso. Eso. Ay Jesús, yo puedo hablar contigo,
+
+[Speaker 4 - 01:29:08]
+o sea, podemos debatir ahora, porque yo también soy economista. Hablando de David Ricardo, ok, está bien, esa teoría, o sea, David Ricardo estamos hablando cuando ni siquiera se utilizaban esa estrategia. Estoy hablando de hoy en día lo que utilizan, o sea, cómo el conocimiento que se tiene se utiliza como manipulación y es más y más, o sea, mientras más poder tiene el gobierno, más corrupto se vuelve. O sea, yo te lo digo por por por como lo veo, por yo vivo en un país, yo vivo en Estados Unidos y y lo y lo he tenido acceso a esto y lo he visto en de primera mano. Ahora, hablando al término de pobreza, también podemos hablar de pobreza. Mi tesis de grado de economista es de pobreza. ¿En qué estás basándote en qué índice? O sea, estás hablando de de, ahorita estamos hablando que si un las personas que tienen más de un dólar, este, al que que pueden tener un dólar para consumir al día, eso es un indicador de pobreza. Y obviamente, mientras mayor es la inflación, ahorita más personas tienen la la capacidad de tener un dólar. Y mientras mayor es la inflación, ahorita más personas tienen la la capacidad de tener un dólar. Pero, ¿con en qué indicador te estás basando? Para decir que ahorita hay menos pobreza en el mundo. Hay
+
+[Speaker 1 - 01:30:07]
+muchísimos indicadores. No, yo lo sé. Pero hay yo me baso en una página muy buena que tiene un recopila información de muchos países. Se llama hour world in data, hour hour data in the world, algo así. Google World data. Está muy interesante. Sí, what data. Ándale. Es muy bueno. De ahí, bueno, ahí a la parte, no me acuerdo, pero me imagino que hiciera una compilación de las bases de datos para sacar un estimador. Probablemente en 1820 no había un indicador, pero si utilizan proxys, de un amigo que es historiador económico, obviamente de hace 150 años en México, no había estadísticas, pero se utilizan proxys, ¿no? Para y te dice, te dice, mira, esta estadística para este país, pues, es un proxys, un estimado, es un es un dooming, no lo sé. Pero digo, de eso, a no tener nada, pues, se aproxima más a la realidad. Eso eso es eso es por un lado. Pero, este, que la pobreza ha disminuido, eso es cierto. Eso eso es eso es evidente y no hay, o sea, obviamente hay países que no, países disfuncionales. Pero a nivel global eso es cierto. Ahora, que que cada vez la gente consume menos, también es falso.
+
+[Speaker 1 - 01:31:08]
+Te invito que veas las los indicadores de ingreso disponible.
+
+[Speaker 4 - 01:31:13]
+Yo no dije eso.
+
+[Speaker 1 - 01:31:14]
+Ajustados por poder de compra. Cada, todo lo sobre todo en países desarrollados, la gente compra muchísimo más. O sea, el poder de compra, PIB per cápita, Estados Unidos, hoy en día 70000 dólares. Hace 10 años ya era 40. Hay países que se estancaron. Japón se quedó en 40, Reino Unido está en 45, está en 50 y está cayendo. Pero Estados Unidos sigue brutal. Y además más Irlanda, 102, brutal. O sea, son países que claramente son más ¿Y qué compra? Pero ya se ven Aparte de bienes y servicios, comida. Y ojo, y fíjate, son países, por ejemplo, Irlanda, que no tiene petróleo, no tiene recursos naturales. ¿Por qué? Porque ellos entendieron muy bien que el valor agregado no está en los recursos naturales y primarios, sino está en la transformación, y particularmente en los procesos tecnológicos. El Taiwán, el Singapur, Irlanda lo entienden a la perfección, Corea del Sur. Y por eso son exitosos y ricos, porque ellos no entienden claramente que cargar un barril de petróleo de punto a punto b no me va a dar un salario para hacerme millonario, porque mi valor agregado de cargar un barril, pues es mínimo. Diseñar una estructura a partir de pago, eso sí tiene un valor agregado brutal.
+
+[Speaker 1 - 01:32:17]
+Entonces, yo yo no yo no me caso con esa idea que todos todos estamos mal, no. Hay países que están muy mal, sí, porque hacen las cosas muy mal. Hay países que están muy bien, sí, porque hacen las cosas muy bien. Y qué bueno que tengan cerebros. Qué envidia. Aquí estamos hablando de que tenemos un futbolista de gobernador, este, que si se lanzaran mascaritas agradables, seguro le gana a Agustín Carsten, pues es es la realidad. Yo a mí me encantaría un Angela Merkel, un Trudeau, gente intelectual, un Gordon Brown, un estadista, un Gurría, un Carsten. Pero, pues esas son las realidades. Las consecuencias las veremos a futuro. Y si no me creen, pues vean las estadísticas en 10 años y platiquemos cómo le va a Estados Unidos, cómo le va a ir a Corea del Sur y cómo le va a ir a México. Gracias.
+
+[Speaker 3 - 01:33:02]
+De nada.
+
+[Speaker 4 - 01:33:04]
+Yo quiero hacer una última cosa, este, nada, o sea, el tema, obviamente, nos podemos hablar aquí de esta Primero, yo no he dicho que todos estamos mal, yo simplemente estoy hablando de que la corrupción es algo que está en en todos los países, en todos los estados, todos los sistemas de gobierno, y que no quiere decir que todos estemos mal, pero el sistema en general ha demostrado de que esa
+
+[Speaker 1 - 01:33:28]
+igualdad que queremos lograr o tener menos diferencia, así sea ingresos o igualdades, oportunidades, derechos civiles, lo que sea, sigue siendo, no no hemos logrado llegar a
+
+[Speaker 4 - 01:33:35]
+no hemos logrado llegar ahí como globalmente, ¿no? O sea, puedes hablar que Estados Unidos está bien y otras naciones están bien, pero yo creo que, o sea, te voy a mandar, Jesús, te quiero mandar solamente por por para que lo revises, pero el tema de de el IMEF, el el Fondo Monetario Internacional, y cómo prácticamente ahí te explica la principal razón por la cual el sistema global En el fracaso, ¿no? O sea, sea, que eventualmente que que va a pasar ahorita, va a pasar después o ya está pasando, es algo que que, o sea, que hace 70 años no era así. O sea, cuando que cuando hablamos de David y Ricardo, esto eso no era lo que estamos viendo ahorita, por ejemplo. Entonces, yo no estoy diciendo que es que que todo que todos estamos mal, de que la pobreza nos va a matar, de que los países no avanzan. Pero yo sí creo que hay que hablar primero de qué es desarrollo, porque estás hablando mucho de de los países más avanzados, es desarrollo, ¿es qué para ti?
+
+[Speaker 4 - 01:34:44]
+O sea, ¿son qué tipo indicador? O sea, hay que meterse a hablar de eso porque estás hablando mucho del de la riqueza de los países que están expuestos a prácticamente la posibilidad de de competir con el dólar. Y hemos visto que mientras más hay supremacía del dólar, pues los países que que no tienen cómo pagar su deuda externa en dólares se van quedando en en rezago, y es lo que estamos viendo ahorita, que eso no no no duró, o sea, eso eso no se presentó hace hace 20, 30 años, pero se está presentando ahorita. Entonces de ahorita en adelante yo creo que bueno, también estamos hablando de esto es por el tema de la descentralización. Entonces la descentralización lo que hace es Pero pero Corea
+
+[Speaker 1 - 01:35:37]
+Corea Corea del Sur Corea del Sur, perdón, no tiene moneda hegemónica y está creciendo tasas brutales. Entonces, ¿cómo explicas el? Porque Corea del Sur no tiene moneda de reserva. Entonces, ¿por qué por qué Corea del Sur sí sí le va bien si no tiene moneda de reserva internacional? ¿Qué es cuántas series?
+
+[Speaker 4 - 01:35:52]
+Pero ¿qué es irle bien? ¿Qué es irle bien, Jesús? ¿Qué? ¿Es pibes? ¿Está hablando de de?
+
+[Speaker 1 - 01:35:58]
+Índice de desarrollo humano. No, no, no. Índice de desarrollo humano, índice de competitividad y educación. Este, pero ¿por qué si no? Es que a mí el momento de la moneda de Israel Espérame espérame espérame espérame espérame espérame no Israel va bien porque invierte mucho en tecnología. Eso es Por eso. En en tecnología por persona es brutal. O sea, 3 veces por persona. Y eso, otra vez, va va vamos al valor de la moneda no genera riqueza. Yo no sé de dónde sacan que la moneda genera riqueza, nunca lo ha hecho. La moneda es para intercambiar bienes que genera, que esa es la producción, más bienes y servicios. Ahora, si la producción de más bienes y servicios realmente no contribuye al bienestar, te invito a que veas una correlación entre el PIB per cápita y el índice de desarrollo humano Jesús,
+
+[Speaker 4 - 01:36:43]
+Jesús, la moneda la moneda es importante porque tú para producir, o sea, tú para producir, tú no lo haces con con con cash. Tú para producir pías crédito. El crédito que tú pías es aquí en No, yo lo sé, yo lo sé la deuda, el 60 por 100 de la avenida mundial está en dólares.
+
+[Speaker 1 - 01:37:01]
+¿Por qué cuál es cuál es la por qué Corea del Sur crece si su moneda no es hegemónica como el dólar? Eso es pregunta seria. ¿Por qué sigue siendo y es una economía exitosa si no es moneda de reserva el el el won? Es
+
+[Speaker 4 - 01:37:13]
+Bueno, dime dime tú por qué es tan importante ese ese ejemplo. Dale, Tavo.
+
+[Speaker 1 - 01:37:19]
+No, porque porque obviamente no no Estados Unidos no es el único país que es exitoso. También Irlanda, también Taiwán, también Singapur, también Suiza. O sea, no es por su moneda. Es porque ellos invierten en factores que elevan la productividad. Mira, antes de la Segunda Guerra Mira, Suiza, la riqueza de Suiza es antes antes de la Segunda Guerra Mundial, la la moneda de reserva era la libra esterlina. Después de la Segunda Guerra Mundial, se volvió el dólar. ¿Qué crees que le pasó a Reino Unido? ¿Fracasó como país, se hizo pobre? No, todo lo contrario. De hecho triplicó su triperta aún sin una moneda de reserva.
+
+[Speaker 3 - 01:37:58]
+Oye Jesús, yo quiero saber si estoy más o menos bien en mi en mi teoría de por qué esos países que mencionaste les va bien. ¿Será se tendrá algo que ver porque mencionaste les va bien, ¿será se tendrá algo que ver porque son aliados de Estados Unidos y la inversión viene de ahí de de en
+
+[Speaker 1 - 01:38:13]
+dólares? No, ¿serán o no serán aliados? La la respuesta es muy técnica. Si yo no tengo ahorro, necesito inversión de otro lado, Porque yo no yo no yo no acumulo esta inversión que yo necesito para elevar mi crecimiento. Si eres aliado o no, es eso no importa. Lo que importa es que entre el capital. No, bueno. ¿Sí me explico? A lo que voy a lo que voy es inversión, es inversión en gringa. O sea, eso pasó en Ecuador. De donde sea. Jamás hubiera crecido si no hubiera tenido la la inversión de de todos los judíos que llegaron a con dólares e invertir. Es que es que fíjate, el caso México. A mí me dicen, oye, viene China a invertir, qué bueno, inversión es buena. Viene Estados Unidos a invertir, qué bueno. Si viene Irán, qué bueno. La inversión genera productividad, genera riqueza a largo plazo. Bienvenidos todos. No, yo no me caso que si es China, que si Estados Unidos, no. La inversión es productiva, punto. Y si tú haces aliados con países productivos, pues vas a tener más es productiva, punto. Y si tú haces aliados con países productivos, pues vas a tener más inversión. No, pero pero sí importa si es Estados Unidos por el tema de la deuda. La deuda mundial es en Estados Unidos No, cierta, importa la de crees que le van a dar la misma referencia a ellos. ¿Tú crees?
+
+[Speaker 4 - 01:39:12]
+Mira, importa la
+
+[Speaker 1 - 01:39:13]
+denominación de la moneda. Importa la denominación de la moneda y cómo se relaciona tu moneda con con con la moneda global. Tú sabes que tú sabes que la deuda PIB de Estados Unidos es 130 por 100. O sea, hay más deuda que PIB. Pero tú sabes que la de Japón es 250 por 100. Te pregunto, ¿tú crees que Japón está a punto de tronar? ¿Tú crees que ya fracasó? ¿Es una economía pobre? Justo todo lo contrario. O sea, yo yo me refería a lo contrario. O sea,
+
+[Speaker 3 - 01:39:35]
+ellos ¿Tú crees que, por ejemplo,
+
+[Speaker 1 - 01:39:38]
+Estados Unidos le va a dar un lo la misma preferencia de deuda, las mismas tasas de interés a Cuba que a Israel, que se que va de acuerdo a su ideología? Claramente no, no tiene que ver con la ideología, tiene que ver con la capacidad de repago. Es como si yo le presto, yo me dedico a prestar, yo le presto a una persona que no tiene trabajo. ¿Tú crees que lo va cobrar la misma tasa de interés que una persona que me compró Tienes que ver Claramente no, no, pues claramente no. Yo lo que quiero otra cosa, disculpe porque tengo micrófono. Si no, otra cosa. Por eso hay calificadoras, porque oye, triple AATC, ya defines, oye, c Correcta, habilitado. Que no te pagues, pues le tienes que Corea tiene una economía muy disgustada. Sector financiero. No le voy a prestar a alguien que no me va a pagar. Por eso el FMI, que es un banco, por cierto, va a países y te les dice, oigan, yo te voy a prestar, pero espérate, tienes un déficit. Lo que tienes que hacer es reducir el déficit. Y para recibir el déficit tienes que generar PIB, porque PIB entre deuda, ¿verdad? Entonces, te dice qué hacer, sobre todo en países disfuncionales y bananeros. Pues claro, porque si no yo te voy a prestar y nunca me vas a Hay que escuchar a Carlos.
+
+[Speaker 1 - 01:40:39]
+Digamos, vamos con Carlos no, es un tema, oye, ¿me vas a pagar o no? Porque si no, no te presto, ¿verdad?
+
+[Speaker 3 - 01:40:46]
+Vamos a escuchar a Carlos.
+
+[Speaker 0 - 01:40:48]
+Sin interrupciones, ya ya no estamos, este, interrumpiendo mucho. Veamos veamos cuál es la la opinión también de de Carlos, que ya lleva un rato acá abajo y no no ha opinado y ahorita destapó su micrófono. Y vamos rotando también el comentario, ya nos estamos explicando mucho. Carlos, Carlos, una disculpa, pero es que como que se están
+
+[Speaker 3 - 01:41:04]
+poniendo una voz sobre la otra. Pero date con todo.
+
+[Speaker 0 - 01:41:12]
+Carlos Carlos Correy.
+
+[Speaker 4 - 01:41:14]
+Carlos,
+
+[Speaker 8 - 01:41:15]
+que queramos escuchar allá ya ya. Ya, perdón. Sí, Corea tiene una economía muy estatizada. Los corporativos coreanos, Handay, Daiwo, Samsung, LG, tienen porcentaje estatal. Algunos de ellos tiene porcentaje estatal. Y tiene la el respaldo solidario del estado cuando caen en deuda. Esto en crisis. Esto ya ha sucedido. De hecho Estados Unidos ya se ha quejado de eso. Por por el porque el el soporte parcial del gobierno coreano. A los corporativos. Entonces, este, lo dejo ahí por eso. Es una clave del desarrollo coreano, pues. El el apoyo estatal, ¿no? Eso es algo que también se que se se se se aplaude, que Corea esté fuerte, pero se se se condena cuando un país tiene un estado fuerte que respalda a sus empresas, ¿no? Entonces, ahí lo dejo. ¿No lo escuchaste Jesús?
+
+[Speaker 0 - 01:42:05]
+Yo yo sí lo escuché bien, no sé Jesús si no alcancé a escuchar lo que decía Carlos, si no te recomiendo bajar y volver a subir.
+
+[Speaker 3 - 01:42:14]
+Igual se lo puedo repetir. Pero no sé, Jesús, ¿andas por ahí? Jesús Christ, el economista favorito de la Web 3.
+
+[Speaker 8 - 01:42:25]
+Sí, ahí revisen, ¿verdad? La la las corporativos
+
+[Speaker 3 - 01:42:27]
+coreanos grandes, qué porcentaje estatal tiene, o sea, el estado en sus acciones. Y es considerable. Mismo en China. En China el estado es dueño del 60 por 100 de de de las acciones de todo el país, ¿no? Eso está cabrón. Pero vamos con chica.
+
+[Speaker 4 - 01:42:47]
+Ok, yo quería decir un comentario en base a lo del Fondo Monetario Internacional. Creo que ha hecho esta intervención en algunos espacios, pero voy a poner un ejemplo rápido y y por qué yo creo que la supremacía del dólar es lo que es el problema principal, ¿sí? Por la una de las razones por la cual yo soy super fiel al a la hipótesis de bitcoin. El tema con el Fondo Monetario Internacional, desde igual con el Banco Mundial, desde sus inicios, ellos obviamente, como cualquier institución, esperemos, empiezan con una, este, labor, ay que ah no, ahí está Jesús. Ah bueno, el día, se está conectando. Ah bueno, con una labor, este, de ayuda, ¿no? Una labor, digamos, no sé si altruista, pero en general, con una buena intención de ayudar a las naciones para su desarrollo. Pero, como todo en la vida, ¿no? El sistema que conocemos, cuando un cuando cuando una institución ya se enraiza tiende a corromperse, ¿no? Entonces, los casos que se han visto en los últimos 20, 30 años, con el tema de del Fondo Monetario Internacional y cuáles son sus principales donadores, son los Estados Unidos, Francia, países con muchas riquezas y países que, en general, suelen ayudar a otras a otros países en todo las instituciones, este, internacionales.
+
+[Speaker 4 - 01:44:00]
+O sea, todo prácticamente los los miembros del Consejo de Seguridad de las Naciones Unidas. En fin, son 4 o 5 países, yo creo que son los principales donadores de del Fondo Monetario Internacional. Y bueno, claro, obviamente una donación 1 está esperando también que tenga algún retorno. Y eso se ha ido corrompiendo o corrompiendo año tras año. Entonces, por ejemplo, una de las cosas que hacen Fondo Monetario Internacional es, por ejemplo, va a los países y dice, ok, vamos a ir a Indonesia, que ellos son bastante, tienen bastantes recursos de de de de de, por ejemplo, langostinos, ¿no? Y entonces dicen, bueno, vamos a ir a Indonesia que, bueno, es un país que, por ejemplo, su moneda local podría haber dejado a lo a los locales con altas tasas de inflación, este, pobreza, etcétera. Y van y dice, ok, ustedes necesitan una ayuda monetaria, vamos a poner en en papel un plan, entonces ahí están todo el plan que haces con tercero, ¿no? O sea, para que tu inflación venga a esto y para que tu política monetaria y fiscal sea de esta manera, esto esto es lo que tú tienes que hacer.
+
+[Speaker 4 - 01:45:04]
+Esas son las instrucciones que Jesús está hablando, ¿no? Pero en, este, para ayudarte este loan, para ayudarte este préstamo, que me lo vas a pagar en 30 años, ¿no? En préstamo en dólares, tu productividad o tu producción tiene que ser a tanto. ¿Tú sabes qué qué te llegaría a ti esa producción? Si tú produces langostinos, ¿no? Entonces, tú vas a producir estos langostinos, los Estados Unidos te los va a comprar, ¿no? Estados Unidos, Francia, no sé qué, te va a comprar esos langostinos y con eso esos dólares que tú recibes, tú no pagas la deuda. Entonces, eso es termina siendo una explotación, ¿no? ¿Por qué? Porque ellos van a buscar mira, nosotros queremos que no lo que la gente en Estados Unidos, este, tenga langostinos baratos. O sea, ¿cómo hacemos para que las naciones más grandes vivan vivan la vida lujosa? Explotando las naciones más pequeñas, explotando esos recursos, vamos a darle un préstamo, los paga en 30 años. ¿Qué va a pasar? Estás produciendo simplemente es para satisfacer las necesidades de esas naciones.
+
+[Speaker 4 - 01:46:05]
+O sea, tú sí produces langostinos, pero si tú fueras tu país, tú dices, mira, en verdad, yo quiero producir langostinos en tanto, pero nosotros también tenemos esta y esta y esta y esta otra industria. Tú le dices a tu población, no, mira, nosotros tenemos que pagar un préstamo al Fondo Monetario Internacional a esta tasa en 30 años, esto es lo que tenemos que hacer. Todo el mundo va a producir explotando lo que sea, como sea que tú tengas explotar esa industria, porque nuestro préstamo está en dólares. O sea, tenemos, le vendimos el arma al diablo y y si no producimos esto, pues no vamos a poder pagar la deuda. ¿Y saben qué? La mayoría de las deudas del Fondo Monetario Internacional termina moviendo la arruga. Porque si la inflación en Estados Unidos es así, ¿tú crees que los demás países van a poder pagar esos préstamos cuando ellos, la mayoría de de de lo que ellos hacen, no es una producción que es competitiva con con los dólares que tienen que pagar en el préstamo? No. Entonces, eso se vuelve una es es un círculo vicioso en donde las naciones se vuelven más y más y más y más pobres y con la más dependencia de que le pueden vender el alma al diablo día tras día y y ciclo económico y ciclo político tras ciclo político.
+
+[Speaker 4 - 01:47:18]
+Porque todo lo que ellos piensan es, bueno, si no hago buenas relaciones con los Estados Unidos, con estas naciones, entonces no voy a poder pagar mi deuda en el largo plazo. Por lo tanto, va a ser mayor pobreza para mi país. Por lo tanto, o sea, imposible que yo pueda ganar unas elecciones, que yo pueda y así. Por eso las naciones están cada vez, cada vez más ligadas a a lo que sea que a mí me haga poder, este, mover mi economía y y pagar mi deuda y mantener AAA mi población en general. Y y me extendí muchísimo, pero ese es el círculo vicioso que yo digo que causa la la moneda principal. Y no y no estoy hablando de que, bueno, o sea, obviamente le estoy echando mucha caca a Estados Unidos, pero es que son todas las instituciones en general. Mi conclusión es que los poder cualquier institución con con con mucho poder es corruptible. Y cuando hablo de que sí hay grises y hay y hay razones y hay y hay contextos, es verdad. Pero la la idea general aquí es que es que si si tienes una moneda que depende de un país, siempre va a existir este problema.
+
+[Speaker 4 - 01:48:21]
+Y esto es un problema sistemático que que define, o sea, prácticamente la política y y la economía de de todas las naciones. Y es un, bueno, es un problema gigante. Y ya, creo que es lo último que va a decir. Muchísimas gracias, ¿verdad? Por dejarme hablar tanto, porque me encadené muchísimo.
+
+[Speaker 3 - 01:48:44]
+Está está está subiendo Jesús. A ver, seguro te va a contestar. O ya le di la palabra. Oigan, en lo que Oye, yo yo Nada más. Dejé aquí arriba apiñado un tweet, porque se viene la parte 2 de México y la web 3. Acuérdense que este fue un espacio, es la parte 2. La parte 1 nos inspiramos en los venezolanos, en Andrew, Bayland, ay, no recuerdo quién era la tercera persona que hicieron 1. Ellos ya van por el tercero, nosotros apenas vamos por el segundo, y este es con temática, pues, más que nada de elecciones, porque se vienen las elecciones presidenciales en 2024 acá en México. Entonces, ya vimos el anuncio de Indira Kempis, Bitcoiner, lanzándose como candidata de Movimiento Ciudadano, creo, ¿no? No no sé si es confirmado. Y, pues hay mucho de qué hablar de de aquí con los mexas. Obviamente si no eres mexicano o mexicana igual estás invitado, invitada, pero pues sí es un poco enfocado nada más para los mexas.
+
+[Speaker 3 - 01:49:48]
+Entonces ahí agradecemos si nos ayudan a a generar engagement alrededor de este espacio durante estas semanas, es el 10 de septiembre, o sea, el siguiente domingo. Y, pues, ayúdenos ahí a etiquetar a los políticos. Estaría buenísimo tener a alguien ahí invitado de políticos para hacerles preguntas, ¿no? De cómo ven todo el tema cripto, bitcoin y Web3.
+
+[Speaker 1 - 01:50:14]
+Ahora sí, Jesús, date. Sí, yo yo yo te diría, mira, eso eso de que las instituciones están manipulando. A ver, hay que entender que el fondo monetario no es de Estados Unidos. Lo conforman todos los países, bueno, una gran mayoría de los países del mundo. El mismo Indonesia Son 4 o 5, son 4 o 5, me parece totalmente falso eso. De hecho, todos los países miembros aporta. De hecho su moneda que es el SDR es una canasta de varias monedas. Pero ahí está Indonesia, está Singapur, está Brasil. Hasta México es parte del FMI. Te lo digo porque nosotros aportamos. Yo trabajé en Hacienda y parte de mi chamba era ver cuánto cuándo teníamos que hacer el pago anual. No solamente al FMI, ¿eh? Al Banco Mundial, al BID, al CAF, al NATBAC. Entonces eso no es cierto. Eso es lo que Jesús, los principales donantes,
+
+[Speaker 4 - 01:51:03]
+Japón, la Unión Europea,
+
+[Speaker 1 - 01:51:05]
+yo no dije que son los principales. Yo lo que dije es que todos Bueno, pero una cosa estoy diciendo que a ver, perdón chica, no, no, es que yo estoy yo es que estamos hablando cosas distintas. Yo dije que la mayoría de los países son miembros. Nunca dije que eran mayor donantes. De hecho Brasil dona más que México, ¿ok? Eso no tiene nada que ver con lo que estoy hablando. Tú estás hablando de donantes. Yo estoy hablando de miembros. Bueno Claro, pero los miembros porque tú voy a mentir algo rápido. Antes de que te son de los miembros. Por ejemplo, cuando cuando hay cuando hay una misión, una misión a Indonesia, claramente está involucrado el gobierno de Indonesia y la gente de Indonesia que tiene en el FMI para explicar. Todos los países tienen oficinas representativas. Indonesia tiene su oficina representativa en el Banco Mundial, y en el y en el FMI, México también la tiene. Es más, yo iba mucho con los 2, con el del Banco Mundial, Juan Carlos, marcó su apellido, y el otro que estaba en Banco de México y lo mandaron al FMI. Estamos en coordinación constante.
+
+[Speaker 1 - 01:52:05]
+¿Sí me explico? No es que el el FMI tenga su propio no, nosotros participamos activamente. Y así como nosotros todos los países. Entonces, si no estás de acuerdo No, es que mi argumento
+
+[Speaker 4 - 01:52:17]
+No, es que tú estás mira, tú quieres tú quieres disminuir mi argumento basado en algo que no tiene nada que ver con lo que yo estoy hablando. Entonces, si me vas a decir eso no es así, mejor quédate entonces cuando te digo que los principales donantes son 5 países, que su, este, ¿cómo se dice? Su interés principal es sacarle provecho a esa donación que ellos tienen y tienen el poder de hacerlo a través de la moneda y a través de de todos los términos No, es que ese es el es
+
+[Speaker 1 - 01:52:45]
+que es falso. El abuso puede evitar ahí. No es falso. No, es que el el FMI no regresa dinero a los es que eso es falso, perdón. Cada año los países pagan una cuota, ¿sí? Pero esa cuota se invierte en otros países que tienen problemas, se llaman préstamos. De hecho, el FMI es un banco. Para entender, ellos no reciben beneficios, no hay reparto de dividendos. Eso es falso. Ese dinero se queda en la institución y vuelve a prestar. Si Estados Unidos no recibe Obviamente, pero es que yo no estoy diciendo eso. Que se benefician.
+
+[Speaker 4 - 01:53:14]
+No se benefician. Se benefician a través del producto que se produce. No, porque es el
+
+[Speaker 1 - 01:53:22]
+que se beneficia en el FMI, no los países. No es cierto. No reparten dividendos, o sea, no se benefician.
+
+[Speaker 4 - 01:53:31]
+No estoy diciendo que reparten dividendos. No estoy diciendo que reparten dividendos. Estoy diciendo el caso que yo dije fue el el tema de los langostinos. Se quedó con productos. Ellos quieren producir y a ver, creo que no sé si me están escuchando, ¿me están escuchando? Sí, Lauren Clear. Ok. Sí, la verdad, gracias. Que perdí que perdí los audífonos. Ajá. Lo que yo estoy diciendo es que buscan explotar en producción qué es lo que los países necesitan. Expliqué bastante los langostinos, lo expliqué como un producto que es de lujo en otros países. Mira, yo solamente, porque yo sé, mira, tú y ya podemos estar hablando, si es que si es que deseas, porque la verdad yo creo que lo que yo digo tú lo tergiversas. Yo sé que yo mis credenciales no los no los menciono porque soy anónima, pero a mí lo que me molesta es que tú asumes que yo no sé, me molesta muchísimo me hablas indicadores y de páginas web y de que no sé qué, como si yo no supiera. Yo también soy economista, tengo una maestría en finanzas, este, trabajo en ambas y tengo un recorrido, tengo mis 30 edades de años, tengo un recorrido profesional muy grande, trabajé con embajadas, trabajé con instituciones internacionales, sé muy bien cuando te hablo el Fondo Monetario Internacional, sé muy bien cuando te hablo el Banco Mundial, sé que tú también has tenido tu recorrido, pero no me gusta que tus argumentos los, o sea, para hacerme el contra argumento, me dices como que tú no sabes o me estás cambiando el el argumento que estuviste.
+
+[Speaker 4 - 01:54:57]
+Yo nunca dije que no supieras. Nunca dije
+
+[Speaker 1 - 01:55:01]
+que no supieras. Lo único que dije Yo sé que no lo quité, pero no, pero lo lo asumes con las formas de que tienes los 2. Lo único que yo dije es que todos los países son miembros, es lo único. El mismo Indonesia es miembro. México es miembro. Para cuando hay una negociación con un país, está la oficina del del representativa y tiene mucho que ver. Si el gobierno no está de acuerdo, no se hace préstamo. O sea, el gobierno mismo al que le vas a dar el préstamo tiene que estar de acuerdo. ¿Sí me explico?
+
+[Speaker 4 - 01:55:28]
+Perfecto. Pero no digas que mi argumento es falso y después me dices, el Fondo Monetario Internacional hay tantos y tantos participantes porque entonces fíjese, mi argumento es falso. Quédate con que dije que los principales donantes son países poderosos. Entonces, si me vas a decir que ese argumento es falso, entonces entonces vete con el no dije que fuera falso. Lo que dije que es falso es que se benefician monetariamente el FMI. No se reparte dinero del FMI. El FMI se queda el dinero ahí y se reinvierte.
+
+[Speaker 1 - 01:55:55]
+Porque es un es una institución que representa muchos países, no 1, 2 o 4.
+
+[Speaker 4 - 01:56:01]
+Entonces no se 100 por 100. Y el tema de que es un préstamo tampoco lo tienes que explicar. Y no estoy hablando ni siquiera de que se quede con dividendos. Explicando específicamente que se aprovechan los países donde pueden explotar un producto que es beneficioso para las naciones que
+
+[Speaker 1 - 01:56:18]
+dominan las donaciones al Fondo Monetario Internacional. No estoy hablando que los gobiernos se reparten. Lo que yo entiendo del FMI es que trata de que el país salgan adelante y tengan, si tienen problemas económicos, solventar sus problemas financieros a través de reestructura. Es por ejemplo su gasto público para que tengan un menor déficit o un superávit fiscal. Yo lo leo completamente
+
+[Speaker 4 - 01:56:38]
+que tú en ese contexto. No, y eso y y esta y es y eso es, por eso dije desde el principio, bueno, creo que en ese momento fue el el momento que te saliste. Dije, desde el principio esa es esa es su labor. Pero eso no quiere decir que sean que han se han corrompido o entonces es a eso es lo que me estoy refiriendo y voy al mismo argumento con el que con el que me monté, que es que todos los todas las instituciones, y yo sé que estás en desacuerdo, pero tienden a corromperse. Empiezan, yo no creo de verdad, yo no creo, yo creo que todos los humanos somos buenos. De de naturaleza de por sí. Yo no llego y conozco a alguien pensando que es una persona mala. Las instituciones, los gobiernos, todo el mundo empieza con una buena labor, pero los humanos de por sí, una vez que tú estás como en un en un lugar en donde sabes que tienes el poder, tienden a corromperse. Y no estoy diciendo que todo el mundo de fondos monetarios internacional es así, no, hay gente que va yo yo, es más, yo trabajé una pasantía por 6 meses en el fondo monetario internacional. Yo venía con las mejores intenciones, vamos a cambiar al mundo.
+
+[Speaker 4 - 01:57:41]
+Pero la cuestión es que, en general, las las los directivos, la la lo lo lo lo a lo que de verdad es, no sé ni cómo explicarme ya, pero a lo que de verdad es el fondo de de de la institución, no siempre, no en todas las labores, pero tiende a corromperse y hay muchos ejemplos de esto. Y de verdad que voy a pegar aquí el link de a lo que me refiero, porque hay hay un libro de de un activista humanitario que habla mucho de eso Y y de verdad que a mí, por lo menos, y el es más, él fue la bitcoin conference ahorita, este año, y y el argumento que hace de la debacle del del dólar de por sí y de cómo la economía, este, mundial, prácticamente el sistema está quebrado es por esto, por la dependencia que hay de estas naciones. A mí me llegó a abrir los ojos muchísimo y es por eso que que tengo muy arrealzado eso, pues. Eso es todo lo que quería decir Yo solo
+
+[Speaker 1 - 01:58:31]
+te diría que corrupción hay en todos lados, eso eso es evidente y siempre lo va a haber. La la idea es tener las herramientas para que no sea lo más lo o que sea lo más pequeño posible y castigarla, ¿no? Pero que va que que no hay corrupción, claramente sí. Había un un director gerente, se llama, del FMI, que que pagaba prostitutas y, pues, no le hicieron nada, ¿no? Entonces, un tal Strauss creo que ¿Pero eso qué tiene? No, bueno, o sea, está las directrices del del y los lineamientos del fondo monetario usaba dinero del fondo para eso. YYY se le y no se le castigó. O sea, siempre va a haber ese tipo de cosas, ¿no? Pero obviamente con instituciones es mejor que sin instituciones. Sin instituciones, ¿quién te va a decir nada?
+
+[Speaker 3 - 01:59:11]
+Lo lo que tienes que hacer es fortalecernos. Que veo de Chica Web 3 es que, a se me hace que chica web 3 es materialista dialéctica y todavía no lo sabe. Hasta se me hace como medio marxista de repente, alguno de sus de sus comentarios
+
+[Speaker 4 - 01:59:26]
+y como que ella todavía no se Oigan, yo me tengo que despedir No, no, no, no, no, no, no, no, no, tampoco me me subestiman. Yo obviamente, yo no soy ni de una ni de otra. Yo soy, y yo lo he dicho muchas veces, yo soy menor, este, soy anti gobierno, en realidad, ni siquiera. Porque es un tema de que yo no soy derecha ni izquierda, sino ¿discentralización? Soy yo le tengo un nombre, pero es que no no me no me quiero taggear en en qué soy. Pero yo sí sé bien qué soy. Y no soy marxista y no soy imperialista.
+
+[Speaker 3 - 01:59:56]
+Me da curiosidad.
+
+[Speaker 1 - 01:59:58]
+Oigan, perdón, yo me tengo que despedir tengo una reunión, pero les muchos saludos a todos.
+
+[Speaker 0 - 02:00:05]
+Gracias, Jesús. Nos vemos, ya se nos fue. Pero a ver, veamos la pregunta de Tao, chica. ¿Vas a dar la palabra clave o no?
+
+[Speaker 3 - 02:00:19]
+Todos todos no nos gusta. Yo a mí también me toca ponerme una etiqueta a mí mismo, chica, web 3, pero aunque no queramos, todos solemos tener una bueno, no, más bien, todos somos parte de una etiqueta. Y y algo bonito de de la gente inteligente que reconoce las contradicciones de la vida, es es saber que a lo mejor ahorita tú te autonombras de una forma y a lo mejor el día de mañana cambia. Entonces, sí me da sí me da mucho interés saber cómo te identificas.
+
+[Speaker 4 - 02:00:50]
+No, pero es que esa es exactamente la razón por la cual a mí no me gustan los tags. Así que me identifico cambiante y si en algún momento digo un argumento que es más de derecha o más de izquierda, pues es exactamente es quién soy yo. Yo no soy radical hacia ninguna parte, sí soy bastante, yo soy bitcoiner. Yo soy bitcoiner, soy muy anti gobierno porque soy muy anticorrupción y ya. Y eso tiene un un partido político, el que sabe de partidos políticos, hay un partido político que en general, o sea, reclama eso, pero de por sí tampoco apoyo a ese partido político 100 por 100 y y Tavo, tú te la pasas comentando, es más, ayer pusiste un post muy bueno de de que todo el mundo dice derecho o izquierda se echan cada y al final todos son lo mismo. Y no son lo mismo solamente en tú dices la diferencia es económica. Yo ni siquiera pienso que la diferencia es en en términos económicos. Porque muchos hacen los gobiernos de que ellos dicen a través de su discurso, mira yo voy a tomar estas medidas y después te das cuenta que hicieron absolutamente lo mismo igualmente que hicieron el que hizo el gobierno anterior.
+
+[Speaker 4 - 02:01:52]
+Entonces, una cosa es lo que dice y el sentimiento que le quieren poner a la población, y otro es lo que terminan haciendo. Y si vemos por lo menos las políticas en Estados Unidos, los delitos de izquierda son exactamente lo mismo. Son solamente que 1 decía que no lo iba a hacer y el otro decía que sí lo iba a hacer Con lo de y la diferencia con un 5 por 100. Me referiría a que
+
+[Speaker 3 - 02:02:14]
+que, o sea, se van a donde les den dinero, no por una corriente
+
+[Speaker 4 - 02:02:20]
+económica. Ah, ok. Sí, 100 por 100 donde está el dinero. No importa si lo que hagas suena capitalista o suene marxista, AAA quien vaya el dinero, a quien vaya a beneficiar y a donde vayan tus botas y punto. Oye chica web 3, ¿y Pepe es un Ponzi? Sí, yo soy anti shitcoiner como Mexi.
+
+[Speaker 3 - 02:02:44]
+No, pero está bien que seas shipcoiner anti shipcoiner y todo eso. Pero, ¿pero es un Ponzi? O sea, la la pregunta es si es un Ponzi.
+
+[Speaker 4 - 02:02:55]
+Yo sí creo que es un Ponzi. ¿Dónde veo dónde está la utilidad de PP? ¿Tú qué crees? No no no me no escuché cuando estaban hablando de eso al principio, imagino que ya hablaron.
+
+[Speaker 3 - 02:03:09]
+Sí, yo no yo no creo. A nivel infraestructura, no no creo que sea un Ponzi. De hecho, ya reté a todos los que, y y lo vuelvo a hacer, reto a todas las personas que crean que Ponzi y Pepe exista, que demanden el comportamiento, que denuncien el comportamiento fraudulento, porque es es eso, ¿no? Un Ponce es un comportamiento humano de fraude que que lo denuncien, a ver si pueden, a ver si no se pitorrea de la risa el el juez.
+
+[Speaker 0 - 02:03:46]
+Yo creo que es un tema de, más que todo, de de de qué definimos con, o cuál es la definición que cada 1 le da, cuál palabra, y ahí nos podemos perder. Este, hay gente que dice que todo en esta vida es un Ponzi. Hay hay hay veces que yo estoy de acuerdo a veces que no. Y finalmente a veces creo que ¿Cómo?
+
+[Speaker 4 - 02:04:06]
+El dinero es un Ponzi. Fíjate que es un Ponzi. Conozco en eso. Pero es que ya no es un
+
+[Speaker 3 - 02:04:13]
+¿Sabes por qué digo que no es un Porque es una entidad descentralizada. Yo hay hay shipcoins que no son descentralizadas, que sí son porque sí tienen una entidad central que que encuadra con un que que puedes encuadrarle un comportamiento fraudulento. Pero en una entidad descentralizada es muy es es es muy, este, peligroso para mí querer regular eso en una entidad descentralizada, porque se acaban las entidades descentralizadas.
+
+[Speaker 0 - 02:04:44]
+Porque Pero y con todo documento Sorry.
+
+[Speaker 3 - 02:04:48]
+La la única forma de regular un un Ponsi, que ya lo hablamos hace rato, yo le veo 2. Hace rato propusieron, ya sé que no fue propuesta gubernamental ni de un diputado ni nada, pero hace rato comentaron que hay que regular el cómo se se hacen los códigos. Fíjate lo peligroso. O sea, si regulamos cómo se van a escribir los códigos ya ni siquiera se podrían codificar estas entidades de centralidad. Digo, se podría, ¿no? Pero te volverías en un criminal por hacer código. ¿Y cuál es la otra forma de regularlo? Regulando el comportamiento de las personas que participan en ella. Entonces, ahí también se me hace anti derechos, ¿no? Antilibertades. Por eso a mí se me hace bien peligrosa, no estoy de acuerdo con Pepe, no no me gusta ya, no no no le veo a futuro. También la veo como una shitcoin, pero de eso, a quererla regular y querer apoyar esta narrativa de ir en contra de las entidades descentralizadas.
+
+[Speaker 3 - 02:05:49]
+Eso es lo que yo veo peligroso chica.
+
+[Speaker 4 - 02:05:54]
+Ok. El único contra argumento que yo diría ahí es que no necesariamente por estar en una Blockchain la podemos llamar descentralizada, por el hecho de que han habido muchísimas YYA lo que me refiero es lo siguiente. O sea, cuando hablamos de de de Blockchain hablamos siempre de qué tan qué tan descentralizada es y y sabemos que hay grises, ¿no? Entonces, si tú tienes una una moneda, si tienes, bueno, puede haber un shipcoin, no voy a decir falta en específico. Y sabemos que que en realidad la mayoría de las monedas que son de esa índole, es más, podemos ponerte como ejemplo, tienen pocos participantes. La liquidez no es muy alta, o sea, la mayoría de las monedas están en manos de pocos, ¿no? Así como las ballenas, como llamamos las ballenas. Entonces, lo que yo he visto y he visto y he sido partícipe de algunos de estos chats, cuando se crea una ship coin, siempre están los welds, ¿no? Y se le dice el chat de los welds, tal cual, que es la manera de centralizar la descentralización. Entonces, sabes que tal y tal y tal y tal cartera son las principales wells de esta moneda.
+
+[Speaker 4 - 02:06:58]
+Y entre todos se ponen de acuerdo, vamos a esperar dejar, y así es como ocurren los vamos a esperar dejar de que el precio de esto vamos a hacer el pump y después el top. Y es así tal cual como funciona. Entonces, la descentralización es descentralización, siempre y cuando se quede en en en la Blockchain. Pero la la la realidad es que no funciona así. Sobre todo, la por eso es que para la descentralización tienes que ver muchísimo todos los los tokenomics a bit, quiénes son los principales tenedores. Si yo vendo hoy, este, hay mercado de que me va a comprar, puedo vender la moneda. Porque hay también protocolos que ni siquiera te dejan deshacerte de de de tu moneda. Entonces no, la tienes que holdear por tanto y tal. O sea, dependiendo del protocolo, dependiendo de cómo está distribuida y y sabiendo qué tan cerca están estas personas. Entonces, una de las principales preocupaciones con Pepe al principio era eso. O sea, pompió muchísimo, pero si te pones a ver, los tenedores eran, o sea, como que el el 80 y pico por 100 estaba entre 1 un pequeño grupo de que prácticamente pertenecían, no sé no sé cuál era la no sé cuál eran las estadísticas y ni qué tan homogéneo era ese grupo ni ni ni ni por qué era preocupante.
+
+[Speaker 4 - 02:08:11]
+Pero era una cuestión así que yo, en ese momento, cuando leí los TOCOMOMI desde el principio, yo dije, es que ni siquiera quiero seguir leyendo esto, pues. O sea, esto eventualmente pompeará y después se acabó. Entonces, no, me refiero a eso, el chat es, o sea, tengo que yo sé que hablé mucho, pero el el chat privado que tú puedes hacer con todas estas ballenas ya es suficiente para decir que esto no es centralizado.
+
+[Speaker 3 - 02:08:38]
+Oye, ¿cuáles son, por ejemplo, ahorita los tokenomics de de bitcoin? Porque igual bitcoin creo que la mayoría también está muy concentrado, ¿no? O sea, es que ese es el debate que teníamos hace rato, a nivel código, a nivel infraestructura de contrato, pues ambos ambos son descentralizados, porque no existe alguien que pueda administrar el token detrás directamente. Ahora, indirectamente, como tú dices, por medio de manipulación de mercado, porque unos pocos centralizan el token en sus holders, en en sus wallets. Sí, pero, ¿no sería también a lo mejor el mismo caso de de bitcoin? Ahí sí no sé.
+
+[Speaker 4 - 02:09:22]
+Bueno, el tema bitcoin es, o sea, cuando se habla qué tan descentralizada es, están todas las las preocupaciones de cuántas mineras, cuántas minerías son, de verdad las que tienen el poder de, o sea, que que tienen mayoría de de de stake, pues, de de bitcoin. Son 50, entonces, ¿qué tan cerca están? ¿Qué países están? Entonces, sí. Claro, obviamente hay, como digo, la descentralización es un gris siempre, o sea, qué tan blanco eres o qué tan negro eres o estás ahí en el medio. Entonces podemos decir, bueno, bitcoin es más descentralizada que otras monedas, pero obviamente se puede hacer todo un análisis de qué tan descentralizada es y cuál es el riesgo de que de repente tales y tales y tales mineras se ponen se pongan de acuerdo. Por eso estamos hablando ahorita en una en una, este, un porcentaje de de adopción que es 5 por 100. Pero luego mientras más y más y más adopción haya, entonces ahorita, o sea, el precio no va a ser lo suficiente para que tú puedas, o sea, el precio va a ser tan alto que no no vas a poder, o sea, no tienes el incentivo de de corromperte.
+
+[Speaker 4 - 02:10:23]
+Entonces, o sea, hay que estudiar prácticamente, tienes que poner los escenarios, qué sería la la mayor debat de que sería como el ataque a bitcoin, De cuáles quiénes se pondrían de acuerdo, cuál es la probabilidad basada en dónde están, a qué precio sería el punto en que en que podría haber un ataque, etcétera, etcétera. O sea, que cada moneda tiene su su su color de descentralización. Y bitcoin es la más descentralizada, creo yo, pero obviamente los que dicen que no, y los que hablan de las ballenas y los bitcoin perdidos y todo, claro, obviamente cada una tiene su hipótesis y su teoría. O sea, que no vamos a decir, bitcoin es 100 por 100 descentralizada. No, siempre todo todo siempre tiene su color.
+
+[Speaker 0 - 02:11:04]
+No, y finalmente, yo me voy mucho por una definición que menciona que a los inversionistas iniciales, a los primeros inversionistas, se les paga ganancia con inversiones recientes de la gente que entra después. Finalmente, si esa es la definición que tomamos, ¿no? Un tema semántica, todo en esta vida es un Ponce, creo yo. Y no creo que lleguemos a un acuerdo. Ya me tengo que ir. Tengo que ir a recoger a los enanos. Me encantó platicar el día de hoy con ustedes. Álex, Carlos, por ahí tiene la manita. Échale Carlos, ya vamos cerrando. Dan los comentarios de cierre.
+
+[Speaker 8 - 02:11:46]
+Perdón, perdón. Yo estaba escuchando, pues, llave, la la comunidad aquí bitcoinera, cripto. Y quería hacer una pregunta breve, a ver si Tavo Tavo, esta frase Tavo, de que el capitalismo echó a perder el cripto. ¿Qué onda? ¿Podemos aplicar esa frase a a Pepe? ¿O o cómo ves tú que que que el capitalismo coincides con esa frase? ¿Qué comentarios tienes tú, Tavo? Gracias.
+
+[Speaker 3 - 02:12:13]
+Güey, qué qué buen libro, Carlos. Te te agradezco aquí públicamente por por enseñarme ese libro. Hay un libro que acaba de salir el 8 de agosto, se los recomiendo mucho, es de TV Socialist. Es un, creo que el único comunista abierto abiertamente comunista dentro de la Blockchain aquí en Twitter. TV Socialist se llama, sacó un libro que se llama Blockchain Radicals, radicales de la Blockchain, y se llama se llama Blockchain Radicals. ¿Cómo cómo es que el capitalismo arruinó bitcoin, digo, cripto y cómo y cómo hay que hacerle para arreglarlo. How capitalism destroy cripto a how to fixit. Está buenísimo, está buenísimo, voy ya a la mitad. Y, bueno, estoy muy de acuerdo con él, y y sí, Pepe Pepe es una consecuencia de cómo el capitalismo, la especulación está arruinando cripto. En en eso en eso sí sí estoy de acuerdo, Carlos. Pero es que vuelvo a lo mismo.
+
+[Speaker 3 - 02:13:14]
+Yo yo la parte que defiendo de de Pepe es la regulación. Si se meten, porque hay mucha gente que quería regular Pepe y quería regular las entidades descentralizadas, no señores. Si meten la mano, porque la ley es general, no es específica, si meten la mano con una entidad descentralizada, van a meter la mano con todas las entidades descentralizadas. Entonces, ahí hay que tener mucho cuidado. Pero sí, Carlos, estoy de acuerdo con el libro, estoy de acuerdo con el autor y estoy de acuerdo con muchas, muchos de sus de sus pensamientos plasmados en el libro. Se los recomiendo, aunque no piensen así, es es un libro muy bueno. De hecho, empieza con una frase de Vitalik Buterin. O sea, sí tiene apoyo ahí de de figuras importantes en el ecosistema. O sea, con una frase de Vitalik Buterin sobre el libro.
+
+[Speaker 0 - 02:14:16]
+Tavo, y y el tuit que pinea aquí arriba, o el post que pinea aquí arriba, soy un radical de la Blockchain. Vas a hacer dinero fácil y vamos a enterrar a todos los especuladores y granjeros. Sí. ¿Qué onda con eso?
+
+[Speaker 3 - 02:14:30]
+Sí, güey. Ese ese ese libro me me abrió mucho los ojos. Fíjate que yo he tenido muchos muchas etapas aquí en en la web 3. Al principio entré con esa misma, como de muy radical, de la Blockchain y cripto no es para hacer dinero. Después empecé a jugarle a la especulación, hice buen dinero. Y ahorita me estoy dando cuenta que soy parte del del problema, güey. Fui parte del problema y lo acepto. Y y lo admito YYY no me arrepiento, pero pero ya no quiero seguir especulando, ya no quiero, Estoy en contra de la especulación, estoy en contra de los granjeros, de airdrops, de todo esto. Si un protocolo es bueno, es bueno. No necesitas incentivar a las personas con engagement falso y barato y y la especulación hace mucho daño, güey. De hecho, Jesús lo lo lo dice mucho de forma como indirecta, pero si le preguntas directamente si él está a favor de la especulación, obviamente te va a decir que sí.
+
+[Speaker 3 - 02:15:40]
+Hay un partido político, bueno, todavía no es partido político, pero hay un movimiento político que está agarrando mucha fuerza aquí en México, que es de los de partido Migala, que no, todavía no es partido político porque todavía no, en México nada más puedes volverte partido político cada vez que hay elecciones, entonces hasta 2024 se van a poder registrar como partido político. Hasta ahorita es un movimiento, y ellos lo que están haciendo es, primero, dentro de su organización es horizontal, y están empezando a implantar Blockchain para procesos internos. Y en segundo, están construyendo un protocolo, una moneda digital que no permita la acumulación y tampoco la especulación. Es muy interesante.
+
+[Speaker 0 - 02:16:41]
+Pues bueno, con eso cerramos. Álex, por ahí creo que seguía, Carlos. Gracias por estar por aquí. Chica World 3. Algunas palabras de despedida. Cierre, muchas gracias por los comentarios y la el debate con Jesús. Ya extrañaba gente que que tener aquí a Jesús, ¿no? Y debatir y no estar, como decía por ahí, Vida, en un en una burbujita donde todos nos creemos, todo lo que decimos. Creo que es importante debatir ideas, platicar sobre diferentes temas. ¿Qué opina?
+
+[Speaker 4 - 02:17:14]
+Gracias. No, de verdad quiero agradecer por el espacio. Soy también fan de eso, de debatir distintos puntos. No me voy a disculpar por alzar la voz porque creo que tenía mi punto, pero pero bueno, no quería causar tampoco un caos. Así que me disculpo por eso. Y bueno, muchísimas gracias, de verdad. Amo este espacio. Lo malo es que son horas de trabajo, pero hoy funcionó. Así que espero volver a conectarme y y de verdad muchísimas gracias. Y y de verdad amo. Amo lo que hacen. Gracias.
+
+[Speaker 0 - 02:17:46]
+Muchas gracias Chicago 3. Para los que no la siguen, échenle un follow. Entiendo que todos los miércoles en la noche está haciendo un espacio de ayer hablaron ¿ayer o antier? Sí, ayer hablaron tema de Diego. Cuéntanos.
+
+[Speaker 4 - 02:18:01]
+Sí, bueno. Vamos por 3 episodios, pero es un espacio, lo llamé bienestar 3, y bueno, hablamos de prácticamente los problemas de de salud mental que conseguimos en la 3, ya sea por temas de inversión, por temas de todos los problemas que vemos de Rock Poor's, de NFTs, el estrés de de la desinformación. Ayer hablamos de ego. De verdad es un espacio como para, o sea, chill, no chillar, chill hablar un poco de de cómo hacemos para afrontar esas cosas, no no de quejarnos, sino cómo controlamos nuestras emociones para para mantener un balance. Gracias, Mexi. Qué chévere que te gusta lo suficiente como para para hablarle aquí. Así que, bueno, si quieren hablar y relajarse un día de salud mental, nos vemos por allá los los martes en la noche. Gracias.
+
+[Speaker 0 - 02:18:51]
+Martes, martes en la noche, hijo. Perfecto. No, pues muchas gracias, chicos Gutiérrez. Por aquí también Piñia Riva. Un espacio que va a haber hoy. Óigalas, déjenme les confirmo. 6 30 pm hora de Ciudad de México. No sé dónde estén ustedes, orariamente, pero es de Caro. Aquí está abajo Caro. Muchísimas gracias Caro. Todos los jueves ella tiene su caro show. Hoy va a estar muy bueno, por lo que veo. Lamentablemente yo tengo el meetup. Todos los jueves y no puedo. Van a hablar sobre eventos en la Web 3. ¿Pura pérdida de tiempo o puro networking? Híjole. Yo tengo mucho que opinar sobre ese tema. Ya lo platicaremos después. Pero a mí me encanta. Me encantan los eventos. Me encanta ir a hacer networking, a la pachanga, echar una cheve con la gente. Yo creo que suma un chorro y ayuda a que se hagan equipos de trabajo muy diversos para que luego lancen tecnología. Si tengo chance me voy a tratar de meter, Caro, a lo mejor antes de que una unos 15 minutos antes de que empiece el el mirror de acá. Pero pasen por ahí a verlo, por aquí lo ponía aquí arriba.
+
+[Speaker 0 - 02:19:53]
+Tavo, tú tienes planeado, o tenemos, este, tú lo organizaste, pero pues por ahí vamos a estar el septiembre, 10 de septiembre, en la tarde, a las 7 pm de la tarde, noche. Un espacio exclusivo, o no exclusivo, pero pues sí, vamos a hablar mucho sobre México en la voz 3, rumbo a 2024. Es un año electoral. Vamos a tratar de tener por ahí a políticos. Yo voy a invitar personalmente a la senadora Endira que está haciendo acá en Monterrey y en el municipio de Santiago. Mucho mucho mucha chamba para hacer que la gente entienda sobre bitcoin. Si no han leído por ahí la noticia, ella fue la que trajo el curso que vieron en El Salvador, en el Bitcoin Beach, acá Santiago, Nuevo León. Santiago es un municipio mágico que está como a 30 minutos de Monterrey, donde hay muchísima ecoturismo. Hay montañas, hay unos cerros, hay unas paredes de escalada impresionantes. Cañones húmedos, cañones secos, donde 1 puede ir a nadar y hacer rapel. Y entra a unas cuevas subterráneas hermosas. La verdad es 1 de los municipios.
+
+[Speaker 0 - 02:20:53]
+Y no es que el municipio más más concurrido para todo el tema de turismo. A mí me encanta ir para allá. Hay una presa también donde se puede hacer deporte aventura. Ahorita lamentablemente está seca, se está secando y las lanchas no se pueden meter. Pero pues bueno, tenemos ahí un problema de agua. Y la próxima semana estamos buscando hacer un espacio con con con las mujeres latinas que van a estar en la ONU. Ellas ellas van a estar el 23 de septiembre, si mal no recuerdo. Por ahí hicimos un espacio con ella hace unos una semana o 2. Y hoy en la mañana hablé con Sandy, me habló Sandy, y me comentó que gracias a ese espacio, y la verdad me puso súper contento alguien ahí. La la escuchó la conversación, las contactó. Ya les está haciendo varios eventos. Van a tener por ahí una un evento adicional en Nueva York. También están planeando una galería de arte con 100 artistas latinos. Muy probablemente tengamos un espacio la próxima semana con ellos, para que nos platiquen todas las novedades. Porque también van a sacar una colección de NPS.
+
+[Speaker 0 - 02:21:55]
+Son 17 mujeres las que van a ir a Nueva York a hablar de la de la Web 3 en la ONU, de las oportunidades que hay en la Web 3 en la ONU. Entiendo que nunca, no sé, no he investigado bien. Pero me vale, así lo voy a mencionar. Es la primera vez que se habla de Web 3 en la ONU. Quiero quiero quiero suponer. Voy a hacer una investigación a ver si es cierto o no. Pero la próxima semana probablemente el martes o jueves, a lo mejor cambiamos de horario, no sé, dependiendo de cómo ande la agenda de ellas. Para que nos vayan y nos cuenten cómo les ha ido, qué necesitan. Por ahí están pidiendo patrocinadores para poder generar contenido, para poder fondear los viajes que que de de las chavas para allá para la para la ONU Nueva York. Entonces nos van a estar platicando de la colección de Netflix. Por ahí entiendo que están haciendo también un Metaverso con Eduardo Dávalos, el arquitecto del Metaverso, con el cual he trabajado desde hace ya un buen rato y es buenísimo. Está haciendo cosas en Sandbox, está haciendo cosas en Decentraland.
+
+[Speaker 0 - 02:22:56]
+Es es bastante reconocido por su trabajo en Metaversos acá en México. ¿Y qué más? Pues hoy tenemos una reunión en Monterrey. Si están en Monterrey los esperamos hoy. Tenemos un meetup semanal. Y hoy vamos a tener un evento que estamos organizando con Ethereum México. Ellos van a tener un evento el veintiuno de octubre en México, en la Ciudad de México. Ya lanzaron la convocatoria para hacer speakers, por ahí ya voy a mandar hoy yo mi solicitud. Tavo creo que mandó su solicitud. Mucha gente de acá de México está buscando ser speaker ahí en ese evento. Blue, la abogada favorita de la web 3, y en lo personal una muy buena amiga que normalmente nos acostumbra a acompañar aquí también, solicitó ser speaker. Si tienen oportunidad de ir el veintiuno de octubre ese evento va a estar buenísimo. Va a haber mucha gente de todas partes de México, ahí podemos conectar, va a haber side events. Creo que si buscan un evento al cual asistir este año, ese puede llegar a ser. Y también del 20 al 23 de septiembre, en Tijuana, Baja California, va a estar CryptoMéxico, que es un hackathon, con pláticas también informativas.
+
+[Speaker 0 - 02:24:02]
+A mí me encanta el tema de eventos, Caro. Me gusta comentar sobre ellos, me gusta platicar sobre lo que se está haciendo acá en México para conectar con más personas. Muy probablemente los vea por ahí a todos en octubre, el veintiuno de octubre en Ciudad de México. También en Tijuana vamos a estar por allá, por aquí se viene conectando realcen de los etherions, que ellos tienen una dinámica allá, donde va a haber un hackathon también de metaversos en Sandbox. Entonces, si tienen oportunidad de ir a Tijuana, del 20 al 23 de septiembre estar aquí, cripto México. La fiesta de despedida y la premiación va a ser en el estadio de Los Cholos, el equipo profesional de primera división de Tijuana. Están colaborando allá con el evento. Entonces, bien bien emocionado de que empresas de ese tamaño, aunque por ahí tuve un roce con ellos por la colección de Nest y por un tema ahí de sueldos, por ahí Tavo se acordará. Este, pero bueno, se están involucrando apoyar este tipo de iniciativas. Entonces, pues, está está muy padre.
+
+[Speaker 0 - 02:25:03]
+¿Qué más? ¿Qué más se me olvida, te votó? ¿Algo algo que quieras platicar?
+
+[Speaker 1 - 02:25:15]
+Hagan
+
+[Speaker 3 - 02:25:18]
+ejercicio, coman frutas y verduras, mastúrbense. Si tienen pareja, sentimental o de cualquier tipo, cómprenle juguetes sexuales y utilícenlos. No vean porno. Y y ya.
+
+[Speaker 0 - 02:25:39]
+Pues bueno, muchísimas gracias a todos los que se conectaron el día de hoy. Por ahí empezamos a hablar de economía nacional, economía mundial. Iniciamos con canciones de Max Pretens, que como decía en un principio conocí en en Nueva York. Y conviví mucho más con él ahora en Bogotá, en el Crypto Latin Fest. Estuvimos ahí viendo las pláticas de cada 1 de nosotros, platicando mucho, conviviendo en las noches, en las pachangas. Como siempre digo, todo suma, todo suma. Y estas conversaciones creo que suman muchísimo. Ayudan a que gente pueda hacer su criterio, escuche diferentes puntos de vista. Me encanta tener este tipo de espacios. Como decía, la próxima semana estaremos con las chavas que se van a la ONU. Ahí les estaré confirmando la fecha y la hora. Y estén al pendiente porque van a lanzar una colección de NTPs. No sé bien el precio, no sé bien cuándo la lanzan. Pero entiendo que la van a sacar en bueno la plataforma de Pablo Stanley. Que por ahí ha ayudado a muchos artistas a lanzar colecciones sin código.
+
+[Speaker 0 - 02:26:42]
+Entonces, si gustan ayudar la iniciativa y apoyar el viaje que van a hacer ellas, y que esa plática que van a dar se repita, pues bueno, ahí busquen o estén al pendiente de la cuenta de Sandy, la cuenta de Ananá, la cuenta de Gigi, Leslie Mota. Por ahí hay muchas chavas 27, mujeres las que van a ir por allá. De todas maneras, nos vemos en la tarde a todos los que estén por acá en Monterrey. La próxima semana y el próximo jueves, por ahí igual estaremos haciendo cosas. Y por último, les platico que, pues estamos ya a punto de empezar a hacer ruido con Tecnomágico. Como les decía, Santiago, Nuevo León, el municipio mágico, donde se está impartiendo el curso de mi primer bitcoin, que trajo la senadora Indira Kemplis. Que vamos a tratar de de de que nos acompañe el 10 de septiembre, por ahí en el espacio de las 7 p.m. Contaba notas conmigo, para que nos platique de sus iniciativas, de su ideología, y por qué apoya bitcoin, etcétera. Pues el grupo de mi primer bitcoin, donde están 250 estudiantes, se gradúa el 15 de septiembre.
+
+[Speaker 0 - 02:27:46]
+Y por ahí el 15 de septiembre probablemente tengamos una plática con empresarios locales de el municipio de Santiago. Donde los vamos a invitar a unos talleres para que sepan sobre el bitcoin. Y que si se animan, empiecen a recibir bitcoin como método de pago para productos y servicios. Es un proyecto que estamos trabajando con el municipio desde hace, pues ya un par de meses, que hasta hace unos días pudimos conseguir la carta donde el municipio confirma que estamos en una colaboración. Estamos trabajando esto con CryptoChicks México. CryptoChicks es una asociación que libera la mamá de Vitalik. Y hay una división de México que tiene Natalia Villarreal, que está aquí en Monterrey. Ella tiene la licencia o el permiso para utilizar la marca de criptochics aquí en México. Y con la asociación civil que tiene ella, por ahí hemos estado trabajando con el Tecnológico de Monterrey, con, como decía, el municipio de Santiago. Y la idea pues es convertir el pueblo mágico en techno mágico.
+
+[Speaker 0 - 02:28:48]
+Es una marca por ahí que estamos lanzando. Y que esperamos que en este proyecto piloto que vamos a lanzar en Santiago podamos repetir en muchas ciudades aquí de la ciudad de la de la zona metropolitana de Monterrey. ¿Y por qué no? En toda México. Y al igual, como la gente de El Salvador ahorita está dando cursos sobre mi primer bitcoin acá en Monterrey, acá en Santiago, pues bueno, a lo mejor mundialmente podemos también replicar esta iniciativa. Y a lo mejor inspirar a que más personas empiecen a platicar con los municipios y con los gobiernos locales sobre estas tecnologías. A platicarles de los beneficios, y que empiecen a implementarla. Yo creo que hay una gran oportunidad de seguir onbordeando y seguir educando a la gente para que conozca todas las bondades y los beneficios, y el poder de transformar el mundo que tiene la tecnología Blockchain. Y en Latinoamérica yo veo una gran gran oportunidad, y un gran reto. Porque somos muy pocos. Pero estoy seguro que aquí va a ser puta de lanza para lanzar proyectos, para lanzar iniciativas, y aplicaciones que ayuden a resolver muchos problemas.
+
+[Speaker 0 - 02:29:56]
+Por ahí estamos trabajando con eso. Y ah, se me olvidaba mañana, en Monterrey a las 12 pm. Por ahí también la comunidad de Monterrey está apoyando una plática en la facultad de contaduría pública y administración en la Universidad Autónoma de Nuevo León. No todo lo estoy haciendo yo, eso sí es importante. Toda la comunidad tiene sus propias iniciativas y muchos están buscando estas colaboraciones, acercando a nuevos entusiastas. No es un trabajo mío. Yo soy el que a veces me gusta hablar mucho y estoy ahí dando la cara. Pero híjole, somos 30, 40, 50 personas, 250 en un grupo de WhatsApp. Y todos traemos ahí una empuje y unas ganas de que mucha más gente aprenda, y que se proteja. Porque hay mucho riesgo, hay mucha oportunidad, pero también hay mucho riesgo. Entonces, pues bueno, gracias a todos los que están por aquí. Sigo disponible. Nos vemos el próximo martes a las 12. Y los amo. Hasta luego.
