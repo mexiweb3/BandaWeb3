@@ -13,16 +13,16 @@
     "website": "https://bandaweb3.com",
     "twitter": "@BandaWeb3",
     "last_updated": "2025-12-12",
-    "total_episodes": 975,
+    "total_episodes": 974,
     "statistics": {
-      "total_episodes": 975,
-      "total_duration": "1921:33:52",
-      "average_duration": "01:58:51",
+      "total_episodes": 974,
+      "total_duration": "1919:42:52",
+      "average_duration": "01:58:52",
       "total_listeners": 338149,
       "average_listeners": 350.41,
       "episodes_with_listener_data": 965,
       "breakdown_by_type": {
-        "hosted": 250,
+        "hosted": 249,
         "Spoken": 584,
         "co-hosted": 141
       }
@@ -12999,46 +12999,26 @@
       "number": "20230208.3"
     },
     {
-      "number": "20230207-1",
-      "title": "La Criptoartista, el Economista y el Ingeniero -Bitcoin/Metaverse",
+      "number": "20230207",
+      "title": "La Criptoartista, el Economista y el Ingeniero -BitcoinNFTs/Metaverse",
       "date": "2023-02-07",
       "duration": "01:51:00",
       "guests": [],
       "guest_links": {},
-      "space_url": "",
-      "description": "La Criptoartista, el Economista y el Ingeniero -Bitcoin/Metaverse",
+      "space_url": "https://x.com/i/spaces/1mrxmkAMnqZGy",
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1mrxmkAMnqZGy/la-criptoartista-el-economista-y-el-ingeniero-bitcoinnftsmetaverse",
+      "description": "Hosted Space: La Criptoartista, el Economista y el Ingeniero -BitcoinNFTs/Metaverse",
       "topics": [],
       "status": "archived",
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
+      "listeners": 123,
+      "analytics_source": "spaces_dashboard_excel",
       "type": "hosted",
       "host": "@meximalist",
       "flyers": [
         "flyer_meximalist_generic.png"
-      ]
-    },
-    {
-      "title": "La Criptoartista, el Economista y el Ingeniero -BitcoinNFTs/Metaverse",
-      "date": "2023-02-07",
-      "number": "20230207-2",
-      "type": "hosted",
-      "is_numbered": false,
-      "host": "BandaWeb3",
-      "description": "Hosted Space: La Criptoartista, el Economista y el Ingeniero -BitcoinNFTs/Metaverse",
-      "guests": [],
-      "topics": [],
-      "status": "archived",
-      "transcript_available": false,
-      "content_generated": false,
-      "flyer_urls": [],
-      "duration": "01:51:00",
-      "space_url": null,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1mrxmkAMnqZGy/la-criptoartista-el-economista-y-el-ingeniero-bitcoinnftsmetaverse",
-      "listeners": 123,
-      "analytics_source": "spaces_dashboard_excel",
-      "flyers": [
-        "flyer_bandaweb3_generic.png"
       ]
     },
     {
