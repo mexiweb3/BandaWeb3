@@ -10208,46 +10208,26 @@
       ]
     },
     {
-      "number": "20220616-1",
-      "title": "Platicando sobre propiedad intelectual de  (Español)",
+      "number": "20220616",
+      "title": "Platicando sobre propiedad intelectual de NFTs (Español)",
       "date": "2022-06-16",
       "duration": "02:48:00",
       "guests": [],
       "guest_links": {},
-      "space_url": "",
-      "description": "Platicando sobre propiedad intelectual de  (Español)",
+      "space_url": "https://x.com/i/spaces/1yoKMWajmPOJQ",
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1yoKMWajmPOJQ/platicando-sobre-propiedad-intelectual-de-nfts-espanol",
+      "description": "Hosted Space: Platicando sobre propiedad intelectual de NFTs (Español)",
       "topics": [],
       "status": "archived",
       "transcript_available": false,
       "content_generated": false,
       "flyer_urls": [],
+      "listeners": 213,
+      "analytics_source": "spaces_dashboard_excel",
       "type": "hosted",
       "host": "@meximalist",
       "flyers": [
         "flyer_meximalist_generic.png"
-      ]
-    },
-    {
-      "title": "Platicando sobre propiedad intelectual de NFTs (Español)",
-      "date": "2022-06-16",
-      "number": "20220616-2",
-      "type": "hosted",
-      "is_numbered": false,
-      "host": "BandaWeb3",
-      "description": "Hosted Space: Platicando sobre propiedad intelectual de NFTs (Español)",
-      "guests": [],
-      "topics": [],
-      "status": "archived",
-      "transcript_available": false,
-      "content_generated": false,
-      "flyer_urls": [],
-      "duration": "02:48:00",
-      "space_url": null,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1yoKMWajmPOJQ/platicando-sobre-propiedad-intelectual-de-nfts-espanol",
-      "listeners": 213,
-      "analytics_source": "spaces_dashboard_excel",
-      "flyers": [
-        "flyer_bandaweb3_generic.png"
       ]
     },
     {
@@ -10356,16 +10336,16 @@
     }
   ],
   "stats": {
-    "total_episodes": 393,
-    "total_duration_hours": 684.18,
-    "average_duration_minutes": 104.5,
+    "total_episodes": 392,
+    "total_duration_hours": 681.38,
+    "average_duration_minutes": 104.3,
     "total_listeners": 58954,
     "average_listeners": 154.7,
     "episodes_with_listener_data": 381,
     "breakdown_by_type": {
-      "hosted": 252,
+      "hosted": 251,
       "co-hosted": 141
     },
-    "last_updated": "2025-12-12T10:09:05.207864"
+    "last_updated": "2025-12-12T10:16:54.302242"
   }
 }
