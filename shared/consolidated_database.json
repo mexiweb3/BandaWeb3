@@ -13,16 +13,16 @@
     "website": "https://bandaweb3.com",
     "twitter": "@BandaWeb3",
     "last_updated": "2025-12-12",
-    "total_episodes": 979,
+    "total_episodes": 978,
     "statistics": {
-      "total_episodes": 979,
-      "total_duration": "1927:21:37",
-      "average_duration": "01:58:43",
-      "total_listeners": 338260,
-      "average_listeners": 349.8,
-      "episodes_with_listener_data": 967,
+      "total_episodes": 978,
+      "total_duration": "1926:26:37",
+      "average_duration": "01:58:47",
+      "total_listeners": 338200,
+      "average_listeners": 350.1,
+      "episodes_with_listener_data": 966,
       "breakdown_by_type": {
-        "hosted": 254,
+        "hosted": 253,
         "Spoken": 584,
         "co-hosted": 141
       }
@@ -13723,29 +13723,6 @@
       ]
     },
     {
-      "title": "CriptoMaza 2023 de @ExponencialCC 13-15 Enero",
-      "date": "2023-01-10",
-      "number": "20230110",
-      "type": "hosted",
-      "is_numbered": false,
-      "host": "BandaWeb3",
-      "description": "Hosted Space: CriptoMaza 2023 de @ExponencialCC 13-15 Enero",
-      "guests": [],
-      "topics": [],
-      "status": "archived",
-      "transcript_available": false,
-      "content_generated": false,
-      "flyer_urls": [],
-      "duration": "00:55:00",
-      "space_url": "https://x.com/i/spaces/1LyxBqbEyDOJN",
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1LyxBqbEyDOJN/criptomaza-2023-de-at-exponencialcc-13-15-enero",
-      "listeners": 60,
-      "analytics_source": "spaces_dashboard_excel",
-      "flyers": [
-        "flyer_bandaweb3_generic.png"
-      ]
-    },
-    {
       "type": "Spoken",
       "title": "🕳🐇 - L2 nfts, PI",
       "host": "@con3joblanco",
@@ -13774,7 +13751,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20230109"
+      "number": "20230109-3"
     },
     {
       "number": "20230109",
@@ -13783,8 +13760,8 @@
       "duration": "00:55:58",
       "guests": [],
       "guest_links": {},
-      "space_url": "",
-      "description": "Co-hosted Space: Nada puede malir sal - web3 español",
+      "space_url": "https://x.com/i/spaces/1LyxBqbEyDOJN",
+      "description": "Hosted Space: CriptoMaza 2023 de @ExponencialCC 13-15 Enero",
       "topics": [],
       "status": "archived",
       "transcript_available": false,
