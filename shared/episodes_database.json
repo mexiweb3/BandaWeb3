@@ -4725,7 +4725,7 @@
       ]
     },
     {
-      "number": "20240111-2",
+      "number": "20240111-2-1",
       "title": "Banda Web3 - Nouns, Prop House y Nouns DAO Amigos",
       "date": "2024-01-11",
       "duration": "02:11:19",
@@ -4750,7 +4750,7 @@
       ]
     },
     {
-      "number": "20240111-2",
+      "number": "20240111-2-2",
       "title": "Gitcoin Grant: Proyectos Mexicanos 🇲🇽",
       "date": "2024-01-11",
       "duration": "01:07:00",
@@ -5041,7 +5041,7 @@
       ]
     },
     {
-      "number": "20231228-2",
+      "number": "20231228-2-1",
       "title": "Solscriptions Colección Hispana Sub80K con @CryptoNotaz",
       "date": "2023-12-28",
       "duration": "01:59:47",
@@ -5092,7 +5092,7 @@
       "number": "20231228-1"
     },
     {
-      "number": "20231228-2",
+      "number": "20231228-2-2",
       "title": "cryptoreuMD.eth/3972.⌐◨-◨ 🦇🔊...",
       "date": "2023-12-28",
       "duration": "01:03:00",
@@ -5484,10 +5484,10 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20231207-2"
+      "number": "20231207-2-2"
     },
     {
-      "number": "20231207-2",
+      "number": "20231207-2-1",
       "title": "McBoBo",
       "date": "2023-12-07",
       "duration": "02:04:00",
@@ -5713,7 +5713,7 @@
       ]
     },
     {
-      "number": "20231123-2",
+      "number": "20231123-2-2",
       "title": "🗳️ mpDAO Grants 5: Conoce las propuestas hispanas! ⭐",
       "date": "2023-11-23",
       "duration": "00:50:00",
@@ -5755,7 +5755,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20231123-2"
+      "number": "20231123-2-1"
     },
     {
       "number": "20231121-2",
@@ -6740,7 +6740,7 @@
       ]
     },
     {
-      "number": "20230725-2",
+      "number": "20230725-2-1",
       "title": "DIALÉCTICA | Episodio 11",
       "date": "2023-07-25",
       "duration": "02:18:00",
@@ -6765,7 +6765,7 @@
     {
       "title": "Open Mic - Parte 2 - 69 segundos para shillear lo que sea",
       "date": "2023-07-25",
-      "number": "20230725-2",
+      "number": "20230725-2-2",
       "type": "hosted",
       "is_numbered": false,
       "host": "BandaWeb3",
@@ -6852,10 +6852,10 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20230706-2"
+      "number": "20230706-2-1"
     },
     {
-      "number": "20230706-2",
+      "number": "20230706-2-2",
       "title": "THREADS vs Twitter: La Atencion te va hacer billonario$$$📈",
       "date": "2023-07-06",
       "duration": "02:04:00",
@@ -8805,13 +8805,13 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20221220-2",
+      "number": "20221220-2-2",
       "flyers": [
         "flyer_nftdefiland_generic.png"
       ]
     },
     {
-      "number": "20221220-2",
+      "number": "20221220-2-1",
       "title": "TATO",
       "date": "2022-12-20",
       "duration": "01:05:00",
@@ -9125,13 +9125,13 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20221128-2",
+      "number": "20221128-2-2",
       "flyers": [
         "flyer_el_profesor_eth_generic.png"
       ]
     },
     {
-      "number": "20221128-2",
+      "number": "20221128-2-1",
       "title": "El Profesor - Danny Sánchez",
       "date": "2022-11-28",
       "duration": "00:52:00",
@@ -9300,7 +9300,7 @@
       ]
     },
     {
-      "number": "20221117-2",
+      "number": "20221117-2-1",
       "title": "Conociendo el ecosistema Algorand.",
       "date": "2022-11-17",
       "duration": "00:57:00",
@@ -9697,7 +9697,7 @@
       ]
     },
     {
-      "number": "20221025-2",
+      "number": "20221025-2-1",
       "title": "♠️la verdad❓️",
       "date": "2022-10-25",
       "duration": "01:25:00",
@@ -10389,6 +10389,6 @@
       "hosted": 253,
       "co-hosted": 141
     },
-    "last_updated": "2025-12-12T09:49:25.304072"
+    "last_updated": "2025-12-12T09:53:31.136550"
   }
 }
