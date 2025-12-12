@@ -13,16 +13,16 @@
     "website": "https://bandaweb3.com",
     "twitter": "@BandaWeb3",
     "last_updated": "2025-12-12",
-    "total_episodes": 976,
+    "total_episodes": 975,
     "statistics": {
-      "total_episodes": 976,
-      "total_duration": "1921:55:37",
-      "average_duration": "01:58:45",
+      "total_episodes": 975,
+      "total_duration": "1921:33:52",
+      "average_duration": "01:58:51",
       "total_listeners": 338149,
       "average_listeners": 350.41,
       "episodes_with_listener_data": 965,
       "breakdown_by_type": {
-        "hosted": 251,
+        "hosted": 250,
         "Spoken": 584,
         "co-hosted": 141
       }
@@ -15159,29 +15159,6 @@
       "space_url": "https://x.com/i/spaces/1mnxeRZoXqvKX",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1mnxeRZoXqvKX/en-espanol",
       "number": "20221113"
-    },
-    {
-      "number": "20221112-1",
-      "title": "Café Tacuba Acústico Live",
-      "date": "2022-11-12",
-      "duration": "00:21:45",
-      "live_listeners": 5,
-      "host": "@meximalist",
-      "speakers": 0,
-      "analytics_source": "X Spaces Analytics",
-      "type": "hosted",
-      "description": "Hosted Space: Café Tacuba Acústico Live",
-      "topics": [],
-      "guests": [],
-      "status": "published",
-      "transcript_available": false,
-      "content_generated": false,
-      "space_url": "",
-      "audio_url": "",
-      "flyer_urls": [],
-      "flyers": [
-        "flyer_meximalist_generic.png"
-      ]
     },
     {
       "type": "Spoken",

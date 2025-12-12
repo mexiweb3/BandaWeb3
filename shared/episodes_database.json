@@ -9390,29 +9390,6 @@
       ]
     },
     {
-      "number": "20221112-1",
-      "title": "Café Tacuba Acústico Live",
-      "date": "2022-11-12",
-      "duration": "00:21:45",
-      "live_listeners": 5,
-      "host": "@meximalist",
-      "speakers": 0,
-      "analytics_source": "X Spaces Analytics",
-      "type": "hosted",
-      "description": "Hosted Space: Café Tacuba Acústico Live",
-      "topics": [],
-      "guests": [],
-      "status": "published",
-      "transcript_available": false,
-      "content_generated": false,
-      "space_url": "",
-      "audio_url": "",
-      "flyer_urls": [],
-      "flyers": [
-        "flyer_meximalist_generic.png"
-      ]
-    },
-    {
       "number": "20221110",
       "title": "El economista y el ingeniero",
       "date": "2022-11-10",
@@ -10336,16 +10313,16 @@
     }
   ],
   "stats": {
-    "total_episodes": 392,
-    "total_duration_hours": 681.38,
-    "average_duration_minutes": 104.3,
+    "total_episodes": 391,
+    "total_duration_hours": 681.02,
+    "average_duration_minutes": 104.5,
     "total_listeners": 58954,
     "average_listeners": 154.7,
     "episodes_with_listener_data": 381,
     "breakdown_by_type": {
-      "hosted": 251,
+      "hosted": 250,
       "co-hosted": 141
     },
-    "last_updated": "2025-12-12T10:16:54.302242"
+    "last_updated": "2025-12-12T10:18:26.396215"
   }
 }
