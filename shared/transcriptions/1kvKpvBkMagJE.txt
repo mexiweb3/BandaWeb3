@@ -1,0 +1,2114 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #20240104-2
+Título: 📝Inscribiendo XRPC#20 con nosotros ☑️
+Fecha: 2024-01-04
+Host: @0xDannyEth
+Tipo: co-hosted
+
+Descripción:
+Co-hosted Space: 📝Inscribiendo XRPC#20 con nosotros ☑️
+
+Duración: 03:34:00
+Escuchas: 139
+
+Links:
+  Space: https://x.com/i/spaces/1kvKpvBkMagJE
+  Dashboard: https://spacesdashboard.com/space/1kvKpvBkMagJE/inscribiendo-xrpc20-con-nosotros
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+
+[Speaker 0 - 00:02:58]
+Jean,
+
+[Speaker 1 - 00:03:02]
+Jean, Jean, buenos días a todos. ¿Cómo están?
+
+[Speaker 2 - 00:03:06]
+Buenos días. Yo no sé qué pasaba que aceptaba la invitación y no no subía. No me naciste. Buen día, bobo.
+
+[Speaker 1 - 00:03:14]
+Bien, ¿cómo están ustedes? Un poquito madrugamos esta mañana a hacer el el el mean de los emojis, de los de los XRC. Entonces, puedan puedan duvimos un rato.
+
+[Speaker 2 - 00:03:36]
+Yo vi, deben haber dormido 2 horas cuando es mucho. La última vez que vi algo era a las 2 de la mañana. Sí, sí, sí.
+
+[Speaker 1 - 00:03:45]
+Pero bien, ahí estuvo buena buena la la dinámica. Sí, sí, estuvo estuvo interesante.
+
+[Speaker 3 - 00:03:54]
+Bueno. Buenos, buenos días. Son las 5 de la mañana, Dani, para mí, para ti, corazón. Mira, ahí está Zico, está bien Rosta Mac, el Wushi.
+
+[Speaker 1 - 00:04:05]
+AAA mi 7. Eisico, buenos días, Wushi, buenos días. Buenos días, buenos días. Buenos días, buenos días. Buenos días. Buenos días. Pues sí, no, no, estuvo estuvo interesante la dinámica, nos levantamos temprano. Bueno, dormimos más bien un poquito porque en la que estamos súper tarde también, pero no sé si vieron, ¿no? Twitter Inscription sacó ya las las inscripciones de los emojis. Entonces, las aprobaron hace como unas 4 horas, 3 horas. Entonces, pues todo mundo estaba como loco inscribiendo esta mañana. No, no dormimos, por ahí andábamos escribiendo.
+
+[Speaker 2 - 00:05:04]
+¿Te fuiste Dani o soy yo?
+
+[Speaker 1 - 00:05:07]
+¿Ahí ya me escuchas?
+
+[Speaker 2 - 00:05:09]
+Ya, ya te escucho. Yo vi que entre Mau y tú, Mau debe estar dormido, porque desde la madrugada tratando de eso Pero cuéntame, ¿por qué tanta excitación por los por qué sean los emojis? Yo no lo entiendo.
+
+[Speaker 1 - 00:05:25]
+No, si te digo algo, yo, o sea, yo pienso que los emojis son más más bulish que los que los mismos nombres. Mira, los los usamos muchísimo más. Esa especulación, ¿no? Obviamente, pero pero sí, lo veo lo veo interesante, además que la gente ya sabía, entonces, va a haber como más pelea en en el juego, ¿no? Porque cuando las inscriptions nadie estaba inscribiendo, entonces no tenías como competencia con nadie, pero ahorita, pues todo mundo estaba esperando lo mismo. Entonces, bueno, pues como está empezando, me parece interesante tenerlas y, pues, el límite, o sea, la el emoji que tú quieras tener o el que más te guste o el que más uses, como que tenerlo, pues, dije, bueno, ¿por qué no?
+
+[Speaker 5 - 00:06:21]
+Dani, yo como una persona que nunca, pues, o no sabe mucho de inscripciones, ¿cómo cómo me me beneficiaría a mí o o cómo sería, pues, entrar a eso? Yo yo yo estuve en el último espacio cuando hiciste el three y todo de las inscripciones y todas esas cosas. Explícame un poco más si pudieses en ese aspecto, que yo no no sé nada de las inscripciones, por por ejemplo, no no sé, del Twitter adscripción hice una, hice un par, pero no no sé cómo sirve, lo hago desde el teléfono, necesito una computadora específicamente. Muchas gracias.
+
+[Speaker 1 - 00:07:02]
+No, realmente no, lo puedes hacer de de del celular, lo puedes hacer desde un celular, lo puedes empezar a hacer. Bueno, yo tengo por ahí una guía, la voy a poner acá para que la tengas. No, no necesitas no necesitas mucho, no necesitas mucho. El ejemplo digamos que que empezamos, ¿no? Fue porque la la información se pasó, todos la teníamos y si no estoy mal ya Mau Mau ya va por por los 4000 dólares, de 0 a 4000, ¿no? Porque no no estás pagando nada por la inscripción. Entonces, ya él más o menos se se con 0 dólares de inversión ya ya se levantó 4000 dólares. Es interesante, ¿no? Es algo que yo pienso que solo en este en este mundo, Web3 es algo que que se puede hacer. Es
+
+[Speaker 2 - 00:07:54]
+que validado la pena madrugarse.
+
+[Speaker 1 - 00:07:58]
+Sí, pues mira, el el el Mau le digo le digo, ay estábamos estábamos estaba difícil también porque no nos estaban saliendo las inscripciones, o sea, tú escribías y no te llegaban. Y entonces yo duré como la primera media hora perdiendo el tiempo y dije no, ya me va a costar porque no me llega nada hasta que ya empezaron como a actualizar y estaban como la red estaba super congestionada después les mandé una una foto al al chat de la cantidad de transacciones que estaban entrando entonces también bueno ahí fue como el tema del del estaban reseteando el API y y sincronizando todo el index para que se vieran reflejadas como en tu en tu wallet, aunque pues acá la primera descripción sale en tu cuenta de de de Twitter, de de x. Pero sí, no, cualquier persona puede puede entrar. De hecho, Mau, creo que Mau no escribió nada en en en ordinals bitcoin ni en ordinals de dogecoin, creo, no estoy seguro, les voy a averiguar si fue su primera inscripción, pero pero sí, cualquier persona lo lo puede hacer.
+
+[Speaker 1 - 00:09:12]
+Digamos que generalmente lo que tú tienes que hacer para inscribir es tener es tener el es correr un nodo de la red que estás que quieres inscribir y de ahí pasas a bueno a descargar como todo el el de, tú descargas el software de la de la red que quieres y sincronizas tu wallet, se te hace tu wallet con eso y empiezas a inscribir de esa manera. Pero, pues, aquí no tienes que hacer nada, desde tu desde tu cuenta x vas a poder hacerlo. Ahí está el hilo, si lo quieres leer más detenido, Lucy ahí ahí lo piné.
+
+[Speaker 2 - 00:09:51]
+Mira te iba a preguntar que yo vi que estaba que había sido bloqueada en Twitter la cuenta de Transcriptions, ¿eso ya lo superaron?
+
+[Speaker 1 - 00:10:02]
+Pues esta mañana estaba otra vez estaba otra vez bloqueada. Ya te voy a decir exactamente cómo sigue ahorita. Porque habían dicho que si no, que la cambiaban. Ponían otra.
+
+[Speaker 2 - 00:10:18]
+Pero ya han dicho ellos cuál es el el la razón por la que lo están bloqueando, para que no para que la misma comunidad no siga el mismo comportamiento.
+
+[Speaker 1 - 00:10:32]
+No, mira que yo creo que ah, no, mira, ya está activada. Es que la sí, la la la oficial quedó la con el guion al piso. Quedó la otra, mira. Quedó la otra cuenta. No, como la crearon y la empezaron a seguir tantas tantas personas a taggear. Al ser nueva, tú sabes que eso pasa. Y obviamente a a esperar que te que te la activen, pues preferiblemente para no no generar caos en las personas ni ni ni nada, pues agregan una una nueva.
+
+[Speaker 2 - 00:11:11]
+Cuéntame una cosa, porque yo no tengo bien claro, yo me acuerdo cuando hice las primeras inscripciones, este, que no salían, y no salían y no las veía, y de hecho, mintían muchas, spamé un poco mi time line, y ahora voy a mis inscripciones y no aparecen. Unos decían que tenía que ver con que tenías que seguir a transcriptions, otros decían que tenías que conectar la cuenta de Twitter, eso desde el teléfono no es visible. Yo tuve que poner el el navegador del teléfono en modo PC para para poder hacer eso, pero aún si desde allí no se podían ver las transcripciones. Eso ha cambiado porque yo no he hecho más.
+
+[Speaker 1 - 00:12:00]
+Sí, claro, es que antes estaban, o sea, tardando un montón, antes estaban tardando muchísimo, pero ahora pero ahora qué, pero ahora no, está más, estaba un poco rápido, ¿no? Ayer no te digo, no, no, ellos estaban escribiendo de una vez, pero sí, sí, sí al rato ya estaban como, de hecho voy a revisar si me cargaron o cuáles me cargaron, porque a veces cuando haces un deployed no te va a salir a ti porque alguien más también lo tiene, eso es algo que hay que tener en cuenta, no, si alguien más está al tiempo, la inscripción que entre primero, pues, la va a tener alguien más que tú, no la vas a tener ya tú. Entonces, es más es más eso a veces, a ver si
+
+[Speaker 2 - 00:12:44]
+Tiene sentido, tiene sentido, es que seguramente eso era lo que pasaba, porque trataba de de poner nuevos nuevos nombres y no no me lo aceptaba, no me lo aceptó.
+
+[Speaker 1 - 00:13:06]
+Sí, digamos que que eso también es es como el punto. Si tú vas a, o sea, si tú por ejemplo le envías algo al mismo tiempo que yo lo envío, el que primero tenga la inscripción obviamente se va a quedar con con ella, y ya pues lo que tú estás tratando de hacer va a ser como inválido en el en la descripción, porque ya la tiene alguien más, ya ese espacio está, ese nombre ya estaba ocupado, en el caso por ejemplo aquí de los hombres. ¿Qué es la dinámica? Obviamente, más allá de eso, la dinámica en en en x es esa, pues que solo tengáis un nombre o un emoji, este, quiénes lo tienen.
+
+[Speaker 5 - 00:13:55]
+Papi, muchas gracias. Acaba de spammear mi hijo de madre timeline con eso. Mintió un diablito, mintió una amante, mintió un gorila, mi pie. Papi, voy a oír la locura. Ahora estoy trabajando, estoy camellando, pero estamos en los 2. Honestamente, web 3 y y 2 trabajos no es fácil, pero se puede, nada nada la había regalado. 1 tiene que sacrificarse para las cosas que quiere. Yo honestamente, hoy hijo decito, weón, pero estamos dándole.
+
+[Speaker 1 - 00:14:23]
+Qué bueno, qué qué bueno, bro, me alegra. A darle con toda. ¿Qué más, Sergio, cómo andás?
+
+[Speaker 7 - 00:14:30]
+¿Qué más, qué más señores? ¿Qué más, Juan? ¿Y qué más todo el mundo en el espacio? Espero que todo bien. Qué pena que es que es que me me me me pudiste inscribir aquí también. Deme 10 minuticos.
+
+[Speaker 1 - 00:14:41]
+No, no, no, ofrezco, fresco, con toda. No olviden no like, comentario y y retweet al space para para que más gente venga o Esto acabó de salir, ¿no? Les les digo, para para nosotros, mucha gente no no inscribió por por la hora. De pronto, Asia estaba más más activa. De pronto, también fue por este tema el el el horario, ¿no? Por eso es ahora como para estar más en en ventaja, porque sí hubo mucha gente que que tenía mucho, ¿no? Que que inscribió muchísimo en en x y no nos dejó a los demás. Entonces, sí, si quieren hacerlo, lo pueden ir haciendo y, pues, si tienen preguntas de una vez, pues, las pueden traer acá y las las podemos tratar de resolver entre
+
+[Speaker 2 - 00:15:34]
+todas. Tú sabes que a mí me parece genial YYY siempre que lo conversamos estamos de acuerdo en esto, ¿no? Y lo repetimos mucho, pero el tema de la creatividad, yo no lo veo hasta que sucede. Entonces, yo me pierdo cosas porque no la estoy viendo, que las vea otro y que me las comparta, eso es algo increíble. Me parece maravilloso y saber que hay alguien que ha generado ganancias con eso me pone bulish, muy bulish.
+
+[Speaker 1 - 00:16:02]
+Sí, obvio no, es es que le llama a 1 mucho la atención. Yo por ejemplo, estaba en en en Space y y bueno y empezaron a hablar empezaron a hablar todos y alguien se salió y se conectó a un space en Asia y se desconectó y volvió y nos dijo hey pilas por los por las cosas que tengan que ver con el dragón. Es el año del dragón y cualquier token y cualquier vaina, o sea, y como que tú dices wow, sí, no lo había pensado de pronto de esa manera y ya alguien lo lo lo pensó y te trae como la la data a ti y pues bueno, ya le queda a 1 estar pendiente. Por ahí mismo compramos el token es en Solana, medio le fue bien, ya después se fue a se fue abajo pero igual, o sea, dejó dejó ganancia.
+
+[Speaker 1 - 00:17:17]
+Y pues ya de ahí imagínate, pues ya tienes como la referencia, obviamente en esto, pues calcula qué palabra empezaron a a escribir en en x y así como que, bueno, es como como ese como ese punto. Hello, Mark. Good morning, good morning. Hola, Press, buenos días. ¿Cómo están? Buenos días, good morning. Ey, press, ¿cómo vas?
+
+[Speaker 8 - 00:17:54]
+Todo bien. Oye, Dani, ¿lo puedo hacer aquí del trabajo con mi teléfono o es algo que que lo tengo que hacer con tiempo?
+
+[Speaker 1 - 00:18:02]
+No, no, no, si puedes, si puedes. Si puedes.
+
+[Speaker 8 - 00:18:06]
+¿Y y tú pusiste ahí en el pozo de arriba, pusiste los pasos de cómo hacerlo o qué?
+
+[Speaker 1 - 00:18:10]
+Sí, ahí están, ahí están los pasos, ahí están los pasos de de cómo hacerlo. Ahí puedes mirar para para hacerlo, está el links de la página. Lo único que es es conectar tu tu Twitter a tu x al a la cuenta de ellos, para que, o sea, para que el récord quede en tu cuenta.
+
+[Speaker 7 - 00:18:31]
+Vale, y ok, y ya sé todo.
+
+[Speaker 1 - 00:18:33]
+Sí, ahí vas vas buscando lo que quieras escribir, bien sea una palabra. Pues ahorita están escribiendo emojis.
+
+[Speaker 8 - 00:18:41]
+Ah, vale, vale, vale. Bueno, gracias, gracias. Te te seguí para que me sigas.
+
+[Speaker 1 - 00:18:45]
+Vale, te voy a seguir de una vez.
+
+[Speaker 8 - 00:18:48]
+Oye, y me donquearon a mí ayer. ¿Cómo, cómo? A mí ¿A ti de a ti de mí te donquearon?
+
+[Speaker 2 - 00:18:58]
+Sí, me enviaron. Lo que pasa es que como tengo cuenta verificada, me envían un una solicitud de verificación nueva y tengo que seguir unos pasos, pero me bloquearon la cuenta.
+
+[Speaker 8 - 00:19:11]
+Bueno, a mí no me la bloquearon, pero sí duré mucho. Mira, ya cambié el nombre y todo, pero cada miel la que 1 le cambia, ellos te te ponen en para, no sé, Twitter es muy lento.
+
+[Speaker 1 - 00:19:29]
+No, así están están teniendo, yo no sé, están teniendo hartas hartas cosas. Mira, yo por ejemplo entro a verlos y algunos que yo ya sé que me siguen me aparecen como seguir, y yo, sí, yo ya lo seguía, y me aparece como que a veces no nos seguimos ninguno de los 2, pero ya entro al perfil y entro a mirar y me aparecen como que si somos, o sea, como que si nos seguimos el 1 al otro. También cuando comentan o algo, no veo los posts, es porque tengo las notificaciones prendidas que me toca entrar y veo mi notificación, me aparece y después entro y ya me aparece borrado el comentario o lo que hicieron. Pero ya cuando entro al perfil de cada 1, sí me ya me deja ver como lo que lo que escribieron o bueno lo
+
+[Speaker 2 - 00:20:18]
+Ah, pero eso es cuando están baneados. Por ejemplo, Bogo está baneado y todo lo que venga del hilo de Bogo, o sea, si alguien le responde a él, me pasa porque yo tengo mucha gente en notificaciones y recibo tons of meses de mucha gente respondiéndole a él y y no me aparece el hilo. Entonces, tengo que estar buscando, porque yo soy chismosa y, entonces, me tengo que buscar quién carajo fue, a quién estaba respondiendo para ver quién es el que está bloqueado. Ahorita es Bobo. Hay otro más que está bloqueado, no sé quién es, que está espameada, que está espameado no es la palabra. ¿Cuál es la palabra? Hugo? Está Shadowbank.
+
+[Speaker 1 - 00:21:02]
+Shadowbank it, sí.
+
+[Speaker 3 - 00:21:05]
+Por eso no me van a ver contestando ayer ni hoy, yo creo que mañana también. Le estoy dando muchos likes y poquitos comentarios. Yo creo que ya para en 2 días más ya debo de estar del otro lado.
+
+[Speaker 2 - 00:21:18]
+Por eso andas tan sigiloso y callado.
+
+[Speaker 3 - 00:21:24]
+Sí, le Curiosamente también eso le molesta a las personas, Juani, pero no pasa nada.
+
+[Speaker 2 - 00:21:30]
+Las personas sienten miedo, el miedo es libre y no sé por qué lo sienten, pero bueno, sienten miedo. Tú sabes que ayer conversábamos mucho, pues, so, inclusive hoy dijimos, ayer dijimos, hoy vamos a hacer todo lo contrario, no nos sigan, no pongan las notificaciones, no retuitees el espacio, no comentes, no interactúes, no construyas, no construyas lazos con nosotros, no no no no hagas ninguna conexión con nosotros para que no tengas un wireless o no tengas información de las cosas que están pasando. Vamos AAA ponerlos ese punto de vista porque parece que estamos invitando a la gente no sé a lanzarse por un precipicio o algo por el estilo.
+
+[Speaker 1 - 00:22:23]
+Sí, no está mala la idea, ¿no? No está mala la idea. No siga en este space, no siga en este a esta persona, no siga en esta cuenta.
+
+[Speaker 5 - 00:22:33]
+Mira, Dani, una una pregunta, mi hermano. Por ejemplo, si Zico hizo un deployed del de la bandera de Colombia y yo quiero hacer un un mint de esa misma cosa. ¿Cómo puedo hacer sin hacer el deploye otra vez o tengo que hacer el deploye?
+
+[Speaker 1 - 00:22:45]
+No, pues coméntale AA0 sea, donde hizo el lo puedes hacer desde la la página de ellos, ¿sí? O puedes hacerlo desde la desde el Twitter de de Zico, entonces te vas al comentario de él y le le escribes. Entonces, por ejemplo, el el el PE es la la red, ¿no? En la que estás haciéndolo, la el el token que estás, que sería el Exarcy Twenty. La la OP significa operación, tú vas a hacer, le dijiste el deployed, o sea, en este caso lo cambias, ¿no? Sería mint. En zick pones lo que o quieres sacar y abajo la cantidad. Es bueno que lo hagas sobre el deployed de Zycho porque, por ejemplo, si Zycho pone que la cantidad máxima de mint es 1 y tú pones 100, no te va a salir nada en tu wallet, no vas poder hacer hacer nada. Entonces tienes que saber exactamente cuál es el el límite para poder sacarle, o sea, ponerle, le puedes poner el máximo, no importa, de 1 al máximo límite que tengan puesto y ya le le pon s y le comentas.
+
+[Speaker 7 - 00:24:00]
+Pero no está bien, no está dejando hacer deploys, creo que no hay mucha gente haciendo en este momento.
+
+[Speaker 1 - 00:24:06]
+No, sí, si así te queda pero pero se queda como de la red, se queda Búscalo si no está.
+
+[Speaker 5 - 00:24:13]
+Muchas gracias, lo agradezco.
+
+[Speaker 2 - 00:24:15]
+Otra cosa que me parece interesante para el tema del algoritmo, seguir el mensaje de ZIP code, por ejemplo, este, haría que el hilo de la de la conversación no pareciera un spam 1, pero la otra es que podrías estar atento y podrías hacer que el que se viralizara o que se viera más fácilmente y que se que se extinguiera toda la todo el ay, ¿cómo? Todo la lo lo que hay disponible de ese token. Toda toda la disponibilidad de ese token para que puedas entonces empezarlo a comerciar. Eso entendí la vez pasada, ¿es así Dani?
+
+[Speaker 1 - 00:24:59]
+Sí, pues digamos que la vez pasada estábamos haciéndolo con los criptopunks, entonces ahí sí tenías que hacerlo sobre el mismo hilo para saber cuáles estaban inscritos y cuáles no. Tú buscabas solo el número. Entonces, tú ibas a la página de los cripto Pong, buscabas la imagen, él le subía la subías la imagen a un archivo que se llama el b 64, él te daba como la data, tú la pegabas en tu en tu post y entonces ahí tú tenías la información y lo subías, pero tocaba sobre el mismo hilo para tu búsqueda cuál no estaba inscrito ya. Entonces ahí sí serviría más igual porque no, o sea en este caso sí podemos hacerlo pero solo tú no sabes quién más lo hizo, si solo lo hizo ZIP code, si alguien más lo hizo o si ya está la bandera por ejemplo, ya está el deploid a ninguno nos va a cargar, entonces nos tocaría esmintear el la banderita sobre el que la tenga o buscarla si está.
+
+[Speaker 7 - 00:26:03]
+Yo no la vi.
+
+[Speaker 1 - 00:26:09]
+Y exacto, por ejemplo, si no está y si si quizo el deployed ya es de él, si mintea todo el supply, pues solamente todo el supply va a ser de él. Quiere decir que las personas que queramos tenerlo, vamos a tener que ir a secundario, ir a comprarla.
+
+[Speaker 7 - 00:26:29]
+No, pero no, no, no, no he podido hacer mint.
+
+[Speaker 1 - 00:26:35]
+¿En la de Magic Star CTwenty no aparece nada?
+
+[Speaker 7 - 00:26:40]
+Nada. ¿O está lento? ¿O cuánto la banderita no?
+
+[Speaker 1 - 00:26:46]
+Yo me demoré como 15 minutos en que me aparecieran los míos. ¿Sí? Ah, maldita mierda. Sí, yo me demoré porque sí, ellos estaban super tardados con el con cargarlas,
+
+[Speaker 7 - 00:27:01]
+cargandolas. Pues, bueno, ahí ahí tiré varias que podrían ser interesantes. Tiene un par de chinas que no vi, por si quieren hacerle Mint, pues bienvenidos, apenas aparezcan. Tiene un par de banderitas.
+
+[Speaker 1 - 00:27:19]
+Voy a ir a verlas, voy a verlas. Por ejemplo, ah bueno, si ves Gucci trató la del dragón, creo que sí visualmente, sí. Toca ir, toca ir mirándolas, lo que se, y también lo que se esté moviendo, ¿no? Lo que tengan como en en, lo que se le comenté. Cuando el dragón funcionó, vamos a ver, esto funcionó. Hey, ya le sigo. No.
+
+[Speaker 7 - 00:27:50]
+El de My John. Tampoco.
+
+[Speaker 1 - 00:28:15]
+Bueno, aunque esto es como esto es como una culebra, ¿verdad?
+
+[Speaker 7 - 00:28:20]
+No va a haber otra gonsito, pero no sé por qué salen una culebra en el No, él está parchado de de Aragón.
+
+[Speaker 1 - 00:28:34]
+El diamante, no sé si ya hizo un mint out.
+
+[Speaker 7 - 00:28:39]
+El diamante, pues, es bueno.
+
+[Speaker 1 - 00:28:41]
+El diamante, yo digo, también es bueno, Mario.
+
+[Speaker 2 - 00:28:46]
+Pero copio copio el mismo mensaje de ZIP code y lo y lo publico sin nada extra.
+
+[Speaker 1 - 00:28:57]
+Espérate cómo, no no no, si vas a hacer mint, no. Yo a veces me equivoco porque sobre el deploye envío el deployed, no. Si vas a hacer, espérate, te voy a mandar un, les voy a mandar una imagen acá. Espérame yo entro a la página de ellos y les mando una imagen.
+
+[Speaker 7 - 00:29:15]
+Encontré el del dragoncito, pero no, no sé si yo fui que lo logré deploid o ya estaba.
+
+[Speaker 1 - 00:29:21]
+¿Pero está a full? ¿Está inventado?
+
+[Speaker 7 - 00:29:23]
+No, 33 por 100,
+
+[Speaker 1 - 00:29:26]
+mierda. Entonces, podemos mintiarlo, si es Mierda,
+
+[Speaker 2 - 00:29:29]
+ponlo ahí, sico.
+
+[Speaker 7 - 00:29:31]
+Ese podemos, ese es el Ahí lo puse, sí lo puse. ¿Qué hora es donde ustedes? No está muy temprano por allá.
+
+[Speaker 1 - 00:29:44]
+MacBook creo que son las 5, acá son las 7 y media.
+
+[Speaker 7 - 00:29:57]
+Exercién. Mira, entonces Para todo el que está por aquí, que nos ve como callados, es porque estamos inscribiendo mierdas en el en el en el Twitter, que nos tiene, el Moss nos tiene haciendo maricas.
+
+[Speaker 1 - 00:30:08]
+Bien maricas.
+
+[Speaker 3 - 00:30:12]
+Hola,
+
+[Speaker 1 - 00:30:15]
+malas, güey, güey, habla. ¿Puedes hablar?
+
+[Speaker 2 - 00:31:05]
+Piso pero estrepitosamente.
+
+[Speaker 10 - 00:31:10]
+A ver, reconectemos esto Las leyendas nunca mueren, honey. Trascienden.
+
+[Speaker 1 - 00:31:15]
+Tico dale dale a refrescarla, a ver si te sale o no.
+
+[Speaker 7 - 00:31:20]
+No, estoy conectando otra vez a esa idea.
+
+[Speaker 11 - 00:31:24]
+¿Qué dicen mis perros?
+
+[Speaker 7 - 00:31:27]
+¿Qué más? ¿Quién no?
+
+[Speaker 10 - 00:31:31]
+Aquí, mono. Hablando poquito porque no sé cómo es que mi perro. Mi perrito. Yo soy de Caracas, broad, pero, bueno, este, viví como un tiempo en Bogotá y aprendí la jerga, yo no, la jerga añera.
+
+[Speaker 7 - 00:31:51]
+La jerga rola, no, aprendiste la más mala a lo oía. A lo
+
+[Speaker 1 - 00:31:55]
+oía. No, pero es que una cosa es ser rol, otra cosa es ser dinero.
+
+[Speaker 11 - 00:32:00]
+Yo todavía
+
+[Speaker 7 - 00:32:02]
+soy dinero. Malo bien.
+
+[Speaker 1 - 00:32:07]
+Oiga Colombia, Colombia no le no lo no lo han sacado, weón.
+
+[Speaker 10 - 00:32:13]
+Sácalo, sáquenlo.
+
+[Speaker 1 - 00:32:16]
+Colombia.
+
+[Speaker 7 - 00:32:18]
+No, pues, yo es que la, dice el diploma No, no, la la palabra, la
+
+[Speaker 1 - 00:32:23]
+palabra
+
+[Speaker 7 - 00:32:24]
+Colombia. Ah. Tirla, tirla, le hacemos mail.
+
+[Speaker 10 - 00:32:29]
+Tirenla mi perro.
+
+[Speaker 1 - 00:32:31]
+Voy a sacarla, sí, de una. Mira, pero nadie respondió mi pregunta. ¿Qué hago? ¿Cómo copio? ¿Qué copio? Ah, bueno, perdóname, es que te la puse pero no te dije, es que mira Haz lo haz lo único que cuenta alterna,
+
+[Speaker 10 - 00:32:45]
+jone. No te ahorras
+
+[Speaker 1 - 00:32:47]
+mejor. Arriba te puse arriba les puse el pin, entonces si lo abren, mira, tú lo abres Beteo con la alterna, entonces no te showen. Abres brocheta, lo puedes colocar en un post o lo puedes colocar, por ejemplo, tú vas el perfil de Psycho y pones notificaciones, yo lo que hago es mis notificaciones están en Mao, lo que Mao esté minteando, haciendo deployed, perdón, yo lo minteo después de él. Entonces, si copone el el el deploye arriba, entonces tú le comentas igual al al afótico que puse arriba, entonces abres corchetes, ep, que es la la el protocolo que te decía estás haciendo, xrc 20, ahí está, op operation, lo que vas a hacer, si vas a hacer una transferencia, un listado, un mint o el deployed. En este caso, como ya le hizo el deployed, tú harías el mint. Después, zig es la es el nombre que le vas a poner, la palabra, el número o la banderita del emoji y la cantidad.
+
+[Speaker 1 - 00:33:52]
+Entonces, de en el en el post que que hizo Zico, tú vas a leer, vas a copiar lo que él puso, solo las letricas que te estoy mostrando en esta foto, las pegas, y borras el deployed y lo cambias por mint. Borras el el top, la, porque él te va a decir la cantidad máxima, el supply, borras la línea del supply para que te quede igual así, solo estos 4 rengloncitos y le respondes. Si él quiere hacer lo mismo, entonces, ¿qué hacemos con Mau? Nos respondemos mensaje y mensaje para seguir minutando sobre el mismo comentario. Queda más fácil, más rápido. Pa que no te vayas a la página, busques el token, o sea, también lo puedes hacer de la página, pero así me a mí me parece más fácil así. No sé si si entendiste, Honey.
+
+[Speaker 2 - 00:34:50]
+¿Sí estabas mintiendo? Sí, sí entendí, sí, sí entendí. Aunque aunque tiene razón mala, lo voy a hacer de mi cuenta alterna porque ya esta bastante tranza que tiene bloqueándola todos los días. Ayer la bloquearon y antes de ayer también la bloquearon. ¿Ambas? Porque tengo la verificación más fácil.
+
+[Speaker 7 - 00:35:09]
+Sí, es que la mía también anda shadowbank.
+
+[Speaker 2 - 00:35:15]
+Deja, voy a ver voy a ver los mensajes de respuesta que tienes, a ver. Entonces, no sé el reggae ahí de fondo. Pues yo iba a decir exactamente lo mismo, me vine a comentar esa Me encanta el reggae, tenía rato que no escuchaba de reguetón. A mí esa vaina me provoca agarrar la camioneta y subir Ocumare.
+
+[Speaker 10 - 00:35:44]
+Ocumare de la costa, habla claro.
+
+[Speaker 2 - 00:35:46]
+Que habla claro, menor. ¿Tú sabes lo que? Es una cosa.
+
+[Speaker 10 - 00:35:51]
+Pa, pa, pa, pa, pa, que lo que mi perro.
+
+[Speaker 1 - 00:35:56]
+No, ya están muy corronchas ustedes acá.
+
+[Speaker 2 - 00:36:09]
+Ya después que nos pusieron a ladrar, Dani, cualquier cosa se puede esperar. Ah, cualquier cosa, sí. Sí, men, o sea. Después que empezamos a ladrar, cualquier cosa se puede esperar de nosotras.
+
+[Speaker 10 - 00:36:20]
+Qué buena gente sin criterio, menos. Es la gente que se pone a ladrar los space, gente sin criterio.
+
+[Speaker 1 - 00:36:26]
+No, igual que falta de respeto 1 en un space, la gente se sube a decir groserías
+
+[Speaker 10 - 00:36:32]
+y a ladrar y, o sea. Sí, está lo mágico, está mal, ¿verdad? Y la gente no hace nada. Y la gente no hace nada.
+
+[Speaker 1 - 00:36:41]
+A mí sí me parece una falta de respeto eso, ¿verdad? Unicornio, unicornio. El unicornio creo que lo tiene Mexi. Ah, ese dragoncito está chingado, marico.
+
+[Speaker 7 - 00:36:54]
+Las palabras, Dani, por favor. Ah, perdón, un fallo
+
+[Speaker 1 - 00:36:58]
+serio. Ese ese está bonito ese dragón.
+
+[Speaker 2 - 00:37:04]
+Tampoco se puede decir mariquito, ¿verdad? Qué
+
+[Speaker 1 - 00:37:07]
+dragón tan bonito.
+
+[Speaker 2 - 00:37:10]
+Tampoco se puede decir mariquito en estos espacios. No, ¿verdad? Bueno chicos, les cuento, holders 168
+
+[Speaker 1 - 00:37:16]
+holders el dragoncito, yo pienso que puede estar bueno, 45.76 por 100 en progreso.
+
+[Speaker 7 - 00:37:25]
+Les voy a mandar una mano. Ah, pero a mí no me está,
+
+[Speaker 1 - 00:37:27]
+no me está No, hay que darle mint. Ay, no, Mari, que ya yo ya les digo cuánto es el
+
+[Speaker 7 - 00:37:35]
+No, ya sé qué voy a hacer, pues el Internet, primero.
+
+[Speaker 1 - 00:37:41]
+Ok, ya tengo acá.
+
+[Speaker 2 - 00:37:44]
+Mire, hablando de todo como los locos, mientras ustedes mentean allí, ayer esperaba que en el espacio que tenía abierto el presidente de El Salvador se mencionara algo sobre bitcoin, pero bueno, él supo elegir. Sí, él supo elegir muy bien a quienes preguntar y a quienes subí a preguntar. En realidad, además que la gente desaprovechó ese tiempo tremendamente
+
+[Speaker 10 - 00:38:08]
+Ganó demasiado. Yo sé, yo me quedé dormida, joven, y y me acuerdo del tibique, el Kike. Soy el presidente, estoy un museo feliz de hablar con ustedes, qué agradecido estoy. Ser, o sea, de verdad, ser presidente, guau, estoy estoy temblando ser reciente, guau. Marisol, ¿no? Ay, un tipo lloró, Marica, guau.
+
+[Speaker 2 - 00:38:31]
+Sí, en el principio un tipo lloró que no pudo ni siquiera preguntar. Y yo, Marico, perdiste el tiempo, te subieron a hablar con el presidente, huevón, y no pudiste responder ni hablar ni decir nada, no le preguntaste nada. Y el presidente todo, el carajo todo incómodo ahí. Gracias, sí, gracias. O sea, te escogí entre todo ese montón de gente. Había periodistas súper reputados allí, reijueputados, esperando que les dieran plaza, los mensajes se fueron a a casi que 2000000000 y pico, y y les decían, los periodistas les decían que que les diera la palabra. Él no estaba en ninguna condición, él no quiso, bajo ningún concepto, darle la palabra a periodistas. Y creo que 1 de los primeros fue un venezolano tuvo como 15 minutos el carajo hablando de, porque tú sabes que la de la la, ay, que la dictadura, que no sé qué, que nuestra situación, marico, haz la pregunta, por favor.
+
+[Speaker 2 - 00:39:35]
+Y así fueron todos.
+
+[Speaker 7 - 00:39:38]
+Hey, el dragoncito va volando, Dani.
+
+[Speaker 1 - 00:39:41]
+Sí, sí, sí, va bien.
+
+[Speaker 2 - 00:39:44]
+No, ustedes nos llevan con ventaja. Connie hablen el espacio si se van a poner a mentear.
+
+[Speaker 1 - 00:39:49]
+No, no, no, estamos estamos hablando, estamos hablando.
+
+[Speaker 2 - 00:39:52]
+No nos dejan a la gente que tear tampoco. No te pongas mamá, Fanny, pues, porque
+
+[Speaker 7 - 00:39:58]
+nos toca nos toca ponerte mute, mamá,
+
+[Speaker 1 - 00:40:05]
+¿sí? ¿Quieres Dani?
+
+[Speaker 12 - 00:40:07]
+No es más mancoli No es más mancoli
+
+[Speaker 2 - 00:40:10]
+No. Es envidiosa que estoy, es envidiosa que estoy.
+
+[Speaker 1 - 00:40:15]
+Entonces, si quieren hacer el mint, yo voy a hacer mint también del dragoncito. La cantidad de ¿Será que me
+
+[Speaker 7 - 00:40:24]
+será que me cogió el deploye?
+
+[Speaker 1 - 00:40:27]
+Son 10000, de ese dragoncito son, yo no sé quién lo haya sacado, pero
+
+[Speaker 7 - 00:40:32]
+tirémoslo. Yo puse 10000 y y puse la cantidad que sale ahí. Será que me lo cogió, pero que no aparece, no.
+
+[Speaker 1 - 00:40:48]
+Es un dragoncito.
+
+[Speaker 7 - 00:41:05]
+¿Ethan, hiciera que los holders los cuenta como cuentan individuales o con los Smint?
+
+[Speaker 1 - 00:41:12]
+¿Los qué?
+
+[Speaker 2 - 00:41:14]
+Eso te iba a preguntar.
+
+[Speaker 1 - 00:41:17]
+Eso te iba a preguntar. No, no, no, por cuenta, por cuenta. Por cuenta, sí crees. Por cuenta,
+
+[Speaker 2 - 00:41:25]
+sí. Mara, tú no estás mintiendo, ¿verdad?
+
+[Speaker 1 - 00:41:31]
+Yo creo que sí. Yo creo que sí. No, ya le dije No responde,
+
+[Speaker 2 - 00:41:37]
+No sabe no responde.
+
+[Speaker 7 - 00:41:49]
+Bueno, por aquí el Dane, minteando también el dragoncillo. Se va a mintear todo, al parecer. Está muy interesante.
+
+[Speaker 1 - 00:42:05]
+¿Alguien más quiere subir? ¿Para subirlo?
+
+[Speaker 2 - 00:42:10]
+Todo está mintiendo.
+
+[Speaker 1 - 00:42:12]
+Yo creo.
+
+[Speaker 7 - 00:42:14]
+Todo está mintiendo. Yo creo. Aló bien. Bueno, lo escucharon primero aquí en Buenos Días, Buenos Días con Dani, con Mori, con el Zico desde Asia, Dani desde Colombia y Honey desde Colombia también, señora Freimal.
+
+[Speaker 2 - 00:42:35]
+Sí, señor, desde Tam Marta, con el bombo que se Marta.
+
+[Speaker 10 - 00:42:50]
+Sí
+
+[Speaker 2 - 00:42:53]
+Sí, yo tengo, mi sede está aquí ahorita, aquí es más económico para mí. La montada, la montada. Y que estoy en la montaña, mamita, tengo la la playa ahí a Pataningo y estoy en la montaña, O sea
+
+[Speaker 10 - 00:43:08]
+Zairón. Hola,
+
+[Speaker 6 - 00:43:12]
+buenos días. ¿Se me escucha?
+
+[Speaker 1 - 00:43:15]
+Hola, Furi, sí. ¿Qué tal? Escuchamos. ¿Cómo estás?
+
+[Speaker 6 - 00:43:19]
+Acá en camino a trabajar.
+
+[Speaker 2 - 00:43:23]
+Buenos días, Futi, ¿cómo estás? Buenos días, bien, gracias, ¿y ustedes? Excelente.
+
+[Speaker 6 - 00:43:29]
+Esta es mi primera vez hablando en un espacio, así que es como como raro. Pero bueno. Claro es que
+
+[Speaker 0 - 00:43:39]
+no
+
+[Speaker 7 - 00:43:40]
+no no hable, aquí nadie conoce a nadie.
+
+[Speaker 6 - 00:43:45]
+Bueno, perfecto. Yo voy en camino al trabajo, pero estoy haciendo, como hay mucho tráfico, voy haciendo los mes, pero como también a mí me bloquearon, yo me me desperté, me dormí a las 12, me desperté a las 2 de la mañana, dije, ay, mierda, es a las 7 am, PCTQ, quién sabe a qué hora, y era acá, yo estoy en el este de Estados Unidos, y me levanté a a una hora después de que me quedé dormido, para poder hacer ments. Yo hice ethereum con el unico de ethereum, East con el Unicode de East y ahí quedan pocos, ¿eh? Quedan 1000000, me quedé con 20000000 y ahí quedan, es lo que les quería decir, que puedan usar el Unicode.
+
+[Speaker 2 - 00:44:31]
+Ok, ya saben, en el espacio de en la cuenta de de Funthy van a encontrar qué es lo que está mintiendo él, vaya Hay que mamearle la cuenta. Hay que mamearle la cuenta. El del Futhy acaba de decir que mintió el 90 por 100 el supply, que va a romper en ustedes si si si compran esa mierda?
+
+[Speaker 1 - 00:44:47]
+Básicamente sí sí.
+
+[Speaker 6 - 00:44:49]
+No, eso no se puede hacer, la gente puede andar ahí comprando y a mí también no me duele, yo siempre estoy en el espacio, así que si alguien quiere algo que yo tenga, que tenga mucho supply, yo se los mando, eso no hay problema de transfer. Tampoco no soy Hey,
+
+[Speaker 7 - 00:45:04]
+a todos a todos los que están aquí, somos como 12 personas, 11. Vamos a ayudarle aquí al Dani haciendo like y Twitter al room. Dani, cambia cambia el título de buenos días a, no sé, inscribe Emoji con con nosotros, alguna vaina así. Ponete creativo.
+
+[Speaker 2 - 00:45:27]
+Carajo, ponete creativo.
+
+[Speaker 3 - 00:45:29]
+Ese tipo de cojones son buenos, Dani, ¿viste?
+
+[Speaker 2 - 00:45:33]
+Eso es.
+
+[Speaker 1 - 00:45:40]
+Estoy escribiéndolo. No, no crean que me fui escribiendo XRP.
+
+[Speaker 2 - 00:45:54]
+Mira, ahora que todo el mundo está de regreso al trabajo, la cosa se pone lenta, todo el mundo se se sientes Yo ayer sentía un poco de no estrés, no es la palabra, pero sentía que me estaba perdiendo de cosas. Después dije, pero bueno, ¿qué es esto? Yo se supone que yo me estoy divirtiendo, no es para venir a sufrir.
+
+[Speaker 7 - 00:46:21]
+Pero, ¿por qué mamá, Juani? Te sientes que estás
+
+[Speaker 2 - 00:46:25]
+sufriendo. No, que siento que estoy sufriendo, es que me estoy perdiendo de cosas, me estoy perdiendo de de conversaciones, de imágenes que están pasando, porque porque también estoy de vuelta a la actividad. Aquí estamos en Zafra, aquí es temporada turística y acuérdate que yo vivo en una zona ecoturística. Entonces, hay actividad aquí en la zona.
+
+[Speaker 7 - 00:46:47]
+Mucha gente en Santa Marta pudo en estos días, ¿o no?
+
+[Speaker 2 - 00:46:51]
+Chico, se dice que el que ¿Qué se cree? Se dice que el el turismo no está como como lo estaban esperando, pero es que, por aquí hay un fenómeno, que es que la gente no ha entendido acá que la mayor parte del turista que viene aquí, que viene de Europa, viene informado de a dónde va, lo consigue digitalmente y entonces va solamente a los espacios en los que dio en línea, y eso pasa con la mayor parte del turismo. Aquí esto está todavía muy No es como Bogotá, que todo en Bogotá llega y hasta Google te dice a dónde ir, mira, estás pasando por enfrente de eso, estás yendo para aquel lado, estás buscando por aquí, estás. Te recomiendo esta panadería a ti que te gustan los panes, aquí no, aquí no hay esa información porque la gente no está muy conectada digitalmente. Eso es eso es bueno para mí porque yo trabajo con eso, pero es también un poco complicado meterle, son un poco cabeza
+
+[Speaker 0 - 00:47:50]
+dura.
+
+[Speaker 7 - 00:47:53]
+Mierda. No, resumen ejecutivo, me sentí superbién. Muchas
+
+[Speaker 2 - 00:48:08]
+gracias, Honey.
+
+[Speaker 10 - 00:48:13]
+Volví, volví, no había ido, ¿ok? No sé si me preguntaron algo.
+
+[Speaker 1 - 00:48:18]
+¿Estabas escondida en un clóset?
+
+[Speaker 10 - 00:48:20]
+¿Y qué? No, no, marica, mejor cállese.
+
+[Speaker 7 - 00:48:28]
+Dani, ¿estás viendo esa mierda? Es que 590000 ventas en ese dragón.
+
+[Speaker 1 - 00:48:35]
+Sí, va subiendo. Ponle cuidado.
+
+[Speaker 10 - 00:48:52]
+Y no podemos hablar como de otro tema, ¿no? Que no sea Sí, claro, claro, de qué quieres hablar, de qué quieres hablar Pues a mí me estaba gustando lo que Johnny estaba comentando del space, me interesaba, porque no escuché la grabación.
+
+[Speaker 7 - 00:49:09]
+¿Qué era el space?
+
+[Speaker 2 - 00:49:10]
+Profundo, nos pusimos muy profundos. Hubo un momento en que empezamos a filosofar y todo.
+
+[Speaker 7 - 00:49:18]
+No, con estos SPEI hay que tener mucho cuidado, la verdad, para todos los que estén aquí. Ayer estuve en 1 que No, eso, puro puro disclose promotion. Así que no le crean a nadie, la verdad. Ni siquiera nosotros 3 aquí.
+
+[Speaker 2 - 00:49:42]
+Hay unos que son abiertos, que te lo dicen de antemano. Por ahí vi, acabo de ver 1 que decía claramente, vamos a hablar de esto, esto, esto, esto, esto, y y era abiertamente promod.
+
+[Speaker 7 - 00:49:54]
+No, es que anoche, por ejemplo, no, es que anoche no, esta mañana que estaba en 1, llega el host y dice, ¿qué fue lo que dice? Traen a un mange de un VC, supuestamente. Y el VC dice, no, es que vamos a invertir en este tope, no sé qué. Y ya, esto, pues, ya me huele a mierda. Pero pero pero así va a haber muchos, así que no se crean no se crean todo lo que llega. Entonces, llegué, por ejemplo, y hice una pregunta muy sencilla. Hey, si trabajas en un VC, ¿cuál es el el nombre del VC y dame la página web? Y hermano, ah, no, no, es que eso no se puede, no se puede discloader. ¿Yo qué? Como que no, si usted trabaja en un VC y esto es por regulación, tiene que, usted tiene que, usted tiene que estar visible. Usted no puede ser un VC sin regulación, sin licencia y no, no tener visibilidad. Entonces, va a haber va, o sea, todos los que están aquí, mucho cuidado con esas cosas, porque eso es puro, o sea, es puro exi liquidity.
+
+[Speaker 7 - 00:50:55]
+Es más, me echaron del despacito. Yo creo que hasta me reportaron. No, pero no sé. Pero pero eso eso sucede mucho, o sea, yo estaba en este mercado desde 2016 y los escamos que 1 ve, todo se repite en ciclos, para que tengan cuidado con eso. Pero también hay gente bien en estos espacios, hay gente que quiere ayudar, hay gente que quiere simplemente chilear un rato, inscribir en vivo, como estamos haciendo aquí en este momento, hablar un poco de mierda. Honey nos regaña de vez en cuando, sale la mamá, Honey a regañarnos, pero, pues, bueno, qué hacemos, pues. Pero de resto, no, nada, todo bien. De todo
+
+[Speaker 2 - 00:51:38]
+hay en esta vaina. Mira, Hoslout está preguntando si, le va, déjame leerla textualmente, que si pueden explicar para Doomis cómo puede hacer para crear un NFT en Dooginas.
+
+[Speaker 1 - 00:51:55]
+¿Quién preguntó eso?
+
+[Speaker 12 - 00:51:58]
+Hostlood.
+
+[Speaker 1 - 00:52:01]
+¿Está acá o no?
+
+[Speaker 2 - 00:52:04]
+Sí, sí, está, está allá abajo. Mírala. Míralo o mírala. Ah, ya lo dijo. Está que aquí es mañana, pero he cambiado varias veces desde entonces. Estoy de acuerdo contigo, Oslout, yo soy un camaleón.
+
+[Speaker 1 - 00:52:16]
+Oslout Vision. Si quieres si quieres por por Dien te te puedo conectar con un con un programador que está escribiendo.
+
+[Speaker 7 - 00:52:34]
+Dani, eso está bien, parce, pero evitemos enviar DMs, weon, porque es que eso parce, la gente
+
+[Speaker 1 - 00:52:41]
+la gente no se puede acordar O te va a enviar la cuenta de él, te va a enviar la cuenta de él. Más bien. Eso está bien. Y
+
+[Speaker 7 - 00:52:48]
+opiné a la en el top y y ahí lo pueden ver y y firme. Porque los DMs parce se pueden prestar para mucha cosa y lo que menos quieren es quedar involucrado en algún escamo, cualquier juego, nada así. Entonces, también eso va para todo el mundo en el espacio.
+
+[Speaker 1 - 00:53:05]
+Listo, ahorita se los voy a pedir acá, el que quiere igual lo, él lo puede igual seguir, puede ir a su cuenta. Él escribe un montón en en en ordenancia y sabe cómo cómo hacerlo para para que metas tu colección o bueno lo que quieras hacer, ahorita les pongo eso, sigue viendo el dragoncito. Mira, por ejemplo, de la de la x, he hecho un montón de intentos de mint, pero esa nunca me llegó. Y aún hay hay supply.
+
+[Speaker 7 - 00:54:04]
+¿Hiciste el diamantico, Dani? Sí. Yo creo que te quedó.
+
+[Speaker 1 - 00:54:12]
+Ah, sí, a ver. No, pero no me, no, yo no lo tengo. ¿No, o no me aparece aún?
+
+[Speaker 7 - 00:54:23]
+A mí no me ha aparecido ninguno, la verdad. Qué qué qué pena con todos ustedes. No me ha parecido ninguno, Dani. No puedo usar palabras así.
+
+[Speaker 1 - 00:54:35]
+Aquí son las una y 31, dice press, press, ¿si estás escribiendo o no?
+
+[Speaker 0 - 00:54:42]
+No,
+
+[Speaker 1 - 00:54:45]
+press está, sí, yo creo que sí está escribiendo.
+
+[Speaker 13 - 00:54:50]
+Hola señor Pepe. Buenos días muchachos, muchachitas, ¿cómo están? Bien. Aquí yendo al trabajo manejando y cada luz roja paro y hago un script del dragón. Gracias por el alfa.
+
+[Speaker 1 - 00:55:05]
+Ah, con gusto. De nada, señor Pepe.
+
+[Speaker 13 - 00:55:09]
+Pues no sabemos todavía si va a ser alfa o no, pero Si va a ser alfa o no, pero No, pero ese es ese es la el jueguito ahorita, eso no, sea o no sea, es bueno aprender. Creo que en estas últimas 3 semanas he aprendido a tradear en ADA, Solana, en la en el escriptions y en la cartera de Doge. So, yo este mes ha sido de mucho progreso en en el ecosistema. Que ayer alguien me dijo, oye, tú estás en diferentes comunidades, yo te digo de everywhere, digo, ¿por qué eso es estrato? Y ahí me perdí el espacio de la empresa,
+
+[Speaker 1 - 00:55:50]
+no me gustó pero Press está trabajando. Oiga si estábamos en primera línea todos, ¿no? Yo nos vi en un momento estábamos todos para ir Eso creo que quería que habláramos, ¿verdad? Este, porque yo no lo escuché. Aquí en el presidente.
+
+[Speaker 10 - 00:56:04]
+Sí, del space, del space de de Bukele.
+
+[Speaker 1 - 00:56:08]
+Y estaba ayer tratando de ¿No lo escuchaste? Pues subió alguien, se puso a ladrar en el space el presidente. ¿Verdad? Lo bajaron.
+
+[Speaker 13 - 00:56:20]
+Por eso, por lo de eso, por eso estamos así.
+
+[Speaker 1 - 00:56:25]
+Por eso se, por eso lo sacan de los espacios.
+
+[Speaker 2 - 00:56:30]
+Yo yo pedí la palabra, pero no, ni de vaina, con ese perfil que tengo no me lo voy a dar. No,
+
+[Speaker 1 - 00:56:39]
+pero este perfil está bien, mira. Invierte en naturaleza, Invest in Nacho. Honey, bitcoin root, sí. 2000 seguidores, sí, no sé, no sé esta. Cuenta verificada si te hubieran dado la la opción.
+
+[Speaker 2 - 00:56:55]
+No me la dieron, pero es que es que había mucha gente allí que decía que estaba esperando por por la palabra y y me imagino que la vista era
+
+[Speaker 10 - 00:57:06]
+A mí ni ni siquiera me dejaba pedirla, o sea, yo mandaba la solicitud y me salía arriba un mensaje, automáticamente me lo negaron y me salían muchas personas que están pidiendo request al espacio. Dios mío, mierda, yo sé como 3 veces, 3 veces me salió.
+
+[Speaker 2 - 00:57:24]
+Sí, pero Canuto había pasado el el space y yo le había puesto notificación, entonces fui de las, no de las primeras, pero cuando yo llegué ya había un montón de gente allí, este, pero sí me dio acceso a poner mi mi solicitud de para hablar, pero no nada que ver. Me imagino que estaba demasiado full.
+
+[Speaker 1 - 00:57:46]
+Bueno, supongamos que hubiese, estoy enciendado la palabra, que le hubieses dicho al presidente.
+
+[Speaker 2 - 00:57:53]
+Es muy fácil. ¿Qué implicó para ellos adoptar el bitcoin como como moneda de curso legal, como como moneda de curso legal? No solamente en el tema económico, sino en el tema político, porque ahí estaba mi ley, y yo estimo que mi ley estaba también atento a escuchar algo sobre la adopción de bitcoin en El Salvador, de que él ha hecho muchas muchas muchas entrevistas al respecto, pero allí en el Space yo creo que había gente que estaba esperando que él hablara sobre eso a nivel económico, a nivel financiero. ¿Cómo afectó eso a la economía del país?
+
+[Speaker 1 - 00:58:44]
+Interesante, ¿tú qué tú qué hubieses dicho Mala? Si si Nayib tuviese subido a su espacio.
+
+[Speaker 10 - 00:58:50]
+Yo también le hubiese preguntado algo sobre bitcoin, pero le hubiese preguntado algo más tipo por el título del space, que le había puesto como lo que los medios no quieren que sepas. Entonces yo le quería como preguntar, digo ok, ¿qué es lo que los medios no quieren que sepa sobre el bitcoin? Haciéndole honor al título del space, pero bueno, nunca pasó. Porque él debe tener una información, sí, él debe tener información, él dijo como que, de hecho, alguien le preguntó lo poquito que puede escuchar, una de las preguntas le dije, no, cuando antes, pues, yo lo sigo a usted, le dijo el tipo, yo lo sigo a usted hace tiempo, antes que le fuera presidente, ustedes estaban en una conferencia y dijo tal cosa. Y dije, verga, imagínate, médico, yo que soy una pendeja, no me acuerdo qué coño dije ayer, o sea, médico, ¿qué se acuerda Anahí Bukele? El bicho que, ya va, que se está pegando la vaina, y se muteó y después dije, ah, bueno, sí, lo de la conferencia que que dije lo de las naciones, yo estoy de acuerdo, todavía con así yo como mierda.
+
+[Speaker 10 - 00:59:59]
+Y ese tipo de vainas también como que las pillé en el espacio, que me parecieron súper finas como la forma en la que él se maneja en el espacio, ¿sabes? Lo poquito que puede escuchar, o sea, qué lástima que me quede dormida, pero yo quiero escuchar la grabación porque hubo muchas preguntas que él supo moderar muy bien, era por eso, porque se ponía que ya va, es que me escuchó doble, es que hay feedback, es que no sé qué, pero tranquilo, muy tranquilo, ¿no? Y, este, eso fue muy interesante, me pareció a mí de lo poquito que escuché, YYY en eso que digo todo esto, porque él dijo en una parte como que en esa conferencia él tenía como que en ese momento él tenía cierta información, obviamente, no tenía cierta información que obviamente él, obviamente la tiene ahorita y tal. Entonces, este, yo dije dentro de mí también como guau, no, me imagino que al tú llegar a una posición ya de presidente de una nación, se desbloquean muchas ventanitas y muchas puerticas de información que que, bueno, yo creo que la compra de bitcoin va hacia hacia una ventanita de información.
+
+[Speaker 10 - 01:01:10]
+A él le gustaba la vaina, vio esa ventanita de información y dijo, por aquí es la vaina. Entonces, a mí me tiene muy como muy bullish. A mí, yo, digamos que no sé, yo yo no era, porque no soy fan de él, no, me quiero alejar mucho sobre la parte de idolatrar políticos y vainas, pero sí me llama mucho la atención la estrategia que está llevando con bitcoin y el tweet que puso larguísimo sobre la la inversión que que hizo cuando subió bitcoin y yo mierda. Qué qué sabe.
+
+[Speaker 2 - 01:01:42]
+Está dando bitcoin como una reserva de valor y eso es bien válido, pero también está siendo implementado, la cartera estaba teniendo fallas, hay algunas cosas que están representando el el el dar el paso adelante sin sin que el pueblo en realidad sepa mucho, porque de hecho yo tengo gente que está allá, que está viviendo allá, y están, ellos mismos enfrentan la falta de información que tiene la gente, que no saben cómo manejar la cartera todavía, que no reciben tantas transacciones. En realidad, eso no es tan simple. Por eso le la pregunta iba en torno a eso, porque como reserva de valor, bien, vaya y venga, pero como moneda de intercambio o como como forma de pago, bien complicado. Ahora, lo que tú estabas hablando es sobre la pregunta que le hicieron sobre la unión de todo Centroamérica, como un solo país, y sí, él empujó eso, pero, vaya, hay muchos más intereses que no lo van a dejar pasar el resto, no solamente Sí, eso no es mi deber.
+
+[Speaker 2 - 01:02:55]
+Sí, y y más allá de tener un solo presidente, no, ni siquiera pasa por eso, pasa porque ellos juntos tendrían el 8 por 100 de la riqueza del mundo juntos, y ahorita lo están expoliando, entonces los están expoliando, los dividen, los dejan bien aparte para que cada 1 tenga que batallar muy fuerte y a cada 1 de ellos los pueden amenazar individualmente con la cosa que tengan ellos en como debilidad. Es bien complicado el tema y él cuando lo dijo no no había entrado a esa puertica como tú dices, no estaba muy claro, pero ciertamente estoy de acuerdo contigo. Yo tampoco soy fan de de políticos y entiendo que ellos no pueden estar tampoco, después que abren esa puerta, tienen que muchas veces asumir posiciones que no quieren, incluso por el tema diplomático, por las leyes, por por seguir la la el la línea ecuánime de lo que de su de su plan de gobierno, pero él dijo algo que era bien relevante, este, voluntad, Cómo con los recursos ellos fueron haciendo cosas, pero empezaron pequeños con recursos pequeños y cada vez que van asumiendo retos más grandes van obteniendo más recursos, teniendo más comunicación, conexiones con otras personas que pueden hacer lo posible.
+
+[Speaker 2 - 01:04:25]
+Ah, pero si tú no tienes voluntad de hacerlo, pues simplemente no va a suceder. Alguien se lo preguntó por sus acciones y cómo funcionaría eso en México, imagínate tú. Entonces, él planteó una respuesta muy inteligente a la situación porque dijo, mira, nosotros empezamos aquí, teníamos 0 recursos muy nulos, eran 10000 habitantes solamente y lo logramos, y así fuimos creciendo hasta llegar a la presidencia, y cada 1 era un reto diferente con unas características diferentes y con unas expectativas diferentes también, pero también teníamos diferente calidad de conexiones, y hablaba sobre el tema financiero en especial, bonos, acreencia, todo lo que tiene que ver con lo que te ayuda a soportar el el las acciones que vas a tomar. Eso fue bien bien interesante, porque además es una cachetada con guante blanco, cuando tú escuchas en otros países presidentes hablar de lo que van a hacer y lo que no pueden hacer por falta de recursos.
+
+[Speaker 2 - 01:05:36]
+¿Qué estás mintiendo ahora?
+
+[Speaker 1 - 01:05:41]
+Banderitas, otra vez el dragoncito, diamante.
+
+[Speaker 13 - 01:05:47]
+Todavía hay dragón,
+
+[Speaker 1 - 01:05:48]
+yo no lo anoté 3 veces. ¿Ya se acabó? No se habrá. No, es que sí miro, pierdo mucho tiempo.
+
+[Speaker 13 - 01:05:59]
+Y lo que nos desespera de mi de, no, de mi de, este, Nayib, acá, digamos, con nosotros aquí en Estados Unidos, es que vemos y nos preguntamos por qué todos los presidentes no pueden seguir ese ejemplo. Si está demostrando que le dio la vuelta completa a El Salvador. Eso es lo que nos preguntamos acá.
+
+[Speaker 2 - 01:06:24]
+¿Sabes qué pasa o qué creo yo que sucede? Que es que ellos hacen muchos convenios para poder llegar al poder, y este carajo llegó al poder trabajando, porque él lo hizo desde esa desde esa alcaldía en la que empezó con 10000 habitantes, o sea, él hizo eso de base. De otra forma, es muy difícil, porque tú para llegar al poder, generalmente, haces muchos convenios con un montón de gente, te montas por encima de otro, generando algunas clase de enemigo o simplemente gente que tú sabes que puede accionar en tu contra, que puede encontrar tu tu tu lado flaco?
+
+[Speaker 7 - 01:07:04]
+Juanito, te voy a interrumpir, qué pena, qué pena contigo. Dani, voy a estar como 10, 15 minutos, de pronto 20 minutos tengo una llamada ahí con un agente y ya ya regreso.
+
+[Speaker 1 - 01:07:13]
+Dale, dale, dale, chico.
+
+[Speaker 2 - 01:07:15]
+Vale. Y entonces es muy difícil que tú llegues a la a la cima cambiando eso. Es muy pero muy difícil. Lo la política tiene tiene de lo sucio los las negociaciones internas en las que bueno sí mira yo te hago este favor tú me haces este otro por más ecuánime que tú seas por más honesto que tú seas en algún momento te consiguen un lado flaco. No digo que con él no lo hayan conseguido no quiero idealizarlo pero al parecer él
+
+[Speaker 0 - 01:07:49]
+hizo una una una carrera política que
+
+[Speaker 2 - 01:07:50]
+estaba basada en acciones, en conseguir resultados. Sea como fuere, fue su firma desde el principio y quienes estaban con él estaban precisamente porque veían que, mira, si lo logró aquí, lo logró acá y lo logró, él lo va a lograr en la presidencia, por eso la gente lo acompañó, era mucho más fácil hacerlo orgánico. Tú sabes que yo eso lo relaciono mucho con lo que con el tema de de la construcción orgánica en en estos espacios. Que mucha gente no entiende que el trabajo es bien complicado, pero que la única forma de hacerlo posible es construyendo lo orgánico. A mí no me interesan los seguidores, a mí no me importa si tú me pones la campanita, porque la campanita me la pones tú y te la pongo yo para que nos para que sepamos cuando publicas el contenido y estar ahí y apoyarnos y todo genuinamente, genuinamente, no no se trata de una acción fuera de del de lo orgánico, no te estoy obligando a hacer nada y tú no me estás obligando a seguirte.
+
+[Speaker 2 - 01:08:55]
+Eso me parece bien interesante porque es una dinámica social que es como nueva, parece nueva, y la gente está empezando a ver la eficacia.
+
+[Speaker 10 - 01:09:16]
+Brutal. ¿Alguien está hablando? No. Ok. No. De para que es el mismo.
+
+[Speaker 1 - 01:09:25]
+Si quieres hablar dale.
+
+[Speaker 10 - 01:09:27]
+No, quería como decir es única, sí estoy de acuerdo en eso, de pana que tiene que ser es una una explicación, porque no se explica de pana porque en sí está haciendo las cosas diferente, y es seguro por eso que no le den favores a nadie.
+
+[Speaker 2 - 01:09:53]
+Sí, manita, pero eso es bien difícil en esta sociedad. No es no es tarea fácil para nada cuando tú tienes Siempre hay que hacer convenios con gente, siempre hay que tender puentes, siempre hay que hablar. Vas a encontrar posiciones violentas o en contra de tus de tus valores y no puedes obviarlas. Gracias, perro. No las puedes obviar, simplemente tú ves, y en política y en política de estado tienes que mediar. O sea, es bien difícil mantener una posición ecuánime, o sea, tienes que ser bien fuerte y y saber que vas a comer tierra un rato, porque el el resultado es que siempre vas a recibir ataque. Cuando tú eres firme y no estás apoyando al sistema, vas a recibir ataque, eso es fax.
+
+[Speaker 10 - 01:10:56]
+Es un tema interesante, me pone que sí, pero bueno, nada, ¿me tocará escuchar la grabación?
+
+[Speaker 1 - 01:11:10]
+Escúchala, cuando la escuches nos nos puedes dar un un leve resumen.
+
+[Speaker 2 - 01:11:26]
+En realidad estuvo bien interesante. Yo yo habría esperado a que hablara más sobre el tema de la economía. Él él escogió, yo creo que él escogió bien a quienes le preguntaron a su favor, porque todos fueron enfáticamente al tema de de convertirse en Esa fue otra respuesta que me gustó muchísimo cuando le preguntaron, Araja le pregunta sobre la elección, hacer un un plebiscito para que se elija, se reelija permanentemente, por siempre. Esta pregunta me pareció bastante un poco trucada, porque le dio la oportunidad de poner un punto sobre la mesa. Mira, cada generación tiene derecho a escoger a su a sus propios líderes y que estén acordes con sus tiempos y con con su visión, y eso es bien plausible.
+
+[Speaker 0 - 01:12:21]
+Pero
+
+[Speaker 2 - 01:12:23]
+esa pregunta estaba así como, o sea, no sé, ¿para qué quieres que se reelija alguien eternamente y no llamarlo una dictadura, una monarquía, no
+
+[Speaker 0 - 01:12:37]
+sé.
+
+[Speaker 10 - 01:12:42]
+Yo no sé en qué spape fue que escuché esto. Alguien dijo que estábamos, veníamos de sistemas liderados siempre por una persona, rey, un rey que dictaminaba cómo íbamos a vivir un un emperador, Wara, este, y eso como que me hizo me hizo ruido, no sé si es porque hace poco vi la película de Napoleón, la cual se las recomiendo a todos, está increíble,
+
+[Speaker 1 - 01:13:16]
+Y No me la he visto, a ver.
+
+[Speaker 10 - 01:13:18]
+Sí, deberías verla aún, si no sabes mucho de la historia Napoleón como yo, te va a encantar.
+
+[Speaker 2 - 01:13:26]
+Tú sabes que a mí me ha hecho mucho estar allí en disculpa, dale.
+
+[Speaker 10 - 01:13:31]
+No, no, para nada, bueno. ¿Y qué? Adelante, Johnny, adelante.
+
+[Speaker 2 - 01:13:37]
+No, pero tú estabas poniendo algo, no no te entiendo. Suspiré.
+
+[Speaker 10 - 01:13:41]
+Ay,
+
+[Speaker 2 - 01:13:44]
+suspiré. Mira, tú sabes que habían hecho cover en en Francia, por ejemplo, cómo le hacen estatus a Napoleón, no, eso no lo comprendí. Voy a ver la película a ver qué entiendo de eso. Muchas estatuas por todos lados, como un héroe, como
+
+[Speaker 10 - 01:14:02]
+¿Tú has viajado un poco al lado, joven? ¿Tú has viajado al mundo, pues?
+
+[Speaker 2 - 01:14:08]
+Me gusta. Y y sin plata, ¿oíste?
+
+[Speaker 10 - 01:14:13]
+Sin plata. De mochilear. De mochilear.
+
+[Speaker 2 - 01:14:16]
+Muchas veces quedándome en casa de gente cuidando casa, este, otras veces viendo qué cobre la semana que viene porque, este, me sale más económico moverme para otra parte y me sale más económico alquilar la comida, todo. Obvio. Dando cuenta, echando números.
+
+[Speaker 10 - 01:14:40]
+Obvio, obvio. Este eres como un mamado, pues. Por eso es que conoces tanto. Pues sí, como yo. Yo también soy así. Qué fino, me dijo.
+
+[Speaker 2 - 01:14:51]
+Y tú sabes que hay gente que cree que viajar Lo que pasa es que también esa dinámica de viajar y y mostrar aquí el espacio, estaba aquí y la foto y mira mira la habitación que tengo, mira dónde estoy, no, eso no es nada sencillo. Primero, este, el estrés de de no saber si vas a a cuadrar los números para vivir la semana siguiente, pagar los pasajes, porque bueno, siempre tienes imprevisto, este, el mudarte, el el alcanzar, no la no alcanzar la comida, pero mantenerte en la en la en el bote, mantenerte en el en los números. Sí, todas las cosas adicionales a eso, sobre todo el Internet, ¿sabes? Es otro temazo. Yo no puedo estar sin Internet, yo trabajo con Internet a full.
+
+[Speaker 10 - 01:15:52]
+Sí. Tú sabes que yo te estoy dando con el Starling, con esa maletica para arriba, abajo y bórralo.
+
+[Speaker 2 - 01:15:58]
+Coño, pero yo no sé, aquí en Venezuela, allá en Venezuela no funcionó el Starlink como dicen que funciona. La gente se queja mucho, ¿viste? Mucha gente en Venezuela usándolo y no dicen que no no es tan bueno. Entonces, con lo costoso que es, no es mi opinión, porque no lo no lo conozco. Es lo que escucharon.
+
+[Speaker 10 - 01:16:23]
+Bueno, puede puede ir mejorando con el tiempo, estoy seguro.
+
+[Speaker 2 - 01:16:31]
+¿Tú sabes qué otra pregunta le hicieron que fue bien interesante su opinión sobre George Zoro?
+
+[Speaker 10 - 01:16:38]
+Sobre George Zoro. Sí, yo ahí me estaba quedando dormida, echando. ¿Cómo fue esa pregunta? Le dijeron así, ¿qué opinas tú de él?
+
+[Speaker 2 - 01:16:46]
+Sí, sí, bueno, la caraja le preguntó, este, yo sé que tú tienes una opinión, este, popular impopular sobre George Zoro, ¿verdad? Él le contó qué fue lo que hicieron ellos con el país cuando ellos llegaron, que fue lo que las organizaciones internacionales habían hecho con el país, lo que ellos pretendían y las amenazas que él recibió de volver todo al a donde estaba, o sea, con las organizaciones internacionales gobernando todo eso, con la iglesia siendo quien decidiera cosas que no eran de su de su interés o no eran de su su responsabilidad. Y lo amenazaron pues, lo amenazaron fuertemente porque él salió de esas organizaciones. Esas organizaciones que eran las que tenían el país, como lo tenían. Tenía la pobreza en extrema y a la gente asustada y a las bandas en dominio.
+
+[Speaker 2 - 01:17:48]
+Entonces él dijo que esas organizaciones eran parte del control y que George Soros era solamente 1 de un grupo, una cara visible de un grupo que lo que quieren es el control y lo que están es apoyando. Ya yo yo escribí incluso la palabra que él usó déjame buscarla porque yo la puse aquí. Él usó una palabra. No, no, es que vi aquí. Ay, no sé, no no sé dónde puse mis notas de anoche. Él dijo que lo que estaba buscando era la extinción, Nuestra extinción. Y entonces me pareció hoy insólito que un presidente estuviese expresándose así de esa manera de alguien más, diciendo que que esto te llega a una agenda de de de acabar con nosotros, te llega a una agenda bien firme que acabas con nosotros.
+
+[Speaker 3 - 01:18:44]
+Johnny, esto también lo ha dicho Elon Musk, dijo que hay extinsionistas y existencialistas, que ya ni siquiera se trata de capitalismo y otras cosas. Y ahorita, pues velo, o sea, ve la plataforma, 241000 impresiones vistas tuvo el espacio de Nayib, y ahorita se va a ampliar, va a haber más líderes políticos, o sea, él fue el host que acaba de recalcarlo, él fue el host.
+
+[Speaker 2 - 01:19:05]
+Total. ¿Y tú sabes qué otra cosa recalcó? Que yo lo dije antes de ayer, Dani, yo no sé si tú lo recuerdas, lo estábamos conversando, que cuando yo dije que esto de izquierdas o derechas era solamente una ilusión, y él justamente habló sobre eso diciendo que no habían extremos de izquierda o de derecha, porque sus políticas, aunque parecían algunas de izquierda, otras de derecha y otras que se han atribuido a la izquierda o a la derecha, pero que son basadas en socialismo y en existencialismo y en muchas teorías, lo que hacen es diluir el mensaje, porque entonces te colocan en un extremo, te ponen a funcionar como, bueno, sí, este es un presidente de izquierda, hay que eliminarlo. Este es un presidente de derecha, hay que atacarlo,
+
+[Speaker 1 - 01:19:59]
+¿o no se trata de eso? Sí, claro. Fue lo que hablamos ayer, creo que fue que lo hablamos ante 10, ante noche, sí.
+
+[Speaker 2 - 01:20:07]
+Alá, que estás subiendo la mano ahí, date, que estamos. Sí,
+
+[Speaker 10 - 01:20:12]
+es que, sí, yo quería aportar ahí a eso también, que yo eso me me también me gustó mucho que él dijo que él no se encasilla realmente, que que si es de derecha o es de izquierda, que implementa, si él para ve, analiza que para su país y en su gobierno implementar ciertas políticas de derecha beneficiaban, lo iba a hacer, y si habían de izquierda que beneficiaban también lo iba a hacer, porque eso era lo malo como encasillarse que yo soy de derecha, entonces tienes que implementar solo políticas de derecha.
+
+[Speaker 2 - 01:20:48]
+Pero es que además promueve aguas abajo la polaridad, la polarización, porque al final tú no vas a identificar, yo no voy a identificar tus ideas hasta que tú no me digas de qué lado estás. Cuando tú me digas de qué lado estás, yo voy a saber si tú eres mi amiga o mi enemiga. Y así es más fácil construir esa esa desunión o esa esa diversidad en la que ninguno sabe de lo que está hablando, ninguno está de acuerdo con nadie, y al final te dispersas, y dispersas cualquier grupo que esté haciendo o algo para para alcanzar prosperidad, beneficios económicos, financieros, sociales, para todos. Todos esos grupos desaparecen muy fácilmente porque son atacados por los que están individuales en cada 1 en su en su trinchera. Esa es la mejor forma de atacarlos, de sumirnos, que ninguno trabaje en conjunto, que todo el mundo esté separado, porque tú es suficiente la conversación que tú tienes contigo mismo, ya tú peleas bastante contigo mismo como para aceptar las ideas del otro o para batallar con las ideas del otro.
+
+[Speaker 2 - 01:22:13]
+Esto, ayer en la conversación que él mantuvo, yo creo que fue una de las cosas que yo rescaté, que no tengo que estar de acuerdo con todos los políticos, no tengo que idealizar políticos, pero estoy de acuerdo con lo que él está diciendo, ¿sabes? Y quiero escuchar lo que él está diciendo, y quiero que alguien siga, algún político en poder siguiera lo que él está diciendo, y ojalá que alguno con ánimos de tener un liderazgo como el que tiene él, que es mundial, no no se suscribe a su país, y que lo está tomando de una forma responsable, él sabe que lleva un mensaje, entonces es bien interesante lo que esté pasando. Elon Musk ciertamente lo está diciendo, hay otras voces que también están hablando de esto, y las películas que les recomendé, la serie que les recomendé les dice por qué.
+
+[Speaker 2 - 01:23:18]
+Les dice verdaderamente por qué. Esa la consiguen en en Bombo. Bombo creo que es la aplicación y y se la pueden ver gratuita. Se llama justamente el documental del acabado, porque hay mucha gente que ha que ha muerto, que han suicidado por decir las cosas, 1 no sabe por qué hay gente todavía viva, no sabemos por qué han dejado vivo el de El Salvador, no sabemos por qué Lomos, bueno, el Lomos tiene más poder que nadie, pero pero bueno, mataron a Kennedy, mataron a Kennedy, entonces cualquier cosa puede suceder. Y pero sí, yo siento que ahí hay como una construcción de una narrativa diferente, ¿no crees tú, Bou? Está mintiendo. Engagement Farming. No jodas, después me dejan hablando a mí sola. Ya lo regañé.
+
+[Speaker 10 - 01:24:22]
+Ya estoy, ya estoy aquí, ya estoy aquí solo.
+
+[Speaker 0 - 01:24:37]
+Pues,
+
+[Speaker 10 - 01:24:40]
+¿qué qué hablábamos? Pues, a mí retomando un poco lo de Soros, también he visto como que aquí en x lo retuitean mucho y yo veo esos videos, y en ese video le estaba diciendo tipo que cuando él fue presidente, su en y en su su plan todo lo de eliminar las pandillas y tal, le decían como mira, si tú haces eso, la economía se va a ir abajo, va a haber una crisis en el país. Y él le decía, pero ¿por qué? ¿Cómo va a haber una crisis? Bueno, porque van a haber familias que no van a poder comer, que no no van a tener cómo llevar a los niños a la escuela ni nada, porque dependen de ese ingreso de el vandalismo que traen las pandillas, la droga, todo, ¿no? Y él y él así como que, pues, vamos a hacerlo igual. Yo, digamos, como que él dijo yo voy a asumir ese costo, pues, de de que exista esa crisis familiar y tal y no, pero también le dijeron otra cosa, es que también va a haber una crisis en eso se va a multiplicar hacia los supermercados, porque entonces las las familias no van a tener cómo comprar comida, entonces los supermercados no van a vender, y así, ¿no?
+
+[Speaker 10 - 01:26:05]
+Se lo iban todo como agrandando más, hasta que él dijo como tipo no, lo vamos a hacer y tal. Que puede que hasta sea paja, puede que esa conversación nunca existió, pero el mensaje que él te está dando ahí es bastante claro. Discúlpame, don Nicolás. No, no, discúlpame tú que te interrumpí, te interrumpí. Ya terminé.
+
+[Speaker 2 - 01:26:32]
+No, Damaris. Mira, que no, no fue no fue mentira porque lo hicieron público. Los organismos internacionales publicaron sendas comunicaciones para hacerlo volver
+
+[Speaker 1 - 01:26:49]
+como La verdad de que estabas inspirada.
+
+[Speaker 2 - 01:26:52]
+Sí, ¿verdad? Pero ellos lo publicaron como amenaza, diciéndole que tenía que volver al hilo democrático, y ellos quisieron promover la narrativa de que él era otro dictador más en en Centroamérica, que no era diferente. Y esos fueron comunicados públicos de ese de esas organizaciones en las que trataron de negociar con él de todo, desde todo punto de vista, pero primero le tiraron duro como acostumbran. Lo bloquearon por todos lados, ah, porque él habló sobre la Corte Interamericana, lo de la Corte Internacional, la CIDJ. Y una de las cosas que dijo fue, ¿cómo es posible que tú me amenaces a mí con la corte internacional y yo tenga que tomarlo en cuenta cuando los países que la conforman no atienden a a sus a esas directrices? No le hacen caso a los fallos que ellos emiten porque nosotros tendríamos que hacer caso.
+
+[Speaker 2 - 01:27:56]
+O sea, es una corte que nos incluye a nosotros como los únicos, y habla de de los países en desarrollo, los únicos que tendríamos que atender a esto. Y todas estas organizaciones, SEIDIH, OEA, todos, cuando él empezó con esto, los comunicados eran amenazantes, no eran ni siquiera sugestivos de, mire, señor presidente, nosotros creemos que No. Era, este, vas a entrar al hilo de la falta de democracia, te vamos a bloquear, te vamos a eliminar, etcétera, etcétera. Y el tipo no le puso atención a eso y no siguió ninguna de las órdenes, pero. ¿Sabes qué es lo que pasa? Que Carajozzi tenía respaldo del pueblo. Es mucho más fácil para ellos leer que teniendo el respaldo de la gente, la gente era la que iba a salir a a defender al presidente, y cualquier cosa que él dijera iba a ser una acción colectiva inmediata.
+
+[Speaker 2 - 01:28:59]
+Eso es relevante. O sea, si tú no tienes ese respaldo, no puedes lanzarte el agua, no puedes tirarte una de que tú eres bueno o que lo vas a hacer bien. Él tuvo que hacer un trabajo anterior para poder, este, garantizar que va iba a tener el el apoyo del pueblo para las cosas que él iba a hacer. Eso es bien interesante. Adelante.
+
+[Speaker 10 - 01:29:28]
+Rompí. ¿Alguien iba a hablar? ¿Sico volvió?
+
+[Speaker 1 - 01:29:33]
+No, creo que sí, en la en la llamada.
+
+[Speaker 10 - 01:29:38]
+Ah, ok, ok. ¿Quién iba a hablar?
+
+[Speaker 1 - 01:29:44]
+No sé, ¿Hanny o tú?
+
+[Speaker 0 - 01:29:47]
+No sé, ¿Hanny o tú? No, yo estoy comiendo. Las que están ustedes
+
+[Speaker 10 - 01:29:52]
+ustedes que están inspiradas,
+
+[Speaker 1 - 01:29:54]
+ustedes que están inspiradas.
+
+[Speaker 10 - 01:29:56]
+Ah, sí, está inspirado, vale. Oye, es que pana, en estos espacios, estos últimos 3 días espacios, coño, me tripeaba el espacio, ahí sí hay pocos espacios que yo puedo hablar así como you know, de hecho con con short Pepe he tenido espacios así que yo hablo y me inspiro un poquito también, sí, con con Robe, bueno, sí, he abierto espacio y solamente le he enviado la invitación a Robe, que
+
+[Speaker 2 - 01:30:29]
+que llegue, que llegue, pero vamos, hablo tú y
+
+[Speaker 10 - 01:30:33]
+yo. Y sí, sin médico, este, pero bueno, nada, este, aquí estamos amaneciendo con esa noticia de Jeffrey Epstein, que yo me quedo loca, pana, cómo cómo las cosas están saliendo así a la luz y lo que falta, y pues normal, la gente se lo toma demasiado a joda, bueno, la gente se lo tomó muy a joda, así como lo de los extraterrestres, toda mierda, pues, y al fin y al cabo, sí, al fin y al cabo, este, me queda hace tonta la vida, bueno, hay que tratar de conseguir la whilease
+
+[Speaker 13 - 01:31:16]
+del uu uu.
+
+[Speaker 1 - 01:31:18]
+Pero ponle creo que no cree, ¿no creen que estamos programados para eso? O sea, como que las cosas que tienen importancia la, o sea, las hacemos a un lado, realmente, o sea, lo que es importante como que a los extraterrestres y quienes manejan, o los Einstein files, bueno, todo este tema, como que no, no pasa nada. Alguien publicó en estos días en un grupo, una película, no sé si sea de Disney, pero está como Clinton en un avión con un poco de niños, y todo mundo como el hype, ¿no? Que el lanzamiento, que es súper chévere, y tal, cuando, pues, obviamente se sabe que el, pues, el man es un pedófilo y todas las imágenes que han salido, presidentes besando niños, pues, o sea, el tema es súper fuerte, ¿no? Obviamente nadie dice nada, y si te dan un follow o si hacen un comentario de alguien que se llame igual que tú aquí, o sea, el problema más grande y no me quieren, y me sacó, y te bloqueo, y te reportan la cuenta, y y tú tienes más seguidores que yo, y entonces te Yo pienso que estamos programados para eso, o sea, donde las cosas que realmente son importantes no le damos como la importancia que, pues, que deberíamos darle, y las cosas que, pues, son irrelevantes y que a la final nosotros mismos generamos un caos, como decimos nosotros, nos ahogamos en un vaso de agua, le damos como la súper importancia y nos consume el tiempo y la energía, y y porque es tiempo, es un montón de tiempo estar haciendo todo esto, como que es es, yo pienso que también es un tema de ese lado, ¿no?
+
+[Speaker 1 - 01:32:57]
+Que 1 está programado también para para todo este tema, para el drama, para el caos, la envidia, bueno, el el egoísmo, para también de pronto desenfocarnos un poco de la realidad, ¿no? Y llámese, no sé, derecha, izquierda, negros, blancos, latinos, blancos, no sé, o sea, como que todo el tiempo generar este tipo de barreras y este tipo de cosas como para para confundir, ¿para qué? Para que todos estén como de un lado para otro. Y es interesante, mira, en otro espacio, pues, obviamente hay espacios que 1 solo habla pendejadas, ¿no? Pero hay otros espacios que realmente 1 como que y pasa mucho en los espacios pequeños. Cuando son espacios de 2, 3 personas o llamadas de 2, 3 personas, fluye un montón, así como que Cuando son como de a un montón de personas, tú ves que como que no, y no aprende tampoco 1 mucho porque está 1 como súper desconcentrado de la vaina, ¿no? No está que la risa, que el emoji, que el que la vaina, y y no no se no le pone cuidado como a la al asunto, entonces a veces también es bueno el space pequeño, quiere decir que que sea un space malo, sino que no va como para el mismo público que tú tienes.
+
+[Speaker 1 - 01:34:11]
+Me parece como interesante también eso.
+
+[Speaker 13 - 01:34:16]
+No, nada, vamos, vamos, vamos a ¿Qué pasa, señor Pepe? También, Dano. No, cierto, ahorita me necesita recordar que ellos me estaban, este, cagueando en unas cosas ahí, en un espacio que tuvimos ayer. Este, ¿tú crees que la gente es muy, este, muy delicada hoy en día?
+
+[Speaker 1 - 01:34:41]
+Sí. O sea, es que no sé cómo llamarlo porque yo veo todo mundo como en el show del de de lo que te digo, del chilling, de que es una cuenta, un PFP, qué cripto es volátil, o sea, es un meme, es una risa, es como, pues, no sé, ¿me entiendes? Entonces, yo los veo a todos como en esto, y pues normal ¿no? O sea, los veo normal que están aquí jugando, hablando a muchos, si no es a todos, los he visto diciendo cosas o, pues, también la jerga con la que tú hables, somos de diferentes países, porque se nota, se ve, ¿no? Se ve un montón. Pero es como que digo, si estás si estás en ese punto, pues, o sea, ¿a qué vas con con hacer algo de ti? Tú eres parte de
+
+[Speaker 13 - 01:35:29]
+Bueno, yo siempre digo que es verdad lo que dices, que tú cosechas lo que siembres. ¿No? Eso es así. Exactamente, yo Y tú lees los comentarios, tú lees los comentarios y te das cuenta que por qué la gente no le cae bien, solo escuchando los comentarios. Yo me dar risa.
+
+[Speaker 1 - 01:35:53]
+Sí, normal. Aquí es disfrutar el disfrutar el momento, aprender un montón, conectarnos. Todos vamos a poder hablarnos con todos, obviamente, pues no todos tenemos el mismo pensamiento, somos de diferentes países. Entonces, bueno, es es complejo, pero sí normal, para arriba, igual ánimo, aquí seguimos aprendiendo un montón, esperemos, bueno, nuestras inscripciones de hoy hagan hagan pan, o por lo menos aprendimos, o normal, o sea, digo, no no está de más hacerlo, no está de más saberlo tampoco, pero es como 1 se tome las cosas, yo pienso que si 1 deja que esto le le le dañe su su día, o o si tú te sientes por eso, no no estás haciendo las cosas bien y tampoco estás en el lugar correcto, es lo que yo pienso. Pasa mucho, pasa un montón la lo que les decía, la la la cultura, las palabras que usamos, para 1 se entiende, tuvimos el malentendido que fue la que dijo, aquel día que estábamos hablando que que alguien dijo una palabra y que en México era una cosa, obviamente 1 no entiende el doble sentido, el sentido del humor es diferente, así así hablemos en el mismo idioma.
+
+[Speaker 1 - 01:37:08]
+Es más, las cosas yo digo con calma y pues estás en esto, o sea, es como lo que tú, lo que tú estás sembrando aquí es lo que vas a recoger.
+
+[Speaker 13 - 01:37:20]
+Si tú obviamente Ahora ahora ahora entiendo esos documentos que alguien hace cuando dice que la gente se hace la víctima, y yo siempre trato de analizar los 2 lados, pero lo lo único que yo puedo decir es que el que tiene mucho tiempo acá y ha visto, ha escuchado, ha leído, ha interactuado, puede entender, y sí, como ayer, sí, la persona está siendo la víctima, porque en en verdad hay un grupote de gente que los maltrató y que siempre tienen eso de que yo tengo más educación que tú, yo tengo más esto, más que, y a esa la otra gente sentirse inferior. Una se, lo en verdad que yo he visto eso, he escuchado y y paso Y los comentarios, los comentarios de otro que hizo, oh, si no tienes un PFP de 50000 dólares, que antes valía medio 1000000, y 1 no eres nadie. Te das cuenta, y esa es la cultura hispana y latina, que yo por eso cuando yo entré al espacio latino, yo me reía, ¿verdad?
+
+[Speaker 13 - 01:38:22]
+Y como yo estoy aquí, estoy en Nueva York, yo veo tantas culturas, veo tantas costumbres y interactúo con todo tipo de gente. De ahí he aprendido en la vida real cómo son, bueno, todas estas culturas latinas. Y yo al ver esto, me da risa y el el drama que causa el caos y lo hacen ver tan tan, como no sé cómo decirte. Somos mi somos gente Tú eres el único dramático, Pepe, tú eres el único dramático. Espera, déjame terminar y a ver si ¿Ustedes de cojos? No, ¿verdad? So,
+
+[Speaker 3 - 01:38:57]
+oye, pero ya Tú tampoco y no nos han callado.
+
+[Speaker 13 - 01:39:01]
+Estamos los speakers. Déjame hablar, déjame hablar. Ahora entiendo lo que es lo que es la la victimización falsa, digo, la, cómo my god, soy soy la víctima, ayúdenme, por favor, me estoy yendo por eso, hombre, ya no hacen, ya no lo hacen como en general Francisco Villa, digo yo, pero bueno.
+
+[Speaker 1 - 01:39:19]
+Oye, sí, y qué y qué boba, ¿no? Porque decir, bueno, no no me sigues porque no tengo un Ape, pues es que el, si no me alcanza, trabaja en un McDonald's, ¿cuánto creen que puedo ganar? O sea, es como, y y normal, es como, bueno, sí, si si tú tienes un Ape, pues bien por ti, y en vez como de compartir En el McDonald's no venden donuts, en el McDonald's no venden donuts. Enseñarme, bueno, mira, un Ape significa esto, es esto, mi comunidad es esto, ¿me entiendes? Cuando cuando me haga un por por 1000 y tenga un Ape, yo lo haría con mi con mi gente, no sería como no es no cerrar el círculo, como cerrar el app porque ustedes no tienen un Ape, yo no lo sigo y son unos perdedores y yo lo haría, hey bro mira tú no tienes un Ape, pero tener un Ape significa esto, esto, esto, hey bro ¿eres nuevo en la comunidad? Mira, te enseño esto, esto, esto, o sea, literal, no, que se repite la historia, que los van a robar, sí, marica, los llamas, hey, brother pilas con esto porque, o sea, esto es una estafa, ¿sí?
+
+[Speaker 1 - 01:40:24]
+Entonces, listo, todo lo que los tips que me gana mi McDonald's los traje a invertirlos en cripto, pues nomás me alcanza para para comprar doge doge coin, ya, ahí está, sí. Y tú que estás en el espacio, que tienes un nate, que tienes, no guías a a la gente como, no creo, no creo que yo sea el que lo esté haciendo mal, porque es que yo soy el nuevo, yo soy el que estoy entrando al al ecosistema Web3. Si tú tienes un AVE y y no le puedes decir a tu gente que es Web3, o que x persona está haciendo una estafa, o que x persona ya hizo una estafa y te va a robar si entras en su proyecto, ¿sí? En vez de decir, no, es que hoy me lo están tirando a mí, no, pues, yo les digo, díganme, pídeme, a todos los sigo, a todos les pregunto, hey, ¿cómo va esto? ¿De qué va esto? ¿Qué ha pasado? ¿Sí? A veces no entendemos, obvio, no entendemos las el doble sentido que que usan y, bueno, hay cosas que no se entienden, a veces las explicamos, a veces las googleamos.
+
+[Speaker 1 - 01:41:25]
+Yo lo hago, a veces usan palabras que ni idea, o sea, las busco o le pregunto a alguien más cercano, hey, ¿qué significa esta palabra que dijeron? Porque hay algunos que se hablan, pues, súper súper duro, ¿no? Entonces, es como es como más eso. Y sí, sí se nota mucho como todo el tiempo 1, no, porque no tengo un iPad, entonces nadie te nadie te sigue, no te dan un like, o sea, pues, está bien, yo por eso no ni me siento más, ni me siento menos.
+
+[Speaker 2 - 01:41:58]
+Pero bueno, tú no tú no estabas en el espacio cuando yo llegué al convenio. Pero si la cultura latina aquí es muy diferente a la cultura gringa,
+
+[Speaker 1 - 01:42:06]
+debido como a todas estas barreras, ¿no? A todo este tipo de comentarios y de cosas, pero la verdad la dinámica de hoy estuvo estuvo bien, mira, se pudo hacer eso, se abrió desde las 2 de la mañana, bueno, no sé qué horas para ustedes hace 7 horas, nos conectamos, ahí estuvimos varios intentándolo hacer la inscripción y bueno, nos apoyamos. Dale señor Peppa.
+
+[Speaker 13 - 01:42:31]
+No, pero te felicito, te felicito, Dani, porque en verdad que en poco tiempo ya estás creando todas estas emociones, este promociones gratis, este marketing gratis, este, estás haciendo algo bueno, y no nos sigues para adelante, olvídate que eso es eso es parte del sistema, 1 tiene que 1 tiene que acoplarse a eso, eso no es nada.
+
+[Speaker 1 - 01:42:55]
+Obvio, 1 aprende, 1 va, o sea, 1 va aprendiendo, 1 va aprendiendo la reacción, lo que pasa, lo que se dice, cómo actuar también, es a eso voy, pero he hecho un espacio, hey, ¿sabes qué? Mira, esto que hiciste, no lo hagas. Sí, como lo acabo de decir, mira, te mando un DM, un DM para conectarte con con un programador para que te haga tu arte on chain, no lo hagas, hazlo público, haz lo ok, ¿ves? Es guiar al que está acá, es obviamente, yo me siento mucho más más tranquilo con gente, pues, con gente mía, ¿no? Obvio, les entiendo mejor el idioma, la jerga, lo que sea, obviamente, pero no por eso me voy a cerrar a no hablar con alguien de otros, al contrario, les pregunto y conozco un montón de de sus países, de donde viven, la cultura, es es me gusta, me parece me parece chévere. Dale, mexicanos, buenos días.
+
+[Speaker 14 - 01:43:50]
+Hola, hola, buenos días. También desvelados con los XRCs, por lo que veo. Dándole, dándole. ¿Cuántos ex, este, ganaron?
+
+[Speaker 1 - 01:44:04]
+No, pues yo la verdad no he listado, solo solo estamos escribiendo y haciendo mis No, pero. ¿Minteaste
+
+[Speaker 14 - 01:44:09]
+de los que sacaron ellos el x?
+
+[Speaker 1 - 01:44:14]
+Ah, no he podido, yo no pude. Yo yo No, no sé todavía. No me no me llegó. No me saqué 9000.
+
+[Speaker 14 - 01:44:21]
+Estuve dándole duro para sacarme 1, porque son los que se supuestamente se van a vender como el x.
+
+[Speaker 1 - 01:44:31]
+Sí, estaba estaba haciendo, Mau estaba compartiendo eso, que puede ser estar al mismo precio, pero yo lo intenté un montón porque no cuando lo estábamos haciendo, alguien hizo el deployed, nosotros no lo hicimos, pero estábamos haciendo el mint, y a ninguno nos, o sea no nos llegó, yo duré como 20 minutos y no tenía nada, 0, no me llegó nada. Y como después de 20,
+
+[Speaker 14 - 01:44:55]
+me llegaron 1 claro. Ok, no, digo, yo también hice deploies, minks de otros, ahí creo que hice 1 tuyo, este, pero el de el el de ellos, sí, yo estuve como hasta las 2 40 de la mañana dándole, Este, acá empezó a la una de la mañana. Y, pues, ya, sí me cayeron unos. Ahorita voy a la oficina y a ver si se a ver si los vendo. Pero bueno.
+
+[Speaker 1 - 01:45:23]
+Sí. ¿Perros o? Sí, no, yo, o sea, intenté ahí. ¿No?
+
+[Speaker 2 - 01:45:27]
+Sí. Ferros o no, yo, o sea, intenté ahí, no. Dale, dale, mexicanos, gracias. Pero mira, viste lo de los emojis, viste el del dragón, que ya está disponible. Ya se acabó. ¿En serio? Ah, y yo no hice ninguno. El white Ah, no, no sé.
+
+[Speaker 14 - 01:45:41]
+No pregunto. Yo saqué varios yo saqué varios emojis, la pelota de fútbol, soccer, la americano, unas manitas, un payaso. Por ahí saqué varios emojis.
+
+[Speaker 2 - 01:45:55]
+No, por aquí sacaron el del dragón. ¿Qué otro fue que sacaron aquí, Dani?
+
+[Speaker 14 - 01:46:01]
+Saqué saqué el símbolo de copyright y de registrado también, para que vayan a mintearlos.
+
+[Speaker 2 - 01:46:11]
+Ok, ya voy para allá. No, es que ya es para mí mucho mi espacio. Ay, yo yo tengo que llegar a limpiarlo a la oficina.
+
+[Speaker 1 - 01:46:26]
+Oigan, pero sí, qué bueno. Ahorita voy a entrar a mentir a tu cuenta a ver qué hay por ahí. No, estuvimos temprano, yo no podía. Por ahí les escribí, ahí nos conectamos varios, le escribí a Mexi, pero es que todos estamos dormidos, casi nadie podía hablar, yo también estaba hablando por allá debajo de de de la cama, entre un clóset, Mexi no podía hablar, pero bueno, ahí medio le pregunté cómo cómo hacer el meet, porque yo estaba haciendo algo mal, pues yo pensé que estaba haciendo algo mal, dije no sé qué estoy haciendo porque no me están saliendo. No, y Y el día a ustedes le están saliendo. Acuérdate que si te fijas, en tus
+
+[Speaker 14 - 01:47:03]
+XRCs sí aparece lo que tienes, Si te vas a los disponibles, los tienes que buscar. ¿Sí? Este, o sea, no no, todavía yo creo que apenas van a a hacer el update de la plataforma. Lo que voy a hacer es, voy a mandar un tuit con los íconos de los emojis de todo lo que lo que hice deploye, lo que he sacado, lo que he encontrado, con puros emojis ahí, ustedes lo van a entender. Si si hacen lo mismo ustedes, pues ahí vamos viendo qué es lo que hay disponible, qué sacó cada quien para para darle duro a eso.
+
+[Speaker 1 - 01:47:38]
+Claro, para que hagamos todos, que tengamos todos nosotros hacer el hacer el mint out entre entre varios, ¿sí? También hacerlo como como para para algo así como la dinámica con los de los DMX y los sub 80, ir dándole nosotros, porque igual yo no veo mucha gente, bueno, sí hay más que antes, pero es bueno activarnos todos nosotros en en esto, me parece, me parecería bueno que lo hiciéramos.
+
+[Speaker 14 - 01:48:02]
+Y eso que dices Y como que sí. Han ido por el MX Punk, ¿eh? Qué gachos.
+
+[Speaker 1 - 01:48:09]
+MX Punk. ¿Cómo así? ¿Tenemos? ¿Yo tengo? Ah, muy bien. ¿En serio? ¿En serio? ¿En serio? ¿En serio?
+
+[Speaker 2 - 01:48:17]
+Hoy, hoy, ayer que dijiste que no, que tú, que yo, que no sé qué, que solamente para Honey, para Yaga, no, no, no, no, no, señor.
+
+[Speaker 13 - 01:48:27]
+Mira, nomás ha salido mi dragoncito,
+
+[Speaker 1 - 01:48:31]
+oye. Yo yo es que buscando el dragón, ¿y saben qué? Saqué esa que fue una culebra, buscando el el el dragón ese.
+
+[Speaker 14 - 01:48:39]
+Ah, les voy a decir, es que el dragón es el imagen, es el emoji en una laptop, en una Mac, y en el celular sale como víbora.
+
+[Speaker 1 - 01:48:55]
+¿O esto será que sí sí hice Mindall que sí era? Porque sí, o sea, en en en el, o sea, en el en el laptop me aparece como el cuadrado, ¿sí? El dragón cuadrado, pero cuando lo hice me aparecía como la, sí, como una culebra, parece una culebra.
+
+[Speaker 2 - 01:49:18]
+Yo voy a meterme desde la computadora para ¿Quién está hablando o me rugué?
+
+[Speaker 10 - 01:49:22]
+No sé, yo también me estoy metiendo,
+
+[Speaker 2 - 01:49:27]
+Ya me me venció el amor. Se llama Barica, vale. Les tomó una hora y media. Bueno, digan groserías,
+
+[Speaker 14 - 01:49:35]
+por favor. No sé Ah, oigan, también hice mint del emoji del perrito,
+
+[Speaker 1 - 01:49:39]
+¿eh? Para que lo tengan. Según según yo, yo había yo había hecho el deployee y los tenía todos yo, pero no, realmente no. Creo que lo lo tiene Mexi. ¿MEXI tiene ya casi todos?
+
+[Speaker 14 - 01:49:49]
+Pues pues yo ¿MEXI tiene un montón? Ya, no, pero a mí, pues ahorita checo, no sé si a mí me salió el Mint o el deployee, pero hice el perro, el gato, el cochino, hice varios animales.
+
+[Speaker 2 - 01:50:02]
+Pero yo creo que fue ZIP code el que hizo el deployee del dragón. No, Dani, porque todavía no había aparecido.
+
+[Speaker 13 - 01:50:17]
+Ahora estoy entendiendo lo que es la economía de los emojis, que bobo a cada rato estaban nombrando, y salieron acá en en x, en adscriptions.
+
+[Speaker 1 - 01:50:34]
+Ah, creo que yo hice el el del el sapo lo lo saqué yo también creo, creo, según mis cálculos, hice el deploid del sapito. Ahí para los pepes.
+
+[Speaker 13 - 01:50:49]
+Bueno, cuando yo voy a twisscription, yo
+
+[Speaker 3 - 01:50:59]
+Ya ves Pepe, te digo que tengo una bola de cristal, ve el ve el tuit que acabo de poner arriba, ve el tweet que acabo de poner arriba. Qué curiosidad, ¿no? Que los tweets que ahorita todavía los emojis. Qué casualidad. Ya. Yo no no entendía yo Oye Pepe, ¿quién será el dueño de la página de de Wolder Statistics?
+
+[Speaker 13 - 01:51:21]
+No sé,
+
+[Speaker 0 - 01:51:24]
+güey. Es
+
+[Speaker 13 - 01:51:30]
+que estoy estoy molesto, Bob ahorita. 3 veces vine manejando por poco y choco, y las 3 veces no me salieron del dragón.
+
+[Speaker 2 - 01:51:45]
+Niños, no hagan esto en casa.
+
+[Speaker 10 - 01:51:48]
+Dani, te voy a seguir para copiar todos tus mints.
+
+[Speaker 1 - 01:51:52]
+Sí, dale. No, no hay problema. Te autorizo.
+
+[Speaker 3 - 01:51:59]
+¿Cómo va la bolsa de Mau, Dani? ¿Cómo va la bolsa de Mau, Danny? No, ya pasó.
+
+[Speaker 10 - 01:52:05]
+No, ya me ganó el foco, qué fastidio.
+
+[Speaker 15 - 01:52:08]
+Mary ¿Cuánto pasó ya? Los 4000.
+
+[Speaker 0 - 01:52:13]
+Va
+
+[Speaker 1 - 01:52:16]
+volando, va volando Mau. Y sigue, o sea, sigue con varios y sigue limpiando y sigue el
+
+[Speaker 13 - 01:52:21]
+ejercicio.
+
+[Speaker 14 - 01:52:22]
+Oigan, la cara del dragón ya se acabó, ¿eh? No me jodas, en serio, mexicano. Sí, lo lo acabo de ver ahorita.
+
+[Speaker 13 - 01:52:32]
+No, bueno El año del año del dragón
+
+[Speaker 10 - 01:52:37]
+secundario. No jo.
+
+[Speaker 3 - 01:52:41]
+Lo mismo les va a pasar con los perros.
+
+[Speaker 1 - 01:52:44]
+Oiga, no, deslicten los Mexis, que van a barrer los mexis.
+
+[Speaker 14 - 01:52:48]
+No, dime si no lo van a decir. Voy a poner cada mexi en un it.
+
+[Speaker 5 - 01:52:55]
+No está mal la idea. Primero la barrida.
+
+[Speaker 13 - 01:52:59]
+Cada 1. ¿Qué puede decir de eso? Cada 1000. ¿Quién quién mintió mucho el dragón? A ver si se puede hacer un transfer aquí, ahorita los que están en el espacio.
+
+[Speaker 3 - 01:53:14]
+Oigan, ya parece de, este, casa de subastas de aquí. Neta me acuerdo cuando vi las subastas de ganado ahí.
+
+[Speaker 1 - 01:53:20]
+¿Quién da más? ¿Quién da más? Lleve sus mexys lleve sus mexys. Hey, yo tengo Bobbos. ¿Quién quiere Bobbos?
+
+[Speaker 13 - 01:53:28]
+No, yo ya tengo Bobbos y también no lo vendo ya.
+
+[Speaker 2 - 01:53:37]
+Suelta las bolsas, suelta suelta eso.
+
+[Speaker 3 - 01:53:42]
+Oigan, me mandaron 500 Dodge para regalar más tarde. Ahorita me lo sacan de mandar un amigo.
+
+[Speaker 13 - 01:53:48]
+Más tarde, pero para darles tarde, todo, todo.
+
+[Speaker 10 - 01:53:53]
+Dios mío.
+
+[Speaker 14 - 01:53:55]
+¿Para el Spanish cabal?
+
+[Speaker 13 - 01:53:57]
+No, para el espacio de ahorita, tú tranquilamente puedes hacer un give away. No, lo puede hacer en un groupset mejor, menos loncas. Dios mío. Más de bronca tempranito. Dios mío, a ver.
+
+[Speaker 3 - 01:54:10]
+Como tóxico. Será será bueno activar a a todos los que están dormidos en el Spanish cabal y limitar a 100. O sea, hacer un concurso que se van a quedar 100 o 150, ¿verdad?
+
+[Speaker 13 - 01:54:18]
+Me encanta. La engañen el puente todavía. Dragón, oye, un dragón.
+
+[Speaker 3 - 01:54:26]
+Oye, la joni, la mala de volada tirando los cienes, les encantan los concursos esos.
+
+[Speaker 13 - 01:54:32]
+Siempre gana, pues.
+
+[Speaker 2 - 01:54:35]
+Y y no es que siempre ganamos.
+
+[Speaker 13 - 01:54:38]
+Mala no, yo Pero estás activa, siempre estás activa. Yo estoy activa.
+
+[Speaker 2 - 01:54:43]
+A mí alguien me dijo ayer, ayer o antes de ayer no sé qué fue. No, porque no sé qué es la suerte, yo no seas pendejo, suerte no. Yo no he dormido a veces, estoy todo el día leyendo, estoy todo el día interactuando, o sea, ¿sabes? No hay suerte. Están todo el día mintiendo a Xarcy.
+
+[Speaker 10 - 01:55:12]
+Trabajo arduo.
+
+[Speaker 2 - 01:55:14]
+Mira, pero ¿sabes qué es cómico? Que empezó Dani. Le siguió Zico. Mala y yo nos resistimos. Bobo está solo farmeando, solo farmeando.
+
+[Speaker 1 - 01:55:29]
+No, ponle cuidado. Maunus dijo, ¿no? Mexi también había dicho, no sé qué. Yo puse supuestamente la alarma, me quedé dormido, me desperté, dormí una hora, una hora y me dormí y y me desperté tarde y cuando me di cuenta ya Mexi ya se había llevado casi todos los emojis, pues ahí vi que estaba haciendo algo y le pregunté, le dije, pero solo estás haciendo el deployed y el mint. Y me dice, no, es que estoy haciendo todo de una vez, y yo le dije no, pues ya eso es otro nivel, con razón ya no hay ya no hay emojis
+
+[Speaker 3 - 01:55:58]
+Oye, Dani, Dani,
+
+[Speaker 1 - 01:56:01]
+Este, ¿cómo va cómo va el market? O sea, ¿cuánto se han meneado? La última vez eran 580 y tirums totales en el ecosistema ahorita, ¿cuántos valen? No, la verdad, la verdad, la verdad, no estoy, estoy, salí, estoy en la calle, no sé si escuchan, no. Acá no tengo esa data, estoy solo con mi teléfono. Pero ahorita les les doy el dato exacto, porque no, porque alguien puede ver ahí el marketplace.
+
+[Speaker 13 - 01:56:22]
+Max se corre el el mercado de los emojis, Maxy. ¿Qué pasó? Estoy viendo yo aquí esto.
+
+[Speaker 3 - 01:56:31]
+O sea, el Mau ya se llevó el 0.1 0.2 por 100 del del market, más o menos, entonces, en 4000 dólares.
+
+[Speaker 0 - 01:56:43]
+Nancy,
+
+[Speaker 13 - 01:56:45]
+mándeme 1 de esos dildos ahí de los, este, ¿cómo cómo se llama esas cosas? Las cosas moraditas es
+
+[Speaker 0 - 01:56:53]
+El
+
+[Speaker 4 - 01:56:56]
+Eckland.
+
+[Speaker 13 - 01:56:58]
+Sí, el Eckland.
+
+[Speaker 14 - 01:57:02]
+No, es que él él sí se pasó, le puso, se se aventaba todo el límite en el Mint, pero bueno, no nos dejó nada ni migajas.
+
+[Speaker 0 - 01:57:16]
+Dog it dog
+
+[Speaker 3 - 01:57:21]
+world, pónganse en truchas, impriman.
+
+[Speaker 1 - 01:57:36]
+A seguir imprimiendo. Yo voy a holdear casi todo, voy a empezar a alistar yo creo hoy o mañana y les cuento cómo me va con el experimento. Voy a cargar también un poquito de ethereum a Arbitrum para ir comprando a ver cómo funciona más la dinámica, para irles contando cómo va el el experimento. Por el lado de Mau, pues ya va más 4 meses. Por ejemplo,
+
+[Speaker 3 - 01:58:03]
+Dani, este ERG que está ahí abajo también tiene un alfa de algo parecido, pero en la red de bitcoin para Twinscriptions, algo así, ¿eh? Está interesante eso también.
+
+[Speaker 1 - 01:58:18]
+¿Quién es? ¿Qué? ¿El nombre de quién me dijiste? No no no lo veo. Es TRG, justamente estaba viéndolo. TDRG, TDG, TDG. Ah, ya la vi, ya la vi, ya ya lo o la vi. Argentine Crypto, NFT Bro, millionaire, oh, esa es la vuelta. Millionaire or homeless, that fucking go.
+
+[Speaker 14 - 01:58:38]
+Su nombre es como la canción esa de
+
+[Speaker 10 - 01:58:43]
+Aserejé. Dejé.
+
+[Speaker 14 - 01:58:47]
+Póngale la canción para que suba.
+
+[Speaker 1 - 01:58:50]
+Aserejé.
+
+[Speaker 3 - 01:58:59]
+Transmitiendo desde la calle y su celular, mintiendo unos e irrigue que se no sé qué, que esos veintes con todos nosotros. Denle un retweet, enséñenle amor. Y, por favor, compartan sus alfas, que este juego apenas comienza. No sabemos si va a haber market o no, pero ustedes experimenten.
+
+[Speaker 10 - 01:59:27]
+Pues sí, sí, sí, sí, sintonizando el espacio de Dani, vale, qué emoción Dani, me voy a empezar a copiar tus inscripciones de x,
+
+[Speaker 1 - 01:59:39]
+es decir Vale, sí, copia la pregunta que crees. Like, retweet, todo, todo.
+
+[Speaker 10 - 01:59:45]
+Like, retweet, todo.
+
+[Speaker 1 - 01:59:48]
+Algoritmo, y todo el mundo sepa de
+
+[Speaker 10 - 01:59:50]
+Twitter adscriptions. Solo voy a copiar lo que dice Mint. Solo que dice Mint, que no es mucho.
+
+[Speaker 2 - 02:00:01]
+No, qué va. Otra que cayó en el FOMO. Ya, ya, ya. Ya se jodió a Sadot. Oye,
+
+[Speaker 3 - 02:00:08]
+esa madre se pasó hace como 5 días, no, 6 días, no sé cuánto.
+
+[Speaker 2 - 02:00:12]
+Qué locura. Es que Y es que y es que de verdad es que te vence el fomo. Yo estoy
+
+[Speaker 3 - 02:00:19]
+aquí inexistente. A ver, ¿sabes? Honey, si el Mau no fuera ganado dinero, no se fuera subido a decir ni nada, la gente le fuera valido verga. Pero como ya vieron ahorita, si gano 62, esos 62, ya son 4000 a la verga, dicen. Y luego el mex ya se está agarrando todos y el mexicano se anda ahí. Y luego la la la lista se lleva el 30 por 100 más la
+
+[Speaker 2 - 02:00:38]
+Sí, sí, 100 por 100. Pero es que mira qué tan rápido va que ya se acabaron muchos de los emojis. O sea, nosotros empezamos el space y la el emoji de la carita del dragón no estaba. Zico no sabe si fue él el que lo lo deployó o qué, pero cuando ya él entró, ya llevaba un 30 por 100 y ya se terminó, y no llevamos sino una hora y media de espacio. O sea, es una rapidez brutal.
+
+[Speaker 3 - 02:01:07]
+2 horas despacio.
+
+[Speaker 2 - 02:01:09]
+Y y eso que te voy a decir una cosa, el lo llamativo es que en la comunidad Anglo no se conozca tanto. Yo no he visto tantos Anglo, o por lo menos el espacio en el que 1 se mueve, no los he visto tan conectados con esto.
+
+[Speaker 3 - 02:01:21]
+Yo no sé si saben que Bark sacó una, pero también así, o sea Bark sacó una y la la quitó en caliente.
+
+[Speaker 14 - 02:01:28]
+Donde comparto yo con los gringos, con los anglos, todos me dicen que que me hackearon Twitter, que es mentira.
+
+[Speaker 3 - 02:01:39]
+Pero Barack hizo deploye una ahí en chavalón, o sea, que sí se ha experimentado, pero es lo que te digo, o sea, a ver, vamos a ver cómo se mueve el market, los BCS. Ahorita tengan mucho cuidado porque hay muchos veces falsos también, ¿eh? En spaces.
+
+[Speaker 2 - 02:01:54]
+Sí, eso escuché de Zico, y ahora me puso así como a pensar.
+
+[Speaker 3 - 02:02:03]
+Exactamente. Por eso, o sea, tenemos que tener cuidado de todos lados, pero, bueno, ¿y tú vas bien? Tú vas bien. Tú vas a determinar si es bueno o malo o no esas conexiones.
+
+[Speaker 16 - 02:02:12]
+Sí, sí, sí. No
+
+[Speaker 2 - 02:02:14]
+estamos jugando con o sea, que se está jugando con las cartas abiertas.
+
+[Speaker 3 - 02:02:19]
+Oye, ¿el el Dux sí hablará español o por qué chingados estará conectado tanto tiempo? Dupxy, súbete,
+
+[Speaker 0 - 02:02:28]
+güey.
+
+[Speaker 3 - 02:02:32]
+Anda buscando antes el Dupxy, ¿eh? El Dupxy, ¿eh? Estoy escribiendo. Si no hablas Ajá, estoy escribiendo.
+
+[Speaker 1 - 02:02:40]
+Hey Mau, ¿cuándo? Súbete.
+
+[Speaker 3 - 02:02:49]
+El señor del alfa de los transcriptions, el monetizador número 1, el señor Mau.
+
+[Speaker 2 - 02:02:59]
+Estás despierto Mau.
+
+[Speaker 3 - 02:03:01]
+Oye, Johnny. Ese morro del Mau, o sea, ese ese morro empezó con 1000 x el el Zika, el 2024.
+
+[Speaker 10 - 02:03:15]
+Buenas, bienvenido.
+
+[Speaker 8 - 02:03:16]
+¿Me oyen bien? Porque tengo los airpods para mi hotel en el trabajo.
+
+[Speaker 3 - 02:03:22]
+Ve al baño.
+
+[Speaker 8 - 02:03:24]
+Sí. No, no me toca el baño, bobo. No, no estoy en el trabajo. Que no te corra, nomás, ¿eh? No, no nos eches la culpa. Esos espacios son adictivos. No, no, no, yo digo que fue el bobo. Si me botó de aquí, el bobo fue el que me botó. No, qué va, a mí no me van a botar si si yo estoy aquí dándole servicio a 4 idiomas, así que tan fácil 1 votan.
+
+[Speaker 2 - 02:03:56]
+¿4 idiomas?
+
+[Speaker 8 - 02:04:00]
+Sí, sí, hago venta en supply chain de de alemán, holandés, español e inglés.
+
+[Speaker 2 - 02:04:08]
+Miércoles, y los los 4 están casi como opuestos. Sí. Alemán, holandés.
+
+[Speaker 14 - 02:04:15]
+Español e
+
+[Speaker 2 - 02:04:18]
+inglés. Mia, va. Ese cerebro tuyo debe ir a 10000.
+
+[Speaker 8 - 02:04:24]
+Tú lo dices y no nos hablas.
+
+[Speaker 2 - 02:04:36]
+También estás haciendo deployed de Elsa, sí.
+
+[Speaker 8 - 02:04:41]
+Lo hice
+
+[Speaker 0 - 02:04:45]
+un ratito, sí. Están
+
+[Speaker 3 - 02:05:00]
+dormidos todos en engagement farming. A ver, Mau, súbete para que nos digas cómo ganar dinero ahí.
+
+[Speaker 10 - 02:05:10]
+Yo estoy despierta, güey, que ya son las 3 de la tarde, yo estoy aquí, hablen claro, les conté una canción, un rap, bailo. ¿Qué quieren, qué quieren? Aviéntate un rap, pues.
+
+[Speaker 3 - 02:05:21]
+Un rap de la mala, de la mal alien.
+
+[Speaker 10 - 02:05:24]
+Voy para allá, voy para allá. Si el público lo pide, o sea, ¿qué hago? ¿Yo qué qué puedo hacer? Si si son las cosas.
+
+[Speaker 2 - 02:05:39]
+Sí ¿Cuántas 2 pedidas?
+
+[Speaker 10 - 02:05:41]
+No, no, no, para nada. Ya me lo pidieron, me aclaman.
+
+[Speaker 3 - 02:06:00]
+A ver, a ver, a ver. ¿Cuál es? Tú, alguien de aquí del escenario, no solamente inscribió, sino que ya está en profits. ¿Tú ya estás tradeando, Mexican? Entonces, esa madre los XRT veintes.
+
+[Speaker 14 - 02:06:13]
+Ya, vea. Tengo y los puse en venta, todavía no cae ninguno. Puse diferentes cantidades en diferentes precios. Este, necesito que que Mau ahí sí nos diga cómo le hizo. Creo que fue de poquito en poquito, entonces voy a aplicar esa con los nuevos X. Tengo ahí 9000 para para moverle y ojalá salgan. Hay que ir por el súper la gasolina.
+
+[Speaker 3 - 02:06:43]
+Oye mexicanos, ¿y si has aprendido algo de Tokenomics en este experimento o no?
+
+[Speaker 14 - 02:06:49]
+Pues ahí va, poco a poco. Este, Yo no soy tanto de ese lado, pero poquito a poquito le vamos aprendiendo. No no me puedo decir experto, por eso cuando hablan de esas cosas no opino. Solo escucho y aprendo.
+
+[Speaker 3 - 02:07:04]
+Es que esta madre es bien nueva. O sea, si se dan cuenta también el el otro día ahí compartieron la la madre esta de de inscribir los punks y todo. Entonces es con Twitter. Yo no le yo no he inscrito nada, ¿eh? O sea, yo no participo en el protocolo. Yo vi el pero sí creo que está revolucionando muchas cositas y va agarrando tracción.
+
+[Speaker 14 - 02:07:28]
+Sí sí sí inscribí unos punks, este, creo que unos 2 o 3 punks. No sé dónde los podamos ver, pero sí, ojalá que en algún momento eso salga a la luz. ¿Quién
+
+[Speaker 3 - 02:07:42]
+sabe? O sea, ahorita todo el mundo está inscribiendo en todas las blockchains, en todos los ecosistemas. Ya no hay fiel, no hay lealtad al Ethereum, o sea, los Ethereum Maxis ahorita se volvieron de Solana, se fueron todos a Solana y andan llorando porque los voltearon, les ganaron los traders de Solana, y ahorita se volvieron a Ethereum, ahorita al parecer van a Arbitrum, desde la red de Say, no sé qué estará pasando, Injective, o sea, el Injective también me trae la atención porque trae varias ballenas latinas que conozco. Entonces, si les ha estado yendo bien por ahí.
+
+[Speaker 14 - 02:08:16]
+Oye, lo que sí, volviendo a los XRC, no sé si ya lo platicaron porque ya que llegué tarde, con el tweet de que cerraron con una fotita con una cámara. Entonces, yo por eso, digo, deploy mint, porque si hacen un snapshot y hacen un drop, pues ahí sí a todos nos cae.
+
+[Speaker 3 - 02:08:37]
+Exactamente, porque a lo mejor y le van a agregar liquidez, o sea, porque ya están haciendo ruido. Si ellos llegan a traer un buen financiamiento detrás, esa madre puede reventar. Imagínate que le tiren 100000000, detrás, esa madre puede reventar. Imagínate que le tiren 100000200, 500000000 de dólares allí de liquidez a todas las pinches tokens, nomás por empezar a motivar el mercado, ¿no? Y las tokens que estén mejor distribuidas son las que más van a agarrar tracción. Vas a también memificar muchas cositas. O sea, imagínate, a ver, vamos a tirar esto, esto, esto, esto, tiren a la madre y luego que tengan una plataforma, un API. Pero es que no no me gusta cómo lo están haciendo también, porque están haciendo mucho spam. Este, pero es normal, es normal, está bien, está bien, porque cada vez se va a ver detectar como menos spam, ya les cancelaron una cuenta, están yéndose con la otra, se están yendo con una estrategia de guerrilla marketing similar a la de lo que fue el GM, por así decirlo, el WOOF. Y mucha gente en realidad está aprendiendo esa madre de los tokenomics. Ahí es en donde se pone interesante porque que es gratis, sí, pum, ahí se están yendo ahorita a experimentar. O sea, nomás tiene que poner un código, hasta se sienten developers, ¿eh? He hablado con así con gente en el privado, no mames con los Trixcription, ya siento que puedo ser developer.
+
+[Speaker 3 - 02:09:42]
+Y yo no mames, güey, nada más está haciendo copypasta. Y luego decía, sí, pero es que me dijeron que la mayoría de los developers que dicen dev, eso es lo que hacen, copypasta no es mal contract, y luego lo venden bien caro.
+
+[Speaker 10 - 02:09:54]
+Sí, ponte a creer.
+
+[Speaker 14 - 02:09:57]
+O se meten al chang y pit y le dicen escríbeme el código.
+
+[Speaker 3 - 02:10:04]
+Tampoco ya se puede hacer eso. Oye, en Growk está trending algunas cositas. A ver, pregúntenle a Groc qué piensa XRCP 20, si qué piensa de los Dojinals y qué piensa de todo, los que tengan Groc. Yo ya tengo ahorita suscripción, o sea, no sé si, por eso me ha puesto en el celular. Yo
+
+[Speaker 2 - 02:10:20]
+a mí no me aparece todavía, yo no sé por qué.
+
+[Speaker 3 - 02:10:24]
+Yo creo que la computadora sí, pero como tengo Android, Android siempre lo deja en el último, entonces, este, ni pedo voy a cambiar iPhone.
+
+[Speaker 2 - 02:10:38]
+Ay, sí, me voy a cambiar al iPhone.
+
+[Speaker 3 - 02:10:42]
+Pues sí, pues sí, no manches. No no no el Elo, no, espera, te va a salir el Tesla Phone, eso va a estar chingón.
+
+[Speaker 10 - 02:10:53]
+Oh my god, I'm so bulletch. I'm so
+
+[Speaker 0 - 02:10:56]
+bulletch. Oh my god ¿Lo vas a comprar con Doggy Nales?
+
+[Speaker 3 - 02:10:59]
+No, no, no, güey, nos van a dar un airdrop de un cybertruck si compras el teléfono de Tesla. Vas a perder de saga.
+
+[Speaker 14 - 02:11:09]
+El Cybertruck se conecta al celular, no al
+
+[Speaker 3 - 02:11:14]
+revés. Exactamente, va a ser tu control remoto para el Tesla, el Cybertruck, y luego después va a haber unos cohetes que te van a llevar directo a la Luna. No, o sea, te vas a conectar un microchip y te vas a dormir y te vas a pensar que estás en Marte ya. Oh, ya llegamos, y luego te van a hacer que vivas en una simulación completa. ¿Ya se metieron al wireless de del chip ese de Elon?
+
+[Speaker 2 - 02:11:40]
+No.
+
+[Speaker 10 - 02:11:41]
+¿Cómo que me da miedo? Ya. Yo yo decía que sí. Hola, Honey.
+
+[Speaker 2 - 02:11:52]
+Marica, que yo te he interrumpido toda la mañana, que me da pena ya.
+
+[Speaker 10 - 02:11:57]
+No, no, yo estoy hablando mucho.
+
+[Speaker 2 - 02:12:00]
+Sí, seguro. Mira, que a mí me da pena decir que sí o que no.
+
+[Speaker 10 - 02:12:17]
+Y ahora nadie habla. ¿Están todos? Yo tengo yo tengo el rap listo, hablo en claro.
+
+[Speaker 2 - 02:12:23]
+Date. De pan, ¿así mismo? Claro.
+
+[Speaker 10 - 02:12:28]
+Bueno, no, dale pues.
+
+[Speaker 3 - 02:12:30]
+Oigan. Que es que es largo, habla claro que Vayan al grupo y lean lo que es lo que compartió Tere, que te digo, también tiene mucho alfa, nada más que no quiere subir a hablar, le da vergüenza y se es chévere. Esos ya hablan como argentino, yo me siento como que no estoy ahí adentro, ¿por qué no hay argentinos ahorita acá arriba?
+
+[Speaker 2 - 02:12:49]
+Porque ellos se vuelven de miedo a este niño, no les gusta que los critiquen, o que se burlan de ellos, no aguantan juego.
+
+[Speaker 3 - 02:12:56]
+Yo pensé que todos hablaban con Maradona.
+
+[Speaker 4 - 02:13:02]
+¿Qué? ¿Qué? ¿Qué?
+
+[Speaker 16 - 02:13:06]
+¿Qué? ¿Qué le pasa a Bob?
+
+[Speaker 2 - 02:13:22]
+Entonces, ¿mela?
+
+[Speaker 10 - 02:13:25]
+Estaba tomando agua aclarándome la voz, preparándome.
+
+[Speaker 2 - 02:13:38]
+Yo.
+
+[Speaker 11 - 02:13:49]
+En ninguna, cuídese de la envidia, mijo. Mirándome a los ojos, mi vieja descanse en paz ya, una vez me dijo, ya razón tenía de advertirme de esta vida, puerca, no crías cuervos, o arrancarán tus ojos de sus cuencas. Me he dado cuenta que la verdad es tan relativa y la realidad es tanta mentira, perros tratando de invadir mi propiedad privada mientras dormía buscando robar mis hembras, mis reales, mi comida. Maldito sea el hombre que confía en otro hombre, gran verdad en esa frase se esconde. Me siento como un loco al tratar yo de confiar yo todavía en alguien, en el planeta de liproquesía. Válgame, soy un iluso tan bravo que me la doy, que uso es natural, que en contra de mí de un oso mundo sucio, donde todos piensan solo en ellos mismos, malditos 1000 veces, títeres del egoísmo. Esto es pa ti. Pa ti, tú que me traicionaste a mí, me das la mano, con tu cara yo no fui y yo inocente te la di porque todavía no sabía que tu risita venía con la fecha ya vencida. Esta canción no es tu risita venía con la fecha ya vencida. Esta canción no es para nadie, que no tenga ganas de matar a alguien por falso y coño de su madre, y otra mano con puñale nidor sal la mano de un tal carnal, hermano que mi mano solía estrechar.
+
+[Speaker 11 - 02:14:54]
+El más traidor puede que lo tengas de frente bebiendo tu frío o compartiendo tu cena caliente. Ojalá se ahoguen los que siempre mienten, y una vez en el infierno que se quemen para siempre. ¿Nunca había pensado que tu socio puede ser un sucio que por un negocio te puede dar un chuzo, mi brazo que me dice que el amor me llevará lejos, pero el odio me enseñó a ser un lincenum, un pendejo. Con los dedos de una mano eran contados lo que esa misma mano por ellos metía el fuego. Ahora, por un samur, el traje de cordero, caservero está pensando en tener que volarse un dedo, por eso ya no creo ni en mi almohada, ni en mis hombros sé en nada, ni siquiera que mi viejo. Si algún día digo que te creo, no creas que te creo, porque ya no creo ni en mi reflejo. Si buscas una mano amiga, empieza por tu brazo y solo supe a punta de coñaza. Ojalá mi vida sea larga, para ver cuando la tuya fracase y pisar tu mano cuando me pidas que te alce mi parce. Soy simplemente inexpresivo cuando escribo, ya casi no veo ron sino vino y de corazón digo que la sucia venganza mata el alma y la envenene, pero cuando de traición se trata, sí vale la pena.
+
+[Speaker 11 - 02:15:55]
+La palabra vale, la trampa sale, los barositos se ven a los ojos para decir verdades. Deja la cola cuando pierdas batalla, que esa no es la guerra, y si alguna te falla, cámbiala por perra. Por pan de mierda, la sangre pierde el corazón, súbele volumen, repite la oración. Maldito sea el hombre que confía en otro hombre, lo que traicionaron recuerda sus caras y sus nombres. Solo hay una cosa en ti que admiro, y es que como siendo tan 2 caras, pues, todavía dormí tranquilo, por mi parte bien, yo sonrío, pero por mi madre, que no es bueno tener a cancerbero de enemigo, el barrio no pasó en vano, como a Willy Colón en el profundo de mi corazón soy malo. Estos malditos cagapalos piensan que yo no estoy claro, que no son un coño de madre mis hermanos. Esto es la vida y la muerte, no creo en nada, ni leyendas vivas, ni en leyenda muerta, ni resucitada. Yo soy irreal como Oliva y su espada, dándole puñalada a los hipócritas por su fachada. Mesado de mierda cultura, putas infames, esta canción no es para que pegue, ya tiene de verdad pegada. Vivir hasta un momento cuando no tengas panas y notes que las que dicen que te aman me miran con ganas.
+
+[Speaker 11 - 02:16:56]
+Me sabe a Kubler Flower y las habilidades, yo soy toscos, no me salen rimas, que no sean reales. Los quiere y no te encuentres a González afuera y te invite hasta que alguno de los 2 en la cancha se muera. Un coño es madre caballero, ¿verdad? Si puedo te apuñalo hasta con el lápiz y sepa el tema. Farsante, hay más que moscas donde te cagaste o mal olor donde measte, y sin metáforas, bastante. Una mano te corta la otra, como dijo Tempo y las facciones, no se las lleve el viento. Que te perdone Cristo sí existe, porque si por mí puedo cantar esto mientras veo tu tumba triste,
+
+[Speaker 16 - 02:17:29]
+que suba la mano el que no cree en nadie,
+
+[Speaker 11 - 02:17:32]
+y si nadie lo sube, lo subo yo. Ojalá te mueras, antiguo compadre, nos veamos en el infierno para volverte a matar yo. Dios no puede duplicarme lo que pienso cuando te observo, porque más de una vez no puedo entrar al infierno. Y a mí no me digas tu hermano, pa ti, yo soy mala. Rolly trancue, mama, huevo. Cuídese de la envidia, mijo. Mirándome a los ojos, mi vieja, descansen para allá una vez, me dijo, ya razón tenía de advertirme de esta vida, puerca, no crías cuervo, o arrancarán tus ojos de su cuenca. Bueno, mi regalo para ustedes, my friend. Cuídese de envidia, mijo.
+
+[Speaker 3 - 02:18:34]
+Esa mala, mírala, mírala. ¿Qué onda, mala? Tírale, tírale, tírale marrad.
+
+[Speaker 11 - 02:18:44]
+Ah, ¿vieron? Está demasiado. Es para limpiar la SPEI.
+
+[Speaker 2 - 02:18:48]
+Esta cajita de monería, mala. Limpié el space serio,
+
+[Speaker 10 - 02:18:55]
+¿no? Todo el mundo se fue para el coño.
+
+[Speaker 3 - 02:19:06]
+La Mal Alien, esas letras son de otro planeta.
+
+[Speaker 10 - 02:19:14]
+Bueno, esa canción 1 no la puede no la puedes, no, o sea, rapear si no estás arrecho, tienes que estar molesto, Rabia molesto. Si no, no puedes, no puedes.
+
+[Speaker 3 - 02:19:30]
+Y te te te sientas freestyles ahorita, agéntete un freestyles, pues.
+
+[Speaker 10 - 02:19:35]
+Coño, eso me da más pena todavía, ¿no? El freestyle sí me da pena, Ferro. Tal vez, tengo que fumamos unos porros, unos vino y y ahí sí le doy. O ni se ríen.
+
+[Speaker 2 - 02:19:52]
+Manita, yo no fumo, pero yo aquí estoy anotada todo el día, porque esta zona es full cannabis,
+
+[Speaker 0 - 02:20:00]
+donde quiera que tú te pongas en la terraza, donde quiera que te pongas, tú estás oliendo del del del que está estás
+
+[Speaker 2 - 02:20:03]
+oliendo del del del que estás fumando el otro. O sea, ¿para qué voy a fumar yo? Eso se pega, eso se pega. Ya, yo estoy muy vieja para esa gracia, ya te voy a abonar.
+
+[Speaker 10 - 02:20:19]
+Qué bueno madre esas expresiones. Pues bueno, ya te digo. ¿Qué más señor Pepe, te gustó?
+
+[Speaker 2 - 02:20:47]
+Señor Pepe, ¿está manejando otra vez? Porque Dani creo que debe ir manejando, estoy segura. Y esa ciudad sí es endemoniada.
+
+[Speaker 10 - 02:21:14]
+Oye, pero hablando como los loqué bola que yo empecé con la huevonada
+
+[Speaker 0 - 02:21:18]
+del buf, buf, wo, wo, wo, wo, wo, wo, wo, wo, wo, wo, wo, wo, wo, wo, wo, wo, wo, wo, wo, wo, wo, wo, wo, wo, wo, wo, wo, wo, wo, wo, wo, wo, wo, wo,
+
+[Speaker 10 - 02:21:28]
+Demasiado bueno esta vaina.
+
+[Speaker 4 - 02:21:32]
+Es el baile del perrito.
+
+[Speaker 10 - 02:21:36]
+Me encantó, sí, el baile del perrito, tal cual.
+
+[Speaker 2 - 02:21:40]
+Oye, ¿quién tiene quién tiene cuenta aquí de TikTok? Vamos a hacer un espacio en vivo en TikTok. Ah, yo. Vamos a darle. ¿Ya?
+
+[Speaker 3 - 02:21:51]
+Si quieres ya, no, ahorita Tienen que tener 1000 seguidores para que puedan abrir, a pesar de que sean
+
+[Speaker 2 - 02:21:57]
+invitados. Todos. No, pero es que los invito a yo no tengo. 1000 seguidores, más de mis seguidores. Papi, yo tengo 2000 y pico, 2000 y algo. 2000. Yo puedo hacer Spain. Este, no, pero si la si los asistentes pueden interactuar, no sé si pueden No, yo yo antes de tener 1000 yo subía, a mí me invitaban a espacios allí. Es más, de hecho, por eso fue que agarré 1000 rápido. No sería nada descabellado hacer un espacio en en TikTok, pero tendríamos que planearlo para que tenga verdadera asistencia, ¿no? Ese algoritmo es muy loco, es sumamente loco, es muy potente.
+
+[Speaker 10 - 02:23:03]
+¿Alguien está hablando?
+
+[Speaker 2 - 02:23:21]
+No, yo estaba fuera. ¿Hay alguien hablando?
+
+[Speaker 0 - 02:23:28]
+Te
+
+[Speaker 2 - 02:23:37]
+fuiste. Mala, ¿me escuchas?
+
+[Speaker 10 - 02:23:40]
+Ahora sí, sí. Ah, ok. Es que pareciera que que ah, ya, ahora sí se me actualizó. Ok, perfecto.
+
+[Speaker 2 - 02:23:53]
+Te decía que allí es genial porque ese algoritmo es sumamente loco. Con 10 personas en línea, tú tienes la sala llena un en un momentico. Es muy llamativo ese algoritmo, muy pero muy llamativo. La vaina, lo que yo no he logrado allí es, yo no sé si TikTok lo tiene medio baneado, del del bang, el tema cripto. Porque inclusive yo sigo a un carajo, nos seguimos mutuamente, que él hablaba mucho sobre atravesar. Entonces, coño, me tiene vencida, me tiene vencida. A mí me gusta la meditación, yo medito, yo hago yoga, yo todo eso perfecto, pero es que hay temas que son un poco densos para mí, no son no son muy atractivos. Entonces, ya el tipo no tiene nada así que yo le siga, que me traiga. El carajo me dijo que era que no no le daban visibilidad.
+
+[Speaker 10 - 02:24:56]
+Entonces, no sé. Coño, pero Sería un gran tema de ladilla, Marica, me he jodido, pues.
+
+[Speaker 2 - 02:25:02]
+Sí, pero es que él él cambia, él dice, es que tuve que cambiar la conversación, entonces, como aquí todo el mundo habla de lo mismo y yo manejo el tema, entonces empecé a hablar allí, pero ya estoy viendo que tampoco, si si te aburre a ti, imagínate tú, que a mí no me aburre casi nada, pero sabes que Bobo me recomendó 2 o 3 usuarios o recomendó a todos 2 o 3 usuarios y yo lo seguí Y esos coños los espamean, me han seguido 70 carajos iguales con la misma foto. Entonces es un es un es una locura porque es que te no distingues los nombres los unos de los otros. Yo creo que es muy complicado el el SEO allí, porque además cuando agarras tracción te sacan multicuenta múltiples cuentas pero no a 1000, y después es bien delicado porque cada cosa que dice esa cuenta es como tú, no como tu responsabilidad, pero sí parece que eres tú el que está hablando.
+
+[Speaker 10 - 02:26:02]
+Sí, qué pedo, marica. Pero igual yo voy pendiente de echarlo bla bla ya, o sea, yo todas las noches, o sea, como que antes de acostarme veo un poquito de TikToks, pero como alimentar un poquito el algoritmo, tenerlo al día, y puedo estar entre 30 a una hora, 30 minutos a una hora, y me llama full la atención, me llama full la atención, y yo poco a veces, o sea, como que posteo y tal, pero tengo claro que si yo me pusiera un mes a, así como a vídeos de, no sé, mi día a día, mi IMEI y tal, yo pudiera crecer muy rápido en esa cuenta. No he farmeado aquí, pues, no he farmeado aquí con ustedes hablando, este farming en Tik Tok es como que uf, y hasta te pagaría por eso, por los like y vainas, entonces como que bueno, y y la gente te manda cosas, regalo, este entonces eso me parece como interesante, tengo un pana que el no es nada cripto, tiene una cuenta de casi 20000 seguidores, aquí en Twitter, y él me dijo mira, cuando quieras vamos a abrir un life allá y tal, para hacer lo mismo que hacemos aquí, pues, básicamente.
+
+[Speaker 10 - 02:27:22]
+Y yo coño, de verdad que no es mala idea invertirle un un tiempo allá a eso, ¿sabes?
+
+[Speaker 2 - 02:27:31]
+Sí, lo que hay es que tener un tema en el que verdaderamente tengas atracción, porque a la gente no le interesa hablar de criptomonedas si no les vas a decir cómo se van a ganar 100000000. Eso es lamentable, pero es la realidad. Tienes el contenido que está en línea y es eso. Dime cómo hago plata. Cómo me gano 100000000 con bitcoin. Yo yo creo que yo hice una publicación de eso, este, el carajo inclusive ni siquiera sabía cómo pronunciar bitcoin ni cómo escribir bitcoin. Biscoin. Escribió algo como biscoin y no lo escribió una sola vez, o sea, pero si quieres tú saber de biscoin.
+
+[Speaker 10 - 02:28:12]
+Eso no tengo muy bulish.
+
+[Speaker 2 - 02:28:26]
+Es que tú dices, coño, no, pega el el tiro si te van a estar haciendo preguntas que, o no vas a poder responder preguntas que ellos quieran, este, a los que ellos vengan buscando. Claro que, este, si hay alguien más que manifiesta interés y vainas, se van a quedar nada más que por por por ser parte.
+
+[Speaker 10 - 02:28:50]
+Sí, sí, sí, sí. Así, por eso es que lo veo bien atractivo. Más luchamos avísame, yo me arreglo, me pongo pulir, le pongo pulir, y yo poniendo esa cámara.
+
+[Speaker 2 - 02:29:11]
+Lo de repente lo vamos a hacer es que pongo el espacio desde la computadora, el espacio de esta noche desde la computadora y abro el el TikTok desde desde el teléfono de la tablet. Vamos a ver cómo sale. A ver quiénes se conectan, pues. Si conectaron se conectaron, si no se conectaron hay que seguir insistiendo y ya está.
+
+[Speaker 10 - 02:29:36]
+Sí, pones unos cosos también, para que te ayuden a moderar el la dirección.
+
+[Speaker 2 - 02:29:45]
+Sí, voy a vamos a verificar si lo que dice Boubo, este, es así. Ya. De que de que no, de que debes tener 1000 seguidores para poder subirte como con host allí, pero yo creo que no. Yo creo estar segura de que yo no tenía los 1000 seguidores cuando En Tik Tok. ¿En Tik Tok? No, eso no. No los necesitas, no me está diciendo mi hijo que no necesitas 1000 seguidores, o sea que sería brutal porque ahí caben creo que 12. Brutal, creo que caben 12 y eso sería bien llamativo porque cada cojos va trayendo otros. Ese es 1 de los algoritmos más atractivos que yo he visto y se modifica a diario, tiene una inteligencia increíble.
+
+[Speaker 10 - 02:30:30]
+Un chico chino, una red social china ¿qué te digo? Ellos están en el 2080.
+
+[Speaker 0 - 02:30:37]
+Sin duda,
+
+[Speaker 2 - 02:30:39]
+sin duda. Es hasta peligroso la vaina.
+
+[Speaker 10 - 02:30:43]
+Burda, marica, mira todo el impacto que ha tenido Tito, bueno yo lo siento, no quiero como ponerme intenso con Venezuela, pero es que me parece demasiado impresionante, porque en Venezuela y China las alianzas son evidentes, y Tik Tok ha sido una herramienta para Nicolás Maduro tan grande de lavado de cara que el PAN es un influencer ahora mismo, o sea, a nivel de encuestas hay gente que piensa realmente que que Maduro es mejor que Chávez, ¿sabes? Y eso está bien complicado, ¿no? Y eso es gracias a Tik Tok, you know. Eso es gracias a Tik Tok. Sí, sí, sí. El man tiene seguidores, interactúa, tiene un podcast, habló de lo de la muerte de Canserbero, son las cosas así como que, ¿pero esto qué poquin es? O sea, ¿qué en qué simulación está estoy viviendo Jofrén? O sea, ¿qué es esto? Muy loco.
+
+[Speaker 2 - 02:31:40]
+Y esa es una y esa es una pregunta bien seria que te haces, porque te imaginas todos los que hoy nos lavan la cara mostrándose bien, están en TikTok mostrándose bien y tú estás allí creyéndote el cuento, creyéndote la historia, Es gente creyéndole la historia. Pero, bueno, el tema es, como como manera de levantar como manera de levantar comunidad allá, no es nada descabellado y solamente sucede si la gente ve a otros interactuando. Eso nada más tiene que verlo con lo con los NPC. O sea, tú tienes que no ser estúpido, tienes solamente que tener atención cuando una dinámica como esa se hace viral y hace que ganen tanto dinero esos esos actores allí.
+
+[Speaker 10 - 02:32:29]
+Sí, de acuerdo, 100 por 100.
+
+[Speaker 9 - 02:32:54]
+Hola, buenos días.
+
+[Speaker 2 - 02:32:56]
+¿Qué tal? Hola,
+
+[Speaker 9 - 02:33:00]
+Day, gracias, gracias por dejarme subir un ratito aquí. ¿Me escuchan bien? Porque voy en este momento manejando.
+
+[Speaker 11 - 02:33:08]
+Perfecto, perfecto, perfecto. Ok.
+
+[Speaker 9 - 02:33:11]
+Hola Malandra, al al fin y al cabo te escucho la voz. ¿Qué voz tan bonita tienes?
+
+[Speaker 10 - 02:33:18]
+Gracias,
+
+[Speaker 9 - 02:33:19]
+gracias. Sí, porque te he visto subiendo nuestros espacios y y lo que has hecho es ladrar, ¿no? No sé por qué, pero creo que te gustó el baile del perrito, ¿eh? ¿Viste, no? Pero nada, bueno, no, nada. Tengo un tiempo cortito, pero quería preguntarles, ustedes están inscribiendo en SRP C número 20. ¿Me pueden me pueden explicar qué es lo que están haciendo?
+
+[Speaker 10 - 02:33:57]
+Claro que sí,
+
+[Speaker 2 - 02:34:34]
+Ahora están deployando más que todo los emojis, que ya los aprobaron, y eso era lo que estábamos hablando esta mañana. ¿Qué me dijiste que estaba bien? Dijiste que estaba bien.
+
+[Speaker 9 - 02:34:45]
+No, bueno, pues tenía un poco, está un poco confundido porque está el XRP, sí. Entonces pensé que estaban en la XRPL, pero no está en XRP.
+
+[Speaker 2 - 02:35:01]
+Es XRP, sí.
+
+[Speaker 9 - 02:35:05]
+Ok, ok, esa es la confusión que tenía, vale, vale, vale. Ok, ok.
+
+[Speaker 2 - 02:35:11]
+Esa es acá en Sweeter, está en Sweeter y es directamente en la Blockchain de Sweeter.
+
+[Speaker 9 - 02:35:18]
+Ok, sí, he visto unos cuantos Twitter sobre estos estos minthous. Entonces ustedes están minteando los emojis.
+
+[Speaker 2 - 02:35:28]
+Ahora parece que están minteando los emojis. La cuenta de Danis, la cuenta de Mexi, que también tiene éxito, pero eso es que Mexi lo está dejando, lo que pasa es que lo cubra, lo que pasa es que lo cubra, Pero ellos a mí, pero ellos son muy ya estén turgadas en esta reunión. Tienen los 2 micrófonos abiertos, te escuché bien. ¿Cómo, señor Pepe? ¿Cómo, señor Pepe?
+
+[Speaker 13 - 02:35:50]
+Hay un eco y 2 micrófonos abiertos, no se escucha nada.
+
+[Speaker 2 - 02:35:55]
+Sí, él deja el micrófono abierto, me voy a escuchar en eco, eso es lo que pasa, creo que es por ahí la cosa.
+
+[Speaker 13 - 02:36:01]
+No, ahí está bien ahora.
+
+[Speaker 2 - 02:36:03]
+Ok, decía que en los en las cuentas de Dani, de Mexi, no sé si la del señor Pepe está en la suya también hay información ahí, cuáles son los que se están mintiendo ahora. ¿Señor Pepe? Yo lo rugueo yo, señor Pepe. ¿En su cuenta también se están mintiendo?
+
+[Speaker 4 - 02:36:29]
+¿En la demanda también están mintiendo en tu casa? No, yo le tenía una pregunta a Mexit, yo le tenía una pregunta a Mexit
+
+[Speaker 13 - 02:36:36]
+con esto de los emojis. Ahorita tú dijiste el del beef y quería yo hacer el del beef, este, emoji, pero cuando le pones el check cuando te te manda a Twitter a postear o x, cuando dice check, no está no hay nada de emoji ahí. So, quería preguntarle a ver si como aquí el isso. Se está riendo, ya ya va a empezar con el bill
+
+[Speaker 9 - 02:37:14]
+Ok, muchas gracias por informarme. Ya ya ya los estoy siguiendo, porque yo voy ahorita pasando de un cliente para otro. Yo estoy aquí en Holanda y estoy ahorita en obras laborales. Entonces, lo ya los estoy siguiendo para mirar esta movida y y, bueno, está está bien fino el espacio y y nada. Ok, voy a contarlo por aquí. Gracias.
+
+[Speaker 2 - 02:38:01]
+Vamos a estar en contacto, vamos a estar en contacto. Sí, bueno, ya te sigo. Gracias, Honey.
+
+[Speaker 9 - 02:38:05]
+Vale, chao, vale, chao. Bueno, me los estoy escuchando y un saludo para todos, estudiantes.
+
+[Speaker 10 - 02:38:13]
+Ok, saludos.
+
+[Speaker 2 - 02:38:16]
+Gucci, buenos días.
+
+[Speaker 10 - 02:38:26]
+Engagement, family. Sí, sí, sí,
+
+[Speaker 2 - 02:38:30]
+sí. ¿Se quitó el el el símbolo? Sí, se lo quitó. Qué obedientes están, esto me ¿Y qué pura gente sin criterio, joven? Puro perro salvaje obediente, interesado. Nadie tiene criterio. Yo estoy ahí rebelde, pero ya me quité la descripción y todo ¿Viste? Vamos top, ya top se cambió hasta la hasta el PSP
+
+[Speaker 0 - 02:39:04]
+Aquí nadie tiene personalidad, todos tienen un No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no,
+
+[Speaker 2 - 02:39:11]
+no Un pinche símbolo de dólar en la frente. Pónganse un dólar en la frente, gente, sin personalidad, chica. Así No, un un BTC. No, un BTC. Sí,
+
+[Speaker 10 - 02:39:32]
+un BTC. Qué triste, qué triste, ¿verdad? Donde estamos yendo como comunidad, como como España.
+
+[Speaker 2 - 02:39:39]
+Nos estamos acabando 1 a otro. Ay, no Buen día. Sí.
+
+[Speaker 12 - 02:39:59]
+Unos días, unos días, GM. Oh, ¿cómo andamos, cómo andamos plebes? ¿Oy can bake, hoy can bake? ¿O no?
+
+[Speaker 10 - 02:40:11]
+Sí, sí, un poquito.
+
+[Speaker 2 - 02:40:15]
+¿Está bonito tu FP? Tu FP, perdón.
+
+[Speaker 12 - 02:40:18]
+Gracias, lo lo hice anoche antes de Darry Tower toda la noche, este, retweeting y twitting y, este, y se me ocurrió hacer esto. Dije, fuck, era ver a ver si cómo me queda. Genial,
+
+[Speaker 2 - 02:40:36]
+está brutal. ¿Y has ladrado en los spaces?
+
+[Speaker 12 - 02:40:41]
+Uf uf. Sí, sí. Claro, claro, claro. Ayer andaba ahí con un en en de los de China y no sé qué chinga están diciendo, pero, pues, ahí andaba Biden, man, yo yo ahí andaba.
+
+[Speaker 5 - 02:40:59]
+Una pregunta. ¿Ustedes finalmente pudieron ver los tokens y las inscripciones?
+
+[Speaker 2 - 02:41:06]
+A mí me venció el FOMO, pero no me venció tanto como para ir a darle. Mala, ¿tú estás viendo los token? Dani
+
+[Speaker 10 - 02:41:14]
+dice
+
+[Speaker 2 - 02:41:15]
+mucho que él sí los vio al rato.
+
+[Speaker 5 - 02:41:18]
+Yo también lo acabé de ver y y, Honey, no es no es FOMO, porque honestamente un token que que ellos mintieron, que yo vi que era de un dragón, ya está vendiendo y tiene volumen,
+
+[Speaker 2 - 02:41:28]
+honestamente. Esto es algo
+
+[Speaker 5 - 02:41:30]
+esto es algo serio. Yo, en una opinión, pues, yo ya minté a un par, pero estoy trabajando y no quiero roguear con el sonido.
+
+[Speaker 2 - 02:41:38]
+No joda. Viste mala, me lo perdí otra vez. Yo siempre llegando tarde. Yo y mi mala maña de llegar tarde a la vaina, pero tarde por una hora y media, no puede ser, eso es de récord.
+
+[Speaker 13 - 02:41:51]
+Sí. Ya me apareció el emoji del Beach. Estaba haciendo un error en el deployment de entry scriptions, donde decía el tip. Se me había olvidado que ahí tenía yo que ponerle algo.
+
+[Speaker 5 - 02:42:03]
+Si tú conectas tu Twitter, yo yo noté que cuando conectas el Twitter y tu wallet de de arbitrum o el o el chain, te te ayuda a mintear desde la aplicación o el website y te permite hacer el tweet sin tener que poner el comentario entero y y te y ahí es que te actualiza la el token pero cuando ¿cómo se llama? Cuando tienes el problema ese cuando tú deploye un un token por ejemplo lo tienes que mintear. So solo con hacer el deploy no no basta porque no te lo minteado, lo tienes que mintear, perdone.
+
+[Speaker 10 - 02:42:39]
+Ah, ok.
+
+[Speaker 2 - 02:42:41]
+Eso está bien interesante. Buenos días, Mexi. Ah, vaina, yo he subido a Mexi 2 veces y te lo juro que yo lo vi como hablante.
+
+[Speaker 13 - 02:42:54]
+Yo le iba a preguntar, mira, en tu inscriptions en de tu en mi balance, no en token, sino en threscriptions. El de beef, tengo 1 que es fail y el otro dice success. Quiero preguntarle a Max si se le pasó eso.
+
+[Speaker 5 - 02:43:12]
+Eso también a mí me salen los fails y los Success. Yo traté de poner una unos nuevos que no vi y y dicen fails, pero puedes seguirlo haciendo, puedes chequear si si trataste de hacer un deploye, puede ser que ese ese ya lo ya le hicieron deploye, intentan minkearlo. Yo no soy un experto en eso, pero yo también vamos aprendiendo aquí paso a falta juntos.
+
+[Speaker 2 - 02:43:34]
+Ya, ahora sí creo que subió Mexi.
+
+[Speaker 4 - 02:43:37]
+¿Cómo andan? ¿Cómo andan? Ando levantando el día de hoy un poco tarde porque me pasé mintiendo en la noche. ¿Ustedes cómo cómo les fue? Está medio loco el sistema. No todo está funcionando como debería, creo yo. Pero, pues bueno, que seguimos haciendo pruebas. Ya vi que el mago pasó por aquí, que mexicano tiene muchos x. Señor Pepe, ¿cómo te fue? Tengo unos unas berenjenas. Ya ya salió el beef, salió el beef. Ah, bueno. Tengo unas berenjenas especiales para ti. Ahí te las mando, las berenjenas. Favor, sí, sí, sí, por favor. Hacen falta. Un dragón, una piña. ¿Qué más saqué? Ah, y cupcake. Mi mi mi cupcake lo también, no sé qué, por ahí. Un dragoncito ahí, si te sobran por ahí.
+
+[Speaker 2 - 02:44:26]
+Yo no sé, esta vaina es demasiado. Dice dice Gucci, no, no es Fomo, no es Fomo, ya tiene mercado el dragón, en una hora y media, dios mío. ¿Tú,
+
+[Speaker 4 - 02:44:38]
+Johnny, has podido pintar algo? Dani, veo que anda ocupado aún en la calle, pero saluditos.
+
+[Speaker 2 - 02:44:43]
+Tof. No. Guachi. Yo soy yo soy análoga, Mexi, yo soy análoga. Yo hago una vaina o hago la otra, y me pongo a hacer esa y no hablo tampoco. Entonces, se acabó el espacio.
+
+[Speaker 4 - 02:44:56]
+Oye, ahorita escuché a cantar Mala, no la conocíamos, habla Fallout, qué chido canta. Mucho gusto, mucho gusto.
+
+[Speaker 2 - 02:45:08]
+Mala. ¿Estás
+
+[Speaker 0 - 02:45:11]
+ahí?
+
+[Speaker 4 - 02:45:14]
+Oigan, yo siento bien bullis en esta madre de los Xero C20s. No sé quién chingados detrás del equipo de trabajo, Pero han estado enterando rápido y sacando nuevas opciones rápido. Estoy esperando utilizar la oportunidad para hacer para barrer el piso. Voy a barrer los mex, obviamente, y los X Arce, no qué, y los otros por ahí que que por ahí están en unos pisos. Quiero quiero la la el sello, quiero el sello de de un Ether. Ahí vamos, ahí vamos. El Mexi lleva 0.07 o 0.08 ya. Entonces vamos en el 8 por 100 para llegar al Ether y tener el sellito azul. Eso le va a dar mucha visibilidad al al token definitivo. Y va, Andrés, qué qué loco. Mucha gente por aquí veo que mintió un chingo. Este, no sé, no sé, yo estoy divirtiendo mucho. De nuevo, si no se están divirtiendo, no sé qué chingados están haciendo así.
+
+[Speaker 2 - 02:46:14]
+Sí, yo minté cuando los Mexi, yo tengo como 2000. Yo voy a esperar que lleguen a un ethereum. Si no, no vendo.
+
+[Speaker 4 - 02:46:24]
+Un ethereum va a estar complicado, pero un centavo de dólar. ¿Un centavo de dólar estaría cañón? Eso es una buena meta, un centavito de dólar. Parece que es un chingo de todas maneras.
+
+[Speaker 2 - 02:46:38]
+Yo en realidad no tengo mucho, pero es porque empecé a spammear el espacio y me asusté cuando vi que me bloqueara la cuenta, pero no era por eso, no sé por qué sería, pero lo que no quise fue seguir spammeando. Y que no me da tiempo tampoco, solo me divierte. No me divierte no tener tiempo. ¿Malata, estás mintiendo?
+
+[Speaker 1 - 02:47:19]
+¿Soy yo?
+
+[Speaker 13 - 02:47:21]
+No, yo te escuché. Ok. Estoy aquí mintiendo beef.
+
+[Speaker 2 - 02:47:26]
+Es mintiendo beef. Dios mío. Ok, aquí estoy en la página y dice muchas noticias que entregar hoy. Ya va. Ya va, ya va, ya va, ya va, vámonos al tweet. La orden de embarridos del piso. Ah, lo que tú comentaste, se activarán unas pocas horas. El ticker emoji, eso ya lo habíamos visto, y la información de distribución de titulares para mejorar la transparencia. Ah, esto era lo que estaban hablando, yo no lo había visto.
+
+[Speaker 7 - 02:48:06]
+Qué será raro. Sí, la neta sí se
+
+[Speaker 4 - 02:48:08]
+se hace falta eso. Se hace falta un un un Blockchain explorer, este, para saber quién ha transferido qué, a dónde, qué cuántas están metidas, cuántos tokens tiene cada quién. Todo eso le va a dar un chorro más de visibilidad a todo lo que estamos haciendo. Y el puente, obviamente el puente también. Arbitrum, a ver cómo lo sacan y cuándo. Pero están muy bien rápido. Metas están muy bien rápido. Seguro va a haber Lana ahí después de todo lo que he visto. Al rato hago un resumen del volumen que he visto de ventas de todos los tokens. Por eso puedo analizar el wallet. Pero creo que estaban actualizando el contrato. No sé si lo cambiaron, o sea el mismo. Al rato también me aviento esa razón. Está bien cabrón, está bien cabrón. No te sé. Se está agarrando traccioncita.
+
+[Speaker 2 - 02:48:55]
+Eso es bien interesante. Es que yo creo que lo hicieron bien porque lanzaron al FOMO primero, esto de spammear las cuentas con Exercy, fue una jugada maestra. En el momento en el que estábamos todos concentrados en algo parecido con el tema de Portal, Este, esta dinámica de de engagement, farming y de estar todo el mundo atento a las oportunidades de airdrops y todo esto, a las nuevas oportunidades de de hacer dinero con tu tiempo y tu atención es muy, pero muy potencial. La gente empieza a imaginarse formas. Una de las que me pareció mucho muy atractiva es que tú lo usaras para hacer tus dinámicas de de wireless para tus proyecto, eso me pareció brutal. Yo no tengo tanta creatividad honestamente, yo me las tengo que pensar mucho, yo tengo que trabajar cuando voy a cuando ya voy a ejecutar ya llevo 10 por delante, entonces bueno, yo agradezco a quienes ejecutan antes que yo.
+
+[Speaker 4 - 02:49:53]
+La neta, la neta, o sea, fue como que salió el miércoles. Lo de los 80 que ya lo traíamos un poquito desde antes YYY fue, o sea, sí, sí, sí fue cómo me monto en la bolita, cómo agarro tracción para aprovechar algo que a lo mejor puede hacer mucho ruido, porque se pudo haber muerto en 2 días, ¿no? Pero ahí sigue, ahí sigue. Entonces, este, no sé, o sea, definitivamente esos tokens, si nadie les da utilidad, pues no van a salir para nada. Entonces, pues yo ya lo mencioné por ahí en el espacio ayer, hoy lo voy a volver a antier, pero lo voy a volver a mencionar. Voy a empezar a vender minutos, minutos de Shileo con Nexis y con su Bocletta cash. Vamos a ver eso, vamos a ver si alguien se mueve. Ya hay alguien que parreó el mercado secundario de los Nexis, ya tiene 1000000 de los 21000000 disponibles. Entonces algo algo está funcionando de lo que de lo que yo quería lograr. Pero sí, el objetivo es hacer dinámicas, hacer cosas que le generen volumen de venta. Aunque yo no lleve ni un puto porcentaje de cada venta, si empiezo yo a cobrar Nexys, bueno, me voy a llevar me voy a llenar de inventario, que luego puedo revender o quemar 0000 rifar o regalar o a ver qué hago.
+
+[Speaker 4 - 02:51:03]
+Pero, pues, todo depende de la utilidad que le puedas dar. O sea, yo podría empezar a vender días de uso del espacio físico que tenemos acá en Monterrey, poder empezar a vender las vías ustedes mis espacios, podría empezar a vender, a lo mejor, patrocinios para el podcast, que por ahí tenemos ya algunos episodios. O sea, nada más es alocarse un poquito y clinge a su madre, o sea, hacer ruido y ver si hay tracción.
+
+[Speaker 2 - 02:51:33]
+Sí, y es que hay que ser bien bien activo con eso, porque si tú si tú mismo lo dejas morir, nadie le va a dar valor. Porque al final la gente lo está lo va a ver desde los líderes o desde quienes tienen más voz o desde quienes distribuyen más información a más gente, de otra manera va a ser muy complicado y eso es muchas veces el tema de la virartividad no es comprendido eso, es creer que tú sigues a otro solamente porque, este, es trending. Y la razón por la que es trending es porque los las cabezas pueden dirigir el contenido a cada 1. Ese tema de los exorcistas si no lo mueven, si no le dan movimiento desde otras actividades, conectar otras cosas a eso, va a ser muy difícil sostenerlos porque bueno eso es como nada, eso es como dinero en papel de monopolio, del juego de monopolio. Es exactamente lo mismo. Podría tener para Tú sabes que hay una historia en Venezuela, hubo un tiempo que la situación estaba muy mal y no había efectivo, no había cash en la calle.
+
+[Speaker 2 - 02:52:37]
+La bancarización allá era muy pobre y habían barrios en los que inclusive nadie tenía cuenta bancaria, pero son barrios con muchos movimientos monetarios, con mucha masa monetaria. El barrio 23 de Enero, que es una de las de los barrios más poblados de Latinoamérica, en ese tiempo no tenían monedas, no tenían billetes, y las tiendas no tenían cómo comerciar. Ellos crearon unos billetes entre ellos. No recuerdo ahora los nombres, pero por supuesto que te enfrentas con el problema de la la disponibilidad, el el supply, el la veracidad, ellos crearon los billetes porque era la única forma de solucionar eso, una realidad. Entonces, nosotros inclusive hablamos con ellos para que utilizaran la plataforma para para para hacer sus propios token, en ese momento era en stimit, para hacer sus propios token allí, pero no no supimos comunicarlos, ellos no lograron entenderlo. Creo que lo que está mostrando este ejemplo ahorita es cómo podría funcionar.
+
+[Speaker 2 - 02:53:39]
+Si hoy esa fuese la misma situación en cualquier parte allí mismo, tú podrías sencillamente utilizar estos tokens como una forma de intercambio allí, que está fácilmente relacionable con con Twitter y lo y y ahora que que lo dejen ver cómo se mueven las transacciones podrías ver si verdaderamente el supply es el supply, a dónde van las transacciones, qué
+
+[Speaker 4 - 02:54:13]
+la verdad es que sí sí me me me he clavado mucho en entender un poquito más el tema de los tokenomics, el tema de cómo se mintean estos proyectos, la rapidez, ¿no? En la que puede agarrar tracción una una moneda o un token si lo ven en el top 2, top 3. La verdad es que éramos pocos, o sea, relativamente los que estábamos haciendo ruido con el Mexico, en el otro, éramos pocos, pero estamos haciendo un chingo de ruido, chingo de ruido, ¿no? Y chingos de actividad, chingos de transacciones, y eso lo hizo que, o sea, me he puesto a ver a la gente que está alistando el toque, que lo ha comprado. O sea, y salen todos lados del mundo comprando y vendiendo el Mexi, y el otro, y la madre, y los otros, y el x, y yo qué, oiga, loco, o sea, este Pues, los 2
+
+[Speaker 1 - 02:55:03]
+gringos Mexi en el Discord, querían la wireless del sub 80 k. Y yo dije mierda, si o sea, si solo se habló en el mercado hispano. Y ya ver eso como que 1 dice, o sea, sí ha llegado lejos, lejos.
+
+[Speaker 4 - 02:55:18]
+Sí, la verdad todo, ayer despidieron mucho el seguidor de de de de Vips, este, porque, pues, traíamos muchos temas. Hoy hablaré de eso en los espacios. Hay muchas broncas aquí en la comunidad que hay que resolver y y yo he cometido muchos errores, pero bueno, ahí voy aprendiendo. Pero pero sí, sí, este, si agarro tracción en otros lados, ya me empezaron a mandar DMs de de proyectos de Solana con los que he estado por ahí conviviendo desde hace rato y y me y preguntándome, ¿qué peda? Cuéntame. Yo madre, no, pues, ya tenemos que ser este, yo creo que ya vamos a tener que ser rápido una paginita, contenido un poquito más entendible, que la gente pueda leer, el arte lo tenemos que definir, mañana tengo reunión con notas y con con Caro, o sea, hay un torre de cosas que estamos moviendo, pero pero sí, esa atracción inicial, ese ese ese ruidito que quería hacer me me volvió a la cabeza el el poder de de de de poca gente, siendo un verdo de ruido, neta. Este, sí está chido.
+
+[Speaker 4 - 02:56:19]
+Y hay muchas narrativas ahorita, ¿no? Está están muchos estamos moviéndose cada cada quien trae sus proyectos, está chingón que nos podamos enfocar y que la gente se enfoque en lo que está construyendo. Pero algo yo que que que sí, este, empujo mucho es, prueben, prueben la tecnología, prueben qué qué qué qué qué herramienta van a utilizar para lanzar sus cosas antes de lanzarlas, ¿no? No se vayan como el Borras, ¿no? Este, como orden town sin haber probado las cosas, sin haber en realidad entendido cómo funcionan las wallets, los lunch pads, el marketplace. O sea, yo por eso me gustó mucho esto, porque es gratuito, es gratis. A nadie le estoy cobrando un solo peso. Y cuando yo le empiece a decir a la gente, sí, yo ya voy a empezar a cobrar por por por vender espacios publicitarios en mis en mis en mis canales, güey, les voy a decir, me vale, yo regalé esos toques, o sea, yo puedo hacer lo que quiera con ellos, fueron regalos. Este, y no tanto regalos, porque sí hubo un un un un un proof of fork de la gente, ¿no?
+
+[Speaker 4 - 02:57:23]
+La gente tenía que postear, y el el sub 80 que postear más de 100000 veces, el otro más de 20000 veces, y y quiero lanzar un token que se necesite, bueno, ya lo lancé. Este, lancé el token, el el el hongo, el hongo es mío también, el honguito rojo. Entonces, ese le puse, que se tenía que mintear creo que 20, como 200000 veces o más, ya no me acuerdo. Ahorita lo checo. Pero pero sí, sí quiero quiero lanzar un token y hacer un ruido, pero que necesiten 1000000 de post para que sea mentado, cosas así. Este, mental, cosas así. Este, y empezar a experimentar, seguir experimentando.
+
+[Speaker 1 - 02:58:04]
+No, esto está superinteresante, Mex. Y otra cosa importante es que, como está en la plataforma, no hay manera como que digan, hey, los va a robar, o o va a ser un Rootball, 000 se va a sacar la liquidez.
+
+[Speaker 13 - 02:58:17]
+Dani, gracias por por el tránsito. Un dragoncito, te lo agradezco. Ahorita te mando un poquito de beef.
+
+[Speaker 4 - 02:58:27]
+Está bien. Oye, Johnny, nada más una duda, está chingón que se pueda llegar a utilizar esto para la dinámica o la la lo que sucedía allá en Venezuela. Pero ay güey, o sea, si estamos minteando, si estamos transfiriendo y estamos tratando de apoyar contratos, si no aparecen, o sea, ya no sirven, ¿no? O sea, tiene que mejorar muchísimo todavía esto para que en realidad cada post lo detecten YYY lo indexen y aparezca y lo podamos trackear, etcétera, ¿no? O sea, que sepamos si pasó o no. Es algo que que que que no está funcionando todavía bien, entonces bueno, ahí le falta mejor a veces. Sí,
+
+[Speaker 2 - 02:59:06]
+es que allí la la trazabilidad y la la prueba, la verdadera la verdadera prueba está en si está en el contrato o no está en el contrato. Porque bueno, eso sería como imprimir los mismos papelitos que ellos estaban imprimiendo, que trajeron muchos problemas y pero pero inicialmente resolvió el problema, ¿verdad? Hoy están soluciones mucho avanzando mucho más rápido, sí es cierto, pero ¿cómo caemos en que cada que cada distribución de dinero o valor tenga una forma de comprobación que todos nosotros estemos conscientes de mira, esto está bueno y esto está no? Como cuando tú no sabes si si esto es de una marca o no lo es, si es de mira, es que yo tengo una cartera Gucci y es de marca. ¿Cómo reconoces si verdaderamente está allí, si eso tiene valor o no lo tiene porque está? Porque tiene valor en el momento en el que tú lo inscribes, tiene valor para ti. Ahora que tú convenzas al resto de que tiene valor para la comunidad, la forma en la que tú le das valor aguas afuera es otro tema.
+
+[Speaker 2 - 03:00:09]
+Pero que ciertamente tenga valor dentro de la red para que la gente pueda comprobar que existe, ese es otro punto, o sea, es toda un es todo un caso. Es sumamente emocionante estar viviendo esto, porque ahí te te puedes poner creativo.
+
+[Speaker 4 - 03:00:27]
+Sí, justo estoy viendo estoy viendo ahorita todo el el el el ya ya me aparecieron muchos movimientos. Por ejemplo, traté de mentir el arcoiris, ya estaba separado, traté de mentir. La piña, tengo la piña, ¿ok? El changuito, el no pude. La mamila, también tengo la mamila, el ojito no lo tengo, México no lo tengo, la bandera roja no la tengo, el unicornio, ay no, tampoco. La montaña, agarré la montaña. Agarré también, ¿saben cuál? Two Girls one cup. Ok, este, ya estoy haciendo combinaciones de 2 emojis también, a ver qué pedo.
+
+[Speaker 13 - 03:01:13]
+Ah, no, pero no es scoop, es una sopa. Bueno, está raro, ahorita Claro que está el busy también con los emojis es Cross. Cross me di cuenta que está lanzando ahí no los emojis. Ese está el busy también con eso.
+
+[Speaker 2 - 03:01:27]
+No, yo a todas ustedes les quité las notificaciones. Yo le tenía notificaciones a todos y se las quité para el carajo, porque entonces estoy en una llamada y lo único que me aparece es esa vaina. Ayer tenía una llamada de trabajo y ese teléfono lo único que me mostraba es XRC, XRC, XRC y la y las notificaciones así apareciendo en el teléfono y yo decía ¿que de qué me estoy perdiendo? ¿Qué están haciendo estos carajos? ¿Qué apareció nuevo? ¿Qué nuevo qué novedad hay? Y en una reunión de negocios, o sea, plata, gente, y yo estaba mirando el teléfono, eso es injusto, eso no puede ser, no puede ser, no podemos seguir así.
+
+[Speaker 4 - 03:02:03]
+Sí, está cabrón, sí está cabrón. Yo yo sí he filtrado mucho las notificaciones y y sigo teniendo muchas, pero lo que no tengo es el aviso en el celular, o sea, ni de nada, nada. Borré, quité todo, todo, todo, WhatsApp, x, Insta, Tito, que me meto muy poco, pero también de repente me meto. Sí me aparecen ahí que tengo comentarios y tengo, o sea, me parece numerito, pero no me prende la pantalla, ni me hace ruido, este, ni el WhatsApp, ni el de mi vieja, la verdad, nada. Este, neta, está cabrón, sí, el el se llama la atención es, digo que hay que cuidar un chingo y y bloquear o motear, o sea, yo creo que yo creo que sí, sí hay que motear mucha gente, hay que quitar muchas notificaciones, este, hay que cuidar nuestro tiempo, es súper valioso y y sí lo perdemos con con cosas que no. Y y no es que sean scams o que sean fraudes, sino que simplemente, pues, hay que enfocarse en lo que 1 trae.
+
+[Speaker 4 - 03:03:04]
+Este,
+
+[Speaker 1 - 03:03:06]
+es efectivo.
+
+[Speaker 4 - 03:03:07]
+Yo creo que hay que ser más cuidadoso con y celoso con nuestros tiempos y nuestros nuestra tradición. Mexis,
+
+[Speaker 2 - 03:03:16]
+por cierto que te va, ahora que mencionaste que tienes Tik Tok, estamos pensando hacer una dinámica en Tik Tok, a ver si atraemos un poco de atención allá, de atención bien dirigida, o sea dirigida, porque ahí lo que ves puro escama, ahí lo que hablan es puro los líderes son gente que lo que ofrecen son escams y y entiendo que la gente lo que está buscando es eso, pero pienso que deberíamos organizarnos para poder atraer más gente a estas conversaciones allá, que hay también un público y que el algoritmo también es bien eficaz para para para las dinámicas de movimiento de de gente, de actividad.
+
+[Speaker 1 - 03:04:00]
+Polio, Polio, cuidado que yo intenté crear un Instagram, ¿no? Como para compartir el contenido de, pues, de lo que se está hablando ahí de de los contratos de NFTs, de cripto en general, como el como el el libro de paso a paso para para entrar al mundo cripto. Pero no me tocó me tocó desertar porque, la verdad, te escriben un montón de DMs, te mandan un poco de links, te tratan de de hackear todo el, o sea, es súper duro, súper duro. Lo intenté en Instagram, me pareció, o sea, súper duro porque te escriben un montón de DMs, te mandan un montón de links, te preguntan que es inversionista, que quiero invertir en ti, que tengo esto, que, o sea, es supercomplejo.
+
+[Speaker 0 - 03:04:51]
+Yo
+
+[Speaker 4 - 03:04:54]
+jaló, yo jaló. Sí, yo yo yo me monto allá, para lo que traigan. No sé qué día traigan para lo de TikTok, pero, este, sí, sí creo que tengo que regresar un poquito más a hacer más continuidad y a ver qué qué jalamos para este lado.
+
+[Speaker 2 - 03:05:13]
+Sí, yo creo que también TikTok tiene un poco de eso, Dani, que tú estabas comentando, porque, como te dije me empiezan a seguir la misma cuenta y cuando vas son 10 cuentas diferentes con el mismo el mismo PFP, con la misma estructura, con cuando vas a hacer sus vídeos son los mismos vídeos, entonces parece una estrategia de spam y el problema de esos spammers es que yo no sé si el algoritmo reconoce que cuando ellos te siguen o ellos interactúan con tu contenido también te ven como spammer a ti, entonces es un temazo, pero los life creo que son muy poderosos y bien interesantes y allí los spammer pues se pueden mantener a raya, ahí la gente verá si le interesa quedarse escuchando el contenido o no, pero considero que deberíamos funcionar más como más gente movido hacia hacia allá, hacia compartir contenido allá. Pero el live, No creo que los videos funcionen tan bien hasta que no haya más bien un un algoritmo limpio con el contenido dirigido allá, que no venga tanto spam.
+
+[Speaker 4 - 03:06:32]
+No, de acuerdo, de acuerdo, sí. Este, yo he pensado en hacer algo así con eso de los XRC Veintes allá. No he visto movimiento, la verdad tampoco he buscado así mucho, mucho. Pero sí sí sí le voy a dar una una buena revisada porque hacemos el So,
+
+[Speaker 13 - 03:06:53]
+Mexi, so, ahora estoy en deployee, ¿verdad? Ahora estoy en lugar de esto lo están escuchando el botón azul, estoy leyendo. El de initi supply, ¿tú qué opinas? Si son 21000000, si 1 de initi supply le da al deployer, ¿qué cantidad tú tú crees? ¿10 por 105 por 100?
+
+[Speaker 2 - 03:07:23]
+¿También tiene o también?
+
+[Speaker 1 - 03:07:26]
+No, creo que me está como ocupado. Pues lo que yo les decía es relativo, ¿no? Y también el fin del token. Yo creo yo creo que que depende como de 1 y para lo que quiera su token.
+
+[Speaker 4 - 03:07:53]
+Pero a mí me gustó a mí me gustó mucho mucho mucho el el el A mí me gustó mucho que fuera, aquí ando, están alistándose a aparecer
+
+[Speaker 13 - 03:08:08]
+las un campito de la bicicleta, anda en la bicicleta de montaña aquí los chaparro.
+
+[Speaker 4 - 03:08:13]
+Me gustó mucho que fuera totalmente libre. O sea, que no hubiera una distribución inicial en los primeros tokens que lancé. En los emojis que estoy lanzando, sí les estoy reclamando yo todo, el inventario, también para hacer varias pruebas. Y he visto que algunos están poniendo, por ejemplo, de 22000000 para ellos. También válido, ¿no? Pero el pedo es que ahorita no hay tanta transparencia de cuánto se mintió, y si borras los los tweets de deploye, también pierdes ese historial. Entonces, ya que veamos el el el explorador un poquito más completo con transacciones, con con todo el la información, creo que creo que me va a dar mucha más info. Pero ahorita, sí, sí, justamente lo que decía, depende mucho para que lo vayan a usar. O sea, mi narrativa de voy a vender mis espacios y voy a vender minutos de chileo y voy a vender a lo mejor accesos a al hub acá a Monterrey, para mi narrativa me ayuda muchísimo más que yo no mintía más que, o sea, lo lo que pude.
+
+[Speaker 4 - 03:09:16]
+Igual que cualquier otro, ¿no? No tuve ventaja sobre nadie. Entonces, ¿qué es lo que estoy haciendo para para para recuperar ese token? Pues cobrar en ese token, ¿no? Ya vendí varios white list, este, subastamos el otro día white list también con con con esos tokens. Y finalmente lo que estoy haciendo es subcontratando o delegando la el minteo a alguien más, ¿no? O sea, que alguien más haga la chamba y yo le pago por haber hecho esa chamba. O le ofrezco algo a a cambio de de de esa chamba que hicieron, ¿no? De de haber posteado y de haber reclamado. Todo es narrativa, todo es mama y todo es utilidad futura. Entonces, depende para para el uso que tú le quieras dar al token, qué cuál es la mejor narrativa y qué es lo que más te ayuda. Miren, nada más ahí viene ahí viene Mister Croft, bienvenido Croft, otro Super Bowl en los XRC veintes. ¿Cómo te ha ido? Ya vi que estás barriendo el piso de bobo, ya tiene volumencito.
+
+[Speaker 4 - 03:10:17]
+Hay que ser mintado primero, güey, antes de comprar. Aunque bueno, también ayuda, también ayuda a subir el volumen, para que luego tengamos por ahí varios tokens latinos con con con el sello azulito de más de un Ether. Ese es el objetivo, ese es el objetivo, ¿no? Creo yo. El objetivo de cualquier lanzamiento de esos, pues es que suban de volumen. Se puede hacer muy fácil haciendo butch trading, pagando un 2 por 100. Yo si, listo, un token en un Ether y lo compro yo mismo, pues le voy a volver a subir el volumen a mi token. Pero obviamente se va va va a aparecer ahí en el en el en el historial. Y eso es wash trading. Y le voy a tener que pagar 2 por 100 a la plataforma por la comisión. Entonces, o sea, hay muchas cosas de hay muchas maneras de de de de de jugar con el sistema YYY hacer cosas que parecen buenas, pero en realidad no son tan buenas. Pero quién chingados definitivamente tiene lo bueno a ti, ¿no? O sea, por ejemplo, yo ya estoy buscando y estoy, este, empujando a varios amigos para que me vayan a barrer los pisos.
+
+[Speaker 4 - 03:11:24]
+Cosas así se pueden hacer. Este, no sé qué tan ética sea, pero pues bueno, yo lo voy a platicar y voy a ser muy transparente y les iré contando lo que vamos a hacer. Porque algo que me he dado cuenta es que esto salió de un día para otro, agarró otra accioncita, y el que no se montó en ese momento y no tuvo la idea o la iniciativa de pivotear sobre cualquier otra cosa que estuviera haciendo y dedicarle atención a esto, pues se perdió a lo mejor la bola inicial, ¿no? Este, eso es algo así super rápido y super mamón. Kroof, bienvenido, ¿cómo andas? Hola.
+
+[Speaker 15 - 03:12:04]
+Por por vuestra culpa volví AAA desplegar y a limpiar. Ya me había olvidado de esto, pero volví a spamear. Mira, hay un juego muy interesante que son los techonomics. Ahora, también voy a decir, la gente que abre espacios, su token tiene valor. Para mí, el token de de supply entero de Messi vale más de 2000000. Y entonces, lo que hizo Messi está muy bien, porque todo el mundo podía, hubo muchísimos mint, y eso hace que llegue. Pero es que aquí hay un problema que es como cuando bloqueas un dominio. Lo bloqueas para que alguien no lo coja y no haga nada chungo con él y tal. Entonces, el hecho de mintear todo para ti si después sabes hacer una distribución, te puede dar muchísima publicidad, muchísima publicidad. Luego, un grupo de personas pueden puntear varios de estos tokens dándole valor con juegos bastante sencillos, que ahora como estamos con lo de Buff Buff, pues vamos a concentrarnos en pero todo el mundo que vaya haciendo sus tokens, que vaya jugando con la con con el tokenomics, y luego después abriremos espacios, espero con vosotros, abrir espacios para dar estrategias de cómo dar valor y tal.
+
+[Speaker 15 - 03:13:31]
+En principio, para que os hagáis una idea, ¿cómo puedo dar yo valor a la colección de Dominique's? Pues haciendo collares para perros. Yo soy artesano, no no no vendo ese producto, pero sí hice un un collar para el perro de casa y tengo todas las plantillas. O sea, yo trato la madera y el cuero los trato con láser, no no los corto a mano. Y puedo, por ejemplo, decir, bueno, pues, el que me dé tiene 2 collares con personalizados para su perro o para los perros que tenga en casa o para tal, o la gente después que tenga el el NFT, pues puede comprar collares y revenderlos. El que no lo tiene no puede comprar un collar personalizado, no sé, se puede hacer muchas cosas. Entonces, esto de las RS 20, cada 1 que pruebe sus cositas, por probar no pasa nada. Yo, la mayoría de los que tengo son para para intercambiarlos, son para jugar con ellos, son para desplegar estrategias.
+
+[Speaker 15 - 03:14:39]
+Desplegué una estrategia con 1 que es Leticia, que tengo el el dominio NCT y varios dominios, que esos valían 5000 dólares. Y como ese nombre, Letizia con z, que es la reina de España, no estaba catalogado algún como un nombre, yo lo compré por 20 euros. Bueno, entonces, os animo a que concentréis mucho en en todo lo que está pasando con budinars, que no tengáis prisa porque estos tokens adquieran valor ya, porque si se sabe hacer lo van a adquirir. La gente, como Messi, o sea, yo tengo no sé cuántos meses tengo, pero si quiero, si tengo algo que decir en ese espacio y y le tengo que dar 10000 meses a cambio, pues me parece justo, me parece muy justo. O sea, el de bobo yo lo desplegué y si bobo lo acepta como como tal, pues hay mucho bobo para distribuir en los espacios, para irlo dando.
+
+[Speaker 15 - 03:15:41]
+El de Shakira lo desplegó, no sé quién y lo minté yo entero porque puso el límite en veintiuno 21000000, y lo minté varias veces, vi que nadie lo mintaba y lo terminé de meter. ¿Qué qué pasa con el de Shakira? El de Shakira puede tener muchísimo valor, muchísimo valor. Yo sé cómo jugar con eso, Pero primero quiero distribuirlo, primero primero quiero dar dar los tokens tokens a los otros. No quiero manifestar la la conversación, pero os digo que hay juegos de tokenomics muy interesantes y que yo no tengo problema ninguno en compartirlos. No tengo problema ninguno en compartir en compartir mis estrategias, pues si funcionan para otras, van a funcionar para mí. Y además, si alguien miltea algo que le parece interesante o deploya algo, yo lo milteo, no tengo problema ninguno.
+
+[Speaker 15 - 03:16:41]
+O sea, el de Messi ya vi que iba a tener mucho futuro, por eso hice el de Bobo. El que no va a tener mucho futuro es el de Kroos, que lo deployó al señor Pepe. Pero ese no es mi de Cristo. No pasa nada. No pasa nada. Yo tengo algunos que están listados por más de un ethereum y no los de usted yo. ¿Eh? Algunos lo de usted yo también. Creo que Zibo se quedó 50, ¿sabéis dar algo de eso?
+
+[Speaker 4 - 03:17:16]
+¿Quién, quién, quién? Zibo. Ah, la madre no sabía. ¿Qué se supone? ¿O tiene espacio a las 9?
+
+[Speaker 15 - 03:17:24]
+Es que no sé qué hora tenéis ahí, pero aquí el espacio de Zibo es a las 5 pm, son ahora las las 16
+
+[Speaker 2 - 03:17:34]
+18. A ustedes les queda brutal. De este lado, casi que todo que el el que el que está en espacio en estos espacios tiene que estar mientras está trabajando. En otra cosa.
+
+[Speaker 15 - 03:17:47]
+No, no, si yo trabajo las 24 horas y estoy aquí, casi las 24 horas. O sea, os lo digo en serio, me voy a cama y dejo los espacios entendidos por para dar apoyo, me levanto, lo primero que hago es, si hay algún espacio, pongo el teléfono en el espacio y hago cosas. Estoy trabajando en el taller y me acuesto todos los días después de las 4 de la madrugada, me levanto sobre las 7, a veces me me tomo una siesta después de comer, pero a esta hora estoy funcionando, a las 3 y media estoy funcionando, o sea, a esta hora estoy funcionando siempre también por la tarde, hasta las 4 de la mañana, 12 horas más, por culpa vuestra, por los horarios que tenéis. ¿Y por qué no me gustan los espacios de los españoles que parecen todos culipodos?
+
+[Speaker 2 - 03:18:38]
+Ay, perdón que tenía el micrófono abierto y no me di cuenta. Mira, este, dice el señor Pepe con la cara, allí arriba les acabo de pinear una, creo que esa dice ExaC cuenta oficial, ellos tuvieron que abrir otra cuenta, me dijo Dani esta mañana, y están hablando justamente de lo que veníamos hablando, están hablando sobre el los 5000000 de inscripciones, que van a mejorar, van a apoyar los activos insignia. Ellos van a también a a ofrecer, ay, ya va, espérate, que yo leí la vaina y no me no me no me da no me aparece ahora. Increciones indexadas con una base de usuarios global que incluye China y Estados Unidos, interesante. Ahora nos centramos en mejorar el valor de los activos de la insignia dorada utilizando esta influencia social, más transparencia y enlace en cadena.
+
+[Speaker 2 - 03:19:51]
+Esa gráfica está bien interesante. Ay, coño, no sé cómo quitar el Dani, ¿dónde andas?
+
+[Speaker 1 - 03:20:01]
+Aquí estoy escuchándolos.
+
+[Speaker 2 - 03:20:05]
+Yo te voy a dejar, me tengo que ir, me tengo que marchar. Tengan todos buen día. Les envío un abrazo.
+
+[Speaker 1 - 03:20:13]
+Dale, dale, lo mismo. Que tengas buen día, Honey. Gracias.
+
+[Speaker 2 - 03:20:16]
+Cuídense mucho. Chao.
+
+[Speaker 13 - 03:20:19]
+Chao, chao. Saludos, saludos.
+
+[Speaker 1 - 03:20:25]
+Pues interesante, y ya
+
+[Speaker 4 - 03:20:27]
+no tengo valor.
+
+[Speaker 1 - 03:20:28]
+Ah, espérate. Sí, venía el señor Pepe. ¿No?
+
+[Speaker 13 - 03:20:32]
+No, le iba a decir a Mexi que que cuándo va a hacer un live stream en en x, con disfrazado de changuito ahí, con su hory ahí que tiene, y para para entretenernos un rato y mandarle Mexi Mexi Tokens.
+
+[Speaker 4 - 03:20:50]
+Oye, esa es buena. Mira, ya me invitaron acá de Cohost. Déjame acepto la solicitud. Estoy a punto de comprar, estoy cerca de comprar. No me no me no me no me no he decidido, pero el disfraz de dragón que se puso Anatoli, este, yo creo que ese me lo voy a llevar AAA NSTNYC, allá allá te lo, nos tomamos una fotito, señor Pepe. Va a estar muy bueno, va a estar muy bueno este año, no mames. Pero sí, voy a, necesito empezar a experimentar con live streams. Por ahí también, mi mi 1 de mis hijos le gusta mucho mucho Link y Zelda, todos los juegos, y a mí también desde hace años los jugaba y y para a lo mejor hacemos algo de contenido de eso. Hay muchas ideas todavía que que que que queremos empezar ahora, que esté ya listo el el estudio que estamos preparando acá en Monterrey. Pero sí, el ifestreves es una de las cosas que que tengo que hacer para compartir pantalla.
+
+[Speaker 4 - 03:21:51]
+O sea, imagínese estas pláticas viendo la gente mintear o viendo qué token hay disponibles. Yo creo que sí se pondrían un poquito más interesantes, la verdad, viendo gráficas. Porque estoy seguro que al rato van a sacar gráficas de todos estos tokens, y van a sacar órdenes de mercado y futuros, y a lo mejor hasta sorteo, vete a saber qué chingados se van a inventar cuando miren a Arbitrum. Pero a como los veo, están están están muy activos y haciendo muchos cambios que creo que le van a ayudar mucho al sistema. Falta la la la la opción para quemarlos. Yo ahorita la manera en los que que los estoy quemando es mandándoselos a Elon Musk, ¿sí? Nada más una transferencia de Elon Musk. Pero ya hemos visto que eso luego no es tan tan tan chido para la moneda, pinche Vitalik. Le le llegaron a mandar un chico de tokens a Vitalik y, pues bueno, ahí los tenía, luego los acabó vendiendo y tumbó el precio poco.
+
+[Speaker 4 - 03:22:55]
+Entonces, ahí cae, hay que ver ahí cómo se manejan varias cosas. Pero sí, definitivamente para experimentar con Tokenomics, para empezar a entender un poquito de de cómo funcionan los free minds, de cómo se se vuelve algo viral, hasta dónde llega. YYY las personas que luego se meten a utilizar estos sistemas sí es una un experimento bien bien chingón. Me gusta más, por ejemplo, distribuir berenjenas, voy a empezar a distribuir berenjenas en mis espacios, o mamilas, este, tortillas o Sí, ahí te mando unas berenjenas, este, unos pepinazos de esos así. Gordos, gruesos, morados, este, tengo también ahí el el el de Two Girls One Cup, este, la Montañita, o sea, se puede memificar mucho esto, ¿no? Y y la idea, pues, es, este, empezar a explorar. Croft Croft trae trae trae muy buenas ideas de cómo por dónde puede llegar a terminar este show. Está chido, está chido.
+
+[Speaker 4 - 03:23:56]
+La neta sí sí está chido. La estoy divirtiendo.
+
+[Speaker 15 - 03:24:03]
+A ver, la única inconveniente que tiene, perdón por por abrir sin levantar la mano, es que x haga un protocolo que lo sustituya, ¿sabes? Que haga algo que con más valor y y que sea el token de x, pero es muy difícil tumbar ya esto porque, ya os digo, si tú aceptas tu token en tus en tus espacios, yo voy a querer ese token, o sea, siempre va a haber quién lo quiera. Y además está distribuido. Hay mucha gente que se va a beneficiar de ese token que que tú distribuiste de forma gratuita. Entonces, no cames tokens, no no tiene sentido quemar tokens. Para quemar tokens creas una cuenta que no existe, ¿sabes? Si la cierras y tiras la llave, entonces, sí, tiras la contraseña, tienes una forma de recuperarla, pero una cuenta de quemado de tu token.
+
+[Speaker 15 - 03:25:14]
+Ya le pones ese nombre, quemado mes. Y así puede ser que la gente confíe que tú no tienes las claves de eso, tal, pero enviárselos a él un más, él un más puede decir, bueno, entonces, se los envío a este a este, bueno, a un negrito o a un chinito o a un esquimal y hará lo que quiera con ellos. No. Entonces, no es no es una garantía enviar tal. Mira, os voy a dar una idea. Enviarlos a las casas de la moneda, ¿vale? Envía un token a la casa de la moneda, a ver qué hace el community manager, Manuel. A ver, Ángel, ¿tú das eso?
+
+[Speaker 1 - 03:26:05]
+Hay muchas hay muchas cosas, ¿no? Hay muchas cosas que pueden hacerte acá. No sé si cada quien pueda crear su su pool de liquidez, no sé si ya ellos estén dando ellos mismos en liquidez, o sea, depende. ¿Por qué? Porque cada 1 puede hacer ir haciendo y probando, no sabemos que venga, como esto, por decir, de los emojis, nació acá, la dinámica que cada 1 le esté dando, también es interesante, por lo menos, no sé, estoy especulando, estoy asumiendo, yo pienso que va a haber un airdrop, pienso que van a venir más cosas, es bueno que igual interactúen, no sabemos qué pueda venir, ahorita vi, es como estaba mirando el tema de los de los de los de los coins que subieron en la bajada de todo esto, Arbitrum subió mucho, pónganle un ojo a esto, Arbitrum subió mucho, sobrepasó su All Tan High estando en, imagínense, en el mercado como estamos, ayer estuvo en rojo, y también vi un deck, bueno, realmente se puede hacer trading, se llama vela, vela, vela Exchange, tú puedes hacer shorts, puedes hacer longs, hasta de 200 x, lo estaba leyendo, lo haces de manera, pues, descentralizada.
+
+[Speaker 1 - 03:27:25]
+Como también el token de ellos subió, pues, no sé si están detrás, no sé si se si vayan hacia lo mismo, pero está interesante, sí está interesante, yo pienso que el supply depende de lo que 1 quiera hacer, de la dinámica, de la narrativa que quiera crear, si tú te quieres quedar con tus tokens, si quieres quemar unos, si quieres transferir. La dinámica es muy interesante y de aquí pueden hacer muchas cosas. Es gratis, o sea, ¿por qué no intentarlo? ¿Es gratis? ¿Por qué no hacerlo? Yo me me, o sea, me entró el fomo de conectar mi wallet por el mismo tema que pienso del airdrop, si te llegan a dar un airdrop en airdrop season, esto se va a activar, con el dinero del airdrop pueden empezar a comprar a lo mejor tus tokens, pueden crear, no sé, un un liquidity pool con el token de pronto nativo que vayan a dar ellos, bueno, qué se yo, puede ser Dogecoin, pueden implementar Dogecoin como, o sea, especulando ¿no?
+
+[Speaker 1 - 03:28:33]
+Puede ser Arbitrum, o sea, no sabemos ¿no? Por alguna razón lo están corriendo en en Arbitrum, Bueno, son muchas teorías que pero digo inténtenlo.
+
+[Speaker 4 - 03:28:48]
+A Irene, muy probablemente Arbitrum les haya dado un grano. O sea, para que lo pongan tan público el logo y el branding de todo, muy probablemente tengan un gran choncho de Arbitrum. Sé que Arbitrum está dando grandes grandotes para gente que está distribuyendo cosas. También algo que he visto, muchos de los meets y de las compras muy probablemente sean bots, muy probablemente del mismo protocolo. Eso no lo podemos descartar. Mucho de la actividad puede ser wash trading de ellos mismos, mucha actividad. ¿Por qué? Porque pagan comisiones mínimas. O sea, cada compra, si las cuentas de Twitter, si si TweetScription tiene 1000 cuentas de Twitter haciendo mails, haciendo deploys y comprando y vendiendo y generando volumen, solo están pagando gas, la la la el el precio del token se va para ellos mismos. Y los 2 y el 2 por 100 de comisión se va para ellos mismos. Entonces solo están pagando 15 centavos por cada transacción.
+
+[Speaker 4 - 03:29:48]
+Y si de pura casualidad levantaron 1000000 de dólares, eso es eso es bala. O sea, eso eso es eso es nada, ¿no? Para una empresa que a lo mejor levantó 6, 10, 20000000 de dólares y se desarrollar algo así. Entonces, tengan mucho cuidado también. Puede que haya mucho west trading, puede que sean bots los que estén comprando de la misma plataforma y de otras plataformas, que luego empiezan a encontrarle una maña a este tema y empiezan a formar liquidez poco a poco. De nuevo, cada transacción vale centavos. Entonces, pues no descartaría que en algún momento pueda ser algo así, que podamos llegar a rastrear quiénes eran bots, quiénes eran de quién. Pero, pues todo depende si nos dan el Blockchain Explorer completo, ¿no? Y recordemos que ellos están manejando el indexer como se les antoja, y te van a desplegar la información que se les antoje, ¿no? También es algo que hay que considerar. No lo podemos descartar, y hay que tenerlo en mente cuando estamos con estas
+
+[Speaker 1 - 03:30:58]
+plataformas. Sí, igual también el poder, el control de la cuenta. Si te bloquean tu cuenta, probablemente te bloqueen los tokens, pienso yo, o sea, si te quita la cuenta, si tienes muchos, pues perdiste tus tokens y chao, o sea, si te metiste mucha liquidez, no sé, y ya después te bloquean, pues no vas a poder sacar tus tokens, entonces todas esas cosas son como, como les decía, yo al momento no he no he conectado la wallet, no he comprado, no he vendido, lo pienso hacer hoy o mañana y contarles pues cómo ya realmente es haciendo el experimento, sé que Mau ya pues lo que les decía, de 0 a 4000 dólares solo con este jueguito, y en cripto esto se debe mucho, ustedes saben el meme, pero lo que dice Mexi es muy cierto con precaución, pilas a cualquier DM, que si mándame esto, que te tengo esto, que te estoy a la venta, que over the counter, que, pues este tema apenas está empezando. Sí se escucha mucho entre nosotros, pero la la realidad es que es muy nuevo, no no mucha gente tampoco, es que sepa sepa el tema, siempre, pues, con cuidado, pero sí inténtenlo, yo les digo algo, inténtenlo, interactúen, miren, Puede llegar un buen airdrop, no sabemos, puede llegar, sí, lo que dice Mexi también es cierto, tuvieron que haber inyectado un buen capital ellos porque están saliendo en todo lado y y, pues, mira dónde llegó la gente, la gente está pompeando durísimo árbitro, me están.
+
+[Speaker 1 - 03:32:28]
+Se están dando a conocer mucha gente aquí que lleva tiempo, ni siquiera a lo mejor conocía de de este ecosistema y lo están conociendo, y están descargando la la wallet, ¿ya vieron el pico de las transacciones que le envié? Sí sí movían, no les digo que no, sí mueve transacciones, pero así como como esta mañana, o sea, la verdad, y entonces, pues ver bien y probar, y aquí cualquier pregunta, cualquier cosa que que tengamos, tratar de entre nosotros, pues, resolverla.
+
+[Speaker 4 - 03:33:27]
+Yo yo ya me tengo que retirar. Nos vemos a las 12, por ahí va a estar buenas buscadas al rato. Vamos a hablar de, pues, están pasando acá en la comunidad ¿Y cuánto tiempo es Mexen? ¿En una? No,
+
+[Speaker 16 - 03:33:39]
+en
+
+[Speaker 4 - 03:33:40]
+2 horas y media. 2 horas y media.
+
+[Speaker 1 - 03:33:42]
+Horas y media. Listo, sí, yo yo le ya le vamos a le vamos a rulear aquí, chicos. Igual gracias a todos por por venir, tengan un guía. Junto con ustedes, un abrazo a todos, saludos, buen día, que estén bien.

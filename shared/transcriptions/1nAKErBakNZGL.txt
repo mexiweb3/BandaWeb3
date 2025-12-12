@@ -1,0 +1,299 @@
+================================================================================
+INFORMACIÓN DEL EPISODIO
+================================================================================
+Episodio: #20230310-2
+Título: NFTs en Bitcoin .sats y el nuevo BRC-20 Tokens fungibles
+Fecha: 2023-03-10
+Host: @fservin
+Tipo: co-hosted
+
+Descripción:
+Co-hosted Space: NFTs en Bitcoin .sats y el nuevo BRC-20 Tokens fungibles. Host: @fservin
+
+Duración: 01:07:00
+Escuchas: 95
+
+Links:
+  Space: https://x.com/i/spaces/1nAKErBakNZGL
+  Dashboard: https://spacesdashboard.com/space/1nAKErBakNZGL/nfts-en-bitcoin-sats-y-el-nuevo-brc-20-tokens-fungibles
+
+================================================================================
+TRANSCRIPCIÓN
+================================================================================
+
+
+[Speaker 0 - 00:01:49]
+Como conexión, y también yo
+
+[Speaker 1 - 00:02:30]
+¿Ahí cómo cómo me escuchan? ¿Mejorcito?
+
+[Speaker 0 - 00:02:35]
+Ándale, ahí.
+
+[Speaker 2 - 00:02:36]
+Con micrófono, este, el gato.
+
+[Speaker 1 - 00:02:42]
+Al 100, al 100, güey. Ya ya ya conecté aquí el equipo Pro Consure, ya estamos. No, hombre, son 2.
+
+[Speaker 2 - 00:02:50]
+Te te moviste Mike Luchi.
+
+[Speaker 1 - 00:02:53]
+Al lado del server y pegadito para que jale bien la conexión. Ya está. ¿Cómo andas, Baigo? ¿Me escuchas? Perdimos el Bairo. Sí, no, nada. No se mueve ahí el el licuelito. Si quieres, este, se vete otra vez, por este plano, nada. El día de largo, bienvenidos. Jaca Labs por acá, este, Jorge, Ana, o el señor Jaca no sé quién anda por acá pero bienvenidos. Abraham, Rots y el buen Peco. Pues muy bien yo creo que con estos con esos empezamos. Al único que no tenemos lista es a esa Byron. De si quieres, este, bajarte y subirte, güey. Porque nada, no tenemos nada de señal.
+
+[Speaker 0 - 00:03:49]
+Pues muy bien. Pero sí le sabe, ¿eh? No le sabe, o nomás le pega a la mamada. Pues hace memes, güey, pero no sé si en verdad le sabe.
+
+[Speaker 1 - 00:03:58]
+No, está
+
+[Speaker 0 - 00:04:01]
+bien, está bien. Qué padre, dime, ven que tú, Byron, no te oigo, no te oigo, Byron.
+
+[Speaker 1 - 00:04:08]
+Te invitamos para que pusieras aquí las músicas apapachosas y para ponernos acá como como los expertos de de Anana y Mexi, ¿no? Pero nos falló, nos falló aquí el productor. Una disculpa, señores. Muy bien, este, gracias por asistir. El intro es es sencillo o sea se se me ocurrió hacer este space porque están moviendo muy rápido las cosas y de la última vez que platiqué con algunas de las algunos de ustedes no van ni una semana y han pasado un montón de cosas del tema este bitcoin, eh ordinauts y NFTs, ¿No? Y creo que muchos de nosotros somos gran fan de del tema de bitcoin y lo que está pasando con con las inscripciones, pero también tenemos pues conocimiento disperso entonces un poquito este space es para ponernos todos en la misma página contarle a los que no han escuchado nada de bitcoin y NFTs dónde está, ¿Cómo se ve?
+
+[Speaker 1 - 00:05:14]
+YYY pues en qué va técnicamente. El space es no es tan técnico pero sí vamos a a hacer un poquito de kick geek topics eh nos acompaña aquí papi Axie, este un bro que lleva ya un ratote en el tema de NFTs, a Di Jen, de diferentes diferentes Blockchain, y pues últimamente hemos andado ahí intercambiando conocimiento de de Bitcoinss. El buen Mexi que digo no necesita presentación. Es de los más activos en en la industria y para los que no lo conocen pues es es activista bitcoin, Diyen y y papá de de de muchos de aquí de nosotros en conocimiento NFT el buen Irving que anda empujando ahí eh iniciativas con Humanity y pues todo el tema de cómo llevar más más eh pues topics Blockchain a a programadores y convencer a gente común y corriente de que quizás el futuro está en el Blockchain.
+
+[Speaker 1 - 00:06:16]
+Y pues veo muchas caras conocidas. Gracias por venir. El tema está sencillo ¿No? Entonces vamos a estar haciendo preguntas. Empezamos desde abajo y nos vamos a la parte interesante. Entonces, se divide en 2 partes este space. La primera es, ¿qué es? ¿Cómo se come? ¿De qué va? Y la segunda parte es a dónde va. Spoilers, Vamos a hablar de los punto sats que son nombres de dominio encima de Blockchain encima de los ordinauts. O sea como los órdenes están desbloqueando domain name name en bitcoin. Y una muy muy muy interesante que acaba de pasar apenas hace unos días, que son lo la propuesta de armar tokens encima de bitcoin. Entonces, el spoiler ahí está bien fácil, se llama VRC 20, como el de Ethereum, pero se están comportando más como las moneditas de Solana.
+
+[Speaker 1 - 00:07:16]
+Entonces, para los que han visto los tacos, este, todo el tema de de las pues sí las monedas Solana que que andan por ahí como shipcoins algunas generando valor YYY gente lanzando moneditas a diestra y siniestra pues ahora bitcoin está abriendo la puerta para ese tipo de de monedas. Cualquiera de nosotros puede lanzarla, y aquí les vamos a dar el alfa de cómo cómo crear la suya. Entonces, pues yo yo creo que subo a a escenario Mexi, que es el el buenazo para contarnos de esta parte. Si tuvieras que explicarle a raza que nunca ha checado el tema de Ordinals y NFTs en bitcoin, ¿qué le dirías en un par de minutos, Mexi?
+
+[Speaker 0 - 00:08:12]
+Oye Felipe, no, primero gracias por el espacio. Está fregón que lo podamos juntar a discutir, a platicar, a ver puntos de vista, ¿no? Nadie es experto. Yo he estado investigando mucho el tema, pero por acá abajo veo a Alian, que también se ha metido mucho. Obviamente tú. De largo, pon mucha atención por favor, y tienes que entender lo que decimos. Porque todavía eres medio hater y hay que cambiar esa postura. Pero la verdad yo lo explicaría como un desarrollo tecnológico que está ahorita experimentando bitcoin, que permite subir información a la nube, subir información a la red, ¿no? Subir información a un a una cadena de bloques descentralizada que tienen 1000 y 1000 de computadoras, y que se van a quedar almacenadas por siempre. Y que estas inscripciones, o estos archivos, o estas bytes y bits, ¿no? Esta información que se sube a esta red, pues está de alguna forma, tiene un número consecutivo de acuerdo a la teoría ordinal que inventó Casey Rudnamore, ¿no?
+
+[Speaker 0 - 00:09:15]
+Casey Randamor es un desarrollador que se le ocurrió ponerle un ocurrió un esquema donde cada Satoshi, yo creo que tendríamos que irnos hasta atrás YYY explicar, ¿no? Que a lo mejor muchos no saben que cada bitcoin tiene 100000000 de Satoshis. Y cada Satoshi, de acuerdo a la teoría ordinaria, tiene un número consecutivo independiente de acuerdo a cómo fue creado. Entonces, de acuerdo a una tecnología nueva que inventaron o que se implementó en bitcoin hace un par de años, está Proot Segwit, se pueden llegar a subir información a estos Satoshis hasta asignarlo a un Satoshi que quede almacenado ahí por siempre. Y que como bitcoin tiene ciertas características, bueno, estas mismas inscripciones o satoshis las mantienen, ¿no? De poder transaccionar con ellas sin que nadie te lo prohíba, de poder enviarlas a donde quieras, cuando quieras, donde quieras, sin que nadie te diga un pero. Que en realidad tú seas el dueño de esto.
+
+[Speaker 0 - 00:10:16]
+Pero aquí hay una diferencia importante con otros NFTs donde la información está completamente arriba de de la cadena de bloques. Entonces no es un link que te lleva a otro lado externo, sino que está en la cadena. Yo creo que lo explicaría así. Finalmente esa información que se sube a la red de bitcoin, red de bitcoin la podríamos analizar a detalle y a lo mejor no es el tema. Pero ya que se sube una inscripción, ya nunca. Nadie la va a poder eliminar y va a estar ahí por siempre. Y hay una manera fácil de hacer esa trazabilidad de de quién es el dueño, de dónde se ha movido, cuándo se inventó ese satoshi, etcétera, etcétera. Entonces, esa es la tecnología que apenas estamos viendo cómo se desarrolla, lleva unos pocos meses, pero el uso, y creo yo, las posibilidades de de transformar muchas cosas es infinita, creo yo. Todavía no hemos visto ni ni ni tantito de lo que se va a empezar a desarrollar. Y, o sea, es algo que estamos viendo, ¿no?
+
+[Speaker 0 - 00:11:19]
+Cada día salen cosas nuevas. Ya sacaron lo de .sats, como tú decías. Y también ya salió lo de los tokens fungibles que todavía no acabo de comprender. Ahorita platicamos, estaría chingón entender. Pero es desarrollo en bitcoin que está ayudando a que se use mucho más la red, ¿no? Y eso creo que le ayuda mucho AAA todo
+
+[Speaker 1 - 00:11:42]
+cripto. Justo justo ahí, este, creo que es una parte importante mencionar, para los que vamos nuevos en el tema de NFTs o ya tenemos rato, Hay una gran diferencia, como dice Mexi, entre cómo funcionan los NFTs en redes en las que se han estado desarrollando mucho, ¿no? Este, Ethereum, Solana, Cardano fans, ¿no? Que también hay unos cardanos, o el el buen el buen Byron que es de lleno allá en ICP, que también hay NFTs, son bien feos, pero, pues, sí hay. Entonces, la diferencia es que casi todos esos blockchains guardan el NFT, la imagen y la metadata en otro lado. O sea, la mandan a un hosting web 3, se guardan por ahí un archivo que se llama Jason, que es la metadata, y dentro de ese archivo dice dónde está la imagen guardada? O sea, hay como 2 apuntadores, ¿no? El de la metadata y luego el de la imagen.
+
+[Speaker 1 - 00:12:44]
+Y todo eso se hace relación al NFT en, pues, en un campo, o sea, nada más dice, ¿dónde está la data? Allá, ve por ella. Sí está un chain, pero no está específicamente donde vive el registro de ese NFT. La diferencia con Bitcoin es que la data vive en ese registro, o sea, ahí mismo. Lo que lo hace, pues, inmutable, es decir, pues, ya que lo escribes, ya no lo puedes cambiar, ¿no? Como una transacción de de bitcoin. Y la otra es que, y parte interesante, es que la data vive justo en ese Satoshi. O sea, como si una una parte que me gusta mucho de cuando Mex lo explica, es como si tuviéramos, pues, monedas, este, un peso, ¿no? Si si están en México, un penny, si están en Estados Unidos, y a ese penny le lo firmamos ¿No? Le ponemos un dibujito, le ponemos barba a a ese monito al ponerle eso especial ya lo haces único, sigue siendo un penny, sigue siendo un peso pero ya trae algo extra, ¿no?
+
+[Speaker 1 - 00:13:53]
+Eso es, este, una manera bastante simplificada de explicar una inscripción. Y nada más para estar en el mismo glosario, los Ordinals son Satoshis, los satoshis hay 100000000 en en cada bitcoin, los ordinals simplemente son satoshis que traen orden, ¿no? Viene de de la parte de orden, los los cardinales son los números y los ordinales son los de primero, segundo, tercero. NFT como tal no es el ordinal. El NFT le llaman inscripciones. Porque estás escribiendo algo encima de ese orden. Entonces ya estamos ahí al principio. Todo bien, ya estamos todos al al mismo vuelo. Hay un tema aquí que es que pues no ha desarrollado o no ha habido tanto eh desarrollo últimamente apenas hasta ahorita de los orinals en el tema de marketplaces, lunch pats, va va muy nuevo. De los que has visto tú, papi Axie, ¿qué qué marketplaces o qué herramientas te ha gustado para para crear
+
+[Speaker 2 - 00:15:04]
+inscripciones? Creo que hay unas y gracias por quedarme aquí esta mañana. Buenos días a todos. Hay unas suaves que están fácil para la para el público general que pueden usar el que a mí se me hizo super simple. Ha sido el se llama gama punto yo. Está muy fácil, no te cobran este un premium o un precio además para inscribir. Nomás pagas lo que es el el costo de del tipo gas en bitcoin para inscribir lo que depende del del tamaño de de la imagen. Y este está super simple, le pones la imagen, te te lo inscribe y te llega ahí en la en la cartera, que hay diferentes carteras que puedes usar. Este, yo tengo mi nodo, so yo sigo inscribiendo ahí, pero para el al público generar gamas se me ha hecho súper simple a a términos de uso fácil para usar y para entender cómo cómo sirve con el con con lo que es la interface de del sitio web.
+
+[Speaker 1 - 00:16:10]
+Ya está, ya está. Entonces, no no es sponsor content, ¿no? Gamma, yo también lo probé, se ve chido. Este es paces, esta esta Exacto. Por Gamma.
+
+[Speaker 3 - 00:16:20]
+Este,
+
+[Speaker 1 - 00:16:22]
+estaría chingón ya tener listo, ah, no está nuestro sitio por acá, pero sería chingón ya tener listo nuestra nuestra versión beta de Ordinars en Nifter. No es presión. Alfred, si escuchas esta madre, pero ya la gente la anda pidiendo. Hablar de un nodo. ¿Qué tan difícil es montar un nodo? O sea, vale la pena montar un nodo. Le quería preguntar a Irwin, ¿vale la pena montar un nodo si soy un simple mortal y quiero hacer inscripciones en BitTwin?
+
+[Speaker 4 - 00:16:50]
+La respuesta, si eres un simple mortal, yo recomendaría una página, aunque siempre es bueno montar un un nodo para la resistencia a la red, pero para una persona que apenas va empezando, le pueda dar ansiedad, entonces, desde el desde una página que se pueda registrar fácil.
+
+[Speaker 1 - 00:17:08]
+Ya está, ya está. Este, yo yo traté de montar el el mío. Les cuento para los que vayan a intentarlo, hay hay un hack sencillo. La idea es que no lo hagan en su compu. O sea, si tienen chance, pidan una cuenta de estas de Amazon, de las AWS. Hay cuentas gratuitas, les dan cierto nivel de de crédito, pero son gratis. Montan un nodo de de tamaño mediano o grande, o sea, en un servidor large 000 mediano, y ahí hay ya repositorios donde puedes bajar servidores con el tema de bitcoin preinstalado. Entonces, por ahí está el hack. Montas ese, ya está preinstalado bitcoin, nada más le pides como, una vez que esté listo actualizar el el nodo para que baje las transacciones que que han pasado en los últimos días y ya teniendo eso bajan ordinals y montan ordinals. Hay 2 cosas complicadas de montar un nodo que nadie te dice allá afuera porque pues los los maxi de de bitcoin no comparten mucho de ese tipo de cosas porque no quieren que suceda.
+
+[Speaker 1 - 00:18:13]
+Es que sincronizar un nodo tarda muchísimo, hablamos de que tienes que bajar todas las transacciones que han existido en la historia de todas las transacciones que han existido en la historia de bitcoin, y luego sincronizar ordinals, haz es otra vez, ¿no? Tienes que indexar todas las transacciones que han existido en ordinals. Lo que quiere decir es que te estás aventando gigas y gigas de información a tu computadora, por eso no estás recomendado. Hasta que las bajes todas, técnicamente estás bajando todos los NFTs que se han creado encima de Ordinars a tu compu. Entonces va a tardar un montón, sí sirve para el tema de descentralización pero sí te vas a frustrar, o sea, definitivamente hay hay frustración. Pues bueno, antes de pasar a la parte interesante de los Sachs y de BRC 20 Este, no sé si aquí algún tenga una duda, quiere agregar algo. Mexi, los que nos están escuchando.
+
+[Speaker 1 - 00:19:15]
+Raymond, bienvenido. Si quieren pueden levantar la mano, se suben de speakers antes de pasar AAA la carnita. Si no, ya estamos. ¿Mexi? Ah, Irvin, échale.
+
+[Speaker 4 - 00:19:27]
+Ahí tengo una una una duda y, de hecho, también la la compartí en un grupo de de de bitcoin. ¿Ahí cuál es la diferencia de guardar chain contra YPFS? Ahorita, ¿ustedes han visto NFTs en bitcoin que guarden 1 URL de YPFS? ¿O cómo ven ese ese debate así para para ustedes?
+
+[Speaker 1 - 00:19:47]
+Esa está buena. YPFS es el hosting por defecto en Ethereum. Nosotros estamos haciendo pruebas, o sea, nosotros tenemos montados varios nodos. Una vez que ya montas un nodo, ya clonar ese servidor es muy fácil, y el tema es qué hacer con el pack a lo mejor. Y una de ellas es, pues, que no esté tan pesado los NFTs que guardas. Creemos que va a haber inscripciones estilo Ethereum, o sea, YPFS o AirWave o AirWave, como los de Solana, muy muy pronto. O sea, no no esperemos más de marzo a que suceda. Porque realmente es es nada más decirle al al bitcoin o al Satoshi, que allá está la data. El problema es que la gente que está desarrollando encima de Ordinous, sí es maxi de de bitcoin. De por sí ya están sufriendo con que no le metan basura a la red, ¿no?
+
+[Speaker 1 - 00:20:47]
+No le metan, este, imágenes pixeadas a mi a a mi red que es el futuro del dinero. Pero por otro lado no se ha hecho porque no hay ningún visualizador. O sea si alguien inscribe metadata hacia allá, hacia YPFS, y también se inventa un visualizador para checar qué hay dentro de de ese de esa referencia, yo creo que va a ser más sencillo. Entonces, aquí tratando de hablar el futuro, yo creo que van a pasar 2 cosas. 1, van a proponer que los satoshis tengan esa referencia para que la red de bitcoin siga siendo ligera, Y 2, es probable que empezamos a ver plataformas que automatizan ese proceso. O sea, lo que pasó con Thirdweb en Ethereum o con Metaplex en Solana, algo muy parecido, en donde, a través de de código o de una interface, subes 1000 fotos, esas 1000 fotos terminan en un hosting web 3, y nada más inscribes la referencia hacia ese hosting, o sea, como los apuntadores.
+
+[Speaker 1 - 00:21:58]
+Pero lo haces automático y va a quedar dentro de un contrato. Es probable que alguien allá en stacks, que son esos que que están construyendo smart contracts encima de bitcoin, eh ya lo estén haciendo pero algo que me emociona mucho y ya entrando a la parte interesante es que pues la próxima semana están durísimos los rumores de que va a existir eh un nuevo estándar para definir a papá e hijo en las inscripciones. No es más que poder hacer colecciones nativamente en bitcoin. No sé qué has visto de esto este Mexi.
+
+[Speaker 0 - 00:22:46]
+Sí, la verdad he estado leyendo sobre el tema por ahí. Una de las tiendas tiene ya un un protocolo, un JSON, ¿no? La manera de redactar un un un texto con código, donde le puedes poner nombre, le puedes poner características. Pero creo que es nada más para esa tienda. Yo lo que no he visto es que ya se haya puesto de acuerdo todos para tener un estándar que que que todos usemos. Y creo que por ahí va la discusión, ¿no? Y creo que es importante para poder agrupar una serie de inscripciones, meterlos a lo mejor en una colección y que todas las tiendas puedan rápido identificar cuáles forman parte de esa colección. Y que se puedan poner a la venta, que todo mundo les pueda hacer promoción, pues más sencillo, ¿no? Que no haya que ir a buscar 1 por 1 todos los órdenes que están por ahí a lo mejor regados en varios bloques. Entonces, sí creo que es un un estándar que que que a lo mejor alguien va a hacer. Y si todos nos ponemos de acuerdo, vamos a empezar a usar y va a mejorar muchísimo la experiencia de usuario.
+
+[Speaker 0 - 00:23:46]
+Pero de que lo vamos a ver pronto, lo vamos a ver pronto, definitivo.
+
+[Speaker 1 - 00:23:53]
+Sí, completamente de acuerdo. Lo que lo que me llama mucho la atención, y ya entrando a lo que todo mundo entró por acá, entrando en materia es que bitcoin es una red de consenso, o sea, técnicamente a alguien se le puede correr algo, levanta la mano, lo tira allá afuera, y si agarra fuego, agarra para todos, y no no tenemos que esperar de nadie. Hay muchas ideas que se están aventando al aire y que pues no cachen o simplemente no les hace sentido a las personas pero específicamente el tema de ordinals y las inscripciones está agarrando muchísima muchísima atracción, y ya hay gente consumiendo cosas encima de ello. Entonces, vamos a hablar del primero, son los puntos ads, ¿no? Este, ah, Mexi,
+
+[Speaker 0 - 00:24:40]
+échale. Sí, nada más hay un comentario, ¿no? El El la la manera en que este señor, Kathy Rolamore, inventó o se le ocurrió darle un consecutivo a cada 1 de los ordinarios, es algo que a él se le ocurrió de la manga y lo mandó y así lo dijo, pero a cualquiera se le puede cubrir de una u otra manera. Como tú decías, es un tema de consenso y aquí todos estamos de acuerdo en usarla que hizo ok, sí, por eso se está agarrando juego, pero no significa que sea la única. Y de igual forma, todo lo demás que hablemos, cualquiera puede hacer lo que clinche. Pero de ahí a que todos nos ponemos de acuerdo en usarlo. Ahí está lo importante. Y creo que esa es la clave, ¿no? De este tipo de redes, de este tipo de desarrollos que somos libres de usar lo que mejor nos parezca por las funcionalidades o el uso, el desarrollo o el la cantidad de usuarios, etcétera. Entonces, creo que ese es un punto super importante
+
+[Speaker 1 - 00:25:32]
+de mencionar. Sí, de acuerdo. Justo justo, este, el tema de los ads, que son los nombres de dominio, y ahora el tema de los tokens fungibles pasó igualito al tema de de Ordinos o sea alguien dijo se me ocurre tal sintaxis para lanzarlo Aquí están mis experimentos, ya lo documenté por si alguien los quiere replicar igualitos o hacer sus variaciones. Y madres, ¿no? Agarró agarró fuego muy rápido. Les cuento así en corto el tema de los ads. De repente, si se van o o empiezan a investigar cuántas inscripciones, este, se han dado en los últimos 3 semanas, van a ver que ha estado incrementando, ¿no? Este, todavía no exponencialmente el número de inscripciones en between, pero sí se está acelerando últimamente y tiene unos picos gigantescos. Lo raro, y y es donde la gente empezó a poner atención, es que alguien se le ocurrió ver qué tipo de formato están subiendo a la red.
+
+[Speaker 1 - 00:26:35]
+Entonces esperaríamos que, pues, fueran NFTs, ¿no? Está subiendo el uso de inscripciones porque alguien está mintiendo un montón de NFTs, pero no. Las imágenes están creciendo, ¿sí? Despacito, pero los que están teniendo decenas de 1000, así por bonche son las inscripciones de tipo texto. Me llamó muchísimo la atención esto y es por eso que armé el space porque la gente está subiendo texto a bitcoin, a los ordinarios de bitcoin y y no me hace sentido, o sea, por ahí leí a alguien que decía, ah, es que están subiendo archivos XTY están subiendo archivos punto jSON, que también son son texto. Y por lo que quieren es construir apps encima de bitcoin. No me hacían nada de sentido esto, o sea, lo leía y checaba y no me hacían nada de sentido, así como para qué subes un JSON, que es, pues, me trata, a a bitcoin. O sea, no, no entendía el uso.
+
+[Speaker 1 - 00:27:35]
+Y es muy sencillo, o sea, realmente es un registro, los primeros que están explotando son los dominios. Entonces, cualquier persona puede crear un punto algo, ¿no? El primero del que agarró fuego se llama punto Sats. Los puntos Sats son estos nombres de dominio completamente nativos en en en bitcoin, y lo único que tienes que subir son 3 líneas de texto. El primero donde dices que va a ser un tipo dominio, el segundo donde dices que es el protocolo lo está siguiendo, y el tercero es el valor que quieres para tu dominio. En mi caso yo tengo fcry punto sats, Mexi por aquí tiene Mexi punto sats, de largo tiene de largo punto sats. Y aquí la regla importante para dar de alta dominios es que simplemente tienes que inscribir ese texto, lo empujas, allá afuera alguien valida la transacción y ya tienes ese ese dominio, ¿no? Ese punto sads.
+
+[Speaker 1 - 00:28:36]
+Algo muy, muy interesante de lo que va a pasar de aquí para adelante, es que a alguien se le ocurrió la siguiente regla, first is first, o sea, el primero es el primero. Lo que quiero decir es que yo hoy puedo dar de alta el dominio de papi Axie punto Sats, y papi Axie puede hacer lo mismo. El primero que se registra en el Blockchain es el que, de manera consensuada, vamos a determinar qué es el el propietario de ella. Eso no quiere decir que si papi lo vuelve a lanzar, no se va a inscribir, sí va a existir. El problema es que de manera consensuada vamos a darle la propiedad al primero que lo intentó. De esta manera se han inscrito Satoshi punto Sats, creo que ya casi 1000 veces, o sea, 1000 de personas tuvieron la la la misma idea, pero hubo 1, ¿no? El que fue el primero. A ese es el que se le va a dar el dominio. Papi.
+
+[Speaker 2 - 00:29:39]
+No, a 2 puntos, creo que me estás diciendo de que por qué se les ocurrió hacer lo del texto, y eso me recuerda un poco hablar de Thirom como de poco de historial. Me recuerda cuando salió lo de, este, Blue y Loot, que el 2000 veintiuno y y mucha gente estaba ahí con el gamefication y todo ese todo ese pedo, eso medio me recuerda en eso y también con lo de los nombres, como sabemos está lo de ENS o punto SOL en en Solanas o, pero está interesante acá en en bitcoin AAA lo que es la probonancia, así se dice en español, probonance, este, a a lo que estás diciendo, Serving, de que al que lo hace primero es el que se les da el el valor, el a esa inscripción a lo que es del punto set.
+
+[Speaker 1 - 00:30:26]
+Sí, y justo, qué bueno que mencionas a los dominios punto sol, la diferencia en lo que está haciendo NS, que son los Ethereum name services, y lo que están haciendo los los de Solana, es que en los ENS están siendo controlados o una buena parte, están siendo controlados por una empresa que se llama Unsoppbo Domains, estos cuates, pues, es una entidad centralizada, ¿no? Es una empresa, pero te venden el registro por año, igual a como conocemos los dominios de de punto com. La diferencia que muchos están haciendo por ahí es que técnicamente en SOL, una vez que registras tu tu dominio, pues para siempre, o sea, se vuelve una NGT. Ese NFT está en tu cartera y tú eres el dueño de ello, y por siempre, ¿no? La única manera de que ya no lo tengas es que lo vendas o lo transfieras a alguien. De la misma forma está pasando con estos puntos ads, pero igual y a alguien se se le ocurre el el punto meme, ¿no?
+
+[Speaker 1 - 00:31:29]
+Y alguien puede tener dominios punto meme encima de bitcoin, y el primero que lo registre, pues pues técnicamente es de él. En este momento estamos desbloqueando, pues, la creación de dominios en Blockchain, en bitcoin, a todo mundo. Cualquiera que pueda inscribir Excel, ya sea utilizando una herramienta o con su propio nodo, va a poder crear sus dominios y, como dijo Mexi, van a estar ahí por siempre. ¿Tú ya te pusiste a jugar con con dominios, Sirvi?
+
+[Speaker 4 - 00:32:06]
+No, estaba estaba esperando ver cómo integrar con QuickNove, con los RPCs para no hacer la integración desde 0, pero no logro hacer el la 0, pero no logro hacer el el la eso de manera sencilla un tutorial.
+
+[Speaker 1 - 00:32:19]
+Ya está, ya está, papi.
+
+[Speaker 2 - 00:32:22]
+Sí, sí, para los dominios de punto SAT, este, hay un sitio web donde se puede verificar los diferentes nombres que han salido o nomás es dependiente, pues, yo hago el mío y luego, pues, alguien dice, no, pues, mira esa inscripción mía, fue antes de la tuya. ¿Esa es la única manera o ya hay un sitio web donde
+
+[Speaker 1 - 00:32:44]
+puedes verificar los nombres que haigan salido? Ya han salido ya han salido un par. La que la que creo que está más actualizada, pero no te puedes confiar todo el tiempo, son los de ordinauts bots.com. Tienen una sección específica para registrar puntos ads, incluso en volumen, ¿no? En volk. Y por ahí tienen una liga muy muy visible para checar qué dominios ya están registrados. Hay un tema con esa parte que la única manera de saber, bueno, hay varias maneras, pero la que están haciendo ahorita de saber qué dominios están registrados es, ¿bajan todos los las inscripciones que han existido? No sé en qué número vamos, Nexi. Se bajan todas las inscripciones y de una por una checas si el formato de esa inscripción es texto, y si es texto checas que sea la sintaxis de los dominios, y si es la sintaxis de los dominios, checas cuál es el valor de ahí adentro. Entonces, no sé por qué a nadie se le ha ocurrido, supongo por el tema de descentralización, pero a nadie se le ha ocurrido como, pues, lo bajo todo, ¿no?
+
+[Speaker 1 - 00:33:51]
+Lo proceso, lo pongo en la base de datos, y al menos lo más desincronizado que puede ser es lo que hoy inscribieron. Pero, pues, de de de momento es lo único que que podemos hacer. Es tan temprano que no sean crearse de herramientas. Sí. Justo
+
+[Speaker 0 - 00:34:10]
+estoy checando cuál es la inscripción. La última es la 398577, más o menos, ¿no? Ya casi llegamos a los 400000. Algo también importante, no sé si ya haya desarrollo para .sats, ¿no? Ahorita lo que se entiendo, y hasta aquí es donde entiendo y sí estoy equivocado me corrige, pero alguien definió, bueno vamos a usar punto Sats, vamos a usar el primero, como decía Felipe, first is first. Pero de ahí a que ya esto se pueda usar para enviar, recibir, que las carteras funcionen, etcétera, todavía hay que hacer desarrollo. Entonces si a alguien, alguno de nosotros se nos ocurre punto mx, punto mx, meto a saber, ¿no? Alguna terminación, hay que desarrollar toda la plataforma que luego vaya, obtenga esta información y la utilice de cierta manera en la red, y con las dapps que estamos o vamos a estar usando. Entonces, por ahí va todavía el el tema, creo yo. Todavía no hay una un desarrollo donde se pueda utilizar para poder enviar o recibir. Pero muy probablemente en el futuro veamos mucho uso de esos ¿no?
+
+[Speaker 0 - 00:35:12]
+Depende de la gente que en realidad le guste y que le dedique tiempo a desarrollar todas esas aplicaciones.
+
+[Speaker 1 - 00:35:21]
+Sí, completamente. El el el tema de nombres de servidores, ¿no? Los domain name, Si no hay una capa o alguien que esté, justo haciendo esto que que describe Nexi, de decir, al punto SaaS, ¿tiene relación con esta wallet? ¿Alguien que está haciendo esa traducción? O simplemente el punto se vuelve, pues, un NFT de texto. O sea, no tiene otra manera de de utilizarse. Pero como está agarrando fuego con muchos dejants de de otras cadenas, ¿no? De Ethereum, de de Solana, son los que más están metiendo, y algunos maxi bitcoin que ya están siendo convencidos a que, pues, la red tiene que evolucionar a más cosas, ahí es donde, pues, me siento con esperanza de que esto suceda más rápido de lo que de lo que esperamos. Ahora sí, la parte interesante, los BRC 20, les cuento en corto y pasamos a las preguntas. BRC 20, ya sabemos que son los órdenes, ya sabemos que son las inscripciones, ya sabemos más o menos cómo está el tema de los puntos ads.
+
+[Speaker 1 - 00:36:29]
+Y encima de los ads, o con la misma idea de los ads, hay un cuate échenle ojo, se llama Domo, busquen Domo Ordinals en en en Cuttershing, ahorita lo pongo en en drespace. Domo ha estado como muy adelante de la curva. O sea, este cuate he aprendido una cantidad impresionante de cosas con él, ahí shotaba al al domo. Domo primero empezó haciendo pruebas de, ok, ya tenemos los ordinals, ahora, ¿cómo le hago para inscribir 1000 al mismo tiempo? Y no se puede porque lo que pocos sabemos o sabíamos, este, es que cuando tienes una wallet de Ordinal y le mandas feria, la feria que le mandaste se queda guardada en un paquetito o en una bolsita que se llaman UTXO. Entonces, en algunas otras especies ya hemos explicado que son los UTXO, en este punto lo único que les quiero decir es, ve con fusión así y manda bolsitas de monedas de un lado a otro.
+
+[Speaker 1 - 00:37:30]
+Si te quiero pagar 100 Satoshis a ti y a Mexi, y tengo 1000 en en mi cartera, pero me cayó en una sola bolsita, o sea, 1000 Satoshis en mi UTXO. Tengo que dividir S UTXO en 100 y en 900. O sea, realmente estoy partiendo a la bolsita. No es como en Ethereum, ¿no? Que es como un balance, acá son como bolsitas. Y tengo que mandar los 100 a transaccionar, y luego, en la misma transacción me regresan los 900, pero en ese momento los 1000 ya no los puedo mover hasta que se termina la transacción. De la misma manera, pasa con las inscripciones. Si en tu en tu wallet de orinals le mandas 100000 satoshis y dices bueno voy a poder hacer 100000 inscripciones ¿No? Porque un satoshi es una inscripción. Primer error, no es cierto, ¿no? Los ahorita el protocolo actual de los de las inscripciones hace NFTs en bolsitas de 10000. El primero que cambió esa parte de los 10000 Satoshis para hacer un una inscripción fue Domo, o sea agarró Domo y dijo, no, ¿por qué 10000?
+
+[Speaker 1 - 00:38:39]
+Mejor, ¿por qué no 500? ¿No? Entonces, la gente dice 10000 para proteger que el primer Satoshi nunca se ha gastado, y se tiene que pagar gas o algo para mover esa inscripción, siempre se coma los últimos de esa bolsita y no se coma el el primero, ¿no? El 0. Pero él dijo, pues, con 500 lago, o sea, con 500 lago creo que es suficiente para protegerlo, y empezó a hacer bolsitas de 500. Esa fue el primer la primera gran innovación de de Domo. Y luego, una semana después dijo, ya sé cómo hacer 1000 inscripciones al mismo tiempo. Voy a mandar 1000 bolsitas amiguales de Ordinars, y cada bolsita va a tener, pues, 500 atoshis nada más. Entonces, hago 1000 transacciones y se las mando a mi a mi wallet, y entonces me caen 1000 bolsitas. A la hora que quiero inscribir en FTs, el protocolo de Ordinar lo que hace es va UTX UTX UTX 1 por 1 y se los come, así ya no bloqueas todo el dinero que tienes en tu wallet.
+
+[Speaker 1 - 00:39:44]
+Y la última, ya no se acaba, se le se le acaba de ocurrir un gran experimento que es el de vamos a sacar los de ERC 20. Los que conocen un poquito de Ethereum, han escuchado el protocolo ERC 20, que son las monedas, ¿no? Cualquier monedita, este, de las shitcoin que hemos comprado, pues son ERC 20, la gran mayoría que están montadas encima de Ethereum. Entonces, este cuate dice, vamos a hacer lo mismo, pero en bitcoin, y la manera en que funciona es muy, muy, muy sencilla. Igualito, como describimos el tema de los ads, es igual, nada más que son 4 líneas de código. La primera dice, estoy dando de alta un verse 20, y así dice, p, 2 puntos, verse 20. La segunda dice, ¿cómo se va a llamar tu moneda? ¿No? En este caso, él creo algo que se llama los Ordis. Pero inmediatamente, de 5 minutos después de que lo hizo, alguien se le ocurrió crear los memes.
+
+[Speaker 1 - 00:40:46]
+Entonces, son moneda tipo meme. Tercer tercer línea del texto dice cuántos son, ¿no? Cuántos cuántos son máximo, un Max Tab, creo que puso como 10000000. Y la última, la cuarta línea es, ¿cuánto tiene, cuánto es el máximo que alguien puede pedir mintear? O sea, si si yo hago una moneda tipo que se llame, como dice Mexi, no vamos a hacer las monedas tipo Mexi. Entonces, doy de alta la moneda tipo Mexi, digo que hay 100000000 de ellas, y el cap por minteo es de 1000. Lo que quiere decir que cualquier persona puede mintear monedas Mexi, pero no puede mintear más de 1000. Se pide más de 1000, sí se va a ir que la inscripción para allá, pero no lo vamos a reconocer porque es consensuado. Aquí está la parte interesante, ya nada más para abrir preguntas, que es que el que mintié ese archivo de texto, el que lo mintié, la cartera que mintié ese archivo de texto, es quien tiene la propiedad del registro de la moneda.
+
+[Speaker 1 - 00:41:52]
+No es que tenga las monedas, porque las monedas se tienen que mintear. Tienes que volver a mandar otro NFT o otra inscripción y decir esa es la moneda Mexi, es del tipo tal, pero ahora en vez de registro se llama Mint, es acción. Se llama Mint es acción y pido 1000. ¿Por qué? Porque fui a checar que, pues, me puede puedo pedir de 1000 en 1000. Y mando una, mando otra, mando 100 de ese tipo, mando a inscribir 100 NFTs, y ahora yo tengo 100 veces registro de mi Inteo, y pues son los 100000 NFTs. La parte que está medio rara y es difícil de entender hasta que le echas un montón de de lectura, es cómo transfieres monedas, cómo le mando de mi 1000000 de mexies un cachito a de largo, ¿no? Por ejemplo. Y es, la única manera de mandar dinero no es mandándole un NFT a él, es haciendo otro NFT que diga, Mexi, la moneda Mexi, se manda a tal wallet y estoy mandando 5000 monedas, y este NFT es el tipo transfer.
+
+[Speaker 1 - 00:42:57]
+Pongo esos 4 datos en el texto, lo mando, se inscribe ese NFT, y ya, se quedó guardada como si fuera una bitácora de contabilidad. Entonces, el futuro de los VRC 20 técnicamente va a estar viviendo entre leer NFTs todo el tiempo, ¿no? Estar leyendo esas inscripciones. No estoy mandando dinero, estoy imprimiendo que hago una acción de transferencia. Ahora sí, háganse con las preguntas, Papi.
+
+[Speaker 2 - 00:43:33]
+Voy a irme con la primera que tengo, porque la otra se me va a confundir. Este, la primera con el con lo que estamos hablando con los puntos ads. Este, primera pregunta. ¿Ellos te inscriben? Estoy entendiendo el punto Sats en el sitio web de orden o los bots, y luego te la mandan. ¿Correcto?
+
+[Speaker 1 - 00:43:52]
+Es correcto.
+
+[Speaker 2 - 00:43:53]
+So, técnicamente, porque nomás para términos de seguridad, si fuéramos a sacar un punto SAT cabrón, no decir tipo Amazon punto SAT, si estuviera libre, ellos podrían decir, oh, está libre, vamos a escribírtela. Y luego dicen, oh, no, aquí te regresamos tu lana porque, pues, no, alguien la teoróricamente, alguien la la inscribió al mismo tiempo que nosotros te la estamos escribiendo. Es algo que podrían sacar y, pues, ya no te la mandan, ¿no?
+
+[Speaker 1 - 00:44:25]
+Sí, sí, y ya ha pasado. Y esto viene para los que somos, este, ya oGs 000 viejitos, como diría el buen de largo, no nos dejen morir, por favor. Lo vimos en en la explosión de los dominios, ¿no? Hace hace tiempo, y lo que hacía en algunos sitios era, pues, checa aquí si tu dominio está disponible. Ah, quiero registrar Felipe punto com, y le ponías Felipe punto com, sí está a Baylobo, pagar, y de repente así de, no pasó la transacción. Ah, caray, pero me acabas de decir que estaba Baylobo. 5 segundos después checas, ¿no? Quién registró Felipe punto com, eran ellos mismos. Había sitios web de de registro de dominios, de nombre de dominios, que técnicamente eran construidos para cazar ideas YYY se quedaban con esa idea. Lo registraban porque, pues, es muy barato, ¿no? Son son 3, 4 dólares de de transacción, y se quedaron con todos esos dominios. Dominers expertos acumulando 1000 de dominios, ya lo vimos en en el principio de los 2000, está pasando otra vez con los puntos ads.
+
+[Speaker 1 - 00:45:31]
+¿Qué más, señores? Preguntas. Mexi, ¿hasta dónde te quedaste?
+
+[Speaker 0 - 00:45:41]
+No, entiendo que lo registras, luego los minteas. Obviamente cada transacción, pues, depende de el tamaño de la inscripción. Me imagino que estas son transacciones no muy caras, ¿no? Pero no entiendo bien todavía el tema de de de quiero enviarle 1 a alguien más. Ahí es donde, ay, ¿qué dijo? ¿Cuánto va a costar es un Satoshi por cada token no fungible? ¿000 no no? ¿O es nada más poner el texto de tal dirección a tal dirección, se fue o sea, ¿es a través de esos mismos JSONs ir llevando el registro, inscribiendo el registro de transacciones, como lo hace bitcoin en su Blockchain, pero ahora acá en la inscripción? Todavía ando medio perdido con eso.
+
+[Speaker 1 - 00:46:25]
+Sí, justo justo es la segunda es la es la segunda opción que acabas de escribir. Hablamos de BRC 20. Entonces, para mandar feria, esos son los pasos, ya ya sin entrar a la parte técnica, esos son los pasos. 1, haces un archivo de texto y lo registras por primera vez. Es como, pues, tu registro de propiedad intelectual, dijiste quiero hacer una moneda que se llame MEX, y en ese registro tienes que decir cuántas hay, máximo, y cuando alguien quiera mintear 1, cuántos pueden mintear máximo. Paso 2, tiene que haber una tercera persona, o tú mismo, que diga, pues quiero mintear un milloncito de ellas, Y tienes que estar inscribiendo NFT por NFT, o sea, mandando o empujando texto por texto para ir minteando de 1000 en 1000, si ese fue la capa, ese fue el límite máximo de minteo que tú definiste en el paso 1.
+
+[Speaker 1 - 00:47:27]
+Si dices, pos máximo pueden registrar 1, tendrían que estar empujando texto por texto de 1 por 1. Ya hay, este, dejens haciendo haciendo un montón de minteos de de cosas que han sacado. Pero es el paso 2. Tendrías que estar pidiéndole a bitcoin o inscribiendo en bitcoin la acción de mi inter. Y luego, paso 3, tú, Messi, este, con tu wallet de de de ordinals, tienes enlazado los registros de cuántas veces has pedido el dinero. Ah, lo has pedido 25 veces. Eso quiere decir que tengo 25000 mexis, ¿no? De la moneda de Mexi. Ahora, paso 3 es, le quiero mandar dinero a Felipe, o le quiero mandar mexis a Felipe. Hey Felipe, pásame tu wallet. En el paso 3 es tienes que hacer inscripción de otro NFT y en el texto tiene que decir transfer. O sea, es del tipo transfer, incluye la palabra transfer, incluye la wallet a la que le estás haciendo referencia y incluye cuántos le quieres enviar.
+
+[Speaker 1 - 00:48:34]
+Inscribes o minteas ese NFT. En ese momento, en la bitácora, Felipe tiene monedas Mexi. No las tengo en mi wallet. ¿No? No me llegaron ese NGT como tal. No las tengo en mi wallet. Este alguien más de manera descentralizada tiene que empezar a recolectar esa información. Y si es tu moneda, pues quizás eres tú quien tiene que hacer esa recolección del de la bitácora, como tal, pero no falta mucho para que haya herramientas que nos ayuden a a llevar esa bitácora. Lo que es interesante es que ya se registraron monedas como pomp, meme, eh Satoshis, no, no Satoshis, Satameme, ah, una una madre, sí, los Ordis que fueron los primeros, ya hay ahorita como unas 20, 30 monedas registradas y los primeros que fueron los Ordis que tenían un un cap máximo de 10000000 con 1000 Ordis por por Minteo, ya todos fueron minteados, o sea alguien ya los dejens pidieron de 1000 en 1000 y se acabaron los 10000000.
+
+[Speaker 1 - 00:49:43]
+Entonces, no sé si por ahí quedamos igual 000 estamos más perdidos. Papi. YYY
+
+[Speaker 2 - 00:49:51]
+en y para inscribir las monedas de ERC 20, ¿eso se tiene que hacer directamente del nodo o o allá en sí?
+
+[Speaker 1 - 00:50:03]
+Gran gran gran pregunta, porque ahí te va. El El el que haya inscrito la moneda, o sea, el el que mandó por primera vez ese texto de la wallet que salió, es el dueño, lo cual quiere decir que si utilizas una plataforma de estas tipo moneda va a ser Ordinal spot o Gamma. Entonces, la única manera ahorita, por cómo funcionan ellos 2, ¿no? Porque lo mintean por ti y luego te lo mandan. Pero el minte hace el interesante. El que minteé de la wallet que salga, del nodo que salga, es ese el dueño. Entonces, ahorita los DJs están montando nodos, están tratando de hacerlos ellos mismos. Ornion está tratando de, Ornion los bots está tratando de ajustar su mecanismo para que puedan sacar VRs veintes. Pero sí, del nodo que salga o de la wallet que salga, es el dueño. Lo que no no se ha puesto la comunidad de acuerdo es si la transferencia, que no creo, la transferencia de las moneditas tiene que ser con tu nuevo.
+
+[Speaker 1 - 00:51:09]
+No hace sentido, creo que eso sí va a ser consenso de que puedes utilizar cualquier herramienta para transferir dinero. La transferencia otra vez repetimos es hacerlo en un FT que diga transfer tanta feria a tal wallet y mandarla a imprimir este pero sí crear monedas tiene que ser a través de tu wallet o no es tuya, va a ser del del dueño de la herramienta. Échale, Gobi. Ah no, perdón, Mexi, Mexi.
+
+[Speaker 0 - 00:51:40]
+Ya, no, ya ahora entiendo. Vamos a lo mismo entonces, a la misma idea. Cualquiera puede llegar a ser o intentar fingir hacer una transferencia, pero e inscribir la misma información que yo haga. Pero yo, siendo el dueño, algún otro sistema es el que va a tener que hacer todo ese registro, descartar toda la basura, que a lo mejor no siga la misma línea, ¿no? Que tenga ese mismo código, que tenga esa misma manera de de de decir que voy a transferir, que sea el dueño, etcétera, para poder estar seguros de que estamos recibiendo un un un, pues, no fungible real, ¿no? Que hizo el creador, etcétera. Entonces, ok, ok. O sea, apenas están desarrollando todo eso, como tú dices, esas herramientas son las que te van a permitir, a lo mejor directo en el wallet, llevar el registro de control y el envío. Pero ya no vas a tú a saber y va a descartar automáticamente toda la demás basura que intente hacer lo mismo, pero obviamente que no siga ese ese patrón, ¿no?
+
+[Speaker 0 - 00:52:41]
+Por ahí creo que ya entendí ya. Chingón, chingón. Sí, no. Sí, que no. Esa
+
+[Speaker 1 - 00:52:47]
+esa parte que dices justo es la que la hace completamente centralizado, ¿no? No dependemos de Mexi para que mande feria de un lado a otro, para reconocer que las transacciones fueron válidas o no. Están ahí guardadas, ¿no? Están guardadas en bitcoin de en en formato ordinal o en formato de inscripción, perdón. Y alguien más puede construir encima, todo mundo podemos leer esa parte, podemos hacer wallets de ello, podemos empezar a crear monedas. Cualquier persona, incluso de los que están aquí en en el space, que quieren intentar registrar un punto SaaS o o hacer experimentos para lanzar un BRC 20, HMDM, tenemos por ahí nodos para echarlos a andar. Obviamente, este, pues es el el el costo es muy bajo, ¿no? Porque no le no tenemos que pagar a nadie más que los puntos ads, pero muy interesante comentar ahorita que gracias a que lanzó Yuga Labs, su primera colección en Ordinals, twalfold, se llama, y esta explosión de los puntos ads y de lo ahora desde antier los VRC 20.
+
+[Speaker 1 - 00:53:54]
+Gracias a todos ellos, el costo por hacer transacciones en bitcoin se disparó. La semana pasada podía hacer una transacción como por 2 satoshis, por byte, y desde antier no ha bajado de 20, ¿no? Entonces, 20 10 x el costo de la transacción, el día de los Juga Labs se fue como a 120 Satoshis por rite. Entonces, estuvo estuvo de locos esa parte. Este, gracias, señores, por tu innovación, pero ya no están haciendo que a todos nos salga carísimo este pedo. Yo creo que una, tenemos 2 preguntas más y si, pues, si hubo más ganas de de seguir charlando, nos echamos una parte 2 en otro país, pero rapidito papi, ¿qué onda?
+
+[Speaker 2 - 00:54:38]
+Este, y voy AAA pensar también porque usualmente como en otras chains de Solana o Need, con las BRC veintes, pues tenemos diferentes Texas como Uniswap o, este, creo que Júpiter deja cambiar las las monedas SPL en Solana. Pero todavía no existe un tipo dex así tampoco, asumo, porque necesitaría que poder cargar los las inscripciones de las BRC 20, además de poder transferirlas en en cantidad más IVA mientras sean confirmadas. So, estoy pensando que todavía no existe un tipo de ex.
+
+[Speaker 1 - 00:55:17]
+Justo ayer Uniswap acaba de anunciar que ya tiene su versión alfa de esto, o sea, van muy rápido casi todos. ¿Por qué? Porque Uniswap, pues, ya tiene todo toda la infraestructura para lanzarlo, nada más tiene que leer inscripciones. La única desventaja que la gente estaba diciendo es que, pues, montar VRC veintes va a tener el cap de velocidad, ¿no? Va a ser igual de lenta que la, pues, que la red de bitcoin para cuando mandas bitcoin, tardas lo que tarda en validar el el el bloque. Pero entonces la gente ya está hablando de, pues, lighting, ¿no? Este, bitcoin lighting y y todas las soluciones L 2 encima de bitcoin. Y quizás por ahí podrá estar la explosión. De momento, la el número de inscripciones de texto de ayer, creo que superó los 50000 registros. No me acuerdo si 25000 o 50000 registros, pero 90 por 100 de ellos fueron texto, y de ellos la gran mayoría fueron BRC 20 o punto Sachs. Entonces, bastante interesante.
+
+[Speaker 1 - 00:56:17]
+Elian, échale.
+
+[Speaker 3 - 00:56:20]
+¿Qué onda, fan? ¿Cómo están? Oigan, qué chiefs ha estado este espacio. La verdad es que, güey, se están moviendo, se mueve tan rápido que es bien difícil como kpop, ¿sabes? Con todo lo que está sucediendo y y como que está bueno, sabes, como empaparse de lo que los demás también te están viendo porque, güey, qué pedo lo rápido que se está moviendo. Y nada, quería como plantearles una pregunta, dado que se está moviendo tan rápido, bueno, 2 cosas. Primero es una pregunta y hacerles una invitación. La pregunta es, ¿cómo ven, sabes, OpenSea y estas plataformas mucho más grandes? ¿Cómo ven, o sea, cuánto tiempo creen que plataformas mucho más grandes? ¿Cómo ven, o sea, cuánto tiempo creen que tarden en integrar Ordinals? Y un poco, la otra, o sea, como ya salió la invitación, justo los martes martes estoy hablando de Ordinals, entonces, este, justo es así como la la noticia de la semana de Ordinals los martes. Entonces, por si quieren jalar, este, está buenísimo y, pues, nada, agradecerles porque re buena calidad de la información. Muchas gracias.
+
+[Speaker 1 - 00:57:16]
+Muchas gracias, Elian. Yo creo que nos echamos la la segunda parte, este, y y tendremos grandes invitados, ¿no? La idea es empezar a armar este movimiento. Creo que somos muchos los que estamos interesados en el tema de de NFTs, pero sobre todo bitcoin. Y Ordinars ha sido como, pues para mí, es la tienda de dulces, ¿no? Me me siento como cuando de chavito me llevan a a comprar, este, infinitamente la cantidad de dulces. Estoy disfrutando mucho este estos últimos tiempos de innovación, pero sobre todo las pláticas de gente que está construyendo cosas que completamente invitado. De largo, échale.
+
+[Speaker 5 - 00:57:55]
+¿Qué onda? Igual, este, quiero decirte excelente espacio. La neta, tú y Mexi son personas que admiro mucho. Este, la verdad no estoy en este espacio nomás porque, pues, ustedes son OG y tienen mucho que aportar. Entonces aquí mi pregunta es, ¿qué qué opinas Felipe? Me acuerdo que te aventaste un tuit de un Paul, ahí a principios del año, de dónde prefieres como alocate como tus investments. Porque parte de yo no me gusta llamarlo hate, pero sí como que un poco de, ¿cómo se dice? Pues, hacer preguntas que creo que hay que hacer. O sea, a mí no me gusta el tema cuando se queda nomás en una narrativa de cripto Twitter, que son 100 personas, pero el resto del mundo pues le vale madre. Entonces yo trato de tener cuidado con eso y no emocionarme de más. Porque yo como inversionista de cripto, pues yo creo yo quiero que, o sea, mi fe está en la más adopción.
+
+[Speaker 1 - 00:58:56]
+Gran pregunta.
+
+[Speaker 5 - 00:58:57]
+Este Yo quiero No, pues ya lo comenté si tú dices, igual, y cambio de opinión yo. O sea, es lo que quiero, ojo, yo quiero cambiar de opinión. No no quiero como decir como que, ah, sí, deben de ser las cosas. Pero me acuerdo que tú dijiste que estabas mucho más bullish en Ethereum a principios del año, y quiero saber si tu perspectiva está cambiando con, pues, estas nuevas aplicaciones que puedes integrar ya sobre bitcoin. Porque, pues, al final del día bitcoin es el master, remasters, y y no no hay no hay nada que pueda decir 1 para para cambiar eso. Entonces sigue siendo bullish en Edidium, pero desde la perspectiva de, no sé, Base Investing, más adoption, todo ese trip. O sea, así nivel macro donde haya adopción masiva, ¿sigue siendo tu postura igual o sí ha cambiado un poco con este tema de órdenes?
+
+[Speaker 1 - 00:59:46]
+No, definitivamente definitivamente he cambiado. Gracias por por traer al cementerio de mis tweets a a la realidad. Este, creo que ese ese tweet, pues, como dicen en inglés, didran ish well, no me agenció tan tan tan bonito, porque la verdad, y digo, aquí se van a se van a levantar los los los maxi. Pues está a la chingada de Teddy. La verdad es que la cantidad de innovaciones que están haciendo son bastante lentas. Si no fuera por por Vitalik y el último el último anuncio de las las wallets sociales, creo que nos nos faltaría tracción suficiente para seguir empujando la la tecnología, pero es un gran acierto para la adopción. Es lo único que me mantiene bullish en el tema de Ethereum. Obviamente siempre voy a voy a tener la bolsita con un buen porcentaje de esto, ¿no? La la la regla de los 50, 25, 25. Para los que no se la saben o no han hecho su portafolio, 50 por 100 bitcoin, 25 por 100 BitCaraps, 25 por 100 small o microcaps.
+
+[Speaker 1 - 01:00:55]
+Este, y su portafolio va va va a sentir bonito cuando sube y también cuando baja. Entonces, pues ahí está, ahí está Ethereum, la parte de de el nivel de innovación que se está haciendo en Ordinals creo que está y va a desbloquear un montón de cosas. Obviamente no se compara nada al nivel de development en Ethereum contra el que ha habido en bitcoin, pero masivamente, masivamente, esta nueva implementación está jalando un Cardano a hacer experimentos en bitcoin. Y realmente las innovaciones en cuestión de Blockchain viven de los developers. O sea, estos developers que se les corre algo, grandes güeyes que están pasando cosas, el que tenga la atención de el developer va a tratar de evolucionar la red y la red que tenga mejor adopción va a tratar de llegar al mainstream. Ah pues ¿Por qué no los 2? Yo diría que le le empujemos a Ethereum con lo que hace este y ahorita disfrutemos del momento de de bitcoin porque para terminar aquí el Frank de Gods que no soy gran fan de este güey eh pero el Frank le piensa ¿No?
+
+[Speaker 1 - 01:02:09]
+Elegir el hámster y de repente dijo una frase muy buena hace hace 3 semanas que explotó Ordinars que es no debemos de olvidar que la red con mejor posicionamiento de branding y que más personas conocen en el mundo, es bitcoin. Y ya, ¿no? O sea, bitcoin más es como, uf, es muy probable que el mainstream esté esté cerca de esas implementaciones. Papi, échale, no, Mister Sánchez, échale, bienvenido, bro.
+
+[Speaker 6 - 01:02:41]
+¿Qué tal? Bienvenido. Buenos buenas tardes a todos. No hombre, la verdad, excelente tema todo esto, y justo ayer hubo un un evento aquí en Mérida, Yucatán, en el centro, y había una cafetería nueva que que que abrió que es que acepta Bitcoins y y tiene muchos flyers ahí de Bitcoins. Y 1 de los fundadores de esa cafetería impulsó mucho la adopción masiva ahí en el en El Salvador y desarrollaron una una una wallet sencilla. Y y, pues, no necesitas que ella y si no me necesitas tu tu número de celular. Y aparte tiene como un mapa de geolocalización donde, si eres el que vende cocos o eres el que vende raspados o eres el que o el que o el que tiene algún negocio ahí, tú puedes poner tu marca en ese mapa, y está súper impresionante porque utiliza el el el sistema Lightning Lightning Network. Entonces, las transacciones son veloces, rapidísimas, y son full bitcoin. O sea, todo está montado en bitcoin, yo en lo personal igual soy bitcoin. Amo bitcoin y y es lo que es libertad y lo que representa las cosas, y y el tema de cómo es la educación, lo importante que es capacitar a las personas, de qué tan sencillo puede ser utilizar esto, y ahora que agreguen, imagínense, ahora NFTs dentro de estas plataformas o estas wallets que ya tienen o generan adopciones grandes, Va a ser una cosa de muy locos, la verdad, lo de los BRC 20 es que que que genial que ya esté llegando a este momento, la verdad, bitcoin número one, ya está ya está llegando ahora los smart contracts dentro de bitcoin, y y, wow, la verdad que no me muero por probar esta tecnología, por esperar una red de testnet, tal vez, en ese Blockchain de bitcoin que que está ya público para contar cosas.
+
+[Speaker 6 - 01:04:19]
+Y y, pues está bien, veremos, todavía está en desarrollo, esto es muy nuevo, y y la verdad bullish en los ads, YYY pues nada, buen día y saludos a todos, excelente espacio, bendiciones.
+
+[Speaker 1 - 01:04:32]
+Gracias, gracias, míster Sánchez, este, al punto los los comentarios, me me me pone la piel de gallina o me emociona, ¿no? Como decimos en México esto que comentas, porque creo que no soy el único que lo ve. Muchos de nosotros aquí llevamos ya ratito esperando este tema de de de tracción, y para los que van nuevos o van empezando en el tema de de Blockchain, o específicamente en bitcoin, les tengo una buena noticia. Este comportamiento es una una señal, no solo de que estamos temprano, sino de que estamos al punto, porque ya ha pasado en los otros ciclos del del mercado cripto. Normalmente, cuando viene una, bueno, esa es la mala noticia. Cuando viene una caída fuerte del del mercado, no creo que haya sido la de allí, la identidad, creo que viene una un poquito más desastrosa. Pero cuando viene la última caída del mercado, empiezan a salir un montón de innovaciones que apuntan a a más escala, a más personas al mainstream.
+
+[Speaker 1 - 01:05:33]
+Lo cual quiere decir que si apostamos ahorita por un par de cositas, si apoyamos a todos estos proyectos que veamos, incluso proyectos latinos, que es que es nuestro nuestro foco con con Nilsler y muchos de los que estamos aquí, si apoyamos a todos estos locos que la están haciendo ahorita y el Mexi levanta la mano y dice, lancemos una moneda que se llame punto Colombia, punto México, o algo, pues, que pase en esta ventanita, es probable que agarremos completo el boom market. O sea, si alguien les dice Vota rata. Exacto. Si alguien les dice, ah, pues, es que es bien difícil calcular el el bottom, ¿no? La parte más baja del mercado. Yo lo único que les quiero decir es, ya ha pasado, se ve así, se ve como con un chingo de iniciativas que parecen geniales, pero por un lado dices, pero el mercado está de la chingada. Eso mismo que acabo de describir ya ha pasado 3, 4 veces en en los ciclos de de de cripto y es lo que me deja bullish con estos movimientos, porque sé que, pues, ya lo vi.
+
+[Speaker 1 - 01:06:39]
+Y si me subo a algunas de las iniciativas que ustedes están haciendo, si yo me lío con algunos otros que quieren hacer cosas, o si yo, pues, llevo más educación a más personas, poco a poco nos va a tocar aventarnos al tren completo, al Bajala, ¿no? Y y Tudemund. Este, gracias a todos. Nos faltaron por ahí preguntas de de muchos, gran gran espacio. Espero no los haya aburrido con una parte de de mi monólogo. Cualquier cosa que tengan duda, HMDM. Si van están por lanzar una colección en Ethereum, Solana, Polygon y ahora ya Ordenauts. No duden en echarme un mensaje directo con Nifter arroba Nifter guion bajo, o con Felipe Servín. Y, pues, gracias a todos los que estuvieron por acá, papi, Mexi, Elian, De Largo, Byron, Mister Sánchez, Irwin, y todos los demás de la la cultura cripto, muchas gracias por por este gran espacio, nos vemos en el que sigue. Bye bye, señores.
