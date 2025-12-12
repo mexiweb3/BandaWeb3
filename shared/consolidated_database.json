@@ -13,16 +13,16 @@
     "website": "https://bandaweb3.com",
     "twitter": "@BandaWeb3",
     "last_updated": "2025-12-12",
-    "total_episodes": 980,
+    "total_episodes": 979,
     "statistics": {
-      "total_episodes": 980,
-      "total_duration": "1928:46:37",
-      "average_duration": "01:58:41",
-      "total_listeners": 338277,
-      "average_listeners": 349.46,
-      "episodes_with_listener_data": 968,
+      "total_episodes": 979,
+      "total_duration": "1927:21:37",
+      "average_duration": "01:58:43",
+      "total_listeners": 338260,
+      "average_listeners": 349.8,
+      "episodes_with_listener_data": 967,
       "breakdown_by_type": {
-        "hosted": 255,
+        "hosted": 254,
         "Spoken": 584,
         "co-hosted": 141
       }
@@ -14061,33 +14061,6 @@
       ]
     },
     {
-      "number": "20221222-S7",
-      "title": "Sesión de trabajo en \n@mxweb3",
-      "date": "2022-12-22",
-      "duration": "01:25:00",
-      "guests": [
-        "mxweb3"
-      ],
-      "guest_links": {
-        "mxweb3": "https://x.com/mxweb3"
-      },
-      "space_url": "https://x.com/i/spaces/1zqJVPkdnbpKB",
-      "description": "Sesión de trabajo en \n@mxweb3",
-      "topics": [],
-      "status": "archived",
-      "transcript_available": false,
-      "content_generated": false,
-      "flyer_urls": [],
-      "listeners": 17,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1zqJVPkdnbpKB/sesion-de-trabajo-en-at-mxweb3",
-      "analytics_source": "spaces_dashboard_excel",
-      "type": "hosted",
-      "host": "@meximalist",
-      "flyers": [
-        "flyer_meximalist_generic.png"
-      ]
-    },
-    {
       "type": "Spoken",
       "title": "platiquemos",
       "host": "@NFTDEFILAND",
@@ -14109,13 +14082,19 @@
       "speakers": 2,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
-      "description": "Hosted Space: Sesión de trabajo en @mxweb3",
+      "description": "Sesión de trabajo en \n@mxweb3",
       "topics": [],
-      "guests": [],
-      "status": "published",
+      "guests": [
+        "mxweb3"
+      ],
+      "guest_links": {
+        "mxweb3": "https://x.com/mxweb3"
+      },
+      "status": "archived",
       "transcript_available": false,
       "content_generated": false,
-      "space_url": "",
+      "space_url": "https://x.com/i/spaces/1zqJVPkdnbpKB",
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1zqJVPkdnbpKB/sesion-de-trabajo-en-at-mxweb3",
       "audio_url": "",
       "flyer_urls": [],
       "flyers": [

@@ -8758,33 +8758,6 @@
       ]
     },
     {
-      "number": "20221222-S7",
-      "title": "Sesión de trabajo en \n@mxweb3",
-      "date": "2022-12-22",
-      "duration": "01:25:00",
-      "guests": [
-        "mxweb3"
-      ],
-      "guest_links": {
-        "mxweb3": "https://x.com/mxweb3"
-      },
-      "space_url": "https://x.com/i/spaces/1zqJVPkdnbpKB",
-      "description": "Sesión de trabajo en \n@mxweb3",
-      "topics": [],
-      "status": "archived",
-      "transcript_available": false,
-      "content_generated": false,
-      "flyer_urls": [],
-      "listeners": 17,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1zqJVPkdnbpKB/sesion-de-trabajo-en-at-mxweb3",
-      "analytics_source": "spaces_dashboard_excel",
-      "type": "hosted",
-      "host": "@meximalist",
-      "flyers": [
-        "flyer_meximalist_generic.png"
-      ]
-    },
-    {
       "number": "20221221",
       "title": "Sesión de trabajo en @mxweb3",
       "date": "2022-12-21",
@@ -8794,13 +8767,19 @@
       "speakers": 2,
       "analytics_source": "X Spaces Analytics",
       "type": "hosted",
-      "description": "Hosted Space: Sesión de trabajo en @mxweb3",
+      "description": "Sesión de trabajo en \n@mxweb3",
       "topics": [],
-      "guests": [],
-      "status": "published",
+      "guests": [
+        "mxweb3"
+      ],
+      "guest_links": {
+        "mxweb3": "https://x.com/mxweb3"
+      },
+      "status": "archived",
       "transcript_available": false,
       "content_generated": false,
-      "space_url": "",
+      "space_url": "https://x.com/i/spaces/1zqJVPkdnbpKB",
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1zqJVPkdnbpKB/sesion-de-trabajo-en-at-mxweb3",
       "audio_url": "",
       "flyer_urls": [],
       "flyers": [
@@ -10423,16 +10402,16 @@
     }
   ],
   "stats": {
-    "total_episodes": 396,
-    "total_duration_hours": 688.23,
+    "total_episodes": 395,
+    "total_duration_hours": 686.81,
     "average_duration_minutes": 104.3,
-    "total_listeners": 59082,
-    "average_listeners": 153.9,
-    "episodes_with_listener_data": 384,
+    "total_listeners": 59065,
+    "average_listeners": 154.2,
+    "episodes_with_listener_data": 383,
     "breakdown_by_type": {
-      "hosted": 255,
+      "hosted": 254,
       "co-hosted": 141
     },
-    "last_updated": "2025-12-12T08:42:58.683643"
+    "last_updated": "2025-12-12T08:46:00.076784"
   }
 }
