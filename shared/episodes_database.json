@@ -8402,29 +8402,6 @@
       ]
     },
     {
-      "number": "20230121",
-      "title": "mxweb3 - sesión de trabajo",
-      "date": "2023-01-21",
-      "duration": "01:43:00",
-      "guests": [],
-      "guest_links": {},
-      "space_url": "https://x.com/i/spaces/1YqKDoDXjbaxV",
-      "description": "mxweb3 - sesión de trabajo",
-      "topics": [],
-      "status": "archived",
-      "transcript_available": false,
-      "content_generated": false,
-      "flyer_urls": [],
-      "listeners": 51,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1YqKDoDXjbaxV/mxweb3-sesion-de-trabajo",
-      "analytics_source": "spaces_dashboard_excel",
-      "type": "hosted",
-      "host": "@meximalist",
-      "flyers": [
-        "flyer_meximalist_generic.png"
-      ]
-    },
-    {
       "number": "20230120",
       "title": "mxweb3 - sesión de trabajo",
       "date": "2023-01-20",
@@ -8440,8 +8417,8 @@
       "status": "published",
       "transcript_available": false,
       "content_generated": false,
-      "space_url": "",
-      "audio_url": "",
+      "space_url": "https://x.com/i/spaces/1YqKDoDXjbaxV",
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1YqKDoDXjbaxV/mxweb3-sesion-de-trabajo",
       "flyer_urls": [],
       "flyers": [
         "flyer_meximalist_generic.png"
@@ -10379,16 +10356,16 @@
     }
   ],
   "stats": {
-    "total_episodes": 394,
-    "total_duration_hours": 685.9,
+    "total_episodes": 393,
+    "total_duration_hours": 684.18,
     "average_duration_minutes": 104.5,
-    "total_listeners": 59005,
-    "average_listeners": 154.5,
-    "episodes_with_listener_data": 382,
+    "total_listeners": 58954,
+    "average_listeners": 154.7,
+    "episodes_with_listener_data": 381,
     "breakdown_by_type": {
-      "hosted": 253,
+      "hosted": 252,
       "co-hosted": 141
     },
-    "last_updated": "2025-12-12T09:53:31.136550"
+    "last_updated": "2025-12-12T10:09:05.207864"
   }
 }
