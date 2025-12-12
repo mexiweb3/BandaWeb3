@@ -1340,7 +1340,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20250217",
+      "number": "20250217-1",
       "flyers": [
         "flyer_ethereum_mexico_generic.png"
       ]
@@ -1438,7 +1438,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20250210",
+      "number": "20250210-1",
       "flyers": [
         "flyer_ethereum_mexico_generic.png"
       ]
@@ -1669,7 +1669,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20250120",
+      "number": "20250120-2",
       "flyers": [
         "flyer_ethereum_mexico_generic.png"
       ]
@@ -1691,7 +1691,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20250120",
+      "number": "20250120-1",
       "flyers": [
         "flyer_cryptonotaz_generic.png"
       ]
@@ -2760,13 +2760,13 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20241107",
+      "number": "20241107-1",
       "flyers": [
         "flyer_ethereum_mexico_generic.png"
       ]
     },
     {
-      "number": "20241107",
+      "number": "20241107-2",
       "title": "Ethereum Mexico 🇲🇽",
       "date": "2024-11-07",
       "duration": "00:52:00",
@@ -3836,7 +3836,7 @@
       ]
     },
     {
-      "number": "20240502",
+      "number": "20240502-2",
       "title": "banda web3 - solana con @brazilliancare @superteammx",
       "date": "2024-05-02",
       "duration": "01:18:50",
@@ -3861,7 +3861,7 @@
       ]
     },
     {
-      "number": "20240430",
+      "number": "20240430-2",
       "title": "banda web3 - runes #Sub100k",
       "date": "2024-04-30",
       "duration": "01:03:00",
@@ -3902,7 +3902,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20240429",
+      "number": "20240429-1",
       "flyers": [
         "flyer_xverse_es_generic.png"
       ]
@@ -3958,7 +3958,7 @@
       ]
     },
     {
-      "number": "20240423",
+      "number": "20240423-2",
       "title": "banda web3 - @unlocksummit_io 2da edición - 24 y 25 de mayo - puebla",
       "date": "2024-04-23",
       "duration": "01:19:35",
@@ -4005,7 +4005,7 @@
       ]
     },
     {
-      "number": "20240420",
+      "number": "20240420-1",
       "title": "RUNES ARE A SCAM - DO•NOT•MINT•RUNES",
       "date": "2024-04-20",
       "duration": "00:25:54",
@@ -4046,7 +4046,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20240420",
+      "number": "20240420-2",
       "flyers": [
         "flyer_abrahamrivv_generic.png"
       ]
@@ -4054,7 +4054,7 @@
     {
       "title": "banda web3 - la historia del dinero, bitcoin, halving",
       "date": "2024-04-18",
-      "number": "20240418",
+      "number": "20240418-2",
       "type": "hosted",
       "is_numbered": false,
       "host": "BandaWeb3",
@@ -4075,7 +4075,7 @@
       ]
     },
     {
-      "number": "20240416",
+      "number": "20240416-2",
       "title": "banda web3 - panorama general 2017-2024",
       "date": "2024-04-16",
       "duration": "01:27:39",
@@ -4285,7 +4285,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20240319",
+      "number": "20240319-1",
       "flyers": [
         "flyer_womenofweb3_generic.png"
       ]
@@ -4319,7 +4319,7 @@
       ]
     },
     {
-      "number": "20240312",
+      "number": "20240312-2",
       "title": "banda web3 - @anananfts",
       "date": "2024-03-12",
       "duration": "01:51:11",
@@ -4344,7 +4344,7 @@
       ]
     },
     {
-      "number": "20240307",
+      "number": "20240307-2",
       "title": "la abogada y el inge - @gitcoin ronda de comunidades latam",
       "date": "2024-03-07",
       "duration": "01:49:15",
@@ -4394,7 +4394,7 @@
       ]
     },
     {
-      "number": "20240229",
+      "number": "20240229-2",
       "title": "banda web3 - taller para devs web3 en mty con @leemarreros",
       "date": "2024-02-29",
       "duration": "01:24:36",
@@ -4516,7 +4516,7 @@
       ]
     },
     {
-      "number": "20240213",
+      "number": "20240213-2",
       "title": "banda web3 - eventos @nounsmx @musica_w3 @nerdconf_ar",
       "date": "2024-02-13",
       "duration": "02:41:38",
@@ -4541,7 +4541,7 @@
       ]
     },
     {
-      "number": "20240206",
+      "number": "20240206-1",
       "title": "Hackathon @ETHCincodeMayo con @solencontraluz",
       "date": "2024-02-06",
       "duration": "02:03:51",
@@ -4566,7 +4566,7 @@
       ]
     },
     {
-      "number": "20240130",
+      "number": "20240130-2",
       "title": "BW3 - Apps Web2, XRC20 🌉 2️⃣ @Arbitrum, $WEN, $JUP",
       "date": "2024-01-30",
       "duration": "01:49:16",
@@ -4591,7 +4591,7 @@
       ]
     },
     {
-      "number": "20240125",
+      "number": "20240125-1",
       "title": "Banda Web3 - Grants de @Meta_Pool, XRC20 $SUB80K",
       "date": "2024-01-25",
       "duration": "01:55:14",
@@ -4725,7 +4725,7 @@
       ]
     },
     {
-      "number": "20240111",
+      "number": "20240111-2",
       "title": "Banda Web3 - Nouns, Prop House y Nouns DAO Amigos",
       "date": "2024-01-11",
       "duration": "02:11:19",
@@ -4792,7 +4792,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20240111"
+      "number": "20240111-1"
     },
     {
       "number": "20240110",
@@ -4870,7 +4870,7 @@
       ]
     },
     {
-      "number": "20240108",
+      "number": "20240108-1",
       "title": "MINT PARTY ❤️ | HAIKU 🔴 x #welovetheart @Musica_W3",
       "date": "2024-01-08",
       "duration": "02:47:00",
@@ -4943,7 +4943,7 @@
       ]
     },
     {
-      "number": "20240102",
+      "number": "20240102-2",
       "title": "Shill X Space - Proyectos Mexicanos en Gitcoin",
       "date": "2024-01-02",
       "duration": "02:12:43",
@@ -4968,7 +4968,7 @@
       ]
     },
     {
-      "number": "20231231",
+      "number": "20231231-2",
       "title": "Subasta de WL #Sub80k con $MEXI y $Sub80k",
       "date": "2023-12-31",
       "duration": "02:17:14",
@@ -5041,7 +5041,7 @@
       ]
     },
     {
-      "number": "20231228",
+      "number": "20231228-2",
       "title": "Solscriptions Colección Hispana Sub80K con @CryptoNotaz",
       "date": "2023-12-28",
       "duration": "01:59:47",
@@ -5089,7 +5089,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20231228"
+      "number": "20231228-1"
     },
     {
       "number": "20231228-2",
@@ -5113,7 +5113,7 @@
       ]
     },
     {
-      "number": "20231227",
+      "number": "20231227-1",
       "title": "XRC20 $MEXI",
       "date": "2023-12-27",
       "duration": "00:45:57",
@@ -5140,7 +5140,7 @@
     {
       "title": "XRC20 - Solscriptions - Ethscriptions - Todo el Alpha",
       "date": "2023-12-27",
-      "number": "20231227",
+      "number": "20231227-2",
       "type": "hosted",
       "is_numbered": false,
       "host": "BandaWeb3",
@@ -5440,7 +5440,7 @@
       ]
     },
     {
-      "number": "20231207",
+      "number": "20231207-1",
       "title": "La Abogada, el Economista y el Inge - Argentina y Stables en Francia",
       "date": "2023-12-07",
       "duration": "01:01:20",
@@ -5484,7 +5484,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20231207"
+      "number": "20231207-2"
     },
     {
       "number": "20231207-2",
@@ -5688,7 +5688,7 @@
       "host": "@Gitcoin19Radio"
     },
     {
-      "number": "20231123",
+      "number": "20231123-1",
       "title": "El Economista y el Ingeniero - Argentina y Milei",
       "date": "2023-11-23",
       "duration": "01:21:06",
@@ -5755,10 +5755,10 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20231123"
+      "number": "20231123-2"
     },
     {
-      "number": "20231121",
+      "number": "20231121-2",
       "title": "Eventos en Mty, puentes quemados, @Gitcoin Shill Space",
       "date": "2023-11-21",
       "duration": "03:30:56",
@@ -5810,7 +5810,7 @@
       ]
     },
     {
-      "number": "20231116",
+      "number": "20231116-1",
       "title": "@Meta_Pool - Gobernanza on-chain y Grants",
       "date": "2023-11-16",
       "duration": "01:51:54",
@@ -5891,7 +5891,7 @@
       ]
     },
     {
-      "number": "20231109",
+      "number": "20231109-2",
       "title": "PixHelp de @UNICEFColombia - Arte NFT que ayuda",
       "date": "2023-11-09",
       "duration": "01:59:05",
@@ -6023,7 +6023,7 @@
       ]
     },
     {
-      "number": "20231102",
+      "number": "20231102-2",
       "title": "AMA @openshowmx | Aleks Syntek @syntekoficial habla de Web3",
       "date": "2023-11-02",
       "duration": "03:57:00",
@@ -6171,7 +6171,7 @@
       ]
     },
     {
-      "number": "20231017",
+      "number": "20231017-1",
       "title": "Women of Web3 \n@sandym_c \n@anananfts - Rifa NFTs",
       "date": "2023-10-17",
       "duration": "01:33:00",
@@ -6543,7 +6543,7 @@
       ]
     },
     {
-      "number": "20230822",
+      "number": "20230822-1",
       "title": "Cripto Latin Fest - Inolvidable",
       "date": "2023-08-22",
       "duration": "02:30:37",
@@ -6642,7 +6642,7 @@
       ]
     },
     {
-      "number": "20230803",
+      "number": "20230803-2",
       "title": "Superama y Ananá se van a la Luna",
       "date": "2023-08-03",
       "duration": "01:47:00",
@@ -6715,7 +6715,7 @@
       ]
     },
     {
-      "number": "20230725",
+      "number": "20230725-1",
       "title": "Open Mic - 69 segundos para shillear lo que sea",
       "date": "2023-07-25",
       "duration": "00:59:25",
@@ -6765,7 +6765,7 @@
     {
       "title": "Open Mic - Parte 2 - 69 segundos para shillear lo que sea",
       "date": "2023-07-25",
-      "number": "20230725",
+      "number": "20230725-2",
       "type": "hosted",
       "is_numbered": false,
       "host": "BandaWeb3",
@@ -6786,7 +6786,7 @@
       ]
     },
     {
-      "number": "20230718",
+      "number": "20230718-1",
       "title": "La Curadora, la Sacerdotisa y el Ingeniero - Eventos en CDMX",
       "date": "2023-07-18",
       "duration": "02:30:15",
@@ -6811,7 +6811,7 @@
       ]
     },
     {
-      "number": "20230706",
+      "number": "20230706-1",
       "title": "Lu, Jesús y Mexi - Threads, todo lo que necesitas saber",
       "date": "2023-07-06",
       "duration": "00:42:12",
@@ -6852,7 +6852,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20230706"
+      "number": "20230706-2"
     },
     {
       "number": "20230706-2",
@@ -6945,7 +6945,7 @@
       ]
     },
     {
-      "number": "20230613",
+      "number": "20230613-1",
       "title": "La Sacerdotisa, el Economista y el Inge - CriptoLatinFest/Cetes/$NET",
       "date": "2023-06-13",
       "duration": "02:18:42",
@@ -6995,7 +6995,7 @@
       ]
     },
     {
-      "number": "20230606",
+      "number": "20230606-2",
       "title": "La Sacerdotisa, el Economista y el Inge - Rug Show Mx",
       "date": "2023-06-06",
       "duration": "02:58:24",
@@ -7070,7 +7070,7 @@
       ]
     },
     {
-      "number": "20230530",
+      "number": "20230530-1",
       "title": "La Maestra, el Economista y el Ingeniero - CriptoMéxico en MTY",
       "date": "2023-05-30",
       "duration": "02:36:00",
@@ -7115,7 +7115,7 @@
       ]
     },
     {
-      "number": "20230525",
+      "number": "20230525-1",
       "title": "Founders y proyectos que vinieron a Mty",
       "date": "2023-05-25",
       "duration": "03:21:23",
@@ -7140,7 +7140,7 @@
       ]
     },
     {
-      "number": "20230518",
+      "number": "20230518-3",
       "title": "La Abogada, el Economista y el Ingeniero - El Artículo de $PEPE",
       "date": "2023-05-18",
       "duration": "01:50:41",
@@ -7167,7 +7167,7 @@
     {
       "title": "La Abogada, el Economista y El Ingeniero - NFT Show México Mty",
       "date": "2023-05-18",
-      "number": "20230518",
+      "number": "20230518-2",
       "type": "hosted",
       "is_numbered": false,
       "host": "BandaWeb3",
@@ -7213,7 +7213,7 @@
       ]
     },
     {
-      "number": "20230516",
+      "number": "20230516-2",
       "title": "El Economista y el Ingeniero - ¿Shitcoins = Ponzis?",
       "date": "2023-05-16",
       "duration": "03:20:00",
@@ -7308,7 +7308,7 @@
       ]
     },
     {
-      "number": "20230509",
+      "number": "20230509-2",
       "title": "El Gorila, el Economista y el Ingeniero - Tulum Crypto Fest",
       "date": "2023-05-09",
       "duration": "00:59:59",
@@ -7335,7 +7335,7 @@
     {
       "title": "El Economista y el Ingeniero - @TulumCryptoFest / Eventos Web3 Mty",
       "date": "2023-05-09",
-      "number": "20230509",
+      "number": "20230509-1",
       "type": "hosted",
       "is_numbered": false,
       "host": "BandaWeb3",
@@ -7381,7 +7381,7 @@
       ]
     },
     {
-      "number": "20230429",
+      "number": "20230429-2",
       "title": "🚎México en Web 3🌵 | ¡Hay muchos mexicanos chingones! 🌮",
       "date": "2023-04-29",
       "duration": "04:36:00",
@@ -7429,7 +7429,7 @@
       ]
     },
     {
-      "number": "20230425",
+      "number": "20230425-2",
       "title": "El Profesor, el Economista y el Ingeniero - Eventos Web3, hay valor?",
       "date": "2023-04-25",
       "duration": "03:09:27",
@@ -7454,7 +7454,7 @@
       ]
     },
     {
-      "number": "20230423",
+      "number": "20230423-1",
       "title": "Invasión de EUA? La locura!",
       "date": "2023-04-23",
       "duration": "02:47:00",
@@ -7598,7 +7598,7 @@
       ]
     },
     {
-      "number": "20230316",
+      "number": "20230316-2",
       "title": "La Abogada, el Economista y el Ingeniero - ¿Credit Suisse caerá?",
       "date": "2023-03-16",
       "duration": "02:17:39",
@@ -7648,7 +7648,7 @@
       ]
     },
     {
-      "number": "20230313",
+      "number": "20230313-1",
       "title": "blur en español",
       "date": "2023-03-13",
       "duration": "06:31:00",
@@ -7687,7 +7687,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20230313",
+      "number": "20230313-2",
       "flyers": [
         "flyer_el_profesor_eth_generic.png"
       ]
@@ -7709,10 +7709,10 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20230310"
+      "number": "20230310-2"
     },
     {
-      "number": "20230310",
+      "number": "20230310-1",
       "title": "Felipe Servin ⚡️",
       "date": "2023-03-10",
       "duration": "01:07:00",
@@ -7730,7 +7730,7 @@
       "host": "@fservin"
     },
     {
-      "number": "20230309",
+      "number": "20230309-2",
       "title": "La Abogada, el Economista y el Ingeniero - Leyes para DAOs",
       "date": "2023-03-09",
       "duration": "01:59:46",
@@ -7803,7 +7803,7 @@
       ]
     },
     {
-      "number": "20230304",
+      "number": "20230304-1",
       "title": "Platicame de tu proyecto",
       "date": "2023-03-04",
       "duration": "00:32:00",
@@ -7826,7 +7826,7 @@
       ]
     },
     {
-      "number": "20230303",
+      "number": "20230303-1",
       "title": "Tips para conseguir trabajo en Web3 - @MelanieKrystell @mxweb3",
       "date": "2023-03-03",
       "duration": "01:17:00",
@@ -7909,7 +7909,7 @@
       ]
     },
     {
-      "number": "20230223",
+      "number": "20230223-1",
       "title": "La Abogada, el Economista y el Ingeniero",
       "date": "2023-02-23",
       "duration": "02:00:06",
@@ -7934,7 +7934,7 @@
       ]
     },
     {
-      "number": "20230221",
+      "number": "20230221-1",
       "title": "La Contadora, el Economista y el Ingeniero - Regulación Cripto",
       "date": "2023-02-21",
       "duration": "01:45:24",
@@ -7959,7 +7959,7 @@
       ]
     },
     {
-      "number": "20230216",
+      "number": "20230216-1",
       "title": "La Abogada, el Economista y el Ingeniero - Historia del Dinero",
       "date": "2023-02-16",
       "duration": "01:41:40",
@@ -7984,7 +7984,7 @@
       ]
     },
     {
-      "number": "20230214",
+      "number": "20230214-2",
       "title": "El Economista y el Ingeniero",
       "date": "2023-02-14",
       "duration": "01:45:47",
@@ -8170,7 +8170,7 @@
       ]
     },
     {
-      "number": "20230209",
+      "number": "20230209-1",
       "title": "La Abogada, el Economista y el Ingeniero",
       "date": "2023-02-09",
       "duration": "01:59:41",
@@ -8211,10 +8211,10 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20230209"
+      "number": "20230209-2"
     },
     {
-      "number": "20230207",
+      "number": "20230207-1",
       "title": "La Criptoartista, el Economista y el Ingeniero -Bitcoin/Metaverse",
       "date": "2023-02-07",
       "duration": "01:51:00",
@@ -8236,7 +8236,7 @@
     {
       "title": "La Criptoartista, el Economista y el Ingeniero -BitcoinNFTs/Metaverse",
       "date": "2023-02-07",
-      "number": "20230207",
+      "number": "20230207-2",
       "type": "hosted",
       "is_numbered": false,
       "host": "BandaWeb3",
@@ -8282,7 +8282,7 @@
       ]
     },
     {
-      "number": "20230131",
+      "number": "20230131-1",
       "title": "La artista, el pescador y el ingeniero - cómo entrevistar proyectos?",
       "date": "2023-01-31",
       "duration": "03:02:27",
@@ -8377,7 +8377,7 @@
       "participant_graph": "participant_graph_20230126.png"
     },
     {
-      "number": "20230124",
+      "number": "20230124-1",
       "title": "El economista, el profesor y el ingeniero - Tokenización de activos",
       "date": "2023-01-24",
       "duration": "01:21:52",
@@ -8448,7 +8448,7 @@
       ]
     },
     {
-      "number": "20230119",
+      "number": "20230119-2",
       "title": "La abogada, el economista y el ingeniero",
       "date": "2023-01-19",
       "duration": "01:53:05",
@@ -8523,7 +8523,7 @@
       ]
     },
     {
-      "number": "20230110",
+      "number": "20230110-1",
       "title": "El economista y el ingeniero - ¿Buenas noticias en los mercados?",
       "date": "2023-01-10",
       "duration": "01:45:18",
@@ -8620,7 +8620,7 @@
       ]
     },
     {
-      "number": "20230103",
+      "number": "20230103-1",
       "title": "La abogada, el economista y el ingeniero - 2022 y Perspectivas 2023",
       "date": "2023-01-03",
       "duration": "01:33:53",
@@ -8661,7 +8661,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20230103"
+      "number": "20230103-2"
     },
     {
       "number": "20221229",
@@ -8710,7 +8710,7 @@
       ]
     },
     {
-      "number": "20221222",
+      "number": "20221222-1",
       "title": "La abogada, el economista y el ingeniero - The Rug Pull Report 2022",
       "date": "2022-12-22",
       "duration": "01:55:50",
@@ -8764,7 +8764,7 @@
       ]
     },
     {
-      "number": "20221220",
+      "number": "20221220-1",
       "title": "El economista, el ingeniero y el dropout - Tesla en NL, MX",
       "date": "2022-12-20",
       "duration": "02:05:50",
@@ -8805,7 +8805,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20221220",
+      "number": "20221220-2",
       "flyers": [
         "flyer_nftdefiland_generic.png"
       ]
@@ -8886,7 +8886,7 @@
       ]
     },
     {
-      "number": "20221214",
+      "number": "20221214-1",
       "title": "@mxweb3 sesión 2 - lluvia de ideas",
       "date": "2022-12-14",
       "duration": "02:11:20",
@@ -8963,7 +8963,7 @@
       ]
     },
     {
-      "number": "20221208",
+      "number": "20221208-1",
       "title": "Brainstorming comunidad @mxweb3",
       "date": "2022-12-08",
       "duration": "01:02:23",
@@ -9033,7 +9033,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20221202",
+      "number": "20221202-2",
       "flyers": [
         "flyer_nftdefiland_generic.png"
       ]
@@ -9089,7 +9089,7 @@
       ]
     },
     {
-      "number": "20221128",
+      "number": "20221128-1",
       "title": "Portugal vs Uruguay + NFTs en Español!",
       "date": "2022-11-28",
       "duration": "02:15:00",
@@ -9125,7 +9125,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20221128",
+      "number": "20221128-2",
       "flyers": [
         "flyer_el_profesor_eth_generic.png"
       ]
@@ -9200,7 +9200,7 @@
       ]
     },
     {
-      "number": "20221122",
+      "number": "20221122-1",
       "title": "El economista y el ingeniero Ep04",
       "date": "2022-11-22",
       "duration": "01:51:27",
@@ -9231,7 +9231,7 @@
     {
       "title": "Previo al evento en Monterrey de @MarcusDantusNFT",
       "date": "2022-11-22",
-      "number": "20221122",
+      "number": "20221122-2",
       "type": "hosted",
       "is_numbered": false,
       "host": "BandaWeb3",
@@ -9252,7 +9252,7 @@
       ]
     },
     {
-      "number": "20221121",
+      "number": "20221121-2",
       "title": "libertad de expresion ♠️ momentum",
       "date": "2022-11-21",
       "duration": "02:00:00",
@@ -9275,7 +9275,7 @@
       ]
     },
     {
-      "number": "20221117",
+      "number": "20221117-1",
       "title": "El economista y el ingeniero Ep03",
       "date": "2022-11-17",
       "duration": "01:30:56",
@@ -9336,7 +9336,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20221117",
+      "number": "20221117-3",
       "flyers": [
         "flyer_nftdefiland_generic.png"
       ]
@@ -9413,7 +9413,7 @@
       ]
     },
     {
-      "number": "20221112",
+      "number": "20221112-1",
       "title": "Café Tacuba Acústico Live",
       "date": "2022-11-12",
       "duration": "00:21:45",
@@ -9604,7 +9604,7 @@
       ]
     },
     {
-      "number": "20221103",
+      "number": "20221103-2",
       "title": "Heroes NFT Club x Selección Nacional de México",
       "date": "2022-11-03",
       "duration": "01:38:00",
@@ -9674,7 +9674,7 @@
       ]
     },
     {
-      "number": "20221025",
+      "number": "20221025-1",
       "title": "Comunidad☕️",
       "date": "2022-10-25",
       "duration": "01:40:00",
@@ -9736,13 +9736,13 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20221019",
+      "number": "20221019-2",
       "flyers": [
         "flyer_nftdefiland_generic.png"
       ]
     },
     {
-      "number": "20221018",
+      "number": "20221018-2",
       "title": "♠️#NFT CHANGE: THE ONLY CONSTANT.",
       "date": "2022-10-18",
       "duration": "03:12:00",
@@ -9806,10 +9806,10 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20221014"
+      "number": "20221014-2"
     },
     {
-      "number": "20221014",
+      "number": "20221014-1",
       "title": "Diego Benítez Concha",
       "date": "2022-10-14",
       "duration": "02:23:00",
@@ -9827,7 +9827,7 @@
       "host": "@diegobc28"
     },
     {
-      "number": "20221011",
+      "number": "20221011-1",
       "title": "rugged intento 2... una disculpa mensajes de cierre!",
       "date": "2022-10-11",
       "duration": "00:25:00",
@@ -9866,13 +9866,13 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20221011",
+      "number": "20221011-2",
       "flyers": [
         "flyer_nftdefiland_generic.png"
       ]
     },
     {
-      "number": "20220930",
+      "number": "20220930-1",
       "title": "Blockchain Land en Monterrey del 5 al 7 de Octubre en Cintermex",
       "date": "2022-09-30",
       "duration": "01:48:22",
@@ -9917,7 +9917,7 @@
       "host": "@WriteArtLove"
     },
     {
-      "number": "20220927",
+      "number": "20220927-2",
       "title": "☕️Mañanero #Web3: panorama actual y noticias.",
       "date": "2022-09-27",
       "duration": "02:23:00",
@@ -10032,7 +10032,7 @@
       ]
     },
     {
-      "number": "20220908",
+      "number": "20220908-1",
       "title": "Mañanero #Web3: Nomadas digitales.",
       "date": "2022-09-08",
       "duration": "03:00:00",
@@ -10152,7 +10152,7 @@
       ]
     },
     {
-      "number": "20220721",
+      "number": "20220721-2",
       "title": "NFTs ¿Qué hay que considerar al lanzar una colección de NFTs?",
       "date": "2022-07-21",
       "duration": "02:55:38",
@@ -10231,7 +10231,7 @@
       ]
     },
     {
-      "number": "20220616",
+      "number": "20220616-1",
       "title": "Platicando sobre propiedad intelectual de  (Español)",
       "date": "2022-06-16",
       "duration": "02:48:00",
@@ -10253,7 +10253,7 @@
     {
       "title": "Platicando sobre propiedad intelectual de NFTs (Español)",
       "date": "2022-06-16",
-      "number": "20220616",
+      "number": "20220616-2",
       "type": "hosted",
       "is_numbered": false,
       "host": "BandaWeb3",
@@ -10389,6 +10389,6 @@
       "hosted": 253,
       "co-hosted": 141
     },
-    "last_updated": "2025-12-12T09:19:09.289822"
+    "last_updated": "2025-12-12T09:39:37.506398"
   }
 }

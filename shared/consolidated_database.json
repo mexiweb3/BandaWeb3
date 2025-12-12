@@ -1837,7 +1837,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20250217",
+      "number": "20250217-1",
       "flyers": [
         "flyer_ethereum_mexico_generic.png"
       ]
@@ -1852,7 +1852,7 @@
       "duration": "01:33:02",
       "space_url": "https://x.com/i/spaces/1mrGmPpXdQBKy",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1mrGmPpXdQBKy/libra-danando-la-imagen-de-solana-solseando-ep41",
-      "number": "20250217"
+      "number": "20250217-2"
     },
     {
       "type": "Spoken",
@@ -1995,7 +1995,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20250210",
+      "number": "20250210-1",
       "flyers": [
         "flyer_ethereum_mexico_generic.png"
       ]
@@ -2010,7 +2010,7 @@
       "duration": "01:24:00",
       "space_url": "https://x.com/i/spaces/1YqGooedBNvGv",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1YqGooedBNvGv/resumen-de-solana-apex-en-mexico-solseando-ep40",
-      "number": "20250210"
+      "number": "20250210-2"
     },
     {
       "type": "Spoken",
@@ -2262,7 +2262,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20250120",
+      "number": "20250120-2",
       "flyers": [
         "flyer_ethereum_mexico_generic.png"
       ]
@@ -2284,7 +2284,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20250120",
+      "number": "20250120-1",
       "flyers": [
         "flyer_cryptonotaz_generic.png"
       ]
@@ -3487,13 +3487,13 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20241107",
+      "number": "20241107-1",
       "flyers": [
         "flyer_ethereum_mexico_generic.png"
       ]
     },
     {
-      "number": "20241107",
+      "number": "20241107-2",
       "title": "Ethereum Mexico 🇲🇽",
       "date": "2024-11-07",
       "duration": "00:52:00",
@@ -5007,7 +5007,7 @@
       "number": "20240503"
     },
     {
-      "number": "20240502",
+      "number": "20240502-2",
       "title": "banda web3 - solana con @brazilliancare @superteammx",
       "date": "2024-05-02",
       "duration": "01:18:50",
@@ -5041,7 +5041,7 @@
       "duration": "20:47:00",
       "space_url": "https://x.com/i/spaces/1djGXNOQVjPxZ",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1djGXNOQVjPxZ/lets-grow-live-247-gg20",
-      "number": "20240502"
+      "number": "20240502-1"
     },
     {
       "type": "Spoken",
@@ -5068,7 +5068,7 @@
       "number": "20240501.2"
     },
     {
-      "number": "20240430",
+      "number": "20240430-2",
       "title": "banda web3 - runes #Sub100k",
       "date": "2024-04-30",
       "duration": "01:03:00",
@@ -5102,7 +5102,7 @@
       "duration": "02:00:00",
       "space_url": "https://x.com/i/spaces/1DXxyjaVjMWKM",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1DXxyjaVjMWKM/nouniverso-nouns-nogs-prop-house-farcaster",
-      "number": "20240430"
+      "number": "20240430-1"
     },
     {
       "title": "Post Runes: hablemos de Runes después del Halving 🤝",
@@ -5121,7 +5121,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20240429",
+      "number": "20240429-1",
       "flyers": [
         "flyer_xverse_es_generic.png"
       ]
@@ -5136,7 +5136,7 @@
       "duration": "01:43:00",
       "space_url": "https://x.com/i/spaces/1rmGPMQrnPEJN",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1rmGPMQrnPEJN/post-runes-hablemos-de-runes-despues-del-halving",
-      "number": "20240429"
+      "number": "20240429-2"
     },
     {
       "number": "20240427",
@@ -5213,7 +5213,7 @@
       "number": "20240424.2"
     },
     {
-      "number": "20240423",
+      "number": "20240423-2",
       "title": "banda web3 - @unlocksummit_io 2da edición - 24 y 25 de mayo - puebla",
       "date": "2024-04-23",
       "duration": "01:19:35",
@@ -5247,7 +5247,7 @@
       "duration": "01:47:00",
       "space_url": "https://x.com/i/spaces/1OyKAWQbnlDJb",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1OyKAWQbnlDJb/nouniverso-nogs-farcaster-prop-house",
-      "number": "20240423"
+      "number": "20240423-1"
     },
     {
       "title": "Wenos Días / hablemos de runes. Cómo hacer o comprar runes.",
@@ -5272,7 +5272,7 @@
       ]
     },
     {
-      "number": "20240420",
+      "number": "20240420-1",
       "title": "RUNES ARE A SCAM - DO•NOT•MINT•RUNES",
       "date": "2024-04-20",
       "duration": "00:25:54",
@@ -5313,7 +5313,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20240420",
+      "number": "20240420-2",
       "flyers": [
         "flyer_abrahamrivv_generic.png"
       ]
@@ -5333,7 +5333,7 @@
     {
       "title": "banda web3 - la historia del dinero, bitcoin, halving",
       "date": "2024-04-18",
-      "number": "20240418",
+      "number": "20240418-2",
       "type": "hosted",
       "is_numbered": false,
       "host": "BandaWeb3",
@@ -5363,10 +5363,10 @@
       "duration": "01:05:00",
       "space_url": "https://x.com/i/spaces/1eaKbgpBXpXGX",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1eaKbgpBXpXGX/descentralizacion-y-gobernanza-en-web3",
-      "number": "20240418"
+      "number": "20240418-1"
     },
     {
-      "number": "20240416",
+      "number": "20240416-2",
       "title": "banda web3 - panorama general 2017-2024",
       "date": "2024-04-16",
       "duration": "01:27:39",
@@ -5400,7 +5400,7 @@
       "duration": "00:50:00",
       "space_url": "https://x.com/i/spaces/1MYxNopEgbpKw",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1MYxNopEgbpKw/consensus-2023-becas-latam-para-austin-texas-todo-pago",
-      "number": "20240416"
+      "number": "20240416-1"
     },
     {
       "type": "Spoken",
@@ -5684,7 +5684,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20240319",
+      "number": "20240319-1",
       "flyers": [
         "flyer_womenofweb3_generic.png"
       ]
@@ -5699,7 +5699,7 @@
       "duration": "00:52:00",
       "space_url": "https://x.com/i/spaces/1yoKMwqMgZlJQ",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1yoKMwqMgZlJQ/unlock-protocol-retroqf-grant-round-space",
-      "number": "20240319"
+      "number": "20240319-2"
     },
     {
       "number": "20240314",
@@ -5730,7 +5730,7 @@
       ]
     },
     {
-      "number": "20240312",
+      "number": "20240312-2",
       "title": "banda web3 - @anananfts",
       "date": "2024-03-12",
       "duration": "01:51:11",
@@ -5764,7 +5764,7 @@
       "duration": "01:22:00",
       "space_url": "https://x.com/i/spaces/1lPKqbYBeWYGb",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1lPKqbYBeWYGb/la-mananera-no-16-allen",
-      "number": "20240312"
+      "number": "20240312-1"
     },
     {
       "type": "Spoken",
@@ -5779,7 +5779,7 @@
       "number": "20240310"
     },
     {
-      "number": "20240307",
+      "number": "20240307-2",
       "title": "la abogada y el inge - @gitcoin ronda de comunidades latam",
       "date": "2024-03-07",
       "duration": "01:49:15",
@@ -5813,7 +5813,7 @@
       "duration": "01:13:00",
       "space_url": "https://x.com/i/spaces/1YqKDgDZdkYxV",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1YqKDgDZdkYxV/57-aumentando-ventas-con-lealtad-y-web3-loty",
-      "number": "20240307"
+      "number": "20240307-1"
     },
     {
       "number": "20240305",
@@ -5913,7 +5913,7 @@
       "number": "20240304.3"
     },
     {
-      "number": "20240229",
+      "number": "20240229-2",
       "title": "banda web3 - taller para devs web3 en mty con @leemarreros",
       "date": "2024-02-29",
       "duration": "01:24:36",
@@ -5947,7 +5947,7 @@
       "duration": "01:16:00",
       "space_url": "https://x.com/i/spaces/1ypKdkoaZWVxW",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1ypKdkoaZWVxW/la-mananera-no-13-leandro",
-      "number": "20240229"
+      "number": "20240229-1"
     },
     {
       "type": "Spoken",
@@ -6083,7 +6083,7 @@
       ]
     },
     {
-      "number": "20240213",
+      "number": "20240213-2",
       "title": "banda web3 - eventos @nounsmx @musica_w3 @nerdconf_ar",
       "date": "2024-02-13",
       "duration": "02:41:38",
@@ -6117,7 +6117,7 @@
       "duration": "01:21:00",
       "space_url": "https://x.com/i/spaces/1YpJkwpwAPNJj",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1YpJkwpwAPNJj/nouniverso-nounticias-nouncil-prop-house-base-paint",
-      "number": "20240213"
+      "number": "20240213-1"
     },
     {
       "type": "Spoken",
@@ -6168,7 +6168,7 @@
       "number": "20240208.2"
     },
     {
-      "number": "20240206",
+      "number": "20240206-1",
       "title": "Hackathon @ETHCincodeMayo con @solencontraluz",
       "date": "2024-02-06",
       "duration": "02:03:51",
@@ -6202,7 +6202,7 @@
       "duration": "02:03:00",
       "space_url": "https://x.com/i/spaces/1nAKEaqnZPXKL",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1nAKEaqnZPXKL/web3-hispano-el-potencial-de-una-comunidad-rug-lounge-ep2",
-      "number": "20240206"
+      "number": "20240206-2"
     },
     {
       "type": "Spoken",
@@ -6217,7 +6217,7 @@
       "number": "20240131"
     },
     {
-      "number": "20240130",
+      "number": "20240130-2",
       "title": "BW3 - Apps Web2, XRC20 🌉 2️⃣ @Arbitrum, $WEN, $JUP",
       "date": "2024-01-30",
       "duration": "01:49:16",
@@ -6251,7 +6251,7 @@
       "duration": "01:06:00",
       "space_url": "https://x.com/i/spaces/1yNGaZwXRpVJj",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1yNGaZwXRpVJj/52-hackathons-hackathons-y-mas-hackathons-con-eth-5-de-mayo",
-      "number": "20240130"
+      "number": "20240130-1"
     },
     {
       "type": "Spoken",
@@ -6304,7 +6304,7 @@
       "description": ""
     },
     {
-      "number": "20240125",
+      "number": "20240125-1",
       "title": "Banda Web3 - Grants de @Meta_Pool, XRC20 $SUB80K",
       "date": "2024-01-25",
       "duration": "01:55:14",
@@ -6342,7 +6342,7 @@
       "duration": "01:23:00",
       "space_url": "https://x.com/i/spaces/1gqxvQADVVAJB",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1gqxvQADVVAJB/la-mananera-no4-osten-community-at-at-seinetwork",
-      "number": "20240125"
+      "number": "20240125-2"
     },
     {
       "type": "Spoken",
@@ -6666,7 +6666,7 @@
       "number": "20240112"
     },
     {
-      "number": "20240111",
+      "number": "20240111-2",
       "title": "Banda Web3 - Nouns, Prop House y Nouns DAO Amigos",
       "date": "2024-01-11",
       "duration": "02:11:19",
@@ -6733,7 +6733,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20240111"
+      "number": "20240111-1"
     },
     {
       "number": "20240110",
@@ -6811,7 +6811,7 @@
       ]
     },
     {
-      "number": "20240108",
+      "number": "20240108-1",
       "title": "MINT PARTY ❤️ | HAIKU 🔴 x #welovetheart @Musica_W3",
       "date": "2024-01-08",
       "duration": "02:47:00",
@@ -6845,7 +6845,7 @@
       "duration": "01:52:00",
       "space_url": "https://x.com/i/spaces/1dRKZEyMdDXxB",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1dRKZEyMdDXxB/preguntas-y-respuestas-de-la-ronda-de-nouns-amigos",
-      "number": "20240108"
+      "number": "20240108-2"
     },
     {
       "number": "20240104",
@@ -6944,7 +6944,7 @@
       "number": "20240103.3"
     },
     {
-      "number": "20240102",
+      "number": "20240102-2",
       "title": "Shill X Space - Proyectos Mexicanos en Gitcoin",
       "date": "2024-01-02",
       "duration": "02:12:43",
@@ -6978,10 +6978,10 @@
       "duration": "01:16:00",
       "space_url": "https://x.com/i/spaces/1yoJMwODkLNKQ",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1yoJMwODkLNKQ/welovetheart-music-web3-mint-party-1",
-      "number": "20240102"
+      "number": "20240102-1"
     },
     {
-      "number": "20231231",
+      "number": "20231231-2",
       "title": "Subasta de WL #Sub80k con $MEXI y $Sub80k",
       "date": "2023-12-31",
       "duration": "02:17:14",
@@ -7015,7 +7015,7 @@
       "duration": "01:16:00",
       "space_url": "https://x.com/i/spaces/1ypJdkenLzoGW",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1ypJdkenLzoGW/doge-en-espanol",
-      "number": "20231231"
+      "number": "20231231-1"
     },
     {
       "number": "20231230",
@@ -7090,7 +7090,7 @@
       "number": "20231229"
     },
     {
-      "number": "20231228",
+      "number": "20231228-2",
       "title": "Solscriptions Colección Hispana Sub80K con @CryptoNotaz",
       "date": "2023-12-28",
       "duration": "01:59:47",
@@ -7138,7 +7138,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20231228"
+      "number": "20231228-1"
     },
     {
       "number": "20231228-2",
@@ -7174,7 +7174,7 @@
       "number": "20231228.1"
     },
     {
-      "number": "20231227",
+      "number": "20231227-1",
       "title": "XRC20 $MEXI",
       "date": "2023-12-27",
       "duration": "00:45:57",
@@ -7201,7 +7201,7 @@
     {
       "title": "XRC20 - Solscriptions - Ethscriptions - Todo el Alpha",
       "date": "2023-12-27",
-      "number": "20231227",
+      "number": "20231227-2",
       "type": "hosted",
       "is_numbered": false,
       "host": "BandaWeb3",
@@ -7873,7 +7873,7 @@
       ]
     },
     {
-      "number": "20231207",
+      "number": "20231207-1",
       "title": "La Abogada, el Economista y el Inge - Argentina y Stables en Francia",
       "date": "2023-12-07",
       "duration": "01:01:20",
@@ -7917,7 +7917,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20231207"
+      "number": "20231207-2"
     },
     {
       "number": "20231207-2",
@@ -8277,7 +8277,7 @@
       "number": "20231124"
     },
     {
-      "number": "20231123",
+      "number": "20231123-1",
       "title": "El Economista y el Ingeniero - Argentina y Milei",
       "date": "2023-11-23",
       "duration": "01:21:06",
@@ -8344,7 +8344,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20231123"
+      "number": "20231123-2"
     },
     {
       "type": "Spoken",
@@ -8395,7 +8395,7 @@
       "number": "20231122"
     },
     {
-      "number": "20231121",
+      "number": "20231121-2",
       "title": "Eventos en Mty, puentes quemados, @Gitcoin Shill Space",
       "date": "2023-11-21",
       "duration": "03:30:56",
@@ -8433,7 +8433,7 @@
       "duration": "01:45:00",
       "space_url": "https://x.com/i/spaces/1OyKAWXmylMJb",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1OyKAWXmylMJb/el-gm-el-vale-verguismo",
-      "number": "20231121"
+      "number": "20231121-1"
     },
     {
       "number": "20231120",
@@ -8471,7 +8471,7 @@
       "number": "20231118"
     },
     {
-      "number": "20231116",
+      "number": "20231116-1",
       "title": "@Meta_Pool - Gobernanza on-chain y Grants",
       "date": "2023-11-16",
       "duration": "01:51:54",
@@ -8509,7 +8509,7 @@
       "duration": "00:55:00",
       "space_url": "https://x.com/i/spaces/1vOxwjwODeWJB",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1vOxwjwODeWJB/mpdao-grants-5-discover-the-proposals",
-      "number": "20231116"
+      "number": "20231116-2"
     },
     {
       "type": "Spoken",
@@ -8612,7 +8612,7 @@
       "number": "20231110"
     },
     {
-      "number": "20231109",
+      "number": "20231109-2",
       "title": "PixHelp de @UNICEFColombia - Arte NFT que ayuda",
       "date": "2023-11-09",
       "duration": "01:59:05",
@@ -8650,7 +8650,7 @@
       "duration": "02:12:00",
       "space_url": "https://x.com/i/spaces/1OdKrjlzjgkKX",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1OdKrjlzjgkKX/40-cuenta-tu-propuesta-de-gitcoin-gg19-al-mundo",
-      "number": "20231109"
+      "number": "20231109-1"
     },
     {
       "number": "20231107",
@@ -8804,7 +8804,7 @@
       "number": "20231103.2"
     },
     {
-      "number": "20231102",
+      "number": "20231102-2",
       "title": "AMA @openshowmx | Aleks Syntek @syntekoficial habla de Web3",
       "date": "2023-11-02",
       "duration": "03:57:00",
@@ -8845,7 +8845,7 @@
       "duration": "01:18:00",
       "space_url": "https://x.com/i/spaces/1OwxWYRDlkWGQ",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1OwxWYRDlkWGQ/39-gitcoin-gg19-fondeando-proyectos-web3",
-      "number": "20231102"
+      "number": "20231102-1"
     },
     {
       "number": "20231101",
@@ -9012,7 +9012,7 @@
       "number": "20231025.2"
     },
     {
-      "number": "20231017",
+      "number": "20231017-1",
       "title": "Women of Web3 \n@sandym_c \n@anananfts - Rifa NFTs",
       "date": "2023-10-17",
       "duration": "01:33:00",
@@ -9050,7 +9050,7 @@
       "duration": "01:24:00",
       "space_url": "https://x.com/i/spaces/1mnxepMDgEvJX",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1mnxepMDgEvJX/pelea-es-necesaria-la-educacion-para-la-adopcion-de-la-web3",
-      "number": "20231017"
+      "number": "20231017-2"
     },
     {
       "type": "Spoken",
@@ -9588,7 +9588,7 @@
       ]
     },
     {
-      "number": "20230822",
+      "number": "20230822-1",
       "title": "Cripto Latin Fest - Inolvidable",
       "date": "2023-08-22",
       "duration": "02:30:37",
@@ -9622,7 +9622,7 @@
       "duration": "01:18:00",
       "space_url": "https://x.com/i/spaces/1djxXlVyDWPxZ",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1djxXlVyDWPxZ/unete-a-la-comunidad-de-at-meta-pool-vota-y-obten-recompensas",
-      "number": "20230822"
+      "number": "20230822-2"
     },
     {
       "type": "Spoken",
@@ -9807,7 +9807,7 @@
       "number": "20230804.2"
     },
     {
-      "number": "20230803",
+      "number": "20230803-2",
       "title": "Superama y Ananá se van a la Luna",
       "date": "2023-08-03",
       "duration": "01:47:00",
@@ -9839,7 +9839,7 @@
       "duration": "01:06:00",
       "space_url": "https://x.com/i/spaces/1BRKjZPQVqgKw",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1BRKjZPQVqgKw/implementacion-de-tecnologia-web3-santiago-nl",
-      "number": "20230803"
+      "number": "20230803-1"
     },
     {
       "type": "Spoken",
@@ -9916,7 +9916,7 @@
       ]
     },
     {
-      "number": "20230725",
+      "number": "20230725-1",
       "title": "Open Mic - 69 segundos para shillear lo que sea",
       "date": "2023-07-25",
       "duration": "00:59:25",
@@ -9966,7 +9966,7 @@
     {
       "title": "Open Mic - Parte 2 - 69 segundos para shillear lo que sea",
       "date": "2023-07-25",
-      "number": "20230725",
+      "number": "20230725-2",
       "type": "hosted",
       "is_numbered": false,
       "host": "BandaWeb3",
@@ -9999,7 +9999,7 @@
       "number": "20230724"
     },
     {
-      "number": "20230718",
+      "number": "20230718-1",
       "title": "La Curadora, la Sacerdotisa y el Ingeniero - Eventos en CDMX",
       "date": "2023-07-18",
       "duration": "02:30:15",
@@ -10033,7 +10033,7 @@
       "duration": "01:37:00",
       "space_url": "https://x.com/i/spaces/1ZkJzXXOBeDKv",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1ZkJzXXOBeDKv/como-lidear-con-el-miedo-y-la-incertidumbre-aka-fud",
-      "number": "20230718"
+      "number": "20230718-2"
     },
     {
       "type": "Spoken",
@@ -10048,7 +10048,7 @@
       "number": "20230708"
     },
     {
-      "number": "20230706",
+      "number": "20230706-1",
       "title": "Lu, Jesús y Mexi - Threads, todo lo que necesitas saber",
       "date": "2023-07-06",
       "duration": "00:42:12",
@@ -10089,7 +10089,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20230706"
+      "number": "20230706-2"
     },
     {
       "number": "20230706-2",
@@ -10338,7 +10338,7 @@
       "number": "20230618"
     },
     {
-      "number": "20230613",
+      "number": "20230613-1",
       "title": "La Sacerdotisa, el Economista y el Inge - CriptoLatinFest/Cetes/$NET",
       "date": "2023-06-13",
       "duration": "02:18:42",
@@ -10372,7 +10372,7 @@
       "duration": "01:38:00",
       "space_url": "https://x.com/i/spaces/1MYxNgklPgOKw",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1MYxNgklPgOKw/ordinals-para-tontos-tury-me-explica-todo-lo-que-hay-que-saber",
-      "number": "20230613"
+      "number": "20230613-2"
     },
     {
       "type": "Spoken",
@@ -10472,7 +10472,7 @@
       "number": "20230607"
     },
     {
-      "number": "20230606",
+      "number": "20230606-2",
       "title": "La Sacerdotisa, el Economista y el Inge - Rug Show Mx",
       "date": "2023-06-06",
       "duration": "02:58:24",
@@ -10506,7 +10506,7 @@
       "duration": "01:06:00",
       "space_url": "https://x.com/i/spaces/1zqJVPlWbAZKB",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1zqJVPlWbAZKB/como-generar-ideas-innovadoras-at-latinosonchain",
-      "number": "20230606"
+      "number": "20230606-1"
     },
     {
       "type": "Spoken",
@@ -10607,7 +10607,7 @@
       "number": "20230531"
     },
     {
-      "number": "20230530",
+      "number": "20230530-1",
       "title": "La Maestra, el Economista y el Ingeniero - CriptoMéxico en MTY",
       "date": "2023-05-30",
       "duration": "02:36:00",
@@ -10639,7 +10639,7 @@
       "duration": "01:54:00",
       "space_url": "https://x.com/i/spaces/1mrxmkrEVonGy",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1mrxmkrEVonGy/nfts-en-bitcoin-is-the-new-meta-que-alguien-me-explique",
-      "number": "20230530"
+      "number": "20230530-2"
     },
     {
       "type": "Spoken",
@@ -10688,7 +10688,7 @@
       "number": "20230526.1"
     },
     {
-      "number": "20230525",
+      "number": "20230525-1",
       "title": "Founders y proyectos que vinieron a Mty",
       "date": "2023-05-25",
       "duration": "03:21:23",
@@ -10722,7 +10722,7 @@
       "duration": "01:22:00",
       "space_url": "https://x.com/i/spaces/1MYGNgPAZWQJw",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1MYGNgPAZWQJw/wen-mic-hablando-con-lau-santiago-y-revilla",
-      "number": "20230525"
+      "number": "20230525-2"
     },
     {
       "type": "Spoken",
@@ -10785,7 +10785,7 @@
       "number": "20230519"
     },
     {
-      "number": "20230518",
+      "number": "20230518-3",
       "title": "La Abogada, el Economista y el Ingeniero - El Artículo de $PEPE",
       "date": "2023-05-18",
       "duration": "01:50:41",
@@ -10812,7 +10812,7 @@
     {
       "title": "La Abogada, el Economista y El Ingeniero - NFT Show México Mty",
       "date": "2023-05-18",
-      "number": "20230518",
+      "number": "20230518-2",
       "type": "hosted",
       "is_numbered": false,
       "host": "BandaWeb3",
@@ -10842,7 +10842,7 @@
       "duration": "01:55:00",
       "space_url": "https://x.com/i/spaces/1yNGaNvQObDJj",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1yNGaNvQObDJj/17-comunidades-y-eventos-web3-en-la-vida-real",
-      "number": "20230518"
+      "number": "20230518-1"
     },
     {
       "number": "20230517",
@@ -10870,7 +10870,7 @@
       ]
     },
     {
-      "number": "20230516",
+      "number": "20230516-2",
       "title": "El Economista y el Ingeniero - ¿Shitcoins = Ponzis?",
       "date": "2023-05-16",
       "duration": "03:20:00",
@@ -10902,7 +10902,7 @@
       "duration": "01:46:00",
       "space_url": "https://x.com/i/spaces/1OdKrzvvEAwKX",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1OdKrzvvEAwKX/construir-en-web3-claves-para-manejar-equipos-remotos-at-latinosonchain",
-      "number": "20230516"
+      "number": "20230516-1"
     },
     {
       "type": "Spoken",
@@ -11085,7 +11085,7 @@
       "number": "20230511.3"
     },
     {
-      "number": "20230509",
+      "number": "20230509-2",
       "title": "El Gorila, el Economista y el Ingeniero - Tulum Crypto Fest",
       "date": "2023-05-09",
       "duration": "00:59:59",
@@ -11112,7 +11112,7 @@
     {
       "title": "El Economista y el Ingeniero - @TulumCryptoFest / Eventos Web3 Mty",
       "date": "2023-05-09",
-      "number": "20230509",
+      "number": "20230509-1",
       "type": "hosted",
       "is_numbered": false,
       "host": "BandaWeb3",
@@ -11142,7 +11142,7 @@
       "duration": "03:58:00",
       "space_url": "https://x.com/i/spaces/1eaKbrvknoeKX",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1eaKbrvknoeKX/el-ciclo-se-repite",
-      "number": "20230509"
+      "number": "20230509-3"
     },
     {
       "type": "Spoken",
@@ -11194,7 +11194,7 @@
       ]
     },
     {
-      "number": "20230429",
+      "number": "20230429-2",
       "title": "🚎México en Web 3🌵 | ¡Hay muchos mexicanos chingones! 🌮",
       "date": "2023-04-29",
       "duration": "04:36:00",
@@ -11226,7 +11226,7 @@
       "duration": "05:50:00",
       "space_url": "https://x.com/i/spaces/1yoJMZjmvNlxQ",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1yoJMZjmvNlxQ/beviernes-we-are-1festejando-los-ct",
-      "number": "20230429"
+      "number": "20230429-1"
     },
     {
       "type": "Spoken",
@@ -11290,7 +11290,7 @@
       "number": "20230426.2"
     },
     {
-      "number": "20230425",
+      "number": "20230425-2",
       "title": "El Profesor, el Economista y el Ingeniero - Eventos Web3, hay valor?",
       "date": "2023-04-25",
       "duration": "03:09:27",
@@ -11324,10 +11324,10 @@
       "duration": "00:44:00",
       "space_url": "https://x.com/i/spaces/1yoJMZVPpjkxQ",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1yoJMZVPpjkxQ/communities-haciendo-web-3-amigos-pt-2",
-      "number": "20230425"
+      "number": "20230425-1"
     },
     {
-      "number": "20230423",
+      "number": "20230423-1",
       "title": "Invasión de EUA? La locura!",
       "date": "2023-04-23",
       "duration": "02:47:00",
@@ -11356,7 +11356,7 @@
       "duration": "04:07:00",
       "space_url": "https://x.com/i/spaces/1BdxYyoYplMxX",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1BdxYyoYplMxX/el-cuadrilatero74-hablemos-de-daos",
-      "number": "20230423"
+      "number": "20230423-2"
     },
     {
       "type": "Spoken",
@@ -11759,7 +11759,7 @@
       "number": "20230318"
     },
     {
-      "number": "20230316",
+      "number": "20230316-2",
       "title": "La Abogada, el Economista y el Ingeniero - ¿Credit Suisse caerá?",
       "date": "2023-03-16",
       "duration": "02:17:39",
@@ -11793,7 +11793,7 @@
       "duration": "00:34:00",
       "space_url": "https://x.com/i/spaces/1RDxlamLVeRKL",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1RDxlamLVeRKL/comunidades-nfts-y-mujeres-en-web3-with-anana-y-wenlopezn",
-      "number": "20230316"
+      "number": "20230316-1"
     },
     {
       "type": "Spoken",
@@ -11845,7 +11845,7 @@
       ]
     },
     {
-      "number": "20230313",
+      "number": "20230313-1",
       "title": "blur en español",
       "date": "2023-03-13",
       "duration": "06:31:00",
@@ -11884,7 +11884,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20230313",
+      "number": "20230313-2",
       "flyers": [
         "flyer_el_profesor_eth_generic.png"
       ]
@@ -11918,10 +11918,10 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20230310"
+      "number": "20230310-2"
     },
     {
-      "number": "20230310",
+      "number": "20230310-1",
       "title": "Felipe Servin ⚡️",
       "date": "2023-03-10",
       "duration": "01:07:00",
@@ -11939,7 +11939,7 @@
       "host": "@fservin"
     },
     {
-      "number": "20230309",
+      "number": "20230309-2",
       "title": "La Abogada, el Economista y el Ingeniero - Leyes para DAOs",
       "date": "2023-03-09",
       "duration": "01:59:46",
@@ -11973,7 +11973,7 @@
       "duration": "02:48:00",
       "space_url": "https://x.com/i/spaces/1nAKErBLdNRGL",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1nAKErBLdNRGL/",
-      "number": "20230309"
+      "number": "20230309-1"
     },
     {
       "type": "Spoken",
@@ -12120,7 +12120,7 @@
       "number": "20230306.2"
     },
     {
-      "number": "20230304",
+      "number": "20230304-1",
       "title": "Platicame de tu proyecto",
       "date": "2023-03-04",
       "duration": "00:32:00",
@@ -12152,10 +12152,10 @@
       "duration": "01:56:00",
       "space_url": "https://x.com/i/spaces/1DXxyvyMkmbKM",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1DXxyvyMkmbKM/viernes-con-miembros-al-aire",
-      "number": "20230304"
+      "number": "20230304-2"
     },
     {
-      "number": "20230303",
+      "number": "20230303-1",
       "title": "Tips para conseguir trabajo en Web3 - @MelanieKrystell @mxweb3",
       "date": "2023-03-03",
       "duration": "01:17:00",
@@ -12193,7 +12193,7 @@
       "duration": "03:06:00",
       "space_url": "https://x.com/i/spaces/1lPKqByjNmNGb",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1lPKqByjNmNGb/",
-      "number": "20230303"
+      "number": "20230303-2"
     },
     {
       "number": "20230302",
@@ -12346,7 +12346,7 @@
       "number": "20230226"
     },
     {
-      "number": "20230223",
+      "number": "20230223-1",
       "title": "La Abogada, el Economista y el Ingeniero",
       "date": "2023-02-23",
       "duration": "02:00:06",
@@ -12380,7 +12380,7 @@
       "duration": "03:16:00",
       "space_url": "https://x.com/i/spaces/1ZkKzXEEqXeJv",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1ZkKzXEEqXeJv/momentum-latinosunidos",
-      "number": "20230223"
+      "number": "20230223-2"
     },
     {
       "type": "Spoken",
@@ -12443,7 +12443,7 @@
       "number": "20230222.5"
     },
     {
-      "number": "20230221",
+      "number": "20230221-1",
       "title": "La Contadora, el Economista y el Ingeniero - Regulación Cripto",
       "date": "2023-02-21",
       "duration": "01:45:24",
@@ -12477,7 +12477,7 @@
       "duration": "02:52:00",
       "space_url": "https://x.com/i/spaces/1yoKMZemPWpGQ",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1yoKMZemPWpGQ/momentum-opensea-jack-butcher-kevin-rose-farokh",
-      "number": "20230221"
+      "number": "20230221-2"
     },
     {
       "type": "Spoken",
@@ -12564,7 +12564,7 @@
       "number": "20230217.2"
     },
     {
-      "number": "20230216",
+      "number": "20230216-1",
       "title": "La Abogada, el Economista y el Ingeniero - Historia del Dinero",
       "date": "2023-02-16",
       "duration": "01:41:40",
@@ -12598,7 +12598,7 @@
       "duration": "02:37:00",
       "space_url": "https://x.com/i/spaces/1RDGlaYgRqEJL",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1RDGlaYgRqEJL/me-pelan-la-verga-y-a-los-rayados-tambien",
-      "number": "20230216"
+      "number": "20230216-2"
     },
     {
       "type": "Spoken",
@@ -12637,7 +12637,7 @@
       "number": "20230215.3"
     },
     {
-      "number": "20230214",
+      "number": "20230214-2",
       "title": "El Economista y el Ingeniero",
       "date": "2023-02-14",
       "duration": "01:45:47",
@@ -12671,7 +12671,7 @@
       "duration": "06:28:00",
       "space_url": "https://x.com/i/spaces/1mnGeRWoReaJX",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1mnGeRWoReaJX/cree-en-algo-cuestiona-todo",
-      "number": "20230214"
+      "number": "20230214-1"
     },
     {
       "number": "20230213",
@@ -12895,7 +12895,7 @@
       "number": "20230210.2"
     },
     {
-      "number": "20230209",
+      "number": "20230209-1",
       "title": "La Abogada, el Economista y el Ingeniero",
       "date": "2023-02-09",
       "duration": "01:59:41",
@@ -12936,7 +12936,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20230209"
+      "number": "20230209-2"
     },
     {
       "type": "Spoken",
@@ -12999,7 +12999,7 @@
       "number": "20230208.3"
     },
     {
-      "number": "20230207",
+      "number": "20230207-1",
       "title": "La Criptoartista, el Economista y el Ingeniero -Bitcoin/Metaverse",
       "date": "2023-02-07",
       "duration": "01:51:00",
@@ -13021,7 +13021,7 @@
     {
       "title": "La Criptoartista, el Economista y el Ingeniero -BitcoinNFTs/Metaverse",
       "date": "2023-02-07",
-      "number": "20230207",
+      "number": "20230207-2",
       "type": "hosted",
       "is_numbered": false,
       "host": "BandaWeb3",
@@ -13051,7 +13051,7 @@
       "duration": "02:03:00",
       "space_url": "https://x.com/i/spaces/1OyJAVOZqyLxb",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1OyJAVOZqyLxb/npiweb3-es-la-web3-un-juego-social-noticias-yaypegscheckbros",
-      "number": "20230207"
+      "number": "20230207-3"
     },
     {
       "type": "Spoken",
@@ -13151,7 +13151,7 @@
       "number": "20230201.3"
     },
     {
-      "number": "20230131",
+      "number": "20230131-1",
       "title": "La artista, el pescador y el ingeniero - cómo entrevistar proyectos?",
       "date": "2023-01-31",
       "duration": "03:02:27",
@@ -13185,7 +13185,7 @@
       "duration": "01:48:00",
       "space_url": "https://x.com/i/spaces/1PlJQpkePgDGE",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1PlJQpkePgDGE/viaje-todo-pagado-web-3-a-buenos-aires-o-no",
-      "number": "20230131"
+      "number": "20230131-2"
     },
     {
       "type": "Spoken",
@@ -13402,7 +13402,7 @@
       "number": "20230125.4"
     },
     {
-      "number": "20230124",
+      "number": "20230124-1",
       "title": "El economista, el profesor y el ingeniero - Tokenización de activos",
       "date": "2023-01-24",
       "duration": "01:21:52",
@@ -13436,7 +13436,7 @@
       "duration": "03:05:00",
       "space_url": "https://x.com/i/spaces/1YqxoAXRjPbGv",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1YqxoAXRjPbGv/la-vida-es-un-juegovideojuego",
-      "number": "20230124"
+      "number": "20230124-2"
     },
     {
       "type": "Spoken",
@@ -13557,7 +13557,7 @@
       "number": "20230120.4"
     },
     {
-      "number": "20230119",
+      "number": "20230119-2",
       "title": "La abogada, el economista y el ingeniero",
       "date": "2023-01-19",
       "duration": "01:53:05",
@@ -13591,7 +13591,7 @@
       "duration": "07:10:00",
       "space_url": "https://x.com/i/spaces/1MYxNgEBoPZKw",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1MYxNgEBoPZKw/",
-      "number": "20230119"
+      "number": "20230119-1"
     },
     {
       "number": "20230117",
@@ -13694,7 +13694,7 @@
       "description": ""
     },
     {
-      "number": "20230110",
+      "number": "20230110-1",
       "title": "El economista y el ingeniero - ¿Buenas noticias en los mercados?",
       "date": "2023-01-10",
       "duration": "01:45:18",
@@ -13732,7 +13732,7 @@
       "duration": "01:57:00",
       "space_url": "https://x.com/i/spaces/1LyxBqbEqenJN",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1LyxBqbEqenJN/l2-nfts-pi",
-      "number": "20230110"
+      "number": "20230110-2"
     },
     {
       "title": "Nada puede malir sal - web3 español",
@@ -13875,7 +13875,7 @@
       "number": "20230104"
     },
     {
-      "number": "20230103",
+      "number": "20230103-1",
       "title": "La abogada, el economista y el ingeniero - 2022 y Perspectivas 2023",
       "date": "2023-01-03",
       "duration": "01:33:53",
@@ -13916,7 +13916,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20230103"
+      "number": "20230103-2"
     },
     {
       "type": "Spoken",
@@ -14013,7 +14013,7 @@
       "number": "20221224"
     },
     {
-      "number": "20221222",
+      "number": "20221222-1",
       "title": "La abogada, el economista y el ingeniero - The Rug Pull Report 2022",
       "date": "2022-12-22",
       "duration": "01:55:50",
@@ -14047,7 +14047,7 @@
       "duration": "02:25:00",
       "space_url": "https://x.com/i/spaces/1mnGeRnLbroJX",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1mnGeRnLbroJX/platiquemos",
-      "number": "20221222"
+      "number": "20221222-2"
     },
     {
       "number": "20221221",
@@ -14079,7 +14079,7 @@
       ]
     },
     {
-      "number": "20221220",
+      "number": "20221220-1",
       "title": "El economista, el ingeniero y el dropout - Tesla en NL, MX",
       "date": "2022-12-20",
       "duration": "02:05:50",
@@ -14120,7 +14120,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20221220",
+      "number": "20221220-2",
       "flyers": [
         "flyer_nftdefiland_generic.png"
       ]
@@ -14285,7 +14285,7 @@
       "number": "20221215.3"
     },
     {
-      "number": "20221214",
+      "number": "20221214-1",
       "title": "@mxweb3 sesión 2 - lluvia de ideas",
       "date": "2022-12-14",
       "duration": "02:11:20",
@@ -14323,7 +14323,7 @@
       "duration": "03:44:00",
       "space_url": "https://x.com/i/spaces/1BdGYykbVWEGX",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1BdGYykbVWEGX/es-el-fin-de-las-cryptos-binance-usdt-privacidad",
-      "number": "20221214"
+      "number": "20221214-2"
     },
     {
       "number": "20221213",
@@ -14446,7 +14446,7 @@
       ]
     },
     {
-      "number": "20221208",
+      "number": "20221208-1",
       "title": "Brainstorming comunidad @mxweb3",
       "date": "2022-12-08",
       "duration": "01:02:23",
@@ -14484,7 +14484,7 @@
       "duration": "01:21:00",
       "space_url": "https://x.com/i/spaces/1RDGlapvgzNJL",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1RDGlapvgzNJL/comunidad-heroes-nftcotorreo-nft-y-del-mundial",
-      "number": "20221208"
+      "number": "20221208-2"
     },
     {
       "number": "20221206",
@@ -14552,7 +14552,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20221202",
+      "number": "20221202-2",
       "flyers": [
         "flyer_nftdefiland_generic.png"
       ]
@@ -14567,7 +14567,7 @@
       "duration": "00:51:00",
       "space_url": "https://x.com/i/spaces/1LyxBqZlAQyJN",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1LyxBqZlAQyJN/come-talk-cupcake",
-      "number": "20221202"
+      "number": "20221202-1"
     },
     {
       "number": "20221201",
@@ -14656,7 +14656,7 @@
       "number": "20221129.2"
     },
     {
-      "number": "20221128",
+      "number": "20221128-1",
       "title": "Portugal vs Uruguay + NFTs en Español!",
       "date": "2022-11-28",
       "duration": "02:15:00",
@@ -14692,7 +14692,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20221128",
+      "number": "20221128-2",
       "flyers": [
         "flyer_el_profesor_eth_generic.png"
       ]
@@ -14839,7 +14839,7 @@
       ]
     },
     {
-      "number": "20221122",
+      "number": "20221122-1",
       "title": "El economista y el ingeniero Ep04",
       "date": "2022-11-22",
       "duration": "01:51:27",
@@ -14870,7 +14870,7 @@
     {
       "title": "Previo al evento en Monterrey de @MarcusDantusNFT",
       "date": "2022-11-22",
-      "number": "20221122",
+      "number": "20221122-2",
       "type": "hosted",
       "is_numbered": false,
       "host": "BandaWeb3",
@@ -14891,7 +14891,7 @@
       ]
     },
     {
-      "number": "20221121",
+      "number": "20221121-2",
       "title": "libertad de expresion ♠️ momentum",
       "date": "2022-11-21",
       "duration": "02:00:00",
@@ -14923,7 +14923,7 @@
       "duration": "00:59:00",
       "space_url": "https://x.com/i/spaces/1PlKQpqjDeZxE",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1PlKQpqjDeZxE/en-espanol",
-      "number": "20221121"
+      "number": "20221121-1"
     },
     {
       "type": "Spoken",
@@ -14962,7 +14962,7 @@
       "number": "20221118.2"
     },
     {
-      "number": "20221117",
+      "number": "20221117-1",
       "title": "El economista y el ingeniero Ep03",
       "date": "2022-11-17",
       "duration": "01:30:56",
@@ -15023,7 +15023,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20221117",
+      "number": "20221117-3",
       "flyers": [
         "flyer_nftdefiland_generic.png"
       ]
@@ -15038,7 +15038,7 @@
       "duration": "00:59:00",
       "space_url": "https://x.com/i/spaces/1gqxvyPrOggJB",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1gqxvyPrOggJB/en-espanol",
-      "number": "20221117"
+      "number": "20221117-2"
     },
     {
       "type": "Spoken",
@@ -15184,7 +15184,7 @@
       "number": "20221113"
     },
     {
-      "number": "20221112",
+      "number": "20221112-1",
       "title": "Café Tacuba Acústico Live",
       "date": "2022-11-12",
       "duration": "00:21:45",
@@ -15216,7 +15216,7 @@
       "duration": "03:10:00",
       "space_url": "https://x.com/i/spaces/1gqxvyPRyYnJB",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1gqxvyPRyYnJB/the-nite-fede-talk-show-en-espanol",
-      "number": "20221112"
+      "number": "20221112-2"
     },
     {
       "type": "Spoken",
@@ -15603,7 +15603,7 @@
       "number": "20221104.3"
     },
     {
-      "number": "20221103",
+      "number": "20221103-2",
       "title": "Heroes NFT Club x Selección Nacional de México",
       "date": "2022-11-03",
       "duration": "01:38:00",
@@ -15635,7 +15635,7 @@
       "duration": "01:00:00",
       "space_url": "https://x.com/i/spaces/1yNxaNyvkbjKj",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1yNxaNyvkbjKj/en-espanol",
-      "number": "20221103"
+      "number": "20221103-1"
     },
     {
       "type": "Spoken",
@@ -15757,7 +15757,7 @@
       "number": "20221026.2"
     },
     {
-      "number": "20221025",
+      "number": "20221025-1",
       "title": "Comunidad☕️",
       "date": "2022-10-25",
       "duration": "01:40:00",
@@ -15812,7 +15812,7 @@
       "duration": "01:32:00",
       "space_url": "https://x.com/i/spaces/1zqKVPZqvrmJB",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1zqKVPZqvrmJB/",
-      "number": "20221025"
+      "number": "20221025-2"
     },
     {
       "type": "Spoken",
@@ -15855,7 +15855,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20221019",
+      "number": "20221019-2",
       "flyers": [
         "flyer_nftdefiland_generic.png"
       ]
@@ -15870,10 +15870,10 @@
       "duration": "01:19:00",
       "space_url": "https://x.com/i/spaces/1PlKQpwkoMkxE",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1PlKQpwkoMkxE/mananas-nft-ep-54",
-      "number": "20221019"
+      "number": "20221019-1"
     },
     {
-      "number": "20221018",
+      "number": "20221018-2",
       "title": "♠️#NFT CHANGE: THE ONLY CONSTANT.",
       "date": "2022-10-18",
       "duration": "03:12:00",
@@ -15905,7 +15905,7 @@
       "duration": "01:05:00",
       "space_url": "https://x.com/i/spaces/1nAKErXkqRkGL",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1nAKErXkqRkGL/como-proteger-tu-comunidad-de-web3-at-foxdeportes-y-luis",
-      "number": "20221018"
+      "number": "20221018-1"
     },
     {
       "number": "20221017",
@@ -15949,10 +15949,10 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20221014"
+      "number": "20221014-2"
     },
     {
-      "number": "20221014",
+      "number": "20221014-1",
       "title": "Diego Benítez Concha",
       "date": "2022-10-14",
       "duration": "02:23:00",
@@ -15979,7 +15979,7 @@
       "duration": "00:30:00",
       "space_url": "https://x.com/i/spaces/1gqGvywpbbBKB",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1gqGvywpbbBKB/crypto-drogas-space-no-apto-para-llorones",
-      "number": "20221014"
+      "number": "20221014-3"
     },
     {
       "type": "Spoken",
@@ -15994,7 +15994,7 @@
       "number": "20221012"
     },
     {
-      "number": "20221011",
+      "number": "20221011-1",
       "title": "rugged intento 2... una disculpa mensajes de cierre!",
       "date": "2022-10-11",
       "duration": "00:25:00",
@@ -16033,7 +16033,7 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20221011",
+      "number": "20221011-2",
       "flyers": [
         "flyer_nftdefiland_generic.png"
       ]
@@ -16099,7 +16099,7 @@
       "number": "20221004"
     },
     {
-      "number": "20220930",
+      "number": "20220930-1",
       "title": "Blockchain Land en Monterrey del 5 al 7 de Octubre en Cintermex",
       "date": "2022-09-30",
       "duration": "01:48:22",
@@ -16133,7 +16133,7 @@
       "duration": "02:27:00",
       "space_url": "https://x.com/i/spaces/1MnxnpqovXeGO",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1MnxnpqovXeGO/mananero-negocios-y-causas-sociales-iniciativa-yucatan",
-      "number": "20220930"
+      "number": "20220930-2"
     },
     {
       "number": "20220928",
@@ -16192,7 +16192,7 @@
       "number": "20220928.3"
     },
     {
-      "number": "20220927",
+      "number": "20220927-2",
       "title": "☕️Mañanero #Web3: panorama actual y noticias.",
       "date": "2022-09-27",
       "duration": "02:23:00",
@@ -16224,7 +16224,7 @@
       "duration": "02:32:00",
       "space_url": "https://x.com/i/spaces/1OwGWwlodOqGQ",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1OwGWwlodOqGQ/all-about-y00ts",
-      "number": "20220927"
+      "number": "20220927-1"
     },
     {
       "type": "Spoken",
@@ -16523,7 +16523,7 @@
       "number": "20220909"
     },
     {
-      "number": "20220908",
+      "number": "20220908-1",
       "title": "Mañanero #Web3: Nomadas digitales.",
       "date": "2022-09-08",
       "duration": "03:00:00",
@@ -16555,7 +16555,7 @@
       "duration": "02:27:00",
       "space_url": "https://x.com/i/spaces/1DXGyvgmydYJM",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1DXGyvgmydYJM/vampiros",
-      "number": "20220908"
+      "number": "20220908-2"
     },
     {
       "type": "Spoken",
@@ -16919,7 +16919,7 @@
       "number": "20220722"
     },
     {
-      "number": "20220721",
+      "number": "20220721-2",
       "title": "NFTs ¿Qué hay que considerar al lanzar una colección de NFTs?",
       "date": "2022-07-21",
       "duration": "02:55:38",
@@ -16953,7 +16953,7 @@
       "duration": "03:16:00",
       "space_url": "https://x.com/i/spaces/1lPKqmBoAePKb",
       "spacesdashboard_url": "https://spacesdashboard.com/space/1lPKqmBoAePKb/web3-que-es-ep-32-del-mananero-novedades-y-mas",
-      "number": "20220721"
+      "number": "20220721-1"
     },
     {
       "number": "20220707",
@@ -17046,7 +17046,7 @@
       "number": "20220617"
     },
     {
-      "number": "20220616",
+      "number": "20220616-1",
       "title": "Platicando sobre propiedad intelectual de  (Español)",
       "date": "2022-06-16",
       "duration": "02:48:00",
@@ -17068,7 +17068,7 @@
     {
       "title": "Platicando sobre propiedad intelectual de NFTs (Español)",
       "date": "2022-06-16",
-      "number": "20220616",
+      "number": "20220616-2",
       "type": "hosted",
       "is_numbered": false,
       "host": "BandaWeb3",
