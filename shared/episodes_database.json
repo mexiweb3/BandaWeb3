@@ -7258,33 +7258,6 @@
       ]
     },
     {
-      "number": "20230512",
-      "title": "El pasado y el futuro de \n@mxweb3",
-      "date": "2023-05-12",
-      "duration": "00:52:00",
-      "guests": [
-        "mxweb3"
-      ],
-      "guest_links": {
-        "mxweb3": "https://x.com/mxweb3"
-      },
-      "space_url": "https://x.com/i/spaces/1OyJAVpbMZgxb",
-      "description": "El pasado y el futuro de \n@mxweb3",
-      "topics": [],
-      "status": "archived",
-      "transcript_available": false,
-      "content_generated": false,
-      "flyer_urls": [],
-      "listeners": 21,
-      "spacesdashboard_url": "https://spacesdashboard.com/space/1OyJAVpbMZgxb/el-pasado-y-el-futuro-de-at-mxweb3",
-      "analytics_source": "spaces_dashboard_excel",
-      "type": "hosted",
-      "host": "@meximalist",
-      "flyers": [
-        "flyer_meximalist_generic.png"
-      ]
-    },
-    {
       "number": "20230511",
       "title": "El pasado y el futuro de @mxweb3",
       "date": "2023-05-11",
@@ -7296,12 +7269,18 @@
       "type": "hosted",
       "description": "Hosted Space: El pasado y el futuro de @mxweb3",
       "topics": [],
-      "guests": [],
+      "guests": [
+        "mxweb3"
+      ],
+      "guest_links": {
+        "mxweb3": "https://x.com/mxweb3"
+      },
       "status": "published",
       "transcript_available": false,
       "content_generated": false,
-      "space_url": "",
-      "audio_url": "",
+      "space_url": "https://x.com/i/spaces/1OyJAVpbMZgxb",
+      "spacesdashboard_url": "https://spacesdashboard.com/space/1OyJAVpbMZgxb/el-pasado-y-el-futuro-de-at-mxweb3",
+      "listeners": 21,
       "flyer_urls": [],
       "flyers": [
         "flyer_meximalist_generic.png"
@@ -10293,16 +10272,16 @@
     }
   ],
   "stats": {
-    "total_episodes": 390,
-    "total_duration_hours": 679.17,
-    "average_duration_minutes": 104.5,
+    "total_episodes": 389,
+    "total_duration_hours": 678.3,
+    "average_duration_minutes": 104.6,
     "total_listeners": 58954,
     "average_listeners": 154.7,
     "episodes_with_listener_data": 381,
     "breakdown_by_type": {
-      "hosted": 249,
+      "hosted": 248,
       "co-hosted": 141
     },
-    "last_updated": "2025-12-12T11:27:05.476349"
+    "last_updated": "2025-12-12T13:55:15.285951"
   }
 }
