@@ -11897,7 +11897,10 @@
       "flyer_urls": [],
       "type": "co-hosted",
       "analytics_source": "spaces_dashboard_excel",
-      "number": "20230310-2"
+      "number": "20230310-2",
+      "flyers": [
+        "flyer_fservin_generic.png"
+      ]
     },
     {
       "number": "20230310-1",
@@ -11915,7 +11918,10 @@
       "flyer_urls": [],
       "listeners": "95",
       "type": "co-hosted",
-      "host": "@fservin"
+      "host": "@fservin",
+      "flyers": [
+        "flyer_fservin_generic.png"
+      ]
     },
     {
       "number": "20230309-2",
@@ -13825,7 +13831,7 @@
       "content_generated": false,
       "flyer_urls": [],
       "listeners": 74,
-      "host": "@fservin",
+      "host": "@meximalist",
       "speakers": 8,
       "analytics_source": "X Spaces Analytics",
       "live_listeners": 74,
